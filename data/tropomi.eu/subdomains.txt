@@ -1,5 +1,3 @@
-feeds.tropomi.eu
-opendata.tropomi.eu
 tropomi.eu
 www.tropomi.eu
 mps.tropomi.eu

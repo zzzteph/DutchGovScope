@@ -1,4 +1,2 @@
-https://feeds.lzalpkcommissie.nl
 https://lzalpkcommissie.nl
-https://opendata.lzalpkcommissie.nl
 https://www.lzalpkcommissie.nl

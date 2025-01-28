@@ -401,7 +401,6 @@ webaccess.knaw.nl
 www.fa.knaw.nl
 www.nias.knaw.nl
 www1.fa.knaw.nl
-www12.meertens.knaw.nl
 www2.fa.knaw.nl
 www22.meertens.knaw.nl
 tomcat.tiler01.huygens.knaw.nl
@@ -429,6 +428,7 @@ service-index.labs.dans.knaw.nl
 oat.acc.huc.knaw.nl
 kaartenbank.meertens.knaw.nl
 monitoring.huc.knaw.nl
+taoraclesso31.knaw.nl
 dummy-signposting.labs.dans.knaw.nl
 www.promise.nioo.knaw.nl
 backtoroots.nioo.knaw.nl
@@ -536,3 +536,6 @@ ats-test.knaw.nl
 access.huc.knaw.nl
 portus-acc.knaw.nl
 nieuwsbrief.meertens.knaw.nl
+labs.dans.knaw.nl
+lhms31.dans.knaw.nl
+ohs31.dans.knaw.nl

@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:D
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:9
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:10
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/logius.nl/subdomains.txt)|57|Alive subdomains|
-|[urls.txt](/data/logius.nl/urls.txt)|56|Urls|
+|[urls.txt](/data/logius.nl/urls.txt)|57|Urls|
 
 
 ## Statistics
@@ -56,7 +56,7 @@
 |[https://www.logius.nl](https://www.logius.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal HSTS Nginx PHP|Logius | Logius|
 |[https://machtigen.digipoort.logius.nl](https://machtigen.digipoort.logius.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS IBM DataPower||
 |[https://mailing.logius.nl](https://mailing.logius.nl)| | **C**|Spotler| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
-|[https://mijntokenactiveren.logius.nl](https://mijntokenactiveren.logius.nl)| | **F**|Apache/2.4.6 (Red Hat Enterprise Linux) OpenSSL/1.0.2k-fips| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.6 OpenSSL:1.0.2k Red Hat|Portal Closed|
+|[https://mijntokenactiveren.logius.nl](https://mijntokenactiveren.logius.nl)| | **A**|Apache/2.4.6 (Red Hat Enterprise Linux) OpenSSL/1.0.2k-fips| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server:2.4.6 HSTS OpenSSL:1.0.2k Red Hat|Portal Closed|
 |[https://oinregister.logius.nl](https://oinregister.logius.nl)| | **A**|| |:white_check_mark: | :warning:| | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|COR|
 |[https://preprod-machtigen.digipoort.logius.nl](https://preprod-machtigen.digipoort.logius.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS IBM DataPower||
 |[https://preprod.oinregister.logius.nl](https://preprod.oinregister.logius.nl)| | **A**|| |:white_check_mark: | :warning:| | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|COR|
@@ -71,6 +71,7 @@
 |[http://amp-pre.logius.nl](http://amp-pre.logius.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 |[http://gm.mev.logius.nl](http://gm.mev.logius.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://logius.nl](https://logius.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://gebruikersportaal.preproductie.digipoort.logius.nl](https://gebruikersportaal.preproductie.digipoort.logius.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Java||
 |[http://lca.logius.nl](http://lca.logius.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 |[http://sonarqube.lpc.logius.nl](http://sonarqube.lpc.logius.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 |[http://grafana.lpc.logius.nl](http://grafana.lpc.logius.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||

@@ -1,5 +1,3 @@
 zovar.nl
-feeds.zovar.nl
-opendata.zovar.nl
 www.zovar.nl
 www.csp.zovar.nl

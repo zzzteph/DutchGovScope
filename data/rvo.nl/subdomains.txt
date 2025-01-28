@@ -28,12 +28,6 @@ informatiehuis.rvo.nl
 prod.wetten.rvo.nl
 projecten.rvo.nl
 aoep-iam.rvo.nl
-argocd-infra-preprod.efiling.mijnoctrooi.rvo.nl
-monitoring-infra-preprod.efiling.mijnoctrooi.rvo.nl
-monitoring-preprod.efiling.mijnoctrooi.rvo.nl
-preprod.efiling.mijnoctrooi.rvo.nl
-sonarqube-infra-preprod.efiling.mijnoctrooi.rvo.nl
-vault-infra-preprod.efiling.mijnoctrooi.rvo.nl
 argocd-infra.efiling.mijnoctrooi.rvo.nl
 efiling.mijnoctrooi.rvo.nl
 monitoring-infra.efiling.mijnoctrooi.rvo.nl
@@ -100,7 +94,6 @@ wba.rvo.nl
 webform.rvo.nl
 test-cms.projects.rvo.nl
 test-cms.projecten.rvo.nl
-vault-preprod.efiling.mijnoctrooi.rvo.nl
 vault.efiling.mijnoctrooi.rvo.nl
 europese-subsidies.rvo.nl
 cta.rvo.nl

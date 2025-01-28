@@ -4,7 +4,6 @@ https://kwaliteitvanleven.pbl.nl
 https://monovi.pbl.nl
 https://pbl.nl
 https://roadsfromrio.pbl.nl
-https://snippet.startanalyse.pbl.nl
 https://startanalyse.pbl.nl
 https://www.pbl.nl
 https://data.pbl.nl
@@ -13,7 +12,6 @@ https://leidraad.pbl.nl
 https://models.pbl.nl
 https://snippet.monovi.pbl.nl
 https://infographics.pbl.nl
-https://snippet.icer.pbl.nl
 https://snippet.pbl.nl
 https://themasites.pbl.nl
 https://dwo.pbl.nl

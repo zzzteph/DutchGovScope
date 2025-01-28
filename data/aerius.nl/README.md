@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/aerius.nl/subdomains.txt)|22|Alive subdomains|
-|[urls.txt](/data/aerius.nl/urls.txt)|21|Urls|
+|[urls.txt](/data/aerius.nl/urls.txt)|22|Urls|
 
 
 ## Statistics
@@ -41,5 +41,6 @@
 |[https://docs-dev.aerius.nl](https://docs-dev.aerius.nl)| | **F**|AmazonS3| | | | | | | | :white_check_mark: | |Amazon CloudFront Amazon S3 Amazon Web Services HTTP/3 Vue.js|Inhoudsopgave |...|
 |[http://docs-staging.aerius.nl](http://docs-staging.aerius.nl)| | **F**|CloudFront| | | | | | | | :white_check_mark: | |Amazon CloudFront Amazon Web Services|ERROR: The reque...|
 |[https://grafana-dev.aerius.nl](https://grafana-dev.aerius.nl)| | **C**|| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
+|[https://grip-docs.aerius.nl](https://grip-docs.aerius.nl)| | **F**|AmazonS3| | | | | | | | :white_check_mark: | |Amazon CloudFront Amazon S3 Amazon Web Services HTTP/3|404 | GRIP|
 
 

@@ -4,7 +4,6 @@ kwaliteitvanleven.pbl.nl
 monovi.pbl.nl
 pbl.nl
 roadsfromrio.pbl.nl
-snippet.startanalyse.pbl.nl
 startanalyse.pbl.nl
 www.pbl.nl
 data.pbl.nl
@@ -13,7 +12,6 @@ leidraad.pbl.nl
 models.pbl.nl
 snippet.monovi.pbl.nl
 infographics.pbl.nl
-snippet.icer.pbl.nl
 snippet.pbl.nl
 themasites.pbl.nl
 dwo.pbl.nl

@@ -49,6 +49,7 @@ https://pmz.logius.nl
 http://amp-pre.logius.nl
 http://gm.mev.logius.nl
 https://logius.nl
+https://gebruikersportaal.preproductie.digipoort.logius.nl
 http://lca.logius.nl
 http://sonarqube.lpc.logius.nl
 http://grafana.lpc.logius.nl

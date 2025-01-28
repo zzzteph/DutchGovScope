@@ -18,7 +18,6 @@ archief23.sitearchief.nl
 igj.sitearchief.nl
 archief24.sitearchief.nl
 archief25.sitearchief.nl
-archief26.sitearchief.nl
 nza.sitearchief.nl
 archief27.sitearchief.nl
 minvws.sitearchief.nl
@@ -28,6 +27,7 @@ minjenv.sitearchief.nl
 minlnv.sitearchief.nl
 rijksoverheid.sitearchief.nl
 minaz.sitearchief.nl
+minbzk.sitearchief.nl
 minezk.sitearchief.nl
 archief29.sitearchief.nl
 archief30.sitearchief.nl
@@ -120,6 +120,7 @@ dopingautoriteit.sitearchief.nl
 politieacademie.sitearchief.nl
 diensttoeslagen.sitearchief.nl
 nationaleombudsman.sitearchief.nl
+minbuza.sitearchief.nl
 awti.sitearchief.nl
 dienstuitvoeringonderwijs.sitearchief.nl
 staatsbosbeheer.sitearchief.nl

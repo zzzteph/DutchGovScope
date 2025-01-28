@@ -18,7 +18,6 @@ https://archief23.sitearchief.nl
 https://igj.sitearchief.nl
 https://archief24.sitearchief.nl
 https://archief25.sitearchief.nl
-https://archief26.sitearchief.nl
 https://nza.sitearchief.nl
 https://archief27.sitearchief.nl
 https://minvws.sitearchief.nl
@@ -28,6 +27,7 @@ https://minjenv.sitearchief.nl
 https://minlnv.sitearchief.nl
 https://rijksoverheid.sitearchief.nl
 https://minaz.sitearchief.nl
+https://minbzk.sitearchief.nl
 https://minezk.sitearchief.nl
 https://archief29.sitearchief.nl
 https://archief30.sitearchief.nl
@@ -120,6 +120,7 @@ https://dopingautoriteit.sitearchief.nl
 https://politieacademie.sitearchief.nl
 https://diensttoeslagen.sitearchief.nl
 https://nationaleombudsman.sitearchief.nl
+https://minbuza.sitearchief.nl
 https://awti.sitearchief.nl
 https://dienstuitvoeringonderwijs.sitearchief.nl
 https://staatsbosbeheer.sitearchief.nl

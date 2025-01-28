@@ -1,6 +1,5 @@
 https://www.klimaatmonitor.databank.nl
 https://databank.nl
-https://wsp-waves.databank.nl
 https://veiligheidsbeelden.databank.nl
 https://cbc.databank.nl
 https://wozbenchmark.databank.nl
@@ -27,6 +26,7 @@ https://winkelgebiedenscan.databank.nl
 https://www.afvalmonitor.databank.nl
 https://atriumgroep.databank.nl
 https://crowlogin.databank.nl
+https://feda.databank.nl
 https://primos.databank.nl
 https://veiligheidsmonitor.databank.nl
 https://nbtc.databank.nl
@@ -39,10 +39,14 @@ https://mbotransparant.databank.nl
 http://apollo.databank.nl
 http://demo-ebc.databank.nl
 https://ftgelderland.databank.nl
+http://beta-adc.databank.nl
+http://beta-klimaatbeleid.databank.nl
 https://beta-vivet.databank.nl
-https://beta-datawonen.databank.nl
-http://beta-gdi.databank.nl
+http://beta-datawonen.databank.nl
+http://beta-klimaatmonitor.databank.nl
+https://beta-gdi.databank.nl
 https://beta-wsjg.databank.nl
+https://beta-woononderzoek.databank.nl
 http://cname-holland-rijnland.databank.nl
 https://erfgoed.databank.nl
 https://jdscan.databank.nl
@@ -60,6 +64,7 @@ https://cname-www-waterbenchmark-org.databank.nl
 https://cvo.databank.nl
 https://www.databank.nl
 https://www.diversiteitsindex.databank.nl
+https://hr-sectorwaterschappen.databank.nl
 https://pzh.databank.nl
 https://primostijdreeks.databank.nl
 https://prognoses.databank.nl
@@ -68,7 +73,6 @@ https://prognosemodelzw.databank.nl
 https://www.gemeente.databank.nl
 https://abc.databank.nl
 https://limburg.databank.nl
-https://beta-noordholland.databank.nl
 https://cname-erfgoed.databank.nl
 https://www.ciz.databank.nl
 https://adc.databank.nl

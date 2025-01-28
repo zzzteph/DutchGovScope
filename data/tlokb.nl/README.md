@@ -25,8 +25,8 @@
 |[https://www.tlokb.nl](https://www.tlokb.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Toelating...|
 |[https://feeds.tlokb.nl](https://feeds.tlokb.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://register.tlokb.nl](https://register.tlokb.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
-|[https://cms.tlokb.nl](https://cms.tlokb.nl)| | **A**|nginx| |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Drupal HSTS Nginx PHP|Log in | Toelati...|
-|[https://prod.tlokb.nl](https://prod.tlokb.nl)| | **B**|nginx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Nginx|Home | TLOKB|
+|[https://cms.tlokb.nl](https://cms.tlokb.nl)| | **C**|nginx| |:white_check_mark: | :warning:| | | :white_check_mark: | | :white_check_mark: | |Drupal HSTS Nginx PHP|Log in | Toelati...|
+|[https://prod.tlokb.nl](https://prod.tlokb.nl)| | **B**|nginx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
 |[https://register-backend.tlokb.nl](https://register-backend.tlokb.nl)| | **C**|nginx|:o: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Laravel|
 |[https://acc.tlokb.nl](https://acc.tlokb.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Basic HSTS Nginx|401 Authorizatio...|
 |[https://cms-acc.tlokb.nl](https://cms-acc.tlokb.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Basic HSTS Nginx|401 Authorizatio...|

@@ -1,4 +1,3 @@
-https://aanvragen.uziregister.nl
 https://acceptatie.formulieren.uziregister.nl
 https://acceptatie.uzipas.uziregister.nl
 https://feeds.uziregister.nl

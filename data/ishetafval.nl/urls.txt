@@ -1,3 +1,3 @@
-https://ishetafval.nl
-https://www.ishetafval.nl
+http://ishetafval.nl
+http://www.ishetafval.nl
 https://test.ishetafval.nl

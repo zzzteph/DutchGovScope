@@ -1,7 +1,7 @@
-https://prolander.nl
-https://www.prolander.nl
+http://prolander.nl
+http://www.prolander.nl
 https://portaal.prolander.nl
-http://gis.prolander.nl
+https://gis.prolander.nl
 http://autodiscover.prolander.nl
 https://enterpriseenrollment.prolander.nl
 https://enterpriseregistration.prolander.nl

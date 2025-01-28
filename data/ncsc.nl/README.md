@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/ncsc.nl/subdomains.txt)|29|Alive subdomains|
-|[urls.txt](/data/ncsc.nl/urls.txt)|29|Urls|
+|[subdomains.txt](/data/ncsc.nl/subdomains.txt)|30|Alive subdomains|
+|[urls.txt](/data/ncsc.nl/urls.txt)|28|Urls|
 
 
 ## Statistics
@@ -44,7 +44,6 @@
 |[https://opendata.english.ncsc.nl](https://opendata.english.ncsc.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://opendata.ncsc.nl](https://opendata.ncsc.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://test.ncsc.nl](https://test.ncsc.nl)| | **A**|none| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://gitnmp.arp.ncsc.nl](https://gitnmp.arp.ncsc.nl)| | **D**|none|:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://csaf.data.security.ncsc.nl](https://csaf.data.security.ncsc.nl)| | **C**|none| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://vulnerabilities.ncsc.nl](https://vulnerabilities.ncsc.nl)| | **A**|none| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|NCSC - NL Vulner...|
 |[https://melden.ncsc.nl](https://melden.ncsc.nl)| | **F**|none| | | | | | | | :white_check_mark: | |HSTS||

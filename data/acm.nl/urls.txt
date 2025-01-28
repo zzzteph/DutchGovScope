@@ -5,6 +5,7 @@ https://vsp.acm.nl
 https://vsp.services.acm.nl
 https://cryptshare.acm.nl
 https://cryptshare.services.acm.nl
+https://meeting.acm.nl
 https://acm.nl
 https://denkmee.acm.nl
 https://www.acm.nl

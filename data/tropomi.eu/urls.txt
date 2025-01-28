@@ -1,5 +1,3 @@
-https://feeds.tropomi.eu
-https://opendata.tropomi.eu
 https://tropomi.eu
 https://www.tropomi.eu
 https://mps.tropomi.eu

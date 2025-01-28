@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/ruimtevoorderivier.nl/subdomains.txt)|0|Alive subdomains|
+|[subdomains.txt](/data/ruimtevoorderivier.nl/subdomains.txt)|4|Alive subdomains|
 |[urls.txt](/data/ruimtevoorderivier.nl/urls.txt)|0|Urls|
 
 

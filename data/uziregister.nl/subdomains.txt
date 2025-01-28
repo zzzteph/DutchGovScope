@@ -1,4 +1,3 @@
-aanvragen.uziregister.nl
 acceptatie.formulieren.uziregister.nl
 acceptatie.uzipas.uziregister.nl
 feeds.uziregister.nl

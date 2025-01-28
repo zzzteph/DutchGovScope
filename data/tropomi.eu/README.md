@@ -5,14 +5,14 @@
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:15
+ - **HTTP Security Grade**:C
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:13
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/tropomi.eu/subdomains.txt)|20|Alive subdomains|
-|[urls.txt](/data/tropomi.eu/urls.txt)|20|Urls|
+|[subdomains.txt](/data/tropomi.eu/subdomains.txt)|18|Alive subdomains|
+|[urls.txt](/data/tropomi.eu/urls.txt)|18|Urls|
 
 
 ## Statistics
@@ -20,10 +20,8 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://feeds.tropomi.eu](https://feeds.tropomi.eu)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://opendata.tropomi.eu](https://opendata.tropomi.eu)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://tropomi.eu](https://tropomi.eu)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
-|[https://www.tropomi.eu](https://www.tropomi.eu)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|TROPOMI Observin...|
+|[https://tropomi.eu](https://tropomi.eu)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://www.tropomi.eu](https://www.tropomi.eu)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Bloomreach HSTS HTTP/3|TROPOMI Observin...|
 |[https://mps.tropomi.eu](https://mps.tropomi.eu)| | **B**|Apache| |:white_check_mark: | :warning:| | :white_check_mark:| | | :white_check_mark: | |Apache HTTP Server HSTS||
 |[https://mps1.tropomi.eu](https://mps1.tropomi.eu)| | **B**|Apache| |:white_check_mark: | :warning:| | :white_check_mark:| | | :white_check_mark: | |Apache HTTP Server HSTS||
 |[https://mps2.tropomi.eu](https://mps2.tropomi.eu)| | **B**|Apache| |:white_check_mark: | :warning:| | :white_check_mark:| | | :white_check_mark: | |Apache HTTP Server HSTS||

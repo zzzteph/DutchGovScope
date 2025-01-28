@@ -15,5 +15,6 @@ feeds.rijksoverheid.nl
 informatiepuntkinderopvangtoeslag.rijksoverheid.nl
 sdg.rijksoverheid.nl
 statistiek.rijksoverheid.nl
+teverantwoordenregelingen.rijksoverheid.nl
 e-mailabonnementen.rijksoverheid.nl
 woo-formulier.rijksoverheid.nl

@@ -23,7 +23,7 @@
 |[https://acc.ecer.minbuza.nl](https://acc.ecer.minbuza.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
 |[https://api.minbuza.nl](https://api.minbuza.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://apiacc.minbuza.nl](https://apiacc.minbuza.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[https://dev.ecer.minbuza.nl](https://dev.ecer.minbuza.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|500 Proxy Error|
+|[https://dev.ecer.minbuza.nl](https://dev.ecer.minbuza.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
 |[https://ecer.minbuza.nl](https://ecer.minbuza.nl)| | **A**|Apache|:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS Java|Home | Expertise...|
 |[https://sip.minbuza.nl](https://sip.minbuza.nl)| | **C**|CE_E| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Bad Request|
 |[https://sip.myroom.minbuza.nl](https://sip.myroom.minbuza.nl)| | **C**|CE_E| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Bad Request|

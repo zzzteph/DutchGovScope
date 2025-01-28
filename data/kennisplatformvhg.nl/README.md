@@ -20,7 +20,7 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://kennisplatformvhg.nl](https://kennisplatformvhg.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP|Akkoord verbeter...|
+|[https://kennisplatformvhg.nl](https://kennisplatformvhg.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP:8.1.31|Akkoord verbeter...|
 |[http://www.kennisplatformvhg.nl](http://www.kennisplatformvhg.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 
 

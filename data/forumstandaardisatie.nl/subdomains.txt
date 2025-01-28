@@ -1,2 +1,6 @@
+forumstandaardisatie.nl
+magazine.forumstandaardisatie.nl
+prod-dictu.forumstandaardisatie.nl
+www.forumstandaardisatie.nl
 acc-dictu.forumstandaardisatie.nl
 test-dictu.forumstandaardisatie.nl

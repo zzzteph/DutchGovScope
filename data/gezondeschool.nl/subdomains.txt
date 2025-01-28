@@ -3,7 +3,6 @@ www.gezondeschool.nl
 www.jouw.gezondeschool.nl
 jouw.gezondeschool.nl
 sub.gezondeschool.nl
-acceptatie.gezondeschool.nl
 autodiscover.gezondeschool.nl
 enterpriseenrollment.gezondeschool.nl
 enterpriseregistration.gezondeschool.nl

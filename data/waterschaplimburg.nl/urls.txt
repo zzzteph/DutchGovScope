@@ -1,14 +1,13 @@
 https://eef.waterschaplimburg.nl
 https://digikoppeling.waterschaplimburg.nl
-https://formulieren-preprod.waterschaplimburg.nl
-https://formulieren.waterschaplimburg.nl
-https://waterschaplimburg.nl
 https://inloggen-preprod.waterschaplimburg.nl
 https://metelkaar.waterschaplimburg.nl
 https://open.waterschaplimburg.nl
 https://spapps-t.waterschaplimburg.nl
 https://spapps.waterschaplimburg.nl
 https://subsidie.waterschaplimburg.nl
+http://test-cms-eef.waterschaplimburg.nl
+http://test-eef.waterschaplimburg.nl
 https://transfer.waterschaplimburg.nl
 https://wikixl-saml.acceptatie.waterschaplimburg.nl
 https://www.waterschaplimburg.nl
@@ -17,6 +16,7 @@ https://kennis.waterschaplimburg.nl
 https://inloggen.waterschaplimburg.nl
 https://mail.waterschaplimburg.nl
 https://maps.waterschaplimburg.nl
+http://winssen.waterschaplimburg.nl
 https://autodiscover.waterschaplimburg.nl
 https://kennisbank.waterschaplimburg.nl
 https://wikixl-saml.waterschaplimburg.nl
@@ -28,7 +28,6 @@ http://ncsl.waterschaplimburg.nl
 http://tulskaya-oblast.waterschaplimburg.nl
 http://verhuisbedrijven.waterschaplimburg.nl
 http://publicaffairs.waterschaplimburg.nl
-http://castaways.waterschaplimburg.nl
-http://mx04.waterschaplimburg.nl
 https://bron.waterschaplimburg.nl
 https://cms-bron.waterschaplimburg.nl
+https://test-cms-bron.waterschaplimburg.nl

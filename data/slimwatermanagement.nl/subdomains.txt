@@ -1,2 +1,1 @@
-slimwatermanagement.nl
-www.slimwatermanagement.nl
+poc.slimwatermanagement.nl

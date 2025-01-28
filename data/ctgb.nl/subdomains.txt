@@ -6,10 +6,8 @@ gewasbeschermingsmiddelen.ctgb.nl
 mst.ctgb.nl
 public.mst.ctgb.nl
 toelatingen.ctgb.nl
-mdm-acc.ctgb.nl
 mdm.ctgb.nl
 pesticidesdatabase.ctgb.nl
-public.mst-acc.ctgb.nl
 connect.ctgb.nl
 ctgb.nl
 english.ctgb.nl
@@ -22,7 +20,6 @@ fs.ctgb.nl
 password.ctgb.nl
 sf.ctgb.nl
 testconn.ctgb.nl
-mst-acc.ctgb.nl
 opendata.english.ctgb.nl
 feeds.english.ctgb.nl
 portaal.ctgb.nl

@@ -1,11 +1,9 @@
 elearning.platformrijksoverheid.nl
 opendata1.platformrijksoverheid.nl
-opendata2.platformrijksoverheid.nl
 opendata3.platformrijksoverheid.nl
 opendata4.platformrijksoverheid.nl
 opendata.platformrijksoverheid.nl
 ps1.platformrijksoverheid.nl
-ps2.platformrijksoverheid.nl
 ps3.platformrijksoverheid.nl
 ps4.platformrijksoverheid.nl
 survey-collect.platformrijksoverheid.nl

@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:61
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:63
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/ndw.nu/subdomains.txt)|93|Alive subdomains|
-|[urls.txt](/data/ndw.nu/urls.txt)|92|Urls|
+|[urls.txt](/data/ndw.nu/urls.txt)|93|Urls|
 
 
 ## Statistics
@@ -97,7 +97,7 @@
 |[https://viz.ndw.nu](https://viz.ndw.nu)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://sentry.ndw.nu](https://sentry.ndw.nu)| | **E**||:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 |[https://design.ndw.nu](https://design.ndw.nu)| | **A**|| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS MkDocs:1.6.1 Python|NDW Docs|
-|[https://stats.ndw.nu](https://stats.ndw.nu)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
+|[https://stats.ndw.nu](https://stats.ndw.nu)| | **E**|Cowboy| | | :warning:| | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cowboy Erlang|Plausible · Simp...|
 |[https://analytics.ndw.nu](https://analytics.ndw.nu)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
 |[https://data-staging.ndw.nu](https://data-staging.ndw.nu)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
 |[https://design.staging.ndw.nu](https://design.staging.ndw.nu)| | **A**|| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS MkDocs:1.6.1 Python|NDW Docs|
@@ -112,5 +112,6 @@
 |[https://security.staging.ndw.nu](https://security.staging.ndw.nu)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://stats.staging.ndw.nu](https://stats.staging.ndw.nu)| | **E**|Cowboy| | | :warning:| | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cowboy Erlang|Plausible · Simp...|
 |[https://verkeersveiligheid.ndw.nu](https://verkeersveiligheid.ndw.nu)| | **B**|| | | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Express Node.js|Verkeersveilighe...|
+|[https://reistijdtrajecten.ndw.nu](https://reistijdtrajecten.ndw.nu)| | **F**|nginx/1.26.2| | | | | | | | :white_check_mark: | |Nginx:1.26.2|FCD reistijden|
 
 

@@ -1,9 +1,3 @@
-constructiestukken.odmh.nl
-meldingbwt.odmh.nl
-meldingwd.odmh.nl
-odmh.nl
-redactie.odmh.nl
-www.odmh.nl
 formulieren.odmh.nl
 preprodformulieren.odmh.nl
 media.odmh.nl
@@ -24,7 +18,6 @@ geoportal.odmh.nl
 documenten.odmh.nl
 geoportaal.odmh.nl
 autodiscover.odmh.nl
-vpn.odmh.nl
 mobielwerken.odmh.nl
 rdsgateway.odmh.nl
 rdweb.odmh.nl

@@ -292,8 +292,8 @@ oproepingen-preprd.overheid.nl
 drop-api-preprd.overheid.nl
 mnd-preprd.overheid.nl
 oproepingen-api-preprd-poc.overheid.nl
+demo1-systemteam.overheid.nl
 digid-stub.lpc.mijn.overheid.nl
-ondersteuning.omgevingswet.overheid.nl
 pdc.pre.omgevingswet.overheid.nl
 pp2.toegang.overheid.nl
 resolver.int.omgevingswet.overheid.nl

@@ -235,6 +235,7 @@ emailwijzer.rijksapplicaties.nl
 bra.rijksapplicaties.nl
 rvb-mva.rijksapplicaties.nl
 switchbox.rijksapplicaties.nl
+beheer.syn.rijksapplicaties.nl
 rldb-webservice.rijksapplicaties.nl
 ufp-webservice.rijksapplicaties.nl
 dpp-webservice.rijksapplicaties.nl

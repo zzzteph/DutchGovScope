@@ -5,14 +5,14 @@
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:9
+ - **HTTP Security Grade**:D
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:5
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/vechtstromen.nl/subdomains.txt)|34|Alive subdomains|
-|[urls.txt](/data/vechtstromen.nl/urls.txt)|34|Urls|
+|[subdomains.txt](/data/vechtstromen.nl/subdomains.txt)|28|Alive subdomains|
+|[urls.txt](/data/vechtstromen.nl/urls.txt)|28|Urls|
 
 
 ## Statistics
@@ -22,12 +22,6 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://acceptatie-zaaksysteem.vechtstromen.nl](https://acceptatie-zaaksysteem.vechtstromen.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Moved|
 |[https://zaaksysteem.vechtstromen.nl](https://zaaksysteem.vechtstromen.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Moved|
-|[https://www.vechtstromen.nl](https://www.vechtstromen.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Home - Vechtstro...|
-|[https://app.vechtstromen.nl](https://app.vechtstromen.nl)| | **E**|-| | | | | | | :white_check_mark: | :white_check_mark: | |Microsoft ASP.NET:-|500 - Internal s...|
-|[https://intranet.vechtstromen.nl](https://intranet.vechtstromen.nl)| | **B**|-|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
-|[https://redactie.vechtstromen.nl](https://redactie.vechtstromen.nl)| | **A**|-|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
-|[https://vechtstromen.nl](https://vechtstromen.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
-|[https://viaany.vechtstromen.nl](https://viaany.vechtstromen.nl)| | **C**|-| | | | | :white_check_mark:| | :white_check_mark: | :white_check_mark: | |Microsoft ASP.NET:-|Vechtstromen App|
 |[https://apps-tst.vechtstromen.nl](https://apps-tst.vechtstromen.nl)| | **B**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET|Login|
 |[https://apps.vechtstromen.nl](https://apps.vechtstromen.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET|Login|
 |[http://autodiscover.vechtstromen.nl](http://autodiscover.vechtstromen.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||

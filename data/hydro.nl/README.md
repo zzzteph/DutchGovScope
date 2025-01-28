@@ -23,7 +23,7 @@
 |[https://hydro.nl](https://hydro.nl)| | **F**|LiteSpeed| | | | | | | | :white_check_mark: | |LiteSpeed Litespeed Cache|Dienst der Hydro...|
 |[https://www.hydro.nl](https://www.hydro.nl)| | **F**|LiteSpeed| | | | | | | | :white_check_mark: | |LiteSpeed Litespeed Cache|Dienst der Hydro...|
 |[https://transfer.hydro.nl](https://transfer.hydro.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Transfer website...|
-|[http://autoconfig.hydro.nl](http://autoconfig.hydro.nl)| | **F**|LiteSpeed| | | | | | | | :white_check_mark: | |LiteSpeed Litespeed Cache||
+|[https://autoconfig.hydro.nl](https://autoconfig.hydro.nl)| | **F**|LiteSpeed| | | | | | | | :white_check_mark: | |LiteSpeed Litespeed Cache||
 |[https://cpanel.hydro.nl](https://cpanel.hydro.nl)| | **E**|| | | | | | | | :white_check_mark: | |cPanel|cPanel Login|
 |[https://webdisk.hydro.nl](https://webdisk.hydro.nl)| | **F**|cPanel| | | | | | | | :white_check_mark: | |Basic||
 |[https://whm.hydro.nl](https://whm.hydro.nl)| | **E**|| | | | | | | | :white_check_mark: | |||

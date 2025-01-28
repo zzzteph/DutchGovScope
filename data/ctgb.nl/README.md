@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/ctgb.nl/subdomains.txt)|28|Alive subdomains|
-|[urls.txt](/data/ctgb.nl/urls.txt)|28|Urls|
+|[subdomains.txt](/data/ctgb.nl/subdomains.txt)|25|Alive subdomains|
+|[urls.txt](/data/ctgb.nl/urls.txt)|25|Urls|
 
 
 ## Statistics
@@ -28,10 +28,8 @@
 |[http://mst.ctgb.nl](http://mst.ctgb.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://public.mst.ctgb.nl](https://public.mst.ctgb.nl)| | **F**||:white_check_mark: | | | | | | | :white_check_mark: | ||HTTP Status 404...|
 |[https://toelatingen.ctgb.nl](https://toelatingen.ctgb.nl)| | **F**|nginx|:white_check_mark: | | | |:warning: | | | :white_check_mark: | |Nginx|CTGB Toelatingen|
-|[http://mdm-acc.ctgb.nl](http://mdm-acc.ctgb.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://mdm.ctgb.nl](http://mdm.ctgb.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://pesticidesdatabase.ctgb.nl](https://pesticidesdatabase.ctgb.nl)| | **F**|nginx|:white_check_mark: | | | |:warning: | | | :white_check_mark: | |Nginx|CTGB Toelatingen|
-|[http://public.mst-acc.ctgb.nl](http://public.mst-acc.ctgb.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://connect.ctgb.nl](https://connect.ctgb.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 |[https://ctgb.nl](https://ctgb.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 |[https://english.ctgb.nl](https://english.ctgb.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Board for...|
@@ -44,7 +42,6 @@
 |[https://password.ctgb.nl](https://password.ctgb.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Java||
 |[https://sf.ctgb.nl](https://sf.ctgb.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://testconn.ctgb.nl](https://testconn.ctgb.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
-|[http://mst-acc.ctgb.nl](http://mst-acc.ctgb.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://opendata.english.ctgb.nl](https://opendata.english.ctgb.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://feeds.english.ctgb.nl](https://feeds.english.ctgb.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://portaal.ctgb.nl](https://portaal.ctgb.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Java Nginx||

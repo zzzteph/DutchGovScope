@@ -6,7 +6,7 @@ subdomains_count: 22
 urls_count: 22
 ssl_rank: 
 http_rank: A
-security_txt: 11
+security_txt: 12
 url_link: /data/h-i-ambacht.nl/urls.txt
 subdomains_link: /data/h-i-ambacht.nl/subdomains.txt
 categories: dutchgov
@@ -20,7 +20,7 @@ tags: dutchgov
 
  - **SSL Grade**:
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:11
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:12
 
 
 | File       | Count | Info |

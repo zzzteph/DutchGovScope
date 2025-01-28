@@ -21,3 +21,4 @@ https://xbrlonderwijsportaal-acp.duo.nl
 https://xbrlonderwijsportaal.duo.nl
 https://zakelijk.duo.nl
 https://congres.duo.nl
+https://events.duo.nl

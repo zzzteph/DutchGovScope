@@ -91,8 +91,8 @@ tags: dutchgov
 |[https://erelijst.acceptatie.tweedekamer.nl](https://erelijst.acceptatie.tweedekamer.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://erelijst.test.tweedekamer.nl](https://erelijst.test.tweedekamer.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://ontdek.test.tweedekamer.nl](https://ontdek.test.tweedekamer.nl)| | **C**|nginx/1.27.3| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx:1.27.3|Tweede Kamer Tou...|
-|[https://tweedekamer.acceptatie.tweedekamer.nl](https://tweedekamer.acceptatie.tweedekamer.nl)| | **C**|nginx/1.27.3| |:white_check_mark: | | | | | | :white_check_mark: | |Nginx:1.27.3|403 Forbidden|
-|[https://tweedekamer.test.tweedekamer.nl](https://tweedekamer.test.tweedekamer.nl)| | **C**|nginx/1.27.3| |:white_check_mark: | | | | | | :white_check_mark: | |Nginx:1.27.3|403 Forbidden|
+|[https://tweedekamer.acceptatie.tweedekamer.nl](https://tweedekamer.acceptatie.tweedekamer.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
+|[https://tweedekamer.test.tweedekamer.nl](https://tweedekamer.test.tweedekamer.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://files.tweedekamer.nl](https://files.tweedekamer.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|403 Forbidden|
 |[https://gegevensmagazijn.tweedekamer.nl](https://gegevensmagazijn.tweedekamer.nl)| | **F**||:o: | | | | :white_check_mark:| | | :white_check_mark: | ||Gegevensmagazijn|
 |[https://werkenbij.test.tweedekamer.nl](https://werkenbij.test.tweedekamer.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|

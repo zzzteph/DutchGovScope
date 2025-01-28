@@ -22,8 +22,9 @@ ncsc.nl
 opendata.english.ncsc.nl
 opendata.ncsc.nl
 test.ncsc.nl
-gitnmp.arp.ncsc.nl
 csaf.data.security.ncsc.nl
 vulnerabilities.ncsc.nl
 melden.ncsc.nl
 registreren.ncsc.nl
+intel-acc.ncsc.nl
+intel.ncsc.nl

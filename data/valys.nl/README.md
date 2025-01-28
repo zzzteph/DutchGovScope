@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/valys.nl/subdomains.txt)|9203|Alive subdomains|
+|[subdomains.txt](/data/valys.nl/subdomains.txt)|10421|Alive subdomains|
 |[urls.txt](/data/valys.nl/urls.txt)|8848|Urls|
 
 

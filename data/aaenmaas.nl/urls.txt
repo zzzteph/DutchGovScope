@@ -6,6 +6,7 @@ https://dialin.aaenmaas.nl
 https://lync.aaenmaas.nl
 https://lyncdiscover.aaenmaas.nl
 https://maps.aaenmaas.nl
+http://meet.aaenmaas.nl
 https://helloid.aaenmaas.nl
 https://login.aaenmaas.nl
 https://vpn2.aaenmaas.nl

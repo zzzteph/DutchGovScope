@@ -1,4 +1,2 @@
-https://feeds.veterinairberoepscollege.nl
-https://opendata.veterinairberoepscollege.nl
 https://veterinairberoepscollege.nl
 https://www.veterinairberoepscollege.nl

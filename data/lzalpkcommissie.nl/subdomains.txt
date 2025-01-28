@@ -1,4 +1,2 @@
-feeds.lzalpkcommissie.nl
 lzalpkcommissie.nl
-opendata.lzalpkcommissie.nl
 www.lzalpkcommissie.nl

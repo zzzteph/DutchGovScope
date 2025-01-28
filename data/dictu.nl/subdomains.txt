@@ -38,7 +38,6 @@ mft.webftp.dictu.nl
 mijntoken.dictu.nl
 procesweb-test.dictu.nl
 procesweb.dictu.nl
-sfs-acc.dictu.nl
 sfs.dictu.nl
 test-azure06.dictu.nl
 trillingsdata-acc.dictu.nl
@@ -64,4 +63,3 @@ rijkspasocsp2-acc.dictu.nl
 test2.dictu.nl
 acc2.dictu.nl
 jira.dictu.nl
-jira-acc.dictu.nl

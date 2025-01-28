@@ -28,12 +28,6 @@ https://informatiehuis.rvo.nl
 https://prod.wetten.rvo.nl
 https://projecten.rvo.nl
 https://aoep-iam.rvo.nl
-https://argocd-infra-preprod.efiling.mijnoctrooi.rvo.nl
-https://monitoring-infra-preprod.efiling.mijnoctrooi.rvo.nl
-https://monitoring-preprod.efiling.mijnoctrooi.rvo.nl
-https://preprod.efiling.mijnoctrooi.rvo.nl
-https://sonarqube-infra-preprod.efiling.mijnoctrooi.rvo.nl
-https://vault-infra-preprod.efiling.mijnoctrooi.rvo.nl
 https://argocd-infra.efiling.mijnoctrooi.rvo.nl
 https://efiling.mijnoctrooi.rvo.nl
 https://monitoring-infra.efiling.mijnoctrooi.rvo.nl
@@ -79,12 +73,13 @@ https://www.infographics.rvo.nl
 https://intra-cms-acc.rvo.nl
 https://intra-cms.rvo.nl
 https://intra.rvo.nl
-https://jiraimg-acc.rvo.nl
-https://jiraimg.rvo.nl
+http://jiraimg-acc.rvo.nl
+http://jiraimg.rvo.nl
 https://kgr.mijn.rvo.nl
 https://mc-upnl.mijn.rvo.nl
 https://mijn.rvo.nl
 https://www.mijn.rvo.nl
+https://mijnoctrooi.mypage.rvo.nl
 https://mijnoctrooi.rvo.nl
 https://nieuws.rvo.nl
 https://prizmo-web.rvo.nl
@@ -99,7 +94,6 @@ https://wba.rvo.nl
 https://webform.rvo.nl
 https://test-cms.projects.rvo.nl
 https://test-cms.projecten.rvo.nl
-https://vault-preprod.efiling.mijnoctrooi.rvo.nl
 https://vault.efiling.mijnoctrooi.rvo.nl
 https://europese-subsidies.rvo.nl
 https://cta.rvo.nl
@@ -124,4 +118,5 @@ https://www.kennisdelen.rvo.nl
 https://www.offshorewind.rvo.nl
 https://www.sharingknowledge.rvo.nl
 https://english-test.rvo.nl
+https://auth-iam.mijnoctrooi.mypage.rvo.nl
 https://iam.mijnoctrooi.mypage.rvo.nl

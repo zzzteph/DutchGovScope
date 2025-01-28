@@ -19,6 +19,7 @@ connect.knmi.nl
 consultatie.knmi.nl
 daggegevens.knmi.nl
 www.daggegevens.knmi.nl
+dataplatform.knmi.nl
 data.knmi.nl
 datalab.knmi.nl
 developer.dataplatform.knmi.nl

@@ -3,7 +3,7 @@ layout: default
 title: "platformrijksoverheidonline.nl"
 permalink: "/dutchgov/platformrijksoverheidonline.nl.html"
 subdomains_count: 10
-urls_count: 9
+urls_count: 10
 ssl_rank: 
 http_rank: A
 security_txt: 9
@@ -26,7 +26,7 @@ tags: dutchgov
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/platformrijksoverheidonline.nl/subdomains.txt)|10|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/platformrijksoverheidonline.nl/urls.txt)|9|Urls|
+|[urls.txt](/DutchGovScope/data/platformrijksoverheidonline.nl/urls.txt)|10|Urls|
 
 
 ## Statistics
@@ -38,6 +38,7 @@ tags: dutchgov
 |[https://www.platformrijksoverheidonline.nl](https://www.platformrijksoverheidonline.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Bloomreach HSTS HTTP/3|Home | Platform...|
 |[https://platformrijksoverheidonline.nl](https://platformrijksoverheidonline.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS HTTP/3||
 |[https://inzichten.platformrijksoverheidonline.nl](https://inzichten.platformrijksoverheidonline.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|Onderzoek- en in...|
+|[https://handleiding.platformrijksoverheidonline.nl](https://handleiding.platformrijksoverheidonline.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS HTTP/3||
 |[https://inloggen.platformrijksoverheidonline.nl](https://inloggen.platformrijksoverheidonline.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS IBM DataPower||
 |[https://feeds.oud.platformrijksoverheidonline.nl](https://feeds.oud.platformrijksoverheidonline.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://opendata.oud.platformrijksoverheidonline.nl](https://opendata.oud.platformrijksoverheidonline.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||

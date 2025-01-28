@@ -1,6 +1,3 @@
-atkm.nl
-feeds.atkm.nl
-opendata.atkm.nl
 www.atkm.nl
 autodiscover.atkm.nl
 enterpriseenrollment.atkm.nl

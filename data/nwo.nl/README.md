@@ -26,7 +26,7 @@
 |[https://enterpriseregistration.nwo.nl](https://enterpriseregistration.nwo.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://impact.nwo.nl](https://impact.nwo.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS Nginx|NWO Impact|
 |[https://impacttest.nwo.nl](https://impacttest.nwo.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|301 Moved Perman...|
-|[https://intranet.nwo.nl](https://intranet.nwo.nl)| | **A**|Apache|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|- Joost|
+|[https://intranet.nwo.nl](https://intranet.nwo.nl)| | **A**|Apache|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|- Joost|
 |[https://matomo.nwo.nl](https://matomo.nwo.nl)| | **E**|Apache|:white_check_mark: | | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Matomo Analytics|Sign in - Matomo|
 |[https://intranet-acc.nwo.nl](https://intranet-acc.nwo.nl)| | **B**|Apache|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS||
 |[https://isaac.nwo.nl](https://isaac.nwo.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
@@ -37,7 +37,7 @@
 |[https://nwoi-people.nwo.nl](https://nwoi-people.nwo.nl)| | **A**|Apache/2|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2|307 Temporary Re...|
 |[https://nwopen-api.nwo.nl](https://nwopen-api.nwo.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server Microsoft ASP.NET|Nothing to see|
 |[https://vpnportal-supplier.nwo.nl](https://vpnportal-supplier.nwo.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://vpnportal.nwo.nl](https://vpnportal.nwo.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://vpnportal.nwo.nl](https://vpnportal.nwo.nl)| | **E**||:white_check_mark: | | | | | :white_check_mark: | | :white_check_mark: | |HSTS||
 |[https://digitoegankelijk.nwo.nl](https://digitoegankelijk.nwo.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2|Digitoegankelijk...|
 |[https://enterpriseenrollment.nwo.nl](https://enterpriseenrollment.nwo.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://data.nwo.nl](https://data.nwo.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | :white_check_mark: |Drupal:10 HSTS PHP|Landing page | N...|

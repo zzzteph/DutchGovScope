@@ -62,7 +62,7 @@ https://oto.cbs.nl
 https://politieopendata.cbs.nl
 http://seg.cbs.nl
 https://surveys.cbs.nl
-https://accounts.cbs.nl
+http://accounts.cbs.nl
 https://blaisesupport.cbs.nl
 https://dataderden.cbs.nl
 https://iv3-controle.cbs.nl

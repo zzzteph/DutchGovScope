@@ -6,7 +6,7 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:18
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:17
 
 
 | File       | Count | Info |
@@ -41,8 +41,8 @@
 |[https://ivo.nvwa.nl](https://ivo.nvwa.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Import Veterinai...|
 |[https://iwelcome-preprod.nvwa.nl](https://iwelcome-preprod.nvwa.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://iwelcome.nvwa.nl](https://iwelcome.nvwa.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
-|[http://labvantage-acc.nvwa.nl](http://labvantage-acc.nvwa.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
-|[https://mijn-acc.nvwa.nl](https://mijn-acc.nvwa.nl)| | **A**|| |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Object moved|
+|[https://labvantage-acc.nvwa.nl](https://labvantage-acc.nvwa.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|Error 404--Not F...|
+|[https://mijn-acc.nvwa.nl](https://mijn-acc.nvwa.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Service Unavaila...|
 |[https://mijn.nvwa.nl](https://mijn.nvwa.nl)| | **A**|| |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Object moved|
 |[https://ras-acc.nvwa.nl](https://ras-acc.nvwa.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|302 Found|
 |[https://www.ras-acc.nvwa.nl](https://www.ras-acc.nvwa.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|302 Found|

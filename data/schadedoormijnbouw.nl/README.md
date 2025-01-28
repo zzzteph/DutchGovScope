@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:5
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:6
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/schadedoormijnbouw.nl/subdomains.txt)|9|Alive subdomains|
-|[urls.txt](/data/schadedoormijnbouw.nl/urls.txt)|7|Urls|
+|[urls.txt](/data/schadedoormijnbouw.nl/urls.txt)|8|Urls|
 
 
 ## Statistics
@@ -27,5 +27,6 @@
 |[https://schijf.schadedoormijnbouw.nl](https://schijf.schadedoormijnbouw.nl)| | **F**|Webserver| | | | | | | | :white_check_mark: | |HSTS Ruby Ruby on Rails|Home | Onix | de...|
 |[https://acceptatie.schadedoormijnbouw.nl](https://acceptatie.schadedoormijnbouw.nl)| | **A**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure Edge Network HSTS IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://tracking.schadedoormijnbouw.nl](https://tracking.schadedoormijnbouw.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx PHP||
+|[https://acceptatie.intranet.schadedoormijnbouw.nl](https://acceptatie.intranet.schadedoormijnbouw.nl)| | **A**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure Edge Network HSTS IIS:10.0 Microsoft ASP.NET Windows Server||
 
 

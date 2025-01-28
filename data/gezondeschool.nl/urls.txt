@@ -3,7 +3,6 @@ https://www.gezondeschool.nl
 https://www.jouw.gezondeschool.nl
 https://jouw.gezondeschool.nl
 http://sub.gezondeschool.nl
-http://acceptatie.gezondeschool.nl
 http://autodiscover.gezondeschool.nl
 https://enterpriseenrollment.gezondeschool.nl
 https://enterpriseregistration.gezondeschool.nl
@@ -12,3 +11,4 @@ http://localhost.gezondeschool.nl
 https://msoid.gezondeschool.nl
 https://cms.gezondeschool.nl
 https://www.cms.gezondeschool.nl
+https://www.aandeslag.gezondeschool.nl

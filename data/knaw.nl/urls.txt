@@ -357,6 +357,7 @@ https://hucdrive.huc.knaw.nl
 https://intranetzonder.knaw.nl
 https://logo.huygens.knaw.nl
 http://maps.fa.knaw.nl
+https://mapserver.fa.knaw.nl
 https://mda.nioo.knaw.nl
 https://mfiles.knaw.nl
 http://mfproxy01.knaw.nl
@@ -393,13 +394,13 @@ https://www.meertens.knaw.nl
 https://vacatures.knaw.nl
 https://view.herseninstituut.knaw.nl
 https://view.nin.knaw.nl
+https://web2.fa.knaw.nl
 http://web6.fa.knaw.nl
 https://web7.fa.knaw.nl
 https://webaccess.knaw.nl
 https://www.fa.knaw.nl
 https://www.nias.knaw.nl
 https://www1.fa.knaw.nl
-https://www12.meertens.knaw.nl
 https://www2.fa.knaw.nl
 http://www22.meertens.knaw.nl
 https://tomcat.tiler01.huygens.knaw.nl

@@ -86,6 +86,7 @@ scheiden.belastingdienst.nl
 services.belastingdienst.nl
 sharepoint-ext.belastingdienst.nl
 sorry.belastingdienst.nl
+stubs.tst.belastingdienst.nl
 toestemming-acc.belastingdienst.nl
 toestemming-tst.belastingdienst.nl
 toestemming.belastingdienst.nl
@@ -108,5 +109,4 @@ pwa001.belastingdienst.nl
 samenwerkruimten.belastingdienst.nl
 vinden.belastingdienst.nl
 vts.belastingdienst.nl
-werkenbij.belastingdienst.nl
 werkenbijde.belastingdienst.nl

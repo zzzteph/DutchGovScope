@@ -4,5 +4,4 @@ acceptatie.aanmelden.gratisvog.nl
 acceptatie.zoeken.gratisvog.nl
 feeds.gratisvog.nl
 opendata.gratisvog.nl
-www.gratisvog.nl
 gratisvog.nl

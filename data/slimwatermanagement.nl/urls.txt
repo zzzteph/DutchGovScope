@@ -1,2 +1,1 @@
-https://slimwatermanagement.nl
-https://www.slimwatermanagement.nl
+https://poc.slimwatermanagement.nl
