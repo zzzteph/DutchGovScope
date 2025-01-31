@@ -8,4 +8,5 @@ dashboards.ikz.nl
 feeds.ikz.nl
 dashboard.ikz.nl
 portaal-a.ikz.nl
+portaal.ikz.nl
 vpn.ikz.nl

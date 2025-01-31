@@ -74,3 +74,4 @@ https://img.openstad.zuid-holland.nl
 https://api.openstad.zuid-holland.nl
 https://lta-acc.zuid-holland.nl
 https://lta-tst.zuid-holland.nl
+https://geo-stats.zuid-holland.nl

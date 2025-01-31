@@ -8,3 +8,4 @@ feeds.oud.platformrijksoverheidonline.nl
 opendata.oud.platformrijksoverheidonline.nl
 oud.platformrijksoverheidonline.nl
 api.abonneren.platformrijksoverheidonline.nl
+redactie.platformrijksoverheidonline.nl

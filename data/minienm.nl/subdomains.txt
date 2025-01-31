@@ -16,3 +16,4 @@ service.mpn.minienm.nl
 mpn-pre.minienm.nl
 dcc.minienm.nl
 localhost.minienm.nl
+sap.intranet.minienm.nl

@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/cbs.nl/subdomains.txt)|178|Alive subdomains|
-|[urls.txt](/data/cbs.nl/urls.txt)|177|Urls|
+|[subdomains.txt](/data/cbs.nl/subdomains.txt)|179|Alive subdomains|
+|[urls.txt](/data/cbs.nl/urls.txt)|178|Urls|
 
 
 ## Statistics
@@ -197,5 +197,6 @@
 |[https://livecharts.cbs.nl](https://livecharts.cbs.nl)| | **F**|nginx/1.20.2| | | | | | | | :white_check_mark: | |Nginx:1.20.2|403 Forbidden|
 |[https://iv3-controle.beta.cbs.nl](https://iv3-controle.beta.cbs.nl)| | **C**|envoy| |:white_check_mark: | | | | | | :white_check_mark: | |Bootstrap Envoy HSTS|Check iv3|
 |[https://beta-iv3-controle.cbs.nl](https://beta-iv3-controle.cbs.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://smartsurveys.cbs.nl](https://smartsurveys.cbs.nl)| | **F**|envoy| | | | | | | | :white_check_mark: | |Envoy HSTS||
 
 

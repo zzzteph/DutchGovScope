@@ -87,6 +87,7 @@ vo.databank.nl
 flevoland.databank.nl
 mre.databank.nl
 rabobank.databank.nl
+inspectie-oe.databank.nl
 www.nederlandschoon.databank.nl
 stap.databank.nl
 www.gip.databank.nl
@@ -95,7 +96,6 @@ live-waves.databank.nl
 holland-rijnland.databank.nl
 test-prognosemodelzw.databank.nl
 wsjg.databank.nl
-bvz-waves.databank.nl
 overijssel.databank.nl
 www.veiligheidsmonitor.databank.nl
 ibw.databank.nl
@@ -113,10 +113,9 @@ beta-arbeidsmarktmobiliteit.databank.nl
 beta2-arbeidsmarktmobiliteit.databank.nl
 beta-veiligheidsmonitor.databank.nl
 beta-cbc.databank.nl
-beta-icontrol.databank.nl
 cname-vakantieonderzoek-nbtc.databank.nl
 beta-energiecijfers.databank.nl
-beta-hr-sectorwaterschappen.databank.nl
+beta-waves.databank.nl
 demo-primosinteractief.databank.nl
 beta-duurzamemobiliteit.databank.nl
 prognosemodelzw2022.databank.nl
@@ -141,6 +140,7 @@ duurzamemobiliteit.databank.nl
 wonenmetzorg.databank.nl
 beta-berst.databank.nl
 ggddemo.databank.nl
+beta-beslotenwaves.databank.nl
 wmm-services.databank.nl
 www.klimaatmnitor.databank.nl
 www.inspectie-oe.databank.nl

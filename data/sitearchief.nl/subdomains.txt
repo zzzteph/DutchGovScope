@@ -86,7 +86,6 @@ meldkamer.sitearchief.nl
 politie.sitearchief.nl
 overzicht.sitearchief.nl
 forensischinstituut.sitearchief.nl
-niwo.sitearchief.nl
 dienstterugkeerenvertrek.sitearchief.nl
 cdho.sitearchief.nl
 ccmo.sitearchief.nl

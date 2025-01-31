@@ -288,6 +288,7 @@ https://resources.huygens.knaw.nl
 https://bioinf.nioo.knaw.nl
 https://booking.nin.knaw.nl
 https://rds.nioo.knaw.nl
+https://rdsgw.nioo.knaw.nl
 https://boot.huygens.knaw.nl
 https://hi14hingtest.huygens.knaw.nl
 https://cbs.knaw.nl
@@ -396,7 +397,6 @@ https://view.herseninstituut.knaw.nl
 https://view.nin.knaw.nl
 https://web2.fa.knaw.nl
 http://web6.fa.knaw.nl
-https://web7.fa.knaw.nl
 https://webaccess.knaw.nl
 https://www.fa.knaw.nl
 https://www.nias.knaw.nl
@@ -428,6 +428,7 @@ https://service-index.labs.dans.knaw.nl
 https://oat.acc.huc.knaw.nl
 http://kaartenbank.meertens.knaw.nl
 http://monitoring.huc.knaw.nl
+https://taoraclesso31.knaw.nl
 https://dummy-signposting.labs.dans.knaw.nl
 https://www.promise.nioo.knaw.nl
 https://backtoroots.nioo.knaw.nl

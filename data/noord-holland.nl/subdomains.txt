@@ -10,6 +10,8 @@ automation-node.datalab-prod.aws.noord-holland.nl
 datalab.noord-holland.nl
 bestanden.noord-holland.nl
 cijfers.noord-holland.nl
+dataiku.noord-holland.nl
+design-node.datalab-prod.aws.noord-holland.nl
 eidbroker-pre.noord-holland.nl
 eidbroker.noord-holland.nl
 ep.noord-holland.nl
@@ -44,8 +46,6 @@ acc-www.noord-holland.nl
 test-pvkontakt.noord-holland.nl
 test-www.noord-holland.nl
 openstad.noord-holland.nl
-www.openstad.noord-holland.nl
-api.openstad.noord-holland.nl
 druktemonitor.noord-holland.nl
 form.noord-holland.nl
 preprod-form.noord-holland.nl
@@ -59,5 +59,4 @@ enterpriseregistration.noord-holland.nl
 admin.openstad.noord-holland.nl
 auth.openstad.noord-holland.nl
 analytics.noord-holland.nl
-img.openstad.noord-holland.nl
 vooruitlab.noord-holland.nl

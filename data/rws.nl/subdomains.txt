@@ -155,3 +155,4 @@ tst-ovdsupport.rws.nl
 mip-proxy-prod.rws.nl
 fcd-acc-bemobile-trajectorien.rws.nl
 fcd-acc-bemobile-aid-triggers.rws.nl
+mip.rws.nl

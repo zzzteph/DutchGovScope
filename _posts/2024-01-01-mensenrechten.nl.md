@@ -2,8 +2,8 @@
 layout: default
 title: "mensenrechten.nl"
 permalink: "/dutchgov/mensenrechten.nl.html"
-subdomains_count: 14
-urls_count: 14
+subdomains_count: 15
+urls_count: 15
 ssl_rank: 
 http_rank: B
 security_txt: 6
@@ -25,8 +25,8 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/mensenrechten.nl/subdomains.txt)|14|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/mensenrechten.nl/urls.txt)|14|Urls|
+|[subdomains.txt](/DutchGovScope/data/mensenrechten.nl/subdomains.txt)|15|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/mensenrechten.nl/urls.txt)|15|Urls|
 
 
 ## Statistics
@@ -34,6 +34,7 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://cms.mensenrechten.nl](https://cms.mensenrechten.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET:4.0.30319 Windows Server|Object moved|
 |[https://complaintform.mensenrechten.nl](https://complaintform.mensenrechten.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server hCaptcha|Meld discriminat...|
 |[https://klachtenformulier.mensenrechten.nl](https://klachtenformulier.mensenrechten.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server hCaptcha|Meld discriminat...|
 |[https://oordelen.mensenrechten.nl](https://oordelen.mensenrechten.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server||

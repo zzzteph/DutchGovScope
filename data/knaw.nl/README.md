@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/knaw.nl/subdomains.txt)|541|Alive subdomains|
-|[urls.txt](/data/knaw.nl/urls.txt)|537|Urls|
+|[subdomains.txt](/data/knaw.nl/subdomains.txt)|543|Alive subdomains|
+|[urls.txt](/data/knaw.nl/urls.txt)|538|Urls|
 
 
 ## Statistics
@@ -310,6 +310,7 @@
 |[https://bioinf.nioo.knaw.nl](https://bioinf.nioo.knaw.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
 |[https://booking.nin.knaw.nl](https://booking.nin.knaw.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://rds.nioo.knaw.nl](https://rds.nioo.knaw.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
+|[https://rdsgw.nioo.knaw.nl](https://rdsgw.nioo.knaw.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://boot.huygens.knaw.nl](https://boot.huygens.knaw.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server||
 |[https://hi14hingtest.huygens.knaw.nl](https://hi14hingtest.huygens.knaw.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server||
 |[https://cbs.knaw.nl](https://cbs.knaw.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
@@ -418,7 +419,6 @@
 |[https://view.nin.knaw.nl](https://view.nin.knaw.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java|VMware Horizon|
 |[https://web2.fa.knaw.nl](https://web2.fa.knaw.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Apache2 Ubuntu D...|
 |[http://web6.fa.knaw.nl](http://web6.fa.knaw.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[https://web7.fa.knaw.nl](https://web7.fa.knaw.nl)| | **F**|Apache/2.4.52 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.52 Ubuntu|Access to Frisia...|
 |[https://webaccess.knaw.nl](https://webaccess.knaw.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://www.fa.knaw.nl](https://www.fa.knaw.nl)| | **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS PHP TYPO3 CMS|Thús: Fryske Aka...|
 |[https://www.nias.knaw.nl](https://www.nias.knaw.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|Database Error|
@@ -450,6 +450,7 @@
 |[https://oat.acc.huc.knaw.nl](https://oat.acc.huc.knaw.nl)| | **F**|Apache/2.4.41 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.41 Ubuntu|Unauthorized|
 |[http://kaartenbank.meertens.knaw.nl](http://kaartenbank.meertens.knaw.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|301 Moved Perman...|
 |[http://monitoring.huc.knaw.nl](http://monitoring.huc.knaw.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|301 Moved Perman...|
+|[https://taoraclesso31.knaw.nl](https://taoraclesso31.knaw.nl)| | **D**|| | | | | | | :white_check_mark: | :white_check_mark: | ||Oracle HTTP Serv...|
 |[https://dummy-signposting.labs.dans.knaw.nl](https://dummy-signposting.labs.dans.knaw.nl)| | **F**|uvicorn| | | | | | | | :white_check_mark: | |Python Uvicorn||
 |[https://www.promise.nioo.knaw.nl](https://www.promise.nioo.knaw.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Drupal HSTS Nginx PHP Varnish:6.2|Redirecting to h...|
 |[https://backtoroots.nioo.knaw.nl](https://backtoroots.nioo.knaw.nl)| | **B**|nginx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
@@ -497,7 +498,7 @@
 |[http://vova.meertens.knaw.nl](http://vova.meertens.knaw.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|301 Moved Perman...|
 |[https://facades-formats.labs.dans.knaw.nl](https://facades-formats.labs.dans.knaw.nl)| | **F**|uvicorn| | | | | | | | :white_check_mark: | |Python Uvicorn||
 |[https://license.labs.dans.knaw.nl](https://license.labs.dans.knaw.nl)| | **F**|uvicorn| | | | | | | | :white_check_mark: | |Python Uvicorn||
-|[https://chat.bioinf.nioo.knaw.nl](https://chat.bioinf.nioo.knaw.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://chat.bioinf.nioo.knaw.nl](https://chat.bioinf.nioo.knaw.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|NIOO Bioinformat...|
 |[https://vangogh-api.dev.huc.knaw.nl](https://vangogh-api.dev.huc.knaw.nl)| | **F**|Apache/2.4.41 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.41 Ubuntu|Unauthorized|
 |[https://fairevaapi.labs.dans.knaw.nl](https://fairevaapi.labs.dans.knaw.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://genomes.bioinf.nioo.knaw.nl](https://genomes.bioinf.nioo.knaw.nl)| | **B**|nginx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Drupal:10 HSTS Nginx PHP Varnish:6.2|Redirecting to h...|

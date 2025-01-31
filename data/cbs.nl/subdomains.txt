@@ -56,6 +56,7 @@ login.cbs.nl
 portal.cbs.nl
 sbi.cbs.nl
 chat.cbs.nl
+capi.cbs.nl
 dataportaal.cbs.nl
 jmopendata.cbs.nl
 oto.cbs.nl

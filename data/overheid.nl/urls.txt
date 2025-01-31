@@ -27,7 +27,6 @@ https://overheid.nl
 https://cio.overheid.nl
 https://lokaleregelgeving-eto.overheid.nl
 https://treatydatabase.overheid.nl
-https://api.mijn.overheid.nl
 https://api.preprod.mijn.overheid.nl
 https://gegevensdelen.preprod.mijn.overheid.nl
 https://artifact-rd1.toegang.overheid.nl
@@ -169,7 +168,6 @@ https://brk.basisregistraties.overheid.nl
 https://brk.test.basisregistraties.overheid.nl
 https://brt.basisregistraties.overheid.nl
 https://cbm.demo.mijn.overheid.nl
-https://cbm.mijn.overheid.nl
 https://cbm.preprod.mijn.overheid.nl
 https://preprod.mijn.overheid.nl
 https://cloudstorage-koop.overheid.nl
@@ -210,7 +208,6 @@ https://stcrtin.overheid.nl
 https://drop.overheid.nl
 https://eidas-stub.lpc.mijn.overheid.nl
 https://externe-veiligheid.omgevingswet.overheid.nl
-https://gegevensdelen.mijn.overheid.nl
 https://internationaal.ondernemen.overheid.nl
 https://lucht.omgevingswet.overheid.nl
 https://www.mijn.overheid.nl

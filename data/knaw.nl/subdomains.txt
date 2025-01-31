@@ -288,6 +288,7 @@ resources.huygens.knaw.nl
 bioinf.nioo.knaw.nl
 booking.nin.knaw.nl
 rds.nioo.knaw.nl
+rdsgw.nioo.knaw.nl
 boot.huygens.knaw.nl
 hi14hingtest.huygens.knaw.nl
 cbs.knaw.nl
@@ -396,7 +397,6 @@ view.herseninstituut.knaw.nl
 view.nin.knaw.nl
 web2.fa.knaw.nl
 web6.fa.knaw.nl
-web7.fa.knaw.nl
 webaccess.knaw.nl
 www.fa.knaw.nl
 www.nias.knaw.nl
@@ -539,3 +539,5 @@ nieuwsbrief.meertens.knaw.nl
 labs.dans.knaw.nl
 lhms31.dans.knaw.nl
 ohs31.dans.knaw.nl
+faireva.labs.dans.knaw.nl
+bitwarden.knaw.nl

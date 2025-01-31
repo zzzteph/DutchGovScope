@@ -132,7 +132,7 @@
 |[https://redesign.rvo.nl](https://redesign.rvo.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://auth-edu-iam.mijnoctrooi.mypage.rvo.nl](https://auth-edu-iam.mijnoctrooi.mypage.rvo.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://edu-iam.mijnoctrooi.mypage.rvo.nl](https://edu-iam.mijnoctrooi.mypage.rvo.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://edu.mijnoctrooi.mypage.rvo.nl](https://edu.mijnoctrooi.mypage.rvo.nl)| | **E**|MyPage| | | | | | :white_check_mark: | | :white_check_mark: | |||
+|[https://edu.mijnoctrooi.mypage.rvo.nl](https://edu.mijnoctrooi.mypage.rvo.nl)| | **F**|MyPage| | | | | | | | :white_check_mark: | |||
 |[https://english-acc.rvo.nl](https://english-acc.rvo.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://sandbox-cms.rvo.nl](https://sandbox-cms.rvo.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://www.economicdiplomacy.rvo.nl](https://www.economicdiplomacy.rvo.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||

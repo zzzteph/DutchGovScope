@@ -2,8 +2,8 @@
 layout: default
 title: "veiligheidsregioflevoland.nl"
 permalink: "/dutchgov/veiligheidsregioflevoland.nl.html"
-subdomains_count: 18
-urls_count: 14
+subdomains_count: 21
+urls_count: 15
 ssl_rank: 
 http_rank: E
 security_txt: 1
@@ -25,8 +25,8 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/veiligheidsregioflevoland.nl/subdomains.txt)|18|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/veiligheidsregioflevoland.nl/urls.txt)|14|Urls|
+|[subdomains.txt](/DutchGovScope/data/veiligheidsregioflevoland.nl/subdomains.txt)|21|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/veiligheidsregioflevoland.nl/urls.txt)|15|Urls|
 
 
 ## Statistics
@@ -44,6 +44,7 @@ tags: dutchgov
 |[http://baum.veiligheidsregioflevoland.nl](http://baum.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[http://audiobooks.veiligheidsregioflevoland.nl](http://audiobooks.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0||
 |[https://msoid.veiligheidsregioflevoland.nl](https://msoid.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[http://yvo.veiligheidsregioflevoland.nl](http://yvo.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[http://eja.veiligheidsregioflevoland.nl](http://eja.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[http://vm02.veiligheidsregioflevoland.nl](http://vm02.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0||
 |[http://orsha.veiligheidsregioflevoland.nl](http://orsha.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0||

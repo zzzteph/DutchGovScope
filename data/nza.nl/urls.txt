@@ -27,9 +27,7 @@ https://opendata.nza.nl
 https://itsupport.nza.nl
 https://mta-sts.nza.nl
 https://werkenbijde.nza.nl
-http://zpa.nza.nl
 https://zorgproducten-acc.nza.nl
-https://zorgproducten-test.nza.nl
 https://zorgproducten.nza.nl
 https://aanvragen-acc.nza.nl
 https://mijn.nza.nl

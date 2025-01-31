@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/bics.nl/subdomains.txt)|13|Alive subdomains|
-|[urls.txt](/data/bics.nl/urls.txt)|12|Urls|
+|[urls.txt](/data/bics.nl/urls.txt)|13|Urls|
 
 
 ## Statistics
@@ -32,5 +32,6 @@
 |[https://bicsweb1.bics.nl](https://bicsweb1.bics.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 |[https://bicsweb3.bics.nl](https://bicsweb3.bics.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS||
 |[https://acc.bics.nl](https://acc.bics.nl)| | **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|403 Forbidden|
+|[https://rws-bic-p01.bics.nl](https://rws-bic-p01.bics.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|403 Forbidden|
 
 

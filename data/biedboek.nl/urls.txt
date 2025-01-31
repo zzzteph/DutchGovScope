@@ -5,6 +5,7 @@ https://test-nieuw.biedboek.nl
 https://productie-nieuw.biedboek.nl
 https://deployment.biedboek.nl
 https://share.biedboek.nl
+https://share.test-nieuw.biedboek.nl
 http://autodiscover.biedboek.nl
 https://enterpriseregistration.biedboek.nl
 http://localhost.biedboek.nl

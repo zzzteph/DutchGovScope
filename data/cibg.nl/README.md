@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:30
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:31
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/cibg.nl/subdomains.txt)|57|Alive subdomains|
-|[urls.txt](/data/cibg.nl/urls.txt)|56|Urls|
+|[urls.txt](/data/cibg.nl/urls.txt)|57|Urls|
 
 
 ## Statistics
@@ -76,5 +76,6 @@
 |[http://digikoppeling2.cibg.nl](http://digikoppeling2.cibg.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 |[http://styleguide.cibg.nl](http://styleguide.cibg.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://acceptatie.applicationframework.cibg.nl](https://acceptatie.applicationframework.cibg.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
+|[https://acceptatie.drms.cibg.nl](https://acceptatie.drms.cibg.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
 
 

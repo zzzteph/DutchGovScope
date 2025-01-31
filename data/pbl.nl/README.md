@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:5
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:6
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/pbl.nl/subdomains.txt)|25|Alive subdomains|
-|[urls.txt](/data/pbl.nl/urls.txt)|24|Urls|
+|[urls.txt](/data/pbl.nl/urls.txt)|25|Urls|
 
 
 ## Statistics
@@ -44,5 +44,6 @@
 |[https://webmail.pbl.nl](https://webmail.pbl.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |HSTS HTTP/3 IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://mail.pbl.nl](https://mail.pbl.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|404 Not Found|
 |[https://msoid.pbl.nl](https://msoid.pbl.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://connect.pbl.nl](https://connect.pbl.nl)| | **F**|BigIP|:warning: | | | | | :white_check_mark: | | :white_check_mark: | |F5 BigIP||
 
 

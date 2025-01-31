@@ -6,6 +6,4 @@ test.onderzoekmetmensen.nl
 pmon-tst.onderzoekmetmensen.nl
 pmon-acc.onderzoekmetmensen.nl
 portaal-tst.onderzoekmetmensen.nl
-pmon.onderzoekmetmensen.nl
-onderwijs.onderzoekmetmensen.nl
 portaal.onderzoekmetmensen.nl

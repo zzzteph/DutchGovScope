@@ -54,3 +54,4 @@ http://digikoppeling.cibg.nl
 http://digikoppeling2.cibg.nl
 http://styleguide.cibg.nl
 https://acceptatie.applicationframework.cibg.nl
+https://acceptatie.drms.cibg.nl

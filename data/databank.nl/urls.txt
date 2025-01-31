@@ -46,7 +46,6 @@ http://beta-datawonen.databank.nl
 http://beta-klimaatmonitor.databank.nl
 https://beta-gdi.databank.nl
 https://beta-wsjg.databank.nl
-https://beta-woononderzoek.databank.nl
 http://cname-holland-rijnland.databank.nl
 https://erfgoed.databank.nl
 https://jdscan.databank.nl
@@ -95,7 +94,6 @@ https://live-waves.databank.nl
 https://holland-rijnland.databank.nl
 https://test-prognosemodelzw.databank.nl
 https://wsjg.databank.nl
-https://bvz-waves.databank.nl
 https://overijssel.databank.nl
 https://www.veiligheidsmonitor.databank.nl
 https://ibw.databank.nl
@@ -113,10 +111,9 @@ https://beta-arbeidsmarktmobiliteit.databank.nl
 https://beta2-arbeidsmarktmobiliteit.databank.nl
 https://beta-veiligheidsmonitor.databank.nl
 https://beta-cbc.databank.nl
-https://beta-icontrol.databank.nl
 https://cname-vakantieonderzoek-nbtc.databank.nl
 https://beta-energiecijfers.databank.nl
-https://beta-hr-sectorwaterschappen.databank.nl
+https://beta-waves.databank.nl
 https://demo-primosinteractief.databank.nl
 https://beta-duurzamemobiliteit.databank.nl
 https://prognosemodelzw2022.databank.nl
@@ -141,6 +138,7 @@ https://duurzamemobiliteit.databank.nl
 https://wonenmetzorg.databank.nl
 https://beta-berst.databank.nl
 https://ggddemo.databank.nl
+https://beta-beslotenwaves.databank.nl
 https://wmm-services.databank.nl
 https://www.klimaatmnitor.databank.nl
 https://www.inspectie-oe.databank.nl
@@ -148,3 +146,20 @@ https://www.procaros.databank.nl
 https://beta.cbc.databank.nl
 https://waves.databank.nl
 https://www.arbeidsmarkthoreca.databank.nl
+https://archieven.databank.nl
+http://beta-ebc2.databank.nl
+https://52f899ee-8923-43fb-bd69-93a6bbdd883b.databank.nl
+https://wonenbreburg.en.databank.nl
+http://beta-ais.databank.nl
+https://www.crow.databank.nl
+https://monitor-ow-en-wkb.databank.nl
+https://beta-primostijdreeks.databank.nl
+https://impactmonitortoerisme.databank.nl
+https://vivet.databank.nl
+https://eemsdelta.databank.nl
+https://combimonitor.databank.nl
+https://vdscan.databank.nl
+http://beta-afvalmonitor.databank.nl
+https://www.diversiteitsin-dex.databank.nl
+http://beta-benchmark-mbotransparant.databank.nl
+https://2b3170eb-a6cc-4591-ad9a-3272b2f88e3b.databank.nl

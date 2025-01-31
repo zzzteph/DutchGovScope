@@ -52,6 +52,7 @@ https://subsidie.cultureelerfgoed.nl
 https://test.geoservices.cultureelerfgoed.nl
 https://test.monumentenregister.cultureelerfgoed.nl
 https://www.test.monumentenregister.cultureelerfgoed.nl
+http://tst.subsidie.cultureelerfgoed.nl
 https://veilig.cultureelerfgoed.nl
 https://www.veilig.cultureelerfgoed.nl
 https://wikixl-saml.test.cultureelerfgoed.nl
@@ -62,6 +63,7 @@ https://acc.api-gateway.archis.cultureelerfgoed.nl
 https://english.cultureelerfgoed.nl
 https://formulier.cultureelerfgoed.nl
 https://auth.services.cultureelerfgoed.nl
+http://services.cultureelerfgoed.nl
 https://idselect.cultureelerfgoed.nl
 https://preprod.idselect.cultureelerfgoed.nl
 https://prd.archis.cultureelerfgoed.nl

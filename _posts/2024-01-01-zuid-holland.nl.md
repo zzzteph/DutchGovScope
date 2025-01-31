@@ -3,7 +3,7 @@ layout: default
 title: "zuid-holland.nl"
 permalink: "/dutchgov/zuid-holland.nl.html"
 subdomains_count: 77
-urls_count: 76
+urls_count: 77
 ssl_rank: 
 http_rank: B
 security_txt: 22
@@ -26,7 +26,7 @@ tags: dutchgov
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/zuid-holland.nl/subdomains.txt)|77|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/zuid-holland.nl/urls.txt)|76|Urls|
+|[urls.txt](/DutchGovScope/data/zuid-holland.nl/urls.txt)|77|Urls|
 
 
 ## Statistics
@@ -110,5 +110,6 @@ tags: dutchgov
 |[https://api.openstad.zuid-holland.nl](https://api.openstad.zuid-holland.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
 |[https://lta-acc.zuid-holland.nl](https://lta-acc.zuid-holland.nl)| | **F**|Windows-Azure-Web/1.0 Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Azure HSTS Microsoft HTTPAPI:2.0|Lange-Termijn-Ag...|
 |[https://lta-tst.zuid-holland.nl](https://lta-tst.zuid-holland.nl)| | **F**|Windows-Azure-Web/1.0 Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Azure HSTS Microsoft HTTPAPI:2.0|Lange-Termijn-Ag...|
+|[https://geo-stats.zuid-holland.nl](https://geo-stats.zuid-holland.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|index|
 
 

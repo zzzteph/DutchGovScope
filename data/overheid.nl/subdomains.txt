@@ -27,7 +27,6 @@ overheid.nl
 cio.overheid.nl
 lokaleregelgeving-eto.overheid.nl
 treatydatabase.overheid.nl
-api.mijn.overheid.nl
 api.preprod.mijn.overheid.nl
 gegevensdelen.preprod.mijn.overheid.nl
 artifact-rd1.toegang.overheid.nl
@@ -169,7 +168,6 @@ brk.basisregistraties.overheid.nl
 brk.test.basisregistraties.overheid.nl
 brt.basisregistraties.overheid.nl
 cbm.demo.mijn.overheid.nl
-cbm.mijn.overheid.nl
 cbm.preprod.mijn.overheid.nl
 preprod.mijn.overheid.nl
 cloudstorage-koop.overheid.nl
@@ -210,7 +208,6 @@ stcrtin.overheid.nl
 drop.overheid.nl
 eidas-stub.lpc.mijn.overheid.nl
 externe-veiligheid.omgevingswet.overheid.nl
-gegevensdelen.mijn.overheid.nl
 internationaal.ondernemen.overheid.nl
 lucht.omgevingswet.overheid.nl
 www.mijn.overheid.nl

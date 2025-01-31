@@ -27,9 +27,7 @@ opendata.nza.nl
 itsupport.nza.nl
 mta-sts.nza.nl
 werkenbijde.nza.nl
-zpa.nza.nl
 zorgproducten-acc.nza.nl
-zorgproducten-test.nza.nl
 zorgproducten.nza.nl
 aanvragen-acc.nza.nl
 mijn.nza.nl
