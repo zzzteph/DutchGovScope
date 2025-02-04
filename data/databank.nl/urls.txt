@@ -72,6 +72,7 @@ https://prognosemodelzw.databank.nl
 https://www.gemeente.databank.nl
 https://abc.databank.nl
 https://limburg.databank.nl
+https://beta-noordholland.databank.nl
 https://cname-erfgoed.databank.nl
 https://www.ciz.databank.nl
 https://adc.databank.nl

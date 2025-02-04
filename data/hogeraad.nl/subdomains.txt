@@ -6,7 +6,6 @@ www.hogeraad.nl
 siam-acc.hogeraad.nl
 siam.hogeraad.nl
 mijnzaak-acc.hogeraad.nl
-www-acc.hogeraad.nl
 autodiscover.hogeraad.nl
 mail.hogeraad.nl
 mobiel.hogeraad.nl
@@ -15,5 +14,4 @@ apps.hogeraad.nl
 auth.hogeraad.nl
 desktop.hogeraad.nl
 wolk.hogeraad.nl
-postbus-acc.hogeraad.nl
 repos.hogeraad.nl

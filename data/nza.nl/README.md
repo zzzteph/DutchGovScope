@@ -56,6 +56,6 @@
 |[https://opendisdata.nza.nl](https://opendisdata.nza.nl)| | **B**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Bootstrap:5.3.1 HSTS||
 |[http://agw01-nomail.nza.nl](http://agw01-nomail.nza.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Web Page Blocked|
 |[https://jv.nza.nl](https://jv.nza.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|JMV|
-|[https://elearning-msz.nza.nl](https://elearning-msz.nza.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx|NZA_MSZ_v5_aange...|
+|[https://elearning-msz.nza.nl](https://elearning-msz.nza.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx|NZa e-learning M...|
 
 

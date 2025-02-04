@@ -1,1 +1,6 @@
 files.infomil.nl
+forms.infomil.nl
+redactie-forms.infomil.nl
+infomil.nl
+redactie.infomil.nl
+www.infomil.nl

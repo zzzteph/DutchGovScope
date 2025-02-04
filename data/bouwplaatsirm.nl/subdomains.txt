@@ -1,7 +1,6 @@
 bouwplaatsirm.nl
 www.bouwplaatsirm.nl
 mailing.bouwplaatsirm.nl
-matomo.bouwplaatsirm.nl
 autodiscover.bouwplaatsirm.nl
 enterpriseenrollment.bouwplaatsirm.nl
 enterpriseregistration.bouwplaatsirm.nl

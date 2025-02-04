@@ -1,7 +1,6 @@
 https://bouwplaatsirm.nl
 https://www.bouwplaatsirm.nl
 https://mailing.bouwplaatsirm.nl
-https://matomo.bouwplaatsirm.nl
 http://autodiscover.bouwplaatsirm.nl
 https://enterpriseenrollment.bouwplaatsirm.nl
 https://enterpriseregistration.bouwplaatsirm.nl

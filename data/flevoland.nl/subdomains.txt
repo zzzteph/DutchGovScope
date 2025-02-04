@@ -57,6 +57,7 @@ micollab.flevoland.nl
 preprodid.flevoland.nl
 stateninformatie.flevoland.nl
 test-cmsintranet.flevoland.nl
+test-intranet.flevoland.nl
 test.flevoland.nl
 testmdm.flevoland.nl
 veiligmailen.flevoland.nl
@@ -78,3 +79,4 @@ enterpriseregistration.test.flevoland.nl
 res.flevoland.nl
 msoid.flevoland.nl
 bezoekersdata.flevoland.nl
+data.flevoland.nl

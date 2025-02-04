@@ -73,6 +73,7 @@ prognosemodelzw.databank.nl
 www.gemeente.databank.nl
 abc.databank.nl
 limburg.databank.nl
+beta-noordholland.databank.nl
 cname-erfgoed.databank.nl
 www.ciz.databank.nl
 adc.databank.nl
@@ -148,7 +149,6 @@ www.procaros.databank.nl
 beta.cbc.databank.nl
 waves.databank.nl
 www.arbeidsmarkthoreca.databank.nl
-besloten-waves.databank.nl
 archieven.databank.nl
 beta-ebc2.databank.nl
 aedesterugkoppeling.databank.nl

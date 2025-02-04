@@ -1,3 +1,9 @@
+https://constructiestukken.odmh.nl
+https://meldingbwt.odmh.nl
+https://meldingwd.odmh.nl
+https://odmh.nl
+https://redactie.odmh.nl
+https://www.odmh.nl
 https://formulieren.odmh.nl
 https://preprodformulieren.odmh.nl
 https://media.odmh.nl
@@ -20,7 +26,6 @@ https://geoportaal.odmh.nl
 http://autodiscover.odmh.nl
 https://mobielwerken.odmh.nl
 https://rdsgateway.odmh.nl
-http://rdweb.odmh.nl
 https://smtp.odmh.nl
 https://pow.odmh.nl
 https://publicaties.odmh.nl

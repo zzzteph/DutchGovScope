@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:22
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:21
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/zuid-holland.nl/subdomains.txt)|77|Alive subdomains|
-|[urls.txt](/data/zuid-holland.nl/urls.txt)|77|Urls|
+|[subdomains.txt](/data/zuid-holland.nl/subdomains.txt)|75|Alive subdomains|
+|[urls.txt](/data/zuid-holland.nl/urls.txt)|75|Urls|
 
 
 ## Statistics
@@ -50,7 +50,6 @@
 |[https://digitaalmkb.zuid-holland.nl](https://digitaalmkb.zuid-holland.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS HTTP/3|301 Moved Perman...|
 |[https://gebiedsprofielen.zuid-holland.nl](https://gebiedsprofielen.zuid-holland.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server||
 |[https://geo-fms.zuid-holland.nl](https://geo-fms.zuid-holland.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java||
-|[https://geo-test.zuid-holland.nl](https://geo-test.zuid-holland.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Document|
 |[https://geodata.zuid-holland.nl](https://geodata.zuid-holland.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java||
 |[https://geoportaal.zuid-holland.nl](https://geoportaal.zuid-holland.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://geoservices.zuid-holland.nl](https://geoservices.zuid-holland.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server||
@@ -84,7 +83,6 @@
 |[https://geo.zuid-holland.nl](https://geo.zuid-holland.nl)| | **B**|Microsoft-IIS/10.0| |:white_check_mark: | :warning:| | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server||
 |[https://geoweb.zuid-holland.nl](https://geoweb.zuid-holland.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://investerenin.zuid-holland.nl](https://investerenin.zuid-holland.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap:4.4.1 HSTS|Groeiagenda|
-|[https://jaaroverzichtcommissarisvandekoning2023.zuid-holland.nl](https://jaaroverzichtcommissarisvandekoning2023.zuid-holland.nl)| | **A**|-|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|The page cannot...|
 |[https://natura2000-data.zuid-holland.nl](https://natura2000-data.zuid-holland.nl)| | **B**|nginx|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Azure HSTS Nginx|N2000|
 |[https://subsidieportaal.zuid-holland.nl](https://subsidieportaal.zuid-holland.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|ClientPortal|
 |[https://virtueel.zuid-holland.nl](https://virtueel.zuid-holland.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Cesium|

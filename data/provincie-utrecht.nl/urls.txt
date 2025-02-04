@@ -31,7 +31,6 @@ https://begroting2016.provincie-utrecht.nl
 https://kadernota.provincie-utrecht.nl
 https://documentgenerator.provincie-utrecht.nl
 https://www.provincie-utrecht.nl
-https://erfgoedexpertteam.provincie-utrecht.nl
 https://nnn-wijzer.provincie-utrecht.nl
 https://omgevingswet.provincie-utrecht.nl
 https://publicaties.provincie-utrecht.nl
@@ -79,6 +78,7 @@ https://geoservices-srv.provincie-utrecht.nl
 https://provincie-utrecht.nl
 https://login.provincie-utrecht.nl
 https://wortel174.provincie-utrecht.nl
+https://socialintranet-acc.provincie-utrecht.nl
 https://socialintranet.provincie-utrecht.nl
 https://monitoromgevingsbeleid.provincie-utrecht.nl
 https://omgevingsbeleid.provincie-utrecht.nl

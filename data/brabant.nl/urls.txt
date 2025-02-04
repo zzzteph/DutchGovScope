@@ -63,6 +63,7 @@ https://opendata.brabant.nl
 https://samenwerken.brabant.nl
 https://facilitor.brabant.nl
 https://kaartbank.brabant.nl
+https://kaarten.brabant.nl
 http://informatie-rws.brabant.nl
 http://longread.brabant.nl
 http://specials.brabant.nl

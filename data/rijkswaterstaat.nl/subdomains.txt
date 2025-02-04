@@ -72,7 +72,6 @@ vegetatiemonitor.rijkswaterstaat.nl
 viya.rijkswaterstaat.nl
 wachtwoord.rijkswaterstaat.nl
 waterwebservices.beta.rijkswaterstaat.nl
-webmail.rijkswaterstaat.nl
 zaaksysteem-acc.rijkswaterstaat.nl
 zaaksysteem.rijkswaterstaat.nl
 zwerfafval.rijkswaterstaat.nl

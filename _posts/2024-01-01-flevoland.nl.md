@@ -2,7 +2,7 @@
 layout: default
 title: "flevoland.nl"
 permalink: "/dutchgov/flevoland.nl.html"
-subdomains_count: 80
+subdomains_count: 82
 urls_count: 80
 ssl_rank: 
 http_rank: C
@@ -25,7 +25,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/flevoland.nl/subdomains.txt)|80|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/flevoland.nl/subdomains.txt)|82|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/flevoland.nl/urls.txt)|80|Urls|
 
 
@@ -113,6 +113,6 @@ tags: dutchgov
 |[https://enterpriseregistration.test.flevoland.nl](https://enterpriseregistration.test.flevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://res.flevoland.nl](http://res.flevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://msoid.flevoland.nl](https://msoid.flevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
-|[https://bezoekersdata.flevoland.nl](https://bezoekersdata.flevoland.nl)| | **D**|Apache|:o: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS MySQL PHP:7.4.33 WordPress Yoast SEO:23.9|Home - VDM Flevo...|
+|[https://bezoekersdata.flevoland.nl](https://bezoekersdata.flevoland.nl)| | **D**|Apache|:o: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS MySQL PHP:7.4.33 WordPress Yoast SEO:24.2|Home - VDM Flevo...|
 
 

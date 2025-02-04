@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/hogeraad.nl/subdomains.txt)|19|Alive subdomains|
-|[urls.txt](/data/hogeraad.nl/urls.txt)|19|Urls|
+|[subdomains.txt](/data/hogeraad.nl/subdomains.txt)|17|Alive subdomains|
+|[urls.txt](/data/hogeraad.nl/urls.txt)|17|Urls|
 
 
 ## Statistics
@@ -28,7 +28,6 @@
 |[https://siam-acc.hogeraad.nl](https://siam-acc.hogeraad.nl)| | **A**|N.A.| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap HSTS|Hoge Raad der Ne...|
 |[https://siam.hogeraad.nl](https://siam.hogeraad.nl)| | **A**|N.A.| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap HSTS|Hoge Raad der Ne...|
 |[https://mijnzaak-acc.hogeraad.nl](https://mijnzaak-acc.hogeraad.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|Object moved|
-|[https://www-acc.hogeraad.nl](https://www-acc.hogeraad.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Home - Hoge Raad|
 |[http://autodiscover.hogeraad.nl](http://autodiscover.hogeraad.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://mail.hogeraad.nl](https://mail.hogeraad.nl)| | **A**|| | | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |||
 |[https://mobiel.hogeraad.nl](https://mobiel.hogeraad.nl)| | **A**|server| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|302 Found|
@@ -37,7 +36,6 @@
 |[https://auth.hogeraad.nl](https://auth.hogeraad.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://desktop.hogeraad.nl](https://desktop.hogeraad.nl)| | **A**|| | | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |||
 |[http://wolk.hogeraad.nl](http://wolk.hogeraad.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[https://postbus-acc.hogeraad.nl](https://postbus-acc.hogeraad.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET||
 |[https://repos.hogeraad.nl](https://repos.hogeraad.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 
 

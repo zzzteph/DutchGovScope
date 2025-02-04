@@ -16,3 +16,5 @@ https://werken.cjib.nl
 https://vpn.cjib.nl
 https://open.cjib.nl
 https://www.open.cjib.nl
+https://blauwe-knop-acc.cjib.nl
+https://vo-rijk-acc.cjib.nl

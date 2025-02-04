@@ -11,6 +11,10 @@ webdiensten.hdsr.nl
 webservices.hdsr.nl
 geoservices.hdsr.nl
 kaarten.hdsr.nl
+hdsr.nl
+intranet.ad.hdsr.nl
+redactie.hdsr.nl
+waterkwaliteitinbeeld.hdsr.nl
 www.hdsr.nl
 werkplek.hdsr.nl
 wsus.hdsr.nl
@@ -21,3 +25,4 @@ kantoor.hdsr.nl
 remote-pa.hdsr.nl
 ftp-hdsr.hdsr.nl
 fme.hdsr.nl
+localhost.hdsr.nl

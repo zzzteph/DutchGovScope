@@ -2,8 +2,8 @@
 layout: default
 title: "cultureelerfgoed.nl"
 permalink: "/dutchgov/cultureelerfgoed.nl.html"
-subdomains_count: 71
-urls_count: 71
+subdomains_count: 70
+urls_count: 70
 ssl_rank: 
 http_rank: B
 security_txt: 27
@@ -25,8 +25,8 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/cultureelerfgoed.nl/subdomains.txt)|71|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/cultureelerfgoed.nl/urls.txt)|71|Urls|
+|[subdomains.txt](/DutchGovScope/data/cultureelerfgoed.nl/subdomains.txt)|70|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/cultureelerfgoed.nl/urls.txt)|70|Urls|
 
 
 ## Statistics
@@ -99,7 +99,6 @@ tags: dutchgov
 |[https://english.cultureelerfgoed.nl](https://english.cultureelerfgoed.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Cultural...|
 |[https://formulier.cultureelerfgoed.nl](https://formulier.cultureelerfgoed.nl)| | **A**|| |:white_check_mark: | | |:warning: | | | :white_check_mark: | |HSTS|Object moved|
 |[https://auth.services.cultureelerfgoed.nl](https://auth.services.cultureelerfgoed.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
-|[http://services.cultureelerfgoed.nl](http://services.cultureelerfgoed.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://idselect.cultureelerfgoed.nl](https://idselect.cultureelerfgoed.nl)| | **A**|N.A.| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|foutmelding|
 |[https://preprod.idselect.cultureelerfgoed.nl](https://preprod.idselect.cultureelerfgoed.nl)| | **A**|N.A.| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|foutmelding|
 |[https://prd.archis.cultureelerfgoed.nl](https://prd.archis.cultureelerfgoed.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|

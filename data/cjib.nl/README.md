@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/cjib.nl/subdomains.txt)|20|Alive subdomains|
-|[urls.txt](/data/cjib.nl/urls.txt)|18|Urls|
+|[subdomains.txt](/data/cjib.nl/subdomains.txt)|21|Alive subdomains|
+|[urls.txt](/data/cjib.nl/urls.txt)|20|Urls|
 
 
 ## Statistics
@@ -38,5 +38,7 @@
 |[https://vpn.cjib.nl](https://vpn.cjib.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://open.cjib.nl](https://open.cjib.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS||
 |[https://www.open.cjib.nl](https://www.open.cjib.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS||
+|[https://blauwe-knop-acc.cjib.nl](https://blauwe-knop-acc.cjib.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
+|[https://vo-rijk-acc.cjib.nl](https://vo-rijk-acc.cjib.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 
 

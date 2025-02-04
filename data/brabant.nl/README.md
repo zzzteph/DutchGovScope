@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:D
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:25
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:26
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/brabant.nl/subdomains.txt)|86|Alive subdomains|
-|[urls.txt](/data/brabant.nl/urls.txt)|86|Urls|
+|[subdomains.txt](/data/brabant.nl/subdomains.txt)|87|Alive subdomains|
+|[urls.txt](/data/brabant.nl/urls.txt)|87|Urls|
 
 
 ## Statistics
@@ -85,6 +85,7 @@
 |[https://samenwerken.brabant.nl](https://samenwerken.brabant.nl)| | **A**|BigIP|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
 |[https://facilitor.brabant.nl](https://facilitor.brabant.nl)| | **B**|BigIP|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
 |[https://kaartbank.brabant.nl](https://kaartbank.brabant.nl)| | **A**|BigIP| |:white_check_mark: | | | :white_check_mark:| | | :white_check_mark: | |F5 BigIP||
+|[https://kaarten.brabant.nl](https://kaarten.brabant.nl)| | **A**|BigIP| |:white_check_mark: | | | :white_check_mark:| | | :white_check_mark: | |F5 BigIP||
 |[http://informatie-rws.brabant.nl](http://informatie-rws.brabant.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 |[http://longread.brabant.nl](http://longread.brabant.nl)| | **C**|BigIP| |:white_check_mark: | | | | | | :white_check_mark: | |F5 BigIP||
 |[http://specials.brabant.nl](http://specials.brabant.nl)| | **C**|BigIP| |:white_check_mark: | | | | | | :white_check_mark: | |F5 BigIP||

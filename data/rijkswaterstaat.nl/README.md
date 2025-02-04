@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/rijkswaterstaat.nl/subdomains.txt)|85|Alive subdomains|
-|[urls.txt](/data/rijkswaterstaat.nl/urls.txt)|85|Urls|
+|[subdomains.txt](/data/rijkswaterstaat.nl/subdomains.txt)|84|Alive subdomains|
+|[urls.txt](/data/rijkswaterstaat.nl/urls.txt)|84|Urls|
 
 
 ## Statistics
@@ -94,7 +94,6 @@
 |[http://viya.rijkswaterstaat.nl](http://viya.rijkswaterstaat.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://wachtwoord.rijkswaterstaat.nl](https://wachtwoord.rijkswaterstaat.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://waterwebservices.beta.rijkswaterstaat.nl](https://waterwebservices.beta.rijkswaterstaat.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Wadar webservice...|
-|[http://webmail.rijkswaterstaat.nl](http://webmail.rijkswaterstaat.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://zaaksysteem-acc.rijkswaterstaat.nl](https://zaaksysteem-acc.rijkswaterstaat.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |HSTS|Moved|
 |[https://zaaksysteem.rijkswaterstaat.nl](https://zaaksysteem.rijkswaterstaat.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |HSTS|Moved|
 |[https://zwerfafval.rijkswaterstaat.nl](https://zwerfafval.rijkswaterstaat.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|

@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/zovar.nl/subdomains.txt)|3|Alive subdomains|
-|[urls.txt](/data/zovar.nl/urls.txt)|3|Urls|
+|[subdomains.txt](/data/zovar.nl/subdomains.txt)|2|Alive subdomains|
+|[urls.txt](/data/zovar.nl/urls.txt)|2|Urls|
 
 
 ## Statistics
@@ -22,6 +22,5 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://zovar.nl](https://zovar.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 |[https://www.zovar.nl](https://www.zovar.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Bloomreach HSTS HTTP/3|Home | ZOVAR|
-|[https://www.csp.zovar.nl](https://www.csp.zovar.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|301 Moved Perman...|
 
 

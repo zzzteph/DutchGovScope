@@ -85,6 +85,7 @@ https://ontdek.tweedekamer.nl
 https://opendata.tweedekamer.nl
 https://plus.debatdirect.tweedekamer.nl
 https://pwk.tweedekamer.nl
+https://service.tweedekamer.nl
 https://sts.test.tweedekamer.nl
 https://sts.tweedekamer.nl
 https://klinkendetaal.tweedekamer.nl
@@ -134,7 +135,7 @@ https://enterpriseregistration.tweedekamer.nl
 http://localhost.tweedekamer.nl
 https://msoid.tweedekamer.nl
 https://email.tweedekamer.nl
-http://acc.livedebat.tweedekamer.nl
-http://api.acc.livedebat.tweedekamer.nl
-http://ingest.acc.livedebat.tweedekamer.nl
-http://stats.acc.livedebat.tweedekamer.nl
+https://acc.livedebat.tweedekamer.nl
+https://api.acc.livedebat.tweedekamer.nl
+https://ingest.acc.livedebat.tweedekamer.nl
+https://stats.acc.livedebat.tweedekamer.nl

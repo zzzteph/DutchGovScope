@@ -56,7 +56,5 @@ https://lms.noord-holland.nl
 https://pvkontakt.noord-holland.nl
 https://enterpriseenrollment.noord-holland.nl
 https://enterpriseregistration.noord-holland.nl
-https://admin.openstad.noord-holland.nl
-https://auth.openstad.noord-holland.nl
 https://analytics.noord-holland.nl
 https://vooruitlab.noord-holland.nl

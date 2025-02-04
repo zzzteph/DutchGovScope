@@ -2,11 +2,11 @@
 layout: default
 title: "raadvanstate.nl"
 permalink: "/dutchgov/raadvanstate.nl.html"
-subdomains_count: 31
-urls_count: 31
+subdomains_count: 29
+urls_count: 29
 ssl_rank: 
 http_rank: C
-security_txt: 9
+security_txt: 8
 url_link: /data/raadvanstate.nl/urls.txt
 subdomains_link: /data/raadvanstate.nl/subdomains.txt
 categories: dutchgov
@@ -20,13 +20,13 @@ tags: dutchgov
 
  - **SSL Grade**:
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:9
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:8
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/raadvanstate.nl/subdomains.txt)|31|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/raadvanstate.nl/urls.txt)|31|Urls|
+|[subdomains.txt](/DutchGovScope/data/raadvanstate.nl/subdomains.txt)|29|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/raadvanstate.nl/urls.txt)|29|Urls|
 
 
 ## Statistics
@@ -61,8 +61,6 @@ tags: dutchgov
 |[https://www.raadvanstate.nl](https://www.raadvanstate.nl)| | **B**|cloudflare| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Cloudflare HSTS|Just a moment...|
 |[https://zittingsagenda.raadvanstate.nl](https://zittingsagenda.raadvanstate.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server||
 |[http://kennisbank.raadvanstate.nl](http://kennisbank.raadvanstate.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Not Found|
-|[https://loket-preprod.raadvanstate.nl](https://loket-preprod.raadvanstate.nl)| | **A**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Windows Server||
-|[https://test.raadvanstate.nl](https://test.raadvanstate.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Home - Raad van...|
 |[https://enterpriseenrollment.raadvanstate.nl](https://enterpriseenrollment.raadvanstate.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://enterpriseregistration.raadvanstate.nl](https://enterpriseregistration.raadvanstate.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 

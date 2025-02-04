@@ -18,6 +18,7 @@ archief23.sitearchief.nl
 igj.sitearchief.nl
 archief24.sitearchief.nl
 archief25.sitearchief.nl
+archief26.sitearchief.nl
 nza.sitearchief.nl
 archief27.sitearchief.nl
 minvws.sitearchief.nl
@@ -86,6 +87,7 @@ meldkamer.sitearchief.nl
 politie.sitearchief.nl
 overzicht.sitearchief.nl
 forensischinstituut.sitearchief.nl
+niwo.sitearchief.nl
 dienstterugkeerenvertrek.sitearchief.nl
 cdho.sitearchief.nl
 ccmo.sitearchief.nl

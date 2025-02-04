@@ -2,7 +2,7 @@
 layout: default
 title: "ruimtevoorderivier.nl"
 permalink: "/dutchgov/ruimtevoorderivier.nl.html"
-subdomains_count: 4
+subdomains_count: 5
 urls_count: 0
 ssl_rank: 
 http_rank: F
@@ -25,7 +25,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/ruimtevoorderivier.nl/subdomains.txt)|4|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/ruimtevoorderivier.nl/subdomains.txt)|5|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/ruimtevoorderivier.nl/urls.txt)|0|Urls|
 
 

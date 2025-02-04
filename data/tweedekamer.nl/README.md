@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/tweedekamer.nl/subdomains.txt)|140|Alive subdomains|
-|[urls.txt](/data/tweedekamer.nl/urls.txt)|140|Urls|
+|[subdomains.txt](/data/tweedekamer.nl/subdomains.txt)|141|Alive subdomains|
+|[urls.txt](/data/tweedekamer.nl/urls.txt)|141|Urls|
 
 
 ## Statistics
@@ -107,6 +107,7 @@
 |[https://opendata.tweedekamer.nl](https://opendata.tweedekamer.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal:10 HSTS Nginx PHP|De open data van...|
 |[https://plus.debatdirect.tweedekamer.nl](https://plus.debatdirect.tweedekamer.nl)| | **B**|CloudFront| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |Amazon CloudFront Amazon Web Services HSTS||
 |[https://pwk.tweedekamer.nl](https://pwk.tweedekamer.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS|Loading...|
+|[https://service.tweedekamer.nl](https://service.tweedekamer.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://sts.test.tweedekamer.nl](https://sts.test.tweedekamer.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[https://sts.tweedekamer.nl](https://sts.tweedekamer.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[https://klinkendetaal.tweedekamer.nl](https://klinkendetaal.tweedekamer.nl)| | **B**|BigIP|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
@@ -156,9 +157,9 @@
 |[http://localhost.tweedekamer.nl](http://localhost.tweedekamer.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
 |[https://msoid.tweedekamer.nl](https://msoid.tweedekamer.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
 |[https://email.tweedekamer.nl](https://email.tweedekamer.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[http://acc.livedebat.tweedekamer.nl](http://acc.livedebat.tweedekamer.nl)| | **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|Tweedekamer|
-|[http://api.acc.livedebat.tweedekamer.nl](http://api.acc.livedebat.tweedekamer.nl)| | **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|Tweedekamer|
-|[http://ingest.acc.livedebat.tweedekamer.nl](http://ingest.acc.livedebat.tweedekamer.nl)| | **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|Tweedekamer|
-|[http://stats.acc.livedebat.tweedekamer.nl](http://stats.acc.livedebat.tweedekamer.nl)| | **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|Tweedekamer|
+|[https://acc.livedebat.tweedekamer.nl](https://acc.livedebat.tweedekamer.nl)| | **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap Nginx OWL Carousel jQuery|Tweedekamer|
+|[https://api.acc.livedebat.tweedekamer.nl](https://api.acc.livedebat.tweedekamer.nl)| | **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap Nginx OWL Carousel jQuery|Tweedekamer|
+|[https://ingest.acc.livedebat.tweedekamer.nl](https://ingest.acc.livedebat.tweedekamer.nl)| | **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap Nginx OWL Carousel jQuery|Tweedekamer|
+|[https://stats.acc.livedebat.tweedekamer.nl](https://stats.acc.livedebat.tweedekamer.nl)| | **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap Nginx OWL Carousel jQuery|Tweedekamer|
 
 

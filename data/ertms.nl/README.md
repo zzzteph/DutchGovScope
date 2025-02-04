@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/ertms.nl/subdomains.txt)|31889|Alive subdomains|
-|[urls.txt](/data/ertms.nl/urls.txt)|31889|Urls|
+|[subdomains.txt](/data/ertms.nl/subdomains.txt)|31916|Alive subdomains|
+|[urls.txt](/data/ertms.nl/urls.txt)|31894|Urls|
 
 
 ## Statistics
@@ -18190,6 +18190,8 @@
 |[https://delicia.ertms.nl](https://delicia.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
 |[https://gesundheit.ertms.nl](https://gesundheit.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
 |[https://hee.ertms.nl](https://hee.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://kotovo.ertms.nl](https://kotovo.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://mailinator.ertms.nl](https://mailinator.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
 |[https://1080p-video-tool.ertms.nl](https://1080p-video-tool.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
 |[https://1995.ertms.nl](https://1995.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
 |[https://bijstandsmoeder.ertms.nl](https://bijstandsmoeder.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
@@ -18608,6 +18610,9 @@
 |[https://www301.ertms.nl](https://www301.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
 |[https://zed.ertms.nl](https://zed.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
 |[https://caravan-stalling.ertms.nl](https://caravan-stalling.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://group1.ertms.nl](https://group1.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://kasta.ertms.nl](https://kasta.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://timeseries.ertms.nl](https://timeseries.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
 |[https://bomberman.ertms.nl](https://bomberman.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
 |[https://comoros.ertms.nl](https://comoros.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
 |[https://https-www.ertms.nl](https://https-www.ertms.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|

@@ -1,2 +1,3 @@
 rechtwijzer.nl
+www.rechtwijzer.nl
 localhost.rechtwijzer.nl

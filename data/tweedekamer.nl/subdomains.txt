@@ -85,6 +85,7 @@ ontdek.tweedekamer.nl
 opendata.tweedekamer.nl
 plus.debatdirect.tweedekamer.nl
 pwk.tweedekamer.nl
+service.tweedekamer.nl
 sts.test.tweedekamer.nl
 sts.tweedekamer.nl
 klinkendetaal.tweedekamer.nl

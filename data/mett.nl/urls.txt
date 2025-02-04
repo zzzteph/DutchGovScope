@@ -157,7 +157,7 @@ https://demoparticipatie.mett.nl
 https://joske.mett.nl
 https://fagoed.mett.nl
 https://test-login.mett.nl
-http://krinkelsinbeheerenonderhoud.mett.nl
+https://krinkelsinbeheerenonderhoud.mett.nl
 https://samen14.mett.nl
 https://demointranet.mett.nl
 https://erfgoedalliantie.mett.nl
@@ -210,3 +210,5 @@ https://studioovu.mett.nl
 https://samenmetwetterskip.mett.nl
 https://move-rdh.mett.nl
 https://safebydesign.mett.nl
+https://mkdoorn.mett.nl
+https://monique.mett.nl

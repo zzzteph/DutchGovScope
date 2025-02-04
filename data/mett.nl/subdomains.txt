@@ -99,7 +99,6 @@ ggagroenblauw.mett.nl
 ikdenkmeeoveruitgeest.mett.nl
 lcnk.mett.nl
 zichtopnl.mett.nl
-pas.mett.nl
 halderberge.mett.nl
 helpdesk.mett.nl
 dejongeakademie.mett.nl
@@ -218,3 +217,4 @@ monique.mett.nl
 idfp.mett.nl
 umcgbouwt.mett.nl
 meedenkenarnhem.mett.nl
+vga.mett.nl

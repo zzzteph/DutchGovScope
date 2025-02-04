@@ -72,7 +72,6 @@ https://vegetatiemonitor.rijkswaterstaat.nl
 http://viya.rijkswaterstaat.nl
 https://wachtwoord.rijkswaterstaat.nl
 https://waterwebservices.beta.rijkswaterstaat.nl
-http://webmail.rijkswaterstaat.nl
 https://zaaksysteem-acc.rijkswaterstaat.nl
 https://zaaksysteem.rijkswaterstaat.nl
 https://zwerfafval.rijkswaterstaat.nl

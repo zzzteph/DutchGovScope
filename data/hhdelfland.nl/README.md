@@ -5,14 +5,14 @@
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:4
+ - **HTTP Security Grade**:B
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:8
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/hhdelfland.nl/subdomains.txt)|29|Alive subdomains|
-|[urls.txt](/data/hhdelfland.nl/urls.txt)|29|Urls|
+|[subdomains.txt](/data/hhdelfland.nl/subdomains.txt)|33|Alive subdomains|
+|[urls.txt](/data/hhdelfland.nl/urls.txt)|33|Urls|
 
 
 ## Statistics
@@ -36,8 +36,12 @@
 |[https://watertoetsportaal.hhdelfland.nl](https://watertoetsportaal.hhdelfland.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | | :white_check_mark:| | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|Document Moved|
 |[https://grondwaterportaal.hhdelfland.nl](https://grondwaterportaal.hhdelfland.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | | :white_check_mark:| | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|Document Moved|
 |[https://startstopmelding.hhdelfland.nl](https://startstopmelding.hhdelfland.nl)| | **D**|Microsoft-IIS/10.0| | | | | :white_check_mark:| | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|403 - Forbidden:...|
+|[https://hhdelfland.nl](https://hhdelfland.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
+|[https://www.hhdelfland.nl](https://www.hhdelfland.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Home - Delfland|
 |[https://inloggen-preprod.hhdelfland.nl](https://inloggen-preprod.hhdelfland.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://inloggen.hhdelfland.nl](https://inloggen.hhdelfland.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
+|[https://loket.hhdelfland.nl](https://loket.hhdelfland.nl)| | **A**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Windows Server||
+|[https://loket-preprod.hhdelfland.nl](https://loket-preprod.hhdelfland.nl)| | **A**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Windows Server||
 |[https://remote.hhdelfland.nl](https://remote.hhdelfland.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java|VMware Horizon|
 |[https://remotetest.hhdelfland.nl](https://remotetest.hhdelfland.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java|VMware Horizon|
 |[https://samenveiligwerken.hhdelfland.nl](https://samenveiligwerken.hhdelfland.nl)| | **D**|Apache|:warning: |:white_check_mark: | :warning:| | :white_check_mark:| | | :white_check_mark: | |Apache HTTP Server Bootstrap HSTS|Veilig Delfland|

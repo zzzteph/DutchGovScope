@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/gezondeschool.nl/subdomains.txt)|15|Alive subdomains|
-|[urls.txt](/data/gezondeschool.nl/urls.txt)|14|Urls|
+|[urls.txt](/data/gezondeschool.nl/urls.txt)|15|Urls|
 
 
 ## Statistics
@@ -31,6 +31,7 @@
 |[https://info.gezondeschool.nl](https://info.gezondeschool.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|404 Not Found|
 |[http://localhost.gezondeschool.nl](http://localhost.gezondeschool.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
 |[https://msoid.gezondeschool.nl](https://msoid.gezondeschool.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://aandeslag.gezondeschool.nl](https://aandeslag.gezondeschool.nl)| | **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx Node.js Nuxt.js Vue.js||
 |[https://cms.gezondeschool.nl](https://cms.gezondeschool.nl)| | **C**|nginx| |:white_check_mark: | :warning:| | | :white_check_mark: | | :white_check_mark: | |Drupal:10 HSTS Nginx PHP|Home | Gezonde S...|
 |[https://www.cms.gezondeschool.nl](https://www.cms.gezondeschool.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx||
 |[https://www.aandeslag.gezondeschool.nl](https://www.aandeslag.gezondeschool.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|301 Moved Perman...|

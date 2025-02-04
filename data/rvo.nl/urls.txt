@@ -103,7 +103,6 @@ https://edicrop.rvo.nl
 https://gdi-b.rvo.nl
 https://ih-static.rvo.nl
 https://kostenkentallen.rvo.nl
-https://ojb.rvo.nl
 https://rhel-p-mijn.rvo.nl
 http://rhel-np-mijn.rvo.nl
 https://sandbox.rvo.nl

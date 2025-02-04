@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/ncsc.nl/subdomains.txt)|30|Alive subdomains|
+|[subdomains.txt](/data/ncsc.nl/subdomains.txt)|31|Alive subdomains|
 |[urls.txt](/data/ncsc.nl/urls.txt)|28|Urls|
 
 

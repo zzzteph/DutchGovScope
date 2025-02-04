@@ -2,8 +2,8 @@
 layout: default
 title: "noord-holland.nl"
 permalink: "/dutchgov/noord-holland.nl.html"
-subdomains_count: 62
-urls_count: 62
+subdomains_count: 60
+urls_count: 60
 ssl_rank: 
 http_rank: B
 security_txt: 22
@@ -25,8 +25,8 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/noord-holland.nl/subdomains.txt)|62|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/noord-holland.nl/urls.txt)|62|Urls|
+|[subdomains.txt](/DutchGovScope/data/noord-holland.nl/subdomains.txt)|60|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/noord-holland.nl/urls.txt)|60|Urls|
 
 
 ## Statistics
@@ -92,8 +92,6 @@ tags: dutchgov
 |[https://pvkontakt.noord-holland.nl](https://pvkontakt.noord-holland.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Green Valley CMS HSTS Java|PV Kontakt - PV...|
 |[https://enterpriseenrollment.noord-holland.nl](https://enterpriseenrollment.noord-holland.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://enterpriseregistration.noord-holland.nl](https://enterpriseregistration.noord-holland.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[https://admin.openstad.noord-holland.nl](https://admin.openstad.noord-holland.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Express HSTS Node.js||
-|[https://auth.openstad.noord-holland.nl](https://auth.openstad.noord-holland.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Express HSTS Node.js||
 |[https://analytics.noord-holland.nl](https://analytics.noord-holland.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|IIS Windows Serv...|
 |[https://vooruitlab.noord-holland.nl](https://vooruitlab.noord-holland.nl)| | **F**|nginx/1.27.2| | | | | | | | :white_check_mark: | |Nginx:1.27.2||
 

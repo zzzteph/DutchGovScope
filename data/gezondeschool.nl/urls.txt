@@ -9,6 +9,7 @@ https://enterpriseregistration.gezondeschool.nl
 https://info.gezondeschool.nl
 http://localhost.gezondeschool.nl
 https://msoid.gezondeschool.nl
+https://aandeslag.gezondeschool.nl
 https://cms.gezondeschool.nl
 https://www.cms.gezondeschool.nl
 https://www.aandeslag.gezondeschool.nl

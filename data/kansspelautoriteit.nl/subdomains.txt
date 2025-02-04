@@ -1,11 +1,13 @@
 file.kansspelautoriteit.nl
+formulieren.kansspelautoriteit.nl
+www.kansspelautoriteit.nl
+kansspelautoriteit.nl
 autodiscover.kansspelautoriteit.nl
 mx.kansspelautoriteit.nl
 webmail.kansspelautoriteit.nl
 portal.kansspelautoriteit.nl
 acc.kansspelautoriteit.nl
 desktop.kansspelautoriteit.nl
-ems.kansspelautoriteit.nl
 enterpriseenrollment.kansspelautoriteit.nl
 enterpriseregistration.kansspelautoriteit.nl
 uag1.kansspelautoriteit.nl

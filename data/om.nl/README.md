@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/om.nl/subdomains.txt)|29|Alive subdomains|
+|[subdomains.txt](/data/om.nl/subdomains.txt)|30|Alive subdomains|
 |[urls.txt](/data/om.nl/urls.txt)|29|Urls|
 
 

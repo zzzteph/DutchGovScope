@@ -63,7 +63,6 @@ https://acc.api-gateway.archis.cultureelerfgoed.nl
 https://english.cultureelerfgoed.nl
 https://formulier.cultureelerfgoed.nl
 https://auth.services.cultureelerfgoed.nl
-http://services.cultureelerfgoed.nl
 https://idselect.cultureelerfgoed.nl
 https://preprod.idselect.cultureelerfgoed.nl
 https://prd.archis.cultureelerfgoed.nl

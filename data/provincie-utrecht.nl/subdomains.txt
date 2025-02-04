@@ -31,7 +31,6 @@ begroting2016.provincie-utrecht.nl
 kadernota.provincie-utrecht.nl
 documentgenerator.provincie-utrecht.nl
 www.provincie-utrecht.nl
-erfgoedexpertteam.provincie-utrecht.nl
 nnn-wijzer.provincie-utrecht.nl
 omgevingswet.provincie-utrecht.nl
 publicaties.provincie-utrecht.nl
@@ -79,6 +78,7 @@ geoservices-srv.provincie-utrecht.nl
 provincie-utrecht.nl
 login.provincie-utrecht.nl
 wortel174.provincie-utrecht.nl
+socialintranet-acc.provincie-utrecht.nl
 socialintranet.provincie-utrecht.nl
 monitoromgevingsbeleid.provincie-utrecht.nl
 omgevingsbeleid.provincie-utrecht.nl

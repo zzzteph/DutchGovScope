@@ -1,7 +1,10 @@
 https://adfs.vallei-veluwe.nl
 http://autodiscover.vallei-veluwe.nl
+https://redactie.vallei-veluwe.nl
+https://vallei-veluwe.nl
+https://www.vallei-veluwe.nl
+https://nc-openbaar.vallei-veluwe.nl
 https://planonprod.vallei-veluwe.nl
-https://neurontest.vallei-veluwe.nl
 https://tmx.vallei-veluwe.nl
 https://werkplek.vallei-veluwe.nl
 https://enterpriseenrollment.vallei-veluwe.nl
