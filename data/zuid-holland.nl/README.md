@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/zuid-holland.nl/subdomains.txt)|75|Alive subdomains|
+|[subdomains.txt](/data/zuid-holland.nl/subdomains.txt)|76|Alive subdomains|
 |[urls.txt](/data/zuid-holland.nl/urls.txt)|75|Urls|
 
 

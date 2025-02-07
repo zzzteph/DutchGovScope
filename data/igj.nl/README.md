@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/igj.nl/subdomains.txt)|15|Alive subdomains|
-|[urls.txt](/data/igj.nl/urls.txt)|15|Urls|
+|[subdomains.txt](/data/igj.nl/subdomains.txt)|13|Alive subdomains|
+|[urls.txt](/data/igj.nl/urls.txt)|13|Urls|
 
 
 ## Statistics
@@ -30,8 +30,6 @@
 |[https://www.igj.nl](https://www.igj.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|IGJ.nl | Inspect...|
 |[https://english.igj.nl](https://english.igj.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Health an...|
 |[https://feeds.english.igj.nl](https://feeds.english.igj.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[http://survey-acc.igj.nl](http://survey-acc.igj.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
-|[http://survey-beheeracc.igj.nl](http://survey-beheeracc.igj.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[https://www.abonneren.toezichtdocumenten.igj.nl](https://www.abonneren.toezichtdocumenten.igj.nl)| | **A**|Microsoft-IIS/8.5| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS IIS:8.5 Microsoft ASP.NET:4.0.30319 Windows Server|Inspectie voor d...|
 |[https://mijn-acc.igj.nl](https://mijn-acc.igj.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|403 Forbidden|
 |[https://opendata.igj.nl](https://opendata.igj.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||

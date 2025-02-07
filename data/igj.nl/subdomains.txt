@@ -8,8 +8,6 @@ opendata.english.igj.nl
 www.igj.nl
 english.igj.nl
 feeds.english.igj.nl
-survey-acc.igj.nl
-survey-beheeracc.igj.nl
 www.abonneren.toezichtdocumenten.igj.nl
 mijn-acc.igj.nl
 opendata.igj.nl

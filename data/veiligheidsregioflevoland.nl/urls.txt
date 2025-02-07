@@ -9,8 +9,6 @@ https://enterpriseregistration.veiligheidsregioflevoland.nl
 http://baum.veiligheidsregioflevoland.nl
 http://audiobooks.veiligheidsregioflevoland.nl
 https://msoid.veiligheidsregioflevoland.nl
-http://yvo.veiligheidsregioflevoland.nl
-http://eja.veiligheidsregioflevoland.nl
 http://vm02.veiligheidsregioflevoland.nl
 http://orsha.veiligheidsregioflevoland.nl
 http://azb.veiligheidsregioflevoland.nl

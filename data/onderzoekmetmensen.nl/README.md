@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:E
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:3
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/onderzoekmetmensen.nl/subdomains.txt)|9|Alive subdomains|
-|[urls.txt](/data/onderzoekmetmensen.nl/urls.txt)|9|Urls|
+|[subdomains.txt](/data/onderzoekmetmensen.nl/subdomains.txt)|10|Alive subdomains|
+|[urls.txt](/data/onderzoekmetmensen.nl/urls.txt)|10|Urls|
 
 
 ## Statistics
@@ -28,6 +28,7 @@
 |[https://pmon-tst.onderzoekmetmensen.nl](https://pmon-tst.onderzoekmetmensen.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Basic HSTS Nginx|401 Authorizatio...|
 |[https://pmon-acc.onderzoekmetmensen.nl](https://pmon-acc.onderzoekmetmensen.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Basic HSTS Nginx|401 Authorizatio...|
 |[https://portaal-tst.onderzoekmetmensen.nl](https://portaal-tst.onderzoekmetmensen.nl)| | **F**|nginx/1.26.2| | | | | | | | :white_check_mark: | |Basic HSTS Nginx:1.26.2|401 Authorizatio...|
+|[https://pmon.onderzoekmetmensen.nl](https://pmon.onderzoekmetmensen.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
 |[https://portaal.onderzoekmetmensen.nl](https://portaal.onderzoekmetmensen.nl)| | **C**|nginx|:o: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 
 

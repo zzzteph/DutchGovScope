@@ -112,6 +112,7 @@ www.seer.databank.nl
 www.amsterdam.rosopen.databank.nl
 beta-arbeidsmarktmobiliteit.databank.nl
 beta2-arbeidsmarktmobiliteit.databank.nl
+beta-aisnbtc.databank.nl
 beta-veiligheidsmonitor.databank.nl
 beta-cbc.databank.nl
 cname-vakantieonderzoek-nbtc.databank.nl
@@ -128,6 +129,7 @@ accept-aedesforecast.databank.nl
 beta-nabb.databank.nl
 duurzaamdcmr.databank.nl
 beta-prognosemodelzw.databank.nl
+beta-nbtc.databank.nl
 beta-bvz-waves.databank.nl
 omring.databank.nl
 beta-arbeidsmarktstl.databank.nl
@@ -137,6 +139,7 @@ beta-mbotransparant.databank.nl
 povo.databank.nl
 lokaalklimaat.databank.nl
 beta-laadinfrastructuur.databank.nl
+prognosemodelzw2023.databank.nl
 duurzamemobiliteit.databank.nl
 wonenmetzorg.databank.nl
 beta-berst.databank.nl

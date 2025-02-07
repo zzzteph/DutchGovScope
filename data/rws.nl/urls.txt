@@ -64,6 +64,7 @@ https://eov.acceptatie.rws.nl
 https://esb.rws.nl
 https://fam.rws.nl
 https://geo.rws.nl
+https://geostenen.grid.rws.nl
 https://geoweb.rws.nl
 http://git.rws.nl
 https://hld.rws.nl

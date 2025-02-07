@@ -35,3 +35,4 @@ wifi.odmh.nl
 mfa.odmh.nl
 geluidskaart.odmh.nl
 rapporten.odmh.nl
+taal.odmh.nl

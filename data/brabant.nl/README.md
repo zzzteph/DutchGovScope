@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/brabant.nl/subdomains.txt)|87|Alive subdomains|
-|[urls.txt](/data/brabant.nl/urls.txt)|87|Urls|
+|[subdomains.txt](/data/brabant.nl/subdomains.txt)|85|Alive subdomains|
+|[urls.txt](/data/brabant.nl/urls.txt)|85|Urls|
 
 
 ## Statistics
@@ -35,7 +35,6 @@
 |[http://www.brabant.nl](http://www.brabant.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-||
 |[https://brains-acc.brabant.nl](https://brains-acc.brabant.nl)| | **B**|Apache|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS||
 |[https://brains.brabant.nl](https://brains.brabant.nl)| | **B**|Apache|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS||
-|[http://bzv-a.brabant.nl](http://bzv-a.brabant.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|403 - Forbidden:...|
 |[https://bzv.brabant.nl](https://bzv.brabant.nl)| | **C**|Microsoft-IIS/10.0|:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET:4.0.30319 Windows Server||
 |[https://ondertekenen.brabant.nl](https://ondertekenen.brabant.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
 |[https://ondertekenentst.brabant.nl](https://ondertekenentst.brabant.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx||
@@ -69,7 +68,6 @@
 |[https://xential-acpt.brabant.nl](https://xential-acpt.brabant.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 |[https://xential.brabant.nl](https://xential.brabant.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 |[https://wegen.brabant.nl](https://wegen.brabant.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
-|[https://www.wegen.brabant.nl](https://www.wegen.brabant.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
 |[https://werkenvoor.brabant.nl](https://werkenvoor.brabant.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS YouTube|Vind je vacature...|
 |[https://werkplek.brabant.nl](https://werkplek.brabant.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
 |[https://wifi.brabant.nl](https://wifi.brabant.nl)| | **F**|cloudflare| | | | | | | | :white_check_mark: | |Cloudflare|403 Forbidden|

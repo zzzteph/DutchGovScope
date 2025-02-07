@@ -66,10 +66,10 @@
 |[https://rhub.kvk.nl](https://rhub.kvk.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx||
 |[https://sdgapi.ondernemersplein.kvk.nl](https://sdgapi.ondernemersplein.kvk.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[http://staging.werkenbij.kvk.nl](http://staging.werkenbij.kvk.nl)| | **C**||:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS|Object moved|
+|[https://static.kvk.nl](https://static.kvk.nl)| | **E**||:o: |:white_check_mark: | :warning:| | | | | :white_check_mark: | |HSTS|403 - Forbidden:...|
 |[https://status.kvk.nl](https://status.kvk.nl)| | **B**|nginx| |:white_check_mark: | | |:warning: | | | :white_check_mark: | |HSTS Nginx|KVK Statuspagina|
 |[https://swp.kvk.nl](https://swp.kvk.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET||
 |[https://view.email.kvk.nl](https://view.email.kvk.nl)| | **A**||:o: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Object moved|
-|[https://vpn.kvk.nl](https://vpn.kvk.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://web-api.kvk.nl](https://web-api.kvk.nl)| | **C**||:o: |:white_check_mark: | | | :white_check_mark:| | | :white_check_mark: | |HSTS|403 - Forbidden:...|
 |[https://werkenbij.kvk.nl](https://werkenbij.kvk.nl)| | **C**||:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Google Tag Manager HSTS Microsoft ASP.NET|Vacatures en car...|
 |[https://www3.kvk.nl](https://www3.kvk.nl)| | **E**|| | | | | | | | :white_check_mark: | |Google Tag Manager HSTS|Toegang geweiger...|

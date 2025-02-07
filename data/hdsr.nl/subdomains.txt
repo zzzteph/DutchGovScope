@@ -17,7 +17,6 @@ redactie.hdsr.nl
 waterkwaliteitinbeeld.hdsr.nl
 www.hdsr.nl
 werkplek.hdsr.nl
-wsus.hdsr.nl
 zaaksysteem-acc.hdsr.nl
 zaaksysteem.hdsr.nl
 zoeken.hdsr.nl

@@ -13,7 +13,6 @@ authpms-acc.dictu.nl
 avd.datasluis.dictu.nl
 avd.webftp.dictu.nl
 bpp.datasluis.dictu.nl
-bpp.webftp.dictu.nl
 datasluis.dictu.nl
 dictu.nl
 inmemoriam.dictu.nl
@@ -36,8 +35,10 @@ iltbuildserver.dictu.nl
 mailing.dictu.nl
 mft.webftp.dictu.nl
 mijntoken.dictu.nl
+pms-acc.dictu.nl
 procesweb-test.dictu.nl
 procesweb.dictu.nl
+sfs-acc.dictu.nl
 sfs.dictu.nl
 test-azure06.dictu.nl
 trillingsdata-acc.dictu.nl

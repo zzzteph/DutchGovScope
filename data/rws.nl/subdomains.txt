@@ -66,6 +66,7 @@ eov.acceptatie.rws.nl
 esb.rws.nl
 fam.rws.nl
 geo.rws.nl
+geostenen.grid.rws.nl
 geoweb.rws.nl
 git.rws.nl
 hld.rws.nl

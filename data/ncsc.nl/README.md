@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:22
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:23
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/ncsc.nl/subdomains.txt)|31|Alive subdomains|
-|[urls.txt](/data/ncsc.nl/urls.txt)|28|Urls|
+|[urls.txt](/data/ncsc.nl/urls.txt)|30|Urls|
 
 
 ## Statistics
@@ -48,5 +48,7 @@
 |[https://vulnerabilities.ncsc.nl](https://vulnerabilities.ncsc.nl)| | **A**|none| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|NCSC - NL Vulner...|
 |[https://melden.ncsc.nl](https://melden.ncsc.nl)| | **F**|none| | | | | | | | :white_check_mark: | |HSTS||
 |[https://registreren.ncsc.nl](https://registreren.ncsc.nl)| | **F**|none| | | | | | | | :white_check_mark: | |HSTS||
+|[https://intel-acc.ncsc.nl](https://intel-acc.ncsc.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||502 Bad Gateway|
+|[https://intel.ncsc.nl](https://intel.ncsc.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|OpenCTI - Cyber...|
 
 

@@ -8,4 +8,5 @@ https://dashboards.ikz.nl
 https://feeds.ikz.nl
 https://dashboard.ikz.nl
 https://portaal-a.ikz.nl
+https://portaal.ikz.nl
 https://vpn.ikz.nl

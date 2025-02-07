@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/cultureelerfgoed.nl/subdomains.txt)|70|Alive subdomains|
-|[urls.txt](/data/cultureelerfgoed.nl/urls.txt)|70|Urls|
+|[subdomains.txt](/data/cultureelerfgoed.nl/subdomains.txt)|71|Alive subdomains|
+|[urls.txt](/data/cultureelerfgoed.nl/urls.txt)|71|Urls|
 
 
 ## Statistics
@@ -79,6 +79,7 @@
 |[https://www.veilig.cultureelerfgoed.nl](https://www.veilig.cultureelerfgoed.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 |[https://wikixl-saml.test.cultureelerfgoed.nl](https://wikixl-saml.test.cultureelerfgoed.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|Geregistreerd do...|
 |[https://acc.stor.services.cultureelerfgoed.nl](https://acc.stor.services.cultureelerfgoed.nl)| | **A**|| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |Amazon Web Services HSTS||
+|[http://acc.encoded.api-gateway.archis.cultureelerfgoed.nl](http://acc.encoded.api-gateway.archis.cultureelerfgoed.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://acc.client.archis.cultureelerfgoed.nl](https://acc.client.archis.cultureelerfgoed.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://acc.zaak.services.cultureelerfgoed.nl](https://acc.zaak.services.cultureelerfgoed.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://acc.api-gateway.archis.cultureelerfgoed.nl](https://acc.api-gateway.archis.cultureelerfgoed.nl)| | **C**|| |:white_check_mark: | :warning:| | | | | :white_check_mark: | |HSTS|401 Authorizatio...|

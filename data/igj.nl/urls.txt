@@ -8,8 +8,6 @@ https://opendata.english.igj.nl
 https://www.igj.nl
 https://english.igj.nl
 https://feeds.english.igj.nl
-http://survey-acc.igj.nl
-http://survey-beheeracc.igj.nl
 https://www.abonneren.toezichtdocumenten.igj.nl
 https://mijn-acc.igj.nl
 https://opendata.igj.nl

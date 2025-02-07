@@ -2,11 +2,11 @@
 layout: default
 title: "zorgaanbiedersportaal.nl"
 permalink: "/dutchgov/zorgaanbiedersportaal.nl.html"
-subdomains_count: 19
-urls_count: 19
+subdomains_count: 20
+urls_count: 20
 ssl_rank: 
 http_rank: A
-security_txt: 17
+security_txt: 18
 url_link: /data/zorgaanbiedersportaal.nl/urls.txt
 subdomains_link: /data/zorgaanbiedersportaal.nl/subdomains.txt
 categories: dutchgov
@@ -20,13 +20,13 @@ tags: dutchgov
 
  - **SSL Grade**:
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:17
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:18
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/zorgaanbiedersportaal.nl/subdomains.txt)|19|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/zorgaanbiedersportaal.nl/urls.txt)|19|Urls|
+|[subdomains.txt](/DutchGovScope/data/zorgaanbiedersportaal.nl/subdomains.txt)|20|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/zorgaanbiedersportaal.nl/urls.txt)|20|Urls|
 
 
 ## Statistics
@@ -40,6 +40,7 @@ tags: dutchgov
 |[https://acceptatie.mijn.locatieregister.zorgaanbiedersportaal.nl](https://acceptatie.mijn.locatieregister.zorgaanbiedersportaal.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
 |[https://acceptatie.mijn.melding.zorgaanbiedersportaal.nl](https://acceptatie.mijn.melding.zorgaanbiedersportaal.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
 |[https://acceptatie.mijn.toelatingsvergunning.zorgaanbiedersportaal.nl](https://acceptatie.mijn.toelatingsvergunning.zorgaanbiedersportaal.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
+|[https://acceptatie.mijn.zorgaanbiedersportaal.nl](https://acceptatie.mijn.zorgaanbiedersportaal.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
 |[https://acceptatie.zoeken.zorgaanbiedersportaal.nl](https://acceptatie.zoeken.zorgaanbiedersportaal.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
 |[https://beheer.locatieregister.zorgaanbiedersportaal.nl](https://beheer.locatieregister.zorgaanbiedersportaal.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://mijn.geschilleninstantie.zorgaanbiedersportaal.nl](https://mijn.geschilleninstantie.zorgaanbiedersportaal.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Inloggen | Erken...|

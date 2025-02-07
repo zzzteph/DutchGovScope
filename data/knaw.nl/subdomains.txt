@@ -397,6 +397,7 @@ view.herseninstituut.knaw.nl
 view.nin.knaw.nl
 web2.fa.knaw.nl
 web6.fa.knaw.nl
+web7.fa.knaw.nl
 webaccess.knaw.nl
 www.fa.knaw.nl
 www.nias.knaw.nl
@@ -542,3 +543,4 @@ lhms31.dans.knaw.nl
 ohs31.dans.knaw.nl
 faireva.labs.dans.knaw.nl
 bitwarden.knaw.nl
+mpadmin.meertens.knaw.nl

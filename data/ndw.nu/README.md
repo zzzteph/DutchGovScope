@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/ndw.nu/subdomains.txt)|93|Alive subdomains|
+|[subdomains.txt](/data/ndw.nu/subdomains.txt)|94|Alive subdomains|
 |[urls.txt](/data/ndw.nu/urls.txt)|93|Urls|
 
 

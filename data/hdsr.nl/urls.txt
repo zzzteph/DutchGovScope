@@ -17,7 +17,6 @@ https://redactie.hdsr.nl
 https://waterkwaliteitinbeeld.hdsr.nl
 https://www.hdsr.nl
 https://werkplek.hdsr.nl
-https://wsus.hdsr.nl
 https://zaaksysteem-acc.hdsr.nl
 https://zaaksysteem.hdsr.nl
 http://zoeken.hdsr.nl

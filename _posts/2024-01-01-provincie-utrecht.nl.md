@@ -2,11 +2,11 @@
 layout: default
 title: "provincie-utrecht.nl"
 permalink: "/dutchgov/provincie-utrecht.nl.html"
-subdomains_count: 96
-urls_count: 96
+subdomains_count: 97
+urls_count: 97
 ssl_rank: 
 http_rank: C
-security_txt: 38
+security_txt: 39
 url_link: /data/provincie-utrecht.nl/urls.txt
 subdomains_link: /data/provincie-utrecht.nl/subdomains.txt
 categories: dutchgov
@@ -20,13 +20,13 @@ tags: dutchgov
 
  - **SSL Grade**:
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:38
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:39
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/provincie-utrecht.nl/subdomains.txt)|96|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/provincie-utrecht.nl/urls.txt)|96|Urls|
+|[subdomains.txt](/DutchGovScope/data/provincie-utrecht.nl/subdomains.txt)|97|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/provincie-utrecht.nl/urls.txt)|97|Urls|
 
 
 ## Statistics
@@ -67,6 +67,7 @@ tags: dutchgov
 |[https://kadernota.provincie-utrecht.nl](https://kadernota.provincie-utrecht.nl)| | **D**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Azure HSTS IIS:10.0 Windows Server|Kadernota 2016 P...|
 |[https://documentgenerator.provincie-utrecht.nl](https://documentgenerator.provincie-utrecht.nl)| | **C**|Web Server| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Welkom - DocSys...|
 |[https://www.provincie-utrecht.nl](https://www.provincie-utrecht.nl)| | **A**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Google Tag Manager HSTS|Home | provincie...|
+|[https://erfgoedexpertteam.provincie-utrecht.nl](https://erfgoedexpertteam.provincie-utrecht.nl)| | **A**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
 |[https://nnn-wijzer.provincie-utrecht.nl](https://nnn-wijzer.provincie-utrecht.nl)| | **A**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
 |[https://omgevingswet.provincie-utrecht.nl](https://omgevingswet.provincie-utrecht.nl)| | **A**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
 |[https://publicaties.provincie-utrecht.nl](https://publicaties.provincie-utrecht.nl)| | **C**|Apache|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|

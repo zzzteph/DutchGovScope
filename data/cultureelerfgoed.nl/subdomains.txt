@@ -57,6 +57,7 @@ veilig.cultureelerfgoed.nl
 www.veilig.cultureelerfgoed.nl
 wikixl-saml.test.cultureelerfgoed.nl
 acc.stor.services.cultureelerfgoed.nl
+acc.encoded.api-gateway.archis.cultureelerfgoed.nl
 acc.client.archis.cultureelerfgoed.nl
 acc.zaak.services.cultureelerfgoed.nl
 acc.api-gateway.archis.cultureelerfgoed.nl

@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/knaw.nl/subdomains.txt)|544|Alive subdomains|
-|[urls.txt](/data/knaw.nl/urls.txt)|539|Urls|
+|[subdomains.txt](/data/knaw.nl/subdomains.txt)|546|Alive subdomains|
+|[urls.txt](/data/knaw.nl/urls.txt)|543|Urls|
 
 
 ## Statistics
@@ -419,6 +419,7 @@
 |[https://view.nin.knaw.nl](https://view.nin.knaw.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java|VMware Horizon|
 |[https://web2.fa.knaw.nl](https://web2.fa.knaw.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Apache2 Ubuntu D...|
 |[http://web6.fa.knaw.nl](http://web6.fa.knaw.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://web7.fa.knaw.nl](https://web7.fa.knaw.nl)| | **F**|Apache/2.4.52 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.52 Ubuntu|Access to Frisia...|
 |[https://webaccess.knaw.nl](https://webaccess.knaw.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://www.fa.knaw.nl](https://www.fa.knaw.nl)| | **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS PHP TYPO3 CMS|Thús: Fryske Aka...|
 |[https://www.nias.knaw.nl](https://www.nias.knaw.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|Database Error|
@@ -559,5 +560,8 @@
 |[https://access.huc.knaw.nl](https://access.huc.knaw.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|403 Forbidden|
 |[https://portus-acc.knaw.nl](https://portus-acc.knaw.nl)| | **D**|Apache|:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS||
 |[https://nieuwsbrief.meertens.knaw.nl](https://nieuwsbrief.meertens.knaw.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
+|[https://labs.dans.knaw.nl](https://labs.dans.knaw.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://lhms31.dans.knaw.nl](https://lhms31.dans.knaw.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Index of /|
+|[https://ohs31.dans.knaw.nl](https://ohs31.dans.knaw.nl)| | **F**|nginx/1.22.1| | | | | | | | :white_check_mark: | |Nginx:1.22.1|OH-SMArt|
 
 

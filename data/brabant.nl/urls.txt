@@ -13,7 +13,6 @@ http://english.brabant.nl
 http://www.brabant.nl
 https://brains-acc.brabant.nl
 https://brains.brabant.nl
-http://bzv-a.brabant.nl
 https://bzv.brabant.nl
 https://ondertekenen.brabant.nl
 https://ondertekenentst.brabant.nl
@@ -47,7 +46,6 @@ https://webmail.brabant.nl
 https://xential-acpt.brabant.nl
 https://xential.brabant.nl
 https://wegen.brabant.nl
-https://www.wegen.brabant.nl
 https://werkenvoor.brabant.nl
 https://werkplek.brabant.nl
 https://wifi.brabant.nl

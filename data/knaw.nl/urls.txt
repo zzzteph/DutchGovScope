@@ -397,6 +397,7 @@ https://view.herseninstituut.knaw.nl
 https://view.nin.knaw.nl
 https://web2.fa.knaw.nl
 http://web6.fa.knaw.nl
+https://web7.fa.knaw.nl
 https://webaccess.knaw.nl
 https://www.fa.knaw.nl
 https://www.nias.knaw.nl
@@ -537,3 +538,6 @@ https://ats-test.knaw.nl
 https://access.huc.knaw.nl
 https://portus-acc.knaw.nl
 https://nieuwsbrief.meertens.knaw.nl
+https://labs.dans.knaw.nl
+https://lhms31.dans.knaw.nl
+https://ohs31.dans.knaw.nl

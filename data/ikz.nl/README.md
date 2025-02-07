@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:6
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:7
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/ikz.nl/subdomains.txt)|12|Alive subdomains|
-|[urls.txt](/data/ikz.nl/urls.txt)|11|Urls|
+|[urls.txt](/data/ikz.nl/urls.txt)|12|Urls|
 
 
 ## Statistics
@@ -30,6 +30,7 @@
 |[https://feeds.ikz.nl](https://feeds.ikz.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://dashboard.ikz.nl](https://dashboard.ikz.nl)| | **E**|Posit Connect v2024.09.0| | | | | | :white_check_mark: | | :white_check_mark: | |||
 |[https://portaal-a.ikz.nl](https://portaal-a.ikz.nl)| | **D**|nginx| | | | |:warning: | :white_check_mark: | | :white_check_mark: | |Java Nginx||
+|[https://portaal.ikz.nl](https://portaal.ikz.nl)| | **D**|nginx| | | | |:warning: | :white_check_mark: | | :white_check_mark: | |Java Nginx||
 |[https://vpn.ikz.nl](https://vpn.ikz.nl)| | **E**|OpenVPN-AS| | | | | | :white_check_mark: | | :white_check_mark: | ||Access server cl...|
 
 

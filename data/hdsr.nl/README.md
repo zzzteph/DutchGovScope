@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/hdsr.nl/subdomains.txt)|28|Alive subdomains|
-|[urls.txt](/data/hdsr.nl/urls.txt)|28|Urls|
+|[subdomains.txt](/data/hdsr.nl/subdomains.txt)|27|Alive subdomains|
+|[urls.txt](/data/hdsr.nl/urls.txt)|27|Urls|
 
 
 ## Statistics
@@ -39,7 +39,6 @@
 |[https://waterkwaliteitinbeeld.hdsr.nl](https://waterkwaliteitinbeeld.hdsr.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| | | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
 |[https://www.hdsr.nl](https://www.hdsr.nl)| | **A**|cloudflare|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare Cloudflare Bot Management HSTS Microsoft ASP.NET:-|Home - HDSR|
 |[https://werkplek.hdsr.nl](https://werkplek.hdsr.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
-|[https://wsus.hdsr.nl](https://wsus.hdsr.nl)| | **A**|xxxx|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java|User Portal|
 |[https://zaaksysteem-acc.hdsr.nl](https://zaaksysteem-acc.hdsr.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Moved|
 |[https://zaaksysteem.hdsr.nl](https://zaaksysteem.hdsr.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Moved|
 |[http://zoeken.hdsr.nl](http://zoeken.hdsr.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft ASP.NET:-||

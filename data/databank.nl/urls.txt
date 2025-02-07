@@ -110,6 +110,7 @@ https://www.seer.databank.nl
 https://www.amsterdam.rosopen.databank.nl
 https://beta-arbeidsmarktmobiliteit.databank.nl
 https://beta2-arbeidsmarktmobiliteit.databank.nl
+https://beta-aisnbtc.databank.nl
 https://beta-veiligheidsmonitor.databank.nl
 https://beta-cbc.databank.nl
 https://cname-vakantieonderzoek-nbtc.databank.nl
@@ -126,6 +127,7 @@ https://accept-aedesforecast.databank.nl
 https://beta-nabb.databank.nl
 https://duurzaamdcmr.databank.nl
 https://beta-prognosemodelzw.databank.nl
+https://beta-nbtc.databank.nl
 https://beta-bvz-waves.databank.nl
 https://omring.databank.nl
 https://beta-arbeidsmarktstl.databank.nl
@@ -135,6 +137,7 @@ https://beta-mbotransparant.databank.nl
 https://povo.databank.nl
 https://lokaalklimaat.databank.nl
 https://beta-laadinfrastructuur.databank.nl
+https://prognosemodelzw2023.databank.nl
 https://duurzamemobiliteit.databank.nl
 https://wonenmetzorg.databank.nl
 https://beta-berst.databank.nl

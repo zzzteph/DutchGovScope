@@ -91,3 +91,4 @@ security.staging.ndw.nu
 stats.staging.ndw.nu
 verkeersveiligheid.ndw.nu
 reistijdtrajecten.ndw.nu
+bereikbaarheid.staging.ndw.nu

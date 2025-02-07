@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:D
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:15
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:16
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/dictu.nl/subdomains.txt)|65|Alive subdomains|
-|[urls.txt](/data/dictu.nl/urls.txt)|65|Urls|
+|[subdomains.txt](/data/dictu.nl/subdomains.txt)|66|Alive subdomains|
+|[urls.txt](/data/dictu.nl/urls.txt)|66|Urls|
 
 
 ## Statistics
@@ -35,7 +35,6 @@
 |[https://avd.datasluis.dictu.nl](https://avd.datasluis.dictu.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Redirect|
 |[https://avd.webftp.dictu.nl](https://avd.webftp.dictu.nl)| | **D**|| | | | | | | :white_check_mark: | :white_check_mark: | ||Redirect|
 |[https://bpp.datasluis.dictu.nl](https://bpp.datasluis.dictu.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Redirect|
-|[https://bpp.webftp.dictu.nl](https://bpp.webftp.dictu.nl)| | **D**|| | | | | | | :white_check_mark: | :white_check_mark: | ||Redirect|
 |[https://datasluis.dictu.nl](https://datasluis.dictu.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Redirect|
 |[https://dictu.nl](https://dictu.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|301 Moved Perman...|
 |[https://inmemoriam.dictu.nl](https://inmemoriam.dictu.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
@@ -58,8 +57,10 @@
 |[https://mailing.dictu.nl](https://mailing.dictu.nl)| | **C**|Spotler| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://mft.webftp.dictu.nl](https://mft.webftp.dictu.nl)| | **D**|| | | | | | | :white_check_mark: | :white_check_mark: | ||Redirect|
 |[https://mijntoken.dictu.nl](https://mijntoken.dictu.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Oracle Dynamic Monitoring Service Oracle WebLogic Server|302 Moved Tempor...|
+|[https://pms-acc.dictu.nl](https://pms-acc.dictu.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET||
 |[https://procesweb-test.dictu.nl](https://procesweb-test.dictu.nl)| | **F**|awselb/2.0|:o: | | | | :white_check_mark:| | | :white_check_mark: | |Amazon ELB Amazon Web Services HSTS||
 |[https://procesweb.dictu.nl](https://procesweb.dictu.nl)| | **F**|awselb/2.0|:o: | | | | :white_check_mark:| | | :white_check_mark: | |Amazon ELB Amazon Web Services HSTS||
+|[https://sfs-acc.dictu.nl](https://sfs-acc.dictu.nl)| | **A**|Seclore Server|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Java||
 |[https://sfs.dictu.nl](https://sfs.dictu.nl)| | **A**|Seclore Server|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Java||
 |[https://test-azure06.dictu.nl](https://test-azure06.dictu.nl)| | **F**|nginx/1.19.2| | | | | | | | :white_check_mark: | |Nginx:1.19.2|Welcome to nginx...|
 |[https://trillingsdata-acc.dictu.nl](https://trillingsdata-acc.dictu.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Index|

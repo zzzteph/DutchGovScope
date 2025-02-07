@@ -6,6 +6,7 @@ https://www.hogeraad.nl
 https://siam-acc.hogeraad.nl
 https://siam.hogeraad.nl
 https://mijnzaak-acc.hogeraad.nl
+https://www-acc.hogeraad.nl
 http://autodiscover.hogeraad.nl
 https://mail.hogeraad.nl
 https://mobiel.hogeraad.nl
@@ -14,4 +15,5 @@ https://apps.hogeraad.nl
 https://auth.hogeraad.nl
 https://desktop.hogeraad.nl
 http://wolk.hogeraad.nl
+https://postbus-acc.hogeraad.nl
 https://repos.hogeraad.nl

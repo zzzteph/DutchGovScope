@@ -13,7 +13,6 @@ english.brabant.nl
 www.brabant.nl
 brains-acc.brabant.nl
 brains.brabant.nl
-bzv-a.brabant.nl
 bzv.brabant.nl
 ondertekenen.brabant.nl
 ondertekenentst.brabant.nl
@@ -47,7 +46,6 @@ webmail.brabant.nl
 xential-acpt.brabant.nl
 xential.brabant.nl
 wegen.brabant.nl
-www.wegen.brabant.nl
 werkenvoor.brabant.nl
 werkplek.brabant.nl
 wifi.brabant.nl
