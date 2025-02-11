@@ -56,13 +56,14 @@ https://login.cbs.nl
 https://portal.cbs.nl
 https://sbi.cbs.nl
 http://chat.cbs.nl
+https://capi.cbs.nl
 https://dataportaal.cbs.nl
 https://jmopendata.cbs.nl
 https://oto.cbs.nl
 https://politieopendata.cbs.nl
 http://seg.cbs.nl
 https://surveys.cbs.nl
-http://accounts.cbs.nl
+https://accounts.cbs.nl
 https://blaisesupport.cbs.nl
 https://dataderden.cbs.nl
 https://iv3-controle.cbs.nl
@@ -150,7 +151,7 @@ https://redactie-acc.cbs.nl
 https://www-acc.cbs.nl
 https://taxonomie.cbs.nl
 https://vocabs.cbs.nl
-https://videoplatform.cbs.nl
+http://videoplatform.cbs.nl
 https://videos.cbs.nl
 https://werkplek.cbs.nl
 https://werkpleksso.cbs.nl

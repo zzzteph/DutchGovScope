@@ -6,12 +6,12 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:20
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:18
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/nza.nl/subdomains.txt)|37|Alive subdomains|
+|[subdomains.txt](/data/nza.nl/subdomains.txt)|38|Alive subdomains|
 |[urls.txt](/data/nza.nl/urls.txt)|37|Urls|
 
 
@@ -30,7 +30,7 @@
 |[https://nza-form6.nza.nl](https://nza-form6.nza.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|NZa aanvragenpor...|
 |[https://zorgprestatiemodel.nza.nl](https://zorgprestatiemodel.nza.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Mendix|
 |[https://nza-form2.nza.nl](https://nza-form2.nza.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Mendix|
-|[https://zorgvraagtypering.nza.nl](https://zorgvraagtypering.nza.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|NZa Zorgvraagtyp...|
+|[https://zorgvraagtypering.nza.nl](https://zorgvraagtypering.nza.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|Nonexistent (503...|
 |[https://mijn-accp.nza.nl](https://mijn-accp.nza.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Mijn NZa|
 |[https://nza-form3.nza.nl](https://nza-form3.nza.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|NZa aanvragenpor...|
 |[https://nza-form5.nza.nl](https://nza-form5.nza.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|NZa aanvragenpor...|
@@ -41,16 +41,16 @@
 |[https://hybrid.nza.nl](https://hybrid.nza.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|403 hybrid443 no...|
 |[https://rpx.nza.nl](https://rpx.nza.nl)| | **A**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|404 Not Found|
 |[https://leren.nza.nl](https://leren.nza.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
-|[https://www.nza.nl](https://www.nza.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Wij werken aan g...|
+|[https://www.nza.nl](https://www.nza.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Wij werken aan t...|
 |[https://feeds.nza.nl](https://feeds.nza.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://magazines.nza.nl](https://magazines.nza.nl)| | **C**|nginx|:white_check_mark: |:white_check_mark: | | |:warning: | | | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 |[https://nza.nl](https://nza.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 |[https://opendata.nza.nl](https://opendata.nza.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://itsupport.nza.nl](https://itsupport.nza.nl)| | **B**|ZGS|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://mta-sts.nza.nl](https://mta-sts.nza.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|Nothing here|
-|[https://werkenbijde.nza.nl](https://werkenbijde.nza.nl)| | **A**|LiteSpeed| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Elementor:3.27.1 HSTS HTTP/3 LiteSpeed Litespeed Cache|Home - Werken bi...|
+|[https://werkenbijde.nza.nl](https://werkenbijde.nza.nl)| | **A**|LiteSpeed| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Elementor:3.27.3 HSTS HTTP/3 LiteSpeed Litespeed Cache|Home - Werken bi...|
 |[https://zorgproducten-acc.nza.nl](https://zorgproducten-acc.nza.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure HSTS Microsoft ASP.NET|NZa zorgproducta...|
-|[https://zorgproducten.nza.nl](https://zorgproducten.nza.nl)| | **A**|nginx|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure HSTS Microsoft ASP.NET Nginx|NZa zorgproducta...|
+|[https://zorgproducten.nza.nl](https://zorgproducten.nza.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure HSTS Microsoft ASP.NET|NZa zorgproducta...|
 |[https://aanvragen-acc.nza.nl](https://aanvragen-acc.nza.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|NZa aanvragenpor...|
 |[https://mijn.nza.nl](https://mijn.nza.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|Deze pagina is m...|
 |[https://opendisdata.nza.nl](https://opendisdata.nza.nl)| | **B**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Bootstrap:5.3.1 HSTS||

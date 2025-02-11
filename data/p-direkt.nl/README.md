@@ -33,6 +33,6 @@
 |[https://kms-test.p-direkt.nl](https://kms-test.p-direkt.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|403 - Forbidden:...|
 |[https://kms.p-direkt.nl](https://kms.p-direkt.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|403 - Forbidden:...|
 |[https://ndev.api-sec.p-direkt.nl](https://ndev.api-sec.p-direkt.nl)| | **E**|| | | | | | | | :white_check_mark: | ||400 No required...|
-|[https://ndev.api.p-direkt.nl](https://ndev.api.p-direkt.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://ndev.api.p-direkt.nl](https://ndev.api.p-direkt.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 
 

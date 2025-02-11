@@ -10,4 +10,5 @@ feeds.donorregister.nl
 feeds.english.donorregister.nl
 opendata.donorregister.nl
 mijn.donorregister.nl
+raadplegen.donorregister.nl
 www.donorregister.nl

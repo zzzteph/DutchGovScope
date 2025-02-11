@@ -5,7 +5,7 @@
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:D
+ - **HTTP Security Grade**:E
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:8
 
 
@@ -31,7 +31,7 @@
 |[https://mode-s.knmi.nl](https://mode-s.knmi.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 |[http://projects.knmi.nl](http://projects.knmi.nl)| | **A**|BigIP| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
 |[https://browser.dataplatform.knmi.nl](https://browser.dataplatform.knmi.nl)| | **C**|AmazonS3| |:white_check_mark: | | | | | | :white_check_mark: | |Amazon CloudFront Amazon S3 Amazon Web Services HSTS|KNMI Dataset Bro...|
-|[https://c3surf.knmi.nl](https://c3surf.knmi.nl)| | **F**|Apache/2.4.37 (Red Hat Enterprise Linux) OpenSSL/1.1.1k| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.37 Drupal:7 OpenSSL:1.1.1k PHP:8.2.13 Red Hat|Monitoring Europ...|
+|[https://c3surf.knmi.nl](https://c3surf.knmi.nl)| | **F**|Apache/2.4.37 (Red Hat Enterprise Linux) OpenSSL/1.1.1k| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.37 Drupal:7 OpenSSL:1.1.1k PHP:8.2.25 Red Hat|Monitoring Europ...|
 |[https://cdn.knmi.nl](https://cdn.knmi.nl)| | **F**|AmazonS3| | | | | | | | :white_check_mark: | |Amazon CloudFront Amazon S3 Amazon Web Services||
 |[http://cesar-database.knmi.nl](http://cesar-database.knmi.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 |[http://reserved-cesar-db.knmi.nl](http://reserved-cesar-db.knmi.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
@@ -43,7 +43,7 @@
 |[https://www.daggegevens.knmi.nl](https://www.daggegevens.knmi.nl)| | **E**||:warning: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Ruby Ruby on Rails|Dagwaarden van w...|
 |[https://dataplatform.knmi.nl](https://dataplatform.knmi.nl)| | **B**|gunicorn|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Amazon S3 Amazon Web Services Ckan:2.10.4 HSTS Java PostgreSQL Python Solr gunicorn|Welcome - KNMI D...|
 |[https://data.knmi.nl](https://data.knmi.nl)| | **B**|awselb/2.0|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Amazon ELB Amazon Web Services|301 Moved Perman...|
-|[https://datalab.knmi.nl](https://datalab.knmi.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2 MySQL PHP WPML:4.6.14 WordPress:6.7.1 Yoast SEO:24.0|KNMI datalab - K...|
+|[https://datalab.knmi.nl](https://datalab.knmi.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2 MySQL PHP WPML:4.6.15 WordPress:6.7.1 Yoast SEO:24.3|KNMI datalab - K...|
 |[https://developer.dataplatform.knmi.nl](https://developer.dataplatform.knmi.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Bootstrap HSTS|KNMI Developer p...|
 |[https://dwo.knmi.nl](https://dwo.knmi.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://egvap.knmi.nl](https://egvap.knmi.nl)| | **F**|AmazonS3| | | | | | | | :white_check_mark: | |Amazon CloudFront Amazon S3 Amazon Web Services|Status and lates...|
@@ -61,7 +61,7 @@
 |[https://knmi.nl](https://knmi.nl)| | **A**|awselb/2.0| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon ELB Amazon Web Services|301 Moved Perman...|
 |[https://mijn.knmi.nl](https://mijn.knmi.nl)| | **A**|Apache|:o: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon ALB Amazon Web Services Apache HTTP Server HSTS ZURB Foundation|KNMI Extranet|
 |[https://mqtt.dataplatform.knmi.nl](https://mqtt.dataplatform.knmi.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[https://msgcpp-adaguc.knmi.nl](https://msgcpp-adaguc.knmi.nl)| | **A**|uvicorn| |:white_check_mark: | | | :white_check_mark:| | | :white_check_mark: | |HSTS Python Uvicorn||
+|[https://msgcpp-adaguc.knmi.nl](https://msgcpp-adaguc.knmi.nl)| | **F**|awselb/2.0| | | | | | | | :white_check_mark: | |Amazon ELB Amazon Web Services|503 Service Temp...|
 |[https://new.mijn.knmi.nl](https://new.mijn.knmi.nl)| | **F**|AmazonS3| | | | | | | | :white_check_mark: | |Amazon CloudFront Amazon S3 Amazon Web Services|KNMI Extranetten|
 |[https://origin.klimaatscenarios-data.knmi.nl](https://origin.klimaatscenarios-data.knmi.nl)| | **F**|awselb/2.0| | | | | | | | :white_check_mark: | |Amazon ELB Amazon Web Services||
 |[https://password-new.knmi.nl](https://password-new.knmi.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Java||

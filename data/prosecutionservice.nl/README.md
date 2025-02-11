@@ -20,7 +20,7 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://criminalfilesmh17.acc.prosecutionservice.nl](https://criminalfilesmh17.acc.prosecutionservice.nl)| | **C**|nginx/1.25.5| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx:1.25.5|Strafdossier MH1...|
+|[http://criminalfilesmh17.acc.prosecutionservice.nl](http://criminalfilesmh17.acc.prosecutionservice.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx:1.25.5||
 |[https://criminalfilesmh17.prosecutionservice.nl](https://criminalfilesmh17.prosecutionservice.nl)| | **D**|nginx/1.25.5|:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx:1.25.5|Strafdossier MH1...|
 |[https://feeds.prosecutionservice.nl](https://feeds.prosecutionservice.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://opendata.prosecutionservice.nl](https://opendata.prosecutionservice.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||

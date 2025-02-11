@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/digid.nl/subdomains.txt)|40|Alive subdomains|
-|[urls.txt](/data/digid.nl/urls.txt)|40|Urls|
+|[subdomains.txt](/data/digid.nl/subdomains.txt)|39|Alive subdomains|
+|[urls.txt](/data/digid.nl/urls.txt)|39|Urls|
 
 
 ## Statistics
@@ -59,6 +59,5 @@
 |[https://was-preprod2.digid.nl](https://was-preprod2.digid.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://was.digid.nl](https://was.digid.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://www.digid.nl](https://www.digid.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon S3 Amazon Web Services Gatsby:4.23.0 HSTS Nginx React Webpack|Home | DigiD|
-|[https://mu.digid.nl](https://mu.digid.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 
 

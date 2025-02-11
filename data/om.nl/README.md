@@ -39,7 +39,7 @@
 |[https://moordzaak.om.nl](https://moordzaak.om.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Heroku Nginx|OM Moordgame|
 |[https://om-veld01.om.nl](https://om-veld01.om.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET||
 |[https://sip.om.nl](https://sip.om.nl)| | **C**|RTC/6.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
-|[https://strafdossiermh17.acc.om.nl](https://strafdossiermh17.acc.om.nl)| | **C**|nginx/1.25.5| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx:1.25.5|Strafdossier MH1...|
+|[http://strafdossiermh17.acc.om.nl](http://strafdossiermh17.acc.om.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx:1.25.5||
 |[https://telewerken.om.nl](https://telewerken.om.nl)| | **A**||:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Microsoft ASP.NET||
 |[https://verkeer.acc.loket.om.nl](https://verkeer.acc.loket.om.nl)| | **A**|Apache|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
 |[https://verkeer.loket.om.nl](https://verkeer.loket.om.nl)| | **A**|Apache|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|

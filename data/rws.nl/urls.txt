@@ -159,3 +159,4 @@ https://tst-ovdsupport.rws.nl
 http://mip-proxy-prod.rws.nl
 https://fcd-acc-bemobile-trajectorien.rws.nl
 https://fcd-acc-bemobile-aid-triggers.rws.nl
+http://mip.rws.nl

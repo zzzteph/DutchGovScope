@@ -17,7 +17,7 @@ https://murder-case.om.nl
 https://moordzaak.om.nl
 https://om-veld01.om.nl
 https://sip.om.nl
-https://strafdossiermh17.acc.om.nl
+http://strafdossiermh17.acc.om.nl
 https://telewerken.om.nl
 https://verkeer.acc.loket.om.nl
 https://verkeer.loket.om.nl

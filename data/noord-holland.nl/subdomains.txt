@@ -10,8 +10,6 @@ automation-node.datalab-prod.aws.noord-holland.nl
 datalab.noord-holland.nl
 bestanden.noord-holland.nl
 cijfers.noord-holland.nl
-dataiku.noord-holland.nl
-design-node.datalab-prod.aws.noord-holland.nl
 eidbroker-pre.noord-holland.nl
 eidbroker.noord-holland.nl
 ep.noord-holland.nl
@@ -27,6 +25,8 @@ geoapps4.noord-holland.nl
 geoservices3.noord-holland.nl
 geoservices4.noord-holland.nl
 geonetwork.noord-holland.nl
+vsbacc.noord-holland.nl
+vsbprd.noord-holland.nl
 kennisportaalovk.noord-holland.nl
 leidraadlc.noord-holland.nl
 magazine.noord-holland.nl

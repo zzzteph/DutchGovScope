@@ -291,10 +291,10 @@ https://rds.nioo.knaw.nl
 https://rdsgw.nioo.knaw.nl
 https://boot.huygens.knaw.nl
 https://hi14hingtest.huygens.knaw.nl
-https://cbs.knaw.nl
-https://cbsweb.cbs.knaw.nl
-https://www.cbs.knaw.nl
-https://www2.cbs.knaw.nl
+http://cbs.knaw.nl
+http://cbsweb.cbs.knaw.nl
+http://www.cbs.knaw.nl
+http://www2.cbs.knaw.nl
 https://cloud.knaw.nl
 https://citrix.knaw.nl
 http://cmdi2rdf.meertens.knaw.nl
@@ -470,7 +470,6 @@ https://emailsanitizer.labs.dans.knaw.nl
 https://fairaware-api.labs.dans.knaw.nl
 https://galaxy.bioinf.nioo.knaw.nl
 https://metadata-enhancer.labs.dans.knaw.nl
-https://subsite.nioo-acc.knaw.nl
 https://flippinglakes.nioo.knaw.nl
 https://www.nioo.knaw.nl
 https://minioapi2.labs.dans.knaw.nl
@@ -521,8 +520,8 @@ https://teamcity.dev.huc.knaw.nl
 https://yasgui.dev.huc.knaw.nl
 http://uptime.huc.knaw.nl
 https://zalen.huc.knaw.nl
-https://goudeneeuwblog.huygens.knaw.nl
-https://hermansdigitaal.huygens.knaw.nl
+http://goudeneeuwblog.huygens.knaw.nl
+http://hermansdigitaal.huygens.knaw.nl
 https://dataverse-date-updater.labs.dans.knaw.nl
 https://back2roots.nioo.knaw.nl
 https://promise.nioo.knaw.nl
@@ -541,3 +540,5 @@ https://nieuwsbrief.meertens.knaw.nl
 https://labs.dans.knaw.nl
 https://lhms31.dans.knaw.nl
 https://ohs31.dans.knaw.nl
+https://faireva.labs.dans.knaw.nl
+https://bitwarden.knaw.nl

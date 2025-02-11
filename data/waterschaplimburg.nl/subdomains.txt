@@ -32,5 +32,4 @@ cmsp.waterschaplimburg.nl
 channeltivity.waterschaplimburg.nl
 bron.waterschaplimburg.nl
 cms-bron.waterschaplimburg.nl
-test-cms-bron.waterschaplimburg.nl
 genio.waterschaplimburg.nl

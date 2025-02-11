@@ -45,7 +45,7 @@ tags: dutchgov
 |[http://beeldbank.nationaalarchief.nl](http://beeldbank.nationaalarchief.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HTTP/3 Nginx||
 |[https://bibliotheek.nationaalarchief.nl](https://bibliotheek.nationaalarchief.nl)| | **F**|Central System Dispatcher/1.1| | | | | | | | :white_check_mark: | |HSTS||
 |[https://cbs.nationaalarchief.nl](https://cbs.nationaalarchief.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
-|[https://chat.nationaalarchief.nl](https://chat.nationaalarchief.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Nationaal Archie...|
+|[https://chat.nationaalarchief.nl](https://chat.nationaalarchief.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://e-bom.acpt.nationaalarchief.nl](https://e-bom.acpt.nationaalarchief.nl)| | **A**|| |:white_check_mark: | :warning:| | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://e-bom.nationaalarchief.nl](https://e-bom.nationaalarchief.nl)| | **A**|| |:white_check_mark: | :warning:| | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|E-Beperkt Openba...|
 |[https://e-bom.ted.nationaalarchief.nl](https://e-bom.ted.nationaalarchief.nl)| | **A**|| |:white_check_mark: | :warning:| | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|E-Beperkt Openba...|
@@ -71,7 +71,7 @@ tags: dutchgov
 |[https://es.test.nationaalarchief.nl](https://es.test.nationaalarchief.nl)| | **F**|gtranslate| | | | | | | | :white_check_mark: | |||
 |[http://localhost.nationaalarchief.nl](http://localhost.nationaalarchief.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
 |[https://meld.nationaalarchief.nl](https://meld.nationaalarchief.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
-|[https://hub3.nationaalarchief.nl](https://hub3.nationaalarchief.nl)| | **A**|| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS|403 Forbidden|
+|[https://hub3.nationaalarchief.nl](https://hub3.nationaalarchief.nl)| | **D**|nginx| |:white_check_mark: | :warning:| | | | | :white_check_mark: | |HSTS Nginx|403 Forbidden|
 |[https://zvt.nationaalarchief.nl](https://zvt.nationaalarchief.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://gatekeeper.nationaalarchief.nl](https://gatekeeper.nationaalarchief.nl)| | **A**|| |:white_check_mark: | :warning:| | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Nationaal Archie...|
 |[https://id.test.nationaalarchief.nl](https://id.test.nationaalarchief.nl)| | **F**|gtranslate| | | | | | | | :white_check_mark: | |||

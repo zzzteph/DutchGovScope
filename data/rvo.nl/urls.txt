@@ -69,12 +69,12 @@ https://gtpa-acc.rvo.nl
 https://gtpa.rvo.nl
 https://infographics.rvo.nl
 https://www.infographics.rvo.nl
-http://intra-acc.rvo.nl
+https://intra-acc.rvo.nl
 https://intra-cms-acc.rvo.nl
 https://intra-cms.rvo.nl
 https://intra.rvo.nl
-http://jiraimg-acc.rvo.nl
-http://jiraimg.rvo.nl
+https://jiraimg-acc.rvo.nl
+https://jiraimg.rvo.nl
 https://kgr.mijn.rvo.nl
 https://mc-upnl.mijn.rvo.nl
 https://mijn.rvo.nl
@@ -107,9 +107,6 @@ https://rhel-p-mijn.rvo.nl
 http://rhel-np-mijn.rvo.nl
 https://sandbox.rvo.nl
 https://redesign.rvo.nl
-https://auth-edu-iam.mijnoctrooi.mypage.rvo.nl
-https://edu-iam.mijnoctrooi.mypage.rvo.nl
-https://edu.mijnoctrooi.mypage.rvo.nl
 https://english-acc.rvo.nl
 https://sandbox-cms.rvo.nl
 https://www.economicdiplomacy.rvo.nl

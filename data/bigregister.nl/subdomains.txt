@@ -17,5 +17,6 @@ feeds.bigregister.nl
 feeds.english.bigregister.nl
 opendata.bigregister.nl
 mijn.bigregister.nl
+zoeken.bigregister.nl
 acceptatie.behandel.bigregister.nl
 behandel.bigregister.nl

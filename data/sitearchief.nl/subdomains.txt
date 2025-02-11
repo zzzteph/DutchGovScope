@@ -11,7 +11,6 @@ archief32.sitearchief.nl
 coa.sitearchief.nl
 onderwijsraad.sitearchief.nl
 archief22.sitearchief.nl
-cibg.sitearchief.nl
 degezondheidsraad.sitearchief.nl
 ind.sitearchief.nl
 archief23.sitearchief.nl

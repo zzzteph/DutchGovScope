@@ -69,7 +69,6 @@ https://dbc.staging.rijksapplicaties.nl
 https://rvb-kpm.staging.rijksapplicaties.nl
 https://stakeholdersregistratie.staging.rijksapplicaties.nl
 https://dib-knmi.staging.rijksapplicaties.nl
-https://dp-test.staging.rijksapplicaties.nl
 https://ncg-ivd.staging.rijksapplicaties.nl
 https://rvb-arr.staging.rijksapplicaties.nl
 https://staging.rijksapplicaties.nl
@@ -256,13 +255,9 @@ https://wpo.rijksapplicaties.nl
 https://lup.rijksapplicaties.nl
 https://bhw.rijksapplicaties.nl
 https://prisma.rijksapplicaties.nl
-https://app2.rijksapplicaties.nl
 https://eres.rijksapplicaties.nl
-https://app1.rijksapplicaties.nl
-https://app3.rijksapplicaties.nl
 https://rosi.rijksapplicaties.nl
 https://woo.rijksapplicaties.nl
-https://dpt.rijksapplicaties.nl
 https://sth.rijksapplicaties.nl
 https://bda.rijksapplicaties.nl
 https://dsa.staging.rijksapplicaties.nl

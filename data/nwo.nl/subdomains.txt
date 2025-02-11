@@ -19,3 +19,4 @@ vpnportal.nwo.nl
 digitoegankelijk.nwo.nl
 enterpriseenrollment.nwo.nl
 data.nwo.nl
+vpn.nwo.nl

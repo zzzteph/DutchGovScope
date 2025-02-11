@@ -30,7 +30,7 @@
 |[https://feeds.postedworkers.nl](https://feeds.postedworkers.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://opendata.deutsch.postedworkers.nl](https://opendata.deutsch.postedworkers.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://opendata.postedworkers.nl](https://opendata.postedworkers.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://meldloket.postedworkers.nl](https://meldloket.postedworkers.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | ||Object moved per...|
+|[https://meldloket.postedworkers.nl](https://meldloket.postedworkers.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Object moved per...|
 |[https://myidp-acc.postedworkers.nl](https://myidp-acc.postedworkers.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://url6099.mail.postedworkers.nl](https://url6099.mail.postedworkers.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|404 Not Found|
 |[https://myidp.postedworkers.nl](https://myidp.postedworkers.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||

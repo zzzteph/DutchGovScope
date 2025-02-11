@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:94
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:95
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/rws.nl/subdomains.txt)|164|Alive subdomains|
-|[urls.txt](/data/rws.nl/urls.txt)|161|Urls|
+|[urls.txt](/data/rws.nl/urls.txt)|162|Urls|
 
 
 ## Statistics
@@ -181,5 +181,6 @@
 |[http://mip-proxy-prod.rws.nl](http://mip-proxy-prod.rws.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://fcd-acc-bemobile-trajectorien.rws.nl](https://fcd-acc-bemobile-trajectorien.rws.nl)| | **E**|| | | | | | | | :white_check_mark: | |Azure Azure Front Door Basic||
 |[https://fcd-acc-bemobile-aid-triggers.rws.nl](https://fcd-acc-bemobile-aid-triggers.rws.nl)| | **E**|| | | | | | | | :white_check_mark: | |Azure Azure Front Door Basic||
+|[http://mip.rws.nl](http://mip.rws.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 
 

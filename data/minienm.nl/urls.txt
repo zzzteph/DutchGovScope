@@ -16,3 +16,4 @@ https://service.mpn.minienm.nl
 https://mpn-pre.minienm.nl
 https://dcc.minienm.nl
 http://localhost.minienm.nl
+https://sap.intranet.minienm.nl

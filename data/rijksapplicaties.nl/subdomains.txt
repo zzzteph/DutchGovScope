@@ -69,7 +69,6 @@ dbc.staging.rijksapplicaties.nl
 rvb-kpm.staging.rijksapplicaties.nl
 stakeholdersregistratie.staging.rijksapplicaties.nl
 dib-knmi.staging.rijksapplicaties.nl
-dp-test.staging.rijksapplicaties.nl
 ncg-ivd.staging.rijksapplicaties.nl
 rvb-arr.staging.rijksapplicaties.nl
 staging.rijksapplicaties.nl
@@ -256,13 +255,9 @@ wpo.rijksapplicaties.nl
 lup.rijksapplicaties.nl
 bhw.rijksapplicaties.nl
 prisma.rijksapplicaties.nl
-app2.rijksapplicaties.nl
 eres.rijksapplicaties.nl
-app1.rijksapplicaties.nl
-app3.rijksapplicaties.nl
 rosi.rijksapplicaties.nl
 woo.rijksapplicaties.nl
-dpt.rijksapplicaties.nl
 sth.rijksapplicaties.nl
 bda.rijksapplicaties.nl
 dsa.staging.rijksapplicaties.nl

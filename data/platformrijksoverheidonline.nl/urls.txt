@@ -8,3 +8,4 @@ https://feeds.oud.platformrijksoverheidonline.nl
 https://opendata.oud.platformrijksoverheidonline.nl
 https://oud.platformrijksoverheidonline.nl
 https://api.abonneren.platformrijksoverheidonline.nl
+https://redactie.platformrijksoverheidonline.nl

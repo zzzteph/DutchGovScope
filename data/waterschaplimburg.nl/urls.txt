@@ -28,6 +28,7 @@ https://werkplek.waterschaplimburg.nl
 http://verhuisbedrijven.waterschaplimburg.nl
 http://publicaffairs.waterschaplimburg.nl
 http://www-gp-web-1691.waterschaplimburg.nl
+http://cmsp.waterschaplimburg.nl
+http://channeltivity.waterschaplimburg.nl
 https://bron.waterschaplimburg.nl
 https://cms-bron.waterschaplimburg.nl
-https://test-cms-bron.waterschaplimburg.nl

@@ -88,7 +88,6 @@ vo.databank.nl
 flevoland.databank.nl
 mre.databank.nl
 rabobank.databank.nl
-inspectie-oe.databank.nl
 www.nederlandschoon.databank.nl
 stap.databank.nl
 www.gip.databank.nl
@@ -153,12 +152,10 @@ beta.cbc.databank.nl
 waves.databank.nl
 www.arbeidsmarkthoreca.databank.nl
 archieven.databank.nl
-beta-ebc2.databank.nl
 aedesterugkoppeling.databank.nl
 52f899ee-8923-43fb-bd69-93a6bbdd883b.databank.nl
 wonenbreburg.en.databank.nl
 cname-forecast-adc.databank.nl
-beta-ais.databank.nl
 www.crow.databank.nl
 monitor-ow-en-wkb.databank.nl
 beta-primostijdreeks.databank.nl

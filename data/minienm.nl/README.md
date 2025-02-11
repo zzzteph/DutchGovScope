@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/minienm.nl/subdomains.txt)|19|Alive subdomains|
-|[urls.txt](/data/minienm.nl/urls.txt)|18|Urls|
+|[urls.txt](/data/minienm.nl/urls.txt)|19|Urls|
 
 
 ## Statistics
@@ -38,5 +38,6 @@
 |[https://mpn-pre.minienm.nl](https://mpn-pre.minienm.nl)| | **F**|nginx/1.27.3| | | | | | | | :white_check_mark: | |Nginx:1.27.3|MPN PRE-Producti...|
 |[https://dcc.minienm.nl](https://dcc.minienm.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
 |[http://localhost.minienm.nl](http://localhost.minienm.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
+|[https://sap.intranet.minienm.nl](https://sap.intranet.minienm.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
 
 

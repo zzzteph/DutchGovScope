@@ -6,6 +6,7 @@ mail.veiligheidsregioflevoland.nl
 autodiscover.veiligheidsregioflevoland.nl
 enterpriseenrollment.veiligheidsregioflevoland.nl
 enterpriseregistration.veiligheidsregioflevoland.nl
+abcdef.veiligheidsregioflevoland.nl
 winterband.veiligheidsregioflevoland.nl
 baum.veiligheidsregioflevoland.nl
 audiobooks.veiligheidsregioflevoland.nl
@@ -13,5 +14,4 @@ msoid.veiligheidsregioflevoland.nl
 vm02.veiligheidsregioflevoland.nl
 orsha.veiligheidsregioflevoland.nl
 azb.veiligheidsregioflevoland.nl
-www76.veiligheidsregioflevoland.nl
 drumnbass.veiligheidsregioflevoland.nl

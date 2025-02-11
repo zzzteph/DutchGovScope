@@ -50,7 +50,6 @@ https://insights.mfaservices.nl
 https://prod.sq.mfaservices.nl
 https://sq.mfaservices.nl
 https://protocol.mfaservices.nl
-https://snd.login.consular.mfaservices.nl
 https://tst-biometric-service.consular.mfaservices.nl
 https://tst.esp.mfaservices.nl
 https://tst.liferay.mfaservices.nl

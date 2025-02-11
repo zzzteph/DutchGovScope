@@ -61,6 +61,7 @@ forms.zuid-holland.nl
 geo.zuid-holland.nl
 geoweb.zuid-holland.nl
 investerenin.zuid-holland.nl
+jaaroverzichtcommissarisvandekoning2023.zuid-holland.nl
 natura2000-data.zuid-holland.nl
 subsidieportaal.zuid-holland.nl
 virtueel.zuid-holland.nl

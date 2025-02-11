@@ -2,10 +2,10 @@
 layout: default
 title: "mfaservices.nl"
 permalink: "/dutchgov/mfaservices.nl.html"
-subdomains_count: 64
-urls_count: 64
+subdomains_count: 63
+urls_count: 63
 ssl_rank: 
-http_rank: D
+http_rank: C
 security_txt: 10
 url_link: /data/mfaservices.nl/urls.txt
 subdomains_link: /data/mfaservices.nl/subdomains.txt
@@ -19,14 +19,14 @@ tags: dutchgov
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:D
+ - **HTTP Security Grade**:C
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:10
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/mfaservices.nl/subdomains.txt)|64|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/mfaservices.nl/urls.txt)|64|Urls|
+|[subdomains.txt](/DutchGovScope/data/mfaservices.nl/subdomains.txt)|63|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/mfaservices.nl/urls.txt)|63|Urls|
 
 
 ## Statistics
@@ -86,7 +86,6 @@ tags: dutchgov
 |[https://prod.sq.mfaservices.nl](https://prod.sq.mfaservices.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[https://sq.mfaservices.nl](https://sq.mfaservices.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Application Request Routing:3.0 HSTS IIS Java SonarQubes|SonarQube|
 |[https://protocol.mfaservices.nl](https://protocol.mfaservices.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Azure HSTS||
-|[https://snd.login.consular.mfaservices.nl](https://snd.login.consular.mfaservices.nl)| | **F**|cloudflare|:white_check_mark: | | | | | | | :white_check_mark: | |Azure Azure Front Door Cloudflare Cloudflare Bot Management|Consular Service...|
 |[https://tst-biometric-service.consular.mfaservices.nl](https://tst-biometric-service.consular.mfaservices.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
 |[https://tst.esp.mfaservices.nl](https://tst.esp.mfaservices.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
 |[https://tst.liferay.mfaservices.nl](https://tst.liferay.mfaservices.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|

@@ -8,6 +8,7 @@ webmail.kansspelautoriteit.nl
 portal.kansspelautoriteit.nl
 acc.kansspelautoriteit.nl
 desktop.kansspelautoriteit.nl
+ems.kansspelautoriteit.nl
 enterpriseenrollment.kansspelautoriteit.nl
 enterpriseregistration.kansspelautoriteit.nl
 uag1.kansspelautoriteit.nl

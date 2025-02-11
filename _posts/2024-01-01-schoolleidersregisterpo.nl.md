@@ -40,7 +40,7 @@ tags: dutchgov
 |[https://opendata.schoolleidersregisterpo.nl](https://opendata.schoolleidersregisterpo.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://schoolleidersregisterpo.nl](https://schoolleidersregisterpo.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 |[https://www.schoolleidersregisterpo.nl](https://www.schoolleidersregisterpo.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Schoollei...|
-|[http://ftp.schoolleidersregisterpo.nl](http://ftp.schoolleidersregisterpo.nl)| | **F**|nginx/1.18.0| | | | | | | | :white_check_mark: | |Nginx:1.18.0|Combell.com Park...|
+|[http://ftp.schoolleidersregisterpo.nl](http://ftp.schoolleidersregisterpo.nl)| | **F**|nginx/1.26.3| | | | | | | | :white_check_mark: | |Nginx:1.26.3|Combell.com Park...|
 |[https://enterpriseenrollment.schoolleidersregisterpo.nl](https://enterpriseenrollment.schoolleidersregisterpo.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://enterpriseregistration.schoolleidersregisterpo.nl](https://enterpriseregistration.schoolleidersregisterpo.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://aanmelder.schoolleidersregisterpo.nl](https://aanmelder.schoolleidersregisterpo.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|404 Not Found|

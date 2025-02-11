@@ -35,3 +35,4 @@ opendisdata.nza.nl
 agw01-nomail.nza.nl
 jv.nza.nl
 elearning-msz.nza.nl
+opendisdata-acc.nza.nl
