@@ -6,7 +6,7 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:24
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:25
 
 
 | File       | Count | Info |
@@ -22,8 +22,8 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://acceptatie.machtigen.digid.nl](https://acceptatie.machtigen.digid.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|DigiD Machtigen|
 |[https://pp1.machtigen.digid.nl](https://pp1.machtigen.digid.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|DigiD Machtigen|
-|[https://www.acceptatie.machtigen.digid.nl](https://www.acceptatie.machtigen.digid.nl)| | **A**|BigIP|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
-|[https://www.pp1.machtigen.digid.nl](https://www.pp1.machtigen.digid.nl)| | **A**|BigIP|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
+|[https://www.acceptatie.machtigen.digid.nl](https://www.acceptatie.machtigen.digid.nl)| | **A**|BigIP|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP HSTS||
+|[https://www.pp1.machtigen.digid.nl](https://www.pp1.machtigen.digid.nl)| | **A**|BigIP|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP HSTS||
 |[https://api-preprod1.digid.nl](https://api-preprod1.digid.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://api-preprod2.digid.nl](https://api-preprod2.digid.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://api.digid.nl](https://api.digid.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
@@ -33,11 +33,11 @@
 |[https://app.digid.nl](https://app.digid.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://balieportaal.digid.nl](https://balieportaal.digid.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Balieportaal|
 |[https://helpdesk.machtigen.digid.nl](https://helpdesk.machtigen.digid.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Machtigen via He...|
-|[http://www.machtigen.digid.nl](http://www.machtigen.digid.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://www.machtigen.digid.nl](https://www.machtigen.digid.nl)| | **A**|BigIP| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP HSTS||
 |[https://beta.machtigen.digid.nl](https://beta.machtigen.digid.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|DigiD Machtigen|
 |[https://machtigen.digid.nl](https://machtigen.digid.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|DigiD Machtigen|
 |[https://digid.nl](https://digid.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://www.ontwikkel.machtigen.digid.nl](https://www.ontwikkel.machtigen.digid.nl)| | **A**|BigIP|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP||
+|[https://www.ontwikkel.machtigen.digid.nl](https://www.ontwikkel.machtigen.digid.nl)| | **A**|BigIP|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP HSTS||
 |[https://dv.ontwikkel.machtigen.digid.nl](https://dv.ontwikkel.machtigen.digid.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|404 Not Found|
 |[https://ob.ontwikkel.machtigen.digid.nl](https://ob.ontwikkel.machtigen.digid.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|404 Not Found|
 |[https://ontwikkel.machtigen.digid.nl](https://ontwikkel.machtigen.digid.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|DigiD Machtigen|
@@ -48,7 +48,7 @@
 |[https://login.pp1.digid.nl](https://login.pp1.digid.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://login.pp2.digid.nl](https://login.pp2.digid.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://mijn.digid.nl](https://mijn.digid.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Ruby Ruby on Rails||
-|[https://mijn.preprod1.digid.nl](https://mijn.preprod1.digid.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Ruby Ruby on Rails||
+|[https://mijn.preprod1.digid.nl](https://mijn.preprod1.digid.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Ruby Ruby on Rails||
 |[https://mijn.preprod2.digid.nl](https://mijn.preprod2.digid.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Ruby Ruby on Rails||
 |[https://preprod1.digid.nl](https://preprod1.digid.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://preprod2.digid.nl](https://preprod2.digid.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||

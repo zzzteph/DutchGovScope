@@ -1,5 +1,3 @@
 amice.lma.nl
 prod.amice.lma.nl
-lma.nl
 test.lma.nl
-www.lma.nl

@@ -1,5 +1,3 @@
-aaenmaas.nl
-www.aaenmaas.nl
 autodiscover.aaenmaas.nl
 oa.aaenmaas.nl
 dialin.aaenmaas.nl
@@ -8,7 +6,6 @@ lyncdiscover.aaenmaas.nl
 maps.aaenmaas.nl
 meet.aaenmaas.nl
 helloid.aaenmaas.nl
-login.aaenmaas.nl
 vpn2.aaenmaas.nl
 sip.aaenmaas.nl
 sharepoint.aaenmaas.nl

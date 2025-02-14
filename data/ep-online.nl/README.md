@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/ep-online.nl/subdomains.txt)|18|Alive subdomains|
-|[urls.txt](/data/ep-online.nl/urls.txt)|18|Urls|
+|[subdomains.txt](/data/ep-online.nl/subdomains.txt)|17|Alive subdomains|
+|[urls.txt](/data/ep-online.nl/urls.txt)|17|Urls|
 
 
 ## Statistics
@@ -36,7 +36,6 @@
 |[https://public.ep-online.nl](https://public.ep-online.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
 |[https://registreren-acc.ep-online.nl](https://registreren-acc.ep-online.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|IIS Windows Serv...|
 |[https://downloadpdf.ep-online.nl](https://downloadpdf.ep-online.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|Not Found|
-|[http://apikey-preprod.ep-online.nl](http://apikey-preprod.ep-online.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 |[https://apikey.ep-online.nl](https://apikey.ep-online.nl)| | **A**|Microsoft-IIS/10.0|:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Home - Aanvraagf...|
 
 

@@ -3,3 +3,4 @@ rds.minfin.nl
 remote.minfin.nl
 www.minfin.nl
 minfin.nl
+test-koo.minfin.nl

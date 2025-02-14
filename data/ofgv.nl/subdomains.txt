@@ -1,6 +1,3 @@
-ofgv.nl
-redactie.ofgv.nl
-www.ofgv.nl
 autodiscover.ofgv.nl
 webmail.ofgv.nl
 kenniscentrum.ofgv.nl

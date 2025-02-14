@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/duo.nl/subdomains.txt)|32|Alive subdomains|
+|[subdomains.txt](/data/duo.nl/subdomains.txt)|25|Alive subdomains|
 |[urls.txt](/data/duo.nl/urls.txt)|24|Urls|
 
 
@@ -29,7 +29,7 @@
 |[https://digidzakelijk.duo.nl](https://digidzakelijk.duo.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Inloggen - Mijn...|
 |[https://eidas-mijn.duo.nl](https://eidas-mijn.duo.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[http://enterpriseenrollment.duo.nl](http://enterpriseenrollment.duo.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|Document Moved|
-|[https://idposr.duo.nl](https://idposr.duo.nl)| | **A**|WebSEAL/10.0.8.0| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Moved Temporaril...|
+|[https://idposr.duo.nl](https://idposr.duo.nl)| | **A**|WebSEAL/11.0.0.0| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Moved Temporaril...|
 |[https://instellingsinformatie.duo.nl](https://instellingsinformatie.duo.nl)| | **B**|| | | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | ||DUO melding|
 |[https://instellingsinformatie.scha.duo.nl](https://instellingsinformatie.scha.duo.nl)| | **E**|| | | | | | | | :white_check_mark: | ||DUO melding|
 |[https://mijn.duo.nl](https://mijn.duo.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |||

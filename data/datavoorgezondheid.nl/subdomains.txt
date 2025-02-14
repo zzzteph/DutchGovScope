@@ -2,3 +2,4 @@ feeds.datavoorgezondheid.nl
 opendata.datavoorgezondheid.nl
 www.datavoorgezondheid.nl
 datavoorgezondheid.nl
+generiekefuncties.datavoorgezondheid.nl

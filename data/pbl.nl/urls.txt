@@ -18,7 +18,6 @@ https://snippet.pbl.nl
 https://themasites.pbl.nl
 https://dwo.pbl.nl
 https://fs.pbl.nl
-https://mailings.pbl.nl
 https://sf.pbl.nl
 https://survey.pbl.nl
 https://webmail.pbl.nl

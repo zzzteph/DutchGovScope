@@ -6,8 +6,6 @@ chat.ind.nl
 beheer.chat.ind.nl
 oap.ind.nl
 ediensten.ind.nl
-ind.nl
-www.ind.nl
 academie.ind.nl
 www.academie.ind.nl
 localhost.ind.nl

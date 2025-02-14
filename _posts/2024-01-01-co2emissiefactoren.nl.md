@@ -5,7 +5,7 @@ permalink: "/dutchgov/co2emissiefactoren.nl.html"
 subdomains_count: 2
 urls_count: 2
 ssl_rank: 
-http_rank: F
+http_rank: A
 security_txt: 0
 url_link: /data/co2emissiefactoren.nl/urls.txt
 subdomains_link: /data/co2emissiefactoren.nl/subdomains.txt
@@ -19,7 +19,7 @@ tags: dutchgov
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:F
+ - **HTTP Security Grade**:A
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
@@ -34,7 +34,7 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://co2emissiefactoren.nl](https://co2emissiefactoren.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|301 Moved Perman...|
-|[https://www.co2emissiefactoren.nl](https://www.co2emissiefactoren.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server MySQL PHP Slider Revolution:6.7.23 WordPress:6.7.1 Yoast SEO:24.0 wpBakery|Home | CO2 emiss...|
+|[https://co2emissiefactoren.nl](https://co2emissiefactoren.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS Nginx|Home | CO₂-emiss...|
+|[https://www.co2emissiefactoren.nl](https://www.co2emissiefactoren.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Nginx|302 Found|
 
 

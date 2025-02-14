@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:E
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:7
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:6
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/mett.nl/subdomains.txt)|1026|Alive subdomains|
-|[urls.txt](/data/mett.nl/urls.txt)|286|Urls|
+|[subdomains.txt](/data/mett.nl/subdomains.txt)|1122|Alive subdomains|
+|[urls.txt](/data/mett.nl/urls.txt)|264|Urls|
 
 
 ## Statistics
@@ -23,14 +23,14 @@
 |[http://log.mett.nl](http://log.mett.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|301 Moved Perman...|
 |[https://mett.nl](https://mett.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS Linkedin Ads MySQL PHP WPML:4.6.12 WordPress Yoast SEO:22.9|Online samenwerk...|
 |[https://www.mett.nl](https://www.mett.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
-|[https://pilotnudging.mett.nl](https://pilotnudging.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET YouTube|Object moved|
+|[https://pilotnudging.mett.nl](https://pilotnudging.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET YouTube|405 Method not a...|
 |[https://winnovatie.mett.nl](https://winnovatie.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 |[https://grootsaeftinghe.mett.nl](https://grootsaeftinghe.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET YouTube|Object moved|
 |[https://nieuwsienw.mett.nl](https://nieuwsienw.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 |[https://havenhart2punt0.mett.nl](https://havenhart2punt0.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 |[https://intranet-zih.mett.nl](https://intranet-zih.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|Object moved|
 |[https://communitykleurrijkwonen.mett.nl](https://communitykleurrijkwonen.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
-|[https://onbedoeldezwangerschap.mett.nl](https://onbedoeldezwangerschap.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
+|[https://onbedoeldezwangerschap.mett.nl](https://onbedoeldezwangerschap.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|405 Method not a...|
 |[https://support.mett.nl](https://support.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 |[https://agendalaadinfrastructuur.mett.nl](https://agendalaadinfrastructuur.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 |[https://deambachtapeldoorn.mett.nl](https://deambachtapeldoorn.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET YouTube|Object moved|
@@ -42,9 +42,11 @@
 |[https://login.mett.nl](https://login.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|Object moved|
 |[https://uniresearch.mett.nl](https://uniresearch.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 |[https://lrjg.mett.nl](https://lrjg.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|Object moved|
-|[https://werkom.mett.nl](https://werkom.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|Object moved|
-|[https://inkoopsamenwerking.mett.nl](https://inkoopsamenwerking.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
-|[https://hilversum1221.mett.nl](https://hilversum1221.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
+|[https://werkom.mett.nl](https://werkom.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|405 Method not a...|
+|[https://pr.mett.nl](https://pr.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://www.amsterdamgroup.mett.nl](https://www.amsterdamgroup.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://inkoopsamenwerking.mett.nl](https://inkoopsamenwerking.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|405 Method not a...|
+|[https://hilversum1221.mett.nl](https://hilversum1221.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|405 Method not a...|
 |[https://legal.mett.nl](https://legal.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 |[https://gebruikersvoorwaarden.mett.nl](https://gebruikersvoorwaarden.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 |[https://jeugdhulphaaglanden.mett.nl](https://jeugdhulphaaglanden.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
@@ -54,7 +56,7 @@
 |[https://ao.mett.nl](https://ao.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 |[https://omgevingsdienstnl.mett.nl](https://omgevingsdienstnl.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|Object moved|
 |[https://monozakelijk.mett.nl](https://monozakelijk.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
-|[https://kernmetpit.mett.nl](https://kernmetpit.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
+|[https://kernmetpit.mett.nl](https://kernmetpit.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|405 Method not a...|
 |[https://veracommunity.mett.nl](https://veracommunity.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET hCaptcha|Object moved|
 |[https://samenopdehoogte.mett.nl](https://samenopdehoogte.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 |[https://metamersfoort.mett.nl](https://metamersfoort.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
@@ -140,7 +142,6 @@
 |[https://blueskygroup.mett.nl](https://blueskygroup.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 |[https://samenhaaksbergen.mett.nl](https://samenhaaksbergen.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 |[https://bio-enerco.mett.nl](https://bio-enerco.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
-|[https://akademievankunsten.mett.nl](https://akademievankunsten.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 |[https://groenalliantiemiddenholland.mett.nl](https://groenalliantiemiddenholland.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 |[https://mantelzorgzeist.mett.nl](https://mantelzorgzeist.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft ASP.NET|Object moved|
 |[https://limonadebrigade.mett.nl](https://limonadebrigade.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |Google Tag Manager HSTS Microsoft ASP.NET|Object moved|
@@ -172,6 +173,7 @@
 |[https://joske.mett.nl](https://joske.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 |[https://debouwagenda.mett.nl](https://debouwagenda.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | ||405 Method not a...|
 |[https://fagoed.mett.nl](https://fagoed.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|405 Method not a...|
+|[https://fieldlabs.mett.nl](https://fieldlabs.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | ||405 Method not a...|
 |[https://test-login.mett.nl](https://test-login.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|Object moved|
 |[https://krinkelsinbeheerenonderhoud.mett.nl](https://krinkelsinbeheerenonderhoud.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 |[https://samen14.mett.nl](https://samen14.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
@@ -179,45 +181,14 @@
 |[https://erfgoedalliantie.mett.nl](https://erfgoedalliantie.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 |[https://udi.mett.nl](https://udi.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|405 Method not a...|
 |[https://anna.mett.nl](https://anna.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|Object moved|
-|[https://soest.mett.nl](https://soest.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
-|[https://web5897.mett.nl](https://web5897.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
-|[https://kkn.mett.nl](https://kkn.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
-|[https://3dhomemade.mett.nl](https://3dhomemade.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
-|[https://web18608.mett.nl](https://web18608.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
-|[https://web5223.mett.nl](https://web5223.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
-|[https://hanglampen-lampen.mett.nl](https://hanglampen-lampen.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
-|[https://blumen.mett.nl](https://blumen.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
-|[https://benin.mett.nl](https://benin.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
-|[https://brtc.mett.nl](https://brtc.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
-|[https://sitestats.mett.nl](https://sitestats.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
-|[https://renault.mett.nl](https://renault.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
-|[https://miv.mett.nl](https://miv.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
-|[https://toastmasters.mett.nl](https://toastmasters.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
-|[https://konijnenvoer.mett.nl](https://konijnenvoer.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
-|[https://wildcat.mett.nl](https://wildcat.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
-|[https://acc-zorgverleners-custom.mett.nl](https://acc-zorgverleners-custom.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
-|[https://callisto.mett.nl](https://callisto.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
-|[https://test77.mett.nl](https://test77.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
-|[https://kleopatra.mett.nl](https://kleopatra.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
-|[https://10021nysocialites.mett.nl](https://10021nysocialites.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
-|[https://flashmobile.mett.nl](https://flashmobile.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
 |[https://optimus.mett.nl](https://optimus.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|Object moved|
-|[https://ucsd.mett.nl](https://ucsd.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
-|[https://grandrapids.mett.nl](https://grandrapids.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
-|[https://redirectvirusgoogle.mett.nl](https://redirectvirusgoogle.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
-|[https://ref-mein.mett.nl](https://ref-mein.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
-|[https://logo.mett.nl](https://logo.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
-|[https://doordash.mett.nl](https://doordash.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
-|[https://alas.mett.nl](https://alas.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
-|[https://the-tribe.mett.nl](https://the-tribe.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | ||405 Method not a...|
-|[https://181818.mett.nl](https://181818.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | ||405 Method not a...|
-|[https://enter.mett.nl](https://enter.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | ||405 Method not a...|
-|[https://cylance.mett.nl](https://cylance.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | ||405 Method not a...|
 |[https://bvo.mett.nl](https://bvo.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | ||405 Method not a...|
 |[https://onderwijsenarbeidsmarkt.mett.nl](https://onderwijsenarbeidsmarkt.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | ||405 Method not a...|
 |[https://drontenikpraatmee.mett.nl](https://drontenikpraatmee.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|405 Method not a...|
 |[https://mirta2deilvught.mett.nl](https://mirta2deilvught.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
+|[https://muad.mett.nl](https://muad.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | ||405 Method not a...|
 |[https://samenshertogenbosch.mett.nl](https://samenshertogenbosch.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET hCaptcha|Object moved|
+|[https://scheldedelta.mett.nl](https://scheldedelta.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|Object moved|
 |[https://rene.mett.nl](https://rene.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft ASP.NET YouTube|Object moved|
 |[https://kcs.mett.nl](https://kcs.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|Object moved|
 |[https://security.mett.nl](https://security.mett.nl)| | **A**||:white_check_mark: |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
@@ -227,8 +198,8 @@
 |[https://duurzaamwinterswijk.mett.nl](https://duurzaamwinterswijk.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 |[https://intranetsightlandscaping.mett.nl](https://intranetsightlandscaping.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|Object moved|
 |[https://toekomstbehendigbrabant.mett.nl](https://toekomstbehendigbrabant.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Linkedin Ads Microsoft ASP.NET|Object moved|
-|[https://sterkbrabant.mett.nl](https://sterkbrabant.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
-|[https://programmavivet.mett.nl](https://programmavivet.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
+|[https://sterkbrabant.mett.nl](https://sterkbrabant.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|405 Method not a...|
+|[https://programmavivet.mett.nl](https://programmavivet.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|405 Method not a...|
 |[https://samenbernheze.mett.nl](https://samenbernheze.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 |[https://meanderomnium.mett.nl](https://meanderomnium.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 |[https://locov.mett.nl](https://locov.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET SDL Tridion|Object moved|
@@ -243,7 +214,6 @@
 |[https://verkeersveiligheidscampagnes.mett.nl](https://verkeersveiligheidscampagnes.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|405 Method not a...|
 |[https://hoekschewaard.mett.nl](https://hoekschewaard.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 |[https://mgrsdcg.mett.nl](https://mgrsdcg.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|405 Method not a...|
-|[https://encodingtest.mett.nl](https://encodingtest.mett.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET:4.0.30319 Windows Server|Object moved|
 |[https://renelivetest.mett.nl](https://renelivetest.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft ASP.NET YouTube|405 Method not a...|
 |[https://m4spa.azure.mett.nl](https://m4spa.azure.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
 |[https://innovatiehuisdepeel.mett.nl](https://innovatiehuisdepeel.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|405 Method not a...|
@@ -294,17 +264,25 @@
 |[https://bequan.demo.mett.nl](https://bequan.demo.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
 |[https://pom.mett.nl](https://pom.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 |[https://websiterudzuidlimburg.mett.nl](https://websiterudzuidlimburg.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
+|[https://n340.mett.nl](https://n340.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
 |[https://wegwijzeraquathermie.mett.nl](https://wegwijzeraquathermie.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 |[https://icovet.mett.nl](https://icovet.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|Object moved|
 |[https://jos.mett.nl](https://jos.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|405 Method not a...|
 |[https://studioovu.mett.nl](https://studioovu.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 |[https://samenmetwetterskip.mett.nl](https://samenmetwetterskip.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET hCaptcha|Object moved|
-|[https://move-rdh.mett.nl](https://move-rdh.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET YouTube|Object moved|
+|[https://stammerdijksniep.mett.nl](https://stammerdijksniep.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | ||405 Method not a...|
+|[https://move-rdh.mett.nl](https://move-rdh.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET YouTube|405 Method not a...|
 |[https://safebydesign.mett.nl](https://safebydesign.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 |[https://mkdoorn.mett.nl](https://mkdoorn.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
-|[https://monique.mett.nl](https://monique.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|Object moved|
 |[https://idfp.mett.nl](https://idfp.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 |[https://umcgbouwt.mett.nl](https://umcgbouwt.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET YouTube|Object moved|
 |[https://meedenkenarnhem.mett.nl](https://meedenkenarnhem.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
+|[https://goedevrijdag.mett.nl](https://goedevrijdag.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | ||405 Method not a...|
+|[https://myreports.mett.nl](https://myreports.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | ||405 Method not a...|
+|[https://but.mett.nl](https://but.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | ||405 Method not a...|
+|[https://cistron.mett.nl](https://cistron.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://cheapflights.mett.nl](https://cheapflights.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://maus.mett.nl](https://maus.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://vga.mett.nl](https://vga.mett.nl)| | **E**|| | | | | | | | :white_check_mark: | ||405 Method not a...|
 
 

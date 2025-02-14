@@ -24,6 +24,6 @@
 |[https://feeds.digitalenoordzee.nl](https://feeds.digitalenoordzee.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://opendata.digitalenoordzee.nl](https://opendata.digitalenoordzee.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://www.digitalenoordzee.nl](https://www.digitalenoordzee.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Digitale...|
-|[https://spx-oec.digitalenoordzee.nl](https://spx-oec.digitalenoordzee.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Website niet bes...|
+|[https://spx-oec.digitalenoordzee.nl](https://spx-oec.digitalenoordzee.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|Website niet bes...|
 
 

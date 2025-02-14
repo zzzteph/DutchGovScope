@@ -178,7 +178,6 @@ https://mijnsap.rivm.nl
 https://modellenregister.rivm.nl
 https://nevo-online.rivm.nl
 https://nevo.rivm.nl
-https://nieuwsbrief.rivm.nl
 http://nivelform.rivm.nl
 https://nsl-monitoring.rivm.nl
 https://samenmeten.rivm.nl

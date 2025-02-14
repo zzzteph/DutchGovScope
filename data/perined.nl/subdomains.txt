@@ -13,3 +13,5 @@ autodiscover.perined.nl
 localhost.perined.nl
 webmail.perined.nl
 registratie.perined.nl
+aanlevering.perined.nl
+aanlevering-tst.perined.nl

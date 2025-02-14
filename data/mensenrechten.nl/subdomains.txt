@@ -12,4 +12,3 @@ publicaties.mensenrechten.nl
 autodiscover.mensenrechten.nl
 enterpriseenrollment.mensenrechten.nl
 enterpriseregistration.mensenrechten.nl
-micc.mensenrechten.nl

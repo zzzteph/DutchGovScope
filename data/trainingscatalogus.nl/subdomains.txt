@@ -18,7 +18,6 @@ vgz-lms.course-api.trainingscatalogus.nl
 vgz-lms.enrollment-api.trainingscatalogus.nl
 vgz-lms.product-api.trainingscatalogus.nl
 vgz-lms.scim-api.trainingscatalogus.nl
-svb-lms-a.scim-api.trainingscatalogus.nl
 trainingscatalogus.nl
 vgz-lms-a.course-api.trainingscatalogus.nl
 vgz-lms-a.enrollment-api.trainingscatalogus.nl

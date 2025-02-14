@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/cjib.nl/subdomains.txt)|21|Alive subdomains|
-|[urls.txt](/data/cjib.nl/urls.txt)|20|Urls|
+|[subdomains.txt](/data/cjib.nl/subdomains.txt)|19|Alive subdomains|
+|[urls.txt](/data/cjib.nl/urls.txt)|19|Urls|
 
 
 ## Statistics
@@ -20,8 +20,8 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://analytics-acc.cjib.nl](https://analytics-acc.cjib.nl)| | **B**|nginx|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx|Matomo › Error|
-|[https://analytics.cjib.nl](https://analytics.cjib.nl)| | **B**|nginx|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx|Matomo › Error|
+|[https://analytics-acc.cjib.nl](https://analytics-acc.cjib.nl)| | **B**|nginx|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |AngularJS HSTS Matomo Analytics Nginx|Sign in - Matomo|
+|[https://analytics.cjib.nl](https://analytics.cjib.nl)| | **B**|nginx|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |AngularJS HSTS Matomo Analytics Nginx|Sign in - Matomo|
 |[https://autodiscover.cjib.nl](https://autodiscover.cjib.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Windows Server||
 |[https://mail.cjib.nl](https://mail.cjib.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Windows Server||
 |[https://binnenplein.cjib.nl](https://binnenplein.cjib.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
@@ -35,7 +35,6 @@
 |[https://pay-acc.cjib.nl](https://pay-acc.cjib.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://pay.cjib.nl](https://pay.cjib.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://werken.cjib.nl](https://werken.cjib.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java|VMware Horizon|
-|[https://vpn.cjib.nl](https://vpn.cjib.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://open.cjib.nl](https://open.cjib.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS||
 |[https://www.open.cjib.nl](https://www.open.cjib.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS||
 |[https://blauwe-knop-acc.cjib.nl](https://blauwe-knop-acc.cjib.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||

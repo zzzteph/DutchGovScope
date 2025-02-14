@@ -55,7 +55,7 @@ tags: dutchgov
 |[https://redactie.gebruikercentraal.nl](https://redactie.gebruikercentraal.nl)| | **C**|nginx|:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Nginx PHP:8.2.27||
 |[https://volwassenheidsscan.gebruikercentraal.nl](https://volwassenheidsscan.gebruikercentraal.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS MySQL Nginx PHP:8.2.27 WordPress:6.7.1|Volwassenheidssc...|
 |[https://www.gebruikercentraal.nl](https://www.gebruikercentraal.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS MySQL Nginx PHP:8.2.27 WordPress:6.7.1 Yoast SEO:24.1|Gebruiker Centra...|
-|[https://beeldbieb.gebruikercentraal.nl](https://beeldbieb.gebruikercentraal.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Nginx PHP:8.1.31||
+|[https://beeldbieb.gebruikercentraal.nl](https://beeldbieb.gebruikercentraal.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx PHP:8.1.31||
 |[https://expertpanel.gebruikercentraal.nl](https://expertpanel.gebruikercentraal.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx PHP:8.2.27||
 |[https://inclusiekader.gebruikercentraal.nl](https://inclusiekader.gebruikercentraal.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx PHP:8.1.31||
 |[https://lint.gebruikercentraal.nl](https://lint.gebruikercentraal.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx PHP:8.1.31||

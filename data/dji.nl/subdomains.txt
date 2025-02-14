@@ -10,4 +10,3 @@ dvfz.dji.nl
 intranet.dji.nl
 cdn.dji.nl
 ftp.dji.nl
-video-acc.beeldbellen.dji.nl

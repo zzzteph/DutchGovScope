@@ -43,7 +43,7 @@ http://prod.flevoland.nl
 https://www.flevoland.nl
 https://formulieren.flevoland.nl
 https://preprodformulieren.flevoland.nl
-https://kaart.flevoland.nl
+http://kaart.flevoland.nl
 https://luchtfoto.flevoland.nl
 https://monitorwonen.flevoland.nl
 https://geo.flevoland.nl
@@ -56,7 +56,6 @@ https://meepraten.flevoland.nl
 https://micollab.flevoland.nl
 https://preprodid.flevoland.nl
 https://stateninformatie.flevoland.nl
-http://test-cmsintranet.flevoland.nl
 https://test.flevoland.nl
 https://testmdm.flevoland.nl
 https://veiligmailen.flevoland.nl
@@ -78,3 +77,4 @@ https://enterpriseregistration.test.flevoland.nl
 http://res.flevoland.nl
 https://msoid.flevoland.nl
 https://bezoekersdata.flevoland.nl
+http://data.flevoland.nl

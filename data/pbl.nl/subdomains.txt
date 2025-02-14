@@ -18,7 +18,6 @@ snippet.pbl.nl
 themasites.pbl.nl
 dwo.pbl.nl
 fs.pbl.nl
-mailings.pbl.nl
 sf.pbl.nl
 survey.pbl.nl
 webmail.pbl.nl

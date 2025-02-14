@@ -64,7 +64,6 @@ https://houseofrepresentatives.acceptatie.tweedekamer.nl
 https://houseofrepresentatives.test.tweedekamer.nl
 https://lijstvangevallenen.acceptatie.tweedekamer.nl
 https://lijstvangevallenen.test.tweedekamer.nl
-https://opendata.acceptatie.tweedekamer.nl
 https://opendata.test.tweedekamer.nl
 https://werkenbij.acceptatie.tweedekamer.nl
 https://livestreaming-thumb.b67.tweedekamer.nl

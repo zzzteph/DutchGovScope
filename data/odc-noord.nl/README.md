@@ -93,7 +93,7 @@
 |[https://vpn.gn2.koop-pp.odc-noord.nl](https://vpn.gn2.koop-pp.odc-noord.nl)| | **F**|OpenVPN-AS| | | | | | | | :white_check_mark: | ||Access server cl...|
 |[https://vpn.gn2.koop-t.odc-noord.nl](https://vpn.gn2.koop-t.odc-noord.nl)| | **F**|OpenVPN-AS| | | | | | | | :white_check_mark: | ||Access server cl...|
 |[https://vpn.gn3.koop-a.odc-noord.nl](https://vpn.gn3.koop-a.odc-noord.nl)| | **F**|OpenVPN-AS| | | | | | | | :white_check_mark: | ||Access server cl...|
-|[https://vpn.ocw.odc-noord.nl](https://vpn.ocw.odc-noord.nl)| | **F**|OpenVPN-AS| | | | | | | | :white_check_mark: | |||
+|[https://vpn.ocw.odc-noord.nl](https://vpn.ocw.odc-noord.nl)| | **F**|OpenVPN-AS| | | | | | | | :white_check_mark: | ||Access server cl...|
 |[https://vpn.rvb.odc-noord.nl](https://vpn.rvb.odc-noord.nl)| | **F**|OpenVPN-AS| | | | | | | | :white_check_mark: | ||Access server cl...|
 |[https://acc.iaas-portal.odc-noord.nl](https://acc.iaas-portal.odc-noord.nl)| | **F**|Apache/2.4.37 (Red Hat Enterprise Linux) OpenSSL/1.1.1k| | | | | | | | :white_check_mark: | |AngularJS Apache HTTP Server:2.4.37 HSTS OpenSSL:1.1.1k Red Hat||
 |[https://acc.login.odc-noord.nl](https://acc.login.odc-noord.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||

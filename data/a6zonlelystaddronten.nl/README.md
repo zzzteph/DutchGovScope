@@ -20,7 +20,7 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://a6zonlelystaddronten.nl](https://a6zonlelystaddronten.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://a6zonlelystaddronten.nl](https://a6zonlelystaddronten.nl)| | **E**|| | | | | | | | :white_check_mark: | ||405 Method not a...|
 |[https://www.a6zonlelystaddronten.nl](https://www.a6zonlelystaddronten.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
 
 

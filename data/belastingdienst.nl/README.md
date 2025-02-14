@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/belastingdienst.nl/subdomains.txt)|112|Alive subdomains|
+|[subdomains.txt](/data/belastingdienst.nl/subdomains.txt)|113|Alive subdomains|
 |[urls.txt](/data/belastingdienst.nl/urls.txt)|112|Urls|
 
 

@@ -21,7 +21,7 @@
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://sso-noord.nl](https://sso-noord.nl)| | **B**|| |:white_check_mark: | :warning:| | | | :white_check_mark: | :white_check_mark: | |HSTS Node.js Nuxt.js Vue.js|Shared Service O...|
-|[https://www.sso-noord.nl](https://www.sso-noord.nl)| | **B**|| |:white_check_mark: | :warning:| | | | :white_check_mark: | :white_check_mark: | |HSTS Node.js Nuxt.js Vue.js|Shared Service O...|
+|[https://www.sso-noord.nl](https://www.sso-noord.nl)| | **B**|| |:white_check_mark: | :warning:| | | | :white_check_mark: | :white_check_mark: | |HSTS Node.js Nuxt.js Vue.js||
 |[https://vpn.cloud.sso-noord.nl](https://vpn.cloud.sso-noord.nl)| | **E**|OpenVPN-AS| | | | | | :white_check_mark: | | :white_check_mark: | |||
 
 

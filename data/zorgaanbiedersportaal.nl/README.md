@@ -36,7 +36,7 @@
 |[https://www.zorgaanbiedersportaal.nl](https://www.zorgaanbiedersportaal.nl)| | **A**|-| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Bloomreach HSTS|Zorgaanbiederspo...|
 |[https://zorgaanbiedersportaal.nl](https://zorgaanbiedersportaal.nl)| | **A**|-| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Bloomreach HSTS|Zorgaanbiederspo...|
 |[https://zoeken.zorgaanbiedersportaal.nl](https://zoeken.zorgaanbiedersportaal.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|Zorgaanbiederspo...|
-|[https://mijn.toelatingsvergunning.zorgaanbiedersportaal.nl](https://mijn.toelatingsvergunning.zorgaanbiedersportaal.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Inloggen | Toela...|
+|[https://mijn.toelatingsvergunning.zorgaanbiedersportaal.nl](https://mijn.toelatingsvergunning.zorgaanbiedersportaal.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|Inloggen | Toela...|
 |[https://beheer.zorgaanbiedersportaal.nl](https://beheer.zorgaanbiedersportaal.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
 |[https://acceptatie.api.zorgaanbiedersportaal.nl](https://acceptatie.api.zorgaanbiedersportaal.nl)| | **F**|-| | | | | | | | :white_check_mark: | |HSTS||
 |[http://api.zorgaanbiedersportaal.nl](http://api.zorgaanbiedersportaal.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||

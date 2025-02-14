@@ -50,8 +50,6 @@ standaarden.rws.nl
 beterbediend.rws.nl
 bezoekerscentrum.rws.nl
 test.bezoekerscentrum.rws.nl
-centraaltoegangspuntdata.rws.nl
-nis.rws.nl
 cmgrws.rws.nl
 crisiswerkplek.rws.nl
 ctd.rws.nl
@@ -93,15 +91,12 @@ werkenbij.rws.nl
 www.rws.nl
 rwsos.rws.nl
 samenwerken.rws.nl
-samp.rws.nl
 sig.fam.rws.nl
 sluisplanning.rws.nl
 spin2.rws.nl
 svk-info.rws.nl
 svk-login.rws.nl
 svs.rws.nl
-techniekacademie.rws.nl
-zwerfafval.rws.nl
 test.lma.rws.nl
 test.nlrdms.rws.nl
 tgox-acc.rws.nl
@@ -118,10 +113,7 @@ wachtwoord.rws.nl
 waterberichtgeving.rws.nl
 www.waterberichtgeving.rws.nl
 waterinfo.rws.nl
-webhook-teams.rws.nl
-werkplek-poc.rws.nl
 webportaal.rws.nl
-werkplek-test.rws.nl
 werkplek.rws.nl
 xwd.rws.nl
 acc-onderwaterobjecten.rws.nl
@@ -140,11 +132,9 @@ compliance.gridacc.rws.nl
 federatie.rws.nl
 gitlab.at.rws.nl
 topdesk-iv.rws.nl
-otl.rws.nl
 www.werkenbij.rws.nl
 splunkhec.grid.rws.nl
 splunkhec.gridacc.rws.nl
-waterinfo-extra.rws.nl
 matroos.rws.nl
 status.gridacc.rws.nl
 enterpriseenrollment.rws.nl

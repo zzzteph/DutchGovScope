@@ -5,14 +5,14 @@
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:B
+ - **HTTP Security Grade**:A
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:6
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/mensenrechten.nl/subdomains.txt)|15|Alive subdomains|
-|[urls.txt](/data/mensenrechten.nl/urls.txt)|15|Urls|
+|[subdomains.txt](/data/mensenrechten.nl/subdomains.txt)|14|Alive subdomains|
+|[urls.txt](/data/mensenrechten.nl/urls.txt)|14|Urls|
 
 
 ## Statistics
@@ -34,6 +34,5 @@
 |[http://autodiscover.mensenrechten.nl](http://autodiscover.mensenrechten.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://enterpriseenrollment.mensenrechten.nl](https://enterpriseenrollment.mensenrechten.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://enterpriseregistration.mensenrechten.nl](https://enterpriseregistration.mensenrechten.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[http://micc.mensenrechten.nl](http://micc.mensenrechten.nl)| | **D**|-| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||IIS Windows Serv...|
 
 

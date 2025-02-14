@@ -444,6 +444,7 @@ https://hulpopafstand.knaw.nl
 https://remotesupport.knaw.nl
 https://portus.knaw.nl
 https://rds.knaw.nl
+https://rdsgw.knaw.nl
 https://repository.knaw.nl
 https://oaipmh.emitx.huygens.knaw.nl
 https://neww.huygens.knaw.nl
@@ -542,3 +543,4 @@ https://lhms31.dans.knaw.nl
 https://ohs31.dans.knaw.nl
 https://faireva.labs.dans.knaw.nl
 https://bitwarden.knaw.nl
+http://mpadmin.meertens.knaw.nl

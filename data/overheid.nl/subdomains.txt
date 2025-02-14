@@ -168,7 +168,6 @@ bouw.omgevingswet.overheid.nl
 brk.basisregistraties.overheid.nl
 brk.test.basisregistraties.overheid.nl
 brt.basisregistraties.overheid.nl
-cbm.demo.mijn.overheid.nl
 cbm.mijn.overheid.nl
 cbm.preprod.mijn.overheid.nl
 preprod.mijn.overheid.nl
@@ -198,6 +197,7 @@ zoekservice.overheid.nl
 doculoket.overheid.nl
 standaarden.overheid.nl
 decentraleregelgeving.overheid.nl
+demo.mijn.overheid.nl
 digilab.overheid.nl
 drop-api.overheid.nl
 oproepingen.overheid.nl
@@ -293,7 +293,6 @@ mnd-preprd.overheid.nl
 oproepingen-api-preprd-poc.overheid.nl
 demo1-systemteam.overheid.nl
 digid-stub.lpc.mijn.overheid.nl
-ondersteuning.omgevingswet.overheid.nl
 pdc.pre.omgevingswet.overheid.nl
 pp2.toegang.overheid.nl
 resolver.int.omgevingswet.overheid.nl

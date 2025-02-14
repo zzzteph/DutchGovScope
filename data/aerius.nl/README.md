@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/aerius.nl/subdomains.txt)|22|Alive subdomains|
+|[subdomains.txt](/data/aerius.nl/subdomains.txt)|24|Alive subdomains|
 |[urls.txt](/data/aerius.nl/urls.txt)|22|Urls|
 
 
@@ -34,7 +34,7 @@
 |[https://nexus.aerius.nl](https://nexus.aerius.nl)| | **D**|Nexus/3.74.0-05 (OSS)| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||Sonatype Nexus R...|
 |[https://nexus-docker.aerius.nl](https://nexus-docker.aerius.nl)| | **F**|Jetty(9.4.56.v20240826)| | | | | | | | :white_check_mark: | |Java Jetty:9.4.56|Error 400 Not a...|
 |[https://www.aerius.nl](https://www.aerius.nl)| | **A**|awselb/2.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon ELB Amazon Web Services|301 Moved Perman...|
-|[https://calculator.aerius.nl](https://calculator.aerius.nl)| | **B**||:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Java|AERIUS® Calculat...|
+|[https://calculator.aerius.nl](https://calculator.aerius.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Java|AERIUS® Calculat...|
 |[https://register.aerius.nl](https://register.aerius.nl)| | **F**|nginx/1.25.5| | | | | | | | :white_check_mark: | |Nginx:1.25.5||
 |[https://regelingsondersteuning.aerius.nl](https://regelingsondersteuning.aerius.nl)| | **B**||:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Java|AERIUS® Check|
 |[https://docs.aerius.nl](https://docs.aerius.nl)| | **F**|AmazonS3| | | | | | | | :white_check_mark: | |Amazon CloudFront Amazon S3 Amazon Web Services HTTP/3 Vue.js|Inhoudsopgave |...|

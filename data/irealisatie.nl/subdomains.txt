@@ -96,3 +96,10 @@ siem.acc.irealisatie.nl
 hapi2.test.zm.irealisatie.nl
 hapi1.test.zm.irealisatie.nl
 mcsd.test.zm.irealisatie.nl
+lmr-zuid.proeftuin.gf.irealisatie.nl
+lmr-noord.proeftuin.gf.irealisatie.nl
+lmr-oost.proeftuin.gf.irealisatie.nl
+lokalisatie-demo.proeftuin.gf.irealisatie.nl
+web.proeftuin.gf.irealisatie.nl
+prs-stub.proeftuin.gf.irealisatie.nl
+mcsd-supplier.proeftuin.gf.irealisatie.nl

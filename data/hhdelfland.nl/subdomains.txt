@@ -14,12 +14,8 @@ watertoetsportaal-a.hhdelfland.nl
 watertoetsportaal.hhdelfland.nl
 grondwaterportaal.hhdelfland.nl
 startstopmelding.hhdelfland.nl
-hhdelfland.nl
-www.hhdelfland.nl
 inloggen-preprod.hhdelfland.nl
 inloggen.hhdelfland.nl
-loket.hhdelfland.nl
-loket-preprod.hhdelfland.nl
 remote.hhdelfland.nl
 remotetest.hhdelfland.nl
 samenveiligwerken.hhdelfland.nl

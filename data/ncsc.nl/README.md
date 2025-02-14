@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/ncsc.nl/subdomains.txt)|31|Alive subdomains|
-|[urls.txt](/data/ncsc.nl/urls.txt)|30|Urls|
+|[urls.txt](/data/ncsc.nl/urls.txt)|31|Urls|
 
 
 ## Statistics
@@ -46,9 +46,10 @@
 |[https://test.ncsc.nl](https://test.ncsc.nl)| | **A**|none| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://csaf.data.security.ncsc.nl](https://csaf.data.security.ncsc.nl)| | **C**|none| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://vulnerabilities.ncsc.nl](https://vulnerabilities.ncsc.nl)| | **A**|none| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|NCSC - NL Vulner...|
-|[https://melden.ncsc.nl](https://melden.ncsc.nl)| | **F**|none| | | | | | | | :white_check_mark: | |HSTS||
-|[https://registreren.ncsc.nl](https://registreren.ncsc.nl)| | **F**|none| | | | | | | | :white_check_mark: | |HSTS||
+|[https://melden.ncsc.nl](https://melden.ncsc.nl)| | **F**|none| | | | | | | | :white_check_mark: | |HSTS|Home | Nationaal...|
+|[https://registreren.ncsc.nl](https://registreren.ncsc.nl)| | **F**|none| | | | | | | | :white_check_mark: | |HSTS|Home | Nationaal...|
 |[https://intel-acc.ncsc.nl](https://intel-acc.ncsc.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||502 Bad Gateway|
 |[https://intel.ncsc.nl](https://intel.ncsc.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|OpenCTI - Cyber...|
+|[https://intel-dev.ncsc.nl](https://intel-dev.ncsc.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||502 Bad Gateway|
 
 

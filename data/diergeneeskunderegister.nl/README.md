@@ -33,6 +33,6 @@
 |[https://zoeken.diergeneeskunderegister.nl](https://zoeken.diergeneeskunderegister.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
 |[https://acceptatie.behandel.diergeneeskunderegister.nl](https://acceptatie.behandel.diergeneeskunderegister.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
 |[https://behandel.diergeneeskunderegister.nl](https://behandel.diergeneeskunderegister.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
-|[https://beheer.diergeneeskunderegister.nl](https://beheer.diergeneeskunderegister.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://beheer.diergeneeskunderegister.nl](https://beheer.diergeneeskunderegister.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
 
 

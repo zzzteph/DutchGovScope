@@ -2,10 +2,10 @@
 layout: default
 title: "mensenrechten.nl"
 permalink: "/dutchgov/mensenrechten.nl.html"
-subdomains_count: 15
-urls_count: 15
+subdomains_count: 14
+urls_count: 14
 ssl_rank: 
-http_rank: B
+http_rank: A
 security_txt: 6
 url_link: /data/mensenrechten.nl/urls.txt
 subdomains_link: /data/mensenrechten.nl/subdomains.txt
@@ -19,14 +19,14 @@ tags: dutchgov
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:B
+ - **HTTP Security Grade**:A
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:6
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/mensenrechten.nl/subdomains.txt)|15|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/mensenrechten.nl/urls.txt)|15|Urls|
+|[subdomains.txt](/DutchGovScope/data/mensenrechten.nl/subdomains.txt)|14|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/mensenrechten.nl/urls.txt)|14|Urls|
 
 
 ## Statistics
@@ -48,6 +48,5 @@ tags: dutchgov
 |[http://autodiscover.mensenrechten.nl](http://autodiscover.mensenrechten.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://enterpriseenrollment.mensenrechten.nl](https://enterpriseenrollment.mensenrechten.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://enterpriseregistration.mensenrechten.nl](https://enterpriseregistration.mensenrechten.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[http://micc.mensenrechten.nl](http://micc.mensenrechten.nl)| | **D**|-| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||IIS Windows Serv...|
 
 

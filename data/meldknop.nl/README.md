@@ -21,7 +21,7 @@
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://meldknop.nl](https://meldknop.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://www.meldknop.nl](https://www.meldknop.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Elementor:3.27.1 HSTS MySQL Nginx PHP WordPress Yoast SEO:24.3|Meldknop.nl - Ie...|
+|[https://www.meldknop.nl](https://www.meldknop.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Elementor:3.27.2 HSTS MySQL Nginx PHP WordPress Yoast SEO:24.4|Meldknop.nl - Ie...|
 |[https://staging.meldknop.nl](https://staging.meldknop.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|TransIP - Reserv...|
 |[https://autodiscover.meldknop.nl](https://autodiscover.meldknop.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 

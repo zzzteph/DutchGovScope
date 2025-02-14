@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/om.nl/subdomains.txt)|30|Alive subdomains|
-|[urls.txt](/data/om.nl/urls.txt)|29|Urls|
+|[urls.txt](/data/om.nl/urls.txt)|30|Urls|
 
 
 ## Statistics
@@ -49,5 +49,6 @@
 |[https://zsmgame.om.nl](https://zsmgame.om.nl)| | **F**|nginx/1.24.0| | | | | | | | :white_check_mark: | |Express HSTS Nginx:1.24.0 Node.js React|ZSM GAME|
 |[https://enterpriseenrollment.om.nl](https://enterpriseenrollment.om.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://enterpriseregistration.om.nl](https://enterpriseregistration.om.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://leeromgeving.om.nl](https://leeromgeving.om.nl)| | **A**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 
 

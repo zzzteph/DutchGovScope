@@ -68,7 +68,6 @@ stateninformatie.provincie-utrecht.nl
 www.stateninformatie.provincie-utrecht.nl
 tramdashboard.provincie-utrecht.nl
 vctu-api.provincie-utrecht.nl
-vctu.provincie-utrecht.nl
 veiligdelen.provincie-utrecht.nl
 webkaart-sld.provincie-utrecht.nl
 wortel176.provincie-utrecht.nl

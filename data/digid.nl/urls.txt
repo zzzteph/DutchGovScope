@@ -11,7 +11,7 @@ https://app-preprod2.digid.nl
 https://app.digid.nl
 https://balieportaal.digid.nl
 https://helpdesk.machtigen.digid.nl
-http://www.machtigen.digid.nl
+https://www.machtigen.digid.nl
 https://beta.machtigen.digid.nl
 https://machtigen.digid.nl
 https://digid.nl

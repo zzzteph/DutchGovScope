@@ -178,7 +178,6 @@ mijnsap.rivm.nl
 modellenregister.rivm.nl
 nevo-online.rivm.nl
 nevo.rivm.nl
-nieuwsbrief.rivm.nl
 nivelform.rivm.nl
 nsl-monitoring.rivm.nl
 samenmeten.rivm.nl

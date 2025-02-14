@@ -28,6 +28,6 @@
 |[https://static.preproductie.wallet.edi.bzk.nl](https://static.preproductie.wallet.edi.bzk.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|Pagina niet gevo...|
 |[https://preproductie.wallet.edi.bzk.nl](https://preproductie.wallet.edi.bzk.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|Pagina niet gevo...|
 |[https://static.wallet.edi.bzk.nl](https://static.wallet.edi.bzk.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|Pagina niet gevo...|
-|[https://leiderschapsdag2024.bzk.nl](https://leiderschapsdag2024.bzk.nl)| | **B**|Apache/2| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server:2 HSTS|403 Forbidden|
+|[https://leiderschapsdag2024.bzk.nl](https://leiderschapsdag2024.bzk.nl)| | **B**|Apache/2| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server:2|403 Forbidden|
 
 

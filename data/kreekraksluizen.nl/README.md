@@ -20,7 +20,7 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://kreekraksluizen.nl](https://kreekraksluizen.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://kreekraksluizen.nl](https://kreekraksluizen.nl)| | **E**|| | | | | | | | :white_check_mark: | ||405 Method not a...|
 |[https://www.kreekraksluizen.nl](https://www.kreekraksluizen.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 
 

@@ -36,7 +36,7 @@ tags: dutchgov
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://mail.visinhetho.nl](https://mail.visinhetho.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2||
 |[https://www.visinhetho.nl](https://www.visinhetho.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |||
-|[https://visinhetho.nl](https://visinhetho.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Gravity Forms HSTS MySQL PHP WPML:4.6.15 WordPress:6.6.2 Yoast SEO:24.3 ZURB Foundation|Home - VIS|
+|[https://visinhetho.nl](https://visinhetho.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Gravity Forms HSTS MySQL PHP WPML:4.6.15 WordPress:6.6.2 Yoast SEO:24.3|Home - VIS|
 |[https://community.visinhetho.nl](https://community.visinhetho.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 
 

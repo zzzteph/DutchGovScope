@@ -68,7 +68,6 @@ https://stateninformatie.provincie-utrecht.nl
 https://www.stateninformatie.provincie-utrecht.nl
 https://tramdashboard.provincie-utrecht.nl
 https://vctu-api.provincie-utrecht.nl
-https://vctu.provincie-utrecht.nl
 https://veiligdelen.provincie-utrecht.nl
 http://webkaart-sld.provincie-utrecht.nl
 http://wortel176.provincie-utrecht.nl

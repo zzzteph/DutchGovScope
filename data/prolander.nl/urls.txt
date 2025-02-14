@@ -1,5 +1,4 @@
-http://prolander.nl
-http://www.prolander.nl
+https://www.prolander.nl
 https://portaal.prolander.nl
 https://gis.prolander.nl
 http://autodiscover.prolander.nl

@@ -1,4 +1,2 @@
 toezichtfestival.nl
-app.toezichtfestival.nl
-www.app.toezichtfestival.nl
 www.toezichtfestival.nl

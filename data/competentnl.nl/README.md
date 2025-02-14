@@ -24,6 +24,6 @@
 |[https://competentnl.nl](https://competentnl.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache Tomcat Fourthwall:1.0.0 HSTS Java MariaDB Skolengo:1.0.0|competentnl|
 |[http://autodiscover.competentnl.nl](http://autodiscover.competentnl.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://api.competentnl.nl](https://api.competentnl.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[https://sparql.competentnl.nl](https://sparql.competentnl.nl)| | **F**|-| | | | | | | | :white_check_mark: | |||
+|[https://sparql.competentnl.nl](https://sparql.competentnl.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 
 

@@ -34,7 +34,7 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://blankenburgverbinding.nl](https://blankenburgverbinding.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET YouTube hCaptcha|Object moved|
+|[https://blankenburgverbinding.nl](https://blankenburgverbinding.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET YouTube hCaptcha|405 Method not a...|
 |[https://www.blankenburgverbinding.nl](https://www.blankenburgverbinding.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET YouTube hCaptcha|Object moved|
 
 
