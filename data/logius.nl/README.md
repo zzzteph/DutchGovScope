@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/logius.nl/subdomains.txt)|57|Alive subdomains|
-|[urls.txt](/data/logius.nl/urls.txt)|57|Urls|
+|[subdomains.txt](/data/logius.nl/subdomains.txt)|56|Alive subdomains|
+|[urls.txt](/data/logius.nl/urls.txt)|56|Urls|
 
 
 ## Statistics
@@ -34,7 +34,6 @@
 |[http://amp-idp.logius.nl](http://amp-idp.logius.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 |[http://amp.logius.nl](http://amp.logius.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 |[http://ca-devportal-pre.logius.nl](http://ca-devportal-pre.logius.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
-|[http://gm-pre.mev.logius.nl](http://gm-pre.mev.logius.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://bvd-pre.mev.logius.nl](https://bvd-pre.mev.logius.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://bvd.mev.logius.nl](https://bvd.mev.logius.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[http://iam-containerplatform-az1.lpc.logius.nl](http://iam-containerplatform-az1.lpc.logius.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||

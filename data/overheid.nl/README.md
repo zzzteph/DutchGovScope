@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/overheid.nl/subdomains.txt)|311|Alive subdomains|
-|[urls.txt](/data/overheid.nl/urls.txt)|311|Urls|
+|[subdomains.txt](/data/overheid.nl/subdomains.txt)|310|Alive subdomains|
+|[urls.txt](/data/overheid.nl/urls.txt)|310|Urls|
 
 
 ## Statistics
@@ -190,7 +190,6 @@
 |[https://brk.basisregistraties.overheid.nl](https://brk.basisregistraties.overheid.nl)| | **A**|unspecified|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java|Introductie - BR...|
 |[https://brk.test.basisregistraties.overheid.nl](https://brk.test.basisregistraties.overheid.nl)| | **A**|Unspecified|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java|Introductie - BR...|
 |[https://brt.basisregistraties.overheid.nl](https://brt.basisregistraties.overheid.nl)| | **A**|unspecified|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java|Introductie - BR...|
-|[https://cbm.mijn.overheid.nl](https://cbm.mijn.overheid.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|403 Forbidden|
 |[https://cbm.preprod.mijn.overheid.nl](https://cbm.preprod.mijn.overheid.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|403 Forbidden|
 |[https://preprod.mijn.overheid.nl](https://preprod.mijn.overheid.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx Vue.js|MijnOverheid|
 |[https://cloudstorage-koop.overheid.nl](https://cloudstorage-koop.overheid.nl)| | **A**|Apache|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS||
@@ -329,7 +328,7 @@
 |[http://ref.omgevingswet.overheid.nl](http://ref.omgevingswet.overheid.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://repository-preprod.overheid.nl](https://repository-preprod.overheid.nl)| | **A**|| |:white_check_mark: | :warning:| | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://lvbb-lto.overheid.nl](https://lvbb-lto.overheid.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
-|[http://developer.omgevingswet.overheid.nl](http://developer.omgevingswet.overheid.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-||
+|[https://developer.omgevingswet.overheid.nl](https://developer.omgevingswet.overheid.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
 |[http://dse.lx.overheid.nl](http://dse.lx.overheid.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 
 

@@ -28,7 +28,6 @@ magazines.cultureelerfgoed.nl
 opendata.cultureelerfgoed.nl
 data.cultureelerfgoed.nl
 data.geo.cultureelerfgoed.nl
-erfgoedmonitor.cultureelerfgoed.nl
 faro.cultureelerfgoed.nl
 intranet.cultureelerfgoed.nl
 kennis-staging.cultureelerfgoed.nl
@@ -36,6 +35,10 @@ kennis.cultureelerfgoed.nl
 test.kennis-staging.cultureelerfgoed.nl
 test.kennis.cultureelerfgoed.nl
 wikixl-saml.cultureelerfgoed.nl
+lil.cultureelerfgoed.nl
+noaa.cultureelerfgoed.nl
+pom.cultureelerfgoed.nl
+thesaurus.cultureelerfgoed.nl
 mass.cultureelerfgoed.nl
 monumentenregister.cultureelerfgoed.nl
 www.monumentenregister.cultureelerfgoed.nl

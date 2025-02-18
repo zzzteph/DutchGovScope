@@ -60,4 +60,3 @@ https://esp-api-management.acc-probas.mfaservices.nl
 https://fez.mfaservices.nl
 https://tst.fez.mfaservices.nl
 https://tst.nww.mfaservices.nl
-http://tst.api.brp.mfaservices.nl

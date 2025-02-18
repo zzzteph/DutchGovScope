@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:89
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:90
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/databank.nl/subdomains.txt)|168|Alive subdomains|
-|[urls.txt](/data/databank.nl/urls.txt)|168|Urls|
+|[subdomains.txt](/data/databank.nl/subdomains.txt)|171|Alive subdomains|
+|[urls.txt](/data/databank.nl/urls.txt)|170|Urls|
 
 
 ## Statistics
@@ -108,6 +108,7 @@
 |[https://flevoland.databank.nl](https://flevoland.databank.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[https://mre.databank.nl](https://mre.databank.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon S3 Amazon Web Services Azure Edge Network HSTS Microsoft ASP.NET MyFonts|Woningmarktontwi...|
 |[https://rabobank.databank.nl](https://rabobank.databank.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon S3 Amazon Web Services Azure Edge Network HSTS Microsoft ASP.NET MyFonts|Rabobankmonitor|
+|[https://inspectie-oe.databank.nl](https://inspectie-oe.databank.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon S3 Amazon Web Services Azure Edge Network HSTS Microsoft ASP.NET MyFonts|Home | Monitor I...|
 |[https://www.nederlandschoon.databank.nl](https://www.nederlandschoon.databank.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
 |[https://stap.databank.nl](https://stap.databank.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon S3 Amazon Web Services Azure Edge Network HSTS Microsoft ASP.NET MyFonts|Home | Stichting...|
 |[https://www.gip.databank.nl](https://www.gip.databank.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
@@ -131,6 +132,7 @@
 |[https://www.amsterdam.rosopen.databank.nl](https://www.amsterdam.rosopen.databank.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Document Moved|
 |[https://beta-arbeidsmarktmobiliteit.databank.nl](https://beta-arbeidsmarktmobiliteit.databank.nl)| | **E**|| | | | | | | | :white_check_mark: | |Amazon S3 Amazon Web Services Azure Edge Network HSTS MyFonts|Document Moved|
 |[https://beta2-arbeidsmarktmobiliteit.databank.nl](https://beta2-arbeidsmarktmobiliteit.databank.nl)| | **E**|| | | | | | | | :white_check_mark: | |Amazon S3 Amazon Web Services Azure Edge Network HSTS MyFonts|Document Moved|
+|[https://beta-aisnbtc.databank.nl](https://beta-aisnbtc.databank.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon S3 Amazon Web Services Azure Edge Network HSTS Microsoft ASP.NET MyFonts|Home | Arbeidsma...|
 |[https://beta-veiligheidsmonitor.databank.nl](https://beta-veiligheidsmonitor.databank.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |Amazon S3 Amazon Web Services Azure Edge Network HSTS Microsoft ASP.NET MyFonts|Veiligheidsmonit...|
 |[https://beta-cbc.databank.nl](https://beta-cbc.databank.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[https://beta-icontrol.databank.nl](https://beta-icontrol.databank.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon S3 Amazon Web Services Azure Edge Network HSTS Microsoft ASP.NET MyFonts|Home | Monitor i...|

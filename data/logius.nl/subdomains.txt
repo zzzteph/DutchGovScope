@@ -12,7 +12,6 @@ amp-idp-pre.logius.nl
 amp-idp.logius.nl
 amp.logius.nl
 ca-devportal-pre.logius.nl
-gm-pre.mev.logius.nl
 bvd-pre.mev.logius.nl
 bvd.mev.logius.nl
 iam-containerplatform-az1.lpc.logius.nl

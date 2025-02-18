@@ -25,7 +25,6 @@ magazines.nza.nl
 nza.nl
 opendata.nza.nl
 itsupport.nza.nl
-mta-sts.nza.nl
 werkenbijde.nza.nl
 zorgproducten-acc.nza.nl
 zorgproducten.nza.nl
@@ -34,4 +33,3 @@ opendisdata.nza.nl
 agw01-nomail.nza.nl
 jv.nza.nl
 elearning-msz.nza.nl
-opendisdata-acc.nza.nl

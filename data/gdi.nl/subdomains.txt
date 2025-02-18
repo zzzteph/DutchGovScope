@@ -1,2 +1,4 @@
 gdi.nl
 www.gdi.nl
+test-cms.crs.gdi.nl
+acceptatie-cms.crs.gdi.nl

@@ -168,7 +168,6 @@ bouw.omgevingswet.overheid.nl
 brk.basisregistraties.overheid.nl
 brk.test.basisregistraties.overheid.nl
 brt.basisregistraties.overheid.nl
-cbm.mijn.overheid.nl
 cbm.preprod.mijn.overheid.nl
 preprod.mijn.overheid.nl
 cloudstorage-koop.overheid.nl

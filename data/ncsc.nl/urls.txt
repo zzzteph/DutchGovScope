@@ -26,6 +26,3 @@ https://csaf.data.security.ncsc.nl
 https://vulnerabilities.ncsc.nl
 https://melden.ncsc.nl
 https://registreren.ncsc.nl
-https://intel-acc.ncsc.nl
-https://intel.ncsc.nl
-https://intel-dev.ncsc.nl

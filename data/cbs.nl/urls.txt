@@ -128,7 +128,6 @@ https://highcharts.cbs.nl
 https://redactie.cbs.nl
 https://www.cbs.nl
 https://cdn.cbs.nl
-http://collecties.historisch.cbs.nl
 https://historisch.cbs.nl
 https://www.historisch.cbs.nl
 https://designsystem.cbs.nl

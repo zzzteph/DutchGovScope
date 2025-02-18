@@ -5,13 +5,13 @@
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
+ - **HTTP Security Grade**:A
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:3
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/grensinfo.nl/subdomains.txt)|3|Alive subdomains|
+|[subdomains.txt](/data/grensinfo.nl/subdomains.txt)|4|Alive subdomains|
 |[urls.txt](/data/grensinfo.nl/urls.txt)|3|Urls|
 
 
@@ -22,6 +22,6 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://grensinfo.nl](https://grensinfo.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://www.grensinfo.nl](https://www.grensinfo.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://azure-a-poc.grensinfo.nl](https://azure-a-poc.grensinfo.nl)| | **F**|Super Computer 1.0| | | | | | | | :white_check_mark: | |HSTS||
+|[https://azure-a-poc.grensinfo.nl](https://azure-a-poc.grensinfo.nl)| | **A**|Super Computer 1.0|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 
 

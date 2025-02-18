@@ -24,6 +24,6 @@
 |[https://www.sterkmedezeggenschap.nl](https://www.sterkmedezeggenschap.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2 Google Tag Manager MySQL PHP WordPress Yoast SEO:24.3|Sterk Medezeggen...|
 |[http://autoconfig.sterkmedezeggenschap.nl](http://autoconfig.sterkmedezeggenschap.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|301 Moved Perman...|
 |[http://autodiscover.sterkmedezeggenschap.nl](http://autodiscover.sterkmedezeggenschap.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|301 Moved Perman...|
-|[http://ftp.sterkmedezeggenschap.nl](http://ftp.sterkmedezeggenschap.nl)| | **F**|nginx/1.18.0| | | | | | | | :white_check_mark: | |Nginx:1.18.0|Combell.com Park...|
+|[http://ftp.sterkmedezeggenschap.nl](http://ftp.sterkmedezeggenschap.nl)| | **F**|nginx/1.26.3| | | | | | | | :white_check_mark: | |Nginx:1.26.3|Combell.com Park...|
 
 

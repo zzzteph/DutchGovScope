@@ -30,3 +30,4 @@ https://wifi.odmh.nl
 https://mfa.odmh.nl
 https://geluidskaart.odmh.nl
 https://rapporten.odmh.nl
+https://taal.odmh.nl

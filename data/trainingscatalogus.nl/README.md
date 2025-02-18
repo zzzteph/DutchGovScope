@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/trainingscatalogus.nl/subdomains.txt)|117|Alive subdomains|
+|[subdomains.txt](/data/trainingscatalogus.nl/subdomains.txt)|132|Alive subdomains|
 |[urls.txt](/data/trainingscatalogus.nl/urls.txt)|117|Urls|
 
 

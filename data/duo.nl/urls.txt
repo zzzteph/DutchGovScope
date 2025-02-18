@@ -22,3 +22,4 @@ https://xbrlonderwijsportaal.duo.nl
 https://zakelijk.duo.nl
 https://congres.duo.nl
 https://events.duo.nl
+https://mail.onderzoek.duo.nl

@@ -1,7 +1,6 @@
 http://acceptatie.ag-dcr.cibg.nl
 http://acceptatie.api.kcc.cibg.nl
 https://acceptatie.beheer.lir.cibg.nl
-https://acceptatie.beheer.lrza.cibg.nl
 https://acceptatie.bestandsportaal.cibg.nl
 https://acceptatie.designsystem.cibg.nl
 http://acceptatie.digikoppeling.cibg.nl

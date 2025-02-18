@@ -4,7 +4,6 @@ apiacc.minbuza.nl
 dev.ecer.minbuza.nl
 ecer.minbuza.nl
 sip.minbuza.nl
-sip.myroom.minbuza.nl
 webmeeting.minbuza.nl
 edge01.minbuza.nl
 edge02.minbuza.nl

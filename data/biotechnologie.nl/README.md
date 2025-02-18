@@ -5,7 +5,7 @@
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:C
+ - **HTTP Security Grade**:B
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
 
@@ -25,7 +25,7 @@
 |[https://autodiscover.biotechnologie.nl](https://autodiscover.biotechnologie.nl)| | **B**|cloudflare| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Cloudflare HSTS HTTP/3||
 |[https://enterpriseenrollment.biotechnologie.nl](https://enterpriseenrollment.biotechnologie.nl)| | **F**|cloudflare| | | | | | | | :white_check_mark: | |Cloudflare HSTS HTTP/3||
 |[https://enterpriseregistration.biotechnologie.nl](https://enterpriseregistration.biotechnologie.nl)| | **C**|cloudflare| |:white_check_mark: | | | | | | :white_check_mark: | |Cloudflare HSTS HTTP/3||
-|[https://lyncdiscover.biotechnologie.nl](https://lyncdiscover.biotechnologie.nl)| | **F**|cloudflare| | | | | | | | :white_check_mark: | |Cloudflare HSTS HTTP/3||
+|[https://lyncdiscover.biotechnologie.nl](https://lyncdiscover.biotechnologie.nl)| | **B**|cloudflare| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Cloudflare HSTS HTTP/3||
 |[https://sip.biotechnologie.nl](https://sip.biotechnologie.nl)| | **B**|cloudflare| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Cloudflare HSTS HTTP/3||
 
 

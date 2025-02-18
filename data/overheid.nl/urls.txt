@@ -168,7 +168,6 @@ https://bouw.omgevingswet.overheid.nl
 https://brk.basisregistraties.overheid.nl
 https://brk.test.basisregistraties.overheid.nl
 https://brt.basisregistraties.overheid.nl
-https://cbm.mijn.overheid.nl
 https://cbm.preprod.mijn.overheid.nl
 https://preprod.mijn.overheid.nl
 https://cloudstorage-koop.overheid.nl
@@ -307,5 +306,5 @@ https://autodiscover.overheid.nl
 http://ref.omgevingswet.overheid.nl
 https://repository-preprod.overheid.nl
 https://lvbb-lto.overheid.nl
-http://developer.omgevingswet.overheid.nl
+https://developer.omgevingswet.overheid.nl
 http://dse.lx.overheid.nl

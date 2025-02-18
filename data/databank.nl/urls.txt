@@ -86,6 +86,7 @@ https://vo.databank.nl
 https://flevoland.databank.nl
 https://mre.databank.nl
 https://rabobank.databank.nl
+https://inspectie-oe.databank.nl
 https://www.nederlandschoon.databank.nl
 https://stap.databank.nl
 https://www.gip.databank.nl
@@ -109,6 +110,7 @@ https://www.seer.databank.nl
 https://www.amsterdam.rosopen.databank.nl
 https://beta-arbeidsmarktmobiliteit.databank.nl
 https://beta2-arbeidsmarktmobiliteit.databank.nl
+https://beta-aisnbtc.databank.nl
 https://beta-veiligheidsmonitor.databank.nl
 https://beta-cbc.databank.nl
 https://beta-icontrol.databank.nl

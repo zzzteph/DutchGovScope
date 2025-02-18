@@ -15,7 +15,6 @@ kennis.waterschaplimburg.nl
 inloggen.waterschaplimburg.nl
 mail.waterschaplimburg.nl
 maps.waterschaplimburg.nl
-winssen.waterschaplimburg.nl
 autodiscover.waterschaplimburg.nl
 kennisbank.waterschaplimburg.nl
 wikixl-saml.waterschaplimburg.nl
@@ -23,10 +22,13 @@ ftp.waterschaplimburg.nl
 voip.waterschaplimburg.nl
 vpn.waterschaplimburg.nl
 werkplek.waterschaplimburg.nl
-ncsl.waterschaplimburg.nl
-tulskaya-oblast.waterschaplimburg.nl
 verhuisbedrijven.waterschaplimburg.nl
 publicaffairs.waterschaplimburg.nl
+topup.waterschaplimburg.nl
+routing.waterschaplimburg.nl
 bron.waterschaplimburg.nl
 cms-bron.waterschaplimburg.nl
+test-cms-bron.waterschaplimburg.nl
 genio.waterschaplimburg.nl
+ikp-ota.waterschaplimburg.nl
+ikp.waterschaplimburg.nl

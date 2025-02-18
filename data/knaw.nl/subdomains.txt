@@ -116,9 +116,7 @@ vds.mvn.huygens.knaw.nl
 books.meertens.knaw.nl
 dubbeltje.meertens.knaw.nl
 vtb.meertens.knaw.nl
-beta.huc.knaw.nl
 beta.huygens.knaw.nl
-www.beta.huc.knaw.nl
 adagia.resources.huygens.knaw.nl
 beschermheiligen.meertens.knaw.nl
 di.huc.knaw.nl
@@ -135,7 +133,6 @@ dans.knaw.nl
 wordpress.dans.knaw.nl
 www.dans.knaw.nl
 adminpure.knaw.nl
-infoscreen.knaw.nl
 opensciencemeeting2014.knaw.nl
 podium.knaw.nl
 www.podium.knaw.nl
@@ -147,7 +144,6 @@ nederlandschehistorien.huygens.knaw.nl
 vroedschapsboek.huygens.knaw.nl
 databeheer.huygens.knaw.nl
 guydebres.huygens.knaw.nl
-www.hattem.huygens.knaw.nl
 interedition.huygens.knaw.nl
 martianus.huygens.knaw.nl
 rembench.huygens.knaw.nl
@@ -286,15 +282,11 @@ beta.nmgn.huygens.knaw.nl
 bgb.resources.huygens.knaw.nl
 resources.huygens.knaw.nl
 bioinf.nioo.knaw.nl
-booking.nin.knaw.nl
 rds.nioo.knaw.nl
 rdsgw.nioo.knaw.nl
 boot.huygens.knaw.nl
 hi14hingtest.huygens.knaw.nl
 cbs.knaw.nl
-cbsweb.cbs.knaw.nl
-www.cbs.knaw.nl
-www2.cbs.knaw.nl
 cloud.knaw.nl
 citrix.knaw.nl
 cmdi2rdf.meertens.knaw.nl
@@ -322,18 +314,11 @@ wi.knaw.nl
 www.wi.knaw.nl
 dss11.meertens.knaw.nl
 dvnl31.dans.knaw.nl
-taoracleapp22.knaw.nl
-ebs-a.knaw.nl
-ossooam-a.knaw.nl
 ebs-o.knaw.nl
 obi-o.knaw.nl
-osso-o.knaw.nl
-ossooam-o.knaw.nl
 taoracleapp23.knaw.nl
 ebs.knaw.nl
 oracleapp21.knaw.nl
-osso.knaw.nl
-ossooam.knaw.nl
 faweb.fa.knaw.nl
 fryske2.fa.knaw.nl
 loe.niod.knaw.nl
@@ -363,8 +348,6 @@ mda.nioo.knaw.nl
 mfiles.knaw.nl
 mfproxy01.knaw.nl
 ninweb.knaw.nl
-osso-t.knaw.nl
-ossooam-t.knaw.nl
 taoracleapp21.knaw.nl
 password.knaw.nl
 pdvnl31.dans.knaw.nl
@@ -414,12 +397,10 @@ autodiscover.spinozacentre.knaw.nl
 tjalie-robinson.huygens.knaw.nl
 pages.bioinf.nioo.knaw.nl
 gitlab.huc.knaw.nl
-osso-a.knaw.nl
 ebs-t.knaw.nl
 knaw.nl
 nias.knaw.nl
 pureacc.knaw.nl
-www.herseninstituut.knaw.nl
 maritimecareers.huygens.knaw.nl
 sd-yugoslavia.dev.huc.knaw.nl
 occassio.dev.huc.knaw.nl
@@ -471,6 +452,7 @@ emailsanitizer.labs.dans.knaw.nl
 fairaware-api.labs.dans.knaw.nl
 galaxy.bioinf.nioo.knaw.nl
 metadata-enhancer.labs.dans.knaw.nl
+subsite.nioo-acc.knaw.nl
 flippinglakes.nioo.knaw.nl
 www.nioo.knaw.nl
 minioapi2.labs.dans.knaw.nl
@@ -544,3 +526,4 @@ ohs31.dans.knaw.nl
 faireva.labs.dans.knaw.nl
 bitwarden.knaw.nl
 mpadmin.meertens.knaw.nl
+www.opgravingen.huygens.knaw.nl

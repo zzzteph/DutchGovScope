@@ -150,9 +150,9 @@
 |[http://localhost.tweedekamer.nl](http://localhost.tweedekamer.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
 |[https://msoid.tweedekamer.nl](https://msoid.tweedekamer.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
 |[https://email.tweedekamer.nl](https://email.tweedekamer.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[https://acc.livedebat.tweedekamer.nl](https://acc.livedebat.tweedekamer.nl)| | **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap Nginx OWL Carousel jQuery|Tweedekamer|
-|[https://api.acc.livedebat.tweedekamer.nl](https://api.acc.livedebat.tweedekamer.nl)| | **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap Nginx OWL Carousel jQuery|Tweedekamer|
-|[https://ingest.acc.livedebat.tweedekamer.nl](https://ingest.acc.livedebat.tweedekamer.nl)| | **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap Nginx OWL Carousel jQuery|Tweedekamer|
-|[https://stats.acc.livedebat.tweedekamer.nl](https://stats.acc.livedebat.tweedekamer.nl)| | **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap Nginx OWL Carousel jQuery|Tweedekamer|
+|[http://acc.livedebat.tweedekamer.nl](http://acc.livedebat.tweedekamer.nl)| | **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap Nginx|Tweedekamer|
+|[http://api.acc.livedebat.tweedekamer.nl](http://api.acc.livedebat.tweedekamer.nl)| | **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap Nginx|Tweedekamer|
+|[http://ingest.acc.livedebat.tweedekamer.nl](http://ingest.acc.livedebat.tweedekamer.nl)| | **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap Nginx|Tweedekamer|
+|[http://stats.acc.livedebat.tweedekamer.nl](http://stats.acc.livedebat.tweedekamer.nl)| | **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap Nginx|Tweedekamer|
 
 

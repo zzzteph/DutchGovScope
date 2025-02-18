@@ -91,3 +91,4 @@ https://security.staging.ndw.nu
 https://stats.staging.ndw.nu
 https://verkeersveiligheid.ndw.nu
 https://reistijdtrajecten.ndw.nu
+https://bereikbaarheid.staging.ndw.nu

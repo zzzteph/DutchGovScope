@@ -3,3 +3,4 @@ https://rds.minfin.nl
 https://remote.minfin.nl
 https://www.minfin.nl
 https://minfin.nl
+https://test-koo.minfin.nl

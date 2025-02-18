@@ -5,6 +5,7 @@ https://onderzoek.politie.nl
 https://rss.acceptatie.politie.nl
 https://edison.politie.nl
 https://www.politie.nl
+https://api.politie.nl
 https://fts.politie.nl
 https://kombijde.politie.nl
 https://aangifte.politie.nl

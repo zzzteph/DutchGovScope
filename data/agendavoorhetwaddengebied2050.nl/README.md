@@ -5,7 +5,7 @@
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:E
+ - **HTTP Security Grade**:F
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
@@ -21,6 +21,6 @@
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[http://mail.agendavoorhetwaddengebied2050.nl](http://mail.agendavoorhetwaddengebied2050.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0||
-|[http://ftp.agendavoorhetwaddengebied2050.nl](http://ftp.agendavoorhetwaddengebied2050.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0||
+|[http://ftp.agendavoorhetwaddengebied2050.nl](http://ftp.agendavoorhetwaddengebied2050.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 
 

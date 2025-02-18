@@ -1,5 +1,6 @@
 https://kennisplatform.nl
 https://www.kennisplatform.nl
 http://autodiscover.kennisplatform.nl
+https://ftp.kennisplatform.nl
 http://localhost.kennisplatform.nl
 https://msoid.kennisplatform.nl

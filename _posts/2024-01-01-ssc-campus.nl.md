@@ -3,7 +3,7 @@ layout: default
 title: "ssc-campus.nl"
 permalink: "/dutchgov/ssc-campus.nl.html"
 subdomains_count: 18
-urls_count: 18
+urls_count: 17
 ssl_rank: 
 http_rank: C
 security_txt: 7
@@ -26,7 +26,7 @@ tags: dutchgov
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/ssc-campus.nl/subdomains.txt)|18|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/ssc-campus.nl/urls.txt)|18|Urls|
+|[urls.txt](/DutchGovScope/data/ssc-campus.nl/urls.txt)|17|Urls|
 
 
 ## Statistics
@@ -51,6 +51,5 @@ tags: dutchgov
 |[https://rivm-micol-a01p.rivm.ssc-campus.nl](https://rivm-micol-a01p.rivm.ssc-campus.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|Redirecting...|
 |[https://testconn-mp.ssc-campus.nl](https://testconn-mp.ssc-campus.nl)| | **F**|BigIP|:warning: | | | | | :white_check_mark: | | :white_check_mark: | |F5 BigIP||
 |[https://awv.rivm-micol-a01p.rivm.ssc-campus.nl](https://awv.rivm-micol-a01p.rivm.ssc-campus.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Redirecting...|
-|[http://localhost.ssc-campus.nl](http://localhost.ssc-campus.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
 
 

@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/pbl.nl/subdomains.txt)|26|Alive subdomains|
-|[urls.txt](/data/pbl.nl/urls.txt)|26|Urls|
+|[subdomains.txt](/data/pbl.nl/subdomains.txt)|27|Alive subdomains|
+|[urls.txt](/data/pbl.nl/urls.txt)|27|Urls|
 
 
 ## Statistics
@@ -46,5 +46,6 @@
 |[https://mail.pbl.nl](https://mail.pbl.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|404 Not Found|
 |[https://msoid.pbl.nl](https://msoid.pbl.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
 |[https://connect.pbl.nl](https://connect.pbl.nl)| | **F**|BigIP|:warning: | | | | | :white_check_mark: | | :white_check_mark: | |F5 BigIP||
+|[http://testconn.pbl.nl](http://testconn.pbl.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 
 

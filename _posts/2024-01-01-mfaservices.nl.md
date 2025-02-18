@@ -3,7 +3,7 @@ layout: default
 title: "mfaservices.nl"
 permalink: "/dutchgov/mfaservices.nl.html"
 subdomains_count: 63
-urls_count: 63
+urls_count: 62
 ssl_rank: 
 http_rank: C
 security_txt: 12
@@ -26,7 +26,7 @@ tags: dutchgov
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/mfaservices.nl/subdomains.txt)|63|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/mfaservices.nl/urls.txt)|63|Urls|
+|[urls.txt](/DutchGovScope/data/mfaservices.nl/urls.txt)|62|Urls|
 
 
 ## Statistics
@@ -96,6 +96,5 @@ tags: dutchgov
 |[https://fez.mfaservices.nl](https://fez.mfaservices.nl)| | **A**|Apache|:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS Java|Home - Subsidy P...|
 |[https://tst.fez.mfaservices.nl](https://tst.fez.mfaservices.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
 |[https://tst.nww.mfaservices.nl](https://tst.nww.mfaservices.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
-|[http://tst.api.brp.mfaservices.nl](http://tst.api.brp.mfaservices.nl)| | **F**|Apache/2.4.52 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.52 Ubuntu|Apache2 Ubuntu D...|
 
 

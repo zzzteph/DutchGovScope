@@ -26,6 +26,3 @@ csaf.data.security.ncsc.nl
 vulnerabilities.ncsc.nl
 melden.ncsc.nl
 registreren.ncsc.nl
-intel-acc.ncsc.nl
-intel.ncsc.nl
-intel-dev.ncsc.nl

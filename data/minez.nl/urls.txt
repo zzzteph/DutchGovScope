@@ -6,7 +6,6 @@ https://demo-portal.minez.nl
 https://eidas.minez.nl
 https://eidasmw-acc.minez.nl
 https://eidasmw.minez.nl
-https://ibabs.minez.nl
 https://pmt.minez.nl
 https://www.minez.nl
 https://minez.nl

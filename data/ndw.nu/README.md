@@ -5,14 +5,14 @@
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:D
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:63
+ - **HTTP Security Grade**:C
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:64
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/ndw.nu/subdomains.txt)|94|Alive subdomains|
-|[urls.txt](/data/ndw.nu/urls.txt)|93|Urls|
+|[urls.txt](/data/ndw.nu/urls.txt)|94|Urls|
 
 
 ## Statistics
@@ -113,5 +113,6 @@
 |[https://stats.staging.ndw.nu](https://stats.staging.ndw.nu)| | **E**|Cowboy| | | :warning:| | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cowboy Erlang|Plausible · Simp...|
 |[https://verkeersveiligheid.ndw.nu](https://verkeersveiligheid.ndw.nu)| | **B**|| | | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Express Node.js|Verkeersveilighe...|
 |[https://reistijdtrajecten.ndw.nu](https://reistijdtrajecten.ndw.nu)| | **F**|nginx/1.26.2| | | | | | | | :white_check_mark: | |Nginx:1.26.2|FCD reistijden|
+|[https://bereikbaarheid.staging.ndw.nu](https://bereikbaarheid.staging.ndw.nu)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Bereikbaarheidsk...|
 
 

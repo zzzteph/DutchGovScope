@@ -74,7 +74,6 @@ https://dva.acc.mgo.irealisatie.nl
 https://stats.test.zm.irealisatie.nl
 http://acc.irealisatie.nl
 http://gitea.irealisatie.nl
-http://taiga.irealisatie.nl
 http://kat.irealisatie.nl
 http://test.woo.irealisatie.nl
 http://proeftuin.gf.irealisatie.nl

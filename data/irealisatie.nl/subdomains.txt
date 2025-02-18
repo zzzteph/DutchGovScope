@@ -74,7 +74,6 @@ dva.acc.mgo.irealisatie.nl
 stats.test.zm.irealisatie.nl
 acc.irealisatie.nl
 gitea.irealisatie.nl
-taiga.irealisatie.nl
 kat.irealisatie.nl
 test.woo.irealisatie.nl
 proeftuin.gf.irealisatie.nl
@@ -103,3 +102,4 @@ lokalisatie-demo.proeftuin.gf.irealisatie.nl
 web.proeftuin.gf.irealisatie.nl
 prs-stub.proeftuin.gf.irealisatie.nl
 mcsd-supplier.proeftuin.gf.irealisatie.nl
+kat.acc.irealisatie.nl

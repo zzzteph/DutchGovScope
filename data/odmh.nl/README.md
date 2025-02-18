@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:D
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:7
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:8
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/odmh.nl/subdomains.txt)|33|Alive subdomains|
-|[urls.txt](/data/odmh.nl/urls.txt)|32|Urls|
+|[urls.txt](/data/odmh.nl/urls.txt)|33|Urls|
 
 
 ## Statistics
@@ -52,5 +52,6 @@
 |[https://mfa.odmh.nl](https://mfa.odmh.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
 |[https://geluidskaart.odmh.nl](https://geluidskaart.odmh.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server Microsoft ASP.NET||
 |[https://rapporten.odmh.nl](https://rapporten.odmh.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
+|[https://taal.odmh.nl](https://taal.odmh.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 
 

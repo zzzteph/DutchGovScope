@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/duo.nl/subdomains.txt)|25|Alive subdomains|
-|[urls.txt](/data/duo.nl/urls.txt)|24|Urls|
+|[urls.txt](/data/duo.nl/urls.txt)|25|Urls|
 
 
 ## Statistics
@@ -44,5 +44,6 @@
 |[https://zakelijk.duo.nl](https://zakelijk.duo.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Inloggen op Mijn...|
 |[https://congres.duo.nl](https://congres.duo.nl)| | **F**|Apache/2.4.41| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.41||
 |[https://events.duo.nl](https://events.duo.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://mail.onderzoek.duo.nl](https://mail.onderzoek.duo.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 
 

@@ -3,7 +3,7 @@ layout: default
 title: "irealisatie.nl"
 permalink: "/dutchgov/irealisatie.nl.html"
 subdomains_count: 105
-urls_count: 98
+urls_count: 97
 ssl_rank: 
 http_rank: B
 security_txt: 77
@@ -26,7 +26,7 @@ tags: dutchgov
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/irealisatie.nl/subdomains.txt)|105|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/irealisatie.nl/urls.txt)|98|Urls|
+|[urls.txt](/DutchGovScope/data/irealisatie.nl/urls.txt)|97|Urls|
 
 
 ## Statistics
@@ -110,7 +110,6 @@ tags: dutchgov
 |[https://stats.test.zm.irealisatie.nl](https://stats.test.zm.irealisatie.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Basic HSTS|401 Unauthorized|
 |[http://acc.irealisatie.nl](http://acc.irealisatie.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://gitea.irealisatie.nl](http://gitea.irealisatie.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[http://taiga.irealisatie.nl](http://taiga.irealisatie.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://kat.irealisatie.nl](http://kat.irealisatie.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://test.woo.irealisatie.nl](http://test.woo.irealisatie.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://proeftuin.gf.irealisatie.nl](http://proeftuin.gf.irealisatie.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
