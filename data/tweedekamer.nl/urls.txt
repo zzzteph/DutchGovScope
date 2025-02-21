@@ -132,3 +132,4 @@ http://acc.livedebat.tweedekamer.nl
 http://api.acc.livedebat.tweedekamer.nl
 http://ingest.acc.livedebat.tweedekamer.nl
 http://stats.acc.livedebat.tweedekamer.nl
+https://micc.tweedekamer.nl

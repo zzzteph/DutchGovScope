@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/veiligheidsregioflevoland.nl/subdomains.txt)|17|Alive subdomains|
-|[urls.txt](/data/veiligheidsregioflevoland.nl/urls.txt)|14|Urls|
+|[urls.txt](/data/veiligheidsregioflevoland.nl/urls.txt)|16|Urls|
 
 
 ## Statistics
@@ -32,7 +32,9 @@
 |[http://baum.veiligheidsregioflevoland.nl](http://baum.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0||
 |[http://audiobooks.veiligheidsregioflevoland.nl](http://audiobooks.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0||
 |[https://msoid.veiligheidsregioflevoland.nl](https://msoid.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[http://debestelinks.veiligheidsregioflevoland.nl](http://debestelinks.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[http://vm02.veiligheidsregioflevoland.nl](http://vm02.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[http://orsha.veiligheidsregioflevoland.nl](http://orsha.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://tellafriend.veiligheidsregioflevoland.nl](http://tellafriend.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 
 

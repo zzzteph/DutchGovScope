@@ -3,4 +3,3 @@ webmail.ofgv.nl
 kenniscentrum.ofgv.nl
 enterpriseenrollment.ofgv.nl
 enterpriseregistration.ofgv.nl
-ftp.ofgv.nl

@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/tweedekamer.nl/subdomains.txt)|135|Alive subdomains|
-|[urls.txt](/data/tweedekamer.nl/urls.txt)|134|Urls|
+|[urls.txt](/data/tweedekamer.nl/urls.txt)|135|Urls|
 
 
 ## Statistics
@@ -154,5 +154,6 @@
 |[http://api.acc.livedebat.tweedekamer.nl](http://api.acc.livedebat.tweedekamer.nl)| | **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap Nginx|Tweedekamer|
 |[http://ingest.acc.livedebat.tweedekamer.nl](http://ingest.acc.livedebat.tweedekamer.nl)| | **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap Nginx|Tweedekamer|
 |[http://stats.acc.livedebat.tweedekamer.nl](http://stats.acc.livedebat.tweedekamer.nl)| | **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap Nginx|Tweedekamer|
+|[https://micc.tweedekamer.nl](https://micc.tweedekamer.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 
 

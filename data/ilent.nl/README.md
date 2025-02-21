@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:12
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:11
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/ilent.nl/subdomains.txt)|21|Alive subdomains|
-|[urls.txt](/data/ilent.nl/urls.txt)|21|Urls|
+|[subdomains.txt](/data/ilent.nl/subdomains.txt)|20|Alive subdomains|
+|[urls.txt](/data/ilent.nl/urls.txt)|20|Urls|
 
 
 ## Statistics
@@ -39,7 +39,6 @@
 |[https://staging.meldingen.ilent.nl](https://staging.meldingen.ilent.nl)| | **F**|openresty/1.25.3.2| | | | | | | | :white_check_mark: | |Nginx OpenResty:1.25.3.2|301 Moved Perman...|
 |[https://stc.ilent.nl](https://stc.ilent.nl)| | **E**|Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips| | | | | | | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2.4.6 CentOS OpenSSL:1.0.2k||
 |[https://wio.ilent.nl](https://wio.ilent.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|IIS Windows Serv...|
-|[https://data.ilent.nl](https://data.ilent.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://easyrules.ilent.nl](https://easyrules.ilent.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
 
 

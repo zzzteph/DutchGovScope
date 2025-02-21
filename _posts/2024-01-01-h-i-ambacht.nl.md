@@ -2,7 +2,7 @@
 layout: default
 title: "h-i-ambacht.nl"
 permalink: "/dutchgov/h-i-ambacht.nl.html"
-subdomains_count: 22
+subdomains_count: 23
 urls_count: 22
 ssl_rank: 
 http_rank: A
@@ -25,7 +25,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/h-i-ambacht.nl/subdomains.txt)|22|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/h-i-ambacht.nl/subdomains.txt)|23|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/h-i-ambacht.nl/urls.txt)|22|Urls|
 
 

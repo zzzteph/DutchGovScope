@@ -1,4 +1,3 @@
-consular.mfaservices.nl
 cdn.consular.mfaservices.nl
 url9097.consular.mfaservices.nl
 login.consular.mfaservices.nl

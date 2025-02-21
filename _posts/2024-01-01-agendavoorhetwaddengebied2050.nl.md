@@ -2,8 +2,8 @@
 layout: default
 title: "agendavoorhetwaddengebied2050.nl"
 permalink: "/dutchgov/agendavoorhetwaddengebied2050.nl.html"
-subdomains_count: 2
-urls_count: 2
+subdomains_count: 0
+urls_count: 0
 ssl_rank: 
 http_rank: F
 security_txt: 0
@@ -25,8 +25,8 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/agendavoorhetwaddengebied2050.nl/subdomains.txt)|2|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/agendavoorhetwaddengebied2050.nl/urls.txt)|2|Urls|
+|[subdomains.txt](/DutchGovScope/data/agendavoorhetwaddengebied2050.nl/subdomains.txt)|0|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/agendavoorhetwaddengebied2050.nl/urls.txt)|0|Urls|
 
 
 ## Statistics
@@ -34,7 +34,5 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[http://mail.agendavoorhetwaddengebied2050.nl](http://mail.agendavoorhetwaddengebied2050.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0||
-|[http://ftp.agendavoorhetwaddengebied2050.nl](http://ftp.agendavoorhetwaddengebied2050.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 
 

@@ -2,8 +2,8 @@
 layout: default
 title: "rijkswaterstaat.nl"
 permalink: "/dutchgov/rijkswaterstaat.nl.html"
-subdomains_count: 80
-urls_count: 79
+subdomains_count: 83
+urls_count: 82
 ssl_rank: 
 http_rank: D
 security_txt: 55
@@ -25,8 +25,8 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/rijkswaterstaat.nl/subdomains.txt)|80|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/rijkswaterstaat.nl/urls.txt)|79|Urls|
+|[subdomains.txt](/DutchGovScope/data/rijkswaterstaat.nl/subdomains.txt)|83|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/rijkswaterstaat.nl/urls.txt)|82|Urls|
 
 
 ## Statistics
@@ -64,6 +64,9 @@ tags: dutchgov
 |[https://static.staging.rijkswaterstaat.nl](https://static.staging.rijkswaterstaat.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Onderhoud|
 |[https://www.rijkswaterstaat.nl](https://www.rijkswaterstaat.nl)| | **C**||:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Google Tag Manager HSTS Microsoft ASP.NET SDL Tridion|Home|
 |[https://rijkswaterstaat.nl](https://rijkswaterstaat.nl)| | **C**|Microsoft-Azure-Application-Gateway/v2|:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | ||301 Moved Perman...|
+|[https://bezoekerscentrum.rijkswaterstaat.nl](https://bezoekerscentrum.rijkswaterstaat.nl)| | **B**|nginx| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS MySQL Nginx PHP WordPress||
+|[https://test.bezoekerscentrum.rijkswaterstaat.nl](https://test.bezoekerscentrum.rijkswaterstaat.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS MySQL Nginx PHP SDL Tridion W3 Total Cache WordPress Yoast SEO:23.6|Bezoekerscentrum...|
+|[https://www.bezoekerscentrum.rijkswaterstaat.nl](https://www.bezoekerscentrum.rijkswaterstaat.nl)| | **B**|nginx| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS MySQL Nginx PHP WordPress||
 |[https://bmm2016.rijkswaterstaat.nl](https://bmm2016.rijkswaterstaat.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |||
 |[https://botova.rijkswaterstaat.nl](https://botova.rijkswaterstaat.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Document Moved|
 |[https://crisiswerkplek.rijkswaterstaat.nl](https://crisiswerkplek.rijkswaterstaat.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET||

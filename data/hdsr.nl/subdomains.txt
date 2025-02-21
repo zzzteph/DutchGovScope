@@ -3,6 +3,7 @@ begrippen.hdsr.nl
 kennis.hdsr.nl
 testbegrippen.hdsr.nl
 testkennis.hdsr.nl
+cawfirewall.hdsr.nl
 cawuitwijkfirewall.hdsr.nl
 uconnect-acc.hdsr.nl
 uconnect.hdsr.nl

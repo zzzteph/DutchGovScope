@@ -28,6 +28,9 @@ https://static.live.werkenbij.rijkswaterstaat.nl
 https://static.staging.rijkswaterstaat.nl
 https://www.rijkswaterstaat.nl
 https://rijkswaterstaat.nl
+https://bezoekerscentrum.rijkswaterstaat.nl
+https://test.bezoekerscentrum.rijkswaterstaat.nl
+https://www.bezoekerscentrum.rijkswaterstaat.nl
 https://bmm2016.rijkswaterstaat.nl
 https://botova.rijkswaterstaat.nl
 https://crisiswerkplek.rijkswaterstaat.nl

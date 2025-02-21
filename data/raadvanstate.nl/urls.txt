@@ -18,7 +18,5 @@ https://tdportal.raadvanstate.nl
 https://www.raadvanstate.nl
 https://zittingsagenda.raadvanstate.nl
 http://kennisbank.raadvanstate.nl
-http://loket-preprod.raadvanstate.nl
-http://test.raadvanstate.nl
 https://enterpriseenrollment.raadvanstate.nl
 https://enterpriseregistration.raadvanstate.nl

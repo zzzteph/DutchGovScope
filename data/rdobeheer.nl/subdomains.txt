@@ -54,7 +54,6 @@ pilot.uzi-online.acc.rdobeheer.nl
 yivi.pilot.uzi-online.acc.rdobeheer.nl
 login-uzi.pilot.uzi-online.acc.rdobeheer.nl
 login.pilot.uzi-online.acc.rdobeheer.nl
-taiga.rdobeheer.nl
 vpn.rdobeheer.nl
 web.acc.dpr.rdobeheer.nl
 web.acc.woo.rdobeheer.nl

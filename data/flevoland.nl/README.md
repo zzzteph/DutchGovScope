@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:24
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:25
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/flevoland.nl/subdomains.txt)|80|Alive subdomains|
-|[urls.txt](/data/flevoland.nl/urls.txt)|80|Urls|
+|[subdomains.txt](/data/flevoland.nl/subdomains.txt)|82|Alive subdomains|
+|[urls.txt](/data/flevoland.nl/urls.txt)|81|Urls|
 
 
 ## Statistics
@@ -78,6 +78,7 @@
 |[https://micollab.flevoland.nl](https://micollab.flevoland.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|Redirecting...|
 |[https://preprodid.flevoland.nl](https://preprodid.flevoland.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Provincie Flevol...|
 |[https://stateninformatie.flevoland.nl](https://stateninformatie.flevoland.nl)| | **A**|Apache|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS PHP|Provincie Flevol...|
+|[https://test-cmsintranet.flevoland.nl](https://test-cmsintranet.flevoland.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|403 - Forbidden:...|
 |[https://test.flevoland.nl](https://test.flevoland.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||502 Bad Gateway|
 |[https://testmdm.flevoland.nl](https://testmdm.flevoland.nl)| | **A**|server| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|302 Found|
 |[https://veiligmailen.flevoland.nl](https://veiligmailen.flevoland.nl)| | **A**|| |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS||
@@ -98,7 +99,7 @@
 |[https://enterpriseregistration.test.flevoland.nl](https://enterpriseregistration.test.flevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://res.flevoland.nl](http://res.flevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://msoid.flevoland.nl](https://msoid.flevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
-|[https://bezoekersdata.flevoland.nl](https://bezoekersdata.flevoland.nl)| | **D**|Apache|:o: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS MySQL PHP:7.4.33 WordPress Yoast SEO:24.2|Home - VDM Flevo...|
+|[https://bezoekersdata.flevoland.nl](https://bezoekersdata.flevoland.nl)| | **D**|Apache|:o: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS MySQL PHP:7.4.33 WordPress Yoast SEO:24.4|Home - VDM Flevo...|
 |[http://data.flevoland.nl](http://data.flevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 
 

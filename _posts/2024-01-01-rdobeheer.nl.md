@@ -2,8 +2,8 @@
 layout: default
 title: "rdobeheer.nl"
 permalink: "/dutchgov/rdobeheer.nl.html"
-subdomains_count: 69
-urls_count: 69
+subdomains_count: 68
+urls_count: 68
 ssl_rank: 
 http_rank: C
 security_txt: 43
@@ -25,8 +25,8 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/rdobeheer.nl/subdomains.txt)|69|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/rdobeheer.nl/urls.txt)|69|Urls|
+|[subdomains.txt](/DutchGovScope/data/rdobeheer.nl/subdomains.txt)|68|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/rdobeheer.nl/urls.txt)|68|Urls|
 
 
 ## Statistics
@@ -90,7 +90,6 @@ tags: dutchgov
 |[https://yivi.pilot.uzi-online.acc.rdobeheer.nl](https://yivi.pilot.uzi-online.acc.rdobeheer.nl)| | **A**||:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|YIVI inlogroute|
 |[http://login-uzi.pilot.uzi-online.acc.rdobeheer.nl](http://login-uzi.pilot.uzi-online.acc.rdobeheer.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://login.pilot.uzi-online.acc.rdobeheer.nl](https://login.pilot.uzi-online.acc.rdobeheer.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS||
-|[http://taiga.rdobeheer.nl](http://taiga.rdobeheer.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://vpn.rdobeheer.nl](http://vpn.rdobeheer.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|301 Moved Perman...|
 |[http://web.acc.dpr.rdobeheer.nl](http://web.acc.dpr.rdobeheer.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://web.acc.woo.rdobeheer.nl](https://web.acc.woo.rdobeheer.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|

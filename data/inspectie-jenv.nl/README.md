@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/inspectie-jenv.nl/subdomains.txt)|7|Alive subdomains|
+|[subdomains.txt](/data/inspectie-jenv.nl/subdomains.txt)|8|Alive subdomains|
 |[urls.txt](/data/inspectie-jenv.nl/urls.txt)|7|Urls|
 
 

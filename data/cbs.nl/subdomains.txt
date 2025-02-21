@@ -163,7 +163,6 @@ mijn.cbs.nl
 mijn.acceptatie.cbs.nl
 overzicht.cbs.nl
 webserver.cbs.nl
-brandportal.cbs.nl
 testchat.cbs.nl
 webext.cbs.nl
 cerberus.cbs.nl
@@ -176,3 +175,4 @@ livecharts.cbs.nl
 iv3-controle.beta.cbs.nl
 beta-iv3-controle.cbs.nl
 smartsurveys.cbs.nl
+topdesk.cbs.nl

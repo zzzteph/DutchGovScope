@@ -8,7 +8,6 @@ https://oem.provincie-utrecht.nl
 https://wzb.provincie-utrecht.nl
 https://assystweb.provincie-utrecht.nl
 https://diva.provincie-utrecht.nl
-https://info.provincie-utrecht.nl
 https://wiki.provincie-utrecht.nl
 https://esp.provincie-utrecht.nl
 https://geotest.provincie-utrecht.nl
@@ -68,6 +67,7 @@ https://stateninformatie.provincie-utrecht.nl
 https://www.stateninformatie.provincie-utrecht.nl
 https://tramdashboard.provincie-utrecht.nl
 https://vctu-api.provincie-utrecht.nl
+https://vctu.provincie-utrecht.nl
 https://veiligdelen.provincie-utrecht.nl
 http://webkaart-sld.provincie-utrecht.nl
 http://wortel176.provincie-utrecht.nl
@@ -79,7 +79,6 @@ https://provincie-utrecht.nl
 https://login.provincie-utrecht.nl
 https://wortel174.provincie-utrecht.nl
 https://socialintranet-acc.provincie-utrecht.nl
-https://socialintranet.provincie-utrecht.nl
 https://monitoromgevingsbeleid.provincie-utrecht.nl
 https://omgevingsbeleid.provincie-utrecht.nl
 https://iapp.provincie-utrecht.nl

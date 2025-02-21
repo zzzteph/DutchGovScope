@@ -53,4 +53,3 @@ www3.kvk.nl
 zoeken.kvk.nl
 payt.kvk.nl
 facturen.kvk.nl
-apim01.prd.cloud001.kvk.nl

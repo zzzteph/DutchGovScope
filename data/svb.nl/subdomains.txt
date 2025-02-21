@@ -40,8 +40,6 @@ rdsapplications02.svb.nl
 rdsapplications03.svb.nl
 rdsapplications04.svb.nl
 rdsapplications05.svb.nl
-rdsapplications06.svb.nl
-rdsapplications07.svb.nl
 remotedesktop.svb.nl
 secure5.svb.nl
 svb.nl

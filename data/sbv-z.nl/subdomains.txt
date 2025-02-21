@@ -7,7 +7,6 @@ www.sbv-z.nl
 raadplegen-acc.sbv-z.nl
 raadplegen-preprod.sbv-z.nl
 raadplegen.sbv-z.nl
-webservice-acc.sbv-z.nl
 webservice-preprod.sbv-z.nl
 webservice.sbv-z.nl
 uzipas.raadplegen.sbv-z.nl

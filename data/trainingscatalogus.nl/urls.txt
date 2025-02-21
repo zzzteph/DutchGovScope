@@ -18,6 +18,7 @@ https://vgz-lms.course-api.trainingscatalogus.nl
 https://vgz-lms.enrollment-api.trainingscatalogus.nl
 https://vgz-lms.product-api.trainingscatalogus.nl
 https://vgz-lms.scim-api.trainingscatalogus.nl
+https://svb-lms-a.scim-api.trainingscatalogus.nl
 https://trainingscatalogus.nl
 https://vgz-lms-a.course-api.trainingscatalogus.nl
 https://vgz-lms-a.enrollment-api.trainingscatalogus.nl

@@ -5,7 +5,7 @@ permalink: "/dutchgov/onderzoekmetmensen.nl.html"
 subdomains_count: 10
 urls_count: 10
 ssl_rank: 
-http_rank: E
+http_rank: D
 security_txt: 3
 url_link: /data/onderzoekmetmensen.nl/urls.txt
 subdomains_link: /data/onderzoekmetmensen.nl/subdomains.txt
@@ -19,7 +19,7 @@ tags: dutchgov
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:E
+ - **HTTP Security Grade**:D
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:3
 
 
@@ -42,7 +42,7 @@ tags: dutchgov
 |[https://pmon-tst.onderzoekmetmensen.nl](https://pmon-tst.onderzoekmetmensen.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Basic HSTS Nginx|401 Authorizatio...|
 |[https://pmon-acc.onderzoekmetmensen.nl](https://pmon-acc.onderzoekmetmensen.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Basic HSTS Nginx|401 Authorizatio...|
 |[https://portaal-tst.onderzoekmetmensen.nl](https://portaal-tst.onderzoekmetmensen.nl)| | **F**|nginx/1.26.2| | | | | | | | :white_check_mark: | |Basic HSTS Nginx:1.26.2|401 Authorizatio...|
-|[https://pmon.onderzoekmetmensen.nl](https://pmon.onderzoekmetmensen.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
+|[https://pmon.onderzoekmetmensen.nl](https://pmon.onderzoekmetmensen.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal:10 HSTS Nginx PHP|Inloggen | CCMO...|
 |[https://portaal.onderzoekmetmensen.nl](https://portaal.onderzoekmetmensen.nl)| | **C**|nginx|:o: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 
 

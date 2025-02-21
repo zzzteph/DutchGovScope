@@ -18,6 +18,7 @@ vgz-lms.course-api.trainingscatalogus.nl
 vgz-lms.enrollment-api.trainingscatalogus.nl
 vgz-lms.product-api.trainingscatalogus.nl
 vgz-lms.scim-api.trainingscatalogus.nl
+svb-lms-a.scim-api.trainingscatalogus.nl
 trainingscatalogus.nl
 vgz-lms-a.course-api.trainingscatalogus.nl
 vgz-lms-a.enrollment-api.trainingscatalogus.nl
@@ -130,3 +131,6 @@ lms-rotterdam.trainingscatalogus.nl
 parnassialeeromgeving.trainingscatalogus.nl
 pbo.trainingscatalogus.nl
 rbo-a.trainingscatalogus.nl
+ind-a.trainingscatalogus.nl
+ciz-a.trainingscatalogus.nl
+rabobank-lms-a.trainingscatalogus.nl

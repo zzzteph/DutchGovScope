@@ -2,7 +2,7 @@
 layout: default
 title: "inspectie-jenv.nl"
 permalink: "/dutchgov/inspectie-jenv.nl.html"
-subdomains_count: 7
+subdomains_count: 8
 urls_count: 7
 ssl_rank: 
 http_rank: A
@@ -25,7 +25,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/inspectie-jenv.nl/subdomains.txt)|7|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/inspectie-jenv.nl/subdomains.txt)|8|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/inspectie-jenv.nl/urls.txt)|7|Urls|
 
 

@@ -84,7 +84,6 @@ https://auth.rivm.nl
 https://sso-webauth.rivm.nl
 https://autodiscover.rivm.nl
 https://beleving.rivm.nl
-https://informatiehulp.rivm.nl
 https://signalen.rivm.nl
 https://bestellingen.rivm.nl
 http://www.bestellingen.rivm.nl
@@ -133,7 +132,6 @@ https://www.draaiboekhielprikscreening.rivm.nl
 http://drupal.rivm.nl
 https://duvo-web-api.rivm.nl
 https://dwo.rivm.nl
-http://ewrs-oud.rivm.nl
 https://expertrolesqsort.rivm.nl
 https://ezips-app.rivm.nl
 https://ezips.rivm.nl
@@ -178,6 +176,7 @@ https://mijnsap.rivm.nl
 https://modellenregister.rivm.nl
 https://nevo-online.rivm.nl
 https://nevo.rivm.nl
+https://nieuwsbrief.rivm.nl
 http://nivelform.rivm.nl
 https://nsl-monitoring.rivm.nl
 https://samenmeten.rivm.nl

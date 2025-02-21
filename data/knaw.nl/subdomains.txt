@@ -452,7 +452,6 @@ emailsanitizer.labs.dans.knaw.nl
 fairaware-api.labs.dans.knaw.nl
 galaxy.bioinf.nioo.knaw.nl
 metadata-enhancer.labs.dans.knaw.nl
-subsite.nioo-acc.knaw.nl
 flippinglakes.nioo.knaw.nl
 www.nioo.knaw.nl
 minioapi2.labs.dans.knaw.nl
@@ -527,3 +526,4 @@ faireva.labs.dans.knaw.nl
 bitwarden.knaw.nl
 mpadmin.meertens.knaw.nl
 www.opgravingen.huygens.knaw.nl
+wfm.dev.huc.knaw.nl

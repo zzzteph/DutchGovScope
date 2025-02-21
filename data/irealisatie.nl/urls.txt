@@ -95,3 +95,8 @@ https://siem.acc.irealisatie.nl
 https://hapi2.test.zm.irealisatie.nl
 https://hapi1.test.zm.irealisatie.nl
 https://mcsd.test.zm.irealisatie.nl
+https://lmr-zuid.proeftuin.gf.irealisatie.nl
+https://lmr-noord.proeftuin.gf.irealisatie.nl
+https://lmr-oost.proeftuin.gf.irealisatie.nl
+https://lokalisatie-demo.proeftuin.gf.irealisatie.nl
+https://web.proeftuin.gf.irealisatie.nl

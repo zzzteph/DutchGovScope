@@ -20,7 +20,7 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
+|[http://noordzeeloket.nl](http://noordzeeloket.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-||
 |[https://windmolensopzee.noordzeeloket.nl](https://windmolensopzee.noordzeeloket.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Microsoft Azure...|
-|[http://www.noordzeeloket.nl](http://www.noordzeeloket.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-||
 
 

@@ -12,3 +12,7 @@ http://localhost.investinholland.com
 http://autodiscover.investinholland.com
 http://mail.japan.investinholland.com
 http://pop.japan.investinholland.com
+http://www.german.investinholland.com
+http://www.korea.investinholland.com
+http://www.taiwan.investinholland.com
+http://www.uk.investinholland.com

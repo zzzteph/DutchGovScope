@@ -8,7 +8,6 @@ oem.provincie-utrecht.nl
 wzb.provincie-utrecht.nl
 assystweb.provincie-utrecht.nl
 diva.provincie-utrecht.nl
-info.provincie-utrecht.nl
 wiki.provincie-utrecht.nl
 esp.provincie-utrecht.nl
 geotest.provincie-utrecht.nl
@@ -68,6 +67,7 @@ stateninformatie.provincie-utrecht.nl
 www.stateninformatie.provincie-utrecht.nl
 tramdashboard.provincie-utrecht.nl
 vctu-api.provincie-utrecht.nl
+vctu.provincie-utrecht.nl
 veiligdelen.provincie-utrecht.nl
 webkaart-sld.provincie-utrecht.nl
 wortel176.provincie-utrecht.nl
@@ -79,7 +79,6 @@ provincie-utrecht.nl
 login.provincie-utrecht.nl
 wortel174.provincie-utrecht.nl
 socialintranet-acc.provincie-utrecht.nl
-socialintranet.provincie-utrecht.nl
 monitoromgevingsbeleid.provincie-utrecht.nl
 omgevingsbeleid.provincie-utrecht.nl
 iapp.provincie-utrecht.nl

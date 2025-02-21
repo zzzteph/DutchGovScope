@@ -17,5 +17,4 @@ meldingen.ilent.nl
 staging.meldingen.ilent.nl
 stc.ilent.nl
 wio.ilent.nl
-data.ilent.nl
 easyrules.ilent.nl

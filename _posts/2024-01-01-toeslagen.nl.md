@@ -2,7 +2,7 @@
 layout: default
 title: "toeslagen.nl"
 permalink: "/dutchgov/toeslagen.nl.html"
-subdomains_count: 13
+subdomains_count: 14
 urls_count: 13
 ssl_rank: 
 http_rank: A
@@ -25,7 +25,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/toeslagen.nl/subdomains.txt)|13|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/toeslagen.nl/subdomains.txt)|14|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/toeslagen.nl/urls.txt)|13|Urls|
 
 

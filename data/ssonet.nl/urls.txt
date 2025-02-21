@@ -1,5 +1,4 @@
 http://exchange.ssonet.nl
 https://ssonet.nl
 https://www.ssonet.nl
-https://test.ssonet.nl
 https://anyc-t01-a.ssonet.nl

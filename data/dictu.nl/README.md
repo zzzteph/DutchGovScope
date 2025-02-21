@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:D
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:15
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:16
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/dictu.nl/subdomains.txt)|65|Alive subdomains|
-|[urls.txt](/data/dictu.nl/urls.txt)|65|Urls|
+|[subdomains.txt](/data/dictu.nl/subdomains.txt)|66|Alive subdomains|
+|[urls.txt](/data/dictu.nl/urls.txt)|66|Urls|
 
 
 ## Statistics
@@ -57,6 +57,7 @@
 |[https://mailing.dictu.nl](https://mailing.dictu.nl)| | **C**|Spotler| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://mft.webftp.dictu.nl](https://mft.webftp.dictu.nl)| | **D**|| | | | | | | :white_check_mark: | :white_check_mark: | ||Redirect|
 |[https://mijntoken.dictu.nl](https://mijntoken.dictu.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Oracle Dynamic Monitoring Service Oracle WebLogic Server|302 Moved Tempor...|
+|[http://pms-acc.dictu.nl](http://pms-acc.dictu.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET||
 |[https://procesweb-test.dictu.nl](https://procesweb-test.dictu.nl)| | **F**||:o: | | | | :white_check_mark:| | | :white_check_mark: | |HSTS||
 |[https://procesweb.dictu.nl](https://procesweb.dictu.nl)| | **F**|CloudFront|:o: | | | | :white_check_mark:| | | :white_check_mark: | |Amazon CloudFront Amazon Web Services HSTS||
 |[https://sfs-acc.dictu.nl](https://sfs-acc.dictu.nl)| | **A**|Seclore Server|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Java||

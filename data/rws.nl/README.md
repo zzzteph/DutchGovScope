@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/rws.nl/subdomains.txt)|154|Alive subdomains|
-|[urls.txt](/data/rws.nl/urls.txt)|154|Urls|
+|[subdomains.txt](/data/rws.nl/subdomains.txt)|153|Alive subdomains|
+|[urls.txt](/data/rws.nl/urls.txt)|153|Urls|
 
 
 ## Statistics
@@ -105,7 +105,6 @@
 |[https://preprod.beterbediend.rws.nl](https://preprod.beterbediend.rws.nl)| | **D**|nginx|:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|Beter Bediend|
 |[https://protide.rws.nl](https://protide.rws.nl)| | **A**|ChartaWebServer rws-epvw-prt201|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[http://prs.rws.nl](http://prs.rws.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[https://rastoken.rws.nl](https://rastoken.rws.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Oracle Dynamic Monitoring Service Oracle WebLogic Server|302 Moved Tempor...|
 |[https://rhel8.wabinfo.rws.nl](https://rhel8.wabinfo.rws.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://wabinfo.rws.nl](https://wabinfo.rws.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://rws.nl](https://rws.nl)| | **C**|Microsoft-Azure-Application-Gateway/v2|:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | ||301 Moved Perman...|

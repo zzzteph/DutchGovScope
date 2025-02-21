@@ -84,7 +84,6 @@ auth.rivm.nl
 sso-webauth.rivm.nl
 autodiscover.rivm.nl
 beleving.rivm.nl
-informatiehulp.rivm.nl
 signalen.rivm.nl
 bestellingen.rivm.nl
 www.bestellingen.rivm.nl
@@ -133,7 +132,6 @@ www.draaiboekhielprikscreening.rivm.nl
 drupal.rivm.nl
 duvo-web-api.rivm.nl
 dwo.rivm.nl
-ewrs-oud.rivm.nl
 expertrolesqsort.rivm.nl
 ezips-app.rivm.nl
 ezips.rivm.nl
@@ -178,6 +176,7 @@ mijnsap.rivm.nl
 modellenregister.rivm.nl
 nevo-online.rivm.nl
 nevo.rivm.nl
+nieuwsbrief.rivm.nl
 nivelform.rivm.nl
 nsl-monitoring.rivm.nl
 samenmeten.rivm.nl

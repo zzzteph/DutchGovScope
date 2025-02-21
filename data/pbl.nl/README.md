@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/pbl.nl/subdomains.txt)|27|Alive subdomains|
-|[urls.txt](/data/pbl.nl/urls.txt)|27|Urls|
+|[subdomains.txt](/data/pbl.nl/subdomains.txt)|28|Alive subdomains|
+|[urls.txt](/data/pbl.nl/urls.txt)|28|Urls|
 
 
 ## Statistics
@@ -40,6 +40,7 @@
 |[https://themasites.pbl.nl](https://themasites.pbl.nl)| | **A**|Microsoft-Azure-Application-Gateway/v2| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||301 Moved Perman...|
 |[https://dwo.pbl.nl](https://dwo.pbl.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
 |[https://fs.pbl.nl](https://fs.pbl.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[https://mailings.pbl.nl](https://mailings.pbl.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://sf.pbl.nl](https://sf.pbl.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://survey.pbl.nl](https://survey.pbl.nl)| | **C**|nginx|:white_check_mark: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Planbureau voor...|
 |[https://webmail.pbl.nl](https://webmail.pbl.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |HSTS HTTP/3 IIS:10.0 Microsoft ASP.NET Windows Server||

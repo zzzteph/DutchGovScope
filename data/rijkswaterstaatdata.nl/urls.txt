@@ -1,1 +1,3 @@
 https://downloads.rijkswaterstaatdata.nl
+http://rijkswaterstaatdata.nl
+http://www.rijkswaterstaatdata.nl

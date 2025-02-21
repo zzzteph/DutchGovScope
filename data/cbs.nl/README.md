@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/cbs.nl/subdomains.txt)|178|Alive subdomains|
-|[urls.txt](/data/cbs.nl/urls.txt)|178|Urls|
+|[urls.txt](/data/cbs.nl/urls.txt)|177|Urls|
 
 
 ## Statistics
@@ -185,7 +185,6 @@
 |[https://mijn.acceptatie.cbs.nl](https://mijn.acceptatie.cbs.nl)| | **C**|envoy| |:white_check_mark: | | | | | | :white_check_mark: | |Basic Envoy HSTS|401 Authorizatio...|
 |[https://overzicht.cbs.nl](https://overzicht.cbs.nl)| | **C**|Microsoft-IIS/10.0|:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Object moved|
 |[https://webserver.cbs.nl](https://webserver.cbs.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server||
-|[https://brandportal.cbs.nl](https://brandportal.cbs.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2 PHP:7.3.33||DOMAIN| is gebl...|
 |[https://testchat.cbs.nl](https://testchat.cbs.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://webext.cbs.nl](https://webext.cbs.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://cerberus.cbs.nl](https://cerberus.cbs.nl)| | **E**|| | | | | | | | :white_check_mark: | ||CerBeruS|

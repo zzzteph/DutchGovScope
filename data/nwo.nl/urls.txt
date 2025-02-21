@@ -19,3 +19,4 @@ https://vpnportal.nwo.nl
 https://digitoegankelijk.nwo.nl
 https://enterpriseenrollment.nwo.nl
 https://data.nwo.nl
+https://vpn.nwo.nl

@@ -12,3 +12,4 @@ https://publicaties.mensenrechten.nl
 http://autodiscover.mensenrechten.nl
 https://enterpriseenrollment.mensenrechten.nl
 https://enterpriseregistration.mensenrechten.nl
+http://micc.mensenrechten.nl

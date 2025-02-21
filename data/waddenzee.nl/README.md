@@ -5,14 +5,14 @@
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:B
+ - **HTTP Security Grade**:E
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/waddenzee.nl/subdomains.txt)|1|Alive subdomains|
-|[urls.txt](/data/waddenzee.nl/urls.txt)|1|Urls|
+|[subdomains.txt](/data/waddenzee.nl/subdomains.txt)|5|Alive subdomains|
+|[urls.txt](/data/waddenzee.nl/urls.txt)|5|Urls|
 
 
 ## Statistics
@@ -20,6 +20,10 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
+|[http://wadzee9520.waddenzee.nl](http://wadzee9520.waddenzee.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0||
+|[http://bmw9520.waddenzee.nl](http://bmw9520.waddenzee.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0||
+|[http://gebiedagen2.waddenzee.nl](http://gebiedagen2.waddenzee.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0||
+|[http://test.waddenzee.nl](http://test.waddenzee.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0||
 |[http://autodiscover.waddenzee.nl](http://autodiscover.waddenzee.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |||
 
 

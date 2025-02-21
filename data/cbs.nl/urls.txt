@@ -163,7 +163,6 @@ https://mijn.cbs.nl
 https://mijn.acceptatie.cbs.nl
 https://overzicht.cbs.nl
 https://webserver.cbs.nl
-https://brandportal.cbs.nl
 https://testchat.cbs.nl
 https://webext.cbs.nl
 https://cerberus.cbs.nl

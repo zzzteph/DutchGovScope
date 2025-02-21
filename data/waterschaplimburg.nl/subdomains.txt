@@ -1,6 +1,7 @@
 eef.waterschaplimburg.nl
 digikoppeling.waterschaplimburg.nl
 inloggen-preprod.waterschaplimburg.nl
+metelkaar.waterschaplimburg.nl
 open.waterschaplimburg.nl
 spapps-t.waterschaplimburg.nl
 spapps.waterschaplimburg.nl
@@ -29,6 +30,9 @@ routing.waterschaplimburg.nl
 bron.waterschaplimburg.nl
 cms-bron.waterschaplimburg.nl
 test-cms-bron.waterschaplimburg.nl
+popi.waterschaplimburg.nl
+daiquiri.waterschaplimburg.nl
+21stcentury.waterschaplimburg.nl
 genio.waterschaplimburg.nl
 ikp-ota.waterschaplimburg.nl
 ikp.waterschaplimburg.nl

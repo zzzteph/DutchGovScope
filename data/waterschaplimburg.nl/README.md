@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/waterschaplimburg.nl/subdomains.txt)|34|Alive subdomains|
-|[urls.txt](/data/waterschaplimburg.nl/urls.txt)|30|Urls|
+|[subdomains.txt](/data/waterschaplimburg.nl/subdomains.txt)|38|Alive subdomains|
+|[urls.txt](/data/waterschaplimburg.nl/urls.txt)|31|Urls|
 
 
 ## Statistics
@@ -23,6 +23,7 @@
 |[https://eef.waterschaplimburg.nl](https://eef.waterschaplimburg.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Document Moved|
 |[https://digikoppeling.waterschaplimburg.nl](https://digikoppeling.waterschaplimburg.nl)| | **F**|Layer7-API-Gateway| | | | | | | | :white_check_mark: | |||
 |[https://inloggen-preprod.waterschaplimburg.nl](https://inloggen-preprod.waterschaplimburg.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
+|[https://metelkaar.waterschaplimburg.nl](https://metelkaar.waterschaplimburg.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|405 Method not a...|
 |[https://open.waterschaplimburg.nl](https://open.waterschaplimburg.nl)| | **B**||:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Azure Azure Front Door HSTS Next.js Node.js React Webpack|Publicatie platf...|
 |[https://spapps-t.waterschaplimburg.nl](https://spapps-t.waterschaplimburg.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|TransIP - Reserv...|
 |[https://spapps.waterschaplimburg.nl](https://spapps.waterschaplimburg.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|TransIP - Reserv...|

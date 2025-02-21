@@ -83,7 +83,6 @@ poc-werkplek.rws.nl
 preprod.beterbediend.rws.nl
 protide.rws.nl
 prs.rws.nl
-rastoken.rws.nl
 rhel8.wabinfo.rws.nl
 wabinfo.rws.nl
 rws.nl

@@ -54,7 +54,6 @@ https://pilot.uzi-online.acc.rdobeheer.nl
 https://yivi.pilot.uzi-online.acc.rdobeheer.nl
 http://login-uzi.pilot.uzi-online.acc.rdobeheer.nl
 https://login.pilot.uzi-online.acc.rdobeheer.nl
-http://taiga.rdobeheer.nl
 http://vpn.rdobeheer.nl
 http://web.acc.dpr.rdobeheer.nl
 https://web.acc.woo.rdobeheer.nl

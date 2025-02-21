@@ -2,11 +2,11 @@
 layout: default
 title: "irealisatie.nl"
 permalink: "/dutchgov/irealisatie.nl.html"
-subdomains_count: 105
-urls_count: 97
+subdomains_count: 107
+urls_count: 102
 ssl_rank: 
 http_rank: B
-security_txt: 77
+security_txt: 82
 url_link: /data/irealisatie.nl/urls.txt
 subdomains_link: /data/irealisatie.nl/subdomains.txt
 categories: dutchgov
@@ -20,13 +20,13 @@ tags: dutchgov
 
  - **SSL Grade**:
  - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:77
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:82
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/irealisatie.nl/subdomains.txt)|105|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/irealisatie.nl/urls.txt)|97|Urls|
+|[subdomains.txt](/DutchGovScope/data/irealisatie.nl/subdomains.txt)|107|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/irealisatie.nl/urls.txt)|102|Urls|
 
 
 ## Statistics
@@ -131,5 +131,10 @@ tags: dutchgov
 |[https://hapi2.test.zm.irealisatie.nl](https://hapi2.test.zm.irealisatie.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Basic HSTS|401 Unauthorized|
 |[https://hapi1.test.zm.irealisatie.nl](https://hapi1.test.zm.irealisatie.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Basic HSTS|401 Unauthorized|
 |[https://mcsd.test.zm.irealisatie.nl](https://mcsd.test.zm.irealisatie.nl)| | **A**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Basic HSTS|401 Unauthorized|
+|[https://lmr-zuid.proeftuin.gf.irealisatie.nl](https://lmr-zuid.proeftuin.gf.irealisatie.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Basic HSTS|401 Unauthorized|
+|[https://lmr-noord.proeftuin.gf.irealisatie.nl](https://lmr-noord.proeftuin.gf.irealisatie.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Basic HSTS|401 Unauthorized|
+|[https://lmr-oost.proeftuin.gf.irealisatie.nl](https://lmr-oost.proeftuin.gf.irealisatie.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Basic HSTS|401 Unauthorized|
+|[https://lokalisatie-demo.proeftuin.gf.irealisatie.nl](https://lokalisatie-demo.proeftuin.gf.irealisatie.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Basic HSTS|401 Unauthorized|
+|[https://web.proeftuin.gf.irealisatie.nl](https://web.proeftuin.gf.irealisatie.nl)| | **A**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Basic HSTS|401 Unauthorized|
 
 

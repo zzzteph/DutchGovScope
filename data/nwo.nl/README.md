@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/nwo.nl/subdomains.txt)|22|Alive subdomains|
-|[urls.txt](/data/nwo.nl/urls.txt)|21|Urls|
+|[urls.txt](/data/nwo.nl/urls.txt)|22|Urls|
 
 
 ## Statistics
@@ -41,5 +41,6 @@
 |[https://digitoegankelijk.nwo.nl](https://digitoegankelijk.nwo.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2|Digitoegankelijk...|
 |[https://enterpriseenrollment.nwo.nl](https://enterpriseenrollment.nwo.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://data.nwo.nl](https://data.nwo.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | :white_check_mark: |Drupal:10 HSTS PHP|Landing page | N...|
+|[https://vpn.nwo.nl](https://vpn.nwo.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 
 
