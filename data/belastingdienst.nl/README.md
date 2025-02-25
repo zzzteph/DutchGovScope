@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/belastingdienst.nl/subdomains.txt)|113|Alive subdomains|
-|[urls.txt](/data/belastingdienst.nl/urls.txt)|112|Urls|
+|[subdomains.txt](/data/belastingdienst.nl/subdomains.txt)|114|Alive subdomains|
+|[urls.txt](/data/belastingdienst.nl/urls.txt)|113|Urls|
 
 
 ## Statistics
@@ -20,6 +20,7 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://academie.acc.belastingdienst.nl](https://academie.acc.belastingdienst.nl)| | **C**|| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||Toegang geblokke...|
 |[https://academie.belastingdienst.nl](https://academie.belastingdienst.nl)| | **C**|| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||Toegang geblokke...|
 |[https://adobe-analytics-dc.belastingdienst.nl](https://adobe-analytics-dc.belastingdienst.nl)| | **B**|jag| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://afspraken.belastingdienst.nl](https://afspraken.belastingdienst.nl)| | **A**|unknown| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Een afspraak mak...|

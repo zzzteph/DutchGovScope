@@ -5,11 +5,8 @@ http://uzi.test.brba.nl
 https://web.test.brba.nl
 https://viep.test.brba.nl
 https://helpdesk.brba.nl
-http://aanmelden.test.brba.nl
-http://aanmelden.acc.brba.nl
 https://brba.nl
 https://www.brba.nl
 http://uzi.brba.nl
 https://viep.brba.nl
-http://aanmelden.brba.nl
 http://keiko.brba.nl

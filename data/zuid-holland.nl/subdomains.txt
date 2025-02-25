@@ -12,6 +12,14 @@ toekomstscenarios.zuid-holland.nl
 wapenfeiten.zuid-holland.nl
 circulair.zuid-holland.nl
 kennis.zuid-holland.nl
+jaaroverzichtcommissarisvandekoning2022.zuid-holland.nl
+redactie.zuid-holland.nl
+staatvan.zuid-holland.nl
+staten.zuid-holland.nl
+www.zuid-holland.nl
+zuid-holland.nl
+coalitieakkoord.zuid-holland.nl
+communicatie.zuid-holland.nl
 data.zuid-holland.nl
 dataloket.zuid-holland.nl
 keuzehulpverkeersmaatregelen.zuid-holland.nl
@@ -34,7 +42,6 @@ lta.zuid-holland.nl
 monitor-klimaatadaptatie.zuid-holland.nl
 planregistratie-wonen.zuid-holland.nl
 monitorleefomgeving.zuid-holland.nl
-nieuwsbrief.zuid-holland.nl
 omgevingsbeleid.zuid-holland.nl
 omgevingsdocumenten.zuid-holland.nl
 opendata.zuid-holland.nl

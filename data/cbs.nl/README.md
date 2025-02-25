@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/cbs.nl/subdomains.txt)|178|Alive subdomains|
-|[urls.txt](/data/cbs.nl/urls.txt)|177|Urls|
+|[subdomains.txt](/data/cbs.nl/subdomains.txt)|179|Alive subdomains|
+|[urls.txt](/data/cbs.nl/urls.txt)|178|Urls|
 
 
 ## Statistics
@@ -68,12 +68,12 @@
 |[https://oefenvragenlijst.cbs.nl](https://oefenvragenlijst.cbs.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|CBS|
 |[https://rgs.cbs.nl](https://rgs.cbs.nl)| | **C**|envoy| |:white_check_mark: | | | | | | :white_check_mark: | |Envoy HSTS||
 |[https://www.databestanden.cbs.nl](https://www.databestanden.cbs.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://beo.cbs.nl](https://beo.cbs.nl)| | **C**|Microsoft-IIS/10.0|:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Object moved|
+|[https://beo.cbs.nl](https://beo.cbs.nl)| | **C**|Microsoft-IIS/10.0|:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET:4.0.30319 Windows Server|Object moved|
 |[http://mijn-api.cbs.nl](http://mijn-api.cbs.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://datasets.cbs.nl](https://datasets.cbs.nl)| | **D**|envoy| |:white_check_mark: | :warning:| | | | | :white_check_mark: | |Envoy HSTS|CCB OData Endpoi...|
 |[http://oosweb.cbs.nl](http://oosweb.cbs.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://cn.cbs.nl](https://cn.cbs.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|IIS Windows Serv...|
-|[https://doemee.cbs.nl](https://doemee.cbs.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET:4.0.30319 Windows Server|Object moved|
+|[https://doemee.cbs.nl](https://doemee.cbs.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Object moved|
 |[https://login.cbs.nl](https://login.cbs.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Welcome to Keycl...|
 |[https://portal.cbs.nl](https://portal.cbs.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://sbi.cbs.nl](https://sbi.cbs.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS||
@@ -126,10 +126,10 @@
 |[https://download.cbs.nl](https://download.cbs.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|403 - Forbidden:...|
 |[http://adc.cbs.nl](http://adc.cbs.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://sts.cbs.nl](https://sts.cbs.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
-|[https://tunnel1.cbs.nl](https://tunnel1.cbs.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
+|[https://tunnel1.cbs.nl](https://tunnel1.cbs.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://adc7.cbs.nl](https://adc7.cbs.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
-|[https://content.cbs.nl](https://content.cbs.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Invalid Connecti...|
-|[https://tunnel.cbs.nl](https://tunnel.cbs.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
+|[https://content.cbs.nl](https://content.cbs.nl)| | **C**|cg-relay| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
+|[https://tunnel.cbs.nl](https://tunnel.cbs.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://contentadapter.cbs.nl](https://contentadapter.cbs.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
 |[https://dossierportal.cbs.nl](https://dossierportal.cbs.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
 |[https://matchingsapp.cbs.nl](https://matchingsapp.cbs.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
@@ -150,6 +150,7 @@
 |[https://redactie.cbs.nl](https://redactie.cbs.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://www.cbs.nl](https://www.cbs.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap:5.3.3 HSTS|Centraal Bureau...|
 |[https://cdn.cbs.nl](https://cdn.cbs.nl)| | **F**|| | | :warning:| | | | | :white_check_mark: | |Azure Azure Front Door||
+|[http://collecties.historisch.cbs.nl](http://collecties.historisch.cbs.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[https://historisch.cbs.nl](https://historisch.cbs.nl)| | **A**|...|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap HSTS PHP|Zoeken - CBS|
 |[https://www.historisch.cbs.nl](https://www.historisch.cbs.nl)| | **A**|...|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Document Moved|
 |[https://designsystem.cbs.nl](https://designsystem.cbs.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Linkedin Ads Ruby Ruby on Rails|CBS Design Syste...|

@@ -6,7 +6,7 @@ subdomains_count: 11
 urls_count: 11
 ssl_rank: 
 http_rank: A
-security_txt: 11
+security_txt: 10
 url_link: /data/platformrijksoverheidonline.nl/urls.txt
 subdomains_link: /data/platformrijksoverheidonline.nl/subdomains.txt
 categories: dutchgov
@@ -20,7 +20,7 @@ tags: dutchgov
 
  - **SSL Grade**:
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:11
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:10
 
 
 | File       | Count | Info |
@@ -44,6 +44,6 @@ tags: dutchgov
 |[https://opendata.oud.platformrijksoverheidonline.nl](https://opendata.oud.platformrijksoverheidonline.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://oud.platformrijksoverheidonline.nl](https://oud.platformrijksoverheidonline.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Platform...|
 |[https://api.abonneren.platformrijksoverheidonline.nl](https://api.abonneren.platformrijksoverheidonline.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS HTTP/3||
-|[https://redactie.platformrijksoverheidonline.nl](https://redactie.platformrijksoverheidonline.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS HTTP/3|Home | Redactiez...|
+|[https://redactie.platformrijksoverheidonline.nl](https://redactie.platformrijksoverheidonline.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS HTTP/3||
 
 

@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:28
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:31
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/cibg.nl/subdomains.txt)|56|Alive subdomains|
-|[urls.txt](/data/cibg.nl/urls.txt)|56|Urls|
+|[subdomains.txt](/data/cibg.nl/subdomains.txt)|57|Alive subdomains|
+|[urls.txt](/data/cibg.nl/urls.txt)|57|Urls|
 
 
 ## Statistics
@@ -23,6 +23,7 @@
 |[http://acceptatie.ag-dcr.cibg.nl](http://acceptatie.ag-dcr.cibg.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://acceptatie.api.kcc.cibg.nl](http://acceptatie.api.kcc.cibg.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 |[https://acceptatie.beheer.lir.cibg.nl](https://acceptatie.beheer.lir.cibg.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
+|[https://acceptatie.beheer.lrza.cibg.nl](https://acceptatie.beheer.lrza.cibg.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
 |[https://acceptatie.bestandsportaal.cibg.nl](https://acceptatie.bestandsportaal.cibg.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|acceptatie.besta...|
 |[https://acceptatie.designsystem.cibg.nl](https://acceptatie.designsystem.cibg.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
 |[http://acceptatie.digikoppeling.cibg.nl](http://acceptatie.digikoppeling.cibg.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
@@ -63,7 +64,7 @@
 |[http://test.digikoppeling.cibg.nl](http://test.digikoppeling.cibg.nl)| | **E**|-| | | | | | :white_check_mark: | | :white_check_mark: | |HSTS||
 |[https://test.publicwebservices.cibg.nl](https://test.publicwebservices.cibg.nl)| | **B**|-| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS||
 |[https://tmv.cibg.nl](https://tmv.cibg.nl)| | **B**|-| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS||
-|[https://uzipas.lir.cibg.nl](https://uzipas.lir.cibg.nl)| | **B**|-| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS|Landelijk Implan...|
+|[https://uzipas.lir.cibg.nl](https://uzipas.lir.cibg.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|Landelijk Implan...|
 |[http://webservices.lrza.cibg.nl](http://webservices.lrza.cibg.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 |[https://acceptatie.behandel.generiekeregistratiedienst.cibg.nl](https://acceptatie.behandel.generiekeregistratiedienst.cibg.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
 |[https://acceptatie.beheer.generiekeregistratiedienst.cibg.nl](https://acceptatie.beheer.generiekeregistratiedienst.cibg.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||

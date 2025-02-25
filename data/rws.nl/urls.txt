@@ -48,8 +48,6 @@ https://getij.rws.nl
 https://port-enc.rws.nl
 https://standaarden.rws.nl
 https://beterbediend.rws.nl
-https://bezoekerscentrum.rws.nl
-https://test.bezoekerscentrum.rws.nl
 https://cmgrws.rws.nl
 https://crisiswerkplek.rws.nl
 https://ctd.rws.nl
@@ -83,6 +81,7 @@ https://poc-werkplek.rws.nl
 https://preprod.beterbediend.rws.nl
 https://protide.rws.nl
 http://prs.rws.nl
+https://rastoken.rws.nl
 https://rhel8.wabinfo.rws.nl
 https://wabinfo.rws.nl
 https://rws.nl
@@ -131,9 +130,11 @@ https://compliance.gridacc.rws.nl
 https://federatie.rws.nl
 http://gitlab.at.rws.nl
 https://topdesk-iv.rws.nl
+http://otl.rws.nl
 https://www.werkenbij.rws.nl
 https://splunkhec.grid.rws.nl
 https://splunkhec.gridacc.rws.nl
+http://waterinfo-extra.rws.nl
 https://matroos.rws.nl
 https://status.gridacc.rws.nl
 https://enterpriseenrollment.rws.nl

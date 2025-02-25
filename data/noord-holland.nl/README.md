@@ -77,6 +77,6 @@
 |[https://enterpriseenrollment.noord-holland.nl](https://enterpriseenrollment.noord-holland.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://enterpriseregistration.noord-holland.nl](https://enterpriseregistration.noord-holland.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://analytics.noord-holland.nl](https://analytics.noord-holland.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|IIS Windows Serv...|
-|[https://vooruitlab.noord-holland.nl](https://vooruitlab.noord-holland.nl)| | **F**|nginx/1.27.2| | | | | | | | :white_check_mark: | |Nginx:1.27.2||
+|[https://vooruitlab.noord-holland.nl](https://vooruitlab.noord-holland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Bootstrap Express Node.js|Microsoft Azure...|
 
 

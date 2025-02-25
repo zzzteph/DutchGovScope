@@ -144,9 +144,6 @@ https://nederlandschehistorien.huygens.knaw.nl
 https://vroedschapsboek.huygens.knaw.nl
 https://databeheer.huygens.knaw.nl
 https://guydebres.huygens.knaw.nl
-https://interedition.huygens.knaw.nl
-https://martianus.huygens.knaw.nl
-https://rembench.huygens.knaw.nl
 https://rembrandtdocuments.huygens.knaw.nl
 https://alfalablog.huygens.knaw.nl
 https://alfalablog.knaw.nl
@@ -314,6 +311,8 @@ https://wi.knaw.nl
 https://www.wi.knaw.nl
 https://dss11.meertens.knaw.nl
 https://dvnl31.dans.knaw.nl
+https://taoracleapp22.knaw.nl
+https://ebs-a.knaw.nl
 https://ebs-o.knaw.nl
 https://obi-o.knaw.nl
 https://taoracleapp23.knaw.nl
@@ -340,7 +339,6 @@ http://hi4.huygens.knaw.nl
 https://hisgis.fa.knaw.nl
 http://hisgis2.fa.knaw.nl
 https://hucdrive.huc.knaw.nl
-https://intranetzonder.knaw.nl
 https://logo.huygens.knaw.nl
 http://maps.fa.knaw.nl
 https://mapserver.fa.knaw.nl
@@ -502,8 +500,8 @@ https://teamcity.dev.huc.knaw.nl
 https://yasgui.dev.huc.knaw.nl
 http://uptime.huc.knaw.nl
 https://zalen.huc.knaw.nl
-http://goudeneeuwblog.huygens.knaw.nl
-http://hermansdigitaal.huygens.knaw.nl
+https://goudeneeuwblog.huygens.knaw.nl
+https://hermansdigitaal.huygens.knaw.nl
 https://dataverse-date-updater.labs.dans.knaw.nl
 https://back2roots.nioo.knaw.nl
 https://promise.nioo.knaw.nl

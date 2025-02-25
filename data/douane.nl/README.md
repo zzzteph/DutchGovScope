@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/douane.nl/subdomains.txt)|11|Alive subdomains|
+|[subdomains.txt](/data/douane.nl/subdomains.txt)|12|Alive subdomains|
 |[urls.txt](/data/douane.nl/urls.txt)|11|Urls|
 
 

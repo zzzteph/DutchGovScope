@@ -12,6 +12,14 @@ https://toekomstscenarios.zuid-holland.nl
 https://wapenfeiten.zuid-holland.nl
 https://circulair.zuid-holland.nl
 https://kennis.zuid-holland.nl
+http://jaaroverzichtcommissarisvandekoning2022.zuid-holland.nl
+http://redactie.zuid-holland.nl
+http://staatvan.zuid-holland.nl
+http://staten.zuid-holland.nl
+http://www.zuid-holland.nl
+http://zuid-holland.nl
+http://coalitieakkoord.zuid-holland.nl
+http://communicatie.zuid-holland.nl
 https://data.zuid-holland.nl
 https://dataloket.zuid-holland.nl
 https://keuzehulpverkeersmaatregelen.zuid-holland.nl
@@ -34,7 +42,6 @@ https://lta.zuid-holland.nl
 https://monitor-klimaatadaptatie.zuid-holland.nl
 https://planregistratie-wonen.zuid-holland.nl
 https://monitorleefomgeving.zuid-holland.nl
-https://nieuwsbrief.zuid-holland.nl
 https://omgevingsbeleid.zuid-holland.nl
 https://omgevingsdocumenten.zuid-holland.nl
 https://opendata.zuid-holland.nl

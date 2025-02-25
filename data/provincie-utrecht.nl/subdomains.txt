@@ -8,6 +8,7 @@ oem.provincie-utrecht.nl
 wzb.provincie-utrecht.nl
 assystweb.provincie-utrecht.nl
 diva.provincie-utrecht.nl
+info.provincie-utrecht.nl
 wiki.provincie-utrecht.nl
 esp.provincie-utrecht.nl
 geotest.provincie-utrecht.nl
@@ -88,7 +89,7 @@ mfa.provincie-utrecht.nl
 localhost.provincie-utrecht.nl
 autodiscover.provincie-utrecht.nl
 burgemeesters.provincie-utrecht.nl
-ris.provincie-utrecht.nl
 zsd.provincie-utrecht.nl
+sap-s4h-p.provincie-utrecht.nl
 atlas-ontw.provincie-utrecht.nl
 wzb-t.provincie-utrecht.nl

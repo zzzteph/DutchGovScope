@@ -2,6 +2,7 @@ fed01.toeslagen.nl
 fed01.tst.toeslagen.nl
 fibt1.toeslagen.nl
 herstel.toeslagen.nl
+inkomen.toeslagen.nl
 mijn.toeslagen.nl
 toeslagen.nl
 www.toeslagen.nl

@@ -1,5 +1,4 @@
 https://zorgbeeld.nza.nl
-https://jmv.nza.nl
 https://nza-form4.nza.nl
 https://tovertool.nza.nl
 https://wachttijden.nza.nl
@@ -25,6 +24,7 @@ https://magazines.nza.nl
 https://nza.nl
 https://opendata.nza.nl
 https://itsupport.nza.nl
+https://mta-sts.nza.nl
 https://werkenbijde.nza.nl
 https://zorgproducten-acc.nza.nl
 https://zorgproducten.nza.nl

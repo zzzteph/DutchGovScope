@@ -4,6 +4,7 @@ https://apiacc.minbuza.nl
 https://dev.ecer.minbuza.nl
 https://ecer.minbuza.nl
 https://sip.minbuza.nl
+https://sip.myroom.minbuza.nl
 https://webmeeting.minbuza.nl
 https://edge01.minbuza.nl
 https://edge02.minbuza.nl

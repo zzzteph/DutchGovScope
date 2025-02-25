@@ -2,11 +2,11 @@
 layout: default
 title: "zuid-holland.nl"
 permalink: "/dutchgov/zuid-holland.nl.html"
-subdomains_count: 68
-urls_count: 68
+subdomains_count: 75
+urls_count: 75
 ssl_rank: 
 http_rank: B
-security_txt: 15
+security_txt: 21
 url_link: /data/zuid-holland.nl/urls.txt
 subdomains_link: /data/zuid-holland.nl/subdomains.txt
 categories: dutchgov
@@ -20,13 +20,13 @@ tags: dutchgov
 
  - **SSL Grade**:
  - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:15
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:21
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/zuid-holland.nl/subdomains.txt)|68|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/zuid-holland.nl/urls.txt)|68|Urls|
+|[subdomains.txt](/DutchGovScope/data/zuid-holland.nl/subdomains.txt)|75|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/zuid-holland.nl/urls.txt)|75|Urls|
 
 
 ## Statistics
@@ -48,6 +48,14 @@ tags: dutchgov
 |[https://wapenfeiten.zuid-holland.nl](https://wapenfeiten.zuid-holland.nl)| | **E**|Apache| | | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Drupal:8 PHP|Wapenfeiten: de...|
 |[https://circulair.zuid-holland.nl](https://circulair.zuid-holland.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Elementor:3.25.6 HSTS MySQL Nginx PHP:8.1.29 WordPress:6.7.1 Yoast SEO:23.8|Home - Circulair...|
 |[https://kennis.zuid-holland.nl](https://kennis.zuid-holland.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Elementor:3.25.6 HSTS MySQL Nginx PHP:8.1.29 WordPress|Home - Kennis -...|
+|[http://jaaroverzichtcommissarisvandekoning2022.zuid-holland.nl](http://jaaroverzichtcommissarisvandekoning2022.zuid-holland.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-||
+|[http://redactie.zuid-holland.nl](http://redactie.zuid-holland.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-||
+|[http://staatvan.zuid-holland.nl](http://staatvan.zuid-holland.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-||
+|[http://staten.zuid-holland.nl](http://staten.zuid-holland.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-||
+|[http://www.zuid-holland.nl](http://www.zuid-holland.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Google Tag Manager HSTS Microsoft ASP.NET:-||
+|[http://zuid-holland.nl](http://zuid-holland.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-||
+|[http://coalitieakkoord.zuid-holland.nl](http://coalitieakkoord.zuid-holland.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | |Microsoft ASP.NET:-||
+|[http://communicatie.zuid-holland.nl](http://communicatie.zuid-holland.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-||
 |[https://data.zuid-holland.nl](https://data.zuid-holland.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server||
 |[https://dataloket.zuid-holland.nl](https://dataloket.zuid-holland.nl)| | **B**|nginx|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Azure HSTS Nginx|Dataloket Provin...|
 |[https://keuzehulpverkeersmaatregelen.zuid-holland.nl](https://keuzehulpverkeersmaatregelen.zuid-holland.nl)| | **D**|waitress|:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Azure Bootstrap:5.1.3 HSTS|Keuzehulp werkba...|
@@ -70,7 +78,6 @@ tags: dutchgov
 |[https://monitor-klimaatadaptatie.zuid-holland.nl](https://monitor-klimaatadaptatie.zuid-holland.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| | | :white_check_mark: | |HSTS|Monitor Klimaat...|
 |[https://planregistratie-wonen.zuid-holland.nl](https://planregistratie-wonen.zuid-holland.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|ArcGIS Hub|
 |[https://monitorleefomgeving.zuid-holland.nl](https://monitorleefomgeving.zuid-holland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Azure Azure Front Door|Monitor Leefomge...|
-|[https://nieuwsbrief.zuid-holland.nl](https://nieuwsbrief.zuid-holland.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://omgevingsbeleid.zuid-holland.nl](https://omgevingsbeleid.zuid-holland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Azure Azure Front Door|Omgevingsbeleid...|
 |[https://omgevingsdocumenten.zuid-holland.nl](https://omgevingsdocumenten.zuid-holland.nl)| | **E**|| | | | | | | | :white_check_mark: | ||PlanoView|
 |[https://opendata.zuid-holland.nl](https://opendata.zuid-holland.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java||

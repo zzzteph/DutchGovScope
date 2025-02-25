@@ -100,3 +100,5 @@ https://lmr-noord.proeftuin.gf.irealisatie.nl
 https://lmr-oost.proeftuin.gf.irealisatie.nl
 https://lokalisatie-demo.proeftuin.gf.irealisatie.nl
 https://web.proeftuin.gf.irealisatie.nl
+http://prs-stub.proeftuin.gf.irealisatie.nl
+https://mcsd-supplier.proeftuin.gf.irealisatie.nl

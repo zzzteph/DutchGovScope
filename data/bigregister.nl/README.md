@@ -39,7 +39,7 @@
 |[https://feeds.english.bigregister.nl](https://feeds.english.bigregister.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://opendata.bigregister.nl](https://opendata.bigregister.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://mijn.bigregister.nl](https://mijn.bigregister.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|Mijn BIG-registe...|
-|[https://zoeken.bigregister.nl](https://zoeken.bigregister.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Zorgverlener opz...|
+|[https://zoeken.bigregister.nl](https://zoeken.bigregister.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|Zorgverlener opz...|
 |[https://acceptatie.behandel.bigregister.nl](https://acceptatie.behandel.bigregister.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
 |[https://behandel.bigregister.nl](https://behandel.bigregister.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
 

@@ -69,7 +69,6 @@ https://gtpa-acc.rvo.nl
 https://gtpa.rvo.nl
 https://infographics.rvo.nl
 https://www.infographics.rvo.nl
-https://intra-acc.rvo.nl
 https://intra-cms-acc.rvo.nl
 https://intra-cms.rvo.nl
 https://intra.rvo.nl
@@ -114,5 +113,4 @@ https://www.kennisdelen.rvo.nl
 https://www.offshorewind.rvo.nl
 https://www.sharingknowledge.rvo.nl
 https://english-test.rvo.nl
-https://auth-iam.mijnoctrooi.mypage.rvo.nl
 https://iam.mijnoctrooi.mypage.rvo.nl

@@ -1,6 +1,7 @@
 acceptatie.ag-dcr.cibg.nl
 acceptatie.api.kcc.cibg.nl
 acceptatie.beheer.lir.cibg.nl
+acceptatie.beheer.lrza.cibg.nl
 acceptatie.bestandsportaal.cibg.nl
 acceptatie.designsystem.cibg.nl
 acceptatie.digikoppeling.cibg.nl

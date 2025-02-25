@@ -1,5 +1,4 @@
 zorgbeeld.nza.nl
-jmv.nza.nl
 nza-form4.nza.nl
 tovertool.nza.nl
 wachttijden.nza.nl
@@ -25,6 +24,7 @@ magazines.nza.nl
 nza.nl
 opendata.nza.nl
 itsupport.nza.nl
+mta-sts.nza.nl
 werkenbijde.nza.nl
 zorgproducten-acc.nza.nl
 zorgproducten.nza.nl

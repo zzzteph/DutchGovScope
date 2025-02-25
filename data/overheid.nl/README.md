@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:156
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:155
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/overheid.nl/subdomains.txt)|312|Alive subdomains|
-|[urls.txt](/data/overheid.nl/urls.txt)|310|Urls|
+|[urls.txt](/data/overheid.nl/urls.txt)|309|Urls|
 
 
 ## Statistics
@@ -45,7 +45,6 @@
 |[https://zoekdienst.overheid.nl](https://zoekdienst.overheid.nl)| | **C**|| |:white_check_mark: | :warning:| | | | | :white_check_mark: | |HSTS|Pagina niet gevo...|
 |[https://almanak.overheid.nl](https://almanak.overheid.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | ||301 Moved Perman...|
 |[https://lvbb-preprod.overheid.nl](https://lvbb-preprod.overheid.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
-|[https://overheid.nl](https://overheid.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal HSTS PHP:8.1.31 Varnish|Homepage | Overh...|
 |[https://cio.overheid.nl](https://cio.overheid.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|Home|
 |[https://lokaleregelgeving-eto.overheid.nl](https://lokaleregelgeving-eto.overheid.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://treatydatabase.overheid.nl](https://treatydatabase.overheid.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|Overheid.nl | Tr...|
@@ -190,6 +189,7 @@
 |[https://brk.basisregistraties.overheid.nl](https://brk.basisregistraties.overheid.nl)| | **A**|unspecified|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java|Introductie - BR...|
 |[https://brk.test.basisregistraties.overheid.nl](https://brk.test.basisregistraties.overheid.nl)| | **A**|Unspecified|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java|Introductie - BR...|
 |[https://brt.basisregistraties.overheid.nl](https://brt.basisregistraties.overheid.nl)| | **A**|unspecified|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java|Introductie - BR...|
+|[https://cbm.mijn.overheid.nl](https://cbm.mijn.overheid.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|403 Forbidden|
 |[https://cbm.preprod.mijn.overheid.nl](https://cbm.preprod.mijn.overheid.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|403 Forbidden|
 |[https://preprod.mijn.overheid.nl](https://preprod.mijn.overheid.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx Vue.js|MijnOverheid|
 |[https://cloudstorage-koop.overheid.nl](https://cloudstorage-koop.overheid.nl)| | **A**|Apache|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS||
@@ -230,7 +230,6 @@
 |[https://drop.overheid.nl](https://drop.overheid.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Object moved|
 |[https://eidas-stub.lpc.mijn.overheid.nl](https://eidas-stub.lpc.mijn.overheid.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://externe-veiligheid.omgevingswet.overheid.nl](https://externe-veiligheid.omgevingswet.overheid.nl)| | **C**|unspecified| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
-|[https://gegevensdelen.mijn.overheid.nl](https://gegevensdelen.mijn.overheid.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx Vue.js|Gegevens delen v...|
 |[https://internationaal.ondernemen.overheid.nl](https://internationaal.ondernemen.overheid.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
 |[https://lucht.omgevingswet.overheid.nl](https://lucht.omgevingswet.overheid.nl)| | **C**|unspecified| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://www.mijn.overheid.nl](https://www.mijn.overheid.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|

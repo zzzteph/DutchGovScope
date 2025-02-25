@@ -23,7 +23,6 @@ https://open.overheid.nl
 https://zoekdienst.overheid.nl
 https://almanak.overheid.nl
 https://lvbb-preprod.overheid.nl
-https://overheid.nl
 https://cio.overheid.nl
 https://lokaleregelgeving-eto.overheid.nl
 https://treatydatabase.overheid.nl
@@ -168,6 +167,7 @@ https://bouw.omgevingswet.overheid.nl
 https://brk.basisregistraties.overheid.nl
 https://brk.test.basisregistraties.overheid.nl
 https://brt.basisregistraties.overheid.nl
+https://cbm.mijn.overheid.nl
 https://cbm.preprod.mijn.overheid.nl
 https://preprod.mijn.overheid.nl
 https://cloudstorage-koop.overheid.nl
@@ -208,7 +208,6 @@ https://stcrtin.overheid.nl
 https://drop.overheid.nl
 https://eidas-stub.lpc.mijn.overheid.nl
 https://externe-veiligheid.omgevingswet.overheid.nl
-https://gegevensdelen.mijn.overheid.nl
 https://internationaal.ondernemen.overheid.nl
 https://lucht.omgevingswet.overheid.nl
 https://www.mijn.overheid.nl

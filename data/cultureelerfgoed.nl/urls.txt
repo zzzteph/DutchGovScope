@@ -28,6 +28,7 @@ https://magazines.cultureelerfgoed.nl
 https://opendata.cultureelerfgoed.nl
 https://data.cultureelerfgoed.nl
 https://data.geo.cultureelerfgoed.nl
+https://erfgoedmonitor.cultureelerfgoed.nl
 https://faro.cultureelerfgoed.nl
 https://intranet.cultureelerfgoed.nl
 https://kennis-staging.cultureelerfgoed.nl
@@ -35,12 +36,12 @@ https://kennis.cultureelerfgoed.nl
 https://test.kennis-staging.cultureelerfgoed.nl
 https://test.kennis.cultureelerfgoed.nl
 https://wikixl-saml.cultureelerfgoed.nl
-https://lil.cultureelerfgoed.nl
-https://noaa.cultureelerfgoed.nl
-https://pom.cultureelerfgoed.nl
-https://thesaurus.cultureelerfgoed.nl
+http://lil.cultureelerfgoed.nl
+http://noaa.cultureelerfgoed.nl
+http://pom.cultureelerfgoed.nl
+http://thesaurus.cultureelerfgoed.nl
 https://mass.cultureelerfgoed.nl
-http://monumentenregister.cultureelerfgoed.nl
+https://monumentenregister.cultureelerfgoed.nl
 https://www.monumentenregister.cultureelerfgoed.nl
 https://plastic-en.tool.cultureelerfgoed.nl
 https://plastic.tool.cultureelerfgoed.nl
@@ -58,7 +59,7 @@ https://wikixl-saml.test.cultureelerfgoed.nl
 https://acc.stor.services.cultureelerfgoed.nl
 http://acc.encoded.api-gateway.archis.cultureelerfgoed.nl
 https://acc.client.archis.cultureelerfgoed.nl
-https://acc.zaak.services.cultureelerfgoed.nl
+http://acc.zaak.services.cultureelerfgoed.nl
 https://acc.api-gateway.archis.cultureelerfgoed.nl
 https://english.cultureelerfgoed.nl
 https://formulier.cultureelerfgoed.nl

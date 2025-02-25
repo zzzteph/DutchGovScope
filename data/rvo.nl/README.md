@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/rvo.nl/subdomains.txt)|118|Alive subdomains|
-|[urls.txt](/data/rvo.nl/urls.txt)|118|Urls|
+|[subdomains.txt](/data/rvo.nl/subdomains.txt)|117|Alive subdomains|
+|[urls.txt](/data/rvo.nl/urls.txt)|116|Urls|
 
 
 ## Statistics
@@ -91,7 +91,6 @@
 |[https://gtpa.rvo.nl](https://gtpa.rvo.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|Onderhoud Pagina|
 |[https://infographics.rvo.nl](https://infographics.rvo.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|307 Temporary Re...|
 |[https://www.infographics.rvo.nl](https://www.infographics.rvo.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|301 Moved Perman...|
-|[https://intra-acc.rvo.nl](https://intra-acc.rvo.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://intra-cms-acc.rvo.nl](https://intra-cms-acc.rvo.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|403 - Forbidden:...|
 |[https://intra-cms.rvo.nl](https://intra-cms.rvo.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|403 - Forbidden:...|
 |[https://intra.rvo.nl](https://intra.rvo.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
@@ -136,7 +135,6 @@
 |[https://www.offshorewind.rvo.nl](https://www.offshorewind.rvo.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://www.sharingknowledge.rvo.nl](https://www.sharingknowledge.rvo.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://english-test.rvo.nl](https://english-test.rvo.nl)| | **E**|| | | | | | | | :white_check_mark: | |Basic HSTS|401 Authorizatio...|
-|[https://auth-iam.mijnoctrooi.mypage.rvo.nl](https://auth-iam.mijnoctrooi.mypage.rvo.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Welcome to Keycl...|
-|[https://iam.mijnoctrooi.mypage.rvo.nl](https://iam.mijnoctrooi.mypage.rvo.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
+|[https://iam.mijnoctrooi.mypage.rvo.nl](https://iam.mijnoctrooi.mypage.rvo.nl)| | **F**|Apache/2.4.37 (Red Hat Enterprise Linux) OpenSSL/1.1.1k mod_fcgid/2.3.9| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.37 OpenSSL:1.1.1k Red Hat|Benelux Patent P...|
 
 

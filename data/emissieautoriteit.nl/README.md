@@ -30,7 +30,7 @@
 |[https://magazines.emissieautoriteit.nl](https://magazines.emissieautoriteit.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Kiosk | Magazine...|
 |[https://opendata.emissieautoriteit.nl](https://opendata.emissieautoriteit.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://www.emissieautoriteit.nl](https://www.emissieautoriteit.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Nederland...|
-|[https://formulier.emissieautoriteit.nl](https://formulier.emissieautoriteit.nl)| | **A**|| |:white_check_mark: | | |:warning: | | | :white_check_mark: | |HSTS|Object moved|
+|[https://formulier.emissieautoriteit.nl](https://formulier.emissieautoriteit.nl)| | **A**|| |:white_check_mark: | | |:warning: | | | :white_check_mark: | |HSTS|403 - Forbidden:...|
 |[https://preprodehp2.emissieautoriteit.nl](https://preprodehp2.emissieautoriteit.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|403 Forbidden|
 |[https://preprodehpzee.emissieautoriteit.nl](https://preprodehpzee.emissieautoriteit.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|403 Forbidden|
 |[https://preprodmivp.emissieautoriteit.nl](https://preprodmivp.emissieautoriteit.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|403 Forbidden|

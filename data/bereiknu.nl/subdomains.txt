@@ -2,3 +2,11 @@ www.bereiknu.nl
 intranet.bereiknu.nl
 test.bereiknu.nl
 www.intranet.bereiknu.nl
+leftbank.bereiknu.nl
+new-prod.bereiknu.nl
+tamarac.bereiknu.nl
+frati.bereiknu.nl
+shopeur.bereiknu.nl
+ftp.bereiknu.nl
+nc7.bereiknu.nl
+wakehealth.bereiknu.nl

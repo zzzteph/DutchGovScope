@@ -28,4 +28,6 @@ http://publicaffairs.waterschaplimburg.nl
 https://bron.waterschaplimburg.nl
 https://cms-bron.waterschaplimburg.nl
 https://test-cms-bron.waterschaplimburg.nl
+http://popi.waterschaplimburg.nl
+http://daiquiri.waterschaplimburg.nl
 http://genio.waterschaplimburg.nl

@@ -90,3 +90,7 @@ redox.zwemwater.nl
 prophet.zwemwater.nl
 api.map.zwemwater.nl
 bebi.zwemwater.nl
+smashingpumpkins.zwemwater.nl
+trackit.zwemwater.nl
+kleurboek.zwemwater.nl
+ocado.zwemwater.nl

@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/ilent.nl/subdomains.txt)|20|Alive subdomains|
-|[urls.txt](/data/ilent.nl/urls.txt)|20|Urls|
+|[subdomains.txt](/data/ilent.nl/subdomains.txt)|17|Alive subdomains|
+|[urls.txt](/data/ilent.nl/urls.txt)|17|Urls|
 
 
 ## Statistics
@@ -20,9 +20,6 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://acc.data.ilent.nl](https://acc.data.ilent.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[https://kc.ilent.nl](https://kc.ilent.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[https://povv-poc.ilent.nl](https://povv-poc.ilent.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://acc.e-loket.ilent.nl](https://acc.e-loket.ilent.nl)| | **E**||:white_check_mark: | | | | | :white_check_mark: | | :white_check_mark: | ||IIS Windows Serv...|
 |[https://acceptatie.wio.ilent.nl](https://acceptatie.wio.ilent.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|IIS Windows Serv...|
 |[https://e-loket.ilent.nl](https://e-loket.ilent.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS|Object moved|

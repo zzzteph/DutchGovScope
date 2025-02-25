@@ -144,9 +144,6 @@ nederlandschehistorien.huygens.knaw.nl
 vroedschapsboek.huygens.knaw.nl
 databeheer.huygens.knaw.nl
 guydebres.huygens.knaw.nl
-interedition.huygens.knaw.nl
-martianus.huygens.knaw.nl
-rembench.huygens.knaw.nl
 rembrandtdocuments.huygens.knaw.nl
 alfalablog.huygens.knaw.nl
 alfalablog.knaw.nl
@@ -314,6 +311,8 @@ wi.knaw.nl
 www.wi.knaw.nl
 dss11.meertens.knaw.nl
 dvnl31.dans.knaw.nl
+taoracleapp22.knaw.nl
+ebs-a.knaw.nl
 ebs-o.knaw.nl
 obi-o.knaw.nl
 taoracleapp23.knaw.nl
@@ -340,7 +339,6 @@ hi4.huygens.knaw.nl
 hisgis.fa.knaw.nl
 hisgis2.fa.knaw.nl
 hucdrive.huc.knaw.nl
-intranetzonder.knaw.nl
 logo.huygens.knaw.nl
 maps.fa.knaw.nl
 mapserver.fa.knaw.nl
@@ -348,6 +346,7 @@ mda.nioo.knaw.nl
 mfiles.knaw.nl
 mfproxy01.knaw.nl
 ninweb.knaw.nl
+obi-a.knaw.nl
 taoracleapp21.knaw.nl
 password.knaw.nl
 pdvnl31.dans.knaw.nl
@@ -400,6 +399,8 @@ gitlab.huc.knaw.nl
 ebs-t.knaw.nl
 knaw.nl
 nias.knaw.nl
+obi-t.knaw.nl
+obi.knaw.nl
 pureacc.knaw.nl
 maritimecareers.huygens.knaw.nl
 sd-yugoslavia.dev.huc.knaw.nl

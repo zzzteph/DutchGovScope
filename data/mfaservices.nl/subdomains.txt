@@ -1,3 +1,4 @@
+consular.mfaservices.nl
 cdn.consular.mfaservices.nl
 url9097.consular.mfaservices.nl
 login.consular.mfaservices.nl
@@ -59,4 +60,3 @@ esp-api-management.acc-probas.mfaservices.nl
 fez.mfaservices.nl
 tst.fez.mfaservices.nl
 tst.nww.mfaservices.nl
-tst.api.brp.mfaservices.nl

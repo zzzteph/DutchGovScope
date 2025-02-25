@@ -12,6 +12,7 @@ http://amp-idp-pre.logius.nl
 http://amp-idp.logius.nl
 http://amp.logius.nl
 http://ca-devportal-pre.logius.nl
+http://gm-pre.mev.logius.nl
 https://bvd-pre.mev.logius.nl
 https://bvd.mev.logius.nl
 http://iam-containerplatform-az1.lpc.logius.nl

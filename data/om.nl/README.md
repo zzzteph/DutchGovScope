@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/om.nl/subdomains.txt)|29|Alive subdomains|
-|[urls.txt](/data/om.nl/urls.txt)|29|Urls|
+|[subdomains.txt](/data/om.nl/subdomains.txt)|30|Alive subdomains|
+|[urls.txt](/data/om.nl/urls.txt)|30|Urls|
 
 
 ## Statistics
@@ -25,6 +25,7 @@
 |[https://www2.om.nl](https://www2.om.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Not Found|
 |[https://dialin.om.nl](https://dialin.om.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Conferencing Dia...|
 |[https://lyncdiscover.om.nl](https://lyncdiscover.om.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://meet.om.nl](https://meet.om.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|Skype for Busine...|
 |[https://webservices.om.nl](https://webservices.om.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |HSTS IIS:10.0 Windows Server||
 |[https://fcvpn.om.nl](https://fcvpn.om.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET||
 |[https://feeds.om.nl](https://feeds.om.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||

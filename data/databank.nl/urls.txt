@@ -39,7 +39,6 @@ https://mbotransparant.databank.nl
 http://apollo.databank.nl
 http://demo-ebc.databank.nl
 https://ftgelderland.databank.nl
-https://beta-klimaatbeleid.databank.nl
 https://beta-vivet.databank.nl
 https://beta-datawonen.databank.nl
 https://beta-gdi.databank.nl
@@ -113,10 +112,10 @@ https://beta2-arbeidsmarktmobiliteit.databank.nl
 https://beta-aisnbtc.databank.nl
 https://beta-veiligheidsmonitor.databank.nl
 https://beta-cbc.databank.nl
-https://beta-icontrol.databank.nl
 https://cname-vakantieonderzoek-nbtc.databank.nl
 https://beta-energiecijfers.databank.nl
-http://demo-primosinteractief.databank.nl
+https://beta-hr-sectorwaterschappen.databank.nl
+https://demo-primosinteractief.databank.nl
 https://beta-duurzamemobiliteit.databank.nl
 https://prognosemodelzw2022.databank.nl
 https://test-zag.databank.nl
@@ -136,7 +135,6 @@ https://beta-mbotransparant.databank.nl
 https://povo.databank.nl
 https://lokaalklimaat.databank.nl
 https://beta-laadinfrastructuur.databank.nl
-https://prognosemodelzw2023.databank.nl
 https://duurzamemobiliteit.databank.nl
 https://wonenmetzorg.databank.nl
 https://beta-berst.databank.nl
@@ -146,7 +144,6 @@ https://www.klimaatmnitor.databank.nl
 https://www.inspectie-oe.databank.nl
 https://www.procaros.databank.nl
 https://beta.cbc.databank.nl
-https://accept-wsjg.databank.nl
 https://waves.databank.nl
 https://www.arbeidsmarkthoreca.databank.nl
 https://archieven.databank.nl

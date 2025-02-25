@@ -13,7 +13,6 @@ testmail.scp.nl
 mail.scp.nl
 repository.scp.nl
 test-cmsintranet.scp.nl
-test-intranet.scp.nl
 autodiscover.scp.nl
 download.mail.scp.nl
 feeds.scp.nl

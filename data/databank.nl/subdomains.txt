@@ -39,7 +39,6 @@ mbotransparant.databank.nl
 apollo.databank.nl
 demo-ebc.databank.nl
 ftgelderland.databank.nl
-beta-klimaatbeleid.databank.nl
 beta-vivet.databank.nl
 beta-datawonen.databank.nl
 beta-gdi.databank.nl
@@ -113,10 +112,9 @@ beta2-arbeidsmarktmobiliteit.databank.nl
 beta-aisnbtc.databank.nl
 beta-veiligheidsmonitor.databank.nl
 beta-cbc.databank.nl
-accept-aedes.databank.nl
-beta-icontrol.databank.nl
 cname-vakantieonderzoek-nbtc.databank.nl
 beta-energiecijfers.databank.nl
+beta-hr-sectorwaterschappen.databank.nl
 demo-primosinteractief.databank.nl
 beta-duurzamemobiliteit.databank.nl
 prognosemodelzw2022.databank.nl
@@ -137,7 +135,6 @@ beta-mbotransparant.databank.nl
 povo.databank.nl
 lokaalklimaat.databank.nl
 beta-laadinfrastructuur.databank.nl
-prognosemodelzw2023.databank.nl
 duurzamemobiliteit.databank.nl
 wonenmetzorg.databank.nl
 beta-berst.databank.nl
@@ -147,9 +144,12 @@ www.klimaatmnitor.databank.nl
 www.inspectie-oe.databank.nl
 www.procaros.databank.nl
 beta.cbc.databank.nl
-accept-wsjg.databank.nl
 waves.databank.nl
 www.arbeidsmarkthoreca.databank.nl
+web10672.databank.nl
+kenya.databank.nl
+referral.databank.nl
+novokuybyshevsk.databank.nl
 archieven.databank.nl
 aedesterugkoppeling.databank.nl
 52f899ee-8923-43fb-bd69-93a6bbdd883b.databank.nl
@@ -167,6 +167,13 @@ vdscan.databank.nl
 cname-beta-adc.databank.nl
 www.diversiteitsin-dex.databank.nl
 2b3170eb-a6cc-4591-ad9a-3272b2f88e3b.databank.nl
+na0.databank.nl
+loja.databank.nl
+huis-huren-costa-brava.databank.nl
+lyncdiscoverinternal.ad.databank.nl
+sender1.databank.nl
+cullen.databank.nl
+someren.databank.nl
 cname-terugkoppeling-adc.databank.nl
 cname-impactmonitortoerisme-nbtc.databank.nl
 dsviewer-test2.databank.nl
@@ -176,3 +183,4 @@ prognosemodelzw2021.databank.nl
 arbeidsmarktoomt.databank.nl
 bronnenbeheer.databank.nl
 beta-ftgelderland.databank.nl
+otiselton47.databank.nl

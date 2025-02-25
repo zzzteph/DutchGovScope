@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/h-i-ambacht.nl/subdomains.txt)|23|Alive subdomains|
-|[urls.txt](/data/h-i-ambacht.nl/urls.txt)|22|Urls|
+|[subdomains.txt](/data/h-i-ambacht.nl/subdomains.txt)|22|Alive subdomains|
+|[urls.txt](/data/h-i-ambacht.nl/urls.txt)|21|Urls|
 
 
 ## Statistics
@@ -26,7 +26,6 @@
 |[https://edienstenburgerzaken-test.h-i-ambacht.nl](https://edienstenburgerzaken-test.h-i-ambacht.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Startpagina eDie...|
 |[https://edienstenburgerzaken.h-i-ambacht.nl](https://edienstenburgerzaken.h-i-ambacht.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Object moved|
 |[https://gisib-test.h-i-ambacht.nl](https://gisib-test.h-i-ambacht.nl)| | **B**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
-|[https://gisib.h-i-ambacht.nl](https://gisib.h-i-ambacht.nl)| | **B**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 |[https://gisibgeoserver-test.h-i-ambacht.nl](https://gisibgeoserver-test.h-i-ambacht.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |||
 |[https://gisibgeoserver.h-i-ambacht.nl](https://gisibgeoserver.h-i-ambacht.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |||
 |[https://zaken.h-i-ambacht.nl](https://zaken.h-i-ambacht.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |||

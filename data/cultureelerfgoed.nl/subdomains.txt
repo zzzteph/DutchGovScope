@@ -28,6 +28,7 @@ magazines.cultureelerfgoed.nl
 opendata.cultureelerfgoed.nl
 data.cultureelerfgoed.nl
 data.geo.cultureelerfgoed.nl
+erfgoedmonitor.cultureelerfgoed.nl
 faro.cultureelerfgoed.nl
 intranet.cultureelerfgoed.nl
 kennis-staging.cultureelerfgoed.nl

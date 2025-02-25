@@ -4,7 +4,6 @@ https://raad.h-i-ambacht.nl
 https://edienstenburgerzaken-test.h-i-ambacht.nl
 https://edienstenburgerzaken.h-i-ambacht.nl
 https://gisib-test.h-i-ambacht.nl
-https://gisib.h-i-ambacht.nl
 https://gisibgeoserver-test.h-i-ambacht.nl
 https://gisibgeoserver.h-i-ambacht.nl
 https://zaken.h-i-ambacht.nl
