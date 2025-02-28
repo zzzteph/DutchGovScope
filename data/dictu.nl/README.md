@@ -6,7 +6,7 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:D
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:16
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:17
 
 
 | File       | Count | Info |
@@ -30,7 +30,7 @@
 |[https://acc.rd.dictu.nl](https://acc.rd.dictu.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|Error|
 |[https://auth-acc.dictu.nl](https://auth-acc.dictu.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|302 Found|
 |[https://auth.dictu.nl](https://auth.dictu.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|302 Found|
-|[https://auth20.dictu.nl](https://auth20.dictu.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|302 Found|
+|[https://auth20.dictu.nl](https://auth20.dictu.nl)| | **A**||:o: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|302 Found|
 |[https://authpms-acc.dictu.nl](https://authpms-acc.dictu.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|iBabs - Meet in...|
 |[https://avd.datasluis.dictu.nl](https://avd.datasluis.dictu.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Redirect|
 |[https://avd.webftp.dictu.nl](https://avd.webftp.dictu.nl)| | **D**|| | | | | | | :white_check_mark: | :white_check_mark: | ||Redirect|
@@ -45,7 +45,7 @@
 |[https://prod.dictu.nl](https://prod.dictu.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
 |[https://servicedesk.dictu.nl](https://servicedesk.dictu.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
 |[https://simplesamlidp.dictu.nl](https://simplesamlidp.dictu.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
-|[https://engine.acc.fhub.dictu.nl](https://engine.acc.fhub.dictu.nl)| | **B**|Apache|:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|OpenConext - Met...|
+|[https://engine.acc.fhub.dictu.nl](https://engine.acc.fhub.dictu.nl)| | **B**|Apache|:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|dictu - Metadata...|
 |[https://engine.fhub.dictu.nl](https://engine.fhub.dictu.nl)| | **D**|Apache|:warning: |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|dictu - Metadata...|
 |[https://fhub.dictu.nl](https://fhub.dictu.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://gisextern.dictu.nl](https://gisextern.dictu.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|IIS Windows Serv...|
@@ -58,7 +58,7 @@
 |[https://mft.webftp.dictu.nl](https://mft.webftp.dictu.nl)| | **D**|| | | | | | | :white_check_mark: | :white_check_mark: | ||Redirect|
 |[https://mijntoken.dictu.nl](https://mijntoken.dictu.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Oracle Dynamic Monitoring Service Oracle WebLogic Server|302 Moved Tempor...|
 |[http://pms-acc.dictu.nl](http://pms-acc.dictu.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET||
-|[https://procesweb-test.dictu.nl](https://procesweb-test.dictu.nl)| | **F**||:o: | | | | :white_check_mark:| | | :white_check_mark: | |HSTS||
+|[https://procesweb-test.dictu.nl](https://procesweb-test.dictu.nl)| | **F**|CloudFront|:o: | | | | :white_check_mark:| | | :white_check_mark: | |Amazon CloudFront Amazon Web Services HSTS||
 |[https://procesweb.dictu.nl](https://procesweb.dictu.nl)| | **F**|CloudFront|:o: | | | | :white_check_mark:| | | :white_check_mark: | |Amazon CloudFront Amazon Web Services HSTS||
 |[https://sfs-acc.dictu.nl](https://sfs-acc.dictu.nl)| | **A**|Seclore Server|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Java||
 |[https://sfs.dictu.nl](https://sfs.dictu.nl)| | **A**|Seclore Server|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Java||

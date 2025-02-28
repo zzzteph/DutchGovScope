@@ -20,9 +20,9 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://pv.zorgverzekeringslijn.nl](https://pv.zorgverzekeringslijn.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://pv.zorgverzekeringslijn.nl](https://pv.zorgverzekeringslijn.nl)| | **A**|nginx|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://test.zorgverzekeringslijn.nl](https://test.zorgverzekeringslijn.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server Basic|401 Unauthorized|
-|[https://www.zorgverzekeringslijn.nl](https://www.zorgverzekeringslijn.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server Google Tag Manager HSTS MySQL PHP WordPress:6.7.2 Yoast SEO:24.3|Zorgverzekerings...|
+|[https://www.zorgverzekeringslijn.nl](https://www.zorgverzekeringslijn.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server Google Tag Manager HSTS MySQL PHP WordPress:6.7.2 Yoast SEO:24.5|Zorgverzekerings...|
 |[https://test.trainingen.zorgverzekeringslijn.nl](https://test.trainingen.zorgverzekeringslijn.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Nginx|Redirecting to h...|
 |[https://trainingen.zorgverzekeringslijn.nl](https://trainingen.zorgverzekeringslijn.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Nginx|Redirecting to h...|
 |[https://zorgverzekeringslijn.nl](https://zorgverzekeringslijn.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS|301 Moved Perman...|

@@ -80,6 +80,7 @@ provincie-utrecht.nl
 login.provincie-utrecht.nl
 wortel174.provincie-utrecht.nl
 socialintranet-acc.provincie-utrecht.nl
+socialintranet.provincie-utrecht.nl
 monitoromgevingsbeleid.provincie-utrecht.nl
 omgevingsbeleid.provincie-utrecht.nl
 iapp.provincie-utrecht.nl

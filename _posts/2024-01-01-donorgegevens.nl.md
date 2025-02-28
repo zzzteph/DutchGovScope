@@ -2,11 +2,11 @@
 layout: default
 title: "donorgegevens.nl"
 permalink: "/dutchgov/donorgegevens.nl.html"
-subdomains_count: 10
-urls_count: 10
+subdomains_count: 9
+urls_count: 9
 ssl_rank: 
 http_rank: A
-security_txt: 8
+security_txt: 7
 url_link: /data/donorgegevens.nl/urls.txt
 subdomains_link: /data/donorgegevens.nl/subdomains.txt
 categories: dutchgov
@@ -20,13 +20,13 @@ tags: dutchgov
 
  - **SSL Grade**:
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:8
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:7
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/donorgegevens.nl/subdomains.txt)|10|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/donorgegevens.nl/urls.txt)|10|Urls|
+|[subdomains.txt](/DutchGovScope/data/donorgegevens.nl/subdomains.txt)|9|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/donorgegevens.nl/urls.txt)|9|Urls|
 
 
 ## Statistics
@@ -34,7 +34,6 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://aanvraag.donorgegevens.nl](https://aanvraag.donorgegevens.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
 |[https://acceptatie.aanvraag.donorgegevens.nl](https://acceptatie.aanvraag.donorgegevens.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|Donorgegevens aa...|
 |[https://acceptatie.behandel.donorgegevens.nl](https://acceptatie.behandel.donorgegevens.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
 |[https://behandel.donorgegevens.nl](https://behandel.donorgegevens.nl)| | **B**|-| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS||

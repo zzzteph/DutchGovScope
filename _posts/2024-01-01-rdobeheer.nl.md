@@ -57,9 +57,9 @@ tags: dutchgov
 |[https://stagefonds.test.dusi.rdobeheer.nl](https://stagefonds.test.dusi.rdobeheer.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
 |[http://www.test.dusi.rdobeheer.nl](http://www.test.dusi.rdobeheer.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
 |[http://aanvraag.test.dusi.rdobeheer.nl](http://aanvraag.test.dusi.rdobeheer.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Basic HSTS||
-|[http://beoordeling.test.dusi.rdobeheer.nl](http://beoordeling.test.dusi.rdobeheer.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Basic HSTS||
+|[https://beoordeling.test.dusi.rdobeheer.nl](https://beoordeling.test.dusi.rdobeheer.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Basic HSTS|401 Unauthorized|
 |[https://extern.test.dusi.rdobeheer.nl](https://extern.test.dusi.rdobeheer.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
-|[http://gebruiker-beheer.test.dusi.rdobeheer.nl](http://gebruiker-beheer.test.dusi.rdobeheer.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Basic HSTS||
+|[https://gebruiker-beheer.test.dusi.rdobeheer.nl](https://gebruiker-beheer.test.dusi.rdobeheer.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Basic HSTS|401 Unauthorized|
 |[https://co.test.dusi.rdobeheer.nl](https://co.test.dusi.rdobeheer.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
 |[http://formulier-beheer.test.dusi.rdobeheer.nl](http://formulier-beheer.test.dusi.rdobeheer.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://login-uzi.proeftuin.uzi-online.rdobeheer.nl](https://login-uzi.proeftuin.uzi-online.rdobeheer.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|301 Moved Perman...|

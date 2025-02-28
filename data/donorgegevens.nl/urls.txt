@@ -1,4 +1,3 @@
-https://aanvraag.donorgegevens.nl
 https://acceptatie.aanvraag.donorgegevens.nl
 https://acceptatie.behandel.donorgegevens.nl
 https://behandel.donorgegevens.nl

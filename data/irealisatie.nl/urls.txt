@@ -16,7 +16,7 @@ https://adressering.proeftuin.gf.irealisatie.nl
 https://jaeger.proeftuin.gf.irealisatie.nl
 https://kwalificatie-admin-api.proeftuin.gf.irealisatie.nl
 http://pseudoniem.proeftuin.gf.irealisatie.nl
-https://nvi.proeftuin.gf.irealisatie.nl
+http://nvi.proeftuin.gf.irealisatie.nl
 https://kwalificatie-api.proeftuin.gf.irealisatie.nl
 https://kwalificatie.proeftuin.gf.irealisatie.nl
 https://lmr.proeftuin.gf.irealisatie.nl
@@ -31,7 +31,7 @@ https://max.test.mgo.irealisatie.nl
 https://stats.test.mgo.irealisatie.nl
 http://storage.test.mgo.irealisatie.nl
 https://web.test.mgo.irealisatie.nl
-https://app-api.test.mgo.irealisatie.nl
+http://app-api.test.mgo.irealisatie.nl
 https://balie.dpr.irealisatie.nl
 https://balie.woo.irealisatie.nl
 https://zvs.woo.irealisatie.nl
@@ -102,3 +102,4 @@ https://lokalisatie-demo.proeftuin.gf.irealisatie.nl
 https://web.proeftuin.gf.irealisatie.nl
 http://prs-stub.proeftuin.gf.irealisatie.nl
 https://mcsd-supplier.proeftuin.gf.irealisatie.nl
+http://kat.acc.irealisatie.nl

@@ -34,7 +34,7 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://kennisknooppuntparticipatie.nl](https://kennisknooppuntparticipatie.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|405 Method not a...|
+|[https://kennisknooppuntparticipatie.nl](https://kennisknooppuntparticipatie.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 |[https://www.kennisknooppuntparticipatie.nl](https://www.kennisknooppuntparticipatie.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 
 

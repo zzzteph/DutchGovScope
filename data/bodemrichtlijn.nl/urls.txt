@@ -1,6 +1,2 @@
 https://bodemrichtlijn.nl
 https://www.bodemrichtlijn.nl
-https://development.bodemrichtlijn.nl
-https://linkmanager.bodemrichtlijn.nl
-https://quest.bodemrichtlijn.nl
-https://linkmanager5.bodemrichtlijn.nl

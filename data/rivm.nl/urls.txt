@@ -130,7 +130,7 @@ https://download.webmail.rivm.nl
 https://webmail.rivm.nl
 https://draaiboekhielprikscreening.rivm.nl
 https://www.draaiboekhielprikscreening.rivm.nl
-http://drupal.rivm.nl
+https://drupal.rivm.nl
 https://duvo-web-api.rivm.nl
 https://dwo.rivm.nl
 https://expertrolesqsort.rivm.nl

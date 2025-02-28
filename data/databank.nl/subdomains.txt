@@ -84,7 +84,6 @@ po.databank.nl
 vo.databank.nl
 flevoland.databank.nl
 mre.databank.nl
-rabobank.databank.nl
 inspectie-oe.databank.nl
 www.nederlandschoon.databank.nl
 stap.databank.nl
@@ -166,6 +165,7 @@ combimonitor.databank.nl
 vdscan.databank.nl
 cname-beta-adc.databank.nl
 www.diversiteitsin-dex.databank.nl
+beta-benchmark-mbotransparant.databank.nl
 2b3170eb-a6cc-4591-ad9a-3272b2f88e3b.databank.nl
 na0.databank.nl
 loja.databank.nl
@@ -184,3 +184,4 @@ arbeidsmarktoomt.databank.nl
 bronnenbeheer.databank.nl
 beta-ftgelderland.databank.nl
 otiselton47.databank.nl
+www.arbeidsmarkt.databank.nl

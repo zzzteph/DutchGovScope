@@ -25,6 +25,6 @@
 |[https://algemenebestuursdienst.nl](https://algemenebestuursdienst.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 |[https://feeds.algemenebestuursdienst.nl](https://feeds.algemenebestuursdienst.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://magazines.algemenebestuursdienst.nl](https://magazines.algemenebestuursdienst.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://sharepoint.algemenebestuursdienst.nl](https://sharepoint.algemenebestuursdienst.nl)| | **F**|Microsoft-IIS/8.5| | | | | | | | :white_check_mark: | |IIS:8.5 Microsoft ASP.NET Microsoft SharePoint:15.0.0.4763 NTLM Windows Server||
+|[https://sharepoint.algemenebestuursdienst.nl](https://sharepoint.algemenebestuursdienst.nl)| | **F**|Microsoft-IIS/8.5| | | | | | | | :white_check_mark: | |IIS:8.5 Microsoft ASP.NET Microsoft SharePoint NTLM Windows Server||
 
 

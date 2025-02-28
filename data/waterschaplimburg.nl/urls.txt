@@ -31,3 +31,5 @@ https://test-cms-bron.waterschaplimburg.nl
 http://popi.waterschaplimburg.nl
 http://daiquiri.waterschaplimburg.nl
 http://genio.waterschaplimburg.nl
+https://ikp-ota.waterschaplimburg.nl
+https://ikp.waterschaplimburg.nl

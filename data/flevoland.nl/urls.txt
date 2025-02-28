@@ -1,7 +1,7 @@
 http://uwork.flevoland.nl
 http://uworktest.flevoland.nl
 https://webmail.flevoland.nl
-https://autodiscover.flevoland.nl
+http://autodiscover.flevoland.nl
 https://evserver1.flevoland.nl
 https://exchange.flevoland.nl
 https://gensys.flevoland.nl
@@ -43,7 +43,7 @@ http://prod.flevoland.nl
 https://www.flevoland.nl
 https://formulieren.flevoland.nl
 https://preprodformulieren.flevoland.nl
-http://kaart.flevoland.nl
+https://kaart.flevoland.nl
 https://luchtfoto.flevoland.nl
 https://monitorwonen.flevoland.nl
 https://geo.flevoland.nl

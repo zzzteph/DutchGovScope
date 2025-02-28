@@ -6,7 +6,7 @@ subdomains_count: 6
 urls_count: 6
 ssl_rank: 
 http_rank: D
-security_txt: 2
+security_txt: 4
 url_link: /data/toegankelijkheidsverklaring.nl/urls.txt
 subdomains_link: /data/toegankelijkheidsverklaring.nl/subdomains.txt
 categories: dutchgov
@@ -20,7 +20,7 @@ tags: dutchgov
 
  - **SSL Grade**:
  - **HTTP Security Grade**:D
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:4
 
 
 | File       | Count | Info |

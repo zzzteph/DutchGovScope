@@ -58,7 +58,6 @@ windlansingerland.zuid-holland.nl
 www.windlansingerland.zuid-holland.nl
 forms.zuid-holland.nl
 geo.zuid-holland.nl
-geoweb.zuid-holland.nl
 investerenin.zuid-holland.nl
 natura2000-data.zuid-holland.nl
 subsidieportaal.zuid-holland.nl

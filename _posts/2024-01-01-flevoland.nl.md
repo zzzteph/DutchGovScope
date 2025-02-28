@@ -37,7 +37,7 @@ tags: dutchgov
 |[http://uwork.flevoland.nl](http://uwork.flevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://uworktest.flevoland.nl](http://uworktest.flevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://webmail.flevoland.nl](https://webmail.flevoland.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
-|[https://autodiscover.flevoland.nl](https://autodiscover.flevoland.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
+|[http://autodiscover.flevoland.nl](http://autodiscover.flevoland.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://evserver1.flevoland.nl](https://evserver1.flevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://exchange.flevoland.nl](https://exchange.flevoland.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
 |[https://gensys.flevoland.nl](https://gensys.flevoland.nl)| | **A**||:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET||
@@ -62,7 +62,7 @@ tags: dutchgov
 |[https://regiotaxi.flevoland.nl](https://regiotaxi.flevoland.nl)| | **C**|Apache/2.4.29 (Ubuntu)| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|301 Moved Perman...|
 |[https://vps-prod-01.flevoland.nl](https://vps-prod-01.flevoland.nl)| | **C**|Apache/2.4.29 (Ubuntu)| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|301 Moved Perman...|
 |[https://www.omgevingsplan.flevoland.nl](https://www.omgevingsplan.flevoland.nl)| | **F**|Apache/2.4.29 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.29 HSTS Ubuntu|301 Moved Perman...|
-|[https://intranet.flevoland.nl](https://intranet.flevoland.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://intranet.flevoland.nl](https://intranet.flevoland.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://cmsintranet.flevoland.nl](https://cmsintranet.flevoland.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|403 - Forbidden:...|
 |[http://embraceintranet.flevoland.nl](http://embraceintranet.flevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[https://competentie.flevoland.nl](https://competentie.flevoland.nl)| | **C**|Apache| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS PHP:5.6.35||
@@ -79,7 +79,7 @@ tags: dutchgov
 |[https://www.flevoland.nl](https://www.flevoland.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Welkom bij provi...|
 |[https://formulieren.flevoland.nl](https://formulieren.flevoland.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Pagina bestaat n...|
 |[https://preprodformulieren.flevoland.nl](https://preprodformulieren.flevoland.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Pagina bestaat n...|
-|[http://kaart.flevoland.nl](http://kaart.flevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |IIS:10.0 Windows Server||
+|[https://kaart.flevoland.nl](https://kaart.flevoland.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Windows Server||
 |[https://luchtfoto.flevoland.nl](https://luchtfoto.flevoland.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|IIS Windows Serv...|
 |[https://monitorwonen.flevoland.nl](https://monitorwonen.flevoland.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Windows Server|Planregistratie...|
 |[https://geo.flevoland.nl](https://geo.flevoland.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Windows Server|403 - Forbidden:...|

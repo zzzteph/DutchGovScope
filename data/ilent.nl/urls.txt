@@ -1,3 +1,6 @@
+https://acc.data.ilent.nl
+https://kc.ilent.nl
+https://povv-poc.ilent.nl
 https://acc.e-loket.ilent.nl
 https://acceptatie.wio.ilent.nl
 https://e-loket.ilent.nl
@@ -14,4 +17,5 @@ https://meldingen.ilent.nl
 https://staging.meldingen.ilent.nl
 https://stc.ilent.nl
 https://wio.ilent.nl
+https://data.ilent.nl
 https://easyrules.ilent.nl

@@ -35,8 +35,8 @@ tags: dutchgov
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://www.kolonialecollecties.nl](https://www.kolonialecollecties.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx Plesk|Commissie Koloni...|
-|[https://commissie.kolonialecollecties.nl](https://commissie.kolonialecollecties.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Commissie...|
-|[https://committee.kolonialecollecties.nl](https://committee.kolonialecollecties.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Committee...|
+|[https://commissie.kolonialecollecties.nl](https://commissie.kolonialecollecties.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS HTTP/3|Home | Commissie...|
+|[https://committee.kolonialecollecties.nl](https://committee.kolonialecollecties.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS HTTP/3|Home | Committee...|
 |[https://feeds.committee.kolonialecollecties.nl](https://feeds.committee.kolonialecollecties.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://opendata.committee.kolonialecollecties.nl](https://opendata.committee.kolonialecollecties.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://feeds.commissie.kolonialecollecties.nl](https://feeds.commissie.kolonialecollecties.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||

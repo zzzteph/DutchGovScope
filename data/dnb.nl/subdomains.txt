@@ -120,11 +120,9 @@ tz-uitvragen-dev.dnb.nl
 organisatiegegevens-pp.dnb.nl
 organisatiegegevens-dev.dnb.nl
 svcalendar-tst.dnb.nl
-login-dr.dnb.nl
 tz-uitvragen-tst.dnb.nl
 stepui.azure.dnb.nl
 muntvondsten.dnb.nl
-mijn-dr.dnb.nl
 sftp.dnb.nl
 tz-aanvragen.dnb.nl
 tz-aanvragen-acc.dnb.nl

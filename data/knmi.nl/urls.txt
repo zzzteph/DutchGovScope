@@ -39,7 +39,6 @@ https://msgcpp.knmi.nl
 https://knmi.nl
 https://mijn.knmi.nl
 https://mqtt.dataplatform.knmi.nl
-https://msgcpp-adaguc.knmi.nl
 https://new.mijn.knmi.nl
 https://origin.klimaatscenarios-data.knmi.nl
 https://password-new.knmi.nl

@@ -120,11 +120,9 @@ https://tz-uitvragen-dev.dnb.nl
 https://organisatiegegevens-pp.dnb.nl
 https://organisatiegegevens-dev.dnb.nl
 https://svcalendar-tst.dnb.nl
-https://login-dr.dnb.nl
 https://tz-uitvragen-tst.dnb.nl
 https://stepui.azure.dnb.nl
 https://muntvondsten.dnb.nl
-https://mijn-dr.dnb.nl
 https://sftp.dnb.nl
 https://tz-aanvragen.dnb.nl
 https://tz-aanvragen-acc.dnb.nl

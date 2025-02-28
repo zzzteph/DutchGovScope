@@ -22,7 +22,7 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://aerius.nl](https://aerius.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon CloudFront Amazon Web Services HTTP/3||
 |[https://auth-register.aerius.nl](https://auth-register.aerius.nl)| | **B**|Server|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon CloudFront Amazon Web Services Bootstrap HSTS|Signin|
-|[https://mgmt.aerius.nl](https://mgmt.aerius.nl)| | **F**|Jetty(12.0.16)|:white_check_mark: | | | | | | | :white_check_mark: | |Java Jenkins:2.479.3 Jetty:12.0.16||
+|[https://mgmt.aerius.nl](https://mgmt.aerius.nl)| | **F**|Jetty(12.0.16)|:white_check_mark: | | | | | | | :white_check_mark: | |Java Jenkins:2.492.1 Jetty:12.0.16||
 |[https://auth-register-gat.aerius.nl](https://auth-register-gat.aerius.nl)| | **B**|Server|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon CloudFront Amazon Web Services Bootstrap HSTS|Signin|
 |[https://link.aerius.nl](https://link.aerius.nl)| | **E**|| | | | | | | | :white_check_mark: | |Bootstrap:4.3.1|Not Found | Shli...|
 |[https://imaer.aerius.nl](https://imaer.aerius.nl)| | **F**|AmazonS3| | | | | | | | :white_check_mark: | |Amazon CloudFront Amazon S3 Amazon Web Services HTTP/3||
@@ -31,7 +31,7 @@
 |[https://auth-register-dev.aerius.nl](https://auth-register-dev.aerius.nl)| | **B**|Server|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon CloudFront Amazon Web Services Bootstrap HSTS|Signin|
 |[https://auth-dev.aerius.nl](https://auth-dev.aerius.nl)| | **B**|Server|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon CloudFront Amazon Web Services Bootstrap HSTS|Signin|
 |[https://mattermost.aerius.nl](https://mattermost.aerius.nl)| | **C**|| | | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | ||Mattermost|
-|[https://nexus.aerius.nl](https://nexus.aerius.nl)| | **D**|Nexus/3.74.0-05 (OSS)| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||Sonatype Nexus R...|
+|[https://nexus.aerius.nl](https://nexus.aerius.nl)| | **D**|Nexus/3.76.1-01 (OSS)| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||Sonatype Nexus R...|
 |[https://nexus-docker.aerius.nl](https://nexus-docker.aerius.nl)| | **F**|Jetty(9.4.56.v20240826)| | | | | | | | :white_check_mark: | |Java Jetty:9.4.56|Error 400 Not a...|
 |[https://www.aerius.nl](https://www.aerius.nl)| | **A**|awselb/2.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Amazon ELB Amazon Web Services|301 Moved Perman...|
 |[https://calculator.aerius.nl](https://calculator.aerius.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Java|AERIUS® Calculat...|

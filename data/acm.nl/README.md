@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/acm.nl/subdomains.txt)|26|Alive subdomains|
+|[subdomains.txt](/data/acm.nl/subdomains.txt)|28|Alive subdomains|
 |[urls.txt](/data/acm.nl/urls.txt)|26|Urls|
 
 

@@ -152,3 +152,4 @@ mip-proxy-prod.rws.nl
 fcd-acc-bemobile-trajectorien.rws.nl
 fcd-acc-bemobile-aid-triggers.rws.nl
 mip.rws.nl
+acc.alarmmodule.rws.nl

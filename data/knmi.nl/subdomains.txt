@@ -39,7 +39,6 @@ msgcpp.knmi.nl
 knmi.nl
 mijn.knmi.nl
 mqtt.dataplatform.knmi.nl
-msgcpp-adaguc.knmi.nl
 new.mijn.knmi.nl
 origin.klimaatscenarios-data.knmi.nl
 password-new.knmi.nl

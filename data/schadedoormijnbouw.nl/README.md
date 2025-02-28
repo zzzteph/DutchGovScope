@@ -24,7 +24,7 @@
 |[https://schadedoormijnbouw.nl](https://schadedoormijnbouw.nl)| | **A**|| |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS|Document Moved|
 |[https://www.schadedoormijnbouw.nl](https://www.schadedoormijnbouw.nl)| | **A**|| |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |Azure Azure Edge Network Azure Front Door HSTS|Dit is de websit...|
 |[https://mijndossier.schadedoormijnbouw.nl](https://mijndossier.schadedoormijnbouw.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java||
-|[https://schijf.schadedoormijnbouw.nl](https://schijf.schadedoormijnbouw.nl)| | **F**|Webserver| | | | | | | | :white_check_mark: | |HSTS Ruby Ruby on Rails|Home | Onix | de...|
+|[https://schijf.schadedoormijnbouw.nl](https://schijf.schadedoormijnbouw.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Ruby Ruby on Rails|Home | Onix | de...|
 |[https://acceptatie.schadedoormijnbouw.nl](https://acceptatie.schadedoormijnbouw.nl)| | **A**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure Edge Network HSTS IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://digikoppeling.schadedoormijnbouw.nl](https://digikoppeling.schadedoormijnbouw.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://tracking.schadedoormijnbouw.nl](https://tracking.schadedoormijnbouw.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx PHP||

@@ -3,3 +3,4 @@ competentnl.nl
 autodiscover.competentnl.nl
 api.competentnl.nl
 sparql.competentnl.nl
+linkeddata.competentnl.nl

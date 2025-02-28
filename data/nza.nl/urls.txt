@@ -7,7 +7,6 @@ https://nza-form1.nza.nl
 https://nza-form6.nza.nl
 https://zorgprestatiemodel.nza.nl
 https://nza-form2.nza.nl
-https://zorgvraagtypering.nza.nl
 https://mijn-accp.nza.nl
 https://nza-form3.nza.nl
 https://nza-form5.nza.nl
@@ -29,7 +28,6 @@ https://werkenbijde.nza.nl
 https://zorgproducten-acc.nza.nl
 https://zorgproducten.nza.nl
 https://aanvragen-acc.nza.nl
-https://mijn.nza.nl
 https://opendisdata.nza.nl
 http://agw01-nomail.nza.nl
 https://jv.nza.nl

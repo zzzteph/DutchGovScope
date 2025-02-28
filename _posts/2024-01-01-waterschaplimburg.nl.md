@@ -2,8 +2,8 @@
 layout: default
 title: "waterschaplimburg.nl"
 permalink: "/dutchgov/waterschaplimburg.nl.html"
-subdomains_count: 38
-urls_count: 33
+subdomains_count: 39
+urls_count: 35
 ssl_rank: 
 http_rank: C
 security_txt: 9
@@ -25,8 +25,8 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/waterschaplimburg.nl/subdomains.txt)|38|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/waterschaplimburg.nl/urls.txt)|33|Urls|
+|[subdomains.txt](/DutchGovScope/data/waterschaplimburg.nl/subdomains.txt)|39|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/waterschaplimburg.nl/urls.txt)|35|Urls|
 
 
 ## Statistics
@@ -67,5 +67,7 @@ tags: dutchgov
 |[http://popi.waterschaplimburg.nl](http://popi.waterschaplimburg.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[http://daiquiri.waterschaplimburg.nl](http://daiquiri.waterschaplimburg.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[http://genio.waterschaplimburg.nl](http://genio.waterschaplimburg.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[https://ikp-ota.waterschaplimburg.nl](https://ikp-ota.waterschaplimburg.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Web App - Unavai...|
+|[https://ikp.waterschaplimburg.nl](https://ikp.waterschaplimburg.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Web App - Unavai...|
 
 

@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/cbs.nl/subdomains.txt)|179|Alive subdomains|
+|[subdomains.txt](/data/cbs.nl/subdomains.txt)|181|Alive subdomains|
 |[urls.txt](/data/cbs.nl/urls.txt)|178|Urls|
 
 
@@ -184,13 +184,13 @@
 |[https://search.beta.cbs.nl](https://search.beta.cbs.nl)| | **B**|envoy| |:white_check_mark: | :warning:| | :white_check_mark:| | | :white_check_mark: | |Envoy Express HSTS Node.js|Error|
 |[https://mijn.cbs.nl](https://mijn.cbs.nl)| | **C**|envoy| |:white_check_mark: | | | | | | :white_check_mark: | |Envoy HSTS|Welkom op Mijn C...|
 |[https://mijn.acceptatie.cbs.nl](https://mijn.acceptatie.cbs.nl)| | **C**|envoy| |:white_check_mark: | | | | | | :white_check_mark: | |Basic Envoy HSTS|401 Authorizatio...|
-|[https://overzicht.cbs.nl](https://overzicht.cbs.nl)| | **C**|Microsoft-IIS/10.0|:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Object moved|
+|[https://overzicht.cbs.nl](https://overzicht.cbs.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET:4.0.30319 Windows Server|Object moved|
 |[https://webserver.cbs.nl](https://webserver.cbs.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server||
 |[https://testchat.cbs.nl](https://testchat.cbs.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://webext.cbs.nl](https://webext.cbs.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://cerberus.cbs.nl](https://cerberus.cbs.nl)| | **E**|| | | | | | | | :white_check_mark: | ||CerBeruS|
 |[https://content1.cbs.nl](https://content1.cbs.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://gecko.cbs.nl](https://gecko.cbs.nl)| | **E**|| | | | | | | | :white_check_mark: | ||GECKO|
+|[https://gecko.cbs.nl](https://gecko.cbs.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||502 Bad Gateway|
 |[https://login-databestanden.test.cbs.nl](https://login-databestanden.test.cbs.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Welcome to Keycl...|
 |[https://beh-iam.acceptatie.cbs.nl](https://beh-iam.acceptatie.cbs.nl)| | **C**|Microsoft-IIS/10.0|:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Bootstrap HSTS IIS:10.0 Microsoft ASP.NET:4.0.30319 Windows Server|Login voor intde...|
 |[https://geodata.cbs.nl](https://geodata.cbs.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Windows Server|IIS Windows Serv...|

@@ -25,6 +25,6 @@
 |[https://www.vaarweginformatie.nl](https://www.vaarweginformatie.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |||
 |[https://acceptatie.vaarweginformatie.nl](https://acceptatie.vaarweginformatie.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |||
 |[https://api.acceptatie.vaarweginformatie.nl](https://api.acceptatie.vaarweginformatie.nl)| | **C**|APISIX/2.15.3| |:white_check_mark: | | | | | | :white_check_mark: | |Apache APISIX:2.15.3 HSTS||
-|[https://api.vaarweginformatie.nl](https://api.vaarweginformatie.nl)| | **C**|APISIX/2.15.0| |:white_check_mark: | | | | | | :white_check_mark: | |Apache APISIX:2.15.0 HSTS||
+|[https://api.vaarweginformatie.nl](https://api.vaarweginformatie.nl)| | **C**|APISIX/2.15.3| |:white_check_mark: | | | | | | :white_check_mark: | |Apache APISIX:2.15.3 HSTS||
 
 

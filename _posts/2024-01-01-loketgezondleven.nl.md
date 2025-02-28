@@ -34,7 +34,7 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.loketgezondleven.nl](https://www.loketgezondleven.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP|Loket Gezond Lev...|
+|[https://www.loketgezondleven.nl](https://www.loketgezondleven.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP:8.1.31|Loket Gezond Lev...|
 |[http://interventies.loketgezondleven.nl](http://interventies.loketgezondleven.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2.4.34 Drupal HSTS PHP:7.3.33 Red Hat||
 |[https://loketgezondleven.nl](https://loketgezondleven.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
 |[https://toolkits.loketgezondleven.nl](https://toolkits.loketgezondleven.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Varnish||

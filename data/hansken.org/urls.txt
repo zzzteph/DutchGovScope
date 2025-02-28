@@ -7,6 +7,4 @@ http://docs.hansken.org
 https://training.hansken.org
 https://hansken.org
 https://www.hansken.org
-https://lea-registry.hansken.org
-https://academic-registry.hansken.org
 https://downloads.hansken.org

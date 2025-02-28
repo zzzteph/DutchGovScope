@@ -34,7 +34,7 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://overlegorgaanfysiekeleefomgeving.nl](https://overlegorgaanfysiekeleefomgeving.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
+|[https://overlegorgaanfysiekeleefomgeving.nl](https://overlegorgaanfysiekeleefomgeving.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|405 Method not a...|
 |[https://www.overlegorgaanfysiekeleefomgeving.nl](https://www.overlegorgaanfysiekeleefomgeving.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 
 

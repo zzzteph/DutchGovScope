@@ -23,6 +23,7 @@ https://open.overheid.nl
 https://zoekdienst.overheid.nl
 https://almanak.overheid.nl
 https://lvbb-preprod.overheid.nl
+https://overheid.nl
 https://cio.overheid.nl
 https://lokaleregelgeving-eto.overheid.nl
 https://treatydatabase.overheid.nl
@@ -160,7 +161,7 @@ https://bgt.basisregistraties.overheid.nl
 https://bodem-ondergrond.omgevingswet.overheid.nl
 https://organisaties-acc.overheid.nl
 https://tuchtrecht-acc.overheid.nl
-https://boub-api-acc.overheid.nl
+http://boub-api-acc.overheid.nl
 https://data-acc.overheid.nl
 https://doculoket-acc.overheid.nl
 https://bouw.omgevingswet.overheid.nl
@@ -274,7 +275,7 @@ https://beheerportaal.intbhr.omgevingswet.overheid.nl
 https://sso.tst2905.omgevingswet.overheid.nl
 https://int13m.omgevingswet.overheid.nl
 https://kwaliteitsdashboard-koop.overheid.nl
-http://demo-systemteam.overheid.nl
+https://demo-systemteam.overheid.nl
 http://demo2-systemteam.overheid.nl
 https://linkextractor-acc.overheid.nl
 https://brt.test.basisregistraties.overheid.nl
@@ -289,7 +290,7 @@ https://oproepingen-preprd.overheid.nl
 https://drop-api-preprd.overheid.nl
 https://mnd-preprd.overheid.nl
 https://oproepingen-api-preprd-poc.overheid.nl
-http://demo1-systemteam.overheid.nl
+https://demo1-systemteam.overheid.nl
 https://digid-stub.lpc.mijn.overheid.nl
 https://pdc.pre.omgevingswet.overheid.nl
 https://pp2.toegang.overheid.nl

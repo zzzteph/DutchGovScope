@@ -6,7 +6,7 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:8
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:9
 
 
 | File       | Count | Info |
@@ -30,8 +30,8 @@
 |[https://www.stelselcatalogus.nl](https://www.stelselcatalogus.nl)| | **A**|Stelselcatalogus| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Logius Stelselca...|
 |[https://playground.stelselcatalogus.nl](https://playground.stelselcatalogus.nl)| | **F**|| | | :warning:| | | | | :white_check_mark: | |HSTS|404 Not Found|
 |[https://purl.stelselcatalogus.nl](https://purl.stelselcatalogus.nl)| | **F**|| | | :warning:| | | | | :white_check_mark: | |HSTS||
-|[https://begrippen.stelselcatalogus.nl](https://begrippen.stelselcatalogus.nl)| | **A**|| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS|Viewer|
-|[https://preprod.begrippen.stelselcatalogus.nl](https://preprod.begrippen.stelselcatalogus.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|Viewer|
+|[https://begrippen.stelselcatalogus.nl](https://begrippen.stelselcatalogus.nl)| | **A**|| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS|Begrippencatalog...|
+|[https://preprod.begrippen.stelselcatalogus.nl](https://preprod.begrippen.stelselcatalogus.nl)| | **A**|| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS|Begrippencatalog...|
 |[https://preprod.keycloak.stelselcatalogus.nl](https://preprod.keycloak.stelselcatalogus.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Welcome to Keycl...|
 |[https://keycloak.stelselcatalogus.nl](https://keycloak.stelselcatalogus.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Welcome to Keycl...|
 |[https://editor.stelselcatalogus.nl](https://editor.stelselcatalogus.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Editor|

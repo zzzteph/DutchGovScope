@@ -6,7 +6,7 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:23
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:24
 
 
 | File       | Count | Info |
@@ -24,7 +24,7 @@
 |[https://idp.dev.kvk.nl](https://idp.dev.kvk.nl)| | **A**|Unknown| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Google Tag Manager HSTS|Toegang geweiger...|
 |[https://tbadmin.dev.kvk.nl](https://tbadmin.dev.kvk.nl)| | **C**|Unknown| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Toegang geweiger...|
 |[https://admin.tbadmin.kvk.nl](https://admin.tbadmin.kvk.nl)| | **A**|Unknown| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS|404 Not Found|
-|[https://tbadmin.kvk.nl](https://tbadmin.kvk.nl)| | **A**|Unknown| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS|404 Not Found|
+|[https://tbadmin.kvk.nl](https://tbadmin.kvk.nl)| | **A**|Unknown| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://admin.tbadmin.npo.kvk.nl](https://admin.tbadmin.npo.kvk.nl)| | **A**|Unknown| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://idp.npo.kvk.nl](https://idp.npo.kvk.nl)| | **A**|Unknown| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Google Tag Manager HSTS|Toegang geweiger...|
 |[https://tbadmin.npo.kvk.nl](https://tbadmin.npo.kvk.nl)| | **A**|Unknown| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS|Toegang geweiger...|
@@ -49,13 +49,13 @@
 |[https://ondertekenen.acp.kvk.nl](https://ondertekenen.acp.kvk.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
 |[https://ondertekenen.kvk.nl](https://ondertekenen.kvk.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
 |[https://developers.kvk.nl](https://developers.kvk.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Google Tag Manager HSTS|Get Started - KV...|
-|[https://diensten.kvk.nl](https://diensten.kvk.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|301 Moved Perman...|
-|[https://diensten2.kvk.nl](https://diensten2.kvk.nl)| | **B**|Unknown| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS|404 Not Found|
+|[https://diensten.kvk.nl](https://diensten.kvk.nl)| | **B**|Unknown| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS||
+|[https://diensten2.kvk.nl](https://diensten2.kvk.nl)| | **B**|Unknown| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS||
 |[https://downloadservice.kvk.nl](https://downloadservice.kvk.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS||
 |[https://enterpriseenrollment.kvk.nl](https://enterpriseenrollment.kvk.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://enterpriseregistration.kvk.nl](https://enterpriseregistration.kvk.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://events.kvk.nl](https://events.kvk.nl)| | **A**|nginx|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://idp.kvk.nl](https://idp.kvk.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS||
+|[https://idp.kvk.nl](https://idp.kvk.nl)| | **A**|Unknown| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
 |[https://image.email.kvk.nl](https://image.email.kvk.nl)| | **F**|AkamaiGHost| | | | | | | | :white_check_mark: | ||Access Denied|
 |[https://kvk.nl](https://kvk.nl)| | **A**|BigIP|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |F5 BigIP HSTS||
 |[https://www.kvk.nl](https://www.kvk.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach Google Tag Manager HSTS|KVK - Kamer van...|
@@ -72,7 +72,7 @@
 |[https://view.email.kvk.nl](https://view.email.kvk.nl)| | **A**||:o: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Object moved|
 |[https://web-api.kvk.nl](https://web-api.kvk.nl)| | **C**||:o: |:white_check_mark: | | | :white_check_mark:| | | :white_check_mark: | |HSTS|403 - Forbidden:...|
 |[https://werkenbij.kvk.nl](https://werkenbij.kvk.nl)| | **C**||:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Google Tag Manager HSTS Microsoft ASP.NET|Vacatures en car...|
-|[https://www3.kvk.nl](https://www3.kvk.nl)| | **E**|| | | | | | | | :white_check_mark: | |Google Tag Manager HSTS|Toegang geweiger...|
+|[https://www3.kvk.nl](https://www3.kvk.nl)| | **E**|| | | | | | | | :white_check_mark: | |Bloomreach Google Tag Manager HSTS|KVK - Kamer van...|
 |[https://zoeken.kvk.nl](https://zoeken.kvk.nl)| | **D**|Microsoft-IIS/10.0| |:white_check_mark: | :warning:| | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET:4.0.30319 Windows Server|zoeken.kvk.nl|
 |[https://payt.kvk.nl](https://payt.kvk.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://facturen.kvk.nl](https://facturen.kvk.nl)| | **A**|Caddy Nespresso| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS HTTP/3|Check Invoices|

@@ -53,10 +53,11 @@ http://detoekomstbegintnu.brabant.nl
 http://draf-acpt.brabant.nl
 https://draf.brabant.nl
 https://esb-test.brabant.nl
-https://samenwerken.brabant.nl
+https://opendata.brabant.nl
 https://facilitor.brabant.nl
 https://kaartbank.brabant.nl
 https://kaarten.brabant.nl
+http://informatie-rws.brabant.nl
 http://longread.brabant.nl
 http://specials.brabant.nl
 https://mik-acpt.brabant.nl

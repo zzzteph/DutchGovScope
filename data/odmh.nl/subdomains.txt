@@ -18,10 +18,8 @@ geoportal.odmh.nl
 documenten.odmh.nl
 geoportaal.odmh.nl
 autodiscover.odmh.nl
-vpn.odmh.nl
 mobielwerken.odmh.nl
 rdsgateway.odmh.nl
-rdweb.odmh.nl
 smtp.odmh.nl
 pow.odmh.nl
 publicaties.odmh.nl

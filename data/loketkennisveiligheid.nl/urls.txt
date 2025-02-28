@@ -1,7 +1,7 @@
-https://feeds.english.loketkennisveiligheid.nl
+http://feeds.english.loketkennisveiligheid.nl
 https://feeds.loketkennisveiligheid.nl
 https://loketkennisveiligheid.nl
-https://opendata.english.loketkennisveiligheid.nl
+http://opendata.english.loketkennisveiligheid.nl
 https://opendata.loketkennisveiligheid.nl
 https://www.loketkennisveiligheid.nl
 https://english.loketkennisveiligheid.nl

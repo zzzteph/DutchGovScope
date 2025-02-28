@@ -142,8 +142,10 @@ lipwig.labs.dans.knaw.nl
 brandaen.huygens.knaw.nl
 nederlandschehistorien.huygens.knaw.nl
 vroedschapsboek.huygens.knaw.nl
-databeheer.huygens.knaw.nl
 guydebres.huygens.knaw.nl
+interedition.huygens.knaw.nl
+martianus.huygens.knaw.nl
+rembench.huygens.knaw.nl
 rembrandtdocuments.huygens.knaw.nl
 alfalablog.huygens.knaw.nl
 alfalablog.knaw.nl
@@ -339,6 +341,7 @@ hi4.huygens.knaw.nl
 hisgis.fa.knaw.nl
 hisgis2.fa.knaw.nl
 hucdrive.huc.knaw.nl
+intranetzonder.knaw.nl
 logo.huygens.knaw.nl
 maps.fa.knaw.nl
 mapserver.fa.knaw.nl

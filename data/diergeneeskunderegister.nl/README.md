@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:11
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:12
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/diergeneeskunderegister.nl/subdomains.txt)|13|Alive subdomains|
-|[urls.txt](/data/diergeneeskunderegister.nl/urls.txt)|13|Urls|
+|[subdomains.txt](/data/diergeneeskunderegister.nl/subdomains.txt)|14|Alive subdomains|
+|[urls.txt](/data/diergeneeskunderegister.nl/urls.txt)|14|Urls|
 
 
 ## Statistics
@@ -22,6 +22,7 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://acceptatie.beheer.diergeneeskunderegister.nl](https://acceptatie.beheer.diergeneeskunderegister.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
 |[https://acceptatie.mijn.diergeneeskunderegister.nl](https://acceptatie.mijn.diergeneeskunderegister.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
+|[https://acceptatie.webservices.diergeneeskunderegister.nl](https://acceptatie.webservices.diergeneeskunderegister.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
 |[https://acceptatie.zoeken.diergeneeskunderegister.nl](https://acceptatie.zoeken.diergeneeskunderegister.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||
 |[https://opendata.diergeneeskunderegister.nl](https://opendata.diergeneeskunderegister.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://www.diergeneeskunderegister.nl](https://www.diergeneeskunderegister.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Bloomreach HSTS HTTP/3|Home | Diergenee...|

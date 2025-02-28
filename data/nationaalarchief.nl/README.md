@@ -31,7 +31,7 @@
 |[http://beeldbank.nationaalarchief.nl](http://beeldbank.nationaalarchief.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HTTP/3 Nginx||
 |[https://bibliotheek.nationaalarchief.nl](https://bibliotheek.nationaalarchief.nl)| | **F**|Central System Dispatcher/1.1| | | | | | | | :white_check_mark: | |HSTS||
 |[https://cbs.nationaalarchief.nl](https://cbs.nationaalarchief.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
-|[https://chat.nationaalarchief.nl](https://chat.nationaalarchief.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://chat.nationaalarchief.nl](https://chat.nationaalarchief.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Nationaal Archie...|
 |[https://e-bom.acpt.nationaalarchief.nl](https://e-bom.acpt.nationaalarchief.nl)| | **A**|| |:white_check_mark: | :warning:| | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://e-bom.nationaalarchief.nl](https://e-bom.nationaalarchief.nl)| | **A**|| |:white_check_mark: | :warning:| | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|E-Beperkt Openba...|
 |[https://e-bom.ted.nationaalarchief.nl](https://e-bom.ted.nationaalarchief.nl)| | **A**|| |:white_check_mark: | :warning:| | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|E-Beperkt Openba...|

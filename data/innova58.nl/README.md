@@ -20,7 +20,7 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://innova58.nl](https://innova58.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|405 Method not a...|
+|[https://innova58.nl](https://innova58.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 |[https://www.innova58.nl](https://www.innova58.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 |[http://autodiscover.innova58.nl](http://autodiscover.innova58.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://msoid.innova58.nl](https://msoid.innova58.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|

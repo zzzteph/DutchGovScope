@@ -6,7 +6,7 @@ subdomains_count: 2
 urls_count: 2
 ssl_rank: 
 http_rank: A
-security_txt: 2
+security_txt: 0
 url_link: /data/toekomstlandelijkgebied.nl/urls.txt
 subdomains_link: /data/toekomstlandelijkgebied.nl/subdomains.txt
 categories: dutchgov
@@ -20,7 +20,7 @@ tags: dutchgov
 
  - **SSL Grade**:
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |

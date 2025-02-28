@@ -21,9 +21,9 @@
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://german.investinholland.com](https://german.investinholland.com)| | **C**|cloudflare| |:white_check_mark: | | | | | | :white_check_mark: | |Cloudflare Google Tag Manager HSTS Litespeed Cache MySQL PHP:8.2.27 WPML:4.6.15 WordPress:6.7.1 Yoast SEO Premium:23.1 Yoast SEO:24.3|Die NFIA, die zu...|
-|[http://www.japan.investinholland.com](http://www.japan.investinholland.com)| | **F**|cloudflare| | | | | | | | :white_check_mark: | |Cloudflare|301 Moved Perman...|
+|[http://www.japan.investinholland.com](http://www.japan.investinholland.com)| | **F**|cloudflare| | | | | | | | :white_check_mark: | |Cloudflare HTTP/2|301 Moved Perman...|
 |[https://china.investinholland.com](https://china.investinholland.com)| | **C**|cloudflare| |:white_check_mark: | | | | | | :white_check_mark: | |Cloudflare HSTS Litespeed Cache Plesk|301 Moved Perman...|
-|[http://smtp.japan.investinholland.com](http://smtp.japan.investinholland.com)| | **F**|cloudflare| | | | | | | | :white_check_mark: | |Cloudflare HTTP/2|301 Moved Perman...|
+|[http://smtp.japan.investinholland.com](http://smtp.japan.investinholland.com)| | **F**|cloudflare| | | | | | | | :white_check_mark: | |Cloudflare|301 Moved Perman...|
 |[https://www.investinholland.com](https://www.investinholland.com)| | **C**|cloudflare| |:white_check_mark: | | | | | | :white_check_mark: | |Cloudflare HSTS Litespeed Cache PHP:8.2.27||
 |[https://japan.investinholland.com](https://japan.investinholland.com)| | **C**|cloudflare| |:white_check_mark: | | | | | | :white_check_mark: | |Cloudflare Google Tag Manager HSTS Litespeed Cache MySQL PHP:8.2.27 WPML:4.6.15 WordPress:6.7.1 Yoast SEO Premium:23.1 Yoast SEO:24.3|オランダへの直接...|
 |[https://investinholland.com](https://investinholland.com)| | **C**|cloudflare| |:white_check_mark: | | | | | | :white_check_mark: | |Cloudflare Google Tag Manager HSTS Litespeed Cache MySQL PHP:8.2.27 WPML:4.6.15 WordPress:6.7.1 Yoast SEO Premium:23.1 Yoast SEO:24.3|NFIA, part of In...|

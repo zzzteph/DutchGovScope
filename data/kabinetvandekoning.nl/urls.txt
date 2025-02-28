@@ -1,8 +1,8 @@
 https://english.kabinetvandekoning.nl
-https://feeds.english.kabinetvandekoning.nl
+http://feeds.english.kabinetvandekoning.nl
 https://feeds.kabinetvandekoning.nl
 https://kabinetvandekoning.nl
-https://opendata.english.kabinetvandekoning.nl
+http://opendata.english.kabinetvandekoning.nl
 https://opendata.kabinetvandekoning.nl
 https://www.kabinetvandekoning.nl
 http://autodiscover.kabinetvandekoning.nl

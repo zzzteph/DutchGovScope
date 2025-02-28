@@ -29,14 +29,14 @@
 |[https://ams-closures.ndw.nu](https://ams-closures.ndw.nu)| | **B**|nginx|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Basic HSTS Java Nginx||
 |[https://auth.ndw.nu](https://auth.ndw.nu)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
 |[https://wegkenmerken.ndw.nu](https://wegkenmerken.ndw.nu)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Wegkenmerken - N...|
-|[https://vm-ivra.ndw.nu](https://vm-ivra.ndw.nu)| | **A**|nginx/1.27.3| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx:1.27.3|301 Moved Perman...|
+|[https://vm-ivra.ndw.nu](https://vm-ivra.ndw.nu)| | **A**|nginx/1.27.4| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx:1.27.4|301 Moved Perman...|
 |[https://caas.ndw.nu](https://caas.ndw.nu)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://ntm.ndw.nu](https://ntm.ndw.nu)| | **C**|nginx| | | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx|Nationaal Toegan...|
 |[https://maps.ndw.nu](https://maps.ndw.nu)| | **F**|Apache/2.4.62 (Unix)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.62 Bootstrap UNIX|NDW Maps|
 |[https://nls.ndw.nu](https://nls.ndw.nu)| | **F**|nginx/1.26.2| | | | | | | | :white_check_mark: | |Nginx:1.26.2|NlsFrontend|
 |[https://tiles.ndw.nu](https://tiles.ndw.nu)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
 |[https://vild.ndw.nu](https://vild.ndw.nu)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
-|[https://cbm.ndw.nu](https://cbm.ndw.nu)| | **F**|nginx/1.27.2| | | | | | | | :white_check_mark: | |Nginx:1.27.2|NDW-CBM|
+|[https://cbm.ndw.nu](https://cbm.ndw.nu)| | **F**|nginx/1.27.4| | | | | | | | :white_check_mark: | |Nginx:1.27.4|NDW-CBM|
 |[https://karin.ndw.nu](https://karin.ndw.nu)| | **F**|nginx/1.26.2| | | | | | | | :white_check_mark: | |Nginx:1.26.2|NDW Karin|
 |[https://mijnrdtmnl.ndw.nu](https://mijnrdtmnl.ndw.nu)| | **A**|nginx/1.24.0| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx:1.24.0|RdtWebPortal|
 |[https://ncis.ndw.nu](https://ncis.ndw.nu)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx|NCIS Web Portaal|
@@ -112,7 +112,7 @@
 |[https://security.staging.ndw.nu](https://security.staging.ndw.nu)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://stats.staging.ndw.nu](https://stats.staging.ndw.nu)| | **E**|Cowboy| | | :warning:| | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cowboy Erlang|Plausible · Simp...|
 |[https://verkeersveiligheid.ndw.nu](https://verkeersveiligheid.ndw.nu)| | **B**|| | | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Express Node.js|Verkeersveilighe...|
-|[https://reistijdtrajecten.ndw.nu](https://reistijdtrajecten.ndw.nu)| | **F**|nginx/1.26.2| | | | | | | | :white_check_mark: | |Nginx:1.26.2|FCD reistijden|
+|[https://reistijdtrajecten.ndw.nu](https://reistijdtrajecten.ndw.nu)| | **F**|nginx/1.26.3| | | | | | | | :white_check_mark: | |Nginx:1.26.3|FCD reistijden|
 |[https://bereikbaarheid.staging.ndw.nu](https://bereikbaarheid.staging.ndw.nu)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Bereikbaarheidsk...|
 
 

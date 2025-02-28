@@ -24,7 +24,7 @@
 |[https://begrippen.hdsr.nl](https://begrippen.hdsr.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
 |[https://kennis.hdsr.nl](https://kennis.hdsr.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS Varnish:6.6||
 |[https://testbegrippen.hdsr.nl](https://testbegrippen.hdsr.nl)| | **E**|| | | | | | | | :white_check_mark: | |Basic||
-|[https://testkennis.hdsr.nl](https://testkennis.hdsr.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS Varnish||
+|[https://testkennis.hdsr.nl](https://testkennis.hdsr.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS Varnish:6.6||
 |[https://cawfirewall.hdsr.nl](https://cawfirewall.hdsr.nl)| | **A**|xxxx|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java|User Portal|
 |[https://cawuitwijkfirewall.hdsr.nl](https://cawuitwijkfirewall.hdsr.nl)| | **A**|xxxx|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java|User Portal|
 |[https://uconnect-acc.hdsr.nl](https://uconnect-acc.hdsr.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|

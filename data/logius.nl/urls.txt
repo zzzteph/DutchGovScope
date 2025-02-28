@@ -36,7 +36,7 @@ https://machtigen.digipoort.logius.nl
 https://mailing.logius.nl
 https://mijntokenactiveren.logius.nl
 https://oinregister.logius.nl
-https://preprod-machtigen.digipoort.logius.nl
+http://preprod-machtigen.digipoort.logius.nl
 https://preprod.oinregister.logius.nl
 https://intrekkingsportaal.preproductie.digipoort.logius.nl
 https://portalen.preproductie.digipoort.logius.nl

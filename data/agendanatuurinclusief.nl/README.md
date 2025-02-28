@@ -20,7 +20,7 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://agendanatuurinclusief.nl](https://agendanatuurinclusief.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2|403 Forbidden|
-|[https://www.agendanatuurinclusief.nl](https://www.agendanatuurinclusief.nl)| | **F**|Apache/2| | | | | | | | :white_check_mark: | |Apache HTTP Server:2|403 Forbidden|
+|[https://agendanatuurinclusief.nl](https://agendanatuurinclusief.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx Plesk|302 Found|
+|[https://www.agendanatuurinclusief.nl](https://www.agendanatuurinclusief.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx Plesk|302 Found|
 
 

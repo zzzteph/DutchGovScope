@@ -1,3 +1,6 @@
+acc.data.ilent.nl
+kc.ilent.nl
+povv-poc.ilent.nl
 acc.e-loket.ilent.nl
 acceptatie.wio.ilent.nl
 e-loket.ilent.nl
@@ -14,4 +17,5 @@ meldingen.ilent.nl
 staging.meldingen.ilent.nl
 stc.ilent.nl
 wio.ilent.nl
+data.ilent.nl
 easyrules.ilent.nl

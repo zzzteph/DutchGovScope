@@ -4,6 +4,4 @@ https://opendata.open-overheid.nl
 https://www.open-overheid.nl
 https://mail.open-overheid.nl
 https://wooincijfers.open-overheid.nl
-https://pop.open-overheid.nl
-https://smtp.open-overheid.nl
 https://ftp.open-overheid.nl

@@ -7,7 +7,6 @@ nza-form1.nza.nl
 nza-form6.nza.nl
 zorgprestatiemodel.nza.nl
 nza-form2.nza.nl
-zorgvraagtypering.nza.nl
 mijn-accp.nza.nl
 nza-form3.nza.nl
 nza-form5.nza.nl
@@ -29,7 +28,6 @@ werkenbijde.nza.nl
 zorgproducten-acc.nza.nl
 zorgproducten.nza.nl
 aanvragen-acc.nza.nl
-mijn.nza.nl
 opendisdata.nza.nl
 agw01-nomail.nza.nl
 jv.nza.nl

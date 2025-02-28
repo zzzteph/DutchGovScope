@@ -4,6 +4,7 @@ raad.h-i-ambacht.nl
 edienstenburgerzaken-test.h-i-ambacht.nl
 edienstenburgerzaken.h-i-ambacht.nl
 gisib-test.h-i-ambacht.nl
+gisib.h-i-ambacht.nl
 gisibgeoserver-test.h-i-ambacht.nl
 gisibgeoserver.h-i-ambacht.nl
 zaken.h-i-ambacht.nl

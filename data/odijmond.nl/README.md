@@ -34,6 +34,6 @@
 |[https://db.open-wave.odijmond.nl](https://db.open-wave.odijmond.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|403 Forbidden|
 |[https://jointest.odijmond.nl](https://jointest.odijmond.nl)| | **E**|| | | | | | | | :white_check_mark: | |Amazon S3 Amazon Web Services HSTS||
 |[https://admin-join.odijmond.nl](https://admin-join.odijmond.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Object moved|
-|[https://admin-jointest.odijmond.nl](https://admin-jointest.odijmond.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
+|[https://admin-jointest.odijmond.nl](https://admin-jointest.odijmond.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Object moved|
 
 

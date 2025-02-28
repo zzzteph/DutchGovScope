@@ -23,7 +23,7 @@
 |[https://consular.mfaservices.nl](https://consular.mfaservices.nl)| | **B**||:warning: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |Akamai Akamai Bot Manager Azure Azure Front Door HSTS|Ministry of Fore...|
 |[https://cdn.consular.mfaservices.nl](https://cdn.consular.mfaservices.nl)| | **C**||:warning: |:white_check_mark: | | |:warning: | | | :white_check_mark: | |Akamai Akamai Bot Manager Azure Azure Front Door HSTS||
 |[https://url9097.consular.mfaservices.nl](https://url9097.consular.mfaservices.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|404 Not Found|
-|[https://login.consular.mfaservices.nl](https://login.consular.mfaservices.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Akamai Akamai Bot Manager Azure Azure Front Door HSTS||
+|[https://login.consular.mfaservices.nl](https://login.consular.mfaservices.nl)| | **A**||:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Akamai Akamai Bot Manager Azure Azure Front Door HSTS||
 |[https://dev.login.consular.mfaservices.nl](https://dev.login.consular.mfaservices.nl)| | **D**||:warning: |:white_check_mark: | | | | | | :white_check_mark: | |Akamai Akamai Bot Manager Azure Azure Front Door HSTS|Consular Service...|
 |[https://acc-insights.mfaservices.nl](https://acc-insights.mfaservices.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
 |[https://acc-ls4.mfaservices.nl](https://acc-ls4.mfaservices.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
@@ -32,8 +32,8 @@
 |[https://acc.nww.mfaservices.nl](https://acc.nww.mfaservices.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
 |[https://consular-service.consular.mfaservices.nl](https://consular-service.consular.mfaservices.nl)| | **C**||:warning: |:white_check_mark: | | |:warning: | | | :white_check_mark: | |Akamai Akamai Bot Manager Azure Azure Front Door HSTS||
 |[https://snd.consular.mfaservices.nl](https://snd.consular.mfaservices.nl)| | **D**||:warning: |:white_check_mark: | | | | | | :white_check_mark: | |Akamai Akamai Bot Manager Azure Azure Front Door HSTS|Consular Service...|
-|[https://tst.consular-service.consular.mfaservices.nl](https://tst.consular-service.consular.mfaservices.nl)| | **D**||:warning: |:white_check_mark: | | | | | | :white_check_mark: | |Akamai Akamai Bot Manager Azure Azure Front Door HSTS|Consular Service...|
-|[https://snd.consular-service.consular.mfaservices.nl](https://snd.consular-service.consular.mfaservices.nl)| | **D**||:warning: |:white_check_mark: | | | | | | :white_check_mark: | |Akamai Akamai Bot Manager Azure Azure Front Door HSTS|Consular Service...|
+|[http://tst.consular-service.consular.mfaservices.nl](http://tst.consular-service.consular.mfaservices.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |Akamai Akamai Bot Manager||
+|[http://snd.consular-service.consular.mfaservices.nl](http://snd.consular-service.consular.mfaservices.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |Akamai Akamai Bot Manager||
 |[https://tst.cdn.consular.mfaservices.nl](https://tst.cdn.consular.mfaservices.nl)| | **D**||:warning: |:white_check_mark: | | | | | | :white_check_mark: | |Akamai Akamai Bot Manager Azure Azure Front Door HSTS|Consular Service...|
 |[https://tst.consular.mfaservices.nl](https://tst.consular.mfaservices.nl)| | **D**||:warning: |:white_check_mark: | | | | | | :white_check_mark: | |Akamai Akamai Bot Manager Azure Azure Front Door HSTS|Consular Service...|
 |[https://tst.login.consular.mfaservices.nl](https://tst.login.consular.mfaservices.nl)| | **D**||:warning: |:white_check_mark: | | | | | | :white_check_mark: | |Akamai Akamai Bot Manager Azure Azure Front Door HSTS|Consular Service...|
@@ -44,7 +44,7 @@
 |[https://dev.consular.mfaservices.nl](https://dev.consular.mfaservices.nl)| | **D**||:warning: |:white_check_mark: | | | | | | :white_check_mark: | |Akamai Akamai Bot Manager Azure Azure Front Door HSTS|Consular Service...|
 |[https://acc.consular-service.consular.mfaservices.nl](https://acc.consular-service.consular.mfaservices.nl)| | **C**||:warning: |:white_check_mark: | | |:warning: | | | :white_check_mark: | |Akamai Akamai Bot Manager Azure Azure Front Door HSTS||
 |[https://acc.consular.mfaservices.nl](https://acc.consular.mfaservices.nl)| | **B**||:warning: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |Akamai Akamai Bot Manager Azure Azure Front Door HSTS|Ministry of Fore...|
-|[https://acc.login.consular.mfaservices.nl](https://acc.login.consular.mfaservices.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Akamai Akamai Bot Manager Azure Azure Front Door HSTS||
+|[https://acc.login.consular.mfaservices.nl](https://acc.login.consular.mfaservices.nl)| | **A**||:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Akamai Akamai Bot Manager Azure Azure Front Door HSTS||
 |[https://acc.protocol.mfaservices.nl](https://acc.protocol.mfaservices.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Azure HSTS||
 |[https://tst.protocol.mfaservices.nl](https://tst.protocol.mfaservices.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Azure HSTS||
 |[https://countrydashboard.mfaservices.nl](https://countrydashboard.mfaservices.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||

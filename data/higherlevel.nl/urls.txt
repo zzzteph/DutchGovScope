@@ -1,4 +1,1 @@
-https://prod.higherlevel.nl
-https://higherlevel.nl
-https://test.higherlevel.nl
 https://www.higherlevel.nl

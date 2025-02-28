@@ -1,5 +1,1 @@
-https://opendata.telmeemettaal.nl
-https://telmeemettaal.nl
-https://www.telmeemettaal.nl
-https://feeds.telmeemettaal.nl
 https://mail.telmeemettaal.nl

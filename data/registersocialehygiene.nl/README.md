@@ -26,7 +26,7 @@
 |[https://feeds.registersocialehygiene.nl](https://feeds.registersocialehygiene.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://opendata.registersocialehygiene.nl](https://opendata.registersocialehygiene.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://registersocialehygiene.nl](https://registersocialehygiene.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
-|[https://www.registersocialehygiene.nl](https://www.registersocialehygiene.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Bloomreach HSTS HTTP/3|Home | Register...|
+|[https://www.registersocialehygiene.nl](https://www.registersocialehygiene.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS HTTP/3||
 |[https://mijn.registersocialehygiene.nl](https://mijn.registersocialehygiene.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|Inloggen|
 |[https://zoeken.registersocialehygiene.nl](https://zoeken.registersocialehygiene.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|Publiek|
 |[https://acceptatie.mijn.registersocialehygiene.nl](https://acceptatie.mijn.registersocialehygiene.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS||

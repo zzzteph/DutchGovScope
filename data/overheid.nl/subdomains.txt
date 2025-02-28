@@ -23,6 +23,7 @@ open.overheid.nl
 zoekdienst.overheid.nl
 almanak.overheid.nl
 lvbb-preprod.overheid.nl
+overheid.nl
 cio.overheid.nl
 lokaleregelgeving-eto.overheid.nl
 treatydatabase.overheid.nl

@@ -142,8 +142,10 @@ https://lipwig.labs.dans.knaw.nl
 https://brandaen.huygens.knaw.nl
 https://nederlandschehistorien.huygens.knaw.nl
 https://vroedschapsboek.huygens.knaw.nl
-https://databeheer.huygens.knaw.nl
 https://guydebres.huygens.knaw.nl
+https://interedition.huygens.knaw.nl
+https://martianus.huygens.knaw.nl
+https://rembench.huygens.knaw.nl
 https://rembrandtdocuments.huygens.knaw.nl
 https://alfalablog.huygens.knaw.nl
 https://alfalablog.knaw.nl
@@ -283,7 +285,7 @@ https://rds.nioo.knaw.nl
 https://rdsgw.nioo.knaw.nl
 https://boot.huygens.knaw.nl
 https://hi14hingtest.huygens.knaw.nl
-http://cbs.knaw.nl
+https://cbs.knaw.nl
 https://cloud.knaw.nl
 https://citrix.knaw.nl
 http://cmdi2rdf.meertens.knaw.nl
@@ -339,6 +341,7 @@ http://hi4.huygens.knaw.nl
 https://hisgis.fa.knaw.nl
 http://hisgis2.fa.knaw.nl
 https://hucdrive.huc.knaw.nl
+https://intranetzonder.knaw.nl
 https://logo.huygens.knaw.nl
 http://maps.fa.knaw.nl
 https://mapserver.fa.knaw.nl
@@ -346,6 +349,7 @@ https://mda.nioo.knaw.nl
 https://mfiles.knaw.nl
 http://mfproxy01.knaw.nl
 https://ninweb.knaw.nl
+https://obi-a.knaw.nl
 https://taoracleapp21.knaw.nl
 https://password.knaw.nl
 https://pdvnl31.dans.knaw.nl
@@ -398,6 +402,8 @@ http://gitlab.huc.knaw.nl
 https://ebs-t.knaw.nl
 https://knaw.nl
 https://nias.knaw.nl
+https://obi-t.knaw.nl
+https://obi.knaw.nl
 https://pureacc.knaw.nl
 https://maritimecareers.huygens.knaw.nl
 https://sd-yugoslavia.dev.huc.knaw.nl
@@ -523,3 +529,4 @@ https://ohs31.dans.knaw.nl
 https://faireva.labs.dans.knaw.nl
 https://bitwarden.knaw.nl
 http://mpadmin.meertens.knaw.nl
+https://www.opgravingen.huygens.knaw.nl

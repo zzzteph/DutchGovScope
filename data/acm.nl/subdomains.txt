@@ -24,3 +24,5 @@ mijn-acc.acm.nl
 mijn-tst.acm.nl
 mbg.acm.nl
 dev.connect.acm.nl
+k8s-cw.acm.nl
+k8s.acm.nl

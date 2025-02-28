@@ -58,7 +58,7 @@
 |[https://mailing.logius.nl](https://mailing.logius.nl)| | **C**|Spotler| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://mijntokenactiveren.logius.nl](https://mijntokenactiveren.logius.nl)| | **A**|Apache/2.4.6 (Red Hat Enterprise Linux) OpenSSL/1.0.2k-fips| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server:2.4.6 HSTS OpenSSL:1.0.2k Red Hat|Portal Closed|
 |[https://oinregister.logius.nl](https://oinregister.logius.nl)| | **A**|| |:white_check_mark: | :warning:| | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|COR|
-|[https://preprod-machtigen.digipoort.logius.nl](https://preprod-machtigen.digipoort.logius.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS IBM DataPower||
+|[http://preprod-machtigen.digipoort.logius.nl](http://preprod-machtigen.digipoort.logius.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS IBM DataPower||
 |[https://preprod.oinregister.logius.nl](https://preprod.oinregister.logius.nl)| | **A**|| |:white_check_mark: | :warning:| | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|COR|
 |[https://intrekkingsportaal.preproductie.digipoort.logius.nl](https://intrekkingsportaal.preproductie.digipoort.logius.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Java||
 |[https://portalen.preproductie.digipoort.logius.nl](https://portalen.preproductie.digipoort.logius.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Java||

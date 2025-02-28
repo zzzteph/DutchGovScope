@@ -1,4 +1,4 @@
-https://meet.rijksrecherche.nl
+http://meet.rijksrecherche.nl
 https://dialin.rijksrecherche.nl
 https://lyncdiscover.rijksrecherche.nl
 https://opendata.rijksrecherche.nl

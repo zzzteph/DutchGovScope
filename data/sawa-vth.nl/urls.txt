@@ -4,7 +4,6 @@ https://sawa-vth.nl
 https://webdav.sawa-vth.nl
 https://acceptatie.sawa-vth.nl
 https://map-acceptatie.sawa-vth.nl
-https://office-acceptatie.sawa-vth.nl
 https://webdav-acceptatie.sawa-vth.nl
 http://genconnector.sawa-vth.nl
 http://www.sawa-vth.nl

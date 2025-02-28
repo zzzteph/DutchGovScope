@@ -34,7 +34,7 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://extranet.onderwijsraad.nl](https://extranet.onderwijsraad.nl)| | **E**|cloudflare|:warning: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare HTTP/3 Kinsta WordPress||
+|[https://extranet.onderwijsraad.nl](https://extranet.onderwijsraad.nl)| | **E**|cloudflare|:warning: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Cloudflare Cloudflare Bot Management HTTP/3 Kinsta WordPress||
 |[https://feeds.onderwijsraad.nl](https://feeds.onderwijsraad.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://onderwijsraad.nl](https://onderwijsraad.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 |[https://opendata.onderwijsraad.nl](https://opendata.onderwijsraad.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||

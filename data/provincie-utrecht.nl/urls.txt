@@ -44,8 +44,6 @@ https://monitorwonen.provincie-utrecht.nl
 https://geo-point.provincie-utrecht.nl
 https://itop.provincie-utrecht.nl
 https://link.pr.provincie-utrecht.nl
-https://logint.provincie-utrecht.nl
-https://wortel183.provincie-utrecht.nl
 https://magazine.provincie-utrecht.nl
 https://mailing.provincie-utrecht.nl
 https://monitorklimaatadaptatie.provincie-utrecht.nl
@@ -61,7 +59,6 @@ https://ruimtelijkeplannenintern.provincie-utrecht.nl
 https://sap-crm.provincie-utrecht.nl
 https://search-a.provincie-utrecht.nl
 https://search.provincie-utrecht.nl
-https://slechtvalk.provincie-utrecht.nl
 https://sslvpn-hth.provincie-utrecht.nl
 https://sslvpn.provincie-utrecht.nl
 https://stateninformatie.provincie-utrecht.nl
@@ -80,6 +77,7 @@ https://provincie-utrecht.nl
 https://login.provincie-utrecht.nl
 https://wortel174.provincie-utrecht.nl
 https://socialintranet-acc.provincie-utrecht.nl
+https://socialintranet.provincie-utrecht.nl
 https://monitoromgevingsbeleid.provincie-utrecht.nl
 https://omgevingsbeleid.provincie-utrecht.nl
 https://iapp.provincie-utrecht.nl
