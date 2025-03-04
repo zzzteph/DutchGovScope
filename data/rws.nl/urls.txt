@@ -48,6 +48,8 @@ https://getij.rws.nl
 https://port-enc.rws.nl
 https://standaarden.rws.nl
 https://beterbediend.rws.nl
+https://bezoekerscentrum.rws.nl
+https://test.bezoekerscentrum.rws.nl
 https://cmgrws.rws.nl
 https://crisiswerkplek.rws.nl
 https://ctd.rws.nl

@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/belastingdienst.nl/subdomains.txt)|116|Alive subdomains|
-|[urls.txt](/data/belastingdienst.nl/urls.txt)|113|Urls|
+|[urls.txt](/data/belastingdienst.nl/urls.txt)|114|Urls|
 
 
 ## Statistics
@@ -133,5 +133,6 @@
 |[https://vts.belastingdienst.nl](https://vts.belastingdienst.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Online diensten...|
 |[https://werkenbij.belastingdienst.nl](https://werkenbij.belastingdienst.nl)| | **F**|Ponos Maximum| | | | | | | | :white_check_mark: | |HSTS|418 I'm a teapot|
 |[https://werkenbijde.belastingdienst.nl](https://werkenbijde.belastingdienst.nl)| | **F**|Ponos Maximum| | | | | | | | :white_check_mark: | |HSTS|418 I'm a teapot|
+|[https://msnp-tegemoetkoming.belastingdienst.nl](https://msnp-tegemoetkoming.belastingdienst.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 
 

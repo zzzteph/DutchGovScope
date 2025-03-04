@@ -1,20 +1,20 @@
 ---
 layout: default
-title: "integraleaanpakonlinefraude.nl"
-permalink: "/dutchgov/integraleaanpakonlinefraude.nl.html"
+title: "lerarenportfolio.nl"
+permalink: "/dutchgov/lerarenportfolio.nl.html"
 subdomains_count: 0
 urls_count: 0
 ssl_rank: 
 http_rank: F
 security_txt: 0
-url_link: /data/integraleaanpakonlinefraude.nl/urls.txt
-subdomains_link: /data/integraleaanpakonlinefraude.nl/subdomains.txt
+url_link: /data/lerarenportfolio.nl/urls.txt
+subdomains_link: /data/lerarenportfolio.nl/subdomains.txt
 categories: dutchgov
 tags: dutchgov
 ---
 
 
-# integraleaanpakonlinefraude.nl
+# lerarenportfolio.nl
 ## Summary data
 
 
@@ -25,8 +25,8 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/integraleaanpakonlinefraude.nl/subdomains.txt)|0|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/integraleaanpakonlinefraude.nl/urls.txt)|0|Urls|
+|[subdomains.txt](/DutchGovScope/data/lerarenportfolio.nl/subdomains.txt)|0|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/lerarenportfolio.nl/urls.txt)|0|Urls|
 
 
 ## Statistics

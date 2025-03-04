@@ -46,7 +46,6 @@ remotedesktop.svb.nl
 secure5.svb.nl
 svb.nl
 www.svb.nl
-test-intranet.svb.nl
 test-cmsintranet.svb.nl
 events.svb.nl
 mft-prd.svb.nl

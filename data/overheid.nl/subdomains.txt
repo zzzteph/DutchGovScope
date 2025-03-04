@@ -168,7 +168,6 @@ bouw.omgevingswet.overheid.nl
 brk.basisregistraties.overheid.nl
 brk.test.basisregistraties.overheid.nl
 brt.basisregistraties.overheid.nl
-cbm.mijn.overheid.nl
 cbm.preprod.mijn.overheid.nl
 preprod.mijn.overheid.nl
 cloudstorage-koop.overheid.nl
@@ -197,7 +196,6 @@ zoekservice.overheid.nl
 doculoket.overheid.nl
 standaarden.overheid.nl
 decentraleregelgeving.overheid.nl
-demo.mijn.overheid.nl
 digilab.overheid.nl
 drop-api.overheid.nl
 oproepingen.overheid.nl
@@ -209,6 +207,7 @@ stcrtin.overheid.nl
 drop.overheid.nl
 eidas-stub.lpc.mijn.overheid.nl
 externe-veiligheid.omgevingswet.overheid.nl
+gegevensdelen.mijn.overheid.nl
 internationaal.ondernemen.overheid.nl
 lucht.omgevingswet.overheid.nl
 www.mijn.overheid.nl
@@ -311,3 +310,5 @@ dse.lx.overheid.nl
 cia.acp.ondernemersplein.overheid.nl
 cia.tst.ondernemersplein.overheid.nl
 api.developer.overheid.nl
+oss.developer.overheid.nl
+apis.developer.overheid.nl

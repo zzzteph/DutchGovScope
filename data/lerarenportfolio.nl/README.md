@@ -1,20 +1,6 @@
----
-layout: default
-title: "nlalert.nl"
-permalink: "/dutchgov/nlalert.nl.html"
-subdomains_count: 2
-urls_count: 0
-ssl_rank: 
-http_rank: F
-security_txt: 0
-url_link: /data/nlalert.nl/urls.txt
-subdomains_link: /data/nlalert.nl/subdomains.txt
-categories: dutchgov
-tags: dutchgov
----
 
 
-# nlalert.nl
+# lerarenportfolio.nl
 ## Summary data
 
 
@@ -25,8 +11,8 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/nlalert.nl/subdomains.txt)|2|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/nlalert.nl/urls.txt)|0|Urls|
+|[subdomains.txt](/data/lerarenportfolio.nl/subdomains.txt)|0|Alive subdomains|
+|[urls.txt](/data/lerarenportfolio.nl/urls.txt)|0|Urls|
 
 
 ## Statistics

@@ -5,14 +5,14 @@
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:C
+ - **HTTP Security Grade**:D
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/ssonet.nl/subdomains.txt)|8|Alive subdomains|
-|[urls.txt](/data/ssonet.nl/urls.txt)|5|Urls|
+|[urls.txt](/data/ssonet.nl/urls.txt)|8|Urls|
 
 
 ## Statistics
@@ -25,5 +25,8 @@
 |[https://www.ssonet.nl](https://www.ssonet.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
 |[https://anyc-t01-a.ssonet.nl](https://anyc-t01-a.ssonet.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://storingsdienst.rgd.ssonet.nl](https://storingsdienst.rgd.ssonet.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://anyc-t02.ssonet.nl](https://anyc-t02.ssonet.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
+|[https://anyc-t03.ssonet.nl](https://anyc-t03.ssonet.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
+|[https://anyc.ssonet.nl](https://anyc.ssonet.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 
 

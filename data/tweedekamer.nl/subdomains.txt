@@ -66,6 +66,8 @@ lijstvangevallenen.acceptatie.tweedekamer.nl
 lijstvangevallenen.test.tweedekamer.nl
 opendata.test.tweedekamer.nl
 werkenbij.acceptatie.tweedekamer.nl
+join.videovergaderen.tweedekamer.nl
+videovergaderen.tweedekamer.nl
 livestreaming-thumb.b67.tweedekamer.nl
 livestreaming.b67.tweedekamer.nl
 livestreaming.b67acc.tweedekamer.nl

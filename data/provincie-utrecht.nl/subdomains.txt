@@ -1,8 +1,5 @@
-espt.provincie-utrecht.nl
-wortel184.provincie-utrecht.nl
 assystnet-test-t.provincie-utrecht.nl
 geo.provincie-utrecht.nl
-gis.provincie-utrecht.nl
 innerweb.provincie-utrecht.nl
 oem.provincie-utrecht.nl
 wzb.provincie-utrecht.nl
@@ -38,7 +35,6 @@ publicaties.provincie-utrecht.nl
 regiotramutrecht.provincie-utrecht.nl
 esb-preprod.provincie-utrecht.nl
 esb.provincie-utrecht.nl
-formulieren.provincie-utrecht.nl
 geo-pointtest.provincie-utrecht.nl
 monitorwonen.provincie-utrecht.nl
 geo-point.provincie-utrecht.nl
@@ -61,14 +57,11 @@ ruimtelijkeplannenintern.provincie-utrecht.nl
 sap-crm.provincie-utrecht.nl
 search-a.provincie-utrecht.nl
 search.provincie-utrecht.nl
-slechtvalk.provincie-utrecht.nl
-sslvpn-hth.provincie-utrecht.nl
 sslvpn.provincie-utrecht.nl
 stateninformatie.provincie-utrecht.nl
 www.stateninformatie.provincie-utrecht.nl
 tramdashboard.provincie-utrecht.nl
 vctu-api.provincie-utrecht.nl
-vctu.provincie-utrecht.nl
 veiligdelen.provincie-utrecht.nl
 webkaart-sld.provincie-utrecht.nl
 wortel176.provincie-utrecht.nl
@@ -90,6 +83,7 @@ mfa.provincie-utrecht.nl
 localhost.provincie-utrecht.nl
 autodiscover.provincie-utrecht.nl
 burgemeesters.provincie-utrecht.nl
+ris.provincie-utrecht.nl
 zsd.provincie-utrecht.nl
 sap-s4h-p.provincie-utrecht.nl
 atlas-ontw.provincie-utrecht.nl

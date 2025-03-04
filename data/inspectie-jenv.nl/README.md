@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/inspectie-jenv.nl/subdomains.txt)|8|Alive subdomains|
-|[urls.txt](/data/inspectie-jenv.nl/urls.txt)|7|Urls|
+|[urls.txt](/data/inspectie-jenv.nl/urls.txt)|8|Urls|
 
 
 ## Statistics
@@ -27,5 +27,6 @@
 |[https://jip.inspectie-jenv.nl](https://jip.inspectie-jenv.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS||
 |[https://zaaksysteem-acc.inspectie-jenv.nl](https://zaaksysteem-acc.inspectie-jenv.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Moved|
 |[https://zaaksysteem.inspectie-jenv.nl](https://zaaksysteem.inspectie-jenv.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Moved|
+|[https://meldpuntwki.inspectie-jenv.nl](https://meldpuntwki.inspectie-jenv.nl)| | **E**|| | | | | | | | :white_check_mark: | |Azure Azure Front Door HSTS|Meldpunt Wet kwa...|
 
 

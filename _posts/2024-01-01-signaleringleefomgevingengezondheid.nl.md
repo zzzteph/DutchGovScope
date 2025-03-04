@@ -2,8 +2,8 @@
 layout: default
 title: "signaleringleefomgevingengezondheid.nl"
 permalink: "/dutchgov/signaleringleefomgevingengezondheid.nl.html"
-subdomains_count: 2
-urls_count: 2
+subdomains_count: 1
+urls_count: 1
 ssl_rank: 
 http_rank: E
 security_txt: 0
@@ -25,8 +25,8 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/signaleringleefomgevingengezondheid.nl/subdomains.txt)|2|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/signaleringleefomgevingengezondheid.nl/urls.txt)|2|Urls|
+|[subdomains.txt](/DutchGovScope/data/signaleringleefomgevingengezondheid.nl/subdomains.txt)|1|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/signaleringleefomgevingengezondheid.nl/urls.txt)|1|Urls|
 
 
 ## Statistics
@@ -35,6 +35,5 @@ tags: dutchgov
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://signaleringleefomgevingengezondheid.nl](https://signaleringleefomgevingengezondheid.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[https://www.signaleringleefomgevingengezondheid.nl](https://www.signaleringleefomgevingengezondheid.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 
 

@@ -11,12 +11,14 @@ data.pbl.nl
 icer.pbl.nl
 leidraad.pbl.nl
 models.pbl.nl
+snippet.monovi.pbl.nl
 infographics.pbl.nl
 snippet.icer.pbl.nl
 snippet.pbl.nl
 themasites.pbl.nl
 dwo.pbl.nl
 fs.pbl.nl
+mailings.pbl.nl
 sf.pbl.nl
 survey.pbl.nl
 webmail.pbl.nl
@@ -24,3 +26,4 @@ mail.pbl.nl
 msoid.pbl.nl
 connect.pbl.nl
 testconn.pbl.nl
+password.pbl.nl

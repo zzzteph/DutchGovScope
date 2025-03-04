@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/valys.nl/subdomains.txt)|11922|Alive subdomains|
-|[urls.txt](/data/valys.nl/urls.txt)|11922|Urls|
+|[subdomains.txt](/data/valys.nl/subdomains.txt)|12394|Alive subdomains|
+|[urls.txt](/data/valys.nl/urls.txt)|11920|Urls|
 
 
 ## Statistics
@@ -23,7 +23,6 @@
 |[https://valys.nl](https://valys.nl)| | **D**|Apache/2.4.52 (Ubuntu)|:o: |:white_check_mark: | | |:warning: | | | :white_check_mark: | |Apache HTTP Server:2.4.52 HSTS Ubuntu|301 Moved Perman...|
 |[https://www.valys.nl](https://www.valys.nl)| | **D**|Apache/2.4.52 (Ubuntu)|:o: |:white_check_mark: | | |:warning: | | | :white_check_mark: | |Apache HTTP Server:2.4.52 HSTS Ubuntu|Valys|
 |[https://ww.valys.nl](https://ww.valys.nl)| | **F**|Apache/2.4.52 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.52 HSTS Ubuntu|301 Moved Perman...|
-|[https://informatie.valys.nl](https://informatie.valys.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|404 Not Found|
 |[https://tran-web-ns001.valys.nl](https://tran-web-ns001.valys.nl)| | **F**|Apache/2.4.52 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.52 HSTS Ubuntu|301 Moved Perman...|
 |[https://valyswww.valys.nl](https://valyswww.valys.nl)| | **F**|Apache/2.4.52 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.52 HSTS Ubuntu|301 Moved Perman...|
 |[https://opwww.valys.nl](https://opwww.valys.nl)| | **F**|Apache/2.4.52 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.52 HSTS Ubuntu|301 Moved Perman...|
@@ -2199,7 +2198,6 @@
 |[https://coni.valys.nl](https://coni.valys.nl)| | **F**|Apache/2.4.52 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.52 HSTS Ubuntu|301 Moved Perman...|
 |[https://www-ow.valys.nl](https://www-ow.valys.nl)| | **F**|Apache/2.4.52 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.52 HSTS Ubuntu|301 Moved Perman...|
 |[https://timesheet.valys.nl](https://timesheet.valys.nl)| | **F**|Apache/2.4.52 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.52 HSTS Ubuntu|301 Moved Perman...|
-|[https://secim2014.valys.nl](https://secim2014.valys.nl)| | **F**|Apache/2.4.52 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.52 HSTS Ubuntu|301 Moved Perman...|
 |[https://signa.valys.nl](https://signa.valys.nl)| | **F**|Apache/2.4.52 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.52 HSTS Ubuntu|301 Moved Perman...|
 |[https://knabbel.valys.nl](https://knabbel.valys.nl)| | **F**|Apache/2.4.52 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.52 HSTS Ubuntu|301 Moved Perman...|
 |[https://exchange.api.valys.nl](https://exchange.api.valys.nl)| | **F**|Apache/2.4.52 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.52 HSTS Ubuntu|301 Moved Perman...|

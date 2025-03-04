@@ -177,6 +177,7 @@ mijnsap.rivm.nl
 modellenregister.rivm.nl
 nevo-online.rivm.nl
 nevo.rivm.nl
+nieuwsbrief.rivm.nl
 nivelform.rivm.nl
 nsl-monitoring.rivm.nl
 samenmeten.rivm.nl
@@ -242,7 +243,6 @@ www.typened-cpe-demo.rivm.nl
 gemini.rivm.nl
 www.lci.rivm.nl
 lims.rivm.nl
-lkvis.rivm.nl
 manveldapp-beheer.rivm.nl
 mcra.rivm.nl
 participantapi.vragenlijst-acc.rivm.nl

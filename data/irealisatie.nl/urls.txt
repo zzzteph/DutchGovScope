@@ -103,3 +103,5 @@ https://web.proeftuin.gf.irealisatie.nl
 http://prs-stub.proeftuin.gf.irealisatie.nl
 https://mcsd-supplier.proeftuin.gf.irealisatie.nl
 http://kat.acc.irealisatie.nl
+https://mcsd-consumer-admin.proeftuin.gf.irealisatie.nl
+https://mcsd-registratie-portaal.proeftuin.gf.irealisatie.nl

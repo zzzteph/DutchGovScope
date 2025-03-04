@@ -70,3 +70,4 @@ preprod.idselect.cultureelerfgoed.nl
 prd.archis.cultureelerfgoed.nl
 zaak.services.cultureelerfgoed.nl
 api-gateway.archis.cultureelerfgoed.nl
+client.archis.cultureelerfgoed.nl

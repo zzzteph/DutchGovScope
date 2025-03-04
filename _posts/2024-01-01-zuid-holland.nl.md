@@ -2,8 +2,8 @@
 layout: default
 title: "zuid-holland.nl"
 permalink: "/dutchgov/zuid-holland.nl.html"
-subdomains_count: 74
-urls_count: 74
+subdomains_count: 75
+urls_count: 75
 ssl_rank: 
 http_rank: B
 security_txt: 20
@@ -25,8 +25,8 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/zuid-holland.nl/subdomains.txt)|74|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/zuid-holland.nl/urls.txt)|74|Urls|
+|[subdomains.txt](/DutchGovScope/data/zuid-holland.nl/subdomains.txt)|75|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/zuid-holland.nl/urls.txt)|75|Urls|
 
 
 ## Statistics
@@ -78,6 +78,7 @@ tags: dutchgov
 |[https://monitor-klimaatadaptatie.zuid-holland.nl](https://monitor-klimaatadaptatie.zuid-holland.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| | | :white_check_mark: | |HSTS|Monitor Klimaat...|
 |[https://planregistratie-wonen.zuid-holland.nl](https://planregistratie-wonen.zuid-holland.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|ArcGIS Hub|
 |[https://monitorleefomgeving.zuid-holland.nl](https://monitorleefomgeving.zuid-holland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Azure Azure Front Door|Monitor Leefomge...|
+|[https://nieuwsbrief.zuid-holland.nl](https://nieuwsbrief.zuid-holland.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://omgevingsbeleid.zuid-holland.nl](https://omgevingsbeleid.zuid-holland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Azure Azure Front Door||
 |[https://omgevingsdocumenten.zuid-holland.nl](https://omgevingsdocumenten.zuid-holland.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|PlanoView|
 |[https://opendata.zuid-holland.nl](https://opendata.zuid-holland.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java||
@@ -107,6 +108,6 @@ tags: dutchgov
 |[https://lta-acc.zuid-holland.nl](https://lta-acc.zuid-holland.nl)| | **F**|Windows-Azure-Web/1.0 Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Azure HSTS Microsoft HTTPAPI:2.0|Lange-Termijn-Ag...|
 |[https://lta-tst.zuid-holland.nl](https://lta-tst.zuid-holland.nl)| | **F**|Windows-Azure-Web/1.0 Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Azure HSTS Microsoft HTTPAPI:2.0|Lange-Termijn-Ag...|
 |[https://geo-stats.zuid-holland.nl](https://geo-stats.zuid-holland.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|index|
-|[https://geo-tools.zuid-holland.nl](https://geo-tools.zuid-holland.nl)| | **B**|Microsoft-IIS/10.0|:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document|
+|[https://geo-tools.zuid-holland.nl](https://geo-tools.zuid-holland.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS IIS:10.0 Windows Server||
 
 

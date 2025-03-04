@@ -77,4 +77,4 @@ https://enterpriseregistration.test.flevoland.nl
 http://res.flevoland.nl
 https://msoid.flevoland.nl
 https://bezoekersdata.flevoland.nl
-http://data.flevoland.nl
+https://data.flevoland.nl

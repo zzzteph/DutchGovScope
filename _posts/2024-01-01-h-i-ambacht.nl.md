@@ -2,8 +2,8 @@
 layout: default
 title: "h-i-ambacht.nl"
 permalink: "/dutchgov/h-i-ambacht.nl.html"
-subdomains_count: 23
-urls_count: 22
+subdomains_count: 24
+urls_count: 23
 ssl_rank: 
 http_rank: A
 security_txt: 13
@@ -25,8 +25,8 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/h-i-ambacht.nl/subdomains.txt)|23|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/h-i-ambacht.nl/urls.txt)|22|Urls|
+|[subdomains.txt](/DutchGovScope/data/h-i-ambacht.nl/subdomains.txt)|24|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/h-i-ambacht.nl/urls.txt)|23|Urls|
 
 
 ## Statistics
@@ -56,5 +56,6 @@ tags: dutchgov
 |[https://web.h-i-ambacht.nl](https://web.h-i-ambacht.nl)| | **A**|nginx|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://hendrik-ido-ambacht-checker-preprod.h-i-ambacht.nl](https://hendrik-ido-ambacht-checker-preprod.h-i-ambacht.nl)| | **D**|nginx/1.27.2| | | | |:warning: | :white_check_mark: | | :white_check_mark: | |Google Cloud Google Cloud CDN HTTP/3 Nginx:1.27.2||
 |[https://hendrik-ido-ambacht-checker.h-i-ambacht.nl](https://hendrik-ido-ambacht-checker.h-i-ambacht.nl)| | **D**|nginx/1.27.2| | | | |:warning: | :white_check_mark: | | :white_check_mark: | |Google Cloud Google Cloud CDN HTTP/3 Nginx:1.27.2||
+|[https://gisibapi-test.h-i-ambacht.nl](https://gisibapi-test.h-i-ambacht.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |||
 
 

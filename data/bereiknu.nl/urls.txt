@@ -1,4 +1,3 @@
 https://www.bereiknu.nl
-https://intranet.bereiknu.nl
 http://test.bereiknu.nl
-https://www.intranet.bereiknu.nl
+http://www.intranet.bereiknu.nl

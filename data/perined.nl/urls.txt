@@ -12,6 +12,5 @@ https://evaluatie.perined.nl
 http://autodiscover.perined.nl
 http://localhost.perined.nl
 https://webmail.perined.nl
-https://registratie.perined.nl
 https://aanlevering.perined.nl
 https://aanlevering-tst.perined.nl

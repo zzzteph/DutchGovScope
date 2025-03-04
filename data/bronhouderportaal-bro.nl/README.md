@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/bronhouderportaal-bro.nl/subdomains.txt)|14|Alive subdomains|
-|[urls.txt](/data/bronhouderportaal-bro.nl/urls.txt)|14|Urls|
+|[subdomains.txt](/data/bronhouderportaal-bro.nl/subdomains.txt)|13|Alive subdomains|
+|[urls.txt](/data/bronhouderportaal-bro.nl/urls.txt)|13|Urls|
 
 
 ## Statistics
@@ -21,7 +21,6 @@
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://acc.bronhouderportaal-bro.nl](https://acc.bronhouderportaal-bro.nl)| | **C**|nginx/1.25.5|:white_check_mark: |:white_check_mark: | :warning:| |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS Nginx:1.25.5|Home | Bronhoude...|
-|[https://doc-acc.bronhouderportaal-bro.nl](https://doc-acc.bronhouderportaal-bro.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server||
 |[https://sso-acc-tno.bronhouderportaal-bro.nl](https://sso-acc-tno.bronhouderportaal-bro.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server||
 |[https://sso-acc2.bronhouderportaal-bro.nl](https://sso-acc2.bronhouderportaal-bro.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|403 Forbidden|
 |[https://broker-preprod.bronhouderportaal-bro.nl](https://broker-preprod.bronhouderportaal-bro.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||

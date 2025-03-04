@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/knaw.nl/subdomains.txt)|533|Alive subdomains|
-|[urls.txt](/data/knaw.nl/urls.txt)|532|Urls|
+|[subdomains.txt](/data/knaw.nl/subdomains.txt)|534|Alive subdomains|
+|[urls.txt](/data/knaw.nl/urls.txt)|533|Urls|
 
 
 ## Statistics
@@ -552,5 +552,6 @@
 |[https://bitwarden.knaw.nl](https://bitwarden.knaw.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server|301 Moved Perman...|
 |[http://mpadmin.meertens.knaw.nl](http://mpadmin.meertens.knaw.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|301 Moved Perman...|
 |[https://www.opgravingen.huygens.knaw.nl](https://www.opgravingen.huygens.knaw.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|302 Found|
+|[http://wfm.dev.huc.knaw.nl](http://wfm.dev.huc.knaw.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|301 Moved Perman...|
 
 

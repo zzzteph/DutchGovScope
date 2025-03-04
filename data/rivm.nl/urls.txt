@@ -177,6 +177,7 @@ https://mijnsap.rivm.nl
 https://modellenregister.rivm.nl
 https://nevo-online.rivm.nl
 https://nevo.rivm.nl
+https://nieuwsbrief.rivm.nl
 http://nivelform.rivm.nl
 https://nsl-monitoring.rivm.nl
 https://samenmeten.rivm.nl
@@ -242,7 +243,6 @@ http://www.typened-cpe-demo.rivm.nl
 http://gemini.rivm.nl
 https://www.lci.rivm.nl
 http://lims.rivm.nl
-http://lkvis.rivm.nl
 https://manveldapp-beheer.rivm.nl
 https://mcra.rivm.nl
 http://participantapi.vragenlijst-acc.rivm.nl

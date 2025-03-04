@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/perined.nl/subdomains.txt)|17|Alive subdomains|
-|[urls.txt](/data/perined.nl/urls.txt)|17|Urls|
+|[subdomains.txt](/data/perined.nl/subdomains.txt)|16|Alive subdomains|
+|[urls.txt](/data/perined.nl/urls.txt)|16|Urls|
 
 
 ## Statistics
@@ -34,7 +34,6 @@
 |[http://autodiscover.perined.nl](http://autodiscover.perined.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 |[http://localhost.perined.nl](http://localhost.perined.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
 |[https://webmail.perined.nl](https://webmail.perined.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Bootstrap Nginx PHP:7.4.33 RoundCube|Roundcube Webmai...|
-|[https://registratie.perined.nl](https://registratie.perined.nl)| | **A**||:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Nextcloud|
 |[https://aanlevering.perined.nl](https://aanlevering.perined.nl)| | **A**|Oracle API Gateway| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://aanlevering-tst.perined.nl](https://aanlevering-tst.perined.nl)| | **A**|Oracle API Gateway| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 

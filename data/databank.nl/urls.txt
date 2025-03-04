@@ -39,8 +39,11 @@ https://mbotransparant.databank.nl
 http://apollo.databank.nl
 http://demo-ebc.databank.nl
 https://ftgelderland.databank.nl
+https://beta-adc.databank.nl
+https://beta-klimaatbeleid.databank.nl
 https://beta-vivet.databank.nl
 https://beta-datawonen.databank.nl
+https://beta-klimaatmonitor.databank.nl
 https://beta-gdi.databank.nl
 https://beta-wsjg.databank.nl
 https://beta-woononderzoek.databank.nl
@@ -111,9 +114,9 @@ https://beta2-arbeidsmarktmobiliteit.databank.nl
 https://beta-aisnbtc.databank.nl
 https://beta-veiligheidsmonitor.databank.nl
 https://beta-cbc.databank.nl
+http://beta-icontrol.databank.nl
 https://cname-vakantieonderzoek-nbtc.databank.nl
 https://beta-energiecijfers.databank.nl
-https://beta-hr-sectorwaterschappen.databank.nl
 https://demo-primosinteractief.databank.nl
 https://beta-duurzamemobiliteit.databank.nl
 https://prognosemodelzw2022.databank.nl
@@ -121,7 +124,6 @@ https://test-zag.databank.nl
 http://cname-ebc.databank.nl
 https://aedesforecast.databank.nl
 https://accept-aedesforecast.databank.nl
-http://beta-nabb.databank.nl
 https://duurzaamdcmr.databank.nl
 https://beta-prognosemodelzw.databank.nl
 https://beta-nbtc.databank.nl
@@ -134,6 +136,7 @@ https://beta-mbotransparant.databank.nl
 https://povo.databank.nl
 https://lokaalklimaat.databank.nl
 https://beta-laadinfrastructuur.databank.nl
+http://prognosemodelzw2023.databank.nl
 https://duurzamemobiliteit.databank.nl
 https://wonenmetzorg.databank.nl
 https://beta-berst.databank.nl
@@ -145,10 +148,6 @@ https://www.procaros.databank.nl
 https://beta.cbc.databank.nl
 https://waves.databank.nl
 https://www.arbeidsmarkthoreca.databank.nl
-https://web10672.databank.nl
-https://kenya.databank.nl
-https://referral.databank.nl
-https://novokuybyshevsk.databank.nl
 https://archieven.databank.nl
 https://aedesterugkoppeling.databank.nl
 https://52f899ee-8923-43fb-bd69-93a6bbdd883b.databank.nl
@@ -167,7 +166,12 @@ https://cname-beta-adc.databank.nl
 https://www.diversiteitsin-dex.databank.nl
 https://beta-benchmark-mbotransparant.databank.nl
 https://2b3170eb-a6cc-4591-ad9a-3272b2f88e3b.databank.nl
-https://lyncdiscoverinternal.ad.databank.nl
-https://sender1.databank.nl
-https://cullen.databank.nl
-https://someren.databank.nl
+https://cname-terugkoppeling-adc.databank.nl
+https://cname-impactmonitortoerisme-nbtc.databank.nl
+https://dsviewer-test2.databank.nl
+https://dsviewer-test1.databank.nl
+http://cname-demo-ebc.databank.nl
+https://prognosemodelzw2021.databank.nl
+https://arbeidsmarktoomt.databank.nl
+https://bronnenbeheer.databank.nl
+https://beta-ftgelderland.databank.nl

@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/telmeemettaal.nl/subdomains.txt)|5|Alive subdomains|
+|[subdomains.txt](/data/telmeemettaal.nl/subdomains.txt)|1|Alive subdomains|
 |[urls.txt](/data/telmeemettaal.nl/urls.txt)|1|Urls|
 
 

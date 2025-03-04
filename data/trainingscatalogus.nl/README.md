@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:D
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:41
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:43
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/trainingscatalogus.nl/subdomains.txt)|136|Alive subdomains|
-|[urls.txt](/data/trainingscatalogus.nl/urls.txt)|133|Urls|
+|[urls.txt](/data/trainingscatalogus.nl/urls.txt)|136|Urls|
 
 
 ## Statistics
@@ -153,5 +153,8 @@
 |[https://parnassialeeromgeving.trainingscatalogus.nl](https://parnassialeeromgeving.trainingscatalogus.nl)| | **D**|Apache|:warning: |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS Moodle PHP:8.1.31|Startpagina | Pa...|
 |[https://pbo.trainingscatalogus.nl](https://pbo.trainingscatalogus.nl)| | **C**|Class|:white_check_mark: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://rbo-a.trainingscatalogus.nl](https://rbo-a.trainingscatalogus.nl)| | **C**|Class|:white_check_mark: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://ind-a.trainingscatalogus.nl](https://ind-a.trainingscatalogus.nl)| | **C**|Class|:white_check_mark: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://ciz-a.trainingscatalogus.nl](https://ciz-a.trainingscatalogus.nl)| | **C**|Class|:white_check_mark: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://rabobank-lms-a.trainingscatalogus.nl](https://rabobank-lms-a.trainingscatalogus.nl)| | **A**|Class|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Access is denied...|
 
 

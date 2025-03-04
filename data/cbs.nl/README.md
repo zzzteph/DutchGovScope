@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/cbs.nl/subdomains.txt)|181|Alive subdomains|
-|[urls.txt](/data/cbs.nl/urls.txt)|178|Urls|
+|[subdomains.txt](/data/cbs.nl/subdomains.txt)|182|Alive subdomains|
+|[urls.txt](/data/cbs.nl/urls.txt)|180|Urls|
 
 
 ## Statistics
@@ -198,5 +198,7 @@
 |[https://iv3-controle.beta.cbs.nl](https://iv3-controle.beta.cbs.nl)| | **C**|envoy| |:white_check_mark: | | | | | | :white_check_mark: | |Bootstrap Envoy HSTS|Check iv3|
 |[https://beta-iv3-controle.cbs.nl](https://beta-iv3-controle.cbs.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://smartsurveys.cbs.nl](https://smartsurveys.cbs.nl)| | **F**|envoy| | | | | | | | :white_check_mark: | |Envoy HSTS||
+|[http://topdesk.cbs.nl](http://topdesk.cbs.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://almere.cbs.nl](https://almere.cbs.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|IIS Windows Serv...|
 
 

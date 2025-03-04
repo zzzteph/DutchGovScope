@@ -5,7 +5,6 @@ feeds.registersocialehygiene.nl
 opendata.registersocialehygiene.nl
 registersocialehygiene.nl
 www.registersocialehygiene.nl
-mijn.registersocialehygiene.nl
 zoeken.registersocialehygiene.nl
 acceptatie.mijn.registersocialehygiene.nl
 acceptatie.beheer.registersocialehygiene.nl

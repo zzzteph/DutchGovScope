@@ -1,4 +1,2 @@
-bibliotheek.gezondeleefomgeving.nl
-gezondeleefomgeving.nl
 www.gezondeleefomgeving.nl
 localhost.gezondeleefomgeving.nl

@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/rws.nl/subdomains.txt)|155|Alive subdomains|
-|[urls.txt](/data/rws.nl/urls.txt)|153|Urls|
+|[subdomains.txt](/data/rws.nl/subdomains.txt)|157|Alive subdomains|
+|[urls.txt](/data/rws.nl/urls.txt)|155|Urls|
 
 
 ## Statistics
@@ -70,6 +70,8 @@
 |[https://port-enc.rws.nl](https://port-enc.rws.nl)| | **C**|Kestrel|:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Kestrel Microsoft ASP.NET||
 |[https://standaarden.rws.nl](https://standaarden.rws.nl)| | **B**|nginx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Nginx|Standaarden RWS|
 |[https://beterbediend.rws.nl](https://beterbediend.rws.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|Beter Bediend|
+|[https://bezoekerscentrum.rws.nl](https://bezoekerscentrum.rws.nl)| | **C**|nginx|:white_check_mark: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS MySQL Nginx PHP SDL Tridion W3 Total Cache WordPress Yoast SEO:23.6|Bezoekerscentrum...|
+|[https://test.bezoekerscentrum.rws.nl](https://test.bezoekerscentrum.rws.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS MySQL Nginx PHP SDL Tridion W3 Total Cache WordPress Yoast SEO:23.6|Bezoekerscentrum...|
 |[https://cmgrws.rws.nl](https://cmgrws.rws.nl)| | **B**|Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS IIS:10.0 Windows Server||
 |[https://crisiswerkplek.rws.nl](https://crisiswerkplek.rws.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET||
 |[https://ctd.rws.nl](https://ctd.rws.nl)| | **E**|| | | | | | | | :white_check_mark: | |Azure Azure Front Door||

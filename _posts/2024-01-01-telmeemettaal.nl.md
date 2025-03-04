@@ -2,7 +2,7 @@
 layout: default
 title: "telmeemettaal.nl"
 permalink: "/dutchgov/telmeemettaal.nl.html"
-subdomains_count: 5
+subdomains_count: 1
 urls_count: 1
 ssl_rank: 
 http_rank: F
@@ -25,7 +25,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/telmeemettaal.nl/subdomains.txt)|5|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/telmeemettaal.nl/subdomains.txt)|1|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/telmeemettaal.nl/urls.txt)|1|Urls|
 
 

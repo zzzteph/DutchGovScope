@@ -131,3 +131,6 @@ https://lms-rotterdam.trainingscatalogus.nl
 https://parnassialeeromgeving.trainingscatalogus.nl
 https://pbo.trainingscatalogus.nl
 https://rbo-a.trainingscatalogus.nl
+https://ind-a.trainingscatalogus.nl
+https://ciz-a.trainingscatalogus.nl
+https://rabobank-lms-a.trainingscatalogus.nl

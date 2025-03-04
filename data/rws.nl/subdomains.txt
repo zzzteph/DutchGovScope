@@ -48,6 +48,8 @@ getij.rws.nl
 port-enc.rws.nl
 standaarden.rws.nl
 beterbediend.rws.nl
+bezoekerscentrum.rws.nl
+test.bezoekerscentrum.rws.nl
 cmgrws.rws.nl
 crisiswerkplek.rws.nl
 ctd.rws.nl

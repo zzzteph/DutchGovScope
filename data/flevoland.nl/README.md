@@ -5,7 +5,7 @@
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:C
+ - **HTTP Security Grade**:D
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:24
 
 
@@ -99,6 +99,6 @@
 |[http://res.flevoland.nl](http://res.flevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://msoid.flevoland.nl](https://msoid.flevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
 |[https://bezoekersdata.flevoland.nl](https://bezoekersdata.flevoland.nl)| | **D**|Apache|:o: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS MySQL PHP:7.4.33 WordPress Yoast SEO:24.4|Home - VDM Flevo...|
-|[http://data.flevoland.nl](http://data.flevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://data.flevoland.nl](https://data.flevoland.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Windows Server||
 
 

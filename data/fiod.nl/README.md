@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/fiod.nl/subdomains.txt)|5|Alive subdomains|
-|[urls.txt](/data/fiod.nl/urls.txt)|4|Urls|
+|[urls.txt](/data/fiod.nl/urls.txt)|5|Urls|
 
 
 ## Statistics
@@ -24,5 +24,6 @@
 |[https://www.fiod.nl](https://www.fiod.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS MySQL PHP WordPress Yoast SEO Premium:24.3 Yoast SEO:24.3|Home | FIOD|
 |[https://platformafpakken.fiod.nl](https://platformafpakken.fiod.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS MySQL PHP WordPress Yoast SEO Premium:24.3 Yoast SEO:24.3|Home | Platforma...|
 |[https://kennis.fiod.nl](https://kennis.fiod.nl)| | **B**||:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://adobe-analytics-dc.fiod.nl](https://adobe-analytics-dc.fiod.nl)| | **B**|jag| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS||
 
 

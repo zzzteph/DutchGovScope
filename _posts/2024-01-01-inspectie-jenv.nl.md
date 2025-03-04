@@ -3,7 +3,7 @@ layout: default
 title: "inspectie-jenv.nl"
 permalink: "/dutchgov/inspectie-jenv.nl.html"
 subdomains_count: 8
-urls_count: 7
+urls_count: 8
 ssl_rank: 
 http_rank: A
 security_txt: 7
@@ -26,7 +26,7 @@ tags: dutchgov
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/inspectie-jenv.nl/subdomains.txt)|8|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/inspectie-jenv.nl/urls.txt)|7|Urls|
+|[urls.txt](/DutchGovScope/data/inspectie-jenv.nl/urls.txt)|8|Urls|
 
 
 ## Statistics
@@ -41,5 +41,6 @@ tags: dutchgov
 |[https://jip.inspectie-jenv.nl](https://jip.inspectie-jenv.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Apache HTTP Server HSTS||
 |[https://zaaksysteem-acc.inspectie-jenv.nl](https://zaaksysteem-acc.inspectie-jenv.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Moved|
 |[https://zaaksysteem.inspectie-jenv.nl](https://zaaksysteem.inspectie-jenv.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Moved|
+|[https://meldpuntwki.inspectie-jenv.nl](https://meldpuntwki.inspectie-jenv.nl)| | **E**|| | | | | | | | :white_check_mark: | |Azure Azure Front Door HSTS|Meldpunt Wet kwa...|
 
 

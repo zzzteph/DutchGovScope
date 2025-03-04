@@ -2,7 +2,7 @@
 layout: default
 title: "rijksfinancien.nl"
 permalink: "/dutchgov/rijksfinancien.nl.html"
-subdomains_count: 7
+subdomains_count: 9
 urls_count: 7
 ssl_rank: 
 http_rank: A
@@ -25,7 +25,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/rijksfinancien.nl/subdomains.txt)|7|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/rijksfinancien.nl/subdomains.txt)|9|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/rijksfinancien.nl/urls.txt)|7|Urls|
 
 

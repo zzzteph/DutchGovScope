@@ -3,7 +3,7 @@ layout: default
 title: "nederlandwereldwijd.nl"
 permalink: "/dutchgov/nederlandwereldwijd.nl.html"
 subdomains_count: 17
-urls_count: 13
+urls_count: 14
 ssl_rank: 
 http_rank: B
 security_txt: 5
@@ -26,7 +26,7 @@ tags: dutchgov
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/nederlandwereldwijd.nl/subdomains.txt)|17|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/nederlandwereldwijd.nl/urls.txt)|13|Urls|
+|[urls.txt](/DutchGovScope/data/nederlandwereldwijd.nl/urls.txt)|14|Urls|
 
 
 ## Statistics
@@ -46,6 +46,7 @@ tags: dutchgov
 |[https://www.nederlandwereldwijd.nl](https://www.nederlandwereldwijd.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Bloomreach HSTS HTTP/3|Home | Nederland...|
 |[https://a-informatieservice.nederlandwereldwijd.nl](https://a-informatieservice.nederlandwereldwijd.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Web App - Unavai...|
 |[https://dev.opendata.nederlandwereldwijd.nl](https://dev.opendata.nederlandwereldwijd.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Access Denied|
+|[https://a-www.nederlandwereldwijd.nl](https://a-www.nederlandwereldwijd.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS HTTP/3||
 |[https://dev.informatieservice.nederlandwereldwijd.nl](https://dev.informatieservice.nederlandwereldwijd.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Web App - Unavai...|
 
 

@@ -3,10 +3,10 @@ layout: default
 title: "irealisatie.nl"
 permalink: "/dutchgov/irealisatie.nl.html"
 subdomains_count: 107
-urls_count: 105
+urls_count: 107
 ssl_rank: 
 http_rank: B
-security_txt: 83
+security_txt: 85
 url_link: /data/irealisatie.nl/urls.txt
 subdomains_link: /data/irealisatie.nl/subdomains.txt
 categories: dutchgov
@@ -20,13 +20,13 @@ tags: dutchgov
 
  - **SSL Grade**:
  - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:83
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:85
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/irealisatie.nl/subdomains.txt)|107|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/irealisatie.nl/urls.txt)|105|Urls|
+|[urls.txt](/DutchGovScope/data/irealisatie.nl/urls.txt)|107|Urls|
 
 
 ## Statistics
@@ -139,5 +139,7 @@ tags: dutchgov
 |[http://prs-stub.proeftuin.gf.irealisatie.nl](http://prs-stub.proeftuin.gf.irealisatie.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://mcsd-supplier.proeftuin.gf.irealisatie.nl](https://mcsd-supplier.proeftuin.gf.irealisatie.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Basic HSTS|401 Unauthorized|
 |[http://kat.acc.irealisatie.nl](http://kat.acc.irealisatie.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://mcsd-consumer-admin.proeftuin.gf.irealisatie.nl](https://mcsd-consumer-admin.proeftuin.gf.irealisatie.nl)| | **A**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Basic HSTS|401 Unauthorized|
+|[https://mcsd-registratie-portaal.proeftuin.gf.irealisatie.nl](https://mcsd-registratie-portaal.proeftuin.gf.irealisatie.nl)| | **A**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server Basic HSTS|401 Unauthorized|
 
 

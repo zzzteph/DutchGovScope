@@ -3,6 +3,7 @@ beeldbank.hhdelfland.nl
 beeldbank-bo.hhdelfland.nl
 burgerloket.hhdelfland.nl
 connect.hhdelfland.nl
+dms.hhdelfland.nl
 geoviewerhhd.hhdelfland.nl
 geo.hhdelfland.nl
 geoportaalhhd.hhdelfland.nl

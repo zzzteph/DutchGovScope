@@ -531,3 +531,4 @@ bitwarden.knaw.nl
 mpadmin.meertens.knaw.nl
 www.opgravingen.huygens.knaw.nl
 wfm.dev.huc.knaw.nl
+beeldenbank.meertens.knaw.nl

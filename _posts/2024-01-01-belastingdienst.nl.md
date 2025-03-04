@@ -3,7 +3,7 @@ layout: default
 title: "belastingdienst.nl"
 permalink: "/dutchgov/belastingdienst.nl.html"
 subdomains_count: 116
-urls_count: 113
+urls_count: 114
 ssl_rank: 
 http_rank: B
 security_txt: 56
@@ -26,7 +26,7 @@ tags: dutchgov
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/belastingdienst.nl/subdomains.txt)|116|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/belastingdienst.nl/urls.txt)|113|Urls|
+|[urls.txt](/DutchGovScope/data/belastingdienst.nl/urls.txt)|114|Urls|
 
 
 ## Statistics
@@ -147,5 +147,6 @@ tags: dutchgov
 |[https://vts.belastingdienst.nl](https://vts.belastingdienst.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Online diensten...|
 |[https://werkenbij.belastingdienst.nl](https://werkenbij.belastingdienst.nl)| | **F**|Ponos Maximum| | | | | | | | :white_check_mark: | |HSTS|418 I'm a teapot|
 |[https://werkenbijde.belastingdienst.nl](https://werkenbijde.belastingdienst.nl)| | **F**|Ponos Maximum| | | | | | | | :white_check_mark: | |HSTS|418 I'm a teapot|
+|[https://msnp-tegemoetkoming.belastingdienst.nl](https://msnp-tegemoetkoming.belastingdienst.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 
 

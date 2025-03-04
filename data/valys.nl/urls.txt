@@ -1,7 +1,6 @@
 https://valys.nl
 https://www.valys.nl
 https://ww.valys.nl
-https://informatie.valys.nl
 https://tran-web-ns001.valys.nl
 https://valyswww.valys.nl
 https://opwww.valys.nl
@@ -2177,7 +2176,6 @@ https://nnc.valys.nl
 https://coni.valys.nl
 https://www-ow.valys.nl
 https://timesheet.valys.nl
-https://secim2014.valys.nl
 https://signa.valys.nl
 https://knabbel.valys.nl
 https://exchange.api.valys.nl

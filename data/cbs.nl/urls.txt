@@ -176,3 +176,5 @@ https://livecharts.cbs.nl
 https://iv3-controle.beta.cbs.nl
 https://beta-iv3-controle.cbs.nl
 https://smartsurveys.cbs.nl
+http://topdesk.cbs.nl
+https://almere.cbs.nl

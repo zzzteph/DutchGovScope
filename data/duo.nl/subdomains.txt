@@ -22,4 +22,5 @@ xbrlonderwijsportaal.duo.nl
 zakelijk.duo.nl
 congres.duo.nl
 events.duo.nl
+vt-tableau.duo.nl
 mail.onderzoek.duo.nl

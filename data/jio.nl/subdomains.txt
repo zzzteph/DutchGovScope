@@ -1,7 +1,10 @@
 jio.nl
 gki.jio.nl
 mimamcor01.jio.nl
+meet.jio.nl
 www.jio.nl
-videomeeting.jio.nl
+manage-meet.jio.nl
+proxy-meet.jio.nl
+scalelite-meet.jio.nl
 mimamcor01-ot.jio.nl
 rca.jio.nl

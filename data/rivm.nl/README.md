@@ -199,6 +199,7 @@
 |[https://modellenregister.rivm.nl](https://modellenregister.rivm.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx|403 Forbidden|
 |[https://nevo-online.rivm.nl](https://nevo-online.rivm.nl)| | **C**|Microsoft-IIS/10.0|:warning: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |Bootstrap:4 HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Nederlands Voedi...|
 |[https://nevo.rivm.nl](https://nevo.rivm.nl)| | **C**|Microsoft-IIS/10.0|:warning: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |Bootstrap:4 HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Nederlands Voedi...|
+|[https://nieuwsbrief.rivm.nl](https://nieuwsbrief.rivm.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[http://nivelform.rivm.nl](http://nivelform.rivm.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://nsl-monitoring.rivm.nl](https://nsl-monitoring.rivm.nl)| | **A**|Apache/2.4.6 (Red Hat Enterprise Linux) OpenSSL/1.0.2k-fips PHP/5.4.16| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server:2.4.6 HSTS OpenSSL:1.0.2k PHP:5.4.16 Red Hat|302 Found|
 |[https://samenmeten.rivm.nl](https://samenmeten.rivm.nl)| | **B**|Apache/2.4.6 (Red Hat Enterprise Linux) OpenSSL/1.0.2k-fips PHP/5.4.16| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2.4.6 HSTS OpenSSL:1.0.2k PHP:5.4.16 Red Hat||
@@ -264,7 +265,6 @@
 |[http://gemini.rivm.nl](http://gemini.rivm.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://www.lci.rivm.nl](https://www.lci.rivm.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
 |[http://lims.rivm.nl](http://lims.rivm.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[http://lkvis.rivm.nl](http://lkvis.rivm.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://manveldapp-beheer.rivm.nl](https://manveldapp-beheer.rivm.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |HSTS Nginx|Mendix|
 |[https://mcra.rivm.nl](https://mcra.rivm.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server||
 |[http://participantapi.vragenlijst-acc.rivm.nl](http://participantapi.vragenlijst-acc.rivm.nl)| | **E**|| | | | | | | | :white_check_mark: | |||

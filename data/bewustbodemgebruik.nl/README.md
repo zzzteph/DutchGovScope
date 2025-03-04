@@ -6,7 +6,7 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:F
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:3
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:4
 
 
 | File       | Count | Info |
@@ -23,7 +23,7 @@
 |[https://bewustbodemgebruik.nl](https://bewustbodemgebruik.nl)| | **E**|nginx| | | | | | | :white_check_mark: | :white_check_mark: | |MySQL Nginx PHP WordPress|Bewust Bodemgebr...|
 |[http://mail.bewustbodemgebruik.nl](http://mail.bewustbodemgebruik.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
 |[https://www.bewustbodemgebruik.nl](https://www.bewustbodemgebruik.nl)| | **E**|nginx| | | | | | | :white_check_mark: | :white_check_mark: | |Nginx SiteGround||
-|[https://ftp.bewustbodemgebruik.nl](https://ftp.bewustbodemgebruik.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|This is the defa...|
+|[http://ftp.bewustbodemgebruik.nl](http://ftp.bewustbodemgebruik.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
 |[https://ssh.bewustbodemgebruik.nl](https://ssh.bewustbodemgebruik.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|This is the defa...|
 |[https://autoconfig.bewustbodemgebruik.nl](https://autoconfig.bewustbodemgebruik.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|This is the defa...|
 |[https://autodiscover.bewustbodemgebruik.nl](https://autodiscover.bewustbodemgebruik.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|This is the defa...|

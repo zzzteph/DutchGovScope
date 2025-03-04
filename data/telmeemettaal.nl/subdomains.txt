@@ -1,5 +1,1 @@
-opendata.telmeemettaal.nl
-telmeemettaal.nl
-www.telmeemettaal.nl
-feeds.telmeemettaal.nl
 mail.telmeemettaal.nl

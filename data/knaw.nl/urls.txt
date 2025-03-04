@@ -530,3 +530,4 @@ https://faireva.labs.dans.knaw.nl
 https://bitwarden.knaw.nl
 http://mpadmin.meertens.knaw.nl
 https://www.opgravingen.huygens.knaw.nl
+http://wfm.dev.huc.knaw.nl

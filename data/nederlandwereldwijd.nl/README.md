@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/nederlandwereldwijd.nl/subdomains.txt)|17|Alive subdomains|
-|[urls.txt](/data/nederlandwereldwijd.nl/urls.txt)|13|Urls|
+|[urls.txt](/data/nederlandwereldwijd.nl/urls.txt)|14|Urls|
 
 
 ## Statistics
@@ -32,6 +32,7 @@
 |[https://www.nederlandwereldwijd.nl](https://www.nederlandwereldwijd.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Bloomreach HSTS HTTP/3|Home | Nederland...|
 |[https://a-informatieservice.nederlandwereldwijd.nl](https://a-informatieservice.nederlandwereldwijd.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Web App - Unavai...|
 |[https://dev.opendata.nederlandwereldwijd.nl](https://dev.opendata.nederlandwereldwijd.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Access Denied|
+|[https://a-www.nederlandwereldwijd.nl](https://a-www.nederlandwereldwijd.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS HTTP/3||
 |[https://dev.informatieservice.nederlandwereldwijd.nl](https://dev.informatieservice.nederlandwereldwijd.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Web App - Unavai...|
 
 

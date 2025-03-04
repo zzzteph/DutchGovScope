@@ -7,8 +7,13 @@ begroting.brabant.nl
 bevolkingsprognose.brabant.nl
 bevolkingsprognose2020.brabant.nl
 blogs.brabant.nl
+brabant.nl
+brainps.brabant.nl
+english.brabant.nl
+www.brabant.nl
 brains-acc.brabant.nl
 brains.brabant.nl
+bzv-a.brabant.nl
 bzv.brabant.nl
 ondertekenen.brabant.nl
 ondertekenentst.brabant.nl
@@ -54,6 +59,7 @@ draf-acpt.brabant.nl
 draf.brabant.nl
 esb-test.brabant.nl
 opendata.brabant.nl
+samenwerken.brabant.nl
 facilitor.brabant.nl
 kaartbank.brabant.nl
 kaarten.brabant.nl

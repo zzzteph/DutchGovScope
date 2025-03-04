@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/cultureelerfgoed.nl/subdomains.txt)|72|Alive subdomains|
+|[subdomains.txt](/data/cultureelerfgoed.nl/subdomains.txt)|73|Alive subdomains|
 |[urls.txt](/data/cultureelerfgoed.nl/urls.txt)|72|Urls|
 
 
