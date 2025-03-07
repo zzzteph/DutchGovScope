@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/knmi.nl/subdomains.txt)|59|Alive subdomains|
-|[urls.txt](/data/knmi.nl/urls.txt)|59|Urls|
+|[subdomains.txt](/data/knmi.nl/subdomains.txt)|58|Alive subdomains|
+|[urls.txt](/data/knmi.nl/urls.txt)|58|Urls|
 
 
 ## Statistics
@@ -76,7 +76,6 @@
 |[https://wow.knmi.nl](https://wow.knmi.nl)| | **B**|nginx| |:white_check_mark: | | |:warning: | | | :white_check_mark: | |Bootstrap HSTS Nginx|WOW-NL: Jouw wee...|
 |[https://cms-origin.klimaatscenarios-data.knmi.nl](https://cms-origin.klimaatscenarios-data.knmi.nl)| | **F**|awselb/2.0| | | | | | | | :white_check_mark: | |Amazon ELB Amazon Web Services||
 |[https://testgeoservices.knmi.nl](https://testgeoservices.knmi.nl)| | **F**|uvicorn| | | | | | | | :white_check_mark: | |HSTS Python Uvicorn||
-|[https://hapi.acc.spaceweather.knmi.nl](https://hapi.acc.spaceweather.knmi.nl)| | **F**|Apache/2.4.58 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.58 Ubuntu|Apache2 Ubuntu D...|
 |[https://hapi.spaceweather.knmi.nl](https://hapi.spaceweather.knmi.nl)| | **F**|Apache/2.4.58 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.58 Ubuntu|Apache2 Ubuntu D...|
 |[https://cabauw.knmi.nl](https://cabauw.knmi.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Redirecting to h...|
 

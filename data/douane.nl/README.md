@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/douane.nl/subdomains.txt)|12|Alive subdomains|
-|[urls.txt](/data/douane.nl/urls.txt)|11|Urls|
+|[urls.txt](/data/douane.nl/urls.txt)|12|Urls|
 
 
 ## Statistics
@@ -31,5 +31,6 @@
 |[https://validationcalculationtest.douane.nl](https://validationcalculationtest.douane.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IBM DataPower||
 |[https://werken.douane.nl](https://werken.douane.nl)| | **A**|Ponos Maximum|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Werken bij de Do...|
 |[https://werkenbij.douane.nl](https://werkenbij.douane.nl)| | **A**|Ponos Maximum|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
+|[https://adobe-analytics-dc.douane.nl](https://adobe-analytics-dc.douane.nl)| | **B**|jag| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS||
 
 

@@ -3,6 +3,8 @@ https://acc-open-wave.odijmond.nl
 http://autodiscover.odijmond.nl
 https://gisviewer.odijmond.nl
 http://www.odijmond.nl
+http://intranet.odijmond.nl
+http://redactie.odijmond.nl
 https://join.odijmond.nl
 https://rd.odijmond.nl
 https://vpn.odijmond.nl

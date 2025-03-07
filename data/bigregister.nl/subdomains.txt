@@ -8,7 +8,6 @@ acceptatie.zoeken.bigregister.nl
 advieswijzer.bigregister.nl
 api.bigregister.nl
 beheer.bigregister.nl
-webservices.bigregister.nl
 opendata.english.bigregister.nl
 www.bigregister.nl
 bigregister.nl

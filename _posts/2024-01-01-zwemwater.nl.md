@@ -3,7 +3,7 @@ layout: default
 title: "zwemwater.nl"
 permalink: "/dutchgov/zwemwater.nl.html"
 subdomains_count: 96
-urls_count: 92
+urls_count: 96
 ssl_rank: 
 http_rank: E
 security_txt: 8
@@ -26,7 +26,7 @@ tags: dutchgov
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/zwemwater.nl/subdomains.txt)|96|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/zwemwater.nl/urls.txt)|92|Urls|
+|[urls.txt](/DutchGovScope/data/zwemwater.nl/urls.txt)|96|Urls|
 
 
 ## Statistics
@@ -126,5 +126,9 @@ tags: dutchgov
 |[https://prophet.zwemwater.nl](https://prophet.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 |[https://api.map.zwemwater.nl](https://api.map.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 |[https://bebi.zwemwater.nl](https://bebi.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://smashingpumpkins.zwemwater.nl](https://smashingpumpkins.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://trackit.zwemwater.nl](https://trackit.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://kleurboek.zwemwater.nl](https://kleurboek.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
+|[https://ocado.zwemwater.nl](https://ocado.zwemwater.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|302 Found|
 
 

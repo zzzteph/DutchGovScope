@@ -3,3 +3,4 @@ https://webmail.ofgv.nl
 https://kenniscentrum.ofgv.nl
 https://enterpriseenrollment.ofgv.nl
 https://enterpriseregistration.ofgv.nl
+http://ftp.ofgv.nl

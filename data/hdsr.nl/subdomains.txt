@@ -22,3 +22,4 @@ remote-pa.hdsr.nl
 ftp-hdsr.hdsr.nl
 fme.hdsr.nl
 localhost.hdsr.nl
+alerting.hdsr.nl

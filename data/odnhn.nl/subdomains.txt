@@ -8,7 +8,7 @@ liquit.odnhn.nl
 mailing.odnhn.nl
 odnhn.nl
 www.odnhn.nl
-test-cmsintranet.odnhn.nl
+test-intranet.odnhn.nl
 vpn.odnhn.nl
 autodiscover.odnhn.nl
 email.odnhn.nl

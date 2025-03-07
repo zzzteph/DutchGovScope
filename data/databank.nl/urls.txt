@@ -91,10 +91,6 @@ https://inspectie-oe.databank.nl
 https://www.nederlandschoon.databank.nl
 https://stap.databank.nl
 https://www.gip.databank.nl
-https://www.ivm11.databank.nl
-https://live-waves.databank.nl
-https://holland-rijnland.databank.nl
-https://test-prognosemodelzw.databank.nl
 https://wsjg.databank.nl
 https://overijssel.databank.nl
 https://www.veiligheidsmonitor.databank.nl
@@ -153,6 +149,7 @@ https://aedesterugkoppeling.databank.nl
 https://52f899ee-8923-43fb-bd69-93a6bbdd883b.databank.nl
 https://wonenbreburg.en.databank.nl
 https://cname-forecast-adc.databank.nl
+http://beta-ais.databank.nl
 https://www.crow.databank.nl
 https://monitor-ow-en-wkb.databank.nl
 https://beta-primostijdreeks.databank.nl

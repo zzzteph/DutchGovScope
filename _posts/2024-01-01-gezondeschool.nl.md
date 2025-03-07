@@ -5,8 +5,8 @@ permalink: "/dutchgov/gezondeschool.nl.html"
 subdomains_count: 15
 urls_count: 15
 ssl_rank: 
-http_rank: E
-security_txt: 2
+http_rank: D
+security_txt: 1
 url_link: /data/gezondeschool.nl/urls.txt
 subdomains_link: /data/gezondeschool.nl/subdomains.txt
 categories: dutchgov
@@ -19,8 +19,8 @@ tags: dutchgov
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:E
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
+ - **HTTP Security Grade**:D
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:1
 
 
 | File       | Count | Info |
@@ -46,7 +46,7 @@ tags: dutchgov
 |[http://localhost.gezondeschool.nl](http://localhost.gezondeschool.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
 |[https://msoid.gezondeschool.nl](https://msoid.gezondeschool.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
 |[https://aandeslag.gezondeschool.nl](https://aandeslag.gezondeschool.nl)| | **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx Node.js Nuxt.js Vue.js||
-|[https://cms.gezondeschool.nl](https://cms.gezondeschool.nl)| | **C**|nginx| |:white_check_mark: | :warning:| | | :white_check_mark: | | :white_check_mark: | |Drupal:10 HSTS Nginx PHP|Home | Gezonde S...|
+|[https://cms.gezondeschool.nl](https://cms.gezondeschool.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal:10 HSTS Nginx PHP|Home | Gezonde S...|
 |[https://www.cms.gezondeschool.nl](https://www.cms.gezondeschool.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx||
 |[https://www.aandeslag.gezondeschool.nl](https://www.aandeslag.gezondeschool.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|301 Moved Perman...|
 

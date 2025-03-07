@@ -168,6 +168,8 @@ bouw.omgevingswet.overheid.nl
 brk.basisregistraties.overheid.nl
 brk.test.basisregistraties.overheid.nl
 brt.basisregistraties.overheid.nl
+cbm.demo.mijn.overheid.nl
+cbm.mijn.overheid.nl
 cbm.preprod.mijn.overheid.nl
 preprod.mijn.overheid.nl
 cloudstorage-koop.overheid.nl
@@ -196,6 +198,7 @@ zoekservice.overheid.nl
 doculoket.overheid.nl
 standaarden.overheid.nl
 decentraleregelgeving.overheid.nl
+demo.mijn.overheid.nl
 digilab.overheid.nl
 drop-api.overheid.nl
 oproepingen.overheid.nl
@@ -307,6 +310,9 @@ repository-preprod.overheid.nl
 lvbb-lto.overheid.nl
 developer.omgevingswet.overheid.nl
 dse.lx.overheid.nl
+cia.ondernemersplein.overheid.nl
+cmsgui.ondernemersplein.overheid.nl
+cia.staging.ondernemersplein.overheid.nl
 cia.acp.ondernemersplein.overheid.nl
 cia.tst.ondernemersplein.overheid.nl
 api.developer.overheid.nl

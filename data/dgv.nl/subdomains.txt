@@ -1,4 +1,2 @@
-feeds.dgv.nl
-opendata.dgv.nl
 www.dgv.nl
 dgv.nl

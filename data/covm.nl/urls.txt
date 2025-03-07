@@ -1,5 +1,3 @@
 https://www.covm.nl
 https://covm.nl
-https://opendata.covm.nl
-https://feeds.covm.nl
 http://autodiscover.covm.nl

@@ -1,4 +1,2 @@
-feeds.overkernenergie.nl
-opendata.overkernenergie.nl
 www.overkernenergie.nl
 overkernenergie.nl

@@ -1,5 +1,3 @@
 www.covm.nl
 covm.nl
-opendata.covm.nl
-feeds.covm.nl
 autodiscover.covm.nl

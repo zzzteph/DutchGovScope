@@ -90,3 +90,7 @@ https://redox.zwemwater.nl
 https://prophet.zwemwater.nl
 https://api.map.zwemwater.nl
 https://bebi.zwemwater.nl
+https://smashingpumpkins.zwemwater.nl
+https://trackit.zwemwater.nl
+https://kleurboek.zwemwater.nl
+https://ocado.zwemwater.nl

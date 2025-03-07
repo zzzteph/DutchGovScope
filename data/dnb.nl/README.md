@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/dnb.nl/subdomains.txt)|132|Alive subdomains|
-|[urls.txt](/data/dnb.nl/urls.txt)|132|Urls|
+|[subdomains.txt](/data/dnb.nl/subdomains.txt)|125|Alive subdomains|
+|[urls.txt](/data/dnb.nl/urls.txt)|125|Urls|
 
 
 ## Statistics
@@ -22,25 +22,18 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://api.dataloop-acc.dnb.nl](https://api.dataloop-acc.dnb.nl)| | **C**|| |:white_check_mark: | :warning:| | | | | :white_check_mark: | |HSTS|Dataloop API Doc...|
 |[https://api.portal.dnb.nl](https://api.portal.dnb.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Home - DNB API S...|
-|[https://classic.dataloop-test.dnb.nl](https://classic.dataloop-test.dnb.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
-|[https://dkeservice-test.dnb.nl](https://dkeservice-test.dnb.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
-|[https://dkeservice.dnb.nl](https://dkeservice.dnb.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
 |[https://paymenthub.dnb.nl](https://paymenthub.dnb.nl)| | **B**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|CbCustomer|
 |[https://dataloop.dnb.nl](https://dataloop.dnb.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS|Dataloop|
-|[https://dkeservice-staging.dnb.nl](https://dkeservice-staging.dnb.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
 |[https://api-staging.developer.dnb.nl](https://api-staging.developer.dnb.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure HSTS|Home - DNB API S...|
 |[https://api-staging.management.dnb.nl](https://api-staging.management.dnb.nl)| | **C**|| |:white_check_mark: | :warning:| | | | | :white_check_mark: | |HSTS||
 |[https://api-staging.scm.dnb.nl](https://api-staging.scm.dnb.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Apim Kudu server|
 |[https://api.developer.dnb.nl](https://api.developer.dnb.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure HSTS||
-|[https://classic.dataloop-acc.dnb.nl](https://classic.dataloop-acc.dnb.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
 |[https://dataloop-test.dnb.nl](https://dataloop-test.dnb.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS|Dataloop|
 |[https://paymenthub-acc.dnb.nl](https://paymenthub-acc.dnb.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|CbCustomer|
 |[https://api-staging.dnb.nl](https://api-staging.dnb.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://api-staging.portal.dnb.nl](https://api-staging.portal.dnb.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Home - DNB API S...|
 |[https://api.dataloop.dnb.nl](https://api.dataloop.dnb.nl)| | **A**|| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS|Dataloop API Doc...|
 |[https://api.dnb.nl](https://api.dnb.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
-|[https://classic.dataloop.dnb.nl](https://classic.dataloop.dnb.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
-|[https://dkeservice-dev.dnb.nl](https://dkeservice-dev.dnb.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
 |[https://api.dataloop-test.dnb.nl](https://api.dataloop-test.dnb.nl)| | **A**|| |:white_check_mark: | :warning:| |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS|Dataloop API Doc...|
 |[https://api.management.dnb.nl](https://api.management.dnb.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://dataloop-acc.dnb.nl](https://dataloop-acc.dnb.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Dataloop|

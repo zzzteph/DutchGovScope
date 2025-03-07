@@ -54,6 +54,5 @@ wms-viewer.dataplatform.knmi.nl
 wow.knmi.nl
 cms-origin.klimaatscenarios-data.knmi.nl
 testgeoservices.knmi.nl
-hapi.acc.spaceweather.knmi.nl
 hapi.spaceweather.knmi.nl
 cabauw.knmi.nl

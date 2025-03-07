@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/knaw.nl/subdomains.txt)|534|Alive subdomains|
-|[urls.txt](/data/knaw.nl/urls.txt)|533|Urls|
+|[subdomains.txt](/data/knaw.nl/subdomains.txt)|536|Alive subdomains|
+|[urls.txt](/data/knaw.nl/urls.txt)|534|Urls|
 
 
 ## Statistics
@@ -478,6 +478,7 @@
 |[https://fairaware-api.labs.dans.knaw.nl](https://fairaware-api.labs.dans.knaw.nl)| | **F**|uvicorn| | | | | | | | :white_check_mark: | |Python Uvicorn||
 |[https://galaxy.bioinf.nioo.knaw.nl](https://galaxy.bioinf.nioo.knaw.nl)| | **B**|nginx| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Welcome to nginx...|
 |[https://metadata-enhancer.labs.dans.knaw.nl](https://metadata-enhancer.labs.dans.knaw.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://subsite.nioo-acc.knaw.nl](https://subsite.nioo-acc.knaw.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Basic HSTS Nginx|401 Authorizatio...|
 |[https://flippinglakes.nioo.knaw.nl](https://flippinglakes.nioo.knaw.nl)| | **B**|nginx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Drupal HSTS Nginx PHP Varnish:6.2|Redirecting to h...|
 |[https://www.nioo.knaw.nl](https://www.nioo.knaw.nl)| | **B**|nginx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 |[https://minioapi2.labs.dans.knaw.nl](https://minioapi2.labs.dans.knaw.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| | :white_check_mark: | :white_check_mark: | |||
@@ -531,8 +532,8 @@
 |[https://goudeneeuwblog.huygens.knaw.nl](https://goudeneeuwblog.huygens.knaw.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
 |[https://hermansdigitaal.huygens.knaw.nl](https://hermansdigitaal.huygens.knaw.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
 |[https://dataverse-date-updater.labs.dans.knaw.nl](https://dataverse-date-updater.labs.dans.knaw.nl)| | **F**|uvicorn| | | | | | | | :white_check_mark: | |Python Uvicorn||
-|[https://back2roots.nioo.knaw.nl](https://back2roots.nioo.knaw.nl)| | **B**|nginx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Drupal HSTS Nginx PHP Varnish|Redirecting to h...|
-|[https://promise.nioo.knaw.nl](https://promise.nioo.knaw.nl)| | **B**|nginx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Drupal HSTS Nginx PHP Varnish:6.2|Redirecting to h...|
+|[https://back2roots.nioo.knaw.nl](https://back2roots.nioo.knaw.nl)| | **B**|nginx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Drupal HSTS Nginx PHP Varnish:6.2|Redirecting to h...|
+|[https://promise.nioo.knaw.nl](https://promise.nioo.knaw.nl)| | **B**|nginx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Drupal:10 HSTS Nginx PHP Varnish:6.2|Redirecting to h...|
 |[https://intranet.nioo.knaw.nl](https://intranet.nioo.knaw.nl)| | **D**|nginx|:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 |[https://www.climatepursuit.nioo.knaw.nl](https://www.climatepursuit.nioo.knaw.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 |[https://type.labs.dans.knaw.nl](https://type.labs.dans.knaw.nl)| | **F**|uvicorn| | | | | | | | :white_check_mark: | |Python Uvicorn||

@@ -2,8 +2,8 @@
 layout: default
 title: "veiligheidsregioflevoland.nl"
 permalink: "/dutchgov/veiligheidsregioflevoland.nl.html"
-subdomains_count: 14
-urls_count: 13
+subdomains_count: 18
+urls_count: 12
 ssl_rank: 
 http_rank: E
 security_txt: 1
@@ -25,8 +25,8 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/veiligheidsregioflevoland.nl/subdomains.txt)|14|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/veiligheidsregioflevoland.nl/urls.txt)|13|Urls|
+|[subdomains.txt](/DutchGovScope/data/veiligheidsregioflevoland.nl/subdomains.txt)|18|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/veiligheidsregioflevoland.nl/urls.txt)|12|Urls|
 
 
 ## Statistics
@@ -39,13 +39,12 @@ tags: dutchgov
 |[http://autodiscover.veiligheidsregioflevoland.nl](http://autodiscover.veiligheidsregioflevoland.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://enterpriseenrollment.veiligheidsregioflevoland.nl](https://enterpriseenrollment.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://enterpriseregistration.veiligheidsregioflevoland.nl](https://enterpriseregistration.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[http://3dgames.veiligheidsregioflevoland.nl](http://3dgames.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[http://dept.veiligheidsregioflevoland.nl](http://dept.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
-|[http://shama.veiligheidsregioflevoland.nl](http://shama.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
-|[http://testcommunity.veiligheidsregioflevoland.nl](http://testcommunity.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[https://msoid.veiligheidsregioflevoland.nl](https://msoid.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
-|[http://debestelinks.veiligheidsregioflevoland.nl](http://debestelinks.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://sds2.veiligheidsregioflevoland.nl](http://sds2.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[http://debestelinks.veiligheidsregioflevoland.nl](http://debestelinks.veiligheidsregioflevoland.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0||
 |[http://vm02.veiligheidsregioflevoland.nl](http://vm02.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[http://orsha.veiligheidsregioflevoland.nl](http://orsha.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
+|[http://tellafriend.veiligheidsregioflevoland.nl](http://tellafriend.veiligheidsregioflevoland.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 
 

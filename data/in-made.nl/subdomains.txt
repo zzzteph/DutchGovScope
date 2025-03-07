@@ -1,4 +1,2 @@
-feeds.in-made.nl
 in-made.nl
 www.in-made.nl
-opendata.in-made.nl

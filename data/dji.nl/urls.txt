@@ -1,3 +1,5 @@
+https://acc.beeldbellen.dji.nl
+https://beeldbellen.dji.nl
 https://connect-acpt.dji.nl
 https://connect.dji.nl
 https://dji.nl
@@ -8,5 +10,6 @@ https://www.dji.nl
 https://drife-f.dji.nl
 https://dvfz.dji.nl
 https://intranet.dji.nl
+https://video.beeldbellen.dji.nl
 https://cdn.dji.nl
 https://ftp.dji.nl

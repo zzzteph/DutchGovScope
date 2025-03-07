@@ -1,5 +1,3 @@
-https://feeds.peppolautoriteit.nl
-https://opendata.peppolautoriteit.nl
 https://peppolautoriteit.nl
 https://www.peppolautoriteit.nl
 https://test.peppolautoriteit.nl

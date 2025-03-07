@@ -1,5 +1,3 @@
-feeds.peppolautoriteit.nl
-opendata.peppolautoriteit.nl
 peppolautoriteit.nl
 www.peppolautoriteit.nl
 test.peppolautoriteit.nl

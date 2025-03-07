@@ -128,7 +128,6 @@ highcharts.cbs.nl
 redactie.cbs.nl
 www.cbs.nl
 cdn.cbs.nl
-collecties.historisch.cbs.nl
 historisch.cbs.nl
 www.historisch.cbs.nl
 designsystem.cbs.nl
@@ -141,7 +140,6 @@ welkombij.cbs.nl
 geoservices.cbs.nl
 uag.cbs.nl
 highcharts-acc.cbs.nl
-jeugdmonitor-acc.cbs.nl
 jeugdmonitor.cbs.nl
 longreads.cbs.nl
 mbg.cbs.nl

@@ -1,4 +1,2 @@
 aanpaklerarentekort.nl
-feeds.aanpaklerarentekort.nl
-opendata.aanpaklerarentekort.nl
 www.aanpaklerarentekort.nl

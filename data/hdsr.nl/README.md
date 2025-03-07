@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/hdsr.nl/subdomains.txt)|24|Alive subdomains|
+|[subdomains.txt](/data/hdsr.nl/subdomains.txt)|25|Alive subdomains|
 |[urls.txt](/data/hdsr.nl/urls.txt)|24|Urls|
 
 

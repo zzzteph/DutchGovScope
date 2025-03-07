@@ -8,10 +8,7 @@ opendata.english.domeinenrz.nl
 www.domeinenrz.nl
 domeinenrz.nl
 enterpriseregistration.domeinenrz.nl
-ras.domeinenrz.nl
-mail.domeinenrz.nl
 verkoop.domeinenrz.nl
 verkooptest.domeinenrz.nl
-services-test.domeinenrz.nl
 autodiscover.domeinenrz.nl
 enterpriseenrollment.domeinenrz.nl

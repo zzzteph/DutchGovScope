@@ -168,6 +168,8 @@ https://bouw.omgevingswet.overheid.nl
 https://brk.basisregistraties.overheid.nl
 https://brk.test.basisregistraties.overheid.nl
 https://brt.basisregistraties.overheid.nl
+https://cbm.demo.mijn.overheid.nl
+https://cbm.mijn.overheid.nl
 https://cbm.preprod.mijn.overheid.nl
 https://preprod.mijn.overheid.nl
 https://cloudstorage-koop.overheid.nl
@@ -196,6 +198,7 @@ https://zoekservice.overheid.nl
 https://doculoket.overheid.nl
 https://standaarden.overheid.nl
 http://decentraleregelgeving.overheid.nl
+https://demo.mijn.overheid.nl
 https://digilab.overheid.nl
 https://drop-api.overheid.nl
 https://oproepingen.overheid.nl
@@ -309,3 +312,4 @@ https://developer.omgevingswet.overheid.nl
 http://dse.lx.overheid.nl
 https://cia.acp.ondernemersplein.overheid.nl
 https://cia.tst.ondernemersplein.overheid.nl
+https://api.developer.overheid.nl

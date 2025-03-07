@@ -5,7 +5,6 @@ https://acceptatie.esb.rijkswaterstaat.nl
 https://acceptatie.spin2.rijkswaterstaat.nl
 https://opleiding.spin2.rijkswaterstaat.nl
 https://test.spin2.rijkswaterstaat.nl
-http://acceptatie.tws-esb.rijkswaterstaat.nl
 https://static.acp.live.werkenbij.rijkswaterstaat.nl
 https://static.acp.staging.werkenbij.rijkswaterstaat.nl
 https://static.tst.staging.werkenbij.rijkswaterstaat.nl
@@ -61,7 +60,6 @@ https://spin.rijkswaterstaat.nl
 https://spin2.rijkswaterstaat.nl
 https://standaarden.rijkswaterstaat.nl
 https://stijlgids.rijkswaterstaat.nl
-https://techniekacademie.rijkswaterstaat.nl
 https://test.botova.rijkswaterstaat.nl
 https://test.esb.rijkswaterstaat.nl
 https://tmxweb.rijkswaterstaat.nl
@@ -75,7 +73,6 @@ https://wachtwoord.rijkswaterstaat.nl
 https://waterwebservices.beta.rijkswaterstaat.nl
 https://zaaksysteem-acc.rijkswaterstaat.nl
 https://zaaksysteem.rijkswaterstaat.nl
-https://zwerfafval.rijkswaterstaat.nl
 https://acc-geo.rijkswaterstaat.nl
 https://static.ont.staging.werkenbij.rijkswaterstaat.nl
 https://innovatieloket-tst.rijkswaterstaat.nl

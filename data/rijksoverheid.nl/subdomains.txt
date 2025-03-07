@@ -1,6 +1,7 @@
 coronadashboard.rijksoverheid.nl
 dns-web10.rijksoverheid.nl
 dns-web300.rijksoverheid.nl
+e-maildiensten.rijksoverheid.nl
 feeds.persberichten.rijksoverheid.nl
 magazines.rijksoverheid.nl
 magazinesintern.rijksoverheid.nl

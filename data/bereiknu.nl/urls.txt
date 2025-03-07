@@ -1,3 +1,11 @@
 https://www.bereiknu.nl
+https://intranet.bereiknu.nl
 http://test.bereiknu.nl
 http://www.intranet.bereiknu.nl
+http://new-prod.bereiknu.nl
+http://tamarac.bereiknu.nl
+http://frati.bereiknu.nl
+http://shopeur.bereiknu.nl
+http://ftp.bereiknu.nl
+http://nc7.bereiknu.nl
+http://wakehealth.bereiknu.nl

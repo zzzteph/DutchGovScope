@@ -8,10 +8,7 @@ https://opendata.english.domeinenrz.nl
 https://www.domeinenrz.nl
 https://domeinenrz.nl
 https://enterpriseregistration.domeinenrz.nl
-https://ras.domeinenrz.nl
-https://mail.domeinenrz.nl
 https://verkoop.domeinenrz.nl
 https://verkooptest.domeinenrz.nl
-https://services-test.domeinenrz.nl
 http://autodiscover.domeinenrz.nl
 https://enterpriseenrollment.domeinenrz.nl

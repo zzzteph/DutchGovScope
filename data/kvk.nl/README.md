@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/kvk.nl/subdomains.txt)|58|Alive subdomains|
-|[urls.txt](/data/kvk.nl/urls.txt)|56|Urls|
+|[urls.txt](/data/kvk.nl/urls.txt)|57|Urls|
 
 
 ## Statistics
@@ -74,7 +74,8 @@
 |[https://werkenbij.kvk.nl](https://werkenbij.kvk.nl)| | **C**||:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Google Tag Manager HSTS Microsoft ASP.NET|Vacatures en car...|
 |[https://www3.kvk.nl](https://www3.kvk.nl)| | **E**|| | | | | | | | :white_check_mark: | |Bloomreach Google Tag Manager HSTS|KVK - Kamer van...|
 |[https://zoeken.kvk.nl](https://zoeken.kvk.nl)| | **D**|Microsoft-IIS/10.0| |:white_check_mark: | :warning:| | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET:4.0.30319 Windows Server|zoeken.kvk.nl|
-|[https://payt.kvk.nl](https://payt.kvk.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://payt.kvk.nl](https://payt.kvk.nl)| | **A**|nginx|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://vbu.kvk.nl](https://vbu.kvk.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java||
 |[https://facturen.kvk.nl](https://facturen.kvk.nl)| | **A**|Caddy Nespresso| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS HTTP/3|Check Invoices|
 
 

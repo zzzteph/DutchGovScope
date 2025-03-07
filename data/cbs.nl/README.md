@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/cbs.nl/subdomains.txt)|182|Alive subdomains|
-|[urls.txt](/data/cbs.nl/urls.txt)|180|Urls|
+|[subdomains.txt](/data/cbs.nl/subdomains.txt)|180|Alive subdomains|
+|[urls.txt](/data/cbs.nl/urls.txt)|178|Urls|
 
 
 ## Statistics
@@ -150,7 +150,6 @@
 |[https://redactie.cbs.nl](https://redactie.cbs.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://www.cbs.nl](https://www.cbs.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap:5.3.3 HSTS|Centraal Bureau...|
 |[https://cdn.cbs.nl](https://cdn.cbs.nl)| | **F**|| | | :warning:| | | | | :white_check_mark: | |Azure Azure Front Door||
-|[http://collecties.historisch.cbs.nl](http://collecties.historisch.cbs.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[https://historisch.cbs.nl](https://historisch.cbs.nl)| | **A**|...|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap HSTS PHP|Zoeken - CBS|
 |[https://www.historisch.cbs.nl](https://www.historisch.cbs.nl)| | **A**|...|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Document Moved|
 |[https://designsystem.cbs.nl](https://designsystem.cbs.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Linkedin Ads Ruby Ruby on Rails|CBS Design Syste...|
@@ -162,7 +161,6 @@
 |[https://geoservices.cbs.nl](https://geoservices.cbs.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[https://uag.cbs.nl](https://uag.cbs.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://highcharts-acc.cbs.nl](https://highcharts-acc.cbs.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://jeugdmonitor-acc.cbs.nl](https://jeugdmonitor-acc.cbs.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx Plesk Varnish:6.0|301 Moved Perman...|
 |[https://jeugdmonitor.cbs.nl](https://jeugdmonitor.cbs.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Drupal:10 HSTS Nginx PHP:8.2.27 Varnish:6.0|Home | Jeugdmoni...|
 |[https://longreads.cbs.nl](https://longreads.cbs.nl)| | **F**|LiteSpeed| | | | | | | | :white_check_mark: | |HTTP/3 LiteSpeed PHP:7.4.33|Longreads - Cent...|
 |[https://mbg.cbs.nl](https://mbg.cbs.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|Redirecting...|

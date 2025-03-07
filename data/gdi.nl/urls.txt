@@ -1,4 +1,2 @@
 https://gdi.nl
 https://www.gdi.nl
-http://test-cms.crs.gdi.nl
-http://acceptatie-cms.crs.gdi.nl

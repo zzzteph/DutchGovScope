@@ -2,8 +2,8 @@
 layout: default
 title: "rijksoverheid.nl"
 permalink: "/dutchgov/rijksoverheid.nl.html"
-subdomains_count: 18
-urls_count: 18
+subdomains_count: 19
+urls_count: 19
 ssl_rank: 
 http_rank: A
 security_txt: 12
@@ -25,8 +25,8 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/rijksoverheid.nl/subdomains.txt)|18|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/rijksoverheid.nl/urls.txt)|18|Urls|
+|[subdomains.txt](/DutchGovScope/data/rijksoverheid.nl/subdomains.txt)|19|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/rijksoverheid.nl/urls.txt)|19|Urls|
 
 
 ## Statistics
@@ -37,6 +37,7 @@ tags: dutchgov
 |[http://coronadashboard.rijksoverheid.nl](http://coronadashboard.rijksoverheid.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://dns-web10.rijksoverheid.nl](http://dns-web10.rijksoverheid.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server||
 |[http://dns-web300.rijksoverheid.nl](http://dns-web300.rijksoverheid.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server||
+|[https://e-maildiensten.rijksoverheid.nl](https://e-maildiensten.rijksoverheid.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://feeds.persberichten.rijksoverheid.nl](https://feeds.persberichten.rijksoverheid.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://magazines.rijksoverheid.nl](https://magazines.rijksoverheid.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://magazinesintern.rijksoverheid.nl](https://magazinesintern.rijksoverheid.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||

@@ -27,7 +27,7 @@
 |[https://test.onderzoekmetmensen.nl](https://test.onderzoekmetmensen.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Basic HSTS Nginx|401 Authorizatio...|
 |[https://pmon-tst.onderzoekmetmensen.nl](https://pmon-tst.onderzoekmetmensen.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Basic HSTS Nginx|401 Authorizatio...|
 |[https://pmon-acc.onderzoekmetmensen.nl](https://pmon-acc.onderzoekmetmensen.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Basic HSTS Nginx|401 Authorizatio...|
-|[https://portaal-tst.onderzoekmetmensen.nl](https://portaal-tst.onderzoekmetmensen.nl)| | **F**|nginx/1.26.2| | | | | | | | :white_check_mark: | |Basic HSTS Nginx:1.26.2|401 Authorizatio...|
+|[https://portaal-tst.onderzoekmetmensen.nl](https://portaal-tst.onderzoekmetmensen.nl)| | **F**|nginx/1.26.3| | | | | | | | :white_check_mark: | |Basic HSTS Nginx:1.26.3|401 Authorizatio...|
 |[https://pmon.onderzoekmetmensen.nl](https://pmon.onderzoekmetmensen.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal:10 HSTS Nginx PHP|Inloggen | CCMO...|
 |[https://portaal.onderzoekmetmensen.nl](https://portaal.onderzoekmetmensen.nl)| | **C**|nginx|:o: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 

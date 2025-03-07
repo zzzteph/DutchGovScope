@@ -21,6 +21,7 @@ magazines.ncsc.nl
 ncsc.nl
 opendata.english.ncsc.nl
 opendata.ncsc.nl
+privaat.octomon.ncsc.nl
 test.ncsc.nl
 csaf.data.security.ncsc.nl
 vulnerabilities.ncsc.nl
