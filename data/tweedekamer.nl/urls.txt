@@ -128,8 +128,4 @@ https://enterpriseregistration.tweedekamer.nl
 http://localhost.tweedekamer.nl
 https://msoid.tweedekamer.nl
 https://email.tweedekamer.nl
-http://acc.livedebat.tweedekamer.nl
-http://api.acc.livedebat.tweedekamer.nl
-http://ingest.acc.livedebat.tweedekamer.nl
-http://stats.acc.livedebat.tweedekamer.nl
 https://micc.tweedekamer.nl

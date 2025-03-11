@@ -34,9 +34,9 @@
 |[http://autodiscover.investinholland.com](http://autodiscover.investinholland.com)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 |[http://mail.japan.investinholland.com](http://mail.japan.investinholland.com)| | **F**|cloudflare| | | | | | | | :white_check_mark: | |Cloudflare|301 Moved Perman...|
 |[http://pop.japan.investinholland.com](http://pop.japan.investinholland.com)| | **F**|cloudflare| | | | | | | | :white_check_mark: | |Cloudflare|301 Moved Perman...|
-|[http://www.german.investinholland.com](http://www.german.investinholland.com)| | **F**|cloudflare| | | | | | | | :white_check_mark: | |Cloudflare HTTP/2|301 Moved Perman...|
-|[http://www.korea.investinholland.com](http://www.korea.investinholland.com)| | **F**|cloudflare| | | | | | | | :white_check_mark: | |Cloudflare HTTP/2|301 Moved Perman...|
-|[http://www.taiwan.investinholland.com](http://www.taiwan.investinholland.com)| | **F**|cloudflare| | | | | | | | :white_check_mark: | |Cloudflare|301 Moved Perman...|
+|[http://www.german.investinholland.com](http://www.german.investinholland.com)| | **F**|cloudflare| | | | | | | | :white_check_mark: | |Cloudflare|301 Moved Perman...|
+|[http://www.korea.investinholland.com](http://www.korea.investinholland.com)| | **F**|cloudflare| | | | | | | | :white_check_mark: | |Cloudflare|301 Moved Perman...|
+|[http://www.taiwan.investinholland.com](http://www.taiwan.investinholland.com)| | **F**|cloudflare| | | | | | | | :white_check_mark: | |Cloudflare HTTP/2|301 Moved Perman...|
 |[http://www.uk.investinholland.com](http://www.uk.investinholland.com)| | **F**|cloudflare| | | | | | | | :white_check_mark: | |Cloudflare|301 Moved Perman...|
 
 

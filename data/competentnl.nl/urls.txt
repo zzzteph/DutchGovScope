@@ -3,3 +3,4 @@ https://competentnl.nl
 http://autodiscover.competentnl.nl
 https://api.competentnl.nl
 https://sparql.competentnl.nl
+https://linkeddata.competentnl.nl

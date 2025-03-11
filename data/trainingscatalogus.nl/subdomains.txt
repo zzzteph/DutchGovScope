@@ -13,7 +13,6 @@ enrollment-api.schiphol-lms.trainingscatalogus.nl
 product-api.schiphol-lms.trainingscatalogus.nl
 ivorechtspraak-lms-a.scim-api.trainingscatalogus.nl
 product-api.schiphol-lms-t.trainingscatalogus.nl
-radio.trainingscatalogus.nl
 vgz-lms.course-api.trainingscatalogus.nl
 vgz-lms.enrollment-api.trainingscatalogus.nl
 vgz-lms.product-api.trainingscatalogus.nl

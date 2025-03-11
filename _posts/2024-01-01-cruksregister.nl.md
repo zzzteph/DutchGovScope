@@ -2,7 +2,7 @@
 layout: default
 title: "cruksregister.nl"
 permalink: "/dutchgov/cruksregister.nl.html"
-subdomains_count: 7
+subdomains_count: 9
 urls_count: 7
 ssl_rank: 
 http_rank: A
@@ -25,7 +25,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/cruksregister.nl/subdomains.txt)|7|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/cruksregister.nl/subdomains.txt)|9|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/cruksregister.nl/urls.txt)|7|Urls|
 
 

@@ -5,6 +5,5 @@ www.wodc.nl
 english.wodc.nl
 feeds.english.wodc.nl
 feeds.wodc.nl
-magazines.wodc.nl
 opendata.english.wodc.nl
 repository.wodc.nl

@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/acm.nl/subdomains.txt)|28|Alive subdomains|
-|[urls.txt](/data/acm.nl/urls.txt)|26|Urls|
+|[urls.txt](/data/acm.nl/urls.txt)|28|Urls|
 
 
 ## Statistics
@@ -20,7 +20,7 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://fmreturn.acm.nl](https://fmreturn.acm.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[https://fmreturn.acm.nl](https://fmreturn.acm.nl)| | **A**|nginx|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://remote.acm.nl](https://remote.acm.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
 |[https://remote.services.acm.nl](https://remote.services.acm.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS||
 |[https://vsp.acm.nl](https://vsp.acm.nl)| | **D**|server| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||302 Found|
@@ -46,5 +46,7 @@
 |[https://mijn-tst.acm.nl](https://mijn-tst.acm.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://mbg.acm.nl](https://mbg.acm.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Redirecting...|
 |[https://dev.connect.acm.nl](https://dev.connect.acm.nl)| | **E**|| | | | | | | | :white_check_mark: | |Azure Azure Front Door||
+|[http://k8s-cw.acm.nl](http://k8s-cw.acm.nl)| | **C**|| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||404 - Not Found|
+|[http://k8s.acm.nl](http://k8s.acm.nl)| | **C**|| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||404 - Not Found|
 
 

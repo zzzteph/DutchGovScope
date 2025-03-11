@@ -64,10 +64,9 @@ houseofrepresentatives.acceptatie.tweedekamer.nl
 houseofrepresentatives.test.tweedekamer.nl
 lijstvangevallenen.acceptatie.tweedekamer.nl
 lijstvangevallenen.test.tweedekamer.nl
+opendata.acceptatie.tweedekamer.nl
 opendata.test.tweedekamer.nl
 werkenbij.acceptatie.tweedekamer.nl
-join.videovergaderen.tweedekamer.nl
-videovergaderen.tweedekamer.nl
 livestreaming-thumb.b67.tweedekamer.nl
 livestreaming.b67.tweedekamer.nl
 livestreaming.b67acc.tweedekamer.nl
@@ -130,8 +129,4 @@ enterpriseregistration.tweedekamer.nl
 localhost.tweedekamer.nl
 msoid.tweedekamer.nl
 email.tweedekamer.nl
-acc.livedebat.tweedekamer.nl
-api.acc.livedebat.tweedekamer.nl
-ingest.acc.livedebat.tweedekamer.nl
-stats.acc.livedebat.tweedekamer.nl
 micc.tweedekamer.nl

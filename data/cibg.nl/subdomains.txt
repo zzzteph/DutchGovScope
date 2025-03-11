@@ -55,3 +55,4 @@ digikoppeling2.cibg.nl
 styleguide.cibg.nl
 acceptatie.applicationframework.cibg.nl
 acceptatie.drms.cibg.nl
+drms.cibg.nl

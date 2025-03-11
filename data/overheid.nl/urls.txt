@@ -294,6 +294,7 @@ https://mnd-preprd.overheid.nl
 https://oproepingen-api-preprd-poc.overheid.nl
 https://demo1-systemteam.overheid.nl
 https://digid-stub.lpc.mijn.overheid.nl
+http://ondersteuning.omgevingswet.overheid.nl
 https://pdc.pre.omgevingswet.overheid.nl
 https://pp2.toegang.overheid.nl
 https://resolver.int.omgevingswet.overheid.nl

@@ -3,7 +3,7 @@ layout: default
 title: "netherlandsworldwide.nl"
 permalink: "/dutchgov/netherlandsworldwide.nl.html"
 subdomains_count: 6
-urls_count: 5
+urls_count: 6
 ssl_rank: 
 http_rank: B
 security_txt: 2
@@ -26,7 +26,7 @@ tags: dutchgov
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/netherlandsworldwide.nl/subdomains.txt)|6|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/netherlandsworldwide.nl/urls.txt)|5|Urls|
+|[urls.txt](/DutchGovScope/data/netherlandsworldwide.nl/urls.txt)|6|Urls|
 
 
 ## Statistics
@@ -39,5 +39,6 @@ tags: dutchgov
 |[https://preview.netherlandsworldwide.nl](https://preview.netherlandsworldwide.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://a-www.netherlandsworldwide.nl](https://a-www.netherlandsworldwide.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS HTTP/3||
 |[http://update.netherlandsworldwide.nl](http://update.netherlandsworldwide.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
+|[https://www2.netherlandsworldwide.nl](https://www2.netherlandsworldwide.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS HTTP/3||
 
 

@@ -59,3 +59,4 @@ enterpriseregistration.noord-holland.nl
 analytics.noord-holland.nl
 vooruitlab.noord-holland.nl
 clicks.noord-holland.nl
+autodiscover.events.noord-holland.nl

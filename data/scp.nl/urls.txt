@@ -10,10 +10,7 @@ https://english.scp.nl
 https://feeds.english.scp.nl
 https://opendata.english.scp.nl
 https://testmail.scp.nl
-https://mail.scp.nl
 https://repository.scp.nl
-https://test-cmsintranet.scp.nl
 http://autodiscover.scp.nl
-https://download.mail.scp.nl
 https://feeds.scp.nl
 https://login.scp.nl

@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/cbs.nl/subdomains.txt)|180|Alive subdomains|
-|[urls.txt](/data/cbs.nl/urls.txt)|178|Urls|
+|[subdomains.txt](/data/cbs.nl/subdomains.txt)|179|Alive subdomains|
+|[urls.txt](/data/cbs.nl/urls.txt)|177|Urls|
 
 
 ## Statistics
@@ -21,7 +21,6 @@
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://academy.cbs.nl](https://academy.cbs.nl)| | **A**|Apache| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|Doorverwijspagin...|
-|[https://amunet.cbs.nl](https://amunet.cbs.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||502 Bad Gateway|
 |[https://test.cerberus.cbs.nl](https://test.cerberus.cbs.nl)| | **E**|| | | | | | | | :white_check_mark: | ||CerBeruS|
 |[https://acc.cerberus.cbs.nl](https://acc.cerberus.cbs.nl)| | **E**|| | | | | | | | :white_check_mark: | ||CerBeruS|
 |[https://acctestenquete1.cbs.nl](https://acctestenquete1.cbs.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
@@ -73,7 +72,7 @@
 |[https://datasets.cbs.nl](https://datasets.cbs.nl)| | **D**|envoy| |:white_check_mark: | :warning:| | | | | :white_check_mark: | |Envoy HSTS|CCB OData Endpoi...|
 |[http://oosweb.cbs.nl](http://oosweb.cbs.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://cn.cbs.nl](https://cn.cbs.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|IIS Windows Serv...|
-|[https://doemee.cbs.nl](https://doemee.cbs.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Object moved|
+|[https://doemee.cbs.nl](https://doemee.cbs.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET:4.0.30319 Windows Server|Object moved|
 |[https://login.cbs.nl](https://login.cbs.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Welcome to Keycl...|
 |[https://portal.cbs.nl](https://portal.cbs.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://sbi.cbs.nl](https://sbi.cbs.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS||
@@ -101,7 +100,7 @@
 |[https://login.databestanden.cbs.nl](https://login.databestanden.cbs.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[http://mail.dev.cbs.nl](http://mail.dev.cbs.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://opendata.cbs.nl](https://opendata.cbs.nl)| | **A**|Webserver| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Bootstrap:3.0.0 D3 HSTS NVD3|CBS Statline|
-|[https://sdmx.cbs.nl](https://sdmx.cbs.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|CBS|
+|[https://sdmx.cbs.nl](https://sdmx.cbs.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://storage.databestanden.cbs.nl](https://storage.databestanden.cbs.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://claircitydata.cbs.nl](https://claircitydata.cbs.nl)| | **C**|Apache/2.4.37 (Red Hat Enterprise Linux) OpenSSL/1.1.1k| |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.37 Bootstrap Ckan:2.6.0 HSTS Java OpenSSL:1.1.1k PostgreSQL Python Red Hat Solr|Welcome - ClairC...|
 |[https://afasmail.cbs.nl](https://afasmail.cbs.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
@@ -139,7 +138,7 @@
 |[https://api.mig.cbs.nl](https://api.mig.cbs.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
 |[https://beeldbank-beheer.cbs.nl](https://beeldbank-beheer.cbs.nl)| | **E**|Picture Pack|:warning: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Microsoft ASP.NET:4.0.30319|Picture Pack|
 |[https://beeldbank.cbs.nl](https://beeldbank.cbs.nl)| | **E**||:warning: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Microsoft ASP.NET:4.0.30319|Homepage | Beeld...|
-|[https://historischebeelden.cbs.nl](https://historischebeelden.cbs.nl)| | **E**||:warning: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Microsoft ASP.NET:4.0.30319|Homepage | Centr...|
+|[https://historischebeelden.cbs.nl](https://historischebeelden.cbs.nl)| | **E**||:warning: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Microsoft ASP.NET|Homepage | Centr...|
 |[https://historischebeeldenbeheer.cbs.nl](https://historischebeeldenbeheer.cbs.nl)| | **E**|Picture Pack|:warning: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Microsoft ASP.NET:4.0.30319|Picture Pack|
 |[https://www1.cbs.nl](https://www1.cbs.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server||
 |[https://beta.cbs.nl](https://beta.cbs.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server||
@@ -155,6 +154,7 @@
 |[https://designsystem.cbs.nl](https://designsystem.cbs.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Linkedin Ads Ruby Ruby on Rails|CBS Design Syste...|
 |[https://dev.cerberus.cbs.nl](https://dev.cerberus.cbs.nl)| | **E**|| | | | | | | | :white_check_mark: | ||CerBeruS|
 |[https://evenementen.cbs.nl](https://evenementen.cbs.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|404 Not Found|
+|[https://ftpblaise.cbs.nl](https://ftpblaise.cbs.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://fubecasper.cbs.nl](https://fubecasper.cbs.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS||
 |[https://projecten.cbs.nl](https://projecten.cbs.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS|Home - Projecten|
 |[https://welkombij.cbs.nl](https://welkombij.cbs.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS||
@@ -188,7 +188,6 @@
 |[https://webext.cbs.nl](https://webext.cbs.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://cerberus.cbs.nl](https://cerberus.cbs.nl)| | **E**|| | | | | | | | :white_check_mark: | ||CerBeruS|
 |[https://content1.cbs.nl](https://content1.cbs.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
-|[https://gecko.cbs.nl](https://gecko.cbs.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||502 Bad Gateway|
 |[https://login-databestanden.test.cbs.nl](https://login-databestanden.test.cbs.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Welcome to Keycl...|
 |[https://beh-iam.acceptatie.cbs.nl](https://beh-iam.acceptatie.cbs.nl)| | **C**|Microsoft-IIS/10.0|:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Bootstrap HSTS IIS:10.0 Microsoft ASP.NET:4.0.30319 Windows Server|Login voor intde...|
 |[https://geodata.cbs.nl](https://geodata.cbs.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Windows Server|IIS Windows Serv...|

@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:256
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:254
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/rijksapplicaties.nl/subdomains.txt)|265|Alive subdomains|
-|[urls.txt](/data/rijksapplicaties.nl/urls.txt)|265|Urls|
+|[subdomains.txt](/data/rijksapplicaties.nl/subdomains.txt)|263|Alive subdomains|
+|[urls.txt](/data/rijksapplicaties.nl/urls.txt)|263|Urls|
 
 
 ## Statistics
@@ -27,7 +27,6 @@
 |[https://keys-updates.rijksapplicaties.nl](https://keys-updates.rijksapplicaties.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
 |[https://login-fin.rijksapplicaties.nl](https://login-fin.rijksapplicaties.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET Nginx|GV - Centrale Lo...|
 |[https://rvb-dtc-webservice.rijksapplicaties.nl](https://rvb-dtc-webservice.rijksapplicaties.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
-|[https://rvb-dfss.rijksapplicaties.nl](https://rvb-dfss.rijksapplicaties.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
 |[https://login-az.rijksapplicaties.nl](https://login-az.rijksapplicaties.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET Nginx|Login|
 |[https://login-bz.rijksapplicaties.nl](https://login-bz.rijksapplicaties.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET Nginx|GV - Centrale Lo...|
 |[https://login-bzk.rijksapplicaties.nl](https://login-bzk.rijksapplicaties.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET Nginx|Login BZK|
@@ -112,7 +111,6 @@
 |[https://dib-nea.staging.rijksapplicaties.nl](https://dib-nea.staging.rijksapplicaties.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
 |[https://ncg-hr-ws.staging.rijksapplicaties.nl](https://ncg-hr-ws.staging.rijksapplicaties.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
 |[https://qr-app.staging.rijksapplicaties.nl](https://qr-app.staging.rijksapplicaties.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET Nginx|QR App|
-|[https://rvb-dfss.staging.rijksapplicaties.nl](https://rvb-dfss.staging.rijksapplicaties.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
 |[https://rvb-mva.staging.rijksapplicaties.nl](https://rvb-mva.staging.rijksapplicaties.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
 |[https://rvb-vmr.staging.rijksapplicaties.nl](https://rvb-vmr.staging.rijksapplicaties.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
 |[https://bda.staging.rijksapplicaties.nl](https://bda.staging.rijksapplicaties.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||

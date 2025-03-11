@@ -5,7 +5,7 @@
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:C
+ - **HTTP Security Grade**:B
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:9
 
 
@@ -20,7 +20,7 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://afspraak.domeinenrz.nl](https://afspraak.domeinenrz.nl)| | **F**|Apache|:o: | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
+|[https://afspraak.domeinenrz.nl](https://afspraak.domeinenrz.nl)| | **E**|Apache|:o: |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
 |[https://vuurwerk.domeinenrz.nl](https://vuurwerk.domeinenrz.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server Basic|401 Unauthorized|
 |[https://english.domeinenrz.nl](https://english.domeinenrz.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Movable P...|
 |[https://feeds.domeinenrz.nl](https://feeds.domeinenrz.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||

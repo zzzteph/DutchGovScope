@@ -126,7 +126,6 @@ demo.pb-pk.rivm.nl
 dev-mijnsap.rivm.nl
 dmponline.rivm.nl
 docsacc.rivm.nl
-download.webmail.rivm.nl
 webmail.rivm.nl
 draaiboekhielprikscreening.rivm.nl
 www.draaiboekhielprikscreening.rivm.nl

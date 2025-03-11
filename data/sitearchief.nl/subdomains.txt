@@ -12,7 +12,6 @@ coa.sitearchief.nl
 onderwijsraad.sitearchief.nl
 archief22.sitearchief.nl
 cibg.sitearchief.nl
-degezondheidsraad.sitearchief.nl
 ind.sitearchief.nl
 archief23.sitearchief.nl
 igj.sitearchief.nl
@@ -87,7 +86,6 @@ meldkamer.sitearchief.nl
 politie.sitearchief.nl
 overzicht.sitearchief.nl
 forensischinstituut.sitearchief.nl
-niwo.sitearchief.nl
 dienstterugkeerenvertrek.sitearchief.nl
 cdho.sitearchief.nl
 ccmo.sitearchief.nl

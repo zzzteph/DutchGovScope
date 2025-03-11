@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/competentnl.nl/subdomains.txt)|6|Alive subdomains|
-|[urls.txt](/data/competentnl.nl/urls.txt)|5|Urls|
+|[urls.txt](/data/competentnl.nl/urls.txt)|6|Urls|
 
 
 ## Statistics
@@ -25,5 +25,6 @@
 |[http://autodiscover.competentnl.nl](http://autodiscover.competentnl.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://api.competentnl.nl](https://api.competentnl.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://sparql.competentnl.nl](https://sparql.competentnl.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://linkeddata.competentnl.nl](https://linkeddata.competentnl.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 
 

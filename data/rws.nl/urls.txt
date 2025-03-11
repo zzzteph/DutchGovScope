@@ -50,6 +50,8 @@ https://standaarden.rws.nl
 https://beterbediend.rws.nl
 https://bezoekerscentrum.rws.nl
 https://test.bezoekerscentrum.rws.nl
+http://centraaltoegangspuntdata.rws.nl
+http://nis.rws.nl
 https://cmgrws.rws.nl
 https://crisiswerkplek.rws.nl
 https://ctd.rws.nl
@@ -90,12 +92,15 @@ https://werkenbij.rws.nl
 https://www.rws.nl
 https://rwsos.rws.nl
 https://samenwerken.rws.nl
+http://samp.rws.nl
 https://sig.fam.rws.nl
 https://sluisplanning.rws.nl
 https://spin2.rws.nl
 https://svk-info.rws.nl
 https://svk-login.rws.nl
 https://svs.rws.nl
+http://techniekacademie.rws.nl
+http://zwerfafval.rws.nl
 https://test.lma.rws.nl
 https://test.nlrdms.rws.nl
 https://tgox-acc.rws.nl
@@ -153,3 +158,4 @@ http://mip-proxy-prod.rws.nl
 https://fcd-acc-bemobile-trajectorien.rws.nl
 https://fcd-acc-bemobile-aid-triggers.rws.nl
 http://mip.rws.nl
+https://acc.alarmmodule.rws.nl

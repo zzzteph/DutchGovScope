@@ -50,6 +50,8 @@ standaarden.rws.nl
 beterbediend.rws.nl
 bezoekerscentrum.rws.nl
 test.bezoekerscentrum.rws.nl
+centraaltoegangspuntdata.rws.nl
+nis.rws.nl
 cmgrws.rws.nl
 crisiswerkplek.rws.nl
 ctd.rws.nl
@@ -91,12 +93,15 @@ werkenbij.rws.nl
 www.rws.nl
 rwsos.rws.nl
 samenwerken.rws.nl
+samp.rws.nl
 sig.fam.rws.nl
 sluisplanning.rws.nl
 spin2.rws.nl
 svk-info.rws.nl
 svk-login.rws.nl
 svs.rws.nl
+techniekacademie.rws.nl
+zwerfafval.rws.nl
 test.lma.rws.nl
 test.nlrdms.rws.nl
 tgox-acc.rws.nl

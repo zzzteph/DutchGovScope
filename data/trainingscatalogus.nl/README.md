@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/trainingscatalogus.nl/subdomains.txt)|136|Alive subdomains|
-|[urls.txt](/data/trainingscatalogus.nl/urls.txt)|136|Urls|
+|[subdomains.txt](/data/trainingscatalogus.nl/subdomains.txt)|135|Alive subdomains|
+|[urls.txt](/data/trainingscatalogus.nl/urls.txt)|135|Urls|
 
 
 ## Statistics
@@ -35,7 +35,6 @@
 |[https://product-api.schiphol-lms.trainingscatalogus.nl](https://product-api.schiphol-lms.trainingscatalogus.nl)| | **F**|Microsoft-IIS/10.0|:white_check_mark: | | | | | | | :white_check_mark: | |Azure IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://ivorechtspraak-lms-a.scim-api.trainingscatalogus.nl](https://ivorechtspraak-lms-a.scim-api.trainingscatalogus.nl)| | **F**|Microsoft-IIS/10.0|:white_check_mark: | | | | | | | :white_check_mark: | |Azure IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://product-api.schiphol-lms-t.trainingscatalogus.nl](https://product-api.schiphol-lms-t.trainingscatalogus.nl)| | **F**|Microsoft-IIS/10.0|:white_check_mark: | | | | | | | :white_check_mark: | |Azure IIS:10.0 Microsoft ASP.NET Windows Server||
-|[https://radio.trainingscatalogus.nl](https://radio.trainingscatalogus.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|Web Server's Def...|
 |[https://vgz-lms.course-api.trainingscatalogus.nl](https://vgz-lms.course-api.trainingscatalogus.nl)| | **F**|Microsoft-IIS/10.0|:white_check_mark: | | | | | | | :white_check_mark: | |Azure IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://vgz-lms.enrollment-api.trainingscatalogus.nl](https://vgz-lms.enrollment-api.trainingscatalogus.nl)| | **F**|Microsoft-IIS/10.0|:white_check_mark: | | | | | | | :white_check_mark: | |Azure IIS:10.0 Microsoft ASP.NET Windows Server||
 |[https://vgz-lms.product-api.trainingscatalogus.nl](https://vgz-lms.product-api.trainingscatalogus.nl)| | **F**|Microsoft-IIS/10.0|:white_check_mark: | | | | | | | :white_check_mark: | |Azure IIS:10.0 Microsoft ASP.NET Windows Server||

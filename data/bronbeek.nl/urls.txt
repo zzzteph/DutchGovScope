@@ -1,4 +1,2 @@
 https://bronbeek.nl
-https://feeds.bronbeek.nl
-https://opendata.bronbeek.nl
 https://www.bronbeek.nl

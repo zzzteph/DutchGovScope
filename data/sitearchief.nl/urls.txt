@@ -12,7 +12,6 @@ https://coa.sitearchief.nl
 https://onderwijsraad.sitearchief.nl
 https://archief22.sitearchief.nl
 https://cibg.sitearchief.nl
-https://degezondheidsraad.sitearchief.nl
 https://ind.sitearchief.nl
 https://archief23.sitearchief.nl
 https://igj.sitearchief.nl
@@ -87,7 +86,6 @@ https://meldkamer.sitearchief.nl
 https://politie.sitearchief.nl
 https://overzicht.sitearchief.nl
 https://forensischinstituut.sitearchief.nl
-https://niwo.sitearchief.nl
 https://dienstterugkeerenvertrek.sitearchief.nl
 https://cdho.sitearchief.nl
 https://ccmo.sitearchief.nl

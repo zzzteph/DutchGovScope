@@ -1,6 +1,5 @@
 http://autodiscover.hdsr.nl
 https://begrippen.hdsr.nl
-https://kennis.hdsr.nl
 https://testbegrippen.hdsr.nl
 https://testkennis.hdsr.nl
 https://cawfirewall.hdsr.nl
@@ -11,6 +10,10 @@ https://webdiensten.hdsr.nl
 https://webservices.hdsr.nl
 https://geoservices.hdsr.nl
 https://kaarten.hdsr.nl
+http://hdsr.nl
+http://intranet.ad.hdsr.nl
+http://redactie.hdsr.nl
+http://waterkwaliteitinbeeld.hdsr.nl
 https://www.hdsr.nl
 https://werkplek.hdsr.nl
 https://wsus.hdsr.nl

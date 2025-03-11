@@ -1,2 +1,5 @@
+https://acceptatie.samenmetenaanluchtkwaliteit.nl
+https://test.samenmetenaanluchtkwaliteit.nl
+https://www.samenmetenaanluchtkwaliteit.nl
 https://samenmetenaanluchtkwaliteit.nl
 http://localhost.samenmetenaanluchtkwaliteit.nl

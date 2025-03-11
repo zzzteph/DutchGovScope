@@ -3,10 +3,10 @@ layout: default
 title: "nederlandwereldwijd.nl"
 permalink: "/dutchgov/nederlandwereldwijd.nl.html"
 subdomains_count: 17
-urls_count: 14
+urls_count: 17
 ssl_rank: 
 http_rank: B
-security_txt: 5
+security_txt: 6
 url_link: /data/nederlandwereldwijd.nl/urls.txt
 subdomains_link: /data/nederlandwereldwijd.nl/subdomains.txt
 categories: dutchgov
@@ -20,13 +20,13 @@ tags: dutchgov
 
  - **SSL Grade**:
  - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:5
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:6
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/nederlandwereldwijd.nl/subdomains.txt)|17|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/nederlandwereldwijd.nl/urls.txt)|14|Urls|
+|[urls.txt](/DutchGovScope/data/nederlandwereldwijd.nl/urls.txt)|17|Urls|
 
 
 ## Statistics
@@ -48,5 +48,8 @@ tags: dutchgov
 |[https://dev.opendata.nederlandwereldwijd.nl](https://dev.opendata.nederlandwereldwijd.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Access Denied|
 |[https://a-www.nederlandwereldwijd.nl](https://a-www.nederlandwereldwijd.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS HTTP/3||
 |[https://dev.informatieservice.nederlandwereldwijd.nl](https://dev.informatieservice.nederlandwereldwijd.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Web App - Unavai...|
+|[https://acc.informatieservice.nederlandwereldwijd.nl](https://acc.informatieservice.nederlandwereldwijd.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Azure HSTS|Informatieservic...|
+|[https://onderzoek.nederlandwereldwijd.nl](https://onderzoek.nederlandwereldwijd.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS HTTP/3||
+|[https://www2.nederlandwereldwijd.nl](https://www2.nederlandwereldwijd.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS HTTP/3||
 
 

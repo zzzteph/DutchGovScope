@@ -10,10 +10,7 @@ english.scp.nl
 feeds.english.scp.nl
 opendata.english.scp.nl
 testmail.scp.nl
-mail.scp.nl
 repository.scp.nl
-test-cmsintranet.scp.nl
 autodiscover.scp.nl
-download.mail.scp.nl
 feeds.scp.nl
 login.scp.nl

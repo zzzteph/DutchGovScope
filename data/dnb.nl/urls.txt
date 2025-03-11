@@ -95,7 +95,6 @@ https://www.dnb.nl
 https://enterpriseenrollment.dnb.nl
 http://registers.dnb.nl
 http://mediaportal.dnb.nl
-https://open.dnb.nl
 https://pla.dnb.nl
 https://plp.dnb.nl
 https://atender.dnb.nl

@@ -1,8 +1,4 @@
-https://consular.mfaservices.nl
-https://cdn.consular.mfaservices.nl
 https://url9097.consular.mfaservices.nl
-https://login.consular.mfaservices.nl
-https://dev.login.consular.mfaservices.nl
 https://acc-insights.mfaservices.nl
 https://acc-ls4.mfaservices.nl
 https://acc.esp.mfaservices.nl

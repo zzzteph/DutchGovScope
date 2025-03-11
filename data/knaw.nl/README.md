@@ -538,8 +538,8 @@
 |[https://www.climatepursuit.nioo.knaw.nl](https://www.climatepursuit.nioo.knaw.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 |[https://type.labs.dans.knaw.nl](https://type.labs.dans.knaw.nl)| | **F**|uvicorn| | | | | | | | :white_check_mark: | |Python Uvicorn||
 |[http://goetgevonden.huygens.knaw.nl](http://goetgevonden.huygens.knaw.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|301 Moved Perman...|
-|[https://backoffice.knaw.nl](https://backoffice.knaw.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure HSTS Microsoft ASP.NET||
-|[https://www.back2roots.nioo.knaw.nl](https://www.back2roots.nioo.knaw.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Drupal HSTS Nginx PHP Varnish:6.2|Redirecting to h...|
+|[https://backoffice.knaw.nl](https://backoffice.knaw.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Azure HSTS Microsoft ASP.NET||
+|[https://www.back2roots.nioo.knaw.nl](https://www.back2roots.nioo.knaw.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Drupal:10 HSTS Nginx PHP Varnish:6.2|Redirecting to h...|
 |[https://gitlab.bioinf.nioo.knaw.nl](https://gitlab.bioinf.nioo.knaw.nl)| | **A**|nginx|:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://vangogh-letters.dev.huc.knaw.nl](https://vangogh-letters.dev.huc.knaw.nl)| | **F**|Apache/2.4.41 (Ubuntu)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.41 Ubuntu|Unauthorized|
 |[https://ats-test.knaw.nl](https://ats-test.knaw.nl)| | **A**|Apache|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| | :white_check_mark: | :white_check_mark: | |Apache HTTP Server|302 Found|

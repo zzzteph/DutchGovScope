@@ -126,7 +126,6 @@ http://demo.pb-pk.rivm.nl
 http://dev-mijnsap.rivm.nl
 https://dmponline.rivm.nl
 http://docsacc.rivm.nl
-https://download.webmail.rivm.nl
 https://webmail.rivm.nl
 https://draaiboekhielprikscreening.rivm.nl
 https://www.draaiboekhielprikscreening.rivm.nl

@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:84
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:83
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/rivm.nl/subdomains.txt)|260|Alive subdomains|
-|[urls.txt](/data/rivm.nl/urls.txt)|260|Urls|
+|[subdomains.txt](/data/rivm.nl/subdomains.txt)|259|Alive subdomains|
+|[urls.txt](/data/rivm.nl/urls.txt)|259|Urls|
 
 
 ## Statistics
@@ -148,7 +148,6 @@
 |[http://dev-mijnsap.rivm.nl](http://dev-mijnsap.rivm.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://dmponline.rivm.nl](https://dmponline.rivm.nl)| | **E**|Apache|:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server||
 |[http://docsacc.rivm.nl](http://docsacc.rivm.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[https://download.webmail.rivm.nl](https://download.webmail.rivm.nl)| | **C**||:warning: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://webmail.rivm.nl](https://webmail.rivm.nl)| | **C**||:warning: |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |F5 BigIP HSTS||
 |[https://draaiboekhielprikscreening.rivm.nl](https://draaiboekhielprikscreening.rivm.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP:8.1.31|Draaiboek Hielpr...|
 |[https://www.draaiboekhielprikscreening.rivm.nl](https://www.draaiboekhielprikscreening.rivm.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|

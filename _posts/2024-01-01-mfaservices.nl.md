@@ -2,11 +2,11 @@
 layout: default
 title: "mfaservices.nl"
 permalink: "/dutchgov/mfaservices.nl.html"
-subdomains_count: 62
-urls_count: 62
+subdomains_count: 58
+urls_count: 58
 ssl_rank: 
 http_rank: C
-security_txt: 12
+security_txt: 9
 url_link: /data/mfaservices.nl/urls.txt
 subdomains_link: /data/mfaservices.nl/subdomains.txt
 categories: dutchgov
@@ -20,13 +20,13 @@ tags: dutchgov
 
  - **SSL Grade**:
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:12
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:9
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/mfaservices.nl/subdomains.txt)|62|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/mfaservices.nl/urls.txt)|62|Urls|
+|[subdomains.txt](/DutchGovScope/data/mfaservices.nl/subdomains.txt)|58|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/mfaservices.nl/urls.txt)|58|Urls|
 
 
 ## Statistics
@@ -34,11 +34,7 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://consular.mfaservices.nl](https://consular.mfaservices.nl)| | **B**||:warning: |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |Akamai Akamai Bot Manager Azure Azure Front Door HSTS|Ministry of Fore...|
-|[https://cdn.consular.mfaservices.nl](https://cdn.consular.mfaservices.nl)| | **C**||:warning: |:white_check_mark: | | |:warning: | | | :white_check_mark: | |Akamai Akamai Bot Manager Azure Azure Front Door HSTS||
 |[https://url9097.consular.mfaservices.nl](https://url9097.consular.mfaservices.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|404 Not Found|
-|[https://login.consular.mfaservices.nl](https://login.consular.mfaservices.nl)| | **A**||:warning: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Akamai Akamai Bot Manager Azure Azure Front Door HSTS||
-|[https://dev.login.consular.mfaservices.nl](https://dev.login.consular.mfaservices.nl)| | **D**||:warning: |:white_check_mark: | | | | | | :white_check_mark: | |Akamai Akamai Bot Manager Azure Azure Front Door HSTS|Consular Service...|
 |[https://acc-insights.mfaservices.nl](https://acc-insights.mfaservices.nl)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
 |[https://acc-ls4.mfaservices.nl](https://acc-ls4.mfaservices.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
 |[https://acc.esp.mfaservices.nl](https://acc.esp.mfaservices.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|

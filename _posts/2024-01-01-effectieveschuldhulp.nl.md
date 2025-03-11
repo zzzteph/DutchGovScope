@@ -3,9 +3,9 @@ layout: default
 title: "effectieveschuldhulp.nl"
 permalink: "/dutchgov/effectieveschuldhulp.nl.html"
 subdomains_count: 1
-urls_count: 1
+urls_count: 0
 ssl_rank: 
-http_rank: E
+http_rank: F
 security_txt: 0
 url_link: /data/effectieveschuldhulp.nl/urls.txt
 subdomains_link: /data/effectieveschuldhulp.nl/subdomains.txt
@@ -19,14 +19,14 @@ tags: dutchgov
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:E
+ - **HTTP Security Grade**:F
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
 
 
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/effectieveschuldhulp.nl/subdomains.txt)|1|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/effectieveschuldhulp.nl/urls.txt)|1|Urls|
+|[urls.txt](/DutchGovScope/data/effectieveschuldhulp.nl/urls.txt)|0|Urls|
 
 
 ## Statistics
@@ -34,6 +34,5 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://effectieveschuldhulp.nl](https://effectieveschuldhulp.nl)| | **E**|| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.10 Debian||
 
 

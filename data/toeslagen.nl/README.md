@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/toeslagen.nl/subdomains.txt)|13|Alive subdomains|
-|[urls.txt](/data/toeslagen.nl/urls.txt)|13|Urls|
+|[subdomains.txt](/data/toeslagen.nl/subdomains.txt)|14|Alive subdomains|
+|[urls.txt](/data/toeslagen.nl/urls.txt)|14|Urls|
 
 
 ## Statistics
@@ -21,6 +21,7 @@
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://fed01.toeslagen.nl](https://fed01.toeslagen.nl)| | **C**||:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS|403 - Forbidden:...|
+|[https://fed01.tst.toeslagen.nl](https://fed01.tst.toeslagen.nl)| | **B**||:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|403 - Forbidden:...|
 |[https://fibt1.toeslagen.nl](https://fibt1.toeslagen.nl)| | **C**|| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||Request Rejected|
 |[https://herstel.toeslagen.nl](https://herstel.toeslagen.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS MySQL PHP WordPress Yoast SEO Premium:24.3 Yoast SEO:24.3|Website voor ged...|
 |[https://mijn.toeslagen.nl](https://mijn.toeslagen.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|Er is een fout o...|

@@ -39,7 +39,7 @@ tags: dutchgov
 |[https://acc-m.dh.doc-direkt.nl](https://acc-m.dh.doc-direkt.nl)| | **A**|| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |AngularJS HSTS||
 |[https://api.dh.doc-direkt.nl](https://api.dh.doc-direkt.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://dh.doc-direkt.nl](https://dh.doc-direkt.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |AngularJS HSTS|SigningHub|
-|[https://www.doc-direkt.nl](https://www.doc-direkt.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
-|[https://doc-direkt.nl](https://doc-direkt.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
+|[https://www.doc-direkt.nl](https://www.doc-direkt.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
+|[https://doc-direkt.nl](https://doc-direkt.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS IIS:10.0 Windows Server|Document Moved|
 
 

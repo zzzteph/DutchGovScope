@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/signaleringleefomgevingengezondheid.nl/subdomains.txt)|1|Alive subdomains|
-|[urls.txt](/data/signaleringleefomgevingengezondheid.nl/urls.txt)|1|Urls|
+|[subdomains.txt](/data/signaleringleefomgevingengezondheid.nl/subdomains.txt)|2|Alive subdomains|
+|[urls.txt](/data/signaleringleefomgevingengezondheid.nl/urls.txt)|2|Urls|
 
 
 ## Statistics
@@ -21,5 +21,6 @@
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://signaleringleefomgevingengezondheid.nl](https://signaleringleefomgevingengezondheid.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
+|[https://www.signaleringleefomgevingengezondheid.nl](https://www.signaleringleefomgevingengezondheid.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 
 

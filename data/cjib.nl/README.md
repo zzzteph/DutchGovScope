@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/cjib.nl/subdomains.txt)|19|Alive subdomains|
-|[urls.txt](/data/cjib.nl/urls.txt)|19|Urls|
+|[subdomains.txt](/data/cjib.nl/subdomains.txt)|20|Alive subdomains|
+|[urls.txt](/data/cjib.nl/urls.txt)|20|Urls|
 
 
 ## Statistics
@@ -35,6 +35,7 @@
 |[https://pay-acc.cjib.nl](https://pay-acc.cjib.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://pay.cjib.nl](https://pay.cjib.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://werken.cjib.nl](https://werken.cjib.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Java|VMware Horizon|
+|[https://vpn.cjib.nl](https://vpn.cjib.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://open.cjib.nl](https://open.cjib.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS||
 |[https://www.open.cjib.nl](https://www.open.cjib.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS||
 |[https://blauwe-knop-acc.cjib.nl](https://blauwe-knop-acc.cjib.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||

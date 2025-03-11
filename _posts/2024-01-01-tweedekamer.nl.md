@@ -2,8 +2,8 @@
 layout: default
 title: "tweedekamer.nl"
 permalink: "/dutchgov/tweedekamer.nl.html"
-subdomains_count: 137
-urls_count: 135
+subdomains_count: 132
+urls_count: 131
 ssl_rank: 
 http_rank: C
 security_txt: 78
@@ -25,8 +25,8 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/tweedekamer.nl/subdomains.txt)|137|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/tweedekamer.nl/urls.txt)|135|Urls|
+|[subdomains.txt](/DutchGovScope/data/tweedekamer.nl/subdomains.txt)|132|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/tweedekamer.nl/urls.txt)|131|Urls|
 
 
 ## Statistics
@@ -164,10 +164,6 @@ tags: dutchgov
 |[http://localhost.tweedekamer.nl](http://localhost.tweedekamer.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
 |[https://msoid.tweedekamer.nl](https://msoid.tweedekamer.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
 |[https://email.tweedekamer.nl](https://email.tweedekamer.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[http://acc.livedebat.tweedekamer.nl](http://acc.livedebat.tweedekamer.nl)| | **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap Nginx|Tweedekamer|
-|[http://api.acc.livedebat.tweedekamer.nl](http://api.acc.livedebat.tweedekamer.nl)| | **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap Nginx|Tweedekamer|
-|[http://ingest.acc.livedebat.tweedekamer.nl](http://ingest.acc.livedebat.tweedekamer.nl)| | **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap Nginx|Tweedekamer|
-|[http://stats.acc.livedebat.tweedekamer.nl](http://stats.acc.livedebat.tweedekamer.nl)| | **D**|nginx| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap Nginx|Tweedekamer|
 |[https://micc.tweedekamer.nl](https://micc.tweedekamer.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP||
 
 

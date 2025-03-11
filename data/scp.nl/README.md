@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:13
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:10
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/scp.nl/subdomains.txt)|19|Alive subdomains|
-|[urls.txt](/data/scp.nl/urls.txt)|19|Urls|
+|[subdomains.txt](/data/scp.nl/subdomains.txt)|16|Alive subdomains|
+|[urls.txt](/data/scp.nl/urls.txt)|16|Urls|
 
 
 ## Statistics
@@ -32,11 +32,8 @@
 |[https://feeds.english.scp.nl](https://feeds.english.scp.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://opendata.english.scp.nl](https://opendata.english.scp.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://testmail.scp.nl](https://testmail.scp.nl)| | **F**|BigIP| | | | | | | | :white_check_mark: | |F5 BigIP HSTS||
-|[https://mail.scp.nl](https://mail.scp.nl)| | **D**|BigIP|:warning: |:white_check_mark: | | | | | | :white_check_mark: | |F5 BigIP HSTS||
 |[https://repository.scp.nl](https://repository.scp.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|503 Service Temp...|
-|[https://test-cmsintranet.scp.nl](https://test-cmsintranet.scp.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|403 - Forbidden:...|
 |[http://autodiscover.scp.nl](http://autodiscover.scp.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
-|[https://download.mail.scp.nl](https://download.mail.scp.nl)| | **D**|BigIP|:warning: |:white_check_mark: | | | | | | :white_check_mark: | |F5 BigIP HSTS||
 |[https://feeds.scp.nl](https://feeds.scp.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://login.scp.nl](https://login.scp.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 

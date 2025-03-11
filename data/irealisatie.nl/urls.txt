@@ -1,17 +1,3 @@
-http://localisation.test.zm.irealisatie.nl
-https://pgodemo.test.zm.irealisatie.nl
-http://pseudonym.test.zm.irealisatie.nl
-https://qualification-api.test.zm.irealisatie.nl
-http://jaeger.test.zm.irealisatie.nl
-http://metadata-c.test.zm.irealisatie.nl
-http://metadata.test.zm.irealisatie.nl
-https://qualification-admin.test.zm.irealisatie.nl
-https://qualification.test.zm.irealisatie.nl
-http://addressing.test.zm.irealisatie.nl
-http://metadata-b.test.zm.irealisatie.nl
-http://prs.test.zm.irealisatie.nl
-http://timeline.test.zm.irealisatie.nl
-https://viewer.test.zm.irealisatie.nl
 https://adressering.proeftuin.gf.irealisatie.nl
 https://jaeger.proeftuin.gf.irealisatie.nl
 https://kwalificatie-admin-api.proeftuin.gf.irealisatie.nl
@@ -81,7 +67,6 @@ http://test.mgo.irealisatie.nl
 http://test.dpr.irealisatie.nl
 http://acc.mgo.irealisatie.nl
 http://acc.woo.irealisatie.nl
-http://www.test.zm.irealisatie.nl
 http://acc.dpr.irealisatie.nl
 http://acc.dusi.irealisatie.nl
 https://ccc.acc.irealisatie.nl
@@ -92,9 +77,6 @@ http://acme2.proeftuin.uzi-online.irealisatie.nl
 https://dva-mock.test.mgo.irealisatie.nl
 https://stats.proeftuin.gf.irealisatie.nl
 https://siem.acc.irealisatie.nl
-https://hapi2.test.zm.irealisatie.nl
-https://hapi1.test.zm.irealisatie.nl
-https://mcsd.test.zm.irealisatie.nl
 https://lmr-zuid.proeftuin.gf.irealisatie.nl
 https://lmr-noord.proeftuin.gf.irealisatie.nl
 https://lmr-oost.proeftuin.gf.irealisatie.nl

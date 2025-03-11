@@ -1,5 +1,3 @@
 https://digitalenoordzee.nl
-https://feeds.digitalenoordzee.nl
-https://opendata.digitalenoordzee.nl
 https://www.digitalenoordzee.nl
 https://spx-oec.digitalenoordzee.nl

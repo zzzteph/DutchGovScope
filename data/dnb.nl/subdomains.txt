@@ -95,7 +95,6 @@ www.dnb.nl
 enterpriseenrollment.dnb.nl
 registers.dnb.nl
 mediaportal.dnb.nl
-open.dnb.nl
 pla.dnb.nl
 plp.dnb.nl
 atender.dnb.nl

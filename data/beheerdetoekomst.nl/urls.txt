@@ -1,4 +1,2 @@
-https://opendata.beheerdetoekomst.nl
 https://www.beheerdetoekomst.nl
 https://beheerdetoekomst.nl
-https://feeds.beheerdetoekomst.nl

@@ -5,6 +5,5 @@ https://www.wodc.nl
 https://english.wodc.nl
 https://feeds.english.wodc.nl
 https://feeds.wodc.nl
-https://magazines.wodc.nl
 https://opendata.english.wodc.nl
 https://repository.wodc.nl

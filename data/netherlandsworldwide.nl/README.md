@@ -12,7 +12,7 @@
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/data/netherlandsworldwide.nl/subdomains.txt)|6|Alive subdomains|
-|[urls.txt](/data/netherlandsworldwide.nl/urls.txt)|5|Urls|
+|[urls.txt](/data/netherlandsworldwide.nl/urls.txt)|6|Urls|
 
 
 ## Statistics
@@ -25,5 +25,6 @@
 |[https://preview.netherlandsworldwide.nl](https://preview.netherlandsworldwide.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://a-www.netherlandsworldwide.nl](https://a-www.netherlandsworldwide.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS HTTP/3||
 |[http://update.netherlandsworldwide.nl](http://update.netherlandsworldwide.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
+|[https://www2.netherlandsworldwide.nl](https://www2.netherlandsworldwide.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS HTTP/3||
 
 

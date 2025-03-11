@@ -39,14 +39,9 @@ https://mbotransparant.databank.nl
 http://apollo.databank.nl
 http://demo-ebc.databank.nl
 https://ftgelderland.databank.nl
-https://beta-adc.databank.nl
-https://beta-klimaatbeleid.databank.nl
 https://beta-vivet.databank.nl
 https://beta-datawonen.databank.nl
-https://beta-klimaatmonitor.databank.nl
-https://beta-gdi.databank.nl
 https://beta-wsjg.databank.nl
-https://beta-woononderzoek.databank.nl
 http://cname-holland-rijnland.databank.nl
 https://erfgoed.databank.nl
 https://jdscan.databank.nl
@@ -64,16 +59,11 @@ https://cname-www-waterbenchmark-org.databank.nl
 https://cvo.databank.nl
 https://www.databank.nl
 https://www.diversiteitsindex.databank.nl
-https://hr-sectorwaterschappen.databank.nl
 https://pzh.databank.nl
-https://primostijdreeks.databank.nl
-https://prognoses.databank.nl
-https://primosinteractief.databank.nl
 https://prognosemodelzw.databank.nl
 https://www.gemeente.databank.nl
 https://abc.databank.nl
 https://limburg.databank.nl
-https://beta-noordholland.databank.nl
 https://cname-erfgoed.databank.nl
 https://www.ciz.databank.nl
 https://adc.databank.nl
@@ -110,9 +100,10 @@ https://beta2-arbeidsmarktmobiliteit.databank.nl
 https://beta-aisnbtc.databank.nl
 https://beta-veiligheidsmonitor.databank.nl
 https://beta-cbc.databank.nl
-http://beta-icontrol.databank.nl
+https://beta-icontrol.databank.nl
 https://cname-vakantieonderzoek-nbtc.databank.nl
 https://beta-energiecijfers.databank.nl
+https://beta-hr-sectorwaterschappen.databank.nl
 https://demo-primosinteractief.databank.nl
 https://beta-duurzamemobiliteit.databank.nl
 https://prognosemodelzw2022.databank.nl
@@ -120,6 +111,7 @@ https://test-zag.databank.nl
 http://cname-ebc.databank.nl
 https://aedesforecast.databank.nl
 https://accept-aedesforecast.databank.nl
+https://beta-nabb.databank.nl
 https://duurzaamdcmr.databank.nl
 https://beta-prognosemodelzw.databank.nl
 https://beta-nbtc.databank.nl
@@ -132,7 +124,7 @@ https://beta-mbotransparant.databank.nl
 https://povo.databank.nl
 https://lokaalklimaat.databank.nl
 https://beta-laadinfrastructuur.databank.nl
-http://prognosemodelzw2023.databank.nl
+https://prognosemodelzw2023.databank.nl
 https://duurzamemobiliteit.databank.nl
 https://wonenmetzorg.databank.nl
 https://beta-berst.databank.nl
@@ -172,3 +164,4 @@ https://prognosemodelzw2021.databank.nl
 https://arbeidsmarktoomt.databank.nl
 https://bronnenbeheer.databank.nl
 https://beta-ftgelderland.databank.nl
+https://www.arbeidsmarkt.databank.nl

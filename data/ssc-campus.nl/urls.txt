@@ -15,5 +15,4 @@ https://nwm-zw-output.ssc-campus.nl
 https://rivm-micol-a01p.rivm.ssc-campus.nl
 https://testconn-mp.ssc-campus.nl
 https://awv.rivm-micol-a01p.rivm.ssc-campus.nl
-http://localhost.ssc-campus.nl
 https://connect.ssc-campus.nl

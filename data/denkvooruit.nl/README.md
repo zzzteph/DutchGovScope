@@ -5,8 +5,8 @@
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:7
+ - **HTTP Security Grade**:B
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:5
 
 
 | File       | Count | Info |
@@ -20,12 +20,12 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://denkvooruit.nl](https://denkvooruit.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
-|[https://english.denkvooruit.nl](https://english.denkvooruit.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Denk voor...|
+|[https://denkvooruit.nl](https://denkvooruit.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
+|[https://english.denkvooruit.nl](https://english.denkvooruit.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Bloomreach HSTS HTTP/3|Home | Denk voor...|
 |[https://feeds.denkvooruit.nl](https://feeds.denkvooruit.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://feeds.english.denkvooruit.nl](https://feeds.english.denkvooruit.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
+|[http://feeds.english.denkvooruit.nl](http://feeds.english.denkvooruit.nl)| | **F**|AkamaiGHost| | | | | | | | :white_check_mark: | |HSTS Nginx|Invalid URL|
 |[https://opendata.denkvooruit.nl](https://opendata.denkvooruit.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://opendata.english.denkvooruit.nl](https://opendata.english.denkvooruit.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://www.denkvooruit.nl](https://www.denkvooruit.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | Denk voor...|
+|[http://opendata.english.denkvooruit.nl](http://opendata.english.denkvooruit.nl)| | **F**|AkamaiGHost| | | | | | | | :white_check_mark: | |HSTS Nginx|Invalid URL|
+|[https://www.denkvooruit.nl](https://www.denkvooruit.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Bloomreach HSTS HTTP/3|Home | Denk voor...|
 
 

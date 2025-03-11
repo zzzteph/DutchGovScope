@@ -1,4 +1,2 @@
-feeds.metelkaartrekkenwedegrens.nl
 metelkaartrekkenwedegrens.nl
 www.metelkaartrekkenwedegrens.nl
-opendata.metelkaartrekkenwedegrens.nl

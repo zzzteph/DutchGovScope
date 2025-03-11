@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/nza.nl/subdomains.txt)|35|Alive subdomains|
-|[urls.txt](/data/nza.nl/urls.txt)|35|Urls|
+|[subdomains.txt](/data/nza.nl/subdomains.txt)|34|Alive subdomains|
+|[urls.txt](/data/nza.nl/urls.txt)|34|Urls|
 
 
 ## Statistics
@@ -50,7 +50,6 @@
 |[https://zorgproducten-acc.nza.nl](https://zorgproducten-acc.nza.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure HSTS Microsoft ASP.NET|NZa zorgproducta...|
 |[https://zorgproducten.nza.nl](https://zorgproducten.nza.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure HSTS Microsoft ASP.NET|NZa zorgproducta...|
 |[https://aanvragen-acc.nza.nl](https://aanvragen-acc.nza.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Deze pagina is m...|
-|[https://mijn.nza.nl](https://mijn.nza.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx|Deze pagina is m...|
 |[https://opendisdata.nza.nl](https://opendisdata.nza.nl)| | **B**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Bootstrap:5.3.1 HSTS||
 |[http://agw01-nomail.nza.nl](http://agw01-nomail.nza.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Web Page Blocked|
 |[https://jv.nza.nl](https://jv.nza.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|JMV|

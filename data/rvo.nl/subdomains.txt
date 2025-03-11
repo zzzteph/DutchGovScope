@@ -69,6 +69,7 @@ gtpa-acc.rvo.nl
 gtpa.rvo.nl
 infographics.rvo.nl
 www.infographics.rvo.nl
+intra-acc.rvo.nl
 intra-cms-acc.rvo.nl
 intra-cms.rvo.nl
 intra.rvo.nl
@@ -102,6 +103,7 @@ edicrop.rvo.nl
 gdi-b.rvo.nl
 ih-static.rvo.nl
 kostenkentallen.rvo.nl
+ojb.rvo.nl
 rhel-p-mijn.rvo.nl
 rhel-np-mijn.rvo.nl
 sandbox.rvo.nl

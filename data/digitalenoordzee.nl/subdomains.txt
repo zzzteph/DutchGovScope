@@ -1,5 +1,3 @@
 digitalenoordzee.nl
-feeds.digitalenoordzee.nl
-opendata.digitalenoordzee.nl
 www.digitalenoordzee.nl
 spx-oec.digitalenoordzee.nl

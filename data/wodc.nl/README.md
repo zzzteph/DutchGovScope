@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:9
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:8
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/wodc.nl/subdomains.txt)|10|Alive subdomains|
-|[urls.txt](/data/wodc.nl/urls.txt)|10|Urls|
+|[subdomains.txt](/data/wodc.nl/subdomains.txt)|9|Alive subdomains|
+|[urls.txt](/data/wodc.nl/urls.txt)|9|Urls|
 
 
 ## Statistics
@@ -27,7 +27,6 @@
 |[https://english.wodc.nl](https://english.wodc.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bloomreach HSTS Nginx|Home | WODC - Re...|
 |[https://feeds.english.wodc.nl](https://feeds.english.wodc.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://feeds.wodc.nl](https://feeds.wodc.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://magazines.wodc.nl](https://magazines.wodc.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://opendata.english.wodc.nl](https://opendata.english.wodc.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://repository.wodc.nl](https://repository.wodc.nl)| | **D**|Apache-Coyote/1.1|:warning: |:white_check_mark: | | | | | | :white_check_mark: | |Apache Tomcat HSTS Java|WODC Repository|
 

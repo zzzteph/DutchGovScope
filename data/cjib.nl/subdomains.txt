@@ -13,6 +13,7 @@ dsp.cjib.nl
 pay-acc.cjib.nl
 pay.cjib.nl
 werken.cjib.nl
+vpn.cjib.nl
 open.cjib.nl
 www.open.cjib.nl
 blauwe-knop-acc.cjib.nl

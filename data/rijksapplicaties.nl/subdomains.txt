@@ -5,7 +5,6 @@ login-ienw.rijksapplicaties.nl
 keys-updates.rijksapplicaties.nl
 login-fin.rijksapplicaties.nl
 rvb-dtc-webservice.rijksapplicaties.nl
-rvb-dfss.rijksapplicaties.nl
 login-az.rijksapplicaties.nl
 login-bz.rijksapplicaties.nl
 login-bzk.rijksapplicaties.nl
@@ -90,7 +89,6 @@ dib-ienw.staging.rijksapplicaties.nl
 dib-nea.staging.rijksapplicaties.nl
 ncg-hr-ws.staging.rijksapplicaties.nl
 qr-app.staging.rijksapplicaties.nl
-rvb-dfss.staging.rijksapplicaties.nl
 rvb-mva.staging.rijksapplicaties.nl
 rvb-vmr.staging.rijksapplicaties.nl
 bda.staging.rijksapplicaties.nl

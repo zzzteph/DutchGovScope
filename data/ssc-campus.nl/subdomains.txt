@@ -15,5 +15,4 @@ nwm-zw-output.ssc-campus.nl
 rivm-micol-a01p.rivm.ssc-campus.nl
 testconn-mp.ssc-campus.nl
 awv.rivm-micol-a01p.rivm.ssc-campus.nl
-localhost.ssc-campus.nl
 connect.ssc-campus.nl

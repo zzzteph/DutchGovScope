@@ -1,5 +1,4 @@
 https://academy.cbs.nl
-https://amunet.cbs.nl
 https://test.cerberus.cbs.nl
 https://acc.cerberus.cbs.nl
 https://acctestenquete1.cbs.nl
@@ -133,6 +132,7 @@ https://www.historisch.cbs.nl
 https://designsystem.cbs.nl
 https://dev.cerberus.cbs.nl
 https://evenementen.cbs.nl
+https://ftpblaise.cbs.nl
 https://fubecasper.cbs.nl
 https://projecten.cbs.nl
 https://welkombij.cbs.nl
@@ -166,7 +166,6 @@ https://testchat.cbs.nl
 https://webext.cbs.nl
 https://cerberus.cbs.nl
 https://content1.cbs.nl
-https://gecko.cbs.nl
 https://login-databestanden.test.cbs.nl
 https://beh-iam.acceptatie.cbs.nl
 https://geodata.cbs.nl

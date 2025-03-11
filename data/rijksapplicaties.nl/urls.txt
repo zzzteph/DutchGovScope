@@ -5,7 +5,6 @@ https://login-ienw.rijksapplicaties.nl
 https://keys-updates.rijksapplicaties.nl
 https://login-fin.rijksapplicaties.nl
 https://rvb-dtc-webservice.rijksapplicaties.nl
-https://rvb-dfss.rijksapplicaties.nl
 https://login-az.rijksapplicaties.nl
 https://login-bz.rijksapplicaties.nl
 https://login-bzk.rijksapplicaties.nl
@@ -90,7 +89,6 @@ https://dib-ienw.staging.rijksapplicaties.nl
 https://dib-nea.staging.rijksapplicaties.nl
 https://ncg-hr-ws.staging.rijksapplicaties.nl
 https://qr-app.staging.rijksapplicaties.nl
-https://rvb-dfss.staging.rijksapplicaties.nl
 https://rvb-mva.staging.rijksapplicaties.nl
 https://rvb-vmr.staging.rijksapplicaties.nl
 https://bda.staging.rijksapplicaties.nl
