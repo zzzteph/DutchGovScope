@@ -5,7 +5,7 @@
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:C
+ - **HTTP Security Grade**:D
  - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:9
 
 
@@ -28,8 +28,8 @@
 |[https://acc.nww.mfaservices.nl](https://acc.nww.mfaservices.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|403 Forbidden|
 |[https://consular-service.consular.mfaservices.nl](https://consular-service.consular.mfaservices.nl)| | **C**||:warning: |:white_check_mark: | | |:warning: | | | :white_check_mark: | |Akamai Akamai Bot Manager Azure Azure Front Door HSTS||
 |[https://snd.consular.mfaservices.nl](https://snd.consular.mfaservices.nl)| | **D**||:warning: |:white_check_mark: | | | | | | :white_check_mark: | |Akamai Akamai Bot Manager Azure Azure Front Door HSTS|Consular Service...|
-|[http://tst.consular-service.consular.mfaservices.nl](http://tst.consular-service.consular.mfaservices.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |Akamai Akamai Bot Manager||
-|[http://snd.consular-service.consular.mfaservices.nl](http://snd.consular-service.consular.mfaservices.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |Akamai Akamai Bot Manager||
+|[https://tst.consular-service.consular.mfaservices.nl](https://tst.consular-service.consular.mfaservices.nl)| | **D**||:warning: |:white_check_mark: | | | | | | :white_check_mark: | |Akamai Akamai Bot Manager Azure Azure Front Door HSTS|Consular Service...|
+|[https://snd.consular-service.consular.mfaservices.nl](https://snd.consular-service.consular.mfaservices.nl)| | **D**||:warning: |:white_check_mark: | | | | | | :white_check_mark: | |Akamai Akamai Bot Manager Azure Azure Front Door HSTS|Consular Service...|
 |[https://tst.cdn.consular.mfaservices.nl](https://tst.cdn.consular.mfaservices.nl)| | **D**||:warning: |:white_check_mark: | | | | | | :white_check_mark: | |Akamai Akamai Bot Manager Azure Azure Front Door HSTS|Consular Service...|
 |[https://tst.consular.mfaservices.nl](https://tst.consular.mfaservices.nl)| | **D**||:warning: |:white_check_mark: | | | | | | :white_check_mark: | |Akamai Akamai Bot Manager Azure Azure Front Door HSTS|Consular Service...|
 |[https://tst.login.consular.mfaservices.nl](https://tst.login.consular.mfaservices.nl)| | **D**||:warning: |:white_check_mark: | | | | | | :white_check_mark: | |Akamai Akamai Bot Manager Azure Azure Front Door HSTS|Consular Service...|

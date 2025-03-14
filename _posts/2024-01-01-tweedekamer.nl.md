@@ -2,7 +2,7 @@
 layout: default
 title: "tweedekamer.nl"
 permalink: "/dutchgov/tweedekamer.nl.html"
-subdomains_count: 132
+subdomains_count: 131
 urls_count: 131
 ssl_rank: 
 http_rank: C
@@ -25,7 +25,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/tweedekamer.nl/subdomains.txt)|132|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/tweedekamer.nl/subdomains.txt)|131|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/tweedekamer.nl/urls.txt)|131|Urls|
 
 
@@ -83,7 +83,7 @@ tags: dutchgov
 |[https://bezoekers.tweedekamer.nl](https://bezoekers.tweedekamer.nl)| | **B**|nginx| | | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Nginx PHP||
 |[https://cdn.debatdirect.tweedekamer.nl](https://cdn.debatdirect.tweedekamer.nl)| | **B**|CloudFront| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |Amazon CloudFront Amazon Web Services HSTS||
 |[https://correctie.tweedekamer.nl](https://correctie.tweedekamer.nl)| | **D**|| | | | | | :white_check_mark: | | :white_check_mark: | ||Onverwachte fout|
-|[https://debatdirect.tweedekamer.nl](https://debatdirect.tweedekamer.nl)| | **A**|AmazonS3| |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |Amazon CloudFront Amazon S3 Amazon Web Services Azure Edge Network HSTS|Deze week in de...|
+|[https://debatdirect.tweedekamer.nl](https://debatdirect.tweedekamer.nl)| | **A**|AmazonS3| |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |Amazon CloudFront Amazon S3 Amazon Web Services HSTS|Deze week in de...|
 |[https://debatgemist.acceptatie.tweedekamer.nl](https://debatgemist.acceptatie.tweedekamer.nl)| | **A**|| |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |Amazon CloudFront Amazon Web Services||
 |[https://debatgemist.tweedekamer.nl](https://debatgemist.tweedekamer.nl)| | **A**|| |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |Amazon CloudFront Amazon Web Services||
 |[https://enroll-tkmw.tweedekamer.nl](https://enroll-tkmw.tweedekamer.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|IIS Windows Serv...|
@@ -110,9 +110,9 @@ tags: dutchgov
 |[https://www.onderzoek.tweedekamer.nl](https://www.onderzoek.tweedekamer.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Onderzoekdoen.nl...|
 |[https://rapportaardgaswinning.tweedekamer.nl](https://rapportaardgaswinning.tweedekamer.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Groningers boven...|
 |[https://rapportaardgaswinninggroningen.tweedekamer.nl](https://rapportaardgaswinninggroningen.tweedekamer.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
-|[https://werkenbij.tweedekamer.nl](https://werkenbij.tweedekamer.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Drupal:10 HSTS Nginx PHP:8.1.29|Homepage Werken...|
+|[https://werkenbij.tweedekamer.nl](https://werkenbij.tweedekamer.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Drupal:10 HSTS PHP|Homepage Werken...|
 |[https://ontdek.tweedekamer.nl](https://ontdek.tweedekamer.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Tweede Kamer Tou...|
-|[https://opendata.tweedekamer.nl](https://opendata.tweedekamer.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal:10 HSTS Nginx PHP|De open data van...|
+|[https://opendata.tweedekamer.nl](https://opendata.tweedekamer.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal:10 HSTS PHP|De open data van...|
 |[https://plus.debatdirect.tweedekamer.nl](https://plus.debatdirect.tweedekamer.nl)| | **B**|CloudFront| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |Amazon CloudFront Amazon Web Services HSTS||
 |[https://pwk.tweedekamer.nl](https://pwk.tweedekamer.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS|Loading...|
 |[https://service.tweedekamer.nl](https://service.tweedekamer.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||

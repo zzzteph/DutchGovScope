@@ -1,9 +1,7 @@
 https://english.kabinetvandekoning.nl
 http://feeds.english.kabinetvandekoning.nl
-https://feeds.kabinetvandekoning.nl
 https://kabinetvandekoning.nl
 http://opendata.english.kabinetvandekoning.nl
-https://opendata.kabinetvandekoning.nl
 https://www.kabinetvandekoning.nl
 http://autodiscover.kabinetvandekoning.nl
 https://enterpriseenrollment.kabinetvandekoning.nl

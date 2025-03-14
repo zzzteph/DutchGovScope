@@ -37,7 +37,7 @@ tags: dutchgov
 |[https://mijn.waarderingskamer.nl](https://mijn.waarderingskamer.nl)| | **C**|nginx|:o: |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET Nginx|Mijn Waarderings...|
 |[https://www.waarderingskamer.nl](https://www.waarderingskamer.nl)| | **B**|nginx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Alpine.js Craft CMS HSTS Nginx SEOmatic Yii|Waarderingskamer...|
 |[https://waarderingskamer.nl](https://waarderingskamer.nl)| | **B**|nginx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
-|[https://acceptatie.waarderingskamer.nl](https://acceptatie.waarderingskamer.nl)| | **B**|nginx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Alpine.js Craft CMS HSTS Nginx SEOmatic Yii|Waarderingskamer|
+|[https://acceptatie.waarderingskamer.nl](https://acceptatie.waarderingskamer.nl)| | **B**|nginx| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Nginx|403 Forbidden|
 |[https://exchange.waarderingskamer.nl](https://exchange.waarderingskamer.nl)| | **E**|Microsoft-IIS/10.0| | | | | | :white_check_mark: | | :white_check_mark: | |IIS:10.0 Windows Server||
 |[https://autodiscover.waarderingskamer.nl](https://autodiscover.waarderingskamer.nl)| | **E**|Microsoft-IIS/10.0| | | | | | :white_check_mark: | | :white_check_mark: | |IIS:10.0 Windows Server||
 |[https://download.waarderingskamer.nl](https://download.waarderingskamer.nl)| | **E**|Microsoft-IIS/10.0| | | | | | :white_check_mark: | | :white_check_mark: | |IIS:10.0 Windows Server||

@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:49
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:48
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/dnb.nl/subdomains.txt)|124|Alive subdomains|
-|[urls.txt](/data/dnb.nl/urls.txt)|124|Urls|
+|[subdomains.txt](/data/dnb.nl/subdomains.txt)|122|Alive subdomains|
+|[urls.txt](/data/dnb.nl/urls.txt)|122|Urls|
 
 
 ## Statistics
@@ -47,7 +47,6 @@
 |[https://screening.dnb.nl](https://screening.dnb.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Azure Azure Front Door HSTS||
 |[https://dlo.dnb.nl](https://dlo.dnb.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Azure Azure Front Door HSTS||
 |[https://login-pp.dnb.nl](https://login-pp.dnb.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Azure Azure Front Door HSTS||
-|[https://dnb.nl](https://dnb.nl)| | **A**|AkamaiGHost| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://docs.riks-acc.azure.dnb.nl](https://docs.riks-acc.azure.dnb.nl)| | **E**|| | | | | | | | :white_check_mark: | |Bootstrap:5.2.3|Azure Static Web...|
 |[https://docs.riks-ci.azure.dnb.nl](https://docs.riks-ci.azure.dnb.nl)| | **E**|| | | | | | | | :white_check_mark: | |Bootstrap:5.2.3|Azure Static Web...|
 |[https://docs.riks-ft.azure.dnb.nl](https://docs.riks-ft.azure.dnb.nl)| | **E**|| | | | | | | | :white_check_mark: | |Bootstrap:5.2.3|Azure Static Web...|
@@ -108,8 +107,6 @@
 |[https://rmdm-beheerapp-dev.azure.dnb.nl](https://rmdm-beheerapp-dev.azure.dnb.nl)| | **E**|| | | | | | | | :white_check_mark: | |Bootstrap:5.2.3|Azure Static Web...|
 |[https://tzorganisatiegegevens-dev.dnb.nl](https://tzorganisatiegegevens-dev.dnb.nl)| | **E**|| | | | | | | | :white_check_mark: | |Bootstrap:5.2.3|Azure Static Web...|
 |[https://securemail.dnb.nl](https://securemail.dnb.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|Auto-Forward ind...|
-|[https://statistiek.dnb.nl](https://statistiek.dnb.nl)| | **A**|AkamaiGHost| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Access Denied|
-|[https://toezicht.dnb.nl](https://toezicht.dnb.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Object moved per...|
 |[https://www.toezicht.dnb.nl](https://www.toezicht.dnb.nl)| | **A**|AkamaiGHost| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Access Denied|
 |[https://stepui-dev.azure.dnb.nl](https://stepui-dev.azure.dnb.nl)| | **E**|| | | | | | | | :white_check_mark: | |Bootstrap:5.2.3|Azure Static Web...|
 |[https://tz-organisatiegegevens.dnb.nl](https://tz-organisatiegegevens.dnb.nl)| | **A**|| |:white_check_mark: | | |:warning: | | | :white_check_mark: | |Azure Azure Front Door||
@@ -117,6 +114,7 @@
 |[https://enterpriseenrollment.dnb.nl](https://enterpriseenrollment.dnb.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
 |[http://registers.dnb.nl](http://registers.dnb.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Error - De Neder...|
 |[http://mediaportal.dnb.nl](http://mediaportal.dnb.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
+|[https://open.dnb.nl](https://open.dnb.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Object moved per...|
 |[https://pla.dnb.nl](https://pla.dnb.nl)| | **F**|webserver| | | | | | | | :white_check_mark: | |HSTS Java||
 |[https://plp.dnb.nl](https://plp.dnb.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Java||
 |[https://atender.dnb.nl](https://atender.dnb.nl)| | **A**||:o: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |Microsoft ASP.NET||

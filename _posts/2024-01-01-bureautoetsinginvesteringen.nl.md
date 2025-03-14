@@ -2,7 +2,7 @@
 layout: default
 title: "bureautoetsinginvesteringen.nl"
 permalink: "/dutchgov/bureautoetsinginvesteringen.nl.html"
-subdomains_count: 4
+subdomains_count: 2
 urls_count: 2
 ssl_rank: 
 http_rank: A
@@ -25,7 +25,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/bureautoetsinginvesteringen.nl/subdomains.txt)|4|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/bureautoetsinginvesteringen.nl/subdomains.txt)|2|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/bureautoetsinginvesteringen.nl/urls.txt)|2|Urls|
 
 

@@ -20,7 +20,6 @@ docs-dev.aerius.nl
 docs-staging.aerius.nl
 grafana-dev.aerius.nl
 grip-docs.aerius.nl
-register-pentest.aerius.nl
 auth-register-pentest.aerius.nl
 maintenance.aerius.nl
 onderhoud.aerius.nl

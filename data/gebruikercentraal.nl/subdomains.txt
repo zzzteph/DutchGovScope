@@ -43,7 +43,6 @@ toolkittaal.gebruikercentraal.nl
 international.gebruikercentraal.nl
 omnichannel.gebruikercentraal.nl
 cx.gebruikercentraal.nl
-duidelijk.gebruikercentraal.nl
 test.optimaaldigitaal.gebruikercentraal.nl
 inclusievedienstverlening.gebruikercentraal.nl
 autodiscover.gebruikercentraal.nl

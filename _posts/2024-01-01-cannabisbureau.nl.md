@@ -2,7 +2,7 @@
 layout: default
 title: "cannabisbureau.nl"
 permalink: "/dutchgov/cannabisbureau.nl.html"
-subdomains_count: 7
+subdomains_count: 5
 urls_count: 5
 ssl_rank: 
 http_rank: C
@@ -25,7 +25,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/cannabisbureau.nl/subdomains.txt)|7|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/cannabisbureau.nl/subdomains.txt)|5|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/cannabisbureau.nl/urls.txt)|5|Urls|
 
 

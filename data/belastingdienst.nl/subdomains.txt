@@ -9,8 +9,6 @@ www.belastingdienst.nl
 beta.belastingdienst.nl
 betalen-cnf.belastingdienst.nl
 betalen.belastingdienst.nl
-brm.belastingdienst.nl
-brmrest-test.belastingdienst.nl
 bvs.belastingdienst.nl
 cciwebstats.belastingdienst.nl
 centraalaanspreekpuntpensioenen.belastingdienst.nl

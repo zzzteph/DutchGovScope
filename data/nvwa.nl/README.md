@@ -6,7 +6,7 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:18
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:17
 
 
 | File       | Count | Info |
@@ -52,7 +52,7 @@
 |[https://vgc.nvwa.nl](https://vgc.nvwa.nl)| | **B**||:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS|Error 404--Not F...|
 |[https://videoleren.nvwa.nl](https://videoleren.nvwa.nl)| | **D**|cloudflare|:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |Cloudflare Cloudflare Bot Management HSTS|POST data|
 |[https://e-certnl.nvwa.nl](https://e-certnl.nvwa.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
-|[https://forms.nvwa.nl](https://forms.nvwa.nl)| | **A**||:white_check_mark: |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Object moved|
+|[https://forms.nvwa.nl](https://forms.nvwa.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|IIS Windows Serv...|
 |[https://www.inspectieresultaten.nvwa.nl](https://www.inspectieresultaten.nvwa.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 |[https://soap.openbare-inspectieresultaten.nvwa.nl](https://soap.openbare-inspectieresultaten.nvwa.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
 

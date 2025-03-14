@@ -1,4 +1,3 @@
-acc.translate.services.cultureelerfgoed.nl
 acc.archis.cultureelerfgoed.nl
 acc.auth.services.cultureelerfgoed.nl
 acc.gml.map.services.cultureelerfgoed.nl
@@ -36,14 +35,13 @@ kennis.cultureelerfgoed.nl
 test.kennis-staging.cultureelerfgoed.nl
 test.kennis.cultureelerfgoed.nl
 wikixl-saml.cultureelerfgoed.nl
+lil.cultureelerfgoed.nl
+noaa.cultureelerfgoed.nl
+pom.cultureelerfgoed.nl
+thesaurus.cultureelerfgoed.nl
 mass.cultureelerfgoed.nl
 monumentenregister.cultureelerfgoed.nl
 www.monumentenregister.cultureelerfgoed.nl
-plastic-en.tool.cultureelerfgoed.nl
-plastic.tool.cultureelerfgoed.nl
-stuc.tool.cultureelerfgoed.nl
-verf.tool.cultureelerfgoed.nl
-paint.tool.cultureelerfgoed.nl
 subsidie.cultureelerfgoed.nl
 test.geoservices.cultureelerfgoed.nl
 test.monumentenregister.cultureelerfgoed.nl

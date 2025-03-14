@@ -5,7 +5,6 @@ onderzoek.politie.nl
 rss.acceptatie.politie.nl
 edison.politie.nl
 www.politie.nl
-api.politie.nl
 fts.politie.nl
 kombijde.politie.nl
 aangifte.politie.nl

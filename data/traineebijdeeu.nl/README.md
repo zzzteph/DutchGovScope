@@ -5,14 +5,14 @@
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:F
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
+ - **HTTP Security Grade**:A
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/traineebijdeeu.nl/subdomains.txt)|0|Alive subdomains|
-|[urls.txt](/data/traineebijdeeu.nl/urls.txt)|0|Urls|
+|[subdomains.txt](/data/traineebijdeeu.nl/subdomains.txt)|2|Alive subdomains|
+|[urls.txt](/data/traineebijdeeu.nl/urls.txt)|2|Urls|
 
 
 ## Statistics
@@ -20,5 +20,7 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
+|[https://traineebijdeeu.nl](https://traineebijdeeu.nl)| | **A**|AkamaiGHost| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS HTTP/3||
+|[https://www.traineebijdeeu.nl](https://www.traineebijdeeu.nl)| | **A**|AkamaiGHost| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS HTTP/3||
 
 

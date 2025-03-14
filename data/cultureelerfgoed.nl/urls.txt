@@ -1,4 +1,3 @@
-http://acc.translate.services.cultureelerfgoed.nl
 https://acc.archis.cultureelerfgoed.nl
 https://acc.auth.services.cultureelerfgoed.nl
 http://acc.gml.map.services.cultureelerfgoed.nl
@@ -36,14 +35,13 @@ https://kennis.cultureelerfgoed.nl
 https://test.kennis-staging.cultureelerfgoed.nl
 https://test.kennis.cultureelerfgoed.nl
 https://wikixl-saml.cultureelerfgoed.nl
+http://lil.cultureelerfgoed.nl
+http://noaa.cultureelerfgoed.nl
+http://pom.cultureelerfgoed.nl
+http://thesaurus.cultureelerfgoed.nl
 https://mass.cultureelerfgoed.nl
 https://monumentenregister.cultureelerfgoed.nl
 https://www.monumentenregister.cultureelerfgoed.nl
-https://plastic-en.tool.cultureelerfgoed.nl
-https://plastic.tool.cultureelerfgoed.nl
-https://stuc.tool.cultureelerfgoed.nl
-https://verf.tool.cultureelerfgoed.nl
-https://paint.tool.cultureelerfgoed.nl
 https://subsidie.cultureelerfgoed.nl
 https://test.geoservices.cultureelerfgoed.nl
 https://test.monumentenregister.cultureelerfgoed.nl
@@ -66,3 +64,4 @@ https://preprod.idselect.cultureelerfgoed.nl
 https://prd.archis.cultureelerfgoed.nl
 http://zaak.services.cultureelerfgoed.nl
 https://api-gateway.archis.cultureelerfgoed.nl
+http://client.archis.cultureelerfgoed.nl

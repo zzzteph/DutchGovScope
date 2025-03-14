@@ -14,8 +14,15 @@ https://mijn.duo.nl
 https://onderwijsdata.duo.nl
 https://personenregisterkinderopvang.duo.nl
 https://staging.duo.nl
+https://test-onderwijsdata.duo.nl
 https://uag.duo.nl
+https://vt-apps.duo.nl
+https://vt-digidzakelijk.duo.nl
+https://vt-eidas-mijn.duo.nl
+https://vt-idposr.duo.nl
+https://vt-mijn.duo.nl
 https://vt-personenregisterkinderopvang.duo.nl
+https://vt-zakelijk.duo.nl
 https://werkplek.duo.nl
 https://xbrlonderwijsportaal-acp.duo.nl
 https://xbrlonderwijsportaal.duo.nl

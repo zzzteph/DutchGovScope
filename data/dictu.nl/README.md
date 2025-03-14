@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:D
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:16
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:17
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/dictu.nl/subdomains.txt)|65|Alive subdomains|
-|[urls.txt](/data/dictu.nl/urls.txt)|65|Urls|
+|[subdomains.txt](/data/dictu.nl/subdomains.txt)|67|Alive subdomains|
+|[urls.txt](/data/dictu.nl/urls.txt)|66|Urls|
 
 
 ## Statistics
@@ -45,10 +45,10 @@
 |[https://prod.dictu.nl](https://prod.dictu.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx||
 |[https://servicedesk.dictu.nl](https://servicedesk.dictu.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
 |[https://simplesamlidp.dictu.nl](https://simplesamlidp.dictu.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Authorizatio...|
-|[https://engine.acc.fhub.dictu.nl](https://engine.acc.fhub.dictu.nl)| | **B**|Apache|:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|dictu - Metadata...|
+|[https://engine.acc.fhub.dictu.nl](https://engine.acc.fhub.dictu.nl)| | **B**|Apache|:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|OpenConext - Met...|
 |[https://engine.fhub.dictu.nl](https://engine.fhub.dictu.nl)| | **D**|Apache|:warning: |:white_check_mark: | | | | | | :white_check_mark: | |Apache HTTP Server HSTS|dictu - Metadata...|
 |[https://fhub.dictu.nl](https://fhub.dictu.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
-|[https://gisextern.dictu.nl](https://gisextern.dictu.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|IIS Windows Serv...|
+|[https://gisextern.dictu.nl](https://gisextern.dictu.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Service Unavaila...|
 |[https://ibabs.dictu.nl](https://ibabs.dictu.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Not Found|
 |[https://pms.dictu.nl](https://pms.dictu.nl)| | **C**||:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 |[https://ibg.datasluis.dictu.nl](https://ibg.datasluis.dictu.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Redirect|
@@ -57,12 +57,13 @@
 |[https://mailing.dictu.nl](https://mailing.dictu.nl)| | **C**|Spotler| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://mft.webftp.dictu.nl](https://mft.webftp.dictu.nl)| | **D**|| | | | | | | :white_check_mark: | :white_check_mark: | ||Redirect|
 |[https://mijntoken.dictu.nl](https://mijntoken.dictu.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Oracle Dynamic Monitoring Service Oracle WebLogic Server|302 Moved Tempor...|
+|[http://pms-acc.dictu.nl](http://pms-acc.dictu.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET||
 |[https://procesweb-test.dictu.nl](https://procesweb-test.dictu.nl)| | **F**|CloudFront|:o: | | | | :white_check_mark:| | | :white_check_mark: | |Amazon CloudFront Amazon Web Services HSTS||
 |[https://procesweb.dictu.nl](https://procesweb.dictu.nl)| | **F**|CloudFront|:o: | | | | :white_check_mark:| | | :white_check_mark: | |Amazon CloudFront Amazon Web Services HSTS||
 |[https://sfs-acc.dictu.nl](https://sfs-acc.dictu.nl)| | **A**|Seclore Server|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Java||
 |[https://sfs.dictu.nl](https://sfs.dictu.nl)| | **A**|Seclore Server|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Java||
 |[https://test-azure06.dictu.nl](https://test-azure06.dictu.nl)| | **F**|nginx/1.19.2| | | | | | | | :white_check_mark: | |Nginx:1.19.2|Welcome to nginx...|
-|[https://trillingsdata-acc.dictu.nl](https://trillingsdata-acc.dictu.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Index|
+|[https://trillingsdata-acc.dictu.nl](https://trillingsdata-acc.dictu.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Index|
 |[https://trillingsdata.dictu.nl](https://trillingsdata.dictu.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Index|
 |[https://tvep.dictu.nl](https://tvep.dictu.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |||
 |[https://vpn-tst.dictu.nl](https://vpn-tst.dictu.nl)| | **F**|CPWS| | | | | | | | :white_check_mark: | |HSTS|403 Forbidden|

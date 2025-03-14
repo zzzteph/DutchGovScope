@@ -3,4 +3,3 @@ https://atlasnatuurlijkkapitaal.nl
 https://www.atlasnatuurlijkkapitaal.nl
 http://ontwikkel.atlasnatuurlijkkapitaal.nl
 http://test.atlasnatuurlijkkapitaal.nl
-https://prd.atlasnatuurlijkkapitaal.nl

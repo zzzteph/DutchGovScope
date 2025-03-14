@@ -11,7 +11,6 @@ www.nederlandwereldwijd.nl
 a-informatieservice.nederlandwereldwijd.nl
 dev.opendata.nederlandwereldwijd.nl
 a-www.nederlandwereldwijd.nl
-dev.informatieservice.nederlandwereldwijd.nl
 acc.informatieservice.nederlandwereldwijd.nl
 onderzoek.nederlandwereldwijd.nl
 www2.nederlandwereldwijd.nl

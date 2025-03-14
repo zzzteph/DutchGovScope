@@ -39,9 +39,12 @@ mbotransparant.databank.nl
 apollo.databank.nl
 demo-ebc.databank.nl
 ftgelderland.databank.nl
+beta-adc.databank.nl
 beta-vivet.databank.nl
-beta-datawonen.databank.nl
+beta-klimaatmonitor.databank.nl
+beta-gdi.databank.nl
 beta-wsjg.databank.nl
+beta-woononderzoek.databank.nl
 cname-holland-rijnland.databank.nl
 erfgoed.databank.nl
 jdscan.databank.nl
@@ -59,7 +62,11 @@ cname-www-waterbenchmark-org.databank.nl
 cvo.databank.nl
 www.databank.nl
 www.diversiteitsindex.databank.nl
+hr-sectorwaterschappen.databank.nl
 pzh.databank.nl
+primostijdreeks.databank.nl
+prognoses.databank.nl
+primosinteractief.databank.nl
 prognosemodelzw.databank.nl
 www.gemeente.databank.nl
 abc.databank.nl
@@ -81,6 +88,10 @@ inspectie-oe.databank.nl
 www.nederlandschoon.databank.nl
 stap.databank.nl
 www.gip.databank.nl
+www.ivm11.databank.nl
+live-waves.databank.nl
+holland-rijnland.databank.nl
+test-prognosemodelzw.databank.nl
 wsjg.databank.nl
 overijssel.databank.nl
 www.veiligheidsmonitor.databank.nl
@@ -139,10 +150,8 @@ waves.databank.nl
 www.arbeidsmarkthoreca.databank.nl
 archieven.databank.nl
 aedesterugkoppeling.databank.nl
-52f899ee-8923-43fb-bd69-93a6bbdd883b.databank.nl
 wonenbreburg.en.databank.nl
 cname-forecast-adc.databank.nl
-beta-ais.databank.nl
 www.crow.databank.nl
 monitor-ow-en-wkb.databank.nl
 beta-primostijdreeks.databank.nl
@@ -154,7 +163,6 @@ combimonitor.databank.nl
 vdscan.databank.nl
 cname-beta-adc.databank.nl
 www.diversiteitsin-dex.databank.nl
-beta-benchmark-mbotransparant.databank.nl
 2b3170eb-a6cc-4591-ad9a-3272b2f88e3b.databank.nl
 cname-terugkoppeling-adc.databank.nl
 cname-impactmonitortoerisme-nbtc.databank.nl

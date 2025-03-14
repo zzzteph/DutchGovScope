@@ -22,6 +22,6 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://ledendomein.platformparticipatie.nl](https://ledendomein.platformparticipatie.nl)| | **F**|Microsoft-HTTPAPI/2.0| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0|Not Found|
 |[https://platformparticipatie.nl](https://platformparticipatie.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET SDL Tridion|405 Method not a...|
-|[https://www.platformparticipatie.nl](https://www.platformparticipatie.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET SDL Tridion|Object moved|
+|[https://www.platformparticipatie.nl](https://www.platformparticipatie.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET SDL Tridion YouTube|Object moved|
 
 

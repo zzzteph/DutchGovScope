@@ -6,8 +6,8 @@ https://acceptatie.tea.bigregister.nl
 https://acceptatie.webservices.bigregister.nl
 https://acceptatie.zoeken.bigregister.nl
 https://advieswijzer.bigregister.nl
-http://api.bigregister.nl
 https://beheer.bigregister.nl
+https://webservices.bigregister.nl
 https://opendata.english.bigregister.nl
 https://www.bigregister.nl
 https://bigregister.nl

@@ -25,7 +25,6 @@ https://mijn-test.dnb.nl
 https://screening.dnb.nl
 https://dlo.dnb.nl
 https://login-pp.dnb.nl
-https://dnb.nl
 https://docs.riks-acc.azure.dnb.nl
 https://docs.riks-ci.azure.dnb.nl
 https://docs.riks-ft.azure.dnb.nl
@@ -86,8 +85,6 @@ https://pmhdsk-ci.dnb.nl
 https://rmdm-beheerapp-dev.azure.dnb.nl
 https://tzorganisatiegegevens-dev.dnb.nl
 https://securemail.dnb.nl
-https://statistiek.dnb.nl
-https://toezicht.dnb.nl
 https://www.toezicht.dnb.nl
 https://stepui-dev.azure.dnb.nl
 https://tz-organisatiegegevens.dnb.nl
@@ -95,6 +92,7 @@ https://www.dnb.nl
 https://enterpriseenrollment.dnb.nl
 http://registers.dnb.nl
 http://mediaportal.dnb.nl
+https://open.dnb.nl
 https://pla.dnb.nl
 https://plp.dnb.nl
 https://atender.dnb.nl

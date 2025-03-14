@@ -1,4 +1,2 @@
-opendata.beheerdetoekomst.nl
 www.beheerdetoekomst.nl
 beheerdetoekomst.nl
-feeds.beheerdetoekomst.nl

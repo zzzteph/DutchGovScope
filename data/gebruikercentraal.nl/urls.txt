@@ -43,7 +43,6 @@ https://toolkittaal.gebruikercentraal.nl
 https://international.gebruikercentraal.nl
 https://omnichannel.gebruikercentraal.nl
 https://cx.gebruikercentraal.nl
-https://duidelijk.gebruikercentraal.nl
 https://test.optimaaldigitaal.gebruikercentraal.nl
 https://inclusievedienstverlening.gebruikercentraal.nl
 http://autodiscover.gebruikercentraal.nl

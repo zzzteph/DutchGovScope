@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/effectieveschuldhulp.nl/subdomains.txt)|1|Alive subdomains|
+|[subdomains.txt](/data/effectieveschuldhulp.nl/subdomains.txt)|0|Alive subdomains|
 |[urls.txt](/data/effectieveschuldhulp.nl/urls.txt)|0|Urls|
 
 

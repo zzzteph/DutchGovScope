@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:C
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:36
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:35
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/gebruikercentraal.nl/subdomains.txt)|50|Alive subdomains|
-|[urls.txt](/data/gebruikercentraal.nl/urls.txt)|50|Urls|
+|[subdomains.txt](/data/gebruikercentraal.nl/subdomains.txt)|49|Alive subdomains|
+|[urls.txt](/data/gebruikercentraal.nl/urls.txt)|49|Urls|
 
 
 ## Statistics
@@ -37,16 +37,16 @@
 |[https://conference.gebruikercentraal.nl](https://conference.gebruikercentraal.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx PHP:8.1.31||
 |[https://designsprint.gebruikercentraal.nl](https://designsprint.gebruikercentraal.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx PHP:8.1.31||
 |[https://inclusie.gebruikercentraal.nl](https://inclusie.gebruikercentraal.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx PHP:8.2.27||
-|[https://optimaaldigitaal.gebruikercentraal.nl](https://optimaaldigitaal.gebruikercentraal.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS MySQL Nginx PHP:8.2.27 WordPress:6.7.1 Yoast SEO:24.1|Optimaal Digitaa...|
+|[https://optimaaldigitaal.gebruikercentraal.nl](https://optimaaldigitaal.gebruikercentraal.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS MySQL Nginx PHP:8.2.27 WordPress:6.7.1 Yoast SEO:24.6|Optimaal Digitaa...|
 |[https://redactie.gebruikercentraal.nl](https://redactie.gebruikercentraal.nl)| | **C**|nginx|:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Nginx PHP:8.2.27||
 |[https://volwassenheidsscan.gebruikercentraal.nl](https://volwassenheidsscan.gebruikercentraal.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS MySQL Nginx PHP:8.2.27 WordPress:6.7.1|Volwassenheidssc...|
-|[https://www.gebruikercentraal.nl](https://www.gebruikercentraal.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS MySQL Nginx PHP:8.2.27 WordPress:6.7.1 Yoast SEO:24.1|Gebruiker Centra...|
+|[https://www.gebruikercentraal.nl](https://www.gebruikercentraal.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS MySQL Nginx PHP:8.2.27 WordPress:6.7.1 Yoast SEO:24.6|Gebruiker Centra...|
 |[https://beeldbieb.gebruikercentraal.nl](https://beeldbieb.gebruikercentraal.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx PHP:8.1.31||
 |[https://expertpanel.gebruikercentraal.nl](https://expertpanel.gebruikercentraal.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx PHP:8.2.27||
 |[https://inclusiekader.gebruikercentraal.nl](https://inclusiekader.gebruikercentraal.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx PHP:8.1.31||
 |[https://lint.gebruikercentraal.nl](https://lint.gebruikercentraal.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx PHP:8.1.31||
 |[https://maturityscan.gebruikercentraal.nl](https://maturityscan.gebruikercentraal.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx PHP:8.1.31||
-|[https://rotterdammer.gebruikercentraal.nl](https://rotterdammer.gebruikercentraal.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Gravity Forms HSTS MySQL Nginx PHP:8.2.27 WordPress:6.7.1 Yoast SEO:24.1|Rotterdammer Cen...|
+|[https://rotterdammer.gebruikercentraal.nl](https://rotterdammer.gebruikercentraal.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Gravity Forms HSTS MySQL Nginx PHP:8.2.27 WordPress:6.7.1 Yoast SEO:24.6|Rotterdammer Cen...|
 |[https://designthinking.gebruikercentraal.nl](https://designthinking.gebruikercentraal.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx PHP:8.1.31||
 |[https://test.beeldbank.gebruikercentraal.nl](https://test.beeldbank.gebruikercentraal.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Basic Nginx|401 Unauthorized|
 |[https://test.international.gebruikercentraal.nl](https://test.international.gebruikercentraal.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Basic HSTS Nginx|401 Unauthorized|
@@ -61,14 +61,13 @@
 |[https://test.volwassenheidsscan.gebruikercentraal.nl](https://test.volwassenheidsscan.gebruikercentraal.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Basic HSTS Nginx|401 Unauthorized|
 |[https://gebruikercentraal.nl](https://gebruikercentraal.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx PHP:8.2.27||
 |[https://taalweek.gebruikercentraal.nl](https://taalweek.gebruikercentraal.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx PHP:8.1.31||
-|[https://toolkittaal.gebruikercentraal.nl](https://toolkittaal.gebruikercentraal.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS MySQL Nginx PHP:8.2.27 WordPress:6.7.1 Yoast SEO:24.1|Toolkit Taal – M...|
-|[https://international.gebruikercentraal.nl](https://international.gebruikercentraal.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS MySQL Nginx PHP:8.2.27 WordPress:6.7.1 Yoast SEO:24.1|User Needs First...|
+|[https://toolkittaal.gebruikercentraal.nl](https://toolkittaal.gebruikercentraal.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS MySQL Nginx PHP:8.2.27 WordPress:6.7.1 Yoast SEO:24.6|Toolkit Taal – M...|
+|[https://international.gebruikercentraal.nl](https://international.gebruikercentraal.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS MySQL Nginx PHP:8.2.27 WordPress:6.7.1 Yoast SEO:24.6|User Needs First...|
 |[https://omnichannel.gebruikercentraal.nl](https://omnichannel.gebruikercentraal.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx PHP:8.1.31||
 |[https://cx.gebruikercentraal.nl](https://cx.gebruikercentraal.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx PHP:8.1.31||
-|[https://duidelijk.gebruikercentraal.nl](https://duidelijk.gebruikercentraal.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx PHP:8.2.27||
 |[https://test.optimaaldigitaal.gebruikercentraal.nl](https://test.optimaaldigitaal.gebruikercentraal.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Basic HSTS Nginx|401 Unauthorized|
 |[https://inclusievedienstverlening.gebruikercentraal.nl](https://inclusievedienstverlening.gebruikercentraal.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx PHP:8.1.31||
 |[http://autodiscover.gebruikercentraal.nl](http://autodiscover.gebruikercentraal.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
-|[https://toolkitinclusie.gebruikercentraal.nl](https://toolkitinclusie.gebruikercentraal.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS MySQL Nginx PHP:8.2.27 WordPress:6.7.1 Yoast SEO:24.1|Home - Ontwerpen...|
+|[https://toolkitinclusie.gebruikercentraal.nl](https://toolkitinclusie.gebruikercentraal.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS MySQL Nginx PHP:8.2.27 WordPress:6.7.1 Yoast SEO:24.6|Home - Ontwerpen...|
 
 

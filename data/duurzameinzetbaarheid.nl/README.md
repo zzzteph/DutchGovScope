@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/duurzameinzetbaarheid.nl/subdomains.txt)|0|Alive subdomains|
+|[subdomains.txt](/data/duurzameinzetbaarheid.nl/subdomains.txt)|3|Alive subdomains|
 |[urls.txt](/data/duurzameinzetbaarheid.nl/urls.txt)|0|Urls|
 
 

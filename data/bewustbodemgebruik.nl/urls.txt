@@ -1,5 +1,5 @@
 https://bewustbodemgebruik.nl
-http://mail.bewustbodemgebruik.nl
+https://mail.bewustbodemgebruik.nl
 https://www.bewustbodemgebruik.nl
 http://ftp.bewustbodemgebruik.nl
 https://ssh.bewustbodemgebruik.nl

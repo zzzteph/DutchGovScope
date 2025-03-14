@@ -103,7 +103,7 @@
 |[https://design.staging.ndw.nu](https://design.staging.ndw.nu)| | **A**|| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS MkDocs:1.6.1 Python|NDW Docs|
 |[https://docs.staging.ndw.nu](https://docs.staging.ndw.nu)| | **A**|| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS MkDocs:1.6.1 Python|NDW Docs|
 |[https://mijn.staging.ndw.nu](https://mijn.staging.ndw.nu)| | **D**|Apache/2.4.62 (Debian)| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server:2.4.62 Debian|mijn NDW|
-|[https://mail.ndw.nu](https://mail.ndw.nu)| | **F**|IceWarp/14.1.0.16 x64| | | | | | | | :white_check_mark: | |HSTS|302 Document Mov...|
+|[https://mail.ndw.nu](https://mail.ndw.nu)| | **F**|IceWarp/14.1.0.17 x64| | | | | | | | :white_check_mark: | |HSTS|302 Document Mov...|
 |[https://acceptatie-melvin.ndw.nu](https://acceptatie-melvin.ndw.nu)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
 |[https://shared-services.ndw.nu](https://shared-services.ndw.nu)| | **F**|Microsoft-Azure-Application-Gateway/v2| | | | | | | | :white_check_mark: | ||404 Not Found|
 |[https://maps.staging.ndw.nu](https://maps.staging.ndw.nu)| | **F**|Apache/2.4.62 (Unix)| | | | | | | | :white_check_mark: | |Apache HTTP Server:2.4.62 Bootstrap UNIX|NDW Maps|

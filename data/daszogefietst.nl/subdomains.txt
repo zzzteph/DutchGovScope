@@ -1,4 +1,2 @@
 daszogefietst.nl
-feeds.daszogefietst.nl
-opendata.daszogefietst.nl
 www.daszogefietst.nl

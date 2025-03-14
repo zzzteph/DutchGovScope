@@ -20,7 +20,7 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://staatvandeuitvoering.nl](https://staatvandeuitvoering.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Gravity Forms HSTS MySQL Nginx PHP WordPress Yoast SEO:24.4|Publieke dienstv...|
+|[https://staatvandeuitvoering.nl](https://staatvandeuitvoering.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Gravity Forms HSTS MySQL Nginx PHP WordPress Yoast SEO:24.5|Publieke dienstv...|
 |[https://www.staatvandeuitvoering.nl](https://www.staatvandeuitvoering.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 
 

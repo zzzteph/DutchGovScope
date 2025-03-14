@@ -1,5 +1,4 @@
 acc-klas.oidji.nl
-www.oidji.nl
 feeds.oidji.nl
 oidji.nl
 opendata.oidji.nl

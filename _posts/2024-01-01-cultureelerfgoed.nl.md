@@ -2,11 +2,11 @@
 layout: default
 title: "cultureelerfgoed.nl"
 permalink: "/dutchgov/cultureelerfgoed.nl.html"
-subdomains_count: 69
-urls_count: 68
+subdomains_count: 67
+urls_count: 67
 ssl_rank: 
 http_rank: B
-security_txt: 25
+security_txt: 27
 url_link: /data/cultureelerfgoed.nl/urls.txt
 subdomains_link: /data/cultureelerfgoed.nl/subdomains.txt
 categories: dutchgov
@@ -20,13 +20,13 @@ tags: dutchgov
 
  - **SSL Grade**:
  - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:25
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:27
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/cultureelerfgoed.nl/subdomains.txt)|69|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/cultureelerfgoed.nl/urls.txt)|68|Urls|
+|[subdomains.txt](/DutchGovScope/data/cultureelerfgoed.nl/subdomains.txt)|67|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/cultureelerfgoed.nl/urls.txt)|67|Urls|
 
 
 ## Statistics
@@ -34,7 +34,6 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[http://acc.translate.services.cultureelerfgoed.nl](http://acc.translate.services.cultureelerfgoed.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://acc.archis.cultureelerfgoed.nl](https://acc.archis.cultureelerfgoed.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 |[https://acc.auth.services.cultureelerfgoed.nl](https://acc.auth.services.cultureelerfgoed.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 |[http://acc.gml.map.services.cultureelerfgoed.nl](http://acc.gml.map.services.cultureelerfgoed.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
@@ -72,14 +71,13 @@ tags: dutchgov
 |[https://test.kennis-staging.cultureelerfgoed.nl](https://test.kennis-staging.cultureelerfgoed.nl)| | **C**|Apache|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS||
 |[https://test.kennis.cultureelerfgoed.nl](https://test.kennis.cultureelerfgoed.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS Varnish:6.6||
 |[https://wikixl-saml.cultureelerfgoed.nl](https://wikixl-saml.cultureelerfgoed.nl)| | **B**|Apache| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|Redirect|
+|[http://lil.cultureelerfgoed.nl](http://lil.cultureelerfgoed.nl)| | **E**|| | | | | | | | :white_check_mark: | |Microsoft HTTPAPI:2.0||
+|[http://noaa.cultureelerfgoed.nl](http://noaa.cultureelerfgoed.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-||
+|[http://pom.cultureelerfgoed.nl](http://pom.cultureelerfgoed.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-||
+|[http://thesaurus.cultureelerfgoed.nl](http://thesaurus.cultureelerfgoed.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-||
 |[https://mass.cultureelerfgoed.nl](https://mass.cultureelerfgoed.nl)| | **A**|nginx|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx Plesk|MaSS - stepping...|
 |[https://monumentenregister.cultureelerfgoed.nl](https://monumentenregister.cultureelerfgoed.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Drupal:10 HSTS Nginx PHP|Zoeken in het Ri...|
 |[https://www.monumentenregister.cultureelerfgoed.nl](https://www.monumentenregister.cultureelerfgoed.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |||
-|[https://plastic-en.tool.cultureelerfgoed.nl](https://plastic-en.tool.cultureelerfgoed.nl)| | **C**|nginx/1.14.0 (Ubuntu)| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx:1.14.0 Pure CSS Ubuntu|Plastic Identifi...|
-|[https://plastic.tool.cultureelerfgoed.nl](https://plastic.tool.cultureelerfgoed.nl)| | **C**|nginx/1.14.0 (Ubuntu)| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx:1.14.0 Pure CSS Ubuntu|Plastic Identifi...|
-|[https://stuc.tool.cultureelerfgoed.nl](https://stuc.tool.cultureelerfgoed.nl)| | **C**|nginx/1.14.0 (Ubuntu)| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx:1.14.0 Ubuntu||
-|[https://verf.tool.cultureelerfgoed.nl](https://verf.tool.cultureelerfgoed.nl)| | **F**|nginx/1.14.0 (Ubuntu)| | | | | | | | :white_check_mark: | |HSTS Nginx:1.14.0 Ubuntu|301 Moved Perman...|
-|[https://paint.tool.cultureelerfgoed.nl](https://paint.tool.cultureelerfgoed.nl)| | **C**|nginx/1.14.0 (Ubuntu)| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Nginx:1.14.0 Pure CSS Ubuntu|Modern Paint Dam...|
 |[https://subsidie.cultureelerfgoed.nl](https://subsidie.cultureelerfgoed.nl)| | **A**||:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |HSTS|SUBS|
 |[https://test.geoservices.cultureelerfgoed.nl](https://test.geoservices.cultureelerfgoed.nl)| | **E**|| | | | | | | | :white_check_mark: | ||ODC-Noord | (403...|
 |[https://test.monumentenregister.cultureelerfgoed.nl](https://test.monumentenregister.cultureelerfgoed.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
@@ -102,5 +100,6 @@ tags: dutchgov
 |[https://prd.archis.cultureelerfgoed.nl](https://prd.archis.cultureelerfgoed.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 Forbidden|
 |[http://zaak.services.cultureelerfgoed.nl](http://zaak.services.cultureelerfgoed.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://api-gateway.archis.cultureelerfgoed.nl](https://api-gateway.archis.cultureelerfgoed.nl)| | **C**|| |:white_check_mark: | :warning:| | | | | :white_check_mark: | |HSTS|403 Forbidden|
+|[http://client.archis.cultureelerfgoed.nl](http://client.archis.cultureelerfgoed.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 
 

@@ -1,3 +1,1 @@
-https://feeds.rvihh.nl
 https://rvihh.nl
-https://opendata.rvihh.nl

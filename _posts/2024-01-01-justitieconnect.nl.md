@@ -34,9 +34,9 @@ tags: dutchgov
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://justitieconnect.nl](https://justitieconnect.nl)| | **A**|nginx|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Bootstrap HSTS Nginx|JustitieConnect|
+|[https://justitieconnect.nl](https://justitieconnect.nl)| | **D**||:white_check_mark: | | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Bootstrap|JustitieConnect|
 |[https://acc.justitieconnect.nl](https://acc.justitieconnect.nl)| | **D**||:white_check_mark: | | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Bootstrap|JustitieConnect|
-|[https://www.justitieconnect.nl](https://www.justitieconnect.nl)| | **A**|nginx|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Bootstrap HSTS Nginx|JustitieConnect|
+|[https://www.justitieconnect.nl](https://www.justitieconnect.nl)| | **D**||:white_check_mark: | | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Bootstrap|JustitieConnect|
 |[https://private.justitieconnect.nl](https://private.justitieconnect.nl)| | **A**|Apache|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|A-Select Filter...|
 |[https://private.acc.justitieconnect.nl](https://private.acc.justitieconnect.nl)| | **A**|Apache|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|A-Select Filter...|
 |[https://private.acc.staging.justitieconnect.nl](https://private.acc.staging.justitieconnect.nl)| | **A**|Apache|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |Apache HTTP Server HSTS|A-Select Filter...|

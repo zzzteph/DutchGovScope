@@ -3,7 +3,7 @@ https://nevenbetrekkingen.om.nl
 https://www2.om.nl
 https://dialin.om.nl
 https://lyncdiscover.om.nl
-http://meet.om.nl
+https://meet.om.nl
 https://webservices.om.nl
 https://fcvpn.om.nl
 https://feeds.om.nl

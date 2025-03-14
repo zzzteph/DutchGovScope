@@ -2,6 +2,5 @@ https://20072020.europaomdehoek.nl
 https://europaomdehoek.nl
 https://feeds.europaomdehoek.nl
 https://opendata.europaomdehoek.nl
-https://www.europaomdehoek.nl
 https://acceptatie.europaomdehoek.nl
 https://staging.europaomdehoek.nl

@@ -2,8 +2,8 @@
 layout: default
 title: "belastingdienst.nl"
 permalink: "/dutchgov/belastingdienst.nl.html"
-subdomains_count: 116
-urls_count: 116
+subdomains_count: 114
+urls_count: 114
 ssl_rank: 
 http_rank: B
 security_txt: 58
@@ -25,8 +25,8 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/belastingdienst.nl/subdomains.txt)|116|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/belastingdienst.nl/urls.txt)|116|Urls|
+|[subdomains.txt](/DutchGovScope/data/belastingdienst.nl/subdomains.txt)|114|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/belastingdienst.nl/urls.txt)|114|Urls|
 
 
 ## Statistics
@@ -45,8 +45,6 @@ tags: dutchgov
 |[https://beta.belastingdienst.nl](https://beta.belastingdienst.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|302 Found|
 |[https://betalen-cnf.belastingdienst.nl](https://betalen-cnf.belastingdienst.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Online diensten...|
 |[https://betalen.belastingdienst.nl](https://betalen.belastingdienst.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Online diensten...|
-|[https://brm.belastingdienst.nl](https://brm.belastingdienst.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IBM DataPower||
-|[https://brmrest-test.belastingdienst.nl](https://brmrest-test.belastingdienst.nl)| | **F**||:warning: | | | | | | | :white_check_mark: | |IBM DataPower||
 |[https://bvs.belastingdienst.nl](https://bvs.belastingdienst.nl)| | **C**|| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||Toegang geblokke...|
 |[https://cciwebstats.belastingdienst.nl](https://cciwebstats.belastingdienst.nl)| | **C**|| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||Toegang geblokke...|
 |[https://centraalaanspreekpuntpensioenen.belastingdienst.nl](https://centraalaanspreekpuntpensioenen.belastingdienst.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS MySQL PHP WordPress Yoast SEO:24.3|Home | Centraal...|

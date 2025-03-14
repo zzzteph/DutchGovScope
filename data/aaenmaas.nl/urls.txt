@@ -1,6 +1,7 @@
-http://aaenmaas.nl
-http://www.aaenmaas.nl
+https://aaenmaas.nl
+https://www.aaenmaas.nl
 http://autodiscover.aaenmaas.nl
+https://oa.aaenmaas.nl
 https://dialin.aaenmaas.nl
 https://lync.aaenmaas.nl
 https://lyncdiscover.aaenmaas.nl

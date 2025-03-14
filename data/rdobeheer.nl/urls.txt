@@ -21,8 +21,8 @@ https://portalco.test.dusi.rdobeheer.nl
 https://stagefonds.test.dusi.rdobeheer.nl
 http://www.test.dusi.rdobeheer.nl
 http://aanvraag.test.dusi.rdobeheer.nl
-https://beoordeling.test.dusi.rdobeheer.nl
-https://extern.test.dusi.rdobeheer.nl
+http://beoordeling.test.dusi.rdobeheer.nl
+http://extern.test.dusi.rdobeheer.nl
 https://gebruiker-beheer.test.dusi.rdobeheer.nl
 https://co.test.dusi.rdobeheer.nl
 http://formulier-beheer.test.dusi.rdobeheer.nl

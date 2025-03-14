@@ -1,2 +1,2 @@
-http://schakeldag.nl
-http://www.schakeldag.nl
+https://schakeldag.nl
+https://www.schakeldag.nl

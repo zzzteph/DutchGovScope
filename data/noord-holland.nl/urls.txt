@@ -9,8 +9,9 @@ https://mail.noord-holland.nl
 https://automation-node.datalab-prod.aws.noord-holland.nl
 https://datalab.noord-holland.nl
 https://bestanden.noord-holland.nl
-https://dataiku.noord-holland.nl
-https://design-node.datalab-prod.aws.noord-holland.nl
+https://cijfers.noord-holland.nl
+http://dataiku.noord-holland.nl
+http://design-node.datalab-prod.aws.noord-holland.nl
 https://eidbroker-pre.noord-holland.nl
 https://eidbroker.noord-holland.nl
 http://ep.noord-holland.nl
@@ -31,6 +32,7 @@ https://leidraadlc.noord-holland.nl
 https://magazine.noord-holland.nl
 https://nota.noord-holland.nl
 https://mailings.noord-holland.nl
+https://maovpn.noord-holland.nl
 https://noord-holland.nl
 https://statensite.noord-holland.nl
 https://www.noord-holland.nl

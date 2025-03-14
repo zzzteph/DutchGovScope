@@ -1,9 +1,7 @@
 english.kabinetvandekoning.nl
 feeds.english.kabinetvandekoning.nl
-feeds.kabinetvandekoning.nl
 kabinetvandekoning.nl
 opendata.english.kabinetvandekoning.nl
-opendata.kabinetvandekoning.nl
 www.kabinetvandekoning.nl
 autodiscover.kabinetvandekoning.nl
 enterpriseenrollment.kabinetvandekoning.nl

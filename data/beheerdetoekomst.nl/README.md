@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/beheerdetoekomst.nl/subdomains.txt)|4|Alive subdomains|
+|[subdomains.txt](/data/beheerdetoekomst.nl/subdomains.txt)|2|Alive subdomains|
 |[urls.txt](/data/beheerdetoekomst.nl/urls.txt)|2|Urls|
 
 

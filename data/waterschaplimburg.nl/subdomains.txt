@@ -24,6 +24,7 @@ ftp.waterschaplimburg.nl
 voip.waterschaplimburg.nl
 vpn.waterschaplimburg.nl
 werkplek.waterschaplimburg.nl
+redactie.waterschaplimburg.nl
 ncsl.waterschaplimburg.nl
 tulskaya-oblast.waterschaplimburg.nl
 verhuisbedrijven.waterschaplimburg.nl

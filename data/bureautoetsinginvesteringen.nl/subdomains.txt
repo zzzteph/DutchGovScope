@@ -1,4 +1,2 @@
 bureautoetsinginvesteringen.nl
-feeds.bureautoetsinginvesteringen.nl
 www.bureautoetsinginvesteringen.nl
-opendata.bureautoetsinginvesteringen.nl

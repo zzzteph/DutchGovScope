@@ -20,7 +20,7 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.acc.lees-rijk.nl](https://www.acc.lees-rijk.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| | | :white_check_mark: | |Drupal HSTS Nginx PHP|Redirecting to /...|
+|[https://www.acc.lees-rijk.nl](https://www.acc.lees-rijk.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| | | :white_check_mark: | |Drupal HSTS Nginx PHP|Redirecting to h...|
 |[https://acc.lees-rijk.nl](https://acc.lees-rijk.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Drupal HSTS Nginx PHP||
 |[https://betaversie.lees-rijk.nl](https://betaversie.lees-rijk.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Drupal HSTS Nginx PHP|Redirecting to h...|
 |[https://www.lees-rijk.nl](https://www.lees-rijk.nl)| | **C**|nginx| |:white_check_mark: | | | | | | :white_check_mark: | |Drupal HSTS Nginx PHP||

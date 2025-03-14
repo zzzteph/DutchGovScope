@@ -7,7 +7,6 @@ nza-form1.nza.nl
 nza-form6.nza.nl
 zorgprestatiemodel.nza.nl
 nza-form2.nza.nl
-mijn-accp.nza.nl
 nza-form3.nza.nl
 nza-form5.nza.nl
 acceptatie.crm.nza.nl

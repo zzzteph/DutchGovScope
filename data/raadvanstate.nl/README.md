@@ -20,24 +20,24 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://adfs-acc.raadvanstate.nl](https://adfs-acc.raadvanstate.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft HTTPAPI:2.0||
+|[https://adfs-acc.raadvanstate.nl](https://adfs-acc.raadvanstate.nl)| | **C**|Microsoft-HTTPAPI/2.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft HTTPAPI:2.0|Not Found|
 |[https://adfs.raadvanstate.nl](https://adfs.raadvanstate.nl)| | **E**|Microsoft-HTTPAPI/2.0|:o: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS Microsoft HTTPAPI:2.0|Not Found|
 |[https://analytics-radius.raadvanstate.nl](https://analytics-radius.raadvanstate.nl)| | **D**|Apache|:white_check_mark: | | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Matomo Analytics|Sign in - Matomo|
 |[https://radius-acc.raadvanstate.nl](https://radius-acc.raadvanstate.nl)| | **B**|Apache|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS||
 |[https://radius.raadvanstate.nl](https://radius.raadvanstate.nl)| | **B**|Apache|:white_check_mark: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|- Radius|
-|[http://pwa-api-test.raadvanstate.nl](http://pwa-api-test.raadvanstate.nl)| | **D**|| | | | | | | :white_check_mark: | :white_check_mark: | |Microsoft ASP.NET:-||
-|[http://app-test.raadvanstate.nl](http://app-test.raadvanstate.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET:-||
-|[http://app.raadvanstate.nl](http://app.raadvanstate.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET:-||
-|[http://pwa-api.raadvanstate.nl](http://pwa-api.raadvanstate.nl)| | **D**|| | | | | | | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-||
+|[https://pwa-api-test.raadvanstate.nl](https://pwa-api-test.raadvanstate.nl)| | **E**|-| | | | | | | :white_check_mark: | :white_check_mark: | |Microsoft ASP.NET:-|Updating site...|
+|[https://app-test.raadvanstate.nl](https://app-test.raadvanstate.nl)| | **A**|-| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET:-|Raad van State|
+|[https://app.raadvanstate.nl](https://app.raadvanstate.nl)| | **A**|-| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET:-|Raad van State|
+|[https://pwa-api.raadvanstate.nl](https://pwa-api.raadvanstate.nl)| | **A**|-| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Microsoft ASP.NET:-||
 |[http://autodiscover.raadvanstate.nl](http://autodiscover.raadvanstate.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
-|[https://extranet-a.raadvanstate.nl](https://extranet-a.raadvanstate.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server Microsoft ASP.NET|Object moved|
+|[https://extranet-a.raadvanstate.nl](https://extranet-a.raadvanstate.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server Microsoft ASP.NET:4.0.30319|Object moved|
 |[https://extranet.raadvanstate.nl](https://extranet.raadvanstate.nl)| | **E**|Microsoft-IIS/10.0| | | | | | :white_check_mark: | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET:4.0.30319 Windows Server|Object moved|
-|[http://jaarverslag.raadvanstate.nl](http://jaarverslag.raadvanstate.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET:-||
-|[http://raadvanstate.nl](http://raadvanstate.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET:-||
+|[https://jaarverslag.raadvanstate.nl](https://jaarverslag.raadvanstate.nl)| | **B**|-| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
+|[https://raadvanstate.nl](https://raadvanstate.nl)| | **B**|-| |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Document Moved|
 |[https://loket-inloggen-preprod.raadvanstate.nl](https://loket-inloggen-preprod.raadvanstate.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
 |[https://loket-inloggen.raadvanstate.nl](https://loket-inloggen.raadvanstate.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||
-|[http://loket.raadvanstate.nl](http://loket.raadvanstate.nl)| | **A**||:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Windows Server||
-|[https://mijnzaak-acc.raadvanstate.nl](https://mijnzaak-acc.raadvanstate.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
+|[https://loket.raadvanstate.nl](https://loket.raadvanstate.nl)| | **A**|Microsoft-IIS/10.0|:white_check_mark: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |IIS:10.0 Windows Server||
+|[https://mijnzaak-acc.raadvanstate.nl](https://mijnzaak-acc.raadvanstate.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Object moved|
 |[https://mijnzaak.raadvanstate.nl](https://mijnzaak.raadvanstate.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Object moved|
 |[https://portaal.gateway-acc.raadvanstate.nl](https://portaal.gateway-acc.raadvanstate.nl)| | **F**|Layer7-API-Gateway| | | | | | | | :white_check_mark: | |||
 |[https://portaal.gateway.raadvanstate.nl](https://portaal.gateway.raadvanstate.nl)| | **F**|Layer7-API-Gateway| | | | | | | | :white_check_mark: | |||

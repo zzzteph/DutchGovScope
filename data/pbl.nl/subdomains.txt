@@ -27,3 +27,4 @@ msoid.pbl.nl
 connect.pbl.nl
 testconn.pbl.nl
 password.pbl.nl
+chatgpt.pbl.nl

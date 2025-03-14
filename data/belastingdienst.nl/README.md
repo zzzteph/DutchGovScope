@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/belastingdienst.nl/subdomains.txt)|116|Alive subdomains|
-|[urls.txt](/data/belastingdienst.nl/urls.txt)|116|Urls|
+|[subdomains.txt](/data/belastingdienst.nl/subdomains.txt)|114|Alive subdomains|
+|[urls.txt](/data/belastingdienst.nl/urls.txt)|114|Urls|
 
 
 ## Statistics
@@ -31,8 +31,6 @@
 |[https://beta.belastingdienst.nl](https://beta.belastingdienst.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|302 Found|
 |[https://betalen-cnf.belastingdienst.nl](https://betalen-cnf.belastingdienst.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Online diensten...|
 |[https://betalen.belastingdienst.nl](https://betalen.belastingdienst.nl)| | **A**|| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|Online diensten...|
-|[https://brm.belastingdienst.nl](https://brm.belastingdienst.nl)| | **C**||:white_check_mark: |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IBM DataPower||
-|[https://brmrest-test.belastingdienst.nl](https://brmrest-test.belastingdienst.nl)| | **F**||:warning: | | | | | | | :white_check_mark: | |IBM DataPower||
 |[https://bvs.belastingdienst.nl](https://bvs.belastingdienst.nl)| | **C**|| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||Toegang geblokke...|
 |[https://cciwebstats.belastingdienst.nl](https://cciwebstats.belastingdienst.nl)| | **C**|| | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | ||Toegang geblokke...|
 |[https://centraalaanspreekpuntpensioenen.belastingdienst.nl](https://centraalaanspreekpuntpensioenen.belastingdienst.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS MySQL PHP WordPress Yoast SEO:24.3|Home | Centraal...|

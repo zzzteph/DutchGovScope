@@ -9,9 +9,7 @@ https://nederlandwereldwijd.nl
 https://preview.nederlandwereldwijd.nl
 https://www.nederlandwereldwijd.nl
 https://a-informatieservice.nederlandwereldwijd.nl
-https://dev.opendata.nederlandwereldwijd.nl
 https://a-www.nederlandwereldwijd.nl
-https://dev.informatieservice.nederlandwereldwijd.nl
 https://acc.informatieservice.nederlandwereldwijd.nl
 https://onderzoek.nederlandwereldwijd.nl
 https://www2.nederlandwereldwijd.nl

@@ -25,7 +25,6 @@ mijn-test.dnb.nl
 screening.dnb.nl
 dlo.dnb.nl
 login-pp.dnb.nl
-dnb.nl
 docs.riks-acc.azure.dnb.nl
 docs.riks-ci.azure.dnb.nl
 docs.riks-ft.azure.dnb.nl
@@ -86,8 +85,6 @@ pmhdsk-ci.dnb.nl
 rmdm-beheerapp-dev.azure.dnb.nl
 tzorganisatiegegevens-dev.dnb.nl
 securemail.dnb.nl
-statistiek.dnb.nl
-toezicht.dnb.nl
 www.toezicht.dnb.nl
 stepui-dev.azure.dnb.nl
 tz-organisatiegegevens.dnb.nl
@@ -95,6 +92,7 @@ www.dnb.nl
 enterpriseenrollment.dnb.nl
 registers.dnb.nl
 mediaportal.dnb.nl
+open.dnb.nl
 pla.dnb.nl
 plp.dnb.nl
 atender.dnb.nl

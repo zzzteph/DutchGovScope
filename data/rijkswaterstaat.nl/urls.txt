@@ -43,7 +43,7 @@ https://opendata.nieuwsbrieven.rijkswaterstaat.nl
 https://geo.rijkswaterstaat.nl
 https://geoweb.rijkswaterstaat.nl
 https://iam.rijkswaterstaat.nl
-https://loket.acceptatie.rijkswaterstaat.nl
+http://loket.acceptatie.rijkswaterstaat.nl
 https://loket.rijkswaterstaat.nl
 https://maps.rijkswaterstaat.nl
 https://mars.rijkswaterstaat.nl

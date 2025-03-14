@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/kansspelautoriteit.nl/subdomains.txt)|15|Alive subdomains|
-|[urls.txt](/data/kansspelautoriteit.nl/urls.txt)|15|Urls|
+|[subdomains.txt](/data/kansspelautoriteit.nl/subdomains.txt)|14|Alive subdomains|
+|[urls.txt](/data/kansspelautoriteit.nl/urls.txt)|14|Urls|
 
 
 ## Statistics
@@ -27,7 +27,6 @@
 |[https://autodiscover.kansspelautoriteit.nl](https://autodiscover.kansspelautoriteit.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Windows Server||
 |[https://mx.kansspelautoriteit.nl](https://mx.kansspelautoriteit.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Windows Server||
 |[https://webmail.kansspelautoriteit.nl](https://webmail.kansspelautoriteit.nl)| | **F**|Microsoft-IIS/10.0| | | | | | | | :white_check_mark: | |IIS:10.0 Windows Server||
-|[https://portal.kansspelautoriteit.nl](https://portal.kansspelautoriteit.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Document Moved|
 |[https://acc.kansspelautoriteit.nl](https://acc.kansspelautoriteit.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Document Moved|
 |[https://desktop.kansspelautoriteit.nl](https://desktop.kansspelautoriteit.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Document Moved|
 |[https://ems.kansspelautoriteit.nl](https://ems.kansspelautoriteit.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||

@@ -5,8 +5,8 @@
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:F
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:0
+ - **HTTP Security Grade**:C
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:2
 
 
 | File       | Count | Info |
@@ -20,7 +20,7 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://agendanatuurinclusief.nl](https://agendanatuurinclusief.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx Plesk|302 Found|
-|[https://www.agendanatuurinclusief.nl](https://www.agendanatuurinclusief.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx Plesk|302 Found|
+|[https://agendanatuurinclusief.nl](https://agendanatuurinclusief.nl)| | **C**|nginx|:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Nginx Plesk|302 Found|
+|[https://www.agendanatuurinclusief.nl](https://www.agendanatuurinclusief.nl)| | **C**|nginx|:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |Nginx Plesk|302 Found|
 
 

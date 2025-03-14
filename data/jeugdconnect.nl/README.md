@@ -20,19 +20,19 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://www.jeugdconnect.nl](https://www.jeugdconnect.nl)| | **C**|nginx|:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
-|[https://api.jeugdconnect.nl](https://api.jeugdconnect.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Bootstrap HSTS Nginx|JustitieConnect|
-|[https://apps.jeugdconnect.nl](https://apps.jeugdconnect.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Bootstrap HSTS Nginx|JustitieConnect|
-|[https://cms.jeugdconnect.nl](https://cms.jeugdconnect.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Bootstrap HSTS Nginx|JustitieConnect|
-|[https://kimi-infodeling.jeugdconnect.nl](https://kimi-infodeling.jeugdconnect.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Bootstrap HSTS Nginx|JustitieConnect|
-|[https://lij.jeugdconnect.nl](https://lij.jeugdconnect.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Bootstrap HSTS Nginx|JustitieConnect|
-|[https://privacy.jeugdconnect.nl](https://privacy.jeugdconnect.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Bootstrap HSTS Nginx|JustitieConnect|
-|[https://halt-verwijs.jeugdconnect.nl](https://halt-verwijs.jeugdconnect.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Bootstrap HSTS Nginx|JustitieConnect|
-|[https://kimi.jeugdconnect.nl](https://kimi.jeugdconnect.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Bootstrap HSTS Nginx|JustitieConnect|
-|[https://kpm.jeugdconnect.nl](https://kpm.jeugdconnect.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Bootstrap HSTS Nginx|JustitieConnect|
-|[https://slachtoffer.jeugdconnect.nl](https://slachtoffer.jeugdconnect.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Bootstrap HSTS Nginx|JustitieConnect|
-|[https://socialmediamonitor.jeugdconnect.nl](https://socialmediamonitor.jeugdconnect.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Bootstrap HSTS Nginx|JustitieConnect|
-|[https://vog.jeugdconnect.nl](https://vog.jeugdconnect.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Bootstrap HSTS Nginx|JustitieConnect|
-|[https://jeugdconnect.nl](https://jeugdconnect.nl)| | **C**|nginx|:warning: |:white_check_mark: | | | | :white_check_mark: | | :white_check_mark: | |AngularJS HSTS Nginx|landingspage|
+|[https://www.jeugdconnect.nl](https://www.jeugdconnect.nl)| | **F**||:warning: | | | | | :white_check_mark: | | :white_check_mark: | |HSTS Nginx||
+|[https://api.jeugdconnect.nl](https://api.jeugdconnect.nl)| | **E**|| | | | | | | | :white_check_mark: | |Bootstrap HSTS Nginx|404 Not Found|
+|[https://apps.jeugdconnect.nl](https://apps.jeugdconnect.nl)| | **E**|| | | | | | | | :white_check_mark: | |Bootstrap HSTS Nginx|404 Not Found|
+|[https://cms.jeugdconnect.nl](https://cms.jeugdconnect.nl)| | **E**|| | | | | | | | :white_check_mark: | |Bootstrap HSTS Nginx|404 Not Found|
+|[https://kimi-infodeling.jeugdconnect.nl](https://kimi-infodeling.jeugdconnect.nl)| | **E**|| | | | | | | | :white_check_mark: | |Bootstrap HSTS Nginx|404 Not Found|
+|[https://lij.jeugdconnect.nl](https://lij.jeugdconnect.nl)| | **E**|| | | | | | | | :white_check_mark: | |Bootstrap HSTS Nginx|404 Not Found|
+|[https://privacy.jeugdconnect.nl](https://privacy.jeugdconnect.nl)| | **E**|| | | | | | | | :white_check_mark: | |Bootstrap HSTS Nginx|404 Not Found|
+|[https://halt-verwijs.jeugdconnect.nl](https://halt-verwijs.jeugdconnect.nl)| | **E**|| | | | | | | | :white_check_mark: | |Bootstrap HSTS Nginx|404 Not Found|
+|[https://kimi.jeugdconnect.nl](https://kimi.jeugdconnect.nl)| | **E**|| | | | | | | | :white_check_mark: | |Bootstrap HSTS Nginx|404 Not Found|
+|[https://kpm.jeugdconnect.nl](https://kpm.jeugdconnect.nl)| | **E**|| | | | | | | | :white_check_mark: | |Bootstrap HSTS Nginx|404 Not Found|
+|[https://slachtoffer.jeugdconnect.nl](https://slachtoffer.jeugdconnect.nl)| | **E**|| | | | | | | | :white_check_mark: | |Bootstrap HSTS Nginx|404 Not Found|
+|[https://socialmediamonitor.jeugdconnect.nl](https://socialmediamonitor.jeugdconnect.nl)| | **E**|| | | | | | | | :white_check_mark: | |Bootstrap HSTS Nginx|404 Not Found|
+|[https://vog.jeugdconnect.nl](https://vog.jeugdconnect.nl)| | **E**|| | | | | | | | :white_check_mark: | |Bootstrap HSTS Nginx|404 Not Found|
+|[https://jeugdconnect.nl](https://jeugdconnect.nl)| | **F**||:warning: | | | | | :white_check_mark: | | :white_check_mark: | |AngularJS|landingspage|
 
 

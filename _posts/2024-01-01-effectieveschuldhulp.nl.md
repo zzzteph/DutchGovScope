@@ -2,7 +2,7 @@
 layout: default
 title: "effectieveschuldhulp.nl"
 permalink: "/dutchgov/effectieveschuldhulp.nl.html"
-subdomains_count: 1
+subdomains_count: 0
 urls_count: 0
 ssl_rank: 
 http_rank: F
@@ -25,7 +25,7 @@ tags: dutchgov
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/effectieveschuldhulp.nl/subdomains.txt)|1|Alive subdomains|
+|[subdomains.txt](/DutchGovScope/data/effectieveschuldhulp.nl/subdomains.txt)|0|Alive subdomains|
 |[urls.txt](/DutchGovScope/data/effectieveschuldhulp.nl/urls.txt)|0|Urls|
 
 

@@ -1,3 +1,14 @@
+http://localisation.test.zm.irealisatie.nl
+http://pgodemo.test.zm.irealisatie.nl
+http://pseudonym.test.zm.irealisatie.nl
+http://qualification-api.test.zm.irealisatie.nl
+http://metadata-c.test.zm.irealisatie.nl
+http://metadata.test.zm.irealisatie.nl
+http://qualification-admin.test.zm.irealisatie.nl
+http://qualification.test.zm.irealisatie.nl
+http://addressing.test.zm.irealisatie.nl
+http://metadata-b.test.zm.irealisatie.nl
+http://prs.test.zm.irealisatie.nl
 https://adressering.proeftuin.gf.irealisatie.nl
 https://jaeger.proeftuin.gf.irealisatie.nl
 https://kwalificatie-admin-api.proeftuin.gf.irealisatie.nl
@@ -17,7 +28,7 @@ https://max.test.mgo.irealisatie.nl
 https://stats.test.mgo.irealisatie.nl
 http://storage.test.mgo.irealisatie.nl
 https://web.test.mgo.irealisatie.nl
-http://app-api.test.mgo.irealisatie.nl
+https://app-api.test.mgo.irealisatie.nl
 https://balie.dpr.irealisatie.nl
 https://balie.woo.irealisatie.nl
 https://zvs.woo.irealisatie.nl
@@ -57,7 +68,7 @@ https://web.acc.woo.irealisatie.nl
 https://balie.acc.woo.irealisatie.nl
 https://stats.acc.mgo.irealisatie.nl
 https://dva.acc.mgo.irealisatie.nl
-https://stats.test.zm.irealisatie.nl
+http://stats.test.zm.irealisatie.nl
 http://acc.irealisatie.nl
 http://gitea.irealisatie.nl
 http://kat.irealisatie.nl

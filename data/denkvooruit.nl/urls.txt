@@ -1,7 +1,5 @@
 https://denkvooruit.nl
-https://english.denkvooruit.nl
 https://feeds.denkvooruit.nl
 http://feeds.english.denkvooruit.nl
 https://opendata.denkvooruit.nl
-http://opendata.english.denkvooruit.nl
 https://www.denkvooruit.nl

@@ -20,7 +20,7 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[https://agendalaadinfrastructuur.nl](https://agendalaadinfrastructuur.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|405 Method not a...|
+|[https://agendalaadinfrastructuur.nl](https://agendalaadinfrastructuur.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 |[https://www.agendalaadinfrastructuur.nl](https://www.agendalaadinfrastructuur.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS Microsoft ASP.NET|Object moved|
 
 

@@ -21,6 +21,6 @@
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://eemskrant.nl](https://eemskrant.nl)| | **F**|LiteSpeed| | | | | | | | :white_check_mark: | |HTTP/3 LiteSpeed|301 Moved Perman...|
-|[https://www.eemskrant.nl](https://www.eemskrant.nl)| | **F**|LiteSpeed| | | | | | | | :white_check_mark: | |HTTP/3 LiteSpeed Litespeed Cache PHP Site Kit:1.147.0 wpBakery|Eemskrant: Het L...|
+|[https://www.eemskrant.nl](https://www.eemskrant.nl)| | **F**|LiteSpeed| | | | | | | | :white_check_mark: | |HTTP/3 LiteSpeed Litespeed Cache PHP Site Kit:1.148.0 wpBakery|Eemskrant: Het L...|
 
 

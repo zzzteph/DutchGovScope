@@ -1,5 +1,2 @@
 dataportaal.eiti.nl
-opendata.eiti.nl
-www.eiti.nl
 eiti.nl
-feeds.eiti.nl

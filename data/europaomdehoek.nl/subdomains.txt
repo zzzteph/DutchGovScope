@@ -2,6 +2,5 @@
 europaomdehoek.nl
 feeds.europaomdehoek.nl
 opendata.europaomdehoek.nl
-www.europaomdehoek.nl
 acceptatie.europaomdehoek.nl
 staging.europaomdehoek.nl

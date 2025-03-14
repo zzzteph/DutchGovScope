@@ -11,7 +11,7 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/cannabisbureau.nl/subdomains.txt)|7|Alive subdomains|
+|[subdomains.txt](/data/cannabisbureau.nl/subdomains.txt)|5|Alive subdomains|
 |[urls.txt](/data/cannabisbureau.nl/urls.txt)|5|Urls|
 
 

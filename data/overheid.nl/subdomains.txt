@@ -197,7 +197,6 @@ www.overheid.nl
 zoekservice.overheid.nl
 doculoket.overheid.nl
 standaarden.overheid.nl
-decentraleregelgeving.overheid.nl
 demo.mijn.overheid.nl
 digilab.overheid.nl
 drop-api.overheid.nl
@@ -231,7 +230,6 @@ puc-redactie.overheid.nl
 puc.overheid.nl
 rd1.toegang.overheid.nl
 rd2.toegang.overheid.nl
-regelgeving.omgevingswet.overheid.nl
 regelgeving.pre.omgevingswet.overheid.nl
 regels.overheid.nl
 ruimte.dmo.omgevingswet.overheid.nl
@@ -279,7 +277,6 @@ int13m.omgevingswet.overheid.nl
 kwaliteitsdashboard-koop.overheid.nl
 demo-systemteam.overheid.nl
 demo2-systemteam.overheid.nl
-linkextractor-acc.overheid.nl
 brt.test.basisregistraties.overheid.nl
 www.intbhr.omgevingswet.overheid.nl
 identifier-preprod.overheid.nl

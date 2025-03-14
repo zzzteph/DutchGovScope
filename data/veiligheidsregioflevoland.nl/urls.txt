@@ -1,12 +1,13 @@
 http://elo.veiligheidsregioflevoland.nl
 http://redactie.veiligheidsregioflevoland.nl
 http://www.veiligheidsregioflevoland.nl
-http://veiligheidsregioflevoland.nl
+https://veiligheidsregioflevoland.nl
 https://mail.veiligheidsregioflevoland.nl
 http://autodiscover.veiligheidsregioflevoland.nl
 https://enterpriseenrollment.veiligheidsregioflevoland.nl
 https://enterpriseregistration.veiligheidsregioflevoland.nl
-http://dept.veiligheidsregioflevoland.nl
 https://msoid.veiligheidsregioflevoland.nl
 http://086.veiligheidsregioflevoland.nl
 http://debestelinks.veiligheidsregioflevoland.nl
+http://azb.veiligheidsregioflevoland.nl
+http://tait.veiligheidsregioflevoland.nl

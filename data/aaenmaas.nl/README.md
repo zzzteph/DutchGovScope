@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/aaenmaas.nl/subdomains.txt)|21|Alive subdomains|
-|[urls.txt](/data/aaenmaas.nl/urls.txt)|21|Urls|
+|[subdomains.txt](/data/aaenmaas.nl/subdomains.txt)|22|Alive subdomains|
+|[urls.txt](/data/aaenmaas.nl/urls.txt)|22|Urls|
 
 
 ## Statistics
@@ -20,9 +20,10 @@
 
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
-|[http://aaenmaas.nl](http://aaenmaas.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-||
-|[http://www.aaenmaas.nl](http://www.aaenmaas.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Google Tag Manager HSTS Microsoft ASP.NET:-||
+|[https://aaenmaas.nl](https://aaenmaas.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-|Object moved|
+|[https://www.aaenmaas.nl](https://www.aaenmaas.nl)| | **A**|-| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Google Tag Manager HSTS Microsoft ASP.NET:-|Home - Waterscha...|
 |[http://autodiscover.aaenmaas.nl](http://autodiscover.aaenmaas.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server||
+|[https://oa.aaenmaas.nl](https://oa.aaenmaas.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://dialin.aaenmaas.nl](https://dialin.aaenmaas.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|Conferencing Dia...|
 |[https://lync.aaenmaas.nl](https://lync.aaenmaas.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS|403 - Forbidden:...|
 |[https://lyncdiscover.aaenmaas.nl](https://lyncdiscover.aaenmaas.nl)| | **B**|| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS||

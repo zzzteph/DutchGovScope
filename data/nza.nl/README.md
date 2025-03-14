@@ -6,13 +6,13 @@
 
  - **SSL Grade**:
  - **HTTP Security Grade**:A
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:16
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:15
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/nza.nl/subdomains.txt)|34|Alive subdomains|
-|[urls.txt](/data/nza.nl/urls.txt)|34|Urls|
+|[subdomains.txt](/data/nza.nl/subdomains.txt)|33|Alive subdomains|
+|[urls.txt](/data/nza.nl/urls.txt)|33|Urls|
 
 
 ## Statistics
@@ -29,7 +29,6 @@
 |[https://nza-form6.nza.nl](https://nza-form6.nza.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|NZa aanvragenpor...|
 |[https://zorgprestatiemodel.nza.nl](https://zorgprestatiemodel.nza.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Mendix|
 |[https://nza-form2.nza.nl](https://nza-form2.nza.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Mendix|
-|[https://mijn-accp.nza.nl](https://mijn-accp.nza.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Mijn NZa|
 |[https://nza-form3.nza.nl](https://nza-form3.nza.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|NZa aanvragenpor...|
 |[https://nza-form5.nza.nl](https://nza-form5.nza.nl)| | **A**|nginx| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx|NZa aanvragenpor...|
 |[http://acceptatie.crm.nza.nl](http://acceptatie.crm.nza.nl)| | **F**|Apache| | | | | | | | :white_check_mark: | |Apache HTTP Server|301 Moved Perman...|

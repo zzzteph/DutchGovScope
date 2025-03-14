@@ -2,11 +2,11 @@
 layout: default
 title: "europaomdehoek.nl"
 permalink: "/dutchgov/europaomdehoek.nl.html"
-subdomains_count: 7
-urls_count: 7
+subdomains_count: 6
+urls_count: 6
 ssl_rank: 
-http_rank: B
-security_txt: 4
+http_rank: C
+security_txt: 3
 url_link: /data/europaomdehoek.nl/urls.txt
 subdomains_link: /data/europaomdehoek.nl/subdomains.txt
 categories: dutchgov
@@ -19,14 +19,14 @@ tags: dutchgov
 
 
  - **SSL Grade**:
- - **HTTP Security Grade**:B
- - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:4
+ - **HTTP Security Grade**:C
+ - **[security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/)**:3
 
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/DutchGovScope/data/europaomdehoek.nl/subdomains.txt)|7|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/europaomdehoek.nl/urls.txt)|7|Urls|
+|[subdomains.txt](/DutchGovScope/data/europaomdehoek.nl/subdomains.txt)|6|Alive subdomains|
+|[urls.txt](/DutchGovScope/data/europaomdehoek.nl/urls.txt)|6|Urls|
 
 
 ## Statistics
@@ -38,7 +38,6 @@ tags: dutchgov
 |[https://europaomdehoek.nl](https://europaomdehoek.nl)| | **A**|nginx| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |HSTS Nginx|301 Moved Perman...|
 |[https://feeds.europaomdehoek.nl](https://feeds.europaomdehoek.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
 |[https://opendata.europaomdehoek.nl](https://opendata.europaomdehoek.nl)| | **A**|nginx| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Nginx||
-|[https://www.europaomdehoek.nl](https://www.europaomdehoek.nl)| | **A**|| |:white_check_mark: | | |:warning: | :white_check_mark: | | :white_check_mark: | |Bloomreach HSTS HTTP/3|Home | Europa om...|
 |[https://acceptatie.europaomdehoek.nl](https://acceptatie.europaomdehoek.nl)| | **E**|| | | | | | | | :white_check_mark: | ||404 Not Found|
 |[https://staging.europaomdehoek.nl](https://staging.europaomdehoek.nl)| | **F**|LinQhost HPW| | | | | | | | :white_check_mark: | |HSTS|LinQhost Managed...|
 

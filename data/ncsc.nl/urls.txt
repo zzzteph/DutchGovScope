@@ -21,6 +21,7 @@ https://magazines.ncsc.nl
 https://ncsc.nl
 https://opendata.english.ncsc.nl
 https://opendata.ncsc.nl
+https://privaat.octomon.ncsc.nl
 https://test.ncsc.nl
 https://csaf.data.security.ncsc.nl
 https://vulnerabilities.ncsc.nl

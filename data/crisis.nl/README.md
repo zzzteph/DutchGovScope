@@ -11,8 +11,8 @@
 
 | File       | Count | Info |
 |------------|-------|------|
-|[subdomains.txt](/data/crisis.nl/subdomains.txt)|3|Alive subdomains|
-|[urls.txt](/data/crisis.nl/urls.txt)|3|Urls|
+|[subdomains.txt](/data/crisis.nl/subdomains.txt)|2|Alive subdomains|
+|[urls.txt](/data/crisis.nl/urls.txt)|2|Urls|
 
 
 ## Statistics
@@ -22,6 +22,5 @@
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://crisis.nl](https://crisis.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|crisis.nl | Cris...|
 |[https://www.crisis.nl](https://www.crisis.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|crisis.nl | Cris...|
-|[https://test.crisis.nl](https://test.crisis.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS|crisis.nl | Cris...|
 
 

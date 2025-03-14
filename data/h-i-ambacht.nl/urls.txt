@@ -21,3 +21,4 @@ https://web.h-i-ambacht.nl
 https://hendrik-ido-ambacht-checker-preprod.h-i-ambacht.nl
 https://hendrik-ido-ambacht-checker.h-i-ambacht.nl
 https://gisibapi-test.h-i-ambacht.nl
+https://gisibapi.h-i-ambacht.nl

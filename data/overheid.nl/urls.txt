@@ -161,7 +161,7 @@ https://bgt.basisregistraties.overheid.nl
 https://bodem-ondergrond.omgevingswet.overheid.nl
 https://organisaties-acc.overheid.nl
 https://tuchtrecht-acc.overheid.nl
-http://boub-api-acc.overheid.nl
+https://boub-api-acc.overheid.nl
 https://data-acc.overheid.nl
 https://doculoket-acc.overheid.nl
 https://bouw.omgevingswet.overheid.nl
@@ -197,7 +197,6 @@ https://www.overheid.nl
 https://zoekservice.overheid.nl
 https://doculoket.overheid.nl
 https://standaarden.overheid.nl
-http://decentraleregelgeving.overheid.nl
 https://demo.mijn.overheid.nl
 https://digilab.overheid.nl
 https://drop-api.overheid.nl
@@ -231,7 +230,6 @@ https://puc-redactie.overheid.nl
 https://puc.overheid.nl
 https://rd1.toegang.overheid.nl
 https://rd2.toegang.overheid.nl
-https://regelgeving.omgevingswet.overheid.nl
 https://regelgeving.pre.omgevingswet.overheid.nl
 https://regels.overheid.nl
 https://ruimte.dmo.omgevingswet.overheid.nl
@@ -259,7 +257,7 @@ https://toepasbare-regels.pre.omgevingswet.overheid.nl
 https://vpn.koop.overheid.nl
 https://wetgeving.omgevingswet.overheid.nl
 https://wetgeving.pre.omgevingswet.overheid.nl
-https://zoek.overheid.nl
+http://zoek.overheid.nl
 https://beheerportaal.intpatch.omgevingswet.overheid.nl
 https://beheerportaal.dmo.omgevingswet.overheid.nl
 https://api.standaarden.overheid.nl
@@ -279,7 +277,6 @@ https://int13m.omgevingswet.overheid.nl
 https://kwaliteitsdashboard-koop.overheid.nl
 https://demo-systemteam.overheid.nl
 http://demo2-systemteam.overheid.nl
-https://linkextractor-acc.overheid.nl
 https://brt.test.basisregistraties.overheid.nl
 https://www.intbhr.omgevingswet.overheid.nl
 https://identifier-preprod.overheid.nl
@@ -314,3 +311,5 @@ http://dse.lx.overheid.nl
 https://cia.acp.ondernemersplein.overheid.nl
 https://cia.tst.ondernemersplein.overheid.nl
 https://api.developer.overheid.nl
+https://oss.developer.overheid.nl
+https://apis.developer.overheid.nl

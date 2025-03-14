@@ -3,7 +3,7 @@ layout: default
 title: "hhdelfland.nl"
 permalink: "/dutchgov/hhdelfland.nl.html"
 subdomains_count: 34
-urls_count: 33
+urls_count: 34
 ssl_rank: 
 http_rank: B
 security_txt: 8
@@ -26,7 +26,7 @@ tags: dutchgov
 | File       | Count | Info |
 |------------|-------|------|
 |[subdomains.txt](/DutchGovScope/data/hhdelfland.nl/subdomains.txt)|34|Alive subdomains|
-|[urls.txt](/DutchGovScope/data/hhdelfland.nl/urls.txt)|33|Urls|
+|[urls.txt](/DutchGovScope/data/hhdelfland.nl/urls.txt)|34|Urls|
 
 
 ## Statistics
@@ -39,16 +39,17 @@ tags: dutchgov
 |[https://beeldbank-bo.hhdelfland.nl](https://beeldbank-bo.hhdelfland.nl)| | **B**|Picture Pack|:warning: |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:4.0.30319|Picture Pack|
 |[https://burgerloket.hhdelfland.nl](https://burgerloket.hhdelfland.nl)| | **A**|Apache| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server|301 Moved Perman...|
 |[https://connect.hhdelfland.nl](https://connect.hhdelfland.nl)| | **E**|| | | | | | | | :white_check_mark: | |HSTS||
+|[https://dms.hhdelfland.nl](https://dms.hhdelfland.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|IIS Windows Serv...|
 |[https://geoviewerhhd.hhdelfland.nl](https://geoviewerhhd.hhdelfland.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Secure Portal Re...|
 |[https://geo.hhdelfland.nl](https://geo.hhdelfland.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Secure Portal Re...|
 |[https://geoportaalhhd.hhdelfland.nl](https://geoportaalhhd.hhdelfland.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Secure Portal Re...|
 |[https://geoapps.hhdelfland.nl](https://geoapps.hhdelfland.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Linkjes naar Ver...|
 |[https://geoportaaltest.hhdelfland.nl](https://geoportaaltest.hhdelfland.nl)| | **C**|Microsoft-IIS/10.0| |:white_check_mark: | | | | | | :white_check_mark: | |HSTS IIS:10.0 Microsoft ASP.NET Windows Server|Secure Portal Re...|
-|[https://grondwaterportaal-a.hhdelfland.nl](https://grondwaterportaal-a.hhdelfland.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | | :white_check_mark:| | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|Document Moved|
+|[https://grondwaterportaal-a.hhdelfland.nl](https://grondwaterportaal-a.hhdelfland.nl)| | **B**|Microsoft-IIS/10.0|:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|Document Moved|
 |[https://startstopmelding-a.hhdelfland.nl](https://startstopmelding-a.hhdelfland.nl)| | **D**|Microsoft-IIS/10.0| | | | | :white_check_mark:| | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|403 - Forbidden:...|
-|[https://watertoetsportaal-a.hhdelfland.nl](https://watertoetsportaal-a.hhdelfland.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | | :white_check_mark:| | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|Document Moved|
-|[https://watertoetsportaal.hhdelfland.nl](https://watertoetsportaal.hhdelfland.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | | :white_check_mark:| | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|Document Moved|
-|[https://grondwaterportaal.hhdelfland.nl](https://grondwaterportaal.hhdelfland.nl)| | **A**|Microsoft-IIS/10.0| |:white_check_mark: | | | :white_check_mark:| | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|Document Moved|
+|[https://watertoetsportaal-a.hhdelfland.nl](https://watertoetsportaal-a.hhdelfland.nl)| | **B**|Microsoft-IIS/10.0|:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|Document Moved|
+|[https://watertoetsportaal.hhdelfland.nl](https://watertoetsportaal.hhdelfland.nl)| | **B**|Microsoft-IIS/10.0|:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|Document Moved|
+|[https://grondwaterportaal.hhdelfland.nl](https://grondwaterportaal.hhdelfland.nl)| | **B**|Microsoft-IIS/10.0|:warning: |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|Document Moved|
 |[https://startstopmelding.hhdelfland.nl](https://startstopmelding.hhdelfland.nl)| | **D**|Microsoft-IIS/10.0| | | | | :white_check_mark:| | | :white_check_mark: | |IIS:10.0 Microsoft ASP.NET Windows Server|403 - Forbidden:...|
 |[http://hhdelfland.nl](http://hhdelfland.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-||
 |[http://www.hhdelfland.nl](http://www.hhdelfland.nl)| | **A**|| |:white_check_mark: | | | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |HSTS Microsoft ASP.NET:-||

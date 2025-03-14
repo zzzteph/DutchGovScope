@@ -127,6 +127,7 @@ https://highcharts.cbs.nl
 https://redactie.cbs.nl
 https://www.cbs.nl
 https://cdn.cbs.nl
+http://collecties.historisch.cbs.nl
 https://historisch.cbs.nl
 https://www.historisch.cbs.nl
 https://designsystem.cbs.nl
@@ -139,6 +140,7 @@ https://welkombij.cbs.nl
 https://geoservices.cbs.nl
 https://uag.cbs.nl
 https://highcharts-acc.cbs.nl
+https://jeugdmonitor-acc.cbs.nl
 https://jeugdmonitor.cbs.nl
 https://longreads.cbs.nl
 https://mbg.cbs.nl
@@ -161,8 +163,6 @@ https://search.beta.cbs.nl
 https://mijn.cbs.nl
 https://mijn.acceptatie.cbs.nl
 https://overzicht.cbs.nl
-https://webserver.cbs.nl
-https://testchat.cbs.nl
 https://webext.cbs.nl
 https://cerberus.cbs.nl
 https://content1.cbs.nl
@@ -175,3 +175,4 @@ https://beta-iv3-controle.cbs.nl
 https://smartsurveys.cbs.nl
 http://topdesk.cbs.nl
 https://almere.cbs.nl
+https://sbi2008.cbs.nl

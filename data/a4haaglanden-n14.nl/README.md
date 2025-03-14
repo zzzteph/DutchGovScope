@@ -21,6 +21,6 @@
 | Url | SSL | HTTP | Server | Cookie | HSTS | CORS | CTO | CSP | XFO | XXP | RP |FP| Tech |Title |
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[https://a4haaglanden-n14.nl](https://a4haaglanden-n14.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
-|[https://www.a4haaglanden-n14.nl](https://www.a4haaglanden-n14.nl)| | **E**|| | | | | | | | :white_check_mark: | ||Object moved|
+|[https://www.a4haaglanden-n14.nl](https://www.a4haaglanden-n14.nl)| | **E**|| | | | | | | | :white_check_mark: | ||405 Method not a...|
 
 

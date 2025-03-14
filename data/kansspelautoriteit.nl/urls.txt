@@ -5,7 +5,6 @@ https://kansspelautoriteit.nl
 https://autodiscover.kansspelautoriteit.nl
 https://mx.kansspelautoriteit.nl
 https://webmail.kansspelautoriteit.nl
-https://portal.kansspelautoriteit.nl
 https://acc.kansspelautoriteit.nl
 https://desktop.kansspelautoriteit.nl
 https://ems.kansspelautoriteit.nl

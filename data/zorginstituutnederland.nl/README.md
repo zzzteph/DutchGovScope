@@ -31,6 +31,6 @@
 |[https://samenwerken.zorginstituutnederland.nl](https://samenwerken.zorginstituutnederland.nl)| | **A**|nginx|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Express HSTS Nginx Sails.js||
 |[https://securemail.zorginstituutnederland.nl](https://securemail.zorginstituutnederland.nl)| | **A**|| |:white_check_mark: | | |:warning: | | :white_check_mark: | :white_check_mark: | |HSTS||
 |[https://www-ac.zorginstituutnederland.nl](https://www-ac.zorginstituutnederland.nl)| | **F**|Solvinity Server| | | | | | | | :white_check_mark: | ||HTTP Status 404...|
-|[https://proto.zorginstituutnederland.nl](https://proto.zorginstituutnederland.nl)| | **A**|GitHub.com|:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Fastly GitHub Pages Varnish|302 Found|
+|[https://proto.zorginstituutnederland.nl](https://proto.zorginstituutnederland.nl)| | **A**|GitHub.com| |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Fastly GitHub Pages Varnish|302 Found|
 
 

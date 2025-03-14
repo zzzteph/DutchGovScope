@@ -26,3 +26,4 @@ https://mail.pbl.nl
 https://msoid.pbl.nl
 https://connect.pbl.nl
 http://testconn.pbl.nl
+https://password.pbl.nl

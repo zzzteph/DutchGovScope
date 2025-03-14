@@ -36,7 +36,7 @@ tags: dutchgov
 |--------|-------|-------|------|------|------|------|------|------|------|------|------|------|------|------|
 |[http://bibliotheek.gezondeleefomgeving.nl](http://bibliotheek.gezondeleefomgeving.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
 |[https://gezondeleefomgeving.nl](https://gezondeleefomgeving.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server HSTS|301 Moved Perman...|
-|[https://www.gezondeleefomgeving.nl](https://www.gezondeleefomgeving.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP|Gids Gezonde Lee...|
+|[https://www.gezondeleefomgeving.nl](https://www.gezondeleefomgeving.nl)| | **A**|Apache| |:white_check_mark: | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Apache HTTP Server Drupal HSTS PHP:8.1.31|Gids Gezonde Lee...|
 |[http://localhost.gezondeleefomgeving.nl](http://localhost.gezondeleefomgeving.nl)| | **F**|nginx|:o: | | | | | :white_check_mark: | :white_check_mark: | :white_check_mark: | |Laravel Nginx PHP|Weakpass|
 
 

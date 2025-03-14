@@ -9,8 +9,6 @@ https://www.belastingdienst.nl
 https://beta.belastingdienst.nl
 https://betalen-cnf.belastingdienst.nl
 https://betalen.belastingdienst.nl
-https://brm.belastingdienst.nl
-https://brmrest-test.belastingdienst.nl
 https://bvs.belastingdienst.nl
 https://cciwebstats.belastingdienst.nl
 https://centraalaanspreekpuntpensioenen.belastingdienst.nl

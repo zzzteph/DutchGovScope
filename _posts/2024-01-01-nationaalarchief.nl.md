@@ -58,7 +58,7 @@ tags: dutchgov
 |[https://meeting.nationaalarchief.nl](https://meeting.nationaalarchief.nl)| | **B**|nginx| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |HSTS Nginx|Jitsi Meet|
 |[https://nextdrive.nationaalarchief.nl](https://nextdrive.nationaalarchief.nl)| | **A**||:white_check_mark: |:white_check_mark: | | |:warning: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |HSTS Nextcloud PHP||
 |[https://pywb.nationaalarchief.nl](https://pywb.nationaalarchief.nl)| | **A**|| |:white_check_mark: | :warning:| | :white_check_mark:| :white_check_mark: | :white_check_mark: | :white_check_mark: | |Bootstrap HSTS||
-|[https://pywb.ted.nationaalarchief.nl](https://pywb.ted.nationaalarchief.nl)| | **A**|| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |Bootstrap HSTS||
+|[https://pywb.ted.nationaalarchief.nl](https://pywb.ted.nationaalarchief.nl)| | **A**|| |:white_check_mark: | | | | | :white_check_mark: | :white_check_mark: | |Bootstrap HSTS|Invalid Connecti...|
 |[https://ted.nationaalarchief.nl](https://ted.nationaalarchief.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|403 Forbidden|
 |[https://www.ted.nationaalarchief.nl](https://www.ted.nationaalarchief.nl)| | **F**|nginx| | | | | | | | :white_check_mark: | |Nginx|301 Moved Perman...|
 |[https://cbs.acpt.nationaalarchief.nl](https://cbs.acpt.nationaalarchief.nl)| | **E**|| | | | | | | | :white_check_mark: | |||
