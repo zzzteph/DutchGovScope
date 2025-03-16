@@ -2,7 +2,7 @@ import os
 import ipaddress
 from sqlalchemy.orm import sessionmaker
 from sqlalchemy import create_engine
-from db import Scope, Base  # Updated to import from db.py
+from db import Scope, Base
 from datetime import datetime, timezone
 
 DATABASE_URL = "sqlite:///scope_scan.db"

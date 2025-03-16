@@ -1,4 +1,4 @@
-name: Exec update
+name: Exec latest
 
 on:
   workflow_dispatch:
@@ -22,12 +22,4 @@ jobs:
           pip install -r requirements.txt 
 
       - name: Run update script
-        run: python update.py
-
-      - name: Commit changes
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add scope_scan.db
-          git commit -m "Auto-update: scope database updated" || echo "No changes to commit"
-          git push
+        run: python get_latest_unscanned_scope.py
