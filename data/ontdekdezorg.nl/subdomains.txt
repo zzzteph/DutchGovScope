@@ -1,7 +1,0 @@
-toolkit.ontdekdezorg.nl
-www.ontdekdezorg.nl
-ontdekdezorg.nl
-postergenerator.ontdekdezorg.nl
-staging.ontdekdezorg.nl
-mail.ontdekdezorg.nl
-web01.ontdekdezorg.nl

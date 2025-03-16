@@ -1,3 +1,0 @@
-aansluiten.procesinfrastructuur.nl
-cs-portaal.procesinfrastructuur.nl
-dashboard.procesinfrastructuur.nl

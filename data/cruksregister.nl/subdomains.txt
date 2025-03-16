@@ -1,9 +1,0 @@
-acc.cruksregister.nl
-test.cruksregister.nl
-www.cruksregister.nl
-cruksregister.nl
-jaeger.cruksregister.nl
-pingdom.cruksregister.nl
-grafana.cruksregister.nl
-api-acc.cruksregister.nl
-api-test.cruksregister.nl

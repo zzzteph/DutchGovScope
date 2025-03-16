@@ -1,6 +1,0 @@
-https://nlflag.nl
-https://www.nlflag.nl
-https://ftp.nlflag.nl
-https://mail.nlflag.nl
-http://autodiscover.nlflag.nl
-https://autoconfig.nlflag.nl

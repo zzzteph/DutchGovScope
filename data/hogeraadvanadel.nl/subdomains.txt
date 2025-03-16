@@ -1,8 +1,0 @@
-feeds.hogeraadvanadel.nl
-hogeraadvanadel.nl
-opendata.hogeraadvanadel.nl
-www.hogeraadvanadel.nl
-autodiscover.hogeraadvanadel.nl
-enterpriseenrollment.hogeraadvanadel.nl
-enterpriseregistration.hogeraadvanadel.nl
-msoid.hogeraadvanadel.nl

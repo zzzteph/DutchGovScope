@@ -1,4 +1,0 @@
-opendata.dutchoffshorewindatlas.nl
-www.dutchoffshorewindatlas.nl
-dutchoffshorewindatlas.nl
-feeds.dutchoffshorewindatlas.nl

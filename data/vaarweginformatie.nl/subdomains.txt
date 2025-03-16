@@ -1,6 +1,0 @@
-vaarmelder.vaarweginformatie.nl
-vaarweginformatie.nl
-www.vaarweginformatie.nl
-acceptatie.vaarweginformatie.nl
-api.acceptatie.vaarweginformatie.nl
-api.vaarweginformatie.nl

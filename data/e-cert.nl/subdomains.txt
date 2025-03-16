@@ -1,3 +1,0 @@
-e-cert.nl
-staging.e-cert.nl
-www.e-cert.nl

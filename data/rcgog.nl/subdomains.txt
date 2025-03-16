@@ -1,4 +1,0 @@
-rcgog.nl
-www.rcgog.nl
-feeds.rcgog.nl
-opendata.rcgog.nl

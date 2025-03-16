@@ -1,4 +1,0 @@
-www.noraonline.nl
-data.noraonline.nl
-noraonline.nl
-sparql.noraonline.nl

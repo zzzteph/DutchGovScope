@@ -1,5 +1,0 @@
-feeds.rsj.nl
-opendata.rsj.nl
-rsj.nl
-www.rsj.nl
-intranet.rsj.nl

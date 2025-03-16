@@ -1,4 +1,0 @@
-viewer.ahn.nl
-ahn.nl
-autodiscover.ahn.nl
-msoid.ahn.nl

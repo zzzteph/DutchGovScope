@@ -1,8 +1,0 @@
-http://ofgv.nl
-http://redactie.ofgv.nl
-http://www.ofgv.nl
-http://autodiscover.ofgv.nl
-https://webmail.ofgv.nl
-https://kenniscentrum.ofgv.nl
-https://enterpriseenrollment.ofgv.nl
-https://enterpriseregistration.ofgv.nl

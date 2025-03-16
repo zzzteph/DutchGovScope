@@ -1,4 +1,0 @@
-feeds.nlvergroent.nl
-nlvergroent.nl
-www.nlvergroent.nl
-opendata.nlvergroent.nl

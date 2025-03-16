@@ -1,4 +1,0 @@
-feeds.healthcouncil.nl
-healthcouncil.nl
-opendata.healthcouncil.nl
-www.healthcouncil.nl

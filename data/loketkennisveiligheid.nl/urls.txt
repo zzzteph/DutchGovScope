@@ -1,5 +1,0 @@
-http://feeds.english.loketkennisveiligheid.nl
-https://loketkennisveiligheid.nl
-http://opendata.english.loketkennisveiligheid.nl
-https://www.loketkennisveiligheid.nl
-https://netwerk.loketkennisveiligheid.nl

@@ -1,8 +1,0 @@
-http://exchange.ssonet.nl
-https://ssonet.nl
-https://www.ssonet.nl
-https://anyc-t01-a.ssonet.nl
-https://storingsdienst.rgd.ssonet.nl
-https://anyc-t02.ssonet.nl
-https://anyc-t03.ssonet.nl
-https://anyc.ssonet.nl

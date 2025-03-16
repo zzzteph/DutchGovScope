@@ -1,9 +1,0 @@
-opendata.nl-alert.nl
-www.nl-alert.nl
-feeds.nl-alert.nl
-nl-alert.nl
-opleiding.nl-alert.nl
-test.nl-alert.nl
-prod.nl-alert.nl
-actueel.nl-alert.nl
-test.actueel.nl-alert.nl

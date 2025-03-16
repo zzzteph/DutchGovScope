@@ -1,7 +1,0 @@
-feeds.english.dsta.nl
-opendata.dsta.nl
-opendata.english.dsta.nl
-www.dsta.nl
-dsta.nl
-english.dsta.nl
-feeds.dsta.nl

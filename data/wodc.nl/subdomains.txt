@@ -1,9 +1,0 @@
-connect.wodc.nl
-opendata.wodc.nl
-wodc.nl
-www.wodc.nl
-english.wodc.nl
-feeds.english.wodc.nl
-feeds.wodc.nl
-opendata.english.wodc.nl
-repository.wodc.nl

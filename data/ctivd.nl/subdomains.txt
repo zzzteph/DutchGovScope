@@ -1,7 +1,0 @@
-ctivd.nl
-english.ctivd.nl
-feeds.ctivd.nl
-feeds.english.ctivd.nl
-opendata.ctivd.nl
-opendata.english.ctivd.nl
-www.ctivd.nl

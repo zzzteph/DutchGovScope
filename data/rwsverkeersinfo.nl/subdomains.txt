@@ -1,3 +1,0 @@
-www.rwsverkeersinfo.nl
-api.rwsverkeersinfo.nl
-rwsverkeersinfo.nl

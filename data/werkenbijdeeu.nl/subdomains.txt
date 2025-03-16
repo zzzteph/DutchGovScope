@@ -1,4 +1,0 @@
-feeds.werkenbijdeeu.nl
-opendata.werkenbijdeeu.nl
-werkenbijdeeu.nl
-www.werkenbijdeeu.nl

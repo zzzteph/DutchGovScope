@@ -1,4 +1,0 @@
-feeds.elkeregiotelt.nl
-opendata.elkeregiotelt.nl
-elkeregiotelt.nl
-www.elkeregiotelt.nl

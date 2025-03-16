@@ -1,5 +1,0 @@
-https://feeds.dihoo.nl
-https://opendata.dihoo.nl
-https://www.dihoo.nl
-https://dihoo.nl
-https://mail.dihoo.nl

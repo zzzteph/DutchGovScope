@@ -1,5 +1,0 @@
-nlontwikkelingssamenwerking.nl
-www.nlontwikkelingssamenwerking.nl
-acc.nlontwikkelingssamenwerking.nl
-tst.nlontwikkelingssamenwerking.nl
-dev.nlontwikkelingssamenwerking.nl

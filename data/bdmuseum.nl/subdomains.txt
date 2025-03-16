@@ -1,5 +1,0 @@
-bdmuseum.nl
-www.bdmuseum.nl
-tickets.bdmuseum.nl
-staging.bdmuseum.nl
-www.staging.bdmuseum.nl

@@ -1,7 +1,0 @@
-feeds.ceg.nl
-opendata.ceg.nl
-www.ceg.nl
-testsite.ceg.nl
-www.testsite.ceg.nl
-ftp.ceg.nl
-ceg.nl
