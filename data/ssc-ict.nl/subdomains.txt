@@ -1,8 +1,0 @@
-anyc-t01-a.ssc-ict.nl
-anyc-t03.ssc-ict.nl
-anyc.ssc-ict.nl
-feeds.ssc-ict.nl
-ssc-ict.nl
-www.ssc-ict.nl
-opendata.ssc-ict.nl
-anyc-t02.ssc-ict.nl

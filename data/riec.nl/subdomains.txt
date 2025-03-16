@@ -1,7 +1,0 @@
-feeds.riec.nl
-magazines.riec.nl
-opendata.riec.nl
-riec.nl
-www.riec.nl
-mdm.zwb.riec.nl
-autoconfig.riec.nl

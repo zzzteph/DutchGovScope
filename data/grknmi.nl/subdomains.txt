@@ -1,6 +1,0 @@
-grknmi.nl
-mail.grknmi.nl
-www.grknmi.nl
-ftp.grknmi.nl
-pop.grknmi.nl
-smtp.grknmi.nl

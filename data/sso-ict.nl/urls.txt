@@ -1,3 +1,0 @@
-https://sso-ict.nl
-https://www.sso-ict.nl
-http://localhost.sso-ict.nl

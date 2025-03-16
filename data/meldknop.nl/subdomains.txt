@@ -1,4 +1,0 @@
-meldknop.nl
-www.meldknop.nl
-staging.meldknop.nl
-autodiscover.meldknop.nl

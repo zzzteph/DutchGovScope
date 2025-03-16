@@ -1,4 +1,0 @@
-feeds.statiagovernment.com
-opendata.statiagovernment.com
-statiagovernment.com
-www.statiagovernment.com

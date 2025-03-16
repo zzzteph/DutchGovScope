@@ -1,8 +1,0 @@
-https://buurtatlas.vzinfo.nl
-https://mondgezondheidsdashboard.vzinfo.nl
-http://nzrdashboard.vzinfo.nl
-https://sterftedashboard-regionaal.vzinfo.nl
-https://sterftedashboard.vzinfo.nl
-https://vzinfo.nl
-https://www.vzinfo.nl
-https://ziektelast.vzinfo.nl

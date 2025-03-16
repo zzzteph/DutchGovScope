@@ -1,7 +1,0 @@
-www.acc.grondstoffenscanner.nl
-acc.grondstoffenscanner.nl
-beheer.acc.grondstoffenscanner.nl
-grondstoffenscanner.nl
-www.grondstoffenscanner.nl
-tst.grondstoffenscanner.nl
-beheer.grondstoffenscanner.nl

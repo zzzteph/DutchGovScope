@@ -1,8 +1,0 @@
-cms.acceptatie.tenderned.nl
-cms.test.tenderned.nl
-cms.tenderned.nl
-cursus.tenderned.nl
-www.cursus.tenderned.nl
-nieuws.tenderned.nl
-tenderned.nl
-www.tenderned.nl

@@ -1,5 +1,0 @@
-feeds.oostvaarderskliniek.nl
-oostvaarderskliniek.nl
-opendata.oostvaarderskliniek.nl
-www.oostvaarderskliniek.nl
-pvs.oostvaarderskliniek.nl

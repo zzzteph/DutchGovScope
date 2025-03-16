@@ -1,4 +1,0 @@
-feeds.tib-ivd.nl
-opendata.tib-ivd.nl
-tib-ivd.nl
-www.tib-ivd.nl

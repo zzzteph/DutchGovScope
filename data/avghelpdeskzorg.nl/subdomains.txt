@@ -1,4 +1,0 @@
-feeds.avghelpdeskzorg.nl
-opendata.avghelpdeskzorg.nl
-www.avghelpdeskzorg.nl
-avghelpdeskzorg.nl

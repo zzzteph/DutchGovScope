@@ -1,2 +1,0 @@
-http://datachallenge.nl
-http://localhost.datachallenge.nl

@@ -1,4 +1,0 @@
-grensinfo.nl
-www.grensinfo.nl
-www-a.grensinfo.nl
-azure-a-poc.grensinfo.nl

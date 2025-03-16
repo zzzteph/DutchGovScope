@@ -1,7 +1,0 @@
-inspectie-oe.nl
-opendata.english.inspectie-oe.nl
-opendata.inspectie-oe.nl
-www.inspectie-oe.nl
-english.inspectie-oe.nl
-feeds.english.inspectie-oe.nl
-feeds.inspectie-oe.nl

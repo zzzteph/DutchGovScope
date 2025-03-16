@@ -1,8 +1,0 @@
-justitieconnect.nl
-acc.justitieconnect.nl
-www.justitieconnect.nl
-private.justitieconnect.nl
-private.acc.justitieconnect.nl
-private.acc.staging.justitieconnect.nl
-private.staging.justitieconnect.nl
-acc.staging.justitieconnect.nl

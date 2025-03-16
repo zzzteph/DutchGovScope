@@ -1,9 +1,0 @@
-feeds.open-overheid.nl
-open-overheid.nl
-opendata.open-overheid.nl
-www.open-overheid.nl
-mail.open-overheid.nl
-wooincijfers.open-overheid.nl
-pop.open-overheid.nl
-smtp.open-overheid.nl
-ftp.open-overheid.nl

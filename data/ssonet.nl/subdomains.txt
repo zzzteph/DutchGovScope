@@ -1,8 +1,0 @@
-exchange.ssonet.nl
-ssonet.nl
-www.ssonet.nl
-anyc-t01-a.ssonet.nl
-storingsdienst.rgd.ssonet.nl
-anyc-t02.ssonet.nl
-anyc-t03.ssonet.nl
-anyc.ssonet.nl

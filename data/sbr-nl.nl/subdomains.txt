@@ -1,5 +1,0 @@
-acc-dictu.sbr-nl.nl
-test-dictu.sbr-nl.nl
-sbr-nl.nl
-www.sbr-nl.nl
-prod-dictu.sbr-nl.nl

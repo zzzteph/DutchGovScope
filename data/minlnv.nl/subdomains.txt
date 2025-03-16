@@ -1,5 +1,0 @@
-client-export.minlnv.nl
-e-certnl-acc.minlnv.nl
-e-certnl.minlnv.nl
-www.minlnv.nl
-minlnv.nl

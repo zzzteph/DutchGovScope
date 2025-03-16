@@ -1,8 +1,0 @@
-www.wrr.nl
-english.wrr.nl
-feeds.wrr.nl
-magazines.wrr.nl
-opendata.english.wrr.nl
-opendata.wrr.nl
-wrr.nl
-feeds.english.wrr.nl

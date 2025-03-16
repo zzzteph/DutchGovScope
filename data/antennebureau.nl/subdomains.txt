@@ -1,4 +1,0 @@
-antennebureau.nl
-feeds.antennebureau.nl
-opendata.antennebureau.nl
-www.antennebureau.nl

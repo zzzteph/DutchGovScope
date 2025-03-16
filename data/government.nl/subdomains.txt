@@ -1,6 +1,0 @@
-coronadashboard.government.nl
-www.government.nl
-government.nl
-opendata.government.nl
-magazines.government.nl
-feeds.government.nl

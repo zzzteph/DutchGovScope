@@ -1,8 +1,0 @@
-feeds.inspectie-jenv.nl
-inspectie-jenv.nl
-opendata.inspectie-jenv.nl
-www.inspectie-jenv.nl
-jip.inspectie-jenv.nl
-zaaksysteem-acc.inspectie-jenv.nl
-zaaksysteem.inspectie-jenv.nl
-meldpuntwki.inspectie-jenv.nl

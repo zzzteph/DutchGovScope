@@ -1,6 +1,0 @@
-https://knooppuntjoure.nl
-https://www.knooppuntjoure.nl
-https://mail.knooppuntjoure.nl
-https://ftp.knooppuntjoure.nl
-https://pop.knooppuntjoure.nl
-https://smtp.knooppuntjoure.nl

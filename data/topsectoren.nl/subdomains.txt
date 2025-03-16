@@ -1,7 +1,0 @@
-feeds.topsectoren.nl
-opendata.topsectoren.nl
-topsectoren.nl
-www.topsectoren.nl
-autodiscover.topsectoren.nl
-exchange.topsectoren.nl
-msoid.topsectoren.nl

@@ -1,7 +1,0 @@
-www.globalhealthhub.nl
-english.globalhealthhub.nl
-feeds.english.globalhealthhub.nl
-feeds.globalhealthhub.nl
-opendata.globalhealthhub.nl
-opendata.english.globalhealthhub.nl
-globalhealthhub.nl

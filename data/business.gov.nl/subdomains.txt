@@ -1,7 +1,0 @@
-api.business.gov.nl
-business.gov.nl
-opendata.business.gov.nl
-search.business.gov.nl
-autodiscover.business.gov.nl
-enterpriseenrollment.business.gov.nl
-enterpriseregistration.business.gov.nl

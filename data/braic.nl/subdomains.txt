@@ -1,4 +1,0 @@
-feeds.braic.nl
-opendata.braic.nl
-braic.nl
-www.braic.nl

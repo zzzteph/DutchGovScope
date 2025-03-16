@@ -1,4 +1,0 @@
-opendata.ncab.nl
-www.ncab.nl
-feeds.ncab.nl
-ncab.nl

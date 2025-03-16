@@ -1,4 +1,0 @@
-feeds.ocwincijfers.nl
-ocwincijfers.nl
-opendata.ocwincijfers.nl
-www.ocwincijfers.nl

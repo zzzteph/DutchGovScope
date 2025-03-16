@@ -1,4 +1,0 @@
-feeds.overeuropa.nl
-opendata.overeuropa.nl
-overeuropa.nl
-www.overeuropa.nl

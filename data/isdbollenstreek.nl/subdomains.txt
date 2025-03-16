@@ -1,7 +1,0 @@
-e-loket.isdbollenstreek.nl
-e-loket-test.isdbollenstreek.nl
-isdbollenstreek.nl
-mijnloket-test.isdbollenstreek.nl
-mijnloket.isdbollenstreek.nl
-www.isdbollenstreek.nl
-autodiscover.isdbollenstreek.nl

@@ -1,6 +1,0 @@
-https://enterpriseenrollment.dji.minjenv.nl
-https://enterpriseenrollment.dtv.minjenv.nl
-https://www.minjenv.nl
-https://enterpriseregistration.dtv.minjenv.nl
-https://minjenv.nl
-http://autodiscover.dtv.minjenv.nl

@@ -1,4 +1,0 @@
-opendata.nationaalwegenbestand.nl
-www.nationaalwegenbestand.nl
-feeds.nationaalwegenbestand.nl
-nationaalwegenbestand.nl

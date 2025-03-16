@@ -1,4 +1,0 @@
-opendata.geobasisregistraties.nl
-feeds.geobasisregistraties.nl
-geobasisregistraties.nl
-www.geobasisregistraties.nl
