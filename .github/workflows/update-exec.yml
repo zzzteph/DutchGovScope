@@ -28,15 +28,24 @@ jobs:
       - name: Get latest scope to scan
         id: latest_scope
         run: |
-          LATEST_SCOPE=$(python get_latest_unscanned_scope.py | tee /dev/tty | grep "LATEST_SCOPE_ID" | cut -d '=' -f2)
-          LATEST_NAME=$(python get_latest_unscanned_scope.py | tee /dev/tty | grep "LATEST_SCOPE_NAME" | cut -d '=' -f2)
-          if [ "$LATEST_SCOPE" = "None" ]; then
-            echo "No scope entries found. Skipping further steps."
+          LATEST_SCOPE=$(python get_latest_unscanned_scope.py | grep "LATEST_SCOPE_ID" | cut -d '=' -f2)
+          LATEST_NAME=$(python get_latest_unscanned_scope.py | grep "LATEST_SCOPE_NAME" | cut -d '=' -f2)
+          LATEST_TYPE=$(python get_latest_unscanned_scope.py | grep "LATEST_SCOPE_TYPE" | cut -d '=' -f2)
+
+          if [[ -z "$LATEST_SCOPE" || "$LATEST_SCOPE" == "None" ]]; then
+            echo "No valid scope entry found. Skipping Amass scan."
+            exit 0
+          fi
+
+          if [[ "$LATEST_TYPE" != "domains" ]]; then
+            echo "Skipping Amass scan: The latest scope is not a domain."
             exit 0
           fi
 
           echo "LATEST_SCOPE_ID=$LATEST_SCOPE" >> $GITHUB_ENV
           echo "LATEST_SCOPE_NAME=$LATEST_NAME" >> $GITHUB_ENV
+          echo "LATEST_SCOPE_TYPE=$LATEST_TYPE" >> $GITHUB_ENV
+
 
       - name: Run Subfinder (120s)
         if: env.LATEST_SCOPE_NAME != ''
