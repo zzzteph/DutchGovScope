@@ -51,7 +51,7 @@ jobs:
         if: env.LATEST_SCOPE_NAME != ''
         run: |
           echo "Scanning $LATEST_SCOPE_NAME with Subfinder..."
-          timeout 120 docker run --rm projectdiscovery/subfinder -d ${{ env.LATEST_SCOPE_NAME }} -silent -o subfinder_results.txt || echo "Subfinder timed out!"
+          timeout 120 docker run --rm projectdiscovery/subfinder -d ${{ env.LATEST_SCOPE_NAME }} -silent | tee subfinder_results.txt || echo "Subfinder timed out!"
 
 
       - name: Run Amass in Docker (120s Timeout)
