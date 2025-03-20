@@ -19,18 +19,18 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install -r requirements.txt 
+          pip install -r engine/requirements.txt
 
       - name: Run update script
-        run: python update.py
+        run: python engine/update.py
 
 
       - name: Get latest scope to scan
         id: latest_scope
         run: |
-          LATEST_SCOPE=$(python get_latest_unscanned_scope.py | grep "LATEST_SCOPE_ID" | cut -d '=' -f2)
-          LATEST_NAME=$(python get_latest_unscanned_scope.py | grep "LATEST_SCOPE_NAME" | cut -d '=' -f2)
-          LATEST_TYPE=$(python get_latest_unscanned_scope.py | grep "LATEST_SCOPE_TYPE" | cut -d '=' -f2)
+          LATEST_SCOPE=$(python engine/get_latest_unscanned_scope.py | grep "LATEST_SCOPE_ID" | cut -d '=' -f2)
+          LATEST_NAME=$(python engine/get_latest_unscanned_scope.py | grep "LATEST_SCOPE_NAME" | cut -d '=' -f2)
+          LATEST_TYPE=$(python engine/get_latest_unscanned_scope.py | grep "LATEST_SCOPE_TYPE" | cut -d '=' -f2)
 
           if [[ -z "$LATEST_SCOPE" || "$LATEST_SCOPE" == "None" ]]; then
             echo "No valid scope entry found. Skipping Amass scan."
