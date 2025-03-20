@@ -79,7 +79,13 @@ jobs:
         if: env.LATEST_SCOPE_NAME != '' && env.LATEST_SCOPE_TYPE == 'domains'
         run: |
           rm -f merged_data.txt merged_data.tmp amass_results.txt subfinder_results.txt
-
+          for file in merged_data.txt merged_data.tmp amass_results.txt subfinder_results.txt; do
+            if [ -f "$file" ]; then
+              echo "❌ File still exists: $file"
+            else
+              echo "✅ File successfully deleted: $file"
+            fi
+          done
 
 
 
