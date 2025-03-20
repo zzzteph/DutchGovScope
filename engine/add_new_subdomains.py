@@ -1,7 +1,12 @@
 import sys
 import tldextract
 from sqlalchemy.orm import sessionmaker
-from db import engine, Scope
+from db import engine, Scope,Resource
+from datetime import datetime, timezone
+
+def utc_now():
+    return datetime.now(timezone.utc)
+
 
 def get_top_level_domain(domain):
     """Extracts the top-level domain (TLD) from a given domain."""
@@ -29,14 +34,18 @@ def validate_domains(scope_id, file_path):
                 continue  # Skip empty lines
 
             extracted_tld = get_top_level_domain(domain)
-            match_status = "✅ Match" if extracted_tld == scope_name else "❌ No Match"
-            print(f"{domain} -> {extracted_tld} ({match_status})")
-
+            if extracted_tld == scope_name:
+                existing_resource = session.query(Resource).filter_by(name=domain, scope_id=scope_id).first()
+                if not existing_resource:
+                    new_resource = Resource(name=domain,scope_id=scope_id,type="domain",created_at=utc_now(),updated_at=utc_now())
+                    print(f"Added {domain}")
+                    session.add(new_resource)
+                    session.commit()
     session.close()
 
 if __name__ == "__main__":
     if len(sys.argv) != 3:
-        print("Usage: python validate_tlds.py <scope_id> <file_path>")
+        print("Usage: python add_new_subdomains.py <scope_id> <file_path>")
         sys.exit(1)
 
     scope_id = int(sys.argv[1])
