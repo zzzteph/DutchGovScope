@@ -37,7 +37,7 @@ jobs:
             exit 0
           fi 
 
-          if [[ "$LATEST_TYPE" != "domains" ]]; then
+          if [[ "$LATEST_SCOPE_TYPE" != "domains" ]]; then
             echo "Skipping Amass scan: The latest scope is not a domain."
             exit 0
           fi
