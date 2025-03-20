@@ -1,0 +1,272 @@
+176.62.192.0/21 (Netblock) --> contains --> 176.62.195.205 (IPAddress)
+185.42.56.0/23 (Netblock) --> contains --> 185.42.57.136 (IPAddress)
+2001:1690::/32 (Netblock) --> contains --> 2001:1690:100:2d00::7 (IPAddress)
+20847 (ASN) --> announces --> 2001:1690::/32 (Netblock)
+20847 (ASN) --> announces --> 62.165.64.0/18 (Netblock)
+20847 (ASN) --> managed_by --> PREVIDER-AS (RIROrganization)
+29311 (ASN) --> announces --> 2a00:1558::/32 (Netblock)
+29311 (ASN) --> announces --> 62.112.224.0/19 (Netblock)
+29311 (ASN) --> managed_by --> SOLVINITY- (RIROrganization)
+2a00:1558::/32 (Netblock) --> contains --> 2a00:1558:1206:4::2:0 (IPAddress)
+33915 (ASN) --> announces --> 80.112.0.0/15 (Netblock)
+33915 (ASN) --> managed_by --> TNF-AS (RIROrganization)
+35470 (ASN) --> announces --> 93.191.135.0/24 (Netblock)
+35470 (ASN) --> managed_by --> XL-AS (RIROrganization)
+3d.almere.nl
+3dtest.almere.nl
+40jaar.almere.nl
+5524 (ASN) --> announces --> 185.42.56.0/23 (Netblock)
+5524 (ASN) --> managed_by --> BREEDBANDNEDERLAND (RIROrganization)
+62.112.224.0/19 (Netblock) --> contains --> 62.112.224.227 (IPAddress)
+62.112.224.0/19 (Netblock) --> contains --> 62.112.226.184 (IPAddress)
+62.112.224.0/19 (Netblock) --> contains --> 62.112.226.30 (IPAddress)
+62.165.64.0/18 (Netblock) --> contains --> 62.165.70.185 (IPAddress)
+80.112.0.0/15 (Netblock) --> contains --> 80.113.99.228 (IPAddress)
+8315 (ASN) --> announces --> 176.62.192.0/21 (Netblock)
+8315 (ASN) --> managed_by --> SENTIA (RIROrganization)
+93.191.135.0/24 (Netblock) --> contains --> 93.191.135.22 (IPAddress)
+acc-kaart.almere.nl
+acc-maps.almere.nl
+acc-maps.almere.nl (FQDN) --> cname_record --> almereinkaart-acceptatie.webgispublisher.nl (FQDN)
+acc.formulieren.almere.nl
+adfs.almere.nl
+alforum.almere.nl
+almeersekei.almere.nl
+almere.nl (FQDN) --> a_record --> 62.112.226.30 (IPAddress)
+almere.nl (FQDN) --> aaaa_record --> 2a00:1558:1206:4::2:0 (IPAddress)
+almere.nl (FQDN) --> mx_record --> almere-nl.p-v1.mx.microsoft (FQDN)
+almere.nl (FQDN) --> ns_record --> ns1.asp4all.nl (FQDN)
+almere.nl (FQDN) --> ns_record --> ns2.asp4all.nl (FQDN)
+almere.nl (FQDN) --> ns_record --> ns3.asp4all.nl (FQDN)
+almere20.almere.nl
+almereconnect.almere.nl
+almeregeeftenergie.almere.nl
+almerekracht.almere.nl
+almerekracht.almere.nl (FQDN) --> a_record --> 62.112.226.30 (IPAddress)
+almerekracht.almere.nl (FQDN) --> aaaa_record --> 2a00:1558:1206:4::2:0 (IPAddress)
+almerepoort.almere.nl
+apex.almere.nl (FQDN) --> cname_record --> apex-o365almere.msappproxy.net (FQDN)
+api.meldingen-acc.almere.nl (FQDN) --> cname_record --> api.meldingen-acc.almere.delta10.cloud (FQDN)
+api.meldingen.almere.nl (FQDN) --> cname_record --> api.meldingen.almere.delta10.cloud (FQDN)
+apint.almere.nl
+apint.almere.nl (FQDN) --> a_record --> 62.112.224.227 (IPAddress)
+apint2.almere.nl
+architectuurprijs.almere.nl
+async.osb.app (FQDN) --> a_record --> 93.191.135.22 (IPAddress)
+autodiscover.almere.nl
+baangericht.almere.nl
+bcgba2.almere.nl
+belastingen-acc.almere.nl
+belastingen-acc.almere.nl (FQDN) --> a_record --> 80.113.99.245 (IPAddress)
+belastingen.almere.nl
+belastingen.almere.nl (FQDN) --> a_record --> 176.62.195.205 (IPAddress)
+bouwexpo-tinyhousing.almere.nl
+buiten.almere.nl
+cag.almere.nl
+centrum.almere.nl
+digitaalerfgoed.almere.nl
+documents.almere.nl
+duo.almere.nl
+edienstenburgerzaken-test.almere.nl
+edienstenburgerzaken-test.almere.nl (FQDN) --> cname_record --> edienstenburgerzaken-test.service.centric.eu (FQDN)
+edienstenburgerzaken.almere.nl
+edienstensd-snelbaliebo.service.centric.eu (FQDN) --> a_record --> 194.53.75.201 (IPAddress)
+edienstensd-snelbaliebo.service.centric.eu (FQDN) --> aaaa_record --> 2a05:d014:d80:1000:88b:0:c235:4bc9 (IPAddress)
+eloket.almere.nl
+eloket.almere.nl (FQDN) --> cname_record --> formulieren.djuma.nl (FQDN)
+eloketstaging.almere.nl
+english.almere.nl
+english.almere.nl (FQDN) --> a_record --> 62.112.226.30 (IPAddress)
+english.almere.nl (FQDN) --> aaaa_record --> 2a00:1558:1206:4::2:0 (IPAddress)
+enterpriseone-arc.almere.nl (FQDN) --> cname_record --> enterpriseone-arc-o365almere.msappproxy.net (FQDN)
+enterpriseone-dv.almere.nl (FQDN) --> cname_record --> enterpriseone-dv-o365almere.msappproxy.net (FQDN)
+evenementen.almere.nl (FQDN) --> cname_record --> web.flowmailer.net (FQDN)
+floriade.almere.nl
+formulieren.almere.nl
+formulieren.almere.nl (FQDN) --> a_record --> 62.165.70.185 (IPAddress)
+formulieren.almere.nl (FQDN) --> aaaa_record --> 2001:1690:100:2d00::7 (IPAddress)
+formulieren.djuma.nl (FQDN) --> a_record --> 31.171.205.182 (IPAddress)
+formulieren.djuma.nl (FQDN) --> aaaa_record --> 2a0a:9fc0:a01::cafe:1 (IPAddress)
+gemeente.almere.nl
+gemeentealmere.partner.workspace365.net (FQDN) --> a_record --> 104.26.4.62 (IPAddress)
+gemeentealmere.partner.workspace365.net (FQDN) --> a_record --> 104.26.5.62 (IPAddress)
+gemeentealmere.partner.workspace365.net (FQDN) --> a_record --> 172.67.71.230 (IPAddress)
+gemeentealmere.partner.workspace365.net (FQDN) --> aaaa_record --> 2a06:98c1:3122:e000::4 (IPAddress)
+gemeentealmere.partner.workspace365.net (FQDN) --> aaaa_record --> 2a06:98c1:3123:e000::4 (IPAddress)
+gemeenteblad.almere.nl
+gemeenteblad.almere.nl (FQDN) --> a_record --> 62.112.226.30 (IPAddress)
+gemeenteblad.almere.nl (FQDN) --> aaaa_record --> 2a00:1558:1206:4::2:0 (IPAddress)
+gemeenteraad.almere.nl
+gemeenteraad.almere.nl (FQDN) --> a_record --> 62.112.226.30 (IPAddress)
+geoserver-signalen.almere.nl
+gezondejeugd.almere.nl
+goud.almere.nl (FQDN) --> a_record --> 62.112.226.30 (IPAddress)
+goud.almere.nl (FQDN) --> aaaa_record --> 2a00:1558:1206:4::2:0 (IPAddress)
+groenengezond.almere.nl
+growinggreencities.almere.nl
+growinggreencities.almere.nl (FQDN) --> a_record --> 62.112.226.30 (IPAddress)
+growinggreencities.almere.nl (FQDN) --> aaaa_record --> 2a00:1558:1206:4::2:0 (IPAddress)
+haven.almere.nl
+hout.almere.nl
+hybrid.almere.nl
+iam-acc-o365almere.msappproxy.net (FQDN) --> cname_record --> 7a667543-2fed-4386-acfa-f7b040768bd3.tenant.runtime.msappproxy.net (FQDN)
+iam-acc.almere.nl (FQDN) --> cname_record --> iam-acc-o365almere.msappproxy.net (FQDN)
+iam-o365almere.msappproxy.net (FQDN) --> cname_record --> 7a667543-2fed-4386-acfa-f7b040768bd3.tenant.runtime.msappproxy.net (FQDN)
+iam.almere.nl (FQDN) --> cname_record --> iam-o365almere.msappproxy.net (FQDN)
+ikbouwmijnhuisin.almere.nl
+ikonderneemin.almere.nl
+ikonderneemin.almere.nl (FQDN) --> a_record --> 62.112.226.30 (IPAddress)
+ikzoekeenhuis.almere.nl
+ikzoekeenhuis.almere.nl (FQDN) --> a_record --> 62.112.226.30 (IPAddress)
+ikzoekeenhuis.almere.nl (FQDN) --> aaaa_record --> 2a00:1558:1206:4::2:0 (IPAddress)
+indienst.almere.nl
+indienst.almere.nl (FQDN) --> a_record --> 185.46.183.27 (IPAddress)
+ingesprek.almere.nl
+ingesprek.almere.nl (FQDN) --> a_record --> 62.112.226.30 (IPAddress)
+inkoopplein.almere.nl
+kaart.almere.nl
+kavels.almere.nl
+kavelwinkel.almere.nl
+lba.almere.nl
+lea.almere.nl
+leef-acc.almere.nl (FQDN) --> a_record --> 185.42.57.136 (IPAddress)
+leef.almere.nl (FQDN) --> a_record --> 185.42.57.137 (IPAddress)
+leefbuiten.almere.nl
+leefbuiten.almere.nl (FQDN) --> a_record --> 80.113.99.237 (IPAddress)
+lerenloont.almere.nl
+lerenloont.almere.nl (FQDN) --> a_record --> 62.112.226.30 (IPAddress)
+lerenloont.almere.nl (FQDN) --> aaaa_record --> 2a00:1558:1206:4::2:0 (IPAddress)
+link.pr.almere.nl (FQDN) --> cname_record --> sendgrid.net (FQDN)
+loket.almere.nl
+makelpunt.almere.nl
+maps.almere.nl
+melddesk.almere.nl
+meldingen-acc.almere.nl (FQDN) --> cname_record --> meldingen-acc.almere.delta10.cloud (FQDN)
+meldingen.almere.nl
+meldingen.almere.nl (FQDN) --> cname_record --> meldingen.almere.delta10.cloud (FQDN)
+mensenmakendestad.almere.nl
+mijn.almere.nl
+mijnict.almere.nl
+mijnict.almere.nl (FQDN) --> cname_record --> almere.topdesk.net (FQDN)
+mijninkomen.almere.nl (FQDN) --> cname_record --> productie.mijnwiz.nl (FQDN)
+monitorsociaal.almere.nl
+mx1.almere.nl
+mx2.almere.nl
+oens.almere.nl
+omgevingswet.almere.nl
+ondernemersplein.almere.nl
+opendata.almere.nl
+osb.almere.nl (FQDN) --> cname_record --> async.osb.app (FQDN)
+osbacc.almere.nl (FQDN) --> cname_record --> acc.osb.app (FQDN)
+ota.mijn.almere.nl
+ota.mijn.almere.nl (FQDN) --> a_record --> 80.113.99.228 (IPAddress)
+panel.almere.nl (FQDN) --> cname_record --> www.stempunt.nu (FQDN)
+parkeren.almere.nl
+password.almere.nl
+password.almere.nl (FQDN) --> a_record --> 62.112.226.30 (IPAddress)
+passwordreset.almere.nl
+passwordreset.almere.nl (FQDN) --> a_record --> 62.112.226.30 (IPAddress)
+plannen.almere.nl
+planon-acc.almere.nl
+planon-acc.almere.nl (FQDN) --> cname_record --> vgbalmere-acc.planoncloud.com (FQDN)
+planon-test.almere.nl
+planon-test.almere.nl (FQDN) --> cname_record --> vgbalmere-test.planoncloud.com (FQDN)
+planon-tst.almere.nl
+planon.almere.nl
+planon.almere.nl (FQDN) --> cname_record --> vgbalmere-prod.planoncloud.com (FQDN)
+politiekemarkt.almere.nl
+poort.almere.nl
+prd-phpmyadmin.almere.nl
+preprod-mijninkomen.almere.nl
+preprod-mijninkomen.almere.nl (FQDN) --> cname_record --> preprod.mijnwiz.nl (FQDN)
+productie-midoffice.almere.nl
+productie.almere.nl
+productie1.almere.nl
+productie2.almere.nl
+productie3.almere.nl
+pv.diensten.almere.nl
+regio.almere.nl
+relatie-scheiding.almere.nl (FQDN) --> a_record --> 62.112.226.30 (IPAddress)
+relatie-scheiding.almere.nl (FQDN) --> aaaa_record --> 2a00:1558:1206:4::2:0 (IPAddress)
+remote.almere.nl
+sba.almere.nl
+secure.almere.nl (FQDN) --> cname_record --> almere.2identify.cloud (FQDN)
+sendgrid.net (FQDN) --> a_record --> 167.89.115.120 (IPAddress)
+sendgrid.net (FQDN) --> a_record --> 167.89.115.150 (IPAddress)
+sendgrid.net (FQDN) --> a_record --> 167.89.115.28 (IPAddress)
+sendgrid.net (FQDN) --> a_record --> 167.89.115.52 (IPAddress)
+sendgrid.net (FQDN) --> a_record --> 167.89.115.56 (IPAddress)
+sendgrid.net (FQDN) --> a_record --> 167.89.115.61 (IPAddress)
+sendgrid.net (FQDN) --> a_record --> 167.89.115.77 (IPAddress)
+sendgrid.net (FQDN) --> a_record --> 167.89.115.78 (IPAddress)
+sendgrid.net (FQDN) --> a_record --> 167.89.123.124 (IPAddress)
+sendgrid.net (FQDN) --> a_record --> 167.89.123.204 (IPAddress)
+sendgrid.net (FQDN) --> a_record --> 167.89.123.54 (IPAddress)
+sendgrid.net (FQDN) --> a_record --> 167.89.123.58 (IPAddress)
+sendgrid.net (FQDN) --> a_record --> 167.89.123.62 (IPAddress)
+sendgrid.net (FQDN) --> a_record --> 167.89.123.66 (IPAddress)
+sendgrid.net (FQDN) --> a_record --> 167.89.123.89 (IPAddress)
+sendgrid.net (FQDN) --> a_record --> 167.89.123.90 (IPAddress)
+services.almere.nl
+smap.almere.nl
+snelbalie.almere.nl
+snelbalie.almere.nl (FQDN) --> cname_record --> edienstensd-snelbaliebo.service.centric.eu (FQDN)
+snelbalietest.almere.nl
+sociaaldomein.almere.nl
+sportbedrijf.almere.nl
+sportencultuur.almere.nl
+stadoost.almere.nl
+stadsarchief.almere.nl
+stadsgesprekken.almere.nl
+stadsgesprekken.almere.nl (FQDN) --> cname_record --> almere.forward.citizenlab.eu (FQDN)
+stadwest.almere.nl
+svs-acc.almere.nl
+talentcenter.almere.nl
+talentcenter2.almere.nl
+test-kaart.almere.nl
+test-kaart.almere.nl (FQDN) --> a_record --> 62.112.226.184 (IPAddress)
+test.formulieren.almere.nl
+test.melddesk.almere.nl
+test.services.almere.nl
+thuiswerken.almere.nl
+thuiswerken.almere.nl (FQDN) --> cname_record --> gemeentealmere.partner.workspace365.net (FQDN)
+topsportcentrum.almere.nl
+upcyclecity.almere.nl
+upload.almere.nl
+veilig.almere.nl
+voordemedia.almere.nl
+voorschool.almere.nl
+voorschool.almere.nl (FQDN) --> a_record --> 62.112.226.30 (IPAddress)
+voorschool.almere.nl (FQDN) --> aaaa_record --> 2a00:1558:1206:4::2:0 (IPAddress)
+vpn.almere.nl
+wachtwoord.almere.nl
+wachtwoordreset.almere.nl
+waterhuishouding.almere.nl
+watermagazine.almere.nl
+web.flowmailer.net (FQDN) --> a_record --> 185.136.64.6 (IPAddress)
+web.flowmailer.net (FQDN) --> a_record --> 185.136.64.7 (IPAddress)
+web.flowmailer.net (FQDN) --> a_record --> 185.136.65.6 (IPAddress)
+web.flowmailer.net (FQDN) --> a_record --> 185.136.65.7 (IPAddress)
+werkplek.almere.nl
+wifiguestportal.almere.nl
+wijkteams.almere.nl
+wijkteams.almere.nl (FQDN) --> a_record --> 62.112.226.30 (IPAddress)
+wijkteams.almere.nl (FQDN) --> aaaa_record --> 2a00:1558:1206:4::2:0 (IPAddress)
+wkpb.almere.nl
+wordookleraarin.almere.nl
+www.3d.almere.nl
+www.adfs.almere.nl
+www.almere.nl
+www.almere.nl (FQDN) --> a_record --> 62.112.226.30 (IPAddress)
+www.almere.nl (FQDN) --> aaaa_record --> 2a00:1558:1206:4::2:0 (IPAddress)
+www.almereconnect.almere.nl
+www.melddesk.almere.nl
+www.mx1.almere.nl
+www.mx2.almere.nl
+www.talentcenter.almere.nl
+www.talentcenter2.almere.nl
+www.test.melddesk.almere.nl
+www.upload.almere.nl
+www.veilig.almere.nl
+www.vpn.almere.nl
+www.watermagazine.almere.nl
