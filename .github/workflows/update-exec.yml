@@ -28,14 +28,14 @@ jobs:
       - name: Get latest scope to scan
         id: latest_scope
         run: |
-          LATEST_SCOPE=$(python engine/get_latest_unscanned_scope.py | grep "LATEST_SCOPE_ID" | cut -d '=' -f2)
-          LATEST_NAME=$(python engine/get_latest_unscanned_scope.py | grep "LATEST_SCOPE_NAME" | cut -d '=' -f2)
-          LATEST_TYPE=$(python engine/get_latest_unscanned_scope.py | grep "LATEST_SCOPE_TYPE" | cut -d '=' -f2)
+          LATEST_SCOPE_ID=$(python engine/get_latest_unscanned_scope.py | grep "LATEST_SCOPE_ID" | cut -d '=' -f2)
+          LATEST_SCOPE_NAME=$(python engine/get_latest_unscanned_scope.py | grep "LATEST_SCOPE_NAME" | cut -d '=' -f2)
+          LATEST_SCOPE_TYPE=$(python engine/get_latest_unscanned_scope.py | grep "LATEST_SCOPE_TYPE" | cut -d '=' -f2)
 
-          if [[ -z "$LATEST_SCOPE" || "$LATEST_SCOPE" == "None" ]]; then
+          if [[ -z "$LATEST_SCOPE_ID" || "$LATEST_SCOPE_ID" == "None" ]]; then
             echo "No valid scope entry found. Skipping Amass scan."
             exit 0
-          fi
+          fi 
 
           if [[ "$LATEST_TYPE" != "domains" ]]; then
             echo "Skipping Amass scan: The latest scope is not a domain."
@@ -43,8 +43,8 @@ jobs:
           fi
 
           echo "LATEST_SCOPE_ID=$LATEST_SCOPE" >> $GITHUB_ENV
-          echo "LATEST_SCOPE_NAME=$LATEST_NAME" >> $GITHUB_ENV
-          echo "LATEST_SCOPE_TYPE=$LATEST_TYPE" >> $GITHUB_ENV
+          echo "LATEST_SCOPE_NAME=$LATEST_SCOPE_NAME" >> $GITHUB_ENV
+          echo "LATEST_SCOPE_TYPE=$LATEST_SCOPE_TYPE" >> $GITHUB_ENV
 
 
       - name: Run Subfinder (120s)
@@ -61,6 +61,11 @@ jobs:
           timeout 120 docker run --rm caffix/amass enum -d ${{ env.LATEST_SCOPE_NAME }} | tee amass_results.txt || echo "Amass timed out!"
 
 
+
+
+
+
+
       - name: Update script 
         if: env.LATEST_SCOPE_NAME != '' && env.LATEST_SCOPE_TYPE == 'domains'
         uses: actions/upload-artifact@v4
@@ -70,13 +75,6 @@ jobs:
 
 
 
-
-      - name: Update script 
-        if: env.LATEST_SCOPE_NAME != '' && env.LATEST_SCOPE_TYPE == 'domains'
-        uses: actions/upload-artifact@v4
-        with:
-          name: subfinder-results
-          path: subfinder_results.txt
 
 
 
