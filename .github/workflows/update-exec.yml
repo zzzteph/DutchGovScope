@@ -64,9 +64,9 @@ jobs:
         if: env.LATEST_SCOPE_NAME != '' && env.LATEST_SCOPE_TYPE == 'domains'
         run: |
            cat subfinder_results.txt amass_results.txt |sort -u > merged_data.tmp
+           echo "" > merged_data.txt
            while IFS= read -r line || [[ -n "$line" ]]; do
-            sorted_line=$(echo "$line" | tr -s ' ' '\n' | sort | tr '\n' ' ' | sed 's/ $//')
-            [[ -n "$sorted_line" ]] && echo "$sorted_line" >> "merged_data.txt"
+            echo "$line" | tr -s ' \t' '\n' >> "merged_data.txt"
            done < "merged_data.tmp"
 
 
