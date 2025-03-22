@@ -50,7 +50,6 @@ def add_scope_entry(name, tag):
             name=name,
             type=entry_type,
             tag=tag,
-            scanned=False,
             created_at=utc_now(),
             updated_at=utc_now(),
         )
