@@ -25,7 +25,7 @@ def import_endpoints(scope_id: int, file_path: str):
 
             resource = (
                 session.query(Resource)
-                .filter_by(domain_id=scope_id, name=domain, type="domain")
+                .filter_by(scope_id=scope_id, name=domain, type="domain")
                 .first()
             )
 

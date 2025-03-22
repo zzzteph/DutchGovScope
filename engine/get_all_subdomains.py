@@ -11,7 +11,7 @@ def get_subdomains(scope_id: int):
 
     subdomains = (
         session.query(Resource.name)
-        .filter_by(domain_id=scope_id, type="domain")
+        .filter_by(scope_id=scope_id, type="domain")
         .all()
     )
 
