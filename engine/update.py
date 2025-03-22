@@ -58,6 +58,9 @@ def add_scope_entry(name, tag):
     else:
         print(f"Skipped (exists): {name}")
 
+
+
+
 def main():
     process_scope_files()
     session.commit()

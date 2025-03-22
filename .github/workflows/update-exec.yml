@@ -93,8 +93,9 @@ jobs:
       - name: Publish endpoints
         run: |
            rm -rf storage
+           mkdir storage
            python engine/publish.py
-
+           ls -la storage
 
 
 
