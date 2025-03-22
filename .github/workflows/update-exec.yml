@@ -68,25 +68,13 @@ jobs:
            while IFS= read -r line || [[ -n "$line" ]]; do
             echo "$line" | tr -s ' \t' '\n' >> "merged_data.txt"
            done < "merged_data.tmp"
-           python engine/add_new_subdomains.py ${{ env.LATEST_SCOPE_ID }} merged_data.txt
+           python engine/filter_domains.py ${{ env.LATEST_SCOPE_ID }} merged_data.txt > domains.txt
            rm -f merged_data.txt
            rm -f merged_data.tmp
            rm -f amass_results.txt
            rm -f subfinder_results.txt
+           timeout 120 docker run --rm -i projectdiscovery/dnsx -rcode noerror -silent -l domains.txt | tee results.txt || echo "DNSX timeout!"
           
-
-      - name: Clean up data
-        if: env.LATEST_SCOPE_NAME != '' && env.LATEST_SCOPE_TYPE == 'domains'
-        run: |
-          rm -f merged_data.txt merged_data.tmp amass_results.txt subfinder_results.txt
-          for file in merged_data.txt merged_data.tmp amass_results.txt subfinder_results.txt; do
-            if [ -f "$file" ]; then
-              echo "❌ File still exists: $file"
-            else
-              echo "✅ File successfully deleted: $file"
-            fi
-          done
-
 
 
 
@@ -94,6 +82,6 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add scope_scan.db
+          git add *
           git commit -m "Auto-update: scope database updated" || echo "No changes to commit"
           git push
