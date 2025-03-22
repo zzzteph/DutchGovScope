@@ -10,7 +10,7 @@ engine = create_engine(DATABASE_URL)
 Session = sessionmaker(bind=engine)
 session = Session()
 
-SCOPE_FOLDER = "scope"
+SCOPE_FOLDER = "../scope"
 
 def utc_now():
     return datetime.now(timezone.utc)

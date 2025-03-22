@@ -1,4 +1,4 @@
-name: Exec update
+name: Exec scan
 
 on:
   workflow_dispatch:
