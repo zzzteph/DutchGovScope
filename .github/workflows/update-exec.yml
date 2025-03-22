@@ -60,7 +60,7 @@ jobs:
           echo "Scanning $LATEST_SCOPE_NAME with Amass (max 120 seconds)..."
           timeout 180 docker run --rm caffix/amass enum -d ${{ env.LATEST_SCOPE_NAME }} | tee amass_results.txt || echo "Amass timed out!"
 
-      - name: Merge and filter files
+      - name: Merge and filter domain data
         if: env.LATEST_SCOPE_NAME != '' && env.LATEST_SCOPE_TYPE == 'domains'
         run: |
            cat subfinder_results.txt amass_results.txt |sort -u > merged_data.tmp
@@ -74,7 +74,21 @@ jobs:
            rm -f amass_results.txt
            rm -f subfinder_results.txt
            timeout 120 docker run --rm -v "$PWD:/data" projectdiscovery/dnsx -rcode noerror -silent -l /data/domains.txt -o /data/res.txt || echo "Dnsx timed out!"
+           cat res.txt | cut -d" " -f1 > domains.txt
+           rm -f res.txt
+           python engine/add_new_subdomains.py ${{ env.LATEST_SCOPE_ID }} domains.txt
+           python engine/get_all_subdomains.py ${{ env.LATEST_SCOPE_ID }} > domains.txt
+           timeout 120 docker run --rm -v "$PWD:/data" projectdiscovery/dnsx -rcode noerror -silent -l /data/domains.txt -o /data/res.txt || echo "Dnsx timed out!"
+           cat res.txt | cut -d" " -f1 > domains.txt
+           python engine/add_subdomains.py ${{ env.LATEST_SCOPE_ID }} domains.txt
+
+
+      - name: Get endpoints 
+        if: env.LATEST_SCOPE_NAME != '' && env.LATEST_SCOPE_TYPE == 'domains'
+        run: |
+          timeout 600 docker run --rm -v "$PWD:/data" projectdiscovery/httpx -l /data/domains.txt -cl -sc -title -wc -silent -json -o /data/httpx.json || echo "Httpx timed out!"
           
+
 
 
 

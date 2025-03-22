@@ -28,10 +28,8 @@ class Resource(Base):
     name = Column(String, nullable=False)
     scope_id = Column(Integer, ForeignKey('scopes.id', ondelete="CASCADE"), nullable=False)
     type = Column(Enum("domain", "ip", name="resource_type"), nullable=False)
-    scanned = Column(Boolean, default=False, nullable=False)
     created_at = Column(DateTime, default=utc_now)
     updated_at = Column(DateTime, default=utc_now, onupdate=utc_now)
-
     scope = relationship("Scope", back_populates="resources")
     endpoints = relationship("Endpoint", back_populates="resource", cascade="all, delete-orphan")
 
@@ -41,13 +39,17 @@ class Endpoint(Base):
 
     id = Column(Integer, primary_key=True)
     resource_id = Column(Integer, ForeignKey('resources.id', ondelete="CASCADE"), nullable=False)
-    port = Column(Integer, nullable=False)
-    scheme = Column(String, nullable=False)
+    name = Column(String, nullable=False)
+    port = Column(Integer, nullable=True)
+    scheme = Column(String, nullable=True)
     tech = Column(String, nullable=True)
-    scanned = Column(Boolean, default=False, nullable=False)
+    title = Column(String, nullable=True)
+    response_code = Column(Integer, nullable=True)
+    content_length = Column(Integer, nullable=True)
+    words_count = Column(Integer, nullable=True)
+    data = Column(String, nullable=True)
     created_at = Column(DateTime, default=utc_now)
     updated_at = Column(DateTime, default=utc_now, onupdate=utc_now)
-
     resource = relationship("Resource", back_populates="endpoints")
 
 
