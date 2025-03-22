@@ -87,7 +87,7 @@ jobs:
         if: env.LATEST_SCOPE_NAME != '' && env.LATEST_SCOPE_TYPE == 'domains'
         run: |
           timeout 600 docker run --rm -v "$PWD:/data" projectdiscovery/httpx -l /data/domains.txt -cl -sc -title -wc -silent -json -o /data/httpx.json || echo "Httpx timed out!"
-          
+          python engine/httpx_parser.py ${{ env.LATEST_SCOPE_ID }} httpx.json
 
 
 
