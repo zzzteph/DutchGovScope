@@ -47,7 +47,7 @@ def delete_resources(scope_id: int):
     Session = sessionmaker(bind=engine)
     session = Session()
 
-    deleted = session.query(Resource).filter_by(scope_id=scope_id).delete(synchronize_session=fetch)
+    deleted = session.query(Resource).filter_by(scope_id=scope_id).delete()
     session.commit()
     print(f"Deleted {deleted} resources linked to scope ID {scope_id}")
 
