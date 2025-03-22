@@ -33,7 +33,6 @@ def export():
                 res_out.append(resource.name)
                 tag_resources.append(resource.name)
                 global_resources.append(resource.name)
-
                 endpoints = session.query(Endpoint).filter_by(resource_id=resource.id).order_by(Endpoint.name).all()
                 for ep in endpoints:
                     end_out.append(ep.name)
@@ -41,18 +40,21 @@ def export():
                     global_endpoints.append(ep.name)
             res_out = sorted(set(res_out))
             end_out = sorted(set(end_out))
-            with open(os.path.join(scope_dir, "resources.txt"), "w") as f:
-                f.write("\n".join(res_out))
-
-            with open(os.path.join(scope_dir, "endpoints.txt"), "w") as f:
-                f.write("\n".join(end_out))
+            if res_out:
+                with open(os.path.join(scope_dir, "resources.txt"), "w") as f:
+                    f.write("\n".join(res_out))
+            if end_out:
+                with open(os.path.join(scope_dir, "endpoints.txt"), "w") as f:
+                    f.write("\n".join(end_out))
 
         tag_resources = sorted(set(tag_resources))
         tag_endpoints = sorted(set(tag_endpoints))
-        with open(os.path.join(tag_dir, "resources.txt"), "w") as f:
-            f.write("\n".join(sorted(set(tag_resources))))
-        with open(os.path.join(tag_dir, "endpoints.txt"), "w") as f:
-            f.write("\n".join(sorted(set(tag_endpoints))))
+        if tag_resources:
+            with open(os.path.join(tag_dir, "resources.txt"), "w") as f:
+                f.write("\n".join(sorted(set(tag_resources))))
+        if tag_endpoints:        
+            with open(os.path.join(tag_dir, "endpoints.txt"), "w") as f:
+                f.write("\n".join(sorted(set(tag_endpoints))))
     global_resources = sorted(set(global_resources))
     global_endpoints = sorted(set(global_endpoints))
     with open(os.path.join(STORAGE_ROOT, "endpoints.txt"), "w") as f:

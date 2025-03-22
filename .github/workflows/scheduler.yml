@@ -1,7 +1,8 @@
 name: Exec update
 
 on:
-  workflow_dispatch:
+  schedule:
+    - cron: "0 */2 * * *"
 
 jobs:
   update-scope:
@@ -102,6 +103,6 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add -A scope scope_scan.db
+          git add scope scope_scan.db
           git commit -m "Auto-update: scope database updated" || echo "No changes to commit"
           git push
