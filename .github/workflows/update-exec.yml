@@ -73,7 +73,7 @@ jobs:
            rm -f merged_data.tmp
            rm -f amass_results.txt
            rm -f subfinder_results.txt
-           timeout 120 docker run --rm -i projectdiscovery/dnsx -rcode noerror -silent -l domains.txt | tee results.txt || echo "DNSX timeout!"
+           timeout 120 docker run --rm -v "$PWD:/data" projectdiscovery/dnsx -rcode noerror -silent -l /data/domains.txt -o /data/res.txt || echo "Dnsx timed out!"
           
 
 
