@@ -1,7 +1,7 @@
 import os
 from db import Session, Scope, Resource, Endpoint
 
-STORAGE_ROOT = "storage"
+STORAGE_ROOT = "../storage"
 
 def export():
     session = Session()
