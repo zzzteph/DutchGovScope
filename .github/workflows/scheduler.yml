@@ -2,7 +2,12 @@ name: Schedule scan
 
 on:
   schedule:
-    - cron: "0 */2 * * *"
+    - cron: "0 */3 * * *"
+
+concurrency:
+  group: scope-scan
+  cancel-in-progress: false
+
 
 jobs:
   update-scope:

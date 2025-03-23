@@ -3,6 +3,11 @@ name: Exec scan
 on:
   workflow_dispatch:
 
+
+concurrency:
+  group: scope-scan
+  cancel-in-progress: false
+
 jobs:
   update-scope:
     runs-on: ubuntu-latest
