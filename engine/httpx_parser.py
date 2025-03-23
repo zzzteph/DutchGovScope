@@ -28,6 +28,24 @@ def import_endpoints(scope_id: int, file_path: str):
 
             resource =session.query(Resource).filter_by(scope_id=scope_id, name=endpoint_tld).first()
             endpoint= session.query(Endpoint).filter_by(resource_id=resource.id, name=data.get("url")).first()
+
+            if resource and endpoint:
+                endpoint.name=data.get("url")
+                endpoint.port=int(data.get("port", 0))
+                endpoint.scheme=data.get("scheme")
+                endpoint.tech=",".join(data.get("tech", [])) if data.get("tech") else None
+                endpoint.title=data.get("title")
+                endpoint.response_code=int(data.get("status_code", 0))
+                endpoint.content_length=int(data.get("content_length", 0))
+                endpoint.words_count=int(data.get("words", 0))
+                endpoint.data=json.dumps(data)
+                endpoint.created_at=utc_now()
+                endpoint.updated_at=utc_now()
+                session.commit()
+                print(f"Endpoint updated")
+
+
+
             if resource and not endpoint:
                 endpoint = Endpoint(
                                     resource_id=resource.id,
@@ -44,19 +62,6 @@ def import_endpoints(scope_id: int, file_path: str):
                                     updated_at=utc_now()
                                     )
                 session.add(endpoint)
-                session.commit()
-            if resource and endpoint:
-                endpoint.name=data.get("url")
-                endpoint.port=int(data.get("port", 0))
-                endpoint.scheme=data.get("scheme")
-                endpoint.tech=",".join(data.get("tech", [])) if data.get("tech") else None
-                endpoint.title=data.get("title")
-                endpoint.response_code=int(data.get("status_code", 0))
-                endpoint.content_length=int(data.get("content_length", 0))
-                endpoint.words_count=int(data.get("words", 0))
-                endpoint.data=json.dumps(data)
-                endpoint.created_at=utc_now()
-                endpoint.updated_at=utc_now()
                 session.commit()
                 print(f"Endpoint added")
 
