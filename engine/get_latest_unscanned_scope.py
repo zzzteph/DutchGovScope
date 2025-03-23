@@ -1,4 +1,8 @@
 from db import Scope, session
+from datetime import datetime, timezone
+
+def utc_now():
+    return datetime.now(timezone.utc)
 
 def get_latest_unscanned_or_oldest_scanned():
  
@@ -8,7 +12,8 @@ def get_latest_unscanned_or_oldest_scanned():
         print(f"LATEST_SCOPE_ID={oldest_scanned.id}")
         print(f"LATEST_SCOPE_NAME={oldest_scanned.name}")
         print(f"LATEST_SCOPE_TYPE ={oldest_scanned.type}")
-        
+        oldest_scanned.updated_at = utc_now()
+        session.commit()
         return oldest_scanned
     else:
         print("LATEST_SCOPE_ID=None")
