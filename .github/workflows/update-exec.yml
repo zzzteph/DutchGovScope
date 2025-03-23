@@ -88,14 +88,16 @@ jobs:
         run: |
           timeout 600 docker run --rm -v "$PWD:/data" projectdiscovery/httpx -l /data/domains.txt -cl -sc -title -wc -silent -json -o /data/httpx.json || echo "Httpx timed out!"
           python engine/httpx_parser.py ${{ env.LATEST_SCOPE_ID }} httpx.json
-
+          rm -f httpx.json
+          rm -f domains.txt
+          rm -f res.txt
 
       - name: Publish endpoints
         run: |
            rm -rf storage
            mkdir storage
            python engine/publish.py
-
+           ls -la storage
 
 
       - name: Commit changes
