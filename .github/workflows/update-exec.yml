@@ -97,7 +97,7 @@ jobs:
            rm -rf storage
            mkdir storage
            python engine/publish.py
-           ls -la storage
+           ls -la 
 
 
       - name: Commit changes
