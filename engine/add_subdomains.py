@@ -34,8 +34,6 @@ def add_subdomains(scope_id, file_path):
                 continue  # Skip empty lines
 
             extracted_tld = get_top_level_domain(domain)
-            print("f{extracted_tld}")
-            print("f{scope_name}")
             
             if extracted_tld == scope_name:
                 existing_resource = session.query(Resource).filter_by(name=domain, scope_id=scope.id).first()

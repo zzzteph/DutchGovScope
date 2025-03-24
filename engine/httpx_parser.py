@@ -26,7 +26,9 @@ def import_endpoints(scope_id: int, file_path: str):
             #getting correct endpoint        
             endpoint_tld=tldextract.extract(data.get("url"))
 
-            resource =session.query(Resource).filter_by(scope_id=scope_id, name=endpoint_tld).first()
+            resource =session.query(Resource).filter_by(scope_id=scope_id, name=endpoint_tld.fqdn).first()
+            if not resource:
+                continue
             endpoint= session.query(Endpoint).filter_by(resource_id=resource.id, name=data.get("url")).first()
 
             if resource and endpoint:
