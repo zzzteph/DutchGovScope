@@ -1,5 +1,8 @@
 http://autodiscover.alkmaar.nl
 http://autodiscover.almelo.nl
+http://coronadashboard.rijksoverheid.nl
+http://dns-web10.rijksoverheid.nl
+http://dns-web300.rijksoverheid.nl
 http://panel.almere.nl
 http://redirector.alkmaar.nl
 http://www.vroonermeer-noord.alkmaar.nl
@@ -29,6 +32,8 @@ https://data.alkmaar.nl
 https://datalab.alkmaar.nl
 https://digitaalerfgoed.almere.nl
 https://directadmin.almelo.nl
+https://e-mailabonnementen.rijksoverheid.nl
+https://e-maildiensten.rijksoverheid.nl
 https://e.almelo.nl
 https://edienstenburgerzaken-test.alkmaar.nl
 https://edienstenburgerzaken-test.almere.nl
@@ -40,6 +45,8 @@ https://english.almere.nl
 https://enquete.almelo.nl
 https://enterpriseone-dv.almere.nl
 https://enterpriseone-py.almere.nl
+https://feeds.persberichten.rijksoverheid.nl
+https://feeds.rijksoverheid.nl
 https://floriade.almere.nl
 https://flowmailer-tracking.almelo.nl
 https://formulier-test.almere.nl
@@ -57,12 +64,15 @@ https://ikbouwmijnhuisin.almere.nl
 https://ikonderneemin.almere.nl
 https://ikzoekeenhuis.almere.nl
 https://indienst.almere.nl
+https://informatiepuntkinderopvangtoeslag.rijksoverheid.nl
 https://ingesprek.almere.nl
 https://inkoopplein.almere.nl
 https://kavels.almere.nl
 https://kavelwinkel.almere.nl
 https://lerenloont.almere.nl
 https://link.pr.almere.nl
+https://magazines.rijksoverheid.nl
+https://magazinesintern.rijksoverheid.nl
 https://maps.almere.nl
 https://meldingen.acc.almelo.nl
 https://meldingen.almelo.nl
@@ -79,12 +89,15 @@ https://netbox.alkmaar.nl
 https://oens.almere.nl
 https://omgevingsvisie.almelo.nl
 https://ondernemersplein.almere.nl
+https://opendata.persberichten.rijksoverheid.nl
+https://opendata.rijksoverheid.nl
 https://openpdc.alkmaar.nl
 https://openpub.alkmaar.nl
 https://parkeren.almelo.nl
 https://password.almere.nl
 https://passwordreset.almere.nl
 https://pdc.alkmaar.nl
+https://persberichten.rijksoverheid.nl
 https://planon-acc.almere.nl
 https://planon-test.almere.nl
 https://planon.almere.nl
@@ -94,7 +107,9 @@ https://pub.alkmaar.nl
 https://pv.diensten.almere.nl
 https://regio.almere.nl
 https://relatie-scheiding.almere.nl
+https://rijksoverheid.nl
 https://ruimtelijkeplannen.alkmaar.nl
+https://sdg.rijksoverheid.nl
 https://servicedesk.almelo.nl
 https://smap.almere.nl
 https://smoelennet.almelo.nl
@@ -106,6 +121,8 @@ https://sportsupport.almere.nl
 https://stadsarchief.almere.nl
 https://stadsgesprekken.almere.nl
 https://start.almelo.nl
+https://static.rijksoverheid.nl
+https://statistiek.rijksoverheid.nl
 https://subsidie.almelo.nl
 https://subsidiebeheer.alkmaar.nl
 https://subsidieloket.alkmaar.nl
@@ -121,6 +138,7 @@ https://test-subsidieloket.alkmaar.nl
 https://test.formulieren.almere.nl
 https://testafspraken.alkmaar.nl
 https://testportaal.almelo.nl
+https://teverantwoordenregelingen.rijksoverheid.nl
 https://thuiswerken.almere.nl
 https://veiligdelen.alkmaar.nl
 https://veiligmailen.almelo.nl
@@ -134,9 +152,11 @@ https://werkenbij.alkmaar.nl
 https://werkplek.almere.nl
 https://wifiguestportal.almere.nl
 https://wijkteams.almere.nl
+https://woo-formulier.rijksoverheid.nl
 https://workspace365.almelo.nl
 https://www.alkmaar.nl
 https://www.almelo.nl
 https://www.almere.nl
+https://www.rijksoverheid.nl
 https://www.werkenbij.alkmaar.nl
 https://zaaksysteem-accept.alkmaar.nl
