@@ -29,6 +29,7 @@ def validate_domains(scope_id, file_path):
 
     with open(file_path, 'r', encoding='utf-8') as file:
         for line in file:
+            print(f"{line}")
             domain = line.strip()
             if not domain:
                 continue  # Skip empty lines
