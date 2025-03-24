@@ -73,7 +73,6 @@ jobs:
            while IFS= read -r line || [[ -n "$line" ]]; do
             echo "$line" | tr -s ' \t' '\n' >> "merged_data.txt"
            done < "merged_data.tmp"
-           cat merged_data.txt
            python engine/filter_domains.py ${{ env.LATEST_SCOPE_ID }} merged_data.txt 
 
 
