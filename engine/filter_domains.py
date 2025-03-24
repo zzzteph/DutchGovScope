@@ -36,7 +36,7 @@ def validate_domains(scope_id, file_path):
 
             extracted_tld = get_top_level_domain(domain)
             if extracted_tld == scope_name:
-                print(f"{domain}")
+                print(f"Filtered:{domain}")
     session.close()
 
 if __name__ == "__main__":
