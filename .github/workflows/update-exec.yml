@@ -75,11 +75,11 @@ jobs:
            while IFS= read -r line || [[ -n "$line" ]]; do
             echo "$line" | tr -s ' \t' '\n' >> "merged_data.txt"
            done < "merged_data.tmp"
+           rm -f merged_data.tmp
            python engine/filter_domains.py ${{ env.LATEST_SCOPE_ID }} merged_data.txt > domains.txt
-           echo "\n">>domains.txt
            python engine/get_all_subdomains.py >> domains.txt
            rm -f merged_data.txt
-           rm -f merged_data.tmp
+
            rm -f amass_results.txt
            rm -f subfinder_results.txt
            timeout 120 docker run --rm -v "$PWD:/data" projectdiscovery/dnsx -rcode noerror -silent -l /data/domains.txt -o /data/res.txt || echo "Dnsx timed out!"
