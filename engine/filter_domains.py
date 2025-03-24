@@ -21,22 +21,19 @@ def validate_domains(scope_id, file_path):
     # Get scope
     scope = session.query(Scope).filter_by(id=scope_id).first()
     if not scope:
-        print(f"Error: Scope with ID {scope_id} not found.")
         return
 
     scope_name = get_top_level_domain(scope.name)
-    print(f"Scope Name (TLD): {scope_name}")
 
     with open(file_path, 'r', encoding='utf-8') as file:
         for line in file:
-            print(f"{line}")
             domain = line.strip()
             if not domain:
-                continue  # Skip empty lines
+                continue
 
             extracted_tld = get_top_level_domain(domain)
             if extracted_tld == scope_name:
-                print(f"Filtered:{domain}")
+                print(f"{domain}")
     session.close()
 
 if __name__ == "__main__":

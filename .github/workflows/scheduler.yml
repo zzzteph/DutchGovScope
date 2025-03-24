@@ -34,10 +34,11 @@ jobs:
       - name: Get latest scope to scan
         id: latest_scope
         run: |
-          LATEST_SCOPE_ID=$(python engine/get_latest_unscanned_scope.py | grep "LATEST_SCOPE_ID" | cut -d '=' -f2)
-          LATEST_SCOPE_NAME=$(python engine/get_latest_unscanned_scope.py | grep "LATEST_SCOPE_NAME" | cut -d '=' -f2)
-          LATEST_SCOPE_TYPE=$(python engine/get_latest_unscanned_scope.py | grep "LATEST_SCOPE_TYPE" | cut -d '=' -f2)
-
+          python engine/get_latest_unscanned_scope.py > tmp_env
+          LATEST_SCOPE_ID=$(cat tmp_env | grep "LATEST_SCOPE_ID" | cut -d '=' -f2)
+          LATEST_SCOPE_NAME=$(cat tmp_env | grep "LATEST_SCOPE_NAME" | cut -d '=' -f2)
+          LATEST_SCOPE_TYPE=$(cat tmp_env | grep "LATEST_SCOPE_TYPE" | cut -d '=' -f2)
+          rm -f tmp_env
           if [[ -z "$LATEST_SCOPE_ID" || "$LATEST_SCOPE_ID" == "None" ]]; then
             echo "No valid scope entry found. Skipping Amass scan."
             exit 0
