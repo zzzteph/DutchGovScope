@@ -40,27 +40,29 @@ def export():
                     global_endpoints.append(ep.name)
             res_out = sorted(set(res_out))
             end_out = sorted(set(end_out))
-            if res_out:
+            if len(res_out)>0:
                 with open(os.path.join(scope_dir, "resources.txt"), "w") as f:
                     f.write("\n".join(res_out))
-            if end_out:
+            if len(end_out)>0:
                 with open(os.path.join(scope_dir, "endpoints.txt"), "w") as f:
                     f.write("\n".join(end_out))
 
         tag_resources = sorted(set(tag_resources))
         tag_endpoints = sorted(set(tag_endpoints))
-        if tag_resources:
+        if len(tag_resources)>0:
             with open(os.path.join(tag_dir, "resources.txt"), "w") as f:
                 f.write("\n".join(sorted(set(tag_resources))))
-        if tag_endpoints:        
+        if len(tag_endpoints)>0:        
             with open(os.path.join(tag_dir, "endpoints.txt"), "w") as f:
                 f.write("\n".join(sorted(set(tag_endpoints))))
     global_resources = sorted(set(global_resources))
     global_endpoints = sorted(set(global_endpoints))
-    with open(os.path.join(STORAGE_ROOT, "endpoints.txt"), "w") as f:
-        f.write("\n".join(sorted(set(global_endpoints))))
-    with open(os.path.join(STORAGE_ROOT, "resources.txt"), "w") as f:
-        f.write("\n".join(sorted(set(global_resources))))
+    if len(global_endpoints)>0:
+        with open(os.path.join(STORAGE_ROOT, "endpoints.txt"), "w") as f:
+            f.write("\n".join(sorted(set(global_endpoints))))
+    if len(global_resources)>0:
+        with open(os.path.join(STORAGE_ROOT, "resources.txt"), "w") as f:
+            f.write("\n".join(sorted(set(global_resources))))
 
 
 
