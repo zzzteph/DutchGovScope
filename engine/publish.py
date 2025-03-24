@@ -1,6 +1,7 @@
 import os
 from db import Session, Scope, Resource, Endpoint
-
+import tldextract
+from collections import Counter
 STORAGE_ROOT = "storage"
 
 def export():
@@ -10,7 +11,7 @@ def export():
     tag_map = {}
     global_endpoints=[]
     global_resources=[]
-    
+    global_subdomains=[]
     for scope in scopes:
         tag = scope.tag or "untagged"
         tag_map.setdefault(tag, []).append(scope)
@@ -33,6 +34,10 @@ def export():
                 res_out.append(resource.name)
                 tag_resources.append(resource.name)
                 global_resources.append(resource.name)
+                ext = tldextract.extract(resource.name)
+                global_subdomains.append(ext.subdomain)
+
+
                 endpoints = session.query(Endpoint).filter_by(resource_id=resource.id).order_by(Endpoint.name).all()
                 for ep in endpoints:
                     end_out.append(ep.name)
@@ -63,6 +68,13 @@ def export():
     if len(global_resources)>0:
         with open(os.path.join(STORAGE_ROOT, "resources.txt"), "w") as f:
             f.write("\n".join(sorted(set(global_resources))))
+    if len(global_subdomains)>0:
+        global_subdomains = Counter(global_subdomains)
+        global_subdomains = [sub for sub, _ in global_subdomains.most_common()]
+        with open(os.path.join(STORAGE_ROOT, "subdomains.txt"), "w") as f:
+            f.write("\n".join(global_subdomains))
+
+
 
 
 
