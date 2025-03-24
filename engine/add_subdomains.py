@@ -35,9 +35,9 @@ def add_subdomains(scope_id, file_path):
 
             extracted_tld = get_top_level_domain(domain)
             if extracted_tld == scope_name:
-                existing_resource = session.query(Resource).filter_by(name=domain, scope_id=scope_id).first()
+                existing_resource = session.query(Resource).filter_by(name=domain, scope_id=scope.id).first()
                 if not existing_resource:
-                    new_resource = Resource(name=domain,scope_id=scope_id,type="domain",created_at=utc_now(),updated_at=utc_now())
+                    new_resource = Resource(name=domain,scope_id=scope.id,type="domain",created_at=utc_now(),updated_at=utc_now())
                     print(f"Added {domain}")
                     session.add(new_resource)
                     session.commit()

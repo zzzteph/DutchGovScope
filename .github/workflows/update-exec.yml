@@ -81,10 +81,7 @@ jobs:
            timeout 120 docker run --rm -v "$PWD:/data" projectdiscovery/dnsx -rcode noerror -silent -l /data/domains.txt -o /data/res.txt || echo "Dnsx timed out!"
            cat res.txt | cut -d" " -f1 > domains.txt
            rm -f res.txt
-           python engine/add_new_subdomains.py ${{ env.LATEST_SCOPE_ID }} domains.txt
-           python engine/get_all_subdomains.py ${{ env.LATEST_SCOPE_ID }} > domains.txt
-           timeout 120 docker run --rm -v "$PWD:/data" projectdiscovery/dnsx -rcode noerror -silent -l /data/domains.txt -o /data/res.txt || echo "Dnsx timed out!"
-           cat res.txt | cut -d" " -f1 > domains.txt
+           cat domains.txt
            python engine/add_subdomains.py ${{ env.LATEST_SCOPE_ID }} domains.txt
 
 
