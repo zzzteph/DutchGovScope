@@ -74,6 +74,7 @@ autodiscover.alblasserdam.nl
 autodiscover.alkmaar.nl
 autodiscover.almelo.nl
 autodiscover.almere.nl
+autodiscover.rcgog.nl
 autorisatie.alkmaar.nl
 autorisatie01.alkmaar.nl
 autorisatie02.alkmaar.nl
@@ -154,6 +155,7 @@ enterpriseone-dv.almere.nl
 enterpriseone-py.almere.nl
 enterpriseone.almere.nl
 feeds.persberichten.rijksoverheid.nl
+feeds.rcgog.nl
 feeds.rijksoverheid.nl
 felix.aalten.nl
 felix.achtkarspelen.nl
@@ -297,6 +299,7 @@ oens.almere.nl
 omgevingsvisie.almelo.nl
 ondernemersplein.almere.nl
 opendata.persberichten.rijksoverheid.nl
+opendata.rcgog.nl
 opendata.rijksoverheid.nl
 openpdc.albrandswaard.nl
 openpdc.alkmaar.nl
@@ -344,6 +347,7 @@ pv.diensten.almere.nl
 raad.alblasserdam.nl
 raad.albrandswaard.nl
 raadsnet.aalten.nl
+rcgog.nl
 rdw-test.authenticatie.alkmaar.nl
 rdw.authenticatie.alkmaar.nl
 redirector.alkmaar.nl
@@ -469,6 +473,7 @@ www.almelo.nl
 www.almere.nl
 www.brandweer.almelo.nl
 www.praatmee.alblasserdam.nl
+www.rcgog.nl
 www.rijksoverheid.nl
 www.vroonermeer-noord.alkmaar.nl
 www.werkenbij.alkmaar.nl

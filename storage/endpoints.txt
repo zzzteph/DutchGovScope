@@ -91,6 +91,7 @@ https://enterpriseone-dv.almere.nl
 https://enterpriseone-py.almere.nl
 https://enterpriseone.almere.nl
 https://feeds.persberichten.rijksoverheid.nl
+https://feeds.rcgog.nl
 https://feeds.rijksoverheid.nl
 https://felix.aalten.nl
 https://felix.achtkarspelen.nl
@@ -158,6 +159,7 @@ https://oens.almere.nl
 https://omgevingsvisie.almelo.nl
 https://ondernemersplein.almere.nl
 https://opendata.persberichten.rijksoverheid.nl
+https://opendata.rcgog.nl
 https://opendata.rijksoverheid.nl
 https://openpdc.albrandswaard.nl
 https://openpdc.alkmaar.nl
@@ -184,6 +186,7 @@ https://pv.albrandswaard.nl
 https://pv.diensten.almere.nl
 https://raad.alblasserdam.nl
 https://raad.albrandswaard.nl
+https://rcgog.nl
 https://regio.almere.nl
 https://relatie-scheiding.almere.nl
 https://rijksoverheid.nl
@@ -248,6 +251,7 @@ https://www.alkmaar.nl
 https://www.almelo.nl
 https://www.almere.nl
 https://www.praatmee.alblasserdam.nl
+https://www.rcgog.nl
 https://www.rijksoverheid.nl
 https://www.werkenbij.alkmaar.nl
 https://zaaksysteem-accept.alkmaar.nl
