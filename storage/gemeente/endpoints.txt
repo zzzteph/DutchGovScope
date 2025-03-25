@@ -1,11 +1,15 @@
 http://autodiscover.aaenhunze.nl
+http://autodiscover.aalsmeer.nl
 http://autodiscover.alkmaar.nl
 http://autodiscover.almelo.nl
+http://mijnzorg-acc.aalsmeer.nl
+http://mijnzorg.aalsmeer.nl
 http://panel.almere.nl
 http://redirector.alkmaar.nl
 http://www.vroonermeer-noord.alkmaar.nl
 https://3d.almere.nl
 https://aaenhunze.nl
+https://aalsmeer.nl
 https://acc-maps.almere.nl
 https://acc.formulieren.almere.nl
 https://afspraken.alkmaar.nl
@@ -31,6 +35,7 @@ https://belastingportaal.aaenhunze.nl
 https://belastingportaal.acc.aaenhunze.nl
 https://cimot.almelo.nl
 https://connect-preprod.almere.nl
+https://data.aalsmeer.nl
 https://data.alkmaar.nl
 https://datalab.alkmaar.nl
 https://digitaalerfgoed.almere.nl
@@ -38,10 +43,13 @@ https://directadmin.almelo.nl
 https://e.almelo.nl
 https://edienstenburgerzaken-test.alkmaar.nl
 https://edienstenburgerzaken-test.almere.nl
+https://edienstenburgerzaken.aalsmeer.nl
 https://edienstenburgerzaken.alkmaar.nl
 https://edienstenburgerzaken.almere.nl
+https://edienstenburgerzaken.test.aalsmeer.nl
 https://eloket.almere.nl
 https://eloketstaging.almere.nl
+https://email.mail.participatie.aalsmeer.nl
 https://english.almere.nl
 https://enquete.almelo.nl
 https://enterpriseone-dv.almere.nl
@@ -73,7 +81,10 @@ https://kavelwinkel.almere.nl
 https://lerenloont.almere.nl
 https://link.pr.almere.nl
 https://loket.aaenhunze.nl
+https://loket.aalsmeer.nl
 https://loket.acceptatie.aaenhunze.nl
+https://loket.acceptatie.aalsmeer.nl
+https://loket.test.aalsmeer.nl
 https://maps.almere.nl
 https://meldingen-acc.aaenhunze.nl
 https://meldingen.aaenhunze.nl
@@ -95,6 +106,7 @@ https://ondernemersplein.almere.nl
 https://openpdc.alkmaar.nl
 https://openpub.alkmaar.nl
 https://parkeren.almelo.nl
+https://participatie.aalsmeer.nl
 https://password.almere.nl
 https://passwordreset.almere.nl
 https://pdc.alkmaar.nl
@@ -149,6 +161,8 @@ https://wifiguestportal.almere.nl
 https://wijkteams.almere.nl
 https://workspace365.almelo.nl
 https://www.aaenhunze.nl
+https://www.aalsmeer.nl
+https://www.acceptatie.aalsmeer.nl
 https://www.alkmaar.nl
 https://www.almelo.nl
 https://www.almere.nl

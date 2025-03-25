@@ -20,11 +20,13 @@ a-wiki.rijksoverheid.nl
 a-www.rijksoverheid.nl
 a2b-rtr.alkmaar.nl
 aaenhunze.nl
+aalsmeer.nl
 aanvragen.alkmaar.nl
 acc-kaart.almere.nl
 acc-maps.almere.nl
 acc.almelo.nl
 acc.formulieren.almere.nl
+acceptatie.aalsmeer.nl
 aeos.alkmaar.nl
 afspraken.alkmaar.nl
 agwp01.azweu.alkmaar.nl
@@ -58,6 +60,7 @@ apint.almere.nl
 apint2.almere.nl
 artiance.alkmaar.nl
 autodiscover.aaenhunze.nl
+autodiscover.aalsmeer.nl
 autodiscover.alkmaar.nl
 autodiscover.almelo.nl
 autodiscover.almere.nl
@@ -82,6 +85,7 @@ cms2.rijksoverheid.nl
 cmsdev.rijksoverheid.nl
 connect-preprod.almere.nl
 coronadashboard.rijksoverheid.nl
+data.aalsmeer.nl
 data.alkmaar.nl
 datalab.alkmaar.nl
 diensten.almere.nl
@@ -104,11 +108,14 @@ e-maildiensten.rijksoverheid.nl
 e.almelo.nl
 edienstenburgerzaken-test.alkmaar.nl
 edienstenburgerzaken-test.almere.nl
+edienstenburgerzaken.aalsmeer.nl
 edienstenburgerzaken.alkmaar.nl
 edienstenburgerzaken.almere.nl
+edienstenburgerzaken.test.aalsmeer.nl
 egress-repro.alkmaar.nl
 eloket.almere.nl
 eloketstaging.almere.nl
+email.mail.participatie.aalsmeer.nl
 english.almere.nl
 enquete.almelo.nl
 enterpriseone-dv.almere.nl
@@ -174,7 +181,10 @@ leefbuiten.almere.nl
 lerenloont.almere.nl
 link.pr.almere.nl
 loket.aaenhunze.nl
+loket.aalsmeer.nl
 loket.acceptatie.aaenhunze.nl
+loket.acceptatie.aalsmeer.nl
+loket.test.aalsmeer.nl
 magazines.rijksoverheid.nl
 magazinesintern.rijksoverheid.nl
 mail.almelo.nl
@@ -192,13 +202,16 @@ meldingen.almere.nl
 mhp.almelo.nl
 mht.almelo.nl
 micstz.almelo.nl
+midoffice.aalsmeer.nl
 mijn.alkmaar.nl
 mijn.almere.nl
 mijnict.almere.nl
 mijninkomen-test.almelo.nl
 mijninkomen.almelo.nl
 mijninkomen.almere.nl
+mijnzorg-acc.aalsmeer.nl
 mijnzorg-acc.alkmaar.nl
+mijnzorg.aalsmeer.nl
 mijnzorg.alkmaar.nl
 monitor.rijksoverheid.nl
 msm.almelo.nl
@@ -232,6 +245,7 @@ ota.mijn.almere.nl
 panel.almere.nl
 parkeren-test.almelo.nl
 parkeren.almelo.nl
+participatie.aalsmeer.nl
 password.almere.nl
 passwordreset.almere.nl
 pdc.alkmaar.nl
@@ -310,6 +324,7 @@ test-kaart.almere.nl
 test-kennisbank.almelo.nl
 test-subsidiebeheer.alkmaar.nl
 test-subsidieloket.alkmaar.nl
+test.aalsmeer.nl
 test.formulieren.almere.nl
 testafspraken.alkmaar.nl
 testportaal.almelo.nl
@@ -343,6 +358,8 @@ woo-formulier.rijksoverheid.nl
 wooninstrumenten.almelo.nl
 workspace365.almelo.nl
 www.aaenhunze.nl
+www.aalsmeer.nl
+www.acceptatie.aalsmeer.nl
 www.alkmaar.nl
 www.almelo.nl
 www.almere.nl
