@@ -21,6 +21,9 @@ a-www.rijksoverheid.nl
 a2b-rtr.alkmaar.nl
 aaenhunze.nl
 aalsmeer.nl
+aalten-checker-preprod.aalten.nl
+aalten-checker.aalten.nl
+aalten.nl
 aanvragen.alkmaar.nl
 acc-kaart.almere.nl
 acc-maps.almere.nl
@@ -77,6 +80,7 @@ belastingportaal.acc.aaenhunze.nl
 berichtenverkeer.authenticatie.alkmaar.nl
 bis.almelo.nl
 brandweer.almelo.nl
+broker.aalten.nl
 camera-sport.alkmaar.nl
 cimot.almelo.nl
 cms.rijksoverheid.nl
@@ -94,6 +98,7 @@ digimedia.alkmaar.nl
 digitaalerfgoed.almere.nl
 digitaletweeling.alkmaar.nl
 directadmin.almelo.nl
+dkd.aalten.nl
 dkd.almelo.nl
 dns-fw1.rijksoverheid.nl
 dns-fw4.rijksoverheid.nl
@@ -102,13 +107,16 @@ dns-portal10.rijksoverheid.nl
 dns-portal300.rijksoverheid.nl
 dns-web10.rijksoverheid.nl
 dns-web300.rijksoverheid.nl
+documenten.aalten.nl
 domeinnaamregistratie.rijksoverheid.nl
 e-mailabonnementen.rijksoverheid.nl
 e-maildiensten.rijksoverheid.nl
 e.almelo.nl
+edienstenburgerzaken-test.aalten.nl
 edienstenburgerzaken-test.alkmaar.nl
 edienstenburgerzaken-test.almere.nl
 edienstenburgerzaken.aalsmeer.nl
+edienstenburgerzaken.aalten.nl
 edienstenburgerzaken.alkmaar.nl
 edienstenburgerzaken.almere.nl
 edienstenburgerzaken.test.aalsmeer.nl
@@ -122,6 +130,7 @@ enterpriseone-dv.almere.nl
 enterpriseone-py.almere.nl
 feeds.persberichten.rijksoverheid.nl
 feeds.rijksoverheid.nl
+felix.aalten.nl
 floriade.almere.nl
 flowmailer-tracking.almelo.nl
 formulier-test.almere.nl
@@ -166,6 +175,7 @@ ingesprek.almere.nl
 inkoopplein.almere.nl
 inloggen.belastingportaal.aaenhunze.nl
 inloggen.belastingportaal.acc.aaenhunze.nl
+intranet.aalten.nl
 izaaksuite.alkmaar.nl
 jira.rijksoverheid.nl
 join-test.almelo.nl
@@ -187,6 +197,7 @@ loket.acceptatie.aalsmeer.nl
 loket.test.aalsmeer.nl
 magazines.rijksoverheid.nl
 magazinesintern.rijksoverheid.nl
+mail.aalten.nl
 mail.almelo.nl
 makelaar-test.almelo.nl
 makelaar.almelo.nl
@@ -203,6 +214,7 @@ mhp.almelo.nl
 mht.almelo.nl
 micstz.almelo.nl
 midoffice.aalsmeer.nl
+mijn.aalten.nl
 mijn.alkmaar.nl
 mijn.almere.nl
 mijnict.almere.nl
@@ -257,12 +269,17 @@ planon-acc.almere.nl
 planon-test.almere.nl
 planon.almere.nl
 portaal.almelo.nl
+portal.aalten.nl
 portal.data.alkmaar.nl
 pr.almere.nl
 preprod-mijninkomen.almere.nl
+preprodbroker.aalten.nl
+preproductie.aalten.nl
+probeer.aalten.nl
 ps-www.rijksoverheid.nl
 pub.alkmaar.nl
 pv.diensten.almere.nl
+raadsnet.aalten.nl
 rdw-test.authenticatie.alkmaar.nl
 rdw.authenticatie.alkmaar.nl
 redirector.alkmaar.nl
@@ -275,8 +292,11 @@ rtr-fw.alkmaar.nl
 ruimtelijkeplannen.alkmaar.nl
 ruimtelijkeplannen.almelo.nl
 sdg.rijksoverheid.nl
+secure.aalten.nl
 servicedesk.almelo.nl
 servicedesk.rijksoverheid.nl
+simcms.aalten.nl
+simsite.aalten.nl
 site1.rijksoverheid.nl
 site2.rijksoverheid.nl
 site3.rijksoverheid.nl
@@ -330,8 +350,11 @@ testafspraken.alkmaar.nl
 testportaal.almelo.nl
 teverantwoordenregelingen.rijksoverheid.nl
 thuiswerken.almere.nl
+toegang.aalten.nl
 veiligdelen.alkmaar.nl
 veiligmailen.almelo.nl
+vergunningintaker-preprod.aalten.nl
+vergunningintaker.aalten.nl
 voor1.rijksoverheid.nl
 voor2.rijksoverheid.nl
 voorlichting.rijksoverheid.nl
@@ -359,6 +382,7 @@ wooninstrumenten.almelo.nl
 workspace365.almelo.nl
 www.aaenhunze.nl
 www.aalsmeer.nl
+www.aalten.nl
 www.acceptatie.aalsmeer.nl
 www.alkmaar.nl
 www.almelo.nl

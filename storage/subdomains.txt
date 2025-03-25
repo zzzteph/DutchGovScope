@@ -1,8 +1,10 @@
 
 www
 autodiscover
-meldingen
 edienstenburgerzaken
+meldingen
+edienstenburgerzaken-test
+mijn
 vpn
 servicedesk
 iburgerzaken
@@ -12,8 +14,8 @@ loket.acceptatie
 data
 mijnzorg-acc
 mijnzorg
-edienstenburgerzaken-test
-mijn
+dkd
+mail
 ruimtelijkeplannen
 wachtwoord
 werkplek
@@ -128,6 +130,23 @@ midoffice
 participatie
 test
 www.acceptatie
+aalten-checker-preprod
+aalten-checker
+broker
+documenten
+felix
+intranet
+portal
+preprodbroker
+preproductie
+probeer
+raadsnet
+secure
+simcms
+simsite
+toegang
+vergunningintaker-preprod
+vergunningintaker
 a2b-rtr
 aanvragen
 aeos
@@ -210,7 +229,6 @@ bis
 brandweer
 cimot
 directadmin
-dkd
 e
 enquete
 flowmailer-tracking
@@ -220,7 +238,6 @@ join-test
 join
 kennisbank
 kennisnet
-mail
 makelaar-test
 makelaar
 meldingen.acc

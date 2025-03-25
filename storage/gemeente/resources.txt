@@ -2,6 +2,9 @@
 a2b-rtr.alkmaar.nl
 aaenhunze.nl
 aalsmeer.nl
+aalten-checker-preprod.aalten.nl
+aalten-checker.aalten.nl
+aalten.nl
 aanvragen.alkmaar.nl
 acc-kaart.almere.nl
 acc-maps.almere.nl
@@ -57,6 +60,7 @@ belastingportaal.acc.aaenhunze.nl
 berichtenverkeer.authenticatie.alkmaar.nl
 bis.almelo.nl
 brandweer.almelo.nl
+broker.aalten.nl
 camera-sport.alkmaar.nl
 cimot.almelo.nl
 connect-preprod.almere.nl
@@ -69,11 +73,15 @@ digimedia.alkmaar.nl
 digitaalerfgoed.almere.nl
 digitaletweeling.alkmaar.nl
 directadmin.almelo.nl
+dkd.aalten.nl
 dkd.almelo.nl
+documenten.aalten.nl
 e.almelo.nl
+edienstenburgerzaken-test.aalten.nl
 edienstenburgerzaken-test.alkmaar.nl
 edienstenburgerzaken-test.almere.nl
 edienstenburgerzaken.aalsmeer.nl
+edienstenburgerzaken.aalten.nl
 edienstenburgerzaken.alkmaar.nl
 edienstenburgerzaken.almere.nl
 edienstenburgerzaken.test.aalsmeer.nl
@@ -85,6 +93,7 @@ english.almere.nl
 enquete.almelo.nl
 enterpriseone-dv.almere.nl
 enterpriseone-py.almere.nl
+felix.aalten.nl
 floriade.almere.nl
 flowmailer-tracking.almelo.nl
 formulier-test.almere.nl
@@ -121,6 +130,7 @@ ingesprek.almere.nl
 inkoopplein.almere.nl
 inloggen.belastingportaal.aaenhunze.nl
 inloggen.belastingportaal.acc.aaenhunze.nl
+intranet.aalten.nl
 izaaksuite.alkmaar.nl
 join-test.almelo.nl
 join.almelo.nl
@@ -139,6 +149,7 @@ loket.aalsmeer.nl
 loket.acceptatie.aaenhunze.nl
 loket.acceptatie.aalsmeer.nl
 loket.test.aalsmeer.nl
+mail.aalten.nl
 mail.almelo.nl
 makelaar-test.almelo.nl
 makelaar.almelo.nl
@@ -154,6 +165,7 @@ mhp.almelo.nl
 mht.almelo.nl
 micstz.almelo.nl
 midoffice.aalsmeer.nl
+mijn.aalten.nl
 mijn.alkmaar.nl
 mijn.almere.nl
 mijnict.almere.nl
@@ -197,11 +209,16 @@ planon-acc.almere.nl
 planon-test.almere.nl
 planon.almere.nl
 portaal.almelo.nl
+portal.aalten.nl
 portal.data.alkmaar.nl
 pr.almere.nl
 preprod-mijninkomen.almere.nl
+preprodbroker.aalten.nl
+preproductie.aalten.nl
+probeer.aalten.nl
 pub.alkmaar.nl
 pv.diensten.almere.nl
+raadsnet.aalten.nl
 rdw-test.authenticatie.alkmaar.nl
 rdw.authenticatie.alkmaar.nl
 redirector.alkmaar.nl
@@ -212,7 +229,10 @@ rom.authenticatie.alkmaar.nl
 rtr-fw.alkmaar.nl
 ruimtelijkeplannen.alkmaar.nl
 ruimtelijkeplannen.almelo.nl
+secure.aalten.nl
 servicedesk.almelo.nl
+simcms.aalten.nl
+simsite.aalten.nl
 smap.almere.nl
 smoelennet.almelo.nl
 snelbalie.almere.nl
@@ -246,8 +266,11 @@ test.formulieren.almere.nl
 testafspraken.alkmaar.nl
 testportaal.almelo.nl
 thuiswerken.almere.nl
+toegang.aalten.nl
 veiligdelen.alkmaar.nl
 veiligmailen.almelo.nl
+vergunningintaker-preprod.aalten.nl
+vergunningintaker.aalten.nl
 voorschool.almere.nl
 vpn.alkmaar.nl
 vpn.almelo.nl
@@ -268,6 +291,7 @@ wooninstrumenten.almelo.nl
 workspace365.almelo.nl
 www.aaenhunze.nl
 www.aalsmeer.nl
+www.aalten.nl
 www.acceptatie.aalsmeer.nl
 www.alkmaar.nl
 www.almelo.nl
