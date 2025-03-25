@@ -9,6 +9,7 @@ https://feeds.rijksoverheid.nl
 https://informatiepuntkinderopvangtoeslag.rijksoverheid.nl
 https://magazines.rijksoverheid.nl
 https://magazinesintern.rijksoverheid.nl
+https://metelkaartrekkenwedegrens.nl
 https://opendata.persberichten.rijksoverheid.nl
 https://opendata.rcgog.nl
 https://opendata.rijksoverheid.nl
@@ -20,5 +21,6 @@ https://static.rijksoverheid.nl
 https://statistiek.rijksoverheid.nl
 https://teverantwoordenregelingen.rijksoverheid.nl
 https://woo-formulier.rijksoverheid.nl
+https://www.metelkaartrekkenwedegrens.nl
 https://www.rcgog.nl
 https://www.rijksoverheid.nl

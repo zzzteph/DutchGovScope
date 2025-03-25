@@ -53,6 +53,7 @@ jira.rijksoverheid.nl
 magazines.rijksoverheid.nl
 magazinesintern.rijksoverheid.nl
 med-srv20.rijksoverheid.nl
+metelkaartrekkenwedegrens.nl
 monitor.rijksoverheid.nl
 o-cms1.rijksoverheid.nl
 o-magazinesintern.rijksoverheid.nl
@@ -98,5 +99,6 @@ vpn-gw.rijksoverheid.nl
 webtest10.rijksoverheid.nl
 wiki.rijksoverheid.nl
 woo-formulier.rijksoverheid.nl
+www.metelkaartrekkenwedegrens.nl
 www.rcgog.nl
 www.rijksoverheid.nl
