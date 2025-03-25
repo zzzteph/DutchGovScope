@@ -1,6 +1,7 @@
 http://aalten.nl
 http://autodiscover.aaenhunze.nl
 http://autodiscover.aalsmeer.nl
+http://autodiscover.achtkarspelen.nl
 http://autodiscover.alkmaar.nl
 http://autodiscover.almelo.nl
 http://coronadashboard.rijksoverheid.nl
@@ -12,6 +13,7 @@ http://panel.almere.nl
 http://redirector.alkmaar.nl
 http://simcms.aalten.nl
 http://www.aalten.nl
+http://www.achtkarspelen.nl
 http://www.vroonermeer-noord.alkmaar.nl
 https://3d.almere.nl
 https://aaenhunze.nl
@@ -20,6 +22,7 @@ https://aalten-checker-preprod.aalten.nl
 https://aalten-checker.aalten.nl
 https://acc-maps.almere.nl
 https://acc.formulieren.almere.nl
+https://achtkarspelen.nl
 https://afspraken.alkmaar.nl
 https://agwp01.azweu.alkmaar.nl
 https://alkmaar.nl
@@ -47,10 +50,12 @@ https://connect-preprod.almere.nl
 https://data.aalsmeer.nl
 https://data.alkmaar.nl
 https://datalab.alkmaar.nl
+https://denkmee.achtkarspelen.nl
 https://digitaalerfgoed.almere.nl
 https://directadmin.almelo.nl
 https://e-mailabonnementen.rijksoverheid.nl
 https://e-maildiensten.rijksoverheid.nl
+https://e.achtkarspelen.nl
 https://e.almelo.nl
 https://edienstenburgerzaken-test.aalten.nl
 https://edienstenburgerzaken-test.alkmaar.nl
@@ -70,6 +75,7 @@ https://enterpriseone-py.almere.nl
 https://feeds.persberichten.rijksoverheid.nl
 https://feeds.rijksoverheid.nl
 https://felix.aalten.nl
+https://felix.achtkarspelen.nl
 https://floriade.almere.nl
 https://flowmailer-tracking.almelo.nl
 https://formulier-test.almere.nl
@@ -83,6 +89,7 @@ https://growinggreencities.almere.nl
 https://hout.almere.nl
 https://hybrid.almere.nl
 https://iburgerzaken.aaenhunze.nl
+https://iburgerzaken.achtkarspelen.nl
 https://iburgerzaken.almelo.nl
 https://ikbouwmijnhuisin.almere.nl
 https://ikonderneemin.almere.nl
@@ -135,17 +142,23 @@ https://persberichten.rijksoverheid.nl
 https://planon-acc.almere.nl
 https://planon-test.almere.nl
 https://planon.almere.nl
+https://portal.achtkarspelen.nl
 https://portal.data.alkmaar.nl
 https://preprod-mijninkomen.almere.nl
 https://preprodbroker.aalten.nl
+https://preproductie.achtkarspelen.nl
 https://pub.alkmaar.nl
+https://pv.achtkarspelen.nl
 https://pv.diensten.almere.nl
 https://regio.almere.nl
 https://relatie-scheiding.almere.nl
 https://rijksoverheid.nl
+https://ruimtelijkeplannen.achtkarspelen.nl
 https://ruimtelijkeplannen.alkmaar.nl
 https://sdg.rijksoverheid.nl
 https://servicedesk.almelo.nl
+https://simcms.achtkarspelen.nl
+https://simform-preproductie.achtkarspelen.nl
 https://smap.almere.nl
 https://smoelennet.almelo.nl
 https://snelbalie.almere.nl

@@ -30,6 +30,7 @@ acc-maps.almere.nl
 acc.almelo.nl
 acc.formulieren.almere.nl
 acceptatie.aalsmeer.nl
+achtkarspelen.nl
 aeos.alkmaar.nl
 afspraken.alkmaar.nl
 agwp01.azweu.alkmaar.nl
@@ -64,6 +65,7 @@ apint2.almere.nl
 artiance.alkmaar.nl
 autodiscover.aaenhunze.nl
 autodiscover.aalsmeer.nl
+autodiscover.achtkarspelen.nl
 autodiscover.alkmaar.nl
 autodiscover.almelo.nl
 autodiscover.almere.nl
@@ -92,6 +94,7 @@ coronadashboard.rijksoverheid.nl
 data.aalsmeer.nl
 data.alkmaar.nl
 datalab.alkmaar.nl
+denkmee.achtkarspelen.nl
 diensten.almere.nl
 digikoppeling.aaenhunze.nl
 digimedia.alkmaar.nl
@@ -100,6 +103,7 @@ digitaletweeling.alkmaar.nl
 directadmin.almelo.nl
 dkd.aalten.nl
 dkd.almelo.nl
+dmz-websrv.achtkarspelen.nl
 dns-fw1.rijksoverheid.nl
 dns-fw4.rijksoverheid.nl
 dns-ns1.rijksoverheid.nl
@@ -111,7 +115,9 @@ documenten.aalten.nl
 domeinnaamregistratie.rijksoverheid.nl
 e-mailabonnementen.rijksoverheid.nl
 e-maildiensten.rijksoverheid.nl
+e.achtkarspelen.nl
 e.almelo.nl
+ebms.achtkarspelen.nl
 edienstenburgerzaken-test.aalten.nl
 edienstenburgerzaken-test.alkmaar.nl
 edienstenburgerzaken-test.almere.nl
@@ -131,6 +137,7 @@ enterpriseone-py.almere.nl
 feeds.persberichten.rijksoverheid.nl
 feeds.rijksoverheid.nl
 felix.aalten.nl
+felix.achtkarspelen.nl
 floriade.almere.nl
 flowmailer-tracking.almelo.nl
 formulier-test.almere.nl
@@ -148,6 +155,7 @@ gen2.alkmaar.nl
 geo.aaenhunze.nl
 geodata.almelo.nl
 geoserver-signalen.almere.nl
+geovisia.achtkarspelen.nl
 git.rijksoverheid.nl
 goud.almere.nl
 groenengezond.almere.nl
@@ -162,8 +170,10 @@ i-persberichten.rijksoverheid.nl
 i-site1.rijksoverheid.nl
 i-voor1.rijksoverheid.nl
 iburgerzaken.aaenhunze.nl
+iburgerzaken.achtkarspelen.nl
 iburgerzaken.almelo.nl
 ibzpink.aaenhunze.nl
+ibzpink.achtkarspelen.nl
 ibzpink.almelo.nl
 ids.almelo.nl
 ikbouwmijnhuisin.almere.nl
@@ -176,6 +186,7 @@ inkoopplein.almere.nl
 inloggen.belastingportaal.aaenhunze.nl
 inloggen.belastingportaal.acc.aaenhunze.nl
 intranet.aalten.nl
+iparticipatie.achtkarspelen.nl
 izaaksuite.alkmaar.nl
 jira.rijksoverheid.nl
 join-test.almelo.nl
@@ -183,6 +194,7 @@ join.almelo.nl
 kaart.almere.nl
 kavels.almere.nl
 kavelwinkel.almere.nl
+kennisbank.achtkarspelen.nl
 kennisbank.almelo.nl
 kennisnet.almelo.nl
 ldap.alkmaar.nl
@@ -195,9 +207,11 @@ loket.aalsmeer.nl
 loket.acceptatie.aaenhunze.nl
 loket.acceptatie.aalsmeer.nl
 loket.test.aalsmeer.nl
+lvwoz.achtkarspelen.nl
 magazines.rijksoverheid.nl
 magazinesintern.rijksoverheid.nl
 mail.aalten.nl
+mail.achtkarspelen.nl
 mail.almelo.nl
 makelaar-test.almelo.nl
 makelaar.almelo.nl
@@ -268,16 +282,21 @@ pix-ia-stk.alkmaar.nl
 planon-acc.almere.nl
 planon-test.almere.nl
 planon.almere.nl
+portaal.achtkarspelen.nl
 portaal.almelo.nl
 portal.aalten.nl
+portal.achtkarspelen.nl
 portal.data.alkmaar.nl
 pr.almere.nl
 preprod-mijninkomen.almere.nl
 preprodbroker.aalten.nl
 preproductie.aalten.nl
+preproductie.achtkarspelen.nl
 probeer.aalten.nl
+probeer.achtkarspelen.nl
 ps-www.rijksoverheid.nl
 pub.alkmaar.nl
+pv.achtkarspelen.nl
 pv.diensten.almere.nl
 raadsnet.aalten.nl
 rdw-test.authenticatie.alkmaar.nl
@@ -289,13 +308,18 @@ remote.aaenhunze.nl
 rijksoverheid.nl
 rom.authenticatie.alkmaar.nl
 rtr-fw.alkmaar.nl
+ruimtelijkeplannen.achtkarspelen.nl
 ruimtelijkeplannen.alkmaar.nl
 ruimtelijkeplannen.almelo.nl
 sdg.rijksoverheid.nl
 secure.aalten.nl
+secure.achtkarspelen.nl
 servicedesk.almelo.nl
 servicedesk.rijksoverheid.nl
 simcms.aalten.nl
+simcms.achtkarspelen.nl
+simform-preproductie.achtkarspelen.nl
+simform.achtkarspelen.nl
 simsite.aalten.nl
 site1.rijksoverheid.nl
 site2.rijksoverheid.nl
@@ -311,6 +335,7 @@ smtp.rijksoverheid.nl
 snelbalie.almere.nl
 snelbalietest.almere.nl
 sociaaldomein.almere.nl
+sophos01.achtkarspelen.nl
 sportencultuur.almere.nl
 sportsupport.almere.nl
 spyke-stw.alkmaar.nl
@@ -340,11 +365,13 @@ t-voor1.rijksoverheid.nl
 t-www.rijksoverheid.nl
 talentcenter.almere.nl
 talentcenter2.almere.nl
+test-ipa.achtkarspelen.nl
 test-kaart.almere.nl
 test-kennisbank.almelo.nl
 test-subsidiebeheer.alkmaar.nl
 test-subsidieloket.alkmaar.nl
 test.aalsmeer.nl
+test.achtkarspelen.nl
 test.formulieren.almere.nl
 testafspraken.alkmaar.nl
 testportaal.almelo.nl
@@ -384,6 +411,7 @@ www.aaenhunze.nl
 www.aalsmeer.nl
 www.aalten.nl
 www.acceptatie.aalsmeer.nl
+www.achtkarspelen.nl
 www.alkmaar.nl
 www.almelo.nl
 www.almere.nl
