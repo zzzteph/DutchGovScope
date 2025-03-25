@@ -1,8 +1,11 @@
 
 www
 autodiscover
+meldingen
 vpn
 servicedesk
+iburgerzaken
+ibzpink
 edienstenburgerzaken-test
 edienstenburgerzaken
 mijn
@@ -10,7 +13,6 @@ ruimtelijkeplannen
 wachtwoord
 werkplek
 hybrid
-meldingen
 mijninkomen
 _dmarc
 a-cms
@@ -101,6 +103,20 @@ vpn-gw
 webtest10
 wiki
 woo-formulier
+api.meldingen-acc
+api.meldingen
+belastingportaal
+belastingportaal.acc
+digikoppeling
+fs
+geo
+inloggen.belastingportaal
+inloggen.belastingportaal.acc
+loket
+loket.acceptatie
+meldingen-acc
+remote
+webapps
 a2b-rtr
 aanvragen
 aeos
@@ -191,8 +207,6 @@ e
 enquete
 flowmailer-tracking
 geodata
-iburgerzaken
-ibzpink
 ids
 join-test
 join
