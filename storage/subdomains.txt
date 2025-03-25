@@ -3,12 +3,12 @@ www
 autodiscover
 edienstenburgerzaken
 edienstenburgerzaken-test
+feeds
+opendata
 mijn
 loket
 loket.acceptatie
-feeds
 magazines
-opendata
 iburgerzaken
 ibzpink
 meldingen

@@ -178,6 +178,7 @@ enterpriseone-py.almere.nl
 enterpriseone.almere.nl
 feeds.english.igj.nl
 feeds.igj.nl
+feeds.nieuwsbrievenminocw.nl
 feeds.persberichten.rijksoverheid.nl
 feeds.rcgog.nl
 feeds.rijksoverheid.nl
@@ -324,6 +325,7 @@ msm.almelo.nl
 nac.almelo.nl
 netbox.alkmaar.nl
 netwerkstad.almelo.nl
+nieuwsbrievenminocw.nl
 notubiz.alkmaar.nl
 ns01.alkmaar.nl
 ns02.alkmaar.nl
@@ -345,6 +347,7 @@ omgevingsvisie.almelo.nl
 ondernemersplein.almere.nl
 opendata.english.igj.nl
 opendata.igj.nl
+opendata.nieuwsbrievenminocw.nl
 opendata.persberichten.rijksoverheid.nl
 opendata.rcgog.nl
 opendata.rijksoverheid.nl
@@ -547,6 +550,7 @@ www.almere.nl
 www.brandweer.almelo.nl
 www.igj.nl
 www.metelkaartrekkenwedegrens.nl
+www.nieuwsbrievenminocw.nl
 www.praatmee.alblasserdam.nl
 www.rcgog.nl
 www.rijksoverheid.nl

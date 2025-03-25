@@ -107,6 +107,7 @@ https://enterpriseone-py.almere.nl
 https://enterpriseone.almere.nl
 https://feeds.english.igj.nl
 https://feeds.igj.nl
+https://feeds.nieuwsbrievenminocw.nl
 https://feeds.persberichten.rijksoverheid.nl
 https://feeds.rcgog.nl
 https://feeds.rijksoverheid.nl
@@ -181,12 +182,14 @@ https://mijnzorg-acc.alkmaar.nl
 https://mijnzorg.alkmaar.nl
 https://msm.almelo.nl
 https://netbox.alkmaar.nl
+https://nieuwsbrievenminocw.nl
 https://odc.werkenvoornederland.nl
 https://oens.almere.nl
 https://omgevingsvisie.almelo.nl
 https://ondernemersplein.almere.nl
 https://opendata.english.igj.nl
 https://opendata.igj.nl
+https://opendata.nieuwsbrievenminocw.nl
 https://opendata.persberichten.rijksoverheid.nl
 https://opendata.rcgog.nl
 https://opendata.rijksoverheid.nl
@@ -286,6 +289,7 @@ https://www.almelo.nl
 https://www.almere.nl
 https://www.igj.nl
 https://www.metelkaartrekkenwedegrens.nl
+https://www.nieuwsbrievenminocw.nl
 https://www.praatmee.alblasserdam.nl
 https://www.rcgog.nl
 https://www.rijksoverheid.nl

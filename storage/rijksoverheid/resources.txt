@@ -59,6 +59,7 @@ e-maildiensten.rijksoverheid.nl
 english.igj.nl
 feeds.english.igj.nl
 feeds.igj.nl
+feeds.nieuwsbrievenminocw.nl
 feeds.persberichten.rijksoverheid.nl
 feeds.rcgog.nl
 feeds.rijksoverheid.nl
@@ -98,6 +99,7 @@ metelkaartrekkenwedegrens.nl
 mijn-acc.igj.nl
 mijn.igj.nl
 monitor.rijksoverheid.nl
+nieuwsbrievenminocw.nl
 o-cms1.rijksoverheid.nl
 o-magazinesintern.rijksoverheid.nl
 o-opendata.rijksoverheid.nl
@@ -109,6 +111,7 @@ o-www.rijksoverheid.nl
 odc.werkenvoornederland.nl
 opendata.english.igj.nl
 opendata.igj.nl
+opendata.nieuwsbrievenminocw.nl
 opendata.persberichten.rijksoverheid.nl
 opendata.rcgog.nl
 opendata.rijksoverheid.nl
@@ -173,6 +176,7 @@ www-sandbox.werkenvoornederland.nl
 www.abonneren.toezichtdocumenten.igj.nl
 www.igj.nl
 www.metelkaartrekkenwedegrens.nl
+www.nieuwsbrievenminocw.nl
 www.rcgog.nl
 www.rijksoverheid.nl
 www.werkenvoornederland.nl
