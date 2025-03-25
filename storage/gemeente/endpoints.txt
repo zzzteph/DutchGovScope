@@ -39,6 +39,7 @@ https://api-meldingen.acc.almelo.nl
 https://api-meldingen.almelo.nl
 https://api.meldingen-acc.aaenhunze.nl
 https://api.meldingen.aaenhunze.nl
+https://api.meldingen.almere.nl
 https://autodiscover.almere.nl
 https://belastingbalie.almere.nl
 https://belastingen.almere.nl
@@ -80,8 +81,10 @@ https://eloketstaging.almere.nl
 https://email.mail.participatie.aalsmeer.nl
 https://english.almere.nl
 https://enquete.almelo.nl
+https://enterpriseone-arc.almere.nl
 https://enterpriseone-dv.almere.nl
 https://enterpriseone-py.almere.nl
+https://enterpriseone.almere.nl
 https://felix.aalten.nl
 https://felix.achtkarspelen.nl
 https://floriade.almere.nl
@@ -160,7 +163,6 @@ https://portal.achtkarspelen.nl
 https://portal.data.alkmaar.nl
 https://praatmee.alblasserdam.nl
 https://preprod-mijn.albrandswaard.nl
-https://preprod-mijninkomen.almere.nl
 https://preprodbroker.aalten.nl
 https://preproductie.achtkarspelen.nl
 https://pub.alkmaar.nl

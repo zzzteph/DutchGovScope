@@ -43,6 +43,7 @@ api-meldingen.acc.almelo.nl
 api-meldingen.almelo.nl
 api.meldingen-acc.aaenhunze.nl
 api.meldingen.aaenhunze.nl
+api.meldingen.almere.nl
 apint.almere.nl
 apint2.almere.nl
 artiance.alkmaar.nl
@@ -112,8 +113,10 @@ eloketstaging.almere.nl
 email.mail.participatie.aalsmeer.nl
 english.almere.nl
 enquete.almelo.nl
+enterpriseone-arc.almere.nl
 enterpriseone-dv.almere.nl
 enterpriseone-py.almere.nl
+enterpriseone.almere.nl
 felix.aalten.nl
 felix.achtkarspelen.nl
 floriade.almere.nl
@@ -175,6 +178,7 @@ kennisbank.almelo.nl
 kennisnet.almelo.nl
 ldap.alkmaar.nl
 leef-acc.almere.nl
+leef.almere.nl
 leefbuiten.almere.nl
 lerenloont.almere.nl
 link.pr.almere.nl
@@ -235,7 +239,9 @@ openpdc.alkmaar.nl
 openpub.albrandswaard.nl
 openpub.alkmaar.nl
 osb.alkmaar.nl
+osb.almere.nl
 osbacc.alkmaar.nl
+osbacc.almere.nl
 ota.mijn.almere.nl
 panel.almere.nl
 parkeren-test.almelo.nl

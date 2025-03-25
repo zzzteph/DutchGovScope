@@ -16,6 +16,7 @@ simcms
 ruimtelijkeplannen
 vpn
 servicedesk
+api.meldingen
 data
 mijnzorg-acc
 mijnzorg
@@ -34,6 +35,8 @@ college
 raad
 openpdc
 openpub
+osb
+osbacc
 wachtwoord
 werkplek
 hybrid
@@ -128,7 +131,6 @@ webtest10
 wiki
 woo-formulier
 api.meldingen-acc
-api.meldingen
 belastingportaal
 belastingportaal.acc
 digikoppeling
@@ -226,8 +228,6 @@ ns01
 ns02
 nsx01
 nsx02
-osb
-osbacc
 pdc
 pix-ia-sth
 pix-ia-stk
@@ -321,8 +321,10 @@ digitaalerfgoed
 eloket
 eloketstaging
 english
+enterpriseone-arc
 enterpriseone-dv
 enterpriseone-py
+enterpriseone
 floriade
 formulier-test
 formulieren
@@ -343,6 +345,7 @@ kaart
 kavels
 kavelwinkel
 leef-acc
+leef
 leefbuiten
 lerenloont
 link.pr
