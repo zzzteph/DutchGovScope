@@ -13,6 +13,8 @@ http://mijnzorg.aalsmeer.nl
 http://panel.almere.nl
 http://redirector.alkmaar.nl
 http://simcms.aalten.nl
+http://survey-acc.igj.nl
+http://survey-beheeracc.igj.nl
 http://www.aalten.nl
 http://www.achtkarspelen.nl
 http://www.vroonermeer-noord.alkmaar.nl
@@ -59,6 +61,7 @@ https://datalab.alkmaar.nl
 https://denkmee.achtkarspelen.nl
 https://digitaalerfgoed.almere.nl
 https://directadmin.almelo.nl
+https://documentenapplicatie.igj.nl
 https://e-mailabonnementen.rijksoverheid.nl
 https://e-maildiensten.rijksoverheid.nl
 https://e.achtkarspelen.nl
@@ -85,11 +88,14 @@ https://eloket.almere.nl
 https://eloketstaging.almere.nl
 https://email.mail.participatie.aalsmeer.nl
 https://english.almere.nl
+https://english.igj.nl
 https://enquete.almelo.nl
 https://enterpriseone-arc.almere.nl
 https://enterpriseone-dv.almere.nl
 https://enterpriseone-py.almere.nl
 https://enterpriseone.almere.nl
+https://feeds.english.igj.nl
+https://feeds.igj.nl
 https://feeds.persberichten.rijksoverheid.nl
 https://feeds.rcgog.nl
 https://feeds.rijksoverheid.nl
@@ -116,6 +122,7 @@ https://hybrid.almere.nl
 https://iburgerzaken.aaenhunze.nl
 https://iburgerzaken.achtkarspelen.nl
 https://iburgerzaken.almelo.nl
+https://igj.nl
 https://ikbouwmijnhuisin.almere.nl
 https://ikonderneemin.almere.nl
 https://ikzoekeenhuis.almere.nl
@@ -138,6 +145,7 @@ https://loket.acceptatie.albrandswaard.nl
 https://loket.alblasserdam.nl
 https://loket.albrandswaard.nl
 https://loket.test.aalsmeer.nl
+https://magazines.igj.nl
 https://magazines.rijksoverheid.nl
 https://magazinesintern.rijksoverheid.nl
 https://maps.almere.nl
@@ -147,7 +155,9 @@ https://meldingen.acc.almelo.nl
 https://meldingen.almelo.nl
 https://meldingen.almere.nl
 https://metelkaartrekkenwedegrens.nl
+https://mijn-acc.igj.nl
 https://mijn.alkmaar.nl
+https://mijn.igj.nl
 https://mijnict.almere.nl
 https://mijninkomen-test.almelo.nl
 https://mijninkomen.almelo.nl
@@ -159,6 +169,8 @@ https://netbox.alkmaar.nl
 https://oens.almere.nl
 https://omgevingsvisie.almelo.nl
 https://ondernemersplein.almere.nl
+https://opendata.english.igj.nl
+https://opendata.igj.nl
 https://opendata.persberichten.rijksoverheid.nl
 https://opendata.rcgog.nl
 https://opendata.rijksoverheid.nl
@@ -226,6 +238,7 @@ https://testafspraken.alkmaar.nl
 https://testportaal.almelo.nl
 https://teverantwoordenregelingen.rijksoverheid.nl
 https://thuiswerken.almere.nl
+https://toezichtdocumenten.igj.nl
 https://veiligdelen.alkmaar.nl
 https://veiligmailen.almelo.nl
 https://vergunningintaker-preprod.aalten.nl
@@ -245,12 +258,14 @@ https://woo-formulier.rijksoverheid.nl
 https://workspace365.almelo.nl
 https://www.aaenhunze.nl
 https://www.aalsmeer.nl
+https://www.abonneren.toezichtdocumenten.igj.nl
 https://www.acceptatie.aalsmeer.nl
 https://www.alblasserdam.nl
 https://www.albrandswaard.nl
 https://www.alkmaar.nl
 https://www.almelo.nl
 https://www.almere.nl
+https://www.igj.nl
 https://www.metelkaartrekkenwedegrens.nl
 https://www.praatmee.alblasserdam.nl
 https://www.rcgog.nl
