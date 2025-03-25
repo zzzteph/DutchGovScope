@@ -51,6 +51,7 @@ a-jira
 a-magazines
 a-magazinesintern
 a-opendata
+a-persberichten
 a-servicedesk
 a-site1
 a-site2
@@ -81,10 +82,13 @@ feeds
 git
 gw
 handleiding
+i-cms
 i-cms1
+i-magazinesintern
 i-persberichten
 i-site1
 i-voor1
+i-www
 informatiepuntkinderopvangtoeslag
 jira
 magazines
@@ -93,6 +97,7 @@ med-srv20
 monitor
 o-cms1
 o-magazinesintern
+o-opendata
 o-persberichten
 o-site1
 o-static

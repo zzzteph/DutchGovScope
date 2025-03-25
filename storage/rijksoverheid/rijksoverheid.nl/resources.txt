@@ -8,6 +8,7 @@ a-jira.rijksoverheid.nl
 a-magazines.rijksoverheid.nl
 a-magazinesintern.rijksoverheid.nl
 a-opendata.rijksoverheid.nl
+a-persberichten.rijksoverheid.nl
 a-servicedesk.rijksoverheid.nl
 a-site1.rijksoverheid.nl
 a-site2.rijksoverheid.nl
@@ -38,10 +39,13 @@ feeds.rijksoverheid.nl
 git.rijksoverheid.nl
 gw.rijksoverheid.nl
 handleiding.rijksoverheid.nl
+i-cms.rijksoverheid.nl
 i-cms1.rijksoverheid.nl
+i-magazinesintern.rijksoverheid.nl
 i-persberichten.rijksoverheid.nl
 i-site1.rijksoverheid.nl
 i-voor1.rijksoverheid.nl
+i-www.rijksoverheid.nl
 informatiepuntkinderopvangtoeslag.rijksoverheid.nl
 jira.rijksoverheid.nl
 magazines.rijksoverheid.nl
@@ -50,6 +54,7 @@ med-srv20.rijksoverheid.nl
 monitor.rijksoverheid.nl
 o-cms1.rijksoverheid.nl
 o-magazinesintern.rijksoverheid.nl
+o-opendata.rijksoverheid.nl
 o-persberichten.rijksoverheid.nl
 o-site1.rijksoverheid.nl
 o-static.rijksoverheid.nl
