@@ -103,6 +103,7 @@ http://test-topvorm.apeldoorn.nl
 http://tuchtrecht-service-acc.overheid.nl
 http://tuchtrecht-service-tst.overheid.nl
 http://tuchtrecht-service.overheid.nl
+http://vergunningintaker.bernheze.org
 http://webmail.werkenvoornederland.nl
 http://woz.amsterdam.nl
 http://www.aalten.nl
@@ -177,6 +178,7 @@ https://acc.app.amsterdam.nl
 https://acc.app.meldingen.amsterdam.nl
 https://acc.beesel.nl
 https://acc.bereikbaarheid.amsterdam.nl
+https://acc.bernheze.org
 https://acc.bmidms.amsterdam.nl
 https://acc.bp.data.amsterdam.nl
 https://acc.fblocatielijst.amsterdam.nl
@@ -305,6 +307,7 @@ https://api.makkelijkemarkt.amsterdam.nl
 https://api.meldingen-acc.aaenhunze.nl
 https://api.meldingen-acc.apeldoorn.nl
 https://api.meldingen-acc.assen.nl
+https://api.meldingen-acc.bernheze.org
 https://api.meldingen.aaenhunze.nl
 https://api.meldingen.almere.nl
 https://api.meldingen.alphenaandenrijn.nl
@@ -312,6 +315,7 @@ https://api.meldingen.amsterdam.nl
 https://api.meldingen.apeldoorn.nl
 https://api.meldingen.assen.nl
 https://api.meldingen.bergenopzoom.nl
+https://api.meldingen.bernheze.org
 https://api.mijn.overheid.nl
 https://api.ondernemersplein.overheid.nl
 https://api.openstad.alphenaandenrijn.nl
@@ -402,6 +406,7 @@ https://berichten.bergendal.nl
 https://bermod-fa.amsterdam.nl
 https://bermod.amsterdam.nl
 https://bermod2.amsterdam.nl
+https://bernheze.org
 https://besluitpreviewservice-eto.overheid.nl
 https://besluitpreviewservice.overheid.nl
 https://beta.belastingdienst.nl
@@ -434,6 +439,7 @@ https://brk.basisregistraties.overheid.nl
 https://brk.test.basisregistraties.overheid.nl
 https://broker.aalten.nl
 https://broker.assen.nl
+https://broker.bernheze.org
 https://brt.basisregistraties.overheid.nl
 https://brt.test.basisregistraties.overheid.nl
 https://bta.omgevingswet.overheid.nl
@@ -470,6 +476,7 @@ https://cio-eto.overheid.nl
 https://cio.overheid.nl
 https://cloudstorage-koop.overheid.nl
 https://cms-binnenshuis.bergen.nl
+https://cms.bernheze.org
 https://cmsgui.ondernemersplein.overheid.nl
 https://cmsintranet.gemeentebeek.nl
 https://cmsoo.assen.nl
@@ -673,6 +680,7 @@ https://eloket.asten.nl
 https://eloket.beesel.nl
 https://eloket.bergendal.nl
 https://eloketstaging.almere.nl
+https://email.bernheze.org
 https://email.mail.denkmee.amstelveen.nl
 https://email.mail.participatie.aalsmeer.nl
 https://email.samenveiligwerken.alphenaandenrijn.nl
@@ -861,6 +869,7 @@ https://iburgerzaken.bergeijk.nl
 https://iburgerzaken.bergen.nl
 https://iburgerzaken.bergendal.nl
 https://iburgerzaken.bergenopzoom.nl
+https://iburgerzaken.bernheze.org
 https://iburgerzaken.gemeentebeek.nl
 https://id-beheer-erfpacht-acc.amsterdam.nl
 https://id-beheer-erfpacht-dev.amsterdam.nl
@@ -922,10 +931,13 @@ https://intern.aanmeldenparkeren.amsterdam.nl
 https://intern.formulieren.acc.amsterdam.nl
 https://intern.formulieren.amsterdam.nl
 https://intpatch.omgevingswet.overheid.nl
+https://intranet-cms.bernheze.org
+https://intranet-stats.bernheze.org
 https://intranet.acc.amsterdam.nl
 https://intranet.amsterdam.nl
 https://intranet.apeldoorn.nl
 https://intranet.bergendal.nl
+https://intranet.bernheze.org
 https://intranet.gemeentebeek.nl
 https://intranet.gemeenteberkelland.nl
 https://intranetacc.apeldoorn.nl
@@ -1032,6 +1044,7 @@ https://meet.ggd.amsterdam.nl
 https://meldingen-acc.aaenhunze.nl
 https://meldingen-acc.apeldoorn.nl
 https://meldingen-acc.assen.nl
+https://meldingen-acc.bernheze.org
 https://meldingen.aaenhunze.nl
 https://meldingen.acc.almelo.nl
 https://meldingen.almelo.nl
@@ -1042,6 +1055,7 @@ https://meldingen.apeldoorn.nl
 https://meldingen.assen.nl
 https://meldingen.asten.nl
 https://meldingen.bergenopzoom.nl
+https://meldingen.bernheze.org
 https://meldingenamsterdamsebos.amsterdam.nl
 https://meldingenweesp.amsterdam.nl
 https://metelkaartrekkenwedegrens.nl
@@ -1299,7 +1313,9 @@ https://preprod-mijn.barendrecht.nl
 https://preprod-mijnsociaalplein.bergen-nh.nl
 https://preprod.mijn.overheid.nl
 https://preprod.oinregister.logius.nl
+https://preprod.vergunningintaker.bernheze.org
 https://preprodbroker.aalten.nl
+https://preprodbroker.bernheze.org
 https://preproductie.achtkarspelen.nl
 https://preproductie.bergeijk.nl
 https://prijsvraag-zwembad.apeldoorn.nl
@@ -1662,6 +1678,7 @@ https://web.alblasserdam.nl
 https://webdiensten.belastingdienst.nl
 https://webforms.belastingdienst.nl
 https://webmail.alkmaar.nl
+https://webmail.bernheze.org
 https://webservice-decosdvl.acc.amsterdam.nl
 https://webservice-decosdvl.amsterdam.nl
 https://website.alphen-chaam.nl
@@ -1703,6 +1720,7 @@ https://woningbouwkaart.assen.nl
 https://woningdossier.assen.nl
 https://woo-formulier.rijksoverheid.nl
 https://woo.arnhem.nl
+https://wooloket.bernheze.org
 https://wordimport.drop.overheid.nl
 https://workspace365.almelo.nl
 https://wppbeheer.acc.amsterdam.nl
@@ -1739,6 +1757,7 @@ https://www.beesel.nl
 https://www.belastingdienst.nl
 https://www.bergen-nh.nl
 https://www.bergen.nl
+https://www.bernheze.org
 https://www.bikecity.amsterdam.nl
 https://www.bta.omgevingswet.overheid.nl
 https://www.buurtbudget.amsterdam.nl
