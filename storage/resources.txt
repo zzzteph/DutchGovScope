@@ -537,6 +537,7 @@ bag.basisregistraties.overheid.nl
 bag.test.basisregistraties.overheid.nl
 bag2.basisregistraties.overheid.nl
 bapicft.belastingdienst.nl
+barendrecht.nl
 basisstatistiek.amsterdam.nl
 bastion.rijksoverheid.nl
 bastion365.assen.nl
@@ -1040,7 +1041,9 @@ ebms.contentbeheer.acc.omgevingswet.overheid.nl
 ebms.contentbeheer.omgevingswet.overheid.nl
 ebms.service.bta.omgevingswet.overheid.nl
 edienstenaanvragensd-acceptatie.albrandswaard.nl
+edienstenaanvragensd-acceptatie.barendrecht.nl
 edienstenaanvragensd.albrandswaard.nl
+edienstenaanvragensd.barendrecht.nl
 edienstenburgerzaken-test.aalten.nl
 edienstenburgerzaken-test.alblasserdam.nl
 edienstenburgerzaken-test.albrandswaard.nl
@@ -1049,6 +1052,7 @@ edienstenburgerzaken-test.almere.nl
 edienstenburgerzaken-test.alphenaandenrijn.nl
 edienstenburgerzaken-test.arnhem.nl
 edienstenburgerzaken-test.baarn.nl
+edienstenburgerzaken-test.barendrecht.nl
 edienstenburgerzaken.aalsmeer.nl
 edienstenburgerzaken.aalten.nl
 edienstenburgerzaken.alblasserdam.nl
@@ -1059,14 +1063,19 @@ edienstenburgerzaken.alphenaandenrijn.nl
 edienstenburgerzaken.amstelveen.nl
 edienstenburgerzaken.arnhem.nl
 edienstenburgerzaken.baarn.nl
+edienstenburgerzaken.barendrecht.nl
 edienstenburgerzaken.test.aalsmeer.nl
 edienstenburgerzaken.test.amstelveen.nl
 edienstenmijninkomen-acceptatie.albrandswaard.nl
+edienstenmijninkomen-acceptatie.barendrecht.nl
 edienstenmijninkomen.albrandswaard.nl
+edienstenmijninkomen.barendrecht.nl
 edienstenweni-test.arnhem.nl
 edienstenweni.arnhem.nl
 edienstverlening-preprod.albrandswaard.nl
+edienstverlening-preprod.barendrecht.nl
 edienstverlening.albrandswaard.nl
+edienstverlening.barendrecht.nl
 edisa.amsterdam.nl
 edison-acc.amsterdam.nl
 edison.amsterdam.nl
@@ -1607,6 +1616,7 @@ intranet.amsterdam.nl
 intranet.apeldoorn.nl
 intranet.assen.nl
 intranet.baarn.nl
+intranet.barendrecht.nl
 intranet.digi-mlv.os.amsterdam.nl
 intranet.docwonen.amsterdam.nl
 intranet.geuzenveld.amsterdam.nl
@@ -1715,11 +1725,13 @@ loket.acceptatie.aalsmeer.nl
 loket.acceptatie.alblasserdam.nl
 loket.acceptatie.albrandswaard.nl
 loket.acceptatie.amstelveen.nl
+loket.acceptatie.barendrecht.nl
 loket.alblasserdam.nl
 loket.albrandswaard.nl
 loket.amstelveen.nl
 loket.amsterdam.nl
 loket.asten.nl
+loket.barendrecht.nl
 loket.overheid.nl
 loket.test.aalsmeer.nl
 loket.test.amstelveen.nl
@@ -2142,8 +2154,10 @@ openklant-beheer-erfpacht.amsterdam.nl
 openklant.assen.nl
 openpdc.albrandswaard.nl
 openpdc.alkmaar.nl
+openpdc.barendrecht.nl
 openpub.albrandswaard.nl
 openpub.alkmaar.nl
+openpub.barendrecht.nl
 openvas.datapunt.amsterdam.nl
 openzaak-tst.amsterdam.nl
 openzaak.amsterdam.nl
@@ -2323,6 +2337,7 @@ prd.afs.amsterdam.nl
 pre.omgevingswet.overheid.nl
 preprod-machtigen.digipoort.logius.nl
 preprod-mijn.albrandswaard.nl
+preprod-mijn.barendrecht.nl
 preprod-mijngeldzaken.arnhem.nl
 preprod-mijninkomen.almere.nl
 preprod-portalen.digipoort.logius.nl
@@ -2342,6 +2357,7 @@ probeer.aalten.nl
 probeer.achtkarspelen.nl
 probeer.albrandswaard.nl
 probeer.baarn.nl
+probeer.barendrecht.nl
 prod-dictu.comcms.logius.nl
 prod-dictu.logius.nl
 projectarchief-vor.amsterdam.nl
@@ -2360,7 +2376,9 @@ puc-redactie.overheid.nl
 puc.overheid.nl
 pv.achtkarspelen.nl
 pv.albrandswaard.nl
+pv.barendrecht.nl
 pv.diensten.almere.nl
+pwa.barendrecht.nl
 pwa001.belastingdienst.nl
 qapbldexte2.belastingdienst.nl
 qr.amersfoort.nl
@@ -2511,6 +2529,7 @@ secure.alphen-chaam.nl
 secure.ameland.nl
 secure.amsterdam.nl
 secure.baarle-nassau.nl
+secure.barendrecht.nl
 selfservice.ggd.amsterdam.nl
 sensorenregister.amsterdam.nl
 sepm.belastingdienst.nl
@@ -2575,6 +2594,7 @@ simcms.achtkarspelen.nl
 simcms.albrandswaard.nl
 simcms.ameland.nl
 simcms.baarn.nl
+simcms.barendrecht.nl
 simform-preproductie.achtkarspelen.nl
 simform.achtkarspelen.nl
 simsite.aalten.nl
@@ -2980,6 +3000,7 @@ verkeersbesluiten-acc.overheid.nl
 verkeersbesluiten-preprd.overheid.nl
 verkeersbesluiten.overheid.nl
 verkiezingen.albrandswaard.nl
+verkiezingen.barendrecht.nl
 verleendekinderopvang.acc.belastingdienst.nl
 verleendekinderopvang.belastingdienst.nl
 verpakkingen.belastingdienst.nl
@@ -3199,6 +3220,7 @@ www.atlas.amsterdam.nl
 www.baarle-nassau.nl
 www.baarn.nl
 www.baarsjes.amsterdam.nl
+www.barendrecht.nl
 www.bba.amsterdam.nl
 www.belastingdienst.nl
 www.bereikbaar.amsterdam.nl

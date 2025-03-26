@@ -236,6 +236,7 @@ https://autodiscover.apeldoorn.nl
 https://autodiscover.ggd.amsterdam.nl
 https://awm.amsterdam.nl
 https://awmag.asten.nl
+https://barendrecht.nl
 https://bastion365.assen.nl
 https://bastion365.asten.nl
 https://bedrijfsafval.assen.nl
@@ -388,7 +389,9 @@ https://e-loket.apeldoorn.nl
 https://e.achtkarspelen.nl
 https://e.almelo.nl
 https://edienstenaanvragensd-acceptatie.albrandswaard.nl
+https://edienstenaanvragensd-acceptatie.barendrecht.nl
 https://edienstenaanvragensd.albrandswaard.nl
+https://edienstenaanvragensd.barendrecht.nl
 https://edienstenburgerzaken-test.aalten.nl
 https://edienstenburgerzaken-test.alblasserdam.nl
 https://edienstenburgerzaken-test.albrandswaard.nl
@@ -397,6 +400,7 @@ https://edienstenburgerzaken-test.almere.nl
 https://edienstenburgerzaken-test.alphenaandenrijn.nl
 https://edienstenburgerzaken-test.arnhem.nl
 https://edienstenburgerzaken-test.baarn.nl
+https://edienstenburgerzaken-test.barendrecht.nl
 https://edienstenburgerzaken.aalsmeer.nl
 https://edienstenburgerzaken.aalten.nl
 https://edienstenburgerzaken.alblasserdam.nl
@@ -407,14 +411,18 @@ https://edienstenburgerzaken.alphenaandenrijn.nl
 https://edienstenburgerzaken.amstelveen.nl
 https://edienstenburgerzaken.arnhem.nl
 https://edienstenburgerzaken.baarn.nl
+https://edienstenburgerzaken.barendrecht.nl
 https://edienstenburgerzaken.test.aalsmeer.nl
 https://edienstenburgerzaken.test.amstelveen.nl
 https://edienstenmijninkomen-acceptatie.albrandswaard.nl
 https://edienstenmijninkomen.albrandswaard.nl
+https://edienstenmijninkomen.barendrecht.nl
 https://edienstenweni-test.arnhem.nl
 https://edienstenweni.arnhem.nl
 https://edienstverlening-preprod.albrandswaard.nl
+https://edienstverlening-preprod.barendrecht.nl
 https://edienstverlening.albrandswaard.nl
+https://edienstverlening.barendrecht.nl
 https://elkk.amsterdam.nl
 https://eloket.almere.nl
 https://eloket.arnhem.nl
@@ -625,9 +633,11 @@ https://loket.acceptatie.aalsmeer.nl
 https://loket.acceptatie.alblasserdam.nl
 https://loket.acceptatie.albrandswaard.nl
 https://loket.acceptatie.amstelveen.nl
+https://loket.acceptatie.barendrecht.nl
 https://loket.alblasserdam.nl
 https://loket.albrandswaard.nl
 https://loket.amstelveen.nl
+https://loket.barendrecht.nl
 https://loket.test.aalsmeer.nl
 https://loket.test.amstelveen.nl
 https://lyncdiscover.ggd.amsterdam.nl
@@ -762,8 +772,10 @@ https://openklant-beheer-erfpacht.amsterdam.nl
 https://openklant.assen.nl
 https://openpdc.albrandswaard.nl
 https://openpdc.alkmaar.nl
+https://openpdc.barendrecht.nl
 https://openpub.albrandswaard.nl
 https://openpub.alkmaar.nl
+https://openpub.barendrecht.nl
 https://openzaak-tst.amsterdam.nl
 https://openzaak.amsterdam.nl
 https://openzaak.assen.nl
@@ -802,6 +814,7 @@ https://portal.ggd.amsterdam.nl
 https://praatmee.alblasserdam.nl
 https://prd.afs.amsterdam.nl
 https://preprod-mijn.albrandswaard.nl
+https://preprod-mijn.barendrecht.nl
 https://preprodbroker.aalten.nl
 https://preproductie.achtkarspelen.nl
 https://prijsvraag-zwembad.apeldoorn.nl
@@ -811,7 +824,9 @@ https://pub.alkmaar.nl
 https://publicaties.rekenkamer.amsterdam.nl
 https://pv.achtkarspelen.nl
 https://pv.albrandswaard.nl
+https://pv.barendrecht.nl
 https://pv.diensten.almere.nl
+https://pwa.barendrecht.nl
 https://qr.amersfoort.nl
 https://qr.arnhem.nl
 https://qr.digitaalgemeenteloket.alphenaandenrijn.nl
@@ -1040,6 +1055,7 @@ https://www.asten.nl
 https://www.ateliers.amsterdam.nl
 https://www.baarle-nassau.nl
 https://www.baarn.nl
+https://www.barendrecht.nl
 https://www.bikecity.amsterdam.nl
 https://www.buurtbudget.amsterdam.nl
 https://www.buurtbudgetnoord.amsterdam.nl
