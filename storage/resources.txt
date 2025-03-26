@@ -76,6 +76,7 @@ acc7.mijn.overheid.nl
 acc8.mijn.overheid.nl
 acc9.mijn.overheid.nl
 acceptatie.aalsmeer.nl
+acceptatie.alphen-chaam.nl
 acceptatie.omgevingswet.overheid.nl
 ace_nat17.belastingdienst.nl
 achtkarspelen.nl
@@ -120,6 +121,7 @@ almereconnect.almere.nl
 almeregeeftenergie.almere.nl
 almerekracht.almere.nl
 almerepoort.almere.nl
+alphen-chaam.nl
 amlc.acc.belastingdienst.nl
 amlc.ont.belastingdienst.nl
 amlceu.acc.belastingdienst.nl
@@ -279,6 +281,7 @@ belastingen.almere.nl
 belastingen.alphenaandenrijn.nl
 belastingportaal.aaenhunze.nl
 belastingportaal.acc.aaenhunze.nl
+berichten.alphen-chaam.nl
 berichtenverkeer.authenticatie.alkmaar.nl
 besluitpreviewservice-eto.overheid.nl
 besluitpreviewservice.overheid.nl
@@ -456,6 +459,7 @@ digipoort-wus-acc2.belastingdienst.nl
 digipoort-wus.belastingdienst.nl
 digitaalerfgoed.almere.nl
 digitaalgemeenteloket.alphenaandenrijn.nl
+digitaalnachtregister.alphen-chaam.nl
 digitaalvergaderen.belastingdienst.nl
 digitaalvergaderen.ont.belastingdienst.nl
 digitaletweeling.alkmaar.nl
@@ -574,6 +578,7 @@ extern-abv-acc.belastingdienst.nl
 externe-veiligheid.omgevingswet.overheid.nl
 extgmea02.ss.belastingdienst.nl
 extra-vpn.belastingdienst.nl
+extranet.alphen-chaam.nl
 f2b.belastingdienst.nl
 fcinet.acc.belastingdienst.nl
 fed-tao.acc.toeslagen.nl
@@ -763,9 +768,11 @@ iam-containerplatform.lpc.logius.nl
 iburgerzaken.aaenhunze.nl
 iburgerzaken.achtkarspelen.nl
 iburgerzaken.almelo.nl
+iburgerzaken.alphen-chaam.nl
 ibzpink.aaenhunze.nl
 ibzpink.achtkarspelen.nl
 ibzpink.almelo.nl
+ibzpink.alphen-chaam.nl
 ict-ers.werkenvoornederland.nl
 icters.werkenvoornederland.nl
 ideal20-cnf.belastingdienst.nl
@@ -1340,6 +1347,7 @@ search.developer.overheid.nl
 secure.aalten.nl
 secure.achtkarspelen.nl
 secure.albrandswaard.nl
+secure.alphen-chaam.nl
 sepm.belastingdienst.nl
 service.acc.omgevingswet.overheid.nl
 service.bta.omgevingswet.overheid.nl
@@ -1380,6 +1388,7 @@ simform-preproductie.achtkarspelen.nl
 simform.achtkarspelen.nl
 simsite.aalten.nl
 simsite.albrandswaard.nl
+simsite.alphen-chaam.nl
 sipreg.belastingdienst.nl
 site1.rijksoverheid.nl
 site2.rijksoverheid.nl
@@ -1666,6 +1675,7 @@ vs_mijnzakelijk.str13.tst.belastingdienst.nl
 vs_webdiensten.str13.tst.belastingdienst.nl
 vts.belastingdienst.nl
 vtsd.belastingdienst.nl
+waarmerk.alphen-chaam.nl
 wachtwoord.alkmaar.nl
 wachtwoord.almere.nl
 wachtwoordreset.almere.nl
@@ -1707,6 +1717,7 @@ webservices.str10.acc.belastingdienst.nl
 webservices.str12.acc.belastingdienst.nl
 webservices.str13.acc.belastingdienst.nl
 website.acc.belastingdienst.nl
+website.alphen-chaam.nl
 website.belastingdienst.nl
 webtest10.rijksoverheid.nl
 welbo.alphenaandenrijn.nl
@@ -1757,6 +1768,7 @@ www.alkmaar.nl
 www.alleplannen.centrumbegroot.alphenaandenrijn.nl
 www.almelo.nl
 www.almere.nl
+www.alphen-chaam.nl
 www.alphenaandenrijn.nl
 www.asl.omgevingswet.overheid.nl
 www.belastingdienst.nl

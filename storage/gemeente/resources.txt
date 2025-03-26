@@ -11,6 +11,7 @@ acc-maps.almere.nl
 acc.almelo.nl
 acc.formulieren.almere.nl
 acceptatie.aalsmeer.nl
+acceptatie.alphen-chaam.nl
 achtkarspelen.nl
 aeos.alkmaar.nl
 afspraken.alkmaar.nl
@@ -39,6 +40,7 @@ almereconnect.almere.nl
 almeregeeftenergie.almere.nl
 almerekracht.almere.nl
 almerepoort.almere.nl
+alphen-chaam.nl
 ap01.alkmaar.nl
 apex.almere.nl
 api-meldingen.acc.almelo.nl
@@ -71,6 +73,7 @@ belastingen.almere.nl
 belastingen.alphenaandenrijn.nl
 belastingportaal.aaenhunze.nl
 belastingportaal.acc.aaenhunze.nl
+berichten.alphen-chaam.nl
 berichtenverkeer.authenticatie.alkmaar.nl
 bis.almelo.nl
 brandweer.almelo.nl
@@ -96,6 +99,7 @@ digikoppeling.aaenhunze.nl
 digimedia.alkmaar.nl
 digitaalerfgoed.almere.nl
 digitaalgemeenteloket.alphenaandenrijn.nl
+digitaalnachtregister.alphen-chaam.nl
 digitaletweeling.alkmaar.nl
 directadmin.almelo.nl
 dkd-prod.alphenaandenrijn.nl
@@ -143,6 +147,7 @@ enterpriseone.almere.nl
 enterpriseregistration.alphenaandenrijn.nl
 exchange.alphenaandenrijn.nl
 exchange2.alphenaandenrijn.nl
+extranet.alphen-chaam.nl
 felix.aalten.nl
 felix.achtkarspelen.nl
 floriade.almere.nl
@@ -179,9 +184,11 @@ hybrid.almere.nl
 iburgerzaken.aaenhunze.nl
 iburgerzaken.achtkarspelen.nl
 iburgerzaken.almelo.nl
+iburgerzaken.alphen-chaam.nl
 ibzpink.aaenhunze.nl
 ibzpink.achtkarspelen.nl
 ibzpink.almelo.nl
+ibzpink.alphen-chaam.nl
 ids.almelo.nl
 ikbouwmijnhuisin.almere.nl
 ikonderneemin.almere.nl
@@ -335,6 +342,7 @@ samenveiligwerken.alphenaandenrijn.nl
 secure.aalten.nl
 secure.achtkarspelen.nl
 secure.albrandswaard.nl
+secure.alphen-chaam.nl
 servicedesk.almelo.nl
 simcms.aalten.nl
 simcms.achtkarspelen.nl
@@ -343,6 +351,7 @@ simform-preproductie.achtkarspelen.nl
 simform.achtkarspelen.nl
 simsite.aalten.nl
 simsite.albrandswaard.nl
+simsite.alphen-chaam.nl
 smap.almere.nl
 smoelennet.almelo.nl
 snelbalie.almere.nl
@@ -396,12 +405,14 @@ voorschool.almere.nl
 vpn.alkmaar.nl
 vpn.almelo.nl
 vpn.almere.nl
+waarmerk.alphen-chaam.nl
 wachtwoord.alkmaar.nl
 wachtwoord.almere.nl
 wachtwoordreset.almere.nl
 web.alblasserdam.nl
 webapps.aaenhunze.nl
 webmail.alkmaar.nl
+website.alphen-chaam.nl
 welbo.alphenaandenrijn.nl
 welbotest.alphenaandenrijn.nl
 werkenbij.alkmaar.nl
@@ -424,6 +435,7 @@ www.alkmaar.nl
 www.alleplannen.centrumbegroot.alphenaandenrijn.nl
 www.almelo.nl
 www.almere.nl
+www.alphen-chaam.nl
 www.alphenaandenrijn.nl
 www.brandweer.almelo.nl
 www.centrumbegroot.alphenaandenrijn.nl

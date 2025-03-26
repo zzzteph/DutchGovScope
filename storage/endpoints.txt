@@ -87,6 +87,7 @@ https://acc-internationaal.ondernemen.overheid.nl
 https://acc-maps.almere.nl
 https://acc.formulieren.almere.nl
 https://acc.omgevingswet.overheid.nl
+https://acceptatie.alphen-chaam.nl
 https://achtkarspelen.nl
 https://adobe-analytics-dc.belastingdienst.nl
 https://adobe-analytics-dc.toeslagen.nl
@@ -111,6 +112,7 @@ https://almereconnect.almere.nl
 https://almeregeeftenergie.almere.nl
 https://almerekracht.almere.nl
 https://almerepoort.almere.nl
+https://alphen-chaam.nl
 https://apex.almere.nl
 https://api-meldingen.acc.almelo.nl
 https://api-meldingen.almelo.nl
@@ -158,6 +160,7 @@ https://belastingdienst.nl
 https://belastingen.almere.nl
 https://belastingportaal.aaenhunze.nl
 https://belastingportaal.acc.aaenhunze.nl
+https://berichten.alphen-chaam.nl
 https://besluitpreviewservice-eto.overheid.nl
 https://besluitpreviewservice.overheid.nl
 https://beta.belastingdienst.nl
@@ -301,6 +304,7 @@ https://enterpriseregistration.alphenaandenrijn.nl
 https://enterpriseregistration.belastingdienst.nl
 https://eubtw.belastingdienst.nl
 https://externe-veiligheid.omgevingswet.overheid.nl
+https://extranet.alphen-chaam.nl
 https://f2b.belastingdienst.nl
 https://fed01.toeslagen.nl
 https://fed01.tst.toeslagen.nl
@@ -360,6 +364,7 @@ https://iam-containerplatform.lpc.logius.nl
 https://iburgerzaken.aaenhunze.nl
 https://iburgerzaken.achtkarspelen.nl
 https://iburgerzaken.almelo.nl
+https://iburgerzaken.alphen-chaam.nl
 https://identifier-preprod.overheid.nl
 https://identifier.overheid.nl
 https://igj.nl
@@ -759,6 +764,7 @@ https://voorschool.almere.nl
 https://vpn.almere.nl
 https://vts.belastingdienst.nl
 https://vtsd.belastingdienst.nl
+https://waarmerk.alphen-chaam.nl
 https://wachtwoord.alkmaar.nl
 https://wachtwoord.almere.nl
 https://wachtwoordreset.almere.nl
@@ -768,6 +774,7 @@ https://web.alblasserdam.nl
 https://webdiensten.belastingdienst.nl
 https://webforms.belastingdienst.nl
 https://webmail.alkmaar.nl
+https://website.alphen-chaam.nl
 https://website.belastingdienst.nl
 https://werken.belastingdienst.nl
 https://werken.toeslagen.nl
@@ -798,6 +805,7 @@ https://www.alkmaar.nl
 https://www.alleplannen.centrumbegroot.alphenaandenrijn.nl
 https://www.almelo.nl
 https://www.almere.nl
+https://www.alphen-chaam.nl
 https://www.alphenaandenrijn.nl
 https://www.belastingdienst.nl
 https://www.bta.omgevingswet.overheid.nl
