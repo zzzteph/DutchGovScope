@@ -31,12 +31,14 @@ http://ict-ers.werkenvoornederland.nl
 http://icters.werkenvoornederland.nl
 http://inkopers.werkenvoornederland.nl
 http://juristen.werkenvoornederland.nl
+http://kec.officiele-overheidspublicaties.nl
 http://kibana-prod.lpc.logius.nl
 http://kibana.lpc.logius.nl
 http://ondertekeningsviewer.overheid.nl
 http://preprod-machtigen.digipoort.logius.nl
 http://pwa001.belastingdienst.nl
 http://ref.omgevingswet.overheid.nl
+http://repository-acc.officiele-overheidspublicaties.nl
 http://rijkstrainee.werkenvoornederland.nl
 http://rijkstrainees.werkenvoornederland.nl
 http://samenwerkruimten-conf.belastingdienst.nl
@@ -386,7 +388,9 @@ https://regelgeving.pre.omgevingswet.overheid.nl
 https://regels.overheid.nl
 https://renvooiservice-eto.overheid.nl
 https://renvooiservice.overheid.nl
+https://repository-eto.officiele-overheidspublicaties.nl
 https://repository-preprod.overheid.nl
+https://repository.officiele-overheidspublicaties.nl
 https://repository.overheid.nl
 https://resolver.int.omgevingswet.overheid.nl
 https://resolver.kta.omgevingswet.overheid.nl

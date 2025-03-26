@@ -47,6 +47,7 @@ webapps
 werken
 werkenbij
 ondernemersplein
+repository
 api.meldingen
 mijnzorg-acc
 mijnzorg
@@ -1079,7 +1080,6 @@ regels
 renvooiservice-eto
 renvooiservice
 repository-preprod
-repository
 resolver.int.omgevingswet
 resolver.kta.omgevingswet
 resolver.omgevingswet
@@ -1354,6 +1354,10 @@ test-dictu.kennisbank
 test-dictu
 test-machtigen.digipoort
 vault.lpc
+htmleditor
+kec
+repository-acc
+repository-eto
 api.meldingen-acc
 belastingportaal
 belastingportaal.acc

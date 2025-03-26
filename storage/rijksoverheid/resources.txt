@@ -568,6 +568,7 @@ gw.rijksoverheid.nl
 handleiding.rijksoverheid.nl
 herstel.acc.belastingdienst.nl
 herstel.toeslagen.nl
+htmleditor.officiele-overheidspublicaties.nl
 huisstijl.acc.belastingdienst.nl
 huisstijl.belastingdienst.nl
 i-cms.rijksoverheid.nl
@@ -634,6 +635,7 @@ jobs.werkenvoornederland.nl
 juristen.werkenvoornederland.nl
 kaarten-demo.overheid.nl
 kavaanalytics.vcdn.belastingdienst.nl
+kec.officiele-overheidspublicaties.nl
 kennis-fiod.acc.belastingdienst.nl
 kennisbank.logius.nl
 kennisgroepen.acc.belastingdienst.nl
@@ -809,6 +811,7 @@ odc.werkenvoornederland.nl
 officeonline-acc.belastingdienst.nl
 officeonline-conf.belastingdienst.nl
 officeonline.belastingdienst.nl
+officiele-overheidspublicaties.nl
 oinregister.logius.nl
 oladc_85_prod_vs36.poort.belastingdienst.nl
 oladc_85_vs86.acc.toeslagen.nl
@@ -947,7 +950,10 @@ regelgeving.pre.omgevingswet.overheid.nl
 regels.overheid.nl
 renvooiservice-eto.overheid.nl
 renvooiservice.overheid.nl
+repository-acc.officiele-overheidspublicaties.nl
+repository-eto.officiele-overheidspublicaties.nl
 repository-preprod.overheid.nl
+repository.officiele-overheidspublicaties.nl
 repository.overheid.nl
 resolver.int.omgevingswet.overheid.nl
 resolver.kta.omgevingswet.overheid.nl

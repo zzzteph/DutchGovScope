@@ -717,6 +717,7 @@ handleiding.rijksoverheid.nl
 herstel.acc.belastingdienst.nl
 herstel.toeslagen.nl
 hout.almere.nl
+htmleditor.officiele-overheidspublicaties.nl
 huisstijl.acc.belastingdienst.nl
 huisstijl.belastingdienst.nl
 hybrid.almelo.nl
@@ -809,6 +810,7 @@ kaarten-demo.overheid.nl
 kavaanalytics.vcdn.belastingdienst.nl
 kavels.almere.nl
 kavelwinkel.almere.nl
+kec.officiele-overheidspublicaties.nl
 kennis-fiod.acc.belastingdienst.nl
 kennisbank.achtkarspelen.nl
 kennisbank.almelo.nl
@@ -1043,6 +1045,7 @@ oens.almere.nl
 officeonline-acc.belastingdienst.nl
 officeonline-conf.belastingdienst.nl
 officeonline.belastingdienst.nl
+officiele-overheidspublicaties.nl
 oinregister.logius.nl
 oladc_85_prod_vs36.poort.belastingdienst.nl
 oladc_85_vs86.acc.toeslagen.nl
@@ -1233,7 +1236,10 @@ relatie-scheiding.almere.nl
 remote.aaenhunze.nl
 renvooiservice-eto.overheid.nl
 renvooiservice.overheid.nl
+repository-acc.officiele-overheidspublicaties.nl
+repository-eto.officiele-overheidspublicaties.nl
 repository-preprod.overheid.nl
+repository.officiele-overheidspublicaties.nl
 repository.overheid.nl
 resolver.int.omgevingswet.overheid.nl
 resolver.kta.omgevingswet.overheid.nl
