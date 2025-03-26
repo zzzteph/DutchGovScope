@@ -16,11 +16,13 @@ http://autodiscover.baarn.nl
 http://autodiscover.barneveld.nl
 http://autodiscover.bergendal.nl
 http://beekdaelen.nl
+http://bergeijk.nl
 http://dmb.amsterdam.nl
 http://docgen-acc.amsterdam.nl
 http://docgen-tst.amsterdam.nl
 http://docgen.amsterdam.nl
 http://felix.beekdaelen.nl
+http://felix.bergeijk.nl
 http://intranet-acc.bergendal.nl
 http://magazine.amersfoort.nl
 http://mail.amsterdam.nl
@@ -36,6 +38,7 @@ http://preproductie.gemeentebeek.nl
 http://redirector.alkmaar.nl
 http://simcms-preproductie.beekdaelen.nl
 http://simcms.aalten.nl
+http://simcms.bergeijk.nl
 http://subsites.amsterdam.nl
 http://test-intranet.gemeentebeek.nl
 http://test-topvorm.apeldoorn.nl
@@ -44,6 +47,7 @@ http://www.aalten.nl
 http://www.achtkarspelen.nl
 http://www.ameland.nl
 http://www.bba.amsterdam.nl
+http://www.bergeijk.nl
 http://www.binnenwaterbeheer.amsterdam.nl
 http://www.bolwerken.amsterdam.nl
 http://www.gemeentebeek.nl
@@ -596,6 +600,7 @@ https://iburgerzaken.assen.nl
 https://iburgerzaken.asten.nl
 https://iburgerzaken.baarle-nassau.nl
 https://iburgerzaken.beekdaelen.nl
+https://iburgerzaken.bergeijk.nl
 https://iburgerzaken.bergendal.nl
 https://iburgerzaken.gemeentebeek.nl
 https://id-beheer-erfpacht-acc.amsterdam.nl
@@ -645,6 +650,7 @@ https://intunecollector.amsterdam.nl
 https://iovi.amsterdam.nl
 https://jaarrekening.arnhem.nl
 https://jaarverslag.arnhem.nl
+https://jccapi.bergeijk.nl
 https://join.bijzondereprojecten.acc.amsterdam.nl
 https://jongerenraad.barneveld.nl
 https://jvvs.amsterdam.nl
@@ -874,6 +880,7 @@ https://preprod-mijn.albrandswaard.nl
 https://preprod-mijn.barendrecht.nl
 https://preprodbroker.aalten.nl
 https://preproductie.achtkarspelen.nl
+https://preproductie.bergeijk.nl
 https://prijsvraag-zwembad.apeldoorn.nl
 https://privacybewustzijn.bergendal.nl
 https://programmavan.bergendal.nl
