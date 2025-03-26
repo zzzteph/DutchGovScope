@@ -1,22 +1,22 @@
 www
 
 autodiscover
-mijn
 iburgerzaken
-edienstenburgerzaken
+mijn
 ibzpink
+edienstenburgerzaken
 edienstenburgerzaken-test
 intranet
-secure
 simcms
 afspraken
-loket
 mail
 probeer
+secure
 simsite
+loket
 meldingen
-data
 felix
+data
 opendata
 api.meldingen
 loket.acceptatie
@@ -25,6 +25,7 @@ mijnzorg
 test
 preproductie
 werkplek
+webmail
 werkenbij
 digikoppeling
 mijnzorg-acc
@@ -35,7 +36,6 @@ kaart
 feeds
 magazines
 formulier
-webmail
 enterpriseregistration
 portaal
 vpn
@@ -69,6 +69,7 @@ belastingbalie
 belastingen
 gemeenteraad
 snelbalie
+login
 berichten
 extranet
 waarmerk
@@ -77,6 +78,7 @@ atlas
 nieuwsbrief
 www.raad
 afspraak
+adfs
 _dmarc
 a-feeds
 a-magazines
@@ -156,7 +158,6 @@ enterpriseenrollment
 exchange
 gemeentearchief
 kinderburgemeester
-login
 rpl3
 snelbaliepp
 www.centrumbegroot
@@ -172,6 +173,7 @@ mks
 openzaak
 parkeren-acc
 top
+e-loket
 gbi
 gis
 mijngeldzaken
@@ -180,7 +182,6 @@ bastion365
 bgt
 test-digikoppeling
 klantcontact
-adfs
 byod
 a-cms
 a-cms1
@@ -2806,7 +2807,6 @@ dagbesteding
 desktop
 digitaleplannen
 diko
-e-loket
 energiepunt
 financials-acc
 fm
@@ -3168,3 +3168,13 @@ testberichten
 drupalintranet
 jccapi
 simcmsintra
+BGNVSV002
+aovpn
+bgnvsv002
+bgnvsv003
+binnenshuis
+cms-binnenshuis
+e-loketstaging
+test-binnenshuis
+testcms-binnenshuis
+zorg

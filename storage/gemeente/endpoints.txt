@@ -14,9 +14,11 @@ http://autodiscover.arnhem.nl
 http://autodiscover.asten.nl
 http://autodiscover.baarn.nl
 http://autodiscover.barneveld.nl
+http://autodiscover.bergen.nl
 http://autodiscover.bergendal.nl
 http://beekdaelen.nl
 http://bergeijk.nl
+http://bergen.nl
 http://dmb.amsterdam.nl
 http://docgen-acc.amsterdam.nl
 http://docgen-tst.amsterdam.nl
@@ -192,6 +194,7 @@ https://andreas2.amsterdam.nl
 https://andreas2.ont.amsterdam.nl
 https://andreas2.opl.amsterdam.nl
 https://andreas2.tst.amsterdam.nl
+https://aovpn.bergen.nl
 https://apeldoorn.nl
 https://apex.almere.nl
 https://api-meldingen.acc.almelo.nl
@@ -296,6 +299,7 @@ https://bi-sociaal.fa.amsterdam.nl
 https://bi-sociaal.fo.amsterdam.nl
 https://bi-sociaal.ft.amsterdam.nl
 https://bikecity.amsterdam.nl
+https://binnenshuis.bergen.nl
 https://bmidms.amsterdam.nl
 https://bomen.amsterdam.nl
 https://bounces-eps.amsterdam.nl
@@ -318,6 +322,7 @@ https://cardsonline.tst.intra.amsterdam.nl
 https://centrumbegroot.alphenaandenrijn.nl
 https://centrumbegroot.amsterdam.nl
 https://cimot.almelo.nl
+https://cms-binnenshuis.bergen.nl
 https://cmsintranet.gemeentebeek.nl
 https://cmsoo.assen.nl
 https://college.alblasserdam.nl
@@ -413,6 +418,8 @@ https://e-file-p-06.adds.amsterdam.nl
 https://e-file-p-07.adds.amsterdam.nl
 https://e-file-p-08.adds.amsterdam.nl
 https://e-loket.apeldoorn.nl
+https://e-loket.bergen.nl
+https://e-loketstaging.bergen.nl
 https://e.achtkarspelen.nl
 https://e.almelo.nl
 https://edienstenaanvragensd-acceptatie.albrandswaard.nl
@@ -601,6 +608,7 @@ https://iburgerzaken.asten.nl
 https://iburgerzaken.baarle-nassau.nl
 https://iburgerzaken.beekdaelen.nl
 https://iburgerzaken.bergeijk.nl
+https://iburgerzaken.bergen.nl
 https://iburgerzaken.bergendal.nl
 https://iburgerzaken.gemeentebeek.nl
 https://id-beheer-erfpacht-acc.amsterdam.nl
@@ -955,6 +963,7 @@ https://siam.ameland.nl
 https://simcms-open.gemeentebeek.nl
 https://simcms.achtkarspelen.nl
 https://simcms.ameland.nl
+https://simcms.bergen.nl
 https://simcms.bergendal.nl
 https://simform-preproductie.achtkarspelen.nl
 https://simsite.beekdaelen.nl
@@ -1016,6 +1025,7 @@ https://tamtam.amsterdam.nl
 https://taxiportaal-acc.amsterdam.nl
 https://taxiportaal.amsterdam.nl
 https://telecom.apeldoorn.nl
+https://test-binnenshuis.bergen.nl
 https://test-cmsintranet.gemeentebeek.nl
 https://test-e-loket.apeldoorn.nl
 https://test-formulier.assen.nl
@@ -1036,6 +1046,7 @@ https://test.formulieren.almere.nl
 https://test.io.amsterdam.nl
 https://test.mijnzorg.beekdaelen.nl
 https://testafspraken.alkmaar.nl
+https://testcms-binnenshuis.bergen.nl
 https://testdigitaalgemeenteloket.alphenaandenrijn.nl
 https://testeloket.arnhem.nl
 https://testeloket.asten.nl
@@ -1143,6 +1154,7 @@ https://www.baarn.nl
 https://www.barendrecht.nl
 https://www.barneveld.nl
 https://www.beesel.nl
+https://www.bergen.nl
 https://www.bikecity.amsterdam.nl
 https://www.buurtbudget.amsterdam.nl
 https://www.buurtbudgetnoord.amsterdam.nl
