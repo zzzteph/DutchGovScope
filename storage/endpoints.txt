@@ -43,6 +43,7 @@ https://acc-maps.almere.nl
 https://acc.formulieren.almere.nl
 https://achtkarspelen.nl
 https://adobe-analytics-dc.belastingdienst.nl
+https://adobe-analytics-dc.toeslagen.nl
 https://afspraken.alkmaar.nl
 https://afspraken.belastingdienst.nl
 https://agwp01.azweu.alkmaar.nl
@@ -100,8 +101,10 @@ https://download.belastingdienst.nl
 https://dva.belastingdienst.nl
 https://e-mailabonnementen.rijksoverheid.nl
 https://e-maildiensten.rijksoverheid.nl
+https://e.acc.videobellen.toeslagen.nl
 https://e.achtkarspelen.nl
 https://e.almelo.nl
+https://e.videobellen.toeslagen.nl
 https://edienstenaanvragensd-acceptatie.albrandswaard.nl
 https://edienstenaanvragensd.albrandswaard.nl
 https://edienstenburgerzaken-test.aalten.nl
@@ -134,6 +137,8 @@ https://enterpriseone.almere.nl
 https://enterpriseregistration.belastingdienst.nl
 https://eubtw.belastingdienst.nl
 https://f2b.belastingdienst.nl
+https://fed01.toeslagen.nl
+https://fed01.tst.toeslagen.nl
 https://feeds.english.igj.nl
 https://feeds.igj.nl
 https://feeds.nieuwsbrievenminocw.nl
@@ -145,6 +150,7 @@ https://felix.achtkarspelen.nl
 https://fibb1.belastingdienst.nl
 https://fibe1.belastingdienst.nl
 https://fibi1.belastingdienst.nl
+https://fibt1.toeslagen.nl
 https://fibz1.belastingdienst.nl
 https://filetransfer.belastingdienst.nl
 https://filetransfer.ont.belastingdienst.nl
@@ -174,7 +180,9 @@ https://groenengezond.almere.nl
 https://growinggreencities.almere.nl
 https://gtmb.belastingdienst.nl
 https://gtmd.belastingdienst.nl
+https://gtmt.toeslagen.nl
 https://gtmz.belastingdienst.nl
+https://herstel.toeslagen.nl
 https://hout.almere.nl
 https://huisstijl.belastingdienst.nl
 https://hybrid.almere.nl
@@ -229,6 +237,7 @@ https://mijn-acc.igj.nl
 https://mijn.alkmaar.nl
 https://mijn.belastingdienst.nl
 https://mijn.igj.nl
+https://mijn.toeslagen.nl
 https://mijnaanvraag.belastingdienst.nl
 https://mijndouane.belastingdienst.nl
 https://mijnict.almere.nl
@@ -304,6 +313,8 @@ https://rwn.belastingdienst.nl
 https://sa.belastingdienst.nl
 https://sadp.belastingdienst.nl
 https://sandbox.werkenvoornederland.nl
+https://schadeherstel.acc.toeslagen.nl
+https://schadeherstel.toeslagen.nl
 https://scheiden.belastingdienst.nl
 https://sdg.rijksoverheid.nl
 https://servicedesk.almelo.nl
@@ -341,9 +352,11 @@ https://testafspraken.alkmaar.nl
 https://testportaal.almelo.nl
 https://teverantwoordenregelingen.rijksoverheid.nl
 https://thuiswerken.almere.nl
+https://toeslagen.nl
 https://toestemming-acc.belastingdienst.nl
 https://toestemming-tst.belastingdienst.nl
 https://toestemming.belastingdienst.nl
+https://toestemming.toeslagen.nl
 https://toezichtdocumenten.igj.nl
 https://veiligdelen.alkmaar.nl
 https://veiligmailen.almelo.nl
@@ -371,7 +384,9 @@ https://webforms.belastingdienst.nl
 https://webmail.alkmaar.nl
 https://website.belastingdienst.nl
 https://werken.belastingdienst.nl
+https://werken.toeslagen.nl
 https://werkenbij.alkmaar.nl
+https://werkenbij.toeslagen.nl
 https://werkenvoornederland.nl
 https://werkplek.almere.nl
 https://wifiguestportal.almere.nl
@@ -395,6 +410,7 @@ https://www.nieuwsbrievenminocw.nl
 https://www.praatmee.alblasserdam.nl
 https://www.rcgog.nl
 https://www.rijksoverheid.nl
+https://www.toeslagen.nl
 https://www.werken.belastingdienst.nl
 https://www.werkenbij.alkmaar.nl
 https://www.werkenvoornederland.nl

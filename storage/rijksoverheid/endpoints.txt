@@ -20,6 +20,7 @@ http://webmail.werkenvoornederland.nl
 https://academie.acc.belastingdienst.nl
 https://academie.belastingdienst.nl
 https://adobe-analytics-dc.belastingdienst.nl
+https://adobe-analytics-dc.toeslagen.nl
 https://afspraken.belastingdienst.nl
 https://api-ota.belastingdienst.nl
 https://api.belastingdienst.nl
@@ -42,11 +43,15 @@ https://download.belastingdienst.nl
 https://dva.belastingdienst.nl
 https://e-mailabonnementen.rijksoverheid.nl
 https://e-maildiensten.rijksoverheid.nl
+https://e.acc.videobellen.toeslagen.nl
+https://e.videobellen.toeslagen.nl
 https://efm.belastingdienst.nl
 https://english.igj.nl
 https://enterpriseregistration.belastingdienst.nl
 https://eubtw.belastingdienst.nl
 https://f2b.belastingdienst.nl
+https://fed01.toeslagen.nl
+https://fed01.tst.toeslagen.nl
 https://feeds.english.igj.nl
 https://feeds.igj.nl
 https://feeds.nieuwsbrievenminocw.nl
@@ -56,6 +61,7 @@ https://feeds.rijksoverheid.nl
 https://fibb1.belastingdienst.nl
 https://fibe1.belastingdienst.nl
 https://fibi1.belastingdienst.nl
+https://fibt1.toeslagen.nl
 https://fibz1.belastingdienst.nl
 https://filetransfer.belastingdienst.nl
 https://filetransfer.ont.belastingdienst.nl
@@ -69,7 +75,9 @@ https://gegevensuitwisseling.belastingdienst.nl
 https://gpi.belastingdienst.nl
 https://gtmb.belastingdienst.nl
 https://gtmd.belastingdienst.nl
+https://gtmt.toeslagen.nl
 https://gtmz.belastingdienst.nl
+https://herstel.toeslagen.nl
 https://huisstijl.belastingdienst.nl
 https://igj.nl
 https://incassomachtigen.belastingdienst.nl
@@ -91,6 +99,7 @@ https://metelkaartrekkenwedegrens.nl
 https://mijn-acc.igj.nl
 https://mijn.belastingdienst.nl
 https://mijn.igj.nl
+https://mijn.toeslagen.nl
 https://mijnaanvraag.belastingdienst.nl
 https://mijndouane.belastingdienst.nl
 https://mijnzakelijk.belastingdienst.nl
@@ -127,6 +136,8 @@ https://rwn.belastingdienst.nl
 https://sa.belastingdienst.nl
 https://sadp.belastingdienst.nl
 https://sandbox.werkenvoornederland.nl
+https://schadeherstel.acc.toeslagen.nl
+https://schadeherstel.toeslagen.nl
 https://scheiden.belastingdienst.nl
 https://sdg.rijksoverheid.nl
 https://services.belastingdienst.nl
@@ -135,9 +146,11 @@ https://static.rijksoverheid.nl
 https://statistiek.rijksoverheid.nl
 https://stubs.tst.belastingdienst.nl
 https://teverantwoordenregelingen.rijksoverheid.nl
+https://toeslagen.nl
 https://toestemming-acc.belastingdienst.nl
 https://toestemming-tst.belastingdienst.nl
 https://toestemming.belastingdienst.nl
+https://toestemming.toeslagen.nl
 https://toezichtdocumenten.igj.nl
 https://veiling.belastingdienst.nl
 https://vepapi.vcdn.belastingdienst.nl
@@ -154,6 +167,8 @@ https://webdiensten.belastingdienst.nl
 https://webforms.belastingdienst.nl
 https://website.belastingdienst.nl
 https://werken.belastingdienst.nl
+https://werken.toeslagen.nl
+https://werkenbij.toeslagen.nl
 https://werkenvoornederland.nl
 https://woo-formulier.rijksoverheid.nl
 https://www-sandbox.werkenvoornederland.nl
@@ -164,6 +179,7 @@ https://www.metelkaartrekkenwedegrens.nl
 https://www.nieuwsbrievenminocw.nl
 https://www.rcgog.nl
 https://www.rijksoverheid.nl
+https://www.toeslagen.nl
 https://www.werken.belastingdienst.nl
 https://www.werkenvoornederland.nl
 https://wwwfcinetorg.belastingdienst.nl
