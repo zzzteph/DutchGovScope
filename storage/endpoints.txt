@@ -23,6 +23,7 @@ http://autodiscover.barneveld.nl
 http://autodiscover.bergen-nh.nl
 http://autodiscover.bergen.nl
 http://autodiscover.bergendal.nl
+http://autodiscover.bergenopzoom.nl
 http://beekdaelen.nl
 http://bergeijk.nl
 http://bergen.nl
@@ -205,6 +206,7 @@ https://acceptatie-vaarvergunningen.amsterdam.nl
 https://acceptatie.alphen-chaam.nl
 https://acceptatie.asten.nl
 https://acceptatie.baarle-nassau.nl
+https://accisdtalentcenter.bergenopzoom.nl
 https://achtkarspelen.nl
 https://activiteiten.amsterdam.nl
 https://adfs.beekdaelen.nl
@@ -307,6 +309,7 @@ https://api.meldingen.alphenaandenrijn.nl
 https://api.meldingen.amsterdam.nl
 https://api.meldingen.apeldoorn.nl
 https://api.meldingen.assen.nl
+https://api.meldingen.bergenopzoom.nl
 https://api.mijn.overheid.nl
 https://api.ondernemersplein.overheid.nl
 https://api.openstad.alphenaandenrijn.nl
@@ -518,6 +521,7 @@ https://data.alkmaar.nl
 https://data.amstelveen.nl
 https://data.amsterdam.nl
 https://data.bergendal.nl
+https://data.bergenopzoom.nl
 https://data.overheid.nl
 https://datalab.alkmaar.nl
 https://dataportaal.apeldoorn.nl
@@ -677,6 +681,7 @@ https://english.igj.nl
 https://enquete.almelo.nl
 https://enterpriseenrollment.alphenaandenrijn.nl
 https://enterpriseenrollment.ameland.nl
+https://enterpriseenrollment.bergenopzoom.nl
 https://enterpriseone-arc.almere.nl
 https://enterpriseone-dv.almere.nl
 https://enterpriseone-py.almere.nl
@@ -685,6 +690,7 @@ https://enterpriseregistration.alphenaandenrijn.nl
 https://enterpriseregistration.apeldoorn.nl
 https://enterpriseregistration.arnhem.nl
 https://enterpriseregistration.belastingdienst.nl
+https://enterpriseregistration.bergenopzoom.nl
 https://erfgoedregister.amsterdam.nl
 https://erfpacht-acc.amsterdam.nl
 https://erfpacht-codekwal-dev.amsterdam.nl
@@ -815,6 +821,7 @@ https://gtmz.belastingdienst.nl
 https://guido.asten.nl
 https://gzac.t.ssv.amsterdam.nl
 https://haal-centraal.api.data.amsterdam.nl
+https://helloid.bergenopzoom.nl
 https://helpdesk.ggd.amsterdam.nl
 https://herber-web-fa.amsterdam.nl
 https://herber-web.acc.amsterdam.nl
@@ -848,6 +855,7 @@ https://iburgerzaken.beekdaelen.nl
 https://iburgerzaken.bergeijk.nl
 https://iburgerzaken.bergen.nl
 https://iburgerzaken.bergendal.nl
+https://iburgerzaken.bergenopzoom.nl
 https://iburgerzaken.gemeentebeek.nl
 https://id-beheer-erfpacht-acc.amsterdam.nl
 https://id-beheer-erfpacht-dev.amsterdam.nl
@@ -861,6 +869,8 @@ https://id-erfpacht-tst.amsterdam.nl
 https://id-erfpacht.amsterdam.nl
 https://identifier-preprod.overheid.nl
 https://identifier.overheid.nl
+https://identity.bergenopzoom.nl
+https://identityota.bergenopzoom.nl
 https://idp.ggd.amsterdam.nl
 https://iedereenwerktmee.aisa.amsterdam.nl
 https://iedereenwerktmee.amsterdam.nl
@@ -917,6 +927,8 @@ https://intranetcms-acc.bergendal.nl
 https://intranetcms.bergendal.nl
 https://intunecollector.amsterdam.nl
 https://iovi.amsterdam.nl
+https://isdtalentcenter.bergenopzoom.nl
+https://izaaksuite.bergenopzoom.nl
 https://jaarrekening.arnhem.nl
 https://jaarverslag.arnhem.nl
 https://jccapi.bergeijk.nl
@@ -1021,6 +1033,7 @@ https://meldingen.amsterdam.nl
 https://meldingen.apeldoorn.nl
 https://meldingen.assen.nl
 https://meldingen.asten.nl
+https://meldingen.bergenopzoom.nl
 https://meldingenamsterdamsebos.amsterdam.nl
 https://meldingenweesp.amsterdam.nl
 https://metelkaartrekkenwedegrens.nl
@@ -1261,6 +1274,7 @@ https://portaal.notificaties.openzaak-acc.amsterdam.nl
 https://portaal.notificaties.openzaak-tst.amsterdam.nl
 https://portal.achtkarspelen.nl
 https://portal.barneveld.nl
+https://portal.bergenopzoom.nl
 https://portal.data.alkmaar.nl
 https://portal.ggd.amsterdam.nl
 https://pp1.toegang.overheid.nl
@@ -1415,6 +1429,7 @@ https://simcms.achtkarspelen.nl
 https://simcms.ameland.nl
 https://simcms.bergen.nl
 https://simcms.bergendal.nl
+https://simcms.bergenopzoom.nl
 https://simform-preproductie.achtkarspelen.nl
 https://simsite.beekdaelen.nl
 https://sip.ggd.amsterdam.nl
@@ -1422,7 +1437,9 @@ https://smap.almere.nl
 https://smoelennet.almelo.nl
 https://snelbalie.almere.nl
 https://snelbalie.apeldoorn.nl
+https://snelbalie.bergenopzoom.nl
 https://snelbaliepp.apeldoorn.nl
+https://snelbaliepp.bergenopzoom.nl
 https://snelbalietest.almere.nl
 https://snow-license.amsterdam.nl
 https://sociaaldomein.almere.nl
@@ -1614,6 +1631,7 @@ https://vinden.belastingdienst.nl
 https://volg.amsterdam.nl
 https://voorschool.almere.nl
 https://vpn.almere.nl
+https://vpn.bergenopzoom.nl
 https://vrm.acc.amsterdam.nl
 https://vts.belastingdienst.nl
 https://vtsd.belastingdienst.nl
