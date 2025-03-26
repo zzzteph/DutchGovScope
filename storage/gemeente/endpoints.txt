@@ -10,6 +10,7 @@ http://autodiscover.amersfoort.nl
 http://autodiscover.amstelveen.nl
 http://autodiscover.amsterdam.nl
 http://autodiscover.arnhem.nl
+http://autodiscover.asten.nl
 http://dmb.amsterdam.nl
 http://docgen-acc.amsterdam.nl
 http://docgen-tst.amsterdam.nl
@@ -23,6 +24,7 @@ http://mijnzorg.amstelveen.nl
 http://opendata.arnhem.nl
 http://panel.almere.nl
 http://parkeervergunningen.amsterdam.nl
+http://plannen.asten.nl
 http://redirector.alkmaar.nl
 http://simcms.aalten.nl
 http://subsites.amsterdam.nl
@@ -116,6 +118,7 @@ https://acc.vt.data.amsterdam.nl
 https://acc.wonen.zaken.amsterdam.nl
 https://acceptatie-vaarvergunningen.amsterdam.nl
 https://acceptatie.alphen-chaam.nl
+https://acceptatie.asten.nl
 https://achtkarspelen.nl
 https://activiteiten.amsterdam.nl
 https://admin.schoolwijzer.amsterdam.nl
@@ -219,6 +222,7 @@ https://arena.ami-tac.amsterdam.nl
 https://arena.ami-tst.amsterdam.nl
 https://arnhem.nl
 https://assen.nl
+https://asten.nl
 https://atijdschrijven.apeldoorn.nl
 https://atlas.amstelveen.nl
 https://atlas.apeldoorn.nl
@@ -228,7 +232,9 @@ https://autodiscover.almere.nl
 https://autodiscover.apeldoorn.nl
 https://autodiscover.ggd.amsterdam.nl
 https://awm.amsterdam.nl
+https://awmag.asten.nl
 https://bastion365.assen.nl
+https://bastion365.asten.nl
 https://bedrijfsafval.assen.nl
 https://beeldbank.amstelveen.nl
 https://begroten.centrumbegroot.alphenaandenrijn.nl
@@ -331,6 +337,8 @@ https://demirandabad.amsterdam.nl
 https://demo.onderwijssubsidies.amsterdam.nl
 https://denkmee.achtkarspelen.nl
 https://denkmee.amstelveen.nl
+https://deschop.acceptatie.asten.nl
+https://deschop.asten.nl
 https://devportal.api.amsterdam.nl
 https://dex.meldingen.alphenaandenrijn.nl
 https://digiform-fa.amsterdam.nl
@@ -402,6 +410,7 @@ https://edienstverlening.albrandswaard.nl
 https://elkk.amsterdam.nl
 https://eloket.almere.nl
 https://eloket.arnhem.nl
+https://eloket.asten.nl
 https://eloketstaging.almere.nl
 https://email.mail.denkmee.amstelveen.nl
 https://email.mail.participatie.aalsmeer.nl
@@ -504,6 +513,7 @@ https://gpg.apeldoorn.nl
 https://gpt.apeldoorn.nl
 https://groenengezond.almere.nl
 https://growinggreencities.almere.nl
+https://guido.asten.nl
 https://gzac.t.ssv.amsterdam.nl
 https://haal-centraal.api.data.amsterdam.nl
 https://helpdesk.ggd.amsterdam.nl
@@ -530,6 +540,7 @@ https://iburgerzaken.alphen-chaam.nl
 https://iburgerzaken.amersfoort.nl
 https://iburgerzaken.apeldoorn.nl
 https://iburgerzaken.assen.nl
+https://iburgerzaken.asten.nl
 https://id-beheer-erfpacht-acc.amsterdam.nl
 https://id-beheer-erfpacht-dev.amsterdam.nl
 https://id-beheer-erfpacht-ont.amsterdam.nl
@@ -630,6 +641,7 @@ https://meldingen.alphenaandenrijn.nl
 https://meldingen.amsterdam.nl
 https://meldingen.apeldoorn.nl
 https://meldingen.assen.nl
+https://meldingen.asten.nl
 https://meldingenamsterdamsebos.amsterdam.nl
 https://meldingenweesp.amsterdam.nl
 https://mfa-rooster.arnhem.nl
@@ -696,6 +708,7 @@ https://objecttype-beheer-erfpacht-ont.amsterdam.nl
 https://objecttype-beheer-erfpacht.amsterdam.nl
 https://objecttypen.assen.nl
 https://objecttypes-api.wonenportaal.amsterdam.nl
+https://obsurv.asten.nl
 https://octopus-portaal.amsterdam.nl
 https://octopus-webdav.acc.amsterdam.nl
 https://octopus-webdav.amsterdam.nl
@@ -789,9 +802,11 @@ https://qr.amersfoort.nl
 https://qr.arnhem.nl
 https://qr.digitaalgemeenteloket.alphenaandenrijn.nl
 https://qr.testdigitaalgemeenteloket.alphenaandenrijn.nl
+https://raad.acceptatie.asten.nl
 https://raad.alblasserdam.nl
 https://raad.albrandswaard.nl
 https://raad.arnhem.nl
+https://raad.asten.nl
 https://redactie.amersfoort.nl
 https://redactie.antwoord.amsterdam.nl
 https://regio.almere.nl
@@ -855,6 +870,7 @@ https://spa4d.amsterdam.nl
 https://spa4dweb.amsterdam.nl
 https://speleninoost.amsterdam.nl
 https://speleninzuid.amsterdam.nl
+https://spf-wind.asten.nl
 https://sportencultuur.almere.nl
 https://sportsupport.almere.nl
 https://sportverhuur.amsterdam.nl
@@ -915,6 +931,8 @@ https://test.io.amsterdam.nl
 https://testafspraken.alkmaar.nl
 https://testdigitaalgemeenteloket.alphenaandenrijn.nl
 https://testeloket.arnhem.nl
+https://testeloket.asten.nl
+https://testmeldingen.asten.nl
 https://testportaal.almelo.nl
 https://testsiam.ameland.nl
 https://thuiswerken.almere.nl
@@ -1003,6 +1021,7 @@ https://www.amsterdam.nl
 https://www.apeldoorn.nl
 https://www.arnhem.nl
 https://www.assen.nl
+https://www.asten.nl
 https://www.ateliers.amsterdam.nl
 https://www.bikecity.amsterdam.nl
 https://www.buurtbudget.amsterdam.nl
