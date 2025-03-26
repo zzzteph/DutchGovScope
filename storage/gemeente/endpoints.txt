@@ -11,6 +11,7 @@ http://autodiscover.amstelveen.nl
 http://autodiscover.amsterdam.nl
 http://autodiscover.arnhem.nl
 http://autodiscover.asten.nl
+http://autodiscover.baarn.nl
 http://dmb.amsterdam.nl
 http://docgen-acc.amsterdam.nl
 http://docgen-tst.amsterdam.nl
@@ -238,7 +239,9 @@ https://awmag.asten.nl
 https://bastion365.assen.nl
 https://bastion365.asten.nl
 https://bedrijfsafval.assen.nl
+https://beeldbank-bo.baarn.nl
 https://beeldbank.amstelveen.nl
+https://beeldbank.baarn.nl
 https://begroten.centrumbegroot.alphenaandenrijn.nl
 https://begroten.zwammerdamdorpskern.alphenaandenrijn.nl
 https://beheer.acc.amsterdam.nl
@@ -393,6 +396,7 @@ https://edienstenburgerzaken-test.alkmaar.nl
 https://edienstenburgerzaken-test.almere.nl
 https://edienstenburgerzaken-test.alphenaandenrijn.nl
 https://edienstenburgerzaken-test.arnhem.nl
+https://edienstenburgerzaken-test.baarn.nl
 https://edienstenburgerzaken.aalsmeer.nl
 https://edienstenburgerzaken.aalten.nl
 https://edienstenburgerzaken.alblasserdam.nl
@@ -402,6 +406,7 @@ https://edienstenburgerzaken.almere.nl
 https://edienstenburgerzaken.alphenaandenrijn.nl
 https://edienstenburgerzaken.amstelveen.nl
 https://edienstenburgerzaken.arnhem.nl
+https://edienstenburgerzaken.baarn.nl
 https://edienstenburgerzaken.test.aalsmeer.nl
 https://edienstenburgerzaken.test.amstelveen.nl
 https://edienstenmijninkomen-acceptatie.albrandswaard.nl
@@ -465,6 +470,7 @@ https://fblocatielijst.amsterdam.nl
 https://fbtools.amsterdam.nl
 https://felix.aalten.nl
 https://felix.achtkarspelen.nl
+https://felix.baarn.nl
 https://fgt.amstelveen.nl
 https://fileshare.adds.amsterdam.nl
 https://fileshare.amsterdam.nl
@@ -601,6 +607,7 @@ https://kim3.amsterdam.nl
 https://kinderburgemeester.alphenaandenrijn.nl
 https://kinderburgemeester.apeldoorn.nl
 https://klachten.amsterdam.nl
+https://klantcontact.baarn.nl
 https://koppelpoort.amersfoort.nl
 https://krefia.amsterdam.nl
 https://leeromgeving-mijnleno-a.amsterdam.nl
@@ -634,6 +641,7 @@ https://maps.almere.nl
 https://maps.amsterdam.nl
 https://matenpark.apeldoorn.nl
 https://meedenken.arnhem.nl
+https://meedoen.baarn.nl
 https://meet.ggd.amsterdam.nl
 https://meldingen-acc.aaenhunze.nl
 https://meldingen-acc.apeldoorn.nl
@@ -659,6 +667,7 @@ https://mijn.amersfoort.nl
 https://mijn.amsterdam.nl
 https://mijn.arnhem.nl
 https://mijn.assen.nl
+https://mijn.baarn.nl
 https://mijnbelastingen.amsterdam.nl
 https://mijnerfpacht.amsterdam.nl
 https://mijngeldzaken.apeldoorn.nl
@@ -1030,6 +1039,7 @@ https://www.assen.nl
 https://www.asten.nl
 https://www.ateliers.amsterdam.nl
 https://www.baarle-nassau.nl
+https://www.baarn.nl
 https://www.bikecity.amsterdam.nl
 https://www.buurtbudget.amsterdam.nl
 https://www.buurtbudgetnoord.amsterdam.nl
@@ -1053,6 +1063,7 @@ https://www.onderwijssubsidies.amsterdam.nl
 https://www.onderzoek.amsterdam.nl
 https://www.oostbegroot.amsterdam.nl
 https://www.praatmee.alblasserdam.nl
+https://www.preprod-woz-portaal-eemnes.baarn.nl
 https://www.prijsvraag-zwembad.apeldoorn.nl
 https://www.raad.arnhem.nl
 https://www.rekenkamer.amsterdam.nl
@@ -1069,11 +1080,14 @@ https://www.vvetest.amsterdam.nl
 https://www.weespbegroot.amsterdam.nl
 https://www.werkenbij.alkmaar.nl
 https://www.westbegroot.amsterdam.nl
+https://www.woz-portaal-eemnes.baarn.nl
+https://www.woz-portaal.baarn.nl
 https://www.zwammerdamdorpskern.alphenaandenrijn.nl
 https://yutpaworkshop.dev.rnd.amsterdam.nl
 https://yutpaworkshop.rnd.amsterdam.nl
 https://zaakloket.ameland.nl
 https://zaaksysteem-accept.alkmaar.nl
+https://zaaksysteem-accept.baarn.nl
 https://zaken.alblasserdam.nl
 https://zaken.amersfoort.nl
 https://zec.acc.amsterdam.nl

@@ -351,6 +351,7 @@ autodiscover.amsterdam.nl
 autodiscover.apeldoorn.nl
 autodiscover.arnhem.nl
 autodiscover.asten.nl
+autodiscover.baarn.nl
 autodiscover.ggd.amsterdam.nl
 autodiscover.iba.amsterdam.nl
 autodiscover.noord.amsterdam.nl
@@ -363,6 +364,7 @@ avproxy.vga.amsterdam.nl
 awm.acc.amsterdam.nl
 awm.amsterdam.nl
 awmag.asten.nl
+baarn.nl
 bag.assen.nl
 basisstatistiek.amsterdam.nl
 bastion365.assen.nl
@@ -374,7 +376,9 @@ bda-mis-01.amsterdam.nl
 bda-sql-02.bda.amsterdam.nl
 bda.amsterdam.nl
 bedrijfsafval.assen.nl
+beeldbank-bo.baarn.nl
 beeldbank.amstelveen.nl
+beeldbank.baarn.nl
 begroten.centrumbegroot.alphenaandenrijn.nl
 begroten.zwammerdamdorpskern.alphenaandenrijn.nl
 beheer.acc.amsterdam.nl
@@ -406,11 +410,13 @@ bermod-fa.amsterdam.nl
 bermod.amsterdam.nl
 bermod2.amsterdam.nl
 bestandversturen.amersfoort.nl
+bestemmingsplannen.baarn.nl
 betalen.amsterdam.nl
 betalingen.amsterdam.nl
 bewegen.apeldoorn.nl
 bewustwording.amersfoort.nl
 bgt.assen.nl
+bgt.baarn.nl
 bhg.bba.amsterdam.nl
 bhgtest.bba.amsterdam.nl
 bi-sociaal.acc.amsterdam.nl
@@ -460,6 +466,8 @@ centrumbegroot.alphenaandenrijn.nl
 centrumbegroot.amsterdam.nl
 cimot.almelo.nl
 cios.acam.amsterdam.nl
+cloudadapter-test.baarn.nl
+cloudadapter.baarn.nl
 cms.alphenaandenrijn.nl
 cmsoo.assen.nl
 college.alblasserdam.nl
@@ -549,9 +557,11 @@ digikoppeling-mks-test.assen.nl
 digikoppeling-mks.assen.nl
 digikoppeling-prod.alphenaandenrijn.nl
 digikoppeling-test.alphenaandenrijn.nl
+digikoppeling-test.baarn.nl
 digikoppeling.aaenhunze.nl
 digikoppeling.amstelveen.nl
 digikoppeling.arnhem.nl
+digikoppeling.baarn.nl
 digikoppeling.test.amstelveen.nl
 digikoppelingtst.arnhem.nl
 digimedia.alkmaar.nl
@@ -637,6 +647,7 @@ edienstenburgerzaken-test.alkmaar.nl
 edienstenburgerzaken-test.almere.nl
 edienstenburgerzaken-test.alphenaandenrijn.nl
 edienstenburgerzaken-test.arnhem.nl
+edienstenburgerzaken-test.baarn.nl
 edienstenburgerzaken.aalsmeer.nl
 edienstenburgerzaken.aalten.nl
 edienstenburgerzaken.alblasserdam.nl
@@ -646,6 +657,7 @@ edienstenburgerzaken.almere.nl
 edienstenburgerzaken.alphenaandenrijn.nl
 edienstenburgerzaken.amstelveen.nl
 edienstenburgerzaken.arnhem.nl
+edienstenburgerzaken.baarn.nl
 edienstenburgerzaken.test.aalsmeer.nl
 edienstenburgerzaken.test.amstelveen.nl
 edienstenmijninkomen-acceptatie.albrandswaard.nl
@@ -721,12 +733,14 @@ exchange.assen.nl
 exchange2.alphenaandenrijn.nl
 extern.oa.amsterdam.nl
 extranet.alphen-chaam.nl
+extranet.baarn.nl
 extranet.vga.amsterdam.nl
 extranettest.vga.amsterdam.nl
 fblocatielijst.amsterdam.nl
 fbtools.amsterdam.nl
 felix.aalten.nl
 felix.achtkarspelen.nl
+felix.baarn.nl
 fgt.amstelveen.nl
 fibu.amsterdam.nl
 fibu.dwiweb.amsterdam.nl
@@ -817,6 +831,8 @@ geodata.almelo.nl
 geohr.assen.nl
 geoprdb.stadstoezicht.amsterdam.nl
 geoserver-signalen.almere.nl
+geoserver-test.baarn.nl
+geoserver.baarn.nl
 geotest.arnhem.nl
 geovisia.achtkarspelen.nl
 geovisia.amersfoort.nl
@@ -962,6 +978,7 @@ intranet.albrandswaard.nl
 intranet.amsterdam.nl
 intranet.apeldoorn.nl
 intranet.assen.nl
+intranet.baarn.nl
 intranet.digi-mlv.os.amsterdam.nl
 intranet.docwonen.amsterdam.nl
 intranet.geuzenveld.amsterdam.nl
@@ -1005,6 +1022,7 @@ kimgoa.amsterdam.nl
 kinderburgemeester.alphenaandenrijn.nl
 kinderburgemeester.apeldoorn.nl
 klachten.amsterdam.nl
+klantcontact.baarn.nl
 koppelpoort.amersfoort.nl
 krefia-acceptatie.amsterdam.nl
 krefia.amsterdam.nl
@@ -1096,6 +1114,7 @@ me-api.amsterdam.nl
 medeleven.apeldoorn.nl
 media.assen.nl
 meedenken.arnhem.nl
+meedoen.baarn.nl
 meent.alkmaar.nl
 meet.acc.amsterdam.nl
 meet.assen.nl
@@ -1132,6 +1151,7 @@ mijn.amersfoort.nl
 mijn.amsterdam.nl
 mijn.arnhem.nl
 mijn.assen.nl
+mijn.baarn.nl
 mijn.data.amsterdam.nl
 mijnbelastingen.amsterdam.nl
 mijnerfpacht.acc.amsterdam.nl
@@ -1190,6 +1210,8 @@ nedbrw.apeldoorn.nl
 nedbrwacc.apeldoorn.nl
 netbox.alkmaar.nl
 netwerkstad.almelo.nl
+neuron.prod.baarn.nl
+neuron.test.baarn.nl
 nexus.datapunt.amsterdam.nl
 nha-acc.amsterdam.nl
 nha-tst.amsterdam.nl
@@ -1382,6 +1404,7 @@ prd.afs.amsterdam.nl
 preprod-mijn.albrandswaard.nl
 preprod-mijngeldzaken.arnhem.nl
 preprod-mijninkomen.almere.nl
+preprod-woz-portaal-eemnes.baarn.nl
 preprod.alphenaandenrijn.nl
 preprodbroker.aalten.nl
 preproductie.aalten.nl
@@ -1390,6 +1413,7 @@ prijsvraag-zwembad.apeldoorn.nl
 probeer.aalten.nl
 probeer.achtkarspelen.nl
 probeer.albrandswaard.nl
+probeer.baarn.nl
 projectarchief-vor.amsterdam.nl
 protectus.ggd.amsterdam.nl
 proto.apeldoorn.nl
@@ -1513,12 +1537,14 @@ simcms.aalten.nl
 simcms.achtkarspelen.nl
 simcms.albrandswaard.nl
 simcms.ameland.nl
+simcms.baarn.nl
 simform-preproductie.achtkarspelen.nl
 simform.achtkarspelen.nl
 simsite.aalten.nl
 simsite.albrandswaard.nl
 simsite.alphen-chaam.nl
 simsite.baarle-nassau.nl
+simsite.baarn.nl
 sip.assen.nl
 sip.ggd.amsterdam.nl
 sip.oa.amsterdam.nl
@@ -1802,6 +1828,7 @@ woningdossier.assen.nl
 woo.arnhem.nl
 wooninstrumenten.almelo.nl
 workspace365.almelo.nl
+woz-portaal-eemnes.baarn.nl
 woz.amsterdam.nl
 wpdagast1.assen.nl
 wpdagast2.assen.nl
@@ -1836,6 +1863,7 @@ www.asten.nl
 www.ateliers.amsterdam.nl
 www.atlas.amsterdam.nl
 www.baarle-nassau.nl
+www.baarn.nl
 www.baarsjes.amsterdam.nl
 www.bba.amsterdam.nl
 www.bereikbaar.amsterdam.nl
@@ -1911,6 +1939,7 @@ www.pao.amsterdam.nl
 www.participatielab.amsterdam.nl
 www.pmb.amsterdam.nl
 www.praatmee.alblasserdam.nl
+www.preprod-woz-portaal-eemnes.baarn.nl
 www.prijsvraag-zwembad.apeldoorn.nl
 www.proeftuin.amsterdam.nl
 www.raad.amsterdam.nl
@@ -1945,15 +1974,19 @@ www.werkenbij.alkmaar.nl
 www.werkenbij.amsterdam.nl
 www.westbegroot.amsterdam.nl
 www.wijkaanpak.amsterdam.nl
+www.woz-portaal-eemnes.baarn.nl
+www.woz-portaal.baarn.nl
 www.zwammerdamdorpskern.alphenaandenrijn.nl
 www2.arnhem.nl
 wzs.amsterdam.nl
 wzs.brievenbus.amsterdam.nl
 xerox.brievenbus.amsterdam.nl
+youpp.baarn.nl
 yutpaworkshop.dev.rnd.amsterdam.nl
 yutpaworkshop.rnd.amsterdam.nl
 zaakloket.ameland.nl
 zaaksysteem-accept.alkmaar.nl
+zaaksysteem-accept.baarn.nl
 zaken.alblasserdam.nl
 zaken.amersfoort.nl
 zaken.amsterdam.nl
