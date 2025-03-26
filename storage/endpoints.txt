@@ -70,6 +70,7 @@ http://tuchtrecht-service.overheid.nl
 http://webmail.werkenvoornederland.nl
 http://www.aalten.nl
 http://www.achtkarspelen.nl
+http://www.ameland.nl
 http://www.vroonermeer-noord.alkmaar.nl
 http://zoek.overheid.nl
 http://zoekdienst-preprod.overheid.nl
@@ -113,6 +114,7 @@ https://almeregeeftenergie.almere.nl
 https://almerekracht.almere.nl
 https://almerepoort.almere.nl
 https://alphen-chaam.nl
+https://ameland.nl
 https://apex.almere.nl
 https://api-meldingen.acc.almelo.nl
 https://api-meldingen.almelo.nl
@@ -296,6 +298,7 @@ https://english.almere.nl
 https://english.igj.nl
 https://enquete.almelo.nl
 https://enterpriseenrollment.alphenaandenrijn.nl
+https://enterpriseenrollment.ameland.nl
 https://enterpriseone-arc.almere.nl
 https://enterpriseone-dv.almere.nl
 https://enterpriseone-py.almere.nl
@@ -474,6 +477,8 @@ https://mnd-preprd.overheid.nl
 https://mnd.overheid.nl
 https://monitoring-test5.koop.overheid.nl
 https://monitoring-test6.koop.overheid.nl
+https://mozard.ameland.nl
+https://mozardtest.ameland.nl
 https://msm.almelo.nl
 https://mta-sts.belastingdienst.nl
 https://mul-mbc.belastingdienst.nl
@@ -651,7 +656,9 @@ https://service.pre.omgevingswet.overheid.nl
 https://service.tst2905.omgevingswet.overheid.nl
 https://servicedesk.almelo.nl
 https://services.belastingdienst.nl
+https://siam.ameland.nl
 https://simcms.achtkarspelen.nl
+https://simcms.ameland.nl
 https://simform-preproductie.achtkarspelen.nl
 https://smap.almere.nl
 https://smoelennet.almelo.nl
@@ -724,10 +731,12 @@ https://test-dictu.logius.nl
 https://test-internationaal.ondernemen.overheid.nl
 https://test-subsidiebeheer.alkmaar.nl
 https://test-subsidieloket.alkmaar.nl
+https://test-zaakloket.ameland.nl
 https://test.formulieren.almere.nl
 https://testafspraken.alkmaar.nl
 https://testdigitaalgemeenteloket.alphenaandenrijn.nl
 https://testportaal.almelo.nl
+https://testsiam.ameland.nl
 https://teverantwoordenregelingen.rijksoverheid.nl
 https://thuiswerken.almere.nl
 https://toepasbare-regels.omgevingswet.overheid.nl
@@ -779,6 +788,7 @@ https://website.belastingdienst.nl
 https://werken.belastingdienst.nl
 https://werken.toeslagen.nl
 https://werkenbij.alkmaar.nl
+https://werkenbij.ameland.nl
 https://werkenbij.toeslagen.nl
 https://werkenvoornederland.nl
 https://werkplek.almere.nl
@@ -845,6 +855,7 @@ https://www.werkenvoornederland.nl
 https://www.zwammerdamdorpskern.alphenaandenrijn.nl
 https://wwwfcinetorg.belastingdienst.nl
 https://wwwrijksacademienl.belastingdienst.nl
+https://zaakloket.ameland.nl
 https://zaaksysteem-accept.alkmaar.nl
 https://zaken.alblasserdam.nl
 https://zoekdienst.overheid.nl

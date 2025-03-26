@@ -5,6 +5,7 @@ mijn
 edienstenburgerzaken
 edienstenburgerzaken-test
 loket
+secure
 feeds
 opendata
 vpn
@@ -12,16 +13,16 @@ iburgerzaken
 ibzpink
 loket.acceptatie
 meldingen
-secure
+simcms
 magazines
 portaal
+werkenbij
 data
 e
 kennisbank
 api.meldingen
 mail
 probeer
-simcms
 simsite
 ruimtelijkeplannen
 _dmarc
@@ -50,7 +51,6 @@ toestemming
 webapps
 website
 werken
-werkenbij
 ondernemersplein
 repository
 mailing
@@ -77,6 +77,7 @@ mijninkomen
 belastingen
 kaart
 snelbalie
+enterpriseenrollment
 a-cms
 a-cms1
 a-cms2
@@ -1621,7 +1622,6 @@ dkd-prod
 dkd-test
 duurzaam
 email.samenveiligwerken
-enterpriseenrollment
 exchange
 exchange2
 gemeentearchief
@@ -1656,3 +1656,9 @@ berichten
 digitaalnachtregister
 extranet
 waarmerk
+mozard
+mozardtest
+siam
+test-zaakloket
+testsiam
+zaakloket

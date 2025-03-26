@@ -13,6 +13,7 @@ http://redirector.alkmaar.nl
 http://simcms.aalten.nl
 http://www.aalten.nl
 http://www.achtkarspelen.nl
+http://www.ameland.nl
 http://www.vroonermeer-noord.alkmaar.nl
 https://3d.almere.nl
 https://aaenhunze.nl
@@ -39,6 +40,7 @@ https://almeregeeftenergie.almere.nl
 https://almerekracht.almere.nl
 https://almerepoort.almere.nl
 https://alphen-chaam.nl
+https://ameland.nl
 https://apex.almere.nl
 https://api-meldingen.acc.almelo.nl
 https://api-meldingen.almelo.nl
@@ -101,6 +103,7 @@ https://email.samenveiligwerken.alphenaandenrijn.nl
 https://english.almere.nl
 https://enquete.almelo.nl
 https://enterpriseenrollment.alphenaandenrijn.nl
+https://enterpriseenrollment.ameland.nl
 https://enterpriseone-arc.almere.nl
 https://enterpriseone-dv.almere.nl
 https://enterpriseone-py.almere.nl
@@ -172,6 +175,8 @@ https://mijninkomen.almere.nl
 https://mijnoverzicht.alphenaandenrijn.nl
 https://mijnzorg-acc.alkmaar.nl
 https://mijnzorg.alkmaar.nl
+https://mozard.ameland.nl
+https://mozardtest.ameland.nl
 https://msm.almelo.nl
 https://netbox.alkmaar.nl
 https://oauth.openstad.alphenaandenrijn.nl
@@ -213,7 +218,9 @@ https://ruimtelijkeplannen.achtkarspelen.nl
 https://ruimtelijkeplannen.alkmaar.nl
 https://samenveiligwerken.alphenaandenrijn.nl
 https://servicedesk.almelo.nl
+https://siam.ameland.nl
 https://simcms.achtkarspelen.nl
+https://simcms.ameland.nl
 https://simform-preproductie.achtkarspelen.nl
 https://smap.almere.nl
 https://smoelennet.almelo.nl
@@ -237,10 +244,12 @@ https://talentcenter.almere.nl
 https://talentcenter2.almere.nl
 https://test-subsidiebeheer.alkmaar.nl
 https://test-subsidieloket.alkmaar.nl
+https://test-zaakloket.ameland.nl
 https://test.formulieren.almere.nl
 https://testafspraken.alkmaar.nl
 https://testdigitaalgemeenteloket.alphenaandenrijn.nl
 https://testportaal.almelo.nl
+https://testsiam.ameland.nl
 https://thuiswerken.almere.nl
 https://uwdorpofwijk.alphenaandenrijn.nl
 https://veiligdelen.alkmaar.nl
@@ -257,6 +266,7 @@ https://web.alblasserdam.nl
 https://webmail.alkmaar.nl
 https://website.alphen-chaam.nl
 https://werkenbij.alkmaar.nl
+https://werkenbij.ameland.nl
 https://werkplek.almere.nl
 https://wifiguestportal.almere.nl
 https://wijkteams.almere.nl
@@ -278,6 +288,7 @@ https://www.praatmee.alblasserdam.nl
 https://www.uwdorpofwijk.alphenaandenrijn.nl
 https://www.werkenbij.alkmaar.nl
 https://www.zwammerdamdorpskern.alphenaandenrijn.nl
+https://zaakloket.ameland.nl
 https://zaaksysteem-accept.alkmaar.nl
 https://zaken.alblasserdam.nl
 https://zwammerdamdorpskern.alphenaandenrijn.nl

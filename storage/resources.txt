@@ -122,6 +122,7 @@ almeregeeftenergie.almere.nl
 almerekracht.almere.nl
 almerepoort.almere.nl
 alphen-chaam.nl
+ameland.nl
 amlc.acc.belastingdienst.nl
 amlc.ont.belastingdienst.nl
 amlceu.acc.belastingdienst.nl
@@ -550,6 +551,7 @@ english.almere.nl
 english.igj.nl
 enquete.almelo.nl
 enterpriseenrollment.alphenaandenrijn.nl
+enterpriseenrollment.ameland.nl
 enterpriseone-arc.almere.nl
 enterpriseone-dv.almere.nl
 enterpriseone-py.almere.nl
@@ -1027,6 +1029,8 @@ monitoring-test6.koop.overheid.nl
 moodle.vcdn.belastingdienst.nl
 moodleont.vcdn.belastingdienst.nl
 moodletst.vcdn.belastingdienst.nl
+mozard.ameland.nl
+mozardtest.ameland.nl
 msm.almelo.nl
 msp-a.logius.nl
 mta-sts.belastingdienst.nl
@@ -1348,6 +1352,7 @@ secure.aalten.nl
 secure.achtkarspelen.nl
 secure.albrandswaard.nl
 secure.alphen-chaam.nl
+secure.ameland.nl
 sepm.belastingdienst.nl
 service.acc.omgevingswet.overheid.nl
 service.bta.omgevingswet.overheid.nl
@@ -1379,11 +1384,13 @@ sharepoint-ext-conf.belastingdienst.nl
 sharepoint-ext.belastingdienst.nl
 sharepoint.belastingdienst.nl
 sharepoint.toeslagen.nl
+siam.ameland.nl
 sign1-acc.toeslagen.nl
 sign1.toeslagen.nl
 simcms.aalten.nl
 simcms.achtkarspelen.nl
 simcms.albrandswaard.nl
+simcms.ameland.nl
 simform-preproductie.achtkarspelen.nl
 simform.achtkarspelen.nl
 simsite.aalten.nl
@@ -1561,6 +1568,7 @@ test-mijnoverzicht.alphenaandenrijn.nl
 test-psproxy.belastingdienst.nl
 test-subsidiebeheer.alkmaar.nl
 test-subsidieloket.alkmaar.nl
+test-zaakloket.ameland.nl
 test.aalsmeer.nl
 test.achtkarspelen.nl
 test.formulieren.almere.nl
@@ -1572,6 +1580,7 @@ testdigitaalvergaderen.belastingdienst.nl
 testdigitaalvergaderen.ont.belastingdienst.nl
 testkaart.alphenaandenrijn.nl
 testportaal.almelo.nl
+testsiam.ameland.nl
 teverantwoordenregelingen.rijksoverheid.nl
 thuiswerken.almere.nl
 tmd.acc.belastingdienst.nl
@@ -1725,6 +1734,7 @@ welbotest.alphenaandenrijn.nl
 werken.belastingdienst.nl
 werken.toeslagen.nl
 werkenbij.alkmaar.nl
+werkenbij.ameland.nl
 werkenbij.toeslagen.nl
 werkenvoornederland.nl
 werkplek.alkmaar.nl
@@ -1770,6 +1780,7 @@ www.almelo.nl
 www.almere.nl
 www.alphen-chaam.nl
 www.alphenaandenrijn.nl
+www.ameland.nl
 www.asl.omgevingswet.overheid.nl
 www.belastingdienst.nl
 www.brandweer.almelo.nl
@@ -1813,6 +1824,7 @@ www8.toeslagen.nl
 wwwfcinetorg.belastingdienst.nl
 wwwrijksacademienl.belastingdienst.nl
 xml.belastingdienst.nl
+zaakloket.ameland.nl
 zaaksysteem-accept.alkmaar.nl
 zaken.alblasserdam.nl
 zdpushservice.overheid.nl
