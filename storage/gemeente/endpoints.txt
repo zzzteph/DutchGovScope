@@ -13,10 +13,12 @@ http://autodiscover.arnhem.nl
 http://autodiscover.asten.nl
 http://autodiscover.baarn.nl
 http://autodiscover.barneveld.nl
+http://beekdaelen.nl
 http://dmb.amsterdam.nl
 http://docgen-acc.amsterdam.nl
 http://docgen-tst.amsterdam.nl
 http://docgen.amsterdam.nl
+http://felix.beekdaelen.nl
 http://magazine.amersfoort.nl
 http://mail.amsterdam.nl
 http://mijnsbl-test.amsterdam.nl
@@ -29,6 +31,7 @@ http://parkeervergunningen.amsterdam.nl
 http://plannen.asten.nl
 http://preproductie.gemeentebeek.nl
 http://redirector.alkmaar.nl
+http://simcms-preproductie.beekdaelen.nl
 http://simcms.aalten.nl
 http://subsites.amsterdam.nl
 http://test-intranet.gemeentebeek.nl
@@ -127,6 +130,7 @@ https://acceptatie.asten.nl
 https://acceptatie.baarle-nassau.nl
 https://achtkarspelen.nl
 https://activiteiten.amsterdam.nl
+https://adfs.beekdaelen.nl
 https://admin.schoolwijzer.amsterdam.nl
 https://adus.amsterdam.nl
 https://afs.acc.amsterdam.nl
@@ -140,6 +144,7 @@ https://afspraken.amersfoort.nl
 https://afspraken.apeldoorn.nl
 https://afspraken.assen.nl
 https://afspraken.baarle-nassau.nl
+https://afspraken.beekdaelen.nl
 https://afval.assen.nl
 https://afvalkalender.alphenaandenrijn.nl
 https://agbi.apeldoorn.nl
@@ -499,6 +504,7 @@ https://financien.arnhem.nl
 https://flevoparkbad.amsterdam.nl
 https://floriade.almere.nl
 https://flowmailer-tracking.almelo.nl
+https://fmreturn.beekdaelen.nl
 https://focus-fa.amsterdam.nl
 https://focus-ft.amsterdam.nl
 https://focus.acc.amsterdam.nl
@@ -572,6 +578,7 @@ https://iburgerzaken.apeldoorn.nl
 https://iburgerzaken.assen.nl
 https://iburgerzaken.asten.nl
 https://iburgerzaken.baarle-nassau.nl
+https://iburgerzaken.beekdaelen.nl
 https://iburgerzaken.gemeentebeek.nl
 https://id-beheer-erfpacht-acc.amsterdam.nl
 https://id-beheer-erfpacht-dev.amsterdam.nl
@@ -715,6 +722,7 @@ https://mijnzorg-acc.amstelveen.nl
 https://mijnzorg-acc.barneveld.nl
 https://mijnzorg.alkmaar.nl
 https://mijnzorg.barneveld.nl
+https://mijnzorg.beekdaelen.nl
 https://mks.acc.amsterdam.nl
 https://mks.amsterdam.nl
 https://mks.preprod.amsterdam.nl
@@ -814,6 +822,7 @@ https://passwordreset.almere.nl
 https://patternlab.barneveld.nl
 https://pb-yutpa.rnd.amsterdam.nl
 https://pdc.alkmaar.nl
+https://personeelsplanning.beekdaelen.nl
 https://pilot-digitaleplannen.apeldoorn.nl
 https://pingping.amsterdam.nl
 https://planningsmanagement.amsterdam.nl
@@ -880,6 +889,7 @@ https://saaedepot-3.amsterdam.nl
 https://saaedepot-3.tst.amsterdam.nl
 https://saaedepot-storage.amsterdam.nl
 https://saaedepot-storage.tst.amsterdam.nl
+https://samen.beekdaelen.nl
 https://samenveiligwerken.alphenaandenrijn.nl
 https://scan.afs.acc.amsterdam.nl
 https://scan.afs.amsterdam.nl
@@ -909,6 +919,7 @@ https://simcms-open.gemeentebeek.nl
 https://simcms.achtkarspelen.nl
 https://simcms.ameland.nl
 https://simform-preproductie.achtkarspelen.nl
+https://simsite.beekdaelen.nl
 https://sip.ggd.amsterdam.nl
 https://smap.almere.nl
 https://smoelennet.almelo.nl
@@ -985,6 +996,7 @@ https://test.app.amsterdam.nl
 https://test.bp.data.amsterdam.nl
 https://test.formulieren.almere.nl
 https://test.io.amsterdam.nl
+https://test.mijnzorg.beekdaelen.nl
 https://testafspraken.alkmaar.nl
 https://testdigitaalgemeenteloket.alphenaandenrijn.nl
 https://testeloket.arnhem.nl
