@@ -167,6 +167,7 @@ acceptatie.aalsmeer.nl
 acceptatie.alphen-chaam.nl
 acceptatie.amstelveen.nl
 acceptatie.asten.nl
+acceptatie.baarle-nassau.nl
 access.oa.amsterdam.nl
 achtkarspelen.nl
 activesync.amersfoort.nl
@@ -193,6 +194,7 @@ afspraken.amersfoort.nl
 afspraken.apeldoorn.nl
 afspraken.assen.nl
 afspraken.asten.nl
+afspraken.baarle-nassau.nl
 afval.assen.nl
 afvalkalender.alphenaandenrijn.nl
 agbi.apeldoorn.nl
@@ -396,6 +398,7 @@ belastingportaal.acc.assen.nl
 belastingportaal.assen.nl
 bereikbaarheid.amsterdam.nl
 berichten.alphen-chaam.nl
+berichten.baarle-nassau.nl
 berichtenverkeer.authenticatie.alkmaar.nl
 berichtverkeer.acc.amsterdam.nl
 berichtverkeer.amsterdam.nl
@@ -557,6 +560,7 @@ digipost.amsterdam.nl
 digitaalerfgoed.almere.nl
 digitaalgemeenteloket.alphenaandenrijn.nl
 digitaalnachtregister.alphen-chaam.nl
+digitaalnachtregister.baarle-nassau.nl
 digitaleplannen.apeldoorn.nl
 digitaletweeling.alkmaar.nl
 diko.apeldoorn.nl
@@ -798,6 +802,7 @@ gbstadswerk.alkmaar.nl
 gebiedinbeeld.amsterdam.nl
 gebouwdin.amsterdam.nl
 gemeente.amsterdam.nl
+gemeente.baarle-nassau.nl
 gemeentearchief.alphenaandenrijn.nl
 gemeenteblad.almere.nl
 gemeenteraad.almere.nl
@@ -901,6 +906,7 @@ iburgerzaken.amersfoort.nl
 iburgerzaken.apeldoorn.nl
 iburgerzaken.assen.nl
 iburgerzaken.asten.nl
+iburgerzaken.baarle-nassau.nl
 ibzpink.aaenhunze.nl
 ibzpink.achtkarspelen.nl
 ibzpink.almelo.nl
@@ -908,6 +914,7 @@ ibzpink.alphen-chaam.nl
 ibzpink.apeldoorn.nl
 ibzpink.assen.nl
 ibzpink.asten.nl
+ibzpink.baarle-nassau.nl
 icm-ast.asten.nl
 id-beheer-erfpacht-acc.amsterdam.nl
 id-beheer-erfpacht-dev.amsterdam.nl
@@ -1474,6 +1481,7 @@ secure.albrandswaard.nl
 secure.alphen-chaam.nl
 secure.ameland.nl
 secure.amsterdam.nl
+secure.baarle-nassau.nl
 selfservice.ggd.amsterdam.nl
 sensorenregister.amsterdam.nl
 servicedesk.almelo.nl
@@ -1510,6 +1518,7 @@ simform.achtkarspelen.nl
 simsite.aalten.nl
 simsite.albrandswaard.nl
 simsite.alphen-chaam.nl
+simsite.baarle-nassau.nl
 sip.assen.nl
 sip.ggd.amsterdam.nl
 sip.oa.amsterdam.nl
@@ -1713,6 +1722,7 @@ vveacc.amsterdam.nl
 vvetest.amsterdam.nl
 waarmerk.alphen-chaam.nl
 waarmerk.assen.nl
+waarmerk.baarle-nassau.nl
 wacfarm.acc.amsterdam.nl
 wachtwoord.acc.amsterdam.nl
 wachtwoord.alkmaar.nl
@@ -1825,6 +1835,7 @@ www.assen.nl
 www.asten.nl
 www.ateliers.amsterdam.nl
 www.atlas.amsterdam.nl
+www.baarle-nassau.nl
 www.baarsjes.amsterdam.nl
 www.bba.amsterdam.nl
 www.bereikbaar.amsterdam.nl

@@ -185,6 +185,7 @@ https://acc.wonen.zaken.amsterdam.nl
 https://acceptatie-vaarvergunningen.amsterdam.nl
 https://acceptatie.alphen-chaam.nl
 https://acceptatie.asten.nl
+https://acceptatie.baarle-nassau.nl
 https://achtkarspelen.nl
 https://activiteiten.amsterdam.nl
 https://admin.schoolwijzer.amsterdam.nl
@@ -200,6 +201,7 @@ https://afspraken.alkmaar.nl
 https://afspraken.amersfoort.nl
 https://afspraken.apeldoorn.nl
 https://afspraken.assen.nl
+https://afspraken.baarle-nassau.nl
 https://afspraken.belastingdienst.nl
 https://afval.assen.nl
 https://afval.omgevingswet.overheid.nl
@@ -360,6 +362,7 @@ https://belastingportaal.acc.assen.nl
 https://belastingportaal.assen.nl
 https://bereikbaarheid.amsterdam.nl
 https://berichten.alphen-chaam.nl
+https://berichten.baarle-nassau.nl
 https://bermod-fa.amsterdam.nl
 https://bermod.amsterdam.nl
 https://bermod2.amsterdam.nl
@@ -713,6 +716,7 @@ https://gegevensdelen.mijn.overheid.nl
 https://gegevensdelen.preprod.mijn.overheid.nl
 https://gegevensportaal.belastingdienst.nl
 https://gegevensuitwisseling.belastingdienst.nl
+https://gemeente.baarle-nassau.nl
 https://gemeentearchief.alphenaandenrijn.nl
 https://gemeenteblad.almere.nl
 https://gemeenteraad.almere.nl
@@ -774,6 +778,7 @@ https://iburgerzaken.amersfoort.nl
 https://iburgerzaken.apeldoorn.nl
 https://iburgerzaken.assen.nl
 https://iburgerzaken.asten.nl
+https://iburgerzaken.baarle-nassau.nl
 https://id-beheer-erfpacht-acc.amsterdam.nl
 https://id-beheer-erfpacht-dev.amsterdam.nl
 https://id-beheer-erfpacht-ont.amsterdam.nl
@@ -1483,6 +1488,7 @@ https://vrm.acc.amsterdam.nl
 https://vts.belastingdienst.nl
 https://vtsd.belastingdienst.nl
 https://waarmerk.alphen-chaam.nl
+https://waarmerk.baarle-nassau.nl
 https://wachtwoord.alkmaar.nl
 https://wachtwoord.almere.nl
 https://wachtwoord.amsterdam.nl
@@ -1558,6 +1564,7 @@ https://www.arnhem.nl
 https://www.assen.nl
 https://www.asten.nl
 https://www.ateliers.amsterdam.nl
+https://www.baarle-nassau.nl
 https://www.belastingdienst.nl
 https://www.bikecity.amsterdam.nl
 https://www.bta.omgevingswet.overheid.nl
