@@ -18,6 +18,7 @@ http://autodiscover.amsterdam.nl
 http://autodiscover.arnhem.nl
 http://autodiscover.asten.nl
 http://autodiscover.baarn.nl
+http://autodiscover.barneveld.nl
 http://ca-devportal-pre.logius.nl
 http://ca-devportal.logius.nl
 http://channels-az1.lpc.logius.nl
@@ -198,6 +199,7 @@ https://afs.ont.amsterdam.nl
 https://afs.opl.amsterdam.nl
 https://afs.tst.amsterdam.nl
 https://afspraak.arnhem.nl
+https://afspraak.barneveld.nl
 https://afspraken.alkmaar.nl
 https://afspraken.amersfoort.nl
 https://afspraken.apeldoorn.nl
@@ -360,6 +362,7 @@ https://belastingdienst.nl
 https://belastingen-acc.arnhem.nl
 https://belastingen.almere.nl
 https://belastingen.arnhem.nl
+https://belastingloket.barneveld.nl
 https://belastingportaal.aaenhunze.nl
 https://belastingportaal.acc.aaenhunze.nl
 https://belastingportaal.acc.assen.nl
@@ -546,6 +549,7 @@ https://drop.overheid.nl
 https://druktebeeld.amsterdam.nl
 https://dso.data.amsterdam.nl
 https://duurzaam.alphenaandenrijn.nl
+https://duurzaam.barneveld.nl
 https://dva.belastingdienst.nl
 https://dvi.afs.acc.amsterdam.nl
 https://dvi.afs.amsterdam.nl
@@ -589,6 +593,7 @@ https://edienstenburgerzaken-test.alphenaandenrijn.nl
 https://edienstenburgerzaken-test.arnhem.nl
 https://edienstenburgerzaken-test.baarn.nl
 https://edienstenburgerzaken-test.barendrecht.nl
+https://edienstenburgerzaken-test.barneveld.nl
 https://edienstenburgerzaken.aalsmeer.nl
 https://edienstenburgerzaken.aalten.nl
 https://edienstenburgerzaken.alblasserdam.nl
@@ -600,6 +605,7 @@ https://edienstenburgerzaken.amstelveen.nl
 https://edienstenburgerzaken.arnhem.nl
 https://edienstenburgerzaken.baarn.nl
 https://edienstenburgerzaken.barendrecht.nl
+https://edienstenburgerzaken.barneveld.nl
 https://edienstenburgerzaken.test.aalsmeer.nl
 https://edienstenburgerzaken.test.amstelveen.nl
 https://edienstenmijninkomen-acceptatie.albrandswaard.nl
@@ -732,6 +738,7 @@ https://gegevensportaal.belastingdienst.nl
 https://gegevensuitwisseling.belastingdienst.nl
 https://gemeente.baarle-nassau.nl
 https://gemeentearchief.alphenaandenrijn.nl
+https://gemeentearchief.barneveld.nl
 https://gemeenteblad.almere.nl
 https://gemeenteraad.almere.nl
 https://gemeenteraad.assen.nl
@@ -861,13 +868,16 @@ https://jaarrekening.arnhem.nl
 https://jaarverslag.arnhem.nl
 https://jobs.werkenvoornederland.nl
 https://join.bijzondereprojecten.acc.amsterdam.nl
+https://jongerenraad.barneveld.nl
 https://jvvs.amsterdam.nl
 https://kaart.amersfoort.nl
 https://kaart.amsterdam.nl
 https://kaarten-demo.overheid.nl
+https://kaartviewer.barneveld.nl
 https://kavaanalytics.vcdn.belastingdienst.nl
 https://kavels.almere.nl
 https://kavelwinkel.almere.nl
+https://kennisbank.barneveld.nl
 https://kennisbank.logius.nl
 https://kennisgroepen.belastingdienst.nl
 https://kennisnetwerk.belastingdienst.nl
@@ -991,7 +1001,9 @@ https://mijnws.amsterdam.nl
 https://mijnzakelijk.belastingdienst.nl
 https://mijnzorg-acc.alkmaar.nl
 https://mijnzorg-acc.amstelveen.nl
+https://mijnzorg-acc.barneveld.nl
 https://mijnzorg.alkmaar.nl
+https://mijnzorg.barneveld.nl
 https://mks.acc.amsterdam.nl
 https://mks.amsterdam.nl
 https://mks.preprod.amsterdam.nl
@@ -1084,6 +1096,7 @@ https://ontw.app.amsterdam.nl
 https://oostbegroot.amsterdam.nl
 https://open-acc.overheid.nl
 https://open.arnhem.nl
+https://open.barneveld.nl
 https://open.overheid.nl
 https://opendata.assen.nl
 https://opendata.english.igj.nl
@@ -1130,6 +1143,7 @@ https://parkeren.assen.nl
 https://participatie.aalsmeer.nl
 https://password.almere.nl
 https://passwordreset.almere.nl
+https://patternlab.barneveld.nl
 https://pb-yutpa.rnd.amsterdam.nl
 https://pdc.acc.omgevingswet.overheid.nl
 https://pdc.alkmaar.nl
@@ -1180,6 +1194,7 @@ https://portaal.kre.amsterdam.nl
 https://portaal.notificaties.openzaak-acc.amsterdam.nl
 https://portaal.notificaties.openzaak-tst.amsterdam.nl
 https://portal.achtkarspelen.nl
+https://portal.barneveld.nl
 https://portal.data.alkmaar.nl
 https://portal.ggd.amsterdam.nl
 https://pp1.toegang.overheid.nl
@@ -1199,6 +1214,7 @@ https://prod-dictu.logius.nl
 https://protectus.ggd.amsterdam.nl
 https://proto.apeldoorn.nl
 https://pub.alkmaar.nl
+https://publicaties.barneveld.nl
 https://publicaties.rekenkamer.amsterdam.nl
 https://puc-acc.overheid.nl
 https://puc-redactie-acc.overheid.nl
@@ -1332,6 +1348,7 @@ https://snow-license.amsterdam.nl
 https://sociaaldomein.almere.nl
 https://social.amsterdam.nl
 https://social.overheid.nl
+https://solliciterenbij.barneveld.nl
 https://sorry.belastingdienst.nl
 https://spa4.acc.amsterdam.nl
 https://spa4.tst.amsterdam.nl
@@ -1469,6 +1486,7 @@ https://top.amsterdam.nl
 https://topdesk.ggd.amsterdam.nl
 https://topvorm.apeldoorn.nl
 https://tourbuzz.amsterdam.nl
+https://tr.barneveld.nl
 https://tracking.amersfoort.nl
 https://treatydatabase-acc.overheid.nl
 https://treatydatabase.overheid.nl
@@ -1536,6 +1554,7 @@ https://werken.toeslagen.nl
 https://werkenbij.alkmaar.nl
 https://werkenbij.ameland.nl
 https://werkenbij.amsterdam.nl
+https://werkenbij.barneveld.nl
 https://werkenbij.toeslagen.nl
 https://werkenvoor.acceptatie.amstelveen.nl
 https://werkenvoor.amstelveen.nl
@@ -1591,6 +1610,7 @@ https://www.ateliers.amsterdam.nl
 https://www.baarle-nassau.nl
 https://www.baarn.nl
 https://www.barendrecht.nl
+https://www.barneveld.nl
 https://www.belastingdienst.nl
 https://www.bikecity.amsterdam.nl
 https://www.bta.omgevingswet.overheid.nl
@@ -1604,6 +1624,7 @@ https://www.containers.amsterdam.nl
 https://www.crk.amsterdam.nl
 https://www.dmo.omgevingswet.overheid.nl
 https://www.duurzaam.alphenaandenrijn.nl
+https://www.duurzaam.barneveld.nl
 https://www.elkk.amsterdam.nl
 https://www.enabling.omgevingswet.overheid.nl
 https://www.energiepunt.apeldoorn.nl
@@ -1668,6 +1689,9 @@ https://wwwfcinetorg.belastingdienst.nl
 https://wwwrijksacademienl.belastingdienst.nl
 https://yutpaworkshop.dev.rnd.amsterdam.nl
 https://yutpaworkshop.rnd.amsterdam.nl
+https://zaak-acc.barneveld.nl
+https://zaak-dev.barneveld.nl
+https://zaak.barneveld.nl
 https://zaakloket.ameland.nl
 https://zaaksysteem-accept.alkmaar.nl
 https://zaaksysteem-accept.baarn.nl

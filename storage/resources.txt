@@ -227,6 +227,7 @@ acc6.mijn.overheid.nl
 acc7.mijn.overheid.nl
 acc8.mijn.overheid.nl
 acc9.mijn.overheid.nl
+accdrop.barneveld.nl
 acceptatie-vaarvergunningen.amsterdam.nl
 acceptatie.aalsmeer.nl
 acceptatie.alphen-chaam.nl
@@ -244,6 +245,7 @@ activemq.beheer.intpatch.omgevingswet.overheid.nl
 activesync.amersfoort.nl
 activiteiten.amsterdam.nl
 adam.amsterdam.nl
+adc.barneveld.nl
 adfs.ggd.amsterdam.nl
 adiko.apeldoorn.nl
 admin-acc.datapunt.amsterdam.nl
@@ -263,6 +265,7 @@ afs.ont.amsterdam.nl
 afs.opl.amsterdam.nl
 afs.tst.amsterdam.nl
 afspraak.arnhem.nl
+afspraak.barneveld.nl
 afspraken.alkmaar.nl
 afspraken.amersfoort.nl
 afspraken.apeldoorn.nl
@@ -490,6 +493,7 @@ autodiscover.apeldoorn.nl
 autodiscover.arnhem.nl
 autodiscover.asten.nl
 autodiscover.baarn.nl
+autodiscover.barneveld.nl
 autodiscover.ggd.amsterdam.nl
 autodiscover.iba.amsterdam.nl
 autodiscover.koop.overheid.nl
@@ -605,6 +609,7 @@ belastingen-acc.arnhem.nl
 belastingen.almere.nl
 belastingen.alphenaandenrijn.nl
 belastingen.arnhem.nl
+belastingloket.barneveld.nl
 belastingportaal.aaenhunze.nl
 belastingportaal.acc.aaenhunze.nl
 belastingportaal.acc.assen.nl
@@ -756,6 +761,7 @@ cio-acc.overheid.nl
 cio-eto.overheid.nl
 cio.overheid.nl
 cios.acam.amsterdam.nl
+cis.barneveld.nl
 clienteleitsm-acceptatie.logius.nl
 clienteleitsm.logius.nl
 cloudadapter-test.baarn.nl
@@ -811,6 +817,7 @@ crk.amsterdam.nl
 crl.amersfoort.nl
 crypt.apeldoorn.nl
 cryptacc.apeldoorn.nl
+cscp.barneveld.nl
 csg.dab.amsterdam.nl
 csoacct.werkenvoornederland.nl
 csotest.werkenvoornederland.nl
@@ -945,6 +952,8 @@ dkd.aalten.nl
 dkd.almelo.nl
 dkd.amersfoort.nl
 dkd.arnhem.nl
+dkp.barneveld.nl
+dkt.barneveld.nl
 dktest.asten.nl
 dloket.assen.nl
 dmafunc002.amsterdam.nl
@@ -998,6 +1007,7 @@ duo2-test.belastingdienst.nl
 duo2.belastingdienst.nl
 duurzaam.alphenaandenrijn.nl
 duurzaam.assen.nl
+duurzaam.barneveld.nl
 duurzameescaperoom-light-vr.belastingdienst.nl
 duurzameescaperoom-vr.belastingdienst.nl
 dva.belastingdienst.nl
@@ -1053,6 +1063,7 @@ edienstenburgerzaken-test.alphenaandenrijn.nl
 edienstenburgerzaken-test.arnhem.nl
 edienstenburgerzaken-test.baarn.nl
 edienstenburgerzaken-test.barendrecht.nl
+edienstenburgerzaken-test.barneveld.nl
 edienstenburgerzaken.aalsmeer.nl
 edienstenburgerzaken.aalten.nl
 edienstenburgerzaken.alblasserdam.nl
@@ -1064,6 +1075,7 @@ edienstenburgerzaken.amstelveen.nl
 edienstenburgerzaken.arnhem.nl
 edienstenburgerzaken.baarn.nl
 edienstenburgerzaken.barendrecht.nl
+edienstenburgerzaken.barneveld.nl
 edienstenburgerzaken.test.aalsmeer.nl
 edienstenburgerzaken.test.amstelveen.nl
 edienstenmijninkomen-acceptatie.albrandswaard.nl
@@ -1299,6 +1311,7 @@ gbav.dpg.amsterdam.nl
 gbav1.amersfoort.nl
 gbcultuur.alkmaar.nl
 gbi.apeldoorn.nl
+gbi.barneveld.nl
 gbsserver.alkmaar.nl
 gbstadswerk.alkmaar.nl
 gdlo.acc.belastingdienst.nl
@@ -1342,6 +1355,7 @@ gegevensuitwisseling.belastingdienst.nl
 gemeente.amsterdam.nl
 gemeente.baarle-nassau.nl
 gemeentearchief.alphenaandenrijn.nl
+gemeentearchief.barneveld.nl
 gemeenteblad.almere.nl
 gemeenteraad.almere.nl
 gemeenteraad.amsterdam.nl
@@ -1361,6 +1375,7 @@ geotest.arnhem.nl
 geovisia.achtkarspelen.nl
 geovisia.amersfoort.nl
 ggd.amsterdam.nl
+ggi.barneveld.nl
 gir.acc.amsterdam.nl
 gir.amsterdam.nl
 gis.apeldoorn.nl
@@ -1644,13 +1659,17 @@ join-test.almelo.nl
 join.almelo.nl
 join.bijzondereprojecten.acc.amsterdam.nl
 join.bijzondereprojecten.amsterdam.nl
+jongerenraad.barneveld.nl
 juristen.werkenvoornederland.nl
 jvvs.amsterdam.nl
+k2bg.barneveld.nl
+k2fin.barneveld.nl
 kaart.almere.nl
 kaart.alphenaandenrijn.nl
 kaart.amersfoort.nl
 kaart.amsterdam.nl
 kaarten-demo.overheid.nl
+kaartviewer.barneveld.nl
 kavaanalytics.vcdn.belastingdienst.nl
 kavels.almere.nl
 kavelwinkel.almere.nl
@@ -1658,6 +1677,7 @@ kec.officiele-overheidspublicaties.nl
 kennis-fiod.acc.belastingdienst.nl
 kennisbank.achtkarspelen.nl
 kennisbank.almelo.nl
+kennisbank.barneveld.nl
 kennisbank.logius.nl
 kennisgroepen.acc.belastingdienst.nl
 kennisgroepen.belastingdienst.nl
@@ -1775,6 +1795,7 @@ mail.arnhem.nl
 mail.asten.nl
 mail.bapi.belastingdienst.nl
 mail.bapicft.belastingdienst.nl
+mail.barneveld.nl
 mail.denkmee.amstelveen.nl
 mail.dmb.amsterdam.nl
 mail.koop.overheid.nl
@@ -1942,9 +1963,13 @@ mijnzakelijk2.acc.belastingdienst.nl
 mijnzorg-acc.aalsmeer.nl
 mijnzorg-acc.alkmaar.nl
 mijnzorg-acc.amstelveen.nl
+mijnzorg-acc.barneveld.nl
 mijnzorg.aalsmeer.nl
 mijnzorg.alkmaar.nl
 mijnzorg.amstelveen.nl
+mijnzorg.barneveld.nl
+misc-geo-01.barneveld.nl
+misc-geo-02.barneveld.nl
 mks.acc.amsterdam.nl
 mks.amsterdam.nl
 mks.brievenbus.amsterdam.nl
@@ -2003,6 +2028,7 @@ nat_o5001vmfavapp.ont.belastingdienst.nl
 nat_o5002vmfavapp.ont.belastingdienst.nl
 natuur.omgevingswet.overheid.nl
 ndes.apeldoorn.nl
+ndes.barneveld.nl
 ndesapeldoorn.apeldoorn.nl
 nedbrw.apeldoorn.nl
 nedbrwacc.apeldoorn.nl
@@ -2014,6 +2040,7 @@ nexus.datapunt.amsterdam.nl
 nha-acc.amsterdam.nl
 nha-tst.amsterdam.nl
 nha.amsterdam.nl
+nhr.barneveld.nl
 nieuwsbrief.amsterdam.nl
 nieuwsbrief.arnhem.nl
 nieuwsbrief.assen.nl
@@ -2137,6 +2164,7 @@ oov.brievenbus.amsterdam.nl
 opa.amsterdam.nl
 open-acc.overheid.nl
 open.arnhem.nl
+open.barneveld.nl
 open.data.amsterdam.nl
 open.overheid.nl
 opendata.arnhem.nl
@@ -2236,6 +2264,7 @@ pass.datapunt.amsterdam.nl
 pass.secure.amsterdam.nl
 password.almere.nl
 passwordreset.almere.nl
+patternlab.barneveld.nl
 pb-yutpa.rnd.amsterdam.nl
 pdc.acc.omgevingswet.overheid.nl
 pdc.alkmaar.nl
@@ -2320,6 +2349,7 @@ portaal.notificaties.openzaak-tst.amsterdam.nl
 portal.aalten.nl
 portal.achtkarspelen.nl
 portal.assen.nl
+portal.barneveld.nl
 portal.brandweer.amsterdam.nl
 portal.dab.amsterdam.nl
 portal.data.alkmaar.nl
@@ -2368,6 +2398,7 @@ psproxy-tao1.belastingdienst.nl
 psproxy-tao2.belastingdienst.nl
 psproxy.belastingdienst.nl
 pub.alkmaar.nl
+publicaties.barneveld.nl
 publicaties.rekenkamer.amsterdam.nl
 publiek.amsterdam.nl
 puc-acc.overheid.nl
@@ -2530,6 +2561,7 @@ secure.ameland.nl
 secure.amsterdam.nl
 secure.baarle-nassau.nl
 secure.barendrecht.nl
+secure.barneveld.nl
 selfservice.ggd.amsterdam.nl
 sensorenregister.amsterdam.nl
 sepm.belastingdienst.nl
@@ -2647,6 +2679,7 @@ sociaaldomein.almere.nl
 social.amsterdam.nl
 social.overheid.nl
 sollicitatie.ggd.amsterdam.nl
+solliciterenbij.barneveld.nl
 sonarqube.lpc.logius.nl
 sophos01.achtkarspelen.nl
 sorry.belastingdienst.nl
@@ -2917,6 +2950,7 @@ top.apeldoorn.nl
 topdesk.ggd.amsterdam.nl
 topvorm.apeldoorn.nl
 tourbuzz.amsterdam.nl
+tr.barneveld.nl
 tracking.amersfoort.nl
 transform.oa.amsterdam.nl
 treatydatabase-acc.overheid.nl
@@ -3124,6 +3158,7 @@ werken.toeslagen.nl
 werkenbij.alkmaar.nl
 werkenbij.ameland.nl
 werkenbij.amsterdam.nl
+werkenbij.barneveld.nl
 werkenbij.toeslagen.nl
 werkenvoor.acceptatie.amstelveen.nl
 werkenvoor.amstelveen.nl
@@ -3221,6 +3256,7 @@ www.baarle-nassau.nl
 www.baarn.nl
 www.baarsjes.amsterdam.nl
 www.barendrecht.nl
+www.barneveld.nl
 www.bba.amsterdam.nl
 www.belastingdienst.nl
 www.bereikbaar.amsterdam.nl
@@ -3253,6 +3289,7 @@ www.dmo2.amsterdam.nl
 www.dro.amsterdam.nl
 www.duurzaam.alphenaandenrijn.nl
 www.duurzaam.assen.nl
+www.duurzaam.barneveld.nl
 www.duurzaamheidscentrum.assen.nl
 www.dwa.amsterdam.nl
 www.elkk.amsterdam.nl
@@ -3374,6 +3411,9 @@ xml.belastingdienst.nl
 youpp.baarn.nl
 yutpaworkshop.dev.rnd.amsterdam.nl
 yutpaworkshop.rnd.amsterdam.nl
+zaak-acc.barneveld.nl
+zaak-dev.barneveld.nl
+zaak.barneveld.nl
 zaakloket.ameland.nl
 zaaksysteem-accept.alkmaar.nl
 zaaksysteem-accept.baarn.nl
