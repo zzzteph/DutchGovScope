@@ -280,6 +280,7 @@ afs.tst.amsterdam.nl
 afspraak.arnhem.nl
 afspraak.barneveld.nl
 afspraak.bergendal.nl
+afspraak.gemeenteberkelland.nl
 afspraken.alkmaar.nl
 afspraken.amersfoort.nl
 afspraken.apeldoorn.nl
@@ -386,6 +387,7 @@ apex.almere.nl
 apextq01.belastingdienst.nl
 apextw01.belastingdienst.nl
 apgmea02.prod.bna.belastingdienst.nl
+api-jcc.gemeenteberkelland.nl
 api-meldingen.acc.almelo.nl
 api-meldingen.almelo.nl
 api-ota.belastingdienst.nl
@@ -520,6 +522,7 @@ autodiscover.bergen.nl
 autodiscover.bergendal.nl
 autodiscover.bergenopzoom.nl
 autodiscover.gemeentebeek.nl
+autodiscover.gemeenteberkelland.nl
 autodiscover.ggd.amsterdam.nl
 autodiscover.iba.amsterdam.nl
 autodiscover.koop.overheid.nl
@@ -850,7 +853,9 @@ citrixomgeving.gemeentebeek.nl
 clienteleitsm-acceptatie.logius.nl
 clienteleitsm.logius.nl
 cloudadapter-test.baarn.nl
+cloudadapter-test.gemeenteberkelland.nl
 cloudadapter.baarn.nl
+cloudadapter.gemeenteberkelland.nl
 cloudstorage-koop.overheid.nl
 cms-binnenshuis.bergen.nl
 cms.alphenaandenrijn.nl
@@ -1176,6 +1181,7 @@ edienstenburgerzaken-test.barendrecht.nl
 edienstenburgerzaken-test.barneveld.nl
 edienstenburgerzaken-test.beesel.nl
 edienstenburgerzaken-test.bergen-nh.nl
+edienstenburgerzaken-test.gemeenteberkelland.nl
 edienstenburgerzaken.aalsmeer.nl
 edienstenburgerzaken.aalten.nl
 edienstenburgerzaken.alblasserdam.nl
@@ -1190,6 +1196,7 @@ edienstenburgerzaken.barendrecht.nl
 edienstenburgerzaken.barneveld.nl
 edienstenburgerzaken.beesel.nl
 edienstenburgerzaken.bergen-nh.nl
+edienstenburgerzaken.gemeenteberkelland.nl
 edienstenburgerzaken.test.aalsmeer.nl
 edienstenburgerzaken.test.amstelveen.nl
 edienstenmijninkomen-acceptatie.albrandswaard.nl
@@ -1442,6 +1449,7 @@ ftpstaopub.belastingdienst.nl
 fw-rtr.alkmaar.nl
 gast-rtr.alkmaar.nl
 gasten.beekdaelen.nl
+gb-app05.gemeenteberkelland.nl
 gbav.dpg.amsterdam.nl
 gbav1.amersfoort.nl
 gbcultuur.alkmaar.nl
@@ -1492,6 +1500,7 @@ gemeente.baarle-nassau.nl
 gemeentearchief.alphenaandenrijn.nl
 gemeentearchief.barneveld.nl
 gemeentebeek.nl
+gemeenteberkelland.nl
 gemeenteblad.almere.nl
 gemeenteraad.almere.nl
 gemeenteraad.amsterdam.nl
@@ -1638,6 +1647,7 @@ huisstijl.belastingdienst.nl
 hybrid.almelo.nl
 hybrid.almere.nl
 hybrid.gemeentebeek.nl
+hybrid.gemeenteberkelland.nl
 hybridmail.amersfoort.nl
 i-cms.rijksoverheid.nl
 i-cms1.rijksoverheid.nl
@@ -1775,6 +1785,7 @@ inloggen.belastingportaal.aaenhunze.nl
 inloggen.belastingportaal.acc.aaenhunze.nl
 inloggen.belastingportaal.acc.assen.nl
 inloggen.belastingportaal.assen.nl
+inloggen.gemeenteberkelland.nl
 inproces.acceptatie.gemeentebeek.nl
 inproces.gemeentebeek.nl
 inspraakmaatregel15.amsterdam.nl
@@ -1811,6 +1822,7 @@ intranet.bergendal.nl
 intranet.digi-mlv.os.amsterdam.nl
 intranet.docwonen.amsterdam.nl
 intranet.gemeentebeek.nl
+intranet.gemeenteberkelland.nl
 intranet.geuzenveld.amsterdam.nl
 intranet.raadsinformatie.amsterdam.nl
 intranetacc.apeldoorn.nl
@@ -1857,6 +1869,7 @@ kaart.amersfoort.nl
 kaart.amsterdam.nl
 kaart.bergendal.nl
 kaarten-demo.overheid.nl
+kaarten.gemeenteberkelland.nl
 kaartviewer.barneveld.nl
 kavaanalytics.vcdn.belastingdienst.nl
 kavels.almere.nl
@@ -1920,9 +1933,12 @@ leiderschap.belastingdienst.nl
 leiderschapp.belastingdienst.nl
 lerenloont.almere.nl
 les-acc.amsterdam.nl
+leverancier.gemeenteberkelland.nl
 link.pr.almere.nl
 linkeddata.overheid.nl
 linkextractor.overheid.nl
+liquit.gemeenteberkelland.nl
+liquitsatellite.gemeenteberkelland.nl
 listen2.dro.amsterdam.nl
 live.bergen-nh.nl
 logilink.gbamailbox.amersfoort.nl
@@ -2145,6 +2161,7 @@ mijnmobiel.oa.amsterdam.nl
 mijnmobiel.ovh.gemeentebeek.nl
 mijnoverzicht.alphenaandenrijn.nl
 mijnpersoneelsnet.amsterdam.nl
+mijnplan.gemeenteberkelland.nl
 mijnplein.assen.nl
 mijnsbl-acc.amsterdam.nl
 mijnsbl-test.amsterdam.nl
@@ -2405,9 +2422,11 @@ openklant.assen.nl
 openpdc.albrandswaard.nl
 openpdc.alkmaar.nl
 openpdc.barendrecht.nl
+openpdc.gemeenteberkelland.nl
 openpub.albrandswaard.nl
 openpub.alkmaar.nl
 openpub.barendrecht.nl
+openpub.gemeenteberkelland.nl
 openvas.datapunt.amsterdam.nl
 openzaak-tst.amsterdam.nl
 openzaak.amsterdam.nl
@@ -2443,6 +2462,7 @@ otp-acc1.belastingdienst.nl
 otp-test-2023.belastingdienst.nl
 otp-test.belastingdienst.nl
 otp.belastingdienst.nl
+otp.gemeenteberkelland.nl
 otpxbrl.belastingdienst.nl
 over-ons.acc.belastingdienst.nl
 over-ons.belastingdienst.nl
@@ -2597,6 +2617,7 @@ preprod-mijn.albrandswaard.nl
 preprod-mijn.barendrecht.nl
 preprod-mijngeldzaken.arnhem.nl
 preprod-mijninkomen.almere.nl
+preprod-mijnplan.gemeenteberkelland.nl
 preprod-mijnsociaalplein.bergen-nh.nl
 preprod-portalen.digipoort.logius.nl
 preprod-woz-portaal-eemnes.baarn.nl
@@ -2651,6 +2672,7 @@ pv.barendrecht.nl
 pv.beesel.nl
 pv.bergen-nh.nl
 pv.diensten.almere.nl
+pv.gemeenteberkelland.nl
 pwa.barendrecht.nl
 pwa001.belastingdienst.nl
 qapbldexte2.belastingdienst.nl
@@ -2666,6 +2688,7 @@ raad.asten.nl
 raad.bergendal.nl
 raadsnet.aalten.nl
 rabbitmq.datapunt.amsterdam.nl
+radius.gemeenteberkelland.nl
 rap.belastingdienst.nl
 rcgog.nl
 rcm.belastingdienst.nl
@@ -2717,6 +2740,7 @@ rnd.amsterdam.nl
 ro-online.alphenaandenrijn.nl
 ro-online.bergen-nh.nl
 ro-online1.amersfoort.nl
+ro.gemeenteberkelland.nl
 rokinintranet.amsterdam.nl
 roles.datapunt.amsterdam.nl
 rom.authenticatie.alkmaar.nl
@@ -3134,6 +3158,7 @@ talent.apeldoorn.nl
 talentcenter.almere.nl
 talentcenter2.almere.nl
 tamtam.amsterdam.nl
+taxatieverslagen.gemeenteberkelland.nl
 taxiportaal-acc.amsterdam.nl
 taxiportaal.amsterdam.nl
 tekortkomingen-wvggz.webservices-dbb-acc.igj.nl
@@ -3373,6 +3398,7 @@ vvetest.amsterdam.nl
 waarmerk.alphen-chaam.nl
 waarmerk.assen.nl
 waarmerk.baarle-nassau.nl
+waarmerk.gemeenteberkelland.nl
 wacfarm.acc.amsterdam.nl
 wachtwoord.acc.amsterdam.nl
 wachtwoord.alkmaar.nl
@@ -3473,6 +3499,7 @@ werkplek.amersfoort.nl
 werkplek.arnhem.nl
 werkplek.beesel.nl
 werkplek.gemeentebeek.nl
+werkplek.gemeenteberkelland.nl
 werkplek.gslb.alkmaar.nl
 werkplek.ovh.gemeentebeek.nl
 werving.amsterdam.nl
@@ -3621,6 +3648,7 @@ www.ez.amsterdam.nl
 www.fiets.amsterdam.nl
 www.gebouwdin.amsterdam.nl
 www.gemeentebeek.nl
+www.gemeenteberkelland.nl
 www.geo.arnhem.nl
 www.geuzenveld.amsterdam.nl
 www.ggd.amsterdam.nl
@@ -3749,6 +3777,7 @@ zaak.barneveld.nl
 zaakloket.ameland.nl
 zaaksysteem-accept.alkmaar.nl
 zaaksysteem-accept.baarn.nl
+zaaksysteem-accept.gemeenteberkelland.nl
 zaken.acceptatie.gemeentebeek.nl
 zaken.alblasserdam.nl
 zaken.amersfoort.nl
