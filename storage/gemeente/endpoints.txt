@@ -60,6 +60,7 @@ http://autodiscover.gouda.nl
 http://autodiscover.haaksbergen.nl
 http://autodiscover.haarlemmermeer.nl
 http://autodiscover.hardenberg.nl
+http://autodiscover.hardinxveld-giessendam.nl
 http://beekdaelen.nl
 http://bergeijk.nl
 http://bergen.nl
@@ -875,6 +876,7 @@ https://collecties.dantumadiel.frl
 https://college.alblasserdam.nl
 https://college.albrandswaard.nl
 https://college.dordrecht.nl
+https://college.hardinxveld-giessendam.nl
 https://connect-preprod.almere.nl
 https://connect.goirle.nl
 https://consent.sarphati.amsterdam.nl
@@ -1154,6 +1156,7 @@ https://edienstenburgerzaken-test.gouda.nl
 https://edienstenburgerzaken-test.gulpen-wittem.nl
 https://edienstenburgerzaken-test.halderberge.nl
 https://edienstenburgerzaken-test.harderwijk.nl
+https://edienstenburgerzaken-test.hardinxveld-giessendam.nl
 https://edienstenburgerzaken.aalsmeer.nl
 https://edienstenburgerzaken.aalten.nl
 https://edienstenburgerzaken.acc.denhaag.nl
@@ -1198,6 +1201,7 @@ https://edienstenburgerzaken.gouda.nl
 https://edienstenburgerzaken.gulpen-wittem.nl
 https://edienstenburgerzaken.halderberge.nl
 https://edienstenburgerzaken.harderwijk.nl
+https://edienstenburgerzaken.hardinxveld-giessendam.nl
 https://edienstenburgerzaken.test.aalsmeer.nl
 https://edienstenburgerzaken.test.amstelveen.nl
 https://edienstenmijninkomen-acceptatie.albrandswaard.nl
@@ -1507,19 +1511,25 @@ https://gis.assen.nl
 https://gis.breda.nl
 https://gisib-test.alblasserdam.nl
 https://gisib-test.dordrecht.nl
+https://gisib-test.hardinxveld-giessendam.nl
 https://gisib.acc.meldingen.amsterdam.nl
 https://gisib.alblasserdam.nl
 https://gisib.dordrecht.nl
 https://gisib.haarlemmermeer.nl
+https://gisib.hardinxveld-giessendam.nl
 https://gisib.meldingen.amsterdam.nl
 https://gisibapi-test.alblasserdam.nl
 https://gisibapi-test.dordrecht.nl
+https://gisibapi-test.hardinxveld-giessendam.nl
 https://gisibapi.alblasserdam.nl
 https://gisibapi.dordrecht.nl
+https://gisibapi.hardinxveld-giessendam.nl
 https://gisibgeoserver-test.alblasserdam.nl
 https://gisibgeoserver-test.dordrecht.nl
+https://gisibgeoserver-test.hardinxveld-giessendam.nl
 https://gisibgeoserver.alblasserdam.nl
 https://gisibgeoserver.dordrecht.nl
+https://gisibgeoserver.hardinxveld-giessendam.nl
 https://gisibonline.beesel.nl
 https://gisservices.haarlemmermeer.nl
 https://gitops.acc.denhaag.nl
@@ -1557,6 +1567,9 @@ https://halnet.halderberge.nl
 https://handboekdibor.ede.nl
 https://hardenberg.nl
 https://harderwijk.nl
+https://hardinxveld-giessendam-checker-preprod.hardinxveld-giessendam.nl
+https://hardinxveld-giessendam-checker.hardinxveld-giessendam.nl
+https://hardinxveld-giessendam.nl
 https://haven.deventer.nl
 https://havenkwartieraanzet.denhaag.nl
 https://heiligen.deventer.nl
@@ -1885,6 +1898,7 @@ https://loket.acceptatie.amstelveen.nl
 https://loket.acceptatie.barendrecht.nl
 https://loket.acceptatie.dantumadiel.frl
 https://loket.acceptatie.dordrecht.nl
+https://loket.acceptatie.hardinxveld-giessendam.nl
 https://loket.alblasserdam.nl
 https://loket.albrandswaard.nl
 https://loket.amstelveen.nl
@@ -1895,6 +1909,7 @@ https://loket.diemen.nl
 https://loket.dordrecht.nl
 https://loket.duiven.nl
 https://loket.geertruidenberg.nl
+https://loket.hardinxveld-giessendam.nl
 https://loket.test.aalsmeer.nl
 https://loket.test.amstelveen.nl
 https://lyncdiscover.diemen.nl
@@ -2529,6 +2544,7 @@ https://raad.bergendal.nl
 https://raad.brummen.nl
 https://raad.dordrecht.nl
 https://raad.goirle.nl
+https://raad.hardinxveld-giessendam.nl
 https://raadplegen.denhaag.nl
 https://redactie-extern.denhaag.nl
 https://redactie.amersfoort.nl
@@ -2567,6 +2583,7 @@ https://ruimtelijkeplannen.dronten.nl
 https://ruimtelijkeplannen.gemert-bakel.nl
 https://ruimtelijkeplannen.gorinchem.nl
 https://ruimtevoorjou.groningen.nl
+https://rxlaunch-signicat-preprod.hardinxveld-giessendam.nl
 https://saaedepot-1.amsterdam.nl
 https://saaedepot-1.tst.amsterdam.nl
 https://saaedepot-2.amsterdam.nl
@@ -2964,9 +2981,11 @@ https://vergunningen.dronten.nl
 https://vergunningen.duiven.nl
 https://vergunningintaker-preprod.aalten.nl
 https://vergunningintaker-preprod.eemsdelta.nl
+https://vergunningintaker-preprod.hardinxveld-giessendam.nl
 https://vergunningintaker.aalten.nl
 https://vergunningintaker.echt-susteren.nl
 https://vergunningintaker.eemsdelta.nl
+https://vergunningintaker.hardinxveld-giessendam.nl
 https://vergunningintaker.preprod.echt-susteren.nl
 https://verhuursport.gorinchem.nl
 https://verkeersbesluiten.denhaag.nl
@@ -3001,6 +3020,7 @@ https://vragenlijst.eindhoven.nl
 https://vriseloket.cranendonck.nl
 https://vrm.acc.amsterdam.nl
 https://vth.deventer.nl
+https://vthbroker.hardinxveld-giessendam.nl
 https://waarmerk.alphen-chaam.nl
 https://waarmerk.baarle-nassau.nl
 https://waarmerk.brielle.nl
@@ -3307,6 +3327,7 @@ https://www.haarlem.nl
 https://www.haarlemmermeer.nl
 https://www.hardenberg.nl
 https://www.harderwijk.nl
+https://www.hardinxveld-giessendam.nl
 https://www.havenkwartieraanzet.denhaag.nl
 https://www.hildebrandplein.denhaag.nl
 https://www.houtwijkbegroot.denhaag.nl
@@ -3454,6 +3475,7 @@ https://zaken.alblasserdam.nl
 https://zaken.amersfoort.nl
 https://zaken.denhaag.nl
 https://zaken.haarlemmermeer.nl
+https://zaken.hardinxveld-giessendam.nl
 https://zec.acc.amsterdam.nl
 https://zec.amsterdam.nl
 https://zgw.acc.denhaag.nl
