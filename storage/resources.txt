@@ -18,6 +18,7 @@ Lrza.gatservices.prd.igj.nl
 NLGEMBRC.blaricum.nl
 Top.apeldoorn.nl
 ZDPushservice.overheid.nl
+_autodiscover._tcp.buren.nl
 _dmarc.logius.nl
 _dmarc.rijksoverheid.nl
 a-cms.rijksoverheid.nl
@@ -335,6 +336,7 @@ afspraken.borne.nl
 afspraken.bronckhorst.nl
 afspraken.brummen.nl
 afspraken.brunssum.nl
+afspraken.buren.nl
 afval.acc.omgevingswet.overheid.nl
 afval.assen.nl
 afval.omgevingswet.overheid.nl
@@ -877,6 +879,7 @@ broker.aalten.nl
 broker.assen.nl
 broker.bernheze.org
 broker.borger-odoorn.nl
+broker.buren.nl
 bronckhorst.nl
 brsoribi01.borsele.nl
 brsoribi02.borsele.nl
@@ -892,6 +895,7 @@ buikslotermeerplein.amsterdam.nl
 bunnik.nl
 bunschoten.nl
 bureaubroedplaatsen.amsterdam.nl
+buren.nl
 burgerzaken.amsterdam.nl
 buurtbudget.amsterdam.nl
 buurtbudgetnoord.amsterdam.nl
@@ -970,6 +974,7 @@ citrixomgeving.gemeentebeek.nl
 clienteleitsm-acceptatie.logius.nl
 clienteleitsm.logius.nl
 cloud.beverwijk.nl
+cloud.buren.nl
 cloudadapter-test.baarn.nl
 cloudadapter-test.bronckhorst.nl
 cloudadapter-test.brunssum.nl
@@ -1651,6 +1656,7 @@ formulieren.assen.nl
 formulieren.beesel.nl
 formulieren.bodegraven-reeuwijk.nl
 formulieren.bronckhorst.nl
+formulieren.buren.nl
 formulieren1.amsterdam.nl
 formulierenacc.breda.nl
 formulierenaccdirect.breda.nl
@@ -1760,6 +1766,7 @@ geo.arnhem.nl
 geo.beverwijk.nl
 geo.breda.nl
 geo.brunssum.nl
+geo.buren.nl
 geo1.arnhem.nl
 geodata.almelo.nl
 geografie.bronckhorst.nl
@@ -1969,6 +1976,7 @@ iburgerzaken.borsele.nl
 iburgerzaken.breda.nl
 iburgerzaken.brielle.nl
 iburgerzaken.bronckhorst.nl
+iburgerzaken.buren.nl
 iburgerzaken.gemeentebeek.nl
 iburgerzaken.gemeentebest.nl
 ibzpink.aaenhunze.nl
@@ -1995,6 +2003,7 @@ ibzpink.borsele.nl
 ibzpink.breda.nl
 ibzpink.brielle.nl
 ibzpink.bronckhorst.nl
+ibzpink.buren.nl
 ibzpink.gemeentebeek.nl
 ibzpink.gemeentebest.nl
 icm-ast.asten.nl
@@ -2187,6 +2196,7 @@ kaart.amsterdam.nl
 kaart.bergendal.nl
 kaarten-demo.overheid.nl
 kaarten.boxtel.nl
+kaarten.buren.nl
 kaarten.gemeenteberkelland.nl
 kaartviewer.barneveld.nl
 kassaservice.brunssum.nl
@@ -2400,6 +2410,7 @@ matchpointbhr.dmo.acc.amsterdam.nl
 matchpointkp.dmo.acc.amsterdam.nl
 matenpark.apeldoorn.nl
 matomo.breda.nl
+mbg.buren.nl
 mbg1.beverwijk.nl
 mc.belastingdienst.nl
 mc.ont.belastingdienst.nl
@@ -2412,6 +2423,7 @@ me-api.acc.amsterdam.nl
 me-api.amsterdam.nl
 med-srv20.rijksoverheid.nl
 medeleven.apeldoorn.nl
+medewerkers.buren.nl
 media.assen.nl
 meedenken.arnhem.nl
 meedoen-acc.borger-odoorn.nl
@@ -2477,6 +2489,7 @@ mijn.beekdaelen.nl
 mijn.belastingdienst.nl
 mijn.beuningen.nl
 mijn.bronckhorst.nl
+mijn.buren.nl
 mijn.data.amsterdam.nl
 mijn.igj.nl
 mijn.ont.belastingdienst.nl
@@ -2684,6 +2697,7 @@ nlgembrc.blaricum.nl
 nlgembrl.brielle.nl
 nlgembrn.borne.nl
 nlx.amsterdam.nl
+nlx.buren.nl
 node1.acc.statistiek.mijn.overheid.nl
 noord.amsterdam.nl
 noorderparkbad.amsterdam.nl
@@ -2840,6 +2854,7 @@ openpdc.gemeenteberkelland.nl
 openpub.albrandswaard.nl
 openpub.alkmaar.nl
 openpub.barendrecht.nl
+openpub.buren.nl
 openpub.gemeenteberkelland.nl
 openvas.datapunt.amsterdam.nl
 openwave.beverwijk.nl
@@ -2938,6 +2953,7 @@ patternlab.barneveld.nl
 pb-yutpa.rnd.amsterdam.nl
 pdc.acc.omgevingswet.overheid.nl
 pdc.alkmaar.nl
+pdc.buren.nl
 pdc.int.omgevingswet.overheid.nl
 pdc.omgevingswet.overheid.nl
 pdc.pre.omgevingswet.overheid.nl
@@ -3052,6 +3068,8 @@ praatmee.borsele.nl
 praatmee.boxtel.nl
 prd.afs.amsterdam.nl
 pre.omgevingswet.overheid.nl
+preprod-broker.buren.nl
+preprod-formulieren.buren.nl
 preprod-machtigen.digipoort.logius.nl
 preprod-mijn.albrandswaard.nl
 preprod-mijn.barendrecht.nl
@@ -3521,6 +3539,7 @@ squit2020publiceren.gemeentebeek.nl
 squit2go.gemeentebest.nl
 srmvaprd.ovh.gemeentebeek.nl
 srmvauitwijk.ovh.gemeentebeek.nl
+srvmksbur.buren.nl
 sscict.intranet.amsterdam.nl
 ssd.brunssum.nl
 ssdtest.brunssum.nl
@@ -4023,6 +4042,7 @@ webmail.boxtel.nl
 webmail.breda.nl
 webmail.brielle.nl
 webmail.brunssum.nl
+webmail.buren.nl
 webmail.centrum.amsterdam.nl
 webmail.dbga.amsterdam.nl
 webmail.dict.amsterdam.nl
@@ -4070,6 +4090,7 @@ werkenbij.alkmaar.nl
 werkenbij.ameland.nl
 werkenbij.amsterdam.nl
 werkenbij.barneveld.nl
+werkenbij.buren.nl
 werkenbij.toeslagen.nl
 werkenvoor.acceptatie.amstelveen.nl
 werkenvoor.amstelveen.nl
@@ -4082,6 +4103,7 @@ werkplek.amersfoort.nl
 werkplek.arnhem.nl
 werkplek.beesel.nl
 werkplek.bodegraven-reeuwijk.nl
+werkplek.buren.nl
 werkplek.gemeentebeek.nl
 werkplek.gemeenteberkelland.nl
 werkplek.gemeentebest.nl
@@ -4119,6 +4141,7 @@ wmoportaal.acc.amsterdam.nl
 wmoportaal.amsterdam.nl
 wmoportaal.ot.amsterdam.nl
 wmoportaal.wzs.amsterdam.nl
+wmoservice.buren.nl
 wob.arnhem.nl
 womserver-test.brunssum.nl
 womserver.brunssum.nl
@@ -4230,6 +4253,7 @@ www.buikslotermeerplein.amsterdam.nl
 www.bunnik.nl
 www.bunschoten.nl
 www.bureaubroedplaatsen.amsterdam.nl
+www.buren.nl
 www.buurtbudget.amsterdam.nl
 www.buurtbudgetnoord.amsterdam.nl
 www.buurtbudgetzuid.amsterdam.nl
