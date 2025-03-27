@@ -285,6 +285,7 @@ adfs.beverwijk.nl
 adfs.bodegraven-reeuwijk.nl
 adfs.bronckhorst.nl
 adfs.brummen.nl
+adfs.brunssum.nl
 adfs.gemeentebeek.nl
 adfs.ggd.amsterdam.nl
 adiko.apeldoorn.nl
@@ -298,6 +299,7 @@ adobe-tags.toeslagen.nl
 adp.apeldoorn.nl
 adpa.apeldoorn.nl
 adpt.apeldoorn.nl
+adsync.brunssum.nl
 adus.amsterdam.nl
 aeos.alkmaar.nl
 afs.acc.amsterdam.nl
@@ -312,6 +314,7 @@ afspraak.boekel.nl
 afspraak.borsele.nl
 afspraak.boxtel.nl
 afspraak.gemeenteberkelland.nl
+afspraken-test.brunssum.nl
 afspraken.alkmaar.nl
 afspraken.amersfoort.nl
 afspraken.apeldoorn.nl
@@ -330,6 +333,7 @@ afspraken.bladel.nl
 afspraken.borne.nl
 afspraken.bronckhorst.nl
 afspraken.brummen.nl
+afspraken.brunssum.nl
 afval.acc.omgevingswet.overheid.nl
 afval.assen.nl
 afval.omgevingswet.overheid.nl
@@ -592,6 +596,8 @@ autorisatie.alkmaar.nl
 autorisatie.bloemendaal.nl
 autorisatie01.alkmaar.nl
 autorisatie02.alkmaar.nl
+autorisatiebeheer-test.brunssum.nl
+autorisatiebeheer.brunssum.nl
 autorisatietest.bloemendaal.nl
 av.alkmaar.nl
 avproxy.vga.amsterdam.nl
@@ -877,6 +883,9 @@ brt.acceptatie.basisregistraties.overheid.nl
 brt.basisregistraties.overheid.nl
 brt.test.basisregistraties.overheid.nl
 brummen.nl
+brunssum.nl
+bsmpki.brunssum.nl
+bsmpkitest.brunssum.nl
 bta.omgevingswet.overheid.nl
 buikslotermeerplein.amsterdam.nl
 bureaubroedplaatsen.amsterdam.nl
@@ -891,6 +900,7 @@ bvs.belastingdienst.nl
 bwr.amsterdam.nl
 bwrmail.bwr.amsterdam.nl
 byod.beekdaelen.nl
+byod.brunssum.nl
 byod.gemeentebeek.nl
 ca-devportal-pre.logius.nl
 ca-devportal-tst.logius.nl
@@ -907,6 +917,7 @@ cardaccess.tst.intra.amsterdam.nl
 cardsonline.acc.intra.amsterdam.nl
 cardsonline.intra.amsterdam.nl
 cardsonline.tst.intra.amsterdam.nl
+carel.brunssum.nl
 catalogus.data.amsterdam.nl
 cbm.acc.mijn.overheid.nl
 cbm.acc.picard.mijn.overheid.nl
@@ -958,9 +969,11 @@ clienteleitsm.logius.nl
 cloud.beverwijk.nl
 cloudadapter-test.baarn.nl
 cloudadapter-test.bronckhorst.nl
+cloudadapter-test.brunssum.nl
 cloudadapter-test.gemeenteberkelland.nl
 cloudadapter.baarn.nl
 cloudadapter.bronckhorst.nl
+cloudadapter.brunssum.nl
 cloudadapter.gemeenteberkelland.nl
 cloudstorage-koop.overheid.nl
 cms-binnenshuis.bergen.nl
@@ -981,6 +994,8 @@ cmsoo.borne.nl
 cognitatie.acc.omgevingswet.overheid.nl
 cognitatie.omgevingswet.overheid.nl
 cognitatie.tst.omgevingswet.overheid.nl
+cognos-test.brunssum.nl
+cognos.brunssum.nl
 college.alblasserdam.nl
 college.albrandswaard.nl
 comcms.logius.nl
@@ -1081,6 +1096,8 @@ data.gemnet.bergendal.nl
 data.gemnet.beuningen.nl
 data.overheid.nl
 dataacc.breda.nl
+databridge-tst.brunssum.nl
+databridge.brunssum.nl
 datalab.alkmaar.nl
 dataportaal.amsterdam.nl
 dataportaal.apeldoorn.nl
@@ -1165,6 +1182,7 @@ digikoppeling-prod.alphenaandenrijn.nl
 digikoppeling-test.alphenaandenrijn.nl
 digikoppeling-test.baarn.nl
 digikoppeling-test.beverwijk.nl
+digikoppeling-test.brunssum.nl
 digikoppeling.aaenhunze.nl
 digikoppeling.amstelveen.nl
 digikoppeling.arnhem.nl
@@ -1174,6 +1192,7 @@ digikoppeling.bernheze.org
 digikoppeling.beverwijk.nl
 digikoppeling.blaricum.nl
 digikoppeling.brielle.nl
+digikoppeling.brunssum.nl
 digikoppeling.gemeentebest.nl
 digikoppeling.test.amstelveen.nl
 digikoppeling.test.bernheze.org
@@ -1202,6 +1221,7 @@ diko.apeldoorn.nl
 directadmin.almelo.nl
 director.gemeentebeek.nl
 djuma.beesel.nl
+djumaproxy.brunssum.nl
 dk.asten.nl
 dkd-prod.alphenaandenrijn.nl
 dkd-test.alphenaandenrijn.nl
@@ -1211,6 +1231,8 @@ dkd.amersfoort.nl
 dkd.arnhem.nl
 dkd.beverwijk.nl
 dkd.boxtel.nl
+dkd.brunssum.nl
+dkdtest.brunssum.nl
 dkp.barneveld.nl
 dkt.barneveld.nl
 dktest.asten.nl
@@ -1333,6 +1355,7 @@ edienstenaanvragensd-acceptatie.albrandswaard.nl
 edienstenaanvragensd-acceptatie.barendrecht.nl
 edienstenaanvragensd.albrandswaard.nl
 edienstenaanvragensd.barendrecht.nl
+edienstenburgerzaken-prod.brunssum.nl
 edienstenburgerzaken-test.aalten.nl
 edienstenburgerzaken-test.alblasserdam.nl
 edienstenburgerzaken-test.albrandswaard.nl
@@ -1347,6 +1370,7 @@ edienstenburgerzaken-test.beesel.nl
 edienstenburgerzaken-test.bergen-nh.nl
 edienstenburgerzaken-test.beverwijk.nl
 edienstenburgerzaken-test.boxtel.nl
+edienstenburgerzaken-test.brunssum.nl
 edienstenburgerzaken-test.gemeenteberkelland.nl
 edienstenburgerzaken.aalsmeer.nl
 edienstenburgerzaken.aalten.nl
@@ -1364,6 +1388,7 @@ edienstenburgerzaken.beesel.nl
 edienstenburgerzaken.bergen-nh.nl
 edienstenburgerzaken.beverwijk.nl
 edienstenburgerzaken.boxtel.nl
+edienstenburgerzaken.brunssum.nl
 edienstenburgerzaken.gemeenteberkelland.nl
 edienstenburgerzaken.test.aalsmeer.nl
 edienstenburgerzaken.test.amstelveen.nl
@@ -1394,6 +1419,7 @@ eloket.asten.nl
 eloket.beesel.nl
 eloket.bergendal.nl
 eloket.bloemendaal.nl
+eloket.brunssum.nl
 eloketstaging.almere.nl
 elokettest.bloemendaal.nl
 email.amsterdam.nl
@@ -1655,6 +1681,7 @@ fw-rtr.alkmaar.nl
 g-rooster.bronckhorst.nl
 gast-rtr.alkmaar.nl
 gasten.beekdaelen.nl
+gasten.brunssum.nl
 gb-app05.gemeenteberkelland.nl
 gbav.dpg.amsterdam.nl
 gbav1.amersfoort.nl
@@ -1723,6 +1750,7 @@ geo.aaenhunze.nl
 geo.arnhem.nl
 geo.beverwijk.nl
 geo.breda.nl
+geo.brunssum.nl
 geo1.arnhem.nl
 geodata.almelo.nl
 geografie.bronckhorst.nl
@@ -1736,6 +1764,7 @@ geovisia.achtkarspelen.nl
 geovisia.amersfoort.nl
 ggd.amsterdam.nl
 ggi.barneveld.nl
+ggk.brunssum.nl
 gir.acc.amsterdam.nl
 gir.amsterdam.nl
 gis.apeldoorn.nl
@@ -1772,6 +1801,7 @@ goud.almere.nl
 govroam.beekdaelen.nl
 govroam.belastingdienst.nl
 govroam.borne.nl
+govroam.brunssum.nl
 govroam.gemeentebeek.nl
 gp-test.borne.nl
 gp.apeldoorn.nl
@@ -1827,6 +1857,7 @@ gtmz.str13.tst.belastingdienst.nl
 gtmz.str14.acc.belastingdienst.nl
 gtmzperf.acc.belastingdienst.nl
 guest.beekdaelen.nl
+guest.brunssum.nl
 guido.asten.nl
 gviservices.intranet.amsterdam.nl
 gviservicestest.intranet.amsterdam.nl
@@ -2118,6 +2149,7 @@ jaarstukken2021.bronckhorst.nl
 jaarstukken2022.bronckhorst.nl
 jaarstukken2023.bronckhorst.nl
 jaarverslag.arnhem.nl
+jcc-afspraken.brunssum.nl
 jcc.amstelveen.nl
 jcc.bergenopzoom.nl
 jccapi.bergeijk.nl
@@ -2148,6 +2180,7 @@ kaarten-demo.overheid.nl
 kaarten.boxtel.nl
 kaarten.gemeenteberkelland.nl
 kaartviewer.barneveld.nl
+kassaservice.brunssum.nl
 kavaanalytics.vcdn.belastingdienst.nl
 kavels.almere.nl
 kavelwinkel.almere.nl
@@ -2166,8 +2199,13 @@ kennisnetwerk.belastingdienst.nl
 ketenportaal.acceptatie.gemeentebeek.nl
 ketenportaal.gemeentebeek.nl
 keuzesinbeeld.amsterdam.nl
+key2bag-test.brunssum.nl
+key2datadistributie-prod.brunssum.nl
+key2datadistributie-test.brunssum.nl
 key2financien-prod.beverwijk.nl
 key2financien-test.beverwijk.nl
+key2gbav.brunssum.nl
+key2gbavtest.brunssum.nl
 key2waarderen-voormeldingwoz.amersfoort.nl
 keycloak.assen.nl
 kibana-prod.lpc.logius.nl
@@ -2228,6 +2266,7 @@ liquit.gemeentebest.nl
 liquitsatellite.gemeenteberkelland.nl
 listen2.dro.amsterdam.nl
 live.bergen-nh.nl
+logilink.brunssum.nl
 logilink.gbamailbox.amersfoort.nl
 login.alphenaandenrijn.nl
 login.bergen.nl
@@ -2261,6 +2300,7 @@ loket.test.aalsmeer.nl
 loket.test.amstelveen.nl
 loket.test.amsterdam.nl
 loketacc.arnhem.nl
+loo-tv.brunssum.nl
 looplijst.top.amsterdam.nl
 lrdstufxml.bergen-nh.nl
 lrza.gatservices.acc.igj.nl
@@ -2557,6 +2597,7 @@ monumenten.amsterdam.nl
 moodle.vcdn.belastingdienst.nl
 moodleont.vcdn.belastingdienst.nl
 moodletst.vcdn.belastingdienst.nl
+mor.brunssum.nl
 mozard.ameland.nl
 mozardtest.ameland.nl
 msm.almelo.nl
@@ -2592,11 +2633,17 @@ nasbackup.ovh.gemeentebeek.nl
 nat_o5001vmfavapp.ont.belastingdienst.nl
 nat_o5002vmfavapp.ont.belastingdienst.nl
 natuur.omgevingswet.overheid.nl
+navigus.brunssum.nl
 ndes.apeldoorn.nl
 ndes.barneveld.nl
 ndesapeldoorn.apeldoorn.nl
+nedbrk.brunssum.nl
+nedbrkinleesservice.brunssum.nl
+nedbrowser.brunssum.nl
 nedbrw.apeldoorn.nl
 nedbrwacc.apeldoorn.nl
+nedgeoservices.brunssum.nl
+nedmagazijn.brunssum.nl
 nedplan.gemeentebeek.nl
 netbox.alkmaar.nl
 netwerk.boxtel.nl
@@ -2604,6 +2651,7 @@ netwerkstad.almelo.nl
 neuron.prod.baarn.nl
 neuron.test.baarn.nl
 nexus.datapunt.amsterdam.nl
+ngdw.brunssum.nl
 nha-acc.amsterdam.nl
 nha-tst.amsterdam.nl
 nha.amsterdam.nl
@@ -3057,6 +3105,7 @@ pub.alkmaar.nl
 publicaties.barneveld.nl
 publicaties.rekenkamer.amsterdam.nl
 publicroam.beekdaelen.nl
+publicroam.brunssum.nl
 publiek.amsterdam.nl
 puc-acc.overheid.nl
 puc-redactie-acc.overheid.nl
@@ -3145,6 +3194,7 @@ ro-online.alphenaandenrijn.nl
 ro-online.bergen-nh.nl
 ro-online1.amersfoort.nl
 ro-onlineprod.brielle.nl
+ro.brunssum.nl
 ro.gemeenteberkelland.nl
 rokinintranet.amsterdam.nl
 roles.datapunt.amsterdam.nl
@@ -3213,6 +3263,7 @@ sbs.amsterdam.nl
 sbs.tst.amsterdam.nl
 scan.afs.acc.amsterdam.nl
 scan.afs.amsterdam.nl
+scan.brunssum.nl
 scanhulp-fa.amsterdam.nl
 scanhulp-ft.amsterdam.nl
 scanhulp.acc.amsterdam.nl
@@ -3249,6 +3300,7 @@ secure.bloemendaal.nl
 secure.boekel.nl
 secure.breda.nl
 secure.brielle.nl
+secure.brunssum.nl
 secure.gemeentebeek.nl
 securemail.borne.nl
 selfservice.ggd.amsterdam.nl
@@ -3447,6 +3499,8 @@ squit2go.gemeentebest.nl
 srmvaprd.ovh.gemeentebeek.nl
 srmvauitwijk.ovh.gemeentebeek.nl
 sscict.intranet.amsterdam.nl
+ssd.brunssum.nl
+ssdtest.brunssum.nl
 sslvpn.arnhem.nl
 sso.acc.omgevingswet.overheid.nl
 sso.bta.omgevingswet.overheid.nl
@@ -3569,6 +3623,8 @@ subsidies-backend.almelo.nl
 subsidies.acceptatie.almelo.nl
 subsidies.almelo.nl
 subsites.amsterdam.nl
+suite4burgerzaken-test.brunssum.nl
+suite4burgerzaken.brunssum.nl
 summit-ft.amsterdam.nl
 summit.tst.amsterdam.nl
 support.bergen-nh.nl
@@ -3584,6 +3640,7 @@ surveys3.ggd.amsterdam.nl
 svn.logius.nl
 svs-acc.almere.nl
 sw01.alkmaar.nl
+sync.brunssum.nl
 sync01.iba.amsterdam.nl
 sync01.oa.amsterdam.nl
 t-cms.rijksoverheid.nl
@@ -3632,6 +3689,7 @@ test-digikoppeling.assen.nl
 test-digikoppeling.beesel.nl
 test-digikoppeling.brielle.nl
 test-e-loket.apeldoorn.nl
+test-eloket.brunssum.nl
 test-energielabels.gebouwen.overheid.nl
 test-formulier.assen.nl
 test-internationaal.ondernemen.overheid.nl
@@ -3653,6 +3711,7 @@ test-openklant.assen.nl
 test-openzaak.assen.nl
 test-podiumd-logs.assen.nl
 test-psproxy.belastingdienst.nl
+test-secure.brunssum.nl
 test-subsidiebeheer.alkmaar.nl
 test-subsidieloket.alkmaar.nl
 test-topvorm.apeldoorn.nl
@@ -3669,6 +3728,7 @@ test.beverwijk.nl
 test.borne.nl
 test.boxtel.nl
 test.bp.data.amsterdam.nl
+test.brunssum.nl
 test.formulieren.almere.nl
 test.gemeentebest.nl
 test.hcv.mijn.overheid.nl
@@ -3788,6 +3848,7 @@ vcewpa01a.belastingdienst.nl
 vcewqa01a.belastingdienst.nl
 vcsew.belastingdienst.nl
 vdi.amersfoort.nl
+vdi.brunssum.nl
 vdi8.amersfoort.nl
 vecozo.dmz.belastingdienst.nl
 veiligdelen.alkmaar.nl
@@ -3840,6 +3901,7 @@ via2008pilot-test2.belastingdienst.nl
 via2008pilot.belastingdienst.nl
 victor.amsterdam.nl
 videobellen.belastingdienst.nl
+view.brunssum.nl
 view.nieuwsbrief.amsterdam.nl
 vinden.belastingdienst.nl
 vmapp002.borne.nl
@@ -3878,6 +3940,7 @@ waarmerk.assen.nl
 waarmerk.baarle-nassau.nl
 waarmerk.beuningen.nl
 waarmerk.brielle.nl
+waarmerk.brunssum.nl
 waarmerk.gemeenteberkelland.nl
 waarmerk.gemeentebest.nl
 wacfarm.acc.amsterdam.nl
@@ -3934,6 +3997,7 @@ webmail.borne.nl
 webmail.boxtel.nl
 webmail.breda.nl
 webmail.brielle.nl
+webmail.brunssum.nl
 webmail.centrum.amsterdam.nl
 webmail.dbga.amsterdam.nl
 webmail.dict.amsterdam.nl
@@ -3951,6 +4015,7 @@ webmail.werkenvoornederland.nl
 webmail.west.amsterdam.nl
 webmail.zuidoost.amsterdam.nl
 webmailpost.amstelveen.nl
+webmeeting.brunssum.nl
 webservice-decosdvl.acc.amsterdam.nl
 webservice-decosdvl.amsterdam.nl
 webservice-tdv.igj.nl
@@ -4030,6 +4095,8 @@ wmoportaal.amsterdam.nl
 wmoportaal.ot.amsterdam.nl
 wmoportaal.wzs.amsterdam.nl
 wob.arnhem.nl
+womserver-test.brunssum.nl
+womserver.brunssum.nl
 wonenportaal.amsterdam.nl
 woningbouwkaart.assen.nl
 woningbouwkaart.borger-odoorn.nl
@@ -4132,6 +4199,7 @@ www.breda.nl
 www.brielle.nl
 www.bronckhorst.nl
 www.brummen.nl
+www.brunssum.nl
 www.bta.omgevingswet.overheid.nl
 www.buikslotermeerplein.amsterdam.nl
 www.bureaubroedplaatsen.amsterdam.nl
@@ -4337,6 +4405,7 @@ zuiderbad.amsterdam.nl
 zvldapp.amstelveen.nl
 zwammerdamdorpskern.alphenaandenrijn.nl
 zwembadabonnement.gemeentebest.nl
+zwembaddebronspot.brunssum.nl
 zxy-cloud-assets.amsterdam.nl
 zxy-cloud-models.amsterdam.nl
 zxy-cloud.amsterdam.nl
