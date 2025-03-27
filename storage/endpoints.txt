@@ -34,6 +34,7 @@ http://autodiscover.gemeentebest.nl
 http://beekdaelen.nl
 http://bergeijk.nl
 http://bergen.nl
+http://bouwdossiers.stadsarchief.breda.nl
 http://ca-devportal-pre.logius.nl
 http://ca-devportal.logius.nl
 http://channels-az1.lpc.logius.nl
@@ -202,6 +203,7 @@ https://acc.bmidms.amsterdam.nl
 https://acc.boekel.nl
 https://acc.borsele.nl
 https://acc.bp.data.amsterdam.nl
+https://acc.breda.nl
 https://acc.fblocatielijst.amsterdam.nl
 https://acc.formulieren.almere.nl
 https://acc.gemeentebest.nl
@@ -305,6 +307,8 @@ https://andreas2.tst.amsterdam.nl
 https://aovpn.bergen.nl
 https://apeldoorn.nl
 https://apex.almere.nl
+https://api-acc.breda.nl
+https://api-dev.breda.nl
 https://api-meldingen.acc.almelo.nl
 https://api-meldingen.almelo.nl
 https://api-ota.belastingdienst.nl
@@ -313,6 +317,7 @@ https://api.aip.amsterdam.nl
 https://api.amsterdam.nl
 https://api.belastingdienst.nl
 https://api.betalen.amsterdam.nl
+https://api.betalen.breda.nl
 https://api.data.amsterdam.nl
 https://api.dataportaal.amsterdam.nl
 https://api.doemee.bloemendaal.nl
@@ -359,6 +364,7 @@ https://app.amsterdam.nl
 https://app.meldingen.amsterdam.nl
 https://apps.amsterdam.nl
 https://archief.afs.amsterdam.nl
+https://archieven.stadsarchief.breda.nl
 https://arena.ami-acc.amsterdam.nl
 https://arena.ami-dev.amsterdam.nl
 https://arena.ami-tac.amsterdam.nl
@@ -370,6 +376,7 @@ https://asten.nl
 https://atijdschrijven.apeldoorn.nl
 https://atlas.amstelveen.nl
 https://atlas.apeldoorn.nl
+https://atlas.breda.nl
 https://atlasacc.apeldoorn.nl
 https://auth.apeldoorn.nl
 https://auth.doemee.bloemendaal.nl
@@ -394,6 +401,7 @@ https://bedrijfsafval.assen.nl
 https://beeldbank-bo.baarn.nl
 https://beeldbank.amstelveen.nl
 https://beeldbank.baarn.nl
+https://beeldbank.breda.nl
 https://beeldbank.gemeentebest.nl
 https://beeldbankbeheer.gemeentebest.nl
 https://beesel.nl
@@ -403,6 +411,7 @@ https://begroten.centrumbegroot.alphenaandenrijn.nl
 https://begroten.zwammerdamdorpskern.alphenaandenrijn.nl
 https://beheer.acc.amsterdam.nl
 https://beheer.amsterdam.nl
+https://beheerbeeldbank.breda.nl
 https://beheerfotobank.amsterdam.nl
 https://beheerportaal.acc.omgevingswet.overheid.nl
 https://beheerportaal.bta.omgevingswet.overheid.nl
@@ -459,6 +468,7 @@ https://betalen.amsterdam.nl
 https://betalen.belastingdienst.nl
 https://betalen.bergen-nh.nl
 https://betalen.beverwijk.nl
+https://betalen.breda.nl
 https://betalingen.amsterdam.nl
 https://bewegen.apeldoorn.nl
 https://bewustwording.amersfoort.nl
@@ -489,6 +499,7 @@ https://bouw.omgevingswet.overheid.nl
 https://bouwdossiers.amsterdam.nl
 https://boxtel.nl
 https://bp.data.amsterdam.nl
+https://breda.nl
 https://brediusbad.amsterdam.nl
 https://brk.basisregistraties.overheid.nl
 https://brk.test.basisregistraties.overheid.nl
@@ -596,7 +607,9 @@ https://data.amsterdam.nl
 https://data.bergendal.nl
 https://data.bergenopzoom.nl
 https://data.beuningen.nl
+https://data.breda.nl
 https://data.overheid.nl
+https://dataacc.breda.nl
 https://datalab.alkmaar.nl
 https://dataportaal.apeldoorn.nl
 https://datumprikker.belastingdienst.nl
@@ -628,6 +641,7 @@ https://deschop.acceptatie.asten.nl
 https://deschop.asten.nl
 https://developer.omgevingswet.overheid.nl
 https://developer.overheid.nl
+https://deventit.breda.nl
 https://devportal.api.amsterdam.nl
 https://dex.meldingen.alphenaandenrijn.nl
 https://digid-parkeervergunningen-acc.beverwijk.nl
@@ -792,6 +806,7 @@ https://enterpriseregistration.arnhem.nl
 https://enterpriseregistration.belastingdienst.nl
 https://enterpriseregistration.bergenopzoom.nl
 https://enterpriseregistration.bladel.nl
+https://erfgoed.breda.nl
 https://erfgoedregister.amsterdam.nl
 https://erfpacht-acc.amsterdam.nl
 https://erfpacht-codekwal-dev.amsterdam.nl
@@ -822,6 +837,7 @@ https://erisa.fa.amsterdam.nl
 https://erisa.fa2.amsterdam.nl
 https://erisa.ft.amsterdam.nl
 https://eubtw.belastingdienst.nl
+https://evenementen.breda.nl
 https://externe-veiligheid.omgevingswet.overheid.nl
 https://extranet.alphen-chaam.nl
 https://f2b.belastingdienst.nl
@@ -847,6 +863,8 @@ https://fibe1.belastingdienst.nl
 https://fibi1.belastingdienst.nl
 https://fibt1.toeslagen.nl
 https://fibz1.belastingdienst.nl
+https://filecap.breda.nl
+https://filecapacc.breda.nl
 https://fileshare.adds.amsterdam.nl
 https://fileshare.amsterdam.nl
 https://filetransfer.belastingdienst.nl
@@ -872,7 +890,9 @@ https://forms.vga.amsterdam.nl
 https://formulier-test.almere.nl
 https://formulier.amsterdam.nl
 https://formulier.assen.nl
+https://formulier.breda.nl
 https://formulier.werkenvoornederland.nl
+https://formulieracc.breda.nl
 https://formulieren-test.beesel.nl
 https://formulieren.almere.nl
 https://formulieren.amsterdam.nl
@@ -907,10 +927,12 @@ https://gemeenteraad.almere.nl
 https://gemeenteraad.assen.nl
 https://gemeenteraad.bloemendaal.nl
 https://geo.arnhem.nl
+https://geo.breda.nl
 https://geoserver-signalen.almere.nl
 https://geotest.arnhem.nl
 https://ggd.amsterdam.nl
 https://gis.assen.nl
+https://gis.breda.nl
 https://gisib-test.alblasserdam.nl
 https://gisib.acc.meldingen.amsterdam.nl
 https://gisib.alblasserdam.nl
@@ -982,6 +1004,7 @@ https://iburgerzaken.boekel.nl
 https://iburgerzaken.borger-odoorn.nl
 https://iburgerzaken.borne.nl
 https://iburgerzaken.borsele.nl
+https://iburgerzaken.breda.nl
 https://iburgerzaken.gemeentebeek.nl
 https://iburgerzaken.gemeentebest.nl
 https://id-beheer-erfpacht-acc.amsterdam.nl
@@ -1024,6 +1047,8 @@ https://informatiepuntkinderopvangtoeslag.rijksoverheid.nl
 https://ingesprek.almere.nl
 https://inkomen-test.mijn.arnhem.nl
 https://inkomen.mijn.arnhem.nl
+https://inkomensondersteuning.breda.nl
+https://inkomensondersteuningpp.breda.nl
 https://inkoopplein.almere.nl
 https://inloggen.belastingportaal.aaenhunze.nl
 https://inloggen.belastingportaal.acc.aaenhunze.nl
@@ -1099,6 +1124,7 @@ https://klimaatplein.bergen-nh.nl
 https://koppelpoort.amersfoort.nl
 https://koppelvlak-asl.overheid.nl
 https://koppelvlak.overheid.nl
+https://kredietbankwestbrabant.breda.nl
 https://krefia.amsterdam.nl
 https://kwaliteitsdashboard-koop.overheid.nl
 https://le-webservices-beta.belastingdienst.nl
@@ -1162,6 +1188,7 @@ https://maps.almere.nl
 https://maps.amsterdam.nl
 https://maps.bodegraven-reeuwijk.nl
 https://matenpark.apeldoorn.nl
+https://matomo.breda.nl
 https://mbg1.beverwijk.nl
 https://meedenken.arnhem.nl
 https://meedoen-acc.borger-odoorn.nl
@@ -1273,6 +1300,7 @@ https://nedbrwacc.apeldoorn.nl
 https://netbox.alkmaar.nl
 https://nha.amsterdam.nl
 https://nieuwauthentiekbloemendaal.doemee.bloemendaal.nl
+https://nieuws.breda.nl
 https://nieuwsbrieven.amsterdam.nl
 https://nieuwsbrievenminocw.nl
 https://noorderparkbad.amsterdam.nl
@@ -1340,6 +1368,7 @@ https://open.arnhem.nl
 https://open.barneveld.nl
 https://open.beverwijk.nl
 https://open.boxtel.nl
+https://open.breda.nl
 https://open.overheid.nl
 https://opendata.assen.nl
 https://opendata.bloemendaal.nl
@@ -1383,6 +1412,7 @@ https://over-ons.belastingdienst.nl
 https://overheid.nl
 https://ovverklaringen.belastingdienst.nl
 https://panel.amsterdam.nl
+https://parkeerabonnementen.breda.nl
 https://parkeerkaart.amsterdam.nl
 https://parkeervergunning.amsterdam.nl
 https://parkeervergunningen-acc.beverwijk.nl
@@ -1646,6 +1676,7 @@ https://spa4dweb.amsterdam.nl
 https://speleninoost.amsterdam.nl
 https://speleninzuid.amsterdam.nl
 https://spf-wind.asten.nl
+https://sportaccommodaties.breda.nl
 https://sportencultuur.almere.nl
 https://sportsupport.almere.nl
 https://sportverhuur.amsterdam.nl
@@ -1670,6 +1701,7 @@ https://sso.pre.omgevingswet.overheid.nl
 https://sso.tst2905.omgevingswet.overheid.nl
 https://staatvandeparticipatie.amsterdam.nl
 https://stadsarchief.almere.nl
+https://stadsarchief.breda.nl
 https://stadsgesprekken.almere.nl
 https://stadspark.apeldoorn.nl
 https://stadspas.apeldoorn.nl
@@ -1848,12 +1880,15 @@ https://wachtwoordvergeten.amsterdam.nl
 https://wagenparkgegevens.belastingdienst.nl
 https://water.omgevingswet.overheid.nl
 https://web.alblasserdam.nl
+https://webcamslingerweg.breda.nl
+https://webcamspinveld.breda.nl
 https://webdiensten.belastingdienst.nl
 https://webforms.belastingdienst.nl
 https://webmail.alkmaar.nl
 https://webmail.bernheze.org
 https://webmail.bloemendaal.nl
 https://webmail.boekel.nl
+https://webmail.breda.nl
 https://webservice-decosdvl.acc.amsterdam.nl
 https://webservice-decosdvl.amsterdam.nl
 https://website.alphen-chaam.nl
@@ -1949,6 +1984,7 @@ https://www.borger-odoorn.nl
 https://www.borne.nl
 https://www.borsele.nl
 https://www.boxtel.nl
+https://www.breda.nl
 https://www.bta.omgevingswet.overheid.nl
 https://www.buurtbudget.amsterdam.nl
 https://www.buurtbudgetnoord.amsterdam.nl
@@ -2014,6 +2050,7 @@ https://www.schoolwijzer.amsterdam.nl
 https://www.speleninoost.amsterdam.nl
 https://www.speleninzuid.amsterdam.nl
 https://www.staatvandeparticipatie.amsterdam.nl
+https://www.stadsarchief.breda.nl
 https://www.statistiek.amsterdam.nl
 https://www.stemmen.amsterdam.nl
 https://www.toeslagen.nl

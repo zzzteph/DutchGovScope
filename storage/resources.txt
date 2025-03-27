@@ -1,6 +1,10 @@
 2connect-acc.apeldoorn.nl
 2connect-tst.apeldoorn.nl
 2connect.apeldoorn.nl
+2secure.breda.nl
+2secureacc.breda.nl
+2securecloud.breda.nl
+2securecloudacc.breda.nl
 3d.almere.nl
 3d.amsterdam.nl
 Autorisatietest.bloemendaal.nl
@@ -125,6 +129,7 @@ acc.bodegraven-reeuwijk.nl
 acc.boekel.nl
 acc.borsele.nl
 acc.bp.data.amsterdam.nl
+acc.breda.nl
 acc.catalogus.data.amsterdam.nl
 acc.contactherstelservice.lpc.mijn.overheid.nl
 acc.data.amsterdam.nl
@@ -415,6 +420,8 @@ apex.almere.nl
 apextq01.belastingdienst.nl
 apextw01.belastingdienst.nl
 apgmea02.prod.bna.belastingdienst.nl
+api-acc.breda.nl
+api-dev.breda.nl
 api-jcc.gemeenteberkelland.nl
 api-meldingen.acc.almelo.nl
 api-meldingen.almelo.nl
@@ -427,6 +434,7 @@ api.aip.amsterdam.nl
 api.amsterdam.nl
 api.belastingdienst.nl
 api.betalen.amsterdam.nl
+api.betalen.breda.nl
 api.data.amsterdam.nl
 api.dataportaal.amsterdam.nl
 api.dn.acc.mijn.overheid.nl
@@ -500,6 +508,7 @@ apps.amsterdam.nl
 apps.arnhem.nl
 appstore-ont.belastingdienst.nl
 archief.afs.amsterdam.nl
+archieven.stadsarchief.breda.nl
 arena.ami-acc.amsterdam.nl
 arena.ami-dev.amsterdam.nl
 arena.ami-tac.amsterdam.nl
@@ -529,6 +538,7 @@ atijdschrijven.apeldoorn.nl
 atlas.amstelveen.nl
 atlas.amsterdam.nl
 atlas.apeldoorn.nl
+atlas.breda.nl
 atlas.dbi.amsterdam.nl
 atlasacc.apeldoorn.nl
 auth.apeldoorn.nl
@@ -672,6 +682,7 @@ beeksapcontent.ovh.gemeentebeek.nl
 beeldbank-bo.baarn.nl
 beeldbank.amstelveen.nl
 beeldbank.baarn.nl
+beeldbank.breda.nl
 beeldbank.gemeentebest.nl
 beeldbankbeheer.gemeentebest.nl
 beesel.nl
@@ -688,6 +699,7 @@ beheer.integratie.omgevingswet.overheid.nl
 beheer.intpatch.omgevingswet.overheid.nl
 beheer.pre.omgevingswet.overheid.nl
 beheer.preprod.omgevingswet.overheid.nl
+beheerbeeldbank.breda.nl
 beheerfotobank.amsterdam.nl
 beheeropenbareruimte.arnhem.nl
 beheerportaal.acc.omgevingswet.overheid.nl
@@ -769,6 +781,7 @@ betalen.amsterdam.nl
 betalen.belastingdienst.nl
 betalen.bergen-nh.nl
 betalen.beverwijk.nl
+betalen.breda.nl
 betalen.str10.acc.belastingdienst.nl
 betalen.str11.acc.belastingdienst.nl
 betalen.str12.acc.belastingdienst.nl
@@ -826,9 +839,11 @@ boub-api.overheid.nl
 bounces-eps.amsterdam.nl
 bouw.omgevingswet.overheid.nl
 bouwdossiers.amsterdam.nl
+bouwdossiers.stadsarchief.breda.nl
 boxtel.nl
 bp.data.amsterdam.nl
 brandweer.almelo.nl
+breda.nl
 brediusbad.amsterdam.nl
 bri-olo.belastingdienst.nl
 bri.belastingdienst.nl
@@ -952,6 +967,7 @@ college.alblasserdam.nl
 college.albrandswaard.nl
 comcms.logius.nl
 community.developer.overheid.nl
+comoverheidacc.breda.nl
 componenten-acc.overheid.nl
 componenten-tst.overheid.nl
 componenten.overheid.nl
@@ -984,6 +1000,7 @@ contentcreatie-eto.overheid.nl
 copper.dbga.acc.amsterdam.nl
 copper.dbga.amsterdam.nl
 corona.beverwijk.nl
+corona.breda.nl
 coronadashboard.rijksoverheid.nl
 cpapps.belastingdienst.nl
 cpext.ont.belastingdienst.nl
@@ -1038,9 +1055,11 @@ data.arnhem.nl
 data.bergendal.nl
 data.bergenopzoom.nl
 data.beuningen.nl
+data.breda.nl
 data.gemnet.bergendal.nl
 data.gemnet.beuningen.nl
 data.overheid.nl
+dataacc.breda.nl
 datalab.alkmaar.nl
 dataportaal.amsterdam.nl
 dataportaal.apeldoorn.nl
@@ -1103,6 +1122,7 @@ deurwaardersloket.amersfoort.nl
 dev.rnd.amsterdam.nl
 developer.omgevingswet.overheid.nl
 developer.overheid.nl
+deventit.breda.nl
 devportal.api.amsterdam.nl
 dex.meldingen.alphenaandenrijn.nl
 dgdialog.acc.amsterdam.nl
@@ -1384,6 +1404,7 @@ enterpriseregistration.belastingdienst.nl
 enterpriseregistration.bergenopzoom.nl
 enterpriseregistration.bladel.nl
 epms.amsterdam.nl
+erfgoed.breda.nl
 erfgoedregister.amsterdam.nl
 erfpacht-acc.amsterdam.nl
 erfpacht-codekwal-dev.amsterdam.nl
@@ -1414,6 +1435,8 @@ erisa.fa.amsterdam.nl
 erisa.fa2.amsterdam.nl
 erisa.ft.amsterdam.nl
 esb.bergenopzoom.nl
+esb.breda.nl
+esbacc.breda.nl
 esbt.bergenopzoom.nl
 esrs.ovh.gemeentebeek.nl
 etoegang-mtls-acc.belastingdienst.nl
@@ -1432,6 +1455,7 @@ evat-test2.belastingdienst.nl
 evenementen.amsterdam.nl
 evenementen.assen.nl
 evenementen.belastingdienst.nl
+evenementen.breda.nl
 event.acc.belastingdienst.nl
 event.belastingdienst.nl
 exchange.alphenaandenrijn.nl
@@ -1493,6 +1517,8 @@ fibu.amsterdam.nl
 fibu.dwiweb.amsterdam.nl
 fibz1.belastingdienst.nl
 fibz2.acc.belastingdienst.nl
+filecap.breda.nl
+filecapacc.breda.nl
 files.data.amsterdam.nl
 fileshare.adds.amsterdam.nl
 fileshare.amsterdam.nl
@@ -1544,7 +1570,9 @@ formulier-test.almere.nl
 formulier.amersfoort.nl
 formulier.amsterdam.nl
 formulier.assen.nl
+formulier.breda.nl
 formulier.werkenvoornederland.nl
+formulieracc.breda.nl
 formulieren-g4-acc.amsterdam.nl
 formulieren-test.beesel.nl
 formulieren.acc.amsterdam.nl
@@ -1555,6 +1583,8 @@ formulieren.assen.nl
 formulieren.beesel.nl
 formulieren.bodegraven-reeuwijk.nl
 formulieren1.amsterdam.nl
+formulierenacc.breda.nl
+formulierenaccdirect.breda.nl
 fortescloud.acc.belastingdienst.nl
 forum.developer.overheid.nl
 fotobank.amsterdam.nl
@@ -1656,6 +1686,7 @@ gen2.alkmaar.nl
 geo.aaenhunze.nl
 geo.arnhem.nl
 geo.beverwijk.nl
+geo.breda.nl
 geo1.arnhem.nl
 geodata.almelo.nl
 geohr.assen.nl
@@ -1673,6 +1704,7 @@ gir.amsterdam.nl
 gis.apeldoorn.nl
 gis.assen.nl
 gis.bloemendaal.nl
+gis.breda.nl
 gisib-test.alblasserdam.nl
 gisib.acc.amsterdam.nl
 gisib.acc.meldingen.amsterdam.nl
@@ -1857,6 +1889,7 @@ iburgerzaken.boekel.nl
 iburgerzaken.borger-odoorn.nl
 iburgerzaken.borne.nl
 iburgerzaken.borsele.nl
+iburgerzaken.breda.nl
 iburgerzaken.gemeentebeek.nl
 iburgerzaken.gemeentebest.nl
 ibzpink.aaenhunze.nl
@@ -1880,6 +1913,7 @@ ibzpink.bodegraven-reeuwijk.nl
 ibzpink.boekel.nl
 ibzpink.borger-odoorn.nl
 ibzpink.borsele.nl
+ibzpink.breda.nl
 ibzpink.gemeentebeek.nl
 ibzpink.gemeentebest.nl
 icm-ast.asten.nl
@@ -1955,6 +1989,8 @@ ingesprek.almere.nl
 inkomen-test.mijn.arnhem.nl
 inkomen.mijn.arnhem.nl
 inkomen.toeslagen.nl
+inkomensondersteuning.breda.nl
+inkomensondersteuningpp.breda.nl
 inkoopplein.almere.nl
 inkoopportaal.belastingdienst.nl
 inkopers.werkenvoornederland.nl
@@ -2097,17 +2133,20 @@ klantcontact.baarn.nl
 klantcontact.bergendal.nl
 klantcontact.beuningen.nl
 klimaatplein.bergen-nh.nl
+knp.breda.nl
 koppelpoort.amersfoort.nl
 koppelvlak-acc.overheid.nl
 koppelvlak-asl.overheid.nl
 koppelvlak.bergen-nh.nl
 koppelvlak.overheid.nl
+kredietbankwestbrabant.breda.nl
 krefia-acceptatie.amsterdam.nl
 krefia.amsterdam.nl
 krm.brievenbus.amsterdam.nl
 krmacc.brievenbus.amsterdam.nl
 kwaliteitsdashboard-koop.overheid.nl
 langparkeren.amsterdam.nl
+lavueltaholanda.breda.nl
 ldap.alkmaar.nl
 le-webservices-beta.belastingdienst.nl
 le-webservices.belastingdienst.nl
@@ -2163,6 +2202,7 @@ loket.asten.nl
 loket.barendrecht.nl
 loket.bergen-nh.nl
 loket.borne.nl
+loket.breda.nl
 loket.overheid.nl
 loket.test.aalsmeer.nl
 loket.test.amstelveen.nl
@@ -2254,6 +2294,7 @@ mase01.oudzuid.amsterdam.nl
 matchpointbhr.dmo.acc.amsterdam.nl
 matchpointkp.dmo.acc.amsterdam.nl
 matenpark.apeldoorn.nl
+matomo.breda.nl
 mbg1.beverwijk.nl
 mc.belastingdienst.nl
 mc.ont.belastingdienst.nl
@@ -2424,11 +2465,13 @@ misc-geo-02.barneveld.nl
 mks.acc.amsterdam.nl
 mks.amsterdam.nl
 mks.beekdaelen.nl
+mks.breda.nl
 mks.brievenbus.amsterdam.nl
 mks.gemeentebest.nl
 mks.preprod.amsterdam.nl
 mks.test.amsterdam.nl
 mks01.amsterdam.nl
+mksacc.breda.nl
 mksp01bkl.boekel.nl
 mm.acc.belastingdienst.nl
 mm.belastingdienst.nl
@@ -2505,6 +2548,7 @@ nha-tst.amsterdam.nl
 nha.amsterdam.nl
 nhr.barneveld.nl
 nieuwauthentiekbloemendaal.doemee.bloemendaal.nl
+nieuws.breda.nl
 nieuwsbrief.amsterdam.nl
 nieuwsbrief.arnhem.nl
 nieuwsbrief.assen.nl
@@ -2643,6 +2687,7 @@ open.arnhem.nl
 open.barneveld.nl
 open.beverwijk.nl
 open.boxtel.nl
+open.breda.nl
 open.data.amsterdam.nl
 open.gemeentebeek.nl
 open.overheid.nl
@@ -2722,6 +2767,7 @@ panel.almere.nl
 panel.amsterdam.nl
 panorama.data.amsterdam.nl
 panoviewer.data.amsterdam.nl
+parkeerabonnementen.breda.nl
 parkeerbelasting.amsterdam.nl
 parkeerkaart-acc.amsterdam.nl
 parkeerkaart-tst.amsterdam.nl
@@ -2769,6 +2815,7 @@ pensioen.toeslagen.nl
 perf.omgevingswet.overheid.nl
 persberichten.rijksoverheid.nl
 personeelsplanning.beekdaelen.nl
+persoonlijk.breda.nl
 pfsense.secure.amsterdam.nl
 pgw.acc.belastingdienst.nl
 pgw.belastingdienst.nl
@@ -2783,8 +2830,10 @@ piv-rest-test.belastingdienst.nl
 piv-rest.belastingdienst.nl
 piwik.almelo.nl
 piwik.bodegraven-reeuwijk.nl
+piwik.breda.nl
 piwik.data.amsterdam.nl
 piwik.datapunt.amsterdam.nl
+piwikacc.breda.nl
 pix-ia-sth.alkmaar.nl
 pix-ia-stk.alkmaar.nl
 pki.bladel.nl
@@ -2963,6 +3012,7 @@ raadsnet.bernheze.org
 rabbitmq.datapunt.amsterdam.nl
 radius.gemeenteberkelland.nl
 rap.belastingdienst.nl
+rap.breda.nl
 rcgog.nl
 rcm.belastingdienst.nl
 rd1.toegang.overheid.nl
@@ -3116,6 +3166,7 @@ secure.barneveld.nl
 secure.beverwijk.nl
 secure.bloemendaal.nl
 secure.boekel.nl
+secure.breda.nl
 secure.gemeentebeek.nl
 securemail.borne.nl
 selfservice.ggd.amsterdam.nl
@@ -3291,6 +3342,7 @@ spf-ogone01.asten.nl
 spf-ogone02.asten.nl
 spf-wind.asten.nl
 splunksyslog.dmz.belastingdienst.nl
+sportaccommodaties.breda.nl
 sportencultuur.almere.nl
 sportparken.datapunt.amsterdam.nl
 sportsupport.almere.nl
@@ -3327,6 +3379,7 @@ ssp.alphenaandenrijn.nl
 staatvandeparticipatie.amsterdam.nl
 stadsarchief.almere.nl
 stadsarchief.amsterdam.nl
+stadsarchief.breda.nl
 stadsarchief.brievenbus.amsterdam.nl
 stadsgesprekken.almere.nl
 stadspark.apeldoorn.nl
@@ -3755,6 +3808,8 @@ web2print.assen.nl
 webapps-acc.belastingdienst.nl
 webapps.aaenhunze.nl
 webapps.belastingdienst.nl
+webcamslingerweg.breda.nl
+webcamspinveld.breda.nl
 webconf.assen.nl
 webdiensten-conf1.belastingdienst.nl
 webdiensten-perf.acc.belastingdienst.nl
@@ -3779,6 +3834,7 @@ webmail.bloemendaal.nl
 webmail.boekel.nl
 webmail.borne.nl
 webmail.boxtel.nl
+webmail.breda.nl
 webmail.centrum.amsterdam.nl
 webmail.dbga.amsterdam.nl
 webmail.dict.amsterdam.nl
@@ -3810,6 +3866,7 @@ webservices.str13.acc.belastingdienst.nl
 website.acc.belastingdienst.nl
 website.alphen-chaam.nl
 website.belastingdienst.nl
+websiteacc.breda.nl
 webtest10.rijksoverheid.nl
 webtim.nzl.amsterdam.nl
 weesp.acc.meldingen.amsterdam.nl
@@ -3972,6 +4029,7 @@ www.borne.nl
 www.borsele.nl
 www.boxtel.nl
 www.brandweer.almelo.nl
+www.breda.nl
 www.bta.omgevingswet.overheid.nl
 www.buikslotermeerplein.amsterdam.nl
 www.bureaubroedplaatsen.amsterdam.nl
@@ -4098,6 +4156,7 @@ www.squit2020publiceren.gemeentebeek.nl
 www.srmvaprd.ovh.gemeentebeek.nl
 www.srmvauitwijk.ovh.gemeentebeek.nl
 www.staatvandeparticipatie.amsterdam.nl
+www.stadsarchief.breda.nl
 www.stadspas.apeldoorn.nl
 www.stadstoezicht.amsterdam.nl
 www.statistiek.amsterdam.nl
