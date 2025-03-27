@@ -35,6 +35,7 @@ http://autodiscover.debilt.nl
 http://autodiscover.delft.nl
 http://autodiscover.denhelder.nl
 http://autodiscover.derondevenen.nl
+http://autodiscover.deventer.nl
 http://autodiscover.dewolden.nl
 http://autodiscover.gemeenteberkelland.nl
 http://autodiscover.gemeentebest.nl
@@ -139,6 +140,7 @@ https://abonneren.delft.nl
 https://acc-broker.assen.nl
 https://acc-broker.borger-odoorn.nl
 https://acc-broker.coevorden.nl
+https://acc-broker.deventer.nl
 https://acc-contact.assen.nl
 https://acc-contact.dev.assen.nl
 https://acc-formulier.assen.nl
@@ -159,8 +161,19 @@ https://acc-openklant.dev.assen.nl
 https://acc-openwave.beverwijk.nl
 https://acc-openzaak.assen.nl
 https://acc-openzaak.dev.assen.nl
+https://acc-podiumd-contact.deventer.nl
+https://acc-podiumd-formulier.deventer.nl
+https://acc-podiumd-keycloak.deventer.nl
 https://acc-podiumd-logs.assen.nl
 https://acc-podiumd-logs.dev.assen.nl
+https://acc-podiumd-logs.deventer.nl
+https://acc-podiumd-mijn.deventer.nl
+https://acc-podiumd-notificaties.deventer.nl
+https://acc-podiumd-objecten.deventer.nl
+https://acc-podiumd-objecttypen.deventer.nl
+https://acc-podiumd-openklant.deventer.nl
+https://acc-podiumd-openzaak.deventer.nl
+https://acc-podiumd-zac.deventer.nl
 https://acc-podiumd.sschosting.nl.assen.nl
 https://acc.admin.schoolwijzer.amsterdam.nl
 https://acc.adus.amsterdam.nl
@@ -226,11 +239,13 @@ https://adfs.brummen.nl
 https://adfs.brunssum.nl
 https://adfslogin.defryskemarren.nl
 https://admin.doemee.bloemendaal.nl
+https://admin.openstad.deventer.nl
 https://admin.schoolwijzer.amsterdam.nl
 https://admsec.acc.denhaag.nl
 https://admsec.denhaag.nl
 https://admsecaz.acc.denhaag.nl
 https://adus.amsterdam.nl
+https://adviesraden.deventer.nl
 https://afs.acc.amsterdam.nl
 https://afs.ont.amsterdam.nl
 https://afs.opl.amsterdam.nl
@@ -251,6 +266,7 @@ https://afspraken.beverwijk.nl
 https://afspraken.bronckhorst.nl
 https://afspraken.cranendonck.nl
 https://afspraken.dalfsen.nl
+https://afspraken.deventer.nl
 https://afval.assen.nl
 https://afvalkalender.alphenaandenrijn.nl
 https://afvalkalender.borsele.nl
@@ -347,6 +363,7 @@ https://api.meldingen.assen.nl
 https://api.meldingen.bergenopzoom.nl
 https://api.meldingen.bernheze.org
 https://api.openstad.alphenaandenrijn.nl
+https://api.openstad.deventer.nl
 https://api.pingping.amsterdam.nl
 https://api.ton.amsterdam.nl
 https://api.top.amsterdam.nl
@@ -359,6 +376,7 @@ https://apps.denhelder.nl
 https://archeologie-acc.denhaag.nl
 https://archeologie.denhaag.nl
 https://archief.afs.amsterdam.nl
+https://archief.deventer.nl
 https://archieven.stadsarchief.breda.nl
 https://arena.ami-acc.amsterdam.nl
 https://arena.ami-dev.amsterdam.nl
@@ -378,6 +396,7 @@ https://aut.topdesk.denhaag.nl
 https://auth.apeldoorn.nl
 https://auth.denhaag.nl
 https://auth.doemee.bloemendaal.nl
+https://auth.openstad.deventer.nl
 https://auth1.denhaag.nl
 https://auth2.denhaag.nl
 https://auth3.denhaag.nl
@@ -405,6 +424,7 @@ https://backoffice-parkeervergunningen.beverwijk.nl
 https://bag-kastlijst.acc.denhaag.nl
 https://bag.acc.denhaag.nl
 https://bag.denhaag.nl
+https://bag.deventer.nl
 https://barendrecht.nl
 https://bastion365.assen.nl
 https://bastion365.asten.nl
@@ -488,6 +508,7 @@ https://bibliotheekbenoordenhout.denhaag.nl
 https://bikecity.amsterdam.nl
 https://bink.beverwijk.nl
 https://binnenshuis.bergen.nl
+https://binnenstad.deventer.nl
 https://binnenstadsplan2030.denhaag.nl
 https://bladel.nl
 https://blaricum.nl
@@ -512,6 +533,7 @@ https://bregje.denhaag.nl
 https://bregje.dev.denhaag.nl
 https://bregje.test.denhaag.nl
 https://brielle.nl
+https://brink70.deventer.nl
 https://brlcmg.brielle.nl
 https://broker.aalten.nl
 https://broker.assen.nl
@@ -519,6 +541,7 @@ https://broker.bernheze.org
 https://broker.borger-odoorn.nl
 https://broker.buren.nl
 https://broker.coevorden.nl
+https://broker.deventer.nl
 https://bronckhorst.nl
 https://bros-academie.deurne.nl
 https://brummen.nl
@@ -534,6 +557,7 @@ https://buurtbudget.amsterdam.nl
 https://buurtbudgetnoord.amsterdam.nl
 https://buurtbudgetzuid.amsterdam.nl
 https://buurtbudgetzuidoost.amsterdam.nl
+https://buurtkijker.deventer.nl
 https://camunda-zgw.acc.denhaag.nl
 https://capelleaandenijssel.nl
 https://cardaccess.acc.intra.amsterdam.nl
@@ -555,6 +579,7 @@ https://cloudrecorder.denhaag.nl
 https://cms-binnenshuis.bergen.nl
 https://cms-joost.beuningen.nl
 https://cms.bernheze.org
+https://cms.openstad.deventer.nl
 https://cmsbink.beverwijk.nl
 https://cmsdieuwke.defryskemarren.nl
 https://cmshofnet.coevorden.nl
@@ -579,12 +604,14 @@ https://contactregistratie.amsterdam.nl
 https://contactregistratie.tst.amsterdam.nl
 https://containers.amsterdam.nl
 https://continuverbeterenjmo.denhaag.nl
+https://coronavirus.deventer.nl
 https://crk.amsterdam.nl
 https://crl.amersfoort.nl
 https://crypt.apeldoorn.nl
 https://cryptacc.apeldoorn.nl
 https://cryptshare.delft.nl
 https://cryptsharetest.delft.nl
+https://csam.deventer.nl
 https://csc.beverwijk.nl
 https://csc.dantumadiel.frl
 https://css.denhaag.nl
@@ -596,6 +623,7 @@ https://daalder.makkelijkemarkt.amsterdam.nl
 https://dacceptatieloket.assen.nl
 https://dacceptatieloket.borger-odoorn.nl
 https://dacceptatieloket.coevorden.nl
+https://dacceptatieloket.deventer.nl
 https://dagbesteding.apeldoorn.nl
 https://dalfsen.nl
 https://dali.alphenaandenrijn.nl
@@ -618,6 +646,7 @@ https://dataacc.breda.nl
 https://datalab.alkmaar.nl
 https://dataportaal.apeldoorn.nl
 https://datatest.delft.nl
+https://db01.deventer.nl
 https://debelastingbalie.amersfoort.nl
 https://debilt.nl
 https://deboswinkel.amsterdam.nl
@@ -651,7 +680,13 @@ https://deschop.acceptatie.asten.nl
 https://deschop.asten.nl
 https://desktop5.denhaag.nl
 https://deurne.nl
+https://dev01.deventer.nl
+https://devapps3.deventer.nl
+https://devcmgs1.deventer.nl
+https://deventer.nl
 https://deventit.breda.nl
+https://devgovrs1.deventer.nl
+https://devisie2020.deventer.nl
 https://devportal.api.amsterdam.nl
 https://dewolden.nl
 https://dex.meldingen.alphenaandenrijn.nl
@@ -670,11 +705,15 @@ https://digitaalerfgoed.almere.nl
 https://digitaalgemeenteloket.alphenaandenrijn.nl
 https://digitaleplannen.apeldoorn.nl
 https://directadmin.almelo.nl
+https://dkd.deventer.nl
+https://dkdtest.deventer.nl
 https://dloket.assen.nl
 https://dloket.borger-odoorn.nl
 https://dloket.coevorden.nl
+https://dloket.deventer.nl
 https://dmafunc002.amsterdam.nl
 https://dmpfunc002.amsterdam.nl
+https://docgen.deventer.nl
 https://documenten.acceptatie.amstelveen.nl
 https://documenten.amstelveen.nl
 https://documentgenerator.amsterdam.nl
@@ -683,10 +722,12 @@ https://doe-mee-test.coevorden.nl
 https://doe-mee.coevorden.nl
 https://doemee.bloemendaal.nl
 https://doemee.denhaag.nl
+https://doemee.deventer.nl
 https://doemee.gemeentebest.nl
 https://druktebeeld.amsterdam.nl
 https://dso.data.amsterdam.nl
 https://duinoordfietst.denhaag.nl
+https://durplandelijkevoorziening.deventer.nl
 https://dusk-acc-openwave.beverwijk.nl
 https://dusk-openwave.beverwijk.nl
 https://duurzaam.alphenaandenrijn.nl
@@ -721,6 +762,8 @@ https://e.achtkarspelen.nl
 https://e.almelo.nl
 https://e.borger-odoorn.nl
 https://e.dewolden.nl
+https://e.mailings.deventer.nl
+https://eaptls.deventer.nl
 https://ebs-dashboards.acc.denhaag.nl
 https://ebs-full.acc.denhaag.nl
 https://ebs-light.acc.denhaag.nl
@@ -870,6 +913,7 @@ https://evenementen.breda.nl
 https://evenementen.denhaag.nl
 https://exchange.defryskemarren.nl
 https://extranet.alphen-chaam.nl
+https://fba.deventer.nl
 https://fblocatielijst.amsterdam.nl
 https://fbtools.amsterdam.nl
 https://fd-zgw.acc.denhaag.nl
@@ -913,6 +957,7 @@ https://focus.amsterdam.nl
 https://focus.tst.amsterdam.nl
 https://followyourdreams.denhaag.nl
 https://form.denhaag.nl
+https://forms.deventer.nl
 https://forms.vga.amsterdam.nl
 https://formulier-test.almere.nl
 https://formulier.amsterdam.nl
@@ -957,6 +1002,7 @@ https://gemeenteraad.almere.nl
 https://gemeenteraad.assen.nl
 https://gemeenteraad.bloemendaal.nl
 https://gemeenteraad.denhelder.nl
+https://gemeenteraad.deventer.nl
 https://geo.arnhem.nl
 https://geo.breda.nl
 https://geo.brunssum.nl
@@ -967,6 +1013,7 @@ https://geoserver-signalen.almere.nl
 https://geoservices.denhaag.nl
 https://geotest.arnhem.nl
 https://geuzenstatenkwartierfietst.denhaag.nl
+https://gezinscoach.deventer.nl
 https://ggd.amsterdam.nl
 https://gis.assen.nl
 https://gis.breda.nl
@@ -985,6 +1032,7 @@ https://gitops.test.denhaag.nl
 https://gogo.denhaag.nl
 https://goud.almere.nl
 https://gp.apeldoorn.nl
+https://gp.deventer.nl
 https://gpa.apeldoorn.nl
 https://gpg.apeldoorn.nl
 https://gpt.apeldoorn.nl
@@ -994,13 +1042,16 @@ https://growinggreencities.almere.nl
 https://guido.asten.nl
 https://gzac.t.ssv.amsterdam.nl
 https://haal-centraal.api.data.amsterdam.nl
+https://haven.deventer.nl
 https://havenkwartieraanzet.denhaag.nl
+https://heiligen.deventer.nl
 https://helloid.bergenopzoom.nl
 https://helpdesk.ggd.amsterdam.nl
 https://herber-web-fa.amsterdam.nl
 https://herber-web.acc.amsterdam.nl
 https://herber-web.amsterdam.nl
 https://herber-web.tst.amsterdam.nl
+https://hetgeldvan.deventer.nl
 https://hildebrandplein.denhaag.nl
 https://hior.amsterdam.nl
 https://histor-allegro.amsterdam.nl
@@ -1057,6 +1108,7 @@ https://iburgerzaken.culemborg.nl
 https://iburgerzaken.dalfsen.nl
 https://iburgerzaken.derondevenen.nl
 https://iburgerzaken.deurne.nl
+https://iburgerzaken.deventer.nl
 https://iburgerzaken.dewolden.nl
 https://iburgerzaken.gemeentebeek.nl
 https://iburgerzaken.gemeentebest.nl
@@ -1094,6 +1146,7 @@ https://ikzoekeenhuis.almere.nl
 https://image.nieuwsbrief.amsterdam.nl
 https://images.openstad.alphenaandenrijn.nl
 https://img.doemee.bloemendaal.nl
+https://img.openstad.deventer.nl
 https://indica-acc.amsterdam.nl
 https://indienst.almere.nl
 https://informatieplattegrond.denhaag.nl
@@ -1111,6 +1164,7 @@ https://inloggen.belastingportaal.assen.nl
 https://intern.aanmeldenparkeren.amsterdam.nl
 https://intern.formulieren.acc.amsterdam.nl
 https://intern.formulieren.amsterdam.nl
+https://intra.deventer.nl
 https://intranet-acc.borne.nl
 https://intranet-acc.delft.nl
 https://intranet-cms.bernheze.org
@@ -1122,6 +1176,7 @@ https://intranet.bergendal.nl
 https://intranet.bernheze.org
 https://intranet.debilt.nl
 https://intranet.delft.nl
+https://intranet.deventer.nl
 https://intranet.gemeentebeek.nl
 https://intranet.gemeenteberkelland.nl
 https://intranetacc.apeldoorn.nl
@@ -1158,6 +1213,7 @@ https://jeugdombudsman-acc.denhaag.nl
 https://jeugdombudsman.denhaag.nl
 https://join.bijzondereprojecten.acc.amsterdam.nl
 https://joinconnect.dalfsen.nl
+https://jongerenloket.deventer.nl
 https://jongerenraad.barneveld.nl
 https://joost.beuningen.nl
 https://jvvs.amsterdam.nl
@@ -1168,12 +1224,18 @@ https://kaart.debilt.nl
 https://kaart.delft.nl
 https://kaarten.boxtel.nl
 https://kaarten.buren.nl
+https://kaarten.deventer.nl
 https://kaartviewer.barneveld.nl
+https://kadbrkwkpd.deventer.nl
 https://kavels.almere.nl
 https://kavelwinkel.almere.nl
+https://kei.deventer.nl
 https://kenneth.delft.nl
 https://kennisbank.barneveld.nl
+https://kennisnet.deventer.nl
 https://kennisportaal.denhaag.nl
+https://kennisportaal.deventer.nl
+https://kennisportaal2.deventer.nl
 https://keuzesinbeeld.amsterdam.nl
 https://keycloak-adm.denhaag.nl
 https://keycloak-zgw.acc.denhaag.nl
@@ -1303,6 +1365,7 @@ https://mijn.debilt.nl
 https://mijn.defryskemarren.nl
 https://mijn.denhaag.nl
 https://mijn.denhelder.nl
+https://mijn.deventer.nl
 https://mijnaanvraagzi.beuningen.nl
 https://mijnbelastingen.amsterdam.nl
 https://mijnerfpacht.amsterdam.nl
@@ -1317,6 +1380,7 @@ https://mijninkomen.beverwijk.nl
 https://mijninkomen.defryskemarren.nl
 https://mijninkomen.denhelder.nl
 https://mijnkaart.deurne.nl
+https://mijnloket.deventer.nl
 https://mijnoverzicht.alphenaandenrijn.nl
 https://mijnoverzicht.boxtel.nl
 https://mijnplan.gemeenteberkelland.nl
@@ -1332,6 +1396,7 @@ https://mijnsociaalportaal.castricum.nl
 https://mijnsubsidies.acc.amsterdam.nl
 https://mijnsubsidies.amsterdam.nl
 https://mijnsubsidies.tst.amsterdam.nl
+https://mijnwoonomgeving.deventer.nl
 https://mijnws.amsterdam.nl
 https://mijnzaken.derondevenen.nl
 https://mijnzi.beuningen.nl
@@ -1363,6 +1428,7 @@ https://mozardtest.ameland.nl
 https://mozardtest.bunnik.nl
 https://msm.almelo.nl
 https://msoid.arnhem.nl
+https://mta-sts.pop.deventer.nl
 https://mycorsanxt.brielle.nl
 https://mycorsanxt.derondevenen.nl
 https://mzdtest.bunnik.nl
@@ -1375,12 +1441,14 @@ https://nedbrwacc.apeldoorn.nl
 https://netbox.alkmaar.nl
 https://nha.amsterdam.nl
 https://nieuwauthentiekbloemendaal.doemee.bloemendaal.nl
+https://nieuweburgemeester.deventer.nl
 https://nieuws.breda.nl
 https://nieuwsbrief.capelleaandenijssel.nl
 https://nieuwsbrief.delft.nl
 https://nieuwsbrief.denhaag.nl
 https://nieuwsbrieven.amsterdam.nl
 https://nlgembrl.brielle.nl
+https://nogknapper.deventer.nl
 https://noorderparkbad.amsterdam.nl
 https://notificaties.assen.nl
 https://notificaties.openzaak-acc.amsterdam.nl
@@ -1445,6 +1513,7 @@ https://omgevingsvisie.culemborg.nl
 https://omgevingsvisie.denhaag.nl
 https://omgevingsvisie.doemee.bloemendaal.nl
 https://omgevingswet.bronckhorst.nl
+https://omgevingswet.deventer.nl
 https://omslagroute.amsterdam.nl
 https://onboardingambulancezorg.denhaag.nl
 https://ondernemers.bloemendaal.nl
@@ -1474,6 +1543,7 @@ https://open.barneveld.nl
 https://open.beverwijk.nl
 https://open.boxtel.nl
 https://open.breda.nl
+https://openbareruimte.deventer.nl
 https://opendata.assen.nl
 https://opendata.bloemendaal.nl
 https://openformulieren-test.dewolden.nl
@@ -1501,6 +1571,7 @@ https://openpub.barendrecht.nl
 https://openpub.buren.nl
 https://openpub.defryskemarren.nl
 https://openpub.gemeenteberkelland.nl
+https://openstad.deventer.nl
 https://openwave.beverwijk.nl
 https://openzaak-tst.amsterdam.nl
 https://openzaak-zgw.acc.denhaag.nl
@@ -1516,7 +1587,9 @@ https://openzaakbrug-zgw.test.denhaag.nl
 https://operatiebomenbuurt.denhaag.nl
 https://or.delft.nl
 https://oracbloemenbuurt.denhaag.nl
+https://oranjekwartier.deventer.nl
 https://otp.gemeenteberkelland.nl
+https://outlook.deventer.nl
 https://outlook.dewolden.nl
 https://panel.amsterdam.nl
 https://parkeerabonnementen.breda.nl
@@ -1561,8 +1634,20 @@ https://planoncvo.denhaag.nl
 https://platform.culemborg.nl
 https://po-openformulieren-zgw.test.denhaag.nl
 https://po-zgw.test.denhaag.nl
+https://podiumd-contact.deventer.nl
+https://podiumd-formulier.deventer.nl
+https://podiumd-keycloak.deventer.nl
 https://podiumd-logs.assen.nl
+https://podiumd-logs.deventer.nl
+https://podiumd-mijn.deventer.nl
+https://podiumd-notificaties.deventer.nl
+https://podiumd-objecten.deventer.nl
+https://podiumd-objecttypen.deventer.nl
+https://podiumd-openklant.deventer.nl
+https://podiumd-openzaak.deventer.nl
+https://podiumd-zac.deventer.nl
 https://point.assen.nl
+https://pop.deventer.nl
 https://portaal.kre-acc.amsterdam.nl
 https://portaal.kre-dev.amsterdam.nl
 https://portaal.kre-ont.amsterdam.nl
@@ -1631,9 +1716,12 @@ https://pv.bergen-nh.nl
 https://pv.bodegraven-reeuwijk.nl
 https://pv.castricum.nl
 https://pv.dalfsen.nl
+https://pv.deventer.nl
 https://pv.diensten.almere.nl
 https://pv.gemeenteberkelland.nl
+https://pveopenbareruimte.deventer.nl
 https://pwa.barendrecht.nl
+https://qcalendar.deventer.nl
 https://qr-acc.capelleaandenijssel.nl
 https://qr.amersfoort.nl
 https://qr.arnhem.nl
@@ -1657,6 +1745,7 @@ https://regiocheckervth-acc.denhaag.nl
 https://regiocheckervth.denhaag.nl
 https://rekenkamer.amsterdam.nl
 https://relatie-scheiding.almere.nl
+https://religieuserfgoed.deventer.nl
 https://remote.arnhem.nl
 https://remote.beverwijk.nl
 https://ris.dalfsen.nl
@@ -1672,6 +1761,7 @@ https://ruimtelijkeplannen.achtkarspelen.nl
 https://ruimtelijkeplannen.alkmaar.nl
 https://ruimtelijkeplannen.bodegraven-reeuwijk.nl
 https://ruimtelijkeplannen.denhelder.nl
+https://ruimtelijkeplannen.deventer.nl
 https://saaedepot-1.amsterdam.nl
 https://saaedepot-1.tst.amsterdam.nl
 https://saaedepot-2.amsterdam.nl
@@ -1682,6 +1772,7 @@ https://saaedepot-storage.amsterdam.nl
 https://saaedepot-storage.tst.amsterdam.nl
 https://samen.beekdaelen.nl
 https://samenmet.beesel.nl
+https://samenvattingbegroting2017.deventer.nl
 https://samenveiligwerken.alphenaandenrijn.nl
 https://sammy-acc.derondevenen.nl
 https://sammy.derondevenen.nl
@@ -1762,6 +1853,7 @@ https://snow-license.amsterdam.nl
 https://snowagent.denhaag.nl
 https://sociaaldomein.almere.nl
 https://social.amsterdam.nl
+https://socialeteams.deventer.nl
 https://solliciterenbij.barneveld.nl
 https://spa4.acc.amsterdam.nl
 https://spa4.tst.amsterdam.nl
@@ -1771,6 +1863,7 @@ https://speleninoost.amsterdam.nl
 https://speleninzuid.amsterdam.nl
 https://spf-wind.asten.nl
 https://splunk-controlroom.denhaag.nl
+https://spoorzone.deventer.nl
 https://sport.denhaag.nl
 https://sportaccommodaties.breda.nl
 https://sportencultuur.almere.nl
@@ -1786,6 +1879,7 @@ https://stadskrant.denhaag.nl
 https://stadspark.apeldoorn.nl
 https://stadspas.apeldoorn.nl
 https://staging.admin.schoolwijzer.amsterdam.nl
+https://staging.deventer.nl
 https://staging.microservices.schoolwijzer.amsterdam.nl
 https://staging.onderwijssubsidies.amsterdam.nl
 https://staging.schoolwijzer.amsterdam.nl
@@ -1802,6 +1896,7 @@ https://storing.acc.denhaag.nl
 https://storing.denhaag.nl
 https://straatnotes.amsterdam.nl
 https://stroomlijntest.derondevenen.nl
+https://stroomt.deventer.nl
 https://sts.assen.nl
 https://sts.delft.nl
 https://subsidie.almelo.nl
@@ -1895,6 +1990,7 @@ https://tourbuzz.amsterdam.nl
 https://tr.barneveld.nl
 https://tracking.amersfoort.nl
 https://tradities.doemee.bloemendaal.nl
+https://transform.deventer.nl
 https://trefpunt.deurne.nl
 https://tst-ubor.amsterdam.nl
 https://tv.gemeentebest.nl
@@ -1933,9 +2029,11 @@ https://vergunningintaker.aalten.nl
 https://verkeersbesluiten.denhaag.nl
 https://verkiezingen.acc.topdesk.denhaag.nl
 https://verkiezingen.denhelder.nl
+https://verkiezingen.deventer.nl
 https://verkiezingen.topdesk.denhaag.nl
 https://vga.amsterdam.nl
 https://victor.amsterdam.nl
+https://viertfietsen.deventer.nl
 https://view.nieuwsbrief.amsterdam.nl
 https://volg.amsterdam.nl
 https://voorschool.almere.nl
@@ -1946,6 +2044,7 @@ https://vpn02.denhaag.nl
 https://vpn365.denhelder.nl
 https://vriseloket.cranendonck.nl
 https://vrm.acc.amsterdam.nl
+https://vth.deventer.nl
 https://waarmerk.alphen-chaam.nl
 https://waarmerk.baarle-nassau.nl
 https://waarmerk.brielle.nl
@@ -1955,7 +2054,10 @@ https://wachtwoord.almere.nl
 https://wachtwoord.amsterdam.nl
 https://wachtwoordreset.almere.nl
 https://wachtwoordvergeten.amsterdam.nl
+https://water.deventer.nl
 https://web.alblasserdam.nl
+https://web01.deventer.nl
+https://web02.deventer.nl
 https://webcamslingerweg.breda.nl
 https://webcamspinveld.breda.nl
 https://webmail.alkmaar.nl
@@ -1971,6 +2073,7 @@ https://webservice-decosdvl.acc.amsterdam.nl
 https://webservice-decosdvl.amsterdam.nl
 https://webshopapp.denhaag.nl
 https://website.alphen-chaam.nl
+https://webwerken.deventer.nl
 https://weesp.acc.meldingen.amsterdam.nl
 https://weesp.amsterdam.nl
 https://weespbegroot.amsterdam.nl
@@ -1998,6 +2101,8 @@ https://werkplek02.derondevenen.nl
 https://werving.amsterdam.nl
 https://westbegroot.amsterdam.nl
 https://wifiguestportal.almere.nl
+https://wij.deventer.nl
+https://wijkaanpak.deventer.nl
 https://wijkagenda-archipelwillemspark.denhaag.nl
 https://wijkagenda.denhaag.nl
 https://wijkbudgetlaakcentraal.denhaag.nl
@@ -2006,12 +2111,14 @@ https://wijkbudgetvruchtenbuurt.denhaag.nl
 https://wijkbudgetwaldeck.denhaag.nl
 https://wijkbudgetypenburg.denhaag.nl
 https://wijkteams.almere.nl
+https://winkelen.deventer.nl
 https://wmoportaal.ot.amsterdam.nl
 https://wmoportaal.wzs.amsterdam.nl
 https://wmoservice.buren.nl
 https://wob-acc.denhaag.nl
 https://wob.arnhem.nl
 https://wob.denhaag.nl
+https://wonenin.deventer.nl
 https://wonenportaal.amsterdam.nl
 https://woningbouwkaart.assen.nl
 https://woningbouwkaart.borger-odoorn.nl
@@ -2102,6 +2209,7 @@ https://www.coevorden.nl
 https://www.containers.amsterdam.nl
 https://www.continuverbeterenjmo.denhaag.nl
 https://www.crk.amsterdam.nl
+https://www.csam.deventer.nl
 https://www.culemborg.nl
 https://www.dantumadiel.frl
 https://www.debilt.nl
@@ -2112,9 +2220,12 @@ https://www.denhaagfietst-acc.denhaag.nl
 https://www.denhaagfietst.denhaag.nl
 https://www.denhelder.nl
 https://www.derondevenen.nl
+https://www.deventer.nl
+https://www.devgovrs1.deventer.nl
 https://www.dewolden.nl
 https://www.doemee.bloemendaal.nl
 https://www.doemee.denhaag.nl
+https://www.doemee.deventer.nl
 https://www.duinoordfietst.denhaag.nl
 https://www.duurzaam.alphenaandenrijn.nl
 https://www.duurzaam.barneveld.nl
@@ -2157,6 +2268,7 @@ https://www.omgevingsvisie.denhaag.nl
 https://www.onderwijssubsidies.amsterdam.nl
 https://www.onderzoek.amsterdam.nl
 https://www.oostbegroot.amsterdam.nl
+https://www.openstad.deventer.nl
 https://www.operatiebomenbuurt.denhaag.nl
 https://www.oracbloemenbuurt.denhaag.nl
 https://www.platform.culemborg.nl
@@ -2181,6 +2293,7 @@ https://www.staatvandeparticipatie.amsterdam.nl
 https://www.stadsarchief.breda.nl
 https://www.stadskrant-acc.denhaag.nl
 https://www.stadskrant.denhaag.nl
+https://www.staging.deventer.nl
 https://www.statistiek.amsterdam.nl
 https://www.stemmen.amsterdam.nl
 https://www.test.denhaag.nl
@@ -2196,6 +2309,7 @@ https://www.uwdorpofwijk.alphenaandenrijn.nl
 https://www.vga.amsterdam.nl
 https://www.victor.amsterdam.nl
 https://www.vvetest.amsterdam.nl
+https://www.vvv.deventer.nl
 https://www.weespbegroot.amsterdam.nl
 https://www.werkaandewijk.denhaag.nl
 https://www.werkenbij.alkmaar.nl
@@ -2239,9 +2353,11 @@ https://zgw.denhaag.nl
 https://zgw.test.denhaag.nl
 https://zgw3.denhaag.nl
 https://zkd.denhaag.nl
+https://zoeken.deventer.nl
 https://zomerprogramma070-acc.denhaag.nl
 https://zomerprogramma070.denhaag.nl
 https://zonneparking.doemee.bloemendaal.nl
+https://zorgaanbieders.deventer.nl
 https://zorgvlied.acceptatie.amstelveen.nl
 https://zorgvlied.amstelveen.nl
 https://zuiderbad.amsterdam.nl

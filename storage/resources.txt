@@ -85,6 +85,7 @@ academie.belastingdienst.nl
 acc-broker.assen.nl
 acc-broker.borger-odoorn.nl
 acc-broker.coevorden.nl
+acc-broker.deventer.nl
 acc-contact.assen.nl
 acc-contact.dev.assen.nl
 acc-dictu.comcms.logius.nl
@@ -115,8 +116,19 @@ acc-openklant.dev.assen.nl
 acc-openwave.beverwijk.nl
 acc-openzaak.assen.nl
 acc-openzaak.dev.assen.nl
+acc-podiumd-contact.deventer.nl
+acc-podiumd-formulier.deventer.nl
+acc-podiumd-keycloak.deventer.nl
 acc-podiumd-logs.assen.nl
 acc-podiumd-logs.dev.assen.nl
+acc-podiumd-logs.deventer.nl
+acc-podiumd-mijn.deventer.nl
+acc-podiumd-notificaties.deventer.nl
+acc-podiumd-objecten.deventer.nl
+acc-podiumd-objecttypen.deventer.nl
+acc-podiumd-openklant.deventer.nl
+acc-podiumd-openzaak.deventer.nl
+acc-podiumd-zac.deventer.nl
 acc-podiumd.sschosting.nl.assen.nl
 acc-webservice-tdv.igj.nl
 acc.adam.amsterdam.nl
@@ -324,6 +336,7 @@ adiko.apeldoorn.nl
 admin-acc.datapunt.amsterdam.nl
 admin.data.amsterdam.nl
 admin.doemee.bloemendaal.nl
+admin.openstad.deventer.nl
 admin.schoolwijzer.amsterdam.nl
 admsec.acc.denhaag.nl
 admsec.denhaag.nl
@@ -336,6 +349,7 @@ adpa.apeldoorn.nl
 adpt.apeldoorn.nl
 adsync.brunssum.nl
 adus.amsterdam.nl
+adviesraden.deventer.nl
 aeos.alkmaar.nl
 afs.acc.amsterdam.nl
 afs.amsterdam.nl
@@ -374,6 +388,7 @@ afspraken.brunssum.nl
 afspraken.buren.nl
 afspraken.cranendonck.nl
 afspraken.dalfsen.nl
+afspraken.deventer.nl
 afval.acc.denhaag.nl
 afval.acc.omgevingswet.overheid.nl
 afval.assen.nl
@@ -415,6 +430,7 @@ alkmaar.nl
 alkmaarsport-techniek.alkmaar.nl
 alksrx01.alkmaar.nl
 alktkpv01.authenticatie.alkmaar.nl
+allegroweb.deventer.nl
 alleplannen.centrumbegroot.alphenaandenrijn.nl
 alleplannen.laakhavensbepaalt.denhaag.nl
 alleplannen.mariahoeveaanzet.denhaag.nl
@@ -538,6 +554,7 @@ api.meldingen.bernheze.org
 api.mijn.overheid.nl
 api.ondernemersplein.overheid.nl
 api.openstad.alphenaandenrijn.nl
+api.openstad.deventer.nl
 api.pingping.amsterdam.nl
 api.preprod.mijn.overheid.nl
 api.standaarden.overheid.nl
@@ -578,6 +595,7 @@ archeologie-acc.denhaag.nl
 archeologie.denhaag.nl
 archief.afs.amsterdam.nl
 archief.delft.nl
+archief.deventer.nl
 archieven.stadsarchief.breda.nl
 arena.ami-acc.amsterdam.nl
 arena.ami-dev.amsterdam.nl
@@ -617,6 +635,7 @@ aut.topdesk.denhaag.nl
 auth.apeldoorn.nl
 auth.denhaag.nl
 auth.doemee.bloemendaal.nl
+auth.openstad.deventer.nl
 auth1.denhaag.nl
 auth2.denhaag.nl
 auth3.denhaag.nl
@@ -669,6 +688,7 @@ autodiscover.delft.nl
 autodiscover.denhaag.nl
 autodiscover.denhelder.nl
 autodiscover.derondevenen.nl
+autodiscover.deventer.nl
 autodiscover.dewolden.nl
 autodiscover.gemeentebeek.nl
 autodiscover.gemeenteberkelland.nl
@@ -734,6 +754,7 @@ bag.acceptatie.basisregistraties.overheid.nl
 bag.assen.nl
 bag.basisregistraties.overheid.nl
 bag.denhaag.nl
+bag.deventer.nl
 bag.test.basisregistraties.overheid.nl
 bag2.basisregistraties.overheid.nl
 baglevering.beekdaelen.nl
@@ -947,6 +968,7 @@ bibob.brievenbus.amsterdam.nl
 bikecity.amsterdam.nl
 bink.beverwijk.nl
 binnenshuis.bergen.nl
+binnenstad.deventer.nl
 binnenstadsplan2030.denhaag.nl
 bis.almelo.nl
 bis.assen.nl
@@ -994,6 +1016,7 @@ bregje.test.denhaag.nl
 bri-olo.belastingdienst.nl
 bri.belastingdienst.nl
 brielle.nl
+brink70.deventer.nl
 brk.acceptatie.basisregistraties.overheid.nl
 brk.basisregistraties.overheid.nl
 brk.test.basisregistraties.overheid.nl
@@ -1007,6 +1030,7 @@ broker.bernheze.org
 broker.borger-odoorn.nl
 broker.buren.nl
 broker.coevorden.nl
+broker.deventer.nl
 bronckhorst.nl
 bros-academie.deurne.nl
 brsoribi01.borsele.nl
@@ -1033,6 +1057,7 @@ buurtbudgetnoord.amsterdam.nl
 buurtbudgetzuid.amsterdam.nl
 buurtbudgetzuidoost.amsterdam.nl
 buurthuisvandetoekomst.denhaag.nl
+buurtkijker.deventer.nl
 bvd-pre.mev.logius.nl
 bvd.mev.logius.nl
 bvs.belastingdienst.nl
@@ -1135,6 +1160,7 @@ cms-binnenshuis.bergen.nl
 cms-joost.beuningen.nl
 cms.alphenaandenrijn.nl
 cms.bernheze.org
+cms.openstad.deventer.nl
 cms.rijksoverheid.nl
 cms1.rijksoverheid.nl
 cms2.rijksoverheid.nl
@@ -1211,6 +1237,7 @@ copper.dbga.amsterdam.nl
 corona.beverwijk.nl
 corona.breda.nl
 coronadashboard.rijksoverheid.nl
+coronavirus.deventer.nl
 cpapps.belastingdienst.nl
 cpext.ont.belastingdienst.nl
 cppm.delft.nl
@@ -1224,6 +1251,7 @@ crypt.apeldoorn.nl
 cryptacc.apeldoorn.nl
 cryptshare.delft.nl
 cryptsharetest.delft.nl
+csam.deventer.nl
 csc.beverwijk.nl
 csc.dantumadiel.frl
 cscp.barneveld.nl
@@ -1253,11 +1281,13 @@ dacceptatieloket.borger-odoorn.nl
 dacceptatieloket.borne.nl
 dacceptatieloket.brielle.nl
 dacceptatieloket.coevorden.nl
+dacceptatieloket.deventer.nl
 dacceptatiemidoffice.assen.nl
 dacceptatiemidoffice.borger-odoorn.nl
 dacceptatiemidoffice.borne.nl
 dacceptatiemidoffice.brielle.nl
 dacceptatiemidoffice.coevorden.nl
+dacceptatiemidoffice.deventer.nl
 dagbesteding.apeldoorn.nl
 dalfsen.nl
 dali.alphenaandenrijn.nl
@@ -1295,6 +1325,7 @@ datapunt.amsterdam.nl
 datasync.dmb.amsterdam.nl
 datatest.delft.nl
 datumprikker.belastingdienst.nl
+db01.deventer.nl
 dbb-acc.igj.nl
 dbb.igj.nl
 dbbprodmta01.dbb.igj.nl
@@ -1362,9 +1393,16 @@ desktop5.denhaag.nl
 deurne.nl
 deurwaardersloket.amersfoort.nl
 dev.rnd.amsterdam.nl
+dev01.deventer.nl
+devapps3.deventer.nl
+devcmgs1.deventer.nl
 developer.omgevingswet.overheid.nl
 developer.overheid.nl
+deventer.nl
 deventit.breda.nl
+devgovrs1.deventer.nl
+devis.deventer.nl
+devisie2020.deventer.nl
 devportal.api.amsterdam.nl
 dewolden.nl
 dex.meldingen.alphenaandenrijn.nl
@@ -1454,7 +1492,9 @@ dkd.culemborg.nl
 dkd.dalfsen.nl
 dkd.delft.nl
 dkd.denhelder.nl
+dkd.deventer.nl
 dkdtest.brunssum.nl
+dkdtest.deventer.nl
 dkp.barneveld.nl
 dkt.barneveld.nl
 dktest.asten.nl
@@ -1463,6 +1503,7 @@ dloket.borger-odoorn.nl
 dloket.borne.nl
 dloket.brielle.nl
 dloket.coevorden.nl
+dloket.deventer.nl
 dmafunc002.amsterdam.nl
 dmb.amsterdam.nl
 dmidoffice.assen.nl
@@ -1470,6 +1511,7 @@ dmidoffice.borger-odoorn.nl
 dmidoffice.borne.nl
 dmidoffice.brielle.nl
 dmidoffice.coevorden.nl
+dmidoffice.deventer.nl
 dmo.omgevingswet.overheid.nl
 dmpfunc002.amsterdam.nl
 dmz-websrv.achtkarspelen.nl
@@ -1488,6 +1530,7 @@ dns2.overheid.nl
 docgen-acc.amsterdam.nl
 docgen-tst.amsterdam.nl
 docgen.amsterdam.nl
+docgen.deventer.nl
 docs.lpc.logius.nl
 doculoket-acc.overheid.nl
 doculoket.overheid.nl
@@ -1504,6 +1547,7 @@ doe-mee-test.coevorden.nl
 doe-mee.coevorden.nl
 doemee.bloemendaal.nl
 doemee.denhaag.nl
+doemee.deventer.nl
 doemee.gemeentebest.nl
 doewatmoet-acc.denhaag.nl
 domeinnaamregistratie.rijksoverheid.nl
@@ -1530,6 +1574,7 @@ dtestmidoffice.coevorden.nl
 duinoordfietst.denhaag.nl
 duo2-test.belastingdienst.nl
 duo2.belastingdienst.nl
+durplandelijkevoorziening.deventer.nl
 dusk-acc-openwave.beverwijk.nl
 dusk-openwave.beverwijk.nl
 duurzaam.alphenaandenrijn.nl
@@ -1583,7 +1628,9 @@ e.almelo.nl
 e.borger-odoorn.nl
 e.dewolden.nl
 e.logius.nl
+e.mailings.deventer.nl
 e.videobellen.toeslagen.nl
+eaptls.deventer.nl
 ebms.achtkarspelen.nl
 ebms.contentbeheer.acc.omgevingswet.overheid.nl
 ebms.contentbeheer.omgevingswet.overheid.nl
@@ -1808,6 +1855,7 @@ extranet.gemeentebeek.nl
 extranet.vga.amsterdam.nl
 extranettest.vga.amsterdam.nl
 f2b.belastingdienst.nl
+fba.deventer.nl
 fblocatielijst.amsterdam.nl
 fbtools.amsterdam.nl
 fcinet.acc.belastingdienst.nl
@@ -1924,6 +1972,7 @@ focus.tst.amsterdam.nl
 followyourdreams-acc.denhaag.nl
 followyourdreams.denhaag.nl
 form.denhaag.nl
+forms.deventer.nl
 forms.vga.amsterdam.nl
 formulier-test.almere.nl
 formulier.amersfoort.nl
@@ -2057,6 +2106,7 @@ gemeenteraad.assen.nl
 gemeenteraad.bloemendaal.nl
 gemeenteraad.borne.nl
 gemeenteraad.denhelder.nl
+gemeenteraad.deventer.nl
 gen1.alkmaar.nl
 gen2.alkmaar.nl
 geo.aaenhunze.nl
@@ -2082,6 +2132,7 @@ geotest.arnhem.nl
 geovisia.achtkarspelen.nl
 geovisia.amersfoort.nl
 geuzenstatenkwartierfietst.denhaag.nl
+gezinscoach.deventer.nl
 ggd.amsterdam.nl
 ggi.barneveld.nl
 ggk.brunssum.nl
@@ -2132,6 +2183,7 @@ govroam.gemeentebeek.nl
 gp-test.borne.nl
 gp.apeldoorn.nl
 gp.borne.nl
+gp.deventer.nl
 gp.ggd.amsterdam.nl
 gpa-rest-test.belastingdienst.nl
 gpa.apeldoorn.nl
@@ -2199,9 +2251,11 @@ gzac.t.ssv.amsterdam.nl
 haal-centraal.api.data.amsterdam.nl
 handhavingsacademie.amsterdam.nl
 handleiding.rijksoverheid.nl
+haven.deventer.nl
 havenkwartieraanzet.denhaag.nl
 hba.dpg.amsterdam.nl
 heelenschoon.amsterdam.nl
+heiligen.deventer.nl
 helloid.bergenopzoom.nl
 helpdesk.ggd.amsterdam.nl
 herber-web-fa.amsterdam.nl
@@ -2210,6 +2264,7 @@ herber-web.amsterdam.nl
 herber-web.tst.amsterdam.nl
 herstel.acc.belastingdienst.nl
 herstel.toeslagen.nl
+hetgeldvan.deventer.nl
 hildebrandplein.denhaag.nl
 hior.amsterdam.nl
 histor-allegro.amsterdam.nl
@@ -2309,6 +2364,7 @@ iburgerzaken.culemborg.nl
 iburgerzaken.dalfsen.nl
 iburgerzaken.derondevenen.nl
 iburgerzaken.deurne.nl
+iburgerzaken.deventer.nl
 iburgerzaken.dewolden.nl
 iburgerzaken.gemeentebeek.nl
 iburgerzaken.gemeentebest.nl
@@ -2343,6 +2399,7 @@ ibzpink.culemborg.nl
 ibzpink.dalfsen.nl
 ibzpink.derondevenen.nl
 ibzpink.deurne.nl
+ibzpink.deventer.nl
 ibzpink.dewolden.nl
 ibzpink.gemeentebeek.nl
 ibzpink.gemeentebest.nl
@@ -2413,6 +2470,7 @@ image.nieuwsbrief.amsterdam.nl
 images.data.amsterdam.nl
 images.openstad.alphenaandenrijn.nl
 img.doemee.bloemendaal.nl
+img.openstad.deventer.nl
 import-acc.organisaties.overheid.nl
 import.organisaties.overheid.nl
 inbewaringstelling.webservices-dbb-acc.igj.nl
@@ -2468,6 +2526,7 @@ intern.formulieren.amsterdam.nl
 internationaal.ondernemen.overheid.nl
 internetafspraken.gemeentebeek.nl
 intpatch.omgevingswet.overheid.nl
+intra.deventer.nl
 intranet-acc.bergendal.nl
 intranet-acc.borne.nl
 intranet-acc.delft.nl
@@ -2495,6 +2554,7 @@ intranet.cranendonck.nl
 intranet.debilt.nl
 intranet.delft.nl
 intranet.deurne.nl
+intranet.deventer.nl
 intranet.digi-mlv.os.amsterdam.nl
 intranet.docwonen.amsterdam.nl
 intranet.gemeentebeek.nl
@@ -2515,6 +2575,7 @@ iparticipatie.beesel.nl
 iparticipatie.bronckhorst.nl
 iparticipatie.coevorden.nl
 iparticipatie.derondevenen.nl
+iparticipatie.deventer.nl
 iris.acc.denhaag.nl
 iris.data.amsterdam.nl
 iris.denhaag.nl
@@ -2563,6 +2624,7 @@ join.almelo.nl
 join.bijzondereprojecten.acc.amsterdam.nl
 join.bijzondereprojecten.amsterdam.nl
 joinconnect.dalfsen.nl
+jongerenloket.deventer.nl
 jongerenraad.barneveld.nl
 joost.beuningen.nl
 juristen.werkenvoornederland.nl
@@ -2580,13 +2642,16 @@ kaart.delft.nl
 kaarten-demo.overheid.nl
 kaarten.boxtel.nl
 kaarten.buren.nl
+kaarten.deventer.nl
 kaarten.gemeenteberkelland.nl
 kaartviewer.barneveld.nl
+kadbrkwkpd.deventer.nl
 kassaservice.brunssum.nl
 kavaanalytics.vcdn.belastingdienst.nl
 kavels.almere.nl
 kavelwinkel.almere.nl
 kec.officiele-overheidspublicaties.nl
+kei.deventer.nl
 kenneth.delft.nl
 kennis-fiod.acc.belastingdienst.nl
 kennisbank.achtkarspelen.nl
@@ -2597,9 +2662,12 @@ kennisbank.logius.nl
 kennisgroepen.acc.belastingdienst.nl
 kennisgroepen.belastingdienst.nl
 kennisnet.almelo.nl
+kennisnet.deventer.nl
 kennisnetwerk.acc.belastingdienst.nl
 kennisnetwerk.belastingdienst.nl
 kennisportaal.denhaag.nl
+kennisportaal.deventer.nl
+kennisportaal2.deventer.nl
 kentekencheck.denhaag.nl
 ketenportaal.acceptatie.gemeentebeek.nl
 ketenportaal.gemeentebeek.nl
@@ -2787,6 +2855,7 @@ mail.delft.nl
 mail.denhelder.nl
 mail.denkmee.amstelveen.nl
 mail.derondevenen.nl
+mail.deventer.nl
 mail.dmb.amsterdam.nl
 mail.gemeentebest.nl
 mail.koop.overheid.nl
@@ -2804,6 +2873,7 @@ mailing.borsele.nl
 mailing.defryskemarren.nl
 mailing.gemeentebeek.nl
 mailing.logius.nl
+mailings.deventer.nl
 mailrelay1.overheid.nl
 mailrelay2.overheid.nl
 makelaar-01.castricum.nl
@@ -2938,6 +3008,7 @@ mijn.defryskemarren.nl
 mijn.denhaag.nl
 mijn.denhelder.nl
 mijn.deurne.nl
+mijn.deventer.nl
 mijn.igj.nl
 mijn.ont.belastingdienst.nl
 mijn.overheid.nl
@@ -2989,6 +3060,7 @@ mijninkomen.defryskemarren.nl
 mijninkomen.denhelder.nl
 mijnkaart.deurne.nl
 mijnkaarten.ovh.gemeentebeek.nl
+mijnloket.deventer.nl
 mijnmobiel.gemeentebeek.nl
 mijnmobiel.oa.amsterdam.nl
 mijnmobiel.ovh.gemeentebeek.nl
@@ -3012,6 +3084,7 @@ mijnsubsidies.acc.amsterdam.nl
 mijnsubsidies.amsterdam.nl
 mijnsubsidies.tst.amsterdam.nl
 mijntokenactiveren.logius.nl
+mijnwoonomgeving.deventer.nl
 mijnws.amsterdam.nl
 mijnzakelijk-perf.acc.belastingdienst.nl
 mijnzakelijk.belastingdienst.nl
@@ -3090,6 +3163,7 @@ msm.almelo.nl
 msoid.arnhem.nl
 msp-a.logius.nl
 mta-sts.belastingdienst.nl
+mta-sts.pop.deventer.nl
 mta.nieuwsbrief.amsterdam.nl
 mtls-tmx-dap-eu.acc.belastingdienst.nl
 mtls-tmx-dap-eu.belastingdienst.nl
@@ -3149,6 +3223,7 @@ nha-tst.amsterdam.nl
 nha.amsterdam.nl
 nhr.barneveld.nl
 nieuwauthentiekbloemendaal.doemee.bloemendaal.nl
+nieuweburgemeester.deventer.nl
 nieuws.breda.nl
 nieuwsbrief.amsterdam.nl
 nieuwsbrief.arnhem.nl
@@ -3170,6 +3245,7 @@ nlgemctc.castricum.nl
 nlx.amsterdam.nl
 nlx.buren.nl
 node1.acc.statistiek.mijn.overheid.nl
+nogknapper.deventer.nl
 noord.amsterdam.nl
 noorderparkbad.amsterdam.nl
 notificaties.assen.nl
@@ -3294,6 +3370,7 @@ omgevingsvisie.culemborg.nl
 omgevingsvisie.denhaag.nl
 omgevingsvisie.doemee.bloemendaal.nl
 omgevingswet.bronckhorst.nl
+omgevingswet.deventer.nl
 omgevingswet.overheid.nl
 omslagroute.amsterdam.nl
 onboarding.acc.belastingdienst.nl
@@ -3345,6 +3422,7 @@ open.bronckhorst.nl
 open.data.amsterdam.nl
 open.gemeentebeek.nl
 open.overheid.nl
+openbareruimte.deventer.nl
 opendata.arnhem.nl
 opendata.assen.nl
 opendata.bloemendaal.nl
@@ -3380,6 +3458,7 @@ openpub.barendrecht.nl
 openpub.buren.nl
 openpub.defryskemarren.nl
 openpub.gemeenteberkelland.nl
+openstad.deventer.nl
 openvas.datapunt.amsterdam.nl
 openwave.beverwijk.nl
 openzaak-tst.amsterdam.nl
@@ -3406,6 +3485,7 @@ oproepingen-preprd.overheid.nl
 oproepingen.overheid.nl
 or.delft.nl
 oracbloemenbuurt.denhaag.nl
+oranjekwartier.deventer.nl
 organisatieontwikkeling.assen.nl
 organisaties-acc.overheid.nl
 organisaties-redactie-acc.overheid.nl
@@ -3434,6 +3514,7 @@ otp.gemeenteberkelland.nl
 otpxbrl.belastingdienst.nl
 oud.bodegraven-reeuwijk.nl
 outlook.denhelder.nl
+outlook.deventer.nl
 outlook.dewolden.nl
 outlook3.denhaag.nl
 over-ons.acc.belastingdienst.nl
@@ -3586,8 +3667,20 @@ pmz-pre.logius.nl
 pmz.logius.nl
 po-openformulieren-zgw.test.denhaag.nl
 po-zgw.test.denhaag.nl
+podiumd-contact.deventer.nl
+podiumd-formulier.deventer.nl
+podiumd-keycloak.deventer.nl
 podiumd-logs.assen.nl
+podiumd-logs.deventer.nl
+podiumd-mijn.deventer.nl
+podiumd-notificaties.deventer.nl
+podiumd-objecten.deventer.nl
+podiumd-objecttypen.deventer.nl
+podiumd-openklant.deventer.nl
+podiumd-openzaak.deventer.nl
+podiumd-zac.deventer.nl
 point.assen.nl
+pop.deventer.nl
 portaal.acc.belastingdienst.nl
 portaal.achtkarspelen.nl
 portaal.almelo.nl
@@ -3746,12 +3839,15 @@ pv.bergen-nh.nl
 pv.bodegraven-reeuwijk.nl
 pv.castricum.nl
 pv.dalfsen.nl
+pv.deventer.nl
 pv.diensten.almere.nl
 pv.gemeenteberkelland.nl
+pveopenbareruimte.deventer.nl
 pwa.barendrecht.nl
 pwa001.belastingdienst.nl
 q-matic.delft.nl
 qapbldexte2.belastingdienst.nl
+qcalendar.deventer.nl
 qr-acc.capelleaandenijssel.nl
 qr.amersfoort.nl
 qr.arnhem.nl
@@ -3808,6 +3904,7 @@ reinigingsrecht-online.amsterdam.nl
 reinigingsrecht-test.amsterdam.nl
 rekenkamer.amsterdam.nl
 relatie-scheiding.almere.nl
+religieuserfgoed.deventer.nl
 remcon.amsterdam.nl
 remote.aaenhunze.nl
 remote.arnhem.nl
@@ -3868,6 +3965,7 @@ ruimtelijkeplannen.bodegraven-reeuwijk.nl
 ruimtelijkeplannen.borne.nl
 ruimtelijkeplannen.brummen.nl
 ruimtelijkeplannen.denhelder.nl
+ruimtelijkeplannen.deventer.nl
 rvmetadata.logius.nl
 rw.belastingdienst.nl
 rwn.belastingdienst.nl
@@ -3895,6 +3993,7 @@ sadp.acc.belastingdienst.nl
 sadp.belastingdienst.nl
 samen.beekdaelen.nl
 samenmet.beesel.nl
+samenvattingbegroting2017.deventer.nl
 samenveiligwerken.alphenaandenrijn.nl
 samenwerkportaal.pre.omgevingswet.overheid.nl
 samenwerkruimten-acc.belastingdienst.nl
@@ -4188,6 +4287,7 @@ sociaal.amsterdam.nl
 sociaaldomein.almere.nl
 social.amsterdam.nl
 social.overheid.nl
+socialeteams.deventer.nl
 sollicitatie.ggd.amsterdam.nl
 solliciterenbij.barneveld.nl
 sonarqube.lpc.logius.nl
@@ -4209,6 +4309,7 @@ spf-ogone02.asten.nl
 spf-wind.asten.nl
 splunk-controlroom.denhaag.nl
 splunksyslog.dmz.belastingdienst.nl
+spoorzone.deventer.nl
 sport.denhaag.nl
 sport.in.denhaag.nl
 sportaccommodaties.breda.nl
@@ -4265,6 +4366,7 @@ stadspas.apeldoorn.nl
 stadswerken.amsterdam.nl
 stagiairs.werkenvoornederland.nl
 staging.admin.schoolwijzer.amsterdam.nl
+staging.deventer.nl
 staging.microservices.schoolwijzer.amsterdam.nl
 staging.ondernemersplein.overheid.nl
 staging.onderwijssubsidies.amsterdam.nl
@@ -4341,6 +4443,7 @@ storing.acc.denhaag.nl
 storing.denhaag.nl
 straatnotes.amsterdam.nl
 stroomlijntest.derondevenen.nl
+stroomt.deventer.nl
 sts.assen.nl
 sts.delft.nl
 sts.koop.overheid.nl
@@ -4458,6 +4561,7 @@ test-ipa.achtkarspelen.nl
 test-ipa.beesel.nl
 test-ipa.coevorden.nl
 test-ipa.derondevenen.nl
+test-ipa.deventer.nl
 test-kaart.almere.nl
 test-kennisbank.almelo.nl
 test-keycloak.assen.nl
@@ -4573,6 +4677,7 @@ tr.barneveld.nl
 tracking.amersfoort.nl
 tradities.doemee.bloemendaal.nl
 transfer.denhelder.nl
+transform.deventer.nl
 transform.oa.amsterdam.nl
 treatydatabase-acc.overheid.nl
 treatydatabase.overheid.nl
@@ -4688,6 +4793,7 @@ verkiezingen.albrandswaard.nl
 verkiezingen.barendrecht.nl
 verkiezingen.dalfsen.nl
 verkiezingen.denhelder.nl
+verkiezingen.deventer.nl
 verkiezingen.topdesk.denhaag.nl
 verleendekinderopvang.acc.belastingdienst.nl
 verleendekinderopvang.belastingdienst.nl
@@ -4699,6 +4805,7 @@ via2008pilot-test2.belastingdienst.nl
 via2008pilot.belastingdienst.nl
 victor.amsterdam.nl
 videobellen.belastingdienst.nl
+viertfietsen.deventer.nl
 view.brunssum.nl
 view.nieuwsbrief.amsterdam.nl
 vinden.belastingdienst.nl
@@ -4736,6 +4843,7 @@ vs_mijnzakelijk.str13.tst.belastingdienst.nl
 vs_webdiensten.str13.tst.belastingdienst.nl
 vsp.denhelder.nl
 vth.brievenbus.amsterdam.nl
+vth.deventer.nl
 vts.belastingdienst.nl
 vtsd.belastingdienst.nl
 vveacc.amsterdam.nl
@@ -4760,6 +4868,7 @@ wachtwoordvergeten.amsterdam.nl
 waf.ont.belastingdienst.nl
 wagenparkgegevens.acc.belastingdienst.nl
 wagenparkgegevens.belastingdienst.nl
+water.deventer.nl
 water.omgevingswet.overheid.nl
 wbakaart.amsterdam.nl
 wbs003.assen.nl
@@ -4771,6 +4880,8 @@ wd-ont.belastingdienst.nl
 wd.belastingdienst.nl
 wdt.belastingdienst.nl
 web.alblasserdam.nl
+web01.deventer.nl
+web02.deventer.nl
 web2print.assen.nl
 webapps-acc.belastingdienst.nl
 webapps.aaenhunze.nl
@@ -4843,6 +4954,7 @@ website.belastingdienst.nl
 websiteacc.breda.nl
 webtest10.rijksoverheid.nl
 webtim.nzl.amsterdam.nl
+webwerken.deventer.nl
 weesp.acc.meldingen.amsterdam.nl
 weesp.amsterdam.nl
 weespbegroot.amsterdam.nl
@@ -4895,6 +5007,8 @@ widocmksp001.assen.nl
 wifi-sport.alkmaar.nl
 wifi.bergenopzoom.nl
 wifiguestportal.almere.nl
+wij.deventer.nl
+wijkaanpak.deventer.nl
 wijkagenda-archipelwillemspark.denhaag.nl
 wijkagenda.denhaag.nl
 wijkbudgetlaakcentraal.denhaag.nl
@@ -4910,6 +5024,7 @@ wiki.data.amsterdam.nl
 wiki.logius.nl
 wiki.rijksoverheid.nl
 wim2-acc.borne.nl
+winkelen.deventer.nl
 wion.amersfoort.nl
 wlc.denhaag.nl
 wmo.bloemendaal.nl
@@ -4930,6 +5045,7 @@ wob.arnhem.nl
 wob.denhaag.nl
 womserver-test.brunssum.nl
 womserver.brunssum.nl
+wonenin.deventer.nl
 wonenportaal.amsterdam.nl
 woningbouwkaart.assen.nl
 woningbouwkaart.borger-odoorn.nl
@@ -5082,6 +5198,7 @@ www.containersweesperbuurt.amsterdam.nl
 www.continuverbeterenjmo.denhaag.nl
 www.cranendonck.nl
 www.crk.amsterdam.nl
+www.csam.deventer.nl
 www.culemborg.nl
 www.dalfsen.nl
 www.dantumadiel.frl
@@ -5095,6 +5212,8 @@ www.denhaagfietst.denhaag.nl
 www.denhelder.nl
 www.derondevenen.nl
 www.deurne.nl
+www.deventer.nl
+www.devgovrs1.deventer.nl
 www.dewolden.nl
 www.dmo.amsterdam.nl
 www.dmo.omgevingswet.overheid.nl
@@ -5102,6 +5221,7 @@ www.dmo2.amsterdam.nl
 www.doe-mee.coevorden.nl
 www.doemee.bloemendaal.nl
 www.doemee.denhaag.nl
+www.doemee.deventer.nl
 www.doewatmoet-acc.denhaag.nl
 www.dro.amsterdam.nl
 www.duinoordfietst.denhaag.nl
@@ -5204,6 +5324,7 @@ www.open-notificaties.ot.denhaag.nl
 www.open-zaak.ot.denhaag.nl
 www.open.amsterdam.nl
 www.openmonumentendag.amsterdam.nl
+www.openstad.deventer.nl
 www.operatiebomenbuurt.denhaag.nl
 www.oracbloemenbuurt.denhaag.nl
 www.organisatieontwikkeling.assen.nl
@@ -5259,6 +5380,7 @@ www.stadskrant-acc.denhaag.nl
 www.stadskrant.denhaag.nl
 www.stadspas.apeldoorn.nl
 www.stadstoezicht.amsterdam.nl
+www.staging.deventer.nl
 www.statistiek.amsterdam.nl
 www.stemmen.amsterdam.nl
 www.test.amersfoort.nl
@@ -5280,6 +5402,7 @@ www.vga.amsterdam.nl
 www.victor.amsterdam.nl
 www.vroonermeer-noord.alkmaar.nl
 www.vvetest.amsterdam.nl
+www.vvv.deventer.nl
 www.webmail.boekel.nl
 www.weespbegroot.amsterdam.nl
 www.werkaandeweg.amsterdam.nl
@@ -5361,12 +5484,14 @@ zoek.overheid.nl
 zoekdienst-preprod.overheid.nl
 zoekdienst.overheid.nl
 zoeken.belastingdienst.nl
+zoeken.deventer.nl
 zoeken.ondernemersplein.overheid.nl
 zoekservice.overheid.nl
 zomerprogramma070-acc.denhaag.nl
 zomerprogramma070.denhaag.nl
 zonneparking.doemee.bloemendaal.nl
 zorg.bergen.nl
+zorgaanbieders.deventer.nl
 zorgmail.bergenopzoom.nl
 zorgvlied.acceptatie.amstelveen.nl
 zorgvlied.amstelveen.nl
