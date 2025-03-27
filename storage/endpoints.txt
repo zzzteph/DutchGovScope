@@ -57,6 +57,7 @@ http://docgen-tst.amsterdam.nl
 http://docgen.amsterdam.nl
 http://docs.lpc.logius.nl
 http://dse.lx.overheid.nl
+http://email.capelleaandenijssel.nl
 http://felix.beekdaelen.nl
 http://felix.bergeijk.nl
 http://felix.bronckhorst.nl
@@ -136,6 +137,7 @@ http://www.bba.amsterdam.nl
 http://www.bergeijk.nl
 http://www.binnenwaterbeheer.amsterdam.nl
 http://www.bolwerken.amsterdam.nl
+http://www.capelleaandenijssel.nl
 http://www.gemeentebeek.nl
 http://www.nieuwwest.amsterdam.nl
 http://www.pmb.amsterdam.nl
@@ -450,6 +452,8 @@ https://bekslaan-leidsevaartweg.doemee.bloemendaal.nl
 https://belastingbalie.almere.nl
 https://belastingbalie.amersfoort.nl
 https://belastingbalie.amsterdam.nl
+https://belastingbalie.capelleaandenijssel.nl
+https://belastingbalietest.capelleaandenijssel.nl
 https://belastingdienst.nl
 https://belastingen-acc.arnhem.nl
 https://belastingen.almere.nl
@@ -544,6 +548,7 @@ https://bvd.mev.logius.nl
 https://bvs.belastingdienst.nl
 https://ca-idp-pre.logius.nl
 https://ca-idp.logius.nl
+https://capelleaandenijssel.nl
 https://cardaccess.acc.intra.amsterdam.nl
 https://cardaccess.intra.amsterdam.nl
 https://cardaccess.tst.intra.amsterdam.nl
@@ -566,6 +571,7 @@ https://cimot.almelo.nl
 https://cio-eto.overheid.nl
 https://cio.overheid.nl
 https://citrix.brielle.nl
+https://clicksfm.capelleaandenijssel.nl
 https://cloudstorage-koop.overheid.nl
 https://cms-binnenshuis.bergen.nl
 https://cms-joost.beuningen.nl
@@ -966,6 +972,7 @@ https://gemeenteraad.bloemendaal.nl
 https://geo.arnhem.nl
 https://geo.breda.nl
 https://geo.brunssum.nl
+https://geo.capelleaandenijssel.nl
 https://geografie.bronckhorst.nl
 https://geoserver-signalen.almere.nl
 https://geotest.arnhem.nl
@@ -1185,6 +1192,7 @@ https://leerpleinburgerzaken.amsterdam.nl
 https://lerenloont.almere.nl
 https://les-acc.amsterdam.nl
 https://leverancier.gemeenteberkelland.nl
+https://link.capelleaandenijssel.nl
 https://link.pr.almere.nl
 https://linkeddata.overheid.nl
 https://linkextractor.overheid.nl
@@ -1359,6 +1367,7 @@ https://netbox.alkmaar.nl
 https://nha.amsterdam.nl
 https://nieuwauthentiekbloemendaal.doemee.bloemendaal.nl
 https://nieuws.breda.nl
+https://nieuwsbrief.capelleaandenijssel.nl
 https://nieuwsbrieven.amsterdam.nl
 https://nieuwsbrievenminocw.nl
 https://nlgembrl.brielle.nl
@@ -1598,8 +1607,10 @@ https://pv.bodegraven-reeuwijk.nl
 https://pv.diensten.almere.nl
 https://pv.gemeenteberkelland.nl
 https://pwa.barendrecht.nl
+https://qr-acc.capelleaandenijssel.nl
 https://qr.amersfoort.nl
 https://qr.arnhem.nl
+https://qr.capelleaandenijssel.nl
 https://qr.digitaalgemeenteloket.alphenaandenrijn.nl
 https://qr.testdigitaalgemeenteloket.alphenaandenrijn.nl
 https://raad.acceptatie.asten.nl
@@ -1725,6 +1736,7 @@ https://simcms.ameland.nl
 https://simcms.bergen.nl
 https://simcms.bergendal.nl
 https://simcms.bergenopzoom.nl
+https://simcms.capelleaandenijssel.nl
 https://simform-preproductie.achtkarspelen.nl
 https://simsite.beekdaelen.nl
 https://simsite.bladel.nl

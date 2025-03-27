@@ -752,6 +752,8 @@ belastingbalie.acc.amsterdam.nl
 belastingbalie.almere.nl
 belastingbalie.amersfoort.nl
 belastingbalie.amsterdam.nl
+belastingbalie.capelleaandenijssel.nl
+belastingbalietest.capelleaandenijssel.nl
 belastingdienst.data.logius.nl
 belastingdienst.nl
 belastingen-acc.almere.nl
@@ -819,6 +821,7 @@ bgt.assen.nl
 bgt.baarn.nl
 bgt.basisregistraties.overheid.nl
 bgt.brummen.nl
+bgt.capelleaandenijssel.nl
 bgtt.bergenopzoom.nl
 bhg.bba.amsterdam.nl
 bhgtest.bba.amsterdam.nl
@@ -918,6 +921,7 @@ ca-idp.logius.nl
 ca-tst.logius.nl
 ca.logius.nl
 camera-sport.alkmaar.nl
+capelleaandenijssel.nl
 cardaccess.acc.intra.amsterdam.nl
 cardaccess.intra.amsterdam.nl
 cardaccess.tst.intra.amsterdam.nl
@@ -971,6 +975,7 @@ cis.barneveld.nl
 citrix.brielle.nl
 citrix.gemeentebeek.nl
 citrixomgeving.gemeentebeek.nl
+clicksfm.capelleaandenijssel.nl
 clienteleitsm-acceptatie.logius.nl
 clienteleitsm.logius.nl
 cloud.beverwijk.nl
@@ -1437,6 +1442,7 @@ eloketstaging.almere.nl
 elokettest.bloemendaal.nl
 email.amsterdam.nl
 email.bernheze.org
+email.capelleaandenijssel.nl
 email.doemee.gemeentebest.nl
 email.mail.denkmee.amstelveen.nl
 email.mail.participatie.aalsmeer.nl
@@ -1569,6 +1575,7 @@ felix.beverwijk.nl
 felix.bladel.nl
 felix.bronckhorst.nl
 felix.bunschoten.nl
+felix.capelleaandenijssel.nl
 felix.gemeentebeek.nl
 fgt.amstelveen.nl
 fibb1.belastingdienst.nl
@@ -1767,6 +1774,7 @@ geo.beverwijk.nl
 geo.breda.nl
 geo.brunssum.nl
 geo.buren.nl
+geo.capelleaandenijssel.nl
 geo1.arnhem.nl
 geodata.almelo.nl
 geografie.bronckhorst.nl
@@ -2277,6 +2285,7 @@ leiderschapp.belastingdienst.nl
 lerenloont.almere.nl
 les-acc.amsterdam.nl
 leverancier.gemeenteberkelland.nl
+link.capelleaandenijssel.nl
 link.pr.almere.nl
 linkeddata.overheid.nl
 linkextractor.overheid.nl
@@ -2333,6 +2342,8 @@ lvbb-lto.overheid.nl
 lvbb-perf-acc.overheid.nl
 lvbb-preprod.overheid.nl
 lvbb-tst.overheid.nl
+lvgeo.acc.capelleaandenijssel.nl
+lvgeo.capelleaandenijssel.nl
 lvwoz.achtkarspelen.nl
 lync-av-edge.ggd.amsterdam.nl
 lync-webconf-edge.ggd.amsterdam.nl
@@ -2687,6 +2698,7 @@ nieuws.breda.nl
 nieuwsbrief.amsterdam.nl
 nieuwsbrief.arnhem.nl
 nieuwsbrief.assen.nl
+nieuwsbrief.capelleaandenijssel.nl
 nieuwsbrieven.amsterdam.nl
 nieuwsbrievenminocw.nl
 nieuwwest.amsterdam.nl
@@ -2882,8 +2894,10 @@ osb.alkmaar.nl
 osb.almere.nl
 osb.bergendal.nl
 osb.beuningen.nl
+osb.capelleaandenijssel.nl
 osbacc.alkmaar.nl
 osbacc.almere.nl
+osbtest.capelleaandenijssel.nl
 osdorp.amsterdam.nl
 oss.developer.overheid.nl
 oswo-test.belastingdienst.nl
@@ -3157,8 +3171,10 @@ pv.gemeenteberkelland.nl
 pwa.barendrecht.nl
 pwa001.belastingdienst.nl
 qapbldexte2.belastingdienst.nl
+qr-acc.capelleaandenijssel.nl
 qr.amersfoort.nl
 qr.arnhem.nl
+qr.capelleaandenijssel.nl
 qr.digitaalgemeenteloket.alphenaandenrijn.nl
 qr.testdigitaalgemeenteloket.alphenaandenrijn.nl
 quarantine.bernheze.org
@@ -3337,6 +3353,7 @@ secure.boekel.nl
 secure.breda.nl
 secure.brielle.nl
 secure.brunssum.nl
+secure.capelleaandenijssel.nl
 secure.gemeentebeek.nl
 securegw.bunschoten.nl
 securemail.borne.nl
@@ -3363,6 +3380,7 @@ service.omgevingswet.overheid.nl
 service.perf.omgevingswet.overheid.nl
 service.pre.omgevingswet.overheid.nl
 service.tst2905.omgevingswet.overheid.nl
+servicebus.capelleaandenijssel.nl
 servicedesk.almelo.nl
 servicedesk.rijksoverheid.nl
 services.acc.amsterdam.nl
@@ -3430,6 +3448,7 @@ simcms.bladel.nl
 simcms.brielle.nl
 simcms.bronckhorst.nl
 simcms.bunschoten.nl
+simcms.capelleaandenijssel.nl
 simcms.gemeentebeek.nl
 simcms2.beekdaelen.nl
 simcmsintra.bergeijk.nl
@@ -4258,6 +4277,7 @@ www.buurtbudget.amsterdam.nl
 www.buurtbudgetnoord.amsterdam.nl
 www.buurtbudgetzuid.amsterdam.nl
 www.buurtbudgetzuidoost.amsterdam.nl
+www.capelleaandenijssel.nl
 www.centrum.amsterdam.nl
 www.centrumbegroot.alphenaandenrijn.nl
 www.centrumbegroot.amsterdam.nl
