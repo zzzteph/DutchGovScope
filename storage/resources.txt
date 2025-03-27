@@ -96,6 +96,7 @@ ac03617.delft.nl
 academie.acc.belastingdienst.nl
 academie.belastingdienst.nl
 academie.drimmelen.nl
+acc-afvalkalender.goes.nl
 acc-broker.assen.nl
 acc-broker.borger-odoorn.nl
 acc-broker.coevorden.nl
@@ -235,6 +236,7 @@ acc.formulieren.almere.nl
 acc.fs.mobiliteit.data.amsterdam.nl
 acc.gebiedinbeeld.amsterdam.nl
 acc.gemeentebest.nl
+acc.goes.nl
 acc.heelenschoon.amsterdam.nl
 acc.hior.amsterdam.nl
 acc.hitkans.top.amsterdam.nl
@@ -475,16 +477,19 @@ afspraken.eersel.nl
 afspraken.eijsden-margraten.nl
 afspraken.emmen.nl
 afspraken.ermelo.nl
+afspraken.goes.nl
 afval.acc.denhaag.nl
 afval.acc.omgevingswet.overheid.nl
 afval.assen.nl
 afval.diemen.nl
 afval.geertruidenberg.nl
+afval.goes.nl
 afval.omgevingswet.overheid.nl
 afvalkalender.alphenaandenrijn.nl
 afvalkalender.borsele.nl
 afvalkalender.cranendonck.nl
 afvalkalender.defryskemarren.nl
+afvalkalender.goes.nl
 afvalmelding-acc.denhaag.nl
 afvalmelding-dev.denhaag.nl
 afvalmelding.denhaag.nl
@@ -2327,6 +2332,7 @@ flowmailer-tracking.almelo.nl
 flowmailer-tracking.apeldoorn.nl
 flowmailer-tracking.bloemendaal.nl
 flowmailer-tracking.enschede.nl
+flowmailer-tracking.goes.nl
 fm.apeldoorn.nl
 fm01.apeldoorn.nl
 fm02.apeldoorn.nl
@@ -2496,6 +2502,7 @@ gemeente.emmen.nl
 gemeentearchief.alphenaandenrijn.nl
 gemeentearchief.barneveld.nl
 gemeentearchief.ede.nl
+gemeentearchief.goes.nl
 gemeentebeek.nl
 gemeenteberkelland.nl
 gemeentebest.nl
@@ -2608,6 +2615,7 @@ gms.gilzerijen.nl
 gn2connect-acc.apeldoorn.nl
 gn2connect.apeldoorn.nl
 goeree-overflakkee.nl
+goes.nl
 gogo-acc.denhaag.nl
 gogo.denhaag.nl
 goud.almere.nl
@@ -2630,6 +2638,7 @@ gpi.belastingdienst.nl
 gpt.apeldoorn.nl
 grafana.lpc.logius.nl
 grip.denhaag.nl
+grmks01.goes.nl
 grmks06.borsele.nl
 groenengezond.almere.nl
 grondwater.dronten.nl
@@ -2827,6 +2836,7 @@ iburgerzaken.gemeentebest.nl
 iburgerzaken.gemert-bakel.nl
 iburgerzaken.gennep.nl
 iburgerzaken.gilzerijen.nl
+iburgerzaken.goes.nl
 ibzpink.aaenhunze.nl
 ibzpink.achtkarspelen.nl
 ibzpink.almelo.nl
@@ -2878,6 +2888,7 @@ ibzpink.gemeentebest.nl
 ibzpink.gemert-bakel.nl
 ibzpink.gennep.nl
 ibzpink.gilzerijen.nl
+ibzpink.goes.nl
 icm-ast.asten.nl
 ict-ers.werkenvoornederland.nl
 icters.werkenvoornederland.nl
@@ -3376,6 +3387,7 @@ machtigen-ont.toeslagen.nl
 machtigen.digipoort.logius.nl
 magazine.amersfoort.nl
 magazine.dongen.nl
+magazine.goes.nl
 magazines.amsterdam.nl
 magazines.igj.nl
 magazines.rijksoverheid.nl
@@ -4249,6 +4261,7 @@ parkeren.bunschoten.nl
 parkeren.data.amsterdam.nl
 parkeren.dijkenwaard.nl
 parkeren.ede.nl
+parkeren.goes.nl
 parkerendenhaag-test.denhaag.nl
 parkerendenhaag.acc.denhaag.nl
 parkerendenhaag.denhaag.nl
@@ -4696,6 +4709,7 @@ rom.authenticatie.alkmaar.nl
 rooster.arnhem.nl
 rooster.denhelder.nl
 rooster.top.amsterdam.nl
+rostar.goes.nl
 router.dordrecht.nl
 router.ede.nl
 routeringsvoorziening-pp1.logius.nl
@@ -4754,6 +4768,7 @@ samen.drechterland.nl
 samen.enkhuizen.nl
 samenduurzaam.geldrop-mierlo.nl
 samenmet.beesel.nl
+samenspel.goes.nl
 samenvattingbegroting2017.deventer.nl
 samenveiligwerken.alphenaandenrijn.nl
 samenwerkportaal.pre.omgevingswet.overheid.nl
@@ -5091,6 +5106,7 @@ snelbaliepp.bergenopzoom.nl
 snelbaliepp.castricum.nl
 snelbaliepp.goeree-overflakkee.nl
 snelbalietest.almere.nl
+snelbalievergunningen.goes.nl
 sng.delft.nl
 sngtest.delft.nl
 snow-license.amsterdam.nl
@@ -5149,6 +5165,7 @@ squit2go-backoffice.enschede.nl
 squit2go.castricum.nl
 squit2go.enschede.nl
 squit2go.gemeentebest.nl
+squit2go.goes.nl
 squit2gotest-backoffice.enschede.nl
 squit2gotest.enschede.nl
 srmvaprd.ovh.gemeentebeek.nl
@@ -5524,6 +5541,7 @@ testkaart.alphenaandenrijn.nl
 testloket.dinkelland.nl
 testmeldingen.asten.nl
 testmijnzaken.derondevenen.nl
+testparkeren.goes.nl
 testportaal.almelo.nl
 testportal.borne.nl
 testsiam.ameland.nl
@@ -6000,6 +6018,7 @@ wiki.rijksoverheid.nl
 wim2-acc.borne.nl
 winkelen.deventer.nl
 wion.amersfoort.nl
+wion.goes.nl
 wlc.denhaag.nl
 wmo.bloemendaal.nl
 wmoauth.acceptatie.amsterdam.nl
@@ -6287,6 +6306,7 @@ www.geuzenveld.amsterdam.nl
 www.ggd.amsterdam.nl
 www.gilzerijen.nl
 www.goeree-overflakkee.nl
+www.goes.nl
 www.gogo.denhaag.nl
 www.gpi.amsterdam.nl
 www.groene-daken.amsterdam.nl

@@ -5,8 +5,8 @@ iburgerzaken
 ibzpink
 edienstenburgerzaken
 edienstenburgerzaken-test
-simsite
 afspraken
+simsite
 mail
 mijn
 secure
@@ -42,6 +42,7 @@ vpn
 api.meldingen
 ruimtelijkeplannen
 zaaksysteem-accept
+parkeren
 testeloket
 dacceptatieloket
 dacceptatiemidoffice
@@ -52,7 +53,6 @@ mijnzorg
 iparticipatie
 openpdc
 osb
-parkeren
 cmsoo
 dloket
 dmidoffice
@@ -99,7 +99,9 @@ e
 api.meldingen-acc
 meldingen-acc
 osbacc
+flowmailer-tracking
 belastingen
+afvalkalender
 duurzaam
 financien
 ns
@@ -126,9 +128,8 @@ vergunningintaker
 denkmee
 praatmee
 izaaksuite
-flowmailer-tracking
 thuiswerken
-afvalkalender
+gemeentearchief
 preprod
 www.duurzaam
 atlas
@@ -141,6 +142,7 @@ www.raad
 gis
 mijngeldzaken
 acc-podiumd-logs
+afval
 bag
 keycloak
 openformulieren
@@ -156,6 +158,7 @@ zaken.acceptatie
 samen
 formulieren-test
 uca
+squit2go
 uc
 mobile
 dtestmidoffice
@@ -188,9 +191,9 @@ maps
 stadsarchief
 api.openstad
 exchange
-gemeentearchief
 ro-online
 digitaalnachtregister
+magazine
 onderzoek
 vdi
 www.test
@@ -213,7 +216,6 @@ acc-objecten
 acc-objecttypen
 acc-openklant
 acc-openzaak
-afval
 bastion365
 media
 notificaties
@@ -246,7 +248,6 @@ jccapi
 acceptatieloket
 inloggen
 ro
-squit2go
 www.doemee
 acc.piwik
 www.webmail
@@ -347,7 +348,7 @@ mozard
 mozardtest
 bewustwording
 crl
-magazine
+wion
 jcc
 werkenvoor
 aanmeldenparkeren
@@ -1931,7 +1932,6 @@ ro-online1
 tracking
 vdi8
 wcs
-wion
 documenten.acceptatie
 email.mail.denkmee
 ems
@@ -4529,3 +4529,9 @@ ucc01
 ucconf01
 ucweb01-ext
 www.marketingtools
+acc-afvalkalender
+grmks01
+rostar
+samenspel
+snelbalievergunningen
+testparkeren

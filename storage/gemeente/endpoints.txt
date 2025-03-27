@@ -184,6 +184,7 @@ https://aanmelder.delft.nl
 https://abonneren-t.delft.nl
 https://abonneren.delft.nl
 https://academie.drimmelen.nl
+https://acc-afvalkalender.goes.nl
 https://acc-broker.assen.nl
 https://acc-broker.borger-odoorn.nl
 https://acc-broker.coevorden.nl
@@ -270,6 +271,7 @@ https://acc.epe.nl
 https://acc.fblocatielijst.amsterdam.nl
 https://acc.formulieren.almere.nl
 https://acc.gemeentebest.nl
+https://acc.goes.nl
 https://acc.hior.amsterdam.nl
 https://acc.iam.amsterdam.nl
 https://acc.io.amsterdam.nl
@@ -360,13 +362,16 @@ https://afspraken.dongen.nl
 https://afspraken.eemsdelta.nl
 https://afspraken.eijsden-margraten.nl
 https://afspraken.ermelo.nl
+https://afspraken.goes.nl
 https://afval.assen.nl
 https://afval.diemen.nl
 https://afval.geertruidenberg.nl
+https://afval.goes.nl
 https://afvalkalender.alphenaandenrijn.nl
 https://afvalkalender.borsele.nl
 https://afvalkalender.cranendonck.nl
 https://afvalkalender.defryskemarren.nl
+https://afvalkalender.goes.nl
 https://afvalmelding.denhaag.nl
 https://agbi.apeldoorn.nl
 https://agwp01.azweu.alkmaar.nl
@@ -1220,6 +1225,7 @@ https://floriade.almere.nl
 https://flowmailer-tracking.almelo.nl
 https://flowmailer-tracking.bloemendaal.nl
 https://flowmailer-tracking.enschede.nl
+https://flowmailer-tracking.goes.nl
 https://fmreturn.beekdaelen.nl
 https://fmreturn.beverwijk.nl
 https://fmreturn.echt-susteren.nl
@@ -1286,6 +1292,7 @@ https://gemeente.emmen.nl
 https://gemeentearchief.alphenaandenrijn.nl
 https://gemeentearchief.barneveld.nl
 https://gemeentearchief.ede.nl
+https://gemeentearchief.goes.nl
 https://gemeentebeek.nl
 https://gemeenteberkelland.nl
 https://gemeentebest.nl
@@ -1345,6 +1352,7 @@ https://gitops.acc.denhaag.nl
 https://gitops.dev.denhaag.nl
 https://gitops.test.denhaag.nl
 https://glanerbrug.openstad.enschede.nl
+https://goes.nl
 https://gogo.denhaag.nl
 https://goud.almere.nl
 https://gp.apeldoorn.nl
@@ -1449,6 +1457,7 @@ https://iburgerzaken.gemeentebest.nl
 https://iburgerzaken.gemert-bakel.nl
 https://iburgerzaken.gennep.nl
 https://iburgerzaken.gilzerijen.nl
+https://iburgerzaken.goes.nl
 https://id-beheer-erfpacht-acc.amsterdam.nl
 https://id-beheer-erfpacht-dev.amsterdam.nl
 https://id-beheer-erfpacht-ont.amsterdam.nl
@@ -1674,6 +1683,7 @@ https://lyncdiscover.diemen.nl
 https://lyncdiscover.ggd.amsterdam.nl
 https://m.amersfoort.nl
 https://magazine.dongen.nl
+https://magazine.goes.nl
 https://magazines.amsterdam.nl
 https://mail.apeldoorn.nl
 https://mail.bloemendaal.nl
@@ -2066,6 +2076,7 @@ https://parkeren.bodegraven-reeuwijk.nl
 https://parkeren.bunschoten.nl
 https://parkeren.dijkenwaard.nl
 https://parkeren.ede.nl
+https://parkeren.goes.nl
 https://parkerendenhaag.acc.denhaag.nl
 https://parkerendenhaag.denhaag.nl
 https://parkerendenhaag.ot.denhaag.nl
@@ -2242,6 +2253,7 @@ https://ro.emmen.nl
 https://ro.gemeenteberkelland.nl
 https://rooster.arnhem.nl
 https://rooster.denhelder.nl
+https://rostar.goes.nl
 https://rp.beverwijk.nl
 https://ruimtelijkeplannen.achtkarspelen.nl
 https://ruimtelijkeplannen.alkmaar.nl
@@ -2263,6 +2275,7 @@ https://samen.dongen.nl
 https://samen.drechterland.nl
 https://samen.enkhuizen.nl
 https://samenmet.beesel.nl
+https://samenspel.goes.nl
 https://samenvattingbegroting2017.deventer.nl
 https://samenveiligwerken.alphenaandenrijn.nl
 https://sammy-acc.derondevenen.nl
@@ -2356,6 +2369,7 @@ https://snelbaliepp.apeldoorn.nl
 https://snelbaliepp.bergenopzoom.nl
 https://snelbaliepp.goeree-overflakkee.nl
 https://snelbalietest.almere.nl
+https://snelbalievergunningen.goes.nl
 https://snow-license.amsterdam.nl
 https://snowagent.denhaag.nl
 https://sociaaldomein.almere.nl
@@ -2889,6 +2903,7 @@ https://www.geobrowser.enschede.nl
 https://www.geuzenstatenkwartierfietst.denhaag.nl
 https://www.ggd.amsterdam.nl
 https://www.gilzerijen.nl
+https://www.goes.nl
 https://www.gogo.denhaag.nl
 https://www.havenkwartieraanzet.denhaag.nl
 https://www.hildebrandplein.denhaag.nl
