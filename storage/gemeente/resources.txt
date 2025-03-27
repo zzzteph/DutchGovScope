@@ -361,6 +361,7 @@ acceptatie.hillegom.nl
 acceptatie.hilvarenbeek.nl
 acceptatie.hilvernet.hilvarenbeek.nl
 acceptatie.hofvantwente.nl
+acceptatie.hoogeveen.nl
 acceptatie.intranet.debilt.nl
 acceptatie.oranjeplein.goirle.nl
 acceptatie.participatiewebshop.emmen.nl
@@ -705,6 +706,7 @@ apps.dijkenwaard.nl
 apps.gouda.nl
 apps.haarlemmermeer.nl
 apps.heemskerk.nl
+apps.hoogeveen.nl
 arcgis.groningen.nl
 archeologie-acc.denhaag.nl
 archeologie.denhaag.nl
@@ -869,6 +871,7 @@ autodiscover.heusden.nl
 autodiscover.hillegom.nl
 autodiscover.hilversum.nl
 autodiscover.hofvantwente.nl
+autodiscover.hoogeveen.nl
 autodiscover.iba.amsterdam.nl
 autodiscover.leefbaar.haarlemmermeer.nl
 autodiscover.noord.amsterdam.nl
@@ -998,6 +1001,7 @@ begraafplaatsen.gooisemeren.nl
 begraafplaatsreservering.bronckhorst.nl
 begraaftijd.ede.nl
 begraven.dewolden.nl
+begraven.hoogeveen.nl
 begroten.centrumbegroot.alphenaandenrijn.nl
 begroten.zwammerdamdorpskern.alphenaandenrijn.nl
 begroting.delft.nl
@@ -1150,6 +1154,7 @@ bgt.brummen.nl
 bgt.capelleaandenijssel.nl
 bgt.dewolden.nl
 bgt.halderberge.nl
+bgt.hoogeveen.nl
 bgthvs.hilversum.nl
 bgtt.bergenopzoom.nl
 bgtwdm.hilversum.nl
@@ -1318,6 +1323,7 @@ cis.barneveld.nl
 citrix.brielle.nl
 citrix.gemeentebeek.nl
 citrix.gulpen-wittem.nl
+citrix.hoogeveen.nl
 citrixomgeving.gemeentebeek.nl
 citytrip.groningen.nl
 cjg.denhaag.nl
@@ -1937,6 +1943,7 @@ e.almelo.nl
 e.borger-odoorn.nl
 e.dewolden.nl
 e.haarlem.nl
+e.hoogeveen.nl
 e.mailings.deventer.nl
 e.openstad.emmen.nl
 e.openstad.enschede.nl
@@ -2736,6 +2743,7 @@ groenervijfhuizen.haarlemmermeer.nl
 grondwater.dronten.nl
 groningen.nl
 grooster.dalfsen.nl
+grooster.hoogeveen.nl
 growinggreencities.almere.nl
 gsmpt.stadstoezicht.amsterdam.nl
 guest.beekdaelen.nl
@@ -2809,6 +2817,8 @@ hetsociaalplein-acc.dijkenwaard.nl
 hetsociaalplein.dijkenwaard.nl
 heumen.nl
 heusden.nl
+hgvexc1.hoogeveen.nl
+hgvmks1.hoogeveen.nl
 hh2015.groningen.nl
 hier.groningen.nl
 hildebrandplein.denhaag.nl
@@ -2837,6 +2847,7 @@ home1.groningen.nl
 home2.groningen.nl
 hometest.groningen.nl
 hoogeland.groningen.nl
+hoogeveen.nl
 hor-acc.amsterdam.nl
 hor.amsterdam.nl
 hor.denhaag.nl
@@ -2971,6 +2982,7 @@ iburgerzaken.heusden.nl
 iburgerzaken.hilvarenbeek.nl
 iburgerzaken.hilversum.nl
 iburgerzaken.hollandskroon.nl
+iburgerzaken.hoogeveen.nl
 iburgerzaken.s-hertogenbosch.nl
 ibzpink.aaenhunze.nl
 ibzpink.achtkarspelen.nl
@@ -3041,6 +3053,7 @@ ibzpink.heusden.nl
 ibzpink.hilvarenbeek.nl
 ibzpink.hilversum.nl
 ibzpink.hollandskroon.nl
+ibzpink.hoogeveen.nl
 icm-ast.asten.nl
 id-beheer-erfpacht-acc.amsterdam.nl
 id-beheer-erfpacht-dev.amsterdam.nl
@@ -3947,6 +3960,7 @@ mks.eijsden-margraten.nl
 mks.gemeentebest.nl
 mks.haarlemmermeer.nl
 mks.hethogeland.nl
+mks.hoogeveen.nl
 mks.preprod.amsterdam.nl
 mks.test.amsterdam.nl
 mks01.amsterdam.nl
@@ -3959,6 +3973,7 @@ mobiel.brummen.nl
 mobiel.gemeentebeek.nl
 mobiel.groningen.nl
 mobiel.hillegom.nl
+mobiel.hoogeveen.nl
 mobielbeek.gemeentebeek.nl
 mobielhandhaving-migratie.groningen.nl
 mobielhandhaving-test-migratie.groningen.nl
@@ -4106,6 +4121,7 @@ ns02.alkmaar.nl
 ns1.arnhem.nl
 ns1.delft.nl
 ns1.denhaag.nl
+ns1.hoogeveen.nl
 ns2.arnhem.nl
 ns2.denhaag.nl
 nsx01.alkmaar.nl
@@ -4284,12 +4300,14 @@ opendata.assen.nl
 opendata.bloemendaal.nl
 openformulieren-test.dewolden.nl
 openformulieren-test.enkhuizen.nl
+openformulieren-test.hoogeveen.nl
 openformulieren-zgw.acc.denhaag.nl
 openformulieren-zgw.test.denhaag.nl
 openformulieren.assen.nl
 openformulieren.dewolden.nl
 openformulieren.drechterland.nl
 openformulieren.enkhuizen.nl
+openformulieren.hoogeveen.nl
 openklant-beheer-erfpacht-dev.amsterdam.nl
 openklant-beheer-erfpacht-ont.amsterdam.nl
 openklant-beheer-erfpacht.amsterdam.nl
@@ -4392,6 +4410,7 @@ oud.heusden.nl
 outlook.denhelder.nl
 outlook.deventer.nl
 outlook.dewolden.nl
+outlook.hoogeveen.nl
 outlook3.denhaag.nl
 overdrachtsdocument2022.s-hertogenbosch.nl
 ovh.gemeentebeek.nl
@@ -5767,6 +5786,7 @@ thuiswerken2.bronckhorst.nl
 tijdelijk.data.amsterdam.nl
 tijdelijk.secure.amsterdam.nl
 tijdschrijven.apeldoorn.nl
+tijdschrijven.hoogeveen.nl
 tiles1.acc.opdekaart.amsterdam.nl
 tim.gemeentebest.nl
 timetell.acc.amsterdam.nl
@@ -6276,6 +6296,7 @@ woningbouwkaart.eersel.nl
 woningbouwkaart.eindhoven.nl
 woningbouwkaart.heeze-leende.nl
 woningbouwkaart.helmond.nl
+woningbouwkaart.hoogeveen.nl
 woningdossier.assen.nl
 woo-acc.denhaag.nl
 woo.arnhem.nl
@@ -6647,6 +6668,7 @@ www.hlmrvpn.haarlemmermeer.nl
 www.hofvantwente.nl
 www.hollandskroon.nl
 www.hoogeland.groningen.nl
+www.hoogeveen.nl
 www.houtwijkbegroot.denhaag.nl
 www.hvd.groningen.nl
 www.ibo.borger-odoorn.nl

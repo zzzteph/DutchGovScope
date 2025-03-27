@@ -75,6 +75,7 @@ http://autodiscover.heusden.nl
 http://autodiscover.hillegom.nl
 http://autodiscover.hilversum.nl
 http://autodiscover.hofvantwente.nl
+http://autodiscover.hoogeveen.nl
 http://autodiscover.s-hertogenbosch.nl
 http://beekdaelen.nl
 http://bergeijk.nl
@@ -411,6 +412,7 @@ https://acceptatie.hethogeland.nl
 https://acceptatie.hillegom.nl
 https://acceptatie.hilvarenbeek.nl
 https://acceptatie.hilvernet.hilvarenbeek.nl
+https://acceptatie.hoogeveen.nl
 https://acceptatie.intranet.debilt.nl
 https://acceptatie.oranjeplein.goirle.nl
 https://acceptatie.subsidies-backend.ede.nl
@@ -744,6 +746,7 @@ https://begraafplaatsen.bloemendaal.nl
 https://begraafplaatsen.gooisemeren.nl
 https://begraafplaatsreservering.bronckhorst.nl
 https://begraven.dewolden.nl
+https://begraven.hoogeveen.nl
 https://begroten.centrumbegroot.alphenaandenrijn.nl
 https://begroten.zwammerdamdorpskern.alphenaandenrijn.nl
 https://begroting.delft.nl
@@ -1221,6 +1224,7 @@ https://e.achtkarspelen.nl
 https://e.almelo.nl
 https://e.borger-odoorn.nl
 https://e.dewolden.nl
+https://e.hoogeveen.nl
 https://e.mailings.deventer.nl
 https://e.openstad.emmen.nl
 https://e.openstad.enschede.nl
@@ -1792,6 +1796,7 @@ https://hofnet.coevorden.nl
 https://hofvantwente.nl
 https://hollandskroon.nl
 https://hometest.groningen.nl
+https://hoogeveen.nl
 https://hor-acc.amsterdam.nl
 https://hor.amsterdam.nl
 https://hor.denhaag.nl
@@ -1884,6 +1889,7 @@ https://iburgerzaken.heusden.nl
 https://iburgerzaken.hilvarenbeek.nl
 https://iburgerzaken.hilversum.nl
 https://iburgerzaken.hollandskroon.nl
+https://iburgerzaken.hoogeveen.nl
 https://iburgerzaken.s-hertogenbosch.nl
 https://id-beheer-erfpacht-acc.amsterdam.nl
 https://id-beheer-erfpacht-dev.amsterdam.nl
@@ -2568,11 +2574,13 @@ https://opendata.assen.nl
 https://opendata.bloemendaal.nl
 https://openformulieren-test.dewolden.nl
 https://openformulieren-test.enkhuizen.nl
+https://openformulieren-test.hoogeveen.nl
 https://openformulieren-zgw.acc.denhaag.nl
 https://openformulieren-zgw.test.denhaag.nl
 https://openformulieren.dewolden.nl
 https://openformulieren.drechterland.nl
 https://openformulieren.enkhuizen.nl
+https://openformulieren.hoogeveen.nl
 https://openklant-beheer-erfpacht-dev.amsterdam.nl
 https://openklant-beheer-erfpacht-ont.amsterdam.nl
 https://openklant-beheer-erfpacht.amsterdam.nl
@@ -2641,6 +2649,7 @@ https://otp.gemeenteberkelland.nl
 https://oud.heusden.nl
 https://outlook.deventer.nl
 https://outlook.dewolden.nl
+https://outlook.hoogeveen.nl
 https://overdrachtsdocument2022.s-hertogenbosch.nl
 https://owa.groningen.nl
 https://ows-ahp.groningen.nl
@@ -3559,6 +3568,7 @@ https://woningbouwkaart.eersel.nl
 https://woningbouwkaart.eindhoven.nl
 https://woningbouwkaart.heeze-leende.nl
 https://woningbouwkaart.helmond.nl
+https://woningbouwkaart.hoogeveen.nl
 https://woningdossier.assen.nl
 https://woo-acc.denhaag.nl
 https://woo.arnhem.nl
@@ -3774,6 +3784,7 @@ https://www.hilvarenbeek.nl
 https://www.hilversum.nl
 https://www.hofvantwente.nl
 https://www.hollandskroon.nl
+https://www.hoogeveen.nl
 https://www.houtwijkbegroot.denhaag.nl
 https://www.iedereenwerktmee.amsterdam.nl
 https://www.ihp-acc.denhaag.nl

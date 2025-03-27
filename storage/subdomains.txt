@@ -77,7 +77,9 @@ preprod-mijninkomen
 snelbalie
 berichten
 extranet
+mks
 cmsoo
+woningbouwkaart
 osbacc
 piwik
 kaart
@@ -85,9 +87,8 @@ duurzaam
 siam
 financien
 beeldbank
-mks
+apps
 nieuwsbrief
-woningbouwkaart
 cloudadapter
 kaarten
 pki
@@ -95,19 +96,20 @@ filecap
 opendata
 smtp
 portaal
+e
 kennisbank
 verkiezingen
 snelbaliepp
 digikoppeling.test
-apps
 email
 gemeente
 acc-broker
+bgt
 belastingloket
 connect
 samen
 dtestloket
-e
+mobiel
 mailing
 belastingportaal
 mijnzorg-acc
@@ -116,7 +118,6 @@ parkeren-test
 preprod
 qr
 parkeren-acc
-bgt
 byod
 simcms-open
 test-intranet
@@ -128,7 +129,6 @@ jaarstukken
 begroting
 magazines
 evenementen
-mobiel
 preprodbroker
 denkmee
 simform
@@ -144,6 +144,7 @@ woo
 acc-podiumd-logs
 bag
 bastion365
+openformulieren
 sip
 sts
 test-digikoppeling
@@ -197,6 +198,7 @@ telewerken
 www.raad
 auth
 mijngeldzaken
+ns1
 rooster
 acc-contact
 acc-formulier
@@ -211,10 +213,10 @@ afval
 keycloak
 lyncdiscover
 meet
-openformulieren
 owa
 podiumd-logs
 klantcontact
+citrix
 cmsintranet
 contentbeheer.acceptatie
 contentbeheer
@@ -236,6 +238,7 @@ xential
 key2gbav
 woz-loket
 mijnzaken
+outlook
 cryptshare
 openstad
 testloket
@@ -292,7 +295,6 @@ desktop
 e-loket
 gp
 geotest
-ns1
 sslvpn
 www2
 media
@@ -310,7 +312,6 @@ test-openklant
 test-openzaak
 test-podiumd-logs
 publicaties
-citrix
 inproces.acceptatie
 inproces
 squit2020publiceren
@@ -337,7 +338,7 @@ medewerkers
 bor
 burgerloket
 filr
-outlook
+openformulieren-test
 archief
 klantportaal
 admin.openstad
@@ -462,6 +463,7 @@ digitaleplannen
 gbi
 mo
 ndes
+tijdschrijven
 digid
 teleweb
 testdigid
@@ -542,6 +544,7 @@ connect.test
 contentbeheer.test
 zaken.test
 pkio1
+grooster
 ris
 suite4burgerzaken-prod
 efacturen
@@ -549,7 +552,7 @@ subsidies-login.acceptatie
 subsidies-login
 preprod-mijnportaal
 ondernemersloket
-openformulieren-test
+begraven
 datatest
 geoservices
 kennisportaal
@@ -3150,7 +3153,6 @@ talent
 telecom
 test-e-loket
 test-topvorm
-tijdschrijven
 topvorm
 uitvaartagenda-dev
 uitvaartagenda-staging
@@ -3638,7 +3640,6 @@ vriseloket
 dvg
 platform
 www.platform
-grooster
 idtst
 joinconnect
 kindregeling
@@ -3676,7 +3677,6 @@ selector2._domainkey
 stroomlijntest
 testmijnzaken
 werkplek02
-begraven
 aanmelder
 abonneren-t
 abonneren
@@ -5388,3 +5388,5 @@ verhalenroute
 wijkteam
 www.denkmee
 www.meedoen
+hgvexc1
+hgvmks1
