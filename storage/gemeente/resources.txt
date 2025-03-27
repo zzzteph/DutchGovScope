@@ -35,6 +35,7 @@ Top.apeldoorn.nl
 VRiSeLoket.cranendonck.nl
 _autodiscover._tcp.buren.nl
 _autodiscover._tcp.debilt.nl
+_autodiscover._tcp.haaksbergen.nl
 _dmarc.delft.nl
 a-consent.sarphati.amsterdam.nl
 a-digikoppeling.amersfoort.nl
@@ -453,6 +454,7 @@ afspraken.goes.nl
 afspraken.goirle.nl
 afspraken.groningen.nl
 afspraken.gulpen-wittem.nl
+afspraken.haaksbergen.nl
 afspraken2.gorinchem.nl
 afval.acc.denhaag.nl
 afval.assen.nl
@@ -752,6 +754,7 @@ autodiscover.gooisemeren.nl
 autodiscover.gorinchem.nl
 autodiscover.gouda.nl
 autodiscover.groningen.nl
+autodiscover.haaksbergen.nl
 autodiscover.iba.amsterdam.nl
 autodiscover.noord.amsterdam.nl
 autodiscover.ombudsman.groningen.nl
@@ -2354,6 +2357,7 @@ gwmor008.gulpen-wittem.nl
 gwmor009.gulpen-wittem.nl
 gwmwb012.gulpen-wittem.nl
 gzac.t.ssv.amsterdam.nl
+haaksbergen.nl
 haal-centraal.api.data.amsterdam.nl
 handboekdibor.ede.nl
 handhaving.groningen.nl
@@ -2496,6 +2500,7 @@ iburgerzaken.goes.nl
 iburgerzaken.goirle.nl
 iburgerzaken.gooisemeren.nl
 iburgerzaken.groningen.nl
+iburgerzaken.haaksbergen.nl
 ibzpink.aaenhunze.nl
 ibzpink.achtkarspelen.nl
 ibzpink.almelo.nl
@@ -2550,6 +2555,7 @@ ibzpink.gilzerijen.nl
 ibzpink.goes.nl
 ibzpink.goirle.nl
 ibzpink.groningen.nl
+ibzpink.haaksbergen.nl
 icm-ast.asten.nl
 id-beheer-erfpacht-acc.amsterdam.nl
 id-beheer-erfpacht-dev.amsterdam.nl
@@ -3025,6 +3031,7 @@ mail.gemert-bakel.nl
 mail.gennep.nl
 mail.gorinchem.nl
 mail.gulpen-wittem.nl
+mail.mailing.haaksbergen.nl
 mail.noord.amsterdam.nl
 mail01.bodegraven-reeuwijk.nl
 mail1.amersfoort.nl
@@ -3116,6 +3123,7 @@ meet.ggd.amsterdam.nl
 meldcode.denhaag.nl
 melddesk.almere.nl
 melddesk.bodegraven-reeuwijk.nl
+melddesk.haaksbergen.nl
 melding.amsterdam.nl
 meldingen-acc.aaenhunze.nl
 meldingen-acc.apeldoorn.nl
@@ -3196,6 +3204,7 @@ mijn.goeree-overflakkee.nl
 mijn.gooisemeren.nl
 mijn.gouda.nl
 mijn.groningen.nl
+mijn.haaksbergen.nl
 mijnaanvraagzi.beuningen.nl
 mijnbelastingen.amsterdam.nl
 mijnerfpacht.acc.amsterdam.nl
@@ -3220,6 +3229,7 @@ mijninkomen.doesburg.nl
 mijninkomen.dronten.nl
 mijninkomen.goeree-overflakkee.nl
 mijninkomen.gouda.nl
+mijnintranet.haaksbergen.nl
 mijnjgz.ggd.groningen.nl
 mijnkaart.deurne.nl
 mijnkaarten.ovh.gemeentebeek.nl
@@ -4263,6 +4273,7 @@ sensorenregister.amsterdam.nl
 sentry.beesel.nl
 sentry.denhelder.nl
 sentry1.denhelder.nl
+server-appl13.haaksbergen.nl
 serverruimte.dinkelland.nl
 service01-acceptatie.eijsden-margraten.nl
 service01.eijsden-margraten.nl
@@ -4507,6 +4518,7 @@ squit2go.castricum.nl
 squit2go.enschede.nl
 squit2go.gemeentebest.nl
 squit2go.goes.nl
+squit2go.haaksbergen.nl
 squit2gotest-backoffice.enschede.nl
 squit2gotest.enschede.nl
 squitxo.goirle.nl
@@ -4926,6 +4938,7 @@ veiligdelen.alkmaar.nl
 veiligdelen.derondevenen.nl
 veiligmailen.almelo.nl
 veiligmailen.beverwijk.nl
+veiligmailen.haaksbergen.nl
 veluwsepoort.ede.nl
 vergaderen-adp.amsterdam.nl
 vergaderen.acc.amsterdam.nl
@@ -5017,6 +5030,7 @@ waarmerk.enkhuizen.nl
 waarmerk.gemeenteberkelland.nl
 waarmerk.gemeentebest.nl
 waarmerk.groningen.nl
+waarmerk.haaksbergen.nl
 wacfarm.acc.amsterdam.nl
 wachtwoord.acc.amsterdam.nl
 wachtwoord.alkmaar.nl
@@ -5520,6 +5534,7 @@ www.grnwi520.groningen.nl
 www.groene-daken.amsterdam.nl
 www.groningen.nl
 www.gulpen-wittem.nl
+www.haaksbergen.nl
 www.handhavingsacademie.amsterdam.nl
 www.havenkwartieraanzet.denhaag.nl
 www.hh2015.groningen.nl

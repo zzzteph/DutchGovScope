@@ -57,6 +57,7 @@ http://autodiscover.gemert-bakel.nl
 http://autodiscover.gooisemeren.nl
 http://autodiscover.gorinchem.nl
 http://autodiscover.gouda.nl
+http://autodiscover.haaksbergen.nl
 http://beekdaelen.nl
 http://bergeijk.nl
 http://bergen.nl
@@ -1490,6 +1491,7 @@ https://growinggreencities.almere.nl
 https://guido.asten.nl
 https://gulpen-wittem.nl
 https://gzac.t.ssv.amsterdam.nl
+https://haaksbergen.nl
 https://haal-centraal.api.data.amsterdam.nl
 https://handboekdibor.ede.nl
 https://haven.deventer.nl
@@ -1587,6 +1589,7 @@ https://iburgerzaken.goes.nl
 https://iburgerzaken.goirle.nl
 https://iburgerzaken.gooisemeren.nl
 https://iburgerzaken.groningen.nl
+https://iburgerzaken.haaksbergen.nl
 https://id-beheer-erfpacht-acc.amsterdam.nl
 https://id-beheer-erfpacht-dev.amsterdam.nl
 https://id-beheer-erfpacht-ont.amsterdam.nl
@@ -1926,6 +1929,7 @@ https://mijn.gemert-bakel.nl
 https://mijn.gooisemeren.nl
 https://mijn.gouda.nl
 https://mijn.groningen.nl
+https://mijn.haaksbergen.nl
 https://mijnaanvraagzi.beuningen.nl
 https://mijnbelastingen.amsterdam.nl
 https://mijnerfpacht.amsterdam.nl
@@ -1945,6 +1949,7 @@ https://mijninkomen.doesburg.nl
 https://mijninkomen.dronten.nl
 https://mijninkomen.goeree-overflakkee.nl
 https://mijninkomen.gouda.nl
+https://mijnintranet.haaksbergen.nl
 https://mijnjgz.ggd.groningen.nl
 https://mijnkaart.deurne.nl
 https://mijnloket.deventer.nl
@@ -3174,6 +3179,7 @@ https://www.gorinchem.nl
 https://www.gouda.nl
 https://www.groningen.nl
 https://www.gulpen-wittem.nl
+https://www.haaksbergen.nl
 https://www.havenkwartieraanzet.denhaag.nl
 https://www.hildebrandplein.denhaag.nl
 https://www.houtwijkbegroot.denhaag.nl

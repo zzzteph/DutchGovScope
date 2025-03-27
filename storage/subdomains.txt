@@ -7,8 +7,8 @@ edienstenburgerzaken
 edienstenburgerzaken-test
 afspraken
 simsite
-mail
 mijn
+mail
 intranet
 webmail
 secure
@@ -31,13 +31,13 @@ betalen
 data
 meldingen
 eloket
+waarmerk
 afspraak
 vpn
 geo
 pv
 omgevingsvisie
 gemeenteraad
-waarmerk
 broker
 zaaksysteem-accept
 ruimtelijkeplannen
@@ -126,6 +126,7 @@ connect.acceptatie
 simcms-open
 test-cmsintranet
 samen
+squit2go
 mdm
 AutoDiscover
 dtestmidoffice
@@ -180,7 +181,6 @@ zaken.acceptatie
 gasten
 formulieren-test
 uca
-squit2go
 uc
 mobile
 begroting
@@ -213,6 +213,8 @@ makelaar
 parkeren-test
 subsidies-backend
 subsidies
+veiligmailen
+melddesk
 stadsarchief
 api.openstad
 exchange
@@ -277,6 +279,7 @@ xential
 2secure
 erfgoed
 jaarstukken
+_autodiscover._tcp
 burgerloket
 filr
 outlook
@@ -353,11 +356,9 @@ meldingen.acc
 subsidie
 subsidies-backend.acceptatie
 subsidies.acceptatie
-veiligmailen
 3d
 belastingen-acc
 ingesprek
-melddesk
 panel
 planon
 sociaaldomein
@@ -459,7 +460,6 @@ key2gbav
 logilink
 ssd
 suite4burgerzaken-test
-_autodiscover._tcp
 mbg
 medewerkers
 qr-acc
@@ -4914,3 +4914,6 @@ tjooner
 validsign
 warp
 xentialtest
+mail.mailing
+mijnintranet
+server-appl13
