@@ -81,6 +81,7 @@ http://www.werkenbij.amsterdam.nl
 https://3d.almere.nl
 https://3d.amsterdam.nl
 https://Autorisatietest.bloemendaal.nl
+https://Belastingportaal-test.boxtel.nl
 https://Infra-summit.acc.amsterdam.nl
 https://Infra-summit.tst.amsterdam.nl
 https://a-consent.sarphati.amsterdam.nl
@@ -325,10 +326,12 @@ https://belastingen-acc.arnhem.nl
 https://belastingen.almere.nl
 https://belastingen.arnhem.nl
 https://belastingloket.barneveld.nl
+https://belastingportaal-test.boxtel.nl
 https://belastingportaal.aaenhunze.nl
 https://belastingportaal.acc.aaenhunze.nl
 https://belastingportaal.acc.assen.nl
 https://belastingportaal.assen.nl
+https://belastingportaal.boxtel.nl
 https://bereikbaarheid.amsterdam.nl
 https://bergen-nh.nl
 https://bergendal.nl
@@ -368,6 +371,7 @@ https://borne.nl
 https://borsele.nl
 https://bounces-eps.amsterdam.nl
 https://bouwdossiers.amsterdam.nl
+https://boxtel.nl
 https://bp.data.amsterdam.nl
 https://brediusbad.amsterdam.nl
 https://broker.aalten.nl
@@ -530,6 +534,7 @@ https://edienstenburgerzaken-test.barneveld.nl
 https://edienstenburgerzaken-test.beesel.nl
 https://edienstenburgerzaken-test.bergen-nh.nl
 https://edienstenburgerzaken-test.beverwijk.nl
+https://edienstenburgerzaken-test.boxtel.nl
 https://edienstenburgerzaken-test.gemeenteberkelland.nl
 https://edienstenburgerzaken.aalsmeer.nl
 https://edienstenburgerzaken.aalten.nl
@@ -546,6 +551,7 @@ https://edienstenburgerzaken.barneveld.nl
 https://edienstenburgerzaken.beesel.nl
 https://edienstenburgerzaken.bergen-nh.nl
 https://edienstenburgerzaken.beverwijk.nl
+https://edienstenburgerzaken.boxtel.nl
 https://edienstenburgerzaken.gemeenteberkelland.nl
 https://edienstenburgerzaken.test.aalsmeer.nl
 https://edienstenburgerzaken.test.amstelveen.nl
@@ -812,6 +818,7 @@ https://jvvs.amsterdam.nl
 https://kaart.amersfoort.nl
 https://kaart.amsterdam.nl
 https://kaart.bergendal.nl
+https://kaarten.boxtel.nl
 https://kaartviewer.barneveld.nl
 https://kavels.almere.nl
 https://kavelwinkel.almere.nl
@@ -914,6 +921,7 @@ https://mijninkomen.almelo.nl
 https://mijninkomen.almere.nl
 https://mijninkomen.beverwijk.nl
 https://mijnoverzicht.alphenaandenrijn.nl
+https://mijnoverzicht.boxtel.nl
 https://mijnplan.gemeenteberkelland.nl
 https://mijnsbl.amsterdam.nl
 https://mijnsociaalplein.bergen-nh.nl
@@ -1012,6 +1020,7 @@ https://oostbegroot.amsterdam.nl
 https://open.arnhem.nl
 https://open.barneveld.nl
 https://open.beverwijk.nl
+https://open.boxtel.nl
 https://opendata.assen.nl
 https://opendata.bloemendaal.nl
 https://openklant-beheer-erfpacht-dev.amsterdam.nl
@@ -1075,6 +1084,7 @@ https://portal.data.alkmaar.nl
 https://portal.ggd.amsterdam.nl
 https://praatmee.alblasserdam.nl
 https://praatmee.borsele.nl
+https://praatmee.boxtel.nl
 https://prd.afs.amsterdam.nl
 https://preprod-mijn.albrandswaard.nl
 https://preprod-mijn.barendrecht.nl
@@ -1358,6 +1368,7 @@ https://woningdossier.assen.nl
 https://woo.arnhem.nl
 https://wooloket.bernheze.org
 https://workspace365.almelo.nl
+https://woww.boxtel.nl
 https://wozloket-acc.borger-odoorn.nl
 https://wozloket.borger-odoorn.nl
 https://wppbeheer.acc.amsterdam.nl
@@ -1401,6 +1412,7 @@ https://www.boekel.nl
 https://www.borger-odoorn.nl
 https://www.borne.nl
 https://www.borsele.nl
+https://www.boxtel.nl
 https://www.buurtbudget.amsterdam.nl
 https://www.buurtbudgetnoord.amsterdam.nl
 https://www.buurtbudgetzuid.amsterdam.nl

@@ -5,6 +5,7 @@
 3d.amsterdam.nl
 Autorisatietest.bloemendaal.nl
 BGNVSV002.bergen.nl
+Belastingportaal-test.boxtel.nl
 Infra-summit.acc.amsterdam.nl
 Infra-summit.tst.amsterdam.nl
 NLGEMBRC.blaricum.nl
@@ -185,6 +186,7 @@ acceptatie.alphen-chaam.nl
 acceptatie.amstelveen.nl
 acceptatie.asten.nl
 acceptatie.baarle-nassau.nl
+acceptatie.boxtel.nl
 acceptatie.gemeentebeek.nl
 acceptatieloket.bergen-nh.nl
 acceptatieloket.borne.nl
@@ -225,6 +227,7 @@ afspraak.barneveld.nl
 afspraak.bergendal.nl
 afspraak.boekel.nl
 afspraak.borsele.nl
+afspraak.boxtel.nl
 afspraak.gemeenteberkelland.nl
 afspraken.alkmaar.nl
 afspraken.amersfoort.nl
@@ -519,10 +522,12 @@ belastingen.almere.nl
 belastingen.alphenaandenrijn.nl
 belastingen.arnhem.nl
 belastingloket.barneveld.nl
+belastingportaal-test.boxtel.nl
 belastingportaal.aaenhunze.nl
 belastingportaal.acc.aaenhunze.nl
 belastingportaal.acc.assen.nl
 belastingportaal.assen.nl
+belastingportaal.boxtel.nl
 bereikbaarheid.amsterdam.nl
 bergeijk.nl
 bergen-nh.nl
@@ -589,6 +594,7 @@ borne.nl
 borsele.nl
 bounces-eps.amsterdam.nl
 bouwdossiers.amsterdam.nl
+boxtel.nl
 bp.data.amsterdam.nl
 brandweer.almelo.nl
 brediusbad.amsterdam.nl
@@ -800,6 +806,7 @@ dkd.almelo.nl
 dkd.amersfoort.nl
 dkd.arnhem.nl
 dkd.beverwijk.nl
+dkd.boxtel.nl
 dkp.barneveld.nl
 dkt.barneveld.nl
 dktest.asten.nl
@@ -892,6 +899,7 @@ edienstenburgerzaken-test.barneveld.nl
 edienstenburgerzaken-test.beesel.nl
 edienstenburgerzaken-test.bergen-nh.nl
 edienstenburgerzaken-test.beverwijk.nl
+edienstenburgerzaken-test.boxtel.nl
 edienstenburgerzaken-test.gemeenteberkelland.nl
 edienstenburgerzaken.aalsmeer.nl
 edienstenburgerzaken.aalten.nl
@@ -908,6 +916,7 @@ edienstenburgerzaken.barneveld.nl
 edienstenburgerzaken.beesel.nl
 edienstenburgerzaken.bergen-nh.nl
 edienstenburgerzaken.beverwijk.nl
+edienstenburgerzaken.boxtel.nl
 edienstenburgerzaken.gemeenteberkelland.nl
 edienstenburgerzaken.test.aalsmeer.nl
 edienstenburgerzaken.test.amstelveen.nl
@@ -1115,6 +1124,7 @@ gebouwdin.amsterdam.nl
 gemeente.amsterdam.nl
 gemeente.baarle-nassau.nl
 gemeente.bodegraven-reeuwijk.nl
+gemeente.boxtel.nl
 gemeentearchief.alphenaandenrijn.nl
 gemeentearchief.barneveld.nl
 gemeentebeek.nl
@@ -1411,6 +1421,7 @@ kaart.alphenaandenrijn.nl
 kaart.amersfoort.nl
 kaart.amsterdam.nl
 kaart.bergendal.nl
+kaarten.boxtel.nl
 kaarten.gemeenteberkelland.nl
 kaartviewer.barneveld.nl
 kavels.almere.nl
@@ -1456,6 +1467,7 @@ leerplein.arnhem.nl
 leerpleinburgerzaken.amsterdam.nl
 legacy.amsterdam.nl
 legacy.borne.nl
+legacy.boxtel.nl
 legacy.iba.amsterdam.nl
 lerenloont.almere.nl
 les-acc.amsterdam.nl
@@ -1627,6 +1639,7 @@ mijnmobiel.gemeentebeek.nl
 mijnmobiel.oa.amsterdam.nl
 mijnmobiel.ovh.gemeentebeek.nl
 mijnoverzicht.alphenaandenrijn.nl
+mijnoverzicht.boxtel.nl
 mijnpersoneelsnet.amsterdam.nl
 mijnplan.gemeenteberkelland.nl
 mijnplein.assen.nl
@@ -1696,6 +1709,7 @@ nedbrw.apeldoorn.nl
 nedbrwacc.apeldoorn.nl
 nedplan.gemeentebeek.nl
 netbox.alkmaar.nl
+netwerk.boxtel.nl
 netwerkstad.almelo.nl
 neuron.prod.baarn.nl
 neuron.test.baarn.nl
@@ -1796,6 +1810,7 @@ opa.amsterdam.nl
 open.arnhem.nl
 open.barneveld.nl
 open.beverwijk.nl
+open.boxtel.nl
 open.data.amsterdam.nl
 open.gemeentebeek.nl
 opendata.arnhem.nl
@@ -1933,12 +1948,14 @@ powerbi.beesel.nl
 pr.almere.nl
 praatmee.alblasserdam.nl
 praatmee.borsele.nl
+praatmee.boxtel.nl
 prd.afs.amsterdam.nl
 preprod-mijn.albrandswaard.nl
 preprod-mijn.barendrecht.nl
 preprod-mijngeldzaken.arnhem.nl
 preprod-mijninkomen.almere.nl
 preprod-mijninkomen.beverwijk.nl
+preprod-mijnoverzicht.boxtel.nl
 preprod-mijnplan.gemeenteberkelland.nl
 preprod-mijnsociaalplein.bergen-nh.nl
 preprod-woz-portaal-eemnes.baarn.nl
@@ -1973,6 +1990,7 @@ probeer.bladel.nl
 probeer.gemeentebeek.nl
 programmavan.bergendal.nl
 projectarchief-vor.amsterdam.nl
+projecten.boxtel.nl
 protectus.ggd.amsterdam.nl
 proto.apeldoorn.nl
 pub.alkmaar.nl
@@ -2326,6 +2344,7 @@ test.beesel.nl
 test.bernheze.org
 test.beverwijk.nl
 test.borne.nl
+test.boxtel.nl
 test.bp.data.amsterdam.nl
 test.formulieren.almere.nl
 test.gemeentebest.nl
@@ -2465,6 +2484,7 @@ webmail.beverwijk.nl
 webmail.bloemendaal.nl
 webmail.boekel.nl
 webmail.borne.nl
+webmail.boxtel.nl
 webmail.centrum.amsterdam.nl
 webmail.dbga.amsterdam.nl
 webmail.dict.amsterdam.nl
@@ -2541,6 +2561,7 @@ woo.arnhem.nl
 wooloket.bernheze.org
 wooninstrumenten.almelo.nl
 workspace365.almelo.nl
+woww.boxtel.nl
 woz-portaal-eemnes.baarn.nl
 woz.amsterdam.nl
 wozloket-acc.borger-odoorn.nl
@@ -2614,6 +2635,7 @@ www.bolwerken.amsterdam.nl
 www.borger-odoorn.nl
 www.borne.nl
 www.borsele.nl
+www.boxtel.nl
 www.brandweer.almelo.nl
 www.buikslotermeerplein.amsterdam.nl
 www.bureaubroedplaatsen.amsterdam.nl
