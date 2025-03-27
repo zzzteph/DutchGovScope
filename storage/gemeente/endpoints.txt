@@ -1146,6 +1146,7 @@ https://edienstenburgerzaken-test.goeree-overflakkee.nl
 https://edienstenburgerzaken-test.gorinchem.nl
 https://edienstenburgerzaken-test.gouda.nl
 https://edienstenburgerzaken-test.gulpen-wittem.nl
+https://edienstenburgerzaken-test.halderberge.nl
 https://edienstenburgerzaken.aalsmeer.nl
 https://edienstenburgerzaken.aalten.nl
 https://edienstenburgerzaken.acc.denhaag.nl
@@ -1188,6 +1189,7 @@ https://edienstenburgerzaken.goeree-overflakkee.nl
 https://edienstenburgerzaken.gorinchem.nl
 https://edienstenburgerzaken.gouda.nl
 https://edienstenburgerzaken.gulpen-wittem.nl
+https://edienstenburgerzaken.halderberge.nl
 https://edienstenburgerzaken.test.aalsmeer.nl
 https://edienstenburgerzaken.test.amstelveen.nl
 https://edienstenmijninkomen-acceptatie.albrandswaard.nl
@@ -1332,6 +1334,7 @@ https://felix.beverwijk.nl
 https://felix.bladel.nl
 https://felix.bunschoten.nl
 https://felix.deurne.nl
+https://felix.halderberge.nl
 https://felixpdc.doesburg.nl
 https://fgt.amstelveen.nl
 https://filecap.breda.nl
@@ -1349,6 +1352,7 @@ https://financials.apeldoorn.nl
 https://financialstest.derondevenen.nl
 https://financieel.delft.nl
 https://financieelportaal.etten-leur.nl
+https://financieelportaal.halderberge.nl
 https://financielestukken.diemen.nl
 https://financien.amersfoort.nl
 https://financien.arnhem.nl
@@ -1416,6 +1420,7 @@ https://frontoffice-parkeervergunningen-acc.beverwijk.nl
 https://frontoffice-parkeervergunningen.beverwijk.nl
 https://fs.beverwijk.nl
 https://fs.haarlem.nl
+https://fs.halderberge.nl
 https://ftp.afs.acc.amsterdam.nl
 https://ftp.afs.amsterdam.nl
 https://ftp.bodegraven-reeuwijk.nl
@@ -1454,6 +1459,7 @@ https://gemeenteraad.dronten.nl
 https://gemeenteraad.etten-leur.nl
 https://gemeenteraad.groningen.nl
 https://gemeenteraad.haarlemmermeer.nl
+https://gemeenteraad.halderberge.nl
 https://gemert-bakel.nl
 https://gennep.nl
 https://geo-secure.ermelo.nl
@@ -1536,6 +1542,8 @@ https://haal-centraal.api.data.amsterdam.nl
 https://haarlem.nl
 https://haarlemmerliederaad.haarlemmermeer.nl
 https://haarlemmermeer.nl
+https://halbox.halderberge.nl
+https://halnet.halderberge.nl
 https://handboekdibor.ede.nl
 https://haven.deventer.nl
 https://havenkwartieraanzet.denhaag.nl
@@ -2033,6 +2041,7 @@ https://mijnwiz.geertruidenberg.nl
 https://mijnwoonomgeving.deventer.nl
 https://mijnws.amsterdam.nl
 https://mijnzaken.derondevenen.nl
+https://mijnzaken.halderberge.nl
 https://mijnzi.beuningen.nl
 https://mijnzorg-acc.alkmaar.nl
 https://mijnzorg-acc.amstelveen.nl
@@ -2202,6 +2211,7 @@ https://online.gooisemeren.nl
 https://onlinedorpsgesprek.ermelo.nl
 https://onlineregelen.alphenaandenrijn.nl
 https://onlineregelenstaging.alphenaandenrijn.nl
+https://ons.halderberge.nl
 https://ont.api.amsterdam.nl
 https://ont.bp.data.amsterdam.nl
 https://ont.io.amsterdam.nl
@@ -2224,6 +2234,7 @@ https://open.epe.nl
 https://open.geldrop-mierlo.nl
 https://open.gooisemeren.nl
 https://open.gorinchem.nl
+https://open.halderberge.nl
 https://openbareruimte.deventer.nl
 https://opendata.assen.nl
 https://opendata.bloemendaal.nl
@@ -2524,6 +2535,7 @@ https://rnd.amsterdam.nl
 https://ro-online.alphenaandenrijn.nl
 https://ro.emmen.nl
 https://ro.gemeenteberkelland.nl
+https://ro.halderberge.nl
 https://rooster.arnhem.nl
 https://rooster.denhelder.nl
 https://roplan.haarlemmermeer.nl
@@ -2620,6 +2632,7 @@ https://simcms.doesburg.nl
 https://simcms.doetinchem.nl
 https://simcms.geldrop-mierlo.nl
 https://simcms.goeree-overflakkee.nl
+https://simcms.halderberge.nl
 https://simform-preproductie.achtkarspelen.nl
 https://simsite.beekdaelen.nl
 https://simsite.bladel.nl
@@ -3008,6 +3021,7 @@ https://webmail.geertruidenberg.nl
 https://webmail.gemert-bakel.nl
 https://webmail.haarlem.nl
 https://webmail.haarlemmermeer.nl
+https://webmail.halderberge.nl
 https://webmeeting.brunssum.nl
 https://webservice-decosdvl.acc.amsterdam.nl
 https://webservice-decosdvl.amsterdam.nl
@@ -3411,6 +3425,7 @@ https://zaaksysteem-accept.etten-leur.nl
 https://zaaksysteem-accept.gemeenteberkelland.nl
 https://zaaksysteem-accept.gooisemeren.nl
 https://zaaksysteem-accept.gouda.nl
+https://zaaksysteem-accept.halderberge.nl
 https://zaaksysteem.ede.nl
 https://zaken.alblasserdam.nl
 https://zaken.amersfoort.nl
