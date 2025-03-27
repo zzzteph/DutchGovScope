@@ -27,6 +27,7 @@ http://autodiscover.bergenopzoom.nl
 http://autodiscover.beuningen.nl
 http://autodiscover.bloemendaal.nl
 http://autodiscover.bodegraven-reeuwijk.nl
+http://autodiscover.borger-odoorn.nl
 http://autodiscover.gemeenteberkelland.nl
 http://autodiscover.gemeentebest.nl
 http://beekdaelen.nl
@@ -152,6 +153,7 @@ https://aanmeldenparkeren.beverwijk.nl
 https://academie.acc.belastingdienst.nl
 https://academie.belastingdienst.nl
 https://acc-broker.assen.nl
+https://acc-broker.borger-odoorn.nl
 https://acc-contact.assen.nl
 https://acc-contact.dev.assen.nl
 https://acc-dictu.comcms.logius.nl
@@ -470,6 +472,7 @@ https://bodegraven-reeuwijk.nl
 https://bodem-ondergrond.omgevingswet.overheid.nl
 https://boekel.nl
 https://bomen.amsterdam.nl
+https://borger-odoorn.nl
 https://boub-api-acc.overheid.nl
 https://boub-api.overheid.nl
 https://bounces-eps.amsterdam.nl
@@ -482,6 +485,7 @@ https://brk.test.basisregistraties.overheid.nl
 https://broker.aalten.nl
 https://broker.assen.nl
 https://broker.bernheze.org
+https://broker.borger-odoorn.nl
 https://brt.basisregistraties.overheid.nl
 https://brt.test.basisregistraties.overheid.nl
 https://bta.omgevingswet.overheid.nl
@@ -525,6 +529,7 @@ https://cmsgui.ondernemersplein.overheid.nl
 https://cmsintranet.gemeentebeek.nl
 https://cmsoo.assen.nl
 https://cmsoo.bodegraven-reeuwijk.nl
+https://cmsoo.borger-odoorn.nl
 https://cognitatie.acc.omgevingswet.overheid.nl
 https://cognitatie.omgevingswet.overheid.nl
 https://cognitatie.tst.omgevingswet.overheid.nl
@@ -565,6 +570,7 @@ https://cuup-web.amsterdam.nl
 https://daalder-dash.makkelijkemarkt.amsterdam.nl
 https://daalder.makkelijkemarkt.amsterdam.nl
 https://dacceptatieloket.assen.nl
+https://dacceptatieloket.borger-odoorn.nl
 https://dagbesteding.apeldoorn.nl
 https://dali.alphenaandenrijn.nl
 https://dap.amsterdam.nl
@@ -627,6 +633,7 @@ https://digitaalgemeenteloket.alphenaandenrijn.nl
 https://digitaleplannen.apeldoorn.nl
 https://directadmin.almelo.nl
 https://dloket.assen.nl
+https://dloket.borger-odoorn.nl
 https://dmafunc002.amsterdam.nl
 https://dmo.omgevingswet.overheid.nl
 https://dmpfunc002.amsterdam.nl
@@ -681,6 +688,7 @@ https://e-maildiensten.rijksoverheid.nl
 https://e.acc.videobellen.toeslagen.nl
 https://e.achtkarspelen.nl
 https://e.almelo.nl
+https://e.borger-odoorn.nl
 https://e.logius.nl
 https://e.videobellen.toeslagen.nl
 https://ebms.contentbeheer.acc.omgevingswet.overheid.nl
@@ -958,6 +966,7 @@ https://iburgerzaken.blaricum.nl
 https://iburgerzaken.bloemendaal.nl
 https://iburgerzaken.bodegraven-reeuwijk.nl
 https://iburgerzaken.boekel.nl
+https://iburgerzaken.borger-odoorn.nl
 https://iburgerzaken.gemeentebeek.nl
 https://iburgerzaken.gemeentebest.nl
 https://id-beheer-erfpacht-acc.amsterdam.nl
@@ -1136,7 +1145,9 @@ https://maps.bodegraven-reeuwijk.nl
 https://matenpark.apeldoorn.nl
 https://mbg1.beverwijk.nl
 https://meedenken.arnhem.nl
+https://meedoen-acc.borger-odoorn.nl
 https://meedoen.baarn.nl
+https://meedoen.borger-odoorn.nl
 https://meet.ggd.amsterdam.nl
 https://meldingen-acc.aaenhunze.nl
 https://meldingen-acc.apeldoorn.nl
@@ -1278,6 +1289,7 @@ https://oidc.erfpachtzakelijk-ont.amsterdam.nl
 https://oinregister.logius.nl
 https://oldenhove.doemee.bloemendaal.nl
 https://omgevingsvisie.almelo.nl
+https://omgevingsvisie.borger-odoorn.nl
 https://omgevingsvisie.doemee.bloemendaal.nl
 https://omgevingswet.overheid.nl
 https://omslagroute.amsterdam.nl
@@ -1731,6 +1743,7 @@ https://testformulieren.bodegraven-reeuwijk.nl
 https://testmeldingen.asten.nl
 https://testportaal.almelo.nl
 https://testsiam.ameland.nl
+https://testwozloket.borger-odoorn.nl
 https://teverantwoordenregelingen.rijksoverheid.nl
 https://thuiswerken.almere.nl
 https://tijdschrijven.apeldoorn.nl
@@ -1853,12 +1866,15 @@ https://wmoportaal.wzs.amsterdam.nl
 https://wob.arnhem.nl
 https://wonenportaal.amsterdam.nl
 https://woningbouwkaart.assen.nl
+https://woningbouwkaart.borger-odoorn.nl
 https://woningdossier.assen.nl
 https://woo-formulier.rijksoverheid.nl
 https://woo.arnhem.nl
 https://wooloket.bernheze.org
 https://wordimport.drop.overheid.nl
 https://workspace365.almelo.nl
+https://wozloket-acc.borger-odoorn.nl
+https://wozloket.borger-odoorn.nl
 https://wppbeheer.acc.amsterdam.nl
 https://wppbeheer.amsterdam.nl
 https://www-sandbox.werkenvoornederland.nl
@@ -1901,6 +1917,7 @@ https://www.blaricum.nl
 https://www.bloemendaal.nl
 https://www.bodegraven-reeuwijk.nl
 https://www.boekel.nl
+https://www.borger-odoorn.nl
 https://www.bta.omgevingswet.overheid.nl
 https://www.buurtbudget.amsterdam.nl
 https://www.buurtbudgetnoord.amsterdam.nl

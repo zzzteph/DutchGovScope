@@ -63,6 +63,7 @@ abonneren.toezichtdocumenten.igj.nl
 academie.acc.belastingdienst.nl
 academie.belastingdienst.nl
 acc-broker.assen.nl
+acc-broker.borger-odoorn.nl
 acc-contact.assen.nl
 acc-contact.dev.assen.nl
 acc-dictu.comcms.logius.nl
@@ -548,6 +549,7 @@ autodiscover.beuningen.nl
 autodiscover.beverwijk.nl
 autodiscover.bloemendaal.nl
 autodiscover.bodegraven-reeuwijk.nl
+autodiscover.borger-odoorn.nl
 autodiscover.gemeentebeek.nl
 autodiscover.gemeenteberkelland.nl
 autodiscover.gemeentebest.nl
@@ -804,6 +806,7 @@ bodem-ondergrond.omgevingswet.overheid.nl
 boekel.nl
 bomen.amsterdam.nl
 boostjebuurt.amsterdam.nl
+borger-odoorn.nl
 boub-api-acc.overheid.nl
 boub-api.overheid.nl
 bounces-eps.amsterdam.nl
@@ -823,6 +826,7 @@ brmrest-test.belastingdienst.nl
 broker.aalten.nl
 broker.assen.nl
 broker.bernheze.org
+broker.borger-odoorn.nl
 brt.acceptatie.basisregistraties.overheid.nl
 brt.basisregistraties.overheid.nl
 brt.test.basisregistraties.overheid.nl
@@ -922,6 +926,7 @@ cmsgui.ondernemersplein.overheid.nl
 cmsintranet.gemeentebeek.nl
 cmsoo.assen.nl
 cmsoo.bodegraven-reeuwijk.nl
+cmsoo.borger-odoorn.nl
 cognitatie.acc.omgevingswet.overheid.nl
 cognitatie.omgevingswet.overheid.nl
 cognitatie.tst.omgevingswet.overheid.nl
@@ -991,7 +996,9 @@ cvdr.overheid.nl
 daalder-dash.makkelijkemarkt.amsterdam.nl
 daalder.makkelijkemarkt.amsterdam.nl
 dacceptatieloket.assen.nl
+dacceptatieloket.borger-odoorn.nl
 dacceptatiemidoffice.assen.nl
+dacceptatiemidoffice.borger-odoorn.nl
 dagbesteding.apeldoorn.nl
 dali.alphenaandenrijn.nl
 dap.amsterdam.nl
@@ -1144,9 +1151,11 @@ dkp.barneveld.nl
 dkt.barneveld.nl
 dktest.asten.nl
 dloket.assen.nl
+dloket.borger-odoorn.nl
 dmafunc002.amsterdam.nl
 dmb.amsterdam.nl
 dmidoffice.assen.nl
+dmidoffice.borger-odoorn.nl
 dmo.omgevingswet.overheid.nl
 dmpfunc002.amsterdam.nl
 dmz-websrv.achtkarspelen.nl
@@ -1194,6 +1203,7 @@ drupalintranet.bergeijk.nl
 dse.lx.overheid.nl
 dso.data.amsterdam.nl
 dsr.maps.amsterdam.nl
+dtestloket.borger-odoorn.nl
 duo2-test.belastingdienst.nl
 duo2.belastingdienst.nl
 dusk-acc-openwave.beverwijk.nl
@@ -1242,6 +1252,7 @@ e-net.intranet.amsterdam.nl
 e.acc.videobellen.toeslagen.nl
 e.achtkarspelen.nl
 e.almelo.nl
+e.borger-odoorn.nl
 e.logius.nl
 e.videobellen.toeslagen.nl
 ebms.achtkarspelen.nl
@@ -1401,6 +1412,7 @@ exchange.alphenaandenrijn.nl
 exchange.assen.nl
 exchange2.alphenaandenrijn.nl
 extern-abv-acc.belastingdienst.nl
+extern.borger-odoorn.nl
 extern.oa.amsterdam.nl
 externe-veiligheid.omgevingswet.overheid.nl
 extgmea02.ss.belastingdienst.nl
@@ -1787,6 +1799,7 @@ iamww.amsterdam.nl
 iamwwextern.amsterdam.nl
 iarchief.beekdaelen.nl
 iba.amsterdam.nl
+ibo.borger-odoorn.nl
 iburgerzaken.aaenhunze.nl
 iburgerzaken.achtkarspelen.nl
 iburgerzaken.almelo.nl
@@ -1808,6 +1821,7 @@ iburgerzaken.blaricum.nl
 iburgerzaken.bloemendaal.nl
 iburgerzaken.bodegraven-reeuwijk.nl
 iburgerzaken.boekel.nl
+iburgerzaken.borger-odoorn.nl
 iburgerzaken.gemeentebeek.nl
 iburgerzaken.gemeentebest.nl
 ibzpink.aaenhunze.nl
@@ -1829,6 +1843,7 @@ ibzpink.bladel.nl
 ibzpink.bloemendaal.nl
 ibzpink.bodegraven-reeuwijk.nl
 ibzpink.boekel.nl
+ibzpink.borger-odoorn.nl
 ibzpink.gemeentebeek.nl
 ibzpink.gemeentebest.nl
 icm-ast.asten.nl
@@ -2202,7 +2217,9 @@ med-srv20.rijksoverheid.nl
 medeleven.apeldoorn.nl
 media.assen.nl
 meedenken.arnhem.nl
+meedoen-acc.borger-odoorn.nl
 meedoen.baarn.nl
+meedoen.borger-odoorn.nl
 meent.alkmaar.nl
 meet.acc.amsterdam.nl
 meet.assen.nl
@@ -2533,6 +2550,7 @@ olsgqa09.belastingdienst.nl
 olsgqa50.belastingdienst.nl
 ombudsman.amsterdam.nl
 omgevingsvisie.almelo.nl
+omgevingsvisie.borger-odoorn.nl
 omgevingsvisie.doemee.bloemendaal.nl
 omgevingswet.overheid.nl
 omslagroute.amsterdam.nl
@@ -2714,6 +2732,7 @@ piwik.datapunt.amsterdam.nl
 pix-ia-sth.alkmaar.nl
 pix-ia-stk.alkmaar.nl
 pki.bladel.nl
+pki.borger-odoorn.nl
 pkio.intpatch.omgevingswet.overheid.nl
 pkio.service.acc.omgevingswet.overheid.nl
 pkio.service.bta.omgevingswet.overheid.nl
@@ -3456,6 +3475,7 @@ testkaart.alphenaandenrijn.nl
 testmeldingen.asten.nl
 testportaal.almelo.nl
 testsiam.ameland.nl
+testwozloket.borger-odoorn.nl
 teverantwoordenregelingen.rijksoverheid.nl
 thuiswerken.almere.nl
 thuiswerken.bergen-nh.nl
@@ -3521,6 +3541,7 @@ tuchtrecht-service-tst.overheid.nl
 tuchtrecht-service.overheid.nl
 tuchtrecht.overheid.nl
 tv.gemeentebest.nl
+typo3.borger-odoorn.nl
 ubor.amsterdam.nl
 uc.beverwijk.nl
 uca.bergen-nh.nl
@@ -3778,6 +3799,7 @@ wmoportaal.wzs.amsterdam.nl
 wob.arnhem.nl
 wonenportaal.amsterdam.nl
 woningbouwkaart.assen.nl
+woningbouwkaart.borger-odoorn.nl
 woningdossier.assen.nl
 woo-formulier.rijksoverheid.nl
 woo.arnhem.nl
@@ -3787,6 +3809,8 @@ wordimport.drop.overheid.nl
 workspace365.almelo.nl
 woz-portaal-eemnes.baarn.nl
 woz.amsterdam.nl
+wozloket-acc.borger-odoorn.nl
+wozloket.borger-odoorn.nl
 wpdagast1.assen.nl
 wpdagast2.assen.nl
 wpi.amsterdam.nl
@@ -3865,6 +3889,7 @@ www.bma.amsterdam.nl
 www.bodegraven-reeuwijk.nl
 www.boekel.nl
 www.bolwerken.amsterdam.nl
+www.borger-odoorn.nl
 www.brandweer.almelo.nl
 www.bta.omgevingswet.overheid.nl
 www.buikslotermeerplein.amsterdam.nl
@@ -3912,6 +3937,7 @@ www.ggd.amsterdam.nl
 www.gpi.amsterdam.nl
 www.groene-daken.amsterdam.nl
 www.handhavingsacademie.amsterdam.nl
+www.ibo.borger-odoorn.nl
 www.ict.amsterdam.nl
 www.iedereenwerktmee.amsterdam.nl
 www.igj.nl
