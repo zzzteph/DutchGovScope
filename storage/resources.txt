@@ -70,6 +70,7 @@ a-wiki.rijksoverheid.nl
 a-www.igj.nl
 a-www.rijksoverheid.nl
 a2b-rtr.alkmaar.nl
+aaa.goirle.nl
 aaenhunze.nl
 aalsmeer.nl
 aalten-checker-preprod.aalten.nl
@@ -96,6 +97,7 @@ ac03617.delft.nl
 academie.acc.belastingdienst.nl
 academie.belastingdienst.nl
 academie.drimmelen.nl
+academie.goirle.nl
 acc-afvalkalender.goes.nl
 acc-broker.assen.nl
 acc-broker.borger-odoorn.nl
@@ -355,8 +357,10 @@ acceptatie.eindhoven.nl
 acceptatie.emmen.nl
 acceptatie.gemeentebeek.nl
 acceptatie.gilzerijen.nl
+acceptatie.goirle.nl
 acceptatie.intranet.debilt.nl
 acceptatie.omgevingswet.overheid.nl
+acceptatie.oranjeplein.goirle.nl
 acceptatie.participatiewebshop.emmen.nl
 acceptatie.subsidies-backend.ede.nl
 acceptatie.subsidies.ede.nl
@@ -478,6 +482,7 @@ afspraken.eijsden-margraten.nl
 afspraken.emmen.nl
 afspraken.ermelo.nl
 afspraken.goes.nl
+afspraken.goirle.nl
 afval.acc.denhaag.nl
 afval.acc.omgevingswet.overheid.nl
 afval.assen.nl
@@ -952,11 +957,13 @@ beekoracleemrep.ovh.gemeentebeek.nl
 beekplaza.gemeentebeek.nl
 beeksapcontent.ovh.gemeentebeek.nl
 beeldbank-bo.baarn.nl
+beeldbank-bo.goirle.nl
 beeldbank.amstelveen.nl
 beeldbank.baarn.nl
 beeldbank.breda.nl
 beeldbank.ede.nl
 beeldbank.gemeentebest.nl
+beeldbank.goirle.nl
 beeldbankbeheer.gemeentebest.nl
 beeldmateriaal.eindhoven.nl
 beesel.nl
@@ -1030,6 +1037,7 @@ belastingen.alphenaandenrijn.nl
 belastingen.arnhem.nl
 belastingen.duiven.nl
 belastingen.gilzerijen.nl
+belastingen.goirle.nl
 belastingloket.acc.emmen.nl
 belastingloket.barneveld.nl
 belastingloket.echt-susteren.nl
@@ -1044,6 +1052,7 @@ belastingportaal.acc.assen.nl
 belastingportaal.assen.nl
 belastingportaal.boxtel.nl
 belastingportaal.dinkelland.nl
+belastingportaal.goirle.nl
 bereikbaarheid.amsterdam.nl
 bereikbarestad-acc.denhaag.nl
 bereikbarestad.denhaag.nl
@@ -1070,6 +1079,7 @@ besluitpreviewservice.overheid.nl
 besluitvorming.doetinchem.nl
 bestand.gemeentebest.nl
 bestanden.dongen.nl
+bestanden.goirle.nl
 bestandversturen.amersfoort.nl
 bestelportaal.denhaag.nl
 bestemmingsplannen.baarn.nl
@@ -1402,12 +1412,14 @@ connect.acceptatie.coevorden.nl
 connect.acceptatie.dantumadiel.frl
 connect.acceptatie.drechterland.nl
 connect.acceptatie.gemeentebeek.nl
+connect.acceptatie.goirle.nl
 connect.coevorden.nl
 connect.dantumadiel.frl
 connect.doesburg.nl
 connect.drechterland.nl
 connect.echt-susteren.nl
 connect.gemeentebeek.nl
+connect.goirle.nl
 connect.test.coevorden.nl
 connect.test.dantumadiel.frl
 connectpeople.acc.belastingdienst.nl
@@ -2559,6 +2571,7 @@ geoserver.baarn.nl
 geoservices.denhaag.nl
 geotest.arnhem.nl
 geotest.emmen.nl
+geotest.goirle.nl
 geovisia.achtkarspelen.nl
 geovisia.amersfoort.nl
 geovisiaonline.gemert-bakel.nl
@@ -2618,6 +2631,7 @@ goeree-overflakkee.nl
 goes.nl
 gogo-acc.denhaag.nl
 gogo.denhaag.nl
+goirle.nl
 goud.almere.nl
 govroam.beekdaelen.nl
 govroam.belastingdienst.nl
@@ -2837,6 +2851,7 @@ iburgerzaken.gemert-bakel.nl
 iburgerzaken.gennep.nl
 iburgerzaken.gilzerijen.nl
 iburgerzaken.goes.nl
+iburgerzaken.goirle.nl
 ibzpink.aaenhunze.nl
 ibzpink.achtkarspelen.nl
 ibzpink.almelo.nl
@@ -2889,6 +2904,7 @@ ibzpink.gemert-bakel.nl
 ibzpink.gennep.nl
 ibzpink.gilzerijen.nl
 ibzpink.goes.nl
+ibzpink.goirle.nl
 icm-ast.asten.nl
 ict-ers.werkenvoornederland.nl
 icters.werkenvoornederland.nl
@@ -3147,6 +3163,7 @@ jongin.doetinchem.nl
 jongin.druten.nl
 joost.beuningen.nl
 juristen.werkenvoornederland.nl
+jvs.goirle.nl
 jvvs.amsterdam.nl
 k1._domainkey.bergendal.nl
 k2bg.barneveld.nl
@@ -4162,6 +4179,7 @@ oproepingen.overheid.nl
 or.delft.nl
 oracbloemenbuurt.denhaag.nl
 oranjekwartier.deventer.nl
+oranjeplein.goirle.nl
 organisatieontwikkeling.assen.nl
 organisaties-acc.overheid.nl
 organisaties-redactie-acc.overheid.nl
@@ -4445,6 +4463,7 @@ praatmee.boxtel.nl
 praatmee.goeree-overflakkee.nl
 prd.afs.amsterdam.nl
 pre.omgevingswet.overheid.nl
+preprod-belastingportaal.goirle.nl
 preprod-broker.buren.nl
 preprod-edienstaanvragensd.defryskemarren.nl
 preprod-ediensten-sociaaldomein.denhelder.nl
@@ -4617,6 +4636,7 @@ raad.bergendal.nl
 raad.brummen.nl
 raad.delft.nl
 raad.dordrecht.nl
+raad.goirle.nl
 raadplegen.denhaag.nl
 raadsinformatie.eindhoven.nl
 raadsleden.eijsden-margraten.nl
@@ -5168,6 +5188,8 @@ squit2go.gemeentebest.nl
 squit2go.goes.nl
 squit2gotest-backoffice.enschede.nl
 squit2gotest.enschede.nl
+squitxo.goirle.nl
+squitxotest.goirle.nl
 srmvaprd.ovh.gemeentebeek.nl
 srmvauitwijk.ovh.gemeentebeek.nl
 srvmksbur.buren.nl
@@ -5716,6 +5738,9 @@ verdragenbank.overheid.nl
 vergaderen-adp.amsterdam.nl
 vergaderen.acc.amsterdam.nl
 vergaderen.amsterdam.nl
+vergaderingen.acceptatie.goirle.nl
+vergaderingen.goirle.nl
+vergaderingen.test.goirle.nl
 vergunning.amsterdam.nl
 vergunningcheck.amsterdam.nl
 vergunningen.dronten.nl
@@ -5901,6 +5926,7 @@ webmail.geertruidenberg.nl
 webmail.gemeentebeek.nl
 webmail.gemeentebest.nl
 webmail.gemert-bakel.nl
+webmail.goirle.nl
 webmail.iba.amsterdam.nl
 webmail.ivv.amsterdam.nl
 webmail.nieuwwest.amsterdam.nl
@@ -5921,9 +5947,11 @@ webservice-tdv.igj.nl
 webservices-conf1.belastingdienst.nl
 webservices-dbb.igj.nl
 webservices-digin.belastingdienst.nl
+webservices-ot.goirle.nl
 webservices-test2.belastingdienst.nl
 webservices.belastingdienst.nl
 webservices.dongen.nl
+webservices.goirle.nl
 webservices.str10.acc.belastingdienst.nl
 webservices.str12.acc.belastingdienst.nl
 webservices.str13.acc.belastingdienst.nl
@@ -6308,6 +6336,7 @@ www.gilzerijen.nl
 www.goeree-overflakkee.nl
 www.goes.nl
 www.gogo.denhaag.nl
+www.goirle.nl
 www.gpi.amsterdam.nl
 www.groene-daken.amsterdam.nl
 www.handhavingsacademie.amsterdam.nl

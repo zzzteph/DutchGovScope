@@ -9,9 +9,9 @@ afspraken
 simsite
 mail
 mijn
+webmail
 secure
 simcms
-webmail
 intranet
 preproductie
 digikoppeling
@@ -51,6 +51,7 @@ werkenbij
 loket.acceptatie
 mijnzorg
 iparticipatie
+raad
 openpdc
 osb
 cmsoo
@@ -58,7 +59,6 @@ dloket
 dmidoffice
 enterpriseregistration
 remote
-raad
 zaken
 mijninkomen
 digikoppeling-test
@@ -77,6 +77,7 @@ login
 acc-broker
 cloudadapter-test
 cloudadapter
+connect
 filecap
 smtp
 govroam
@@ -85,31 +86,32 @@ kennisbank
 mailing
 mijnzorg-acc
 verkiezingen
+belastingen
 snelbaliepp
 berichten
 extranet
 siam
+beeldbank
 gemeente
 mks
 woningbouwkaart
-connect
 pki
 evenementen
 e
 api.meldingen-acc
+belastingportaal
 meldingen-acc
 osbacc
 flowmailer-tracking
-belastingen
 afvalkalender
 duurzaam
 financien
 ns
 qr
-beeldbank
 digikoppeling.test
 parkeren-acc
 bgt
+connect.acceptatie
 simcms-open
 test-intranet
 kaarten
@@ -121,7 +123,6 @@ cms
 feeds
 magazines
 english
-belastingportaal
 loket.test
 preprodbroker
 vergunningintaker
@@ -151,7 +152,6 @@ sts
 test-digikoppeling
 klantcontact
 belastingloket
-connect.acceptatie
 contentbeheer.acceptatie
 contentbeheer
 zaken.acceptatie
@@ -164,6 +164,7 @@ mobile
 dtestmidoffice
 transfer
 _dmarc
+academie
 api
 filetransfer
 mta-sts
@@ -172,6 +173,7 @@ rap
 services
 sharepoint
 start
+webservices
 website
 mobiel
 omgevingswet
@@ -205,6 +207,7 @@ top
 desktop
 e-loket
 gp
+geotest
 ns1
 woo
 acc-contact
@@ -269,7 +272,6 @@ statistiek
 wiki
 financials
 m
-academie
 adobe-analytics-dc
 artifact-fibt1
 b2b-osb
@@ -284,7 +286,6 @@ smtp1
 smtp2
 toestemming
 webapps
-webservices
 werken
 zoeken
 dns1
@@ -371,7 +372,6 @@ www.ruimtelijkeplannen
 auth
 gbi
 ndes
-geotest
 rooster
 sslvpn
 testdigid
@@ -380,6 +380,7 @@ acc-openformulieren
 lyncdiscover
 meet
 owa
+beeldbank-bo
 accdrop
 citrix
 cmsintranet
@@ -455,6 +456,7 @@ centric
 jongin
 webdav
 www.jongin
+bestanden
 router
 klantportaal.acc
 prod
@@ -3118,7 +3120,6 @@ spf-ogone01
 spf-ogone02
 spf-wind
 testmeldingen
-beeldbank-bo
 bestemmingsplannen
 geoserver-test
 geoserver
@@ -4224,7 +4225,6 @@ webformulieren
 webscada-rps
 webscada
 zorgplein
-bestanden
 certificates
 dkd.berichtenverkeer
 geoinformatie
@@ -4535,3 +4535,14 @@ rostar
 samenspel
 snelbalievergunningen
 testparkeren
+aaa
+acceptatie.oranjeplein
+jvs
+oranjeplein
+preprod-belastingportaal
+squitxo
+squitxotest
+vergaderingen.acceptatie
+vergaderingen
+vergaderingen.test
+webservices-ot
