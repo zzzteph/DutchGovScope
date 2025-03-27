@@ -15,9 +15,9 @@ webmail
 mail
 digikoppeling
 probeer
+test
 preproductie
 acceptatie
-test
 felix
 loket
 acc
@@ -33,9 +33,9 @@ betalen
 open
 geo
 pv
+eloket
 gemeenteraad
 vpn
-eloket
 waarmerk
 api.meldingen
 loket.acceptatie
@@ -51,7 +51,9 @@ raad
 zaken
 zaaksysteem-accept
 omgevingsvisie
+digikoppeling-test
 enterpriseenrollment
+testeloket
 opendata
 formulier
 openpdc
@@ -60,8 +62,6 @@ hybrid
 mijninkomen
 belastingbalie
 kaart
-digikoppeling-test
-testeloket
 cmsoo
 cloudadapter-test
 cloudadapter
@@ -103,6 +103,7 @@ bgt
 kaarten
 pki
 mdm
+filecap
 cms
 feeds
 magazines
@@ -111,6 +112,7 @@ api.meldingen-acc
 belastingportaal
 meldingen-acc
 loket.test
+preprodbroker
 vergunningintaker
 denkmee
 izaaksuite
@@ -138,7 +140,6 @@ test-intranet
 zaken.acceptatie
 formulieren-test
 doemee
-filecap
 AutoDiscover
 _dmarc
 api
@@ -150,7 +151,6 @@ start
 mobiel
 omgevingswet
 www.acceptatie
-preprodbroker
 college
 gisib
 praatmee
@@ -185,6 +185,7 @@ media
 openformulieren
 sip
 obsurv
+belastingloket
 publicaties
 byod
 inproces.acceptatie
@@ -339,7 +340,6 @@ meet
 podiumd-logs
 meedoen
 accdrop
-belastingloket
 citrix
 internetafspraken
 squit2020.acceptatie
@@ -4377,3 +4377,4 @@ uitelkaarmetkinderen
 uitkeringen
 vragenlijst
 www.oco
+mx
