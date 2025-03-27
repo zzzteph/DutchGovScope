@@ -8,16 +8,16 @@ edienstenburgerzaken-test
 afspraken
 mail
 simsite
+secure
 mijn
 webmail
 intranet
-secure
 simcms
 digikoppeling
 preproductie
 probeer
-test
 acceptatie
+test
 felix
 loket
 acc
@@ -43,6 +43,8 @@ api.meldingen
 ruimtelijkeplannen
 zaaksysteem-accept
 testeloket
+dacceptatieloket
+dacceptatiemidoffice
 formulier
 werkenbij
 loket.acceptatie
@@ -52,8 +54,6 @@ openpdc
 osb
 parkeren
 cmsoo
-dacceptatieloket
-dacceptatiemidoffice
 dloket
 dmidoffice
 enterpriseregistration
@@ -85,6 +85,7 @@ mijnzorg-acc
 verkiezingen
 preprod-mijninkomen
 snelbalie
+berichten
 extranet
 siam
 gemeente
@@ -97,10 +98,11 @@ e
 api.meldingen-acc
 meldingen-acc
 osbacc
+belastingen
 duurzaam
 snelbaliepp
-berichten
 financien
+ns
 qr
 beeldbank
 digikoppeling.test
@@ -124,12 +126,10 @@ vergunningintaker
 denkmee
 izaaksuite
 flowmailer-tracking
-belastingen
 thuiswerken
 afvalkalender
 preprod
 www.duurzaam
-ns
 atlas
 api.betalen
 apps
@@ -155,6 +155,7 @@ zaken.acceptatie
 samen
 formulieren-test
 uca
+mobile
 dtestmidoffice
 transfer
 _dmarc
@@ -166,8 +167,10 @@ rap
 services
 sharepoint
 start
+website
 mobiel
 omgevingswet
+zoek
 www.acceptatie
 documenten
 college
@@ -186,6 +189,7 @@ api.openstad
 exchange
 gemeentearchief
 ro-online
+digitaalnachtregister
 onderzoek
 vdi
 www.test
@@ -246,7 +250,6 @@ www.doemee
 acc.piwik
 www.webmail
 wozloket
-mobile
 burgerloket
 filr
 outlook
@@ -280,7 +283,6 @@ smtp2
 toestemming
 webapps
 webservices
-website
 werken
 zoeken
 dns1
@@ -290,7 +292,6 @@ repository
 social
 verkeersbesluiten
 www.mijn
-zoek
 belastingportaal.acc
 fs
 inloggen.belastingportaal
@@ -341,7 +342,6 @@ kinderburgemeester
 mijnoverzicht
 rpl3
 www.centrumbegroot
-digitaalnachtregister
 mozard
 mozardtest
 bewustwording
@@ -410,6 +410,7 @@ digid-parkeervergunningen
 mbg1
 micollab
 www.gemeenteraad
+gms
 extern
 wozloket-acc
 mam
@@ -3382,7 +3383,6 @@ o1.ptr1802
 oud
 phpmyadmin
 testformulieren
-gms
 mksp01bkl
 ibo
 meedoen-acc
@@ -4518,3 +4518,4 @@ meldpunt
 mijntalent-acc
 mijntalent
 spam
+belastingen-test

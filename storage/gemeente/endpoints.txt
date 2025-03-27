@@ -300,6 +300,7 @@ https://acceptatie.delft.nl
 https://acceptatie.dewolden.nl
 https://acceptatie.dongen.nl
 https://acceptatie.eemsdelta.nl
+https://acceptatie.gilzerijen.nl
 https://acceptatie.intranet.debilt.nl
 https://acceptatie.subsidies-backend.ede.nl
 https://acceptatie.subsidies.ede.nl
@@ -585,9 +586,11 @@ https://belastingbalie.ede.nl
 https://belastingbalie.eindhoven.nl
 https://belastingbalietest.capelleaandenijssel.nl
 https://belastingen-acc.arnhem.nl
+https://belastingen-test.gilzerijen.nl
 https://belastingen.almere.nl
 https://belastingen.arnhem.nl
 https://belastingen.duiven.nl
+https://belastingen.gilzerijen.nl
 https://belastingloket.barneveld.nl
 https://belastingloket.elburg.nl
 https://belastingloket.emmen.nl
@@ -608,6 +611,7 @@ https://berichten.baarle-nassau.nl
 https://berichten.bergendal.nl
 https://berichten.cranendonck.nl
 https://berichten.dordrecht.nl
+https://berichten.gilzerijen.nl
 https://bermod-fa.amsterdam.nl
 https://bermod.amsterdam.nl
 https://bermod2.amsterdam.nl
@@ -1313,6 +1317,7 @@ https://geovisiaonline.gemert-bakel.nl
 https://geuzenstatenkwartierfietst.denhaag.nl
 https://gezinscoach.deventer.nl
 https://ggd.amsterdam.nl
+https://gilzerijen.nl
 https://gis.assen.nl
 https://gis.breda.nl
 https://gisib-test.alblasserdam.nl
@@ -1437,6 +1442,7 @@ https://iburgerzaken.gemeentebeek.nl
 https://iburgerzaken.gemeentebest.nl
 https://iburgerzaken.gemert-bakel.nl
 https://iburgerzaken.gennep.nl
+https://iburgerzaken.gilzerijen.nl
 https://id-beheer-erfpacht-acc.amsterdam.nl
 https://id-beheer-erfpacht-dev.amsterdam.nl
 https://id-beheer-erfpacht-ont.amsterdam.nl
@@ -2643,6 +2649,7 @@ https://webservice-decosdvl.acc.amsterdam.nl
 https://webservice-decosdvl.amsterdam.nl
 https://webshopapp.denhaag.nl
 https://website.alphen-chaam.nl
+https://website.gilzerijen.nl
 https://webwerken.deventer.nl
 https://weesp.acc.meldingen.amsterdam.nl
 https://weesp.amsterdam.nl
@@ -2864,6 +2871,7 @@ https://www.geo.arnhem.nl
 https://www.geobrowser.enschede.nl
 https://www.geuzenstatenkwartierfietst.denhaag.nl
 https://www.ggd.amsterdam.nl
+https://www.gilzerijen.nl
 https://www.gogo.denhaag.nl
 https://www.havenkwartieraanzet.denhaag.nl
 https://www.hildebrandplein.denhaag.nl
