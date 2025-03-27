@@ -9,16 +9,16 @@ intranet
 simcms
 edienstenburgerzaken-test
 secure
-webmail
 simsite
+webmail
 mijn
 mail
-loket
 felix
 probeer
+loket
 digikoppeling
-test
 preproductie
+test
 adfs
 data
 meldingen
@@ -48,6 +48,7 @@ broker
 ruimtelijkeplannen
 raad
 snelbalie
+digikoppeling-test
 formulier
 govroam
 kennisbank
@@ -58,7 +59,6 @@ osb
 hybrid
 gemeenteraad
 kaart
-digikoppeling-test
 duurzaam
 enterpriseenrollment
 login
@@ -85,6 +85,7 @@ omgevingsvisie
 belastingbalie
 thuiswerken
 www.duurzaam
+berichten
 atlas
 beeldbank
 gemeente
@@ -114,7 +115,7 @@ piwik
 belastingen
 maps
 stadsarchief
-berichten
+afvalkalender
 siam
 financien
 ns
@@ -207,7 +208,6 @@ melddesk
 panel
 planon
 preprod-mijninkomen
-afvalkalender
 centrumbegroot
 dali
 exchange
@@ -3519,3 +3519,7 @@ woz-loket
 www.doe-mee
 www.woz-loket
 zaken.test
+VRiSeLoket
+pkio1
+ptr
+vriseloket
