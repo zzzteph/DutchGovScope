@@ -5,13 +5,13 @@ iburgerzaken
 ibzpink
 afspraken
 edienstenburgerzaken
-simcms
 intranet
+simcms
 secure
 edienstenburgerzaken-test
 simsite
-webmail
 mijn
+webmail
 felix
 mail
 preproductie
@@ -23,9 +23,9 @@ acc
 adfs
 data
 meldingen
+acceptatie
 werkplek
 formulieren
-acceptatie
 dkd
 portal
 pv
@@ -50,6 +50,7 @@ ruimtelijkeplannen
 raad
 zaken
 hybrid
+kaart
 snelbalie
 digikoppeling-test
 cmsoo
@@ -59,9 +60,9 @@ kennisbank
 mijnzorg-acc
 openpub
 osb
+zaaksysteem-accept
 omgevingsvisie
 gemeenteraad
-kaart
 duurzaam
 login
 snelbaliepp
@@ -71,6 +72,8 @@ dacceptatieloket
 dacceptatiemidoffice
 dloket
 dmidoffice
+cloudadapter-test
+cloudadapter
 feeds
 magazines
 evenementen
@@ -83,7 +86,6 @@ loket.test
 denkmee
 iparticipatie
 openpdc
-zaaksysteem-accept
 belastingbalie
 thuiswerken
 www.duurzaam
@@ -97,8 +99,7 @@ nieuwsbrief
 parkeren-acc
 gis
 bgt
-cloudadapter-test
-cloudadapter
+test-digikoppeling
 cms
 smtp
 english
@@ -129,7 +130,6 @@ legacy
 www.raad
 e-loket
 acc-broker
-test-digikoppeling
 woningbouwkaart
 obsurv
 klantcontact
@@ -208,6 +208,10 @@ pdc
 www.werkenbij
 makelaar
 parkeren-test
+subsidies-backend.acceptatie
+subsidies-backend
+subsidies.acceptatie
+subsidies
 veiligmailen
 3d
 belastingen-acc
@@ -289,6 +293,8 @@ dtestloket
 wozloket-acc
 filecap
 dtestmidoffice
+logilink
+_autodiscover._tcp
 mbg
 connect.test
 contentbeheer.test
@@ -1661,10 +1667,6 @@ objectenregistratie-api
 objectenregistratie
 smoelennet
 subsidie
-subsidies-backend.acceptatie
-subsidies-backend
-subsidies.acceptatie
-subsidies
 test-kennisbank
 testportaal
 wooninstrumenten
@@ -3452,7 +3454,6 @@ key2datadistributie-prod
 key2datadistributie-test
 key2gbav
 key2gbavtest
-logilink
 loo-tv
 mor
 navigus
@@ -3479,7 +3480,6 @@ mzdtest
 siamtest
 securegw
 uitwijk
-_autodiscover._tcp
 medewerkers
 preprod-broker
 preprod-formulieren
@@ -3539,3 +3539,11 @@ collecties
 inproces.test
 mbg2
 suite4burgerzaken-prod
+acceptatie.intranet
+ddsp.services
+ddst.services
+efacturen
+geokoppeling-t
+geokoppeling
+subsidies-login.acceptatie
+subsidies-login

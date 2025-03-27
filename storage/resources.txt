@@ -20,6 +20,7 @@ Top.apeldoorn.nl
 VRiSeLoket.cranendonck.nl
 ZDPushservice.overheid.nl
 _autodiscover._tcp.buren.nl
+_autodiscover._tcp.debilt.nl
 _dmarc.logius.nl
 _dmarc.rijksoverheid.nl
 a-cms.rijksoverheid.nl
@@ -265,7 +266,9 @@ acceptatie.baarle-nassau.nl
 acceptatie.boxtel.nl
 acceptatie.culemborg.nl
 acceptatie.dantumadiel.frl
+acceptatie.debilt.nl
 acceptatie.gemeentebeek.nl
+acceptatie.intranet.debilt.nl
 acceptatie.omgevingswet.overheid.nl
 acceptatieloket.bergen-nh.nl
 acceptatieloket.borne.nl
@@ -599,6 +602,7 @@ autodiscover.coevorden.nl
 autodiscover.cranendonck.nl
 autodiscover.dalfsen.nl
 autodiscover.dantumadiel.frl
+autodiscover.debilt.nl
 autodiscover.gemeentebeek.nl
 autodiscover.gemeenteberkelland.nl
 autodiscover.gemeentebest.nl
@@ -1005,10 +1009,12 @@ cloud.buren.nl
 cloudadapter-test.baarn.nl
 cloudadapter-test.bronckhorst.nl
 cloudadapter-test.brunssum.nl
+cloudadapter-test.debilt.nl
 cloudadapter-test.gemeenteberkelland.nl
 cloudadapter.baarn.nl
 cloudadapter.bronckhorst.nl
 cloudadapter.brunssum.nl
+cloudadapter.debilt.nl
 cloudadapter.gemeenteberkelland.nl
 cloudstorage-koop.overheid.nl
 cms-binnenshuis.bergen.nl
@@ -1173,7 +1179,10 @@ dcagast2.assen.nl
 dcatd-admin.amsterdam.nl
 ddi.vga.amsterdam.nl
 dditest.vga.amsterdam.nl
+ddsp.services.debilt.nl
+ddst.services.debilt.nl
 debelastingbalie.amersfoort.nl
+debilt.nl
 deboswinkel.amsterdam.nl
 decentrale.regelgeving.overheid.nl
 declaratieformulier.dwi.amsterdam.nl
@@ -1257,6 +1266,7 @@ digikoppeling.brunssum.nl
 digikoppeling.bunnik.nl
 digikoppeling.bunschoten.nl
 digikoppeling.cranendonck.nl
+digikoppeling.debilt.nl
 digikoppeling.gemeentebest.nl
 digikoppeling.test.amstelveen.nl
 digikoppeling.test.bernheze.org
@@ -1486,6 +1496,7 @@ edison-acc.amsterdam.nl
 edison.amsterdam.nl
 editor-drp-preprd.overheid.nl
 editor-drp.overheid.nl
+efacturen.debilt.nl
 efm.belastingdienst.nl
 eforms.beesel.nl
 egress-repro.alkmaar.nl
@@ -1851,6 +1862,8 @@ geo1.arnhem.nl
 geodata.almelo.nl
 geografie.bronckhorst.nl
 geohr.assen.nl
+geokoppeling-t.debilt.nl
+geokoppeling.debilt.nl
 geoprdb.stadstoezicht.amsterdam.nl
 geoserver-signalen.almere.nl
 geoserver-test.baarn.nl
@@ -2230,6 +2243,7 @@ intranet.brielle.nl
 intranet.bronckhorst.nl
 intranet.castricum.nl
 intranet.cranendonck.nl
+intranet.debilt.nl
 intranet.digi-mlv.os.amsterdam.nl
 intranet.docwonen.amsterdam.nl
 intranet.gemeentebeek.nl
@@ -2295,6 +2309,7 @@ kaart.alphenaandenrijn.nl
 kaart.amersfoort.nl
 kaart.amsterdam.nl
 kaart.bergendal.nl
+kaart.debilt.nl
 kaarten-demo.overheid.nl
 kaarten.boxtel.nl
 kaarten.buren.nl
@@ -2390,6 +2405,7 @@ liquitsatellite.gemeenteberkelland.nl
 listen2.dro.amsterdam.nl
 live.bergen-nh.nl
 logilink.brunssum.nl
+logilink.debilt.nl
 logilink.gbamailbox.amersfoort.nl
 login.alphenaandenrijn.nl
 login.bergen.nl
@@ -2606,6 +2622,7 @@ mijn.beuningen.nl
 mijn.bronckhorst.nl
 mijn.buren.nl
 mijn.data.amsterdam.nl
+mijn.debilt.nl
 mijn.igj.nl
 mijn.ont.belastingdienst.nl
 mijn.overheid.nl
@@ -3824,9 +3841,15 @@ subsidie.almelo.nl
 subsidiebeheer.alkmaar.nl
 subsidieloket.alkmaar.nl
 subsidies-backend.acceptatie.almelo.nl
+subsidies-backend.acceptatie.debilt.nl
 subsidies-backend.almelo.nl
+subsidies-backend.debilt.nl
+subsidies-login.acceptatie.debilt.nl
+subsidies-login.debilt.nl
 subsidies.acceptatie.almelo.nl
+subsidies.acceptatie.debilt.nl
 subsidies.almelo.nl
+subsidies.debilt.nl
 subsites.amsterdam.nl
 suite4burgerzaken-prod.dantumadiel.frl
 suite4burgerzaken-test.brunssum.nl
@@ -3895,6 +3918,7 @@ test-dictu.logius.nl
 test-digikoppeling.assen.nl
 test-digikoppeling.beesel.nl
 test-digikoppeling.brielle.nl
+test-digikoppeling.debilt.nl
 test-e-loket.apeldoorn.nl
 test-eloket.brunssum.nl
 test-energielabels.gebouwen.overheid.nl
@@ -4457,6 +4481,7 @@ www.culemborg.nl
 www.dalfsen.nl
 www.dantumadiel.frl
 www.data.amsterdam.nl
+www.debilt.nl
 www.dmo.amsterdam.nl
 www.dmo.omgevingswet.overheid.nl
 www.dmo2.amsterdam.nl
@@ -4621,6 +4646,7 @@ zaakloket.ameland.nl
 zaaksysteem-accept.alkmaar.nl
 zaaksysteem-accept.baarn.nl
 zaaksysteem-accept.beuningen.nl
+zaaksysteem-accept.debilt.nl
 zaaksysteem-accept.gemeenteberkelland.nl
 zaalhuur.borne.nl
 zaken.acceptatie.coevorden.nl
