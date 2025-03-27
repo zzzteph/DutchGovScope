@@ -89,6 +89,7 @@ aansluitsuite.digipoort.logius.nl
 aansluitsuite.preproductie.digipoort.logius.nl
 aanvragen.alkmaar.nl
 aanvragen.denhaag.nl
+aauth.gouda.nl
 abat.acc.belastingdienst.nl
 abonneren-t.delft.nl
 abonneren.delft.nl
@@ -709,6 +710,7 @@ apps.amsterdam.nl
 apps.arnhem.nl
 apps.denhelder.nl
 apps.dijkenwaard.nl
+apps.gouda.nl
 appstore-ont.belastingdienst.nl
 archeologie-acc.denhaag.nl
 archeologie.denhaag.nl
@@ -839,6 +841,7 @@ autodiscover.gennep.nl
 autodiscover.ggd.amsterdam.nl
 autodiscover.gooisemeren.nl
 autodiscover.gorinchem.nl
+autodiscover.gouda.nl
 autodiscover.iba.amsterdam.nl
 autodiscover.koop.overheid.nl
 autodiscover.noord.amsterdam.nl
@@ -1084,6 +1087,7 @@ berichten.dordrecht.nl
 berichten.gilzerijen.nl
 berichten.gorinchem.nl
 berichtenverkeer.authenticatie.alkmaar.nl
+berichtenverkeer.gouda.nl
 berichtverkeer.acc.amsterdam.nl
 berichtverkeer.amsterdam.nl
 bermod-fa.amsterdam.nl
@@ -1581,6 +1585,7 @@ data.gemnet.beuningen.nl
 data.overheid.nl
 dataacc.breda.nl
 datab.drechterland.nl
+databeheer.gouda.nl
 databridge-tst.brunssum.nl
 databridge.brunssum.nl
 datalab.alkmaar.nl
@@ -1737,6 +1742,7 @@ digikoppeling.test.blaricum.nl
 digikoppeling.test.ede.nl
 digikoppeling.test.eemnes.nl
 digikoppeling.test.gorinchem.nl
+digikoppeling.test.gouda.nl
 digikoppelingadapter.doetinchem.nl
 digikoppelingtest.bernheze.org
 digikoppelingtst.arnhem.nl
@@ -2024,6 +2030,7 @@ edienstenburgerzaken-test.etten-leur.nl
 edienstenburgerzaken-test.gemeenteberkelland.nl
 edienstenburgerzaken-test.goeree-overflakkee.nl
 edienstenburgerzaken-test.gorinchem.nl
+edienstenburgerzaken-test.gouda.nl
 edienstenburgerzaken.aalsmeer.nl
 edienstenburgerzaken.aalten.nl
 edienstenburgerzaken.acc.denhaag.nl
@@ -2065,6 +2072,7 @@ edienstenburgerzaken.etten-leur.nl
 edienstenburgerzaken.gemeenteberkelland.nl
 edienstenburgerzaken.goeree-overflakkee.nl
 edienstenburgerzaken.gorinchem.nl
+edienstenburgerzaken.gouda.nl
 edienstenburgerzaken.test.aalsmeer.nl
 edienstenburgerzaken.test.amstelveen.nl
 edienstenmijninkomen-acceptatie.albrandswaard.nl
@@ -2355,6 +2363,7 @@ financien.arnhem.nl
 financien.coevorden.nl
 financien.dalfsen.nl
 financien.denhaag.nl
+financien.gouda.nl
 fiod.acc.belastingdienst.nl
 firewall.servers1.bergen-nh.nl
 fise02.oudzuid.amsterdam.nl
@@ -2628,6 +2637,7 @@ gis.apeldoorn.nl
 gis.assen.nl
 gis.bloemendaal.nl
 gis.breda.nl
+gis.gouda.nl
 gisib-test.alblasserdam.nl
 gisib-test.dordrecht.nl
 gisib.acc.amsterdam.nl
@@ -2648,6 +2658,7 @@ gisibgeoserver.dordrecht.nl
 gisibonline.beesel.nl
 gisibonline.denhelder.nl
 giskit-bgt.geldrop-mierlo.nl
+gistest.gouda.nl
 gisweb.dijkenwaard.nl
 git-az1.lpc.logius.nl
 git-az2.lpc.logius.nl
@@ -2676,6 +2687,7 @@ goirle.nl
 gooisemeren.nl
 gorinchem.nl
 goud.almere.nl
+gouda.nl
 govroam.beekdaelen.nl
 govroam.belastingdienst.nl
 govroam.borne.nl
@@ -3133,11 +3145,13 @@ intranet.gemeentebeek.nl
 intranet.gemeenteberkelland.nl
 intranet.gennep.nl
 intranet.geuzenveld.amsterdam.nl
+intranet.gouda.nl
 intranet.raadsinformatie.amsterdam.nl
 intranetacc.apeldoorn.nl
 intranetcms-acc.bergendal.nl
 intranetcms.bergendal.nl
 intranetcms.drimmelen.nl
+intratest.gouda.nl
 intrekkingsportaal.acceptatie.digipoort.logius.nl
 intrekkingsportaal.digipoort.logius.nl
 intrekkingsportaal.preproductie.digipoort.logius.nl
@@ -3177,6 +3191,7 @@ jaarstukken.delft.nl
 jaarstukken.gorinchem.nl
 jaarstukken2020.bronckhorst.nl
 jaarstukken2021.bronckhorst.nl
+jaarstukken2021.financien.gouda.nl
 jaarstukken2022.bronckhorst.nl
 jaarstukken2023.bronckhorst.nl
 jaarverslag.arnhem.nl
@@ -3684,6 +3699,7 @@ mijn.etten-leur.nl
 mijn.gemert-bakel.nl
 mijn.goeree-overflakkee.nl
 mijn.gooisemeren.nl
+mijn.gouda.nl
 mijn.igj.nl
 mijn.ont.belastingdienst.nl
 mijn.overheid.nl
@@ -3738,6 +3754,7 @@ mijninkomen.denhelder.nl
 mijninkomen.doesburg.nl
 mijninkomen.dronten.nl
 mijninkomen.goeree-overflakkee.nl
+mijninkomen.gouda.nl
 mijnkaart.deurne.nl
 mijnkaarten.ovh.gemeentebeek.nl
 mijnloket.deventer.nl
@@ -4102,6 +4119,7 @@ omgevingsvisie.geertruidenberg.nl
 omgevingsvisie.geldrop-mierlo.nl
 omgevingsvisie.gennep.nl
 omgevingsvisie.gooisemeren.nl
+omgevingsvisie.gouda.nl
 omgevingswet.bronckhorst.nl
 omgevingswet.deventer.nl
 omgevingswet.overheid.nl
@@ -4206,6 +4224,7 @@ openpdc.dronten.nl
 openpdc.enkhuizen.nl
 openpdc.etten-leur.nl
 openpdc.gemeenteberkelland.nl
+openpdc.gouda.nl
 openpub.albrandswaard.nl
 openpub.alkmaar.nl
 openpub.barendrecht.nl
@@ -4213,6 +4232,7 @@ openpub.buren.nl
 openpub.defryskemarren.nl
 openpub.dronten.nl
 openpub.gemeenteberkelland.nl
+openpub.gouda.nl
 openstad.deventer.nl
 openstad.emmen.nl
 openstad.enschede.nl
@@ -4553,9 +4573,11 @@ preprod-mijninkomen.denhelder.nl
 preprod-mijninkomen.doesburg.nl
 preprod-mijninkomen.dronten.nl
 preprod-mijninkomen.goeree-overflakkee.nl
+preprod-mijninkomen.gouda.nl
 preprod-mijnoverzicht.boxtel.nl
 preprod-mijnplan.gemeenteberkelland.nl
 preprod-mijnportaal.defryskemarren.nl
+preprod-mijnportaal.gouda.nl
 preprod-mijnsociaalplein.bergen-nh.nl
 preprod-mijnsociaalplein.castricum.nl
 preprod-mijnzorg.denhelder.nl
@@ -4665,6 +4687,8 @@ publicaties.eindhoven.nl
 publicaties.rekenkamer.amsterdam.nl
 publicroam.beekdaelen.nl
 publicroam.brunssum.nl
+publiek-id-test.gouda.nl
+publiek-id.gouda.nl
 publiek.amsterdam.nl
 publiekwifi.delft.nl
 puc-acc.overheid.nl
@@ -5873,6 +5897,7 @@ viertfietsen.deventer.nl
 view.brunssum.nl
 view.nieuwsbrief.amsterdam.nl
 vinden.belastingdienst.nl
+vis.gouda.nl
 visvijver.doetinchem.nl
 vmapp002.borne.nl
 vmapp006.borne.nl
@@ -5901,6 +5926,7 @@ vpn.deurne.nl
 vpn.drechterland.nl
 vpn.dronten.nl
 vpn.gooisemeren.nl
+vpn.gouda.nl
 vpn.koop.overheid.nl
 vpn.zuid.amsterdam.nl
 vpn02.denhaag.nl
@@ -5968,6 +5994,7 @@ webapps-acc.belastingdienst.nl
 webapps.aaenhunze.nl
 webapps.belastingdienst.nl
 webcam.enschede.nl
+webcams.gouda.nl
 webcamslingerweg.breda.nl
 webcamspinveld.breda.nl
 webcon.castricum.nl
@@ -5988,6 +6015,7 @@ webdiensten8.str1.acc.belastingdienst.nl
 webforms.acc.belastingdienst.nl
 webforms.belastingdienst.nl
 webformulieren.doetinchem.nl
+webgba.gouda.nl
 webmail.alkmaar.nl
 webmail.amersfoort.nl
 webmail.bergen-nh.nl
@@ -6437,6 +6465,7 @@ www.gogo.denhaag.nl
 www.goirle.nl
 www.gooisemeren.nl
 www.gorinchem.nl
+www.gouda.nl
 www.gpi.amsterdam.nl
 www.groene-daken.amsterdam.nl
 www.handhavingsacademie.amsterdam.nl
@@ -6672,6 +6701,7 @@ zaaksysteem-accept.epe.nl
 zaaksysteem-accept.etten-leur.nl
 zaaksysteem-accept.gemeenteberkelland.nl
 zaaksysteem-accept.gooisemeren.nl
+zaaksysteem-accept.gouda.nl
 zaaksysteem.ede.nl
 zaaksysteem.eindhoven.nl
 zaalhuur.borne.nl
