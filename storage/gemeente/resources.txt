@@ -204,6 +204,7 @@ acceptatie.culemborg.nl
 acceptatie.dantumadiel.frl
 acceptatie.debilt.nl
 acceptatie.derondevenen.nl
+acceptatie.dewolden.nl
 acceptatie.gemeentebeek.nl
 acceptatie.intranet.debilt.nl
 acceptatieloket.bergen-nh.nl
@@ -473,6 +474,7 @@ autodiscover.dantumadiel.frl
 autodiscover.debilt.nl
 autodiscover.defryskemarren.nl
 autodiscover.derondevenen.nl
+autodiscover.dewolden.nl
 autodiscover.gemeentebeek.nl
 autodiscover.gemeenteberkelland.nl
 autodiscover.gemeentebest.nl
@@ -560,6 +562,7 @@ beesel.nl
 begraafplaatsduinrust.beverwijk.nl
 begraafplaatsen.bloemendaal.nl
 begraafplaatsreservering.bronckhorst.nl
+begraven.dewolden.nl
 begroten.centrumbegroot.alphenaandenrijn.nl
 begroten.zwammerdamdorpskern.alphenaandenrijn.nl
 beheer.acc.amsterdam.nl
@@ -628,6 +631,7 @@ bgt.assen.nl
 bgt.baarn.nl
 bgt.brummen.nl
 bgt.capelleaandenijssel.nl
+bgt.dewolden.nl
 bgtt.bergenopzoom.nl
 bhg.bba.amsterdam.nl
 bhgtest.bba.amsterdam.nl
@@ -891,6 +895,7 @@ deurwaardersloket.amersfoort.nl
 dev.rnd.amsterdam.nl
 deventit.breda.nl
 devportal.api.amsterdam.nl
+dewolden.nl
 dex.meldingen.alphenaandenrijn.nl
 dgdialog.acc.amsterdam.nl
 dgdialog.amsterdam.nl
@@ -1047,6 +1052,7 @@ e-net.intranet.amsterdam.nl
 e.achtkarspelen.nl
 e.almelo.nl
 e.borger-odoorn.nl
+e.dewolden.nl
 ebms.achtkarspelen.nl
 edienstaanvragensd.defryskemarren.nl
 edienstenaanvragensd-acceptatie.albrandswaard.nl
@@ -1520,6 +1526,7 @@ iburgerzaken.cranendonck.nl
 iburgerzaken.culemborg.nl
 iburgerzaken.dalfsen.nl
 iburgerzaken.derondevenen.nl
+iburgerzaken.dewolden.nl
 iburgerzaken.gemeentebeek.nl
 iburgerzaken.gemeentebest.nl
 ibzpink.aaenhunze.nl
@@ -1552,6 +1559,7 @@ ibzpink.cranendonck.nl
 ibzpink.culemborg.nl
 ibzpink.dalfsen.nl
 ibzpink.derondevenen.nl
+ibzpink.dewolden.nl
 ibzpink.gemeentebeek.nl
 ibzpink.gemeentebest.nl
 icm-ast.asten.nl
@@ -2010,6 +2018,7 @@ mks.amsterdam.nl
 mks.beekdaelen.nl
 mks.breda.nl
 mks.brievenbus.amsterdam.nl
+mks.dewolden.nl
 mks.gemeentebest.nl
 mks.preprod.amsterdam.nl
 mks.test.amsterdam.nl
@@ -2184,7 +2193,9 @@ open.gemeentebeek.nl
 opendata.arnhem.nl
 opendata.assen.nl
 opendata.bloemendaal.nl
+openformulieren-test.dewolden.nl
 openformulieren.assen.nl
+openformulieren.dewolden.nl
 openklant-beheer-erfpacht-dev.amsterdam.nl
 openklant-beheer-erfpacht-ont.amsterdam.nl
 openklant-beheer-erfpacht.amsterdam.nl
@@ -2221,6 +2232,7 @@ osdorp.amsterdam.nl
 ota.mijn.almere.nl
 otp.gemeenteberkelland.nl
 oud.bodegraven-reeuwijk.nl
+outlook.dewolden.nl
 ovh.gemeentebeek.nl
 owa.assen.nl
 owa.oudzuid.amsterdam.nl
@@ -3093,6 +3105,7 @@ wonenportaal.amsterdam.nl
 woningbouwkaart.assen.nl
 woningbouwkaart.borger-odoorn.nl
 woningbouwkaart.coevorden.nl
+woningbouwkaart.dewolden.nl
 woningdossier.assen.nl
 woo.arnhem.nl
 wooloket.bernheze.org
@@ -3212,6 +3225,7 @@ www.data.amsterdam.nl
 www.debilt.nl
 www.defryskemarren.nl
 www.derondevenen.nl
+www.dewolden.nl
 www.dmo.amsterdam.nl
 www.dmo2.amsterdam.nl
 www.doe-mee.coevorden.nl

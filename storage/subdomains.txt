@@ -57,6 +57,7 @@ digikoppeling-test
 cmsoo
 formulier
 govroam
+e
 kennisbank
 mailing
 mijnzorg-acc
@@ -71,7 +72,9 @@ login
 snelbaliepp
 extranet
 gemeente
+mks
 testeloket
+bgt
 dacceptatieloket
 dacceptatiemidoffice
 dloket
@@ -82,7 +85,6 @@ feeds
 magazines
 evenementen
 portaal
-e
 api.meldingen-acc
 meldingen-acc
 loket.test
@@ -97,12 +99,11 @@ berichten
 financien
 atlas
 beeldbank
-mks
 nieuwsbrief
 parkeren-acc
 gis
-bgt
 test-digikoppeling
+woningbouwkaart
 cms
 smtp
 english
@@ -134,7 +135,6 @@ legacy
 www.raad
 e-loket
 acc-broker
-woningbouwkaart
 obsurv
 klantcontact
 byod
@@ -255,6 +255,7 @@ gp
 mijngeldzaken
 ndes
 bastion365
+openformulieren
 sip
 meedoen
 citrix
@@ -2992,7 +2993,6 @@ mijnplein
 notificaties
 objecten
 objecttypen
-openformulieren
 openklant
 organisatieontwikkeling
 owa
@@ -3575,3 +3575,6 @@ selector2._domainkey
 stroomlijntest
 testmijnzaken
 werkplek02
+begraven
+openformulieren-test
+outlook
