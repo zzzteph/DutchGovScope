@@ -9,15 +9,15 @@ afspraken
 intranet
 secure
 simcms
-simsite
 webmail
-mijn
+simsite
 mail
+mijn
 digikoppeling
+preproductie
 probeer
 acceptatie
 test
-preproductie
 felix
 loket
 acc
@@ -25,17 +25,17 @@ dkd
 werkplek
 formulieren
 data
+portal
 afspraak
 adfs
 betalen
 geo
 meldingen
-portal
+waarmerk
 open
 pv
 eloket
 gemeenteraad
-waarmerk
 vpn
 broker
 api.meldingen
@@ -49,6 +49,7 @@ remote
 mijnzorg
 raad
 zaken
+openpdc
 zaaksysteem-accept
 omgevingsvisie
 digikoppeling-test
@@ -57,8 +58,8 @@ testeloket
 opendata
 formulier
 test-ipa
-openpdc
 openpub
+osb
 hybrid
 mijninkomen
 piwik
@@ -77,7 +78,6 @@ portaal
 kennisbank
 mailing
 verkiezingen
-osb
 preprod-mijninkomen
 snelbalie
 login
@@ -88,6 +88,7 @@ mks
 nieuwsbrief
 woningbouwkaart
 connect
+pki
 evenementen
 e
 mijnzorg-acc
@@ -103,9 +104,9 @@ acc-broker
 bgt
 kaarten
 doemee
-pki
 mdm
 filecap
+AutoDiscover
 cms
 feeds
 magazines
@@ -118,6 +119,7 @@ preprodbroker
 vergunningintaker
 denkmee
 izaaksuite
+osbacc
 belastingen
 thuiswerken
 afvalkalender
@@ -130,6 +132,7 @@ www.acc
 www.raad
 gis
 mijngeldzaken
+openformulieren
 sts
 test-digikoppeling
 klantcontact
@@ -140,8 +143,9 @@ contentbeheer
 simcms-open
 test-intranet
 zaken.acceptatie
+samen
 formulieren-test
-AutoDiscover
+transfer
 _dmarc
 api
 ns2
@@ -156,7 +160,6 @@ college
 gisib
 praatmee
 preprod-mijn
-osbacc
 wachtwoord
 bis
 flowmailer-tracking
@@ -167,6 +170,7 @@ maps
 stadsarchief
 exchange
 gemeentearchief
+preprod
 onderzoek
 vdi
 www.test
@@ -183,7 +187,6 @@ woo
 bag
 bastion365
 media
-openformulieren
 sip
 obsurv
 publicaties
@@ -193,7 +196,6 @@ inproces
 support
 fmreturn
 gasten
-samen
 data-test
 intranet-acc
 jccapi
@@ -210,7 +212,7 @@ dtestmidoffice
 burgerloket
 filr
 outlook
-transfer
+klantportaal
 a-feeds
 a-magazines
 a-opendata
@@ -301,7 +303,6 @@ dali
 dkd-test
 kinderburgemeester
 mijnoverzicht
-preprod
 ro-online
 rpl3
 www.centrumbegroot
@@ -401,9 +402,9 @@ efacturen
 subsidies-login.acceptatie
 subsidies-login
 ondernemersloket
+openformulieren-test
 archief
 kennisportaal
-klantportaal
 mfa
 smartdocuments
 uitslagen
@@ -415,6 +416,8 @@ centric
 jongin
 www.jongin
 router
+klantportaal.acc
+prod
 vergunningen
 www.socialekaart
 socialekaart
@@ -3596,7 +3599,6 @@ stroomlijntest
 testmijnzaken
 werkplek02
 begraven
-openformulieren-test
 aanmelder
 abonneren-t
 abonneren
@@ -4234,8 +4236,6 @@ datab
 digitalebalie
 durp
 g0498
-klantportaal.acc
-prod
 sb
 fs-mail
 mobility
@@ -4431,3 +4431,5 @@ www.mobile
 www.participatiewebshop
 www.pip-test
 www.wijkparkdelftlanden
+buiten
+www.samen
