@@ -70,6 +70,7 @@ http://parkeervergunningen.amsterdam.nl
 http://participatieprikbord.denhaag.nl
 http://plannen.asten.nl
 http://preproductie.bronckhorst.nl
+http://preproductie.deurne.nl
 http://preproductie.gemeentebeek.nl
 http://redirector.alkmaar.nl
 http://ro.brunssum.nl
@@ -84,6 +85,7 @@ http://simcms.bergeijk.nl
 http://simcms.beuningen.nl
 http://simcms.bunschoten.nl
 http://simcms.dalfsen.nl
+http://simcms.deurne.nl
 http://simform.beuningen.nl
 http://subsites.amsterdam.nl
 http://test-bink.beverwijk.nl
@@ -297,6 +299,7 @@ https://andreas2.amsterdam.nl
 https://andreas2.ont.amsterdam.nl
 https://andreas2.opl.amsterdam.nl
 https://andreas2.tst.amsterdam.nl
+https://any2info.deurne.nl
 https://aovpn.bergen.nl
 https://apeldoorn.nl
 https://apex.almere.nl
@@ -426,6 +429,8 @@ https://begraven.dewolden.nl
 https://begroten.centrumbegroot.alphenaandenrijn.nl
 https://begroten.zwammerdamdorpskern.alphenaandenrijn.nl
 https://begroting.delft.nl
+https://beheer-test-trefpunt.deurne.nl
+https://beheer-trefpunt.deurne.nl
 https://beheer.acc.amsterdam.nl
 https://beheer.amsterdam.nl
 https://beheerbeeldbank.breda.nl
@@ -515,6 +520,7 @@ https://broker.borger-odoorn.nl
 https://broker.buren.nl
 https://broker.coevorden.nl
 https://bronckhorst.nl
+https://bros-academie.deurne.nl
 https://brummen.nl
 https://brunssum.nl
 https://buitenoporde.defryskemarren.nl
@@ -644,6 +650,7 @@ https://derondevenen.nl
 https://deschop.acceptatie.asten.nl
 https://deschop.asten.nl
 https://desktop5.denhaag.nl
+https://deurne.nl
 https://deventit.breda.nl
 https://devportal.api.amsterdam.nl
 https://dewolden.nl
@@ -795,6 +802,7 @@ https://eloket.bergendal.nl
 https://eloket.bloemendaal.nl
 https://eloket.brunssum.nl
 https://eloket.culemborg.nl
+https://eloket.deurne.nl
 https://eloketstaging.almere.nl
 https://elokettest.bloemendaal.nl
 https://email.bernheze.org
@@ -875,6 +883,7 @@ https://felix.beuningen.nl
 https://felix.beverwijk.nl
 https://felix.bladel.nl
 https://felix.bunschoten.nl
+https://felix.deurne.nl
 https://fgt.amstelveen.nl
 https://filecap.breda.nl
 https://filecapacc.breda.nl
@@ -1047,6 +1056,7 @@ https://iburgerzaken.cranendonck.nl
 https://iburgerzaken.culemborg.nl
 https://iburgerzaken.dalfsen.nl
 https://iburgerzaken.derondevenen.nl
+https://iburgerzaken.deurne.nl
 https://iburgerzaken.dewolden.nl
 https://iburgerzaken.gemeentebeek.nl
 https://iburgerzaken.gemeentebest.nl
@@ -1181,6 +1191,7 @@ https://klachten.amsterdam.nl
 https://klantcontact.baarn.nl
 https://klantcontact.bergendal.nl
 https://klantcontact.beuningen.nl
+https://klantcontact.deurne.nl
 https://klantportaal-zgw.acc.denhaag.nl
 https://klantportaal-zgw.test.denhaag.nl
 https://klantportaal.denhaag.nl
@@ -1305,6 +1316,7 @@ https://mijninkomen.almere.nl
 https://mijninkomen.beverwijk.nl
 https://mijninkomen.defryskemarren.nl
 https://mijninkomen.denhelder.nl
+https://mijnkaart.deurne.nl
 https://mijnoverzicht.alphenaandenrijn.nl
 https://mijnoverzicht.boxtel.nl
 https://mijnplan.gemeenteberkelland.nl
@@ -1845,6 +1857,7 @@ https://test-openzaak.assen.nl
 https://test-podiumd-logs.assen.nl
 https://test-subsidiebeheer.alkmaar.nl
 https://test-subsidieloket.alkmaar.nl
+https://test-trefpunt.deurne.nl
 https://test-zaakloket.ameland.nl
 https://test.app.amsterdam.nl
 https://test.beverwijk.nl
@@ -1862,6 +1875,7 @@ https://testeloket.asten.nl
 https://testeloket.beesel.nl
 https://testeloket.bergendal.nl
 https://testeloket.culemborg.nl
+https://testeloket.deurne.nl
 https://testformulieren.bodegraven-reeuwijk.nl
 https://testmeldingen.asten.nl
 https://testmijnzaken.derondevenen.nl
@@ -1881,6 +1895,7 @@ https://tourbuzz.amsterdam.nl
 https://tr.barneveld.nl
 https://tracking.amersfoort.nl
 https://tradities.doemee.bloemendaal.nl
+https://trefpunt.deurne.nl
 https://tst-ubor.amsterdam.nl
 https://tv.gemeentebest.nl
 https://ubor.amsterdam.nl
@@ -2201,6 +2216,7 @@ https://www.ypenburgaanzet.denhaag.nl
 https://www.zkd.denhaag.nl
 https://www.zomerprogramma070.denhaag.nl
 https://www.zwammerdamdorpskern.alphenaandenrijn.nl
+https://xelion.deurne.nl
 https://ypenburgaanzet.denhaag.nl
 https://yutpaworkshop.dev.rnd.amsterdam.nl
 https://yutpaworkshop.rnd.amsterdam.nl
