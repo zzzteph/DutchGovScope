@@ -32,6 +32,7 @@ http://autodiscover.cranendonck.nl
 http://autodiscover.dalfsen.nl
 http://autodiscover.dantumadiel.frl
 http://autodiscover.debilt.nl
+http://autodiscover.delft.nl
 http://autodiscover.derondevenen.nl
 http://autodiscover.dewolden.nl
 http://autodiscover.gemeenteberkelland.nl
@@ -120,6 +121,9 @@ https://aalten-checker.aalten.nl
 https://aanmeldenparkeren-acc.beverwijk.nl
 https://aanmeldenparkeren.amsterdam.nl
 https://aanmeldenparkeren.beverwijk.nl
+https://aanmelder.delft.nl
+https://abonneren-t.delft.nl
+https://abonneren.delft.nl
 https://acc-broker.assen.nl
 https://acc-broker.borger-odoorn.nl
 https://acc-broker.coevorden.nl
@@ -194,6 +198,7 @@ https://acceptatie-vaarvergunningen.amsterdam.nl
 https://acceptatie.alphen-chaam.nl
 https://acceptatie.asten.nl
 https://acceptatie.baarle-nassau.nl
+https://acceptatie.delft.nl
 https://acceptatie.dewolden.nl
 https://acceptatie.intranet.debilt.nl
 https://accisdtalentcenter.bergenopzoom.nl
@@ -366,6 +371,7 @@ https://begraafplaatsreservering.bronckhorst.nl
 https://begraven.dewolden.nl
 https://begroten.centrumbegroot.alphenaandenrijn.nl
 https://begroten.zwammerdamdorpskern.alphenaandenrijn.nl
+https://begroting.delft.nl
 https://beheer.acc.amsterdam.nl
 https://beheer.amsterdam.nl
 https://beheerbeeldbank.breda.nl
@@ -499,6 +505,8 @@ https://crk.amsterdam.nl
 https://crl.amersfoort.nl
 https://crypt.apeldoorn.nl
 https://cryptacc.apeldoorn.nl
+https://cryptshare.delft.nl
+https://cryptsharetest.delft.nl
 https://csc.beverwijk.nl
 https://csc.dantumadiel.frl
 https://css.openstad.alphenaandenrijn.nl
@@ -526,9 +534,11 @@ https://data.bergendal.nl
 https://data.bergenopzoom.nl
 https://data.beuningen.nl
 https://data.breda.nl
+https://data.delft.nl
 https://dataacc.breda.nl
 https://datalab.alkmaar.nl
 https://dataportaal.apeldoorn.nl
+https://datatest.delft.nl
 https://debelastingbalie.amersfoort.nl
 https://debilt.nl
 https://deboswinkel.amsterdam.nl
@@ -545,6 +555,7 @@ https://decoswonen.acc.amsterdam.nl
 https://decoswonen.amsterdam.nl
 https://deelscooters.doemee.bloemendaal.nl
 https://defryskemarren.nl
+https://delft.nl
 https://demirandabad.amsterdam.nl
 https://demo.doemee.bloemendaal.nl
 https://demo.onderwijssubsidies.amsterdam.nl
@@ -749,6 +760,7 @@ https://exchange.defryskemarren.nl
 https://extranet.alphen-chaam.nl
 https://fblocatielijst.amsterdam.nl
 https://fbtools.amsterdam.nl
+https://feedback.delft.nl
 https://felix.aalten.nl
 https://felix.achtkarspelen.nl
 https://felix.baarn.nl
@@ -764,6 +776,7 @@ https://fileshare.amsterdam.nl
 https://financials-acc.apeldoorn.nl
 https://financials.apeldoorn.nl
 https://financialstest.derondevenen.nl
+https://financieel.delft.nl
 https://financien.amersfoort.nl
 https://financien.arnhem.nl
 https://financien.coevorden.nl
@@ -862,6 +875,7 @@ https://histor-web-fa.amsterdam.nl
 https://histor-web.acc.amsterdam.nl
 https://histor-web.amsterdam.nl
 https://histor-web.tst.amsterdam.nl
+https://hnw.delft.nl
 https://hofnet.coevorden.nl
 https://hor-acc.amsterdam.nl
 https://hor.amsterdam.nl
@@ -870,6 +884,7 @@ https://huishoudboekje.amersfoort.nl
 https://hybrid.almere.nl
 https://hybrid.beverwijk.nl
 https://iam.amsterdam.nl
+https://ibor.delft.nl
 https://iburgerzaken.aaenhunze.nl
 https://iburgerzaken.achtkarspelen.nl
 https://iburgerzaken.almelo.nl
@@ -949,6 +964,7 @@ https://intern.aanmeldenparkeren.amsterdam.nl
 https://intern.formulieren.acc.amsterdam.nl
 https://intern.formulieren.amsterdam.nl
 https://intranet-acc.borne.nl
+https://intranet-acc.delft.nl
 https://intranet-cms.bernheze.org
 https://intranet-stats.bernheze.org
 https://intranet.acc.amsterdam.nl
@@ -957,6 +973,7 @@ https://intranet.apeldoorn.nl
 https://intranet.bergendal.nl
 https://intranet.bernheze.org
 https://intranet.debilt.nl
+https://intranet.delft.nl
 https://intranet.gemeentebeek.nl
 https://intranet.gemeenteberkelland.nl
 https://intranetacc.apeldoorn.nl
@@ -969,11 +986,13 @@ https://isdtalentcenter.bergenopzoom.nl
 https://izaaksuite.bergenopzoom.nl
 https://jaarrekening.arnhem.nl
 https://jaarstukken.bronckhorst.nl
+https://jaarstukken.delft.nl
 https://jaarstukken2020.bronckhorst.nl
 https://jaarstukken2021.bronckhorst.nl
 https://jaarstukken2022.bronckhorst.nl
 https://jaarstukken2023.bronckhorst.nl
 https://jaarverslag.arnhem.nl
+https://jacot.lev.delft.nl
 https://jccapi.bergeijk.nl
 https://jccapi.bladel.nl
 https://jcccloud.borsele.nl
@@ -986,11 +1005,13 @@ https://kaart.amersfoort.nl
 https://kaart.amsterdam.nl
 https://kaart.bergendal.nl
 https://kaart.debilt.nl
+https://kaart.delft.nl
 https://kaarten.boxtel.nl
 https://kaarten.buren.nl
 https://kaartviewer.barneveld.nl
 https://kavels.almere.nl
 https://kavelwinkel.almere.nl
+https://kenneth.delft.nl
 https://kennisbank.barneveld.nl
 https://keuzesinbeeld.amsterdam.nl
 https://keycloak.assen.nl
@@ -1059,6 +1080,8 @@ https://mbg1.dantumadiel.frl
 https://mbg2.dantumadiel.frl
 https://medewerkers.buren.nl
 https://medewerkers.defryskemarren.nl
+https://media-t.delft.nl
+https://media.delft.nl
 https://meedenken.arnhem.nl
 https://meedoen-acc.borger-odoorn.nl
 https://meedoen.baarn.nl
@@ -1164,6 +1187,7 @@ https://nha.amsterdam.nl
 https://nieuwauthentiekbloemendaal.doemee.bloemendaal.nl
 https://nieuws.breda.nl
 https://nieuwsbrief.capelleaandenijssel.nl
+https://nieuwsbrief.delft.nl
 https://nieuwsbrieven.amsterdam.nl
 https://nlgembrl.brielle.nl
 https://noorderparkbad.amsterdam.nl
@@ -1255,6 +1279,7 @@ https://openzaak.amsterdam.nl
 https://openzaak.assen.nl
 https://openzaak.t.ssv.amsterdam.nl
 https://openzaak.wonenportaal.amsterdam.nl
+https://or.delft.nl
 https://otp.gemeenteberkelland.nl
 https://outlook.dewolden.nl
 https://panel.amsterdam.nl
@@ -1328,6 +1353,7 @@ https://preproductie.beuningen.nl
 https://preproductie.bladel.nl
 https://prijsvraag-zwembad.apeldoorn.nl
 https://privacybewustzijn.bergendal.nl
+https://private.delft.nl
 https://programmabegroting.bronckhorst.nl
 https://programmabegroting2022.bronckhorst.nl
 https://programmabegroting2023.bronckhorst.nl
@@ -1337,6 +1363,7 @@ https://protectus.ggd.amsterdam.nl
 https://proto.apeldoorn.nl
 https://pub.alkmaar.nl
 https://publicaties.barneveld.nl
+https://publicaties.delft.nl
 https://publicaties.rekenkamer.amsterdam.nl
 https://pv.achtkarspelen.nl
 https://pv.albrandswaard.nl
@@ -1370,6 +1397,7 @@ https://relatie-scheiding.almere.nl
 https://remote.arnhem.nl
 https://remote.beverwijk.nl
 https://ris.dalfsen.nl
+https://ris.delft.nl
 https://riviewer.apeldoorn.nl
 https://rnd.amsterdam.nl
 https://ro-online.alphenaandenrijn.nl
@@ -1435,6 +1463,7 @@ https://simsite.beekdaelen.nl
 https://simsite.bladel.nl
 https://simsite.bunschoten.nl
 https://sip.ggd.amsterdam.nl
+https://siraskalot.delft.nl
 https://smap.almere.nl
 https://smartdoc-brl.brielle.nl
 https://smartdoc-brlacc.brielle.nl
@@ -1476,10 +1505,12 @@ https://start.almelo.nl
 https://start.beverwijk.nl
 https://statistiek.amsterdam.nl
 https://statistiek.data.amsterdam.nl
+https://stats.intranet.delft.nl
 https://stemmen.amsterdam.nl
 https://straatnotes.amsterdam.nl
 https://stroomlijntest.derondevenen.nl
 https://sts.assen.nl
+https://sts.delft.nl
 https://subsidie.almelo.nl
 https://subsidiebeheer.alkmaar.nl
 https://subsidieloket.alkmaar.nl
@@ -1581,6 +1612,7 @@ https://upk.afs.amsterdam.nl
 https://uwdorpofwijk.alphenaandenrijn.nl
 https://vaarkaart.bba.amsterdam.nl
 https://vaarvergunningen.amsterdam.nl
+https://vdi.delft.nl
 https://veiligdelen.alkmaar.nl
 https://veiligdelen.derondevenen.nl
 https://veiligmailen.almelo.nl
@@ -1615,6 +1647,7 @@ https://webmail.boekel.nl
 https://webmail.breda.nl
 https://webmail.brielle.nl
 https://webmail.buren.nl
+https://webmail.delft.nl
 https://webmeeting.brunssum.nl
 https://webservice-decosdvl.acc.amsterdam.nl
 https://webservice-decosdvl.amsterdam.nl
@@ -1728,6 +1761,7 @@ https://www.culemborg.nl
 https://www.dantumadiel.frl
 https://www.debilt.nl
 https://www.defryskemarren.nl
+https://www.delft.nl
 https://www.derondevenen.nl
 https://www.dewolden.nl
 https://www.doemee.bloemendaal.nl
