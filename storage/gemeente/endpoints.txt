@@ -42,6 +42,7 @@ http://autodiscover.dongen.nl
 http://autodiscover.dordrecht.nl
 http://autodiscover.drechterland.nl
 http://autodiscover.druten.nl
+http://autodiscover.duiven.nl
 http://autodiscover.gemeenteberkelland.nl
 http://autodiscover.gemeentebest.nl
 http://beekdaelen.nl
@@ -123,6 +124,7 @@ http://www.raad.amsterdam.nl
 http://www.regelgeving.amsterdam.nl
 http://www.scheveningen.denhaag.nl
 http://www.smartcity.denhaag.nl
+http://www.socialekaart.duiven.nl
 http://www.stadspas.apeldoorn.nl
 http://www.stadstoezicht.amsterdam.nl
 http://www.vroonermeer-noord.alkmaar.nl
@@ -244,6 +246,8 @@ https://acceptatie.delft.nl
 https://acceptatie.dewolden.nl
 https://acceptatie.dongen.nl
 https://acceptatie.intranet.debilt.nl
+https://acceptatiebelastingen.duiven.nl
+https://acceptatievergunningen.duiven.nl
 https://accisdtalentcenter.bergenopzoom.nl
 https://achtkarspelen.nl
 https://activiteiten.amsterdam.nl
@@ -494,6 +498,7 @@ https://belastingbalietest.capelleaandenijssel.nl
 https://belastingen-acc.arnhem.nl
 https://belastingen.almere.nl
 https://belastingen.arnhem.nl
+https://belastingen.duiven.nl
 https://belastingloket.barneveld.nl
 https://belastingportaal-test.boxtel.nl
 https://belastingportaal-test.dinkelland.nl
@@ -580,6 +585,7 @@ https://broker.borger-odoorn.nl
 https://broker.buren.nl
 https://broker.coevorden.nl
 https://broker.deventer.nl
+https://broker.duiven.nl
 https://bronckhorst.nl
 https://bros-academie.deurne.nl
 https://brummen.nl
@@ -631,6 +637,7 @@ https://cmsoo.borger-odoorn.nl
 https://cmsoo.borne.nl
 https://cmsoo.coevorden.nl
 https://cmsoo.culemborg.nl
+https://cmsoo.duiven.nl
 https://coevorden.nl
 https://collecties.dantumadiel.frl
 https://college.alblasserdam.nl
@@ -780,6 +787,9 @@ https://druktebeeld.amsterdam.nl
 https://druten.nl
 https://dso.data.amsterdam.nl
 https://duinoordfietst.denhaag.nl
+https://duiven-checker-preprod.duiven.nl
+https://duiven-checker.duiven.nl
+https://duiven.nl
 https://durplandelijkevoorziening.deventer.nl
 https://dusk-acc-openwave.beverwijk.nl
 https://dusk-openwave.beverwijk.nl
@@ -857,6 +867,7 @@ https://edienstenburgerzaken-test.dongen.nl
 https://edienstenburgerzaken-test.dordrecht.nl
 https://edienstenburgerzaken-test.drechterland.nl
 https://edienstenburgerzaken-test.dronten.nl
+https://edienstenburgerzaken-test.duiven.nl
 https://edienstenburgerzaken-test.gemeenteberkelland.nl
 https://edienstenburgerzaken.aalsmeer.nl
 https://edienstenburgerzaken.aalten.nl
@@ -889,6 +900,7 @@ https://edienstenburgerzaken.dongen.nl
 https://edienstenburgerzaken.dordrecht.nl
 https://edienstenburgerzaken.drechterland.nl
 https://edienstenburgerzaken.dronten.nl
+https://edienstenburgerzaken.duiven.nl
 https://edienstenburgerzaken.gemeenteberkelland.nl
 https://edienstenburgerzaken.test.aalsmeer.nl
 https://edienstenburgerzaken.test.amstelveen.nl
@@ -1046,6 +1058,7 @@ https://formulieracc.breda.nl
 https://formulieren-test.beesel.nl
 https://formulieren-test.bronckhorst.nl
 https://formulieren-test.culemborg.nl
+https://formulieren-test.duiven.nl
 https://formulieren.almere.nl
 https://formulieren.amsterdam.nl
 https://formulieren.beesel.nl
@@ -1055,6 +1068,7 @@ https://formulieren.buren.nl
 https://formulieren.culemborg.nl
 https://formulieren.defryskemarren.nl
 https://formulieren.denhaag.nl
+https://formulieren.duiven.nl
 https://formulierna.denhaag.nl
 https://fotobank.amsterdam.nl
 https://frontoffice-parkeervergunningen-acc.beverwijk.nl
@@ -1326,6 +1340,7 @@ https://kaart.delft.nl
 https://kaarten.boxtel.nl
 https://kaarten.buren.nl
 https://kaarten.deventer.nl
+https://kaarten.duiven.nl
 https://kaartviewer.barneveld.nl
 https://kadbrkwkpd.deventer.nl
 https://kadernota2022.financielestukken.diemen.nl
@@ -1401,6 +1416,7 @@ https://loket.bunnik.nl
 https://loket.dantumadiel.frl
 https://loket.diemen.nl
 https://loket.dordrecht.nl
+https://loket.duiven.nl
 https://loket.test.aalsmeer.nl
 https://loket.test.amstelveen.nl
 https://lyncdiscover.diemen.nl
@@ -1545,7 +1561,9 @@ https://mozardtest.ameland.nl
 https://mozardtest.bunnik.nl
 https://msm.almelo.nl
 https://msoid.arnhem.nl
+https://mta-sts.duiven.nl
 https://mta-sts.pop.deventer.nl
+https://mta-sts.raad.duiven.nl
 https://mycorsanxt.brielle.nl
 https://mycorsanxt.derondevenen.nl
 https://mzdtest.bunnik.nl
@@ -1826,6 +1844,7 @@ https://preprod.mijnaanvraagzi.beuningen.nl
 https://preprod.vergunningintaker.bernheze.org
 https://preprodbroker.aalten.nl
 https://preprodbroker.bernheze.org
+https://preprodbroker.duiven.nl
 https://preprodgdintaker.diemen.nl
 https://preprodscbroker.diemen.nl
 https://preproductie.achtkarspelen.nl
@@ -2195,6 +2214,7 @@ https://veiligdelen.derondevenen.nl
 https://veiligmailen.almelo.nl
 https://veiligmailen.beverwijk.nl
 https://vergunningen.dronten.nl
+https://vergunningen.duiven.nl
 https://vergunningintaker-preprod.aalten.nl
 https://vergunningintaker.aalten.nl
 https://verkeersbesluiten.denhaag.nl
@@ -2417,6 +2437,7 @@ https://www.drimmelen.nl
 https://www.dronten.nl
 https://www.druten.nl
 https://www.duinoordfietst.denhaag.nl
+https://www.duiven.nl
 https://www.duurzaam.alphenaandenrijn.nl
 https://www.duurzaam.barneveld.nl
 https://www.duurzaam.beesel.nl

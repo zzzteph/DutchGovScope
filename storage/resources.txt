@@ -310,10 +310,12 @@ acceptatie.drechterland.nl
 acceptatie.gemeentebeek.nl
 acceptatie.intranet.debilt.nl
 acceptatie.omgevingswet.overheid.nl
+acceptatiebelastingen.duiven.nl
 acceptatieloket.bergen-nh.nl
 acceptatieloket.borne.nl
 acceptatieloket.dinkelland.nl
 acceptatiemidoffice.coevorden.nl
+acceptatievergunningen.duiven.nl
 access.oa.amsterdam.nl
 accisdtalentcenter.bergenopzoom.nl
 accmksprd.ovh.gemeentebeek.nl
@@ -410,6 +412,7 @@ afspraken.deventer.nl
 afspraken.diemen.nl
 afspraken.dijkenwaard.nl
 afspraken.dongen.nl
+afspraken.duiven.nl
 afval.acc.denhaag.nl
 afval.acc.omgevingswet.overheid.nl
 afval.assen.nl
@@ -720,6 +723,7 @@ autodiscover.dordrecht.nl
 autodiscover.drechterland.nl
 autodiscover.dronten.nl
 autodiscover.druten.nl
+autodiscover.duiven.nl
 autodiscover.gemeentebeek.nl
 autodiscover.gemeenteberkelland.nl
 autodiscover.gemeentebest.nl
@@ -918,6 +922,7 @@ belastingen-acc.arnhem.nl
 belastingen.almere.nl
 belastingen.alphenaandenrijn.nl
 belastingen.arnhem.nl
+belastingen.duiven.nl
 belastingloket.barneveld.nl
 belastingportaal-test.boxtel.nl
 belastingportaal-test.dinkelland.nl
@@ -1073,6 +1078,7 @@ broker.borger-odoorn.nl
 broker.buren.nl
 broker.coevorden.nl
 broker.deventer.nl
+broker.duiven.nl
 bronckhorst.nl
 bros-academie.deurne.nl
 brsoribi01.borsele.nl
@@ -1094,6 +1100,7 @@ buren.nl
 burgerloket.acceptatie.derondevenen.nl
 burgerloket.derondevenen.nl
 burgerloket.diemen.nl
+burgerloket.duiven.nl
 burgerzaken.amsterdam.nl
 buurtbudget.amsterdam.nl
 buurtbudgetnoord.amsterdam.nl
@@ -1226,6 +1233,7 @@ cmsoo.borger-odoorn.nl
 cmsoo.borne.nl
 cmsoo.coevorden.nl
 cmsoo.culemborg.nl
+cmsoo.duiven.nl
 coevorden.nl
 cognitatie.acc.omgevingswet.overheid.nl
 cognitatie.omgevingswet.overheid.nl
@@ -1648,6 +1656,9 @@ dtestloket.brielle.nl
 dtestmidoffice.brielle.nl
 dtestmidoffice.coevorden.nl
 duinoordfietst.denhaag.nl
+duiven-checker-preprod.duiven.nl
+duiven-checker.duiven.nl
+duiven.nl
 duo2-test.belastingdienst.nl
 duo2.belastingdienst.nl
 durp.drechterland.nl
@@ -1754,6 +1765,7 @@ edienstenburgerzaken-test.dongen.nl
 edienstenburgerzaken-test.dordrecht.nl
 edienstenburgerzaken-test.drechterland.nl
 edienstenburgerzaken-test.dronten.nl
+edienstenburgerzaken-test.duiven.nl
 edienstenburgerzaken-test.gemeenteberkelland.nl
 edienstenburgerzaken.aalsmeer.nl
 edienstenburgerzaken.aalten.nl
@@ -1786,6 +1798,7 @@ edienstenburgerzaken.dongen.nl
 edienstenburgerzaken.dordrecht.nl
 edienstenburgerzaken.drechterland.nl
 edienstenburgerzaken.dronten.nl
+edienstenburgerzaken.duiven.nl
 edienstenburgerzaken.gemeenteberkelland.nl
 edienstenburgerzaken.test.aalsmeer.nl
 edienstenburgerzaken.test.amstelveen.nl
@@ -2092,6 +2105,7 @@ formulieren-g4-acc.amsterdam.nl
 formulieren-test.beesel.nl
 formulieren-test.bronckhorst.nl
 formulieren-test.culemborg.nl
+formulieren-test.duiven.nl
 formulieren.acc.amsterdam.nl
 formulieren.almere.nl
 formulieren.amersfoort.nl
@@ -2106,6 +2120,7 @@ formulieren.dalfsen.nl
 formulieren.defryskemarren.nl
 formulieren.denhaag.nl
 formulieren.druten.nl
+formulieren.duiven.nl
 formulieren1.amsterdam.nl
 formulierenacc.breda.nl
 formulierenaccdirect.breda.nl
@@ -2789,6 +2804,7 @@ kaarten-demo.overheid.nl
 kaarten.boxtel.nl
 kaarten.buren.nl
 kaarten.deventer.nl
+kaarten.duiven.nl
 kaarten.gemeenteberkelland.nl
 kaartviewer.barneveld.nl
 kadbrkwkpd.deventer.nl
@@ -2948,6 +2964,7 @@ loket.coevorden.nl
 loket.dantumadiel.frl
 loket.diemen.nl
 loket.dordrecht.nl
+loket.duiven.nl
 loket.overheid.nl
 loket.test.aalsmeer.nl
 loket.test.amstelveen.nl
@@ -3333,7 +3350,9 @@ msm.almelo.nl
 msoid.arnhem.nl
 msp-a.logius.nl
 mta-sts.belastingdienst.nl
+mta-sts.duiven.nl
 mta-sts.pop.deventer.nl
+mta-sts.raad.duiven.nl
 mta.nieuwsbrief.amsterdam.nl
 mtls-tmx-dap-eu.acc.belastingdienst.nl
 mtls-tmx-dap-eu.belastingdienst.nl
@@ -3801,6 +3820,7 @@ piwik.bodegraven-reeuwijk.nl
 piwik.breda.nl
 piwik.data.amsterdam.nl
 piwik.datapunt.amsterdam.nl
+piwik.duiven.nl
 piwikacc.breda.nl
 pix-ia-sth.alkmaar.nl
 pix-ia-stk.alkmaar.nl
@@ -3958,6 +3978,7 @@ preprod.vergunningintaker.bernheze.org
 preprod.zoekdienst.overheid.nl
 preprodbroker.aalten.nl
 preprodbroker.bernheze.org
+preprodbroker.duiven.nl
 preprodgdintaker.diemen.nl
 preprodscbroker.diemen.nl
 preproductie.aalten.nl
@@ -5055,6 +5076,7 @@ vergaderen.amsterdam.nl
 vergunning.amsterdam.nl
 vergunningcheck.amsterdam.nl
 vergunningen.dronten.nl
+vergunningen.duiven.nl
 vergunningintaker-preprod.aalten.nl
 vergunningintaker.aalten.nl
 vergunningintaker.bernheze.org
@@ -5535,6 +5557,7 @@ www.dro.amsterdam.nl
 www.dronten.nl
 www.druten.nl
 www.duinoordfietst.denhaag.nl
+www.duiven.nl
 www.duurzaam.alphenaandenrijn.nl
 www.duurzaam.assen.nl
 www.duurzaam.barneveld.nl
@@ -5680,6 +5703,7 @@ www.slimbereikbaar.assen.nl
 www.slotervaart.amsterdam.nl
 www.smartatsea.denhaag.nl
 www.smartcity.denhaag.nl
+www.socialekaart.duiven.nl
 www.solliciterenbij.amsterdam.nl
 www.speleninoost.amsterdam.nl
 www.speleninzuid.amsterdam.nl

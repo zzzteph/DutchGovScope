@@ -16,8 +16,8 @@ mail
 preproductie
 probeer
 felix
-test
 loket
+test
 digikoppeling
 acceptatie
 acc
@@ -44,13 +44,13 @@ werkenbij
 api.meldingen
 remote
 mijnzorg
+broker
 raad
 zaken
 omgevingsvisie
 parkeren
 enterpriseenrollment
 opendata
-broker
 openpdc
 openpub
 zaaksysteem-accept
@@ -58,6 +58,7 @@ hybrid
 mijninkomen
 kaart
 testeloket
+cmsoo
 cloudadapter-test
 cloudadapter
 smtp
@@ -71,7 +72,6 @@ snelbalie
 digikoppeling-test
 siam
 nieuwsbrief
-cmsoo
 dacceptatieloket
 dacceptatiemidoffice
 dloket
@@ -94,6 +94,7 @@ gemeente
 mks
 bgt
 connect
+kaarten
 pki
 cms
 feeds
@@ -104,6 +105,8 @@ meldingen-acc
 loket.test
 denkmee
 izaaksuite
+piwik
+belastingen
 thuiswerken
 afvalkalender
 www.duurzaam
@@ -125,7 +128,7 @@ contentbeheer.acceptatie
 contentbeheer
 simcms-open
 zaken.acceptatie
-kaarten
+formulieren-test
 doemee
 mdm
 AutoDiscover
@@ -139,6 +142,7 @@ start
 mobiel
 omgevingswet
 www.acceptatie
+preprodbroker
 college
 gisib
 praatmee
@@ -148,8 +152,6 @@ wachtwoord
 bis
 flowmailer-tracking
 parkeren-test
-piwik
-belastingen
 maps
 stadsarchief
 exchange
@@ -180,7 +182,6 @@ support
 test-intranet
 gasten
 samen
-formulieren-test
 data-test
 intranet-acc
 acceptatieloket
@@ -188,6 +189,7 @@ uca
 www.doemee
 wozloket
 filecap
+burgerloket
 outlook
 a-feeds
 a-magazines
@@ -210,6 +212,7 @@ download
 fibt1
 fibt2.acc
 filetransfer
+mta-sts
 otp
 rap
 services.acc
@@ -234,7 +237,6 @@ inloggen.belastingportaal
 inloggen.belastingportaal.acc
 edienstenburgerzaken.test
 documenten
-preprodbroker
 raadsnet
 vergunningintaker
 geovisia
@@ -380,7 +382,6 @@ connect.test
 contentbeheer.test
 zaken.test
 ris
-burgerloket
 filr
 ondernemersloket
 archief
@@ -394,6 +395,7 @@ intra
 centric
 jongin
 www.jongin
+vergunningen
 a-cms
 a-cms1
 a-cms2
@@ -794,7 +796,6 @@ mm.ont
 moodle.vcdn
 moodleont.vcdn
 moodletst.vcdn
-mta-sts
 mtls-tmx-dap-eu.acc
 mtls-tmx-dap-eu
 mul-mbc
@@ -4250,10 +4251,15 @@ test-cmsdok
 test-dok
 test.afspraakmaken
 test.services
-vergunningen
 forms-test
 kcv
 www.remote
 www.zorgloket
 zmm
 zorgloket
+acceptatiebelastingen
+acceptatievergunningen
+duiven-checker-preprod
+duiven-checker
+mta-sts.raad
+www.socialekaart
