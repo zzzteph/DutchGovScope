@@ -22,8 +22,8 @@ data
 digikoppeling
 preproductie
 werkplek
-api.meldingen
 acc
+api.meldingen
 opendata
 mijnzorg
 portal
@@ -37,6 +37,7 @@ parkeren
 eloket
 formulieren
 waarmerk
+afspraak
 werkenbij
 open
 mijnzorg-acc
@@ -49,7 +50,6 @@ kaart
 snelbalie
 duurzaam
 login
-afspraak
 feeds
 magazines
 formulier
@@ -58,6 +58,7 @@ govroam
 portaal
 e
 kennisbank
+mailing
 api.meldingen-acc
 meldingen-acc
 remote
@@ -78,13 +79,13 @@ smtp
 english
 evenementen
 start
-mailing
 geo
 loket.test
 wachtwoord
 bis
 flowmailer-tracking
 mijninkomen
+omgevingsvisie
 belastingbalie
 belastingen
 maps
@@ -161,6 +162,7 @@ simform
 test-ipa
 college
 gisib
+praatmee
 edienstenaanvragensd-acceptatie
 edienstenaanvragensd
 edienstenmijninkomen-acceptatie
@@ -173,7 +175,6 @@ autorisatie
 izaaksuite
 osbacc
 www.werkenbij
-omgevingsvisie
 parkeren-test
 piwik
 veiligmailen
@@ -185,6 +186,7 @@ planon
 preprod-mijninkomen
 stadsarchief
 thuiswerken
+afvalkalender
 centrumbegroot
 exchange
 gemeentearchief
@@ -1521,7 +1523,6 @@ gisibapi-test
 gisibapi
 gisibgeoserver-test
 gisibgeoserver
-praatmee
 web
 www.praatmee
 a2b-rtr
@@ -1689,7 +1690,6 @@ voorschool
 wachtwoordreset
 wifiguestportal
 wijkteams
-afvalkalender
 alleplannen.centrumbegroot
 api.openstad
 begroten.centrumbegroot
@@ -3345,3 +3345,7 @@ voormeldingen
 wim2-acc
 xential
 zaalhuur
+brsoribi01
+brsoribi02
+grmks06
+jcccloud

@@ -134,6 +134,7 @@ https://acc.bereikbaarheid.amsterdam.nl
 https://acc.bernheze.org
 https://acc.bmidms.amsterdam.nl
 https://acc.boekel.nl
+https://acc.borsele.nl
 https://acc.bp.data.amsterdam.nl
 https://acc.fblocatielijst.amsterdam.nl
 https://acc.formulieren.almere.nl
@@ -176,6 +177,7 @@ https://afs.opl.amsterdam.nl
 https://afs.tst.amsterdam.nl
 https://afspraak.arnhem.nl
 https://afspraak.barneveld.nl
+https://afspraak.borsele.nl
 https://afspraak.gemeenteberkelland.nl
 https://afspraken.alkmaar.nl
 https://afspraken.amersfoort.nl
@@ -187,6 +189,7 @@ https://afspraken.beuningen.nl
 https://afspraken.beverwijk.nl
 https://afval.assen.nl
 https://afvalkalender.alphenaandenrijn.nl
+https://afvalkalender.borsele.nl
 https://agbi.apeldoorn.nl
 https://agwp01.azweu.alkmaar.nl
 https://aip.amsterdam.nl
@@ -362,6 +365,7 @@ https://boekel.nl
 https://bomen.amsterdam.nl
 https://borger-odoorn.nl
 https://borne.nl
+https://borsele.nl
 https://bounces-eps.amsterdam.nl
 https://bouwdossiers.amsterdam.nl
 https://bp.data.amsterdam.nl
@@ -738,6 +742,7 @@ https://iburgerzaken.bodegraven-reeuwijk.nl
 https://iburgerzaken.boekel.nl
 https://iburgerzaken.borger-odoorn.nl
 https://iburgerzaken.borne.nl
+https://iburgerzaken.borsele.nl
 https://iburgerzaken.gemeentebeek.nl
 https://iburgerzaken.gemeentebest.nl
 https://id-beheer-erfpacht-acc.amsterdam.nl
@@ -799,6 +804,7 @@ https://jaarrekening.arnhem.nl
 https://jaarverslag.arnhem.nl
 https://jccapi.bergeijk.nl
 https://jccapi.bladel.nl
+https://jcccloud.borsele.nl
 https://join.bijzondereprojecten.acc.amsterdam.nl
 https://jongerenraad.barneveld.nl
 https://joost.beuningen.nl
@@ -854,6 +860,7 @@ https://magazines.amsterdam.nl
 https://mail.apeldoorn.nl
 https://mail.bloemendaal.nl
 https://mailing.alphenaandenrijn.nl
+https://mailing.borsele.nl
 https://mailing.gemeentebeek.nl
 https://management.api.amsterdam.nl
 https://map.data.amsterdam.nl
@@ -983,6 +990,7 @@ https://oidc.erfpachtzakelijk-ont.amsterdam.nl
 https://oldenhove.doemee.bloemendaal.nl
 https://omgevingsvisie.almelo.nl
 https://omgevingsvisie.borger-odoorn.nl
+https://omgevingsvisie.borsele.nl
 https://omgevingsvisie.doemee.bloemendaal.nl
 https://omslagroute.amsterdam.nl
 https://ondernemers.bloemendaal.nl
@@ -1066,6 +1074,7 @@ https://portal.borne.nl
 https://portal.data.alkmaar.nl
 https://portal.ggd.amsterdam.nl
 https://praatmee.alblasserdam.nl
+https://praatmee.borsele.nl
 https://prd.afs.amsterdam.nl
 https://preprod-mijn.albrandswaard.nl
 https://preprod-mijn.barendrecht.nl
@@ -1391,6 +1400,7 @@ https://www.bodegraven-reeuwijk.nl
 https://www.boekel.nl
 https://www.borger-odoorn.nl
 https://www.borne.nl
+https://www.borsele.nl
 https://www.buurtbudget.amsterdam.nl
 https://www.buurtbudgetnoord.amsterdam.nl
 https://www.buurtbudgetzuid.amsterdam.nl
