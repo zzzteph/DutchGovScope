@@ -9,14 +9,14 @@ mijn
 mail
 afspraken
 simsite
-webmail
 intranet
+webmail
 digikoppeling
 simcms
 secure
 preproductie
-acceptatie
 probeer
+acceptatie
 loket
 test
 felix
@@ -27,15 +27,15 @@ werkplek
 adfs
 dkd
 portal
+eloket
 afspraak
 api.meldingen
-eloket
 waarmerk
 betalen
+data
 open
 parkeren
 gemeenteraad
-data
 geo
 pv
 ruimtelijkeplannen
@@ -44,12 +44,12 @@ zaaksysteem-accept
 omgevingsvisie
 iparticipatie
 raad
+testeloket
 formulier
 werkenbij
 broker
 openpdc
 osb
-testeloket
 dacceptatieloket
 dacceptatiemidoffice
 loket.acceptatie
@@ -88,6 +88,7 @@ nieuwsbrief
 woningbouwkaart
 cloudadapter
 kaarten
+pki
 filecap
 opendata
 portaal
@@ -104,7 +105,6 @@ acc-broker
 belastingloket
 connect
 samen
-pki
 dtestloket
 smtp
 e
@@ -215,6 +215,7 @@ zaken.acceptatie
 guest
 publicroam
 formulieren-test
+data-test
 jccapi
 inloggen
 ro
@@ -308,7 +309,6 @@ squit2020publiceren
 storefront
 fmreturn
 iarchief
-data-test
 intranet-acc
 acceptatieloket
 klimaatplein
@@ -338,6 +338,8 @@ admin.openstad
 auth.openstad
 img.openstad
 intra
+jongin
+www.jongin
 afspraakmaken
 mx2
 e.openstad
@@ -556,9 +558,7 @@ zorgaanbieders
 bestuur
 acceptatie-open
 centric
-jongin
 webdav
-www.jongin
 router
 digitalebalie
 klantportaal.acc
@@ -5314,3 +5314,4 @@ siem
 siem2
 test-cmsextranet
 test-extranet
+geoloket
