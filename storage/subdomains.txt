@@ -14,9 +14,9 @@ simsite
 webmail
 mail
 probeer
+digikoppeling
 preproductie
 loket
-digikoppeling
 felix
 test
 acceptatie
@@ -93,6 +93,7 @@ berichten
 extranet
 financien
 beeldbank
+digikoppeling.test
 gemeente
 mks
 parkeren-acc
@@ -116,7 +117,6 @@ www.duurzaam
 ns
 qr
 atlas
-digikoppeling.test
 apps
 www.acc
 www.raad
