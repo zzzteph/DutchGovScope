@@ -7,12 +7,12 @@ edienstenburgerzaken
 edienstenburgerzaken-test
 afspraken
 intranet
+mail
 secure
 simcms
-webmail
-mail
-simsite
 mijn
+webmail
+simsite
 digikoppeling
 preproductie
 probeer
@@ -21,8 +21,8 @@ test
 felix
 loket
 acc
-dkd
 werkplek
+dkd
 formulieren
 data
 meldingen
@@ -30,10 +30,10 @@ portal
 afspraak
 adfs
 betalen
+open
 geo
 pv
 waarmerk
-open
 broker
 eloket
 gemeenteraad
@@ -43,6 +43,7 @@ werkenbij
 loket.acceptatie
 iparticipatie
 ruimtelijkeplannen
+zaaksysteem-accept
 parkeren
 formulier
 enterpriseregistration
@@ -51,7 +52,7 @@ mijnzorg
 raad
 zaken
 openpdc
-zaaksysteem-accept
+osb
 omgevingsvisie
 digikoppeling-test
 enterpriseenrollment
@@ -64,7 +65,6 @@ dmidoffice
 opendata
 test-ipa
 openpub
-osb
 hybrid
 mijninkomen
 piwik
@@ -90,6 +90,7 @@ acc-broker
 woningbouwkaart
 connect
 pki
+filecap
 evenementen
 e
 api.meldingen-acc
@@ -107,7 +108,6 @@ bgt
 kaarten
 doemee
 mdm
-filecap
 AutoDiscover
 cms
 feeds
@@ -212,6 +212,7 @@ acceptatieloket
 uca
 ro
 squit2go
+uc
 www.doemee
 acc.piwik
 www.webmail
@@ -261,6 +262,7 @@ repository
 social
 verkeersbesluiten
 www.mijn
+zoek
 belastingportaal.acc
 fs
 inloggen.belastingportaal
@@ -362,6 +364,7 @@ notificaties
 objecten
 objecttypen
 openklant
+owa
 test-formulier
 test-keycloak
 test-mijn
@@ -403,7 +406,6 @@ csc
 digid-parkeervergunningen
 mbg1
 micollab
-uc
 extern
 wozloket-acc
 mam
@@ -1606,7 +1608,6 @@ www.perf.omgevingswet
 www.pre.omgevingswet
 www.tst2905.omgevingswet
 zdpushservice
-zoek
 zoekdienst-preprod
 zoekdienst
 zoeken.ondernemersplein
@@ -3071,7 +3072,6 @@ digikoppeling-mks
 geohr
 mijnplein
 organisatieontwikkeling
-owa
 point
 scorpio
 slimbereikbaar
@@ -4467,3 +4467,9 @@ www.nieuwsbrief
 www.toegankelijk
 www.werkpakt
 zwik.openstad
+cmswhatsepe
+dkdn
+dktstdn
+sstpvpn
+whatsepe
+www.filecap
