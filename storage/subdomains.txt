@@ -9,8 +9,8 @@ mijn
 afspraken
 mail
 simsite
-webmail
 intranet
+webmail
 simcms
 digikoppeling
 secure
@@ -28,20 +28,20 @@ afspraak
 meldingen
 portal
 adfs
+betalen
 open
 gemeenteraad
 waarmerk
-betalen
 data
 geo
 eloket
 vpn
+pv
 ruimtelijkeplannen
 zaaksysteem-accept
 omgevingsvisie
 parkeren
 api.meldingen
-pv
 broker
 iparticipatie
 raad
@@ -64,6 +64,7 @@ govroam
 remote
 mijnzorg
 mijninkomen
+snelbalie
 digikoppeling-test
 login
 cmsoo
@@ -74,7 +75,6 @@ piwik
 belastingbalie
 kaart
 preprod-mijninkomen
-snelbalie
 berichten
 nieuwsbrief
 filecap
@@ -87,6 +87,7 @@ verkiezingen
 osbacc
 belastingen
 duurzaam
+snelbaliepp
 extranet
 siam
 financien
@@ -100,13 +101,13 @@ woningbouwkaart
 cloudadapter
 connect
 kaarten
+pki
 smtp
 e
 mailing
 mijnzorg-acc
 parkeren-test
 preprod
-snelbaliepp
 qr
 email
 parkeren-acc
@@ -117,7 +118,6 @@ simcms-open
 test-intranet
 samen
 doemee
-pki
 dtestloket
 mdm
 magazines
@@ -227,6 +227,7 @@ services
 sharepoint
 start
 website
+werken
 zoeken
 www.mijn
 zoek
@@ -304,6 +305,11 @@ data-test
 intranet-acc
 jccapi
 acceptatieloket
+klimaatplein
+mijnsociaalplein
+mijnsociaalportaal-acc
+mijnsociaalportaal
+preprod-mijnsociaalplein
 www.doemee
 www.webmail
 wozloket
@@ -354,7 +360,6 @@ smtp1
 smtp2
 toestemming
 webapps
-werken
 dns1
 koppelvlak
 ondernemersplein
@@ -464,12 +469,7 @@ sentry
 data.gemnet
 intranetcms
 aovpn
-klimaatplein
 live
-mijnsociaalplein
-mijnsociaalportaal-acc
-mijnsociaalportaal
-preprod-mijnsociaalplein
 esb
 liquit
 digikoppelingtest
@@ -509,6 +509,7 @@ test-secure
 mbg
 medewerkers
 qr-acc
+publicatie
 squit2go-backoffice
 www.afspraak
 connect.test
@@ -3588,7 +3589,6 @@ servicebus
 makelaar-01
 nlgemctc
 publicatie-test
-publicatie
 webcon
 www.squit2go-backoffice
 acceptatiemidoffice
