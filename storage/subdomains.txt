@@ -9,8 +9,8 @@ mijn
 afspraken
 mail
 simsite
-intranet
 webmail
+intranet
 simcms
 digikoppeling
 secure
@@ -28,10 +28,10 @@ dkd
 afspraak
 adfs
 portal
+waarmerk
 betalen
 open
 gemeenteraad
-waarmerk
 data
 geo
 eloket
@@ -46,19 +46,19 @@ raad
 broker
 iparticipatie
 osb
+dacceptatieloket
+dacceptatiemidoffice
 werkenbij
 loket.acceptatie
 openpdc
 enterpriseenrollment
 testeloket
-dacceptatieloket
-dacceptatiemidoffice
+dloket
+dmidoffice
 formulier
 test-ipa
 zaken
 hybrid
-dloket
-dmidoffice
 enterpriseregistration
 govroam
 remote
@@ -95,6 +95,7 @@ siam
 financien
 digikoppeling.test
 apps
+email
 gemeente
 mks
 acc-broker
@@ -102,6 +103,7 @@ woningbouwkaart
 connect
 kaarten
 pki
+dtestloket
 smtp
 e
 mailing
@@ -110,7 +112,6 @@ vergunningintaker
 parkeren-test
 preprod
 qr
-email
 parkeren-acc
 bgt
 belastingloket
@@ -119,8 +120,8 @@ simcms-open
 test-intranet
 samen
 doemee
-dtestloket
 mdm
+dtestmidoffice
 magazines
 evenementen
 belastingportaal
@@ -133,6 +134,7 @@ www.acc
 gis
 acc-podiumd-logs
 bag
+sip
 sts
 test-digikoppeling
 obsurv
@@ -142,8 +144,8 @@ test-cmsintranet
 gasten
 uca
 squit2go
+uc
 AutoDiscover
-dtestmidoffice
 cms
 feeds
 english
@@ -177,6 +179,7 @@ api.betalen
 openzaak
 parkeervergunningen
 sharefile
+telewerken
 www.raad
 mijngeldzaken
 acc-contact
@@ -190,9 +193,9 @@ acc-openklant
 acc-openzaak
 afval
 keycloak
+lyncdiscover
 openformulieren
 podiumd-logs
-sip
 klantcontact
 meedoen
 cmsintranet
@@ -205,9 +208,9 @@ formulieren-test
 jccapi
 inloggen
 ro
-uc
 www.gemeenteraad
 acc.piwik
+www.webmail
 mobile
 xential
 jaarstukken
@@ -264,7 +267,6 @@ werkenvoor
 ftp
 hor
 legacy
-telewerken
 top
 auth
 desktop
@@ -276,7 +278,6 @@ rooster
 sslvpn
 woo
 bastion365
-lyncdiscover
 media
 meet
 notificaties
@@ -312,7 +313,6 @@ mijnsociaalportaal
 preprod-mijnsociaalplein
 micollab
 www.doemee
-www.webmail
 wozloket
 mam
 2secure
@@ -439,6 +439,7 @@ www.onderzoek
 www.ruimtelijkeplannen
 digitaleplannen
 gbi
+mo
 ndes
 digid
 teleweb
@@ -588,6 +589,7 @@ lynccon
 lyncweb
 sera
 testbelastingloket
+bzg1-acc
 a-cms
 a-cms1
 a-cms2
@@ -3106,7 +3108,6 @@ matenpark
 medeleven
 mheenpark
 mijngeldzakenacc
-mo
 ndesapeldoorn
 nedbrw
 nedbrwacc
@@ -5159,7 +5160,6 @@ acc-tripleforms
 api.heitje
 api.melding.acc
 api.melding
-bzg1-acc
 bzg1
 camera-mkr
 casarray
@@ -5229,3 +5229,18 @@ inloggenapv-preprod
 inloggenapv
 monitoring
 preprod-meedoen
+esb-nhr
+internwifi
+ld-01
+mk01
+traveler
+trefnet
+ucaccess1
+ucav1
+ucweb1-ext
+ucwebcon1
+www.internwifi
+www.ld-01
+www.sip
+www.telewerken
+www.trefnet
