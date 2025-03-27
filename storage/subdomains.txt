@@ -4,26 +4,27 @@ autodiscover
 iburgerzaken
 ibzpink
 edienstenburgerzaken
-mijn
 afspraken
+simcms
+mijn
 edienstenburgerzaken-test
 intranet
-simcms
 mail
 simsite
 probeer
+felix
 secure
 loket
 meldingen
-felix
 webmail
 data
 test
+preproductie
 api.meldingen
 digikoppeling
-preproductie
 werkplek
 opendata
+enterpriseregistration
 vpn
 loket.acceptatie
 acceptatie
@@ -33,7 +34,6 @@ pv
 acc
 waarmerk
 adfs
-enterpriseregistration
 werkenbij
 open
 mijnzorg-acc
@@ -59,6 +59,7 @@ openpub
 osb
 zaaksysteem-accept
 parkeren
+enterpriseenrollment
 login
 snelbaliepp
 www.duurzaam
@@ -84,7 +85,6 @@ belastingbalie
 belastingen
 gemeenteraad
 digikoppeling-test
-enterpriseenrollment
 berichten
 extranet
 ns
@@ -212,6 +212,7 @@ fmreturn
 simcms-preproductie
 data-test
 data.gemnet
+jccapi
 uca
 liquit
 a-cms
@@ -3168,7 +3169,6 @@ privacybewustzijn
 programmavan
 testberichten
 drupalintranet
-jccapi
 simcmsintra
 BGNVSV002
 aovpn
@@ -3284,3 +3284,4 @@ sophos
 test-bink
 test-cmsbink
 uc
+pki
