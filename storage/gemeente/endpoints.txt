@@ -64,6 +64,7 @@ http://autodiscover.hardinxveld-giessendam.nl
 http://autodiscover.hattem.nl
 http://autodiscover.heemskerk.nl
 http://autodiscover.heerde.nl
+http://autodiscover.heeze-leende.nl
 http://beekdaelen.nl
 http://bergeijk.nl
 http://bergen.nl
@@ -207,6 +208,7 @@ https://Edienstenburgerzaken-test.etten-leur.nl
 https://Infra-summit.acc.amsterdam.nl
 https://Infra-summit.tst.amsterdam.nl
 https://VRiSeLoket.cranendonck.nl
+https://WOZ-loket.heeze-leende.nl
 https://a-consent.sarphati.amsterdam.nl
 https://a-surveys3.ggd.amsterdam.nl
 https://aaenhunze.nl
@@ -442,6 +444,7 @@ https://afspraken.eijsden-margraten.nl
 https://afspraken.ermelo.nl
 https://afspraken.goes.nl
 https://afspraken.goirle.nl
+https://afspraken.heeze-leende.nl
 https://afspraken2.gorinchem.nl
 https://afval.assen.nl
 https://afval.diemen.nl
@@ -740,6 +743,7 @@ https://berichten.cranendonck.nl
 https://berichten.dordrecht.nl
 https://berichten.gilzerijen.nl
 https://berichten.gorinchem.nl
+https://berichten.heeze-leende.nl
 https://bermod-fa.amsterdam.nl
 https://bermod.amsterdam.nl
 https://bermod2.amsterdam.nl
@@ -1389,6 +1393,7 @@ https://felix.bunschoten.nl
 https://felix.deurne.nl
 https://felix.halderberge.nl
 https://felix.heerlen.nl
+https://felix.heeze-leende.nl
 https://felixpdc.doesburg.nl
 https://fgt.amstelveen.nl
 https://filecap.breda.nl
@@ -1724,6 +1729,7 @@ https://iburgerzaken.hattem.nl
 https://iburgerzaken.heemskerk.nl
 https://iburgerzaken.heerde.nl
 https://iburgerzaken.heerlen.nl
+https://iburgerzaken.heeze-leende.nl
 https://id-beheer-erfpacht-acc.amsterdam.nl
 https://id-beheer-erfpacht-dev.amsterdam.nl
 https://id-beheer-erfpacht-ont.amsterdam.nl
@@ -2569,6 +2575,7 @@ https://preproductie.bergeijk.nl
 https://preproductie.beuningen.nl
 https://preproductie.bladel.nl
 https://preproductie.goeree-overflakkee.nl
+https://preproductie.heeze-leende.nl
 https://prijsvraag-zwembad.apeldoorn.nl
 https://privacybewustzijn.bergendal.nl
 https://private.delft.nl
@@ -2761,6 +2768,7 @@ https://simsite.beekdaelen.nl
 https://simsite.bladel.nl
 https://simsite.bunschoten.nl
 https://simsite.geertruidenberg.nl
+https://simsite.heeze-leende.nl
 https://sip.diemen.nl
 https://sip.ggd.amsterdam.nl
 https://siraskalot.delft.nl
@@ -3246,6 +3254,7 @@ https://woningbouwkaart.coevorden.nl
 https://woningbouwkaart.dewolden.nl
 https://woningbouwkaart.eersel.nl
 https://woningbouwkaart.eindhoven.nl
+https://woningbouwkaart.heeze-leende.nl
 https://woningdossier.assen.nl
 https://woo-acc.denhaag.nl
 https://woo.arnhem.nl
@@ -3260,6 +3269,7 @@ https://woww.boxtel.nl
 https://woz-loket.coevorden.nl
 https://woz-loket.hardenberg.nl
 https://woz-loket.harlingen.nl
+https://woz-loket.heeze-leende.nl
 https://woz-portaal.drimmelen.nl
 https://wozloket-acc.borger-odoorn.nl
 https://wozloket-acc.coevorden.nl
@@ -3441,6 +3451,7 @@ https://www.havenkwartieraanzet.denhaag.nl
 https://www.heemskerk.nl
 https://www.heerde.nl
 https://www.heerenveen.nl
+https://www.heeze-leende.nl
 https://www.heitje.heerlen.nl
 https://www.hildebrandplein.denhaag.nl
 https://www.houtwijkbegroot.denhaag.nl

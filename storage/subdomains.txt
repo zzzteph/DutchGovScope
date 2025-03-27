@@ -6,8 +6,8 @@ ibzpink
 edienstenburgerzaken
 edienstenburgerzaken-test
 mijn
-mail
 afspraken
+mail
 simsite
 webmail
 intranet
@@ -64,6 +64,7 @@ govroam
 remote
 mijnzorg
 mijninkomen
+digikoppeling-test
 login
 cmsoo
 cloudadapter-test
@@ -74,7 +75,7 @@ belastingbalie
 kaart
 preprod-mijninkomen
 snelbalie
-digikoppeling-test
+berichten
 nieuwsbrief
 filecap
 opendata
@@ -86,7 +87,7 @@ verkiezingen
 osbacc
 belastingen
 duurzaam
-berichten
+extranet
 siam
 financien
 beeldbank
@@ -95,6 +96,7 @@ apps
 gemeente
 mks
 acc-broker
+woningbouwkaart
 cloudadapter
 connect
 kaarten
@@ -105,12 +107,10 @@ mijnzorg-acc
 parkeren-test
 preprod
 snelbaliepp
-extranet
 qr
 email
 parkeren-acc
 bgt
-woningbouwkaart
 belastingloket
 byod
 simcms-open
@@ -156,6 +156,7 @@ fs
 loket.test
 documenten
 preprodbroker
+raadsnet
 denkmee
 simform
 college
@@ -209,6 +210,7 @@ mobile
 xential
 jaarstukken
 key2gbav
+woz-loket
 begroting
 cryptshare
 transfer
@@ -229,7 +231,6 @@ zoeken
 www.mijn
 zoek
 www.acceptatie
-raadsnet
 toegang
 vergunningintaker-preprod
 geovisia
@@ -312,7 +313,6 @@ erfgoed
 matomo
 dkdtest
 _autodiscover._tcp
-woz-loket
 burgerloket
 filr
 mijnzaken
@@ -514,6 +514,7 @@ www.afspraak
 connect.test
 contentbeheer.test
 zaken.test
+pkio1
 ris
 suite4burgerzaken-prod
 efacturen
@@ -547,6 +548,7 @@ webdav
 www.jongin
 bestanden
 router
+digitalebalie
 klantportaal.acc
 prod
 mobility
@@ -3607,7 +3609,6 @@ wijzer.test
 www.doe-mee
 www.woz-loket
 VRiSeLoket
-pkio1
 ptr
 vriseloket
 dvg
@@ -4267,7 +4268,6 @@ subsidiebackoffice
 wijken
 G0498
 datab
-digitalebalie
 durp
 g0498
 sb
@@ -5220,3 +5220,5 @@ uipath-orchestrator
 vacatures
 vf.heitje
 www.heitje
+WOZ-loket
+vris-brk

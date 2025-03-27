@@ -38,6 +38,7 @@ NLGEMBRC.blaricum.nl
 Squitpub-prod.haarlem.nl
 Top.apeldoorn.nl
 VRiSeLoket.cranendonck.nl
+WOZ-loket.heeze-leende.nl
 _autodiscover._tcp.buren.nl
 _autodiscover._tcp.debilt.nl
 _autodiscover._tcp.haaksbergen.nl
@@ -479,6 +480,7 @@ afspraken.goirle.nl
 afspraken.groningen.nl
 afspraken.gulpen-wittem.nl
 afspraken.haaksbergen.nl
+afspraken.heeze-leende.nl
 afspraken2.gorinchem.nl
 afval.acc.denhaag.nl
 afval.assen.nl
@@ -817,6 +819,7 @@ autodiscover.hattem.nl
 autodiscover.heemskerk.nl
 autodiscover.heerde.nl
 autodiscover.heerlen.nl
+autodiscover.heeze-leende.nl
 autodiscover.iba.amsterdam.nl
 autodiscover.leefbaar.haarlemmermeer.nl
 autodiscover.noord.amsterdam.nl
@@ -1020,6 +1023,7 @@ berichten.cranendonck.nl
 berichten.dordrecht.nl
 berichten.gilzerijen.nl
 berichten.gorinchem.nl
+berichten.heeze-leende.nl
 berichtenverkeer.authenticatie.alkmaar.nl
 berichtenverkeer.gouda.nl
 berichtverkeer.acc.amsterdam.nl
@@ -1558,6 +1562,7 @@ digikoppeling-test.cranendonck.nl
 digikoppeling-test.echt-susteren.nl
 digikoppeling-test.elburg.nl
 digikoppeling-test.gemnet.ede.nl
+digikoppeling-test.heeze-leende.nl
 digikoppeling-tst.gemeente.groningen.nl
 digikoppeling.aaenhunze.nl
 digikoppeling.amstelveen.nl
@@ -1592,6 +1597,7 @@ digikoppeling.hattem.nl
 digikoppeling.heemskerk.nl
 digikoppeling.heerde.nl
 digikoppeling.heerlen.nl
+digikoppeling.heeze-leende.nl
 digikoppeling.test.amstelveen.nl
 digikoppeling.test.bernheze.org
 digikoppeling.test.blaricum.nl
@@ -1617,6 +1623,7 @@ digitaalnachtregister.alphen-chaam.nl
 digitaalnachtregister.baarle-nassau.nl
 digitaalnachtregister.gilzerijen.nl
 digitalebalie.drechterland.nl
+digitalebalie.heeze-leende.nl
 digitaleplannen.apeldoorn.nl
 digitaleplannen.hardenberg.nl
 digitaletweeling.alkmaar.nl
@@ -2113,6 +2120,7 @@ extranet.brielle.nl
 extranet.bronckhorst.nl
 extranet.eemsdelta.nl
 extranet.gemeentebeek.nl
+extranet.heeze-leende.nl
 extranet.vga.amsterdam.nl
 extranetcms-acc.eemsdelta.nl
 extranetcms.eemsdelta.nl
@@ -2151,6 +2159,7 @@ felix.gemeentebeek.nl
 felix.halderberge.nl
 felix.harlingen.nl
 felix.heerlen.nl
+felix.heeze-leende.nl
 felixpdc.doesburg.nl
 fgt.amstelveen.nl
 fibu.amsterdam.nl
@@ -2605,6 +2614,7 @@ heelenschoon.amsterdam.nl
 heemskerk.nl
 heerenveen.nl
 heerlen.nl
+heeze-leende.nl
 heiligen.deventer.nl
 heitje.heerlen.nl
 heliostaat.heerlen.nl
@@ -2755,6 +2765,7 @@ iburgerzaken.hattem.nl
 iburgerzaken.heemskerk.nl
 iburgerzaken.heerde.nl
 iburgerzaken.heerlen.nl
+iburgerzaken.heeze-leende.nl
 ibzpink.aaenhunze.nl
 ibzpink.achtkarspelen.nl
 ibzpink.almelo.nl
@@ -2815,6 +2826,7 @@ ibzpink.hattem.nl
 ibzpink.heemskerk.nl
 ibzpink.heerde.nl
 ibzpink.heerlen.nl
+ibzpink.heeze-leende.nl
 icm-ast.asten.nl
 id-beheer-erfpacht-acc.amsterdam.nl
 id-beheer-erfpacht-dev.amsterdam.nl
@@ -2964,6 +2976,7 @@ intranet.groningen.nl
 intranet.gulpen-wittem.nl
 intranet.hardenberg.nl
 intranet.harlingen.nl
+intranet.heeze-leende.nl
 intranet.raadsinformatie.amsterdam.nl
 intranetacc.apeldoorn.nl
 intranetcms-acc.bergendal.nl
@@ -4191,6 +4204,7 @@ pki.drimmelen.nl
 pki.dronten.nl
 pki.enkhuizen.nl
 pkio1.cranendonck.nl
+pkio1.heeze-leende.nl
 planboard.groningen.ad.groningen.nl
 planmonitor.acc.amsterdam.nl
 plannen.asten.nl
@@ -4369,6 +4383,7 @@ preproductie.gorinchem.nl
 preproductie.gulpen-wittem.nl
 preproductie.harlingen.nl
 preproductie.heerenveen.nl
+preproductie.heeze-leende.nl
 prijsvraag-zwembad.apeldoorn.nl
 privacybewustzijn.bergendal.nl
 private-test.delft.nl
@@ -4401,6 +4416,7 @@ probeer.goeree-overflakkee.nl
 probeer.halderberge.nl
 probeer.harlingen.nl
 probeer.heerlen.nl
+probeer.heeze-leende.nl
 prod.drechterland.nl
 prod.enkhuizen.nl
 programmabegroting.bronckhorst.nl
@@ -4483,6 +4499,7 @@ raadsleden.eijsden-margraten.nl
 raadsnet.aalten.nl
 raadsnet.bernheze.org
 raadsnet.harlingen.nl
+raadsnet.heeze-leende.nl
 rabbitmq.datapunt.amsterdam.nl
 radius.gemeenteberkelland.nl
 rap.breda.nl
@@ -4810,6 +4827,7 @@ simcms.goeree-overflakkee.nl
 simcms.halderberge.nl
 simcms.harlingen.nl
 simcms.heerlen.nl
+simcms.heeze-leende.nl
 simcms2.beekdaelen.nl
 simcmsintra.bergeijk.nl
 simform-preproductie.achtkarspelen.nl
@@ -4854,6 +4872,7 @@ simsite.goeree-overflakkee.nl
 simsite.gorinchem.nl
 simsite.gulpen-wittem.nl
 simsite.harlingen.nl
+simsite.heeze-leende.nl
 singlegateway.haarlem.nl
 sinterklaas.groningen.nl
 sip.assen.nl
@@ -5535,6 +5554,7 @@ vpn02.denhaag.nl
 vpn365.denhelder.nl
 vraagbaak.doesburg.nl
 vragenlijst.eindhoven.nl
+vris-brk.heeze-leende.nl
 vriseloket.cranendonck.nl
 vrm.acc.amsterdam.nl
 vsp.denhelder.nl
@@ -5787,6 +5807,7 @@ woningbouwkaart.coevorden.nl
 woningbouwkaart.dewolden.nl
 woningbouwkaart.eersel.nl
 woningbouwkaart.eindhoven.nl
+woningbouwkaart.heeze-leende.nl
 woningdossier.assen.nl
 woo-acc.denhaag.nl
 woo.arnhem.nl
@@ -5802,6 +5823,7 @@ woww.boxtel.nl
 woz-loket.coevorden.nl
 woz-loket.hardenberg.nl
 woz-loket.harlingen.nl
+woz-loket.heeze-leende.nl
 woz-portaal-eemnes.baarn.nl
 woz-portaal.drimmelen.nl
 woz.amsterdam.nl
@@ -6130,6 +6152,7 @@ www.heemskerk.nl
 www.heerde.nl
 www.heerenveen.nl
 www.heerlen.nl
+www.heeze-leende.nl
 www.heitje.heerlen.nl
 www.hh2015.groningen.nl
 www.hier.groningen.nl
