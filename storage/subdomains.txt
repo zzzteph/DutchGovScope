@@ -6,18 +6,18 @@ ibzpink
 edienstenburgerzaken
 edienstenburgerzaken-test
 afspraken
+simcms
 intranet
 secure
-simcms
-mijn
 simsite
+mijn
 webmail
 mail
 probeer
-digikoppeling
 preproductie
-loket
+digikoppeling
 felix
+loket
 acceptatie
 test
 acc
@@ -98,6 +98,7 @@ gemeente
 mks
 parkeren-acc
 bgt
+woningbouwkaart
 kaarten
 pki
 mdm
@@ -125,7 +126,6 @@ gis
 mijngeldzaken
 acc-broker
 test-digikoppeling
-woningbouwkaart
 klantcontact
 connect.acceptatie
 contentbeheer.acceptatie
@@ -193,6 +193,7 @@ gasten
 samen
 data-test
 intranet-acc
+jccapi
 acceptatieloket
 uca
 www.doemee
@@ -351,7 +352,6 @@ gisibonline
 sentry
 data.gemnet
 intranetcms
-jccapi
 klimaatplein
 mijnsociaalplein
 mijnsociaalportaal-acc

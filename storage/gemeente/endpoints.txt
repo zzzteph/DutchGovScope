@@ -57,6 +57,7 @@ http://dmb.amsterdam.nl
 http://docgen-acc.amsterdam.nl
 http://docgen-tst.amsterdam.nl
 http://docgen.amsterdam.nl
+http://eersel.nl
 http://email.capelleaandenijssel.nl
 http://extranet-acc.eemsdelta.nl
 http://felix.beekdaelen.nl
@@ -83,6 +84,7 @@ http://participatieprikbord.denhaag.nl
 http://plannen.asten.nl
 http://preproductie.bronckhorst.nl
 http://preproductie.deurne.nl
+http://preproductie.eersel.nl
 http://preproductie.gemeentebeek.nl
 http://redirector.alkmaar.nl
 http://ro.brunssum.nl
@@ -99,8 +101,10 @@ http://simcms.beuningen.nl
 http://simcms.bunschoten.nl
 http://simcms.dalfsen.nl
 http://simcms.deurne.nl
+http://simcms.eersel.nl
 http://simform.beuningen.nl
 http://simsite.doesburg.nl
+http://simsite.eersel.nl
 http://subsites.amsterdam.nl
 http://test-bink.beverwijk.nl
 http://test-cmsintranet.drimmelen.nl
@@ -1271,6 +1275,7 @@ https://iburgerzaken.druten.nl
 https://iburgerzaken.ede.nl
 https://iburgerzaken.eemnes.nl
 https://iburgerzaken.eemsdelta.nl
+https://iburgerzaken.eersel.nl
 https://iburgerzaken.gemeentebeek.nl
 https://iburgerzaken.gemeentebest.nl
 https://id-beheer-erfpacht-acc.amsterdam.nl
@@ -1373,6 +1378,7 @@ https://jbt.dev.denhaag.nl
 https://jbt.test.denhaag.nl
 https://jccapi.bergeijk.nl
 https://jccapi.bladel.nl
+https://jccapi.eersel.nl
 https://jcccloud.borsele.nl
 https://jeugdombudsman-acc.denhaag.nl
 https://jeugdombudsman.denhaag.nl
@@ -2399,6 +2405,7 @@ https://woningbouwkaart.assen.nl
 https://woningbouwkaart.borger-odoorn.nl
 https://woningbouwkaart.coevorden.nl
 https://woningbouwkaart.dewolden.nl
+https://woningbouwkaart.eersel.nl
 https://woningdossier.assen.nl
 https://woo-acc.denhaag.nl
 https://woo.arnhem.nl
