@@ -376,6 +376,7 @@ https://betalen.amsterdam.nl
 https://betalen.bergen-nh.nl
 https://betalen.beverwijk.nl
 https://betalen.breda.nl
+https://betalen.castricum.nl
 https://betalingen.amsterdam.nl
 https://bewegen.apeldoorn.nl
 https://bewustwording.amersfoort.nl
@@ -429,6 +430,7 @@ https://cardaccess.tst.intra.amsterdam.nl
 https://cardsonline.acc.intra.amsterdam.nl
 https://cardsonline.intra.amsterdam.nl
 https://cardsonline.tst.intra.amsterdam.nl
+https://castricum.nl
 https://centrumbegroot.alphenaandenrijn.nl
 https://centrumbegroot.amsterdam.nl
 https://cimot.almelo.nl
@@ -584,6 +586,7 @@ https://edienstenburgerzaken-test.beverwijk.nl
 https://edienstenburgerzaken-test.boxtel.nl
 https://edienstenburgerzaken-test.brunssum.nl
 https://edienstenburgerzaken-test.bunschoten.nl
+https://edienstenburgerzaken-test.castricum.nl
 https://edienstenburgerzaken-test.gemeenteberkelland.nl
 https://edienstenburgerzaken.aalsmeer.nl
 https://edienstenburgerzaken.aalten.nl
@@ -603,6 +606,7 @@ https://edienstenburgerzaken.beverwijk.nl
 https://edienstenburgerzaken.boxtel.nl
 https://edienstenburgerzaken.brunssum.nl
 https://edienstenburgerzaken.bunschoten.nl
+https://edienstenburgerzaken.castricum.nl
 https://edienstenburgerzaken.gemeenteberkelland.nl
 https://edienstenburgerzaken.test.aalsmeer.nl
 https://edienstenburgerzaken.test.amstelveen.nl
@@ -914,6 +918,7 @@ https://klantcontact.baarn.nl
 https://klantcontact.bergendal.nl
 https://klantcontact.beuningen.nl
 https://klimaatplein.bergen-nh.nl
+https://klimaatplein.castricum.nl
 https://koppelpoort.amersfoort.nl
 https://kredietbankwestbrabant.breda.nl
 https://krefia.amsterdam.nl
@@ -1013,8 +1018,11 @@ https://mijnoverzicht.boxtel.nl
 https://mijnplan.gemeenteberkelland.nl
 https://mijnsbl.amsterdam.nl
 https://mijnsociaalplein.bergen-nh.nl
+https://mijnsociaalplein.castricum.nl
 https://mijnsociaalportaal-acc.bergen-nh.nl
+https://mijnsociaalportaal-acc.castricum.nl
 https://mijnsociaalportaal.bergen-nh.nl
+https://mijnsociaalportaal.castricum.nl
 https://mijnsubsidies.acc.amsterdam.nl
 https://mijnsubsidies.amsterdam.nl
 https://mijnsubsidies.tst.amsterdam.nl
@@ -1196,6 +1204,7 @@ https://preprod-mijn.albrandswaard.nl
 https://preprod-mijn.barendrecht.nl
 https://preprod-mijninkomen.beverwijk.nl
 https://preprod-mijnsociaalplein.bergen-nh.nl
+https://preprod-mijnsociaalplein.castricum.nl
 https://preprod.mijnaanvraagzi.beuningen.nl
 https://preprod.vergunningintaker.bernheze.org
 https://preprodbroker.aalten.nl
@@ -1222,6 +1231,7 @@ https://pv.barendrecht.nl
 https://pv.beesel.nl
 https://pv.bergen-nh.nl
 https://pv.bodegraven-reeuwijk.nl
+https://pv.castricum.nl
 https://pv.diensten.almere.nl
 https://pv.gemeenteberkelland.nl
 https://pwa.barendrecht.nl
@@ -1563,6 +1573,7 @@ https://www.buurtbudget.amsterdam.nl
 https://www.buurtbudgetnoord.amsterdam.nl
 https://www.buurtbudgetzuid.amsterdam.nl
 https://www.buurtbudgetzuidoost.amsterdam.nl
+https://www.castricum.nl
 https://www.centrumbegroot.alphenaandenrijn.nl
 https://www.centrumbegroot.amsterdam.nl
 https://www.containers.amsterdam.nl

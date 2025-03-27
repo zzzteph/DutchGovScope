@@ -315,6 +315,7 @@ afspraak.bergendal.nl
 afspraak.boekel.nl
 afspraak.borsele.nl
 afspraak.boxtel.nl
+afspraak.castricum.nl
 afspraak.gemeenteberkelland.nl
 afspraken-test.brunssum.nl
 afspraken.alkmaar.nl
@@ -802,6 +803,7 @@ betalen.belastingdienst.nl
 betalen.bergen-nh.nl
 betalen.beverwijk.nl
 betalen.breda.nl
+betalen.castricum.nl
 betalen.str10.acc.belastingdienst.nl
 betalen.str11.acc.belastingdienst.nl
 betalen.str12.acc.belastingdienst.nl
@@ -929,6 +931,7 @@ cardsonline.acc.intra.amsterdam.nl
 cardsonline.intra.amsterdam.nl
 cardsonline.tst.intra.amsterdam.nl
 carel.brunssum.nl
+castricum.nl
 catalogus.data.amsterdam.nl
 cbm.acc.mijn.overheid.nl
 cbm.acc.picard.mijn.overheid.nl
@@ -1295,6 +1298,7 @@ doemee.bloemendaal.nl
 doemee.gemeentebest.nl
 domeinnaamregistratie.rijksoverheid.nl
 download.belastingdienst.nl
+download.castricum.nl
 drc.data.amsterdam.nl
 drop-api-preprd-poc.overheid.nl
 drop-api-preprd.overheid.nl
@@ -1388,6 +1392,7 @@ edienstenburgerzaken-test.beverwijk.nl
 edienstenburgerzaken-test.boxtel.nl
 edienstenburgerzaken-test.brunssum.nl
 edienstenburgerzaken-test.bunschoten.nl
+edienstenburgerzaken-test.castricum.nl
 edienstenburgerzaken-test.gemeenteberkelland.nl
 edienstenburgerzaken.aalsmeer.nl
 edienstenburgerzaken.aalten.nl
@@ -1407,6 +1412,7 @@ edienstenburgerzaken.beverwijk.nl
 edienstenburgerzaken.boxtel.nl
 edienstenburgerzaken.brunssum.nl
 edienstenburgerzaken.bunschoten.nl
+edienstenburgerzaken.castricum.nl
 edienstenburgerzaken.gemeenteberkelland.nl
 edienstenburgerzaken.test.aalsmeer.nl
 edienstenburgerzaken.test.amstelveen.nl
@@ -2096,6 +2102,7 @@ inloggen.belastingportaal.aaenhunze.nl
 inloggen.belastingportaal.acc.aaenhunze.nl
 inloggen.belastingportaal.acc.assen.nl
 inloggen.belastingportaal.assen.nl
+inloggen.castricum.nl
 inloggen.gemeenteberkelland.nl
 inproces.acceptatie.gemeentebeek.nl
 inproces.gemeentebeek.nl
@@ -2139,6 +2146,7 @@ intranet.boekel.nl
 intranet.borne.nl
 intranet.brielle.nl
 intranet.bronckhorst.nl
+intranet.castricum.nl
 intranet.digi-mlv.os.amsterdam.nl
 intranet.docwonen.amsterdam.nl
 intranet.gemeentebeek.nl
@@ -2251,6 +2259,7 @@ klantcontact.baarn.nl
 klantcontact.bergendal.nl
 klantcontact.beuningen.nl
 klimaatplein.bergen-nh.nl
+klimaatplein.castricum.nl
 knp.breda.nl
 koppelpoort.amersfoort.nl
 koppelvlak-acc.overheid.nl
@@ -2397,6 +2406,7 @@ mailing.gemeentebeek.nl
 mailing.logius.nl
 mailrelay1.overheid.nl
 mailrelay2.overheid.nl
+makelaar-01.castricum.nl
 makelaar-test.almelo.nl
 makelaar.almelo.nl
 makelaar.brielle.nl
@@ -2560,8 +2570,11 @@ mijnsbl-acc.amsterdam.nl
 mijnsbl-test.amsterdam.nl
 mijnsbl.amsterdam.nl
 mijnsociaalplein.bergen-nh.nl
+mijnsociaalplein.castricum.nl
 mijnsociaalportaal-acc.bergen-nh.nl
+mijnsociaalportaal-acc.castricum.nl
 mijnsociaalportaal.bergen-nh.nl
+mijnsociaalportaal.castricum.nl
 mijnsubsidies.acc.amsterdam.nl
 mijnsubsidies.amsterdam.nl
 mijnsubsidies.tst.amsterdam.nl
@@ -2708,6 +2721,7 @@ nlgembek.gemeentebeek.nl
 nlgembrc.blaricum.nl
 nlgembrl.brielle.nl
 nlgembrn.borne.nl
+nlgemctc.castricum.nl
 nlx.amsterdam.nl
 nlx.buren.nl
 node1.acc.statistiek.mijn.overheid.nl
@@ -3093,6 +3107,7 @@ preprod-mijninkomen.beverwijk.nl
 preprod-mijnoverzicht.boxtel.nl
 preprod-mijnplan.gemeenteberkelland.nl
 preprod-mijnsociaalplein.bergen-nh.nl
+preprod-mijnsociaalplein.castricum.nl
 preprod-portalen.digipoort.logius.nl
 preprod-woz-portaal-eemnes.baarn.nl
 preprod.alphenaandenrijn.nl
@@ -3115,6 +3130,7 @@ preproductie.bladel.nl
 preproductie.brielle.nl
 preproductie.bronckhorst.nl
 preproductie.bunschoten.nl
+preproductie.castricum.nl
 preproductie.gemeentebeek.nl
 presenteren.ont.belastingdienst.nl
 preview-eto.overheid.nl
@@ -3151,6 +3167,8 @@ psproxy-tao1.belastingdienst.nl
 psproxy-tao2.belastingdienst.nl
 psproxy.belastingdienst.nl
 pub.alkmaar.nl
+publicatie-test.castricum.nl
+publicatie.castricum.nl
 publicaties.barneveld.nl
 publicaties.rekenkamer.amsterdam.nl
 publicroam.beekdaelen.nl
@@ -3166,6 +3184,7 @@ pv.barendrecht.nl
 pv.beesel.nl
 pv.bergen-nh.nl
 pv.bodegraven-reeuwijk.nl
+pv.castricum.nl
 pv.diensten.almere.nl
 pv.gemeenteberkelland.nl
 pwa.barendrecht.nl
@@ -3222,6 +3241,7 @@ remote.arnhem.nl
 remote.beverwijk.nl
 remote.borne.nl
 remote.bunschoten.nl
+remote.castricum.nl
 remote.centrum.amsterdam.nl
 renvooiservice-eto.overheid.nl
 renvooiservice.overheid.nl
@@ -3354,6 +3374,7 @@ secure.breda.nl
 secure.brielle.nl
 secure.brunssum.nl
 secure.capelleaandenijssel.nl
+secure.castricum.nl
 secure.gemeentebeek.nl
 securegw.bunschoten.nl
 securemail.borne.nl
@@ -3473,6 +3494,7 @@ simsite.bronckhorst.nl
 simsite.bunschoten.nl
 simsite.gemeentebeek.nl
 sip.assen.nl
+sip.castricum.nl
 sip.ggd.amsterdam.nl
 sip.oa.amsterdam.nl
 sipreg.belastingdienst.nl
@@ -3514,10 +3536,12 @@ snelbalie.alphenaandenrijn.nl
 snelbalie.apeldoorn.nl
 snelbalie.bergen-nh.nl
 snelbalie.bergenopzoom.nl
+snelbalie.castricum.nl
 snelbaliepp.alphenaandenrijn.nl
 snelbaliepp.apeldoorn.nl
 snelbaliepp.bergen-nh.nl
 snelbaliepp.bergenopzoom.nl
+snelbaliepp.castricum.nl
 snelbalietest.almere.nl
 snow-license.amsterdam.nl
 soc.amsterdam.nl
@@ -3555,6 +3579,8 @@ spyke-stw.alkmaar.nl
 squit2020.acceptatie.gemeentebeek.nl
 squit2020.gemeentebeek.nl
 squit2020publiceren.gemeentebeek.nl
+squit2go-backoffice.castricum.nl
+squit2go.castricum.nl
 squit2go.gemeentebest.nl
 srmvaprd.ovh.gemeentebeek.nl
 srmvauitwijk.ovh.gemeentebeek.nl
@@ -3820,6 +3846,7 @@ teverantwoordenregelingen.rijksoverheid.nl
 thuiswerken.almere.nl
 thuiswerken.bergen-nh.nl
 thuiswerken.bronckhorst.nl
+thuiswerken.castricum.nl
 thuiswerken.dwi.amsterdam.nl
 thuiswerken2.bronckhorst.nl
 tijdelijk.data.amsterdam.nl
@@ -4004,6 +4031,7 @@ waarmerk.baarle-nassau.nl
 waarmerk.beuningen.nl
 waarmerk.brielle.nl
 waarmerk.brunssum.nl
+waarmerk.castricum.nl
 waarmerk.gemeenteberkelland.nl
 waarmerk.gemeentebest.nl
 wacfarm.acc.amsterdam.nl
@@ -4034,6 +4062,7 @@ webapps.aaenhunze.nl
 webapps.belastingdienst.nl
 webcamslingerweg.breda.nl
 webcamspinveld.breda.nl
+webcon.castricum.nl
 webconf.assen.nl
 webdiensten-conf1.belastingdienst.nl
 webdiensten-perf.acc.belastingdienst.nl
@@ -4204,6 +4233,7 @@ www.acccorsa02.ovh.gemeentebeek.nl
 www.acceptatie.aalsmeer.nl
 www.acceptatie.amstelveen.nl
 www.achtkarspelen.nl
+www.afspraak.castricum.nl
 www.aga.amsterdam.nl
 www.alblasserdam.nl
 www.albrandswaard.nl
@@ -4278,6 +4308,7 @@ www.buurtbudgetnoord.amsterdam.nl
 www.buurtbudgetzuid.amsterdam.nl
 www.buurtbudgetzuidoost.amsterdam.nl
 www.capelleaandenijssel.nl
+www.castricum.nl
 www.centrum.amsterdam.nl
 www.centrumbegroot.alphenaandenrijn.nl
 www.centrumbegroot.amsterdam.nl
@@ -4394,6 +4425,7 @@ www.speleninzuid.amsterdam.nl
 www.sport.amsterdam.nl
 www.sport.zeeburg.amsterdam.nl
 www.squit2020publiceren.gemeentebeek.nl
+www.squit2go-backoffice.castricum.nl
 www.srmvaprd.ovh.gemeentebeek.nl
 www.srmvauitwijk.ovh.gemeentebeek.nl
 www.staatvandeparticipatie.amsterdam.nl
