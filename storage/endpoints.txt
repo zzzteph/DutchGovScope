@@ -80,6 +80,7 @@ http://autodiscover.heumen.nl
 http://autodiscover.heusden.nl
 http://autodiscover.hillegom.nl
 http://autodiscover.hilversum.nl
+http://autodiscover.hofvantwente.nl
 http://autodiscover.s-hertogenbosch.nl
 http://beekdaelen.nl
 http://bergeijk.nl
@@ -232,6 +233,7 @@ http://test-intranet.eemsdelta.nl
 http://test-intranet.etten-leur.nl
 http://test-intranet.gemeentebeek.nl
 http://test-intranet.groningen.nl
+http://test-jip.hofvantwente.nl
 http://test-machtigen.digipoort.logius.nl
 http://test-topvorm.apeldoorn.nl
 http://tuchtrecht-service-acc.overheid.nl
@@ -457,6 +459,7 @@ https://acceptatie-intranet.hardenberg.nl
 https://acceptatie-mobiliteitsplan.hillegom.nl
 https://acceptatie-open.dinkelland.nl
 https://acceptatie-open.gooisemeren.nl
+https://acceptatie-open.hofvantwente.nl
 https://acceptatie-vaarvergunningen.amsterdam.nl
 https://acceptatie.alphen-chaam.nl
 https://acceptatie.asten.nl
@@ -883,6 +886,7 @@ https://belastingen.duiven.nl
 https://belastingen.gilzerijen.nl
 https://belastingen.heerenveen.nl
 https://belastingen.hellendoorn.nl
+https://belastingen.hofvantwente.nl
 https://belastingloket.barneveld.nl
 https://belastingloket.elburg.nl
 https://belastingloket.emmen.nl
@@ -997,6 +1001,7 @@ https://bounces-eps.amsterdam.nl
 https://bouw.omgevingswet.overheid.nl
 https://bouwarchief.hillegom.nl
 https://bouwdossiers.amsterdam.nl
+https://bouwkavels.hofvantwente.nl
 https://boxtel.nl
 https://bp.data.amsterdam.nl
 https://brandportal.gorinchem.nl
@@ -1105,6 +1110,7 @@ https://cmshofnet.coevorden.nl
 https://cmsintranet.gemeentebeek.nl
 https://cmsintranet.gooisemeren.nl
 https://cmsintranet.groningen.nl
+https://cmsjip.hofvantwente.nl
 https://cmsoo.assen.nl
 https://cmsoo.bodegraven-reeuwijk.nl
 https://cmsoo.borger-odoorn.nl
@@ -1467,6 +1473,7 @@ https://edienstenburgerzaken-test.harlingen.nl
 https://edienstenburgerzaken-test.heiloo.nl
 https://edienstenburgerzaken-test.hellendoorn.nl
 https://edienstenburgerzaken-test.hillegom.nl
+https://edienstenburgerzaken-test.hofvantwente.nl
 https://edienstenburgerzaken.aalsmeer.nl
 https://edienstenburgerzaken.aalten.nl
 https://edienstenburgerzaken.acc.denhaag.nl
@@ -1516,6 +1523,7 @@ https://edienstenburgerzaken.harlingen.nl
 https://edienstenburgerzaken.heiloo.nl
 https://edienstenburgerzaken.hellendoorn.nl
 https://edienstenburgerzaken.hillegom.nl
+https://edienstenburgerzaken.hofvantwente.nl
 https://edienstenburgerzaken.test.aalsmeer.nl
 https://edienstenburgerzaken.test.amstelveen.nl
 https://edienstenmijninkomen-acceptatie.albrandswaard.nl
@@ -1855,6 +1863,7 @@ https://gemeenteraad.haarlemmermeer.nl
 https://gemeenteraad.halderberge.nl
 https://gemeenteraad.heemskerk.nl
 https://gemeenteraad.hillegom.nl
+https://gemeenteraad.hofvantwente.nl
 https://gemert-bakel.nl
 https://gennep.nl
 https://geo-secure.ermelo.nl
@@ -2003,6 +2012,7 @@ https://histor-web.amsterdam.nl
 https://histor-web.tst.amsterdam.nl
 https://hnw.delft.nl
 https://hofnet.coevorden.nl
+https://hofvantwente.nl
 https://hometest.groningen.nl
 https://hor-acc.amsterdam.nl
 https://hor.amsterdam.nl
@@ -2258,6 +2268,7 @@ https://jcccloud.borsele.nl
 https://jeugdombudsman-acc.denhaag.nl
 https://jeugdombudsman.denhaag.nl
 https://jijmaaktdebuurt.openstad.enschede.nl
+https://jip.hofvantwente.nl
 https://jobs.werkenvoornederland.nl
 https://join.bijzondereprojecten.acc.amsterdam.nl
 https://joinconnect.dalfsen.nl
@@ -2315,6 +2326,7 @@ https://keycloak.dev.denhaag.nl
 https://keycloak.enschede.nl
 https://keycloak.gemert-bakel.nl
 https://keycloak.test.denhaag.nl
+https://keyhub.hofvantwente.nl
 https://kijk.dijkenwaard.nl
 https://kim.omgevingswet.overheid.nl
 https://kim3.amsterdam.nl
@@ -2554,6 +2566,7 @@ https://mijn.hellendoorn.nl
 https://mijn.helmond.nl
 https://mijn.hengelo.nl
 https://mijn.heusden.nl
+https://mijn.hofvantwente.nl
 https://mijn.igj.nl
 https://mijn.overheid.nl
 https://mijn.toeslagen.nl
@@ -2596,6 +2609,7 @@ https://mijnsociaalplein.bergen-nh.nl
 https://mijnsociaalplein.castricum.nl
 https://mijnsociaalplein.heiloo.nl
 https://mijnsociaalplein.hilversum.nl
+https://mijnsociaalplein.hofvantwente.nl
 https://mijnsociaalportaal-acc.bergen-nh.nl
 https://mijnsociaalportaal-acc.castricum.nl
 https://mijnsociaalportaal-acc.heiloo.nl
@@ -2796,6 +2810,7 @@ https://omgevingsvisie.gooisemeren.nl
 https://omgevingsvisie.gouda.nl
 https://omgevingsvisie.heerde.nl
 https://omgevingsvisie.hilversum.nl
+https://omgevingsvisie.hofvantwente.nl
 https://omgevingswet.bronckhorst.nl
 https://omgevingswet.deventer.nl
 https://omgevingswet.overheid.nl
@@ -2852,6 +2867,7 @@ https://open.gorinchem.nl
 https://open.halderberge.nl
 https://open.hillegom.nl
 https://open.hilversum.nl
+https://open.hofvantwente.nl
 https://open.overheid.nl
 https://openbareruimte.deventer.nl
 https://opendata.assen.nl
@@ -2893,6 +2909,7 @@ https://openpdc.gemeenteberkelland.nl
 https://openpdc.gemeentehw.nl
 https://openpdc.gouda.nl
 https://openpdc.hellendoorn.nl
+https://openpdc.hofvantwente.nl
 https://openpdc.s-hertogenbosch.nl
 https://openpub.albrandswaard.nl
 https://openpub.alkmaar.nl
@@ -2904,6 +2921,7 @@ https://openpub.gemeenteberkelland.nl
 https://openpub.gemeentehw.nl
 https://openpub.gouda.nl
 https://openpub.hellendoorn.nl
+https://openpub.hofvantwente.nl
 https://openpub.s-hertogenbosch.nl
 https://openstad.deventer.nl
 https://openstad.enschede.nl
@@ -3138,6 +3156,7 @@ https://preprod-mijnsociaaldomein.heerenveen.nl
 https://preprod-mijnsociaalplein.bergen-nh.nl
 https://preprod-mijnsociaalplein.castricum.nl
 https://preprod-mijnsociaalplein.heiloo.nl
+https://preprod-mijnsociaalplein.hofvantwente.nl
 https://preprod-mijnzorg.denhelder.nl
 https://preprod-sociaalportaal.dinkelland.nl
 https://preprod.drimmelen.nl
@@ -3212,6 +3231,7 @@ https://pv.helmond.nl
 https://pveopenbareruimte.deventer.nl
 https://pwa.barendrecht.nl
 https://qcalendar.deventer.nl
+https://qfact.hofvantwente.nl
 https://qr-acc.capelleaandenijssel.nl
 https://qr-acc.gooisemeren.nl
 https://qr.amersfoort.nl
@@ -3710,6 +3730,7 @@ https://testbelastingloket.heerde.nl
 https://testcms-binnenshuis.bergen.nl
 https://testcms-intranet.beuningen.nl
 https://testcms-intranet.eemsdelta.nl
+https://testcms-jip.hofvantwente.nl
 https://testdigikoppeling.haarlemmermeer.nl
 https://testdigitaalgemeenteloket.alphenaandenrijn.nl
 https://testeloket.arnhem.nl
@@ -4267,6 +4288,7 @@ https://www.hildebrandplein.denhaag.nl
 https://www.hillegom.nl
 https://www.hilvarenbeek.nl
 https://www.hilversum.nl
+https://www.hofvantwente.nl
 https://www.houtwijkbegroot.denhaag.nl
 https://www.iedereenwerktmee.amsterdam.nl
 https://www.igj.nl
@@ -4436,6 +4458,7 @@ https://zaaksysteem-accept.gooisemeren.nl
 https://zaaksysteem-accept.gouda.nl
 https://zaaksysteem-accept.halderberge.nl
 https://zaaksysteem-accept.hardenberg.nl
+https://zaaksysteem-accept.hofvantwente.nl
 https://zaaksysteem.ede.nl
 https://zaaksysteem.hilversum.nl
 https://zaken.alblasserdam.nl

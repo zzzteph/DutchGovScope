@@ -26,6 +26,8 @@ Autorisatietest.bloemendaal.nl
 BAG.haarlemmermeer.nl
 BGNVSV002.bergen.nl
 Belastingportaal-test.boxtel.nl
+Cloudadapter-prod.hofvantwente.nl
+Cloudadapter-test.hofvantwente.nl
 Edienstenburgerzaken-test.etten-leur.nl
 Edienstenburgerzaken.etten-leur.nl
 G0498.drechterland.nl
@@ -388,6 +390,7 @@ acceptatie-intranet.hardenberg.nl
 acceptatie-mobiliteitsplan.hillegom.nl
 acceptatie-open.dinkelland.nl
 acceptatie-open.gooisemeren.nl
+acceptatie-open.hofvantwente.nl
 acceptatie-stemvan.emmen.nl
 acceptatie-vaarvergunningen.amsterdam.nl
 acceptatie.aalsmeer.nl
@@ -421,6 +424,7 @@ acceptatie.hethogeland.nl
 acceptatie.hillegom.nl
 acceptatie.hilvarenbeek.nl
 acceptatie.hilvernet.hilvarenbeek.nl
+acceptatie.hofvantwente.nl
 acceptatie.intranet.debilt.nl
 acceptatie.omgevingswet.overheid.nl
 acceptatie.oranjeplein.goirle.nl
@@ -1001,6 +1005,7 @@ autodiscover.heumen.nl
 autodiscover.heusden.nl
 autodiscover.hillegom.nl
 autodiscover.hilversum.nl
+autodiscover.hofvantwente.nl
 autodiscover.iba.amsterdam.nl
 autodiscover.koop.overheid.nl
 autodiscover.leefbaar.haarlemmermeer.nl
@@ -1251,6 +1256,7 @@ belastingen.gilzerijen.nl
 belastingen.goirle.nl
 belastingen.heerenveen.nl
 belastingen.hellendoorn.nl
+belastingen.hofvantwente.nl
 belastingloket.acc.emmen.nl
 belastingloket.barneveld.nl
 belastingloket.echt-susteren.nl
@@ -1432,6 +1438,7 @@ bouw.omgevingswet.overheid.nl
 bouwarchief.hillegom.nl
 bouwdossiers.amsterdam.nl
 bouwdossiers.stadsarchief.breda.nl
+bouwkavels.hofvantwente.nl
 boxtel.nl
 bp.data.amsterdam.nl
 bppl.denhaag.nl
@@ -1615,6 +1622,7 @@ cloud.buren.nl
 cloudadapter-p.denhelder.nl
 cloudadapter-prod.gorinchem.nl
 cloudadapter-prod.gulpen-wittem.nl
+cloudadapter-prod.hofvantwente.nl
 cloudadapter-t.denhelder.nl
 cloudadapter-t.hellendoorn.nl
 cloudadapter-test.baarn.nl
@@ -1626,6 +1634,7 @@ cloudadapter-test.dinkelland.nl
 cloudadapter-test.gemeenteberkelland.nl
 cloudadapter-test.gorinchem.nl
 cloudadapter-test.gulpen-wittem.nl
+cloudadapter-test.hofvantwente.nl
 cloudadapter.baarn.nl
 cloudadapter.bronckhorst.nl
 cloudadapter.brunssum.nl
@@ -1659,6 +1668,7 @@ cmsintranet.etten-leur.nl
 cmsintranet.gemeentebeek.nl
 cmsintranet.gooisemeren.nl
 cmsintranet.groningen.nl
+cmsjip.hofvantwente.nl
 cmsoo.assen.nl
 cmsoo.bodegraven-reeuwijk.nl
 cmsoo.borger-odoorn.nl
@@ -2124,6 +2134,7 @@ dkd.gooisemeren.nl
 dkd.hardenberg.nl
 dkd.heerenveen.nl
 dkd.heerlen.nl
+dkd.hofvantwente.nl
 dkdn.epe.nl
 dkdtest.brunssum.nl
 dkdtest.deventer.nl
@@ -2308,6 +2319,8 @@ e-mailabonnementen.rijksoverheid.nl
 e-maildiensten.rijksoverheid.nl
 e-net.amsterdam.nl
 e-net.intranet.amsterdam.nl
+e-notas-test.hofvantwente.nl
+e-notas.hofvantwente.nl
 e-tstsys.dordrecht.nl
 e.acc.videobellen.toeslagen.nl
 e.achtkarspelen.nl
@@ -2401,6 +2414,7 @@ edienstenburgerzaken-test.harlingen.nl
 edienstenburgerzaken-test.heiloo.nl
 edienstenburgerzaken-test.hellendoorn.nl
 edienstenburgerzaken-test.hillegom.nl
+edienstenburgerzaken-test.hofvantwente.nl
 edienstenburgerzaken.aalsmeer.nl
 edienstenburgerzaken.aalten.nl
 edienstenburgerzaken.acc.denhaag.nl
@@ -2452,6 +2466,7 @@ edienstenburgerzaken.harlingen.nl
 edienstenburgerzaken.heiloo.nl
 edienstenburgerzaken.hellendoorn.nl
 edienstenburgerzaken.hillegom.nl
+edienstenburgerzaken.hofvantwente.nl
 edienstenburgerzaken.test.aalsmeer.nl
 edienstenburgerzaken.test.amstelveen.nl
 edienstenmijninkomen-acceptatie.albrandswaard.nl
@@ -3052,6 +3067,7 @@ gemeenteraad.haarlemmermeer.nl
 gemeenteraad.halderberge.nl
 gemeenteraad.heemskerk.nl
 gemeenteraad.hillegom.nl
+gemeenteraad.hofvantwente.nl
 gemert-bakel.nl
 gemnps01.eijsden-margraten.nl
 gemnps01.intern.eijsden-margraten.nl
@@ -3376,6 +3392,7 @@ hlnpki.heerlen.nl
 hlnpkitest.heerlen.nl
 hnw.delft.nl
 hofnet.coevorden.nl
+hofvantwente.nl
 home.groningen.nl
 home1.groningen.nl
 home2.groningen.nl
@@ -3890,6 +3907,7 @@ jeugdengezin.amsterdam.nl
 jeugdombudsman-acc.denhaag.nl
 jeugdombudsman.denhaag.nl
 jijmaaktdebuurt.openstad.enschede.nl
+jip.hofvantwente.nl
 jira.rijksoverheid.nl
 jn12plus.amsterdam.nl
 jobs.werkenvoornederland.nl
@@ -4000,6 +4018,7 @@ keycloak.dev.denhaag.nl
 keycloak.enschede.nl
 keycloak.gemert-bakel.nl
 keycloak.test.denhaag.nl
+keyhub.hofvantwente.nl
 kibana-prod.lpc.logius.nl
 kibana.lpc.logius.nl
 kibana.parkeren.data.amsterdam.nl
@@ -4502,6 +4521,7 @@ mijn.hellendoorn.nl
 mijn.helmond.nl
 mijn.hengelo.nl
 mijn.heusden.nl
+mijn.hofvantwente.nl
 mijn.igj.nl
 mijn.ont.belastingdienst.nl
 mijn.overheid.nl
@@ -4587,6 +4607,7 @@ mijnsociaalplein.bergen-nh.nl
 mijnsociaalplein.castricum.nl
 mijnsociaalplein.heiloo.nl
 mijnsociaalplein.hilversum.nl
+mijnsociaalplein.hofvantwente.nl
 mijnsociaalportaal-acc.bergen-nh.nl
 mijnsociaalportaal-acc.castricum.nl
 mijnsociaalportaal-acc.heiloo.nl
@@ -4997,6 +5018,7 @@ omgevingsvisie.gooisemeren.nl
 omgevingsvisie.gouda.nl
 omgevingsvisie.heerde.nl
 omgevingsvisie.hilversum.nl
+omgevingsvisie.hofvantwente.nl
 omgevingswet.bronckhorst.nl
 omgevingswet.deventer.nl
 omgevingswet.heemskerk.nl
@@ -5071,6 +5093,7 @@ open.gorinchem.nl
 open.halderberge.nl
 open.hillegom.nl
 open.hilversum.nl
+open.hofvantwente.nl
 open.overheid.nl
 openbareruimte.deventer.nl
 opendata.arnhem.nl
@@ -5114,6 +5137,7 @@ openpdc.gemeenteberkelland.nl
 openpdc.gemeentehw.nl
 openpdc.gouda.nl
 openpdc.hellendoorn.nl
+openpdc.hofvantwente.nl
 openpdc.s-hertogenbosch.nl
 openpub.albrandswaard.nl
 openpub.alkmaar.nl
@@ -5125,6 +5149,7 @@ openpub.gemeenteberkelland.nl
 openpub.gemeentehw.nl
 openpub.gouda.nl
 openpub.hellendoorn.nl
+openpub.hofvantwente.nl
 openpub.s-hertogenbosch.nl
 openstad.deventer.nl
 openstad.emmen.nl
@@ -5567,6 +5592,7 @@ preprod-mijnsociaalplein.bergen-nh.nl
 preprod-mijnsociaalplein.castricum.nl
 preprod-mijnsociaalplein.heiloo.nl
 preprod-mijnsociaalplein.hilversum.nl
+preprod-mijnsociaalplein.hofvantwente.nl
 preprod-mijnzorg.denhelder.nl
 preprod-portalen.digipoort.logius.nl
 preprod-sociaalportaal.dinkelland.nl
@@ -5730,6 +5756,7 @@ pwa001.belastingdienst.nl
 q-matic.delft.nl
 qapbldexte2.belastingdienst.nl
 qcalendar.deventer.nl
+qfact.hofvantwente.nl
 qr-acc.capelleaandenijssel.nl
 qr-acc.gooisemeren.nl
 qr.amersfoort.nl
@@ -5773,6 +5800,7 @@ rcgog.nl
 rcm.belastingdienst.nl
 rd1.toegang.overheid.nl
 rd2.toegang.overheid.nl
+rds.hofvantwente.nl
 rds.vga.amsterdam.nl
 rdsportal.haarlemmermeer.nl
 rdw-test.authenticatie.alkmaar.nl
@@ -6748,6 +6776,7 @@ test-ipa.haarlemmermeer.nl
 test-ipa.hattem.nl
 test-ipa.heerde.nl
 test-ipa.s-hertogenbosch.nl
+test-jip.hofvantwente.nl
 test-kaart.almere.nl
 test-kaarten.haarlemmermeer.nl
 test-kansshop.eemsdelta.nl
@@ -6836,6 +6865,7 @@ testberichten.bergendal.nl
 testcms-binnenshuis.bergen.nl
 testcms-intranet.beuningen.nl
 testcms-intranet.eemsdelta.nl
+testcms-jip.hofvantwente.nl
 testcorsa.gulpen-wittem.nl
 testdigid.arnhem.nl
 testdigid.denhaag.nl
@@ -7182,6 +7212,7 @@ vp.denhaag.nl
 vpg-aag-test.belastingdienst.nl
 vpn-extern.gooisemeren.nl
 vpn-gw.rijksoverheid.nl
+vpn-sso.hofvantwente.nl
 vpn.alkmaar.nl
 vpn.almelo.nl
 vpn.almere.nl
@@ -7922,6 +7953,7 @@ www.hillegom.nl
 www.hilvarenbeek.nl
 www.hilversum.nl
 www.hlmrvpn.haarlemmermeer.nl
+www.hofvantwente.nl
 www.hoogeland.groningen.nl
 www.houtwijkbegroot.denhaag.nl
 www.hvd.groningen.nl
@@ -8257,6 +8289,7 @@ zaaksysteem-accept.gooisemeren.nl
 zaaksysteem-accept.gouda.nl
 zaaksysteem-accept.halderberge.nl
 zaaksysteem-accept.hardenberg.nl
+zaaksysteem-accept.hofvantwente.nl
 zaaksysteem.ede.nl
 zaaksysteem.eindhoven.nl
 zaaksysteem.hilversum.nl
