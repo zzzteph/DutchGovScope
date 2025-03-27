@@ -44,6 +44,7 @@ http://autodiscover.derondevenen.nl
 http://autodiscover.deventer.nl
 http://autodiscover.dewolden.nl
 http://autodiscover.dongen.nl
+http://autodiscover.dordrecht.nl
 http://autodiscover.gemeenteberkelland.nl
 http://autodiscover.gemeentebest.nl
 http://beekdaelen.nl
@@ -606,6 +607,7 @@ https://berichten.alphen-chaam.nl
 https://berichten.baarle-nassau.nl
 https://berichten.bergendal.nl
 https://berichten.cranendonck.nl
+https://berichten.dordrecht.nl
 https://bermod-fa.amsterdam.nl
 https://bermod.amsterdam.nl
 https://bermod2.amsterdam.nl
@@ -745,6 +747,7 @@ https://cloudstorage-koop.overheid.nl
 https://cms-binnenshuis.bergen.nl
 https://cms-joost.beuningen.nl
 https://cms.bernheze.org
+https://cms.dordrecht.nl
 https://cms.openstad.deventer.nl
 https://cmsbink.beverwijk.nl
 https://cmsdieuwke.defryskemarren.nl
@@ -764,6 +767,7 @@ https://cognitatie.tst.omgevingswet.overheid.nl
 https://collecties.dantumadiel.frl
 https://college.alblasserdam.nl
 https://college.albrandswaard.nl
+https://college.dordrecht.nl
 https://comcms.logius.nl
 https://community.developer.overheid.nl
 https://componenten-acc.overheid.nl
@@ -929,6 +933,7 @@ https://doemee.deventer.nl
 https://doemee.gemeentebest.nl
 https://doetinchem.nl
 https://dongen.nl
+https://dordrecht.nl
 https://download.belastingdienst.nl
 https://drop-api-preprd-poc.overheid.nl
 https://drop-api-preprd.overheid.nl
@@ -972,6 +977,7 @@ https://e-loket.gemeentebest.nl
 https://e-loketstaging.bergen.nl
 https://e-mailabonnementen.rijksoverheid.nl
 https://e-maildiensten.rijksoverheid.nl
+https://e-tstsys.dordrecht.nl
 https://e.acc.videobellen.toeslagen.nl
 https://e.achtkarspelen.nl
 https://e.almelo.nl
@@ -1020,6 +1026,7 @@ https://edienstenburgerzaken-test.dinkelland.nl
 https://edienstenburgerzaken-test.doesburg.nl
 https://edienstenburgerzaken-test.doetinchem.nl
 https://edienstenburgerzaken-test.dongen.nl
+https://edienstenburgerzaken-test.dordrecht.nl
 https://edienstenburgerzaken-test.gemeenteberkelland.nl
 https://edienstenburgerzaken.aalsmeer.nl
 https://edienstenburgerzaken.aalten.nl
@@ -1049,6 +1056,7 @@ https://edienstenburgerzaken.dinkelland.nl
 https://edienstenburgerzaken.doesburg.nl
 https://edienstenburgerzaken.doetinchem.nl
 https://edienstenburgerzaken.dongen.nl
+https://edienstenburgerzaken.dordrecht.nl
 https://edienstenburgerzaken.gemeenteberkelland.nl
 https://edienstenburgerzaken.test.aalsmeer.nl
 https://edienstenburgerzaken.test.amstelveen.nl
@@ -1295,13 +1303,19 @@ https://ggd.amsterdam.nl
 https://gis.assen.nl
 https://gis.breda.nl
 https://gisib-test.alblasserdam.nl
+https://gisib-test.dordrecht.nl
 https://gisib.acc.meldingen.amsterdam.nl
 https://gisib.alblasserdam.nl
+https://gisib.dordrecht.nl
 https://gisib.meldingen.amsterdam.nl
 https://gisibapi-test.alblasserdam.nl
+https://gisibapi-test.dordrecht.nl
 https://gisibapi.alblasserdam.nl
+https://gisibapi.dordrecht.nl
 https://gisibgeoserver-test.alblasserdam.nl
+https://gisibgeoserver-test.dordrecht.nl
 https://gisibgeoserver.alblasserdam.nl
+https://gisibgeoserver.dordrecht.nl
 https://gisibonline.beesel.nl
 https://gitdocumentatie.logius.nl
 https://gitops.acc.denhaag.nl
@@ -1620,6 +1634,7 @@ https://loket.acceptatie.albrandswaard.nl
 https://loket.acceptatie.amstelveen.nl
 https://loket.acceptatie.barendrecht.nl
 https://loket.acceptatie.dantumadiel.frl
+https://loket.acceptatie.dordrecht.nl
 https://loket.alblasserdam.nl
 https://loket.albrandswaard.nl
 https://loket.amstelveen.nl
@@ -1627,6 +1642,7 @@ https://loket.barendrecht.nl
 https://loket.bunnik.nl
 https://loket.dantumadiel.frl
 https://loket.diemen.nl
+https://loket.dordrecht.nl
 https://loket.test.aalsmeer.nl
 https://loket.test.amstelveen.nl
 https://lucht.omgevingswet.overheid.nl
@@ -2201,6 +2217,7 @@ https://raad.arnhem.nl
 https://raad.asten.nl
 https://raad.bergendal.nl
 https://raad.brummen.nl
+https://raad.dordrecht.nl
 https://raadplegen.denhaag.nl
 https://rcgog.nl
 https://rd1.toegang.overheid.nl
@@ -2476,7 +2493,11 @@ https://sts.assen.nl
 https://sts.delft.nl
 https://sts.koop.overheid.nl
 https://stubs.tst.belastingdienst.nl
+https://subsidie.acceptatie.dordrecht.nl
 https://subsidie.almelo.nl
+https://subsidie.dordrecht.nl
+https://subsidiebackoffice.acceptatie.dordrecht.nl
+https://subsidiebackoffice.dordrecht.nl
 https://subsidiebeheer.alkmaar.nl
 https://subsidieloket.alkmaar.nl
 https://subsidieregister.denhaag.nl
@@ -2673,6 +2694,7 @@ https://wagenparkgegevens.belastingdienst.nl
 https://water.deventer.nl
 https://water.omgevingswet.overheid.nl
 https://web.alblasserdam.nl
+https://web.dordrecht.nl
 https://web01.deventer.nl
 https://web02.deventer.nl
 https://webcamslingerweg.breda.nl
@@ -2871,6 +2893,7 @@ https://www.doemee.deventer.nl
 https://www.doesburg.nl
 https://www.doetinchem.nl
 https://www.dongen.nl
+https://www.dordrecht.nl
 https://www.duinoordfietst.denhaag.nl
 https://www.duurzaam.alphenaandenrijn.nl
 https://www.duurzaam.barneveld.nl

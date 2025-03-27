@@ -16,8 +16,8 @@ probeer
 webmail
 felix
 preproductie
-digikoppeling
 loket
+digikoppeling
 acceptatie
 test
 dkd
@@ -33,6 +33,7 @@ pv
 afspraak
 betalen
 geo
+loket.acceptatie
 eloket
 gemeenteraad
 waarmerk
@@ -40,14 +41,13 @@ enterpriseregistration
 vpn
 werkenbij
 api.meldingen
-loket.acceptatie
 mijnzorg
 ruimtelijkeplannen
+raad
 parkeren
 enterpriseenrollment
 opendata
 broker
-raad
 zaken
 hybrid
 omgevingsvisie
@@ -86,12 +86,14 @@ preprod-mijninkomen
 duurzaam
 login
 snelbaliepp
+berichten
 extranet
 siam
 financien
 gemeente
 mks
 bgt
+cms
 feeds
 magazines
 api.meldingen-acc
@@ -102,7 +104,6 @@ denkmee
 thuiswerken
 afvalkalender
 www.duurzaam
-berichten
 ns
 qr
 atlas
@@ -122,7 +123,6 @@ kaarten
 doemee
 mdm
 _dmarc
-cms
 english
 api
 ns2
@@ -131,6 +131,8 @@ start
 mobiel
 omgevingswet
 www.acceptatie
+college
+gisib
 praatmee
 preprod-mijn
 izaaksuite
@@ -226,8 +228,12 @@ raadsnet
 vergunningintaker
 geovisia
 simform
-college
-gisib
+gisib-test
+gisibapi-test
+gisibapi
+gisibgeoserver-test
+gisibgeoserver
+web
 edienstenaanvragensd-acceptatie
 edienstenaanvragensd
 edienstenmijninkomen-acceptatie
@@ -247,6 +253,7 @@ geodata
 kennisnet
 makelaar
 meldingen.acc
+subsidie
 subsidies-backend.acceptatie
 subsidies-backend
 subsidies.acceptatie
@@ -368,6 +375,7 @@ ondernemersloket
 archief
 kennisportaal
 uitslagen
+intra
 centric
 a-cms
 a-cms1
@@ -1637,12 +1645,6 @@ ebms
 lvwoz
 simform-preproductie
 sophos01
-gisib-test
-gisibapi-test
-gisibapi
-gisibgeoserver-test
-gisibgeoserver
-web
 www.praatmee
 a2b-rtr
 aeos
@@ -1722,7 +1724,6 @@ netwerkstad
 objectenregistratie-api
 objectenregistratie
 smoelennet
-subsidie
 test-kennisbank
 testportaal
 wooninstrumenten
@@ -4102,7 +4103,6 @@ haven
 heiligen
 hetgeldvan
 img.openstad
-intra
 jongerenloket
 kadbrkwkpd
 kei
@@ -4219,3 +4219,9 @@ dkd.berichtenverkeer
 geoinformatie
 meedoenregeling
 test-meedoenregeling
+e-tstsys
+router
+subsidie.acceptatie
+subsidiebackoffice.acceptatie
+subsidiebackoffice
+wijken
