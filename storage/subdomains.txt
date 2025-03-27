@@ -16,8 +16,8 @@ mijn
 probeer
 loket
 test
-felix
 digikoppeling
+felix
 preproductie
 data
 meldingen
@@ -111,6 +111,7 @@ maps
 stadsarchief
 thuiswerken
 berichten
+siam
 ns
 digikoppeling.test
 ftp
@@ -209,7 +210,8 @@ ro-online
 rpl3
 www.centrumbegroot
 digitaalnachtregister
-siam
+mozard
+mozardtest
 bewustwording
 financien
 onderzoek
@@ -1738,8 +1740,6 @@ www.alleplannen.centrumbegroot
 www.uwdorpofwijk
 www.zwammerdamdorpskern
 zwammerdamdorpskern
-mozard
-mozardtest
 test-zaakloket
 testsiam
 zaakloket
@@ -3471,3 +3471,5 @@ webmeeting
 womserver-test
 womserver
 zwembaddebronspot
+mzdtest
+siamtest
