@@ -5,16 +5,16 @@ iburgerzaken
 ibzpink
 edienstenburgerzaken
 afspraken
+intranet
 simcms
 mijn
 edienstenburgerzaken-test
-intranet
 mail
 simsite
-probeer
 secure
-felix
+probeer
 webmail
+felix
 loket
 meldingen
 data
@@ -23,9 +23,9 @@ test
 preproductie
 werkplek
 api.meldingen
+acc
 opendata
 pv
-acc
 adfs
 enterpriseregistration
 vpn
@@ -46,6 +46,8 @@ hybrid
 kaart
 snelbalie
 duurzaam
+login
+afspraak
 feeds
 magazines
 formulier
@@ -63,10 +65,8 @@ osb
 zaaksysteem-accept
 gemeenteraad
 enterpriseenrollment
-login
 snelbaliepp
 www.duurzaam
-afspraak
 testeloket
 cms
 english
@@ -3315,3 +3315,6 @@ o1.ptr1802
 oud
 phpmyadmin
 testformulieren
+gms
+mksp01bkl
+www.webmail
