@@ -679,6 +679,7 @@ autodiscover.gemeentebeek.nl
 autodiscover.gemeenteberkelland.nl
 autodiscover.gemeentebest.nl
 autodiscover.gemert-bakel.nl
+autodiscover.gennep.nl
 autodiscover.ggd.amsterdam.nl
 autodiscover.iba.amsterdam.nl
 autodiscover.noord.amsterdam.nl
@@ -1130,6 +1131,7 @@ crl.denhaag.nl
 crypt.apeldoorn.nl
 cryptacc.apeldoorn.nl
 cryptshare.delft.nl
+cryptshare.gennep.nl
 cryptsharetest.delft.nl
 csam.deventer.nl
 csc.beverwijk.nl
@@ -1321,6 +1323,7 @@ digikoppeling.eindhoven.nl
 digikoppeling.emmen.nl
 digikoppeling.gemeentebest.nl
 digikoppeling.gemnet.ede.nl
+digikoppeling.gennep.nl
 digikoppeling.test.amstelveen.nl
 digikoppeling.test.bernheze.org
 digikoppeling.test.blaricum.nl
@@ -1643,6 +1646,7 @@ eloket.deurne.nl
 eloket.dronten.nl
 eloket.elburg.nl
 eloket.geldrop-mierlo.nl
+eloket.gennep.nl
 eloketstaging.almere.nl
 elokettest.bloemendaal.nl
 email.amsterdam.nl
@@ -1697,6 +1701,7 @@ epp.denhaag.nl
 eppx.denhaag.nl
 erfgoed.breda.nl
 erfgoed.gemert-bakel.nl
+erfgoedmaasenniers.gennep.nl
 erfgoedregister.amsterdam.nl
 erfpacht-acc.amsterdam.nl
 erfpacht-codekwal-dev.amsterdam.nl
@@ -1806,6 +1811,7 @@ files.data.amsterdam.nl
 fileshare.adds.amsterdam.nl
 fileshare.amsterdam.nl
 filetransfer.dijkenwaard.nl
+filetransfer.gennep.nl
 filr.derondevenen.nl
 filr.drimmelen.nl
 filr.eijsden-margraten.nl
@@ -1984,6 +1990,7 @@ gemnps01.eijsden-margraten.nl
 gemnps01.intern.eijsden-margraten.nl
 gen1.alkmaar.nl
 gen2.alkmaar.nl
+gennep.nl
 genua.emmen.nl
 geo-secure.ermelo.nl
 geo.aaenhunze.nl
@@ -2219,6 +2226,7 @@ iburgerzaken.geldrop-mierlo.nl
 iburgerzaken.gemeentebeek.nl
 iburgerzaken.gemeentebest.nl
 iburgerzaken.gemert-bakel.nl
+iburgerzaken.gennep.nl
 ibzpink.aaenhunze.nl
 ibzpink.achtkarspelen.nl
 ibzpink.almelo.nl
@@ -2268,6 +2276,7 @@ ibzpink.geldrop-mierlo.nl
 ibzpink.gemeentebeek.nl
 ibzpink.gemeentebest.nl
 ibzpink.gemert-bakel.nl
+ibzpink.gennep.nl
 icm-ast.asten.nl
 id-beheer-erfpacht-acc.amsterdam.nl
 id-beheer-erfpacht-dev.amsterdam.nl
@@ -2402,6 +2411,7 @@ intranet.eemsdelta.nl
 intranet.eijsden-margraten.nl
 intranet.gemeentebeek.nl
 intranet.gemeenteberkelland.nl
+intranet.gennep.nl
 intranet.geuzenveld.amsterdam.nl
 intranet.raadsinformatie.amsterdam.nl
 intranetacc.apeldoorn.nl
@@ -2708,6 +2718,7 @@ mail.ermelo.nl
 mail.geertruidenberg.nl
 mail.gemeentebest.nl
 mail.gemert-bakel.nl
+mail.gennep.nl
 mail.noord.amsterdam.nl
 mail01.bodegraven-reeuwijk.nl
 mail1.amersfoort.nl
@@ -2814,6 +2825,7 @@ meldingenamsterdamsebos.amsterdam.nl
 meldingenkust.acc.denhaag.nl
 meldingenkust.denhaag.nl
 meldingenweesp.amsterdam.nl
+meldpunt.gennep.nl
 menscentraal.doesburg.nl
 merk-acc.denhaag.nl
 merk.denhaag.nl
@@ -2909,6 +2921,8 @@ mijnsubsidie.test.eindhoven.nl
 mijnsubsidies.acc.amsterdam.nl
 mijnsubsidies.amsterdam.nl
 mijnsubsidies.tst.amsterdam.nl
+mijntalent-acc.gennep.nl
+mijntalent.gennep.nl
 mijnuitkering.emmen.nl
 mijnwiz-test.geertruidenberg.nl
 mijnwiz.geertruidenberg.nl
@@ -2921,6 +2935,7 @@ mijnzorg-acc.alkmaar.nl
 mijnzorg-acc.amstelveen.nl
 mijnzorg-acc.barneveld.nl
 mijnzorg-acc.beesel.nl
+mijnzorg-acc.gennep.nl
 mijnzorg-test.borne.nl
 mijnzorg.aalsmeer.nl
 mijnzorg.alkmaar.nl
@@ -2930,6 +2945,7 @@ mijnzorg.beekdaelen.nl
 mijnzorg.beesel.nl
 mijnzorg.borne.nl
 mijnzorg.denhelder.nl
+mijnzorg.gennep.nl
 milieueducatie.denhaag.nl
 misc-geo-01.barneveld.nl
 misc-geo-02.barneveld.nl
@@ -2969,6 +2985,7 @@ mozardtest.bunnik.nl
 msm.almelo.nl
 msoid.arnhem.nl
 mta-sts.duiven.nl
+mta-sts.gennep.nl
 mta-sts.pop.deventer.nl
 mta-sts.raad.duiven.nl
 mta.nieuwsbrief.amsterdam.nl
@@ -3146,6 +3163,7 @@ omgevingsvisie.doemee.bloemendaal.nl
 omgevingsvisie.drimmelen.nl
 omgevingsvisie.geertruidenberg.nl
 omgevingsvisie.geldrop-mierlo.nl
+omgevingsvisie.gennep.nl
 omgevingswet.bronckhorst.nl
 omgevingswet.deventer.nl
 omslagroute.amsterdam.nl
@@ -3526,6 +3544,7 @@ preproductie.eersel.nl
 preproductie.enkhuizen.nl
 preproductie.geertruidenberg.nl
 preproductie.gemeentebeek.nl
+preproductie.gennep.nl
 prijsvraag-zwembad.apeldoorn.nl
 privacybewustzijn.bergendal.nl
 private-test.delft.nl
@@ -3672,6 +3691,7 @@ riviewer.apeldoorn.nl
 rnd.amsterdam.nl
 ro-online.alphenaandenrijn.nl
 ro-online.bergen-nh.nl
+ro-online.gennep.nl
 ro-online1.amersfoort.nl
 ro-onlineprod.brielle.nl
 ro.brunssum.nl
@@ -3793,6 +3813,7 @@ secure.dronten.nl
 secure.ede.nl
 secure.eijsden-margraten.nl
 secure.gemeentebeek.nl
+secure.gennep.nl
 secure.ot.denhaag.nl
 securegw.bunschoten.nl
 securemail.borne.nl
@@ -3926,6 +3947,7 @@ simsite.ermelo.nl
 simsite.geertruidenberg.nl
 simsite.geldrop-mierlo.nl
 simsite.gemeentebeek.nl
+simsite.gennep.nl
 sip.assen.nl
 sip.castricum.nl
 sip.diemen.nl
@@ -4000,6 +4022,7 @@ spa4.acc.amsterdam.nl
 spa4.tst.amsterdam.nl
 spa4d.amsterdam.nl
 spa4dweb.amsterdam.nl
+spam.gennep.nl
 speleninoost.amsterdam.nl
 speleninzuid.amsterdam.nl
 spf-ogone01.asten.nl
@@ -4251,6 +4274,7 @@ test.bunnik.nl
 test.denhelder.nl
 test.diemen.nl
 test.digikoppeling.denhelder.nl
+test.digikoppeling.gennep.nl
 test.dinkelland.nl
 test.drechterland.nl
 test.drimmelen.nl
@@ -4280,6 +4304,7 @@ testeloket.deurne.nl
 testeloket.dronten.nl
 testeloket.elburg.nl
 testeloket.geldrop-mierlo.nl
+testeloket.gennep.nl
 testformulieren.bodegraven-reeuwijk.nl
 testkaart.alphenaandenrijn.nl
 testloket.dinkelland.nl
@@ -4874,6 +4899,7 @@ www.gemeenteraad.etten-leur.nl
 www.gemert-bakel.nl
 www.gemnps01.eijsden-margraten.nl
 www.gemnps01.intern.eijsden-margraten.nl
+www.gennep.nl
 www.geo.arnhem.nl
 www.geobrowser.enschede.nl
 www.geuzenstatenkwartierfietst.denhaag.nl

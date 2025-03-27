@@ -10,9 +10,9 @@ mail
 simsite
 mijn
 webmail
-simcms
 intranet
 secure
+simcms
 digikoppeling
 preproductie
 probeer
@@ -31,25 +31,26 @@ geo
 meldingen
 portal
 pv
+eloket
 afspraak
 adfs
 broker
-eloket
 gemeenteraad
 waarmerk
+omgevingsvisie
 vpn
 api.meldingen
 ruimtelijkeplannen
 zaaksysteem-accept
-omgevingsvisie
+testeloket
 formulier
 werkenbij
 loket.acceptatie
+mijnzorg
 iparticipatie
 openpdc
 osb
 parkeren
-testeloket
 cmsoo
 dacceptatieloket
 dacceptatiemidoffice
@@ -57,7 +58,6 @@ dloket
 dmidoffice
 enterpriseregistration
 remote
-mijnzorg
 raad
 zaken
 digikoppeling-test
@@ -81,6 +81,7 @@ govroam
 portaal
 kennisbank
 mailing
+mijnzorg-acc
 verkiezingen
 preprod-mijninkomen
 snelbalie
@@ -95,7 +96,6 @@ evenementen
 e
 api.meldingen-acc
 meldingen-acc
-mijnzorg-acc
 osbacc
 duurzaam
 snelbaliepp
@@ -159,6 +159,8 @@ dtestmidoffice
 transfer
 _dmarc
 api
+filetransfer
+mta-sts
 ns2
 rap
 services
@@ -183,6 +185,7 @@ stadsarchief
 api.openstad
 exchange
 gemeentearchief
+ro-online
 onderzoek
 vdi
 www.test
@@ -270,8 +273,6 @@ b2btest
 download
 fibt1
 fibt2.acc
-filetransfer
-mta-sts
 otp
 services.acc
 smtp1
@@ -338,7 +339,6 @@ dali
 dkd-test
 kinderburgemeester
 mijnoverzicht
-ro-online
 rpl3
 www.centrumbegroot
 digitaalnachtregister
@@ -437,10 +437,12 @@ subsidies-login
 ondernemersloket
 openformulieren-test
 archief
+cryptshare
 kennisportaal
 mfa
 smartdocuments
 uitslagen
+test.digikoppeling
 admin.openstad
 auth.openstad
 forms
@@ -3614,7 +3616,6 @@ ac03617
 axians.lev
 begroting
 cppm
-cryptshare
 cryptsharetest
 datatest
 feedback
@@ -4069,7 +4070,6 @@ ediensten-sociaaldomein
 preprod-ediensten-sociaaldomein
 preprod-mijnzorg
 sentry1
-test.digikoppeling
 vpn365
 vsp
 www.ingesprek
@@ -4513,3 +4513,8 @@ test-contact
 www.de
 www.en.cmsoo
 www.en
+erfgoedmaasenniers
+meldpunt
+mijntalent-acc
+mijntalent
+spam
