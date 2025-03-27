@@ -72,6 +72,7 @@ academie.acc.belastingdienst.nl
 academie.belastingdienst.nl
 acc-broker.assen.nl
 acc-broker.borger-odoorn.nl
+acc-broker.coevorden.nl
 acc-contact.assen.nl
 acc-contact.dev.assen.nl
 acc-dictu.comcms.logius.nl
@@ -264,9 +265,11 @@ acceptatie.gemeentebeek.nl
 acceptatie.omgevingswet.overheid.nl
 acceptatieloket.bergen-nh.nl
 acceptatieloket.borne.nl
+acceptatiemidoffice.coevorden.nl
 access.oa.amsterdam.nl
 accisdtalentcenter.bergenopzoom.nl
 accmksprd.ovh.gemeentebeek.nl
+accschuldhulp.coevorden.nl
 ace_nat17.belastingdienst.nl
 achtkarspelen.nl
 ack.omgevingswet.overheid.nl
@@ -585,6 +588,7 @@ autodiscover.borger-odoorn.nl
 autodiscover.borne.nl
 autodiscover.brielle.nl
 autodiscover.brummen.nl
+autodiscover.coevorden.nl
 autodiscover.gemeentebeek.nl
 autodiscover.gemeenteberkelland.nl
 autodiscover.gemeentebest.nl
@@ -662,6 +666,7 @@ bda-sql-02.bda.amsterdam.nl
 bda.amsterdam.nl
 bdmz-reth473.belastingdienst.nl
 bedrijfsafval.assen.nl
+bedrijfslocaties.coevorden.nl
 beek02.ovh.gemeentebeek.nl
 beek14.ovh.gemeentebeek.nl
 beekapp01.gemeentebeek.nl
@@ -885,6 +890,7 @@ broker.assen.nl
 broker.bernheze.org
 broker.borger-odoorn.nl
 broker.buren.nl
+broker.coevorden.nl
 bronckhorst.nl
 brsoribi01.borsele.nl
 brsoribi02.borsele.nl
@@ -1002,11 +1008,14 @@ cms2.rijksoverheid.nl
 cmsbink.beverwijk.nl
 cmsdev.rijksoverheid.nl
 cmsgui.ondernemersplein.overheid.nl
+cmshofnet.coevorden.nl
 cmsintranet.gemeentebeek.nl
 cmsoo.assen.nl
 cmsoo.bodegraven-reeuwijk.nl
 cmsoo.borger-odoorn.nl
 cmsoo.borne.nl
+cmsoo.coevorden.nl
+coevorden.nl
 cognitatie.acc.omgevingswet.overheid.nl
 cognitatie.omgevingswet.overheid.nl
 cognitatie.tst.omgevingswet.overheid.nl
@@ -1022,8 +1031,11 @@ componenten-tst.overheid.nl
 componenten.overheid.nl
 conference.assen.nl
 connect-preprod.almere.nl
+connect.acceptatie.coevorden.nl
 connect.acceptatie.gemeentebeek.nl
+connect.coevorden.nl
 connect.gemeentebeek.nl
+connect.test.coevorden.nl
 connectpeople.acc.belastingdienst.nl
 connectpeople.belastingdienst.nl
 connectpeople.ont.belastingdienst.nl
@@ -1041,9 +1053,12 @@ containersweesperbuurt.amsterdam.nl
 content.acc.omgevingswet.overheid.nl
 content.omgevingswet.overheid.nl
 contentbeheer.acc.omgevingswet.overheid.nl
+contentbeheer.acceptatie.coevorden.nl
 contentbeheer.acceptatie.gemeentebeek.nl
+contentbeheer.coevorden.nl
 contentbeheer.gemeentebeek.nl
 contentbeheer.omgevingswet.overheid.nl
+contentbeheer.test.coevorden.nl
 contentbeheer.tst.omgevingswet.overheid.nl
 contentcreatie-eto.overheid.nl
 copper.dbga.acc.amsterdam.nl
@@ -1083,10 +1098,12 @@ dacceptatieloket.assen.nl
 dacceptatieloket.borger-odoorn.nl
 dacceptatieloket.borne.nl
 dacceptatieloket.brielle.nl
+dacceptatieloket.coevorden.nl
 dacceptatiemidoffice.assen.nl
 dacceptatiemidoffice.borger-odoorn.nl
 dacceptatiemidoffice.borne.nl
 dacceptatiemidoffice.brielle.nl
+dacceptatiemidoffice.coevorden.nl
 dagbesteding.apeldoorn.nl
 dali.alphenaandenrijn.nl
 dali.brielle.nl
@@ -1259,12 +1276,14 @@ dloket.assen.nl
 dloket.borger-odoorn.nl
 dloket.borne.nl
 dloket.brielle.nl
+dloket.coevorden.nl
 dmafunc002.amsterdam.nl
 dmb.amsterdam.nl
 dmidoffice.assen.nl
 dmidoffice.borger-odoorn.nl
 dmidoffice.borne.nl
 dmidoffice.brielle.nl
+dmidoffice.coevorden.nl
 dmo.omgevingswet.overheid.nl
 dmpfunc002.amsterdam.nl
 dmz-websrv.achtkarspelen.nl
@@ -1294,6 +1313,8 @@ documentgenerator-api.amsterdam.nl
 documentgenerator.amsterdam.nl
 docwerker-oga.amsterdam.nl
 docwerker.amsterdam.nl
+doe-mee-test.coevorden.nl
+doe-mee.coevorden.nl
 doemee.bloemendaal.nl
 doemee.gemeentebest.nl
 domeinnaamregistratie.rijksoverheid.nl
@@ -1316,6 +1337,7 @@ dsr.maps.amsterdam.nl
 dtestloket.borger-odoorn.nl
 dtestloket.brielle.nl
 dtestmidoffice.brielle.nl
+dtestmidoffice.coevorden.nl
 duo2-test.belastingdienst.nl
 duo2.belastingdienst.nl
 dusk-acc-openwave.beverwijk.nl
@@ -1614,6 +1636,7 @@ financials.apeldoorn.nl
 financials.werkenvoornederland.nl
 financien.amersfoort.nl
 financien.arnhem.nl
+financien.coevorden.nl
 fiod.acc.belastingdienst.nl
 firewall.servers1.bergen-nh.nl
 fise02.oudzuid.amsterdam.nl
@@ -1918,6 +1941,7 @@ histor-web.acc.amsterdam.nl
 histor-web.amsterdam.nl
 histor-web.tst.amsterdam.nl
 hitkans.top.amsterdam.nl
+hofnet.coevorden.nl
 hor-acc.amsterdam.nl
 hor.amsterdam.nl
 hosted-by.amsterdam.nl
@@ -1991,6 +2015,7 @@ iburgerzaken.breda.nl
 iburgerzaken.brielle.nl
 iburgerzaken.bronckhorst.nl
 iburgerzaken.buren.nl
+iburgerzaken.coevorden.nl
 iburgerzaken.gemeentebeek.nl
 iburgerzaken.gemeentebest.nl
 ibzpink.aaenhunze.nl
@@ -2018,6 +2043,7 @@ ibzpink.breda.nl
 ibzpink.brielle.nl
 ibzpink.bronckhorst.nl
 ibzpink.buren.nl
+ibzpink.coevorden.nl
 ibzpink.gemeentebeek.nl
 ibzpink.gemeentebest.nl
 icm-ast.asten.nl
@@ -2165,6 +2191,7 @@ iovi.amsterdam.nl
 iparticipatie.achtkarspelen.nl
 iparticipatie.beesel.nl
 iparticipatie.bronckhorst.nl
+iparticipatie.coevorden.nl
 iris.data.amsterdam.nl
 ironport.brielle.nl
 is2.acc.amsterdam.nl
@@ -2323,6 +2350,7 @@ loket.acceptatie.alblasserdam.nl
 loket.acceptatie.albrandswaard.nl
 loket.acceptatie.amstelveen.nl
 loket.acceptatie.barendrecht.nl
+loket.acceptatie.coevorden.nl
 loket.alblasserdam.nl
 loket.albrandswaard.nl
 loket.amstelveen.nl
@@ -2333,6 +2361,7 @@ loket.bergen-nh.nl
 loket.borne.nl
 loket.breda.nl
 loket.bunnik.nl
+loket.coevorden.nl
 loket.overheid.nl
 loket.test.aalsmeer.nl
 loket.test.amstelveen.nl
@@ -2569,6 +2598,7 @@ mijnplein.assen.nl
 mijnsbl-acc.amsterdam.nl
 mijnsbl-test.amsterdam.nl
 mijnsbl.amsterdam.nl
+mijnshv.coevorden.nl
 mijnsociaalplein.bergen-nh.nl
 mijnsociaalplein.castricum.nl
 mijnsociaalportaal-acc.bergen-nh.nl
@@ -2684,6 +2714,7 @@ nat_o5001vmfavapp.ont.belastingdienst.nl
 nat_o5002vmfavapp.ont.belastingdienst.nl
 natuur.omgevingswet.overheid.nl
 navigus.brunssum.nl
+nawservice.coevorden.nl
 ndes.apeldoorn.nl
 ndes.barneveld.nl
 ndesapeldoorn.apeldoorn.nl
@@ -3251,6 +3282,7 @@ repository-eto.officiele-overheidspublicaties.nl
 repository-preprod.overheid.nl
 repository.officiele-overheidspublicaties.nl
 repository.overheid.nl
+reserveren.coevorden.nl
 resolver.int.omgevingswet.overheid.nl
 resolver.kta.omgevingswet.overheid.nl
 resolver.omgevingswet.overheid.nl
@@ -3768,6 +3800,7 @@ telewerken.amsterdam.nl
 test-bink.beverwijk.nl
 test-binnenshuis.bergen.nl
 test-cmsbink.beverwijk.nl
+test-cmshofnet.coevorden.nl
 test-cmsintranet.gemeentebeek.nl
 test-dictu.comcms.logius.nl
 test-dictu.kennisbank.logius.nl
@@ -3779,11 +3812,13 @@ test-e-loket.apeldoorn.nl
 test-eloket.brunssum.nl
 test-energielabels.gebouwen.overheid.nl
 test-formulier.assen.nl
+test-hofnet.coevorden.nl
 test-internationaal.ondernemen.overheid.nl
 test-intranet.beuningen.nl
 test-intranet.gemeentebeek.nl
 test-ipa.achtkarspelen.nl
 test-ipa.beesel.nl
+test-ipa.coevorden.nl
 test-kaart.almere.nl
 test-kennisbank.almelo.nl
 test-keycloak.assen.nl
@@ -4172,6 +4207,9 @@ wifi-sport.alkmaar.nl
 wifi.bergenopzoom.nl
 wifiguestportal.almere.nl
 wijkteams.almere.nl
+wijzer.acceptatie.coevorden.nl
+wijzer.coevorden.nl
+wijzer.test.coevorden.nl
 wiki.data.amsterdam.nl
 wiki.logius.nl
 wiki.rijksoverheid.nl
@@ -4196,6 +4234,7 @@ womserver.brunssum.nl
 wonenportaal.amsterdam.nl
 woningbouwkaart.assen.nl
 woningbouwkaart.borger-odoorn.nl
+woningbouwkaart.coevorden.nl
 woningdossier.assen.nl
 woo-formulier.rijksoverheid.nl
 woo.arnhem.nl
@@ -4204,10 +4243,13 @@ wooninstrumenten.almelo.nl
 wordimport.drop.overheid.nl
 workspace365.almelo.nl
 woww.boxtel.nl
+woz-loket.coevorden.nl
 woz-portaal-eemnes.baarn.nl
 woz.amsterdam.nl
 wozloket-acc.borger-odoorn.nl
+wozloket-acc.coevorden.nl
 wozloket.borger-odoorn.nl
+wozloket.coevorden.nl
 wpdagast1.assen.nl
 wpdagast2.assen.nl
 wpi.amsterdam.nl
@@ -4313,6 +4355,7 @@ www.centrum.amsterdam.nl
 www.centrumbegroot.alphenaandenrijn.nl
 www.centrumbegroot.amsterdam.nl
 www.citrix.gemeentebeek.nl
+www.coevorden.nl
 www.containers.amsterdam.nl
 www.containersweesperbuurt.amsterdam.nl
 www.crk.amsterdam.nl
@@ -4320,6 +4363,7 @@ www.data.amsterdam.nl
 www.dmo.amsterdam.nl
 www.dmo.omgevingswet.overheid.nl
 www.dmo2.amsterdam.nl
+www.doe-mee.coevorden.nl
 www.doemee.bloemendaal.nl
 www.dro.amsterdam.nl
 www.duurzaam.alphenaandenrijn.nl
@@ -4453,6 +4497,7 @@ www.werkenbij.amsterdam.nl
 www.werkenvoornederland.nl
 www.westbegroot.amsterdam.nl
 www.wijkaanpak.amsterdam.nl
+www.woz-loket.coevorden.nl
 www.woz-portaal-eemnes.baarn.nl
 www.woz-portaal.baarn.nl
 www.zwammerdamdorpskern.alphenaandenrijn.nl
@@ -4480,11 +4525,14 @@ zaaksysteem-accept.baarn.nl
 zaaksysteem-accept.beuningen.nl
 zaaksysteem-accept.gemeenteberkelland.nl
 zaalhuur.borne.nl
+zaken.acceptatie.coevorden.nl
 zaken.acceptatie.gemeentebeek.nl
 zaken.alblasserdam.nl
 zaken.amersfoort.nl
 zaken.amsterdam.nl
+zaken.coevorden.nl
 zaken.gemeentebeek.nl
+zaken.test.coevorden.nl
 zaken.top.amsterdam.nl
 zdpushservice.overheid.nl
 zec.acc.amsterdam.nl

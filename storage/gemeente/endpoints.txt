@@ -26,6 +26,7 @@ http://autodiscover.borger-odoorn.nl
 http://autodiscover.borne.nl
 http://autodiscover.brielle.nl
 http://autodiscover.brummen.nl
+http://autodiscover.coevorden.nl
 http://autodiscover.gemeenteberkelland.nl
 http://autodiscover.gemeentebest.nl
 http://beekdaelen.nl
@@ -107,6 +108,7 @@ https://aanmeldenparkeren.amsterdam.nl
 https://aanmeldenparkeren.beverwijk.nl
 https://acc-broker.assen.nl
 https://acc-broker.borger-odoorn.nl
+https://acc-broker.coevorden.nl
 https://acc-contact.assen.nl
 https://acc-contact.dev.assen.nl
 https://acc-formulier.assen.nl
@@ -327,6 +329,7 @@ https://barendrecht.nl
 https://bastion365.assen.nl
 https://bastion365.asten.nl
 https://bedrijfsafval.assen.nl
+https://bedrijfslocaties.coevorden.nl
 https://beeldbank-bo.baarn.nl
 https://beeldbank.amstelveen.nl
 https://beeldbank.baarn.nl
@@ -412,6 +415,7 @@ https://broker.assen.nl
 https://broker.bernheze.org
 https://broker.borger-odoorn.nl
 https://broker.buren.nl
+https://broker.coevorden.nl
 https://bronckhorst.nl
 https://brummen.nl
 https://brunssum.nl
@@ -440,11 +444,14 @@ https://cms-binnenshuis.bergen.nl
 https://cms-joost.beuningen.nl
 https://cms.bernheze.org
 https://cmsbink.beverwijk.nl
+https://cmshofnet.coevorden.nl
 https://cmsintranet.gemeentebeek.nl
 https://cmsoo.assen.nl
 https://cmsoo.bodegraven-reeuwijk.nl
 https://cmsoo.borger-odoorn.nl
 https://cmsoo.borne.nl
+https://cmsoo.coevorden.nl
+https://coevorden.nl
 https://college.alblasserdam.nl
 https://college.albrandswaard.nl
 https://connect-preprod.almere.nl
@@ -467,6 +474,7 @@ https://daalder-dash.makkelijkemarkt.amsterdam.nl
 https://daalder.makkelijkemarkt.amsterdam.nl
 https://dacceptatieloket.assen.nl
 https://dacceptatieloket.borger-odoorn.nl
+https://dacceptatieloket.coevorden.nl
 https://dagbesteding.apeldoorn.nl
 https://dali.alphenaandenrijn.nl
 https://dali.brielle.nl
@@ -525,12 +533,15 @@ https://digitaleplannen.apeldoorn.nl
 https://directadmin.almelo.nl
 https://dloket.assen.nl
 https://dloket.borger-odoorn.nl
+https://dloket.coevorden.nl
 https://dmafunc002.amsterdam.nl
 https://dmpfunc002.amsterdam.nl
 https://documenten.acceptatie.amstelveen.nl
 https://documenten.amstelveen.nl
 https://documentgenerator.amsterdam.nl
 https://docwerker.amsterdam.nl
+https://doe-mee-test.coevorden.nl
+https://doe-mee.coevorden.nl
 https://doemee.bloemendaal.nl
 https://doemee.gemeentebest.nl
 https://druktebeeld.amsterdam.nl
@@ -702,6 +713,7 @@ https://financials-acc.apeldoorn.nl
 https://financials.apeldoorn.nl
 https://financien.amersfoort.nl
 https://financien.arnhem.nl
+https://financien.coevorden.nl
 https://flevoparkbad.amsterdam.nl
 https://floriade.almere.nl
 https://flowmailer-tracking.almelo.nl
@@ -790,6 +802,7 @@ https://histor-web-fa.amsterdam.nl
 https://histor-web.acc.amsterdam.nl
 https://histor-web.amsterdam.nl
 https://histor-web.tst.amsterdam.nl
+https://hofnet.coevorden.nl
 https://hor-acc.amsterdam.nl
 https://hor.amsterdam.nl
 https://hout.almere.nl
@@ -825,6 +838,7 @@ https://iburgerzaken.breda.nl
 https://iburgerzaken.brielle.nl
 https://iburgerzaken.bronckhorst.nl
 https://iburgerzaken.buren.nl
+https://iburgerzaken.coevorden.nl
 https://iburgerzaken.gemeentebeek.nl
 https://iburgerzaken.gemeentebest.nl
 https://id-beheer-erfpacht-acc.amsterdam.nl
@@ -1017,6 +1031,7 @@ https://mijnoverzicht.alphenaandenrijn.nl
 https://mijnoverzicht.boxtel.nl
 https://mijnplan.gemeenteberkelland.nl
 https://mijnsbl.amsterdam.nl
+https://mijnshv.coevorden.nl
 https://mijnsociaalplein.bergen-nh.nl
 https://mijnsociaalplein.castricum.nl
 https://mijnsociaalportaal-acc.bergen-nh.nl
@@ -1386,11 +1401,13 @@ https://taxiportaal.amsterdam.nl
 https://telecom.apeldoorn.nl
 https://test-binnenshuis.bergen.nl
 https://test-cmsbink.beverwijk.nl
+https://test-cmshofnet.coevorden.nl
 https://test-cmsintranet.gemeentebeek.nl
 https://test-digikoppeling.brielle.nl
 https://test-e-loket.apeldoorn.nl
 https://test-eloket.brunssum.nl
 https://test-formulier.assen.nl
+https://test-hofnet.coevorden.nl
 https://test-keycloak.assen.nl
 https://test-mijn.assen.nl
 https://test-notificaties.assen.nl
@@ -1512,13 +1529,17 @@ https://wob.arnhem.nl
 https://wonenportaal.amsterdam.nl
 https://woningbouwkaart.assen.nl
 https://woningbouwkaart.borger-odoorn.nl
+https://woningbouwkaart.coevorden.nl
 https://woningdossier.assen.nl
 https://woo.arnhem.nl
 https://wooloket.bernheze.org
 https://workspace365.almelo.nl
 https://woww.boxtel.nl
+https://woz-loket.coevorden.nl
 https://wozloket-acc.borger-odoorn.nl
+https://wozloket-acc.coevorden.nl
 https://wozloket.borger-odoorn.nl
+https://wozloket.coevorden.nl
 https://wppbeheer.acc.amsterdam.nl
 https://wppbeheer.amsterdam.nl
 https://www.aaenhunze.nl
@@ -1576,6 +1597,7 @@ https://www.buurtbudgetzuidoost.amsterdam.nl
 https://www.castricum.nl
 https://www.centrumbegroot.alphenaandenrijn.nl
 https://www.centrumbegroot.amsterdam.nl
+https://www.coevorden.nl
 https://www.containers.amsterdam.nl
 https://www.crk.amsterdam.nl
 https://www.doemee.bloemendaal.nl
@@ -1620,6 +1642,7 @@ https://www.vvetest.amsterdam.nl
 https://www.weespbegroot.amsterdam.nl
 https://www.werkenbij.alkmaar.nl
 https://www.westbegroot.amsterdam.nl
+https://www.woz-loket.coevorden.nl
 https://www.woz-portaal-eemnes.baarn.nl
 https://www.woz-portaal.baarn.nl
 https://www.zwammerdamdorpskern.alphenaandenrijn.nl
