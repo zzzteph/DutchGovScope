@@ -6,9 +6,9 @@ ibzpink
 afspraken
 edienstenburgerzaken
 intranet
+mijn
 secure
 simcms
-mijn
 edienstenburgerzaken-test
 simsite
 mail
@@ -26,12 +26,12 @@ formulieren
 adfs
 data
 meldingen
-werkplek
 portal
+werkplek
 pv
+afspraak
 eloket
 waarmerk
-afspraak
 betalen
 vpn
 werkenbij
@@ -41,21 +41,22 @@ geo
 loket.acceptatie
 mijnzorg
 ruimtelijkeplannen
+parkeren
 gemeenteraad
 opendata
 enterpriseregistration
 broker
 raad
 zaken
-parkeren
+omgevingsvisie
 kaart
 enterpriseenrollment
 formulier
 remote
 iparticipatie
 openpub
+zaaksysteem-accept
 hybrid
-omgevingsvisie
 snelbalie
 digikoppeling-test
 nieuwsbrief
@@ -70,6 +71,7 @@ cloudadapter
 smtp
 evenementen
 govroam
+portaal
 e
 kennisbank
 mailing
@@ -78,7 +80,6 @@ test-ipa
 openpdc
 verkiezingen
 osb
-zaaksysteem-accept
 mijninkomen
 duurzaam
 login
@@ -90,7 +91,6 @@ mks
 bgt
 feeds
 magazines
-portaal
 api.meldingen-acc
 meldingen-acc
 loket.test
@@ -105,6 +105,7 @@ siam
 ns
 atlas
 beeldbank
+apps
 parkeren-acc
 www.raad
 gis
@@ -132,6 +133,7 @@ izaaksuite
 wachtwoord
 bis
 flowmailer-tracking
+parkeren-test
 piwik
 belastingen
 maps
@@ -140,7 +142,6 @@ exchange
 qr
 vdi
 digikoppeling.test
-apps
 email
 ftp
 legacy
@@ -152,6 +153,7 @@ gp
 mijngeldzaken
 ns1
 bag
+bastion365
 media
 sip
 obsurv
@@ -165,6 +167,7 @@ zaken.acceptatie
 gasten
 formulieren-test
 intranet-acc
+uca
 www.doemee
 wozloket
 AutoDiscover
@@ -188,6 +191,7 @@ b2btest
 download
 fibt1
 fibt2.acc
+filetransfer
 otp
 rap
 services.acc
@@ -234,10 +238,10 @@ www.werkenbij
 api-meldingen.acc
 api-meldingen
 enquete
+geodata
 kennisnet
 makelaar
 meldingen.acc
-parkeren-test
 subsidies-backend.acceptatie
 subsidies-backend
 subsidies.acceptatie
@@ -295,7 +299,6 @@ wob
 woo
 acc-podiumd-logs
 afval
-bastion365
 keycloak
 lyncdiscover
 openformulieren
@@ -326,7 +329,6 @@ mijnsociaalplein
 mijnsociaalportaal-acc
 mijnsociaalportaal
 preprod-mijnsociaalplein
-uca
 esb
 inloggen
 liquit
@@ -620,7 +622,6 @@ fibi1
 fibi2.acc
 fibz1
 fibz2.acc
-filetransfer
 filetransfer.ont
 fiod.acc
 fmis.acc
@@ -1701,7 +1702,6 @@ almelo-centraal
 brandweer
 cimot
 directadmin
-geodata
 ids
 join-test
 join
@@ -4162,3 +4162,18 @@ programmabegroting2024.financielestukken
 scbroker
 vogelweide
 www.financielestukken
+apps-fat
+apps-vdi
+bestuur
+geodata-acc
+gisweb
+hetsociaalplein-acc
+hetsociaalplein
+kijk
+micc
+parkeeracties-test
+parkeeracties
+parkeren-siam-test
+parkeren-siam
+site
+training
