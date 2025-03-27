@@ -213,6 +213,7 @@ adfs.bernheze.org
 adfs.beverwijk.nl
 adfs.bodegraven-reeuwijk.nl
 adfs.bronckhorst.nl
+adfs.brummen.nl
 adfs.gemeentebeek.nl
 adfs.ggd.amsterdam.nl
 adiko.apeldoorn.nl
@@ -253,6 +254,7 @@ afspraken.beverwijk.nl
 afspraken.bladel.nl
 afspraken.borne.nl
 afspraken.bronckhorst.nl
+afspraken.brummen.nl
 afval.assen.nl
 afvalkalender.alphenaandenrijn.nl
 afvalkalender.borsele.nl
@@ -436,6 +438,7 @@ autodiscover.bodegraven-reeuwijk.nl
 autodiscover.borger-odoorn.nl
 autodiscover.borne.nl
 autodiscover.brielle.nl
+autodiscover.brummen.nl
 autodiscover.gemeentebeek.nl
 autodiscover.gemeenteberkelland.nl
 autodiscover.gemeentebest.nl
@@ -582,6 +585,7 @@ bgnvsv002.bergen.nl
 bgnvsv003.bergen.nl
 bgt.assen.nl
 bgt.baarn.nl
+bgt.brummen.nl
 bgtt.bergenopzoom.nl
 bhg.bba.amsterdam.nl
 bhgtest.bba.amsterdam.nl
@@ -629,6 +633,7 @@ broker.borger-odoorn.nl
 bronckhorst.nl
 brsoribi01.borsele.nl
 brsoribi02.borsele.nl
+brummen.nl
 buikslotermeerplein.amsterdam.nl
 bureaubroedplaatsen.amsterdam.nl
 burgerzaken.amsterdam.nl
@@ -1159,6 +1164,7 @@ ftp.afs.acc.amsterdam.nl
 ftp.afs.amsterdam.nl
 ftp.amsterdam.nl
 ftp.bodegraven-reeuwijk.nl
+ftp.brummen.nl
 ftp.data.amsterdam.nl
 ftp.dwiweb.amsterdam.nl
 ftp.dwiweb.brievenbus.amsterdam.nl
@@ -1618,6 +1624,7 @@ mail.bergenopzoom.nl
 mail.bernheze.org
 mail.bloemendaal.nl
 mail.borne.nl
+mail.brummen.nl
 mail.denkmee.amstelveen.nl
 mail.dmb.amsterdam.nl
 mail.gemeentebest.nl
@@ -1658,6 +1665,7 @@ mbg1.beverwijk.nl
 mdm-sentry.bronckhorst.nl
 mdm.borne.nl
 mdm.bronckhorst.nl
+mdm.brummen.nl
 mdr.beverwijk.nl
 me-api.acc.amsterdam.nl
 me-api.amsterdam.nl
@@ -1774,6 +1782,7 @@ mksacc.breda.nl
 mksp01bkl.boekel.nl
 mmc.formulieren.amsterdam.nl
 mo.apeldoorn.nl
+mobiel.brummen.nl
 mobiel.gemeentebeek.nl
 mobielbeek.gemeentebeek.nl
 mobile.borne.nl
@@ -1820,6 +1829,8 @@ nieuwsbrief.arnhem.nl
 nieuwsbrief.assen.nl
 nieuwsbrieven.amsterdam.nl
 nieuwwest.amsterdam.nl
+nip.brummen.nl
+niptest.brummen.nl
 nlgembek.gemeentebeek.nl
 nlgembrc.blaricum.nl
 nlgembrl.brielle.nl
@@ -2000,6 +2011,7 @@ pdc.alkmaar.nl
 personeelshandboek.bronckhorst.nl
 personeelsplanning.beekdaelen.nl
 persoonlijk.breda.nl
+petear.brummen.nl
 pfsense.secure.amsterdam.nl
 phpmyadmin.bodegraven-reeuwijk.nl
 pilot-digitaleplannen.apeldoorn.nl
@@ -2043,6 +2055,7 @@ portal.bergenopzoom.nl
 portal.beverwijk.nl
 portal.borne.nl
 portal.brandweer.amsterdam.nl
+portal.brummen.nl
 portal.dab.amsterdam.nl
 portal.data.alkmaar.nl
 portal.dro.amsterdam.nl
@@ -2131,6 +2144,7 @@ raad.albrandswaard.nl
 raad.arnhem.nl
 raad.asten.nl
 raad.bergendal.nl
+raad.brummen.nl
 raadsnet.aalten.nl
 raadsnet.bernheze.org
 rabbitmq.datapunt.amsterdam.nl
@@ -2181,6 +2195,7 @@ ruimtelijkeplannen.alkmaar.nl
 ruimtelijkeplannen.almelo.nl
 ruimtelijkeplannen.bodegraven-reeuwijk.nl
 ruimtelijkeplannen.borne.nl
+ruimtelijkeplannen.brummen.nl
 rx-mission-publiceren.borne.nl
 s4baccess.acc.amsterdam.nl
 s4bwebcon.acc.amsterdam.nl
@@ -2781,6 +2796,7 @@ www.brandweer.almelo.nl
 www.breda.nl
 www.brielle.nl
 www.bronckhorst.nl
+www.brummen.nl
 www.buikslotermeerplein.amsterdam.nl
 www.bureaubroedplaatsen.amsterdam.nl
 www.buurtbudget.amsterdam.nl

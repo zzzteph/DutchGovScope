@@ -31,6 +31,7 @@ http://autodiscover.bodegraven-reeuwijk.nl
 http://autodiscover.borger-odoorn.nl
 http://autodiscover.borne.nl
 http://autodiscover.brielle.nl
+http://autodiscover.brummen.nl
 http://autodiscover.gemeenteberkelland.nl
 http://autodiscover.gemeentebest.nl
 http://beekdaelen.nl
@@ -244,6 +245,7 @@ https://achtkarspelen.nl
 https://activiteiten.amsterdam.nl
 https://adfs.beekdaelen.nl
 https://adfs.bronckhorst.nl
+https://adfs.brummen.nl
 https://admin.doemee.bloemendaal.nl
 https://admin.schoolwijzer.amsterdam.nl
 https://adobe-analytics-dc.belastingdienst.nl
@@ -522,6 +524,7 @@ https://broker.borger-odoorn.nl
 https://bronckhorst.nl
 https://brt.basisregistraties.overheid.nl
 https://brt.test.basisregistraties.overheid.nl
+https://brummen.nl
 https://bta.omgevingswet.overheid.nl
 https://burgerzaken.amsterdam.nl
 https://buurtbudget.amsterdam.nl
@@ -1304,6 +1307,7 @@ https://mm.belastingdienst.nl
 https://mmc.formulieren.amsterdam.nl
 https://mnd-preprd.overheid.nl
 https://mnd.overheid.nl
+https://mobiel.brummen.nl
 https://mobile.ggd.amsterdam.nl
 https://monitoring-test5.koop.overheid.nl
 https://monitoring-test6.koop.overheid.nl
@@ -1466,6 +1470,7 @@ https://pdc.pre.omgevingswet.overheid.nl
 https://perf.omgevingswet.overheid.nl
 https://persberichten.rijksoverheid.nl
 https://personeelsplanning.beekdaelen.nl
+https://petear.brummen.nl
 https://pgw.belastingdienst.nl
 https://phpmyadmin.bodegraven-reeuwijk.nl
 https://pih.belastingdienst.nl
@@ -1573,6 +1578,7 @@ https://raad.albrandswaard.nl
 https://raad.arnhem.nl
 https://raad.asten.nl
 https://raad.bergendal.nl
+https://raad.brummen.nl
 https://rcgog.nl
 https://rd1.toegang.overheid.nl
 https://rd2.toegang.overheid.nl
@@ -2032,6 +2038,7 @@ https://www.boxtel.nl
 https://www.breda.nl
 https://www.brielle.nl
 https://www.bronckhorst.nl
+https://www.brummen.nl
 https://www.bta.omgevingswet.overheid.nl
 https://www.buurtbudget.amsterdam.nl
 https://www.buurtbudgetnoord.amsterdam.nl
