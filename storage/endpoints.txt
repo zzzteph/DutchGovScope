@@ -265,6 +265,7 @@ https://adfs.beekdaelen.nl
 https://adfs.bronckhorst.nl
 https://adfs.brummen.nl
 https://adfs.brunssum.nl
+https://adfslogin.defryskemarren.nl
 https://admin.doemee.bloemendaal.nl
 https://admin.schoolwijzer.amsterdam.nl
 https://adobe-analytics-dc.belastingdienst.nl
@@ -277,6 +278,7 @@ https://afs.tst.amsterdam.nl
 https://afspraak.arnhem.nl
 https://afspraak.barneveld.nl
 https://afspraak.borsele.nl
+https://afspraak.defryskemarren.nl
 https://afspraak.gemeenteberkelland.nl
 https://afspraken.alkmaar.nl
 https://afspraken.amersfoort.nl
@@ -295,6 +297,7 @@ https://afval.omgevingswet.overheid.nl
 https://afvalkalender.alphenaandenrijn.nl
 https://afvalkalender.borsele.nl
 https://afvalkalender.cranendonck.nl
+https://afvalkalender.defryskemarren.nl
 https://agbi.apeldoorn.nl
 https://agwp01.azweu.alkmaar.nl
 https://aip.amsterdam.nl
@@ -415,6 +418,7 @@ https://auth.doemee.bloemendaal.nl
 https://autodiscover.almere.nl
 https://autodiscover.apeldoorn.nl
 https://autodiscover.beverwijk.nl
+https://autodiscover.defryskemarren.nl
 https://autodiscover.ggd.amsterdam.nl
 https://autodiscover.koop.overheid.nl
 https://autorisatie.bloemendaal.nl
@@ -557,6 +561,7 @@ https://brt.test.basisregistraties.overheid.nl
 https://brummen.nl
 https://brunssum.nl
 https://bta.omgevingswet.overheid.nl
+https://buitenoporde.defryskemarren.nl
 https://bunnik.nl
 https://bunschoten.nl
 https://buren.nl
@@ -600,6 +605,7 @@ https://cms-binnenshuis.bergen.nl
 https://cms-joost.beuningen.nl
 https://cms.bernheze.org
 https://cmsbink.beverwijk.nl
+https://cmsdieuwke.defryskemarren.nl
 https://cmsgui.ondernemersplein.overheid.nl
 https://cmshofnet.coevorden.nl
 https://cmsintranet.gemeentebeek.nl
@@ -694,6 +700,7 @@ https://decosvor.amsterdam.nl
 https://decoswonen.acc.amsterdam.nl
 https://decoswonen.amsterdam.nl
 https://deelscooters.doemee.bloemendaal.nl
+https://defryskemarren.nl
 https://delta.belastingdienst.nl
 https://demirandabad.amsterdam.nl
 https://demo.doemee.bloemendaal.nl
@@ -710,6 +717,7 @@ https://developer.overheid.nl
 https://deventit.breda.nl
 https://devportal.api.amsterdam.nl
 https://dex.meldingen.alphenaandenrijn.nl
+https://dieuwke.defryskemarren.nl
 https://digid-parkeervergunningen-acc.beverwijk.nl
 https://digid-parkeervergunningen.beverwijk.nl
 https://digid-stub.lpc.mijn.overheid.nl
@@ -789,6 +797,7 @@ https://e.videobellen.toeslagen.nl
 https://ebms.contentbeheer.acc.omgevingswet.overheid.nl
 https://ebms.contentbeheer.omgevingswet.overheid.nl
 https://ebms.service.bta.omgevingswet.overheid.nl
+https://edienstaanvragensd.defryskemarren.nl
 https://edienstenaanvragensd-acceptatie.albrandswaard.nl
 https://edienstenaanvragensd-acceptatie.barendrecht.nl
 https://edienstenaanvragensd.albrandswaard.nl
@@ -811,6 +820,7 @@ https://edienstenburgerzaken-test.brunssum.nl
 https://edienstenburgerzaken-test.bunschoten.nl
 https://edienstenburgerzaken-test.castricum.nl
 https://edienstenburgerzaken-test.dantumadiel.frl
+https://edienstenburgerzaken-test.defryskemarren.nl
 https://edienstenburgerzaken-test.gemeenteberkelland.nl
 https://edienstenburgerzaken.aalsmeer.nl
 https://edienstenburgerzaken.aalten.nl
@@ -832,6 +842,7 @@ https://edienstenburgerzaken.brunssum.nl
 https://edienstenburgerzaken.bunschoten.nl
 https://edienstenburgerzaken.castricum.nl
 https://edienstenburgerzaken.dantumadiel.frl
+https://edienstenburgerzaken.defryskemarren.nl
 https://edienstenburgerzaken.gemeenteberkelland.nl
 https://edienstenburgerzaken.test.aalsmeer.nl
 https://edienstenburgerzaken.test.amstelveen.nl
@@ -847,6 +858,7 @@ https://edienstverlening.barendrecht.nl
 https://editor-drp-preprd.overheid.nl
 https://editor-drp.overheid.nl
 https://efm.belastingdienst.nl
+https://eformaccept.defryskemarren.nl
 https://eidas-stub.lpc.mijn.overheid.nl
 https://elkk.amsterdam.nl
 https://eloket.almere.nl
@@ -920,6 +932,7 @@ https://erisa.fa2.amsterdam.nl
 https://erisa.ft.amsterdam.nl
 https://eubtw.belastingdienst.nl
 https://evenementen.breda.nl
+https://exchange.defryskemarren.nl
 https://externe-veiligheid.omgevingswet.overheid.nl
 https://extranet.alphen-chaam.nl
 https://f2b.belastingdienst.nl
@@ -988,6 +1001,7 @@ https://formulieren.bodegraven-reeuwijk.nl
 https://formulieren.bronckhorst.nl
 https://formulieren.buren.nl
 https://formulieren.culemborg.nl
+https://formulieren.defryskemarren.nl
 https://fotobank.amsterdam.nl
 https://frontoffice-parkeervergunningen-acc.beverwijk.nl
 https://frontoffice-parkeervergunningen.beverwijk.nl
@@ -1302,6 +1316,7 @@ https://mail.bloemendaal.nl
 https://mail.koop.overheid.nl
 https://mailing.alphenaandenrijn.nl
 https://mailing.borsele.nl
+https://mailing.defryskemarren.nl
 https://mailing.gemeentebeek.nl
 https://mailing.logius.nl
 https://makelaar.brielle.nl
@@ -1316,6 +1331,7 @@ https://mbg1.beverwijk.nl
 https://mbg1.dantumadiel.frl
 https://mbg2.dantumadiel.frl
 https://medewerkers.buren.nl
+https://medewerkers.defryskemarren.nl
 https://meedenken.arnhem.nl
 https://meedoen-acc.borger-odoorn.nl
 https://meedoen.baarn.nl
@@ -1355,6 +1371,7 @@ https://mijn.belastingdienst.nl
 https://mijn.beuningen.nl
 https://mijn.buren.nl
 https://mijn.debilt.nl
+https://mijn.defryskemarren.nl
 https://mijn.igj.nl
 https://mijn.overheid.nl
 https://mijn.toeslagen.nl
@@ -1370,9 +1387,11 @@ https://mijninkomen-test.almelo.nl
 https://mijninkomen.almelo.nl
 https://mijninkomen.almere.nl
 https://mijninkomen.beverwijk.nl
+https://mijninkomen.defryskemarren.nl
 https://mijnoverzicht.alphenaandenrijn.nl
 https://mijnoverzicht.boxtel.nl
 https://mijnplan.gemeenteberkelland.nl
+https://mijnportaal.defryskemarren.nl
 https://mijnsbl.amsterdam.nl
 https://mijnshv.coevorden.nl
 https://mijnsociaalplein.bergen-nh.nl
@@ -1529,11 +1548,13 @@ https://openklant.assen.nl
 https://openpdc.albrandswaard.nl
 https://openpdc.alkmaar.nl
 https://openpdc.barendrecht.nl
+https://openpdc.defryskemarren.nl
 https://openpdc.gemeenteberkelland.nl
 https://openpub.albrandswaard.nl
 https://openpub.alkmaar.nl
 https://openpub.barendrecht.nl
 https://openpub.buren.nl
+https://openpub.defryskemarren.nl
 https://openpub.gemeenteberkelland.nl
 https://openwave.beverwijk.nl
 https://openzaak-tst.amsterdam.nl
@@ -1641,10 +1662,14 @@ https://praatmee.boxtel.nl
 https://prd.afs.amsterdam.nl
 https://pre.omgevingswet.overheid.nl
 https://preprod-broker.buren.nl
+https://preprod-edienstaanvragensd.defryskemarren.nl
 https://preprod-formulieren.buren.nl
 https://preprod-mijn.albrandswaard.nl
 https://preprod-mijn.barendrecht.nl
+https://preprod-mijn.defryskemarren.nl
 https://preprod-mijninkomen.beverwijk.nl
+https://preprod-mijninkomen.defryskemarren.nl
+https://preprod-mijnportaal.defryskemarren.nl
 https://preprod-mijnsociaalplein.bergen-nh.nl
 https://preprod-mijnsociaalplein.castricum.nl
 https://preprod.mijn.overheid.nl
@@ -1947,6 +1972,7 @@ https://taxiportaal.amsterdam.nl
 https://telecom.apeldoorn.nl
 https://test-binnenshuis.bergen.nl
 https://test-cmsbink.beverwijk.nl
+https://test-cmsdieuwke.defryskemarren.nl
 https://test-cmshofnet.coevorden.nl
 https://test-cmsintranet.gemeentebeek.nl
 https://test-dictu.comcms.logius.nl
@@ -2096,6 +2122,7 @@ https://werkenbij.ameland.nl
 https://werkenbij.amsterdam.nl
 https://werkenbij.barneveld.nl
 https://werkenbij.buren.nl
+https://werkenbij.defryskemarren.nl
 https://werkenbij.toeslagen.nl
 https://werkenvoor.acceptatie.amstelveen.nl
 https://werkenvoor.amstelveen.nl
@@ -2206,6 +2233,7 @@ https://www.crk.amsterdam.nl
 https://www.culemborg.nl
 https://www.dantumadiel.frl
 https://www.debilt.nl
+https://www.defryskemarren.nl
 https://www.dmo.omgevingswet.overheid.nl
 https://www.doemee.bloemendaal.nl
 https://www.duurzaam.alphenaandenrijn.nl

@@ -300,6 +300,7 @@ adfs.brunssum.nl
 adfs.bunschoten.nl
 adfs.gemeentebeek.nl
 adfs.ggd.amsterdam.nl
+adfslogin.defryskemarren.nl
 adiko.apeldoorn.nl
 admin-acc.datapunt.amsterdam.nl
 admin.data.amsterdam.nl
@@ -326,6 +327,7 @@ afspraak.boekel.nl
 afspraak.borsele.nl
 afspraak.boxtel.nl
 afspraak.castricum.nl
+afspraak.defryskemarren.nl
 afspraak.gemeenteberkelland.nl
 afspraken-test.brunssum.nl
 afspraken.alkmaar.nl
@@ -356,6 +358,7 @@ afval.omgevingswet.overheid.nl
 afvalkalender.alphenaandenrijn.nl
 afvalkalender.borsele.nl
 afvalkalender.cranendonck.nl
+afvalkalender.defryskemarren.nl
 agbi.apeldoorn.nl
 agis.apeldoorn.nl
 agwp01.azweu.alkmaar.nl
@@ -603,6 +606,7 @@ autodiscover.cranendonck.nl
 autodiscover.dalfsen.nl
 autodiscover.dantumadiel.frl
 autodiscover.debilt.nl
+autodiscover.defryskemarren.nl
 autodiscover.gemeentebeek.nl
 autodiscover.gemeenteberkelland.nl
 autodiscover.gemeentebest.nl
@@ -920,6 +924,7 @@ bsmpki.brunssum.nl
 bsmpkitest.brunssum.nl
 bta.omgevingswet.overheid.nl
 buikslotermeerplein.amsterdam.nl
+buitenoporde.defryskemarren.nl
 bunnik.nl
 bunschoten.nl
 bureaubroedplaatsen.amsterdam.nl
@@ -1026,6 +1031,7 @@ cms1.rijksoverheid.nl
 cms2.rijksoverheid.nl
 cmsbink.beverwijk.nl
 cmsdev.rijksoverheid.nl
+cmsdieuwke.defryskemarren.nl
 cmsgui.ondernemersplein.overheid.nl
 cmshofnet.coevorden.nl
 cmsintranet.gemeentebeek.nl
@@ -1199,6 +1205,7 @@ decoswonen.acc.amsterdam.nl
 decoswonen.amsterdam.nl
 decreg-acc.overheid.nl
 deelscooters.doemee.bloemendaal.nl
+defryskemarren.nl
 dell-beheer.ovh.gemeentebeek.nl
 dell1.servers1.bergen-nh.nl
 dell2.bergen-nh.nl
@@ -1237,6 +1244,7 @@ dialin.acc.amsterdam.nl
 dialin.assen.nl
 dict.amsterdam.nl
 diensten.almere.nl
+dieuwke.defryskemarren.nl
 digid-parkeervergunningen-acc.beverwijk.nl
 digid-parkeervergunningen.beverwijk.nl
 digid-stub.lpc.mijn.overheid.nl
@@ -1434,6 +1442,7 @@ ebms.achtkarspelen.nl
 ebms.contentbeheer.acc.omgevingswet.overheid.nl
 ebms.contentbeheer.omgevingswet.overheid.nl
 ebms.service.bta.omgevingswet.overheid.nl
+edienstaanvragensd.defryskemarren.nl
 edienstenaanvragensd-acceptatie.albrandswaard.nl
 edienstenaanvragensd-acceptatie.barendrecht.nl
 edienstenaanvragensd.albrandswaard.nl
@@ -1457,6 +1466,7 @@ edienstenburgerzaken-test.brunssum.nl
 edienstenburgerzaken-test.bunschoten.nl
 edienstenburgerzaken-test.castricum.nl
 edienstenburgerzaken-test.dantumadiel.frl
+edienstenburgerzaken-test.defryskemarren.nl
 edienstenburgerzaken-test.gemeenteberkelland.nl
 edienstenburgerzaken.aalsmeer.nl
 edienstenburgerzaken.aalten.nl
@@ -1478,6 +1488,7 @@ edienstenburgerzaken.brunssum.nl
 edienstenburgerzaken.bunschoten.nl
 edienstenburgerzaken.castricum.nl
 edienstenburgerzaken.dantumadiel.frl
+edienstenburgerzaken.defryskemarren.nl
 edienstenburgerzaken.gemeenteberkelland.nl
 edienstenburgerzaken.test.aalsmeer.nl
 edienstenburgerzaken.test.amstelveen.nl
@@ -1498,6 +1509,7 @@ editor-drp-preprd.overheid.nl
 editor-drp.overheid.nl
 efacturen.debilt.nl
 efm.belastingdienst.nl
+eformaccept.defryskemarren.nl
 eforms.beesel.nl
 egress-repro.alkmaar.nl
 eidas-stub.lpc.mijn.overheid.nl
@@ -1608,6 +1620,7 @@ event.acc.belastingdienst.nl
 event.belastingdienst.nl
 exchange.alphenaandenrijn.nl
 exchange.assen.nl
+exchange.defryskemarren.nl
 exchange2.alphenaandenrijn.nl
 extern-abv-acc.belastingdienst.nl
 extern.borger-odoorn.nl
@@ -1653,6 +1666,7 @@ felix.bunschoten.nl
 felix.capelleaandenijssel.nl
 felix.cranendonck.nl
 felix.dalfsen.nl
+felix.defryskemarren.nl
 felix.gemeentebeek.nl
 fgt.amstelveen.nl
 fibb1.belastingdienst.nl
@@ -1746,6 +1760,7 @@ formulieren.bronckhorst.nl
 formulieren.buren.nl
 formulieren.culemborg.nl
 formulieren.dalfsen.nl
+formulieren.defryskemarren.nl
 formulieren1.amsterdam.nl
 formulierenacc.breda.nl
 formulierenaccdirect.breda.nl
@@ -2509,6 +2524,7 @@ mailexo.amsterdam.nl
 mailhost.centrum.amsterdam.nl
 mailing.alphenaandenrijn.nl
 mailing.borsele.nl
+mailing.defryskemarren.nl
 mailing.gemeentebeek.nl
 mailing.logius.nl
 mailrelay1.overheid.nl
@@ -2549,12 +2565,14 @@ mdm-sentry.bronckhorst.nl
 mdm.borne.nl
 mdm.bronckhorst.nl
 mdm.brummen.nl
+mdmcore.defryskemarren.nl
 mdr.beverwijk.nl
 me-api.acc.amsterdam.nl
 me-api.amsterdam.nl
 med-srv20.rijksoverheid.nl
 medeleven.apeldoorn.nl
 medewerkers.buren.nl
+medewerkers.defryskemarren.nl
 media.assen.nl
 meedenken.arnhem.nl
 meedoen-acc.borger-odoorn.nl
@@ -2623,6 +2641,7 @@ mijn.bronckhorst.nl
 mijn.buren.nl
 mijn.data.amsterdam.nl
 mijn.debilt.nl
+mijn.defryskemarren.nl
 mijn.igj.nl
 mijn.ont.belastingdienst.nl
 mijn.overheid.nl
@@ -2668,6 +2687,7 @@ mijninkomen-test.almelo.nl
 mijninkomen.almelo.nl
 mijninkomen.almere.nl
 mijninkomen.beverwijk.nl
+mijninkomen.defryskemarren.nl
 mijnkaarten.ovh.gemeentebeek.nl
 mijnmobiel.gemeentebeek.nl
 mijnmobiel.oa.amsterdam.nl
@@ -2677,6 +2697,7 @@ mijnoverzicht.boxtel.nl
 mijnpersoneelsnet.amsterdam.nl
 mijnplan.gemeenteberkelland.nl
 mijnplein.assen.nl
+mijnportaal.defryskemarren.nl
 mijnsbl-acc.amsterdam.nl
 mijnsbl-test.amsterdam.nl
 mijnsbl.amsterdam.nl
@@ -2992,11 +3013,13 @@ openklant.assen.nl
 openpdc.albrandswaard.nl
 openpdc.alkmaar.nl
 openpdc.barendrecht.nl
+openpdc.defryskemarren.nl
 openpdc.gemeenteberkelland.nl
 openpub.albrandswaard.nl
 openpub.alkmaar.nl
 openpub.barendrecht.nl
 openpub.buren.nl
+openpub.defryskemarren.nl
 openpub.gemeenteberkelland.nl
 openvas.datapunt.amsterdam.nl
 openwave.beverwijk.nl
@@ -3216,15 +3239,19 @@ praatmee.boxtel.nl
 prd.afs.amsterdam.nl
 pre.omgevingswet.overheid.nl
 preprod-broker.buren.nl
+preprod-edienstaanvragensd.defryskemarren.nl
 preprod-formulieren.buren.nl
 preprod-machtigen.digipoort.logius.nl
 preprod-mijn.albrandswaard.nl
 preprod-mijn.barendrecht.nl
+preprod-mijn.defryskemarren.nl
 preprod-mijngeldzaken.arnhem.nl
 preprod-mijninkomen.almere.nl
 preprod-mijninkomen.beverwijk.nl
+preprod-mijninkomen.defryskemarren.nl
 preprod-mijnoverzicht.boxtel.nl
 preprod-mijnplan.gemeenteberkelland.nl
+preprod-mijnportaal.defryskemarren.nl
 preprod-mijnsociaalplein.bergen-nh.nl
 preprod-mijnsociaalplein.castricum.nl
 preprod-portalen.digipoort.logius.nl
@@ -3253,6 +3280,7 @@ preproductie.castricum.nl
 preproductie.cranendonck.nl
 preproductie.culemborg.nl
 preproductie.dalfsen.nl
+preproductie.defryskemarren.nl
 preproductie.gemeentebeek.nl
 presenteren.ont.belastingdienst.nl
 preview-eto.overheid.nl
@@ -3603,6 +3631,7 @@ simcms.bunschoten.nl
 simcms.capelleaandenijssel.nl
 simcms.cranendonck.nl
 simcms.dalfsen.nl
+simcms.defryskemarren.nl
 simcms.gemeentebeek.nl
 simcms2.beekdaelen.nl
 simcmsintra.bergeijk.nl
@@ -3627,6 +3656,7 @@ simsite.bronckhorst.nl
 simsite.bunschoten.nl
 simsite.cranendonck.nl
 simsite.culemborg.nl
+simsite.defryskemarren.nl
 simsite.gemeentebeek.nl
 sip.assen.nl
 sip.castricum.nl
@@ -3910,11 +3940,13 @@ telewerken.amsterdam.nl
 test-bink.beverwijk.nl
 test-binnenshuis.bergen.nl
 test-cmsbink.beverwijk.nl
+test-cmsdieuwke.defryskemarren.nl
 test-cmshofnet.coevorden.nl
 test-cmsintranet.gemeentebeek.nl
 test-dictu.comcms.logius.nl
 test-dictu.kennisbank.logius.nl
 test-dictu.logius.nl
+test-dieuwke.defryskemarren.nl
 test-digikoppeling.assen.nl
 test-digikoppeling.beesel.nl
 test-digikoppeling.brielle.nl
@@ -4290,6 +4322,7 @@ werkenbij.amsterdam.nl
 werkenbij.barneveld.nl
 werkenbij.buren.nl
 werkenbij.dantumadiel.frl
+werkenbij.defryskemarren.nl
 werkenbij.toeslagen.nl
 werkenvoor.acceptatie.amstelveen.nl
 werkenvoor.amstelveen.nl
@@ -4482,6 +4515,7 @@ www.dalfsen.nl
 www.dantumadiel.frl
 www.data.amsterdam.nl
 www.debilt.nl
+www.defryskemarren.nl
 www.dmo.amsterdam.nl
 www.dmo.omgevingswet.overheid.nl
 www.dmo2.amsterdam.nl
