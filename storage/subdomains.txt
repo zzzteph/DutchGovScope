@@ -29,9 +29,9 @@ portal
 waarmerk
 afspraak
 adfs
+betalen
 data
 gemeenteraad
-betalen
 vpn
 geo
 meldingen
@@ -545,6 +545,7 @@ stemvan
 www.gemeente
 contact
 geoportaaltest
+geo-secure
 financieelportaal
 en
 aaa
@@ -4483,7 +4484,6 @@ dktstdn
 sstpvpn
 whatsepe
 www.filecap
-geo-secure
 onlinedorpsgesprek
 Edienstenburgerzaken-test
 Edienstenburgerzaken
@@ -5118,3 +5118,7 @@ tunnel
 vdi-uitwijk
 zwembaden
 zwemles
+gemeentelijkebelastingen
+onlinestadsgesprek
+scoremodule
+webkassa
