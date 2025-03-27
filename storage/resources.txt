@@ -137,6 +137,7 @@ acc.bp.data.amsterdam.nl
 acc.breda.nl
 acc.catalogus.data.amsterdam.nl
 acc.contactherstelservice.lpc.mijn.overheid.nl
+acc.dantumadiel.frl
 acc.data.amsterdam.nl
 acc.datapunt.amsterdam.nl
 acc.demolab.amsterdam.nl
@@ -263,6 +264,7 @@ acceptatie.asten.nl
 acceptatie.baarle-nassau.nl
 acceptatie.boxtel.nl
 acceptatie.culemborg.nl
+acceptatie.dantumadiel.frl
 acceptatie.gemeentebeek.nl
 acceptatie.omgevingswet.overheid.nl
 acceptatieloket.bergen-nh.nl
@@ -596,6 +598,7 @@ autodiscover.brummen.nl
 autodiscover.coevorden.nl
 autodiscover.cranendonck.nl
 autodiscover.dalfsen.nl
+autodiscover.dantumadiel.frl
 autodiscover.gemeentebeek.nl
 autodiscover.gemeenteberkelland.nl
 autodiscover.gemeentebest.nl
@@ -869,6 +872,8 @@ bodem-ondergrond.omgevingswet.overheid.nl
 boekel.nl
 bomen.amsterdam.nl
 boostjebuurt.amsterdam.nl
+bor-acc.dantumadiel.frl
+bor.dantumadiel.frl
 borger-odoorn.nl
 borne.nl
 borsele.nl
@@ -1030,6 +1035,7 @@ cognitatie.omgevingswet.overheid.nl
 cognitatie.tst.omgevingswet.overheid.nl
 cognos-test.brunssum.nl
 cognos.brunssum.nl
+collecties.dantumadiel.frl
 college.alblasserdam.nl
 college.albrandswaard.nl
 comcms.logius.nl
@@ -1041,10 +1047,13 @@ componenten.overheid.nl
 conference.assen.nl
 connect-preprod.almere.nl
 connect.acceptatie.coevorden.nl
+connect.acceptatie.dantumadiel.frl
 connect.acceptatie.gemeentebeek.nl
 connect.coevorden.nl
+connect.dantumadiel.frl
 connect.gemeentebeek.nl
 connect.test.coevorden.nl
+connect.test.dantumadiel.frl
 connectpeople.acc.belastingdienst.nl
 connectpeople.belastingdienst.nl
 connectpeople.ont.belastingdienst.nl
@@ -1063,11 +1072,14 @@ content.acc.omgevingswet.overheid.nl
 content.omgevingswet.overheid.nl
 contentbeheer.acc.omgevingswet.overheid.nl
 contentbeheer.acceptatie.coevorden.nl
+contentbeheer.acceptatie.dantumadiel.frl
 contentbeheer.acceptatie.gemeentebeek.nl
 contentbeheer.coevorden.nl
+contentbeheer.dantumadiel.frl
 contentbeheer.gemeentebeek.nl
 contentbeheer.omgevingswet.overheid.nl
 contentbeheer.test.coevorden.nl
+contentbeheer.test.dantumadiel.frl
 contentbeheer.tst.omgevingswet.overheid.nl
 contentcreatie-eto.overheid.nl
 copper.dbga.acc.amsterdam.nl
@@ -1085,6 +1097,7 @@ crl.amersfoort.nl
 crypt.apeldoorn.nl
 cryptacc.apeldoorn.nl
 csc.beverwijk.nl
+csc.dantumadiel.frl
 cscp.barneveld.nl
 csg.dab.amsterdam.nl
 csoacct.werkenvoornederland.nl
@@ -1119,6 +1132,7 @@ dagbesteding.apeldoorn.nl
 dalfsen.nl
 dali.alphenaandenrijn.nl
 dali.brielle.nl
+dantumadiel.frl
 dap.amsterdam.nl
 dash-ma.mijn.overheid.nl
 dash-mp.mijn.overheid.nl
@@ -1432,6 +1446,7 @@ edienstenburgerzaken-test.boxtel.nl
 edienstenburgerzaken-test.brunssum.nl
 edienstenburgerzaken-test.bunschoten.nl
 edienstenburgerzaken-test.castricum.nl
+edienstenburgerzaken-test.dantumadiel.frl
 edienstenburgerzaken-test.gemeenteberkelland.nl
 edienstenburgerzaken.aalsmeer.nl
 edienstenburgerzaken.aalten.nl
@@ -1452,6 +1467,7 @@ edienstenburgerzaken.boxtel.nl
 edienstenburgerzaken.brunssum.nl
 edienstenburgerzaken.bunschoten.nl
 edienstenburgerzaken.castricum.nl
+edienstenburgerzaken.dantumadiel.frl
 edienstenburgerzaken.gemeenteberkelland.nl
 edienstenburgerzaken.test.aalsmeer.nl
 edienstenburgerzaken.test.amstelveen.nl
@@ -1512,6 +1528,7 @@ enterpriseenrollment.bergenopzoom.nl
 enterpriseenrollment.bladel.nl
 enterpriseenrollment.bronckhorst.nl
 enterpriseenrollment.dalfsen.nl
+enterpriseenrollment.dantumadiel.frl
 enterpriseone-arc.almere.nl
 enterpriseone-dv.almere.nl
 enterpriseone-py.almere.nl
@@ -2166,8 +2183,11 @@ inloggen.belastingportaal.acc.assen.nl
 inloggen.belastingportaal.assen.nl
 inloggen.castricum.nl
 inloggen.gemeenteberkelland.nl
+inproces.acceptatie.dantumadiel.frl
 inproces.acceptatie.gemeentebeek.nl
+inproces.dantumadiel.frl
 inproces.gemeentebeek.nl
+inproces.test.dantumadiel.frl
 inspraakmaatregel15.amsterdam.nl
 instroom.belastingdienst.nl
 int.omgevingswet.overheid.nl
@@ -2390,6 +2410,7 @@ loket.acceptatie.albrandswaard.nl
 loket.acceptatie.amstelveen.nl
 loket.acceptatie.barendrecht.nl
 loket.acceptatie.coevorden.nl
+loket.acceptatie.dantumadiel.frl
 loket.alblasserdam.nl
 loket.albrandswaard.nl
 loket.amstelveen.nl
@@ -2401,10 +2422,12 @@ loket.borne.nl
 loket.breda.nl
 loket.bunnik.nl
 loket.coevorden.nl
+loket.dantumadiel.frl
 loket.overheid.nl
 loket.test.aalsmeer.nl
 loket.test.amstelveen.nl
 loket.test.amsterdam.nl
+loket.test.dantumadiel.frl
 loketacc.arnhem.nl
 loo-tv.brunssum.nl
 looplijst.top.amsterdam.nl
@@ -2500,7 +2523,10 @@ matchpointkp.dmo.acc.amsterdam.nl
 matenpark.apeldoorn.nl
 matomo.breda.nl
 mbg.buren.nl
+mbg.dantumadiel.frl
 mbg1.beverwijk.nl
+mbg1.dantumadiel.frl
+mbg2.dantumadiel.frl
 mc.belastingdienst.nl
 mc.ont.belastingdienst.nl
 mdm-sentry.bronckhorst.nl
@@ -3802,6 +3828,7 @@ subsidies-backend.almelo.nl
 subsidies.acceptatie.almelo.nl
 subsidies.almelo.nl
 subsites.amsterdam.nl
+suite4burgerzaken-prod.dantumadiel.frl
 suite4burgerzaken-test.brunssum.nl
 suite4burgerzaken.brunssum.nl
 summit-ft.amsterdam.nl
@@ -4009,6 +4036,7 @@ tv.gemeentebest.nl
 typo3.borger-odoorn.nl
 ubor.amsterdam.nl
 uc.beverwijk.nl
+uc.dantumadiel.frl
 uca.bergen-nh.nl
 uca.bernheze.org
 uitvaartagenda-dev.apeldoorn.nl
@@ -4237,6 +4265,7 @@ werkenbij.ameland.nl
 werkenbij.amsterdam.nl
 werkenbij.barneveld.nl
 werkenbij.buren.nl
+werkenbij.dantumadiel.frl
 werkenbij.toeslagen.nl
 werkenvoor.acceptatie.amstelveen.nl
 werkenvoor.amstelveen.nl
@@ -4426,6 +4455,7 @@ www.cranendonck.nl
 www.crk.amsterdam.nl
 www.culemborg.nl
 www.dalfsen.nl
+www.dantumadiel.frl
 www.data.amsterdam.nl
 www.dmo.amsterdam.nl
 www.dmo.omgevingswet.overheid.nl
@@ -4594,13 +4624,16 @@ zaaksysteem-accept.beuningen.nl
 zaaksysteem-accept.gemeenteberkelland.nl
 zaalhuur.borne.nl
 zaken.acceptatie.coevorden.nl
+zaken.acceptatie.dantumadiel.frl
 zaken.acceptatie.gemeentebeek.nl
 zaken.alblasserdam.nl
 zaken.amersfoort.nl
 zaken.amsterdam.nl
 zaken.coevorden.nl
+zaken.dantumadiel.frl
 zaken.gemeentebeek.nl
 zaken.test.coevorden.nl
+zaken.test.dantumadiel.frl
 zaken.top.amsterdam.nl
 zdpushservice.overheid.nl
 zec.acc.amsterdam.nl

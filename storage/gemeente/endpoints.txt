@@ -29,6 +29,7 @@ http://autodiscover.brummen.nl
 http://autodiscover.coevorden.nl
 http://autodiscover.cranendonck.nl
 http://autodiscover.dalfsen.nl
+http://autodiscover.dantumadiel.frl
 http://autodiscover.gemeenteberkelland.nl
 http://autodiscover.gemeentebest.nl
 http://beekdaelen.nl
@@ -412,6 +413,7 @@ https://bmidms.amsterdam.nl
 https://bodegraven-reeuwijk.nl
 https://boekel.nl
 https://bomen.amsterdam.nl
+https://bor.dantumadiel.frl
 https://borger-odoorn.nl
 https://borne.nl
 https://borsele.nl
@@ -466,6 +468,7 @@ https://cmsoo.borne.nl
 https://cmsoo.coevorden.nl
 https://cmsoo.culemborg.nl
 https://coevorden.nl
+https://collecties.dantumadiel.frl
 https://college.alblasserdam.nl
 https://college.albrandswaard.nl
 https://connect-preprod.almere.nl
@@ -482,6 +485,7 @@ https://crl.amersfoort.nl
 https://crypt.apeldoorn.nl
 https://cryptacc.apeldoorn.nl
 https://csc.beverwijk.nl
+https://csc.dantumadiel.frl
 https://css.openstad.alphenaandenrijn.nl
 https://culemborg.nl
 https://cuup-web.amsterdam.nl
@@ -494,6 +498,7 @@ https://dagbesteding.apeldoorn.nl
 https://dalfsen.nl
 https://dali.alphenaandenrijn.nl
 https://dali.brielle.nl
+https://dantumadiel.frl
 https://dap.amsterdam.nl
 https://dashboard.makkelijkemarkt.amsterdam.nl
 https://data-test.bergendal.nl
@@ -614,6 +619,7 @@ https://edienstenburgerzaken-test.boxtel.nl
 https://edienstenburgerzaken-test.brunssum.nl
 https://edienstenburgerzaken-test.bunschoten.nl
 https://edienstenburgerzaken-test.castricum.nl
+https://edienstenburgerzaken-test.dantumadiel.frl
 https://edienstenburgerzaken-test.gemeenteberkelland.nl
 https://edienstenburgerzaken.aalsmeer.nl
 https://edienstenburgerzaken.aalten.nl
@@ -634,6 +640,7 @@ https://edienstenburgerzaken.boxtel.nl
 https://edienstenburgerzaken.brunssum.nl
 https://edienstenburgerzaken.bunschoten.nl
 https://edienstenburgerzaken.castricum.nl
+https://edienstenburgerzaken.dantumadiel.frl
 https://edienstenburgerzaken.gemeenteberkelland.nl
 https://edienstenburgerzaken.test.aalsmeer.nl
 https://edienstenburgerzaken.test.amstelveen.nl
@@ -672,6 +679,7 @@ https://enterpriseenrollment.ameland.nl
 https://enterpriseenrollment.bergenopzoom.nl
 https://enterpriseenrollment.bladel.nl
 https://enterpriseenrollment.dalfsen.nl
+https://enterpriseenrollment.dantumadiel.frl
 https://enterpriseone-arc.almere.nl
 https://enterpriseone-dv.almere.nl
 https://enterpriseone-py.almere.nl
@@ -987,11 +995,13 @@ https://loket.acceptatie.alblasserdam.nl
 https://loket.acceptatie.albrandswaard.nl
 https://loket.acceptatie.amstelveen.nl
 https://loket.acceptatie.barendrecht.nl
+https://loket.acceptatie.dantumadiel.frl
 https://loket.alblasserdam.nl
 https://loket.albrandswaard.nl
 https://loket.amstelveen.nl
 https://loket.barendrecht.nl
 https://loket.bunnik.nl
+https://loket.dantumadiel.frl
 https://loket.test.aalsmeer.nl
 https://loket.test.amstelveen.nl
 https://lyncdiscover.ggd.amsterdam.nl
@@ -1011,6 +1021,8 @@ https://maps.bodegraven-reeuwijk.nl
 https://matenpark.apeldoorn.nl
 https://matomo.breda.nl
 https://mbg1.beverwijk.nl
+https://mbg1.dantumadiel.frl
+https://mbg2.dantumadiel.frl
 https://medewerkers.buren.nl
 https://meedenken.arnhem.nl
 https://meedoen-acc.borger-odoorn.nl
@@ -1495,6 +1507,7 @@ https://tst-ubor.amsterdam.nl
 https://tv.gemeentebest.nl
 https://ubor.amsterdam.nl
 https://uc.beverwijk.nl
+https://uc.dantumadiel.frl
 https://uitvaartagenda-dev.apeldoorn.nl
 https://uitvaartagenda-staging.apeldoorn.nl
 https://uitvaartagenda-test.apeldoorn.nl
@@ -1642,6 +1655,7 @@ https://www.coevorden.nl
 https://www.containers.amsterdam.nl
 https://www.crk.amsterdam.nl
 https://www.culemborg.nl
+https://www.dantumadiel.frl
 https://www.doemee.bloemendaal.nl
 https://www.duurzaam.alphenaandenrijn.nl
 https://www.duurzaam.barneveld.nl
