@@ -8,15 +8,15 @@ edienstenburgerzaken-test
 mijn
 mail
 afspraken
-simsite
 intranet
+simsite
 webmail
 digikoppeling
 simcms
 secure
 preproductie
-probeer
 acceptatie
+probeer
 loket
 test
 felix
@@ -28,15 +28,15 @@ adfs
 dkd
 portal
 eloket
-afspraak
-api.meldingen
 waarmerk
-betalen
-data
+afspraak
 open
-parkeren
+api.meldingen
 gemeenteraad
+betalen
 vpn
+data
+parkeren
 geo
 pv
 ruimtelijkeplannen
@@ -125,9 +125,11 @@ mdm
 dtestmidoffice
 magazines
 evenementen
+mobiel
 belastingportaal
 gisib
 web
+thuiswerken
 afvalkalender
 ns
 atlas
@@ -153,11 +155,12 @@ _dmarc
 cms
 feeds
 english
+m
 api
 rap
 webservices
+website
 zoeken
-mobiel
 omgevingswet
 fs
 loket.test
@@ -172,7 +175,6 @@ izaaksuite
 subsidies-backend
 subsidies
 maps
-thuiswerken
 api.openstad
 gemeentearchief
 ro-online
@@ -235,7 +237,6 @@ bestanden
 mx1
 handhaving
 servicedesk
-m
 academie
 filetransfer
 mta-sts
@@ -243,7 +244,6 @@ ns2
 services
 sharepoint
 start
-website
 werken
 www.mijn
 zoek
@@ -267,6 +267,7 @@ veiligmailen
 melddesk
 sociaaldomein
 stadsarchief
+dali
 exchange
 digitaalnachtregister
 mozard
@@ -339,6 +340,7 @@ admin.openstad
 auth.openstad
 img.openstad
 intra
+vth
 jongin
 www.jongin
 afspraakmaken
@@ -416,7 +418,6 @@ planon
 sportencultuur
 centrumbegroot
 css.openstad
-dali
 dkd-test
 kinderburgemeester
 mijnoverzicht
@@ -473,9 +474,11 @@ plannen
 beeldbank-bo
 geoserver
 accdrop
+mijnmobiel
 squit2020.acceptatie
 squit2020
 www.login
+www.mijnmobiel
 simcms-preproductie
 djuma
 gisibonline
@@ -551,7 +554,6 @@ test.digikoppeling
 vsp
 sbc
 forms
-vth
 wij
 winkelen
 www.openstad
@@ -570,6 +572,7 @@ www.zorgloket
 zorgloket
 www.socialekaart
 socialekaart
+www.intranet
 welkom
 zaaksysteem
 aeolus
@@ -600,6 +603,7 @@ lyncweb
 servicegateway
 officewebapps
 portaltest
+www.vpn
 sera
 zwemles
 webkassa
@@ -3310,7 +3314,6 @@ idrac9.ovh
 ketenportaal.acceptatie
 ketenportaal
 mijnkaarten.ovh
-mijnmobiel
 mijnmobiel.ovh
 mobielbeek
 nas-beek.ovh
@@ -3332,7 +3335,6 @@ www.bb763.ovh
 www.beekcorsa02.ovh
 www.citrix
 www.internetafspraken
-www.mijnmobiel
 www.mobiel
 www.mobielbeek
 www.squit2020publiceren
@@ -4318,7 +4320,6 @@ ev-edienstenburgerzaken
 vergunningintaker.preprod
 www.acc.piwik
 www.connect
-www.intranet
 www.piwik
 78852ffdb030c56.infra
 acceptatie.subsidies-backend
@@ -5102,7 +5103,6 @@ www.sbc-ata01
 www.sbc-ha
 www.sts
 www.v2.openstad
-www.vpn
 www.warmrijsenhout
 www.werkplektest
 www.windopland
@@ -5328,3 +5328,15 @@ pushmail
 webmail2
 wozportaal
 zsaccept
+aanvragenpreprod
+aanvragenprod
+acceptatie-mobiliteitsplan
+bouwarchief
+ediensten
+edienstenpreprod
+hillegom-checker-preprod
+hillegom-checker
+localhost
+mobiliteitsplan
+website.acceptatie
+www.thuiswerken
