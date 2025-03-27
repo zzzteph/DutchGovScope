@@ -140,6 +140,7 @@ http://simsite.doesburg.nl
 http://simsite.eersel.nl
 http://squitxo.goirle.nl
 http://squitxotest.goirle.nl
+http://sslvpn.haarlem.nl
 http://subsites.amsterdam.nl
 http://test-bink.beverwijk.nl
 http://test-cmsintranet.drimmelen.nl
@@ -318,6 +319,7 @@ https://acc.formulieren.almere.nl
 https://acc.gemeentebest.nl
 https://acc.goes.nl
 https://acc.gorinchem.nl
+https://acc.haarlem.nl
 https://acc.hior.amsterdam.nl
 https://acc.iam.amsterdam.nl
 https://acc.io.amsterdam.nl
@@ -597,6 +599,7 @@ https://autodiscover.gennep.nl
 https://autodiscover.ggd.amsterdam.nl
 https://autodiscover.ggd.groningen.nl
 https://autodiscover.groningen.nl
+https://autodiscover.haarlem.nl
 https://autodiscover.ombudsman.groningen.nl
 https://autodiscover.os.groningen.nl
 https://autodiscover.wij.groningen.nl
@@ -754,6 +757,7 @@ https://bomen.amsterdam.nl
 https://bor.dantumadiel.frl
 https://borger-odoorn.nl
 https://borne.nl
+https://boronline.haarlem.nl
 https://borsele.nl
 https://bounces-eps.amsterdam.nl
 https://bouwdossiers.amsterdam.nl
@@ -817,6 +821,7 @@ https://cimot.almelo.nl
 https://citrix.brielle.nl
 https://citrix.gulpen-wittem.nl
 https://cjg.denhaag.nl
+https://clickprotection.haarlem.nl
 https://clicksfm.capelleaandenijssel.nl
 https://clicksfm.nieuwsbrief.goeree-overflakkee.nl
 https://cloudrecorder.denhaag.nl
@@ -911,6 +916,7 @@ https://data.breda.nl
 https://data.delft.nl
 https://data.eindhoven.nl
 https://data.groningen.nl
+https://data.haarlem.nl
 https://dataacc.breda.nl
 https://datalab.alkmaar.nl
 https://dataportaal.apeldoorn.nl
@@ -1206,6 +1212,7 @@ https://elokettest.bloemendaal.nl
 https://email.bernheze.org
 https://email.doemee.gemeentebest.nl
 https://email.eijsden-margraten.nl
+https://email.haarlem.nl
 https://email.mail.denkmee.amstelveen.nl
 https://email.mail.participatie.aalsmeer.nl
 https://email.samenveiligwerken.alphenaandenrijn.nl
@@ -1312,6 +1319,7 @@ https://filecap.drimmelen.nl
 https://filecap.eemsdelta.nl
 https://filecap.epe.nl
 https://filecap.gemert-bakel.nl
+https://filecap.haarlem.nl
 https://filecapacc.breda.nl
 https://fileshare.adds.amsterdam.nl
 https://fileshare.amsterdam.nl
@@ -1385,6 +1393,7 @@ https://fotobank.amsterdam.nl
 https://frontoffice-parkeervergunningen-acc.beverwijk.nl
 https://frontoffice-parkeervergunningen.beverwijk.nl
 https://fs.beverwijk.nl
+https://fs.haarlem.nl
 https://ftp.afs.acc.amsterdam.nl
 https://ftp.afs.amsterdam.nl
 https://ftp.bodegraven-reeuwijk.nl
@@ -1410,6 +1419,7 @@ https://gemeentearchief.goes.nl
 https://gemeentebeek.nl
 https://gemeenteberkelland.nl
 https://gemeentebest.nl
+https://gemeentebestuur.haarlem.nl
 https://gemeenteblad.almere.nl
 https://gemeenteraad.almere.nl
 https://gemeenteraad.assen.nl
@@ -1493,6 +1503,7 @@ https://gulpen-wittem.nl
 https://gzac.t.ssv.amsterdam.nl
 https://haaksbergen.nl
 https://haal-centraal.api.data.amsterdam.nl
+https://haarlem.nl
 https://handboekdibor.ede.nl
 https://haven.deventer.nl
 https://havenkwartieraanzet.denhaag.nl
@@ -1519,6 +1530,7 @@ https://hometest.groningen.nl
 https://hor-acc.amsterdam.nl
 https://hor.amsterdam.nl
 https://hor.denhaag.nl
+https://horizonvdi.haarlem.nl
 https://hout.almere.nl
 https://houtwijkbegroot.denhaag.nl
 https://huishoudboekje.amersfoort.nl
@@ -1678,6 +1690,7 @@ https://intranetcms.bergendal.nl
 https://intranetcms.drimmelen.nl
 https://intunecollector.amsterdam.nl
 https://iovi.amsterdam.nl
+https://ipp.haarlem.nl
 https://iris.acc.denhaag.nl
 https://iris.denhaag.nl
 https://irma.denhaag.nl
@@ -1724,6 +1737,7 @@ https://kaart.amsterdam.nl
 https://kaart.bergendal.nl
 https://kaart.debilt.nl
 https://kaart.delft.nl
+https://kaart.haarlem.nl
 https://kaarten.boxtel.nl
 https://kaarten.buren.nl
 https://kaarten.deventer.nl
@@ -1856,6 +1870,7 @@ https://mariahoeveaanzet.denhaag.nl
 https://mas.groningen.nl
 https://matenpark.apeldoorn.nl
 https://matomo.breda.nl
+https://matomo.haarlem.nl
 https://mbg1.beverwijk.nl
 https://mbg1.dantumadiel.frl
 https://mbg2.dantumadiel.frl
@@ -1930,6 +1945,7 @@ https://mijn.gooisemeren.nl
 https://mijn.gouda.nl
 https://mijn.groningen.nl
 https://mijn.haaksbergen.nl
+https://mijn.haarlem.nl
 https://mijnaanvraagzi.beuningen.nl
 https://mijnbelastingen.amsterdam.nl
 https://mijnerfpacht.amsterdam.nl
@@ -2018,6 +2034,7 @@ https://mta-sts.duiven.nl
 https://mta-sts.gennep.nl
 https://mta-sts.pop.deventer.nl
 https://mta-sts.raad.duiven.nl
+https://mx01.haarlem.nl
 https://mycorsanxt.brielle.nl
 https://mycorsanxt.derondevenen.nl
 https://mzdtest.bunnik.nl
@@ -2262,6 +2279,7 @@ https://parkeren.bunschoten.nl
 https://parkeren.dijkenwaard.nl
 https://parkeren.ede.nl
 https://parkeren.goes.nl
+https://parkeren.haarlem.nl
 https://parkerendenhaag.acc.denhaag.nl
 https://parkerendenhaag.denhaag.nl
 https://parkerendenhaag.ot.denhaag.nl
@@ -2310,6 +2328,7 @@ https://podiumd-zac.deventer.nl
 https://point.assen.nl
 https://pop.deventer.nl
 https://portaal.dronten.nl
+https://portaal.haarlem.nl
 https://portaal.kre-acc.amsterdam.nl
 https://portaal.kre-dev.amsterdam.nl
 https://portaal.kre-ont.amsterdam.nl
@@ -2439,6 +2458,7 @@ https://raadplegen.denhaag.nl
 https://redactie-extern.denhaag.nl
 https://redactie.amersfoort.nl
 https://redactie.antwoord.amsterdam.nl
+https://regelen.haarlem.nl
 https://regentesseplein.denhaag.nl
 https://regio.almere.nl
 https://regiocheckervth-acc.denhaag.nl
@@ -2844,6 +2864,7 @@ https://vdi.delft.nl
 https://veenkolonien.groningen.nl
 https://veiligdelen.alkmaar.nl
 https://veiligdelen.derondevenen.nl
+https://veiligdelen.haarlem.nl
 https://veiligmailen.almelo.nl
 https://veiligmailen.beverwijk.nl
 https://vergaderingen.goirle.nl
@@ -2922,6 +2943,7 @@ https://webmail.ede.nl
 https://webmail.eemsdelta.nl
 https://webmail.geertruidenberg.nl
 https://webmail.gemert-bakel.nl
+https://webmail.haarlem.nl
 https://webmeeting.brunssum.nl
 https://webservice-decosdvl.acc.amsterdam.nl
 https://webservice-decosdvl.amsterdam.nl
@@ -3180,6 +3202,7 @@ https://www.gouda.nl
 https://www.groningen.nl
 https://www.gulpen-wittem.nl
 https://www.haaksbergen.nl
+https://www.haarlem.nl
 https://www.havenkwartieraanzet.denhaag.nl
 https://www.hildebrandplein.denhaag.nl
 https://www.houtwijkbegroot.denhaag.nl
