@@ -6,10 +6,10 @@ ibzpink
 edienstenburgerzaken
 edienstenburgerzaken-test
 mijn
-mail
-afspraken
 intranet
+mail
 simsite
+afspraken
 webmail
 digikoppeling
 simcms
@@ -109,6 +109,7 @@ samen
 dtestloket
 e
 mailing
+belastingportaal
 mijnzorg-acc
 vergunningintaker
 parkeren-test
@@ -126,7 +127,6 @@ dtestmidoffice
 magazines
 evenementen
 mobiel
-belastingportaal
 gisib
 web
 thuiswerken
@@ -331,6 +331,7 @@ djumaproxy
 dkdtest
 _autodiscover._tcp
 medewerkers
+bor
 burgerloket
 filr
 outlook
@@ -532,7 +533,6 @@ contentbeheer.test
 zaken.test
 pkio1
 ris
-bor
 suite4burgerzaken-prod
 efacturen
 subsidies-login.acceptatie
@@ -589,6 +589,7 @@ geo-secure
 financieelportaal
 de
 aaa
+preprod-belastingportaal
 sbc01
 trobit
 cloudadapter-prod
@@ -4560,7 +4561,6 @@ testparkeren
 acceptatie.oranjeplein
 jvs
 oranjeplein
-preprod-belastingportaal
 squitxo
 squitxotest
 vergaderingen.acceptatie
@@ -5340,3 +5340,5 @@ localhost
 mobiliteitsplan
 website.acceptatie
 www.thuiswerken
+acceptatie.hilvernet
+hilvernet
