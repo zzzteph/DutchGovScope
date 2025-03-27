@@ -3,13 +3,13 @@ www
 autodiscover
 iburgerzaken
 ibzpink
-afspraken
 edienstenburgerzaken
-intranet
+afspraken
 mijn
-secure
+intranet
 simcms
 edienstenburgerzaken-test
+secure
 simsite
 mail
 webmail
@@ -20,8 +20,8 @@ loket
 digikoppeling
 test
 acceptatie
-acc
 dkd
+acc
 formulieren
 adfs
 data
@@ -59,6 +59,7 @@ iparticipatie
 openpub
 zaaksysteem-accept
 hybrid
+mijninkomen
 snelbalie
 digikoppeling-test
 nieuwsbrief
@@ -80,7 +81,7 @@ test-ipa
 openpdc
 verkiezingen
 osb
-mijninkomen
+preprod-mijninkomen
 duurzaam
 login
 snelbaliepp
@@ -97,7 +98,6 @@ meldingen-acc
 loket.test
 denkmee
 belastingbalie
-preprod-mijninkomen
 thuiswerken
 afvalkalender
 www.duurzaam
@@ -115,6 +115,7 @@ acc-broker
 test-digikoppeling
 woningbouwkaart
 klantcontact
+connect
 kaarten
 doemee
 mdm
@@ -152,6 +153,7 @@ e-loket
 gp
 mijngeldzaken
 ns1
+woo
 bag
 bastion365
 media
@@ -159,7 +161,6 @@ sip
 obsurv
 byod
 connect.acceptatie
-connect
 contentbeheer.acceptatie
 contentbeheer
 simcms-open
@@ -297,7 +298,6 @@ rooster
 sslvpn
 testdigid
 wob
-woo
 acc-podiumd-logs
 afval
 keycloak
@@ -4182,3 +4182,12 @@ preprod-sociaalportaal
 serverruimte
 sociaalportaal
 testloket
+centric
+efactuur
+felixpdc
+menscentraal
+sim-prefill
+sim-preproductie
+simcms-woo
+vraagbaak
+www.vraagbaak
