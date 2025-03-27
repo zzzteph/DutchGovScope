@@ -18,10 +18,10 @@ preproductie
 probeer
 loket
 digikoppeling
-acceptatie
 test
-dkd
+acceptatie
 acc
+dkd
 formulieren
 adfs
 data
@@ -30,19 +30,19 @@ portal
 werkplek
 pv
 afspraak
+open
 eloket
+gemeenteraad
 waarmerk
 betalen
 vpn
 werkenbij
-open
 api.meldingen
 geo
 loket.acceptatie
 mijnzorg
 ruimtelijkeplannen
 parkeren
-gemeenteraad
 opendata
 enterpriseregistration
 broker
@@ -51,6 +51,8 @@ zaken
 omgevingsvisie
 kaart
 enterpriseenrollment
+cloudadapter-test
+cloudadapter
 formulier
 remote
 iparticipatie
@@ -66,8 +68,6 @@ dacceptatieloket
 dacceptatiemidoffice
 dloket
 dmidoffice
-cloudadapter-test
-cloudadapter
 smtp
 evenementen
 govroam
@@ -92,6 +92,7 @@ bgt
 feeds
 magazines
 api.meldingen-acc
+belastingportaal
 meldingen-acc
 loket.test
 denkmee
@@ -103,6 +104,7 @@ www.duurzaam
 berichten
 siam
 ns
+qr
 atlas
 beeldbank
 apps
@@ -125,7 +127,6 @@ sharepoint
 start
 mobiel
 omgevingswet
-belastingportaal
 www.acceptatie
 praatmee
 preprod-mijn
@@ -139,7 +140,6 @@ belastingen
 maps
 stadsarchief
 exchange
-qr
 vdi
 digikoppeling.test
 email
@@ -167,6 +167,7 @@ zaken.acceptatie
 gasten
 formulieren-test
 intranet-acc
+acceptatieloket
 uca
 www.doemee
 wozloket
@@ -323,7 +324,6 @@ sentry
 data-test
 data.gemnet
 jccapi
-acceptatieloket
 klimaatplein
 mijnsociaalplein
 mijnsociaalportaal-acc
@@ -344,6 +344,7 @@ uc
 pki
 dtestloket
 wozloket-acc
+belastingportaal-test
 projecten
 filecap
 dtestmidoffice
@@ -362,6 +363,7 @@ burgerloket
 ondernemersloket
 archief
 kennisportaal
+uitslagen
 a-cms
 a-cms1
 a-cms2
@@ -3370,7 +3372,6 @@ brsoribi02
 grmks06
 jcccloud
 Belastingportaal-test
-belastingportaal-test
 netwerk
 preprod-mijnoverzicht
 woww
@@ -3925,7 +3926,6 @@ udp-rspackage-acc
 udp-rspackage
 udp-rstudio-acc
 udp-rstudio
-uitslagen
 uwmening
 verkiezingen.acc.topdesk
 verkiezingen.topdesk
@@ -4177,3 +4177,8 @@ parkeren-siam-test
 parkeren-siam
 site
 training
+acceptatie-open
+preprod-sociaalportaal
+serverruimte
+sociaalportaal
+testloket

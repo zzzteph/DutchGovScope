@@ -288,6 +288,7 @@ https://acc.top.amsterdam.nl
 https://acc.vt.data.amsterdam.nl
 https://acc.wonen.zaken.amsterdam.nl
 https://accept-zaaksysteem.denhelder.nl
+https://acceptatie-open.dinkelland.nl
 https://acceptatie-vaarvergunningen.amsterdam.nl
 https://acceptatie.alphen-chaam.nl
 https://acceptatie.asten.nl
@@ -580,11 +581,13 @@ https://belastingen.almere.nl
 https://belastingen.arnhem.nl
 https://belastingloket.barneveld.nl
 https://belastingportaal-test.boxtel.nl
+https://belastingportaal-test.dinkelland.nl
 https://belastingportaal.aaenhunze.nl
 https://belastingportaal.acc.aaenhunze.nl
 https://belastingportaal.acc.assen.nl
 https://belastingportaal.assen.nl
 https://belastingportaal.boxtel.nl
+https://belastingportaal.dinkelland.nl
 https://bereikbaarheid.amsterdam.nl
 https://bereikbarestad.denhaag.nl
 https://bergen-nh.nl
@@ -886,6 +889,7 @@ https://digitaalerfgoed.almere.nl
 https://digitaalgemeenteloket.alphenaandenrijn.nl
 https://digitaleplannen.apeldoorn.nl
 https://dijkenwaard.nl
+https://dinkelland.nl
 https://directadmin.almelo.nl
 https://dkd.deventer.nl
 https://dkdtest.deventer.nl
@@ -997,6 +1001,7 @@ https://edienstenburgerzaken-test.castricum.nl
 https://edienstenburgerzaken-test.dantumadiel.frl
 https://edienstenburgerzaken-test.defryskemarren.nl
 https://edienstenburgerzaken-test.denhelder.nl
+https://edienstenburgerzaken-test.dinkelland.nl
 https://edienstenburgerzaken-test.gemeenteberkelland.nl
 https://edienstenburgerzaken.aalsmeer.nl
 https://edienstenburgerzaken.aalten.nl
@@ -1022,6 +1027,7 @@ https://edienstenburgerzaken.dantumadiel.frl
 https://edienstenburgerzaken.defryskemarren.nl
 https://edienstenburgerzaken.denhaag.nl
 https://edienstenburgerzaken.denhelder.nl
+https://edienstenburgerzaken.dinkelland.nl
 https://edienstenburgerzaken.gemeenteberkelland.nl
 https://edienstenburgerzaken.test.aalsmeer.nl
 https://edienstenburgerzaken.test.amstelveen.nl
@@ -1243,6 +1249,7 @@ https://gemeenteraad.bloemendaal.nl
 https://gemeenteraad.denhelder.nl
 https://gemeenteraad.deventer.nl
 https://gemeenteraad.diemen.nl
+https://gemeenteraad.dinkelland.nl
 https://geo.arnhem.nl
 https://geo.breda.nl
 https://geo.brunssum.nl
@@ -1891,6 +1898,7 @@ https://open.barneveld.nl
 https://open.beverwijk.nl
 https://open.boxtel.nl
 https://open.breda.nl
+https://open.dinkelland.nl
 https://open.overheid.nl
 https://openbareruimte.deventer.nl
 https://opendata.assen.nl
@@ -2094,6 +2102,7 @@ https://preprod-mijnportaal.defryskemarren.nl
 https://preprod-mijnsociaalplein.bergen-nh.nl
 https://preprod-mijnsociaalplein.castricum.nl
 https://preprod-mijnzorg.denhelder.nl
+https://preprod-sociaalportaal.dinkelland.nl
 https://preprod.mijn.overheid.nl
 https://preprod.mijnaanvraagzi.beuningen.nl
 https://preprod.oinregister.logius.nl
@@ -2148,6 +2157,7 @@ https://qr.amersfoort.nl
 https://qr.arnhem.nl
 https://qr.capelleaandenijssel.nl
 https://qr.digitaalgemeenteloket.alphenaandenrijn.nl
+https://qr.dinkelland.nl
 https://qr.testdigitaalgemeenteloket.alphenaandenrijn.nl
 https://raad.acceptatie.asten.nl
 https://raad.alblasserdam.nl
@@ -2262,6 +2272,7 @@ https://secure.acc.denhaag.nl
 https://secure.denhaag.nl
 https://selfservice.ggd.amsterdam.nl
 https://sensorenregister.amsterdam.nl
+https://serverruimte.dinkelland.nl
 https://service.acc.omgevingswet.overheid.nl
 https://service.bta.omgevingswet.overheid.nl
 https://service.dmo.omgevingswet.overheid.nl
@@ -2332,6 +2343,7 @@ https://snelbalietest.almere.nl
 https://snow-license.amsterdam.nl
 https://snowagent.denhaag.nl
 https://sociaaldomein.almere.nl
+https://sociaalportaal.dinkelland.nl
 https://social.amsterdam.nl
 https://social.overheid.nl
 https://socialeteams.deventer.nl
@@ -2806,6 +2818,7 @@ https://www.devgovrs1.deventer.nl
 https://www.dewolden.nl
 https://www.diemen.nl
 https://www.dijkenwaard.nl
+https://www.dinkelland.nl
 https://www.dmo.omgevingswet.overheid.nl
 https://www.doemee.bloemendaal.nl
 https://www.doemee.denhaag.nl
