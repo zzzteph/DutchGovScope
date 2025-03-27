@@ -23,12 +23,12 @@ loket
 acc
 werkplek
 formulieren
-dkd
-betalen
 open
+dkd
+adfs
+betalen
 portal
 afspraak
-adfs
 data
 geo
 meldingen
@@ -39,10 +39,10 @@ omgevingsvisie
 gemeenteraad
 waarmerk
 vpn
+ruimtelijkeplannen
 zaaksysteem-accept
 werkenbij
 api.meldingen
-ruimtelijkeplannen
 osb
 parkeren
 testeloket
@@ -51,6 +51,7 @@ dacceptatiemidoffice
 formulier
 enterpriseregistration
 loket.acceptatie
+remote
 mijnzorg
 iparticipatie
 raad
@@ -59,13 +60,13 @@ enterpriseenrollment
 cmsoo
 dloket
 dmidoffice
-remote
 zaken
 hybrid
 mijninkomen
 belastingbalie
 digikoppeling-test
 nieuwsbrief
+cloudadapter-test
 opendata
 test-ipa
 openpub
@@ -74,9 +75,9 @@ kaart
 preprod-mijninkomen
 snelbalie
 login
+berichten
 siam
 acc-broker
-cloudadapter-test
 cloudadapter
 connect
 filecap
@@ -90,10 +91,10 @@ verkiezingen
 belastingen
 duurzaam
 snelbaliepp
-berichten
 extranet
 qr
 beeldbank
+digikoppeling.test
 gemeente
 mks
 woningbouwkaart
@@ -110,7 +111,6 @@ flowmailer-tracking
 afvalkalender
 financien
 ns
-digikoppeling.test
 parkeren-acc
 bgt
 connect.acceptatie
@@ -150,6 +150,7 @@ openformulieren
 podiumd-logs
 sts
 test-digikoppeling
+obsurv
 klantcontact
 belastingloket
 contentbeheer.acceptatie
@@ -183,6 +184,7 @@ www.acceptatie
 documenten
 college
 gisib
+web
 preprod-mijn
 wachtwoord
 www.werkenbij
@@ -203,6 +205,7 @@ magazine
 onderzoek
 vdi
 www.test
+werkenvoor
 ftp
 legacy
 parkeervergunningen
@@ -239,7 +242,6 @@ test-objecttypen
 test-openklant
 test-openzaak
 test-podiumd-logs
-obsurv
 meedoen
 publicaties
 byod
@@ -260,9 +262,12 @@ www.doemee
 acc.piwik
 www.webmail
 wozloket
+jaarstukken
 burgerloket
 filr
 outlook
+begroting
+cryptshare
 klantportaal
 intra
 openstad
@@ -316,7 +321,6 @@ gisibapi-test
 gisibapi
 gisibgeoserver-test
 gisibgeoserver
-web
 edienstenaanvragensd-acceptatie
 edienstenaanvragensd
 edienstenmijninkomen-acceptatie
@@ -343,6 +347,7 @@ ingesprek
 melddesk
 panel
 planon
+sportencultuur
 centrumbegroot
 dali
 dkd-test
@@ -354,7 +359,6 @@ bewustwording
 crl
 wion
 jcc
-werkenvoor
 aanmeldenparkeren
 dataportaal
 docgen
@@ -362,6 +366,7 @@ edison
 hor
 id
 iga
+nieuwsbrieven
 nlx
 octopus-portaal
 octopus
@@ -424,7 +429,7 @@ projecten
 2secure
 erfgoed
 mycorsanxt
-jaarstukken
+aanmelden
 dkdtest
 key2gbav
 logilink
@@ -444,8 +449,6 @@ subsidies-login
 ondernemersloket
 openformulieren-test
 archief
-begroting
-cryptshare
 kennisportaal
 mfa
 smartdocuments
@@ -472,7 +475,9 @@ socialekaart
 zaaksysteem
 e.openstad
 contact
+geoportaal
 en
+trobit
 a-cms
 a-cms1
 a-cms2
@@ -1874,7 +1879,6 @@ relatie-scheiding
 smap
 snelbalietest
 sociaaldomein
-sportencultuur
 sportsupport
 stadsgesprekken
 svs-acc
@@ -2579,7 +2583,6 @@ nexus.datapunt
 nha-acc
 nha-tst
 nha
-nieuwsbrieven
 nieuwwest
 noord
 noorderparkbad
@@ -3459,7 +3462,6 @@ smartdoc-brl
 smartdoc-brlacc
 smartdocbrl
 smartdocbrlacc
-aanmelden
 begraafplaatsreservering
 g-rooster
 geografie
@@ -4443,7 +4445,6 @@ directduidelijk.openstad
 gbionline
 gbionlinetest
 geobrowser
-geoportaal
 geoportaaltest
 glanerbrug.openstad
 intens-acc
@@ -4557,7 +4558,25 @@ portal-webmail
 sbc01
 test-intra
 thuiswerken-uitwijk
-trobit
 vpn-extern
 wdm01
 xential-test
+afspraken2
+bliek-acc
+bliek
+bliekcms-acc
+bliekcms
+brandportal
+cloudadapter-prod
+digiprodsrvr
+digitestsrvr
+ggv-micol1
+klantgeleiding
+mivbxsrvr
+neuron-test
+neuron
+powerbrowser-esb
+powerbrowsertest-esb
+stats
+verhuursport
+www.sportencultuur
