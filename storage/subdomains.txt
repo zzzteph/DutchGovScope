@@ -18,10 +18,10 @@ loket
 meldingen
 webmail
 data
+digikoppeling
 test
 preproductie
 api.meldingen
-digikoppeling
 werkplek
 opendata
 enterpriseregistration
@@ -90,6 +90,7 @@ extranet
 ns
 atlas
 beeldbank
+digikoppeling.test
 mks
 nieuwsbrief
 www.raad
@@ -183,7 +184,6 @@ siam
 financien
 onderzoek
 qr
-digikoppeling.test
 jcc
 aanmeldenparkeren
 apps
@@ -3285,3 +3285,5 @@ test-bink
 test-cmsbink
 uc
 pki
+NLGEMBRC
+nlgembrc
