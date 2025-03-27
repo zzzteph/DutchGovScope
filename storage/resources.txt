@@ -2757,6 +2757,7 @@ iparticipatie.bronckhorst.nl
 iparticipatie.coevorden.nl
 iparticipatie.derondevenen.nl
 iparticipatie.deventer.nl
+iparticipatie.edam-volendam.nl
 iris.acc.denhaag.nl
 iris.data.amsterdam.nl
 iris.denhaag.nl

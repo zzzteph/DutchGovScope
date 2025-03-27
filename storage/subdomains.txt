@@ -51,6 +51,7 @@ omgevingsvisie
 parkeren
 enterpriseenrollment
 opendata
+iparticipatie
 openpdc
 openpub
 zaaksysteem-accept
@@ -66,7 +67,6 @@ smtp
 formulier
 govroam
 portaal
-iparticipatie
 osb
 preprod-mijninkomen
 snelbalie
