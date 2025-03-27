@@ -305,6 +305,7 @@ accdrop.barneveld.nl
 accdrop.ede.nl
 accdrp.groningen.nl
 accept-zaaksysteem.denhelder.nl
+acceptatie-intranet.hardenberg.nl
 acceptatie-open.dinkelland.nl
 acceptatie-open.gooisemeren.nl
 acceptatie-stemvan.emmen.nl
@@ -333,6 +334,7 @@ acceptatie.gemeentebeek.nl
 acceptatie.gilzerijen.nl
 acceptatie.goirle.nl
 acceptatie.gulpen-wittem.nl
+acceptatie.hardenberg.nl
 acceptatie.intranet.debilt.nl
 acceptatie.oranjeplein.goirle.nl
 acceptatie.participatiewebshop.emmen.nl
@@ -592,6 +594,7 @@ api.erfpachtzakelijk-dev.amsterdam.nl
 api.erfpachtzakelijk-ont.amsterdam.nl
 api.erfpachtzakelijk-tst.amsterdam.nl
 api.erfpachtzakelijk.amsterdam.nl
+api.hardenberg.nl
 api.makkelijkemarkt.amsterdam.nl
 api.meldingen-acc.aaenhunze.nl
 api.meldingen-acc.apeldoorn.nl
@@ -787,6 +790,7 @@ autodiscover.haaksbergen.nl
 autodiscover.haarlem.nl
 autodiscover.haarlemmermeer.nl
 autodiscover.hap.haarlemmermeer.nl
+autodiscover.hardenberg.nl
 autodiscover.iba.amsterdam.nl
 autodiscover.leefbaar.haarlemmermeer.nl
 autodiscover.noord.amsterdam.nl
@@ -1136,6 +1140,7 @@ burgerloket.derondevenen.nl
 burgerloket.diemen.nl
 burgerloket.duiven.nl
 burgerportaal.eijsden-margraten.nl
+burgerportaal.hardenberg.nl
 burgerzaken.amsterdam.nl
 buurt.eindhoven.nl
 buurtbudget.amsterdam.nl
@@ -1561,6 +1566,7 @@ digitaalnachtregister.baarle-nassau.nl
 digitaalnachtregister.gilzerijen.nl
 digitalebalie.drechterland.nl
 digitaleplannen.apeldoorn.nl
+digitaleplannen.hardenberg.nl
 digitaletweeling.alkmaar.nl
 digitestsrvr.gorinchem.nl
 dijkenwaard.nl
@@ -1596,6 +1602,7 @@ dkd.deventer.nl
 dkd.doesburg.nl
 dkd.dronten.nl
 dkd.gooisemeren.nl
+dkd.hardenberg.nl
 dkdn.epe.nl
 dkdtest.brunssum.nl
 dkdtest.deventer.nl
@@ -2187,6 +2194,7 @@ formulieren.geertruidenberg.nl
 formulieren.gooisemeren.nl
 formulieren.gorinchem.nl
 formulieren.haarlemmermeer.nl
+formulieren.hardenberg.nl
 formulieren1.amsterdam.nl
 formulierenacc.breda.nl
 formulierenaccdirect.breda.nl
@@ -2310,6 +2318,7 @@ geo.echt-susteren.nl
 geo.ede.nl
 geo.emmen.nl
 geo.ermelo.nl
+geo.hardenberg.nl
 geo1.arnhem.nl
 geoanalytics.haarlemmermeer.nl
 geobrowser.enschede.nl
@@ -2479,6 +2488,7 @@ handhaving.haarlem.nl
 handhaving.haarlemmermeer.nl
 handhavingsacademie.amsterdam.nl
 handhavingtest.groningen.nl
+hardenberg.nl
 haven.deventer.nl
 havenkwartieraanzet.denhaag.nl
 hba.dpg.amsterdam.nl
@@ -2621,6 +2631,7 @@ iburgerzaken.gooisemeren.nl
 iburgerzaken.groningen.nl
 iburgerzaken.haaksbergen.nl
 iburgerzaken.haarlemmermeer.nl
+iburgerzaken.hardenberg.nl
 ibzpink.aaenhunze.nl
 ibzpink.achtkarspelen.nl
 ibzpink.almelo.nl
@@ -2676,6 +2687,7 @@ ibzpink.goes.nl
 ibzpink.goirle.nl
 ibzpink.groningen.nl
 ibzpink.haaksbergen.nl
+ibzpink.hardenberg.nl
 icm-ast.asten.nl
 id-beheer-erfpacht-acc.amsterdam.nl
 id-beheer-erfpacht-dev.amsterdam.nl
@@ -2819,6 +2831,7 @@ intranet.geuzenveld.amsterdam.nl
 intranet.gouda.nl
 intranet.groningen.nl
 intranet.gulpen-wittem.nl
+intranet.hardenberg.nl
 intranet.raadsinformatie.amsterdam.nl
 intranetacc.apeldoorn.nl
 intranetcms-acc.bergendal.nl
@@ -3179,6 +3192,7 @@ mail.gennep.nl
 mail.gorinchem.nl
 mail.gulpen-wittem.nl
 mail.halderberge.nl
+mail.hardenberg.nl
 mail.mailing.haaksbergen.nl
 mail.noord.amsterdam.nl
 mail01.bodegraven-reeuwijk.nl
@@ -3359,6 +3373,7 @@ mijn.groningen.nl
 mijn.haaksbergen.nl
 mijn.haarlem.nl
 mijn.haarlemmermeer.nl
+mijn.hardenberg.nl
 mijnaanvraagzi.beuningen.nl
 mijnacpt.haarlem.nl
 mijnbelastingen.amsterdam.nl
@@ -4097,6 +4112,7 @@ pre-ows-websrvc-test.groningen.nl
 pre-ows-websrvc.groningen.nl
 preprod-belastingportaal.goirle.nl
 preprod-broker.buren.nl
+preprod-burgerportaal.hardenberg.nl
 preprod-edienstaanvragensd.defryskemarren.nl
 preprod-ediensten-sociaaldomein.denhelder.nl
 preprod-formulieren.buren.nl
@@ -4479,6 +4495,7 @@ sensorenregister.amsterdam.nl
 sentry.beesel.nl
 sentry.denhelder.nl
 sentry1.denhelder.nl
+sera.hardenberg.nl
 server-appl13.haaksbergen.nl
 serverruimte.dinkelland.nl
 service01-acceptatie.eijsden-margraten.nl
@@ -4712,6 +4729,7 @@ splunk-controlroom.denhaag.nl
 spoorzone.deventer.nl
 sporen.groningen.nl
 sport.denhaag.nl
+sport.hardenberg.nl
 sport.in.denhaag.nl
 sportaccommodaties.breda.nl
 sportencultuur.almere.nl
@@ -5111,6 +5129,7 @@ tstwi175.tst.groningen.nl
 tstwi184.tst.groningen.nl
 tstwi220.tst.groningen.nl
 tuinen.groningen.nl
+tunnel.hardenberg.nl
 tv.gemeentebest.nl
 typo3.borger-odoorn.nl
 ubor.amsterdam.nl
@@ -5122,6 +5141,7 @@ uca.bergen-nh.nl
 uca.bernheze.org
 uca.dijkenwaard.nl
 uca.geertruidenberg.nl
+uca.hardenberg.nl
 ucaccess01.goeree-overflakkee.nl
 ucc01.goeree-overflakkee.nl
 ucconf01.goeree-overflakkee.nl
@@ -5165,9 +5185,11 @@ vasd.groningen.nl
 vastgoed.assen.nl
 vcenter-prd.ovh.gemeentebeek.nl
 vcenter-uitwijk.ovh.gemeentebeek.nl
+vdi-uitwijk.hardenberg.nl
 vdi.amersfoort.nl
 vdi.brunssum.nl
 vdi.delft.nl
+vdi.hardenberg.nl
 vdi8.amersfoort.nl
 veenkolonien.groningen.nl
 veiligdelen.alkmaar.nl
@@ -5353,6 +5375,7 @@ webmail.gooisemeren.nl
 webmail.haarlem.nl
 webmail.haarlemmermeer.nl
 webmail.halderberge.nl
+webmail.hardenberg.nl
 webmail.iba.amsterdam.nl
 webmail.ivv.amsterdam.nl
 webmail.nieuwwest.amsterdam.nl
@@ -5508,6 +5531,7 @@ wordpress-zgw.test.denhaag.nl
 workspace365.almelo.nl
 woww.boxtel.nl
 woz-loket.coevorden.nl
+woz-loket.hardenberg.nl
 woz-portaal-eemnes.baarn.nl
 woz-portaal.drimmelen.nl
 woz.amsterdam.nl
@@ -5826,6 +5850,7 @@ www.haarlemmerliederaad.haarlemmermeer.nl
 www.haarlemmermeer.nl
 www.halderberge.nl
 www.handhavingsacademie.amsterdam.nl
+www.hardenberg.nl
 www.havenkwartieraanzet.denhaag.nl
 www.hh2015.groningen.nl
 www.hier.groningen.nl
@@ -6121,6 +6146,7 @@ zaaksysteem-accept.gemeenteberkelland.nl
 zaaksysteem-accept.gooisemeren.nl
 zaaksysteem-accept.gouda.nl
 zaaksysteem-accept.halderberge.nl
+zaaksysteem-accept.hardenberg.nl
 zaaksysteem.ede.nl
 zaaksysteem.eindhoven.nl
 zaalhuur.borne.nl
@@ -6176,6 +6202,8 @@ zvldapp.amstelveen.nl
 zwammerdamdorpskern.alphenaandenrijn.nl
 zwembadabonnement.gemeentebest.nl
 zwembaddebronspot.brunssum.nl
+zwembaden.hardenberg.nl
+zwemles.hardenberg.nl
 zwik.openstad.enschede.nl
 zxy-cloud-assets.amsterdam.nl
 zxy-cloud-models.amsterdam.nl
