@@ -1,3 +1,4 @@
+http://AutoDiscover.brielle.nl
 http://aalten.nl
 http://afspraak.bergendal.nl
 http://autodiscover.aaenhunze.nl
@@ -23,6 +24,7 @@ http://autodiscover.bloemendaal.nl
 http://autodiscover.bodegraven-reeuwijk.nl
 http://autodiscover.borger-odoorn.nl
 http://autodiscover.borne.nl
+http://autodiscover.brielle.nl
 http://autodiscover.gemeenteberkelland.nl
 http://autodiscover.gemeentebest.nl
 http://beekdaelen.nl
@@ -361,6 +363,7 @@ https://betalen.breda.nl
 https://betalingen.amsterdam.nl
 https://bewegen.apeldoorn.nl
 https://bewustwording.amersfoort.nl
+https://bewustwording.brielle.nl
 https://bi-sociaal.acc.amsterdam.nl
 https://bi-sociaal.amsterdam.nl
 https://bi-sociaal.fa.amsterdam.nl
@@ -385,6 +388,8 @@ https://boxtel.nl
 https://bp.data.amsterdam.nl
 https://breda.nl
 https://brediusbad.amsterdam.nl
+https://brielle.nl
+https://brlcmg.brielle.nl
 https://broker.aalten.nl
 https://broker.assen.nl
 https://broker.bernheze.org
@@ -403,6 +408,7 @@ https://cardsonline.tst.intra.amsterdam.nl
 https://centrumbegroot.alphenaandenrijn.nl
 https://centrumbegroot.amsterdam.nl
 https://cimot.almelo.nl
+https://citrix.brielle.nl
 https://cms-binnenshuis.bergen.nl
 https://cms-joost.beuningen.nl
 https://cms.bernheze.org
@@ -436,6 +442,7 @@ https://dacceptatieloket.assen.nl
 https://dacceptatieloket.borger-odoorn.nl
 https://dagbesteding.apeldoorn.nl
 https://dali.alphenaandenrijn.nl
+https://dali.brielle.nl
 https://dap.amsterdam.nl
 https://dashboard.makkelijkemarkt.amsterdam.nl
 https://data-test.bergendal.nl
@@ -482,6 +489,7 @@ https://digid-parkeervergunningen.beverwijk.nl
 https://digiform-fa.amsterdam.nl
 https://digiform.acc.amsterdam.nl
 https://digiform.amsterdam.nl
+https://digikoppeling.brielle.nl
 https://digipost-acc.amsterdam.nl
 https://digipost.amsterdam.nl
 https://digitaalerfgoed.almere.nl
@@ -772,6 +780,7 @@ https://iburgerzaken.borger-odoorn.nl
 https://iburgerzaken.borne.nl
 https://iburgerzaken.borsele.nl
 https://iburgerzaken.breda.nl
+https://iburgerzaken.brielle.nl
 https://iburgerzaken.gemeentebeek.nl
 https://iburgerzaken.gemeentebest.nl
 https://id-beheer-erfpacht-acc.amsterdam.nl
@@ -829,6 +838,7 @@ https://intranetcms-acc.bergendal.nl
 https://intranetcms.bergendal.nl
 https://intunecollector.amsterdam.nl
 https://iovi.amsterdam.nl
+https://ironport.brielle.nl
 https://isdtalentcenter.bergenopzoom.nl
 https://izaaksuite.bergenopzoom.nl
 https://jaarrekening.arnhem.nl
@@ -895,6 +905,7 @@ https://mail.bloemendaal.nl
 https://mailing.alphenaandenrijn.nl
 https://mailing.borsele.nl
 https://mailing.gemeentebeek.nl
+https://makelaar.brielle.nl
 https://management.api.amsterdam.nl
 https://map.data.amsterdam.nl
 https://maps.almere.nl
@@ -982,6 +993,7 @@ https://mozard.ameland.nl
 https://mozardtest.ameland.nl
 https://msm.almelo.nl
 https://msoid.arnhem.nl
+https://mycorsanxt.brielle.nl
 https://naheffingsaanslag.amsterdam.nl
 https://ndes.apeldoorn.nl
 https://ndesapeldoorn.apeldoorn.nl
@@ -992,6 +1004,7 @@ https://nha.amsterdam.nl
 https://nieuwauthentiekbloemendaal.doemee.bloemendaal.nl
 https://nieuws.breda.nl
 https://nieuwsbrieven.amsterdam.nl
+https://nlgembrl.brielle.nl
 https://noorderparkbad.amsterdam.nl
 https://notificaties.assen.nl
 https://notificaties.openzaak-acc.amsterdam.nl
@@ -1218,6 +1231,10 @@ https://simsite.beekdaelen.nl
 https://simsite.bladel.nl
 https://sip.ggd.amsterdam.nl
 https://smap.almere.nl
+https://smartdoc-brl.brielle.nl
+https://smartdoc-brlacc.brielle.nl
+https://smartdocbrl.brielle.nl
+https://smartdocbrlacc.brielle.nl
 https://smoelennet.almelo.nl
 https://snelbalie.almere.nl
 https://snelbalie.apeldoorn.nl
@@ -1284,6 +1301,7 @@ https://telecom.apeldoorn.nl
 https://test-binnenshuis.bergen.nl
 https://test-cmsbink.beverwijk.nl
 https://test-cmsintranet.gemeentebeek.nl
+https://test-digikoppeling.brielle.nl
 https://test-e-loket.apeldoorn.nl
 https://test-formulier.assen.nl
 https://test-keycloak.assen.nl
@@ -1356,6 +1374,7 @@ https://vpn.bergenopzoom.nl
 https://vrm.acc.amsterdam.nl
 https://waarmerk.alphen-chaam.nl
 https://waarmerk.baarle-nassau.nl
+https://waarmerk.brielle.nl
 https://waarmerk.gemeentebest.nl
 https://wachtwoord.alkmaar.nl
 https://wachtwoord.almere.nl
@@ -1370,6 +1389,7 @@ https://webmail.bernheze.org
 https://webmail.bloemendaal.nl
 https://webmail.boekel.nl
 https://webmail.breda.nl
+https://webmail.brielle.nl
 https://webservice-decosdvl.acc.amsterdam.nl
 https://webservice-decosdvl.amsterdam.nl
 https://website.alphen-chaam.nl
@@ -1449,6 +1469,7 @@ https://www.borne.nl
 https://www.borsele.nl
 https://www.boxtel.nl
 https://www.breda.nl
+https://www.brielle.nl
 https://www.buurtbudget.amsterdam.nl
 https://www.buurtbudgetnoord.amsterdam.nl
 https://www.buurtbudgetzuid.amsterdam.nl
