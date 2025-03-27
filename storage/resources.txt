@@ -252,6 +252,7 @@ acceptatie.baarle-nassau.nl
 acceptatie.gemeentebeek.nl
 acceptatie.omgevingswet.overheid.nl
 acceptatieloket.bergen-nh.nl
+acceptatieloket.borne.nl
 access.oa.amsterdam.nl
 accisdtalentcenter.bergenopzoom.nl
 accmksprd.ovh.gemeentebeek.nl
@@ -312,6 +313,7 @@ afspraken.bernheze.org
 afspraken.beuningen.nl
 afspraken.beverwijk.nl
 afspraken.bladel.nl
+afspraken.borne.nl
 afval.acc.omgevingswet.overheid.nl
 afval.assen.nl
 afval.omgevingswet.overheid.nl
@@ -550,6 +552,7 @@ autodiscover.beverwijk.nl
 autodiscover.bloemendaal.nl
 autodiscover.bodegraven-reeuwijk.nl
 autodiscover.borger-odoorn.nl
+autodiscover.borne.nl
 autodiscover.gemeentebeek.nl
 autodiscover.gemeenteberkelland.nl
 autodiscover.gemeentebest.nl
@@ -560,6 +563,7 @@ autodiscover.noord.amsterdam.nl
 autodiscover.ovh.gemeentebeek.nl
 autodiscover.pmb.amsterdam.nl
 autodiscover.rcgog.nl
+automator.borne.nl
 autorisatie.alkmaar.nl
 autorisatie.bloemendaal.nl
 autorisatie01.alkmaar.nl
@@ -807,6 +811,7 @@ boekel.nl
 bomen.amsterdam.nl
 boostjebuurt.amsterdam.nl
 borger-odoorn.nl
+borne.nl
 boub-api-acc.overheid.nl
 boub-api.overheid.nl
 bounces-eps.amsterdam.nl
@@ -927,6 +932,7 @@ cmsintranet.gemeentebeek.nl
 cmsoo.assen.nl
 cmsoo.bodegraven-reeuwijk.nl
 cmsoo.borger-odoorn.nl
+cmsoo.borne.nl
 cognitatie.acc.omgevingswet.overheid.nl
 cognitatie.omgevingswet.overheid.nl
 cognitatie.tst.omgevingswet.overheid.nl
@@ -997,8 +1003,10 @@ daalder-dash.makkelijkemarkt.amsterdam.nl
 daalder.makkelijkemarkt.amsterdam.nl
 dacceptatieloket.assen.nl
 dacceptatieloket.borger-odoorn.nl
+dacceptatieloket.borne.nl
 dacceptatiemidoffice.assen.nl
 dacceptatiemidoffice.borger-odoorn.nl
+dacceptatiemidoffice.borne.nl
 dagbesteding.apeldoorn.nl
 dali.alphenaandenrijn.nl
 dap.amsterdam.nl
@@ -1078,6 +1086,7 @@ deschop.acceptatie.asten.nl
 deschop.asten.nl
 designsystem.overheid.nl
 desktop.apeldoorn.nl
+desktop.borne.nl
 deurwaardersloket.amersfoort.nl
 dev.rnd.amsterdam.nl
 developer.omgevingswet.overheid.nl
@@ -1152,10 +1161,12 @@ dkt.barneveld.nl
 dktest.asten.nl
 dloket.assen.nl
 dloket.borger-odoorn.nl
+dloket.borne.nl
 dmafunc002.amsterdam.nl
 dmb.amsterdam.nl
 dmidoffice.assen.nl
 dmidoffice.borger-odoorn.nl
+dmidoffice.borne.nl
 dmo.omgevingswet.overheid.nl
 dmpfunc002.amsterdam.nl
 dmz-websrv.achtkarspelen.nl
@@ -1623,6 +1634,7 @@ gemeenteraad.almere.nl
 gemeenteraad.amsterdam.nl
 gemeenteraad.assen.nl
 gemeenteraad.bloemendaal.nl
+gemeenteraad.borne.nl
 gen1.alkmaar.nl
 gen2.alkmaar.nl
 geo.aaenhunze.nl
@@ -1674,8 +1686,11 @@ gn2connect.apeldoorn.nl
 goud.almere.nl
 govroam.beekdaelen.nl
 govroam.belastingdienst.nl
+govroam.borne.nl
 govroam.gemeentebeek.nl
+gp-test.borne.nl
 gp.apeldoorn.nl
+gp.borne.nl
 gp.ggd.amsterdam.nl
 gpa-rest-test.belastingdienst.nl
 gpa.apeldoorn.nl
@@ -1798,6 +1813,7 @@ iamsp2.ot.amsterdam.nl
 iamww.amsterdam.nl
 iamwwextern.amsterdam.nl
 iarchief.beekdaelen.nl
+iarchief.borne.nl
 iba.amsterdam.nl
 ibo.borger-odoorn.nl
 iburgerzaken.aaenhunze.nl
@@ -1822,6 +1838,7 @@ iburgerzaken.bloemendaal.nl
 iburgerzaken.bodegraven-reeuwijk.nl
 iburgerzaken.boekel.nl
 iburgerzaken.borger-odoorn.nl
+iburgerzaken.borne.nl
 iburgerzaken.gemeentebeek.nl
 iburgerzaken.gemeentebest.nl
 ibzpink.aaenhunze.nl
@@ -1949,6 +1966,7 @@ internationaal.ondernemen.overheid.nl
 internetafspraken.gemeentebeek.nl
 intpatch.omgevingswet.overheid.nl
 intranet-acc.bergendal.nl
+intranet-acc.borne.nl
 intranet-cms.bernheze.org
 intranet-stats.bernheze.org
 intranet.aalten.nl
@@ -1965,6 +1983,7 @@ intranet.bergendal.nl
 intranet.bernheze.org
 intranet.beverwijk.nl
 intranet.boekel.nl
+intranet.borne.nl
 intranet.digi-mlv.os.amsterdam.nl
 intranet.docwonen.amsterdam.nl
 intranet.gemeentebeek.nl
@@ -1978,6 +1997,7 @@ intrekkingsportaal.acceptatie.digipoort.logius.nl
 intrekkingsportaal.digipoort.logius.nl
 intrekkingsportaal.preproductie.digipoort.logius.nl
 intunecollector.amsterdam.nl
+invmid.borne.nl
 iovi.amsterdam.nl
 iparticipatie.achtkarspelen.nl
 iparticipatie.beesel.nl
@@ -2079,6 +2099,7 @@ leeromgeving-mijnleno.amsterdam.nl
 leerplein.arnhem.nl
 leerpleinburgerzaken.amsterdam.nl
 legacy.amsterdam.nl
+legacy.borne.nl
 legacy.iba.amsterdam.nl
 leiderschap.belastingdienst.nl
 leiderschapp.belastingdienst.nl
@@ -2119,6 +2140,7 @@ loket.amsterdam.nl
 loket.asten.nl
 loket.barendrecht.nl
 loket.bergen-nh.nl
+loket.borne.nl
 loket.overheid.nl
 loket.test.aalsmeer.nl
 loket.test.amstelveen.nl
@@ -2168,6 +2190,7 @@ mail.bergen.nl
 mail.bergenopzoom.nl
 mail.bernheze.org
 mail.bloemendaal.nl
+mail.borne.nl
 mail.denkmee.amstelveen.nl
 mail.dmb.amsterdam.nl
 mail.gemeentebest.nl
@@ -2191,6 +2214,7 @@ makelaar.almelo.nl
 makkelijkemarkt-api.amsterdam.nl
 makkelijkemarkt-dashboard.amsterdam.nl
 makkelijkemarkt.amsterdam.nl
+mam.borne.nl
 managedservices.logius.nl
 management.api.amsterdam.nl
 map.data-o.azure.amsterdam.nl
@@ -2210,6 +2234,7 @@ matenpark.apeldoorn.nl
 mbg1.beverwijk.nl
 mc.belastingdienst.nl
 mc.ont.belastingdienst.nl
+mdm.borne.nl
 mdr.beverwijk.nl
 me-api.acc.amsterdam.nl
 me-api.amsterdam.nl
@@ -2362,12 +2387,14 @@ mijnzorg-acc.alkmaar.nl
 mijnzorg-acc.amstelveen.nl
 mijnzorg-acc.barneveld.nl
 mijnzorg-acc.beesel.nl
+mijnzorg-test.borne.nl
 mijnzorg.aalsmeer.nl
 mijnzorg.alkmaar.nl
 mijnzorg.amstelveen.nl
 mijnzorg.barneveld.nl
 mijnzorg.beekdaelen.nl
 mijnzorg.beesel.nl
+mijnzorg.borne.nl
 misc-geo-01.barneveld.nl
 misc-geo-02.barneveld.nl
 mks.acc.amsterdam.nl
@@ -2391,6 +2418,7 @@ mobiel.gemeentebeek.nl
 mobiel.toeslagen.nl
 mobiel1.acc.toeslagen.nl
 mobielbeek.gemeentebeek.nl
+mobile.borne.nl
 mobile.ggd.amsterdam.nl
 moh-acc.arnhem.nl
 moh.arnhem.nl
@@ -2460,6 +2488,7 @@ nieuwsbrievenminocw.nl
 nieuwwest.amsterdam.nl
 nlgembek.gemeentebeek.nl
 nlgembrc.blaricum.nl
+nlgembrn.borne.nl
 nlx.amsterdam.nl
 node1.acc.statistiek.mijn.overheid.nl
 noord.amsterdam.nl
@@ -2795,6 +2824,7 @@ portal.assen.nl
 portal.barneveld.nl
 portal.bergenopzoom.nl
 portal.beverwijk.nl
+portal.borne.nl
 portal.brandweer.amsterdam.nl
 portal.dab.amsterdam.nl
 portal.data.alkmaar.nl
@@ -2931,6 +2961,7 @@ remcon.amsterdam.nl
 remote.aaenhunze.nl
 remote.arnhem.nl
 remote.beverwijk.nl
+remote.borne.nl
 remote.centrum.amsterdam.nl
 renvooiservice-eto.overheid.nl
 renvooiservice.overheid.nl
@@ -2974,9 +3005,11 @@ ruimtelijkeplannen.achtkarspelen.nl
 ruimtelijkeplannen.alkmaar.nl
 ruimtelijkeplannen.almelo.nl
 ruimtelijkeplannen.bodegraven-reeuwijk.nl
+ruimtelijkeplannen.borne.nl
 rvmetadata.logius.nl
 rw.belastingdienst.nl
 rwn.belastingdienst.nl
+rx-mission-publiceren.borne.nl
 s1.toeslagen.nl
 s2-acc1.toeslagen.nl
 s2.toeslagen.nl
@@ -3053,6 +3086,7 @@ secure.beverwijk.nl
 secure.bloemendaal.nl
 secure.boekel.nl
 secure.gemeentebeek.nl
+securemail.borne.nl
 selfservice.ggd.amsterdam.nl
 sensorenregister.amsterdam.nl
 sentry.beesel.nl
@@ -3090,6 +3124,7 @@ sfte.acc.amsterdam.nl
 sfte.amsterdam.nl
 sharefile.acc.amsterdam.nl
 sharefile.amsterdam.nl
+sharefile.borne.nl
 sharepoint-acc-ext.belastingdienst.nl
 sharepoint-acc.toeslagen.nl
 sharepoint-conf.toeslagen.nl
@@ -3172,6 +3207,7 @@ slimmeapparaten.amsterdam.nl
 smap.almere.nl
 smoelennet.almelo.nl
 sms.ggd.amsterdam.nl
+smtp.borne.nl
 smtp.gemeentebeek.nl
 smtp.iba.amsterdam.nl
 smtp.rijksoverheid.nl
@@ -3451,6 +3487,7 @@ test.arnhem.nl
 test.beesel.nl
 test.bernheze.org
 test.beverwijk.nl
+test.borne.nl
 test.bp.data.amsterdam.nl
 test.formulieren.almere.nl
 test.gemeentebest.nl
@@ -3474,6 +3511,7 @@ testformulieren.bodegraven-reeuwijk.nl
 testkaart.alphenaandenrijn.nl
 testmeldingen.asten.nl
 testportaal.almelo.nl
+testportal.borne.nl
 testsiam.ameland.nl
 testwozloket.borger-odoorn.nl
 teverantwoordenregelingen.rijksoverheid.nl
@@ -3622,11 +3660,15 @@ victor.amsterdam.nl
 videobellen.belastingdienst.nl
 view.nieuwsbrief.amsterdam.nl
 vinden.belastingdienst.nl
+vmapp002.borne.nl
+vmapp006.borne.nl
+vmgis003.borne.nl
 voip.bernheze.org
 volg.amsterdam.nl
 voor1.rijksoverheid.nl
 voor2.rijksoverheid.nl
 voorlichting.rijksoverheid.nl
+voormeldingen.borne.nl
 voorraad.top.amsterdam.nl
 voorschool.almere.nl
 vpg-aag-test.belastingdienst.nl
@@ -3703,6 +3745,7 @@ webmail.bernheze.org
 webmail.beverwijk.nl
 webmail.bloemendaal.nl
 webmail.boekel.nl
+webmail.borne.nl
 webmail.centrum.amsterdam.nl
 webmail.dbga.amsterdam.nl
 webmail.dict.amsterdam.nl
@@ -3783,6 +3826,7 @@ wijkteams.almere.nl
 wiki.data.amsterdam.nl
 wiki.logius.nl
 wiki.rijksoverheid.nl
+wim2-acc.borne.nl
 wion.amersfoort.nl
 wmo.bloemendaal.nl
 wmoauth.acceptatie.amsterdam.nl
@@ -3890,6 +3934,7 @@ www.bodegraven-reeuwijk.nl
 www.boekel.nl
 www.bolwerken.amsterdam.nl
 www.borger-odoorn.nl
+www.borne.nl
 www.brandweer.almelo.nl
 www.bta.omgevingswet.overheid.nl
 www.buikslotermeerplein.amsterdam.nl
@@ -4052,6 +4097,7 @@ wzs.amsterdam.nl
 wzs.brievenbus.amsterdam.nl
 xencor.bergenopzoom.nl
 xencort.bergenopzoom.nl
+xential.borne.nl
 xerox.brievenbus.amsterdam.nl
 xml.belastingdienst.nl
 youpp.baarn.nl
@@ -4065,6 +4111,7 @@ zaaksysteem-accept.alkmaar.nl
 zaaksysteem-accept.baarn.nl
 zaaksysteem-accept.beuningen.nl
 zaaksysteem-accept.gemeenteberkelland.nl
+zaalhuur.borne.nl
 zaken.acceptatie.gemeentebeek.nl
 zaken.alblasserdam.nl
 zaken.amersfoort.nl

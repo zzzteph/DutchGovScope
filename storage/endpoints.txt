@@ -28,6 +28,7 @@ http://autodiscover.beuningen.nl
 http://autodiscover.bloemendaal.nl
 http://autodiscover.bodegraven-reeuwijk.nl
 http://autodiscover.borger-odoorn.nl
+http://autodiscover.borne.nl
 http://autodiscover.gemeenteberkelland.nl
 http://autodiscover.gemeentebest.nl
 http://beekdaelen.nl
@@ -473,6 +474,7 @@ https://bodem-ondergrond.omgevingswet.overheid.nl
 https://boekel.nl
 https://bomen.amsterdam.nl
 https://borger-odoorn.nl
+https://borne.nl
 https://boub-api-acc.overheid.nl
 https://boub-api.overheid.nl
 https://bounces-eps.amsterdam.nl
@@ -530,6 +532,7 @@ https://cmsintranet.gemeentebeek.nl
 https://cmsoo.assen.nl
 https://cmsoo.bodegraven-reeuwijk.nl
 https://cmsoo.borger-odoorn.nl
+https://cmsoo.borne.nl
 https://cognitatie.acc.omgevingswet.overheid.nl
 https://cognitatie.omgevingswet.overheid.nl
 https://cognitatie.tst.omgevingswet.overheid.nl
@@ -967,6 +970,7 @@ https://iburgerzaken.bloemendaal.nl
 https://iburgerzaken.bodegraven-reeuwijk.nl
 https://iburgerzaken.boekel.nl
 https://iburgerzaken.borger-odoorn.nl
+https://iburgerzaken.borne.nl
 https://iburgerzaken.gemeentebeek.nl
 https://iburgerzaken.gemeentebest.nl
 https://id-beheer-erfpacht-acc.amsterdam.nl
@@ -1030,6 +1034,7 @@ https://intern.aanmeldenparkeren.amsterdam.nl
 https://intern.formulieren.acc.amsterdam.nl
 https://intern.formulieren.amsterdam.nl
 https://intpatch.omgevingswet.overheid.nl
+https://intranet-acc.borne.nl
 https://intranet-cms.bernheze.org
 https://intranet-stats.bernheze.org
 https://intranet.acc.amsterdam.nl
@@ -1213,10 +1218,12 @@ https://mijnzorg-acc.alkmaar.nl
 https://mijnzorg-acc.amstelveen.nl
 https://mijnzorg-acc.barneveld.nl
 https://mijnzorg-acc.beesel.nl
+https://mijnzorg-test.borne.nl
 https://mijnzorg.alkmaar.nl
 https://mijnzorg.barneveld.nl
 https://mijnzorg.beekdaelen.nl
 https://mijnzorg.beesel.nl
+https://mijnzorg.borne.nl
 https://mks.acc.amsterdam.nl
 https://mks.amsterdam.nl
 https://mks.preprod.amsterdam.nl
@@ -1426,6 +1433,7 @@ https://portaal.notificaties.openzaak-tst.amsterdam.nl
 https://portal.achtkarspelen.nl
 https://portal.barneveld.nl
 https://portal.bergenopzoom.nl
+https://portal.borne.nl
 https://portal.data.alkmaar.nl
 https://portal.ggd.amsterdam.nl
 https://pp1.toegang.overheid.nl
@@ -1918,6 +1926,7 @@ https://www.bloemendaal.nl
 https://www.bodegraven-reeuwijk.nl
 https://www.boekel.nl
 https://www.borger-odoorn.nl
+https://www.borne.nl
 https://www.bta.omgevingswet.overheid.nl
 https://www.buurtbudget.amsterdam.nl
 https://www.buurtbudgetnoord.amsterdam.nl
