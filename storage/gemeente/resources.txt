@@ -174,6 +174,8 @@ acc-podiumd-openzaak.deventer.nl
 acc-podiumd-zac.deventer.nl
 acc-podiumd.sschosting.nl.assen.nl
 acc-tripleforms.heerlen.nl
+acc-waardepapieren-balie.hoorn.nl
+acc-waardepapieren.hoorn.nl
 acc-zac.dev.groningen.nl
 acc.adam.amsterdam.nl
 acc.admin.data.amsterdam.nl
@@ -373,6 +375,7 @@ acceptatieloket.borne.nl
 acceptatieloket.dinkelland.nl
 acceptatiemidoffice.coevorden.nl
 acceptatievergunningen.duiven.nl
+access.hoorn.nl
 access.oa.amsterdam.nl
 accisdtalentcenter.bergenopzoom.nl
 accmksprd.ovh.gemeentebeek.nl
@@ -406,6 +409,7 @@ adfs.gulpen-wittem.nl
 adfs.heerlen.nl
 adfs.hellendoorn.nl
 adfs.helmond.nl
+adfs.hoorn.nl
 adfslogin.defryskemarren.nl
 adiko.apeldoorn.nl
 admanager.zaaksysteem.eindhoven.nl
@@ -618,6 +622,7 @@ api.betalen.gemert-bakel.nl
 api.data.amsterdam.nl
 api.dataportaal.amsterdam.nl
 api.denhaag.nl
+api.design.hoorn.nl
 api.doemee.bloemendaal.nl
 api.erfpachtmedewerkers-acc.amsterdam.nl
 api.erfpachtmedewerkers-dev.amsterdam.nl
@@ -872,6 +877,7 @@ autodiscover.hillegom.nl
 autodiscover.hilversum.nl
 autodiscover.hofvantwente.nl
 autodiscover.hoogeveen.nl
+autodiscover.hoorn.nl
 autodiscover.iba.amsterdam.nl
 autodiscover.leefbaar.haarlemmermeer.nl
 autodiscover.noord.amsterdam.nl
@@ -1012,6 +1018,7 @@ begroting.groningen.nl
 begroting.hengelo.nl
 begroting2017.groningen.nl
 begroting2018.groningen.nl
+begroting2018.hoorn.nl
 begroting2019.groningen.nl
 begroting2020.groningen.nl
 begroting2021.groningen.nl
@@ -1041,6 +1048,7 @@ belastingbalie.ede.nl
 belastingbalie.eindhoven.nl
 belastingbalie.gooisemeren.nl
 belastingbalie.hilversum.nl
+belastingbalie.hoorn.nl
 belastingbalietest.capelleaandenijssel.nl
 belastingen-acc.almere.nl
 belastingen-acc.arnhem.nl
@@ -1143,7 +1151,9 @@ beverwijk.nl
 bewegen.apeldoorn.nl
 bewustwording.amersfoort.nl
 bewustwording.brielle.nl
+bezoekersparkeren-acc.hoorn.nl
 bezoekersparkeren.heerenveen.nl
+bezoekersparkeren.hoorn.nl
 bezwaar.acc.denhaag.nl
 bezwaar.denhaag.nl
 bgnvsv002.bergen.nl
@@ -1214,6 +1224,7 @@ bouwarchief.hillegom.nl
 bouwdossiers.amsterdam.nl
 bouwdossiers.stadsarchief.breda.nl
 bouwkavels.hofvantwente.nl
+bouwprojecten.hoorn.nl
 boxtel.nl
 bp.data.amsterdam.nl
 bppl.denhaag.nl
@@ -1458,6 +1469,7 @@ corsa2023.gulpen-wittem.nl
 corsanxt.gulpen-wittem.nl
 cppm.delft.nl
 cranendonck.nl
+crisis.hoorn.nl
 crk.amsterdam.nl
 crl.amersfoort.nl
 crl.denhaag.nl
@@ -1611,6 +1623,7 @@ denkmee.hollandskroon.nl
 derondevenen.nl
 deschop.acceptatie.asten.nl
 deschop.asten.nl
+design.hoorn.nl
 desktop.apeldoorn.nl
 desktop.borne.nl
 desktop.denhaag.nl
@@ -1895,6 +1908,7 @@ duurzaam.beverwijk.nl
 duurzaam.gooisemeren.nl
 duurzaam.heemskerk.nl
 duurzaam.hollandskroon.nl
+duurzaam.hoorn.nl
 duurzaambouwen.gooisemeren.nl
 duurzamestad-acc.denhaag.nl
 duurzamestad.denhaag.nl
@@ -1944,6 +1958,7 @@ e.borger-odoorn.nl
 e.dewolden.nl
 e.haarlem.nl
 e.hoogeveen.nl
+e.hoorn.nl
 e.mailings.deventer.nl
 e.openstad.emmen.nl
 e.openstad.enschede.nl
@@ -2393,6 +2408,7 @@ fme.eemsdelta.nl
 fmreturn.beekdaelen.nl
 fmreturn.beverwijk.nl
 fmreturn.echt-susteren.nl
+fmreturn.hoorn.nl
 fo-parkeervergunningen.acc.denhaag.nl
 fo-parkeervergunningen.denhaag.nl
 focus-fa.amsterdam.nl
@@ -2423,7 +2439,9 @@ formulier.groningen.nl
 formulier.hethogeland.nl
 formulier.s-hertogenbosch.nl
 formulieracc.breda.nl
+formulieren-acc.hoorn.nl
 formulieren-g4-acc.amsterdam.nl
+formulieren-intern.hoorn.nl
 formulieren-test.beesel.nl
 formulieren-test.bronckhorst.nl
 formulieren-test.culemborg.nl
@@ -2452,6 +2470,7 @@ formulieren.haarlemmermeer.nl
 formulieren.hardenberg.nl
 formulieren.heerenveen.nl
 formulieren.hethogeland.nl
+formulieren.hoorn.nl
 formulieren.s-hertogenbosch.nl
 formulieren1.amsterdam.nl
 formulierenacc.breda.nl
@@ -2723,6 +2742,7 @@ govroam.gemeentebeek.nl
 govroam.groningen.nl
 govroam.gulpen-wittem.nl
 govroam.heerlen.nl
+govroam.hoorn.nl
 gp-test.borne.nl
 gp.apeldoorn.nl
 gp.borne.nl
@@ -2848,6 +2868,7 @@ home2.groningen.nl
 hometest.groningen.nl
 hoogeland.groningen.nl
 hoogeveen.nl
+hoorn.nl
 hor-acc.amsterdam.nl
 hor.amsterdam.nl
 hor.denhaag.nl
@@ -2904,6 +2925,7 @@ iarchief.borne.nl
 iarchief.gooisemeren.nl
 iarchief.hilversum.nl
 iba.amsterdam.nl
+ibabs.hoorn.nl
 ibo.borger-odoorn.nl
 ibor.delft.nl
 iburgerzaken.aaenhunze.nl
@@ -3131,6 +3153,7 @@ inkomensondersteuning.breda.nl
 inkomensondersteuningpp.breda.nl
 inkoopplein.almere.nl
 inle.denhaag.nl
+inloggen-acc.hoorn.nl
 inloggen-preprod.geertruidenberg.nl
 inloggen.belastingportaal.aaenhunze.nl
 inloggen.belastingportaal.acc.aaenhunze.nl
@@ -3140,6 +3163,7 @@ inloggen.castricum.nl
 inloggen.geertruidenberg.nl
 inloggen.gemeenteberkelland.nl
 inloggen.haarlemmermeer.nl
+inloggen.hoorn.nl
 inloggen.mijnsubsidie.eindhoven.nl
 inloggen.mijnsubsidie.test.eindhoven.nl
 inloggenapv-preprod.hellendoorn.nl
@@ -3174,6 +3198,7 @@ intra.gooisemeren.nl
 intranet-acc.bergendal.nl
 intranet-acc.borne.nl
 intranet-acc.delft.nl
+intranet-acc.hoorn.nl
 intranet-cms.bernheze.org
 intranet-stats.bernheze.org
 intranet.aalten.nl
@@ -3220,6 +3245,7 @@ intranet.heumen.nl
 intranet.heusden.nl
 intranet.hillegom.nl
 intranet.hilvarenbeek.nl
+intranet.hoorn.nl
 intranet.raadsinformatie.amsterdam.nl
 intranetacc.apeldoorn.nl
 intranetcms-acc.bergendal.nl
@@ -3346,6 +3372,7 @@ kaarten.gooisemeren.nl
 kaarten.haarlemmermeer.nl
 kaarten.helmond.nl
 kaartviewer.barneveld.nl
+kaartviewer.hoorn.nl
 kadbrkwkpd.deventer.nl
 kadernota2022.financielestukken.diemen.nl
 kansshop.eemsdelta.nl
@@ -3463,6 +3490,7 @@ leerpleinburgerzaken.amsterdam.nl
 legacy.amsterdam.nl
 legacy.borne.nl
 legacy.boxtel.nl
+legacy.hoorn.nl
 legacy.iba.amsterdam.nl
 leidschenveenaanzet.denhaag.nl
 lerenbij.groningen.nl
@@ -3628,6 +3656,7 @@ mail.hardenberg.nl
 mail.heemskerk.nl
 mail.heerenveen.nl
 mail.helmond.nl
+mail.hoorn.nl
 mail.mailing.haaksbergen.nl
 mail.noord.amsterdam.nl
 mail.s-hertogenbosch.nl
@@ -3674,6 +3703,7 @@ maps.bodegraven-reeuwijk.nl
 maps.groningen.nl
 mariahoeveaanzet.denhaag.nl
 marketingtools.goeree-overflakkee.nl
+marktportaal.hoorn.nl
 mas-acc.amsterdam.nl
 mas-mobile-acc.amsterdam.nl
 mas-mobile-tst.amsterdam.nl
@@ -3844,6 +3874,7 @@ mijn.hengelo.nl
 mijn.heusden.nl
 mijn.hofvantwente.nl
 mijn.hollandskroon.nl
+mijn.hoorn.nl
 mijnaanvraagzi.beuningen.nl
 mijnacpt.haarlem.nl
 mijnbelastingen.amsterdam.nl
@@ -4078,6 +4109,7 @@ nhr.barneveld.nl
 nieuwauthentiekbloemendaal.doemee.bloemendaal.nl
 nieuweburgemeester.deventer.nl
 nieuws.breda.nl
+nieuws.hoorn.nl
 nieuwsbrief.amsterdam.nl
 nieuwsbrief.arnhem.nl
 nieuwsbrief.assen.nl
@@ -4374,6 +4406,7 @@ or.delft.nl
 oracbloemenbuurt.denhaag.nl
 oranjekwartier.deventer.nl
 oranjeplein.goirle.nl
+organisatie.hoorn.nl
 organisatieontwikkeling.assen.nl
 organisatievisie2030.hollandskroon.nl
 ortest.delft.nl
@@ -4474,6 +4507,7 @@ parkeren-acc.bodegraven-reeuwijk.nl
 parkeren-acc.bunschoten.nl
 parkeren-acc.ede.nl
 parkeren-acc.haarlem.nl
+parkeren-acc.hoorn.nl
 parkeren-edu.amsterdam.nl
 parkeren-siam-test.dijkenwaard.nl
 parkeren-siam.dijkenwaard.nl
@@ -4500,6 +4534,7 @@ parkeren.haarlemmermeer.nl
 parkeren.heerenveen.nl
 parkeren.heerlen.nl
 parkeren.hengelo.nl
+parkeren.hoorn.nl
 parkeren.s-hertogenbosch.nl
 parkerendenhaag-test.denhaag.nl
 parkerendenhaag.acc.denhaag.nl
@@ -4663,6 +4698,7 @@ praatmee.borsele.nl
 praatmee.boxtel.nl
 praatmee.goeree-overflakkee.nl
 prd.afs.amsterdam.nl
+prd1.hoorn.nl
 prdb.haarlem.nl
 pre-ows-ahp-test.groningen.nl
 pre-ows-ahp.groningen.nl
@@ -4854,6 +4890,7 @@ pv.gevondenvoorwerpen.gemeentehw.nl
 pv.heiloo.nl
 pv.helmond.nl
 pveopenbareruimte.deventer.nl
+pvh.hoorn.nl
 pwa.barendrecht.nl
 q-matic.delft.nl
 qcalendar.deventer.nl
@@ -4942,6 +4979,7 @@ remote.drimmelen.nl
 remote.druten.nl
 remote.gorinchem.nl
 remote.hethogeland.nl
+remote.hoorn.nl
 rep.bronckhorst.nl
 reserveren.coevorden.nl
 ris.dalfsen.nl
@@ -5300,6 +5338,7 @@ sip.diemen.nl
 sip.ggd.amsterdam.nl
 sip.haarlem.nl
 sip.hellevoetsluis.nl
+sip.hoorn.nl
 sip.oa.amsterdam.nl
 siraskalot.delft.nl
 site.dijkenwaard.nl
@@ -5330,8 +5369,10 @@ smtp.gemeentebeek.nl
 smtp.heusden.nl
 smtp.iba.amsterdam.nl
 smtp1.denhaag.nl
+smtp1.hoorn.nl
 smtp1s.denhaag.nl
 smtp2.denhaag.nl
+smtp2.hoorn.nl
 smtp2s.denhaag.nl
 smtpe.denhaag.nl
 smtprelay.denhaag.nl
@@ -5497,6 +5538,7 @@ storefronttest.delft.nl
 storing.acc.denhaag.nl
 storing.denhaag.nl
 straatnotes.amsterdam.nl
+strand.hoorn.nl
 streetsmart.gulpen-wittem.nl
 stroomlijntest.derondevenen.nl
 stroomt.deventer.nl
@@ -5548,6 +5590,8 @@ suite4burgerzaken-prod.gulpen-wittem.nl
 suite4burgerzaken-test.brunssum.nl
 suite4burgerzaken-test.gulpen-wittem.nl
 suite4burgerzaken.brunssum.nl
+suite4sdmhprod.hoorn.nl
+suite4sdmhtest.hoorn.nl
 summit-ft.amsterdam.nl
 summit.tst.amsterdam.nl
 support.bergen-nh.nl
@@ -5650,6 +5694,7 @@ test-ipa.s-hertogenbosch.nl
 test-jip.hofvantwente.nl
 test-kaart.almere.nl
 test-kaarten.haarlemmermeer.nl
+test-kaartviewer.hoorn.nl
 test-kansshop.eemsdelta.nl
 test-kennisbank.almelo.nl
 test-keycloak.assen.nl
@@ -5660,6 +5705,7 @@ test-meedoenregeling.dongen.nl
 test-mijn.assen.nl
 test-mijn.enschede.nl
 test-mijn.gemert-bakel.nl
+test-mijn.hoorn.nl
 test-mijnoverzicht.alphenaandenrijn.nl
 test-mijnzi.beuningen.nl
 test-notificaties.assen.nl
@@ -5720,12 +5766,14 @@ test.gemeentebest.nl
 test.gulpen-wittem.nl
 test.hellendoorn.nl
 test.helmond.nl
+test.hoorn.nl
 test.io.amsterdam.nl
 test.mijnzorg.beekdaelen.nl
 test.services.dronten.nl
 testafspraken.alkmaar.nl
 testafspraken.gemeentehw.nl
 testapps.haarlemmermeer.nl
+testbelastingbalie.hoorn.nl
 testbelastingloket.hattem.nl
 testbelastingloket.heerde.nl
 testberichten.bergendal.nl
@@ -5774,6 +5822,7 @@ testwozloket.borger-odoorn.nl
 testzaken.haarlemmermeer.nl
 tgws4allsuite4werk.heerlen.nl
 tgws4allsuite4zorg.heerlen.nl
+themawebsite.hoorn.nl
 thic.denhaag.nl
 thuiswerken-uitwijk.gooisemeren.nl
 thuiswerken.almere.nl
@@ -6087,10 +6136,13 @@ webcams.gouda.nl
 webcamslingerweg.breda.nl
 webcamspinveld.breda.nl
 webcon.castricum.nl
+webcon.hoorn.nl
 webconf.assen.nl
 webdav.doetinchem.nl
 webdav.goeree-overflakkee.nl
+webformulieren-acc.hoorn.nl
 webformulieren.doetinchem.nl
+webformulieren.hoorn.nl
 webgba.gouda.nl
 webkassa.harderwijk.nl
 webkassa.heusden.nl
@@ -6137,6 +6189,7 @@ webmail.hellevoetsluis.nl
 webmail.heusden.nl
 webmail.hillegom.nl
 webmail.hilversum.nl
+webmail.hoorn.nl
 webmail.iba.amsterdam.nl
 webmail.ivv.amsterdam.nl
 webmail.nieuwwest.amsterdam.nl
@@ -6144,6 +6197,7 @@ webmail.oost-wgm.amsterdam.nl
 webmail.oost.amsterdam.nl
 webmail.pmb.amsterdam.nl
 webmail.stadsarchief.amsterdam.nl
+webmail.test.hoorn.nl
 webmail.west.amsterdam.nl
 webmail.zuidoost.amsterdam.nl
 webmail2.heusden.nl
@@ -6191,6 +6245,7 @@ werkenbij.heemskerk.nl
 werkenbij.helmond.nl
 werkenbij.hilversum.nl
 werkenbij.hollandskroon.nl
+werkenbij.hoorn.nl
 werkenvoor-acc.denhaag.nl
 werkenvoor.acceptatie.amstelveen.nl
 werkenvoor.amstelveen.nl
@@ -6233,6 +6288,7 @@ widocmksp001.assen.nl
 wifi-sport.alkmaar.nl
 wifi.bergenopzoom.nl
 wifi.hilversum.nl
+wifi.hoorn.nl
 wifiguestportal.almere.nl
 wij.deventer.nl
 wij.groningen.nl
@@ -6331,6 +6387,7 @@ wpi.amsterdam.nl
 wpmksp001.assen.nl
 wppbeheer.acc.amsterdam.nl
 wppbeheer.amsterdam.nl
+wpvh.hoorn.nl
 wsgateway-extern.acc.denhaag.nl
 wsgateway-extern.denhaag.nl
 wsgateway-extern.ot.denhaag.nl
@@ -6518,6 +6575,7 @@ www.duurzaam.alphenaandenrijn.nl
 www.duurzaam.assen.nl
 www.duurzaam.barneveld.nl
 www.duurzaam.beesel.nl
+www.duurzaam.hoorn.nl
 www.duurzaamheidscentrum.assen.nl
 www.duurzamestad-acc.denhaag.nl
 www.duurzamestad.denhaag.nl
@@ -6669,6 +6727,7 @@ www.hofvantwente.nl
 www.hollandskroon.nl
 www.hoogeland.groningen.nl
 www.hoogeveen.nl
+www.hoorn.nl
 www.houtwijkbegroot.denhaag.nl
 www.hvd.groningen.nl
 www.ibo.borger-odoorn.nl
@@ -6899,6 +6958,7 @@ www.werkenbij.alkmaar.nl
 www.werkenbij.amsterdam.nl
 www.werkenbij.enschede.nl
 www.werkenbij.hollandskroon.nl
+www.werkenbij.hoorn.nl
 www.werkenvoor.denhaag.nl
 www.werkpakt.enschede.nl
 www.werkplek.groningen.nl
