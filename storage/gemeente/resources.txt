@@ -8,6 +8,7 @@
 3d.almere.nl
 3d.amsterdam.nl
 AutoDiscover.brielle.nl
+AutoDiscover.derondevenen.nl
 Autorisatietest.bloemendaal.nl
 BGNVSV002.bergen.nl
 Belastingportaal-test.boxtel.nl
@@ -202,6 +203,7 @@ acceptatie.boxtel.nl
 acceptatie.culemborg.nl
 acceptatie.dantumadiel.frl
 acceptatie.debilt.nl
+acceptatie.derondevenen.nl
 acceptatie.gemeentebeek.nl
 acceptatie.intranet.debilt.nl
 acceptatieloket.bergen-nh.nl
@@ -318,6 +320,7 @@ almerepoort.almere.nl
 alphen-chaam.nl
 alsb.amsterdam.nl
 altlas.dbi.amsterdam.nl
+alwaysonvpn.derondevenen.nl
 ameland.nl
 amersfoort.nl
 ami-acc.amsterdam.nl
@@ -469,6 +472,7 @@ autodiscover.dalfsen.nl
 autodiscover.dantumadiel.frl
 autodiscover.debilt.nl
 autodiscover.defryskemarren.nl
+autodiscover.derondevenen.nl
 autodiscover.gemeentebeek.nl
 autodiscover.gemeenteberkelland.nl
 autodiscover.gemeentebest.nl
@@ -685,6 +689,8 @@ bunnik.nl
 bunschoten.nl
 bureaubroedplaatsen.amsterdam.nl
 buren.nl
+burgerloket.acceptatie.derondevenen.nl
+burgerloket.derondevenen.nl
 burgerzaken.amsterdam.nl
 buurtbudget.amsterdam.nl
 buurtbudgetnoord.amsterdam.nl
@@ -876,6 +882,7 @@ denkmee.achtkarspelen.nl
 denkmee.amstelveen.nl
 denkmee.beverwijk.nl
 denkmee.bodegraven-reeuwijk.nl
+derondevenen.nl
 deschop.acceptatie.asten.nl
 deschop.asten.nl
 desktop.apeldoorn.nl
@@ -1232,8 +1239,10 @@ filecapacc.breda.nl
 files.data.amsterdam.nl
 fileshare.adds.amsterdam.nl
 fileshare.amsterdam.nl
+filr.derondevenen.nl
 financials-acc.apeldoorn.nl
 financials.apeldoorn.nl
+financialstest.derondevenen.nl
 financien.amersfoort.nl
 financien.arnhem.nl
 financien.coevorden.nl
@@ -1322,6 +1331,7 @@ g-rooster.bronckhorst.nl
 gast-rtr.alkmaar.nl
 gasten.beekdaelen.nl
 gasten.brunssum.nl
+gasten.derondevenen.nl
 gb-app05.gemeenteberkelland.nl
 gbav.dpg.amsterdam.nl
 gbav1.amersfoort.nl
@@ -1337,6 +1347,7 @@ gemeente.amsterdam.nl
 gemeente.baarle-nassau.nl
 gemeente.bodegraven-reeuwijk.nl
 gemeente.boxtel.nl
+gemeente.derondevenen.nl
 gemeentearchief.alphenaandenrijn.nl
 gemeentearchief.barneveld.nl
 gemeentebeek.nl
@@ -1508,6 +1519,7 @@ iburgerzaken.coevorden.nl
 iburgerzaken.cranendonck.nl
 iburgerzaken.culemborg.nl
 iburgerzaken.dalfsen.nl
+iburgerzaken.derondevenen.nl
 iburgerzaken.gemeentebeek.nl
 iburgerzaken.gemeentebest.nl
 ibzpink.aaenhunze.nl
@@ -1539,6 +1551,7 @@ ibzpink.coevorden.nl
 ibzpink.cranendonck.nl
 ibzpink.culemborg.nl
 ibzpink.dalfsen.nl
+ibzpink.derondevenen.nl
 ibzpink.gemeentebeek.nl
 ibzpink.gemeentebest.nl
 icm-ast.asten.nl
@@ -1647,6 +1660,7 @@ iparticipatie.achtkarspelen.nl
 iparticipatie.beesel.nl
 iparticipatie.bronckhorst.nl
 iparticipatie.coevorden.nl
+iparticipatie.derondevenen.nl
 iris.data.amsterdam.nl
 ironport.brielle.nl
 is2.acc.amsterdam.nl
@@ -1828,6 +1842,7 @@ mail.bloemendaal.nl
 mail.borne.nl
 mail.brummen.nl
 mail.denkmee.amstelveen.nl
+mail.derondevenen.nl
 mail.dmb.amsterdam.nl
 mail.gemeentebest.nl
 mail.noord.amsterdam.nl
@@ -1973,6 +1988,7 @@ mijnsubsidies.acc.amsterdam.nl
 mijnsubsidies.amsterdam.nl
 mijnsubsidies.tst.amsterdam.nl
 mijnws.amsterdam.nl
+mijnzaken.derondevenen.nl
 mijnzi.beuningen.nl
 mijnzorg-acc.aalsmeer.nl
 mijnzorg-acc.alkmaar.nl
@@ -2021,6 +2037,7 @@ msoid.arnhem.nl
 mta.nieuwsbrief.amsterdam.nl
 mv1.amsterdam.nl
 mycorsanxt.brielle.nl
+mycorsanxt.derondevenen.nl
 myexports.bernheze.org
 mzdtest.bunnik.nl
 nac.almelo.nl
@@ -2135,6 +2152,7 @@ omgevingswet.bronckhorst.nl
 omslagroute.amsterdam.nl
 onderhoudspagina.amsterdam.nl
 ondernemers.bloemendaal.nl
+ondernemersloket.derondevenen.nl
 ondernemersplein.almere.nl
 onderwijsloket.amsterdam.nl
 onderwijssubsidies.amsterdam.nl
@@ -2488,6 +2506,10 @@ saaedepot-storage.tst.amsterdam.nl
 samen.beekdaelen.nl
 samenmet.beesel.nl
 samenveiligwerken.alphenaandenrijn.nl
+sammy-acc.derondevenen.nl
+sammy.derondevenen.nl
+sammycms-acc.derondevenen.nl
+sammycms.derondevenen.nl
 sbs.acc.amsterdam.nl
 sbs.amsterdam.nl
 sbs.tst.amsterdam.nl
@@ -2531,6 +2553,8 @@ secure.dalfsen.nl
 secure.gemeentebeek.nl
 securegw.bunschoten.nl
 securemail.borne.nl
+selector1._domainkey.derondevenen.nl
+selector2._domainkey.derondevenen.nl
 selfservice.ggd.amsterdam.nl
 sensorenregister.amsterdam.nl
 sentry.beesel.nl
@@ -2715,6 +2739,7 @@ stkbcp01.alkmaar.nl
 storefront.gemeentebeek.nl
 storefront.ovh.gemeentebeek.nl
 straatnotes.amsterdam.nl
+stroomlijntest.derondevenen.nl
 sts.assen.nl
 stswigo4it-acc.amsterdam.nl
 stswigo4it.amsterdam.nl
@@ -2789,6 +2814,7 @@ test-intranet.gemeentebeek.nl
 test-ipa.achtkarspelen.nl
 test-ipa.beesel.nl
 test-ipa.coevorden.nl
+test-ipa.derondevenen.nl
 test-kaart.almere.nl
 test-kennisbank.almelo.nl
 test-keycloak.assen.nl
@@ -2838,6 +2864,7 @@ testeloket.culemborg.nl
 testformulieren.bodegraven-reeuwijk.nl
 testkaart.alphenaandenrijn.nl
 testmeldingen.asten.nl
+testmijnzaken.derondevenen.nl
 testportaal.almelo.nl
 testportal.borne.nl
 testsiam.ameland.nl
@@ -2897,6 +2924,7 @@ vdi.amersfoort.nl
 vdi.brunssum.nl
 vdi8.amersfoort.nl
 veiligdelen.alkmaar.nl
+veiligdelen.derondevenen.nl
 veiligmailen.almelo.nl
 veiligmailen.beverwijk.nl
 vergaderen-adp.amsterdam.nl
@@ -3025,11 +3053,13 @@ werkplek.arnhem.nl
 werkplek.beesel.nl
 werkplek.bodegraven-reeuwijk.nl
 werkplek.buren.nl
+werkplek.derondevenen.nl
 werkplek.gemeentebeek.nl
 werkplek.gemeenteberkelland.nl
 werkplek.gemeentebest.nl
 werkplek.gslb.alkmaar.nl
 werkplek.ovh.gemeentebeek.nl
+werkplek02.derondevenen.nl
 werving.amsterdam.nl
 westbegroot.amsterdam.nl
 widocmksp001.assen.nl
@@ -3091,6 +3121,7 @@ www.acc.bodegraven-reeuwijk.nl
 www.acccorsa02.ovh.gemeentebeek.nl
 www.acceptatie.aalsmeer.nl
 www.acceptatie.amstelveen.nl
+www.acceptatie.derondevenen.nl
 www.achtkarspelen.nl
 www.afspraak.castricum.nl
 www.aga.amsterdam.nl
@@ -3180,6 +3211,7 @@ www.dantumadiel.frl
 www.data.amsterdam.nl
 www.debilt.nl
 www.defryskemarren.nl
+www.derondevenen.nl
 www.dmo.amsterdam.nl
 www.dmo2.amsterdam.nl
 www.doe-mee.coevorden.nl

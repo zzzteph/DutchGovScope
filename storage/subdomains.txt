@@ -13,19 +13,19 @@ simsite
 mijn
 webmail
 felix
-preproductie
 mail
+preproductie
 probeer
 loket
 digikoppeling
 test
+acceptatie
+werkplek
 acc
 formulieren
 adfs
 data
 meldingen
-acceptatie
-werkplek
 dkd
 portal
 pv
@@ -60,6 +60,7 @@ govroam
 kennisbank
 mailing
 mijnzorg-acc
+iparticipatie
 openpdc
 osb
 zaaksysteem-accept
@@ -69,6 +70,7 @@ duurzaam
 login
 snelbaliepp
 extranet
+gemeente
 testeloket
 dacceptatieloket
 dacceptatiemidoffice
@@ -85,7 +87,7 @@ api.meldingen-acc
 meldingen-acc
 loket.test
 denkmee
-iparticipatie
+test-ipa
 mijninkomen
 belastingbalie
 thuiswerken
@@ -95,7 +97,6 @@ berichten
 financien
 atlas
 beeldbank
-gemeente
 mks
 nieuwsbrief
 parkeren-acc
@@ -109,7 +110,7 @@ sharepoint
 start
 mobiel
 belastingportaal
-test-ipa
+www.acceptatie
 praatmee
 preprod-mijn
 verkiezingen
@@ -143,6 +144,7 @@ contentbeheer.acceptatie
 contentbeheer
 simcms-open
 zaken.acceptatie
+gasten
 formulieren-test
 kaarten
 wozloket
@@ -189,7 +191,6 @@ fs
 inloggen.belastingportaal
 inloggen.belastingportaal.acc
 edienstenburgerzaken.test
-www.acceptatie
 documenten
 preprodbroker
 raadsnet
@@ -207,6 +208,7 @@ edienstverlening
 autorisatie
 osbacc
 pdc
+veiligdelen
 www.werkenbij
 makelaar
 parkeren-test
@@ -261,7 +263,6 @@ inproces
 support
 test-intranet
 fmreturn
-gasten
 guest
 iarchief
 publicroam
@@ -292,7 +293,9 @@ pki
 dtestloket
 wozloket-acc
 filecap
+AutoDiscover
 dtestmidoffice
+mycorsanxt
 logilink
 _autodiscover._tcp
 mbg
@@ -1639,7 +1642,6 @@ sw01
 test-subsidiebeheer
 test-subsidieloket
 testafspraken
-veiligdelen
 werkplek.gslb
 wifi-sport
 www.vroonermeer-noord
@@ -3398,11 +3400,9 @@ webcamslingerweg
 webcamspinveld
 websiteacc
 www.stadsarchief
-AutoDiscover
 brlcmg
 esuitenotubiz-test
 ironport
-mycorsanxt
 nlgembrl
 ro-onlineprod
 smartdoc-brl
@@ -3559,3 +3559,19 @@ preprod-edienstaanvragensd
 preprod-mijnportaal
 test-cmsdieuwke
 test-dieuwke
+alwaysonvpn
+burgerloket.acceptatie
+burgerloket
+filr
+financialstest
+mijnzaken
+ondernemersloket
+sammy-acc
+sammy
+sammycms-acc
+sammycms
+selector1._domainkey
+selector2._domainkey
+stroomlijntest
+testmijnzaken
+werkplek02
