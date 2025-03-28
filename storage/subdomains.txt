@@ -145,6 +145,7 @@ acc-formulier
 acc-podiumd-logs
 owa
 sip
+meedoen
 test-cmsintranet
 inloggen
 doemee
@@ -177,7 +178,6 @@ acc-openzaak
 bag
 sts
 test-digikoppeling
-meedoen
 byod
 cmsintranet
 connect.acceptatie
@@ -6205,3 +6205,4 @@ workforce
 lv-brk
 grmks05
 gt-loket
+tekst
