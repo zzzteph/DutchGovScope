@@ -390,6 +390,7 @@ https://acc-broker.enschede.nl
 https://acc-broker.gemert-bakel.nl
 https://acc-broker.kampen.nl
 https://acc-broker.laarbeek.nl
+https://acc-broker.losser.nl
 https://acc-contact.assen.nl
 https://acc-contact.dev.assen.nl
 https://acc-contact.dev.groningen.nl
@@ -408,6 +409,7 @@ https://acc-formulier.enschede.nl
 https://acc-formulier.gemert-bakel.nl
 https://acc-formulier.groningen.nl
 https://acc-formulier.laarbeek.nl
+https://acc-formulier.losser.nl
 https://acc-internationaal.ondernemen.overheid.nl
 https://acc-keycloak.assen.nl
 https://acc-keycloak.dev.assen.nl
@@ -634,7 +636,11 @@ https://afspraak.heerenveen.nl
 https://afspraak.lopik.nl
 https://afspraakmaken.dronten.nl
 https://afspraakmaken.enschede.nl
+https://afspraakmaken.losser.nl
+https://afspraakmakenenschede.losser.nl
+https://afspraakmakenenschedetest.losser.nl
 https://afspraakmakentest.enschede.nl
+https://afspraakmakentest.losser.nl
 https://afspraken.alkmaar.nl
 https://afspraken.amersfoort.nl
 https://afspraken.apeldoorn.nl
@@ -791,6 +797,7 @@ https://api.meldingen-acc.hilversum.nl
 https://api.meldingen-acc.leiden.nl
 https://api.meldingen-acc.leiderdorp.nl
 https://api.meldingen-acc.lopik.nl
+https://api.meldingen-acc.losser.nl
 https://api.meldingen.aaenhunze.nl
 https://api.meldingen.acceptatie.eindhoven.nl
 https://api.meldingen.accp.s-hertogenbosch.nl
@@ -814,6 +821,7 @@ https://api.meldingen.leeuwarden.nl
 https://api.meldingen.leiden.nl
 https://api.meldingen.leiderdorp.nl
 https://api.meldingen.lopik.nl
+https://api.meldingen.losser.nl
 https://api.meldingen.s-hertogenbosch.nl
 https://api.mijn.overheid.nl
 https://api.ondernemersplein.overheid.nl
@@ -915,6 +923,7 @@ https://autodiscover.helmond.nl
 https://autodiscover.koop.overheid.nl
 https://autodiscover.leudal.nl
 https://autodiscover.lopik.nl
+https://autodiscover.losser.nl
 https://autodiscover.ombudsman.groningen.nl
 https://autodiscover.os.groningen.nl
 https://autodiscover.wij.groningen.nl
@@ -1210,6 +1219,7 @@ https://broker.laarbeek.nl
 https://broker.leeuwarden.nl
 https://broker.leudal.nl
 https://broker.leusden.nl
+https://broker.losser.nl
 https://broker.preprod.leudal.nl
 https://bronckhorst.nl
 https://bros-academie.deurne.nl
@@ -1315,12 +1325,14 @@ https://cmsoo.gemert-bakel.nl
 https://cmsoo.horstaandemaas.nl
 https://cmsoo.kampen.nl
 https://cmsoo.laarbeek.nl
+https://cmsoo.losser.nl
 https://cmswhatsepe.epe.nl
 https://coevorden.nl
 https://cognitatie.acc.omgevingswet.overheid.nl
 https://cognitatie.omgevingswet.overheid.nl
 https://cognitatie.tst.omgevingswet.overheid.nl
 https://collecties.dantumadiel.frl
+https://collecties.losser.nl
 https://college.alblasserdam.nl
 https://college.albrandswaard.nl
 https://college.dordrecht.nl
@@ -1540,6 +1552,7 @@ https://documenten.acceptatie.amstelveen.nl
 https://documenten.amstelveen.nl
 https://documenten.enschede.nl
 https://documenten.groningen.nl
+https://documenten.losser.nl
 https://documenten.open.ede.nl
 https://documentenapplicatie.igj.nl
 https://documentgenerator.amsterdam.nl
@@ -2071,6 +2084,7 @@ https://formulier.enschede.nl
 https://formulier.gemert-bakel.nl
 https://formulier.groningen.nl
 https://formulier.hethogeland.nl
+https://formulier.losser.nl
 https://formulier.s-hertogenbosch.nl
 https://formulier.werkenvoornederland.nl
 https://formulieracc.breda.nl
@@ -2122,7 +2136,9 @@ https://gassel.landvancuijk.nl
 https://gateway.heerenveen.nl
 https://gbi.apeldoorn.nl
 https://gbionline.enschede.nl
+https://gbionline.losser.nl
 https://gbionlinetest.enschede.nl
+https://gbionlinetest.losser.nl
 https://gdintaker.diemen.nl
 https://gdlo.belastingdienst.nl
 https://gebiedinbeeld.amsterdam.nl
@@ -2458,6 +2474,7 @@ https://iburgerzaken.leudal.nl
 https://iburgerzaken.lingewaard.nl
 https://iburgerzaken.lochem.nl
 https://iburgerzaken.loonopzand.nl
+https://iburgerzaken.losser.nl
 https://iburgerzaken.s-hertogenbosch.nl
 https://id-beheer-erfpacht-acc.amsterdam.nl
 https://id-beheer-erfpacht-dev.amsterdam.nl
@@ -2823,6 +2840,8 @@ https://login.alphenaandenrijn.nl
 https://login.groningen.nl
 https://login.subsidie.leiden.nl
 https://logius.nl
+https://lois-acc.losser.nl
+https://lois.losser.nl
 https://lokaleregelgeving-acc.overheid.nl
 https://lokaleregelgeving-eto.overheid.nl
 https://lokaleregelgeving.overheid.nl
@@ -2860,6 +2879,7 @@ https://loket.leusden.nl
 https://loket.test.aalsmeer.nl
 https://loket.test.amstelveen.nl
 https://loonopzand.nl
+https://losser.nl
 https://lucht.omgevingswet.overheid.nl
 https://lvbb-lto.overheid.nl
 https://lvbb-perf-acc.overheid.nl
@@ -2938,6 +2958,7 @@ https://meedoen.borger-odoorn.nl
 https://meedoen.goeree-overflakkee.nl
 https://meedoen.hellendoorn.nl
 https://meedoen.hollandskroon.nl
+https://meedoen.losser.nl
 https://meedoenregeling.dongen.nl
 https://meet.ggd.amsterdam.nl
 https://meet.houten.nl
@@ -2958,6 +2979,7 @@ https://meldingen-acc.hilversum.nl
 https://meldingen-acc.leiden.nl
 https://meldingen-acc.leiderdorp.nl
 https://meldingen-acc.lopik.nl
+https://meldingen-acc.losser.nl
 https://meldingen.aaenhunze.nl
 https://meldingen.acc.almelo.nl
 https://meldingen.acc.denhaag.nl
@@ -2987,6 +3009,7 @@ https://meldingen.leeuwarden.nl
 https://meldingen.leiden.nl
 https://meldingen.leiderdorp.nl
 https://meldingen.lopik.nl
+https://meldingen.losser.nl
 https://meldingen.s-hertogenbosch.nl
 https://meldingenamsterdamsebos.amsterdam.nl
 https://meldingenkust.acc.denhaag.nl
@@ -3083,7 +3106,9 @@ https://mijnportaal.lansingerland.nl
 https://mijnsbl.amsterdam.nl
 https://mijnsdv.emmen.nl
 https://mijnshv.coevorden.nl
+https://mijnsociaaldomein-test.losser.nl
 https://mijnsociaaldomein.heerenveen.nl
+https://mijnsociaaldomein.losser.nl
 https://mijnsociaalplein.bergen-nh.nl
 https://mijnsociaalplein.castricum.nl
 https://mijnsociaalplein.heiloo.nl
@@ -3207,6 +3232,7 @@ https://nieuwsbrief.delft.nl
 https://nieuwsbrief.denhaag.nl
 https://nieuwsbrief.enschede.nl
 https://nieuwsbrief.goeree-overflakkee.nl
+https://nieuwsbrief.losser.nl
 https://nieuwsbrieven.amsterdam.nl
 https://nieuwsbrieven.hengelo.nl
 https://nieuwsbrievenminocw.nl
@@ -4385,6 +4411,7 @@ https://testmeldingen.asten.nl
 https://testmijnzaken.derondevenen.nl
 https://testportaal.almelo.nl
 https://testsiam.ameland.nl
+https://testwebsite.losser.nl
 https://testwozloket.borger-odoorn.nl
 https://testzaken.haarlemmermeer.nl
 https://teverantwoordenregelingen.rijksoverheid.nl
@@ -5051,6 +5078,7 @@ https://www.lochem.nl
 https://www.logius.nl
 https://www.loonopzand.nl
 https://www.lopik.nl
+https://www.losser.nl
 https://www.mariahoeveaanzet.denhaag.nl
 https://www.matenpark.apeldoorn.nl
 https://www.meedenken.arnhem.nl
