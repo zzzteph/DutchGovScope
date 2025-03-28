@@ -501,10 +501,14 @@ https://acc.meldingen.kampen.nl
 https://acc.meldingenamsterdamsebos.amsterdam.nl
 https://acc.meldingenweesp.amsterdam.nl
 https://acc.microservices.schoolwijzer.amsterdam.nl
+https://acc.mijn.leeuwarden.nl
 https://acc.omgevingswet.overheid.nl
 https://acc.omslagroute.amsterdam.nl
 https://acc.onderwijssubsidies.amsterdam.nl
 https://acc.onderzoek.amsterdam.nl
+https://acc.open-formulieren.leeuwarden.nl
+https://acc.opennotificaties.leeuwarden.nl
+https://acc.openzaak.leeuwarden.nl
 https://acc.schoolwijzer.amsterdam.nl
 https://acc.schulddossier.amsterdam.nl
 https://acc.sensorenregister.amsterdam.nl
@@ -736,6 +740,7 @@ https://api.horstaandemaas.nl
 https://api.makkelijkemarkt.amsterdam.nl
 https://api.melding.acc.heerlen.nl
 https://api.melding.heerlen.nl
+https://api.meldingen-a.leeuwarden.nl
 https://api.meldingen-acc.aaenhunze.nl
 https://api.meldingen-acc.apeldoorn.nl
 https://api.meldingen-acc.assen.nl
@@ -765,6 +770,7 @@ https://api.meldingen.helmond.nl
 https://api.meldingen.hengelo.nl
 https://api.meldingen.hilversum.nl
 https://api.meldingen.kampen.nl
+https://api.meldingen.leeuwarden.nl
 https://api.meldingen.s-hertogenbosch.nl
 https://api.mijn.overheid.nl
 https://api.ondernemersplein.overheid.nl
@@ -896,6 +902,7 @@ https://bedrijven.landvancuijk.nl
 https://bedrijvengids.landvancuijk.nl
 https://beeldbank-bo.baarn.nl
 https://beeldbank-bo.goirle.nl
+https://beeldbank-bo.leeuwarden.nl
 https://beeldbank.amstelveen.nl
 https://beeldbank.baarn.nl
 https://beeldbank.breda.nl
@@ -905,6 +912,7 @@ https://beeldbank.goirle.nl
 https://beeldbank.haarlemmermeer.nl
 https://beeldbank.hellendoorn.nl
 https://beeldbank.landvancuijk.nl
+https://beeldbank.leeuwarden.nl
 https://beeldbankbeheer.gemeentebest.nl
 https://beeldbankbeheer.haarlemmermeer.nl
 https://beeldmateriaal.eindhoven.nl
@@ -960,6 +968,7 @@ https://belasting.kampen.nl
 https://belastingbalie-acc.hilversum.nl
 https://belastingbalie-prepod.gooisemeren.nl
 https://belastingbalie-test.doetinchem.nl
+https://belastingbalie-test.leeuwarden.nl
 https://belastingbalie.almere.nl
 https://belastingbalie.amersfoort.nl
 https://belastingbalie.amsterdam.nl
@@ -971,6 +980,7 @@ https://belastingbalie.gooisemeren.nl
 https://belastingbalie.hilversum.nl
 https://belastingbalie.hoorn.nl
 https://belastingbalie.krimpenaandenijssel.nl
+https://belastingbalie.leeuwarden.nl
 https://belastingbalietest.capelleaandenijssel.nl
 https://belastingdienst.nl
 https://belastingen-acc.arnhem.nl
@@ -1026,6 +1036,7 @@ https://besluitpreviewservice.overheid.nl
 https://besluitvorming.doetinchem.nl
 https://bestand.gemeentebest.nl
 https://bestanden.dongen.nl
+https://bestandverzenden.leeuwarden.nl
 https://bestelportaal.denhaag.nl
 https://bestie-stats.gemeentebest.nl
 https://bestie.gemeentebest.nl
@@ -1139,6 +1150,7 @@ https://broker.gemeentehw.nl
 https://broker.gemert-bakel.nl
 https://broker.kampen.nl
 https://broker.laarbeek.nl
+https://broker.leeuwarden.nl
 https://bronckhorst.nl
 https://bros-academie.deurne.nl
 https://brt.basisregistraties.overheid.nl
@@ -1565,6 +1577,7 @@ https://economie.landvancuijk.nl
 https://ede.nl
 https://edienst.helmond.nl
 https://edienstaanvragensd.defryskemarren.nl
+https://ediensten-aanvragen.leeuwarden.nl
 https://ediensten-sociaaldomein.denhelder.nl
 https://edienstenaanvragensd-acceptatie.albrandswaard.nl
 https://edienstenaanvragensd-acceptatie.barendrecht.nl
@@ -1625,6 +1638,7 @@ https://edienstenburgerzaken-test.krimpenerwaard.nl
 https://edienstenburgerzaken-test.landgraaf.nl
 https://edienstenburgerzaken-test.landvancuijk.nl
 https://edienstenburgerzaken-test.lansingerland.nl
+https://edienstenburgerzaken-test.leeuwarden.nl
 https://edienstenburgerzaken.aalsmeer.nl
 https://edienstenburgerzaken.aalten.nl
 https://edienstenburgerzaken.acc.denhaag.nl
@@ -1682,6 +1696,7 @@ https://edienstenburgerzaken.krimpenerwaard.nl
 https://edienstenburgerzaken.landgraaf.nl
 https://edienstenburgerzaken.landvancuijk.nl
 https://edienstenburgerzaken.lansingerland.nl
+https://edienstenburgerzaken.leeuwarden.nl
 https://edienstenburgerzaken.test.aalsmeer.nl
 https://edienstenburgerzaken.test.amstelveen.nl
 https://edienstenmijninkomen-acceptatie.albrandswaard.nl
@@ -1782,6 +1797,7 @@ https://enterpriseenrollment.doetinchem.nl
 https://enterpriseenrollment.gooisemeren.nl
 https://enterpriseenrollment.heerlen.nl
 https://enterpriseenrollment.landsmeer.nl
+https://enterpriseenrollment.leeuwarden.nl
 https://enterpriseone-arc.almere.nl
 https://enterpriseone-dv.almere.nl
 https://enterpriseone-py.almere.nl
@@ -1925,6 +1941,7 @@ https://flowmailer-tracking.groningen.nl
 https://flowmailer-tracking.haarlemmermeer.nl
 https://flowmailer-tracking.helmond.nl
 https://flowmailer-tracking.kampen.nl
+https://flowmailer-tracking.parkeervergunning.leeuwarden.nl
 https://fm.krimpenerwaard.nl
 https://fmis.acc.belastingdienst.nl
 https://fmis.belastingdienst.nl
@@ -2136,6 +2153,7 @@ https://gitops.acc.denhaag.nl
 https://gitops.dev.denhaag.nl
 https://gitops.test.denhaag.nl
 https://glanerbrug.openstad.enschede.nl
+https://goedterechtin.leeuwarden.nl
 https://goes.nl
 https://gogo.denhaag.nl
 https://goirle.nl
@@ -2653,6 +2671,7 @@ https://leeromgeving-mijnleno-a.amsterdam.nl
 https://leeromgeving-mijnleno.amsterdam.nl
 https://leerplein.arnhem.nl
 https://leerpleinburgerzaken.amsterdam.nl
+https://leeuwarden.nl
 https://leidschenveenaanzet.denhaag.nl
 https://lerenbij.groningen.nl
 https://lerenloont.almere.nl
@@ -2703,6 +2722,7 @@ https://loket.hattem.nl
 https://loket.heerde.nl
 https://loket.hellendoorn.nl
 https://loket.katwijk.nl
+https://loket.leeuwarden.nl
 https://loket.test.aalsmeer.nl
 https://loket.test.amstelveen.nl
 https://lucht.omgevingswet.overheid.nl
@@ -2786,6 +2806,7 @@ https://meet.ggd.amsterdam.nl
 https://meet.houten.nl
 https://melding.acc.heerlen.nl
 https://melding.heerlen.nl
+https://meldingen-a.leeuwarden.nl
 https://meldingen-acc.aaenhunze.nl
 https://meldingen-acc.apeldoorn.nl
 https://meldingen-acc.assen.nl
@@ -2821,6 +2842,7 @@ https://meldingen.helmond.nl
 https://meldingen.hengelo.nl
 https://meldingen.hilversum.nl
 https://meldingen.kampen.nl
+https://meldingen.leeuwarden.nl
 https://meldingen.s-hertogenbosch.nl
 https://meldingenamsterdamsebos.amsterdam.nl
 https://meldingenkust.acc.denhaag.nl
@@ -3141,6 +3163,7 @@ https://onboarding.belastingdienst.nl
 https://onboardingambulancezorg.denhaag.nl
 https://ondernemen.ede.nl
 https://ondernemen.landvancuijk.nl
+https://ondernemend.leeuwarden.nl
 https://ondernemers.bloemendaal.nl
 https://ondernemersloket.derondevenen.nl
 https://ondernemersloket.diemen.nl
@@ -3326,6 +3349,7 @@ https://parkeerproducten.helmond.nl
 https://parkeervergunning.amsterdam.nl
 https://parkeervergunning.enschede.nl
 https://parkeervergunning.kampen.nl
+https://parkeervergunning.leeuwarden.nl
 https://parkeervergunningen-acc.beverwijk.nl
 https://parkeervergunningen.acc.denhaag.nl
 https://parkeervergunningen.beverwijk.nl
@@ -3533,6 +3557,7 @@ https://preprodbroker.bernheze.org
 https://preprodbroker.duiven.nl
 https://preprodbroker.elburg.nl
 https://preprodbroker.gemeentehw.nl
+https://preprodbroker.leeuwarden.nl
 https://preprodformulieren.huizen.nl
 https://preprodgdintaker.diemen.nl
 https://preprodscbroker.diemen.nl
@@ -3632,6 +3657,7 @@ https://rdweb.houten.nl
 https://redactie-extern.denhaag.nl
 https://redactie.amersfoort.nl
 https://redactie.antwoord.amsterdam.nl
+https://redirect.leeuwarden.nl
 https://reflex.s-hertogenbosch.nl
 https://regelen.haarlem.nl
 https://regelgeving.omgevingswet.overheid.nl
@@ -4015,22 +4041,27 @@ https://subsidieregister.denhaag.nl
 https://subsidies-backend-test.heerenveen.nl
 https://subsidies-backend.acceptatie.almelo.nl
 https://subsidies-backend.acceptatie.debilt.nl
+https://subsidies-backend.acceptatie.leeuwarden.nl
 https://subsidies-backend.almelo.nl
 https://subsidies-backend.debilt.nl
 https://subsidies-backend.ede.nl
 https://subsidies-backend.heerenveen.nl
+https://subsidies-backend.leeuwarden.nl
 https://subsidies-login-test.heerenveen.nl
 https://subsidies-login.acceptatie.debilt.nl
 https://subsidies-login.acceptatie.ede.nl
 https://subsidies-login.debilt.nl
 https://subsidies-login.ede.nl
+https://subsidies-login.leeuwarden.nl
 https://subsidies-test.heerenveen.nl
 https://subsidies.acceptatie.almelo.nl
 https://subsidies.acceptatie.debilt.nl
+https://subsidies.acceptatie.leeuwarden.nl
 https://subsidies.almelo.nl
 https://subsidies.debilt.nl
 https://subsidies.ede.nl
 https://subsidies.heerenveen.nl
+https://subsidies.leeuwarden.nl
 https://suikerkwartier.groningen.nl
 https://suikerzijde.groningen.nl
 https://summit-ft.amsterdam.nl
@@ -4442,6 +4473,7 @@ https://werkenbij.helmond.nl
 https://werkenbij.hilversum.nl
 https://werkenbij.hollandskroon.nl
 https://werkenbij.hoorn.nl
+https://werkenbij.leeuwarden.nl
 https://werkenbij.toeslagen.nl
 https://werkenvoor-acc.denhaag.nl
 https://werkenvoor.acceptatie.amstelveen.nl
@@ -4722,6 +4754,7 @@ https://www.geuzenstatenkwartierfietst.denhaag.nl
 https://www.ggd.amsterdam.nl
 https://www.ggd.groningen.nl
 https://www.gilzerijen.nl
+https://www.goedterechtin.leeuwarden.nl
 https://www.goes.nl
 https://www.gogo.denhaag.nl
 https://www.goirle.nl
@@ -4800,6 +4833,7 @@ https://www.landsmeer.nl
 https://www.landvancuijk.nl
 https://www.lansingerland.nl
 https://www.laren.nl
+https://www.leeuwarden.nl
 https://www.leidschenveenaanzet.denhaag.nl
 https://www.logius.nl
 https://www.mariahoeveaanzet.denhaag.nl

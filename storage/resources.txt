@@ -73,6 +73,8 @@ a-magazinesintern.rijksoverheid.nl
 a-opendata.a-english.igj.nl
 a-opendata.igj.nl
 a-opendata.rijksoverheid.nl
+a-p-ddi-0003.leeuwarden.nl
+a-p-ddi-0010.leeuwarden.nl
 a-persberichten.rijksoverheid.nl
 a-servicedesk.rijksoverheid.nl
 a-site1.rijksoverheid.nl
@@ -333,6 +335,7 @@ acc.meldingenamsterdamsebos.amsterdam.nl
 acc.meldingenweesp.amsterdam.nl
 acc.microservices.schoolwijzer.amsterdam.nl
 acc.mijn.data.amsterdam.nl
+acc.mijn.leeuwarden.nl
 acc.mijn.overheid.nl
 acc.nlx.amsterdam.nl
 acc.oinregister.logius.nl
@@ -340,6 +343,9 @@ acc.omgevingswet.overheid.nl
 acc.omslagroute.amsterdam.nl
 acc.onderwijssubsidies.amsterdam.nl
 acc.onderzoek.amsterdam.nl
+acc.open-formulieren.leeuwarden.nl
+acc.opennotificaties.leeuwarden.nl
+acc.openzaak.leeuwarden.nl
 acc.panorama.data.amsterdam.nl
 acc.panoviewer.data.amsterdam.nl
 acc.parkeren.data.amsterdam.nl
@@ -548,6 +554,7 @@ afs.amsterdam.nl
 afs.ont.amsterdam.nl
 afs.opl.amsterdam.nl
 afs.tst.amsterdam.nl
+afscheidcrone.leeuwarden.nl
 afspraak.arnhem.nl
 afspraak.barneveld.nl
 afspraak.bergendal.nl
@@ -803,6 +810,7 @@ api.horstaandemaas.nl
 api.makkelijkemarkt.amsterdam.nl
 api.melding.acc.heerlen.nl
 api.melding.heerlen.nl
+api.meldingen-a.leeuwarden.nl
 api.meldingen-acc.aaenhunze.nl
 api.meldingen-acc.apeldoorn.nl
 api.meldingen-acc.assen.nl
@@ -833,6 +841,7 @@ api.meldingen.helmond.nl
 api.meldingen.hengelo.nl
 api.meldingen.hilversum.nl
 api.meldingen.kampen.nl
+api.meldingen.leeuwarden.nl
 api.meldingen.s-hertogenbosch.nl
 api.mijn.overheid.nl
 api.ondernemersplein.overheid.nl
@@ -946,6 +955,7 @@ auth.denhaag.nl
 auth.doemee.bloemendaal.nl
 auth.gemeentehw.nl
 auth.haarlem.nl
+auth.leeuwarden.nl
 auth.openstad.deventer.nl
 auth.openstad.enschede.nl
 auth.openstad.haarlemmermeer.nl
@@ -1245,6 +1255,7 @@ beekplaza.gemeentebeek.nl
 beeksapcontent.ovh.gemeentebeek.nl
 beeldbank-bo.baarn.nl
 beeldbank-bo.goirle.nl
+beeldbank-bo.leeuwarden.nl
 beeldbank.amstelveen.nl
 beeldbank.baarn.nl
 beeldbank.breda.nl
@@ -1254,6 +1265,7 @@ beeldbank.goirle.nl
 beeldbank.haarlemmermeer.nl
 beeldbank.hellendoorn.nl
 beeldbank.landvancuijk.nl
+beeldbank.leeuwarden.nl
 beeldbankbeheer.gemeentebest.nl
 beeldbankbeheer.haarlemmermeer.nl
 beeldmateriaal.eindhoven.nl
@@ -1333,6 +1345,7 @@ belastingbalie-acc.amsterdam.nl
 belastingbalie-acc.hilversum.nl
 belastingbalie-prepod.gooisemeren.nl
 belastingbalie-test.doetinchem.nl
+belastingbalie-test.leeuwarden.nl
 belastingbalie.acc.amsterdam.nl
 belastingbalie.almere.nl
 belastingbalie.amersfoort.nl
@@ -1345,6 +1358,7 @@ belastingbalie.gooisemeren.nl
 belastingbalie.hilversum.nl
 belastingbalie.hoorn.nl
 belastingbalie.krimpenaandenijssel.nl
+belastingbalie.leeuwarden.nl
 belastingbalietest.capelleaandenijssel.nl
 belastingdienst.data.logius.nl
 belastingdienst.nl
@@ -1422,6 +1436,7 @@ bestanden.hengelo.nl
 bestanden.lansingerland.nl
 bestanden.s-hertogenbosch.nl
 bestandversturen.amersfoort.nl
+bestandverzenden.leeuwarden.nl
 bestelportaal.denhaag.nl
 bestemmingsplannen.baarn.nl
 bestie-stats.gemeentebest.nl
@@ -1601,6 +1616,7 @@ broker.gemeentehw.nl
 broker.gemert-bakel.nl
 broker.kampen.nl
 broker.laarbeek.nl
+broker.leeuwarden.nl
 bronckhorst.nl
 bros-academie.deurne.nl
 brs.groningen.nl
@@ -2247,6 +2263,7 @@ digikoppeling.test.gorinchem.nl
 digikoppeling.test.gouda.nl
 digikoppeling.test.laren.nl
 digikoppelingadapter.doetinchem.nl
+digikoppelingjnet.leeuwarden.nl
 digikoppelingtest.bernheze.org
 digikoppelingtest.heemskerk.nl
 digikoppelingtest.helmond.nl
@@ -2571,6 +2588,7 @@ ede.nl
 edge.echt-susteren.nl
 edienst.helmond.nl
 edienstaanvragensd.defryskemarren.nl
+ediensten-aanvragen.leeuwarden.nl
 ediensten-preproductie.gemeentehw.nl
 ediensten-sociaaldomein.denhelder.nl
 ediensten.gemeentehw.nl
@@ -2635,6 +2653,7 @@ edienstenburgerzaken-test.krimpenerwaard.nl
 edienstenburgerzaken-test.landgraaf.nl
 edienstenburgerzaken-test.landvancuijk.nl
 edienstenburgerzaken-test.lansingerland.nl
+edienstenburgerzaken-test.leeuwarden.nl
 edienstenburgerzaken.aalsmeer.nl
 edienstenburgerzaken.aalten.nl
 edienstenburgerzaken.acc.denhaag.nl
@@ -2694,6 +2713,7 @@ edienstenburgerzaken.krimpenerwaard.nl
 edienstenburgerzaken.landgraaf.nl
 edienstenburgerzaken.landvancuijk.nl
 edienstenburgerzaken.lansingerland.nl
+edienstenburgerzaken.leeuwarden.nl
 edienstenburgerzaken.test.aalsmeer.nl
 edienstenburgerzaken.test.amstelveen.nl
 edienstenmijninkomen-acceptatie.albrandswaard.nl
@@ -2821,6 +2841,7 @@ enterpriseenrollment.gooisemeren.nl
 enterpriseenrollment.groningen.nl
 enterpriseenrollment.heerlen.nl
 enterpriseenrollment.landsmeer.nl
+enterpriseenrollment.leeuwarden.nl
 enterpriseone-arc.almere.nl
 enterpriseone-dv.almere.nl
 enterpriseone-py.almere.nl
@@ -2915,6 +2936,7 @@ evenementen.denhaag.nl
 evenementen.landvancuijk.nl
 event.acc.belastingdienst.nl
 event.belastingdienst.nl
+ews.leeuwarden.nl
 exchange.alphenaandenrijn.nl
 exchange.assen.nl
 exchange.defryskemarren.nl
@@ -3093,6 +3115,7 @@ flowmailer-tracking.heerlen.nl
 flowmailer-tracking.helmond.nl
 flowmailer-tracking.kampen.nl
 flowmailer-tracking.katwijk.nl
+flowmailer-tracking.parkeervergunning.leeuwarden.nl
 fm.apeldoorn.nl
 fm.krimpenerwaard.nl
 fm01.apeldoorn.nl
@@ -3180,6 +3203,7 @@ formulierenpb.groningen.nl
 formulierna.denhaag.nl
 fortescloud.acc.belastingdienst.nl
 fortigate.haarlemmermeer.nl
+fortiguard.leeuwarden.nl
 fortinet.haarlemmermeer.nl
 fortinet.houten.nl
 forum.developer.overheid.nl
@@ -3486,6 +3510,8 @@ gisibonline.beesel.nl
 gisibonline.denhelder.nl
 gisibtest.haarlemmermeer.nl
 giskit-bgt.geldrop-mierlo.nl
+gisportal.leeuwarden.nl
+gisportalnew.leeuwarden.nl
 gisservices.haarlemmermeer.nl
 gisservicestest.haarlemmermeer.nl
 gistest.gouda.nl
@@ -3511,6 +3537,7 @@ gms.boekel.nl
 gms.gilzerijen.nl
 gn2connect-acc.apeldoorn.nl
 gn2connect.apeldoorn.nl
+goedterechtin.leeuwarden.nl
 goeree-overflakkee.nl
 goes.nl
 gogo-acc.denhaag.nl
@@ -4535,6 +4562,7 @@ leeromgeving-mijnleno-a.amsterdam.nl
 leeromgeving-mijnleno.amsterdam.nl
 leerplein.arnhem.nl
 leerpleinburgerzaken.amsterdam.nl
+leeuwarden.nl
 legacy.amsterdam.nl
 legacy.borne.nl
 legacy.boxtel.nl
@@ -4571,6 +4599,7 @@ liquidfiles-acc.ede.nl
 liquidfiles.ede.nl
 liquit.gemeenteberkelland.nl
 liquit.gemeentebest.nl
+liquit.leeuwarden.nl
 liquitsatellite.gemeenteberkelland.nl
 listen2.dro.amsterdam.nl
 live.bergen-nh.nl
@@ -4645,6 +4674,7 @@ loket.heerde.nl
 loket.heerlen.nl
 loket.hellendoorn.nl
 loket.katwijk.nl
+loket.leeuwarden.nl
 loket.overheid.nl
 loket.test.aalsmeer.nl
 loket.test.amstelveen.nl
@@ -4894,6 +4924,7 @@ melddesk.huizen.nl
 melding.acc.heerlen.nl
 melding.amsterdam.nl
 melding.heerlen.nl
+meldingen-a.leeuwarden.nl
 meldingen-acc.aaenhunze.nl
 meldingen-acc.apeldoorn.nl
 meldingen-acc.assen.nl
@@ -4931,6 +4962,7 @@ meldingen.helmond.nl
 meldingen.hengelo.nl
 meldingen.hilversum.nl
 meldingen.kampen.nl
+meldingen.leeuwarden.nl
 meldingen.s-hertogenbosch.nl
 meldingenamsterdamsebos.amsterdam.nl
 meldingenkust.acc.denhaag.nl
@@ -5378,6 +5410,7 @@ nlgembrc.blaricum.nl
 nlgembrl.brielle.nl
 nlgembrn.borne.nl
 nlgemctc.castricum.nl
+nllwd-spider.leeuwarden.nl
 nlmwlkeb.kaagenbraassem.nl
 nlx.amsterdam.nl
 nlx.buren.nl
@@ -5561,6 +5594,7 @@ onboardingambulancezorg.denhaag.nl
 onderhoudspagina.amsterdam.nl
 ondernemen.ede.nl
 ondernemen.landvancuijk.nl
+ondernemend.leeuwarden.nl
 ondernemers.bloemendaal.nl
 ondernemersloket.derondevenen.nl
 ondernemersloket.diemen.nl
@@ -5808,6 +5842,7 @@ ows-ahp-test.groningen.nl
 ows-ahp.groningen.nl
 ows-app-test.groningen.nl
 ows-app.groningen.nl
+ows-app.leeuwarden.nl
 ows-dmnsapi-test.groningen.nl
 ows-dmnsapi.groningen.nl
 ows-emssapi-test.groningen.nl
@@ -5816,6 +5851,8 @@ ows-ess-test-rc.groningen.nl
 ows-ess-test.groningen.nl
 ows-mss-test.groningen.nl
 ows-test.groningen.nl
+ows-webapi-test.leeuwarden.nl
+ows-webapi.leeuwarden.nl
 ows-websrvc-test.groningen.nl
 ows-websrvc.groningen.nl
 ows.groningen.nl
@@ -5839,10 +5876,12 @@ parkeerproducten.helmond.nl
 parkeervergunning-acc.amsterdam.nl
 parkeervergunning-edu.amsterdam.nl
 parkeervergunning-ont.amsterdam.nl
+parkeervergunning-test.leeuwarden.nl
 parkeervergunning-tst.amsterdam.nl
 parkeervergunning.amsterdam.nl
 parkeervergunning.enschede.nl
 parkeervergunning.kampen.nl
+parkeervergunning.leeuwarden.nl
 parkeervergunningen-acc.amsterdam.nl
 parkeervergunningen-acc.beverwijk.nl
 parkeervergunningen.acc.amsterdam.nl
@@ -6026,6 +6065,7 @@ planoncvo-acc.denhaag.nl
 planoncvo-dev.denhaag.nl
 planoncvo-test.denhaag.nl
 planoncvo.denhaag.nl
+planonmca.leeuwarden.nl
 platform.culemborg.nl
 platformafpakken-fiod.acc.belastingdienst.nl
 platformamsterdam.amsterdam.nl
@@ -6076,6 +6116,7 @@ portaal.kre-dev.amsterdam.nl
 portaal.kre-ont.amsterdam.nl
 portaal.kre-tst.amsterdam.nl
 portaal.kre.amsterdam.nl
+portaal.leeuwarden.nl
 portaal.notificaties.openzaak-acc.amsterdam.nl
 portaal.notificaties.openzaak-tst.amsterdam.nl
 portal-webmail.gooisemeren.nl
@@ -6215,6 +6256,7 @@ preprodbroker.bernheze.org
 preprodbroker.duiven.nl
 preprodbroker.elburg.nl
 preprodbroker.gemeentehw.nl
+preprodbroker.leeuwarden.nl
 preprodformulieren.huizen.nl
 preprodgdintaker.diemen.nl
 preprodscbroker.diemen.nl
@@ -6444,6 +6486,7 @@ redactiemijn-o.ot.denhaag.nl
 redactiemijn-t.ot.denhaag.nl
 redi.denhaag.nl
 redirect.ede.nl
+redirect.leeuwarden.nl
 redirector.alkmaar.nl
 ref.omgevingswet.overheid.nl
 reflex.s-hertogenbosch.nl
@@ -6727,6 +6770,7 @@ secure.krimpenerwaard.nl
 secure.laarbeek.nl
 secure.landgraaf.nl
 secure.lansingerland.nl
+secure.leeuwarden.nl
 secure.ot.denhaag.nl
 secure1.gulpen-wittem.nl
 securegw.bunschoten.nl
@@ -6774,6 +6818,7 @@ service02.eijsden-margraten.nl
 servicebus.capelleaandenijssel.nl
 servicedesk.almelo.nl
 servicedesk.hethogeland.nl
+servicedesk.leeuwarden.nl
 servicedesk.rijksoverheid.nl
 servicegateway.accp.s-hertogenbosch.nl
 servicegateway.haarlem.nl
@@ -7328,22 +7373,27 @@ subsidieregister.denhaag.nl
 subsidies-backend-test.heerenveen.nl
 subsidies-backend.acceptatie.almelo.nl
 subsidies-backend.acceptatie.debilt.nl
+subsidies-backend.acceptatie.leeuwarden.nl
 subsidies-backend.almelo.nl
 subsidies-backend.debilt.nl
 subsidies-backend.ede.nl
 subsidies-backend.heerenveen.nl
+subsidies-backend.leeuwarden.nl
 subsidies-login-test.heerenveen.nl
 subsidies-login.acceptatie.debilt.nl
 subsidies-login.acceptatie.ede.nl
 subsidies-login.debilt.nl
 subsidies-login.ede.nl
+subsidies-login.leeuwarden.nl
 subsidies-test.heerenveen.nl
 subsidies.acceptatie.almelo.nl
 subsidies.acceptatie.debilt.nl
+subsidies.acceptatie.leeuwarden.nl
 subsidies.almelo.nl
 subsidies.debilt.nl
 subsidies.ede.nl
 subsidies.heerenveen.nl
+subsidies.leeuwarden.nl
 subsites.amsterdam.nl
 suikerkwartier.groningen.nl
 suikerzijde.groningen.nl
@@ -7470,6 +7520,7 @@ test-digikoppeling.brielle.nl
 test-digikoppeling.debilt.nl
 test-digikoppeling.gulpen-wittem.nl
 test-digikoppelingadapter.doetinchem.nl
+test-digikoppelingjnet.leeuwarden.nl
 test-digitaalgemeenteloket.kaagenbraassem.nl
 test-dok.dronten.nl
 test-e-loket.apeldoorn.nl
@@ -7550,6 +7601,7 @@ test-qr.eindhoven.nl
 test-secure.brunssum.nl
 test-secure.heerlen.nl
 test-secure.landgraaf.nl
+test-secure.leeuwarden.nl
 test-secureweb.landgraaf.nl
 test-subsidiebeheer.alkmaar.nl
 test-subsidieloket.alkmaar.nl
@@ -7678,6 +7730,7 @@ tijdschrijven.apeldoorn.nl
 tijdschrijven.hoogeveen.nl
 tiles1.acc.opdekaart.amsterdam.nl
 tim.gemeentebest.nl
+time.leeuwarden.nl
 timetell.acc.amsterdam.nl
 timetell.pmb.amsterdam.nl
 tjooner.gulpen-wittem.nl
@@ -7724,6 +7777,7 @@ top.geertruidenberg.nl
 topdesk.delft.nl
 topdesk.ggd.amsterdam.nl
 topdesk.houten.nl
+topdesk.leeuwarden.nl
 topvorm.apeldoorn.nl
 tourbuzz.amsterdam.nl
 tr.barneveld.nl
@@ -8053,6 +8107,8 @@ vts.belastingdienst.nl
 vtsd.belastingdienst.nl
 vveacc.amsterdam.nl
 vvetest.amsterdam.nl
+w-p-exc-0005.leeuwarden.nl
+w-p-exc-0006.leeuwarden.nl
 w2008g.landgraaf.nl
 w2008l.landgraaf.nl
 w2012y.landgraaf.nl
@@ -8285,6 +8341,7 @@ werkenbij.helmond.nl
 werkenbij.hilversum.nl
 werkenbij.hollandskroon.nl
 werkenbij.hoorn.nl
+werkenbij.leeuwarden.nl
 werkenbij.toeslagen.nl
 werkenvoor-acc.denhaag.nl
 werkenvoor.acceptatie.amstelveen.nl
@@ -8779,6 +8836,7 @@ www.gisibtest.haarlemmermeer.nl
 www.gisservices.haarlemmermeer.nl
 www.gisservicestest.haarlemmermeer.nl
 www.gkb.groningen.nl
+www.goedterechtin.leeuwarden.nl
 www.goeree-overflakkee.nl
 www.goes.nl
 www.gogo.denhaag.nl
@@ -8902,6 +8960,7 @@ www.laren.nl
 www.lauwersmeer.groningen.nl
 www.ld-01.hellevoetsluis.nl
 www.ldap.gemeentehulst.nl
+www.leeuwarden.nl
 www.leidschenveenaanzet.denhaag.nl
 www.live.groningen.nl
 www.login.gemeentebeek.nl
