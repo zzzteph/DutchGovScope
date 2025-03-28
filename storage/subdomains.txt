@@ -30,10 +30,10 @@ open
 dkd
 api.meldingen
 waarmerk
+afspraak
 vpn
 geo
 portal
-afspraak
 parkeren
 werkenbij
 pv
@@ -53,6 +53,7 @@ openpdc
 belastingbalie
 hybrid
 omgevingsvisie
+login
 dacceptatieloket
 dacceptatiemidoffice
 enterpriseregistration
@@ -61,7 +62,6 @@ meldingen-acc
 remote
 openpub
 belastingen
-login
 dloket
 dmidoffice
 formulier
@@ -82,6 +82,7 @@ beeldbank
 digikoppeling.test
 acc-broker
 cloudadapter
+pki
 dtestloket
 portaal
 mijnzorg
@@ -91,7 +92,6 @@ piwik
 financien
 woningbouwkaart
 samen
-pki
 transfer
 smtp
 e
@@ -802,6 +802,7 @@ gemeentewinkel
 testwebsite
 decos
 zorg-acc
+login-pre
 huisnet
 a-cms
 a-cms1
@@ -6029,7 +6030,6 @@ xworks-acc
 xworks
 mijnacc
 autodiscover.natuurlijkgroen
-login-pre
 mintra
 services-test
 intraweb

@@ -304,6 +304,7 @@ http://www.internwifi.hellevoetsluis.nl
 http://www.ld-01.hellevoetsluis.nl
 http://www.mijngkb.midden-groningen.nl
 http://www.nieuwwest.amsterdam.nl
+http://www.nijkerk.eu
 http://www.ondernemersportaal.denhaag.nl
 http://www.pmb.amsterdam.nl
 http://www.raad.amsterdam.nl
@@ -1657,6 +1658,7 @@ https://edienstenburgerzaken-test.meierijstad.nl
 https://edienstenburgerzaken-test.meppel.nl
 https://edienstenburgerzaken-test.nederweert.nl
 https://edienstenburgerzaken-test.nieuwegein.nl
+https://edienstenburgerzaken-test.nijkerk.eu
 https://edienstenburgerzaken.aalsmeer.nl
 https://edienstenburgerzaken.aalten.nl
 https://edienstenburgerzaken.acc.denhaag.nl
@@ -1726,6 +1728,7 @@ https://edienstenburgerzaken.lopik.nl
 https://edienstenburgerzaken.meierijstad.nl
 https://edienstenburgerzaken.meppel.nl
 https://edienstenburgerzaken.nederweert.nl
+https://edienstenburgerzaken.nijkerk.eu
 https://edienstenburgerzaken.test.aalsmeer.nl
 https://edienstenburgerzaken.test.amstelveen.nl
 https://edienstenmijninkomen-acceptatie.albrandswaard.nl
@@ -2555,6 +2558,7 @@ https://intranet.meppel.nl
 https://intranet.middelburg.nl
 https://intranet.midden-groningen.nl
 https://intranet.middendelfland.nl
+https://intranet.nijkerk.eu
 https://intranetacc.apeldoorn.nl
 https://intranetcms-acc.bergendal.nl
 https://intranetcms.bergendal.nl
@@ -2772,9 +2776,11 @@ https://live.landvancuijk.nl
 https://liveblog.ede.nl
 https://lochem.nl
 https://login-pre.mookenmiddelaar.nl
+https://login-pre.nijkerk.eu
 https://login.alphenaandenrijn.nl
 https://login.groningen.nl
 https://login.mookenmiddelaar.nl
+https://login.nijkerk.eu
 https://login.subsidie.leiden.nl
 https://lois-acc.losser.nl
 https://lois.losser.nl
@@ -3935,6 +3941,7 @@ https://simsite.koggenland.nl
 https://simsite.lopik.nl
 https://simsite.middendelfland.nl
 https://simsite.montferland.info
+https://simsite.nijkerk.eu
 https://sint-agatha.landvancuijk.nl
 https://sint-hubert.landvancuijk.nl
 https://sintanthonis.landvancuijk.nl
