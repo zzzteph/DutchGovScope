@@ -5,6 +5,7 @@ http://AutoDiscover.enkhuizen.nl
 http://AutoDiscover.koggenland.nl
 http://AutoDiscover.medemblik.nl
 http://AutoDiscover.nissewaard.nl
+http://AutoDiscover.opmeer.nl
 http://Autodiscover.hilversum.nl
 http://aalten.nl
 http://afspraak.bergendal.nl
@@ -129,6 +130,7 @@ http://autodiscover.oegstgeest.nl
 http://autodiscover.oldebroek.nl
 http://autodiscover.oostgelre.nl
 http://autodiscover.ooststellingwerf.nl
+http://autodiscover.opmeer.nl
 http://autodiscover.partijvoordedieren.nijmegen.nl
 http://autodiscover.pvda.mookenmiddelaar.nl
 http://autodiscover.pvda.nijmegen.nl
@@ -225,6 +227,7 @@ http://mijnzorg.aalsmeer.nl
 http://mijnzorg.amstelveen.nl
 http://mookenmiddelaar.nl
 http://opendata.arnhem.nl
+http://opmeer.nl
 http://ows-ahp-test.groningen.nl
 http://ows-app-test.groningen.nl
 http://ows-dmnsapi-test.groningen.nl
@@ -255,6 +258,7 @@ http://simcms-centrum.heerlen.nl
 http://simcms-energiek.beuningen.nl
 http://simcms-klimaatbestendig.lingewaard.nl
 http://simcms-omgevingswet.bronckhorst.nl
+http://simcms-ontmoetingscentra.opmeer.nl
 http://simcms-open.beverwijk.nl
 http://simcms-open.bronckhorst.nl
 http://simcms-open.geldrop-mierlo.nl
@@ -1972,6 +1976,7 @@ https://eloket.midden-groningen.nl
 https://eloket.nissewaard.nl
 https://eloket.nuenen.nl
 https://eloket.nunspeet.nl
+https://eloket.opmeer.nl
 https://eloket.preprod.leudal.nl
 https://eloketstaging.almere.nl
 https://elokettest.bloemendaal.nl
@@ -2121,6 +2126,7 @@ https://felix.loonopzand.nl
 https://felix.maassluis.nl
 https://felix.mookenmiddelaar.nl
 https://felix.nederweert.nl
+https://felix.opmeer.nl
 https://felixburgerzaken.nissewaard.nl
 https://felixpdc.doesburg.nl
 https://festival.landvancuijk.nl
@@ -2656,6 +2662,7 @@ https://iburgerzaken.ommen.nl
 https://iburgerzaken.oosterhout.nl
 https://iburgerzaken.oostgelre.nl
 https://iburgerzaken.ooststellingwerf.nl
+https://iburgerzaken.opmeer.nl
 https://iburgerzaken.s-hertogenbosch.nl
 https://id-beheer-erfpacht-acc.amsterdam.nl
 https://id-beheer-erfpacht-dev.amsterdam.nl
@@ -2706,6 +2713,7 @@ https://ikbouwmijnhuisin.almere.nl
 https://ikonderneemin.almere.nl
 https://ikzoek.huizen.nl
 https://ikzoekeenhuis.almere.nl
+https://im.opmeer.nl
 https://image.nieuwsbrief.amsterdam.nl
 https://images.openstad.alphenaandenrijn.nl
 https://img.doemee.bloemendaal.nl
@@ -2968,6 +2976,7 @@ https://klantcontact.landgraaf.nl
 https://klantcontact.lingewaard.nl
 https://klantcontact.loonopzand.nl
 https://klantcontact.nissewaard.nl
+https://klantcontact.opmeer.nl
 https://klantgeleiding.gorinchem.nl
 https://klantportaal-zgw.acc.denhaag.nl
 https://klantportaal-zgw.test.denhaag.nl
@@ -3656,6 +3665,7 @@ https://ont.management.api.amsterdam.nl
 https://ontheffingen-acc.amsterdam.nl
 https://ontheffingen-mz.denhaag.nl
 https://ontheffingen.amsterdam.nl
+https://ontmoetingscentra.opmeer.nl
 https://ontmoetingskaart.landvancuijk.nl
 https://ontw.app.amsterdam.nl
 https://onzestad.nijmegen.nl
@@ -4338,6 +4348,7 @@ https://simcms.nieuwkoop.nl
 https://simcms.nuenen.nl
 https://simcms.oirschot.nl
 https://simcms.ooststellingwerf.nl
+https://simcms.opmeer.nl
 https://simform-preproductie.achtkarspelen.nl
 https://simform-preproductie.gemeentehw.nl
 https://simform.houten.nl
@@ -4351,6 +4362,7 @@ https://simsite.lopik.nl
 https://simsite.middendelfland.nl
 https://simsite.montferland.info
 https://simsite.nijkerk.eu
+https://simsite.opmeer.nl
 https://sint-agatha.landvancuijk.nl
 https://sint-hubert.landvancuijk.nl
 https://sintanthonis.landvancuijk.nl
@@ -5079,6 +5091,8 @@ https://wijkteam-care4.katwijk.nl
 https://wijkteams.almere.nl
 https://wijkvernieuwing.groningen.nl
 https://wijsamen.groningen.nl
+https://wijzer-acc.opmeer.nl
+https://wijzer.opmeer.nl
 https://wilbertoord.landvancuijk.nl
 https://willkommen.groningen.nl
 https://windopland.haarlemmermeer.nl
@@ -5465,6 +5479,7 @@ https://www.openstad.deventer.nl
 https://www.openstad.haarlemmermeer.nl
 https://www.openstad.nijmegen.nl
 https://www.operatiebomenbuurt.denhaag.nl
+https://www.opmeer.nl
 https://www.oracbloemenbuurt.denhaag.nl
 https://www.platform.culemborg.nl
 https://www.portal.groningen.nl

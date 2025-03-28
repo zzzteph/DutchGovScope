@@ -23,6 +23,7 @@ AutoDiscover.enkhuizen.nl
 AutoDiscover.koggenland.nl
 AutoDiscover.medemblik.nl
 AutoDiscover.nissewaard.nl
+AutoDiscover.opmeer.nl
 AutoDiscover.uitwijk.denhaag.nl
 Autodiscover.hilversum.nl
 Autorisatietest.bloemendaal.nl
@@ -41,9 +42,12 @@ GBAVT.emmen.nl
 GouwBAG-test.haarlemmermeer.nl
 HTA-stuf.medemblik.nl
 HTA.koggenland.nl
+HTA.opmeer.nl
 Infra-summit.acc.amsterdam.nl
 Infra-summit.tst.amsterdam.nl
 Inkomensbalie.eindhoven.nl
+LVOLO-PROD.opmeer.nl
+LVOLO-TEST.opmeer.nl
 LVWKPB-emmen.napels.emmen.nl
 Lrza.gatservices.acc.igj.nl
 Lrza.gatservices.prd.igj.nl
@@ -1341,6 +1345,7 @@ autodiscover.oldebroek.nl
 autodiscover.ombudsman.groningen.nl
 autodiscover.oostgelre.nl
 autodiscover.ooststellingwerf.nl
+autodiscover.opmeer.nl
 autodiscover.opsb.groningen.nl
 autodiscover.os.groningen.nl
 autodiscover.ovh.gemeentebeek.nl
@@ -2326,7 +2331,9 @@ corona.breda.nl
 coronadashboard.rijksoverheid.nl
 coronavirus.deventer.nl
 corsa-prod.loonopzand.nl
+corsa-prod.opmeer.nl
 corsa-test.loonopzand.nl
+corsa-test.opmeer.nl
 corsa.montferland.info
 corsa2022.gulpen-wittem.nl
 corsa2022tst.gulpen-wittem.nl
@@ -3359,6 +3366,7 @@ eloket.midden-groningen.nl
 eloket.nissewaard.nl
 eloket.nuenen.nl
 eloket.nunspeet.nl
+eloket.opmeer.nl
 eloket.preprod.leudal.nl
 eloketstaging.almere.nl
 elokettest.bloemendaal.nl
@@ -3561,6 +3569,7 @@ extranet.heeze-leende.nl
 extranet.hengelo.nl
 extranet.hethogeland.nl
 extranet.montferland.info
+extranet.opmeer.nl
 extranet.vga.amsterdam.nl
 extranetcms-acc.eemsdelta.nl
 extranetcms.eemsdelta.nl
@@ -3631,6 +3640,7 @@ felix.nissewaard.nl
 felix.nuenen.nl
 felix.oirschot.nl
 felix.ooststellingwerf.nl
+felix.opmeer.nl
 felixburgerzaken.nissewaard.nl
 felixpdc.doesburg.nl
 festival.landvancuijk.nl
@@ -4498,6 +4508,7 @@ hsdjbappdb01.heusden.nl
 hta-stuf.medemblik.nl
 hta.koggenland.nl
 hta.medemblik.nl
+hta.opmeer.nl
 hth-vpn.denhaag.nl
 htmleditor.officiele-overheidspublicaties.nl
 hub.gemeentemaastricht.nl
@@ -4706,6 +4717,7 @@ iburgerzaken.ommen.nl
 iburgerzaken.oosterhout.nl
 iburgerzaken.oostgelre.nl
 iburgerzaken.ooststellingwerf.nl
+iburgerzaken.opmeer.nl
 iburgerzaken.s-hertogenbosch.nl
 ibzpink.aaenhunze.nl
 ibzpink.achtkarspelen.nl
@@ -4816,6 +4828,7 @@ ibzpink.ommen.nl
 ibzpink.oosterhout.nl
 ibzpink.oostgelre.nl
 ibzpink.ooststellingwerf.nl
+ibzpink.opmeer.nl
 ice.nijmegen.nl
 icm-ast.asten.nl
 ict-ers.werkenvoornederland.nl
@@ -4907,6 +4920,7 @@ ikonderneemin.almere.nl
 ikzoek.huizen.nl
 ikzoekeenhuis.almere.nl
 ilmt.heerlen.nl
+im.opmeer.nl
 image.acc-nieuwsbrief.amsterdam.nl
 image.nieuwsbrief.amsterdam.nl
 images.data.amsterdam.nl
@@ -5225,6 +5239,7 @@ jccapi.eersel.nl
 jccapi.hellendoorn.nl
 jccapi.medemblik.nl
 jccapi.oirschot.nl
+jccapi.opmeer.nl
 jccbetalen-test.kerkrade.nl
 jccbetalen.haarlemmermeer.nl
 jccbetalen.kerkrade.nl
@@ -5423,6 +5438,7 @@ klantcontact.landgraaf.nl
 klantcontact.lingewaard.nl
 klantcontact.loonopzand.nl
 klantcontact.nissewaard.nl
+klantcontact.opmeer.nl
 klanten.heemskerk.nl
 klantgeleiding-test.noordoostpolder.nl
 klantgeleiding.gorinchem.nl
@@ -5697,7 +5713,9 @@ lvbrk.nissewaard.nl
 lvgeo.acc.capelleaandenijssel.nl
 lvgeo.capelleaandenijssel.nl
 lvolo-prod.koggenland.nl
+lvolo-prod.opmeer.nl
 lvolo-test.koggenland.nl
+lvolo-test.opmeer.nl
 lvs.denhaag.nl
 lvs.hellendoorn.nl
 lvs.horstaandemaas.nl
@@ -6242,11 +6260,13 @@ mijnsdv.emmen.nl
 mijnshv.coevorden.nl
 mijnsociaaldomein-acc.koggenland.nl
 mijnsociaaldomein-acc.meierijstad.nl
+mijnsociaaldomein-acc.opmeer.nl
 mijnsociaaldomein-test.losser.nl
 mijnsociaaldomein.heerenveen.nl
 mijnsociaaldomein.koggenland.nl
 mijnsociaaldomein.losser.nl
 mijnsociaaldomein.meierijstad.nl
+mijnsociaaldomein.opmeer.nl
 mijnsociaalplein-acc.hilversum.nl
 mijnsociaalplein.bergen-nh.nl
 mijnsociaalplein.castricum.nl
@@ -6851,6 +6871,7 @@ ontheffingen-mz.denhaag.nl
 ontheffingen.amsterdam.nl
 ontimegtw.belastingdienst.nl
 ontimegtw.ont.belastingdienst.nl
+ontmoetingscentra.opmeer.nl
 ontmoetingskaart.landvancuijk.nl
 ontology.regiomonitor-acc.oosterhout.nl
 ontw.app.amsterdam.nl
@@ -7005,6 +7026,8 @@ operatiebomenbuurt.denhaag.nl
 opleiding-ola.belastingdienst.nl
 opleiding.meldingen.amsterdam.nl
 oploo.landvancuijk.nl
+opmeer.nl
+opmmks01.opmeer.nl
 opname.eindhoven.nl
 oproepingen-acc.overheid.nl
 oproepingen-api-acc-poc.overheid.nl
@@ -7628,6 +7651,7 @@ preproductie.nieuwkoop.nl
 preproductie.nunspeet.nl
 preproductie.oirschot.nl
 preproductie.ooststellingwerf.nl
+preproductie.opmeer.nl
 presenteren.ont.belastingdienst.nl
 preview-eto.overheid.nl
 prijsvraag-zwembad.apeldoorn.nl
@@ -7680,6 +7704,7 @@ probeer.nederweert.nl
 probeer.nieuwkoop.nl
 probeer.nuenen.nl
 probeer.ooststellingwerf.nl
+probeer.opmeer.nl
 prod-dictu.comcms.logius.nl
 prod-dictu.logius.nl
 prod.drechterland.nl
@@ -8198,6 +8223,7 @@ secure.nederweert.nl
 secure.nieuwkoop.nl
 secure.nunspeet.nl
 secure.ooststellingwerf.nl
+secure.opmeer.nl
 secure.ot.denhaag.nl
 secure1.gulpen-wittem.nl
 securegw.bunschoten.nl
@@ -8335,6 +8361,7 @@ simcms-energiek.beuningen.nl
 simcms-klimaatbestendig.lingewaard.nl
 simcms-omgevingsvisie.geldrop-mierlo.nl
 simcms-omgevingswet.bronckhorst.nl
+simcms-ontmoetingscentra.opmeer.nl
 simcms-open.beverwijk.nl
 simcms-open.bronckhorst.nl
 simcms-open.doetinchem.nl
@@ -8404,6 +8431,7 @@ simcms.nieuwkoop.nl
 simcms.nuenen.nl
 simcms.oirschot.nl
 simcms.ooststellingwerf.nl
+simcms.opmeer.nl
 simcms2.beekdaelen.nl
 simcmsintra.bergeijk.nl
 simform-preproductie.achtkarspelen.nl
@@ -8480,6 +8508,7 @@ simsite.nunspeet.nl
 simsite.oegstgeest.nl
 simsite.oirschot.nl
 simsite.ooststellingwerf.nl
+simsite.opmeer.nl
 singlegateway.haarlem.nl
 sint-agatha.landvancuijk.nl
 sint-hubert.landvancuijk.nl
@@ -9567,6 +9596,8 @@ vacatures.landvancuijk.nl
 vacatures.nijmegen.nl
 vakantie.landvancuijk.nl
 validsign-prod.koggenland.nl
+validsign-prod.opmeer.nl
+validsign-test.opmeer.nl
 validsign.gulpen-wittem.nl
 validsign.landgraaf.nl
 validsign.montferland.info
@@ -9993,6 +10024,7 @@ webmail.oost-wgm.amsterdam.nl
 webmail.oost.amsterdam.nl
 webmail.oostgelre.nl
 webmail.ooststellingwerf.nl
+webmail.opmeer.nl
 webmail.pmb.amsterdam.nl
 webmail.stadsarchief.amsterdam.nl
 webmail.test.hoorn.nl
@@ -10177,8 +10209,10 @@ wijkteam.katwijk.nl
 wijkteams.almere.nl
 wijkvernieuwing.groningen.nl
 wijsamen.groningen.nl
+wijzer-acc.opmeer.nl
 wijzer.acceptatie.coevorden.nl
 wijzer.coevorden.nl
+wijzer.opmeer.nl
 wijzer.test.coevorden.nl
 wiki.data.amsterdam.nl
 wiki.logius.nl
@@ -10890,6 +10924,7 @@ www.openstad.deventer.nl
 www.openstad.haarlemmermeer.nl
 www.openstad.nijmegen.nl
 www.operatiebomenbuurt.denhaag.nl
+www.opmeer.nl
 www.oracbloemenbuurt.denhaag.nl
 www.organisatieontwikkeling.assen.nl
 www.osdorp.amsterdam.nl
