@@ -928,6 +928,7 @@ https://belastingbalie.eindhoven.nl
 https://belastingbalie.gooisemeren.nl
 https://belastingbalie.hilversum.nl
 https://belastingbalie.hoorn.nl
+https://belastingbalie.krimpenaandenijssel.nl
 https://belastingbalietest.capelleaandenijssel.nl
 https://belastingdienst.nl
 https://belastingen-acc.arnhem.nl
@@ -2511,12 +2512,14 @@ https://klimaatplein.castricum.nl
 https://klimaatplein.heiloo.nl
 https://kluis.hethogeland.nl
 https://koggenland.nl
+https://komverder.krimpenaandenijssel.nl
 https://koppelpoort.amersfoort.nl
 https://koppelvlak-asl.overheid.nl
 https://koppelvlak.overheid.nl
 https://kredietbank.s-hertogenbosch.nl
 https://kredietbankwestbrabant.breda.nl
 https://krefia.amsterdam.nl
+https://krimpenaandenijssel.nl
 https://kwaliteitsdashboard-koop.overheid.nl
 https://laakhavensbepaalt.denhaag.nl
 https://ld-01.hellevoetsluis.nl
@@ -2769,6 +2772,7 @@ https://mijnintranet.haaksbergen.nl
 https://mijnintranet.heerlen.nl
 https://mijnjgz.ggd.groningen.nl
 https://mijnkaart.deurne.nl
+https://mijnkrimpenwijzer.krimpenaandenijssel.nl
 https://mijnloket.deventer.nl
 https://mijnoverzicht.alphenaandenrijn.nl
 https://mijnoverzicht.boxtel.nl
@@ -3402,6 +3406,7 @@ https://protectus.ggd.amsterdam.nl
 https://proto.apeldoorn.nl
 https://provconnect.hethogeland.nl
 https://pub.alkmaar.nl
+https://pub.krimpenaandenijssel.nl
 https://pubgov.heerenveen.nl
 https://publicaties.barneveld.nl
 https://publicaties.delft.nl
@@ -3432,6 +3437,7 @@ https://pv.heiloo.nl
 https://pv.helmond.nl
 https://pv.kaagenbraassem.nl
 https://pv.kampen.nl
+https://pv.krimpenaandenijssel.nl
 https://pveopenbareruimte.deventer.nl
 https://pwa.barendrecht.nl
 https://qcalendar.deventer.nl
@@ -4580,6 +4586,8 @@ https://www.kampen.nl
 https://www.kapelle.nl
 https://www.kerkrade.nl
 https://www.koggenland.nl
+https://www.komverder.krimpenaandenijssel.nl
+https://www.krimpenaandenijssel.nl
 https://www.laakhavensbepaalt.denhaag.nl
 https://www.leidschenveenaanzet.denhaag.nl
 https://www.logius.nl

@@ -24,9 +24,9 @@ formulieren
 acc
 meldingen
 werkplek
+waarmerk
 portal
 eloket
-waarmerk
 dkd
 adfs
 open
@@ -35,10 +35,10 @@ geo
 parkeren
 gemeenteraad
 afspraak
+pv
 betalen
 vpn
 data
-pv
 ruimtelijkeplannen
 osb
 omgevingsvisie
@@ -62,6 +62,7 @@ govroam
 loket.acceptatie
 zaken
 flowmailer-tracking
+belastingbalie
 belastingen
 kaart
 digikoppeling-test
@@ -74,7 +75,6 @@ api.meldingen-acc
 meldingen-acc
 mijnzorg
 mijninkomen
-belastingbalie
 mks
 cloudadapter-test
 osbacc
@@ -435,6 +435,7 @@ autorisatie
 ldap
 notubiz
 pdc
+pub
 testafspraken
 api-meldingen.acc
 api-meldingen
@@ -1973,7 +1974,6 @@ nsx02
 pix-ia-sth
 pix-ia-stk
 portal.data
-pub
 rdw-test.authenticatie
 rdw.authenticatie
 redirector
@@ -5601,3 +5601,7 @@ mohis
 mohistest
 prefill
 validsign-prod
+komverder
+mijnkrimpenwijzer
+test-mijnkrimpenwijzer
+www.komverder
