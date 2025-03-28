@@ -6,9 +6,9 @@ ibzpink
 edienstenburgerzaken
 edienstenburgerzaken-test
 intranet
-webmail
 afspraken
 simsite
+webmail
 mijn
 digikoppeling
 mail
@@ -23,9 +23,9 @@ formulieren
 eloket
 test
 werkplek
+open
 meldingen
 acc
-open
 dkd
 adfs
 waarmerk
@@ -82,6 +82,7 @@ osbacc
 duurzaam
 extranet
 acc-broker
+woningbouwkaart
 cloudadapter
 samen
 pki
@@ -96,8 +97,8 @@ piwik
 snelbalie
 financien
 gemeente
-woningbouwkaart
 klantcontact
+simcms-open
 transfer
 smtp
 e
@@ -108,7 +109,6 @@ apps
 nieuwsbrief
 parkeren-acc
 belastingloket
-simcms-open
 test-intranet
 kaarten
 www.webmail
@@ -188,6 +188,7 @@ fmreturn
 guest
 publicroam
 data-test
+jccapi
 mijnsociaalplein
 preprod-mijnsociaalplein
 liquit
@@ -210,6 +211,7 @@ raadsnet
 college
 gisib
 preprod-mijn
+izaaksuite
 www.werkenbij
 geodata
 subsidie
@@ -248,7 +250,6 @@ zaken.acceptatie
 iarchief
 intranet-acc
 intranetcms
-jccapi
 uca
 xential
 key2gbav
@@ -270,7 +271,6 @@ webservices
 zoeken
 loket.test
 praatmee
-izaaksuite
 bis
 makelaar
 sociaaldomein
@@ -602,6 +602,7 @@ mo
 ndes
 tijdschrijven
 digid
+leerplein
 old
 testdigid
 wob
@@ -3339,7 +3340,6 @@ inkomen-test.mijn
 inkomen.mijn
 jaarrekening
 jaarverslag
-leerplein
 loketacc
 meedenken
 mfa-rooster
@@ -6247,3 +6247,5 @@ zorgwijzer
 bisgemeenteraad
 lior
 www.digitaalfotoarchief
+betalenaan
+raadsagenda
