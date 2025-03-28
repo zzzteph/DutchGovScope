@@ -44,9 +44,9 @@ pv
 testeloket
 betalen
 data
+raad
 ruimtelijkeplannen
 test-ipa
-raad
 openpdc
 enterpriseenrollment
 osb
@@ -62,17 +62,18 @@ dmidoffice
 formulier
 flowmailer-tracking
 hybrid
+belastingen
 kaart
 enterpriseregistration
 govroam
 remote
 zaken
-belastingen
 digikoppeling-test
 login
 cmsoo
 cloudadapter-test
 loket.acceptatie
+duurzaam
 berichten
 beeldbank
 digikoppeling.test
@@ -85,7 +86,6 @@ mijnzorg
 mijninkomen
 parkeren-test
 piwik
-duurzaam
 extranet
 financien
 woningbouwkaart
@@ -102,6 +102,7 @@ gemeente
 nieuwsbrief
 klantcontact
 test-intranet
+kaarten
 www.webmail
 filecap
 mailing
@@ -114,7 +115,6 @@ belastingloket
 connect
 simcms-open
 gasten
-kaarten
 dtestmidoffice
 jaarstukken
 opendata
@@ -369,6 +369,7 @@ www.login
 personeelsplanning
 simcms-preproductie
 djuma
+zorg
 acceptatieloket
 klimaatplein
 live
@@ -419,6 +420,7 @@ intra
 winkelen
 belastingbalie-test
 jongin
+webformulieren
 www.jongin
 woz-portaal
 vergunningen
@@ -594,7 +596,6 @@ data.gemnet
 intranetcms-acc
 testberichten
 aovpn
-zorg
 esb
 identity
 zorgmail
@@ -649,6 +650,7 @@ buitenoporde
 mijnportaal
 begraven
 datatest
+secure-test
 sem
 kennisportaal
 mfa
@@ -674,7 +676,6 @@ centric
 eformulieren
 relay
 webdav
-webformulieren
 router
 digitalebalie
 durp
@@ -710,6 +711,7 @@ parkeervergunningtest
 squit2gotest
 geo-secure
 financieelportaal
+belastingen-test
 ucweb01-ext
 aaa
 preprod-belastingportaal
@@ -750,6 +752,7 @@ ubwprod
 ubwtest
 vacatures
 preprod-meedoen
+e2s
 fw
 idselect
 aanvragenpreprod
@@ -778,6 +781,7 @@ werkeninkomen-test
 werkeninkomen
 gemeentewinkel
 testwebsite
+zorg-acc
 a-cms
 a-cms1
 a-cms2
@@ -3789,7 +3793,6 @@ publiekwifi
 q-matic
 sbir1.lev
 sbir2.lev
-secure-test
 siraskalot
 sng
 sngtest
@@ -4600,7 +4603,6 @@ meldpunt
 mijntalent-acc
 mijntalent
 spam
-belastingen-test
 clicksfm.nieuwsbrief
 dashboard-iav-api
 dashboard-iav
@@ -5277,7 +5279,6 @@ www.telewerken
 www.trefnet
 belasting-loket
 belasting-lokettest
-e2s
 e2stest
 edienst
 edienstpp
@@ -5952,7 +5953,6 @@ regieportaal-test
 regieportaal
 samenwerkingbelastingen-test
 samenwerkingbelastingen
-zorg-acc
 MD-APP-P-01
 apigateway
 apigateway2
@@ -6005,3 +6005,6 @@ subsidieloket-login
 www.acc.mijngkb
 www.mijngkb
 leef-test
+e2s-test
+kaarten-test
+webformulieren-test
