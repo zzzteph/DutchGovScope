@@ -6,8 +6,8 @@ ibzpink
 edienstenburgerzaken
 edienstenburgerzaken-test
 intranet
-webmail
 mijn
+webmail
 afspraken
 simsite
 mail
@@ -48,22 +48,22 @@ raad
 ruimtelijkeplannen
 test-ipa
 openpdc
-enterpriseenrollment
 osb
-omgevingsvisie
 belastingbalie
+enterpriseenrollment
+omgevingsvisie
 dacceptatieloket
 dacceptatiemidoffice
 api.meldingen-acc
 meldingen-acc
 openpub
+hybrid
 dloket
 dmidoffice
 formulier
 enterpriseregistration
 remote
 flowmailer-tracking
-hybrid
 belastingen
 kaart
 govroam
@@ -84,6 +84,7 @@ cloudadapter
 dtestloket
 portaal
 mijnzorg
+osbacc
 mijninkomen
 parkeren-test
 piwik
@@ -95,7 +96,6 @@ transfer
 smtp
 e
 verkiezingen
-osbacc
 preprod-mijninkomen
 snelbalie
 gemeente
@@ -193,6 +193,7 @@ filetransfer
 rap
 fs
 documenten
+raadsnet
 college
 gisib
 wachtwoord
@@ -251,7 +252,6 @@ webservices
 zoeken
 loket.test
 participatie
-raadsnet
 praatmee
 preprod-mijn
 izaaksuite
@@ -303,6 +303,7 @@ acceptatie-open
 afspraakmaken
 www.intranet
 mx2
+aeolus
 www.samen
 geoportaal
 en
@@ -349,6 +350,7 @@ top
 woz
 e-loket
 geotest
+werk
 www2
 dialin
 test-formulier
@@ -426,7 +428,6 @@ webformulieren
 www.jongin
 woz-portaal
 vergunningen
-aeolus
 e.openstad
 flex
 stemvan
@@ -569,7 +570,6 @@ tijdschrijven
 digid
 old
 testdigid
-werk
 wob
 www.old
 acc-contact.dev
@@ -768,6 +768,8 @@ mobiliteitsplan
 website.acceptatie
 testwerkplek
 wijkteam
+hybrid1
+hybrid2
 brk
 liber
 pcorsa
@@ -5515,8 +5517,6 @@ gijs-acc
 gijs
 gijscms-acc
 gijscms
-hybrid1
-hybrid2
 ijsaeo1
 sociaaldomein-acc
 Preprod
@@ -6026,3 +6026,4 @@ w2kmks
 w2kzmm
 xworks-acc
 xworks
+mijnacc
