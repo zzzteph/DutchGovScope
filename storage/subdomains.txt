@@ -25,8 +25,8 @@ test
 eloket
 meldingen
 acc
-open
 dkd
+open
 adfs
 waarmerk
 api.meldingen
@@ -35,8 +35,8 @@ vpn
 geo
 portal
 parkeren
-pv
 werkenbij
+pv
 zaaksysteem-accept
 gemeenteraad
 testeloket
@@ -45,10 +45,10 @@ data
 broker
 iparticipatie
 ruimtelijkeplannen
+enterpriseenrollment
 raad
 osb
 belastingbalie
-enterpriseenrollment
 test-ipa
 openpdc
 dacceptatieloket
@@ -72,9 +72,9 @@ govroam
 zaken
 digikoppeling-test
 cmsoo
+loket.acceptatie
 mks
 dtestloket
-loket.acceptatie
 osbacc
 duurzaam
 berichten
@@ -149,6 +149,7 @@ test-cmsintranet
 inloggen
 doemee
 squit2go
+uc
 mdm
 magazines
 servicedesk
@@ -190,7 +191,6 @@ preprod-mijnsociaalplein
 liquit
 ro
 micollab
-uc
 mobile
 outlook
 cryptshare
@@ -302,6 +302,7 @@ aanmelden
 dkdtest
 _autodiscover._tcp
 woz-loket
+bor
 subsidies-login
 filr
 mijnzaken
@@ -398,6 +399,8 @@ mijnsociaalportaal
 digikoppelingtest
 beeldbankbeheer
 testcms-intranet
+csc
+mbg1
 www.doemee
 wozloket
 mam
@@ -423,7 +426,6 @@ connect.test
 contentbeheer.test
 zaken.test
 ris
-bor
 subsidies-login.acceptatie
 preprod-mijnportaal
 burgerloket
@@ -631,9 +633,7 @@ preprod.vergunningintaker
 wwwtest
 acc-openwave
 corona
-csc
 digid-parkeervergunningen
-mbg1
 begraafplaatsen
 wmo
 oud
@@ -667,8 +667,10 @@ webcon
 pkio1
 grooster
 idtst
+bor-acc
 collecties
 inproces.test
+mbg2
 suite4burgerzaken-prod
 efacturen
 buitenoporde
@@ -3766,8 +3768,6 @@ joinconnect
 kindregeling
 online-aanvraag-test
 online-aanvraag
-bor-acc
-mbg2
 acceptatie.intranet
 ddsp.services
 ddst.services
@@ -6202,3 +6202,4 @@ testwizaccept
 testwizraapl
 valuecare
 workforce
+lv-brk
