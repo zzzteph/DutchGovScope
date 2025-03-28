@@ -6,16 +6,16 @@ ibzpink
 edienstenburgerzaken
 edienstenburgerzaken-test
 intranet
+webmail
 afspraken
 mijn
-webmail
 simsite
 mail
 digikoppeling
 secure
 simcms
-preproductie
 acceptatie
+preproductie
 probeer
 loket
 felix
@@ -51,13 +51,13 @@ openpdc
 osb
 belastingbalie
 enterpriseenrollment
+hybrid
 omgevingsvisie
 dacceptatieloket
 dacceptatiemidoffice
 api.meldingen-acc
 meldingen-acc
 openpub
-hybrid
 belastingen
 dloket
 dmidoffice
@@ -67,11 +67,11 @@ remote
 flowmailer-tracking
 kaart
 login
+cloudadapter-test
 govroam
 zaken
 digikoppeling-test
 cmsoo
-cloudadapter-test
 loket.acceptatie
 duurzaam
 berichten
@@ -132,6 +132,7 @@ snelbaliepp
 qr
 jcc
 email
+telewerken
 gis
 acc-formulier
 acc-podiumd-logs
@@ -152,11 +153,11 @@ mobiel
 omgevingswet
 mijnzorg-acc
 veiligdelen
+wachtwoord
 subsidies-backend
 thuiswerken
 dali
 ftp
-telewerken
 auth
 woo
 acc-contact
@@ -188,16 +189,17 @@ outlook
 cryptshare
 bestanden
 _dmarc
+academie
 api
 filetransfer
 rap
 services
 fs
+participatie
 documenten
 raadsnet
 college
 gisib
-wachtwoord
 www.werkenbij
 subsidie
 subsidies-backend.acceptatie
@@ -243,16 +245,15 @@ key2gbav
 vth
 mx1
 zaaksysteem
+aeolus
 handhaving
 cms
 feeds
 english
-academie
 download
 webservices
 zoeken
 loket.test
-participatie
 praatmee
 preprod-mijn
 izaaksuite
@@ -288,6 +289,7 @@ wifi
 www.gemeenteraad
 acc.piwik
 extern
+projecten
 erfgoed
 nieuws
 aanmelden
@@ -303,11 +305,11 @@ acceptatie-open
 afspraakmaken
 www.intranet
 mx2
-aeolus
 www.samen
 geoportaal
 en
 sbc01
+cloudadapter-prod
 www.portal
 mijnsociaaldomein
 ibabs
@@ -386,7 +388,6 @@ cloud
 www.doemee
 wozloket
 mam
-projecten
 2secure
 matomo
 programmabegroting
@@ -400,6 +401,7 @@ key2datadistributie-test
 key2gbavtest
 ssd
 suite4burgerzaken-test
+sync
 medewerkers
 www.afspraak
 connect.test
@@ -433,7 +435,6 @@ flex
 stemvan
 gbionline
 de
-cloudadapter-prod
 gateway
 www.werkplek
 validsign
@@ -558,6 +559,7 @@ parkeervergunningen.acc
 sportverhuur
 subsites
 vergunning
+wachtwoordvergeten
 www.ggd
 www.onderzoek
 www.ruimtelijkeplannen
@@ -590,6 +592,7 @@ solliciterenbij
 director
 mijnmobiel
 nedplan
+secudoc
 www.mijnmobiel
 eforms
 gisibonline
@@ -629,7 +632,6 @@ logilink
 navigus
 ssdtest
 suite4burgerzaken
-sync
 test-eloket
 womserver-test
 womserver
@@ -748,6 +750,7 @@ testzaken
 www.djuma
 www.vpn
 ons
+acceptatie-intranet
 zwemles
 webkassa
 testbelastingloket
@@ -758,6 +761,7 @@ key2datadistributie
 ubwprod
 ubwtest
 vacatures
+monitoring
 preprod-meedoen
 e2s
 fw
@@ -790,6 +794,7 @@ werkeninkomen-test
 werkeninkomen
 gemeentewinkel
 testwebsite
+decos
 zorg-acc
 a-cms
 a-cms1
@@ -3102,7 +3107,6 @@ vvetest
 wacfarm.acc
 wachtwoord.acc
 wachtwoordvergeten.acc
-wachtwoordvergeten
 wbakaart
 webmail.centrum
 webmail.dbga
@@ -3458,7 +3462,6 @@ nas-productie.ovh
 nasbackup.ovh
 nlgembek
 ovh
-secudoc
 srmvaprd.ovh
 srmvauitwijk.ovh
 storefront.ovh
@@ -5159,7 +5162,6 @@ www2.testformulieren
 halbox
 halnet
 samenwijzer
-acceptatie-intranet
 preprod-burgerportaal
 tunnel
 vdi-uitwijk
@@ -5263,7 +5265,6 @@ hellendoorn-checker-preprod
 hellendoorn-checker
 inloggenapv-preprod
 inloggenapv
-monitoring
 esb-nhr
 internwifi
 ld-01
@@ -5905,7 +5906,6 @@ webteam
 HTA-stuf
 blik-acc
 blik
-decos
 hta-stuf
 ibabs-prod
 ibabs-test
@@ -6031,3 +6031,5 @@ autodiscover.natuurlijkgroen
 login-pre
 mintra
 services-test
+intraweb
+telewerkentest
