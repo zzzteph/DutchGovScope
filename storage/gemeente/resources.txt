@@ -61,6 +61,7 @@ _dmarc.delft.nl
 _dmarc.helmond.nl
 _dmarc.leiden.nl
 _dmarc.nederweert.nl
+_dmarc.nieuwegein.nl
 a-consent.sarphati.amsterdam.nl
 a-digikoppeling.amersfoort.nl
 a-p-ddi-0003.leeuwarden.nl
@@ -319,6 +320,7 @@ acc.mijn.data.amsterdam.nl
 acc.mijn.leeuwarden.nl
 acc.mijngkb.midden-groningen.nl
 acc.montferland.info
+acc.nieuwegein.nl
 acc.nlx.amsterdam.nl
 acc.omslagroute.amsterdam.nl
 acc.onderwijssubsidies.amsterdam.nl
@@ -1078,6 +1080,7 @@ autodiscover.mookenmiddelaar.nl
 autodiscover.natuurlijkgroen.mookenmiddelaar.nl
 autodiscover.nederbetuwe.nl
 autodiscover.nederweert.nl
+autodiscover.nieuwegein.nl
 autodiscover.noord.amsterdam.nl
 autodiscover.ombudsman.groningen.nl
 autodiscover.opsb.groningen.nl
@@ -1716,6 +1719,8 @@ cmsdieuwke.defryskemarren.nl
 cmsdok.dronten.nl
 cmsembrace.laarbeek.nl
 cmshofnet.coevorden.nl
+cmshuisnet.nieuwegein.nl
+cmshuisnettest.nieuwegein.nl
 cmsinhuiz.huizen.nl
 cmsinsite.houten.nl
 cmsintranet.etten-leur.nl
@@ -1953,6 +1958,8 @@ dcagast2.assen.nl
 dcatd-admin.amsterdam.nl
 ddi.vga.amsterdam.nl
 dditest.vga.amsterdam.nl
+ddrouter-p.nieuwegein.nl
+ddrouter-t.nieuwegein.nl
 dds-alphen-kaag.kaagenbraassem.nl
 ddskoppeling.gulpen-wittem.nl
 ddsp.services.debilt.nl
@@ -2059,8 +2066,10 @@ digiform.amsterdam.nl
 digigateway.haarlem.nl
 digikoppeling-mks-test.assen.nl
 digikoppeling-mks.assen.nl
+digikoppeling-p.nieuwegein.nl
 digikoppeling-prd.gemeente.groningen.nl
 digikoppeling-prod.alphenaandenrijn.nl
+digikoppeling-t.nieuwegein.nl
 digikoppeling-test.alphenaandenrijn.nl
 digikoppeling-test.baarn.nl
 digikoppeling-test.beverwijk.nl
@@ -2519,6 +2528,7 @@ edienstenburgerzaken-test.lopik.nl
 edienstenburgerzaken-test.meierijstad.nl
 edienstenburgerzaken-test.meppel.nl
 edienstenburgerzaken-test.nederweert.nl
+edienstenburgerzaken-test.nieuwegein.nl
 edienstenburgerzaken.aalsmeer.nl
 edienstenburgerzaken.aalten.nl
 edienstenburgerzaken.acc.denhaag.nl
@@ -2590,6 +2600,7 @@ edienstenburgerzaken.lopik.nl
 edienstenburgerzaken.meierijstad.nl
 edienstenburgerzaken.meppel.nl
 edienstenburgerzaken.nederweert.nl
+edienstenburgerzaken.nieuwegein.nl
 edienstenburgerzaken.test.aalsmeer.nl
 edienstenburgerzaken.test.amstelveen.nl
 edienstenmijninkomen-acceptatie.albrandswaard.nl
@@ -2622,6 +2633,7 @@ eersel.nl
 efacturen.debilt.nl
 efacturen.eijsden-margraten.nl
 efactuur.doesburg.nl
+efactuur.nieuwegein.nl
 eformaccept.defryskemarren.nl
 eforms.beesel.nl
 eforms.landgraaf.nl
@@ -3285,6 +3297,7 @@ geoserver-signalen.almere.nl
 geoserver-test.baarn.nl
 geoserver.baarn.nl
 geoserver.haarlemmermeer.nl
+geoserver.nieuwegein.nl
 geoservertest.haarlemmermeer.nl
 geoservices.denhaag.nl
 geoservices.haarlemmermeer.nl
@@ -3584,6 +3597,8 @@ hth-vpn.denhaag.nl
 hub.gemeentemaastricht.nl
 huishoudboekje.amersfoort.nl
 huisnet.nederweert.nl
+huisnet.nieuwegein.nl
+huisnettest.nieuwegein.nl
 huisstijl.moerdijk.nl
 huisvuilkalender.acc.denhaag.nl
 huisvuilkalender.denhaag.nl
@@ -3753,6 +3768,7 @@ iburgerzaken.molenlanden.nl
 iburgerzaken.montferland.info
 iburgerzaken.mookenmiddelaar.nl
 iburgerzaken.nederbetuwe.nl
+iburgerzaken.nieuwegein.nl
 iburgerzaken.s-hertogenbosch.nl
 ibzpink.aaenhunze.nl
 ibzpink.achtkarspelen.nl
@@ -3848,6 +3864,7 @@ ibzpink.molenlanden.nl
 ibzpink.montferland.info
 ibzpink.mookenmiddelaar.nl
 ibzpink.nederbetuwe.nl
+ibzpink.nieuwegein.nl
 icm-ast.asten.nl
 id-beheer-erfpacht-acc.amsterdam.nl
 id-beheer-erfpacht-dev.amsterdam.nl
@@ -4347,6 +4364,7 @@ klimaatbestendig.lingewaard.nl
 klimaatplein.bergen-nh.nl
 klimaatplein.castricum.nl
 klimaatplein.heiloo.nl
+klooster.nieuwegein.nl
 kluis.hethogeland.nl
 kmdn.gemeentehulst.nl
 knp.breda.nl
@@ -4483,6 +4501,7 @@ login.lansingerland.nl
 login.maximaaljezelf.groningen.nl
 login.meerssen.nl
 login.mookenmiddelaar.nl
+login.nieuwegein.nl
 login.subsidie.leiden.nl
 logoff.ede.nl
 lois-acc.losser.nl
@@ -4677,6 +4696,7 @@ mailing.eindhoven.nl
 mailing.gemeentebeek.nl
 mailing.kaagenbraassem.nl
 mailing.kapelle.nl
+mailing.nieuwegein.nl
 mailings.deventer.nl
 mailsig.lansingerland.nl
 maisflexis.heusden.nl
@@ -5170,6 +5190,7 @@ myprint.groningen.nl
 mzdtest.bunnik.nl
 n1.auth.haarlem.nl
 n2.auth.haarlem.nl
+n8n.nieuwegein.nl
 nac.almelo.nl
 nac.meierijstad.nl
 naheffingsaanslag-acc.amsterdam.nl
@@ -5227,6 +5248,7 @@ nhr.barneveld.nl
 nieuw.leiden.nl
 nieuwauthentiekbloemendaal.doemee.bloemendaal.nl
 nieuweburgemeester.deventer.nl
+nieuwegein.nl
 nieuws.breda.nl
 nieuws.hoorn.nl
 nieuws.landvancuijk.nl
@@ -5422,6 +5444,7 @@ onderzoek.amersfoort.nl
 onderzoek.amsterdam.nl
 onderzoek.eindhoven.nl
 onderzoek.groningen.nl
+onderzoek.nieuwegein.nl
 online-aanvraag-test.dalfsen.nl
 online-aanvraag.dalfsen.nl
 online.gooisemeren.nl
@@ -5630,6 +5653,7 @@ owa.groningen.nl
 owa.helmond.nl
 owa.kampen.nl
 owa.nederweert.nl
+owa.nieuwegein.nl
 owa.oudzuid.amsterdam.nl
 owa.stadstoezicht.amsterdam.nl
 ows-ahp-test.groningen.nl
@@ -5757,6 +5781,7 @@ passion.groningen.nl
 password.almere.nl
 passwordreset.almere.nl
 patternlab.barneveld.nl
+payt.nieuwegein.nl
 pb-yutpa.rnd.amsterdam.nl
 pcmonitor.leudal.nl
 pcoda.kerkrade.nl
@@ -6199,6 +6224,7 @@ qr.meierijstad.nl
 qr.testdigitaalgemeenteloket.alphenaandenrijn.nl
 qr.testdigitaalgemeenteloket.kaagenbraassem.nl
 quarantine.bernheze.org
+quarantine.dmarc.nieuwegein.nl
 r01-nk-h140.ams.denhaag.nl
 raad.acceptatie.asten.nl
 raad.alblasserdam.nl
@@ -6228,6 +6254,7 @@ raadsnet.bernheze.org
 raadsnet.harlingen.nl
 raadsnet.heeze-leende.nl
 raadsnet.montfoort.nl
+raadzaam.nieuwegein.nl
 rabbitmq.datapunt.amsterdam.nl
 radius.gemeenteberkelland.nl
 radius.kampen.nl
@@ -6292,12 +6319,14 @@ remote.hoorn.nl
 remote.kampen.nl
 remote.lochem.nl
 remote.montferland.info
+remote.nieuwegein.nl
 remotewerken.middendelfland.nl
 rep.bronckhorst.nl
 reserveren.coevorden.nl
 rijkevoort.landvancuijk.nl
 ris.dalfsen.nl
 ris.delft.nl
+ris.nieuwegein.nl
 riv.apeldoorn.nl
 riviewer.apeldoorn.nl
 rnd.amsterdam.nl
@@ -6350,6 +6379,7 @@ ruimtelijkeplannen.heerde.nl
 ruimtelijkeplannen.heerlen.nl
 ruimtelijkeplannen.houten.nl
 ruimtelijkeplannen.lochem.nl
+ruimtelijkeplannen.nieuwegein.nl
 ruimtelijkeplannen.s-hertogenbosch.nl
 ruimtevoorjou.groningen.nl
 rx-mission-publiceren.borne.nl
@@ -6542,6 +6572,8 @@ servicegateway.haarlem.nl
 servicegateway.kampen.nl
 servicegateway.s-hertogenbosch.nl
 servicegatewayt.kampen.nl
+services-p.nieuwegein.nl
+services-t.nieuwegein.nl
 services-test.mookenmiddelaar.nl
 services.acc.amsterdam.nl
 services.amsterdam.nl
@@ -6786,9 +6818,11 @@ smtp.moerdijk.nl
 smtp01.meerssen.nl
 smtp1.denhaag.nl
 smtp1.hoorn.nl
+smtp1.nieuwegein.nl
 smtp1s.denhaag.nl
 smtp2.denhaag.nl
 smtp2.hoorn.nl
+smtp2.nieuwegein.nl
 smtp2s.denhaag.nl
 smtpe.denhaag.nl
 smtprelay.denhaag.nl
@@ -6832,6 +6866,7 @@ social.montferland.info
 socialebasis.kampen.nl
 socialekaart.echt-susteren.nl
 socialekaart.ede.nl
+socialekaart.nieuwegein.nl
 socialeteams.deventer.nl
 socialewegwijzer.meierijstad.nl
 socialintranet.middendelfland.nl
@@ -6873,6 +6908,7 @@ sportaccommodatieverhuur.meppel.nl
 sportencultuur.almere.nl
 sportencultuur.gorinchem.nl
 sportief.middendrenthe.nl
+sportlocaties.nieuwegein.nl
 sportloket.landvancuijk.nl
 sportparken.datapunt.amsterdam.nl
 sportsupport.almere.nl
@@ -7081,6 +7117,7 @@ support.dmb.amsterdam.nl
 support.doetinchem.nl
 support.gemeentebeek.nl
 support.helmond.nl
+support.nieuwegein.nl
 support.ovh.gemeentebeek.nl
 survey123test.haarlemmermeer.nl
 surveys3.ggd.amsterdam.nl
@@ -7460,6 +7497,8 @@ trefnet.hellevoetsluis.nl
 trefpunt.deurne.nl
 tripleacceptatie.heerlen.nl
 tripleforms.heerlen.nl
+tripleforms.nieuwegein.nl
+tripleformst.nieuwegein.nl
 tripleproductie.heerlen.nl
 tripletest.heerlen.nl
 trobit.gooisemeren.nl
@@ -7686,6 +7725,7 @@ vpn.leudal.nl
 vpn.lochem.nl
 vpn.maassluis.nl
 vpn.meerssen.nl
+vpn.nieuwegein.nl
 vpn.zuid.amsterdam.nl
 vpn02.denhaag.nl
 vpn365.denhelder.nl
@@ -7869,6 +7909,7 @@ webmail.meierijstad.nl
 webmail.middendelfland.nl
 webmail.moerdijk.nl
 webmail.nederbetuwe.nl
+webmail.nieuwegein.nl
 webmail.nieuwwest.amsterdam.nl
 webmail.oost-wgm.amsterdam.nl
 webmail.oost.amsterdam.nl
@@ -8047,6 +8088,7 @@ wionklic.leudal.nl
 witgoed.middendrenthe.nl
 wkpb.haarlem.nl
 wkpb.lelystad.nl
+wlan.nieuwegein.nl
 wlc.denhaag.nl
 wmo.bloemendaal.nl
 wmo.middendrenthe.nl
@@ -8616,6 +8658,7 @@ www.nederbetuwe.nl
 www.nederweert.nl
 www.nieuwauthentiekbloemendaal.doemee.bloemendaal.nl
 www.nieuwbouw.amsterdam.nl
+www.nieuwegein.nl
 www.nieuwsbrief.enschede.nl
 www.nieuwwest.amsterdam.nl
 www.noordzuidlijn.amsterdam.nl

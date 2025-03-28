@@ -108,6 +108,7 @@ http://autodiscover.montfoort.nl
 http://autodiscover.mookenmiddelaar.nl
 http://autodiscover.natuurlijkgroen.mookenmiddelaar.nl
 http://autodiscover.nederbetuwe.nl
+http://autodiscover.nieuwegein.nl
 http://autodiscover.pvda.mookenmiddelaar.nl
 http://autodiscover.s-hertogenbosch.nl
 http://autodiscover.vvd.mookenmiddelaar.nl
@@ -1254,6 +1255,8 @@ https://cmsbink.beverwijk.nl
 https://cmsdieuwke.defryskemarren.nl
 https://cmsdok.dronten.nl
 https://cmshofnet.coevorden.nl
+https://cmshuisnet.nieuwegein.nl
+https://cmshuisnettest.nieuwegein.nl
 https://cmsinhuiz.huizen.nl
 https://cmsintranet.gemeentebeek.nl
 https://cmsintranet.gooisemeren.nl
@@ -1649,6 +1652,7 @@ https://edienstenburgerzaken-test.lopik.nl
 https://edienstenburgerzaken-test.meierijstad.nl
 https://edienstenburgerzaken-test.meppel.nl
 https://edienstenburgerzaken-test.nederweert.nl
+https://edienstenburgerzaken-test.nieuwegein.nl
 https://edienstenburgerzaken.aalsmeer.nl
 https://edienstenburgerzaken.aalten.nl
 https://edienstenburgerzaken.acc.denhaag.nl
@@ -2149,6 +2153,7 @@ https://geoportaaltest.enschede.nl
 https://geoproxy.s-hertogenbosch.nl
 https://geoserver-signalen.almere.nl
 https://geoserver.haarlemmermeer.nl
+https://geoserver.nieuwegein.nl
 https://geoservices.denhaag.nl
 https://geoservices.haarlemmermeer.nl
 https://geoservices.huizen.nl
@@ -2297,6 +2302,8 @@ https://houtwijkbegroot.denhaag.nl
 https://hub.gemeentemaastricht.nl
 https://huishoudboekje.amersfoort.nl
 https://huisnet.nederweert.nl
+https://huisnet.nieuwegein.nl
+https://huisnettest.nieuwegein.nl
 https://huisstijl.moerdijk.nl
 https://huisvuilkalender.denhaag.nl
 https://huizen.nl
@@ -2416,6 +2423,7 @@ https://iburgerzaken.molenlanden.nl
 https://iburgerzaken.montferland.info
 https://iburgerzaken.mookenmiddelaar.nl
 https://iburgerzaken.nederbetuwe.nl
+https://iburgerzaken.nieuwegein.nl
 https://iburgerzaken.s-hertogenbosch.nl
 https://id-beheer-erfpacht-acc.amsterdam.nl
 https://id-beheer-erfpacht-dev.amsterdam.nl
@@ -2701,6 +2709,7 @@ https://klimaatbestendig.lingewaard.nl
 https://klimaatplein.bergen-nh.nl
 https://klimaatplein.castricum.nl
 https://klimaatplein.heiloo.nl
+https://klooster.nieuwegein.nl
 https://kluis.hethogeland.nl
 https://koggenland.nl
 https://komverder.krimpenaandenijssel.nl
@@ -2833,6 +2842,7 @@ https://mailing.eindhoven.nl
 https://mailing.gemeentebeek.nl
 https://mailing.kaagenbraassem.nl
 https://mailing.kapelle.nl
+https://mailing.nieuwegein.nl
 https://mailsig.lansingerland.nl
 https://makelaar.brielle.nl
 https://makelpunt.openstad.enschede.nl
@@ -3147,6 +3157,7 @@ https://neuron.gorinchem.nl
 https://nha.amsterdam.nl
 https://nieuwauthentiekbloemendaal.doemee.bloemendaal.nl
 https://nieuweburgemeester.deventer.nl
+https://nieuwegein.nl
 https://nieuws.breda.nl
 https://nieuws.hoorn.nl
 https://nieuws.landvancuijk.nl
@@ -3275,6 +3286,7 @@ https://onderzoek.amersfoort.nl
 https://onderzoek.amsterdam.nl
 https://onderzoek.eindhoven.nl
 https://onderzoek.groningen.nl
+https://onderzoek.nieuwegein.nl
 https://online-aanvraag-test.dalfsen.nl
 https://online-aanvraag.dalfsen.nl
 https://online.gooisemeren.nl
@@ -3420,6 +3432,7 @@ https://outlook.meerssen.nl
 https://overdrachtsdocument2022.s-hertogenbosch.nl
 https://overloon.landvancuijk.nl
 https://owa.groningen.nl
+https://owa.nieuwegein.nl
 https://ows-ahp.groningen.nl
 https://ows-app.groningen.nl
 https://ows-dmnsapi.groningen.nl
@@ -3481,6 +3494,7 @@ https://partner.stadjerspas.gemeente.groningen.nl
 https://password.almere.nl
 https://passwordreset.almere.nl
 https://patternlab.barneveld.nl
+https://payt.nieuwegein.nl
 https://pb-yutpa.rnd.amsterdam.nl
 https://pcmonitor.leudal.nl
 https://pdc.alkmaar.nl
@@ -3723,6 +3737,7 @@ https://raad.koggenland.nl
 https://raad.middendrenthe.nl
 https://raad.molenlanden.nl
 https://raadplegen.denhaag.nl
+https://raadzaam.nieuwegein.nl
 https://raster.horstaandemaas.nl
 https://rdweb.houten.nl
 https://redactie-extern.denhaag.nl
@@ -3957,6 +3972,7 @@ https://social.amsterdam.nl
 https://social.montferland.info
 https://socialekaart.echt-susteren.nl
 https://socialekaart.ede.nl
+https://socialekaart.nieuwegein.nl
 https://socialeteams.deventer.nl
 https://socialewegwijzer.meierijstad.nl
 https://solliciterenbij.barneveld.nl
@@ -3984,6 +4000,7 @@ https://sportaccommodatieverhuur.meppel.nl
 https://sportencultuur.almere.nl
 https://sportencultuur.gorinchem.nl
 https://sportief.middendrenthe.nl
+https://sportlocaties.nieuwegein.nl
 https://sportloket.landvancuijk.nl
 https://sportsupport.almere.nl
 https://sportverhuur.amsterdam.nl
@@ -4099,6 +4116,7 @@ https://summit.tst.amsterdam.nl
 https://support.bergen-nh.nl
 https://support.doetinchem.nl
 https://support.helmond.nl
+https://support.nieuwegein.nl
 https://surveys3.ggd.amsterdam.nl
 https://svs-acc.almere.nl
 https://t1.data.amsterdam.nl
@@ -4287,6 +4305,8 @@ https://transfer.medemblik.nl
 https://transform.deventer.nl
 https://trefnet.hellevoetsluis.nl
 https://trefpunt.deurne.nl
+https://tripleforms.nieuwegein.nl
+https://tripleformst.nieuwegein.nl
 https://trobit.gooisemeren.nl
 https://trobit.gorinchem.nl
 https://tst-eformulier.heerlen.nl
@@ -4475,6 +4495,7 @@ https://webmail.lopik.nl
 https://webmail.maassluis.nl
 https://webmail.meierijstad.nl
 https://webmail.nederbetuwe.nl
+https://webmail.nieuwegein.nl
 https://webmeeting.brunssum.nl
 https://webservice-decosdvl.acc.amsterdam.nl
 https://webservice-decosdvl.amsterdam.nl
@@ -4903,6 +4924,7 @@ https://www.montferland.info
 https://www.montfoort.nl
 https://www.nederbetuwe.nl
 https://www.nieuwauthentiekbloemendaal.doemee.bloemendaal.nl
+https://www.nieuwegein.nl
 https://www.nieuwsbrief.enschede.nl
 https://www.oco.eindhoven.nl
 https://www.oefenenmetstemmen.denhaag.nl
