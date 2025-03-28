@@ -625,6 +625,7 @@ afspraakmaken.dronten.nl
 afspraakmaken.enschede.nl
 afspraakmaken.gemert-bakel.nl
 afspraakmaken.losser.nl
+afspraakmaken.ooststellingwerf.nl
 afspraakmakenenschede.losser.nl
 afspraakmakenenschedetest.losser.nl
 afspraakmakentest.enschede.nl
@@ -1199,6 +1200,7 @@ autodiscover.oegstgeest.nl
 autodiscover.oldebroek.nl
 autodiscover.ombudsman.groningen.nl
 autodiscover.oostgelre.nl
+autodiscover.ooststellingwerf.nl
 autodiscover.opsb.groningen.nl
 autodiscover.os.groningen.nl
 autodiscover.ovh.gemeentebeek.nl
@@ -1382,6 +1384,7 @@ begroting.groningen.nl
 begroting.hengelo.nl
 begroting.middelburg.nl
 begroting.montferland.info
+begroting.ooststellingwerf.nl
 begroting2016.kerkrade.nl
 begroting2017.groningen.nl
 begroting2018.groningen.nl
@@ -2268,6 +2271,7 @@ digid-subsidies-login.acceptatie.ede.nl
 digid-subsidies-login.ede.nl
 digid.arnhem.nl
 digid.harlingen.nl
+digid.ooststellingwerf.nl
 digiform-fa.amsterdam.nl
 digiform.acc.amsterdam.nl
 digiform.amsterdam.nl
@@ -3176,6 +3180,7 @@ felix.nijkerk.eu
 felix.nissewaard.nl
 felix.nuenen.nl
 felix.oirschot.nl
+felix.ooststellingwerf.nl
 felixburgerzaken.nissewaard.nl
 felixpdc.doesburg.nl
 festival.landvancuijk.nl
@@ -3226,6 +3231,7 @@ financien.gouda.nl
 financien.groningen.nl
 financien.hengelo.nl
 financien.middelburg.nl
+financien.ooststellingwerf.nl
 firewall.lopik.nl
 firewall.servers1.bergen-nh.nl
 fise02.oudzuid.amsterdam.nl
@@ -3976,6 +3982,7 @@ iarchief.borne.nl
 iarchief.gooisemeren.nl
 iarchief.hilversum.nl
 iarchief.lochem.nl
+iarchief.ooststellingwerf.nl
 ib.kampen.nl
 iba.amsterdam.nl
 ibabs-acc.gemeente-oldambt.nl
@@ -4108,6 +4115,7 @@ iburgerzaken.olst-wijhe.nl
 iburgerzaken.ommen.nl
 iburgerzaken.oosterhout.nl
 iburgerzaken.oostgelre.nl
+iburgerzaken.ooststellingwerf.nl
 iburgerzaken.s-hertogenbosch.nl
 ibzpink.aaenhunze.nl
 ibzpink.achtkarspelen.nl
@@ -4217,6 +4225,7 @@ ibzpink.olst-wijhe.nl
 ibzpink.ommen.nl
 ibzpink.oosterhout.nl
 ibzpink.oostgelre.nl
+ibzpink.ooststellingwerf.nl
 ice.nijmegen.nl
 icm-ast.asten.nl
 id-beheer-erfpacht-acc.amsterdam.nl
@@ -4463,6 +4472,7 @@ intranet.oldenzaal.nl
 intranet.ommen.nl
 intranet.oosterhout.nl
 intranet.oostgelre.nl
+intranet.ooststellingwerf.nl
 intranet.raadsinformatie.amsterdam.nl
 intranetacc.apeldoorn.nl
 intranetacceptatie.kampen.nl
@@ -4481,6 +4491,7 @@ intunecollector.amsterdam.nl
 intunevpn.meppel.nl
 invmid.borne.nl
 iobjecten-acc.kaagenbraassem.nl
+iobjects.ooststellingwerf.nl
 iovi.amsterdam.nl
 ip1060.kerkrade.nl
 iparticipatie.accp.s-hertogenbosch.nl
@@ -4505,6 +4516,7 @@ iparticipatie.lingewaard.nl
 iparticipatie.lochem.nl
 iparticipatie.oldebroek.nl
 iparticipatie.olst-wijhe.nl
+iparticipatie.ooststellingwerf.nl
 iparticipatie.s-hertogenbosch.nl
 ipp.haarlem.nl
 iris-acc.lingewaard.nl
@@ -4526,6 +4538,7 @@ izaaksuite.bergenopzoom.nl
 izaaksuite.bronckhorst.nl
 izaaksuite.drimmelen.nl
 izaaksuite.oirschot.nl
+izaaksuite.ooststellingwerf.nl
 izrm.huizen.nl
 jaarrekening.arnhem.nl
 jaarrekening2021.financieelportaal.etten-leur.nl
@@ -4646,6 +4659,7 @@ kaarten.gooisemeren.nl
 kaarten.haarlemmermeer.nl
 kaarten.helmond.nl
 kaarten.molenlanden.nl
+kaarten.ooststellingwerf.nl
 kaartviewer.barneveld.nl
 kaartviewer.gemeentehulst.nl
 kaartviewer.hoorn.nl
@@ -5353,6 +5367,7 @@ mijn-acceptatie.enschede.nl
 mijn-gemeenteloket.gemeentemaastricht.nl
 mijn-o.ot.denhaag.nl
 mijn-preproductie.heerenveen.nl
+mijn-preproductie.ooststellingwerf.nl
 mijn-services.accp.nijmegen.nl
 mijn-services.nijmegen.nl
 mijn-t.ot.denhaag.nl
@@ -5419,6 +5434,7 @@ mijn.nunspeet.nl
 mijn.oldenzaal.nl
 mijn.ommen.nl
 mijn.oostgelre.nl
+mijn.ooststellingwerf.nl
 mijnaanvraagzi.beuningen.nl
 mijnacc.montfoort.nl
 mijnacpt.haarlem.nl
@@ -5765,6 +5781,7 @@ nlgemctc.castricum.nl
 nllwd-spider.leeuwarden.nl
 nlmwlkeb.kaagenbraassem.nl
 nln.nunspeet.nl
+nlwmoosw.ooststellingwerf.nl
 nlx.amsterdam.nl
 nlx.buren.nl
 noardeast-fryslan.nl
@@ -6005,6 +6022,7 @@ oogst.groningen.nl
 oorlogenvrede.landvancuijk.nl
 oostbegroot.amsterdam.nl
 oostgelre.nl
+ooststellingwerf.nl
 oov.brievenbus.amsterdam.nl
 opa.amsterdam.nl
 open-formulieren-test.horstaandemaas.nl
@@ -6509,6 +6527,7 @@ portal.kaagenbraassem.nl
 portal.kampen.nl
 portal.noordoostpolder.nl
 portal.olst-wijhe.nl
+portal.ooststellingwerf.nl
 portal.pmb.amsterdam.nl
 portal1.denhaag.nl
 portaltest.haarlemmermeer.nl
@@ -6674,6 +6693,7 @@ preproductie.nederweert.nl
 preproductie.nieuwkoop.nl
 preproductie.nunspeet.nl
 preproductie.oirschot.nl
+preproductie.ooststellingwerf.nl
 prijsvraag-zwembad.apeldoorn.nl
 privacybewustzijn.bergendal.nl
 private-test.delft.nl
@@ -6723,6 +6743,7 @@ probeer.mookenmiddelaar.nl
 probeer.nederweert.nl
 probeer.nieuwkoop.nl
 probeer.nuenen.nl
+probeer.ooststellingwerf.nl
 prod.drechterland.nl
 prod.enkhuizen.nl
 prodsuitewiz.nissewaard.nl
@@ -7162,6 +7183,7 @@ secure.mookenmiddelaar.nl
 secure.nederweert.nl
 secure.nieuwkoop.nl
 secure.nunspeet.nl
+secure.ooststellingwerf.nl
 secure.ot.denhaag.nl
 secure1.gulpen-wittem.nl
 securegw.bunschoten.nl
@@ -7335,6 +7357,7 @@ simcms.nederweert.nl
 simcms.nieuwkoop.nl
 simcms.nuenen.nl
 simcms.oirschot.nl
+simcms.ooststellingwerf.nl
 simcms2.beekdaelen.nl
 simcmsintra.bergeijk.nl
 simform-preproductie.achtkarspelen.nl
@@ -7410,6 +7433,7 @@ simsite.nuenen.nl
 simsite.nunspeet.nl
 simsite.oegstgeest.nl
 simsite.oirschot.nl
+simsite.ooststellingwerf.nl
 singlegateway.haarlem.nl
 sint-agatha.landvancuijk.nl
 sint-hubert.landvancuijk.nl
@@ -7464,10 +7488,12 @@ smtp02.nunspeet.nl
 smtp1.denhaag.nl
 smtp1.hoorn.nl
 smtp1.nieuwegein.nl
+smtp10.ooststellingwerf.nl
 smtp1s.denhaag.nl
 smtp2.denhaag.nl
 smtp2.hoorn.nl
 smtp2.nieuwegein.nl
+smtp20.ooststellingwerf.nl
 smtp2s.denhaag.nl
 smtpe.denhaag.nl
 smtprelay.denhaag.nl
@@ -7576,6 +7602,7 @@ squit2020.gemeentebeek.nl
 squit2020.kerkrade.nl
 squit2020.leudal.nl
 squit2020.oldenzaal.nl
+squit2020.ooststellingwerf.nl
 squit2020.test.kerkrade.nl
 squit2020publiceren.eijsden-margraten.nl
 squit2020publiceren.gemeentebeek.nl
@@ -7668,6 +7695,7 @@ status-paginas-zgw.test.denhaag.nl
 status.landvancuijk.nl
 status.oostgelre.nl
 stemmen.amsterdam.nl
+stempasfonds.ooststellingwerf.nl
 stemvan.emmen.nl
 stemvan.groningen.nl
 stemvan.midden-groningen.nl
@@ -7704,6 +7732,9 @@ stswigo4it.amsterdam.nl
 studiezaal.nijmegen.nl
 stuf-hermes-integratie.amsterdam.nl
 stuf.meerssen.nl
+stwapp02.ooststellingwerf.nl
+stwidocosw02.ooststellingwerf.nl
+stwmksoost01.ooststellingwerf.nl
 su044v123.amsterdam.nl
 su044v125.amsterdam.nl
 subsidie-backend.maassluis.nl
@@ -7818,6 +7849,7 @@ tabsign.bergen-nh.nl
 talent.apeldoorn.nl
 talentcenter.almere.nl
 talentcenter2.almere.nl
+talentenbank.ooststellingwerf.nl
 tamtam.amsterdam.nl
 tasman375.groningen.nl
 taxa01.kerkrade.nl
@@ -7931,6 +7963,7 @@ test-ipa.lingewaard.nl
 test-ipa.lochem.nl
 test-ipa.oldebroek.nl
 test-ipa.olst-wijhe.nl
+test-ipa.ooststellingwerf.nl
 test-ipa.s-hertogenbosch.nl
 test-jip.hofvantwente.nl
 test-kaart.almere.nl
@@ -8509,6 +8542,7 @@ waarmerk.krimpenaandenijssel.nl
 waarmerk.landgraaf.nl
 waarmerk.nissewaard.nl
 waarmerk.oldenzaal.nl
+waarmerk.ooststellingwerf.nl
 waarstemjijvoor.kerkrade.nl
 wabo.oostgelre.nl
 wacfarm.acc.amsterdam.nl
@@ -8652,6 +8686,7 @@ webmail.olst-wijhe.nl
 webmail.oost-wgm.amsterdam.nl
 webmail.oost.amsterdam.nl
 webmail.oostgelre.nl
+webmail.ooststellingwerf.nl
 webmail.pmb.amsterdam.nl
 webmail.stadsarchief.amsterdam.nl
 webmail.test.hoorn.nl
@@ -8952,6 +8987,7 @@ www.admin.haarlemmermeer.nl
 www.afspraak.castricum.nl
 www.afspraak.gemeentehulst.nl
 www.afspraak.haarlemmermeer.nl
+www.afspraakmaken.ooststellingwerf.nl
 www.afspraken-abs.groningen.nl
 www.afspraken-tst.groningen.nl
 www.afspraken-tstabs.groningen.nl
@@ -9305,6 +9341,7 @@ www.houten.nl
 www.houtwijkbegroot.denhaag.nl
 www.huizen.nl
 www.hvd.groningen.nl
+www.iarchief.ooststellingwerf.nl
 www.ibabs-acc.gemeente-oldambt.nl
 www.ibabs.gemeente-oldambt.nl
 www.ibo.borger-odoorn.nl
@@ -9476,6 +9513,7 @@ www.oorlogenvrede.landvancuijk.nl
 www.oostbegroot.amsterdam.nl
 www.oosterhout.nl
 www.oostgelre.nl
+www.ooststellingwerf.nl
 www.open-notificaties.ot.denhaag.nl
 www.open-zaak.ot.denhaag.nl
 www.open.amsterdam.nl
@@ -9512,6 +9550,7 @@ www.portal.groningen.nl
 www.portal.haarlemmermeer.nl
 www.portal.kaagenbraassem.nl
 www.portal.olst-wijhe.nl
+www.portal.ooststellingwerf.nl
 www.portaltest.haarlemmermeer.nl
 www.positionering.denhaag.nl
 www.positioneringshuis.denhaag.nl
@@ -9594,9 +9633,12 @@ www.staging.olst-wijhe.nl
 www.stationsdistrict.nijmegen.nl
 www.statistiek.amsterdam.nl
 www.stemmen.amsterdam.nl
+www.stempasfonds.ooststellingwerf.nl
 www.stemvan.groningen.nl
 www.sts.haarlemmermeer.nl
+www.stwidocosw02.ooststellingwerf.nl
 www.suikerkwartier.groningen.nl
+www.talentenbank.ooststellingwerf.nl
 www.telewerken.hellevoetsluis.nl
 www.test.amersfoort.nl
 www.test.denhaag.nl
