@@ -138,6 +138,7 @@ http://autodiscover.oostgelre.nl
 http://autodiscover.ooststellingwerf.nl
 http://autodiscover.opmeer.nl
 http://autodiscover.opsterland.nl
+http://autodiscover.oss.nl
 http://autodiscover.partijvoordedieren.nijmegen.nl
 http://autodiscover.pvda.mookenmiddelaar.nl
 http://autodiscover.pvda.nijmegen.nl
@@ -164,6 +165,7 @@ http://channels-az1.lpc.logius.nl
 http://channels-az2.lpc.logius.nl
 http://clienteleitsm-acceptatie.logius.nl
 http://clienteleitsm.logius.nl
+http://cms-internoss-test.oss.nl
 http://cmsembrace.laarbeek.nl
 http://cmsinsite.houten.nl
 http://cmsintranet.etten-leur.nl
@@ -225,6 +227,7 @@ http://icters.werkenvoornederland.nl
 http://id-subsidies-login.acceptatie.ede.nl
 http://inkopers.werkenvoornederland.nl
 http://insite.houten.nl
+http://internoss-test.oss.nl
 http://intranet-acc.bergendal.nl
 http://intranet-acc.landvancuijk.nl
 http://intranet.leudal.nl
@@ -1034,6 +1037,8 @@ https://apps.nieuwkoop.nl
 https://arcgis.groningen.nl
 https://archeologie-acc.denhaag.nl
 https://archeologie.denhaag.nl
+https://archie.oss.nl
+https://archie.test.oss.nl
 https://archief.afs.amsterdam.nl
 https://archief.deventer.nl
 https://archief.hengelo.nl
@@ -1321,6 +1326,7 @@ https://bestuursrapportage.leiden.nl
 https://bestuursrapportage.middelburg.nl
 https://beta.belastingdienst.nl
 https://betaal.ede.nl
+https://betaallink.oss.nl
 https://betalen-cnf.belastingdienst.nl
 https://betalen.amsterdam.nl
 https://betalen.belastingdienst.nl
@@ -1528,6 +1534,8 @@ https://cloudstorage-koop.overheid.nl
 https://cms-binnenshuis.bergen.nl
 https://cms-extranet.hethogeland.nl
 https://cms-insite.nijmegen.nl
+https://cms-internoss.oss.nl
+https://cms-internoss.test.oss.nl
 https://cms-intranet.eemsdelta.nl
 https://cms-joost.beuningen.nl
 https://cms.bernheze.org
@@ -1703,6 +1711,7 @@ https://data.hilversum.nl
 https://data.landvancuijk.nl
 https://data.mookenmiddelaar.nl
 https://data.nijmegen.nl
+https://data.oss.nl
 https://data.overheid.nl
 https://dataacc.breda.nl
 https://datalab.alkmaar.nl
@@ -1926,6 +1935,7 @@ https://e.openstad.emmen.nl
 https://e.openstad.enschede.nl
 https://e.openstad.haarlemmermeer.nl
 https://e.openstad.nijmegen.nl
+https://e.oss.nl
 https://e.videobellen.toeslagen.nl
 https://e2s-test.molenlanden.nl
 https://e2s.molenlanden.nl
@@ -2027,6 +2037,7 @@ https://edienstenburgerzaken-test.nissewaard.nl
 https://edienstenburgerzaken-test.oegstgeest.nl
 https://edienstenburgerzaken-test.oldenzaal.nl
 https://edienstenburgerzaken-test.oostzaan.nl
+https://edienstenburgerzaken-test.oss.nl
 https://edienstenburgerzaken.aalsmeer.nl
 https://edienstenburgerzaken.aalten.nl
 https://edienstenburgerzaken.acc.denhaag.nl
@@ -2101,6 +2112,7 @@ https://edienstenburgerzaken.nissewaard.nl
 https://edienstenburgerzaken.oegstgeest.nl
 https://edienstenburgerzaken.oldenzaal.nl
 https://edienstenburgerzaken.oostzaan.nl
+https://edienstenburgerzaken.oss.nl
 https://edienstenburgerzaken.test.aalsmeer.nl
 https://edienstenburgerzaken.test.amstelveen.nl
 https://edienstenmijninkomen-acceptatie.albrandswaard.nl
@@ -2229,6 +2241,7 @@ https://enterpriseenrollment.moerdijk.nl
 https://enterpriseenrollment.nederweert.nl
 https://enterpriseenrollment.noardeast-fryslan.nl
 https://enterpriseenrollment.opsterland.nl
+https://enterpriseenrollment.oss.nl
 https://enterpriseone-arc.almere.nl
 https://enterpriseone-dv.almere.nl
 https://enterpriseone-py.almere.nl
@@ -2383,6 +2396,7 @@ https://financien.groningen.nl
 https://financien.hengelo.nl
 https://financien.middelburg.nl
 https://financien.ooststellingwerf.nl
+https://financien.oss.nl
 https://flevoparkbad.amsterdam.nl
 https://floriade.almere.nl
 https://flowise.montferland.info
@@ -2476,6 +2490,8 @@ https://formulieren.noordoostpolder.nl
 https://formulieren.nunspeet.nl
 https://formulieren.olst-wijhe.nl
 https://formulieren.oostzaan.nl
+https://formulieren.oss.nl
+https://formulieren.test.oss.nl
 https://formulierenmd.groningen.nl
 https://formulierenpb.groningen.nl
 https://formulierna.denhaag.nl
@@ -2596,6 +2612,8 @@ https://geoportaal.enschede.nl
 https://geoportaal.gorinchem.nl
 https://geoportaal.haarlemmermeer.nl
 https://geoportaal.katwijk.nl
+https://geoportaal.oss.nl
+https://geoportaal.test.oss.nl
 https://geoportaaltest.enschede.nl
 https://geoproxy.s-hertogenbosch.nl
 https://geoserver-signalen.almere.nl
@@ -2609,6 +2627,8 @@ https://geotest.goirle.nl
 https://geovisia.harlingen.nl
 https://geovisiaonline.gemert-bakel.nl
 https://geoweb.haarlemmermeer.nl
+https://geoweb.oss.nl
+https://geoweb.test.oss.nl
 https://geuzenstatenkwartierfietst.denhaag.nl
 https://gezinscoach.deventer.nl
 https://gezondheid.landvancuijk.nl
@@ -3028,6 +3048,9 @@ https://intern.formulieren.amsterdam.nl
 https://internetafspraken.hattem.nl
 https://internetafspraken.heerde.nl
 https://internetafspraken.oldebroek.nl
+https://internetafspraken.oss.nl
+https://internoss.oss.nl
+https://internoss.test.oss.nl
 https://internwifi.hellevoetsluis.nl
 https://intpatch.omgevingswet.overheid.nl
 https://intra.deventer.nl
@@ -3376,6 +3399,7 @@ https://loket.leidschendam-voorburg.nl
 https://loket.leusden.nl
 https://loket.noardeast-fryslan.nl
 https://loket.oldebroek.nl
+https://loket.oss.nl
 https://loket.test.aalsmeer.nl
 https://loket.test.amstelveen.nl
 https://loonopzand.nl
@@ -3431,6 +3455,7 @@ https://mailing.kapelle.nl
 https://mailing.logius.nl
 https://mailing.nieuwegein.nl
 https://mailing.noord-beveland.nl
+https://mailing.oss.nl
 https://mailsig.lansingerland.nl
 https://makelaar.brielle.nl
 https://makelpunt.nijmegen.nl
@@ -3620,7 +3645,9 @@ https://mijn.noordwijk.nl
 https://mijn.oldenzaal.nl
 https://mijn.ommen.nl
 https://mijn.oostgelre.nl
+https://mijn.oss.nl
 https://mijn.overheid.nl
+https://mijn.test.oss.nl
 https://mijn.toeslagen.nl
 https://mijnaanvraag.belastingdienst.nl
 https://mijnaanvraagzi.beuningen.nl
@@ -3648,6 +3675,7 @@ https://mijninkomen.dronten.nl
 https://mijninkomen.gemeentehw.nl
 https://mijninkomen.goeree-overflakkee.nl
 https://mijninkomen.gouda.nl
+https://mijninkomen.oss.nl
 https://mijnintranet.haaksbergen.nl
 https://mijnintranet.heerlen.nl
 https://mijnjgz.ggd.groningen.nl
@@ -3774,6 +3802,7 @@ https://mul-redirect.belastingdienst.nl
 https://mul.belastingdienst.nl
 https://mwr-app-cdn-ota.belastingdienst.nl
 https://mwr-app-cdn.belastingdienst.nl
+https://mx.oss.nl
 https://mx01.haarlem.nl
 https://mycorsanxt.brielle.nl
 https://mycorsanxt.derondevenen.nl
@@ -3870,6 +3899,7 @@ https://obsurv.asten.nl
 https://obsurv.heerde.nl
 https://obsurv.loonopzand.nl
 https://obsurv.middendrenthe.nl
+https://obsurv.oss.nl
 https://oco.eindhoven.nl
 https://octopus-acc-doc.denhaag.nl
 https://octopus-acc.denhaag.nl
@@ -4665,6 +4695,7 @@ https://samenwerkenaan.heerde.nl
 https://samenwerkingbelastingen-test.middelburg.nl
 https://samenwerkingbelastingen.middelburg.nl
 https://samenwij.groningen.nl
+https://samenwijzer.oss.nl
 https://sammy-acc.derondevenen.nl
 https://sammy.derondevenen.nl
 https://sammycms-acc.derondevenen.nl
@@ -5172,6 +5203,7 @@ https://test.helmond.nl
 https://test.hoorn.nl
 https://test.io.amsterdam.nl
 https://test.lab.tod.leiden.nl
+https://test.loket.oss.nl
 https://test.mijnzorg.beekdaelen.nl
 https://test.moerdijk.nl
 https://test.open-formulieren.noordoostpolder.nl
@@ -5322,6 +5354,8 @@ https://udp-rspackage-acc.denhaag.nl
 https://udp-rspackage.denhaag.nl
 https://udp-rstudio-acc.denhaag.nl
 https://udp-rstudio.denhaag.nl
+https://uem.oss.nl
+https://uem.test.oss.nl
 https://uitelkaarmetkinderen.eindhoven.nl
 https://uitslagen.denhaag.nl
 https://uitvaart.maassluis.nl
@@ -6049,6 +6083,7 @@ https://www.operatiebomenbuurt.denhaag.nl
 https://www.opmeer.nl
 https://www.opsterland.nl
 https://www.oracbloemenbuurt.denhaag.nl
+https://www.oss.nl
 https://www.overheid.nl
 https://www.perf.omgevingswet.overheid.nl
 https://www.platform.culemborg.nl
