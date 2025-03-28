@@ -115,6 +115,7 @@ http://autodiscover.mookenmiddelaar.nl
 http://autodiscover.natuurlijkgroen.mookenmiddelaar.nl
 http://autodiscover.nederbetuwe.nl
 http://autodiscover.nieuwegein.nl
+http://autodiscover.nieuwkoop.nl
 http://autodiscover.pvda.mookenmiddelaar.nl
 http://autodiscover.s-hertogenbosch.nl
 http://autodiscover.vvd.mookenmiddelaar.nl
@@ -919,6 +920,7 @@ https://apps.dijkenwaard.nl
 https://apps.gouda.nl
 https://apps.haarlemmermeer.nl
 https://apps.heemskerk.nl
+https://apps.nieuwkoop.nl
 https://arcgis.groningen.nl
 https://archeologie-acc.denhaag.nl
 https://archeologie.denhaag.nl
@@ -1019,6 +1021,7 @@ https://bastion365.dijkenwaard.nl
 https://bastion365.heusden.nl
 https://bastion365.hollandskroon.nl
 https://bastion365.nederweert.nl
+https://bastion365.nieuwkoop.nl
 https://bec.acc.topdesk.denhaag.nl
 https://bec.ot.topdesk.denhaag.nl
 https://bec.topdesk.denhaag.nl
@@ -1582,6 +1585,7 @@ https://denkmee.bodegraven-reeuwijk.nl
 https://denkmee.hollandskroon.nl
 https://denkmee.kaagenbraassem.nl
 https://denkmee.maassluis.nl
+https://denkmee.nieuwkoop.nl
 https://derondevenen.nl
 https://deschop.acceptatie.asten.nl
 https://deschop.asten.nl
@@ -2657,6 +2661,7 @@ https://iburgerzaken.montferland.info
 https://iburgerzaken.mookenmiddelaar.nl
 https://iburgerzaken.nederbetuwe.nl
 https://iburgerzaken.nieuwegein.nl
+https://iburgerzaken.nieuwkoop.nl
 https://iburgerzaken.s-hertogenbosch.nl
 https://id-beheer-erfpacht-acc.amsterdam.nl
 https://id-beheer-erfpacht-dev.amsterdam.nl
@@ -3329,6 +3334,7 @@ https://mijnjgz.ggd.groningen.nl
 https://mijnkaart.deurne.nl
 https://mijnkrimpenwijzer.krimpenaandenijssel.nl
 https://mijnloket.deventer.nl
+https://mijnloket.nieuwkoop.nl
 https://mijnoverzicht.alphenaandenrijn.nl
 https://mijnoverzicht.boxtel.nl
 https://mijnplan.gemeenteberkelland.nl
@@ -3447,6 +3453,7 @@ https://mwr-app-cdn.belastingdienst.nl
 https://mx01.haarlem.nl
 https://mycorsanxt.brielle.nl
 https://mycorsanxt.derondevenen.nl
+https://mylex.nieuwkoop.nl
 https://mzdtest.bunnik.nl
 https://naheffingsaanslag.amsterdam.nl
 https://najaarsbrief.middelburg.nl
@@ -4085,6 +4092,7 @@ https://pv.kaagenbraassem.nl
 https://pv.kampen.nl
 https://pv.krimpenaandenijssel.nl
 https://pv.meppel.nl
+https://pv.nieuwkoop.nl
 https://pveopenbareruimte.deventer.nl
 https://pwa.barendrecht.nl
 https://qcalendar.deventer.nl
@@ -4352,6 +4360,7 @@ https://simcms.lingewaard.nl
 https://simcms.lopik.nl
 https://simcms.middelburg.nl
 https://simcms.middendelfland.nl
+https://simcms.nieuwkoop.nl
 https://simform-preproductie.achtkarspelen.nl
 https://simform-preproductie.gemeentehw.nl
 https://simform.houten.nl
@@ -4743,6 +4752,7 @@ https://testloket.heerde.nl
 https://testloket.katwijk.nl
 https://testloket.leusden.nl
 https://testloket.middelburg.nl
+https://testloket.nieuwkoop.nl
 https://testmeldingen.asten.nl
 https://testmijnzaken.derondevenen.nl
 https://testportaal.almelo.nl
@@ -4855,6 +4865,7 @@ https://uwmening.denhaag.nl
 https://v2.openstad.haarlemmermeer.nl
 https://vaarkaart.bba.amsterdam.nl
 https://vaarvergunningen.amsterdam.nl
+https://vaarvergunningen.nieuwkoop.nl
 https://vacatures.heerlen.nl
 https://vacatures.landvancuijk.nl
 https://vakantie.landvancuijk.nl
@@ -5479,6 +5490,7 @@ https://www.montfoort.nl
 https://www.nederbetuwe.nl
 https://www.nieuwauthentiekbloemendaal.doemee.bloemendaal.nl
 https://www.nieuwegein.nl
+https://www.nieuwkoop.nl
 https://www.nieuwsbrief.enschede.nl
 https://www.nieuwsbrievenminocw.nl
 https://www.oco.eindhoven.nl
@@ -5563,6 +5575,7 @@ https://www.udp-rstudio-acc.denhaag.nl
 https://www.udp-rstudio.denhaag.nl
 https://www.uwdorpofwijk.alphenaandenrijn.nl
 https://www.v2.openstad.haarlemmermeer.nl
+https://www.vaarvergunningen.nieuwkoop.nl
 https://www.veenkolonien.groningen.nl
 https://www.vga.amsterdam.nl
 https://www.victor.amsterdam.nl

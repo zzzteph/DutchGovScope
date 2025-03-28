@@ -8,8 +8,8 @@ edienstenburgerzaken-test
 intranet
 webmail
 afspraken
-mijn
 simsite
+mijn
 mail
 digikoppeling
 secure
@@ -36,11 +36,11 @@ portal
 afspraak
 parkeren
 werkenbij
+pv
 zaaksysteem-accept
 gemeenteraad
 broker
 iparticipatie
-pv
 testeloket
 betalen
 data
@@ -72,6 +72,7 @@ govroam
 zaken
 digikoppeling-test
 cmsoo
+mks
 loket.acceptatie
 osbacc
 duurzaam
@@ -79,7 +80,6 @@ berichten
 extranet
 beeldbank
 digikoppeling.test
-mks
 acc-broker
 cloudadapter
 dtestloket
@@ -99,6 +99,7 @@ mailing
 verkiezingen
 preprod-mijninkomen
 snelbalie
+apps
 gemeente
 nieuwsbrief
 klantcontact
@@ -107,10 +108,11 @@ test-intranet
 kaarten
 www.webmail
 filecap
+denkmee
 subsidies
 siam
-apps
 parkeren-acc
+bastion365
 bgt
 obsurv
 connect
@@ -119,13 +121,14 @@ gasten
 dtestmidoffice
 jaarstukken
 begroting
+testloket
 _dmarc
 opendata
+m
 kennisbank
 belastingportaal
 preprodbroker
 vergunningintaker
-denkmee
 simform
 web
 preprod
@@ -137,7 +140,6 @@ telewerken
 gis
 acc-formulier
 acc-podiumd-logs
-bastion365
 owa
 sip
 test-cmsintranet
@@ -146,10 +148,8 @@ doemee
 squit2go
 mdm
 AutoDiscover
-testloket
 magazines
 servicedesk
-m
 evenementen
 website
 mobiel
@@ -183,6 +183,7 @@ guest
 publicroam
 mijnsociaalplein
 preprod-mijnsociaalplein
+liquit
 ro
 micollab
 uc
@@ -241,7 +242,6 @@ data-test
 intranet-acc
 jccapi
 uca
-liquit
 xential
 key2gbav
 test-secure
@@ -561,6 +561,7 @@ parkeervergunningen-acc
 parkeervergunningen.acc
 sportverhuur
 subsites
+vaarvergunningen
 vergunning
 wachtwoordvergeten
 www.ggd
@@ -607,6 +608,7 @@ aovpn
 esb
 identity
 zorgmail
+liquitsatellite
 radius
 preprod.vergunningintaker
 acc-openwave
@@ -672,6 +674,7 @@ sbc
 allegroweb
 binnenstad
 forms
+mijnloket
 wij
 www.openstad
 zorgaanbieders
@@ -3089,7 +3092,6 @@ uniwin
 upk.afs.acc
 upk.afs
 vaarkaart.bba
-vaarvergunningen
 vergaderen-adp
 vergaderen.acc
 vergaderen
@@ -3529,7 +3531,6 @@ xencort
 api-jcc
 gb-app05
 leverancier
-liquitsatellite
 mijnplan
 preprod-mijnplan
 taxatieverslagen
@@ -4277,7 +4278,6 @@ kadbrkwkpd
 kei
 kennisportaal2
 mailings
-mijnloket
 mijnwoonomgeving
 mta-sts.pop
 nieuweburgemeester
@@ -6056,3 +6056,7 @@ services-t
 sportlocaties
 tripleformst
 wlan
+mksggk
+mylex
+nwk-djm02
+www.vaarvergunningen
