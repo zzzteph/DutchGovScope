@@ -2,3 +2,4 @@ SQLAlchemy
 ipaddress
 tldextract
 pandas
+odfpy
