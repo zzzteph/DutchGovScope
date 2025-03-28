@@ -95,6 +95,7 @@ mijnzorg
 verkiezingen
 mijninkomen
 parkeren-test
+subsidies
 snelbalie
 financien
 gemeente
@@ -109,7 +110,6 @@ smtp
 e
 vergunningintaker
 denkmee
-subsidies
 preprod-mijninkomen
 preprod
 apps
@@ -126,6 +126,7 @@ acc-openzaak
 connect
 test-intranet
 kaarten
+doemee
 jaarstukken
 testloket
 opendata
@@ -144,7 +145,6 @@ podiumd-logs
 obsurv
 gasten
 inloggen
-doemee
 squit2go
 AutoDiscover
 begroting
@@ -155,6 +155,7 @@ website
 simform
 web
 wachtwoord
+subsidies-backend
 dali
 jcc
 ftp
@@ -176,6 +177,7 @@ test-cmsintranet
 ro
 uc
 mdm
+bor
 magazines
 servicedesk
 services
@@ -183,7 +185,6 @@ mobiel
 omgevingswet
 mijnzorg-acc
 veiligdelen
-subsidies-backend
 thuiswerken
 api.betalen
 auth
@@ -207,7 +208,6 @@ liquit
 micollab
 mobile
 xential
-bor
 outlook
 cryptshare
 vth
@@ -263,6 +263,7 @@ uca
 key2gbav
 test-secure
 _autodiscover._tcp
+subsidies-login
 archief
 openstad
 www.intranet
@@ -319,7 +320,6 @@ programmabegroting
 dkdtest
 medewerkers
 woz-loket
-subsidies-login
 filr
 mijnzaken
 sport
@@ -478,6 +478,7 @@ autodiscover.groenlinks
 autodiscover.pvda
 autodiscover.vvd
 testdigikoppeling
+acceptatie-intranet
 sera
 testbelastingloket
 vacatures
@@ -788,11 +789,12 @@ testzaken
 www.djuma
 www.vpn
 ons
-acceptatie-intranet
 preprod-burgerportaal
 zwemles
 webkassa
 bezoekersparkeren
+subsidies-backend-test
+subsidies-test
 bzg1-acc
 digitaal
 key2datadistributie
@@ -5214,9 +5216,7 @@ preprod-edienstensociaaldomein
 preprod-mijnsociaaldomein
 pubgov
 standplaatsen
-subsidies-backend-test
 subsidies-login-test
-subsidies-test
 193-203-220-7
 193-203-220-9
 acc-eformulier
@@ -6314,3 +6314,21 @@ tsapp05.local
 vrijwilligerswerk-oostgelre
 wabo
 www.mob
+admin.regiomonitor-acc
+apis.regiomonitor-acc
+bor.test
+cognos-oth
+idinloggen
+idinloggenpre
+import.regiomonitor-acc
+infoplein
+login.regiomonitor-acc
+ontology.regiomonitor-acc
+plugin.regiomonitor-acc
+regiomonitor-acc
+sportbedrijf
+sts.regiomonitor-acc
+subsidies-test-login
+webkassa.sportbedrijf
+webmail.koo
+www.webkassa.sportbedrijf
