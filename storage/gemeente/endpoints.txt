@@ -2,6 +2,7 @@ http://AutoDiscover.brielle.nl
 http://AutoDiscover.derondevenen.nl
 http://AutoDiscover.drechterland.nl
 http://AutoDiscover.enkhuizen.nl
+http://AutoDiscover.koggenland.nl
 http://Autodiscover.hilversum.nl
 http://aalten.nl
 http://afspraak.bergendal.nl
@@ -83,6 +84,7 @@ http://autodiscover.houten.nl
 http://autodiscover.ijsselstein.nl
 http://autodiscover.kampen.nl
 http://autodiscover.katwijk.nl
+http://autodiscover.koggenland.nl
 http://autodiscover.s-hertogenbosch.nl
 http://bastion365.katwijk.nl
 http://beekdaelen.nl
@@ -180,6 +182,7 @@ http://simcms.dalfsen.nl
 http://simcms.deurne.nl
 http://simcms.eersel.nl
 http://simcms.harlingen.nl
+http://simcms.koggenland.nl
 http://simform.beuningen.nl
 http://simform.gemeentehw.nl
 http://simform.heerenveen.nl
@@ -864,6 +867,7 @@ https://berichten.gorinchem.nl
 https://berichten.heeze-leende.nl
 https://berichten.helmond.nl
 https://berichten.huizen.nl
+https://berichten.koggenland.nl
 https://bermod-fa.amsterdam.nl
 https://bermod.amsterdam.nl
 https://bermod2.amsterdam.nl
@@ -1050,6 +1054,7 @@ https://college.alblasserdam.nl
 https://college.albrandswaard.nl
 https://college.dordrecht.nl
 https://college.hardinxveld-giessendam.nl
+https://college.koggenland.nl
 https://communicatie.hollandskroon.nl
 https://connect-preprod.almere.nl
 https://connect.goirle.nl
@@ -1996,6 +2001,7 @@ https://iburgerzaken.huizen.nl
 https://iburgerzaken.kampen.nl
 https://iburgerzaken.kapelle.nl
 https://iburgerzaken.kerkrade.nl
+https://iburgerzaken.koggenland.nl
 https://iburgerzaken.s-hertogenbosch.nl
 https://id-beheer-erfpacht-acc.amsterdam.nl
 https://id-beheer-erfpacht-dev.amsterdam.nl
@@ -2031,6 +2037,8 @@ https://ihc-extern.denhaag.nl
 https://ihp-acc.denhaag.nl
 https://ihp.denhaag.nl
 https://ijsselstein.nl
+https://ik-acc.koggenland.nl
+https://ik.koggenland.nl
 https://ikbouwin.denhaag.nl
 https://ikbouwmijnhuisin.almere.nl
 https://ikonderneemin.almere.nl
@@ -2226,6 +2234,7 @@ https://klantcontact.bergendal.nl
 https://klantcontact.beuningen.nl
 https://klantcontact.deurne.nl
 https://klantcontact.kerkrade.nl
+https://klantcontact.koggenland.nl
 https://klantgeleiding.gorinchem.nl
 https://klantportaal-zgw.acc.denhaag.nl
 https://klantportaal-zgw.test.denhaag.nl
@@ -2238,6 +2247,7 @@ https://klimaatplein.bergen-nh.nl
 https://klimaatplein.castricum.nl
 https://klimaatplein.heiloo.nl
 https://kluis.hethogeland.nl
+https://koggenland.nl
 https://koppelpoort.amersfoort.nl
 https://kredietbank.s-hertogenbosch.nl
 https://kredietbankwestbrabant.breda.nl
@@ -3067,6 +3077,7 @@ https://raad.goirle.nl
 https://raad.hardinxveld-giessendam.nl
 https://raad.hattem.nl
 https://raad.hellendoorn.nl
+https://raad.koggenland.nl
 https://raadplegen.denhaag.nl
 https://raster.horstaandemaas.nl
 https://rdweb.houten.nl
@@ -3221,6 +3232,7 @@ https://simsite.bladel.nl
 https://simsite.bunschoten.nl
 https://simsite.geertruidenberg.nl
 https://simsite.heeze-leende.nl
+https://simsite.koggenland.nl
 https://sip.diemen.nl
 https://sip.ggd.amsterdam.nl
 https://sip.hellevoetsluis.nl
@@ -3526,6 +3538,7 @@ https://transfer.eemsdelta.nl
 https://transfer.enkhuizen.nl
 https://transfer.gemeentehulst.nl
 https://transfer.katwijk.nl
+https://transfer.koggenland.nl
 https://transform.deventer.nl
 https://trefnet.hellevoetsluis.nl
 https://trefpunt.deurne.nl
@@ -3796,6 +3809,7 @@ https://woz-loket.harlingen.nl
 https://woz-loket.heeze-leende.nl
 https://woz-portaal.drimmelen.nl
 https://woz-portaal.huizen.nl
+https://woz-portaal.koggenland.nl
 https://wozloket-acc.borger-odoorn.nl
 https://wozloket-acc.coevorden.nl
 https://wozloket.borger-odoorn.nl
@@ -4014,6 +4028,7 @@ https://www.kaagenbraassem.nl
 https://www.kampen.nl
 https://www.kapelle.nl
 https://www.kerkrade.nl
+https://www.koggenland.nl
 https://www.laakhavensbepaalt.denhaag.nl
 https://www.leidschenveenaanzet.denhaag.nl
 https://www.mariahoeveaanzet.denhaag.nl

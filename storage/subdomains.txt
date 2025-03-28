@@ -14,13 +14,13 @@ mail
 digikoppeling
 secure
 simcms
-acceptatie
 preproductie
+acceptatie
 probeer
 loket
 test
-formulieren
 felix
+formulieren
 acc
 meldingen
 werkplek
@@ -31,10 +31,10 @@ dkd
 adfs
 open
 api.meldingen
+geo
 parkeren
 gemeenteraad
 afspraak
-geo
 betalen
 vpn
 data
@@ -48,8 +48,8 @@ openpdc
 zaaksysteem-accept
 testeloket
 broker
-test-ipa
 raad
+test-ipa
 openpub
 hybrid
 dacceptatieloket
@@ -67,6 +67,7 @@ kaart
 digikoppeling-test
 enterpriseenrollment
 login
+berichten
 cmsoo
 enterpriseregistration
 api.meldingen-acc
@@ -74,7 +75,6 @@ meldingen-acc
 mijnzorg
 mijninkomen
 belastingbalie
-berichten
 mks
 cloudadapter-test
 osbacc
@@ -101,6 +101,7 @@ kaarten
 pki
 dtestloket
 filecap
+transfer
 opendata
 smtp
 kennisbank
@@ -114,7 +115,6 @@ bgt
 sip
 belastingloket
 samen
-transfer
 magazines
 mobiel
 belastingportaal
@@ -124,6 +124,7 @@ denkmee
 simform
 qr
 bastion365
+klantcontact
 byod
 connect.acceptatie
 simcms-open
@@ -133,6 +134,7 @@ doemee
 uc
 www.webmail
 mdm
+AutoDiscover
 dtestmidoffice
 jaarstukken
 begroting
@@ -140,6 +142,7 @@ cryptshare
 api
 evenementen
 preprodbroker
+college
 gisib
 web
 www.werkenbij
@@ -165,7 +168,6 @@ owa
 sts
 test-digikoppeling
 obsurv
-klantcontact
 meedoen
 citrix
 contentbeheer.acceptatie
@@ -181,7 +183,6 @@ uca
 inloggen
 squit2go
 mobile
-AutoDiscover
 outlook
 vth
 testloket
@@ -201,7 +202,6 @@ fs
 loket.test
 documenten
 raadsnet
-college
 praatmee
 preprod-mijn
 izaaksuite
@@ -375,6 +375,7 @@ intra
 acceptatie-open
 jongin
 www.jongin
+woz-portaal
 afspraakmaken
 mx2
 zaaksysteem
@@ -620,7 +621,6 @@ durp
 klantportaal.acc
 prod
 mobility
-woz-portaal
 vergunningen
 www.zorgloket
 zorgloket
@@ -667,6 +667,7 @@ zwemles
 webkassa
 testbelastingloket
 bezoekersparkeren
+mijnsociaaldomein
 bzg1-acc
 digitaal
 preprod-meedoen
@@ -5152,7 +5153,6 @@ samenwerkenaan
 zorgvraag
 edienstensociaaldomein
 mijn-preproductie
-mijnsociaaldomein
 preprod-edienstensociaaldomein
 preprod-mijnsociaaldomein
 pubgov
@@ -5586,3 +5586,18 @@ tcorsa
 tkoppelcorsa
 tmakelaar
 waarstemjijvoor
+HTA
+cars
+goprod
+gotest
+hta
+ik-acc
+ik
+jboss
+lvolo-prod
+lvolo-test
+mijnsociaaldomein-acc
+mohis
+mohistest
+prefill
+validsign-prod
