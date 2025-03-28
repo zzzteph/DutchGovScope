@@ -27,9 +27,9 @@ acc
 waarmerk
 dkd
 eloket
+api.meldingen
 portal
 adfs
-api.meldingen
 open
 geo
 parkeren
@@ -39,10 +39,10 @@ betalen
 vpn
 data
 pv
+iparticipatie
 openpdc
 werkenbij
 broker
-iparticipatie
 ruimtelijkeplannen
 osb
 zaaksysteem-accept
@@ -60,15 +60,15 @@ kaart
 enterpriseenrollment
 formulier
 govroam
+api.meldingen-acc
+meldingen-acc
 remote
 belastingbalie
 login
 cmsoo
 cloudadapter-test
 enterpriseregistration
-api.meldingen-acc
 loket.acceptatie
-meldingen-acc
 zaken
 flowmailer-tracking
 belastingen
@@ -79,6 +79,7 @@ mijninkomen
 piwik
 duurzaam
 beeldbank
+digikoppeling.test
 mks
 woningbouwkaart
 cloudadapter
@@ -91,7 +92,6 @@ osbacc
 preprod-mijninkomen
 snelbalie
 extranet
-digikoppeling.test
 gemeente
 acc-broker
 mailing
@@ -238,6 +238,7 @@ maps
 melddesk
 sociaaldomein
 api.openstad
+dali
 onderzoek
 jcc
 ftp
@@ -306,7 +307,6 @@ subsidies-backend.acceptatie
 subsidies.acceptatie
 veiligmailen
 stadsarchief
-dali
 dkd-test
 exchange
 digitaalnachtregister
@@ -731,6 +731,8 @@ pkoppelcorsa
 tcorsa
 tkoppelcorsa
 tickets
+werkeninkomen-test
+werkeninkomen
 a-cms
 a-cms1
 a-cms2
@@ -5804,5 +5806,5 @@ test.lab.tod
 test.subsites
 tzp
 uwvergunning
-werkeninkomen-test
-werkeninkomen
+gemeentewinkel
+www.gemeentewinkel

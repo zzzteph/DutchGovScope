@@ -89,6 +89,7 @@ http://autodiscover.koggenland.nl
 http://autodiscover.landsmeer.nl
 http://autodiscover.lansingerland.nl
 http://autodiscover.leiden.nl
+http://autodiscover.leiderdorp.nl
 http://autodiscover.s-hertogenbosch.nl
 http://bastion365.katwijk.nl
 http://beekdaelen.nl
@@ -482,6 +483,7 @@ https://acceptatie.hilvarenbeek.nl
 https://acceptatie.hilvernet.hilvarenbeek.nl
 https://acceptatie.hoogeveen.nl
 https://acceptatie.intranet.debilt.nl
+https://acceptatie.leiderdorp.nl
 https://acceptatie.oranjeplein.goirle.nl
 https://acceptatie.subsidies-backend.ede.nl
 https://acceptatie.subsidies.ede.nl
@@ -683,6 +685,7 @@ https://api.meldingen-acc.hellendoorn.nl
 https://api.meldingen-acc.helmond.nl
 https://api.meldingen-acc.hilversum.nl
 https://api.meldingen-acc.leiden.nl
+https://api.meldingen-acc.leiderdorp.nl
 https://api.meldingen.aaenhunze.nl
 https://api.meldingen.acceptatie.eindhoven.nl
 https://api.meldingen.accp.s-hertogenbosch.nl
@@ -704,6 +707,7 @@ https://api.meldingen.hilversum.nl
 https://api.meldingen.kampen.nl
 https://api.meldingen.leeuwarden.nl
 https://api.meldingen.leiden.nl
+https://api.meldingen.leiderdorp.nl
 https://api.meldingen.s-hertogenbosch.nl
 https://api.openstad.alphenaandenrijn.nl
 https://api.openstad.deventer.nl
@@ -1188,6 +1192,7 @@ https://dalfsen.nl
 https://dali.alphenaandenrijn.nl
 https://dali.brielle.nl
 https://dali.hillegom.nl
+https://dali.leiderdorp.nl
 https://dantumadiel.frl
 https://dap.amsterdam.nl
 https://dashboard-iav-api.goeree-overflakkee.nl
@@ -1469,6 +1474,7 @@ https://edienstenburgerzaken-test.landvancuijk.nl
 https://edienstenburgerzaken-test.lansingerland.nl
 https://edienstenburgerzaken-test.leeuwarden.nl
 https://edienstenburgerzaken-test.leiden.nl
+https://edienstenburgerzaken-test.leiderdorp.nl
 https://edienstenburgerzaken.aalsmeer.nl
 https://edienstenburgerzaken.aalten.nl
 https://edienstenburgerzaken.acc.denhaag.nl
@@ -1528,6 +1534,7 @@ https://edienstenburgerzaken.landvancuijk.nl
 https://edienstenburgerzaken.lansingerland.nl
 https://edienstenburgerzaken.leeuwarden.nl
 https://edienstenburgerzaken.leiden.nl
+https://edienstenburgerzaken.leiderdorp.nl
 https://edienstenburgerzaken.test.aalsmeer.nl
 https://edienstenburgerzaken.test.amstelveen.nl
 https://edienstenmijninkomen-acceptatie.albrandswaard.nl
@@ -2432,6 +2439,7 @@ https://leerplein.arnhem.nl
 https://leerpleinburgerzaken.amsterdam.nl
 https://leeuwarden.nl
 https://leiden.nl
+https://leiderdorp.nl
 https://leidschenveenaanzet.denhaag.nl
 https://lerenbij.groningen.nl
 https://lerenloont.almere.nl
@@ -2561,6 +2569,7 @@ https://meldingen-acc.hellendoorn.nl
 https://meldingen-acc.helmond.nl
 https://meldingen-acc.hilversum.nl
 https://meldingen-acc.leiden.nl
+https://meldingen-acc.leiderdorp.nl
 https://meldingen.aaenhunze.nl
 https://meldingen.acc.almelo.nl
 https://meldingen.acc.denhaag.nl
@@ -2588,6 +2597,7 @@ https://meldingen.hilversum.nl
 https://meldingen.kampen.nl
 https://meldingen.leeuwarden.nl
 https://meldingen.leiden.nl
+https://meldingen.leiderdorp.nl
 https://meldingen.s-hertogenbosch.nl
 https://meldingenamsterdamsebos.amsterdam.nl
 https://meldingenkust.acc.denhaag.nl
@@ -4000,7 +4010,9 @@ https://werkenbij.hollandskroon.nl
 https://werkenbij.hoorn.nl
 https://werkenbij.leeuwarden.nl
 https://werkeninkomen-test.leiden.nl
+https://werkeninkomen-test.leiderdorp.nl
 https://werkeninkomen.leiden.nl
+https://werkeninkomen.leiderdorp.nl
 https://werkenvoor-acc.denhaag.nl
 https://werkenvoor.acceptatie.amstelveen.nl
 https://werkenvoor.amstelveen.nl
@@ -4256,6 +4268,7 @@ https://www.gemeentehw.nl
 https://www.gemeenteraad.bloemendaal.nl
 https://www.gemeenteraad.etten-leur.nl
 https://www.gemeenteraad.groningen.nl
+https://www.gemeentewinkel.leiderdorp.nl
 https://www.gemert-bakel.nl
 https://www.gennep.nl
 https://www.geo.arnhem.nl
@@ -4333,6 +4346,7 @@ https://www.lansingerland.nl
 https://www.laren.nl
 https://www.leeuwarden.nl
 https://www.leiden.nl
+https://www.leiderdorp.nl
 https://www.leidschenveenaanzet.denhaag.nl
 https://www.mariahoeveaanzet.denhaag.nl
 https://www.matenpark.apeldoorn.nl
