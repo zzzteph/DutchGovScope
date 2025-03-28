@@ -36,6 +36,7 @@ http://autodiscover.borne.nl
 http://autodiscover.brielle.nl
 http://autodiscover.brummen.nl
 http://autodiscover.cbk.groningen.nl
+http://autodiscover.cda.mookenmiddelaar.nl
 http://autodiscover.coevorden.nl
 http://autodiscover.cranendonck.nl
 http://autodiscover.dalfsen.nl
@@ -64,6 +65,7 @@ http://autodiscover.gemert-bakel.nl
 http://autodiscover.gooisemeren.nl
 http://autodiscover.gorinchem.nl
 http://autodiscover.gouda.nl
+http://autodiscover.groenlinks.mookenmiddelaar.nl
 http://autodiscover.haaksbergen.nl
 http://autodiscover.haarlemmermeer.nl
 http://autodiscover.hardenberg.nl
@@ -103,7 +105,11 @@ http://autodiscover.middelburg.nl
 http://autodiscover.midden-groningen.nl
 http://autodiscover.moerdijk.nl
 http://autodiscover.montfoort.nl
+http://autodiscover.mookenmiddelaar.nl
+http://autodiscover.natuurlijkgroen.mookenmiddelaar.nl
+http://autodiscover.pvda.mookenmiddelaar.nl
 http://autodiscover.s-hertogenbosch.nl
+http://autodiscover.vvd.mookenmiddelaar.nl
 http://bastion365.katwijk.nl
 http://beekdaelen.nl
 http://beh-gemeenteloket.gemeentemaastricht.nl
@@ -184,6 +190,7 @@ http://mijnsbl-test.amsterdam.nl
 http://mijnzorg-acc.aalsmeer.nl
 http://mijnzorg.aalsmeer.nl
 http://mijnzorg.amstelveen.nl
+http://mookenmiddelaar.nl
 http://opendata.arnhem.nl
 http://ows-ahp-test.groningen.nl
 http://ows-app-test.groningen.nl
@@ -1342,6 +1349,7 @@ https://data-test.bergendal.nl
 https://data-test.beuningen.nl
 https://data-test.druten.nl
 https://data-test.heumen.nl
+https://data-test.mookenmiddelaar.nl
 https://data.aalsmeer.nl
 https://data.alkmaar.nl
 https://data.amstelveen.nl
@@ -1357,6 +1365,7 @@ https://data.haarlem.nl
 https://data.heumen.nl
 https://data.hilversum.nl
 https://data.landvancuijk.nl
+https://data.mookenmiddelaar.nl
 https://dataacc.breda.nl
 https://datalab.alkmaar.nl
 https://datamask.montferland.info
@@ -1904,6 +1913,7 @@ https://felix.landgraaf.nl
 https://felix.leudal.nl
 https://felix.loonopzand.nl
 https://felix.maassluis.nl
+https://felix.mookenmiddelaar.nl
 https://felixpdc.doesburg.nl
 https://festival.landvancuijk.nl
 https://festivals.landvancuijk.nl
@@ -2388,6 +2398,7 @@ https://iburgerzaken.middendrenthe.nl
 https://iburgerzaken.moerdijk.nl
 https://iburgerzaken.molenlanden.nl
 https://iburgerzaken.montferland.info
+https://iburgerzaken.mookenmiddelaar.nl
 https://iburgerzaken.s-hertogenbosch.nl
 https://id-beheer-erfpacht-acc.amsterdam.nl
 https://id-beheer-erfpacht-dev.amsterdam.nl
@@ -2728,8 +2739,10 @@ https://live.bergen-nh.nl
 https://live.landvancuijk.nl
 https://liveblog.ede.nl
 https://lochem.nl
+https://login-pre.mookenmiddelaar.nl
 https://login.alphenaandenrijn.nl
 https://login.groningen.nl
+https://login.mookenmiddelaar.nl
 https://login.subsidie.leiden.nl
 https://lois-acc.losser.nl
 https://lois.losser.nl
