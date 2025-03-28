@@ -19,15 +19,15 @@ preproductie
 probeer
 loket
 felix
-test
 werkplek
 formulieren
+test
 meldingen
 eloket
+waarmerk
 api.meldingen
 dkd
 acc
-waarmerk
 adfs
 open
 portal
@@ -80,6 +80,7 @@ mijnzorg
 mijninkomen
 piwik
 duurzaam
+extranet
 mks
 acc-broker
 woningbouwkaart
@@ -92,7 +93,6 @@ verkiezingen
 osbacc
 preprod-mijninkomen
 snelbalie
-extranet
 gemeente
 nieuwsbrief
 klantcontact
@@ -109,11 +109,14 @@ connect
 gasten
 samen
 kaarten
+www.webmail
 filecap
 transfer
 opendata
 kennisbank
 preprodbroker
+vergunningintaker
+simform
 preprod
 snelbaliepp
 jcc
@@ -122,7 +125,6 @@ sip
 simcms-open
 test-intranet
 doemee
-www.webmail
 dtestmidoffice
 jaarstukken
 magazines
@@ -132,9 +134,7 @@ website
 mobiel
 belastingportaal
 mijnzorg-acc
-vergunningintaker
 denkmee
-simform
 web
 subsidies-backend
 subsidies
@@ -224,6 +224,7 @@ feeds
 servicedesk
 english
 academie
+download
 rap
 services
 webservices
@@ -290,7 +291,6 @@ geoportaal
 en
 sbc01
 www.portal
-download
 filetransfer
 mta-sts
 ns2
@@ -421,6 +421,7 @@ flex
 gbionline
 de
 cloudadapter-prod
+www.werkplek
 lyncweb
 servicegateway
 sera
@@ -447,6 +448,7 @@ dns
 emm
 fibt1
 fibt2.acc
+mm
 otp
 services.acc
 toestemming
@@ -668,7 +670,12 @@ grondwater
 www.zorgloket
 zorgloket
 www.socialekaart
+attachments
+authenticatiedienst
+authenticatiedienst.preprod
+edge
 socialekaart
+vergunningintaker.preprod
 ondernemen
 redirect
 welkom
@@ -676,6 +683,7 @@ burgerportaal
 mijnsubsidie
 raadsinformatie
 cmsoo.gemeente
+duo
 mijnuitkering
 pip-test
 stemvan
@@ -703,7 +711,6 @@ handhavingtest
 open-formulieren
 ows-app
 rekentool
-www.werkplek
 validsign
 mijnintranet
 gemeentebestuur
@@ -1139,7 +1146,6 @@ mijnzakelijk.tst
 mijnzakelijk1.acc
 mijnzakelijk2.acc
 mm.acc
-mm
 mm.ont
 moodle.vcdn
 moodleont.vcdn
@@ -4364,16 +4370,11 @@ acceptatievergunningen
 duiven-checker-preprod
 duiven-checker
 mta-sts.raad
-attachments
-authenticatiedienst
-authenticatiedienst.preprod
 clv
 echt-susteren-checker-preprod
 echt-susteren-checker
-edge
 ev-edienstenburgerzaken-test
 ev-edienstenburgerzaken
-vergunningintaker.preprod
 www.acc.piwik
 www.connect
 www.piwik
@@ -4481,7 +4482,6 @@ belastingloketacc
 bijeenkomsten
 digipoort
 doemee-test
-duo
 gbav
 gbavt
 geldloket
@@ -5867,3 +5867,16 @@ lois-acc
 lois
 mijnsociaaldomein-test
 testwebsite
+bag1
+bestplan
+cag
+cnoops
+iis2
+iis3
+maasgouw-checker-preprod
+maasgouw-checker
+sec
+www.cag
+www.mail
+www.mm
+www.sec
