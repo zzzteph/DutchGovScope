@@ -124,6 +124,7 @@ acc-broker.kampen.nl
 acc-broker.laarbeek.nl
 acc-broker.losser.nl
 acc-broker.olst-wijhe.nl
+acc-broker.oostgelre.nl
 acc-contact.assen.nl
 acc-contact.dev.assen.nl
 acc-contact.dev.groningen.nl
@@ -134,6 +135,7 @@ acc-contact.gemert-bakel.nl
 acc-contact.groningen.nl
 acc-contact.laarbeek.nl
 acc-contact.oldenzaal.nl
+acc-contact.oostgelre.nl
 acc-eformulier.heerlen.nl
 acc-formulier.assen.nl
 acc-formulier.dev.assen.nl
@@ -146,6 +148,7 @@ acc-formulier.groningen.nl
 acc-formulier.laarbeek.nl
 acc-formulier.losser.nl
 acc-formulier.oldenzaal.nl
+acc-formulier.oostgelre.nl
 acc-kaart.almere.nl
 acc-keycloak.assen.nl
 acc-keycloak.dev.assen.nl
@@ -157,6 +160,7 @@ acc-keycloak.gemert-bakel.nl
 acc-keycloak.groningen.nl
 acc-keycloak.laarbeek.nl
 acc-keycloak.oldenzaal.nl
+acc-keycloak.oostgelre.nl
 acc-maps.almere.nl
 acc-mediabank.gemeentehw.nl
 acc-midoffice.gemeente-oldambt.nl
@@ -170,6 +174,7 @@ acc-mijn.gemert-bakel.nl
 acc-mijn.groningen.nl
 acc-mijn.laarbeek.nl
 acc-mijn.oldenzaal.nl
+acc-mijn.oostgelre.nl
 acc-nieuwsbrief.amsterdam.nl
 acc-notificaties.assen.nl
 acc-notificaties.dev.assen.nl
@@ -181,6 +186,7 @@ acc-notificaties.gemert-bakel.nl
 acc-notificaties.groningen.nl
 acc-notificaties.laarbeek.nl
 acc-notificaties.oldenzaal.nl
+acc-notificaties.oostgelre.nl
 acc-objecten.assen.nl
 acc-objecten.dev.assen.nl
 acc-objecten.dev.groningen.nl
@@ -191,6 +197,7 @@ acc-objecten.gemert-bakel.nl
 acc-objecten.groningen.nl
 acc-objecten.laarbeek.nl
 acc-objecten.oldenzaal.nl
+acc-objecten.oostgelre.nl
 acc-objecttypen.assen.nl
 acc-objecttypen.dev.assen.nl
 acc-objecttypen.dev.groningen.nl
@@ -201,6 +208,7 @@ acc-objecttypen.gemert-bakel.nl
 acc-objecttypen.groningen.nl
 acc-objecttypen.laarbeek.nl
 acc-objecttypen.oldenzaal.nl
+acc-objecttypen.oostgelre.nl
 acc-onderwijsloket.amsterdam.nl
 acc-openformulieren.assen.nl
 acc-openformulieren.gemert-bakel.nl
@@ -214,6 +222,7 @@ acc-openklant.gemert-bakel.nl
 acc-openklant.groningen.nl
 acc-openklant.laarbeek.nl
 acc-openklant.oldenzaal.nl
+acc-openklant.oostgelre.nl
 acc-openwave.beverwijk.nl
 acc-openwave.hollandskroon.nl
 acc-openzaak.assen.nl
@@ -226,6 +235,7 @@ acc-openzaak.gemert-bakel.nl
 acc-openzaak.groningen.nl
 acc-openzaak.laarbeek.nl
 acc-openzaak.oldenzaal.nl
+acc-openzaak.oostgelre.nl
 acc-podiumd-contact.deventer.nl
 acc-podiumd-formulier.deventer.nl
 acc-podiumd-keycloak.deventer.nl
@@ -240,6 +250,7 @@ acc-podiumd-logs.gemert-bakel.nl
 acc-podiumd-logs.groningen.nl
 acc-podiumd-logs.laarbeek.nl
 acc-podiumd-logs.oldenzaal.nl
+acc-podiumd-logs.oostgelre.nl
 acc-podiumd-mijn.deventer.nl
 acc-podiumd-notificaties.deventer.nl
 acc-podiumd-objecten.deventer.nl
@@ -685,6 +696,7 @@ afspraken.oegstgeest.nl
 afspraken.oirschot.nl
 afspraken.oisterwijk.nl
 afspraken.olst-wijhe.nl
+afspraken.oostgelre.nl
 afspraken2.gorinchem.nl
 afval.acc.denhaag.nl
 afval.assen.nl
@@ -862,6 +874,7 @@ api.meldingen-acc.losser.nl
 api.meldingen-acc.meierijstad.nl
 api.meldingen-acc.oldebroek.nl
 api.meldingen-acc.oldenzaal.nl
+api.meldingen-acc.oostgelre.nl
 api.meldingen.aaenhunze.nl
 api.meldingen.acceptatie.eindhoven.nl
 api.meldingen.accp.s-hertogenbosch.nl
@@ -891,6 +904,7 @@ api.meldingen.losser.nl
 api.meldingen.meierijstad.nl
 api.meldingen.oldebroek.nl
 api.meldingen.oldenzaal.nl
+api.meldingen.oostgelre.nl
 api.meldingen.s-hertogenbosch.nl
 api.openstad.alphenaandenrijn.nl
 api.openstad.deventer.nl
@@ -972,6 +986,7 @@ asp4all-1.amsterdam.nl
 assen.nl
 assengast1.assen.nl
 assengast2.assen.nl
+assets.oostgelre.nl
 asten.nl
 ata.acc.amsterdam.nl
 atijdschrijven.apeldoorn.nl
@@ -1179,6 +1194,7 @@ autodiscover.noordoostpolder.nl
 autodiscover.oegstgeest.nl
 autodiscover.oldebroek.nl
 autodiscover.ombudsman.groningen.nl
+autodiscover.oostgelre.nl
 autodiscover.opsb.groningen.nl
 autodiscover.os.groningen.nl
 autodiscover.ovh.gemeentebeek.nl
@@ -1683,6 +1699,7 @@ broker.losser.nl
 broker.noordwijk.nl
 broker.nunspeet.nl
 broker.olst-wijhe.nl
+broker.oostgelre.nl
 broker.preprod.leudal.nl
 bronckhorst.nl
 bros-academie.deurne.nl
@@ -1891,6 +1908,7 @@ cmsoo.laarbeek.nl
 cmsoo.losser.nl
 cmsoo.noordoostpolder.nl
 cmsoo.oldenzaal.nl
+cmsoo.oostgelre.nl
 cmssocial.montferland.info
 cmssocialintranet.middendelfland.nl
 cmstest-insite.nijmegen.nl
@@ -1948,6 +1966,7 @@ contact.enschede.nl
 contact.gemeente-oldambt.nl
 contact.gemert-bakel.nl
 contact.oldenzaal.nl
+contact.oostgelre.nl
 contactregistratie-fa.amsterdam.nl
 contactregistratie-ft.amsterdam.nl
 contactregistratie.acc.amsterdam.nl
@@ -2047,6 +2066,7 @@ dacceptatieloket.landsmeer.nl
 dacceptatieloket.nissewaard.nl
 dacceptatieloket.oldenzaal.nl
 dacceptatieloket.olst-wijhe.nl
+dacceptatieloket.oostgelre.nl
 dacceptatiemidoffice.assen.nl
 dacceptatiemidoffice.borger-odoorn.nl
 dacceptatiemidoffice.borne.nl
@@ -2067,6 +2087,7 @@ dacceptatiemidoffice.landsmeer.nl
 dacceptatiemidoffice.nissewaard.nl
 dacceptatiemidoffice.oldenzaal.nl
 dacceptatiemidoffice.olst-wijhe.nl
+dacceptatiemidoffice.oostgelre.nl
 dagbesteding.apeldoorn.nl
 dalfsen.nl
 dali.alphenaandenrijn.nl
@@ -2312,6 +2333,7 @@ digikoppeling.laren.nl
 digikoppeling.leiden.nl
 digikoppeling.leiderdorp.nl
 digikoppeling.leusden.nl
+digikoppeling.local.oostgelre.nl
 digikoppeling.lochem.nl
 digikoppeling.maasdriel.nl
 digikoppeling.maassluis.nl
@@ -2461,6 +2483,7 @@ dloket.landsmeer.nl
 dloket.nissewaard.nl
 dloket.oldenzaal.nl
 dloket.olst-wijhe.nl
+dloket.oostgelre.nl
 dm-tst.groningen.nl
 dmafunc002.amsterdam.nl
 dmb.amsterdam.nl
@@ -2483,6 +2506,7 @@ dmidoffice.landsmeer.nl
 dmidoffice.nissewaard.nl
 dmidoffice.oldenzaal.nl
 dmidoffice.olst-wijhe.nl
+dmidoffice.oostgelre.nl
 dmpfunc002.amsterdam.nl
 dmst.noordoostpolder.nl
 dmz-websrv.achtkarspelen.nl
@@ -3286,6 +3310,7 @@ formulier.hethogeland.nl
 formulier.losser.nl
 formulier.nijmegen.nl
 formulier.oldenzaal.nl
+formulier.oostgelre.nl
 formulier.s-hertogenbosch.nl
 formulieracc.breda.nl
 formulieren-acc.hoorn.nl
@@ -3528,9 +3553,11 @@ geo.huizen.nl
 geo.koggenland.nl
 geo.krimpenerwaard.nl
 geo.lingewaard.nl
+geo.local.oostgelre.nl
 geo.middendrenthe.nl
 geo.montferland.info
 geo.nunspeet.nl
+geo.oostgelre.nl
 geo1.arnhem.nl
 geoanalytics.haarlemmermeer.nl
 geobrowser.enschede.nl
@@ -3593,6 +3620,7 @@ ggexoopsrv2.groningen.nl
 ggi.barneveld.nl
 ggk-koppeling.middelburg.nl
 ggk.brunssum.nl
+ggk.oostgelre.nl
 gglvclbp001.groningen.ad.groningen.nl
 gglvtwp001.groningen.ad.groningen.nl
 ggs2-adapter.montferland.info
@@ -3664,6 +3692,12 @@ gitops.dev.denhaag.nl
 gitops.test.denhaag.nl
 gkb.groningen.nl
 glanerbrug.openstad.enschede.nl
+glapp05.local.oostgelre.nl
+glapp21.local.oostgelre.nl
+glapp27.local.oostgelre.nl
+glapp39.local.oostgelre.nl
+glexc01.local.oostgelre.nl
+glexc02.local.oostgelre.nl
 globalprotect.midden-groningen.nl
 glow.landgraaf.nl
 gms.boekel.nl
@@ -3809,8 +3843,10 @@ hellendoorn.nl
 hellevoetsluis.nl
 helloid.bergenopzoom.nl
 helmond.nl
+help.oostgelre.nl
 helpdesk.ggd.amsterdam.nl
 helpmij.noordoostpolder.nl
+helpmij.oostgelre.nl
 hendrik-ido-ambacht.nl
 hengelo.nl
 herber-web-fa.amsterdam.nl
@@ -4062,6 +4098,7 @@ iburgerzaken.oisterwijk.nl
 iburgerzaken.oldebroek.nl
 iburgerzaken.olst-wijhe.nl
 iburgerzaken.ommen.nl
+iburgerzaken.oostgelre.nl
 iburgerzaken.s-hertogenbosch.nl
 ibzpink.aaenhunze.nl
 ibzpink.achtkarspelen.nl
@@ -4169,6 +4206,7 @@ ibzpink.oisterwijk.nl
 ibzpink.oldebroek.nl
 ibzpink.olst-wijhe.nl
 ibzpink.ommen.nl
+ibzpink.oostgelre.nl
 ice.nijmegen.nl
 icm-ast.asten.nl
 id-beheer-erfpacht-acc.amsterdam.nl
@@ -4409,6 +4447,7 @@ intranet.nunspeet.nl
 intranet.oegstgeest.nl
 intranet.oldenzaal.nl
 intranet.ommen.nl
+intranet.oostgelre.nl
 intranet.raadsinformatie.amsterdam.nl
 intranetacc.apeldoorn.nl
 intranetacceptatie.kampen.nl
@@ -4675,6 +4714,7 @@ keycloak.gemeente-oldambt.nl
 keycloak.gemeentemaashorst.nl
 keycloak.gemert-bakel.nl
 keycloak.oldenzaal.nl
+keycloak.oostgelre.nl
 keycloak.test.denhaag.nl
 keyhub.hofvantwente.nl
 kibana.parkeren.data.amsterdam.nl
@@ -4711,6 +4751,7 @@ klantportaal.acc.enkhuizen.nl
 klantportaal.denhaag.nl
 klantportaal.drechterland.nl
 klantportaal.enkhuizen.nl
+klickwion.oostgelre.nl
 kliconline.haarlemmermeer.nl
 klimaat.landvancuijk.nl
 klimaatbestendig.lingewaard.nl
@@ -4836,6 +4877,7 @@ live.groningen.nl
 live.landvancuijk.nl
 liveblog.ede.nl
 livestream.lelystad.nl
+local.oostgelre.nl
 localhost.hillegom.nl
 lochem.nl
 logilink.brunssum.nl
@@ -5051,6 +5093,7 @@ mail.middendelfland.nl
 mail.nederweert.nl
 mail.noord.amsterdam.nl
 mail.noordoostpolder.nl
+mail.oostgelre.nl
 mail.s-hertogenbosch.nl
 mail01.bodegraven-reeuwijk.nl
 mail1.amersfoort.nl
@@ -5058,6 +5101,7 @@ mail1.groningen.nl
 mail2.amersfoort.nl
 mail2.groningen.nl
 mail2.heerenveen.nl
+mail2.oostgelre.nl
 mailct.nijmegen.nl
 mailexo.acc.amsterdam.nl
 mailexo.amsterdam.nl
@@ -5151,6 +5195,7 @@ medemblik.nl
 medewerkers.buren.nl
 medewerkers.defryskemarren.nl
 medewerkers.hellendoorn.nl
+medewerkers.oostgelre.nl
 medewerkersportaal.eemsdelta.nl
 medezeggenschap.groningen.nl
 media-t.delft.nl
@@ -5208,6 +5253,7 @@ meldingen-acc.losser.nl
 meldingen-acc.meierijstad.nl
 meldingen-acc.oldebroek.nl
 meldingen-acc.oldenzaal.nl
+meldingen-acc.oostgelre.nl
 meldingen-test.landvancuijk.nl
 meldingen.aaenhunze.nl
 meldingen.acc.almelo.nl
@@ -5245,6 +5291,7 @@ meldingen.meierijstad.nl
 meldingen.montferland.info
 meldingen.oldebroek.nl
 meldingen.oldenzaal.nl
+meldingen.oostgelre.nl
 meldingen.s-hertogenbosch.nl
 meldingenamsterdamsebos.amsterdam.nl
 meldingenkust.acc.denhaag.nl
@@ -5355,6 +5402,7 @@ mijn.noordwijk.nl
 mijn.nunspeet.nl
 mijn.oldenzaal.nl
 mijn.ommen.nl
+mijn.oostgelre.nl
 mijnaanvraagzi.beuningen.nl
 mijnacc.montfoort.nl
 mijnacpt.haarlem.nl
@@ -5484,6 +5532,7 @@ misc-geo-01.barneveld.nl
 misc-geo-02.barneveld.nl
 mivbxsrvr.gorinchem.nl
 mk01.hellevoetsluis.nl
+mks-prod.oostgelre.nl
 mks.acc.amsterdam.nl
 mks.adir.lingewaard.nl
 mks.amsterdam.nl
@@ -5513,6 +5562,7 @@ mm.gemeentemaasgouw.nl
 mmc.formulieren.amsterdam.nl
 mo.apeldoorn.nl
 mo.hellevoetsluis.nl
+mob.oostgelre.nl
 mobiel.brummen.nl
 mobiel.gemeentebeek.nl
 mobiel.groningen.nl
@@ -5714,6 +5764,7 @@ notificaties.gemeente-oldambt.nl
 notificaties.gemeentemaashorst.nl
 notificaties.gemert-bakel.nl
 notificaties.oldenzaal.nl
+notificaties.oostgelre.nl
 notificaties.openzaak-acc.amsterdam.nl
 notificaties.openzaak-tst.amsterdam.nl
 notificaties.wonenportaal.amsterdam.nl
@@ -5770,6 +5821,7 @@ objecten.gemeente-oldambt.nl
 objecten.gemeentemaashorst.nl
 objecten.gemert-bakel.nl
 objecten.oldenzaal.nl
+objecten.oostgelre.nl
 objectenregistratie-api.almelo.nl
 objectenregistratie.almelo.nl
 objects-api.wonenportaal.amsterdam.nl
@@ -5785,6 +5837,7 @@ objecttypen.gemeente-oldambt.nl
 objecttypen.gemeentemaashorst.nl
 objecttypen.gemert-bakel.nl
 objecttypen.oldenzaal.nl
+objecttypen.oostgelre.nl
 objecttypes-api.wonenportaal.amsterdam.nl
 obsurv.asten.nl
 obsurv.bergenopzoom.nl
@@ -5934,6 +5987,7 @@ onzestad.nijmegen.nl
 oogst.groningen.nl
 oorlogenvrede.landvancuijk.nl
 oostbegroot.amsterdam.nl
+oostgelre.nl
 oov.brievenbus.amsterdam.nl
 opa.amsterdam.nl
 open-formulieren-test.horstaandemaas.nl
@@ -5999,6 +6053,7 @@ openklant.gemeente-oldambt.nl
 openklant.gemeentemaashorst.nl
 openklant.gemert-bakel.nl
 openklant.oldenzaal.nl
+openklant.oostgelre.nl
 opennotificaties-zgw.acc.denhaag.nl
 opennotificaties-zgw.denhaag.nl
 opennotificaties-zgw.test.denhaag.nl
@@ -6058,6 +6113,7 @@ openzaak.gemeente-oldambt.nl
 openzaak.gemeentemaashorst.nl
 openzaak.gemert-bakel.nl
 openzaak.oldenzaal.nl
+openzaak.oostgelre.nl
 openzaak.t.ssv.amsterdam.nl
 openzaak.wonenportaal.amsterdam.nl
 openzaakbrug-zgw.acc.denhaag.nl
@@ -6315,6 +6371,7 @@ piwik.gemeente-oldambt.nl
 piwik.halderberge.nl
 piwik.kampen.nl
 piwik.krimpenerwaard.nl
+piwik.oostgelre.nl
 piwikacc.breda.nl
 pix-ia-sth.alkmaar.nl
 pix-ia-stk.alkmaar.nl
@@ -6374,6 +6431,7 @@ podiumd-logs.gemeente-oldambt.nl
 podiumd-logs.gemeentemaashorst.nl
 podiumd-logs.gemert-bakel.nl
 podiumd-logs.oldenzaal.nl
+podiumd-logs.oostgelre.nl
 podiumd-mijn.deventer.nl
 podiumd-notificaties.deventer.nl
 podiumd-objecten.deventer.nl
@@ -6786,6 +6844,7 @@ raadzaam.nijmegen.nl
 rabbitmq.datapunt.amsterdam.nl
 radius.gemeenteberkelland.nl
 radius.kampen.nl
+radius.oostgelre.nl
 rap.breda.nl
 rap.echt-susteren.nl
 rap.haarlemmermeer.nl
@@ -6856,6 +6915,8 @@ remotewerken.middendelfland.nl
 rep.bronckhorst.nl
 reserveren.coevorden.nl
 reservering.oldenzaal.nl
+revprox01.oostgelre.nl
+revprox02.oostgelre.nl
 rijkevoort.landvancuijk.nl
 ris.dalfsen.nl
 ris.delft.nl
@@ -6922,6 +6983,7 @@ ruimtelijkeplannen.nuenen.nl
 ruimtelijkeplannen.oldebroek.nl
 ruimtelijkeplannen.oldenzaal.nl
 ruimtelijkeplannen.olst-wijhe.nl
+ruimtelijkeplannen.oostgelre.nl
 ruimtelijkeplannen.s-hertogenbosch.nl
 ruimtevoorjou.groningen.nl
 rx-mission-publiceren.borne.nl
@@ -7562,6 +7624,7 @@ stadsveld.openstad.enschede.nl
 stadswerken.amsterdam.nl
 staging.admin.schoolwijzer.amsterdam.nl
 staging.deventer.nl
+staging.intranet.oostgelre.nl
 staging.microservices.schoolwijzer.amsterdam.nl
 staging.olst-wijhe.nl
 staging.onderwijssubsidies.amsterdam.nl
@@ -7578,10 +7641,12 @@ statistiek.data.amsterdam.nl
 statistieken-intranet.enschede.nl
 stats.gorinchem.nl
 stats.intranet.delft.nl
+stats.intranet.oostgelre.nl
 status-paginas-zgw.acc.denhaag.nl
 status-paginas-zgw.denhaag.nl
 status-paginas-zgw.test.denhaag.nl
 status.landvancuijk.nl
+status.oostgelre.nl
 stemmen.amsterdam.nl
 stemvan.emmen.nl
 stemvan.groningen.nl
@@ -8116,6 +8181,7 @@ tripleproductie.heerlen.nl
 tripletest.heerlen.nl
 trobit.gooisemeren.nl
 trobit.gorinchem.nl
+tsapp05.local.oostgelre.nl
 tsjinstbus.harlingen.nl
 tsmartdoc.heerlen.nl
 tsquit2020.landgraaf.nl
@@ -8358,6 +8424,7 @@ vraaghulp.acc.nijmegen.nl
 vragenlijst.eindhoven.nl
 vrijwilliger.hilversum.nl
 vrijwilligerin.hilversum.nl
+vrijwilligerswerk-oostgelre.oostgelre.nl
 vris-brk.heeze-leende.nl
 vriseloket.cranendonck.nl
 vrm.acc.amsterdam.nl
@@ -8416,6 +8483,7 @@ waarmerk.landgraaf.nl
 waarmerk.nissewaard.nl
 waarmerk.oldenzaal.nl
 waarstemjijvoor.kerkrade.nl
+wabo.oostgelre.nl
 wacfarm.acc.amsterdam.nl
 wachtwoord.acc.amsterdam.nl
 wachtwoord.alkmaar.nl
@@ -8424,6 +8492,7 @@ wachtwoord.amsterdam.nl
 wachtwoord.gemeentemaashorst.nl
 wachtwoord.houten.nl
 wachtwoord.nederbetuwe.nl
+wachtwoord.oostgelre.nl
 wachtwoordreset.almere.nl
 wachtwoordvergeten.acc.amsterdam.nl
 wachtwoordvergeten.amsterdam.nl
@@ -8553,6 +8622,7 @@ webmail.oldenzaal.nl
 webmail.olst-wijhe.nl
 webmail.oost-wgm.amsterdam.nl
 webmail.oost.amsterdam.nl
+webmail.oostgelre.nl
 webmail.pmb.amsterdam.nl
 webmail.stadsarchief.amsterdam.nl
 webmail.test.hoorn.nl
@@ -8805,6 +8875,7 @@ woz-portaal.oisterwijk.nl
 woz.amsterdam.nl
 woz.kampen.nl
 woz.lingewaard.nl
+woz.oostgelre.nl
 wozinventarisatie-acc.nijmegen.nl
 wozinventarisatie.nijmegen.nl
 wozloket-acc.borger-odoorn.nl
@@ -8857,6 +8928,7 @@ www.afspraken-tst.groningen.nl
 www.afspraken-tstabs.groningen.nl
 www.afspraken.kaagenbraassem.nl
 www.afspraken.oegstgeest.nl
+www.afspraken.oostgelre.nl
 www.aga.amsterdam.nl
 www.agrifoodtech.landvancuijk.nl
 www.alblasserdam.nl
@@ -9314,6 +9386,7 @@ www.mijntalentcenter.gemeentehulst.nl
 www.mijnuitkering.emmen.nl
 www.milieudienst.groningen.nl
 www.mm.gemeentemaasgouw.nl
+www.mob.oostgelre.nl
 www.mobiel.gemeentebeek.nl
 www.mobielbeek.gemeentebeek.nl
 www.mobile.emmen.nl
@@ -9372,6 +9445,7 @@ www.onzestad.nijmegen.nl
 www.oogst.groningen.nl
 www.oorlogenvrede.landvancuijk.nl
 www.oostbegroot.amsterdam.nl
+www.oostgelre.nl
 www.open-notificaties.ot.denhaag.nl
 www.open-zaak.ot.denhaag.nl
 www.open.amsterdam.nl
@@ -9398,6 +9472,7 @@ www.passion.groningen.nl
 www.pda.loonopzand.nl
 www.pip-test.emmen.nl
 www.piwik.echt-susteren.nl
+www.piwik.oostgelre.nl
 www.planboard.groningen.ad.groningen.nl
 www.plannen.groningen.nl
 www.platform.culemborg.nl
