@@ -19,10 +19,10 @@ preproductie
 probeer
 loket
 felix
+test
 werkplek
 formulieren
 meldingen
-test
 eloket
 api.meldingen
 dkd
@@ -41,11 +41,11 @@ broker
 betalen
 data
 pv
+zaaksysteem-accept
 werkenbij
 ruimtelijkeplannen
 test-ipa
 openpdc
-zaaksysteem-accept
 osb
 omgevingsvisie
 testeloket
@@ -75,11 +75,11 @@ cloudadapter-test
 loket.acceptatie
 berichten
 beeldbank
+digikoppeling.test
 mijnzorg
 mijninkomen
 piwik
 duurzaam
-digikoppeling.test
 mks
 acc-broker
 woningbouwkaart
