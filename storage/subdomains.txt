@@ -25,11 +25,11 @@ test
 meldingen
 eloket
 waarmerk
+open
 api.meldingen
 dkd
 acc
 adfs
-open
 portal
 vpn
 geo
@@ -43,10 +43,10 @@ pv
 zaaksysteem-accept
 betalen
 data
+testeloket
 ruimtelijkeplannen
 test-ipa
 openpdc
-testeloket
 raad
 osb
 omgevingsvisie
@@ -62,15 +62,15 @@ meldingen-acc
 hybrid
 belastingbalie
 kaart
+govroam
 remote
 digikoppeling-test
+login
 cmsoo
 enterpriseregistration
-govroam
 zaken
 flowmailer-tracking
 belastingen
-login
 cloudadapter-test
 loket.acceptatie
 berichten
@@ -87,6 +87,7 @@ mks
 woningbouwkaart
 cloudadapter
 pki
+transfer
 portaal
 e
 verkiezingen
@@ -98,7 +99,8 @@ gemeente
 nieuwsbrief
 klantcontact
 samen
-transfer
+www.webmail
+filecap
 smtp
 mailing
 parkeren-test
@@ -109,10 +111,9 @@ parkeren-acc
 bgt
 belastingloket
 connect
+simcms-open
 gasten
 kaarten
-www.webmail
-filecap
 dtestmidoffice
 opendata
 kennisbank
@@ -127,7 +128,6 @@ email
 acc-formulier
 acc-podiumd-logs
 sip
-simcms-open
 test-intranet
 doemee
 AutoDiscover
@@ -143,6 +143,7 @@ web
 subsidies-backend
 dali
 qr
+ftp
 telewerken
 auth
 gis
@@ -170,9 +171,11 @@ preprod-mijnsociaalplein
 inloggen
 ro
 squit2go
+micollab
 uc
 mdm
 mobile
+outlook
 begroting
 cryptshare
 testloket
@@ -201,7 +204,6 @@ vdi
 www.test
 atlas
 api.betalen
-ftp
 openzaak
 www.acc
 afval
@@ -225,9 +227,7 @@ iarchief
 intranet-acc
 jccapi
 uca
-micollab
 key2gbav
-outlook
 vth
 mx1
 handhaving
@@ -360,6 +360,7 @@ publicaties
 squit2020.acceptatie
 squit2020publiceren
 storefront
+www.login
 personeelsplanning
 simcms-preproductie
 djuma
@@ -574,7 +575,6 @@ accdrop
 solliciterenbij
 director
 mijnmobiel
-www.login
 www.mijnmobiel
 eforms
 gisibonline
@@ -601,6 +601,7 @@ testformulieren
 gms
 wozloket-acc
 automator
+rx-mission-publiceren
 voormeldingen
 jcccloud
 belastingportaal-test
@@ -750,6 +751,7 @@ mobiliteitsplan
 website.acceptatie
 wijkteam
 access
+brk
 liber
 pcorsa
 pkoppelcorsa
@@ -760,6 +762,7 @@ tickets
 ews
 werkeninkomen-test
 werkeninkomen
+gemeentewinkel
 a-cms
 a-cms1
 a-cms2
@@ -3583,7 +3586,6 @@ gp-test
 invmid
 mijnzorg-test
 nlgembrn
-rx-mission-publiceren
 securemail
 testportal
 vmapp002
@@ -5530,7 +5532,6 @@ www.itstore
 www.ssp
 belasting-test
 belasting
-brk
 escaperoom
 huursportzaal
 ib
@@ -5806,7 +5807,6 @@ test.lab.tod
 test.subsites
 tzp
 uwvergunning
-gemeentewinkel
 www.gemeentewinkel
 fortianalyzer
 fortiems
@@ -5910,3 +5910,15 @@ ibabs-prod
 ibabs-test
 sociaalloket
 www.sociaalloket
+BRK
+digi01
+djumamks
+gs01msn
+mform
+mijnafval
+mks01msn
+mstat
+ned03msn
+smtp01
+stuf
+www.gs01msn
