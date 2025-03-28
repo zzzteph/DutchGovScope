@@ -1399,6 +1399,7 @@ autodiscover.pvda.mookenmiddelaar.nl
 autodiscover.pvda.nijmegen.nl
 autodiscover.rcgog.nl
 autodiscover.renkum.nl
+autodiscover.renswoude.nl
 autodiscover.riec.denhaag.nl
 autodiscover.s-hertogenbosch.nl
 autodiscover.sp.haarlemmermeer.nl
@@ -2843,6 +2844,7 @@ digikoppeling.oostzaan.nl
 digikoppeling.oss.nl
 digikoppeling.oude-ijsselstreek.nl
 digikoppeling.renkum.nl
+digikoppeling.renswoude.nl
 digikoppeling.test.amstelveen.nl
 digikoppeling.test.bernheze.org
 digikoppeling.test.blaricum.nl
@@ -3809,6 +3811,7 @@ felix.ooststellingwerf.nl
 felix.opmeer.nl
 felix.opsterland.nl
 felix.overbetuwe.nl
+felix.renswoude.nl
 felixburgerzaken.nissewaard.nl
 felixpdc.doesburg.nl
 festival.landvancuijk.nl
@@ -3844,6 +3847,7 @@ filecap.haarlem.nl
 filecap.meerssen.nl
 filecap.noordoostpolder.nl
 filecap.nunspeet.nl
+filecap.renswoude.nl
 filecapacc.breda.nl
 files.data.amsterdam.nl
 fileshare.adds.amsterdam.nl
@@ -5371,6 +5375,7 @@ intranet.oostgelre.nl
 intranet.ooststellingwerf.nl
 intranet.peelenmaas.nl
 intranet.raadsinformatie.amsterdam.nl
+intranet.renswoude.nl
 intranetacc.apeldoorn.nl
 intranetacceptatie.kampen.nl
 intranetcms-acc.bergendal.nl
@@ -6499,6 +6504,7 @@ mijnacc.montfoort.nl
 mijnacpt.haarlem.nl
 mijnafval.meerssen.nl
 mijnbelastingen.amsterdam.nl
+mijndesktop.renswoude.nl
 mijndouane-perf.acc.belastingdienst.nl
 mijndouane.acc.belastingdienst.nl
 mijndouane.belastingdienst.nl
@@ -8044,6 +8050,7 @@ preproductie.ooststellingwerf.nl
 preproductie.opmeer.nl
 preproductie.opsterland.nl
 preproductie.pijnacker-nootdorp.nl
+preproductie.renswoude.nl
 presenteren.ont.belastingdienst.nl
 preview-eto.overheid.nl
 prijsvraag-zwembad.apeldoorn.nl
@@ -8351,6 +8358,7 @@ remote.nieuwegein.nl
 remote.renkum.nl
 remotewerken.middendelfland.nl
 renkum.nl
+renswoude.nl
 renvooiservice-eto.overheid.nl
 renvooiservice.overheid.nl
 rep.bronckhorst.nl
@@ -8656,6 +8664,7 @@ secure.opmeer.nl
 secure.ot.denhaag.nl
 secure.pekela.nl
 secure.pijnacker-nootdorp.nl
+secure.renswoude.nl
 secure1.gulpen-wittem.nl
 securegw.bunschoten.nl
 securemail.borne.nl
@@ -8867,6 +8876,7 @@ simcms.ooststellingwerf.nl
 simcms.opmeer.nl
 simcms.opsterland.nl
 simcms.overbetuwe.nl
+simcms.renswoude.nl
 simcms2.beekdaelen.nl
 simcmsintra.bergeijk.nl
 simform-preproductie.achtkarspelen.nl
@@ -8947,6 +8957,7 @@ simsite.opmeer.nl
 simsite.opsterland.nl
 simsite.pekela.nl
 simsite.pijnacker-nootdorp.nl
+simsite.renswoude.nl
 singlegateway.haarlem.nl
 sint-agatha.landvancuijk.nl
 sint-hubert.landvancuijk.nl
@@ -10392,6 +10403,7 @@ web.haarlemmermeer.nl
 web.hattem.nl
 web.lingewaard.nl
 web.moerdijk.nl
+web.renswoude.nl
 web01.deventer.nl
 web02.deventer.nl
 web2print.assen.nl
@@ -11514,6 +11526,7 @@ www.rekenkamer.amsterdam.nl
 www.remote.druten.nl
 www.remotewerken.middendelfland.nl
 www.renkum.nl
+www.renswoude.nl
 www.reservering.oldenzaal.nl
 www.rijksoverheid.nl
 www.rondleidingen.landvancuijk.nl

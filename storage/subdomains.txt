@@ -12,9 +12,9 @@ mijn
 simsite
 digikoppeling
 mail
-acceptatie
 secure
 simcms
+acceptatie
 preproductie
 probeer
 felix
@@ -90,6 +90,7 @@ cloudadapter
 samen
 pki
 www.webmail
+filecap
 mailing
 denkmee
 verkiezingen
@@ -100,7 +101,6 @@ woningbouwkaart
 klantcontact
 connect
 kaarten
-filecap
 smtp
 e
 mijnzorg
@@ -144,6 +144,7 @@ opendata
 kennisbank
 belastingportaal
 preprodbroker
+web
 izaaksuite
 snelbaliepp
 siam
@@ -165,7 +166,6 @@ evenementen
 website
 simform
 gisib
-web
 wachtwoord
 subsidies-backend
 melddesk
@@ -6513,3 +6513,4 @@ grmks03
 intercontent
 mdesk
 melddesk-test
+mijndesktop
