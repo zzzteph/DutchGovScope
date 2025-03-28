@@ -6,9 +6,9 @@ ibzpink
 edienstenburgerzaken
 edienstenburgerzaken-test
 intranet
+mijn
 webmail
 afspraken
-mijn
 simsite
 digikoppeling
 mail
@@ -24,8 +24,8 @@ eloket
 meldingen
 test
 werkplek
-dkd
 open
+dkd
 acc
 api.meldingen
 waarmerk
@@ -33,13 +33,13 @@ portal
 adfs
 geo
 ruimtelijkeplannen
-broker
 afspraak
+broker
 vpn
 iparticipatie
 pv
-parkeren
 zaaksysteem-accept
+parkeren
 gemeenteraad
 werkenbij
 testeloket
@@ -49,11 +49,11 @@ enterpriseenrollment
 dacceptatieloket
 dacceptatiemidoffice
 betalen
+raad
 dloket
 dmidoffice
 api.meldingen-acc
 meldingen-acc
-raad
 openpdc
 omgevingsvisie
 formulier
@@ -65,10 +65,10 @@ kaart
 cmsoo
 enterpriseregistration
 hybrid
+digikoppeling-test
 login
 remote
 flowmailer-tracking
-digikoppeling-test
 govroam
 zaken
 berichten
@@ -90,6 +90,7 @@ mijninkomen
 woningbouwkaart
 cloudadapter
 klantcontact
+belastingloket
 samen
 www.webmail
 filecap
@@ -105,7 +106,6 @@ snelbalie
 gemeente
 acc-formulier
 acc-podiumd-logs
-belastingloket
 simcms-open
 kaarten
 dtestmidoffice
@@ -267,6 +267,7 @@ _autodiscover._tcp
 subsidies-login
 archief
 openstad
+acceptatie-open
 afspraakmaken
 www.intranet
 mx1
@@ -329,7 +330,6 @@ sport
 admin.openstad
 auth.openstad
 img.openstad
-acceptatie-open
 woz-portaal
 mx2
 e.openstad
@@ -452,6 +452,7 @@ allegroweb
 intra
 winkelen
 www.openstad
+efactuur
 belastingbalie-test
 eformulieren
 jongin
@@ -460,6 +461,7 @@ www.jongin
 grondwater
 vergunningen
 socialekaart
+ondernemen
 burgerportaal
 raadsinformatie
 duo
@@ -730,8 +732,8 @@ bestuur
 parkeren-siam-test
 parkeren-siam
 centric
-efactuur
 relay
+test-digikoppelingadapter
 webdav
 router
 digitalebalie
@@ -748,7 +750,6 @@ authenticatiedienst.preprod
 edge
 vergunningintaker.preprod
 www.piwik
-ondernemen
 redirect
 welkom
 mijnsubsidie
@@ -4398,7 +4399,6 @@ koppeling-belastingbalie
 mijngeldzaken-acceptatie
 servicestore
 smtptls
-test-digikoppelingadapter
 visvijver
 web4biz251
 webscada-rps
@@ -6387,3 +6387,7 @@ test.loket
 uem
 uem.test
 vpntunnel
+belastingloket.test
+server02
+toekomstvisie
+websitestatistiek
