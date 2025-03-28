@@ -11,8 +11,8 @@ mijn
 webmail
 simsite
 mail
-secure
 digikoppeling
+secure
 simcms
 preproductie
 acceptatie
@@ -95,6 +95,7 @@ e
 mailing
 siam
 financien
+digikoppeling.test
 apps
 gemeente
 nieuwsbrief
@@ -110,7 +111,6 @@ kennisbank
 parkeren-test
 preprod
 snelbaliepp
-digikoppeling.test
 email
 bgt
 sip

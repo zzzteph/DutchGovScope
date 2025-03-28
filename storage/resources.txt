@@ -2237,6 +2237,7 @@ digikoppeling.heusden.nl
 digikoppeling.hilversum.nl
 digikoppeling.kerkrade.nl
 digikoppeling.lansingerland.nl
+digikoppeling.laren.nl
 digikoppeling.test.amstelveen.nl
 digikoppeling.test.bernheze.org
 digikoppeling.test.blaricum.nl
@@ -2244,6 +2245,7 @@ digikoppeling.test.ede.nl
 digikoppeling.test.eemnes.nl
 digikoppeling.test.gorinchem.nl
 digikoppeling.test.gouda.nl
+digikoppeling.test.laren.nl
 digikoppelingadapter.doetinchem.nl
 digikoppelingtest.bernheze.org
 digikoppelingtest.heemskerk.nl
@@ -3885,6 +3887,7 @@ iburgerzaken.kerkrade.nl
 iburgerzaken.koggenland.nl
 iburgerzaken.laarbeek.nl
 iburgerzaken.landsmeer.nl
+iburgerzaken.laren.nl
 iburgerzaken.s-hertogenbosch.nl
 ibzpink.aaenhunze.nl
 ibzpink.achtkarspelen.nl
@@ -4513,6 +4516,7 @@ landvancuijk.nl
 langenboom.landvancuijk.nl
 langparkeren.amsterdam.nl
 lansingerland.nl
+laren.nl
 lauwersmeer.groningen.nl
 lavueltaholanda.breda.nl
 lb-servers.laarbeek.nl
@@ -8894,6 +8898,7 @@ www.landgraaf.nl
 www.landsmeer.nl
 www.landvancuijk.nl
 www.lansingerland.nl
+www.laren.nl
 www.lauwersmeer.groningen.nl
 www.ld-01.hellevoetsluis.nl
 www.ldap.gemeentehulst.nl
