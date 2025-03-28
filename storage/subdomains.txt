@@ -6,8 +6,8 @@ ibzpink
 edienstenburgerzaken
 edienstenburgerzaken-test
 mijn
-webmail
 afspraken
+webmail
 intranet
 mail
 simsite
@@ -21,9 +21,9 @@ loket
 test
 formulieren
 felix
+acc
 meldingen
 werkplek
-acc
 portal
 dkd
 eloket
@@ -86,6 +86,7 @@ mks
 woningbouwkaart
 portaal
 e
+mailing
 siam
 financien
 beeldbank
@@ -101,7 +102,6 @@ filecap
 opendata
 smtp
 kennisbank
-mailing
 verkiezingen
 parkeren-test
 preprod
@@ -547,6 +547,7 @@ gms
 wozloket-acc
 automator
 voormeldingen
+jcccloud
 belastingportaal-test
 projecten
 nieuws
@@ -3523,7 +3524,6 @@ zaalhuur
 brsoribi01
 brsoribi02
 grmks06
-jcccloud
 Belastingportaal-test
 netwerk
 preprod-mijnoverzicht
@@ -5534,3 +5534,4 @@ vm-cs
 werkplekcb
 www.stad
 www.woz
+grmks02

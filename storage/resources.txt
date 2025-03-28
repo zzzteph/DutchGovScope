@@ -304,6 +304,7 @@ acc.images.data.amsterdam.nl
 acc.io.amsterdam.nl
 acc.iris.data.amsterdam.nl
 acc.jvvs.amsterdam.nl
+acc.kapelle.nl
 acc.kibana.parkeren.data.amsterdam.nl
 acc.kiesjekraam.amsterdam.nl
 acc.looplijst.top.amsterdam.nl
@@ -597,6 +598,7 @@ afspraken.huizen.nl
 afspraken.ijsselstein.nl
 afspraken.kaagenbraassem.nl
 afspraken.kampen.nl
+afspraken.kapelle.nl
 afspraken2.gorinchem.nl
 afval.acc.denhaag.nl
 afval.acc.omgevingswet.overheid.nl
@@ -3376,6 +3378,7 @@ gpt.apeldoorn.nl
 grafana.lpc.logius.nl
 grip.denhaag.nl
 grmks01.goes.nl
+grmks02.kapelle.nl
 grmks06.borsele.nl
 grnlm035.groningen.nl
 grnlm036.groningen.nl
@@ -3695,6 +3698,7 @@ iburgerzaken.hoogeveen.nl
 iburgerzaken.horstaandemaas.nl
 iburgerzaken.huizen.nl
 iburgerzaken.kampen.nl
+iburgerzaken.kapelle.nl
 iburgerzaken.s-hertogenbosch.nl
 ibzpink.aaenhunze.nl
 ibzpink.achtkarspelen.nl
@@ -3769,6 +3773,7 @@ ibzpink.hoogeveen.nl
 ibzpink.horstaandemaas.nl
 ibzpink.huizen.nl
 ibzpink.kampen.nl
+ibzpink.kapelle.nl
 icm-ast.asten.nl
 ict-ers.werkenvoornederland.nl
 icters.werkenvoornederland.nl
@@ -4081,6 +4086,7 @@ jccapi.eersel.nl
 jccapi.hellendoorn.nl
 jccbetalen.haarlemmermeer.nl
 jcccloud.borsele.nl
+jcccloud.kapelle.nl
 jcctest.bergenopzoom.nl
 jeugdengezin.amsterdam.nl
 jeugdombudsman-acc.denhaag.nl
@@ -4143,6 +4149,7 @@ kadbrkwkpd.deventer.nl
 kadernota2022.financielestukken.diemen.nl
 kampen.nl
 kansshop.eemsdelta.nl
+kapelle.nl
 kassaservice.brunssum.nl
 kavaanalytics.vcdn.belastingdienst.nl
 kavelaanbod.enschede.nl
@@ -4508,6 +4515,7 @@ mailing.defryskemarren.nl
 mailing.eindhoven.nl
 mailing.gemeentebeek.nl
 mailing.kaagenbraassem.nl
+mailing.kapelle.nl
 mailing.logius.nl
 mailings.deventer.nl
 mailrelay1.overheid.nl
@@ -8398,6 +8406,7 @@ www.kaagenbraassem.nl
 www.kaarten.haarlemmermeer.nl
 www.kaartviewer.gemeentehulst.nl
 www.kampen.nl
+www.kapelle.nl
 www.kindpakket.groningen.nl
 www.kmdn.gemeentehulst.nl
 www.koningsdag.groningen.nl

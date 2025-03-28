@@ -391,6 +391,7 @@ https://acc.hior.amsterdam.nl
 https://acc.iam.amsterdam.nl
 https://acc.io.amsterdam.nl
 https://acc.jvvs.amsterdam.nl
+https://acc.kapelle.nl
 https://acc.map.data.amsterdam.nl
 https://acc.meldingen.amsterdam.nl
 https://acc.meldingen.kampen.nl
@@ -509,6 +510,7 @@ https://afspraken.heeze-leende.nl
 https://afspraken.hellevoetsluis.nl
 https://afspraken.huizen.nl
 https://afspraken.kampen.nl
+https://afspraken.kapelle.nl
 https://afspraken2.gorinchem.nl
 https://afval.assen.nl
 https://afval.diemen.nl
@@ -1976,6 +1978,7 @@ https://iburgerzaken.hoogeveen.nl
 https://iburgerzaken.horstaandemaas.nl
 https://iburgerzaken.huizen.nl
 https://iburgerzaken.kampen.nl
+https://iburgerzaken.kapelle.nl
 https://iburgerzaken.s-hertogenbosch.nl
 https://id-beheer-erfpacht-acc.amsterdam.nl
 https://id-beheer-erfpacht-dev.amsterdam.nl
@@ -2125,6 +2128,7 @@ https://jccapi.bladel.nl
 https://jccapi.eersel.nl
 https://jccapi.hellendoorn.nl
 https://jcccloud.borsele.nl
+https://jcccloud.kapelle.nl
 https://jeugdombudsman-acc.denhaag.nl
 https://jeugdombudsman.denhaag.nl
 https://jijmaaktdebuurt.openstad.enschede.nl
@@ -2161,6 +2165,7 @@ https://kadbrkwkpd.deventer.nl
 https://kadernota2022.financielestukken.diemen.nl
 https://kampen.nl
 https://kansshop.eemsdelta.nl
+https://kapelle.nl
 https://kavelaanbod.enschede.nl
 https://kavels.almere.nl
 https://kavelwinkel.almere.nl
@@ -2287,6 +2292,7 @@ https://mailing.defryskemarren.nl
 https://mailing.eindhoven.nl
 https://mailing.gemeentebeek.nl
 https://mailing.kaagenbraassem.nl
+https://mailing.kapelle.nl
 https://makelaar.brielle.nl
 https://makelpunt.openstad.enschede.nl
 https://mam.groningen.nl
@@ -3975,6 +3981,7 @@ https://www.jijmaaktdebuurt.openstad.enschede.nl
 https://www.jouwgrotemarkt.groningen.nl
 https://www.kaagenbraassem.nl
 https://www.kampen.nl
+https://www.kapelle.nl
 https://www.laakhavensbepaalt.denhaag.nl
 https://www.leidschenveenaanzet.denhaag.nl
 https://www.mariahoeveaanzet.denhaag.nl
