@@ -21,20 +21,20 @@ felix
 loket
 formulieren
 test
+werkplek
 eloket
 meldingen
-werkplek
-open
 dkd
+open
 acc
 waarmerk
 api.meldingen
 portal
 adfs
 ruimtelijkeplannen
+vpn
 geo
 afspraak
-vpn
 broker
 pv
 iparticipatie
@@ -59,11 +59,11 @@ osb
 omgevingsvisie
 formulier
 belastingbalie
+enterpriseregistration
 openpub
 belastingen
 kaart
 cmsoo
-enterpriseregistration
 zaken
 hybrid
 digikoppeling-test
@@ -113,6 +113,7 @@ connect
 internetafspraken
 simcms-open
 kaarten
+doemee
 dtestmidoffice
 transfer
 apps
@@ -129,12 +130,12 @@ acc-openzaak
 sip
 obsurv
 test-intranet
-doemee
 AutoDiscover
 jaarstukken
 begroting
 testloket
 opendata
+mobiel
 kennisbank
 belastingportaal
 preprodbroker
@@ -159,8 +160,8 @@ _dmarc
 m
 evenementen
 website
-mobiel
 simform
+gisib
 web
 izaaksuite
 wachtwoord
@@ -177,6 +178,7 @@ openklant
 owa
 test-digikoppeling
 meedoen
+cmsintranet
 contentbeheer.acceptatie
 inproces.acceptatie
 inproces
@@ -194,17 +196,16 @@ services
 omgevingswet
 mijnzorg-acc
 college
-gisib
 veiligdelen
 melddesk
 thuiswerken
+afvalkalender
 api.betalen
 auth
 bag
 sts
 byod
 citrix
-cmsintranet
 fmreturn
 guest
 iarchief
@@ -238,7 +239,6 @@ subsidie
 subsidies-backend.acceptatie
 subsidies.acceptatie
 maps
-afvalkalender
 api.openstad
 gemeentearchief
 ro-online
@@ -250,6 +250,7 @@ vdi
 www.test
 atlas
 werkenvoor
+legacy
 parkeervergunning
 sharefile
 woz
@@ -285,6 +286,7 @@ cms
 feeds
 english
 download
+mta-sts
 smtp1
 smtp2
 webservices
@@ -304,7 +306,6 @@ sociaaldomein
 exchange
 mail2
 beheer
-legacy
 parkeervergunningen
 desktop
 gbi
@@ -355,11 +356,11 @@ cloudadapter-prod
 gateway
 www.werkplek
 mijn-acc
-mta-sts
 ns2
 sharepoint
 start
 werken
+koppelvlak
 social
 www.mijn
 zoek
@@ -409,6 +410,7 @@ www.login
 personeelsplanning
 simcms-preproductie
 djuma
+eforms
 zorg
 acceptatieloket
 klimaatplein
@@ -530,7 +532,6 @@ componenten
 data-acc
 designsystem
 dns1
-koppelvlak
 ondernemersplein
 repository
 verkeersbesluiten
@@ -648,7 +649,6 @@ mijnmobiel
 nedplan
 secudoc
 www.mijnmobiel
-eforms
 gisibonline
 sentry
 data.gemnet
@@ -798,6 +798,7 @@ autodiscover.d66
 autodiscover.sp
 fortinet
 geoweb
+gisibtest
 gisservices
 jccbetalen
 officewebapps
@@ -876,6 +877,7 @@ corsa-test
 testwebsite
 decos
 smtp01
+stuf
 regieportaal
 zorg-acc
 login-pre
@@ -5102,7 +5104,6 @@ geowebint
 geowebinttest
 geowebtest
 gis-analytics
-gisibtest
 gisservicestest
 gouwbag-test
 gouwbag
@@ -5930,7 +5931,6 @@ mijnafval
 mks01msn
 mstat
 ned03msn
-stuf
 www.gs01msn
 link.socialewegwijzer
 mx02
@@ -6448,3 +6448,7 @@ zaken.staging
 collegeprogramma
 papendrecht-checker-preprod
 papendrecht-checker
+koppelvlaktest
+mijnwerkplek
+stuftest
+testeforms
