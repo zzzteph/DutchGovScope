@@ -17,8 +17,8 @@ secure
 preproductie
 acceptatie
 probeer
-felix
 loket
+felix
 werkplek
 formulieren
 test
@@ -46,12 +46,12 @@ data
 ruimtelijkeplannen
 test-ipa
 openpdc
+testeloket
+raad
 osb
 omgevingsvisie
-testeloket
 dacceptatieloket
 dacceptatiemidoffice
-raad
 openpub
 enterpriseenrollment
 dloket
@@ -100,6 +100,7 @@ klantcontact
 smtp
 mailing
 parkeren-test
+subsidies
 siam
 apps
 parkeren-acc
@@ -119,7 +120,6 @@ preprodbroker
 vergunningintaker
 denkmee
 simform
-subsidies
 preprod
 snelbaliepp
 jcc
@@ -566,6 +566,7 @@ acc-openformulieren
 acc-openklant.dev
 acc-openzaak.dev
 acc-podiumd-logs.dev
+vastgoed
 geoserver
 accdrop
 solliciterenbij
@@ -3300,7 +3301,6 @@ organisatieontwikkeling
 point
 scorpio
 slimbereikbaar
-vastgoed
 wbs003
 wbs004
 web2print
@@ -5894,3 +5894,10 @@ esb-gm-prd
 esb-gm-tst
 subsidie-backend
 uitvaart
+beh-gemeenteloket
+form-gemeenteloket
+googleauth
+hub
+mijn-gemeenteloket
+pre-gemeenteloket
+webteam
