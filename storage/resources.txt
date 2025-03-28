@@ -360,9 +360,11 @@ acc.meldingen.kampen.nl
 acc.meldingenamsterdamsebos.amsterdam.nl
 acc.meldingenweesp.amsterdam.nl
 acc.microservices.schoolwijzer.amsterdam.nl
+acc.midden-groningen.nl
 acc.mijn.data.amsterdam.nl
 acc.mijn.leeuwarden.nl
 acc.mijn.overheid.nl
+acc.mijngkb.midden-groningen.nl
 acc.nlx.amsterdam.nl
 acc.oinregister.logius.nl
 acc.omgevingswet.overheid.nl
@@ -495,6 +497,7 @@ acceptatie.leusden.nl
 acceptatie.lisse.nl
 acceptatie.loonopzand.nl
 acceptatie.medemblik.nl
+acceptatie.midden-groningen.nl
 acceptatie.middendrenthe.nl
 acceptatie.omgevingswet.overheid.nl
 acceptatie.oranjeplein.goirle.nl
@@ -556,6 +559,7 @@ adfs.landgraaf.nl
 adfs.leudal.nl
 adfs.lingewaard.nl
 adfs.meppel.nl
+adfs.midden-groningen.nl
 adfslogin.defryskemarren.nl
 adiko.apeldoorn.nl
 admanager.zaaksysteem.eindhoven.nl
@@ -1188,6 +1192,7 @@ autodiscover.maasdriel.nl
 autodiscover.medemblik.nl
 autodiscover.meppel.nl
 autodiscover.middelburg.nl
+autodiscover.midden-groningen.nl
 autodiscover.noord.amsterdam.nl
 autodiscover.ombudsman.groningen.nl
 autodiscover.opsb.groningen.nl
@@ -1507,6 +1512,7 @@ belastingportaal.boxtel.nl
 belastingportaal.dinkelland.nl
 belastingportaal.goirle.nl
 belastingportaal.hilvarenbeek.nl
+belastingportaal.midden-groningen.nl
 belastingpraktijkonline.groningen.nl
 belastingtest.middendrenthe.nl
 belevingsroute.gooisemeren.nl
@@ -1907,6 +1913,7 @@ clienteleitsm.logius.nl
 clo.gemeentehulst.nl
 cloud.beverwijk.nl
 cloud.buren.nl
+cloud.midden-groningen.nl
 cloudadapter-gemnet-p.lopik.nl
 cloudadapter-gemnet-t.lopik.nl
 cloudadapter-p.denhelder.nl
@@ -2045,6 +2052,7 @@ connectpeople.ont.belastingdienst.nl
 connectpeoplereg.belastingdienst.nl
 consent.sarphati.amsterdam.nl
 consul-tst.groningen.nl
+consul.midden-groningen.nl
 contact.antwoord.amsterdam.nl
 contact.enschede.nl
 contact.gemert-bakel.nl
@@ -3013,6 +3021,7 @@ eloket.leusden.nl
 eloket.meerssen.nl
 eloket.meppel.nl
 eloket.middelburg.nl
+eloket.midden-groningen.nl
 eloket.preprod.leudal.nl
 eloketstaging.almere.nl
 elokettest.bloemendaal.nl
@@ -3826,6 +3835,7 @@ gitops.dev.denhaag.nl
 gitops.test.denhaag.nl
 gkb.groningen.nl
 glanerbrug.openstad.enschede.nl
+globalprotect.midden-groningen.nl
 glow.landgraaf.nl
 gm-pre.mev.logius.nl
 gm.mev.logius.nl
@@ -3866,6 +3876,7 @@ gp.apeldoorn.nl
 gp.borne.nl
 gp.deventer.nl
 gp.ggd.amsterdam.nl
+gp.midden-groningen.nl
 gpa-rest-test.belastingdienst.nl
 gpa.apeldoorn.nl
 gpg.apeldoorn.nl
@@ -4036,6 +4047,7 @@ histor-web-fa.amsterdam.nl
 histor-web.acc.amsterdam.nl
 histor-web.amsterdam.nl
 histor-web.tst.amsterdam.nl
+historischarchief.midden-groningen.nl
 hitkans.top.amsterdam.nl
 hlmrvpn.haarlemmermeer.nl
 hlnpki.heerlen.nl
@@ -4241,6 +4253,7 @@ iburgerzaken.maassluis.nl
 iburgerzaken.medemblik.nl
 iburgerzaken.meerssen.nl
 iburgerzaken.middelburg.nl
+iburgerzaken.midden-groningen.nl
 iburgerzaken.middendrenthe.nl
 iburgerzaken.s-hertogenbosch.nl
 ibzpink.aaenhunze.nl
@@ -4330,6 +4343,7 @@ ibzpink.maasdriel.nl
 ibzpink.medemblik.nl
 ibzpink.meerssen.nl
 ibzpink.middelburg.nl
+ibzpink.midden-groningen.nl
 ibzpink.middendrenthe.nl
 icm-ast.asten.nl
 ict-ers.werkenvoornederland.nl
@@ -4586,6 +4600,7 @@ intranet.meerssen.nl
 intranet.meierijstad.nl
 intranet.meppel.nl
 intranet.middelburg.nl
+intranet.midden-groningen.nl
 intranet.middendelfland.nl
 intranet.raadsinformatie.amsterdam.nl
 intranetacc.apeldoorn.nl
@@ -4595,6 +4610,7 @@ intranetcms-acc.landvancuijk.nl
 intranetcms.bergendal.nl
 intranetcms.drimmelen.nl
 intranetcms.landvancuijk.nl
+intranetcms.midden-groningen.nl
 intranettest.krimpenerwaard.nl
 intratest.gouda.nl
 intrekkingsportaal.acceptatie.digipoort.logius.nl
@@ -5447,6 +5463,7 @@ micontentstore.lansingerland.nl
 microservices.schoolwijzer.amsterdam.nl
 micstz.almelo.nl
 middelburg.nl
+midden-groningen.nl
 middendelfland.nl
 middendrenthe.nl
 middengroningen.groningen.nl
@@ -5571,6 +5588,7 @@ mijngeldzaken.denhaag.nl
 mijngeldzaken.doetinchem.nl
 mijngeldzakenacc.apeldoorn.nl
 mijngkb.groningen.nl
+mijngkb.midden-groningen.nl
 mijnict.almere.nl
 mijninkomen-test.almelo.nl
 mijninkomen.almelo.nl
@@ -5700,12 +5718,14 @@ mks.haarlemmermeer.nl
 mks.hethogeland.nl
 mks.hoogeveen.nl
 mks.kerkrade.nl
+mks.midden-groningen.nl
 mks.preprod.amsterdam.nl
 mks.test.amsterdam.nl
 mks01.amsterdam.nl
 mks01msn.meerssen.nl
 mksacc.breda.nl
 mksp01bkl.boekel.nl
+mksprod.midden-groningen.nl
 mkstest.adir.lingewaard.nl
 mkstest.kerkrade.nl
 mm.acc.belastingdienst.nl
@@ -7210,6 +7230,7 @@ samen.groningen.nl
 samen.harlingen.nl
 samen.lingewaard.nl
 samen.medemblik.nl
+samen.midden-groningen.nl
 samen.s-hertogenbosch.nl
 samenduurzaam.geldrop-mierlo.nl
 samenindebuurt.heerlen.nl
@@ -7932,6 +7953,7 @@ stelselcatalogus.pre.omgevingswet.overheid.nl
 stemmen.amsterdam.nl
 stemvan.emmen.nl
 stemvan.groningen.nl
+stemvan.midden-groningen.nl
 stevensbeek.landvancuijk.nl
 sthbcp02.alkmaar.nl
 stijlgids.overheid.nl
@@ -7986,7 +8008,13 @@ subsidie.maassluis.nl
 subsidiebackoffice.acceptatie.dordrecht.nl
 subsidiebackoffice.dordrecht.nl
 subsidiebeheer.alkmaar.nl
+subsidieloket-acc.midden-groningen.nl
+subsidieloket-backend-acc.midden-groningen.nl
+subsidieloket-backend.midden-groningen.nl
+subsidieloket-login-acc.midden-groningen.nl
+subsidieloket-login.midden-groningen.nl
 subsidieloket.alkmaar.nl
+subsidieloket.midden-groningen.nl
 subsidieregister.denhaag.nl
 subsidies-backend-test.heerenveen.nl
 subsidies-backend.acceptatie.almelo.nl
@@ -8178,6 +8206,7 @@ test-intranet.gemeentebeek.nl
 test-intranet.groningen.nl
 test-intranet.lansingerland.nl
 test-intranet.meierijstad.nl
+test-intranet.midden-groningen.nl
 test-ipa.achtkarspelen.nl
 test-ipa.beesel.nl
 test-ipa.coevorden.nl
@@ -8304,6 +8333,7 @@ testcms-binnenshuis.bergen.nl
 testcms-inhuiz.huizen.nl
 testcms-intranet.beuningen.nl
 testcms-intranet.eemsdelta.nl
+testcms-intranet.midden-groningen.nl
 testcms-jip.hofvantwente.nl
 testcorsa.gulpen-wittem.nl
 testdigid.arnhem.nl
@@ -8334,6 +8364,7 @@ testeloket.ijsselstein.nl
 testeloket.lelystad.nl
 testeloket.meerssen.nl
 testeloket.meppel.nl
+testeloket.midden-groningen.nl
 testformulieren.bodegraven-reeuwijk.nl
 testformulieren.haarlemmermeer.nl
 testinhuiz.huizen.nl
@@ -9040,6 +9071,7 @@ werkenbij.leeuwarden.nl
 werkenbij.lingewaard.nl
 werkenbij.maassluis.nl
 werkenbij.medemblik.nl
+werkenbij.midden-groningen.nl
 werkenbij.toeslagen.nl
 werkeninkomen-test.leiden.nl
 werkeninkomen-test.leiderdorp.nl
@@ -9264,6 +9296,7 @@ www.acc.bodegraven-reeuwijk.nl
 www.acc.denhaag.nl
 www.acc.echt-susteren.nl
 www.acc.halderberge.nl
+www.acc.mijngkb.midden-groningen.nl
 www.acc.omgevingswet.overheid.nl
 www.acc.piwik.echt-susteren.nl
 www.acccorsa02.ovh.gemeentebeek.nl
@@ -9727,12 +9760,14 @@ www.meppel.nl
 www.merk.denhaag.nl
 www.metelkaartrekkenwedegrens.nl
 www.middelburg.nl
+www.midden-groningen.nl
 www.middendelfland.nl
 www.middendrenthe.nl
 www.middengroningen.groningen.nl
 www.mijn.arnhem.nl
 www.mijn.groningen.nl
 www.mijn.overheid.nl
+www.mijngkb.midden-groningen.nl
 www.mijnmobiel.gemeentebeek.nl
 www.mijnmobiel.hillegom.nl
 www.mijnplein.assen.nl
@@ -9842,6 +9877,7 @@ www.s-hertogenbosch.nl
 www.samen.enkhuizen.nl
 www.samen.lingewaard.nl
 www.samen.medemblik.nl
+www.samen.midden-groningen.nl
 www.samenmet.beesel.nl
 www.samenwij.groningen.nl
 www.sbc-ata01.haarlemmermeer.nl
