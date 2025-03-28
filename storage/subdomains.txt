@@ -31,8 +31,8 @@ portal
 acc
 waarmerk
 adfs
-ruimtelijkeplannen
 geo
+ruimtelijkeplannen
 broker
 afspraak
 vpn
@@ -43,10 +43,10 @@ parkeren
 gemeenteraad
 werkenbij
 test-ipa
+raad
 dacceptatieloket
 dacceptatiemidoffice
 betalen
-raad
 testeloket
 dloket
 dmidoffice
@@ -59,17 +59,17 @@ osb
 omgevingsvisie
 belastingbalie
 formulier
-openpub
-cmsoo
 enterpriseregistration
+openpub
+belastingen
+cmsoo
 zaken
 hybrid
-belastingen
 kaart
 digikoppeling-test
-login
 loket.acceptatie
 remote
+login
 flowmailer-tracking
 acc-broker
 cloudadapter-test
@@ -119,6 +119,8 @@ dtestmidoffice
 jaarstukken
 begroting
 transfer
+mobiel
+qr
 apps
 nieuwsbrief
 parkeren-acc
@@ -139,14 +141,12 @@ mdm
 AutoDiscover
 testloket
 opendata
-mobiel
 kennisbank
 belastingportaal
 preprodbroker
 izaaksuite
 snelbaliepp
 siam
-qr
 jcc
 email
 ftp
@@ -168,6 +168,7 @@ gisib
 web
 wachtwoord
 subsidies-backend
+melddesk
 afvalkalender
 dali
 telewerken
@@ -202,7 +203,6 @@ omgevingswet
 mijnzorg-acc
 college
 veiligdelen
-melddesk
 thuiswerken
 onderzoek
 api.betalen
@@ -224,6 +224,7 @@ outlook
 cryptshare
 vth
 bestanden
+afspraakmaken
 zaaksysteem
 handhaving
 academie
@@ -278,7 +279,6 @@ archief
 openstad
 acceptatie-open
 jongin
-afspraakmaken
 www.intranet
 mx1
 aeolus
@@ -306,6 +306,7 @@ gisibgeoserver-test
 gisibgeoserver
 praatmee
 bis
+belastingen-acc
 sociaaldomein
 dkd-test
 exchange
@@ -375,7 +376,6 @@ toegang
 simform-preproductie
 testafspraken
 veiligmailen
-belastingen-acc
 diensten
 planon
 stadsarchief
@@ -413,6 +413,7 @@ loket-acc
 plannen
 beeldbank-bo
 geoserver
+mijnmobiel
 storefront
 www.login
 personeelsplanning
@@ -633,9 +634,12 @@ mo
 ndes
 tijdschrijven
 leerplein
+moh-acc
+moh
 old
 testdigid
 wob
+www.geo
 www.old
 acc-contact.dev
 acc-formulier.dev
@@ -655,7 +659,6 @@ nhr
 solliciterenbij
 director
 ketenportaal.acceptatie
-mijnmobiel
 nedplan
 secudoc
 www.mijnmobiel
@@ -3408,11 +3411,8 @@ jaarverslag
 loketacc
 meedenken
 mfa-rooster
-moh-acc
-moh
 msoid
 preprod-mijngeldzaken
-www.geo
 www.meedenken
 acc-podiumd.sschosting.nl
 assengast1
@@ -6510,3 +6510,6 @@ jccafsprakencloud
 oudebeeldbank
 _sipfederationtls._tcp
 grmks03
+intercontent
+mdesk
+melddesk-test
