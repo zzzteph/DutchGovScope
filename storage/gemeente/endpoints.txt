@@ -92,6 +92,7 @@ http://autodiscover.leiden.nl
 http://autodiscover.leiderdorp.nl
 http://autodiscover.leidschendam-voorburg.nl
 http://autodiscover.lingewaard.nl
+http://autodiscover.lisse.nl
 http://autodiscover.s-hertogenbosch.nl
 http://bastion365.katwijk.nl
 http://beekdaelen.nl
@@ -305,7 +306,9 @@ https://aanmeldenparkeren.beverwijk.nl
 https://aanmelder.delft.nl
 https://aanvraagparkeren.groningen.nl
 https://aanvragenpreprod.hillegom.nl
+https://aanvragenpreprod.lisse.nl
 https://aanvragenprod.hillegom.nl
+https://aanvragenprod.lisse.nl
 https://abonneren-t.delft.nl
 https://abonneren.delft.nl
 https://academie.drimmelen.nl
@@ -472,6 +475,7 @@ https://accept-zaaksysteem.denhelder.nl
 https://accept.subsites.leiden.nl
 https://acceptatie-intranet.hardenberg.nl
 https://acceptatie-mobiliteitsplan.hillegom.nl
+https://acceptatie-mobiliteitsplan.lisse.nl
 https://acceptatie-open.dinkelland.nl
 https://acceptatie-open.gooisemeren.nl
 https://acceptatie-open.hofvantwente.nl
@@ -495,6 +499,7 @@ https://acceptatie.hoogeveen.nl
 https://acceptatie.intranet.debilt.nl
 https://acceptatie.leiderdorp.nl
 https://acceptatie.leusden.nl
+https://acceptatie.lisse.nl
 https://acceptatie.oranjeplein.goirle.nl
 https://acceptatie.subsidies-backend.ede.nl
 https://acceptatie.subsidies.ede.nl
@@ -1036,6 +1041,7 @@ https://boronline.haarlem.nl
 https://borsele.nl
 https://bounces-eps.amsterdam.nl
 https://bouwarchief.hillegom.nl
+https://bouwarchief.lisse.nl
 https://bouwdossiers.amsterdam.nl
 https://bouwkavels.hofvantwente.nl
 https://bouwprojecten.hoorn.nl
@@ -1215,6 +1221,7 @@ https://dali.alphenaandenrijn.nl
 https://dali.brielle.nl
 https://dali.hillegom.nl
 https://dali.leiderdorp.nl
+https://dali.lisse.nl
 https://dantumadiel.frl
 https://dap.amsterdam.nl
 https://dashboard-iav-api.goeree-overflakkee.nl
@@ -1499,6 +1506,7 @@ https://edienstenburgerzaken-test.leeuwarden.nl
 https://edienstenburgerzaken-test.leiden.nl
 https://edienstenburgerzaken-test.leiderdorp.nl
 https://edienstenburgerzaken-test.leusden.nl
+https://edienstenburgerzaken-test.lisse.nl
 https://edienstenburgerzaken.aalsmeer.nl
 https://edienstenburgerzaken.aalten.nl
 https://edienstenburgerzaken.acc.denhaag.nl
@@ -1560,12 +1568,14 @@ https://edienstenburgerzaken.leeuwarden.nl
 https://edienstenburgerzaken.leiden.nl
 https://edienstenburgerzaken.leiderdorp.nl
 https://edienstenburgerzaken.leusden.nl
+https://edienstenburgerzaken.lisse.nl
 https://edienstenburgerzaken.test.aalsmeer.nl
 https://edienstenburgerzaken.test.amstelveen.nl
 https://edienstenmijninkomen-acceptatie.albrandswaard.nl
 https://edienstenmijninkomen.albrandswaard.nl
 https://edienstenmijninkomen.barendrecht.nl
 https://edienstenpreprod.hillegom.nl
+https://edienstenpreprod.lisse.nl
 https://edienstensociaaldomein.heerenveen.nl
 https://edienstenweni-test.arnhem.nl
 https://edienstenweni.arnhem.nl
@@ -2500,6 +2510,8 @@ https://link.capelleaandenijssel.nl
 https://link.pr.almere.nl
 https://liquit.gemeenteberkelland.nl
 https://liquit.gemeentebest.nl
+https://lisse-checker-preprod.lisse.nl
+https://lisse.nl
 https://live.bergen-nh.nl
 https://live.landvancuijk.nl
 https://liveblog.ede.nl
@@ -2799,6 +2811,7 @@ https://mobiel.brummen.nl
 https://mobile.doetinchem.nl
 https://mobile.ggd.amsterdam.nl
 https://mobiliteitsplan.hillegom.nl
+https://mobiliteitsplan.lisse.nl
 https://monitor.krimpenerwaard.nl
 https://monitoring.hellendoorn.nl
 https://monumenten.acc.amsterdam.nl
@@ -3000,6 +3013,7 @@ https://open.hilversum.nl
 https://open.hofvantwente.nl
 https://open.krimpenerwaard.nl
 https://open.leudal.nl
+https://open.lisse.nl
 https://openbareruimte.deventer.nl
 https://opendata.assen.nl
 https://opendata.bloemendaal.nl
@@ -4051,10 +4065,12 @@ https://webservice-decosdvl.acc.amsterdam.nl
 https://webservice-decosdvl.amsterdam.nl
 https://webshopapp.denhaag.nl
 https://website.acceptatie.hillegom.nl
+https://website.acceptatie.lisse.nl
 https://website.alphen-chaam.nl
 https://website.gilzerijen.nl
 https://website.hillegom.nl
 https://website.landvancuijk.nl
+https://website.lisse.nl
 https://webwerken.deventer.nl
 https://webwinkel.landvancuijk.nl
 https://weer.landvancuijk.nl
@@ -4429,6 +4445,7 @@ https://www.lelystad.nl
 https://www.leudal.nl
 https://www.leusden.nl
 https://www.lingewaard.nl
+https://www.lisse.nl
 https://www.mariahoeveaanzet.denhaag.nl
 https://www.matenpark.apeldoorn.nl
 https://www.meedenken.arnhem.nl

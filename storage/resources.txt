@@ -53,6 +53,7 @@ ZDPushservice.overheid.nl
 _autodiscover._tcp.buren.nl
 _autodiscover._tcp.debilt.nl
 _autodiscover._tcp.haaksbergen.nl
+_autodiscover._tcp.lisse.nl
 _dmarc.delft.nl
 _dmarc.helmond.nl
 _dmarc.leiden.nl
@@ -117,7 +118,9 @@ aanvraagparkerenacc.groningen.nl
 aanvragen.alkmaar.nl
 aanvragen.denhaag.nl
 aanvragenpreprod.hillegom.nl
+aanvragenpreprod.lisse.nl
 aanvragenprod.hillegom.nl
+aanvragenprod.lisse.nl
 aauth.gouda.nl
 abat.acc.belastingdienst.nl
 abonneren-t.delft.nl
@@ -422,6 +425,7 @@ accept-zaaksysteem.denhelder.nl
 accept.subsites.leiden.nl
 acceptatie-intranet.hardenberg.nl
 acceptatie-mobiliteitsplan.hillegom.nl
+acceptatie-mobiliteitsplan.lisse.nl
 acceptatie-open.dinkelland.nl
 acceptatie-open.gooisemeren.nl
 acceptatie-open.hofvantwente.nl
@@ -469,6 +473,7 @@ acceptatie.landgraaf.nl
 acceptatie.leiderdorp.nl
 acceptatie.leudal.nl
 acceptatie.leusden.nl
+acceptatie.lisse.nl
 acceptatie.omgevingswet.overheid.nl
 acceptatie.oranjeplein.goirle.nl
 acceptatie.participatiewebshop.emmen.nl
@@ -1125,6 +1130,7 @@ autodiscover.leiderdorp.nl
 autodiscover.leidschendam-voorburg.nl
 autodiscover.leudal.nl
 autodiscover.lingewaard.nl
+autodiscover.lisse.nl
 autodiscover.noord.amsterdam.nl
 autodiscover.ombudsman.groningen.nl
 autodiscover.opsb.groningen.nl
@@ -1612,6 +1618,7 @@ boub-api.overheid.nl
 bounces-eps.amsterdam.nl
 bouw.omgevingswet.overheid.nl
 bouwarchief.hillegom.nl
+bouwarchief.lisse.nl
 bouwdossiers.amsterdam.nl
 bouwdossiers.stadsarchief.breda.nl
 bouwkavels.hofvantwente.nl
@@ -2075,6 +2082,7 @@ dali.alphenaandenrijn.nl
 dali.brielle.nl
 dali.hillegom.nl
 dali.leiderdorp.nl
+dali.lisse.nl
 dantumadiel.frl
 dap.amsterdam.nl
 dash-ma.mijn.overheid.nl
@@ -2719,6 +2727,7 @@ edienstenburgerzaken-test.leeuwarden.nl
 edienstenburgerzaken-test.leiden.nl
 edienstenburgerzaken-test.leiderdorp.nl
 edienstenburgerzaken-test.leusden.nl
+edienstenburgerzaken-test.lisse.nl
 edienstenburgerzaken.aalsmeer.nl
 edienstenburgerzaken.aalten.nl
 edienstenburgerzaken.acc.denhaag.nl
@@ -2782,6 +2791,7 @@ edienstenburgerzaken.leeuwarden.nl
 edienstenburgerzaken.leiden.nl
 edienstenburgerzaken.leiderdorp.nl
 edienstenburgerzaken.leusden.nl
+edienstenburgerzaken.lisse.nl
 edienstenburgerzaken.test.aalsmeer.nl
 edienstenburgerzaken.test.amstelveen.nl
 edienstenmijninkomen-acceptatie.albrandswaard.nl
@@ -2789,6 +2799,7 @@ edienstenmijninkomen-acceptatie.barendrecht.nl
 edienstenmijninkomen.albrandswaard.nl
 edienstenmijninkomen.barendrecht.nl
 edienstenpreprod.hillegom.nl
+edienstenpreprod.lisse.nl
 edienstensociaaldomein.heerenveen.nl
 edienstenweni-test.arnhem.nl
 edienstenweni.arnhem.nl
@@ -4729,6 +4740,8 @@ liquit.gemeenteberkelland.nl
 liquit.gemeentebest.nl
 liquit.leeuwarden.nl
 liquitsatellite.gemeenteberkelland.nl
+lisse-checker-preprod.lisse.nl
+lisse.nl
 listen2.dro.amsterdam.nl
 live.bergen-nh.nl
 live.groningen.nl
@@ -5406,6 +5419,7 @@ mobile.ggd.amsterdam.nl
 mobile.gilzerijen.nl
 mobile.huizen.nl
 mobiliteitsplan.hillegom.nl
+mobiliteitsplan.lisse.nl
 mobility.drimmelen.nl
 mobility.groningen.nl
 moh-acc.arnhem.nl
@@ -5821,6 +5835,7 @@ open.hilversum.nl
 open.hofvantwente.nl
 open.krimpenerwaard.nl
 open.leudal.nl
+open.lisse.nl
 open.overheid.nl
 openbareruimte.deventer.nl
 opendata.arnhem.nl
@@ -8510,11 +8525,13 @@ webservices.str13.acc.belastingdienst.nl
 webshopapp.denhaag.nl
 website.acc.belastingdienst.nl
 website.acceptatie.hillegom.nl
+website.acceptatie.lisse.nl
 website.alphen-chaam.nl
 website.belastingdienst.nl
 website.gilzerijen.nl
 website.hillegom.nl
 website.landvancuijk.nl
+website.lisse.nl
 websiteacc.breda.nl
 webtest10.rijksoverheid.nl
 webtim.nzl.amsterdam.nl
@@ -9194,6 +9211,7 @@ www.lelystad.nl
 www.leudal.nl
 www.leusden.nl
 www.lingewaard.nl
+www.lisse.nl
 www.live.groningen.nl
 www.login.gemeentebeek.nl
 www.login.haarlemmermeer.nl

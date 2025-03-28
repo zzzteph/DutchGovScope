@@ -28,9 +28,9 @@ dkd
 acc
 waarmerk
 adfs
+open
 api.meldingen
 portal
-open
 geo
 parkeren
 gemeenteraad
@@ -126,6 +126,7 @@ dtestmidoffice
 jaarstukken
 magazines
 evenementen
+website
 mobiel
 belastingportaal
 mijnzorg-acc
@@ -159,12 +160,12 @@ bestanden
 _dmarc
 m
 api
-website
 college
 gisib
 www.werkenbij
 thuiswerken
 afvalkalender
+dali
 gemeentearchief
 ro-online
 www.duurzaam
@@ -242,7 +243,6 @@ maps
 melddesk
 sociaaldomein
 api.openstad
-dali
 onderzoek
 werkenvoor
 beheer
@@ -277,6 +277,7 @@ xential
 nieuws
 aanmelden
 test-secure
+_autodiscover._tcp
 woz-loket
 filr
 mijnzaken
@@ -383,7 +384,6 @@ key2datadistributie-test
 key2gbavtest
 ssd
 suite4burgerzaken-test
-_autodiscover._tcp
 medewerkers
 www.afspraak
 connect.test
@@ -725,7 +725,14 @@ ubwtest
 vacatures
 preprod-meedoen
 idselect
+aanvragenpreprod
+aanvragenprod
+acceptatie-mobiliteitsplan
+bouwarchief
 ediensten
+edienstenpreprod
+mobiliteitsplan
+website.acceptatie
 wijkteam
 access
 ibabs
@@ -5341,16 +5348,9 @@ pushmail
 webmail2
 wozportaal
 zsaccept
-aanvragenpreprod
-aanvragenprod
-acceptatie-mobiliteitsplan
-bouwarchief
-edienstenpreprod
 hillegom-checker-preprod
 hillegom-checker
 localhost
-mobiliteitsplan
-website.acceptatie
 www.thuiswerken
 acceptatie.hilvernet
 hilvernet
@@ -5841,3 +5841,4 @@ nat
 simcms-klimaatbestendig
 vlindernet
 www.belastingloket
+lisse-checker-preprod
