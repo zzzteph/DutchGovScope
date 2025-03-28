@@ -6,8 +6,8 @@ ibzpink
 edienstenburgerzaken
 edienstenburgerzaken-test
 intranet
-webmail
 afspraken
+webmail
 simsite
 mijn
 mail
@@ -51,10 +51,10 @@ osb
 belastingbalie
 test-ipa
 openpdc
+omgevingsvisie
 dacceptatieloket
 dacceptatiemidoffice
 hybrid
-omgevingsvisie
 belastingen
 login
 dloket
@@ -85,6 +85,7 @@ acc-broker
 cloudadapter
 pki
 portaal
+mailing
 mijnzorg
 mijninkomen
 parkeren-test
@@ -98,7 +99,7 @@ samen
 transfer
 smtp
 e
-mailing
+denkmee
 verkiezingen
 subsidies
 preprod-mijninkomen
@@ -113,7 +114,6 @@ filecap
 dtestmidoffice
 opendata
 kennisbank
-denkmee
 snelbaliepp
 siam
 qr
@@ -404,6 +404,7 @@ mbg1
 www.doemee
 wozloket
 mam
+jcccloud
 2secure
 matomo
 sportaccommodaties
@@ -643,7 +644,6 @@ wozloket-acc
 automator
 rx-mission-publiceren
 voormeldingen
-jcccloud
 belastingportaal-test
 inkomensondersteuning
 ro-onlineprod
@@ -6203,3 +6203,5 @@ testwizraapl
 valuecare
 workforce
 lv-brk
+grmks05
+gt-loket
