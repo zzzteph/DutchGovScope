@@ -12,9 +12,9 @@ mijn
 simsite
 digikoppeling
 mail
+acceptatie
 secure
 simcms
-acceptatie
 preproductie
 probeer
 felix
@@ -28,9 +28,9 @@ dkd
 open
 api.meldingen
 portal
+acc
 waarmerk
 adfs
-acc
 ruimtelijkeplannen
 geo
 broker
@@ -277,6 +277,7 @@ ondernemersloket
 archief
 openstad
 acceptatie-open
+jongin
 afspraakmaken
 www.intranet
 mx1
@@ -330,6 +331,7 @@ radius
 cloud
 www.gemeenteraad
 acc.piwik
+jcccloud
 projecten
 erfgoed
 nieuws
@@ -341,13 +343,13 @@ connect.test
 contentbeheer.test
 woz-loket
 zaken.test
+grooster
 filr
 mijnzaken
 sport
 admin.openstad
 auth.openstad
 img.openstad
-jongin
 woz-portaal
 mx2
 e.openstad
@@ -431,7 +433,6 @@ csc
 mbg1
 www.doemee
 wozloket
-jcccloud
 2secure
 matomo
 sportaccommodaties
@@ -450,7 +451,6 @@ sync
 test-eloket
 preprod-formulieren
 www.afspraak
-grooster
 ris
 inproces.test
 subsidies-login.acceptatie
@@ -6509,3 +6509,4 @@ historischbeeldarchief
 jccafsprakencloud
 oudebeeldbank
 _sipfederationtls._tcp
+grmks03
