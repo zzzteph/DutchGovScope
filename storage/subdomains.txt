@@ -14,11 +14,11 @@ mail
 digikoppeling
 secure
 simcms
-acceptatie
 preproductie
+acceptatie
 probeer
-loket
 felix
+loket
 werkplek
 formulieren
 test
@@ -26,15 +26,15 @@ eloket
 meldingen
 adfs
 open
+dkd
 acc
 api.meldingen
-dkd
 waarmerk
 geo
 portal
+afspraak
 vpn
 parkeren
-afspraak
 werkenbij
 zaaksysteem-accept
 gemeenteraad
@@ -45,16 +45,17 @@ testeloket
 betalen
 data
 raad
+osb
+enterpriseenrollment
 ruimtelijkeplannen
 test-ipa
 openpdc
-osb
 belastingbalie
-enterpriseenrollment
 hybrid
 omgevingsvisie
 dacceptatieloket
 dacceptatiemidoffice
+enterpriseregistration
 api.meldingen-acc
 meldingen-acc
 openpub
@@ -62,7 +63,6 @@ belastingen
 dloket
 dmidoffice
 formulier
-enterpriseregistration
 remote
 flowmailer-tracking
 kaart
@@ -73,6 +73,7 @@ zaken
 digikoppeling-test
 cmsoo
 loket.acceptatie
+osbacc
 duurzaam
 berichten
 extranet
@@ -84,7 +85,6 @@ cloudadapter
 dtestloket
 portaal
 mijnzorg
-osbacc
 mijninkomen
 parkeren-test
 piwik
@@ -136,6 +136,7 @@ telewerken
 gis
 acc-formulier
 acc-podiumd-logs
+bastion365
 sip
 test-cmsintranet
 inloggen
@@ -144,6 +145,7 @@ squit2go
 mdm
 AutoDiscover
 testloket
+_dmarc
 magazines
 servicedesk
 m
@@ -169,7 +171,7 @@ acc-objecttypen
 acc-openklant
 acc-openzaak
 bag
-bastion365
+owa
 sts
 meedoen
 byod
@@ -188,7 +190,6 @@ mobile
 outlook
 cryptshare
 bestanden
-_dmarc
 academie
 api
 filetransfer
@@ -225,7 +226,6 @@ keycloak
 lyncdiscover
 meet
 openformulieren
-owa
 podiumd-logs
 test-digikoppeling
 citrix
@@ -242,6 +242,7 @@ uca
 liquit
 xential
 key2gbav
+test-secure
 vth
 mx1
 zaaksysteem
@@ -293,7 +294,6 @@ projecten
 erfgoed
 nieuws
 aanmelden
-test-secure
 _autodiscover._tcp
 woz-loket
 subsidies-login
@@ -310,6 +310,7 @@ geoportaal
 en
 sbc01
 cloudadapter-prod
+gateway
 www.portal
 mijnsociaaldomein
 ibabs
@@ -435,7 +436,6 @@ flex
 stemvan
 gbionline
 de
-gateway
 www.werkplek
 validsign
 lyncweb
@@ -586,6 +586,7 @@ acc-openklant.dev
 acc-openzaak.dev
 acc-podiumd-logs.dev
 vastgoed
+awmag
 geoserver
 accdrop
 solliciterenbij
@@ -3350,7 +3351,6 @@ www.mijnplein
 www.organisatieontwikkeling
 www.slimbereikbaar
 www.vastgoed
-awmag
 deschop.acceptatie
 deschop
 dk
@@ -6033,3 +6033,9 @@ mintra
 services-test
 intraweb
 telewerkentest
+awmail
+awseg
+awtunnel
+ens
+exch
+huisnet

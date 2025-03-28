@@ -64,6 +64,7 @@ _dmarc.delft.nl
 _dmarc.helmond.nl
 _dmarc.leiden.nl
 _dmarc.logius.nl
+_dmarc.nederweert.nl
 _dmarc.rijksoverheid.nl
 a-cms.rijksoverheid.nl
 a-cms1.rijksoverheid.nl
@@ -632,6 +633,7 @@ afspraak.heerenveen.nl
 afspraak.lopik.nl
 afspraak.maassluis.nl
 afspraak.moerdijk.nl
+afspraak.nederweert.nl
 afspraakmaken.dronten.nl
 afspraakmaken.enschede.nl
 afspraakmaken.gemert-bakel.nl
@@ -1214,6 +1216,7 @@ autodiscover.montfoort.nl
 autodiscover.mookenmiddelaar.nl
 autodiscover.natuurlijkgroen.mookenmiddelaar.nl
 autodiscover.nederbetuwe.nl
+autodiscover.nederweert.nl
 autodiscover.noord.amsterdam.nl
 autodiscover.ombudsman.groningen.nl
 autodiscover.opsb.groningen.nl
@@ -1254,6 +1257,10 @@ awg.haarlem.nl
 awm.acc.amsterdam.nl
 awm.amsterdam.nl
 awmag.asten.nl
+awmag.nederweert.nl
+awmail.nederweert.nl
+awseg.nederweert.nl
+awtunnel.nederweert.nl
 axians.lev.delft.nl
 axx-test.belastingdienst.nl
 axx.belastingdienst.nl
@@ -1312,6 +1319,7 @@ bastion365.dijkenwaard.nl
 bastion365.heusden.nl
 bastion365.hollandskroon.nl
 bastion365.katwijk.nl
+bastion365.nederweert.nl
 bat.belastingdienst.nl
 bb1051246.kerkrade.nl
 bb1051247.kerkrade.nl
@@ -2576,6 +2584,7 @@ dkd.landgraaf.nl
 dkd.lansingerland.nl
 dkd.lelystad.nl
 dkd.meierijstad.nl
+dkd.nederweert.nl
 dkdn.epe.nl
 dkdservice-test.meppel.nl
 dkdservice.meppel.nl
@@ -2910,6 +2919,7 @@ edienstenburgerzaken-test.loonopzand.nl
 edienstenburgerzaken-test.lopik.nl
 edienstenburgerzaken-test.meierijstad.nl
 edienstenburgerzaken-test.meppel.nl
+edienstenburgerzaken-test.nederweert.nl
 edienstenburgerzaken.aalsmeer.nl
 edienstenburgerzaken.aalten.nl
 edienstenburgerzaken.acc.denhaag.nl
@@ -2980,6 +2990,7 @@ edienstenburgerzaken.loonopzand.nl
 edienstenburgerzaken.lopik.nl
 edienstenburgerzaken.meierijstad.nl
 edienstenburgerzaken.meppel.nl
+edienstenburgerzaken.nederweert.nl
 edienstenburgerzaken.test.aalsmeer.nl
 edienstenburgerzaken.test.amstelveen.nl
 edienstenmijninkomen-acceptatie.albrandswaard.nl
@@ -3110,6 +3121,7 @@ enkhuizen.nl
 enquete-acc.denhaag.nl
 enquete.almelo.nl
 enquete.denhaag.nl
+ens.nederweert.nl
 enschede.nl
 enterpriseenrollment.alphenaandenrijn.nl
 enterpriseenrollment.ameland.nl
@@ -3128,6 +3140,7 @@ enterpriseenrollment.lingewaard.nl
 enterpriseenrollment.lochem.nl
 enterpriseenrollment.meierijstad.nl
 enterpriseenrollment.moerdijk.nl
+enterpriseenrollment.nederweert.nl
 enterpriseone-arc.almere.nl
 enterpriseone-dv.almere.nl
 enterpriseone-py.almere.nl
@@ -3146,6 +3159,7 @@ enterpriseregistration.landsmeer.nl
 enterpriseregistration.lochem.nl
 enterpriseregistration.moerdijk.nl
 enterpriseregistration.montferland.info
+enterpriseregistration.nederweert.nl
 epe.nl
 epms.amsterdam.nl
 epp.denhaag.nl
@@ -3230,6 +3244,7 @@ event.acc.belastingdienst.nl
 event.belastingdienst.nl
 ews.leeuwarden.nl
 ews.lopik.nl
+exch.nederweert.nl
 exchange.alphenaandenrijn.nl
 exchange.assen.nl
 exchange.defryskemarren.nl
@@ -3320,6 +3335,7 @@ felix.lopik.nl
 felix.maassluis.nl
 felix.middendelfland.nl
 felix.mookenmiddelaar.nl
+felix.nederweert.nl
 felixpdc.doesburg.nl
 festival.landvancuijk.nl
 festivals.landvancuijk.nl
@@ -3599,6 +3615,7 @@ gasten.lansingerland.nl
 gateway.groningen.nl
 gateway.heerenveen.nl
 gateway.middendelfland.nl
+gateway.nederweert.nl
 gb-app05.gemeenteberkelland.nl
 gb-servers.intra.gemert-bakel.nl
 gba-v.haarlem.nl
@@ -4137,6 +4154,7 @@ hth-vpn.denhaag.nl
 htmleditor.officiele-overheidspublicaties.nl
 hub.gemeentemaastricht.nl
 huishoudboekje.amersfoort.nl
+huisnet.nederweert.nl
 huisstijl.acc.belastingdienst.nl
 huisstijl.belastingdienst.nl
 huisstijl.moerdijk.nl
@@ -5323,6 +5341,7 @@ mail.lopik.nl
 mail.losser.nl
 mail.mailing.haaksbergen.nl
 mail.middendelfland.nl
+mail.nederweert.nl
 mail.noord.amsterdam.nl
 mail.s-hertogenbosch.nl
 mail01.bodegraven-reeuwijk.nl
@@ -5965,6 +5984,7 @@ nedbrowser.brunssum.nl
 nedbrw.apeldoorn.nl
 nedbrwacc.apeldoorn.nl
 nederbetuwe.nl
+nederweert.nl
 nedgeoservices.brunssum.nl
 nedgraphics.eijsden-margraten.nl
 nedmagazijn.brunssum.nl
@@ -6425,6 +6445,7 @@ osb.hilversum.nl
 osb.huizen.nl
 osb.ijsselstein.nl
 osb.montfoort.nl
+osb.nederweert.nl
 osbacc.alkmaar.nl
 osbacc.almere.nl
 osbacc.drechterland.nl
@@ -6435,6 +6456,7 @@ osbacc.heerenveen.nl
 osbacc.hilversum.nl
 osbacc.ijsselstein.nl
 osbacc.montfoort.nl
+osbacc.nederweert.nl
 osbtest.capelleaandenijssel.nl
 osdorp.amsterdam.nl
 oso.s-hertogenbosch.nl
@@ -6472,6 +6494,7 @@ owa.epe.nl
 owa.groningen.nl
 owa.helmond.nl
 owa.kampen.nl
+owa.nederweert.nl
 owa.oudzuid.amsterdam.nl
 owa.stadstoezicht.amsterdam.nl
 ows-ahp-test.groningen.nl
@@ -6962,6 +6985,7 @@ preproductie.meierijstad.nl
 preproductie.middendelfland.nl
 preproductie.montferland.info
 preproductie.mookenmiddelaar.nl
+preproductie.nederweert.nl
 presenteren.ont.belastingdienst.nl
 preview-eto.overheid.nl
 prijsvraag-zwembad.apeldoorn.nl
@@ -7010,6 +7034,7 @@ probeer.maassluis.nl
 probeer.middelburg.nl
 probeer.middendelfland.nl
 probeer.mookenmiddelaar.nl
+probeer.nederweert.nl
 prod-dictu.comcms.logius.nl
 prod-dictu.logius.nl
 prod.drechterland.nl
@@ -7484,6 +7509,7 @@ secure.molenlanden.nl
 secure.montferland.info
 secure.montfoort.nl
 secure.mookenmiddelaar.nl
+secure.nederweert.nl
 secure.ot.denhaag.nl
 secure1.gulpen-wittem.nl
 securegw.bunschoten.nl
@@ -7677,6 +7703,7 @@ simcms.maassluis.nl
 simcms.middelburg.nl
 simcms.middendelfland.nl
 simcms.mookenmiddelaar.nl
+simcms.nederweert.nl
 simcms2.beekdaelen.nl
 simcmsintra.bergeijk.nl
 simform-preproductie.achtkarspelen.nl
@@ -7745,6 +7772,7 @@ simsite.middelburg.nl
 simsite.middendelfland.nl
 simsite.montferland.info
 simsite.mookenmiddelaar.nl
+simsite.nederweert.nl
 singlegateway.haarlem.nl
 sint-agatha.landvancuijk.nl
 sint-hubert.landvancuijk.nl
@@ -8400,6 +8428,7 @@ test-secure.brunssum.nl
 test-secure.heerlen.nl
 test-secure.landgraaf.nl
 test-secure.leeuwarden.nl
+test-secure.nederweert.nl
 test-secureweb.landgraaf.nl
 test-social.montferland.info
 test-socialintranet.middendelfland.nl
@@ -9937,6 +9966,7 @@ www.mor-tst.groningen.nl
 www.mx1.haarlemmermeer.nl
 www.myprint.groningen.nl
 www.nederbetuwe.nl
+www.nederweert.nl
 www.nieuwauthentiekbloemendaal.doemee.bloemendaal.nl
 www.nieuwbouw.amsterdam.nl
 www.nieuwsbrief.enschede.nl
