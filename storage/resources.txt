@@ -640,6 +640,7 @@ afspraken.laarbeek.nl
 afspraken.landgraaf.nl
 afspraken.landsmeer.nl
 afspraken.leiden.nl
+afspraken.lelystad.nl
 afspraken2.gorinchem.nl
 afval.acc.denhaag.nl
 afval.acc.omgevingswet.overheid.nl
@@ -976,6 +977,7 @@ auth.doemee.bloemendaal.nl
 auth.gemeentehw.nl
 auth.haarlem.nl
 auth.leeuwarden.nl
+auth.lelystad.nl
 auth.openstad.deventer.nl
 auth.openstad.enschede.nl
 auth.openstad.haarlemmermeer.nl
@@ -1382,6 +1384,7 @@ belastingbalie.hilversum.nl
 belastingbalie.hoorn.nl
 belastingbalie.krimpenaandenijssel.nl
 belastingbalie.leeuwarden.nl
+belastingbalie.lelystad.nl
 belastingbalietest.capelleaandenijssel.nl
 belastingdienst.data.logius.nl
 belastingdienst.nl
@@ -1400,6 +1403,7 @@ belastingen.hellendoorn.nl
 belastingen.hofvantwente.nl
 belastingen.horstaandemaas.nl
 belastingen.kaagenbraassem.nl
+belastingen.lelystad.nl
 belastingloket.acc.emmen.nl
 belastingloket.barneveld.nl
 belastingloket.echt-susteren.nl
@@ -2177,6 +2181,7 @@ designsystem.overheid.nl
 desktop.apeldoorn.nl
 desktop.borne.nl
 desktop.denhaag.nl
+desktop.lelystad.nl
 desktop5.denhaag.nl
 destemvan.groningen.nl
 desuikerzijde.groningen.nl
@@ -2198,6 +2203,7 @@ devisie2020.deventer.nl
 devportal.api.amsterdam.nl
 dewolden.nl
 dex.meldingen.alphenaandenrijn.nl
+dezta.lelystad.nl
 dgdialog.acc.amsterdam.nl
 dgdialog.amsterdam.nl
 dhsbc01.denhelder.nl
@@ -2381,6 +2387,7 @@ dkd.hofvantwente.nl
 dkd.kampen.nl
 dkd.landgraaf.nl
 dkd.lansingerland.nl
+dkd.lelystad.nl
 dkdn.epe.nl
 dkdtest.brunssum.nl
 dkdtest.deventer.nl
@@ -2827,6 +2834,7 @@ eloket.horstaandemaas.nl
 eloket.ijsselstein.nl
 eloket.kerkrade.nl
 eloket.krimpenerwaard.nl
+eloket.lelystad.nl
 eloketstaging.almere.nl
 elokettest.bloemendaal.nl
 email.amsterdam.nl
@@ -3236,6 +3244,7 @@ formulieren.houten.nl
 formulieren.huizen.nl
 formulieren.kerkrade.nl
 formulieren.leiderdorp.nl
+formulieren.lelystad.nl
 formulieren.s-hertogenbosch.nl
 formulieren1.amsterdam.nl
 formulierenacc.breda.nl
@@ -3313,6 +3322,7 @@ gateway.heerenveen.nl
 gb-app05.gemeenteberkelland.nl
 gb-servers.intra.gemert-bakel.nl
 gba-v.haarlem.nl
+gba.lelystad.nl
 gbav.dpg.amsterdam.nl
 gbav.emmen.nl
 gbav1.amersfoort.nl
@@ -3964,6 +3974,7 @@ iburgerzaken.koggenland.nl
 iburgerzaken.laarbeek.nl
 iburgerzaken.landsmeer.nl
 iburgerzaken.laren.nl
+iburgerzaken.lelystad.nl
 iburgerzaken.s-hertogenbosch.nl
 ibzpink.aaenhunze.nl
 ibzpink.achtkarspelen.nl
@@ -4041,6 +4052,7 @@ ibzpink.kampen.nl
 ibzpink.kapelle.nl
 ibzpink.laarbeek.nl
 ibzpink.landsmeer.nl
+ibzpink.lelystad.nl
 icm-ast.asten.nl
 ict-ers.werkenvoornederland.nl
 icters.werkenvoornederland.nl
@@ -4317,6 +4329,7 @@ iparticipatie.hollandskroon.nl
 iparticipatie.huizen.nl
 iparticipatie.leiden.nl
 iparticipatie.leiderdorp.nl
+iparticipatie.lelystad.nl
 iparticipatie.s-hertogenbosch.nl
 ipp.haarlem.nl
 iris.acc.denhaag.nl
@@ -4434,6 +4447,7 @@ kaart.kampen.nl
 kaart.katwijk.nl
 kaart.landvancuijk.nl
 kaart.leiden.nl
+kaart.lelystad.nl
 kaarten-demo.overheid.nl
 kaarten.boxtel.nl
 kaarten.buren.nl
@@ -4579,6 +4593,8 @@ koppelvlak.bergen-nh.nl
 koppelvlak.overheid.nl
 koppelvlakken.landgraaf.nl
 koppelvlakkentst.landgraaf.nl
+kopprd.lelystad.nl
+koptst.lelystad.nl
 kredietbank.accp.s-hertogenbosch.nl
 kredietbank.s-hertogenbosch.nl
 kredietbankwestbrabant.breda.nl
@@ -4630,6 +4646,7 @@ leiderdorp.nl
 leiderschap.belastingdienst.nl
 leiderschapp.belastingdienst.nl
 leidschenveenaanzet.denhaag.nl
+lelystad.nl
 lerenbij.groningen.nl
 lerenloont.almere.nl
 les-acc.amsterdam.nl
@@ -4665,6 +4682,7 @@ live.bergen-nh.nl
 live.groningen.nl
 live.landvancuijk.nl
 liveblog.ede.nl
+livestream.lelystad.nl
 localhost.hillegom.nl
 logilink.brunssum.nl
 logilink.debilt.nl
@@ -4862,6 +4880,7 @@ mail.kampen.nl
 mail.koop.overheid.nl
 mail.krimpenerwaard.nl
 mail.laarbeek.nl
+mail.lelystad.nl
 mail.mailing.haaksbergen.nl
 mail.noord.amsterdam.nl
 mail.s-hertogenbosch.nl
@@ -5386,9 +5405,11 @@ mx01.haarlem.nl
 mx1.ede.nl
 mx1.groningen.nl
 mx1.haarlemmermeer.nl
+mx1.lelystad.nl
 mx1.s-hertogenbosch.nl
 mx2.ede.nl
 mx2.groningen.nl
+mx2.lelystad.nl
 mx2.s-hertogenbosch.nl
 mx3.ede.nl
 mxrelay.overheid.nl
@@ -6642,6 +6663,7 @@ ro.emmen.nl
 ro.gemeenteberkelland.nl
 ro.halderberge.nl
 ro.leiden.nl
+ro.lelystad.nl
 roemte.hethogeland.nl
 rokinintranet.amsterdam.nl
 roles.datapunt.amsterdam.nl
@@ -6961,6 +6983,8 @@ siam.drimmelen.nl
 siam.gooisemeren.nl
 siam.s-hertogenbosch.nl
 siamtest.bunnik.nl
+sibp01.lelystad.nl
+sibt01.lelystad.nl
 siem.hethogeland.nl
 siem2.hethogeland.nl
 sign1-acc.toeslagen.nl
@@ -7458,11 +7482,13 @@ subsidies-backend-test.heerenveen.nl
 subsidies-backend.acceptatie.almelo.nl
 subsidies-backend.acceptatie.debilt.nl
 subsidies-backend.acceptatie.leeuwarden.nl
+subsidies-backend.acceptatie.lelystad.nl
 subsidies-backend.almelo.nl
 subsidies-backend.debilt.nl
 subsidies-backend.ede.nl
 subsidies-backend.heerenveen.nl
 subsidies-backend.leeuwarden.nl
+subsidies-backend.lelystad.nl
 subsidies-login-test.heerenveen.nl
 subsidies-login.acceptatie.debilt.nl
 subsidies-login.acceptatie.ede.nl
@@ -7473,11 +7499,13 @@ subsidies-test.heerenveen.nl
 subsidies.acceptatie.almelo.nl
 subsidies.acceptatie.debilt.nl
 subsidies.acceptatie.leeuwarden.nl
+subsidies.acceptatie.lelystad.nl
 subsidies.almelo.nl
 subsidies.debilt.nl
 subsidies.ede.nl
 subsidies.heerenveen.nl
 subsidies.leeuwarden.nl
+subsidies.lelystad.nl
 subsites.amsterdam.nl
 subsites.leiden.nl
 suikerkwartier.groningen.nl
@@ -7643,6 +7671,7 @@ test-ipa.heerde.nl
 test-ipa.hollandskroon.nl
 test-ipa.huizen.nl
 test-ipa.leiden.nl
+test-ipa.lelystad.nl
 test-ipa.s-hertogenbosch.nl
 test-jip.hofvantwente.nl
 test-kaart.almere.nl
@@ -7773,6 +7802,7 @@ testeloket.helmond.nl
 testeloket.heumen.nl
 testeloket.horstaandemaas.nl
 testeloket.ijsselstein.nl
+testeloket.lelystad.nl
 testformulieren.bodegraven-reeuwijk.nl
 testformulieren.haarlemmermeer.nl
 testinhuiz.huizen.nl
@@ -8448,6 +8478,7 @@ werkenvoor.acceptatie.amstelveen.nl
 werkenvoor.amstelveen.nl
 werkenvoor.denhaag.nl
 werkenvoor.gorinchem.nl
+werkenvoor.lelystad.nl
 werkenvoornederland.nl
 werknemersportaal.assen.nl
 werkomgeving.beesel.nl
@@ -8477,6 +8508,7 @@ werkplek.hilversum.nl
 werkplek.kaagenbraassem.nl
 werkplek.kampen.nl
 werkplek.landvancuijk.nl
+werkplek.lelystad.nl
 werkplek.ovh.gemeentebeek.nl
 werkplek02.derondevenen.nl
 werkplekcb.kampen.nl
@@ -8542,6 +8574,7 @@ winter.groningen.nl
 wion.amersfoort.nl
 wion.goes.nl
 wkpb.haarlem.nl
+wkpb.lelystad.nl
 wlc.denhaag.nl
 wmo.bloemendaal.nl
 wmoauth.acceptatie.amsterdam.nl
@@ -9066,6 +9099,7 @@ www.leiden.nl
 www.leiderdorp.nl
 www.leidschendam-voorburg.nl
 www.leidschenveenaanzet.denhaag.nl
+www.lelystad.nl
 www.live.groningen.nl
 www.login.gemeentebeek.nl
 www.login.haarlemmermeer.nl
