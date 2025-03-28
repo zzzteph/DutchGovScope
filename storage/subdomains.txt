@@ -12,8 +12,8 @@ mijn
 simsite
 digikoppeling
 mail
-secure
 simcms
+secure
 acceptatie
 preproductie
 probeer
@@ -25,9 +25,9 @@ test
 eloket
 werkplek
 dkd
+portal
 open
 api.meldingen
-portal
 acc
 waarmerk
 adfs
@@ -158,6 +158,7 @@ podiumd-logs
 connect.acceptatie
 inproces
 gasten
+jccapi
 inloggen
 uc
 _dmarc
@@ -189,7 +190,6 @@ inproces.acceptatie
 squit2020
 test-cmsintranet
 zaken.acceptatie
-jccapi
 mijnsociaalplein
 preprod-mijnsociaalplein
 ro
