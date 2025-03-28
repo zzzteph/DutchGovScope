@@ -7,9 +7,9 @@ edienstenburgerzaken
 edienstenburgerzaken-test
 mijn
 webmail
+afspraken
 intranet
 simsite
-afspraken
 mail
 digikoppeling
 simcms
@@ -24,9 +24,9 @@ felix
 acc
 meldingen
 werkplek
+eloket
 dkd
 portal
-eloket
 waarmerk
 adfs
 open
@@ -39,12 +39,12 @@ betalen
 vpn
 data
 ruimtelijkeplannen
+osb
 omgevingsvisie
 werkenbij
 iparticipatie
 pv
 openpdc
-osb
 zaaksysteem-accept
 testeloket
 broker
@@ -74,6 +74,7 @@ login
 berichten
 cmsoo
 cloudadapter-test
+osbacc
 flowmailer-tracking
 preprod-mijninkomen
 snelbalie
@@ -83,7 +84,6 @@ mks
 woningbouwkaart
 portaal
 e
-osbacc
 piwik
 kaart
 siam
@@ -194,11 +194,13 @@ subsidies-backend
 subsidies
 maps
 melddesk
+sociaaldomein
 api.openstad
 ro-online
 onderzoek
 vdi
 www.test
+jcc
 api.betalen
 legacy
 openzaak
@@ -284,7 +286,6 @@ veiligdelen
 geodata
 subsidie
 veiligmailen
-sociaaldomein
 stadsarchief
 dali
 exchange
@@ -293,7 +294,6 @@ mozard
 mozardtest
 magazine
 mail2
-jcc
 werkenvoor
 ftp
 hor
@@ -364,6 +364,7 @@ afspraakmaken
 www.intranet
 mx2
 zaaksysteem
+aeolus
 e.openstad
 flex
 geoportaal
@@ -605,7 +606,6 @@ zorgloket
 www.socialekaart
 socialekaart
 welkom
-aeolus
 burgerportaal
 mijnsubsidie
 cmsoo.gemeente
@@ -5493,3 +5493,11 @@ www.preprod.clo
 www.transfer
 www.webvpn
 zoekengemeentearchief
+gijs-acc
+gijs
+gijscms-acc
+gijscms
+hybrid1
+hybrid2
+ijsaeo1
+sociaaldomein-acc
