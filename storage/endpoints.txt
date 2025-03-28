@@ -12,6 +12,7 @@ http://amp-idp-pre.logius.nl
 http://amp-idp.logius.nl
 http://amp-pre.logius.nl
 http://amp.logius.nl
+http://ansvlm2009.landsmeer.nl
 http://archief-yell-cms.etten-leur.nl
 http://archief-yell.etten-leur.nl
 http://autodiscover.aaenhunze.nl
@@ -91,6 +92,7 @@ http://autodiscover.ijsselstein.nl
 http://autodiscover.kampen.nl
 http://autodiscover.katwijk.nl
 http://autodiscover.koggenland.nl
+http://autodiscover.landsmeer.nl
 http://autodiscover.s-hertogenbosch.nl
 http://bastion365.katwijk.nl
 http://beekdaelen.nl
@@ -618,6 +620,7 @@ https://afspraken.hellevoetsluis.nl
 https://afspraken.huizen.nl
 https://afspraken.kampen.nl
 https://afspraken.kapelle.nl
+https://afspraken.landsmeer.nl
 https://afspraken2.gorinchem.nl
 https://afval.assen.nl
 https://afval.diemen.nl
@@ -1766,6 +1769,7 @@ https://enterpriseenrollment.dantumadiel.frl
 https://enterpriseenrollment.doetinchem.nl
 https://enterpriseenrollment.gooisemeren.nl
 https://enterpriseenrollment.heerlen.nl
+https://enterpriseenrollment.landsmeer.nl
 https://enterpriseone-arc.almere.nl
 https://enterpriseone-dv.almere.nl
 https://enterpriseone-py.almere.nl
@@ -1780,6 +1784,7 @@ https://enterpriseregistration.denhaag.nl
 https://enterpriseregistration.doetinchem.nl
 https://enterpriseregistration.gooisemeren.nl
 https://enterpriseregistration.huizen.nl
+https://enterpriseregistration.landsmeer.nl
 https://epe.nl
 https://epp.denhaag.nl
 https://erfgoed.breda.nl
@@ -2314,6 +2319,7 @@ https://iburgerzaken.kapelle.nl
 https://iburgerzaken.kerkrade.nl
 https://iburgerzaken.koggenland.nl
 https://iburgerzaken.laarbeek.nl
+https://iburgerzaken.landsmeer.nl
 https://iburgerzaken.s-hertogenbosch.nl
 https://id-beheer-erfpacht-acc.amsterdam.nl
 https://id-beheer-erfpacht-dev.amsterdam.nl
@@ -2618,6 +2624,7 @@ https://laarbeek.nl
 https://landgraaf.nl
 https://landhorst.landvancuijk.nl
 https://landingspage.landvancuijk.nl
+https://landsmeer.nl
 https://landvancuijk.nl
 https://langenboom.landvancuijk.nl
 https://ld-01.hellevoetsluis.nl
@@ -3536,6 +3543,7 @@ https://publicaties.eindhoven.nl
 https://publicaties.rekenkamer.amsterdam.nl
 https://publiek-id-test.gouda.nl
 https://publiek-id.gouda.nl
+https://publieksbalie.landsmeer.nl
 https://puc-acc.overheid.nl
 https://puc-redactie-acc.overheid.nl
 https://puc-redactie.overheid.nl
@@ -4761,6 +4769,7 @@ https://www.krimpenaandenijssel.nl
 https://www.krimpenerwaard.nl
 https://www.laakhavensbepaalt.denhaag.nl
 https://www.laarbeek.nl
+https://www.landsmeer.nl
 https://www.landvancuijk.nl
 https://www.leidschenveenaanzet.denhaag.nl
 https://www.logius.nl

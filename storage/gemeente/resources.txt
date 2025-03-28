@@ -549,6 +549,7 @@ afspraken.kapelle.nl
 afspraken.kerkrade.nl
 afspraken.laarbeek.nl
 afspraken.landgraaf.nl
+afspraken.landsmeer.nl
 afspraken2.gorinchem.nl
 afval.acc.denhaag.nl
 afval.assen.nl
@@ -636,6 +637,7 @@ andreas2.amsterdam.nl
 andreas2.ont.amsterdam.nl
 andreas2.opl.amsterdam.nl
 andreas2.tst.amsterdam.nl
+ansvlm2009.landsmeer.nl
 antispam.eijsden-margraten.nl
 anva.vga.amsterdam.nl
 anvatest.vga.amsterdam.nl
@@ -937,6 +939,7 @@ autodiscover.ijsselstein.nl
 autodiscover.kampen.nl
 autodiscover.katwijk.nl
 autodiscover.koggenland.nl
+autodiscover.landsmeer.nl
 autodiscover.leefbaar.haarlemmermeer.nl
 autodiscover.noord.amsterdam.nl
 autodiscover.ombudsman.groningen.nl
@@ -1473,6 +1476,7 @@ cloudadapter-test.gorinchem.nl
 cloudadapter-test.gulpen-wittem.nl
 cloudadapter-test.hofvantwente.nl
 cloudadapter-test.landgraaf.nl
+cloudadapter-test.landsmeer.nl
 cloudadapter.baarn.nl
 cloudadapter.bronckhorst.nl
 cloudadapter.brunssum.nl
@@ -1482,6 +1486,7 @@ cloudadapter.dinkelland.nl
 cloudadapter.gemeenteberkelland.nl
 cloudadapter.hellendoorn.nl
 cloudadapter.landgraaf.nl
+cloudadapter.landsmeer.nl
 cloudrecorder.denhaag.nl
 cluster-cg.test.denhaag.nl
 clv.echt-susteren.nl
@@ -1643,6 +1648,7 @@ dacceptatieloket.groningen.nl
 dacceptatieloket.hellevoetsluis.nl
 dacceptatieloket.kampen.nl
 dacceptatieloket.laarbeek.nl
+dacceptatieloket.landsmeer.nl
 dacceptatiemidoffice.assen.nl
 dacceptatiemidoffice.borger-odoorn.nl
 dacceptatiemidoffice.borne.nl
@@ -1657,6 +1663,7 @@ dacceptatiemidoffice.groningen.nl
 dacceptatiemidoffice.hellevoetsluis.nl
 dacceptatiemidoffice.kampen.nl
 dacceptatiemidoffice.laarbeek.nl
+dacceptatiemidoffice.landsmeer.nl
 dagbesteding.apeldoorn.nl
 dalfsen.nl
 dali.alphenaandenrijn.nl
@@ -1974,6 +1981,7 @@ dloket.groningen.nl
 dloket.hellevoetsluis.nl
 dloket.kampen.nl
 dloket.laarbeek.nl
+dloket.landsmeer.nl
 dm-tst.groningen.nl
 dmafunc002.amsterdam.nl
 dmb.amsterdam.nl
@@ -1990,6 +1998,7 @@ dmidoffice.groningen.nl
 dmidoffice.hellevoetsluis.nl
 dmidoffice.kampen.nl
 dmidoffice.laarbeek.nl
+dmidoffice.landsmeer.nl
 dmpfunc002.amsterdam.nl
 dmz-websrv.achtkarspelen.nl
 dns-cache.denhaag.nl
@@ -2043,6 +2052,7 @@ dtestloket.groningen.nl
 dtestloket.hellevoetsluis.nl
 dtestloket.kampen.nl
 dtestloket.laarbeek.nl
+dtestloket.landsmeer.nl
 dtestmidoffice.brielle.nl
 dtestmidoffice.coevorden.nl
 dtestmidoffice.emmen.nl
@@ -2385,6 +2395,7 @@ enterpriseenrollment.doetinchem.nl
 enterpriseenrollment.gooisemeren.nl
 enterpriseenrollment.groningen.nl
 enterpriseenrollment.heerlen.nl
+enterpriseenrollment.landsmeer.nl
 enterpriseone-arc.almere.nl
 enterpriseone-dv.almere.nl
 enterpriseone-py.almere.nl
@@ -2398,6 +2409,7 @@ enterpriseregistration.denhaag.nl
 enterpriseregistration.doetinchem.nl
 enterpriseregistration.gooisemeren.nl
 enterpriseregistration.huizen.nl
+enterpriseregistration.landsmeer.nl
 epe.nl
 epms.amsterdam.nl
 epp.denhaag.nl
@@ -3025,8 +3037,10 @@ gvonline.hilversum.nl
 gvt.haarlemmermeer.nl
 gvz2digikoppeling.acc.amsterdam.nl
 gvz2digikoppeling.amsterdam.nl
+gvz2digikoppeling.landsmeer.nl
 gvzdigikoppeling.acc.amsterdam.nl
 gvzdigikoppeling.amsterdam.nl
+gvzdigikoppeling.landsmeer.nl
 gw.servers1.bergen-nh.nl
 gwmor008.gulpen-wittem.nl
 gwmor009.gulpen-wittem.nl
@@ -3272,6 +3286,7 @@ iburgerzaken.kapelle.nl
 iburgerzaken.kerkrade.nl
 iburgerzaken.koggenland.nl
 iburgerzaken.laarbeek.nl
+iburgerzaken.landsmeer.nl
 iburgerzaken.s-hertogenbosch.nl
 ibzpink.aaenhunze.nl
 ibzpink.achtkarspelen.nl
@@ -3348,6 +3363,7 @@ ibzpink.huizen.nl
 ibzpink.kampen.nl
 ibzpink.kapelle.nl
 ibzpink.laarbeek.nl
+ibzpink.landsmeer.nl
 icm-ast.asten.nl
 id-beheer-erfpacht-acc.amsterdam.nl
 id-beheer-erfpacht-dev.amsterdam.nl
@@ -3825,6 +3841,7 @@ laarbeek.nl
 landgraaf.nl
 landhorst.landvancuijk.nl
 landingspage.landvancuijk.nl
+landsmeer.nl
 landvancuijk.nl
 langenboom.landvancuijk.nl
 langparkeren.amsterdam.nl
@@ -5360,6 +5377,7 @@ publicroam.landgraaf.nl
 publiek-id-test.gouda.nl
 publiek-id.gouda.nl
 publiek.amsterdam.nl
+publieksbalie.landsmeer.nl
 publiekwifi.delft.nl
 pushmail.heusden.nl
 pv.achtkarspelen.nl
@@ -6702,6 +6720,7 @@ vpn.haarlemmermeer.nl
 vpn.heusden.nl
 vpn.hillegom.nl
 vpn.huizen.nl
+vpn.landsmeer.nl
 vpn.zuid.amsterdam.nl
 vpn02.denhaag.nl
 vpn365.denhelder.nl
@@ -6858,6 +6877,7 @@ webmail.kaagenbraassem.nl
 webmail.kampen.nl
 webmail.katwijk.nl
 webmail.landgraaf.nl
+webmail.landsmeer.nl
 webmail.nieuwwest.amsterdam.nl
 webmail.oost-wgm.amsterdam.nl
 webmail.oost.amsterdam.nl
@@ -7486,6 +7506,7 @@ www.krimpenerwaard.nl
 www.laakhavensbepaalt.denhaag.nl
 www.laarbeek.nl
 www.landgraaf.nl
+www.landsmeer.nl
 www.landvancuijk.nl
 www.lauwersmeer.groningen.nl
 www.ld-01.hellevoetsluis.nl
