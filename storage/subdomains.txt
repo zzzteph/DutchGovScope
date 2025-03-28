@@ -21,11 +21,11 @@ loket
 felix
 werkplek
 formulieren
-eloket
 test
+eloket
 meldingen
-adfs
 open
+adfs
 api.meldingen
 dkd
 acc
@@ -34,13 +34,13 @@ portal
 vpn
 geo
 parkeren
-gemeenteraad
 afspraak
 werkenbij
+zaaksysteem-accept
+gemeenteraad
 broker
 iparticipatie
 pv
-zaaksysteem-accept
 testeloket
 betalen
 data
@@ -48,10 +48,10 @@ ruimtelijkeplannen
 test-ipa
 raad
 openpdc
+enterpriseenrollment
 osb
 omgevingsvisie
 belastingbalie
-enterpriseenrollment
 dacceptatieloket
 dacceptatiemidoffice
 api.meldingen-acc
@@ -63,6 +63,7 @@ formulier
 flowmailer-tracking
 hybrid
 kaart
+enterpriseregistration
 govroam
 remote
 zaken
@@ -71,7 +72,6 @@ digikoppeling-test
 login
 cmsoo
 cloudadapter-test
-enterpriseregistration
 loket.acceptatie
 berichten
 beeldbank
@@ -92,6 +92,7 @@ woningbouwkaart
 samen
 pki
 transfer
+smtp
 e
 verkiezingen
 osbacc
@@ -103,7 +104,6 @@ klantcontact
 test-intranet
 www.webmail
 filecap
-smtp
 mailing
 subsidies
 siam
@@ -124,6 +124,7 @@ preprodbroker
 vergunningintaker
 denkmee
 simform
+web
 preprod
 snelbaliepp
 qr
@@ -147,7 +148,6 @@ website
 mobiel
 omgevingswet
 mijnzorg-acc
-web
 subsidies-backend
 thuiswerken
 dali
@@ -198,6 +198,7 @@ www.werkenbij
 subsidie
 subsidies-backend.acceptatie
 subsidies.acceptatie
+maps
 melddesk
 afvalkalender
 gemeentearchief
@@ -208,6 +209,7 @@ ns
 vdi
 www.test
 atlas
+werkenvoor
 api.betalen
 openzaak
 www.acc
@@ -253,11 +255,9 @@ preprod-mijn
 izaaksuite
 bis
 makelaar
-maps
 sociaaldomein
 api.openstad
 onderzoek
-werkenvoor
 beheer
 legacy
 parkeervergunning
@@ -299,6 +299,7 @@ filr
 mijnzaken
 archief
 openstad
+acceptatie-open
 afspraakmaken
 www.intranet
 mx2
@@ -416,7 +417,6 @@ auth.openstad
 img.openstad
 intra
 winkelen
-acceptatie-open
 belastingbalie-test
 jongin
 www.jongin
@@ -459,6 +459,7 @@ dns
 emm
 fibt1
 fibt2.acc
+huisstijl
 mm
 otp
 services.acc
@@ -504,6 +505,7 @@ belastingen-acc
 formulier-test
 ingesprek
 kavels
+leef
 link.pr
 panel
 planon
@@ -1084,7 +1086,6 @@ gtmz.str14.acc
 gtmzperf.acc
 herstel.acc
 huisstijl.acc
-huisstijl
 iah.acc
 ideal20-cnf
 ideal20-test
@@ -2137,7 +2138,6 @@ indienst
 inkoopplein
 kavelwinkel
 leef-acc
-leef
 leefbuiten
 lerenloont
 mijnict
@@ -6004,3 +6004,4 @@ subsidieloket-login-acc
 subsidieloket-login
 www.acc.mijngkb
 www.mijngkb
+leef-test
