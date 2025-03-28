@@ -8,8 +8,8 @@ edienstenburgerzaken-test
 intranet
 webmail
 afspraken
-simsite
 mijn
+simsite
 mail
 digikoppeling
 secure
@@ -38,24 +38,26 @@ parkeren
 werkenbij
 pv
 zaaksysteem-accept
+broker
 gemeenteraad
 testeloket
 betalen
 data
-broker
 iparticipatie
 ruimtelijkeplannen
 raad
 enterpriseenrollment
+openpdc
 osb
 belastingbalie
 test-ipa
-openpdc
 omgevingsvisie
 dacceptatieloket
 dacceptatiemidoffice
+openpub
 hybrid
 belastingen
+kaart
 login
 dloket
 dmidoffice
@@ -64,8 +66,6 @@ enterpriseregistration
 api.meldingen-acc
 meldingen-acc
 remote
-openpub
-kaart
 govroam
 flowmailer-tracking
 cmsoo
@@ -83,6 +83,7 @@ beeldbank
 digikoppeling.test
 acc-broker
 cloudadapter
+samen
 pki
 portaal
 mailing
@@ -95,7 +96,6 @@ financien
 gemeente
 woningbouwkaart
 klantcontact
-samen
 filecap
 transfer
 smtp
@@ -114,6 +114,7 @@ www.webmail
 dtestmidoffice
 opendata
 kennisbank
+preprod
 snelbaliepp
 siam
 qr
@@ -136,7 +137,7 @@ preprodbroker
 vergunningintaker
 simform
 web
-preprod
+dali
 jcc
 ftp
 telewerken
@@ -164,7 +165,6 @@ veiligdelen
 wachtwoord
 subsidies-backend
 thuiswerken
-dali
 api.betalen
 auth
 woo
@@ -195,6 +195,7 @@ mobile
 outlook
 cryptshare
 bestanden
+zaaksysteem
 academie
 api
 filetransfer
@@ -205,6 +206,7 @@ documenten
 raadsnet
 college
 gisib
+preprod-mijn
 www.werkenbij
 subsidie
 subsidies-backend.acceptatie
@@ -253,7 +255,6 @@ bor
 openstad
 vth
 mx1
-zaaksysteem
 aeolus
 handhaving
 cms
@@ -266,7 +267,6 @@ webservices
 zoeken
 loket.test
 praatmee
-preprod-mijn
 izaaksuite
 bis
 geodata
@@ -457,6 +457,7 @@ stemvan
 gbionline
 de
 online
+neuron
 www.werkplek
 validsign
 lyncweb
@@ -692,6 +693,7 @@ test.digikoppeling
 vsp
 rdweb
 sbc
+scim
 binnenstad
 cms.openstad
 forms
@@ -742,7 +744,6 @@ ucweb01-ext
 aaa
 preprod-belastingportaal
 trobit
-neuron
 aov
 authenticatie
 begroting2018
@@ -4251,7 +4252,6 @@ beheer-trefpunt
 bros-academie
 da
 mijnkaart
-scim
 test-trefpunt
 trefpunt
 xelion
@@ -6230,3 +6230,4 @@ test.open-formulieren
 tportal
 zs
 zst
+modern
