@@ -5,8 +5,8 @@ iburgerzaken
 ibzpink
 edienstenburgerzaken
 edienstenburgerzaken-test
-afspraken
 intranet
+afspraken
 webmail
 mijn
 simsite
@@ -22,8 +22,8 @@ loket
 formulieren
 meldingen
 test
-eloket
 werkplek
+eloket
 dkd
 portal
 open
@@ -47,36 +47,36 @@ raad
 dacceptatieloket
 dacceptatiemidoffice
 betalen
+enterpriseenrollment
 testeloket
 dloket
 dmidoffice
 data
-enterpriseenrollment
 api.meldingen-acc
 meldingen-acc
 openpdc
 osb
+enterpriseregistration
 omgevingsvisie
 belastingbalie
-formulier
-enterpriseregistration
-openpub
 belastingen
+formulier
+openpub
 cmsoo
+loket.acceptatie
 zaken
 hybrid
 kaart
 digikoppeling-test
-loket.acceptatie
 remote
 login
 flowmailer-tracking
+mks
 acc-broker
 cloudadapter-test
 govroam
 berichten
 financien
-mks
 belastingloket
 portaal
 duurzaam
@@ -96,6 +96,7 @@ denkmee
 verkiezingen
 mijninkomen
 snelbalie
+preprod
 gemeente
 woningbouwkaart
 klantcontact
@@ -108,7 +109,7 @@ vergunningintaker
 parkeren-test
 subsidies
 preprod-mijninkomen
-preprod
+qr
 acc-formulier
 acc-podiumd-logs
 obsurv
@@ -120,7 +121,6 @@ jaarstukken
 begroting
 transfer
 mobiel
-qr
 apps
 nieuwsbrief
 parkeren-acc
@@ -195,6 +195,7 @@ preprod-mijnsociaalplein
 ro
 micollab
 bor
+afspraakmaken
 www.portal
 magazines
 servicedesk
@@ -217,6 +218,7 @@ guest
 iarchief
 publicroam
 data-test
+intranet-acc
 liquit
 mobile
 xential
@@ -224,7 +226,6 @@ outlook
 cryptshare
 vth
 bestanden
-afspraakmaken
 zaaksysteem
 handhaving
 academie
@@ -243,6 +244,7 @@ makelaar
 subsidie
 subsidies-backend.acceptatie
 subsidies.acceptatie
+belastingen-acc
 maps
 api.openstad
 gemeentearchief
@@ -264,7 +266,6 @@ mijngeldzaken
 meet
 openformulieren
 support
-intranet-acc
 intranetcms
 uca
 extern
@@ -306,7 +307,6 @@ gisibgeoserver-test
 gisibgeoserver
 praatmee
 bis
-belastingen-acc
 sociaaldomein
 dkd-test
 exchange
@@ -399,6 +399,8 @@ digitaleplannen
 e-loket
 digid
 geotest
+moh-acc
+moh
 werk
 dialin
 test-formulier
@@ -478,6 +480,7 @@ eformulieren
 relay
 webformulieren
 www.jongin
+mobility
 grondwater
 vergunningen
 socialekaart
@@ -633,9 +636,8 @@ fm
 mo
 ndes
 tijdschrijven
+digikoppelingtst
 leerplein
-moh-acc
-moh
 old
 testdigid
 wob
@@ -760,7 +762,6 @@ digitalebalie
 durp
 klantportaal.acc
 prod
-mobility
 www.zorgloket
 zorgloket
 www.socialekaart
@@ -905,6 +906,7 @@ cca-acc
 cca
 smtp10
 smtp20
+www.afspraakmaken
 a-cms
 a-cms1
 a-cms2
@@ -3400,7 +3402,6 @@ www.matenpark
 www.prijsvraag-zwembad
 www.stadspas
 beheeropenbareruimte
-digikoppelingtst
 edienstenweni-test
 edienstenweni
 geo1
@@ -6341,7 +6342,6 @@ stwapp02
 stwidocosw02
 stwmksoost01
 talentenbank
-www.afspraakmaken
 www.iarchief
 www.stempasfonds
 www.stwidocosw02
@@ -6514,3 +6514,11 @@ intercontent
 mdesk
 melddesk-test
 mijndesktop
+gplan
+mijncultuurdocument
+mobilemail
+mobilemailtest
+mobilitytest
+s2go
+s2gotest
+werkplek-test
