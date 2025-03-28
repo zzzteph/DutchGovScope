@@ -5,8 +5,8 @@ iburgerzaken
 ibzpink
 edienstenburgerzaken
 edienstenburgerzaken-test
-afspraken
 intranet
+afspraken
 webmail
 mijn
 simsite
@@ -55,17 +55,17 @@ enterpriseenrollment
 dacceptatieloket
 dacceptatiemidoffice
 hybrid
+belastingbalie
 kaart
 dloket
 dmidoffice
+api.meldingen-acc
+meldingen-acc
 remote
-belastingbalie
 digikoppeling-test
 formulier
 enterpriseregistration
 govroam
-api.meldingen-acc
-meldingen-acc
 zaken
 flowmailer-tracking
 belastingen
@@ -144,6 +144,7 @@ auth
 woo
 acc-podiumd-logs
 bastion365
+sts
 obsurv
 byod
 connect.acceptatie
@@ -178,6 +179,7 @@ vdi
 www.test
 atlas
 api.betalen
+ftp
 telewerken
 www.acc
 gis
@@ -196,7 +198,6 @@ lyncdiscover
 meet
 openformulieren
 owa
-sts
 test-digikoppeling
 meedoen
 citrix
@@ -247,7 +248,6 @@ api.openstad
 onderzoek
 werkenvoor
 beheer
-ftp
 legacy
 openzaak
 parkeervergunning
@@ -320,6 +320,7 @@ exchange
 digitaalnachtregister
 mozard
 mozardtest
+crl
 mail2
 hor
 id
@@ -401,6 +402,7 @@ geoservices
 klantportaal
 lvs
 sport
+cloudadapter-t
 admin.openstad
 auth.openstad
 img.openstad
@@ -505,7 +507,6 @@ ssp
 testdigitaalgemeenteloket
 www.centrumbegroot
 bewustwording
-crl
 mail1
 wion
 aanmeldenparkeren
@@ -634,7 +635,7 @@ smartdocuments
 uitslagen
 www.cjg
 www.omgevingsvisie
-cloudadapter-t
+cloudadapter-p
 test.digikoppeling
 vsp
 rdweb
@@ -742,6 +743,7 @@ pkoppelcorsa
 tcorsa
 tkoppelcorsa
 tickets
+ews
 werkeninkomen-test
 werkeninkomen
 a-cms
@@ -4182,7 +4184,6 @@ zomerprogramma070
 zuidwestopznbest-acc
 zuidwestopznbest
 accept-zaaksysteem
-cloudadapter-p
 communication
 dhsbc01
 dhsbc02
@@ -5757,7 +5758,6 @@ api.meldingen-a
 bestandverzenden
 digikoppelingjnet
 ediensten-aanvragen
-ews
 flowmailer-tracking.parkeervergunning
 fortiguard
 gisportal
@@ -5850,3 +5850,12 @@ corsa-test
 geldzaken
 spelenapp
 www.pda
+acd
+alwayson
+cloudadapter-gemnet-p
+cloudadapter-gemnet-t
+ehv-lpi-ap-15
+firewall
+gwo
+simcms.intranet
+welstandsnota
