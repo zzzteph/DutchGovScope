@@ -68,9 +68,9 @@ login
 enterpriseregistration
 remote
 flowmailer-tracking
+digikoppeling-test
 govroam
 zaken
-digikoppeling-test
 berichten
 acc-broker
 cloudadapter-test
@@ -143,6 +143,7 @@ bastion365
 bgt
 keycloak
 podiumd-logs
+sip
 obsurv
 gasten
 inloggen
@@ -167,7 +168,6 @@ objecten
 objecttypen
 openklant
 owa
-sip
 test-digikoppeling
 meedoen
 connect.acceptatie
@@ -190,6 +190,7 @@ thuiswerken
 api.betalen
 auth
 bag
+lyncdiscover
 sts
 byod
 citrix
@@ -254,7 +255,6 @@ www.acc
 www.raad
 mijngeldzaken
 afval
-lyncdiscover
 meet
 openformulieren
 support
@@ -6346,3 +6346,6 @@ www.iarchief
 www.stempasfonds
 www.stwidocosw02
 www.talentenbank
+psiam
+tloket
+tsiam
