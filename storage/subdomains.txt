@@ -34,10 +34,10 @@ afspraak
 geo
 portal
 vpn
+pv
 parkeren
 werkenbij
 broker
-pv
 zaaksysteem-accept
 gemeenteraad
 testeloket
@@ -49,9 +49,9 @@ raad
 enterpriseenrollment
 openpdc
 osb
+omgevingsvisie
 belastingbalie
 test-ipa
-omgevingsvisie
 kaart
 dacceptatieloket
 dacceptatiemidoffice
@@ -116,6 +116,7 @@ dtestmidoffice
 jaarstukken
 opendata
 kennisbank
+belastingportaal
 preprodbroker
 vergunningintaker
 preprod
@@ -135,7 +136,7 @@ testloket
 _dmarc
 m
 evenementen
-belastingportaal
+website
 simform
 web
 dali
@@ -158,7 +159,6 @@ mdm
 magazines
 servicedesk
 services
-website
 mobiel
 omgevingswet
 mijnzorg-acc
@@ -195,6 +195,7 @@ liquit
 ro
 micollab
 mobile
+bor
 outlook
 cryptshare
 bestanden
@@ -254,7 +255,6 @@ uca
 xential
 key2gbav
 test-secure
-bor
 openstad
 vth
 www.intranet
@@ -317,6 +317,7 @@ admin.openstad
 auth.openstad
 img.openstad
 acceptatie-open
+woz-portaal
 afspraakmaken
 mx2
 e.openstad
@@ -449,7 +450,6 @@ eformulieren
 jongin
 webformulieren
 www.jongin
-woz-portaal
 grondwater
 vergunningen
 socialekaart
@@ -459,6 +459,7 @@ mijnuitkering
 stemvan
 gbionline
 de
+preprod-belastingportaal
 online
 neuron
 www.werkplek
@@ -473,6 +474,7 @@ testdigikoppeling
 sera
 vacatures
 access
+insite
 digitaalloket
 kcc
 a-feeds
@@ -745,7 +747,6 @@ financieelportaal
 belastingen-test
 ucweb01-ext
 aaa
-preprod-belastingportaal
 trobit
 aov
 authenticatie
@@ -802,7 +803,6 @@ mobiliteitsplan
 website.acceptatie
 testwerkplek
 wijkteam
-insite
 test-insite
 hybrid1
 hybrid2
@@ -6249,3 +6249,6 @@ lior
 www.digitaalfotoarchief
 betalenaan
 raadsagenda
+acceptatie.insite
+haarendossiers
+test.haarendossiers
