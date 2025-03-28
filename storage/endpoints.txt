@@ -126,6 +126,7 @@ http://clienteleitsm.logius.nl
 http://cmsembrace.laarbeek.nl
 http://cmsinsite.houten.nl
 http://cmsintranet.etten-leur.nl
+http://cmssocialintranet.middendelfland.nl
 http://connect.acceptatie.goirle.nl
 http://coronadashboard.rijksoverheid.nl
 http://crl.denhaag.nl
@@ -156,6 +157,7 @@ http://felix.dalfsen.nl
 http://felix.geldrop-mierlo.nl
 http://felix.gemeentemaasgouw.nl
 http://felix.lingewaard.nl
+http://felix.middendelfland.nl
 http://financials.werkenvoornederland.nl
 http://flowmailer-tracking.katwijk.nl
 http://form-gemeenteloket.gemeentemaastricht.nl
@@ -279,6 +281,7 @@ http://simsite.heumen.nl
 http://simsite.kerkrade.nl
 http://simsite.landgraaf.nl
 http://smartphone.kampen.nl
+http://socialintranet.middendelfland.nl
 http://sonarqube.lpc.logius.nl
 http://squitxo.goirle.nl
 http://squitxotest.goirle.nl
@@ -293,6 +296,7 @@ http://test-cmsinsite.houten.nl
 http://test-cmsintranet.drimmelen.nl
 http://test-cmsintranet.etten-leur.nl
 http://test-cmsintranet.lansingerland.nl
+http://test-cmssocialintranet.middendelfland.nl
 http://test-embrace.laarbeek.nl
 http://test-insite.houten.nl
 http://test-intranet.beuningen.nl
@@ -698,6 +702,7 @@ https://afspraken.kampen.nl
 https://afspraken.kapelle.nl
 https://afspraken.landsmeer.nl
 https://afspraken.lelystad.nl
+https://afspraken.middendelfland.nl
 https://afspraken2.gorinchem.nl
 https://afval.assen.nl
 https://afval.diemen.nl
@@ -2714,6 +2719,7 @@ https://intranet.loonopzand.nl
 https://intranet.meierijstad.nl
 https://intranet.meppel.nl
 https://intranet.middelburg.nl
+https://intranet.middendelfland.nl
 https://intranetacc.apeldoorn.nl
 https://intranetcms-acc.bergendal.nl
 https://intranetcms.bergendal.nl
@@ -3140,6 +3146,7 @@ https://micollab.hellendoorn.nl
 https://micollab.huizen.nl
 https://micontentstore.lansingerland.nl
 https://microservices.schoolwijzer.amsterdam.nl
+https://middendelfland.nl
 https://mijn-acc.groningen.nl
 https://mijn-acc.igj.nl
 https://mijn-acceptatie.enschede.nl
@@ -3184,6 +3191,7 @@ https://mijn.lochem.nl
 https://mijn.maasdriel.nl
 https://mijn.maassluis.nl
 https://mijn.meppel.nl
+https://mijn.middendelfland.nl
 https://mijn.overheid.nl
 https://mijn.toeslagen.nl
 https://mijnaanvraag.belastingdienst.nl
@@ -4207,6 +4215,7 @@ https://simcms.kerkrade.nl
 https://simcms.lingewaard.nl
 https://simcms.lopik.nl
 https://simcms.middelburg.nl
+https://simcms.middendelfland.nl
 https://simform-preproductie.achtkarspelen.nl
 https://simform-preproductie.gemeentehw.nl
 https://simform.houten.nl
@@ -4217,6 +4226,7 @@ https://simsite.geertruidenberg.nl
 https://simsite.heeze-leende.nl
 https://simsite.koggenland.nl
 https://simsite.lopik.nl
+https://simsite.middendelfland.nl
 https://sint-agatha.landvancuijk.nl
 https://sint-hubert.landvancuijk.nl
 https://sintanthonis.landvancuijk.nl
@@ -5280,6 +5290,7 @@ https://www.meppel.nl
 https://www.merk.denhaag.nl
 https://www.metelkaartrekkenwedegrens.nl
 https://www.middelburg.nl
+https://www.middendelfland.nl
 https://www.mijn.arnhem.nl
 https://www.mijn.groningen.nl
 https://www.mijn.overheid.nl
@@ -5438,6 +5449,7 @@ https://zaaksysteem-accept.lansingerland.nl
 https://zaaksysteem-accept.lingewaard.nl
 https://zaaksysteem-accept.maasdriel.nl
 https://zaaksysteem-accept.maassluis.nl
+https://zaaksysteem-accept.middendelfland.nl
 https://zaaksysteem.ede.nl
 https://zaaksysteem.hilversum.nl
 https://zaaksysteem.maassluis.nl

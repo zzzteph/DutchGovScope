@@ -17,8 +17,8 @@ secure
 preproductie
 acceptatie
 probeer
-loket
 felix
+loket
 werkplek
 formulieren
 eloket
@@ -39,9 +39,9 @@ afspraak
 broker
 iparticipatie
 pv
+zaaksysteem-accept
 betalen
 werkenbij
-zaaksysteem-accept
 testeloket
 data
 ruimtelijkeplannen
@@ -148,6 +148,7 @@ belastingportaal
 mijnzorg-acc
 web
 subsidies-backend
+thuiswerken
 dali
 ftp
 telewerken
@@ -185,6 +186,7 @@ bestanden
 _dmarc
 servicedesk
 api
+filetransfer
 fs
 documenten
 college
@@ -196,7 +198,6 @@ subsidie
 subsidies-backend.acceptatie
 subsidies.acceptatie
 melddesk
-thuiswerken
 afvalkalender
 gemeentearchief
 ro-online
@@ -239,7 +240,6 @@ feeds
 english
 academie
 download
-filetransfer
 rap
 services
 webservices
@@ -426,9 +426,11 @@ www.samen
 gbionline
 de
 cloudadapter-prod
+gateway
 www.werkplek
 lyncweb
 servicegateway
+testdigikoppeling
 sera
 access
 ibabs
@@ -713,7 +715,6 @@ neuron
 aov
 begroting2018
 economie
-gateway
 handhavingtest
 open-formulieren
 ows-app
@@ -729,7 +730,6 @@ jccbetalen
 officewebapps
 pip
 portaltest
-testdigikoppeling
 testzaken
 www.djuma
 www.vpn
@@ -5953,3 +5953,24 @@ regieportaal
 samenwerkingbelastingen-test
 samenwerkingbelastingen
 zorg-acc
+MD-APP-P-01
+apigateway
+apigateway2
+brp
+cmssocialintranet
+gwm-orawls-01
+gwm-orawls-02
+gwm-orawls-p1
+gwm-orawls-t1
+jimintranet
+md-app-p-01
+remotewerken
+socialintranet
+srv-dmz-01
+test-cmssocialintranet
+test-socialintranet
+weblogic-prod
+weblogic-test
+weblogic
+www.bag
+www.remotewerken
