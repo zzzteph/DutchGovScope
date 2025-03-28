@@ -525,6 +525,7 @@ adfs.hoorn.nl
 adfs.kerkrade.nl
 adfs.landgraaf.nl
 adfs.leudal.nl
+adfs.lingewaard.nl
 adfslogin.defryskemarren.nl
 adiko.apeldoorn.nl
 admanager.zaaksysteem.eindhoven.nl
@@ -645,6 +646,7 @@ afspraken.landgraaf.nl
 afspraken.landsmeer.nl
 afspraken.leiden.nl
 afspraken.lelystad.nl
+afspraken.lingewaard.nl
 afspraken2.gorinchem.nl
 afval.acc.denhaag.nl
 afval.acc.omgevingswet.overheid.nl
@@ -662,6 +664,7 @@ afvalkalender.goes.nl
 afvalmelding-acc.denhaag.nl
 afvalmelding-dev.denhaag.nl
 afvalmelding.denhaag.nl
+afvalwijzer.lingewaard.nl
 agbi.apeldoorn.nl
 agenda.landvancuijk.nl
 agis.apeldoorn.nl
@@ -1121,6 +1124,7 @@ autodiscover.leiden.nl
 autodiscover.leiderdorp.nl
 autodiscover.leidschendam-voorburg.nl
 autodiscover.leudal.nl
+autodiscover.lingewaard.nl
 autodiscover.noord.amsterdam.nl
 autodiscover.ombudsman.groningen.nl
 autodiscover.opsb.groningen.nl
@@ -1417,6 +1421,7 @@ belastingloket.elburg.nl
 belastingloket.emmen.nl
 belastingloket.hattem.nl
 belastingloket.heerde.nl
+belastingloket.lingewaard.nl
 belastingloket.s-hertogenbosch.nl
 belastingloketacc.emmen.nl
 belastingportaal-test.boxtel.nl
@@ -1467,6 +1472,7 @@ bestanden.dongen.nl
 bestanden.goirle.nl
 bestanden.hengelo.nl
 bestanden.lansingerland.nl
+bestanden.lingewaard.nl
 bestanden.s-hertogenbosch.nl
 bestandversturen.amersfoort.nl
 bestandverzenden.leeuwarden.nl
@@ -2497,6 +2503,7 @@ dongen.nl
 dordrecht.nl
 download.belastingdienst.nl
 download.castricum.nl
+download.lingewaard.nl
 drc.data.amsterdam.nl
 drimmelen.nl
 dronten.nl
@@ -2907,6 +2914,7 @@ enterpriseenrollment.groningen.nl
 enterpriseenrollment.heerlen.nl
 enterpriseenrollment.landsmeer.nl
 enterpriseenrollment.leeuwarden.nl
+enterpriseenrollment.lingewaard.nl
 enterpriseone-arc.almere.nl
 enterpriseone-dv.almere.nl
 enterpriseone-py.almere.nl
@@ -3082,6 +3090,7 @@ felix.kerkrade.nl
 felix.koggenland.nl
 felix.landgraaf.nl
 felix.leudal.nl
+felix.lingewaard.nl
 felixpdc.doesburg.nl
 festival.landvancuijk.nl
 festivals.landvancuijk.nl
@@ -3349,6 +3358,7 @@ gbavt.emmen.nl
 gbcultuur.alkmaar.nl
 gbi.apeldoorn.nl
 gbi.barneveld.nl
+gbi.lingewaard.nl
 gbionline.enschede.nl
 gbionline.houten.nl
 gbionlinetest.enschede.nl
@@ -3480,6 +3490,7 @@ geo.horstaandemaas.nl
 geo.huizen.nl
 geo.koggenland.nl
 geo.krimpenerwaard.nl
+geo.lingewaard.nl
 geo1.arnhem.nl
 geoanalytics.haarlemmermeer.nl
 geobrowser.enschede.nl
@@ -3865,6 +3876,7 @@ hybrid.gooisemeren.nl
 hybrid.gulpen-wittem.nl
 hybrid.heemskerk.nl
 hybrid.kampen.nl
+hybrid.lingewaard.nl
 hybrid.s-hertogenbosch.nl
 hybrid1.ijsselstein.nl
 hybrid2.ijsselstein.nl
@@ -3996,6 +4008,7 @@ iburgerzaken.landsmeer.nl
 iburgerzaken.laren.nl
 iburgerzaken.lelystad.nl
 iburgerzaken.leudal.nl
+iburgerzaken.lingewaard.nl
 iburgerzaken.s-hertogenbosch.nl
 ibzpink.aaenhunze.nl
 ibzpink.achtkarspelen.nl
@@ -4075,6 +4088,7 @@ ibzpink.laarbeek.nl
 ibzpink.landsmeer.nl
 ibzpink.lelystad.nl
 ibzpink.leudal.nl
+ibzpink.lingewaard.nl
 icm-ast.asten.nl
 ict-ers.werkenvoornederland.nl
 icters.werkenvoornederland.nl
@@ -4354,8 +4368,10 @@ iparticipatie.huizen.nl
 iparticipatie.leiden.nl
 iparticipatie.leiderdorp.nl
 iparticipatie.lelystad.nl
+iparticipatie.lingewaard.nl
 iparticipatie.s-hertogenbosch.nl
 ipp.haarlem.nl
+iris-acc.lingewaard.nl
 iris.acc.denhaag.nl
 iris.data.amsterdam.nl
 iris.denhaag.nl
@@ -4412,6 +4428,7 @@ jcc.bergenopzoom.nl
 jcc.heerlen.nl
 jcc.ijsselstein.nl
 jcc.leudal.nl
+jcc.lingewaard.nl
 jccapi.bergeijk.nl
 jccapi.bladel.nl
 jccapi.eersel.nl
@@ -4588,6 +4605,7 @@ klantcontact.deurne.nl
 klantcontact.kerkrade.nl
 klantcontact.koggenland.nl
 klantcontact.landgraaf.nl
+klantcontact.lingewaard.nl
 klanten.heemskerk.nl
 klantgeleiding.gorinchem.nl
 klantportaal-zgw.acc.denhaag.nl
@@ -4599,6 +4617,7 @@ klantportaal.drechterland.nl
 klantportaal.enkhuizen.nl
 kliconline.haarlemmermeer.nl
 klimaat.landvancuijk.nl
+klimaatbestendig.lingewaard.nl
 klimaatplein.bergen-nh.nl
 klimaatplein.castricum.nl
 klimaatplein.heiloo.nl
@@ -4698,6 +4717,7 @@ libertest.landgraaf.nl
 life.landvancuijk.nl
 lifecoolsquare.groningen.nl
 linden.landvancuijk.nl
+lingewaard.nl
 link.capelleaandenijssel.nl
 link.pr.almere.nl
 link.pr.haarlemmermeer.nl
@@ -5181,6 +5201,7 @@ mijn.hoorn.nl
 mijn.houten.nl
 mijn.igj.nl
 mijn.lansingerland.nl
+mijn.lingewaard.nl
 mijn.ont.belastingdienst.nl
 mijn.overheid.nl
 mijn.str10.acc.belastingdienst.nl
@@ -5338,6 +5359,7 @@ misc-geo-02.barneveld.nl
 mivbxsrvr.gorinchem.nl
 mk01.hellevoetsluis.nl
 mks.acc.amsterdam.nl
+mks.adir.lingewaard.nl
 mks.amsterdam.nl
 mks.beekdaelen.nl
 mks.breda.nl
@@ -5354,6 +5376,7 @@ mks.test.amsterdam.nl
 mks01.amsterdam.nl
 mksacc.breda.nl
 mksp01bkl.boekel.nl
+mkstest.adir.lingewaard.nl
 mkstest.kerkrade.nl
 mm.acc.belastingdienst.nl
 mm.belastingdienst.nl
@@ -5469,6 +5492,7 @@ napels.emmen.nl
 nas-beek.ovh.gemeentebeek.nl
 nas-productie.ovh.gemeentebeek.nl
 nasbackup.ovh.gemeentebeek.nl
+nat.lingewaard.nl
 nat_o5001vmfavapp.ont.belastingdienst.nl
 nat_o5002vmfavapp.ont.belastingdienst.nl
 natuur.leiden.nl
@@ -6108,6 +6132,7 @@ persberichten.rijksoverheid.nl
 personeelshandboek.bronckhorst.nl
 personeelsplanning.beekdaelen.nl
 personeelsplanning.kampen.nl
+personeelsplanning.lingewaard.nl
 personeelsvereniging.helmond.nl
 persoonlijk.breda.nl
 petear.brummen.nl
@@ -6652,6 +6677,7 @@ rekentool.groningen.nl
 rekentool.helmond.nl
 relatie-scheiding.almere.nl
 relay.doetinchem.nl
+relay.lingewaard.nl
 religieuserfgoed.deventer.nl
 remcon.amsterdam.nl
 remote.aaenhunze.nl
@@ -6785,6 +6811,7 @@ samen.drechterland.nl
 samen.enkhuizen.nl
 samen.groningen.nl
 samen.harlingen.nl
+samen.lingewaard.nl
 samen.s-hertogenbosch.nl
 samenduurzaam.geldrop-mierlo.nl
 samenindebuurt.heerlen.nl
@@ -7039,6 +7066,7 @@ simcms-centrum.heerlen.nl
 simcms-centrumimpuls.geldrop-mierlo.nl
 simcms-duurzaam.beverwijk.nl
 simcms-energiek.beuningen.nl
+simcms-klimaatbestendig.lingewaard.nl
 simcms-omgevingsvisie.geldrop-mierlo.nl
 simcms-omgevingswet.bronckhorst.nl
 simcms-open.beverwijk.nl
@@ -7094,6 +7122,7 @@ simcms.koggenland.nl
 simcms.krimpenerwaard.nl
 simcms.landgraaf.nl
 simcms.leudal.nl
+simcms.lingewaard.nl
 simcms2.beekdaelen.nl
 simcmsintra.bergeijk.nl
 simform-preproductie.achtkarspelen.nl
@@ -7207,6 +7236,7 @@ smtp.dronten.nl
 smtp.gemeentebeek.nl
 smtp.heusden.nl
 smtp.iba.amsterdam.nl
+smtp.lingewaard.nl
 smtp.rijksoverheid.nl
 smtp1.belastingdienst.nl
 smtp1.denhaag.nl
@@ -7718,6 +7748,7 @@ test-ipa.hollandskroon.nl
 test-ipa.huizen.nl
 test-ipa.leiden.nl
 test-ipa.lelystad.nl
+test-ipa.lingewaard.nl
 test-ipa.s-hertogenbosch.nl
 test-jip.hofvantwente.nl
 test-kaart.almere.nl
@@ -8208,6 +8239,7 @@ view.nieuwsbrief.amsterdam.nl
 vinden.belastingdienst.nl
 vis.gouda.nl
 visvijver.doetinchem.nl
+vlindernet.lingewaard.nl
 vm-cs.kampen.nl
 vmapp002.borne.nl
 vmapp006.borne.nl
@@ -8351,6 +8383,7 @@ web.dordrecht.nl
 web.gorinchem.nl
 web.haarlemmermeer.nl
 web.hattem.nl
+web.lingewaard.nl
 web01.deventer.nl
 web02.deventer.nl
 web2print.assen.nl
@@ -8443,6 +8476,7 @@ webmail.landgraaf.nl
 webmail.landsmeer.nl
 webmail.leidschendam-voorburg.nl
 webmail.leudal.nl
+webmail.lingewaard.nl
 webmail.nieuwwest.amsterdam.nl
 webmail.oost-wgm.amsterdam.nl
 webmail.oost.amsterdam.nl
@@ -8518,6 +8552,7 @@ werkenbij.hilversum.nl
 werkenbij.hollandskroon.nl
 werkenbij.hoorn.nl
 werkenbij.leeuwarden.nl
+werkenbij.lingewaard.nl
 werkenbij.toeslagen.nl
 werkeninkomen-test.leiden.nl
 werkeninkomen-test.leiderdorp.nl
@@ -8561,6 +8596,7 @@ werkplek.landvancuijk.nl
 werkplek.lelystad.nl
 werkplek.leudal.nl
 werkplek.leusden.nl
+werkplek.lingewaard.nl
 werkplek.ovh.gemeentebeek.nl
 werkplek02.derondevenen.nl
 werkplekcb.kampen.nl
@@ -8692,6 +8728,7 @@ woz-portaal.huizen.nl
 woz-portaal.koggenland.nl
 woz.amsterdam.nl
 woz.kampen.nl
+woz.lingewaard.nl
 wozloket-acc.borger-odoorn.nl
 wozloket-acc.coevorden.nl
 wozloket.borger-odoorn.nl
@@ -8791,6 +8828,7 @@ www.begroting2017.groningen.nl
 www.begroting2018.groningen.nl
 www.belastingbalie.ede.nl
 www.belastingdienst.nl
+www.belastingloket.lingewaard.nl
 www.bereikbaar.amsterdam.nl
 www.bereikbarestad.denhaag.nl
 www.bergeijk.nl
@@ -9155,6 +9193,7 @@ www.leidschenveenaanzet.denhaag.nl
 www.lelystad.nl
 www.leudal.nl
 www.leusden.nl
+www.lingewaard.nl
 www.live.groningen.nl
 www.login.gemeentebeek.nl
 www.login.haarlemmermeer.nl
@@ -9279,6 +9318,7 @@ www.ruimtelijkeplannen.dronten.nl
 www.ruimtevoorjou.groningen.nl
 www.s-hertogenbosch.nl
 www.samen.enkhuizen.nl
+www.samen.lingewaard.nl
 www.samenmet.beesel.nl
 www.samenwij.groningen.nl
 www.sbc-ata01.haarlemmermeer.nl
@@ -9478,6 +9518,7 @@ zaaksysteem-accept.halderberge.nl
 zaaksysteem-accept.hardenberg.nl
 zaaksysteem-accept.hofvantwente.nl
 zaaksysteem-accept.lansingerland.nl
+zaaksysteem-accept.lingewaard.nl
 zaaksysteem.ede.nl
 zaaksysteem.eindhoven.nl
 zaaksysteem.hilversum.nl

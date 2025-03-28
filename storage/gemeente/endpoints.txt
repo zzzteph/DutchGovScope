@@ -91,6 +91,7 @@ http://autodiscover.lansingerland.nl
 http://autodiscover.leiden.nl
 http://autodiscover.leiderdorp.nl
 http://autodiscover.leidschendam-voorburg.nl
+http://autodiscover.lingewaard.nl
 http://autodiscover.s-hertogenbosch.nl
 http://bastion365.katwijk.nl
 http://beekdaelen.nl
@@ -122,6 +123,7 @@ http://felix.bronckhorst.nl
 http://felix.cranendonck.nl
 http://felix.dalfsen.nl
 http://felix.geldrop-mierlo.nl
+http://felix.lingewaard.nl
 http://flowmailer-tracking.katwijk.nl
 http://formulieren.gorinchem.nl
 http://formulieren.heerenveen.nl
@@ -139,6 +141,7 @@ http://intranetcms-acc.landvancuijk.nl
 http://kerkrade.nl
 http://leusden-checker-preprod.leusden.nl
 http://leusden-checker.leusden.nl
+http://lingewaard.nl
 http://lvs.denhaag.nl
 http://m.leiden.nl
 http://magazine.amersfoort.nl
@@ -183,6 +186,7 @@ http://sem.kampen.nl
 http://simcms-begraafplaatsduinrust.beverwijk.nl
 http://simcms-centrum.heerlen.nl
 http://simcms-energiek.beuningen.nl
+http://simcms-klimaatbestendig.lingewaard.nl
 http://simcms-omgevingswet.bronckhorst.nl
 http://simcms-open.beverwijk.nl
 http://simcms-open.bronckhorst.nl
@@ -587,6 +591,7 @@ https://afvalkalender.cranendonck.nl
 https://afvalkalender.defryskemarren.nl
 https://afvalkalender.goes.nl
 https://afvalmelding.denhaag.nl
+https://afvalwijzer.lingewaard.nl
 https://agbi.apeldoorn.nl
 https://agenda.landvancuijk.nl
 https://agrifoodtech.landvancuijk.nl
@@ -921,6 +926,7 @@ https://belastingloket.elburg.nl
 https://belastingloket.emmen.nl
 https://belastingloket.hattem.nl
 https://belastingloket.heerde.nl
+https://belastingloket.lingewaard.nl
 https://belastingloket.s-hertogenbosch.nl
 https://belastingportaal-test.boxtel.nl
 https://belastingportaal-test.dinkelland.nl
@@ -1652,6 +1658,7 @@ https://enterpriseenrollment.gooisemeren.nl
 https://enterpriseenrollment.heerlen.nl
 https://enterpriseenrollment.landsmeer.nl
 https://enterpriseenrollment.leeuwarden.nl
+https://enterpriseenrollment.lingewaard.nl
 https://enterpriseone-arc.almere.nl
 https://enterpriseone-dv.almere.nl
 https://enterpriseone-py.almere.nl
@@ -2177,6 +2184,7 @@ https://iburgerzaken.landsmeer.nl
 https://iburgerzaken.laren.nl
 https://iburgerzaken.lelystad.nl
 https://iburgerzaken.leudal.nl
+https://iburgerzaken.lingewaard.nl
 https://iburgerzaken.s-hertogenbosch.nl
 https://id-beheer-erfpacht-acc.amsterdam.nl
 https://id-beheer-erfpacht-dev.amsterdam.nl
@@ -2431,6 +2439,7 @@ https://klantcontact.deurne.nl
 https://klantcontact.kerkrade.nl
 https://klantcontact.koggenland.nl
 https://klantcontact.landgraaf.nl
+https://klantcontact.lingewaard.nl
 https://klantgeleiding.gorinchem.nl
 https://klantportaal-zgw.acc.denhaag.nl
 https://klantportaal-zgw.test.denhaag.nl
@@ -2440,6 +2449,7 @@ https://klantportaal.denhaag.nl
 https://klantportaal.drechterland.nl
 https://klantportaal.enkhuizen.nl
 https://klimaat.landvancuijk.nl
+https://klimaatbestendig.lingewaard.nl
 https://klimaatplein.bergen-nh.nl
 https://klimaatplein.castricum.nl
 https://klimaatplein.heiloo.nl
@@ -2691,6 +2701,7 @@ https://mijn.hofvantwente.nl
 https://mijn.hollandskroon.nl
 https://mijn.hoorn.nl
 https://mijn.lansingerland.nl
+https://mijn.lingewaard.nl
 https://mijnaanvraagzi.beuningen.nl
 https://mijnbelastingen.amsterdam.nl
 https://mijnerfpacht.amsterdam.nl
@@ -3426,6 +3437,7 @@ https://samen.drechterland.nl
 https://samen.enkhuizen.nl
 https://samen.groningen.nl
 https://samen.harlingen.nl
+https://samen.lingewaard.nl
 https://samen.s-hertogenbosch.nl
 https://samenmet.beesel.nl
 https://samenspel.goes.nl
@@ -3516,6 +3528,7 @@ https://simcms.halderberge.nl
 https://simcms.heerlen.nl
 https://simcms.huizen.nl
 https://simcms.kerkrade.nl
+https://simcms.lingewaard.nl
 https://simform-preproductie.achtkarspelen.nl
 https://simform-preproductie.gemeentehw.nl
 https://simform.houten.nl
@@ -4066,6 +4079,7 @@ https://werkenbij.hilversum.nl
 https://werkenbij.hollandskroon.nl
 https://werkenbij.hoorn.nl
 https://werkenbij.leeuwarden.nl
+https://werkenbij.lingewaard.nl
 https://werkeninkomen-test.leiden.nl
 https://werkeninkomen-test.leiderdorp.nl
 https://werkeninkomen.leiden.nl
@@ -4215,6 +4229,7 @@ https://www.barneveld.nl
 https://www.beeldbank.landvancuijk.nl
 https://www.beesel.nl
 https://www.belastingbalie.ede.nl
+https://www.belastingloket.lingewaard.nl
 https://www.bereikbarestad.denhaag.nl
 https://www.bergen-nh.nl
 https://www.bergen.nl
@@ -4413,6 +4428,7 @@ https://www.leidschenveenaanzet.denhaag.nl
 https://www.lelystad.nl
 https://www.leudal.nl
 https://www.leusden.nl
+https://www.lingewaard.nl
 https://www.mariahoeveaanzet.denhaag.nl
 https://www.matenpark.apeldoorn.nl
 https://www.meedenken.arnhem.nl
@@ -4456,6 +4472,7 @@ https://www.rondleidingen.landvancuijk.nl
 https://www.ruimtelijkeplannen.dronten.nl
 https://www.ruimtevoorjou.groningen.nl
 https://www.s-hertogenbosch.nl
+https://www.samen.lingewaard.nl
 https://www.samenmet.beesel.nl
 https://www.samenwij.groningen.nl
 https://www.schoolwijzer.amsterdam.nl
@@ -4555,6 +4572,7 @@ https://zaaksysteem-accept.halderberge.nl
 https://zaaksysteem-accept.hardenberg.nl
 https://zaaksysteem-accept.hofvantwente.nl
 https://zaaksysteem-accept.lansingerland.nl
+https://zaaksysteem-accept.lingewaard.nl
 https://zaaksysteem.ede.nl
 https://zaaksysteem.hilversum.nl
 https://zaken.alblasserdam.nl
