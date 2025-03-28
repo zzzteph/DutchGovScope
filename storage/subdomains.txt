@@ -6,8 +6,8 @@ ibzpink
 edienstenburgerzaken
 edienstenburgerzaken-test
 mijn
-afspraken
 webmail
+afspraken
 intranet
 mail
 simsite
@@ -31,10 +31,10 @@ waarmerk
 adfs
 open
 api.meldingen
+parkeren
 gemeenteraad
 afspraak
 geo
-parkeren
 betalen
 vpn
 data
@@ -59,7 +59,9 @@ remote
 dloket
 dmidoffice
 loket.acceptatie
+flowmailer-tracking
 belastingen
+kaart
 digikoppeling-test
 enterpriseenrollment
 login
@@ -70,10 +72,8 @@ api.meldingen-acc
 meldingen-acc
 mijnzorg
 zaken
-flowmailer-tracking
 mijninkomen
 belastingbalie
-kaart
 berichten
 cloudadapter-test
 osbacc
@@ -93,6 +93,7 @@ beeldbank
 apps
 gemeente
 nieuwsbrief
+parkeren-acc
 acc-broker
 cloudadapter
 kaarten
@@ -108,12 +109,12 @@ preprod
 snelbaliepp
 digikoppeling.test
 email
-parkeren-acc
 bgt
 sip
 belastingloket
 connect
 samen
+transfer
 magazines
 mobiel
 belastingportaal
@@ -122,6 +123,7 @@ vergunningintaker
 denkmee
 simform
 qr
+bastion365
 byod
 simcms-open
 test-intranet
@@ -133,7 +135,6 @@ dtestmidoffice
 jaarstukken
 begroting
 cryptshare
-transfer
 api
 evenementen
 preprodbroker
@@ -153,8 +154,8 @@ www.acc
 gis
 woo
 acc-podiumd-logs
+afval
 bag
-bastion365
 lyncdiscover
 meet
 openformulieren
@@ -177,6 +178,7 @@ mobile
 AutoDiscover
 outlook
 vth
+testloket
 _dmarc
 cms
 feeds
@@ -229,7 +231,6 @@ acc-objecten
 acc-objecttypen
 acc-openklant
 acc-openzaak
-afval
 keycloak
 podiumd-logs
 test-mijn
@@ -257,10 +258,10 @@ woz-loket
 filr
 mijnzaken
 openstad
-testloket
 bestanden
 www.intranet
 mx1
+geoportaal
 handhaving
 www.portal
 servicedesk
@@ -369,7 +370,6 @@ zaaksysteem
 aeolus
 e.openstad
 flex
-geoportaal
 en
 sbc01
 cloudadapter-prod
@@ -667,6 +667,7 @@ digitaal
 preprod-meedoen
 idselect
 ediensten
+wijkteam
 a-cms
 a-cms1
 a-cms2
@@ -5385,7 +5386,6 @@ idselectprd
 organisatievisie2030
 sociaaljaarverslag
 verhalenroute
-wijkteam
 www.denkmee
 www.meedoen
 hgvexc1
@@ -5535,3 +5535,10 @@ werkplekcb
 www.stad
 www.woz
 grmks02
+bro.pre
+digitaalloket
+katwijs
+wijkteam-acc
+wijkteam-care4
+wijkteam-cursus
+wijkteam-tst

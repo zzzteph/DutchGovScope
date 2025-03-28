@@ -606,6 +606,7 @@ afval.assen.nl
 afval.diemen.nl
 afval.geertruidenberg.nl
 afval.goes.nl
+afval.katwijk.nl
 afval.omgevingswet.overheid.nl
 afvalkalender.alphenaandenrijn.nl
 afvalkalender.borsele.nl
@@ -1041,6 +1042,7 @@ autodiscover.houten.nl
 autodiscover.iba.amsterdam.nl
 autodiscover.ijsselstein.nl
 autodiscover.kampen.nl
+autodiscover.katwijk.nl
 autodiscover.koop.overheid.nl
 autodiscover.leefbaar.haarlemmermeer.nl
 autodiscover.noord.amsterdam.nl
@@ -1133,6 +1135,7 @@ bastion365.asten.nl
 bastion365.dijkenwaard.nl
 bastion365.heusden.nl
 bastion365.hollandskroon.nl
+bastion365.katwijk.nl
 bat.belastingdienst.nl
 bb763.ovh.gemeentebeek.nl
 bb831.gulpen-wittem.nl
@@ -1515,6 +1518,7 @@ brlcmg.brielle.nl
 brm-test.belastingdienst.nl
 brm.belastingdienst.nl
 brmrest-test.belastingdienst.nl
+bro.pre.katwijk.nl
 broker-preprod.eemsdelta.nl
 broker.aalten.nl
 broker.assen.nl
@@ -2160,6 +2164,7 @@ digitaal.kampen.nl
 digitaalerfgoed.almere.nl
 digitaalgemeenteloket.alphenaandenrijn.nl
 digitaalgemeenteloket.kaagenbraassem.nl
+digitaalloket.katwijk.nl
 digitaalnachtregister.alphen-chaam.nl
 digitaalnachtregister.baarle-nassau.nl
 digitaalnachtregister.gilzerijen.nl
@@ -2941,6 +2946,7 @@ flowmailer-tracking.haarlemmermeer.nl
 flowmailer-tracking.heerlen.nl
 flowmailer-tracking.helmond.nl
 flowmailer-tracking.kampen.nl
+flowmailer-tracking.katwijk.nl
 fm.apeldoorn.nl
 fm01.apeldoorn.nl
 fm02.apeldoorn.nl
@@ -3232,6 +3238,7 @@ geoloket.heumen.nl
 geoportaal.enschede.nl
 geoportaal.gorinchem.nl
 geoportaal.haarlemmermeer.nl
+geoportaal.katwijk.nl
 geoportaaltest.enschede.nl
 geoportaaltest.haarlemmermeer.nl
 geoprdb.stadstoezicht.amsterdam.nl
@@ -4133,6 +4140,7 @@ kaart.delft.nl
 kaart.haarlem.nl
 kaart.kaagenbraassem.nl
 kaart.kampen.nl
+kaart.katwijk.nl
 kaarten-demo.overheid.nl
 kaarten.boxtel.nl
 kaarten.buren.nl
@@ -4151,6 +4159,8 @@ kampen.nl
 kansshop.eemsdelta.nl
 kapelle.nl
 kassaservice.brunssum.nl
+katwijk.nl
+katwijs.katwijk.nl
 kavaanalytics.vcdn.belastingdienst.nl
 kavelaanbod.enschede.nl
 kavels.almere.nl
@@ -4378,6 +4388,7 @@ loket.hattem.nl
 loket.heerde.nl
 loket.heerlen.nl
 loket.hellendoorn.nl
+loket.katwijk.nl
 loket.overheid.nl
 loket.test.aalsmeer.nl
 loket.test.amstelveen.nl
@@ -5554,6 +5565,7 @@ parkeren-acc.bunschoten.nl
 parkeren-acc.ede.nl
 parkeren-acc.haarlem.nl
 parkeren-acc.hoorn.nl
+parkeren-acc.katwijk.nl
 parkeren-edu.amsterdam.nl
 parkeren-siam-test.dijkenwaard.nl
 parkeren-siam-test.gemeentehulst.nl
@@ -5585,6 +5597,7 @@ parkeren.heerenveen.nl
 parkeren.heerlen.nl
 parkeren.hengelo.nl
 parkeren.hoorn.nl
+parkeren.katwijk.nl
 parkeren.s-hertogenbosch.nl
 parkerendenhaag-test.denhaag.nl
 parkerendenhaag.acc.denhaag.nl
@@ -7236,6 +7249,7 @@ testloket.dinkelland.nl
 testloket.groningen.nl
 testloket.hattem.nl
 testloket.heerde.nl
+testloket.katwijk.nl
 testmeldingen.asten.nl
 testmijn.haarlemmermeer.nl
 testmijnzaken.derondevenen.nl
@@ -7326,6 +7340,7 @@ transfer.drechterland.nl
 transfer.eemsdelta.nl
 transfer.enkhuizen.nl
 transfer.gemeentehulst.nl
+transfer.katwijk.nl
 transfer.s-hertogenbosch.nl
 transform.deventer.nl
 transform.oa.amsterdam.nl
@@ -7759,6 +7774,7 @@ webmail.iba.amsterdam.nl
 webmail.ivv.amsterdam.nl
 webmail.kaagenbraassem.nl
 webmail.kampen.nl
+webmail.katwijk.nl
 webmail.nieuwwest.amsterdam.nl
 webmail.oost-wgm.amsterdam.nl
 webmail.oost.amsterdam.nl
@@ -7899,7 +7915,12 @@ wijkbudgetwaldeck.denhaag.nl
 wijkbudgetypenburg.denhaag.nl
 wijken.dordrecht.nl
 wijkparkdelftlanden.emmen.nl
+wijkteam-acc.katwijk.nl
+wijkteam-care4.katwijk.nl
+wijkteam-cursus.katwijk.nl
+wijkteam-tst.katwijk.nl
 wijkteam.hollandskroon.nl
+wijkteam.katwijk.nl
 wijkteams.almere.nl
 wijkvernieuwing.groningen.nl
 wijsamen.groningen.nl
