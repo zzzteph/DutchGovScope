@@ -87,8 +87,10 @@ http://autodiscover.hoorn.nl
 http://autodiscover.horstaandemaas.nl
 http://autodiscover.houten.nl
 http://autodiscover.ijsselstein.nl
+http://autodiscover.kampen.nl
 http://autodiscover.s-hertogenbosch.nl
 http://beekdaelen.nl
+http://belasting-test.kampen.nl
 http://bergeijk.nl
 http://bergen.nl
 http://bestuursakkoord.s-hertogenbosch.nl
@@ -141,6 +143,7 @@ http://goeree-overflakkee.nl
 http://grafana.lpc.logius.nl
 http://heumen.nl
 http://hybrid.dalfsen.nl
+http://hybrid.kampen.nl
 http://iam-containerplatform-az1.lpc.logius.nl
 http://ict-ers.werkenvoornederland.nl
 http://icters.werkenvoornederland.nl
@@ -155,6 +158,7 @@ http://kibana.lpc.logius.nl
 http://lvs.denhaag.nl
 http://magazine.amersfoort.nl
 http://mail.amsterdam.nl
+http://mail.kampen.nl
 http://malengo-cms.gemert-bakel.nl
 http://malengo-test.gemert-bakel.nl
 http://malengo-testcms.gemert-bakel.nl
@@ -199,6 +203,7 @@ http://rijkstrainees.werkenvoornederland.nl
 http://ro.brunssum.nl
 http://samenwerkruimten-conf.belastingdienst.nl
 http://samenwerkruimten.belastingdienst.nl
+http://sem.kampen.nl
 http://sharepoint-ext-conf.belastingdienst.nl
 http://sharepoint-ext.belastingdienst.nl
 http://simcms-begraafplaatsduinrust.beverwijk.nl
@@ -225,6 +230,7 @@ http://simform.heerlen.nl
 http://simsite.doesburg.nl
 http://simsite.eersel.nl
 http://simsite.heumen.nl
+http://smartphone.kampen.nl
 http://sonarqube.lpc.logius.nl
 http://squitxo.goirle.nl
 http://squitxotest.goirle.nl
@@ -335,6 +341,7 @@ https://acc-broker.deventer.nl
 https://acc-broker.emmen.nl
 https://acc-broker.enschede.nl
 https://acc-broker.gemert-bakel.nl
+https://acc-broker.kampen.nl
 https://acc-contact.assen.nl
 https://acc-contact.dev.assen.nl
 https://acc-contact.dev.groningen.nl
@@ -451,6 +458,7 @@ https://acc.io.amsterdam.nl
 https://acc.jvvs.amsterdam.nl
 https://acc.map.data.amsterdam.nl
 https://acc.meldingen.amsterdam.nl
+https://acc.meldingen.kampen.nl
 https://acc.meldingenamsterdamsebos.amsterdam.nl
 https://acc.meldingenweesp.amsterdam.nl
 https://acc.microservices.schoolwijzer.amsterdam.nl
@@ -569,6 +577,7 @@ https://afspraken.goirle.nl
 https://afspraken.heeze-leende.nl
 https://afspraken.hellevoetsluis.nl
 https://afspraken.huizen.nl
+https://afspraken.kampen.nl
 https://afspraken2.gorinchem.nl
 https://afval.assen.nl
 https://afval.diemen.nl
@@ -644,6 +653,7 @@ https://api-meldingen.almelo.nl
 https://api-meldingen.denhaag.nl
 https://api-ota.belastingdienst.nl
 https://api.acc.meldingen.amsterdam.nl
+https://api.acc.meldingen.kampen.nl
 https://api.aip.amsterdam.nl
 https://api.amsterdam.nl
 https://api.belastingdienst.nl
@@ -705,6 +715,7 @@ https://api.meldingen.hellendoorn.nl
 https://api.meldingen.helmond.nl
 https://api.meldingen.hengelo.nl
 https://api.meldingen.hilversum.nl
+https://api.meldingen.kampen.nl
 https://api.meldingen.s-hertogenbosch.nl
 https://api.mijn.overheid.nl
 https://api.ondernemersplein.overheid.nl
@@ -887,6 +898,7 @@ https://bekendmakingen.houten.nl
 https://bekslaan-leidsevaartweg.doemee.bloemendaal.nl
 https://belasting-loket.helmond.nl
 https://belasting-lokettest.helmond.nl
+https://belasting.kampen.nl
 https://belastingbalie-acc.hilversum.nl
 https://belastingbalie-prepod.gooisemeren.nl
 https://belastingbalie-test.doetinchem.nl
@@ -1060,6 +1072,7 @@ https://broker.emmen.nl
 https://broker.enschede.nl
 https://broker.gemeentehw.nl
 https://broker.gemert-bakel.nl
+https://broker.kampen.nl
 https://bronckhorst.nl
 https://bros-academie.deurne.nl
 https://brt.basisregistraties.overheid.nl
@@ -1155,6 +1168,7 @@ https://cmsoo.gemeente.emmen.nl
 https://cmsoo.gemeente.groningen.nl
 https://cmsoo.gemert-bakel.nl
 https://cmsoo.horstaandemaas.nl
+https://cmsoo.kampen.nl
 https://cmswhatsepe.epe.nl
 https://coevorden.nl
 https://cognitatie.acc.omgevingswet.overheid.nl
@@ -1223,6 +1237,7 @@ https://dacceptatieloket.emmen.nl
 https://dacceptatieloket.enschede.nl
 https://dacceptatieloket.gemert-bakel.nl
 https://dacceptatieloket.groningen.nl
+https://dacceptatieloket.kampen.nl
 https://dagbesteding.apeldoorn.nl
 https://dalfsen.nl
 https://dali.alphenaandenrijn.nl
@@ -1352,6 +1367,7 @@ https://dloket.emmen.nl
 https://dloket.enschede.nl
 https://dloket.gemert-bakel.nl
 https://dloket.groningen.nl
+https://dloket.kampen.nl
 https://dmafunc002.amsterdam.nl
 https://dmo.omgevingswet.overheid.nl
 https://dmpfunc002.amsterdam.nl
@@ -1803,6 +1819,7 @@ https://flowmailer-tracking.goes.nl
 https://flowmailer-tracking.groningen.nl
 https://flowmailer-tracking.haarlemmermeer.nl
 https://flowmailer-tracking.helmond.nl
+https://flowmailer-tracking.kampen.nl
 https://fmis.acc.belastingdienst.nl
 https://fmis.belastingdienst.nl
 https://fmreturn.beekdaelen.nl
@@ -1900,6 +1917,7 @@ https://gemeente.bodegraven-reeuwijk.nl
 https://gemeente.derondevenen.nl
 https://gemeente.emmen.nl
 https://gemeente.groningen.nl
+https://gemeente.kampen.nl
 https://gemeentearchief.alphenaandenrijn.nl
 https://gemeentearchief.barneveld.nl
 https://gemeentearchief.ede.nl
@@ -2102,6 +2120,7 @@ https://huisstijl.belastingdienst.nl
 https://huisvuilkalender.denhaag.nl
 https://huizen.nl
 https://hulpwijzer.hattem.nl
+https://huursportzaal.kampen.nl
 https://hwok-test.gemeentehw.nl
 https://hwok.gemeentehw.nl
 https://hybrid.almere.nl
@@ -2189,6 +2208,7 @@ https://iburgerzaken.hollandskroon.nl
 https://iburgerzaken.hoogeveen.nl
 https://iburgerzaken.horstaandemaas.nl
 https://iburgerzaken.huizen.nl
+https://iburgerzaken.kampen.nl
 https://iburgerzaken.s-hertogenbosch.nl
 https://id-beheer-erfpacht-acc.amsterdam.nl
 https://id-beheer-erfpacht-dev.amsterdam.nl
@@ -2242,6 +2262,7 @@ https://img.openstad.deventer.nl
 https://img.openstad.enschede.nl
 https://img.openstad.haarlemmermeer.nl
 https://img.v2.openstad.haarlemmermeer.nl
+https://impactmeter.kampen.nl
 https://import-acc.organisaties.overheid.nl
 https://import.organisaties.overheid.nl
 https://incassomachtigen.belastingdienst.nl
@@ -2317,6 +2338,7 @@ https://intranet.groningen.nl
 https://intranet.hardenberg.nl
 https://intranet.heusden.nl
 https://intranet.hoorn.nl
+https://intranet.kampen.nl
 https://intranetacc.apeldoorn.nl
 https://intranetcms-acc.bergendal.nl
 https://intranetcms.bergendal.nl
@@ -2383,6 +2405,7 @@ https://kaart.debilt.nl
 https://kaart.delft.nl
 https://kaart.haarlem.nl
 https://kaart.kaagenbraassem.nl
+https://kaart.kampen.nl
 https://kaarten-demo.overheid.nl
 https://kaarten.boxtel.nl
 https://kaarten.buren.nl
@@ -2394,6 +2417,7 @@ https://kaartviewer.barneveld.nl
 https://kaartviewer.hoorn.nl
 https://kadbrkwkpd.deventer.nl
 https://kadernota2022.financielestukken.diemen.nl
+https://kampen.nl
 https://kansshop.eemsdelta.nl
 https://kavaanalytics.vcdn.belastingdienst.nl
 https://kavelaanbod.enschede.nl
@@ -2529,6 +2553,7 @@ https://m.werkenvoornederland.nl
 https://machtigen.digipoort.logius.nl
 https://magazine.dongen.nl
 https://magazine.goes.nl
+https://magazine.kampen.nl
 https://magazines.amsterdam.nl
 https://magazines.gooisemeren.nl
 https://magazines.igj.nl
@@ -2621,6 +2646,7 @@ https://meldingen.hellendoorn.nl
 https://meldingen.helmond.nl
 https://meldingen.hengelo.nl
 https://meldingen.hilversum.nl
+https://meldingen.kampen.nl
 https://meldingen.s-hertogenbosch.nl
 https://meldingenamsterdamsebos.amsterdam.nl
 https://meldingenkust.acc.denhaag.nl
@@ -3105,6 +3131,7 @@ https://parkeernota.eindhoven.nl
 https://parkeerproducten.helmond.nl
 https://parkeervergunning.amsterdam.nl
 https://parkeervergunning.enschede.nl
+https://parkeervergunning.kampen.nl
 https://parkeervergunningen-acc.beverwijk.nl
 https://parkeervergunningen.acc.denhaag.nl
 https://parkeervergunningen.beverwijk.nl
@@ -3151,6 +3178,7 @@ https://pencportal.ede.nl
 https://perf.omgevingswet.overheid.nl
 https://persberichten.rijksoverheid.nl
 https://personeelsplanning.beekdaelen.nl
+https://personeelsplanning.kampen.nl
 https://personeelsvereniging.helmond.nl
 https://petear.brummen.nl
 https://pgw.belastingdienst.nl
@@ -3361,6 +3389,7 @@ https://pv.gevondenvoorwerpen.gemeentehw.nl
 https://pv.heiloo.nl
 https://pv.helmond.nl
 https://pv.kaagenbraassem.nl
+https://pv.kampen.nl
 https://pveopenbareruimte.deventer.nl
 https://pwa.barendrecht.nl
 https://qcalendar.deventer.nl
@@ -3683,6 +3712,7 @@ https://sso.pre.omgevingswet.overheid.nl
 https://sso.tst2905.omgevingswet.overheid.nl
 https://sstpvpn.epe.nl
 https://staatvandeparticipatie.amsterdam.nl
+https://stad.kampen.nl
 https://stadhuis.groningen.nl
 https://stadjerspas-acc.gemeente.groningen.nl
 https://stadjerspas.gemeente.groningen.nl
@@ -4489,11 +4519,13 @@ https://www.inte2e.omgevingswet.overheid.nl
 https://www.integratie.omgevingswet.overheid.nl
 https://www.integratie02.omgevingswet.overheid.nl
 https://www.intpatch.omgevingswet.overheid.nl
+https://www.intranet.kampen.nl
 https://www.janvanzanen-acc.denhaag.nl
 https://www.janvanzanen.denhaag.nl
 https://www.jijmaaktdebuurt.openstad.enschede.nl
 https://www.jouwgrotemarkt.groningen.nl
 https://www.kaagenbraassem.nl
+https://www.kampen.nl
 https://www.laakhavensbepaalt.denhaag.nl
 https://www.leidschenveenaanzet.denhaag.nl
 https://www.logius.nl
@@ -4556,6 +4588,7 @@ https://www.speleninoost.amsterdam.nl
 https://www.speleninzuid.amsterdam.nl
 https://www.sportencultuur.gorinchem.nl
 https://www.staatvandeparticipatie.amsterdam.nl
+https://www.stad.kampen.nl
 https://www.stadsarchief.breda.nl
 https://www.stadshavens.groningen.nl
 https://www.stadskrant-acc.denhaag.nl
