@@ -453,6 +453,7 @@ acc.stadswerken.amsterdam.nl
 acc.static.amsterdam.nl
 acc.statistiek.data.amsterdam.nl
 acc.statistiek.mijn.overheid.nl
+acc.stemvan.opsterland.nl
 acc.straatnotes.amsterdam.nl
 acc.stubs.lpc.mijn.overheid.nl
 acc.subsidie-feiten.amsterdam.nl
@@ -1347,6 +1348,7 @@ autodiscover.oostgelre.nl
 autodiscover.ooststellingwerf.nl
 autodiscover.opmeer.nl
 autodiscover.opsb.groningen.nl
+autodiscover.opsterland.nl
 autodiscover.os.groningen.nl
 autodiscover.ovh.gemeentebeek.nl
 autodiscover.partijvoordedieren.nijmegen.nl
@@ -1457,6 +1459,7 @@ bastion365.katwijk.nl
 bastion365.nederweert.nl
 bastion365.nieuwkoop.nl
 bat.belastingdienst.nl
+batched.opsterland.nl
 bb1051246.kerkrade.nl
 bb1051247.kerkrade.nl
 bb1051697.kerkrade.nl
@@ -3436,6 +3439,7 @@ enterpriseenrollment.meierijstad.nl
 enterpriseenrollment.moerdijk.nl
 enterpriseenrollment.nederweert.nl
 enterpriseenrollment.noardeast-fryslan.nl
+enterpriseenrollment.opsterland.nl
 enterpriseone-arc.almere.nl
 enterpriseone-dv.almere.nl
 enterpriseone-py.almere.nl
@@ -3455,6 +3459,7 @@ enterpriseregistration.lochem.nl
 enterpriseregistration.moerdijk.nl
 enterpriseregistration.montferland.info
 enterpriseregistration.nederweert.nl
+enterpriseregistration.opsterland.nl
 epe.nl
 epms.amsterdam.nl
 epp.denhaag.nl
@@ -3641,6 +3646,7 @@ felix.nuenen.nl
 felix.oirschot.nl
 felix.ooststellingwerf.nl
 felix.opmeer.nl
+felix.opsterland.nl
 felixburgerzaken.nissewaard.nl
 felixpdc.doesburg.nl
 festival.landvancuijk.nl
@@ -3855,6 +3861,7 @@ formulieren.noordoostpolder.nl
 formulieren.nunspeet.nl
 formulieren.olst-wijhe.nl
 formulieren.oostzaan.nl
+formulieren.opsterland.nl
 formulieren.s-hertogenbosch.nl
 formulieren1.amsterdam.nl
 formulierenacc.breda.nl
@@ -3904,6 +3911,7 @@ ftp.krimpenerwaard.nl
 ftp.lopik.nl
 ftp.meerssen.nl
 ftp.nijmegen.nl
+ftp.opsterland.nl
 ftp.rp.heerlen.nl
 ftp.ruimtelijkeplannen.amsterdam.nl
 ftp.sociaal.amsterdam.nl
@@ -4718,6 +4726,7 @@ iburgerzaken.oosterhout.nl
 iburgerzaken.oostgelre.nl
 iburgerzaken.ooststellingwerf.nl
 iburgerzaken.opmeer.nl
+iburgerzaken.opsterland.nl
 iburgerzaken.s-hertogenbosch.nl
 ibzpink.aaenhunze.nl
 ibzpink.achtkarspelen.nl
@@ -4829,6 +4838,7 @@ ibzpink.oosterhout.nl
 ibzpink.oostgelre.nl
 ibzpink.ooststellingwerf.nl
 ibzpink.opmeer.nl
+ibzpink.opsterland.nl
 ice.nijmegen.nl
 icm-ast.asten.nl
 ict-ers.werkenvoornederland.nl
@@ -5168,6 +5178,7 @@ iparticipatie.lochem.nl
 iparticipatie.oldebroek.nl
 iparticipatie.olst-wijhe.nl
 iparticipatie.ooststellingwerf.nl
+iparticipatie.opsterland.nl
 iparticipatie.s-hertogenbosch.nl
 ipp.haarlem.nl
 iris-acc.lingewaard.nl
@@ -5191,6 +5202,7 @@ izaaksuite.bronckhorst.nl
 izaaksuite.drimmelen.nl
 izaaksuite.oirschot.nl
 izaaksuite.ooststellingwerf.nl
+izaaksuite.opsterland.nl
 izrm.huizen.nl
 jaarrekening.arnhem.nl
 jaarrekening2021.financieelportaal.etten-leur.nl
@@ -5326,6 +5338,7 @@ kadernota.middelburg.nl
 kadernota2022.financielestukken.diemen.nl
 kampen.nl
 kansshop.eemsdelta.nl
+kantoor.opsterland.nl
 kapelle.nl
 kassaservice.brunssum.nl
 kassaservice.landgraaf.nl
@@ -5588,6 +5601,7 @@ liveblog.ede.nl
 livestream.lelystad.nl
 local.oostgelre.nl
 localhost.hillegom.nl
+localhost.opsterland.nl
 lochem.nl
 logilink.brunssum.nl
 logilink.debilt.nl
@@ -5832,6 +5846,7 @@ mail.nederweert.nl
 mail.noord.amsterdam.nl
 mail.noordoostpolder.nl
 mail.oostgelre.nl
+mail.opsterland.nl
 mail.s-hertogenbosch.nl
 mail01.bodegraven-reeuwijk.nl
 mail1.amersfoort.nl
@@ -5977,6 +5992,7 @@ melddesk.bodegraven-reeuwijk.nl
 melddesk.haaksbergen.nl
 melddesk.huizen.nl
 melddesk.loonopzand.nl
+melddesk.opsterland.nl
 melding.acc.heerlen.nl
 melding.amsterdam.nl
 melding.heerlen.nl
@@ -6169,6 +6185,7 @@ mijn.ommen.nl
 mijn.ont.belastingdienst.nl
 mijn.oostgelre.nl
 mijn.ooststellingwerf.nl
+mijn.opsterland.nl
 mijn.overheid.nl
 mijn.str10.acc.belastingdienst.nl
 mijn.str10.tst.belastingdienst.nl
@@ -6786,6 +6803,7 @@ olo.heusden.nl
 olsgqa09.belastingdienst.nl
 olsgqa50.belastingdienst.nl
 olst-wijhe.nl
+olwmks01.opsterland.nl
 ombudsman-acc.denhaag.nl
 ombudsman.amsterdam.nl
 ombudsman.denhaag.nl
@@ -7037,6 +7055,9 @@ oproepingen-api-preprd.overheid.nl
 oproepingen-api.overheid.nl
 oproepingen-preprd.overheid.nl
 oproepingen.overheid.nl
+ops-fw1.opsterland.nl
+ops-fw2.opsterland.nl
+opsterland.nl
 or.delft.nl
 oracbloemenbuurt.denhaag.nl
 oranjekwartier.deventer.nl
@@ -7421,6 +7442,7 @@ podiumd-openzaak.deventer.nl
 podiumd-zac.deventer.nl
 point.assen.nl
 pop.deventer.nl
+pop.opsterland.nl
 portaal.acc.belastingdienst.nl
 portaal.achtkarspelen.nl
 portaal.almelo.nl
@@ -7652,6 +7674,7 @@ preproductie.nunspeet.nl
 preproductie.oirschot.nl
 preproductie.ooststellingwerf.nl
 preproductie.opmeer.nl
+preproductie.opsterland.nl
 presenteren.ont.belastingdienst.nl
 preview-eto.overheid.nl
 prijsvraag-zwembad.apeldoorn.nl
@@ -7705,6 +7728,7 @@ probeer.nieuwkoop.nl
 probeer.nuenen.nl
 probeer.ooststellingwerf.nl
 probeer.opmeer.nl
+probeer.opsterland.nl
 prod-dictu.comcms.logius.nl
 prod-dictu.logius.nl
 prod.drechterland.nl
@@ -8030,6 +8054,7 @@ ruimtelijkeplannen.oldebroek.nl
 ruimtelijkeplannen.oldenzaal.nl
 ruimtelijkeplannen.olst-wijhe.nl
 ruimtelijkeplannen.oostgelre.nl
+ruimtelijkeplannen.opsterland.nl
 ruimtelijkeplannen.s-hertogenbosch.nl
 ruimtevoorjou.groningen.nl
 rvmetadata.logius.nl
@@ -8432,6 +8457,7 @@ simcms.nuenen.nl
 simcms.oirschot.nl
 simcms.ooststellingwerf.nl
 simcms.opmeer.nl
+simcms.opsterland.nl
 simcms2.beekdaelen.nl
 simcmsintra.bergeijk.nl
 simform-preproductie.achtkarspelen.nl
@@ -8509,6 +8535,7 @@ simsite.oegstgeest.nl
 simsite.oirschot.nl
 simsite.ooststellingwerf.nl
 simsite.opmeer.nl
+simsite.opsterland.nl
 singlegateway.haarlem.nl
 sint-agatha.landvancuijk.nl
 sint-hubert.landvancuijk.nl
@@ -8567,6 +8594,7 @@ smtp.heusden.nl
 smtp.iba.amsterdam.nl
 smtp.lingewaard.nl
 smtp.moerdijk.nl
+smtp.opsterland.nl
 smtp.rijksoverheid.nl
 smtp01.meerssen.nl
 smtp01.nunspeet.nl
@@ -8577,6 +8605,7 @@ smtp1.hoorn.nl
 smtp1.mijn.overheid.nl
 smtp1.nieuwegein.nl
 smtp10.ooststellingwerf.nl
+smtp10.opsterland.nl
 smtp11.belastingdienst.nl
 smtp12.belastingdienst.nl
 smtp1s.denhaag.nl
@@ -8586,6 +8615,7 @@ smtp2.hoorn.nl
 smtp2.mijn.overheid.nl
 smtp2.nieuwegein.nl
 smtp20.ooststellingwerf.nl
+smtp20.opsterland.nl
 smtp2s.denhaag.nl
 smtp3.mijn.overheid.nl
 smtp31.belastingdienst.nl
@@ -8706,6 +8736,7 @@ squit2020.kerkrade.nl
 squit2020.leudal.nl
 squit2020.oldenzaal.nl
 squit2020.ooststellingwerf.nl
+squit2020.opsterland.nl
 squit2020.test.kerkrade.nl
 squit2020publiceren.eijsden-margraten.nl
 squit2020publiceren.gemeentebeek.nl
@@ -8874,6 +8905,7 @@ stempasfonds.ooststellingwerf.nl
 stemvan.emmen.nl
 stemvan.groningen.nl
 stemvan.midden-groningen.nl
+stemvan.opsterland.nl
 stevensbeek.landvancuijk.nl
 sthbcp02.alkmaar.nl
 stijlgids.overheid.nl
@@ -9176,6 +9208,7 @@ test-ipa.lochem.nl
 test-ipa.oldebroek.nl
 test-ipa.olst-wijhe.nl
 test-ipa.ooststellingwerf.nl
+test-ipa.opsterland.nl
 test-ipa.s-hertogenbosch.nl
 test-jip.hofvantwente.nl
 test-kaart.almere.nl
@@ -10025,6 +10058,7 @@ webmail.oost.amsterdam.nl
 webmail.oostgelre.nl
 webmail.ooststellingwerf.nl
 webmail.opmeer.nl
+webmail.opsterland.nl
 webmail.pmb.amsterdam.nl
 webmail.stadsarchief.amsterdam.nl
 webmail.test.hoorn.nl
@@ -10925,6 +10959,7 @@ www.openstad.haarlemmermeer.nl
 www.openstad.nijmegen.nl
 www.operatiebomenbuurt.denhaag.nl
 www.opmeer.nl
+www.opsterland.nl
 www.oracbloemenbuurt.denhaag.nl
 www.organisatieontwikkeling.assen.nl
 www.osdorp.amsterdam.nl
@@ -11043,6 +11078,7 @@ www.statistiek.amsterdam.nl
 www.stemmen.amsterdam.nl
 www.stempasfonds.ooststellingwerf.nl
 www.stemvan.groningen.nl
+www.stemvan.opsterland.nl
 www.sts.haarlemmermeer.nl
 www.stwidocosw02.ooststellingwerf.nl
 www.suikerkwartier.groningen.nl

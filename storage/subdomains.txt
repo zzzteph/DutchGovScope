@@ -6,20 +6,20 @@ ibzpink
 edienstenburgerzaken
 edienstenburgerzaken-test
 intranet
-afspraken
 webmail
+afspraken
 mijn
 simsite
 digikoppeling
 mail
-secure
 simcms
+secure
 acceptatie
 preproductie
 probeer
 felix
-loket
 formulieren
+loket
 eloket
 meldingen
 test
@@ -32,22 +32,23 @@ waarmerk
 adfs
 portal
 geo
-broker
 ruimtelijkeplannen
+broker
 afspraak
+iparticipatie
 pv
 parkeren
 vpn
-iparticipatie
 zaaksysteem-accept
 gemeenteraad
 werkenbij
 testeloket
+test-ipa
 dacceptatieloket
 dacceptatiemidoffice
 betalen
 data
-test-ipa
+enterpriseenrollment
 dloket
 dmidoffice
 api.meldingen-acc
@@ -55,7 +56,6 @@ meldingen-acc
 raad
 openpdc
 omgevingsvisie
-enterpriseenrollment
 formulier
 osb
 belastingbalie
@@ -63,9 +63,9 @@ openpub
 belastingen
 kaart
 cmsoo
+enterpriseregistration
 hybrid
 login
-enterpriseregistration
 remote
 flowmailer-tracking
 digikoppeling-test
@@ -91,6 +91,7 @@ klantcontact
 samen
 www.webmail
 filecap
+smtp
 portaal
 mailing
 mijnzorg
@@ -107,7 +108,6 @@ simcms-open
 kaarten
 dtestmidoffice
 transfer
-smtp
 e
 vergunningintaker
 denkmee
@@ -139,6 +139,7 @@ snelbaliepp
 siam
 qr
 email
+ftp
 openzaak
 bastion365
 bgt
@@ -155,11 +156,11 @@ evenementen
 website
 simform
 web
+izaaksuite
 wachtwoord
 subsidies-backend
 dali
 jcc
-ftp
 telewerken
 gis
 woo
@@ -173,6 +174,7 @@ meedoen
 connect.acceptatie
 contentbeheer
 internetafspraken
+squit2020
 test-cmsintranet
 jccapi
 ro
@@ -185,8 +187,8 @@ services
 mobiel
 omgevingswet
 mijnzorg-acc
-izaaksuite
 veiligdelen
+melddesk
 thuiswerken
 api.betalen
 auth
@@ -199,7 +201,6 @@ cmsintranet
 contentbeheer.acceptatie
 inproces.acceptatie
 inproces
-squit2020
 zaken.acceptatie
 fmreturn
 guest
@@ -237,7 +238,6 @@ subsidie
 subsidies-backend.acceptatie
 subsidies.acceptatie
 maps
-melddesk
 afvalkalender
 api.openstad
 gemeentearchief
@@ -332,6 +332,7 @@ acceptatie-open
 woz-portaal
 mx2
 e.openstad
+stemvan
 www.samen
 geoportaal
 sbc01
@@ -464,7 +465,6 @@ raadsinformatie
 duo
 flex
 mijnuitkering
-stemvan
 gbionline
 de
 preprod-belastingportaal
@@ -721,6 +721,7 @@ cms.openstad
 devapps3
 forms
 mijnloket
+pop
 staging
 wij
 www.staging
@@ -774,6 +775,7 @@ mijngkb
 open-formulieren
 ows-app
 rekentool
+www.stemvan
 corsanxt
 xentialtest
 mijnintranet
@@ -819,6 +821,7 @@ acceptatie-mobiliteitsplan
 bouwarchief
 ediensten
 edienstenpreprod
+localhost
 mobiliteitsplan
 website.acceptatie
 testwerkplek
@@ -861,6 +864,8 @@ services-test
 huisnet
 raadzaam
 helpmij
+smtp10
+smtp20
 a-cms
 a-cms1
 a-cms2
@@ -4329,7 +4334,6 @@ podiumd-objecttypen
 podiumd-openklant
 podiumd-openzaak
 podiumd-zac
-pop
 pveopenbareruimte
 qcalendar
 religieuserfgoed
@@ -4972,7 +4976,6 @@ www.sinterklaas
 www.sso-test
 www.stadjerspas.gemeente
 www.stadshavens
-www.stemvan
 www.suikerkwartier
 www.testloket
 www.toegangtest
@@ -5386,7 +5389,6 @@ webmail2
 zsaccept
 hillegom-checker-preprod
 hillegom-checker
-localhost
 www.thuiswerken
 acceptatie.hilvernet
 hilvernet
@@ -6334,8 +6336,6 @@ webmail.koo
 www.webkassa.sportbedrijf
 iobjects
 nlwmoosw
-smtp10
-smtp20
 stempasfonds
 stwapp02
 stwidocosw02
@@ -6357,3 +6357,9 @@ opmmks01
 simcms-ontmoetingscentra
 validsign-test
 wijzer-acc
+acc.stemvan
+batched
+kantoor
+olwmks01
+ops-fw1
+ops-fw2

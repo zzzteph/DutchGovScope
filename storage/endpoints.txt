@@ -137,6 +137,7 @@ http://autodiscover.oldebroek.nl
 http://autodiscover.oostgelre.nl
 http://autodiscover.ooststellingwerf.nl
 http://autodiscover.opmeer.nl
+http://autodiscover.opsterland.nl
 http://autodiscover.partijvoordedieren.nijmegen.nl
 http://autodiscover.pvda.mookenmiddelaar.nl
 http://autodiscover.pvda.nijmegen.nl
@@ -257,6 +258,7 @@ http://mijn.heerenveen.nl
 http://mijn.houten.nl
 http://mijn.meierijstad.nl
 http://mijn.ooststellingwerf.nl
+http://mijn.opsterland.nl
 http://mijnsbl-test.amsterdam.nl
 http://mijnzorg-acc.aalsmeer.nl
 http://mijnzorg.aalsmeer.nl
@@ -670,6 +672,7 @@ https://acc.schoolwijzer.amsterdam.nl
 https://acc.schulddossier.amsterdam.nl
 https://acc.sensorenregister.amsterdam.nl
 https://acc.statistiek.data.amsterdam.nl
+https://acc.stemvan.opsterland.nl
 https://acc.straatnotes.amsterdam.nl
 https://acc.subsidie.leiden.nl
 https://acc.ton.amsterdam.nl
@@ -2225,6 +2228,7 @@ https://enterpriseenrollment.meierijstad.nl
 https://enterpriseenrollment.moerdijk.nl
 https://enterpriseenrollment.nederweert.nl
 https://enterpriseenrollment.noardeast-fryslan.nl
+https://enterpriseenrollment.opsterland.nl
 https://enterpriseone-arc.almere.nl
 https://enterpriseone-dv.almere.nl
 https://enterpriseone-py.almere.nl
@@ -2244,6 +2248,7 @@ https://enterpriseregistration.lochem.nl
 https://enterpriseregistration.moerdijk.nl
 https://enterpriseregistration.montferland.info
 https://enterpriseregistration.nederweert.nl
+https://enterpriseregistration.opsterland.nl
 https://epe.nl
 https://epp.denhaag.nl
 https://erfgoed.breda.nl
@@ -2334,6 +2339,7 @@ https://felix.maassluis.nl
 https://felix.mookenmiddelaar.nl
 https://felix.nederweert.nl
 https://felix.opmeer.nl
+https://felix.opsterland.nl
 https://felixburgerzaken.nissewaard.nl
 https://felixpdc.doesburg.nl
 https://festival.landvancuijk.nl
@@ -2896,6 +2902,7 @@ https://iburgerzaken.oosterhout.nl
 https://iburgerzaken.oostgelre.nl
 https://iburgerzaken.ooststellingwerf.nl
 https://iburgerzaken.opmeer.nl
+https://iburgerzaken.opsterland.nl
 https://iburgerzaken.s-hertogenbosch.nl
 https://id-beheer-erfpacht-acc.amsterdam.nl
 https://id-beheer-erfpacht-dev.amsterdam.nl
@@ -4129,6 +4136,7 @@ https://oproepingen-api-preprd.overheid.nl
 https://oproepingen-api.overheid.nl
 https://oproepingen-preprd.overheid.nl
 https://oproepingen.overheid.nl
+https://opsterland.nl
 https://or.delft.nl
 https://oracbloemenbuurt.denhaag.nl
 https://oranjekwartier.deventer.nl
@@ -4620,6 +4628,7 @@ https://ruimtelijkeplannen.gemert-bakel.nl
 https://ruimtelijkeplannen.gorinchem.nl
 https://ruimtelijkeplannen.lochem.nl
 https://ruimtelijkeplannen.olst-wijhe.nl
+https://ruimtelijkeplannen.opsterland.nl
 https://ruimtevoorjou.groningen.nl
 https://rw.belastingdienst.nl
 https://rwn.belastingdienst.nl
@@ -4801,6 +4810,7 @@ https://simsite.middendelfland.nl
 https://simsite.montferland.info
 https://simsite.nijkerk.eu
 https://simsite.opmeer.nl
+https://simsite.opsterland.nl
 https://sint-agatha.landvancuijk.nl
 https://sint-hubert.landvancuijk.nl
 https://sintanthonis.landvancuijk.nl
@@ -4968,6 +4978,7 @@ https://stelselcatalogus.pre.omgevingswet.overheid.nl
 https://stemmen.amsterdam.nl
 https://stemvan.groningen.nl
 https://stemvan.midden-groningen.nl
+https://stemvan.opsterland.nl
 https://stevensbeek.landvancuijk.nl
 https://stoepvrij.groningen.nl
 https://storing.acc.denhaag.nl
@@ -6036,6 +6047,7 @@ https://www.openstad.haarlemmermeer.nl
 https://www.openstad.nijmegen.nl
 https://www.operatiebomenbuurt.denhaag.nl
 https://www.opmeer.nl
+https://www.opsterland.nl
 https://www.oracbloemenbuurt.denhaag.nl
 https://www.overheid.nl
 https://www.perf.omgevingswet.overheid.nl
@@ -6089,6 +6101,7 @@ https://www.stationsdistrict.nijmegen.nl
 https://www.statistiek.amsterdam.nl
 https://www.stemmen.amsterdam.nl
 https://www.stemvan.groningen.nl
+https://www.stemvan.opsterland.nl
 https://www.suikerkwartier.groningen.nl
 https://www.test.denhaag.nl
 https://www.thuiswinkelen.landvancuijk.nl
