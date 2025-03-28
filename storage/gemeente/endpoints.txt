@@ -90,6 +90,7 @@ http://autodiscover.landsmeer.nl
 http://autodiscover.lansingerland.nl
 http://autodiscover.leiden.nl
 http://autodiscover.leiderdorp.nl
+http://autodiscover.leidschendam-voorburg.nl
 http://autodiscover.s-hertogenbosch.nl
 http://bastion365.katwijk.nl
 http://beekdaelen.nl
@@ -1753,6 +1754,7 @@ https://flowmailer-tracking.groningen.nl
 https://flowmailer-tracking.haarlemmermeer.nl
 https://flowmailer-tracking.helmond.nl
 https://flowmailer-tracking.kampen.nl
+https://flowmailer-tracking.leidschendam-voorburg.nl
 https://flowmailer-tracking.parkeervergunning.leeuwarden.nl
 https://fm.krimpenerwaard.nl
 https://fmreturn.beekdaelen.nl
@@ -2458,6 +2460,7 @@ https://liveblog.ede.nl
 https://login.alphenaandenrijn.nl
 https://login.groningen.nl
 https://login.subsidie.leiden.nl
+https://loket-acc.leidschendam-voorburg.nl
 https://loket.aaenhunze.nl
 https://loket.aalsmeer.nl
 https://loket.acceptatie.aaenhunze.nl
@@ -2486,6 +2489,7 @@ https://loket.heerde.nl
 https://loket.hellendoorn.nl
 https://loket.katwijk.nl
 https://loket.leeuwarden.nl
+https://loket.leidschendam-voorburg.nl
 https://loket.test.aalsmeer.nl
 https://loket.test.amstelveen.nl
 https://lvs.hellendoorn.nl
@@ -3254,6 +3258,7 @@ https://programmabegroting2024.financielestukken.diemen.nl
 https://programmavan.bergendal.nl
 https://projecten.denhaag.nl
 https://projecten.lansingerland.nl
+https://projectenboek.leidschendam-voorburg.nl
 https://protectus.ggd.amsterdam.nl
 https://proto.apeldoorn.nl
 https://provconnect.hethogeland.nl
@@ -4347,6 +4352,7 @@ https://www.laren.nl
 https://www.leeuwarden.nl
 https://www.leiden.nl
 https://www.leiderdorp.nl
+https://www.leidschendam-voorburg.nl
 https://www.leidschenveenaanzet.denhaag.nl
 https://www.mariahoeveaanzet.denhaag.nl
 https://www.matenpark.apeldoorn.nl
