@@ -505,6 +505,7 @@ acceptatie.oosterhout.nl
 acceptatie.oranjeplein.goirle.nl
 acceptatie.ouder-amstel.nl
 acceptatie.participatiewebshop.emmen.nl
+acceptatie.pekela.nl
 acceptatie.subsidies-backend.ede.nl
 acceptatie.subsidies.ede.nl
 acceptatiebelastingen.duiven.nl
@@ -630,6 +631,7 @@ afspraak.nederweert.nl
 afspraak.nijkerk.eu
 afspraak.nijmegen.nl
 afspraak.oude-ijsselstreek.nl
+afspraak.pekela.nl
 afspraakformulier.nissewaard.nl
 afspraakmaken.dronten.nl
 afspraakmaken.enschede.nl
@@ -712,6 +714,7 @@ afspraken.oisterwijk.nl
 afspraken.olst-wijhe.nl
 afspraken.oostgelre.nl
 afspraken.oostzaan.nl
+afspraken.pekela.nl
 afspraken2.gorinchem.nl
 afval.acc.denhaag.nl
 afval.assen.nl
@@ -1227,6 +1230,7 @@ autodiscover.ovh.gemeentebeek.nl
 autodiscover.papendrecht.nl
 autodiscover.partijvoordedieren.nijmegen.nl
 autodiscover.peelenmaas.nl
+autodiscover.pekela.nl
 autodiscover.pmb.amsterdam.nl
 autodiscover.pvda.haarlemmermeer.nl
 autodiscover.pvda.mookenmiddelaar.nl
@@ -1279,6 +1283,7 @@ backupstorage2.ovh.gemeentebeek.nl
 bag-acc.etten-leur.nl
 bag-kastlijst.acc.denhaag.nl
 bag-vold91.gemeente-oldambt.nl
+bag-vpek21.pekela.nl
 bag.acc.denhaag.nl
 bag.assen.nl
 bag.denhaag.nl
@@ -1826,7 +1831,9 @@ cba.ede.nl
 cc.apeldoorn.nl
 cc.leiden.nl
 cca-acc.gemeente-oldambt.nl
+cca-acc.pekela.nl
 cca.gemeente-oldambt.nl
+cca.pekela.nl
 cctst.apeldoorn.nl
 centric.doesburg.nl
 centric.doetinchem.nl
@@ -2011,6 +2018,7 @@ connect.goirle.nl
 connect.kerkrade.nl
 connect.oldenzaal.nl
 connect.overbetuwe.nl
+connect.pekela.nl
 connect.staging.overbetuwe.nl
 connect.test.coevorden.nl
 connect.test.dantumadiel.frl
@@ -2048,6 +2056,7 @@ contentbeheer.kerkrade.nl
 contentbeheer.leudal.nl
 contentbeheer.oldenzaal.nl
 contentbeheer.overbetuwe.nl
+contentbeheer.pekela.nl
 contentbeheer.staging.overbetuwe.nl
 contentbeheer.test.coevorden.nl
 contentbeheer.test.dantumadiel.frl
@@ -2134,6 +2143,7 @@ dacceptatieloket.nissewaard.nl
 dacceptatieloket.oldenzaal.nl
 dacceptatieloket.olst-wijhe.nl
 dacceptatieloket.oostgelre.nl
+dacceptatieloket.pekela.nl
 dacceptatiemidoffice.assen.nl
 dacceptatiemidoffice.borger-odoorn.nl
 dacceptatiemidoffice.borne.nl
@@ -2155,6 +2165,7 @@ dacceptatiemidoffice.nissewaard.nl
 dacceptatiemidoffice.oldenzaal.nl
 dacceptatiemidoffice.olst-wijhe.nl
 dacceptatiemidoffice.oostgelre.nl
+dacceptatiemidoffice.pekela.nl
 dagbesteding.apeldoorn.nl
 dalfsen.nl
 dali.alphenaandenrijn.nl
@@ -2223,6 +2234,7 @@ ddrouter-p.nieuwegein.nl
 ddrouter-t.nieuwegein.nl
 dds-alphen-kaag.kaagenbraassem.nl
 dds-vold21.gemeente-oldambt.nl
+dds-vpek21.pekela.nl
 ddskoppeling.gulpen-wittem.nl
 ddsp.services.debilt.nl
 ddst.services.debilt.nl
@@ -2563,6 +2575,7 @@ dloket.nissewaard.nl
 dloket.oldenzaal.nl
 dloket.olst-wijhe.nl
 dloket.oostgelre.nl
+dloket.pekela.nl
 dm-tst.groningen.nl
 dmafunc002.amsterdam.nl
 dmb.amsterdam.nl
@@ -2586,6 +2599,7 @@ dmidoffice.nissewaard.nl
 dmidoffice.oldenzaal.nl
 dmidoffice.olst-wijhe.nl
 dmidoffice.oostgelre.nl
+dmidoffice.pekela.nl
 dmpfunc002.amsterdam.nl
 dmst.noordoostpolder.nl
 dmz-websrv.achtkarspelen.nl
@@ -4416,6 +4430,8 @@ ihp-acc.denhaag.nl
 ihp.denhaag.nl
 iis-vold01.gemeente-oldambt.nl
 iis-vold21.gemeente-oldambt.nl
+iis-vpek01.pekela.nl
+iis-vpek21.pekela.nl
 iis2.gemeentemaasgouw.nl
 iis3.gemeentemaasgouw.nl
 ijsaeo1.ijsselstein.nl
@@ -4504,6 +4520,7 @@ inproces.kerkrade.nl
 inproces.medemblik.nl
 inproces.oldenzaal.nl
 inproces.overbetuwe.nl
+inproces.pekela.nl
 inproces.staging.overbetuwe.nl
 inproces.test.dantumadiel.frl
 inproces.test.kerkrade.nl
@@ -4819,6 +4836,7 @@ kaarten.haarlemmermeer.nl
 kaarten.helmond.nl
 kaarten.molenlanden.nl
 kaarten.ooststellingwerf.nl
+kaarten.pekela.nl
 kaartviewer.barneveld.nl
 kaartviewer.gemeentehulst.nl
 kaartviewer.hoorn.nl
@@ -5127,6 +5145,7 @@ loket.acceptatie.hellendoorn.nl
 loket.acceptatie.noardeast-fryslan.nl
 loket.acceptatie.overbetuwe.nl
 loket.acceptatie.papendrecht.nl
+loket.acceptatie.pekela.nl
 loket.alblasserdam.nl
 loket.albrandswaard.nl
 loket.amstelveen.nl
@@ -5166,6 +5185,7 @@ loket.oss.nl
 loket.ouder-amstel.nl
 loket.overbetuwe.nl
 loket.papendrecht.nl
+loket.pekela.nl
 loket.test.aalsmeer.nl
 loket.test.amstelveen.nl
 loket.test.amsterdam.nl
@@ -5622,6 +5642,7 @@ mijn.ooststellingwerf.nl
 mijn.opsterland.nl
 mijn.oss.nl
 mijn.oude-ijsselstreek.nl
+mijn.pekela.nl
 mijn.test.oss.nl
 mijnaanvraagzi.beuningen.nl
 mijnacc.montfoort.nl
@@ -5676,6 +5697,7 @@ mijnplan.gemeenteberkelland.nl
 mijnplein.assen.nl
 mijnportaal.defryskemarren.nl
 mijnportaal.lansingerland.nl
+mijnpost.pekela.nl
 mijnsbl-acc.amsterdam.nl
 mijnsbl-test.amsterdam.nl
 mijnsbl.amsterdam.nl
@@ -6595,6 +6617,7 @@ pcportal.nijmegen.nl
 pdc.alkmaar.nl
 pdc.buren.nl
 peelenmaas.nl
+pekela.nl
 pencportaal.gemeentehw.nl
 pencportal.ede.nl
 persberichten.lansingerland.nl
@@ -6760,6 +6783,7 @@ portal.olst-wijhe.nl
 portal.ooststellingwerf.nl
 portal.oss.nl
 portal.overbetuwe.nl
+portal.pekela.nl
 portal.pmb.amsterdam.nl
 portal.test.oss.nl
 portal1.denhaag.nl
@@ -7443,6 +7467,7 @@ secure.nunspeet.nl
 secure.ooststellingwerf.nl
 secure.opmeer.nl
 secure.ot.denhaag.nl
+secure.pekela.nl
 secure1.gulpen-wittem.nl
 securegw.bunschoten.nl
 securemail.borne.nl
@@ -7700,6 +7725,7 @@ simsite.oirschot.nl
 simsite.ooststellingwerf.nl
 simsite.opmeer.nl
 simsite.opsterland.nl
+simsite.pekela.nl
 singlegateway.haarlem.nl
 sint-agatha.landvancuijk.nl
 sint-hubert.landvancuijk.nl
@@ -8350,6 +8376,7 @@ test.nuenen.nl
 test.open-formulieren.noordoostpolder.nl
 test.oss.nl
 test.ouder-amstel.nl
+test.pekela.nl
 test.services.dronten.nl
 test.subsites.leiden.nl
 testafspraken.alkmaar.nl
@@ -8845,6 +8872,7 @@ waarmerk.nissewaard.nl
 waarmerk.oldenzaal.nl
 waarmerk.ooststellingwerf.nl
 waarmerk.overbetuwe.nl
+waarmerk.pekela.nl
 waarstemjijvoor.kerkrade.nl
 wabo.oostgelre.nl
 wacfarm.acc.amsterdam.nl
@@ -9310,6 +9338,7 @@ www.afspraken-tstabs.groningen.nl
 www.afspraken.kaagenbraassem.nl
 www.afspraken.oegstgeest.nl
 www.afspraken.oostgelre.nl
+www.afspraken.pekela.nl
 www.aga.amsterdam.nl
 www.agrifoodtech.landvancuijk.nl
 www.alblasserdam.nl
@@ -9870,6 +9899,7 @@ www.participatiewebshop.emmen.nl
 www.passion.groningen.nl
 www.pda.loonopzand.nl
 www.peelenmaas.nl
+www.pekela.nl
 www.pink-inproces-acc.overbetuwe.nl
 www.pip-test.emmen.nl
 www.piwik.echt-susteren.nl
@@ -10190,6 +10220,7 @@ zaken.meierijstad.nl
 zaken.oldenzaal.nl
 zaken.overbetuwe.nl
 zaken.papendrecht.nl
+zaken.pekela.nl
 zaken.staging.overbetuwe.nl
 zaken.test.coevorden.nl
 zaken.test.dantumadiel.frl
