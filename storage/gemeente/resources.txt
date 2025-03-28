@@ -87,6 +87,7 @@ ac00089.delft.nl
 ac03617.delft.nl
 academie.drimmelen.nl
 academie.goirle.nl
+academie.landgraaf.nl
 acc-afvalkalender.goes.nl
 acc-broker.assen.nl
 acc-broker.borger-odoorn.nl
@@ -386,6 +387,7 @@ acceptatie.horstaandemaas.nl
 acceptatie.intranet.debilt.nl
 acceptatie.kaagenbraassem.nl
 acceptatie.kampen.nl
+acceptatie.landgraaf.nl
 acceptatie.oranjeplein.goirle.nl
 acceptatie.participatiewebshop.emmen.nl
 acceptatie.subsidies-backend.ede.nl
@@ -434,6 +436,7 @@ adfs.hellendoorn.nl
 adfs.helmond.nl
 adfs.hoorn.nl
 adfs.kerkrade.nl
+adfs.landgraaf.nl
 adfslogin.defryskemarren.nl
 adiko.apeldoorn.nl
 admanager.zaaksysteem.eindhoven.nl
@@ -496,6 +499,7 @@ afspraakmaken.gemert-bakel.nl
 afspraakmakentest.enschede.nl
 afspraken-abs.groningen.nl
 afspraken-test.brunssum.nl
+afspraken-test.landgraaf.nl
 afspraken-tst.groningen.nl
 afspraken-tstabs.groningen.nl
 afspraken.alkmaar.nl
@@ -544,6 +548,7 @@ afspraken.kampen.nl
 afspraken.kapelle.nl
 afspraken.kerkrade.nl
 afspraken.laarbeek.nl
+afspraken.landgraaf.nl
 afspraken2.gorinchem.nl
 afval.acc.denhaag.nl
 afval.assen.nl
@@ -956,8 +961,10 @@ autorisatie01.alkmaar.nl
 autorisatie02.alkmaar.nl
 autorisatiebeheer-test.brunssum.nl
 autorisatiebeheer-test.heerlen.nl
+autorisatiebeheer-test.landgraaf.nl
 autorisatiebeheer.brunssum.nl
 autorisatiebeheer.heerlen.nl
+autorisatiebeheer.landgraaf.nl
 autorisatietest.bloemendaal.nl
 av.alkmaar.nl
 avproxy.vga.amsterdam.nl
@@ -1465,6 +1472,7 @@ cloudadapter-test.gemeenteberkelland.nl
 cloudadapter-test.gorinchem.nl
 cloudadapter-test.gulpen-wittem.nl
 cloudadapter-test.hofvantwente.nl
+cloudadapter-test.landgraaf.nl
 cloudadapter.baarn.nl
 cloudadapter.bronckhorst.nl
 cloudadapter.brunssum.nl
@@ -1473,6 +1481,7 @@ cloudadapter.delft.nl
 cloudadapter.dinkelland.nl
 cloudadapter.gemeenteberkelland.nl
 cloudadapter.hellendoorn.nl
+cloudadapter.landgraaf.nl
 cloudrecorder.denhaag.nl
 cluster-cg.test.denhaag.nl
 clv.echt-susteren.nl
@@ -1884,6 +1893,7 @@ digitaalgemeenteloket.alphenaandenrijn.nl
 digitaalgemeenteloket.kaagenbraassem.nl
 digitaalloket.katwijk.nl
 digitaalloket.kerkrade.nl
+digitaalloket.landgraaf.nl
 digitaalnachtregister.alphen-chaam.nl
 digitaalnachtregister.baarle-nassau.nl
 digitaalnachtregister.gilzerijen.nl
@@ -1915,6 +1925,7 @@ dkd-prd.groningen.nl
 dkd-prod.alphenaandenrijn.nl
 dkd-test.alphenaandenrijn.nl
 dkd-test.delft.nl
+dkd-test.landgraaf.nl
 dkd.aalten.nl
 dkd.almelo.nl
 dkd.amersfoort.nl
@@ -1937,6 +1948,7 @@ dkd.heerenveen.nl
 dkd.heerlen.nl
 dkd.hofvantwente.nl
 dkd.kampen.nl
+dkd.landgraaf.nl
 dkdn.epe.nl
 dkdtest.brunssum.nl
 dkdtest.deventer.nl
@@ -2196,6 +2208,7 @@ edienstenburgerzaken-test.hofvantwente.nl
 edienstenburgerzaken-test.houten.nl
 edienstenburgerzaken-test.kaagenbraassem.nl
 edienstenburgerzaken-test.krimpenerwaard.nl
+edienstenburgerzaken-test.landgraaf.nl
 edienstenburgerzaken-test.landvancuijk.nl
 edienstenburgerzaken.aalsmeer.nl
 edienstenburgerzaken.aalten.nl
@@ -2253,6 +2266,7 @@ edienstenburgerzaken.hofvantwente.nl
 edienstenburgerzaken.houten.nl
 edienstenburgerzaken.kaagenbraassem.nl
 edienstenburgerzaken.krimpenerwaard.nl
+edienstenburgerzaken.landgraaf.nl
 edienstenburgerzaken.landvancuijk.nl
 edienstenburgerzaken.test.aalsmeer.nl
 edienstenburgerzaken.test.amstelveen.nl
@@ -2285,6 +2299,7 @@ efacturen.eijsden-margraten.nl
 efactuur.doesburg.nl
 eformaccept.defryskemarren.nl
 eforms.beesel.nl
+eforms.landgraaf.nl
 eformulier.heerlen.nl
 eformulieren.doetinchem.nl
 eformulieren.kerkrade.nl
@@ -2506,6 +2521,7 @@ felix.heerlen.nl
 felix.heeze-leende.nl
 felix.kerkrade.nl
 felix.koggenland.nl
+felix.landgraaf.nl
 felixpdc.doesburg.nl
 festival.landvancuijk.nl
 festivals.landvancuijk.nl
@@ -2715,6 +2731,7 @@ gasten.derondevenen.nl
 gasten.gulpen-wittem.nl
 gasten.heerlen.nl
 gasten.kerkrade.nl
+gasten.landgraaf.nl
 gateway.groningen.nl
 gateway.heerenveen.nl
 gb-app05.gemeenteberkelland.nl
@@ -2938,6 +2955,7 @@ gitops.dev.denhaag.nl
 gitops.test.denhaag.nl
 gkb.groningen.nl
 glanerbrug.openstad.enschede.nl
+glow.landgraaf.nl
 gms.boekel.nl
 gms.gilzerijen.nl
 gn2connect-acc.apeldoorn.nl
@@ -2965,6 +2983,7 @@ govroam.gulpen-wittem.nl
 govroam.heerlen.nl
 govroam.hoorn.nl
 govroam.kerkrade.nl
+govroam.landgraaf.nl
 gp-test.borne.nl
 gp.apeldoorn.nl
 gp.borne.nl
@@ -2997,6 +3016,7 @@ guest.brunssum.nl
 guest.gulpen-wittem.nl
 guest.heerlen.nl
 guest.kerkrade.nl
+guest.landgraaf.nl
 guido.asten.nl
 gulpen-wittem.nl
 gviservices.intranet.amsterdam.nl
@@ -3427,6 +3447,7 @@ inloggen.geertruidenberg.nl
 inloggen.gemeenteberkelland.nl
 inloggen.haarlemmermeer.nl
 inloggen.hoorn.nl
+inloggen.landgraaf.nl
 inloggen.mijnsubsidie.eindhoven.nl
 inloggen.mijnsubsidie.test.eindhoven.nl
 inloggenapv-preprod.hellendoorn.nl
@@ -3520,6 +3541,7 @@ intranet.hoorn.nl
 intranet.kampen.nl
 intranet.krimpenerwaard.nl
 intranet.laarbeek.nl
+intranet.landgraaf.nl
 intranet.landvancuijk.nl
 intranet.raadsinformatie.amsterdam.nl
 intranetacc.apeldoorn.nl
@@ -3677,6 +3699,7 @@ kampen.nl
 kansshop.eemsdelta.nl
 kapelle.nl
 kassaservice.brunssum.nl
+kassaservice.landgraaf.nl
 katwijk.landvancuijk.nl
 katwijk.nl
 katwijs.katwijk.nl
@@ -3714,15 +3737,19 @@ key2begraven.heerlen.nl
 key2datadistributie-prod.brunssum.nl
 key2datadistributie-test.brunssum.nl
 key2datadistributie-test.heerlen.nl
+key2datadistributie-test.landgraaf.nl
 key2datadistributie.heerlen.nl
+key2datadistributie.landgraaf.nl
 key2financien-prod.beverwijk.nl
 key2financien-test.beverwijk.nl
 key2gbav.brunssum.nl
 key2gbav.emmen.nl
 key2gbav.haarlemmermeer.nl
 key2gbav.heerlen.nl
+key2gbav.landgraaf.nl
 key2gbavtest.brunssum.nl
 key2gbavtest.heerlen.nl
+key2gbavtest.landgraaf.nl
 key2percelen.haarlemmermeer.nl
 key2waarderen-voormeldingwoz.amersfoort.nl
 keycloak-adm.denhaag.nl
@@ -3756,6 +3783,7 @@ klantcontact.beuningen.nl
 klantcontact.deurne.nl
 klantcontact.kerkrade.nl
 klantcontact.koggenland.nl
+klantcontact.landgraaf.nl
 klanten.heemskerk.nl
 klantgeleiding.gorinchem.nl
 klantportaal-zgw.acc.denhaag.nl
@@ -3781,6 +3809,8 @@ koppelingen.krimpenerwaard.nl
 koppelingentest.krimpenerwaard.nl
 koppelpoort.amersfoort.nl
 koppelvlak.bergen-nh.nl
+koppelvlakken.landgraaf.nl
+koppelvlakkentst.landgraaf.nl
 kredietbank.accp.s-hertogenbosch.nl
 kredietbank.s-hertogenbosch.nl
 kredietbankwestbrabant.breda.nl
@@ -3792,6 +3822,7 @@ krm.brievenbus.amsterdam.nl
 krmacc.brievenbus.amsterdam.nl
 laakhavensbepaalt.denhaag.nl
 laarbeek.nl
+landgraaf.nl
 landhorst.landvancuijk.nl
 landingspage.landvancuijk.nl
 landvancuijk.nl
@@ -3824,10 +3855,16 @@ les-acc.amsterdam.nl
 lev.delft.nl
 leverancier.gemeenteberkelland.nl
 leveranciersportaallogius.groningen.nl
+lgf002.landgraaf.nl
+lgf003.landgraaf.nl
+lgf004.landgraaf.nl
+lgfpki.landgraaf.nl
 liber-test.kerkrade.nl
 liber.kerkrade.nl
+liber.landgraaf.nl
 liberportaalprod.kerkrade.nl
 liberportaaltest.kerkrade.nl
+libertest.landgraaf.nl
 life.landvancuijk.nl
 lifecoolsquare.groningen.nl
 linden.landvancuijk.nl
@@ -4191,6 +4228,7 @@ micstz.almelo.nl
 middengroningen.groningen.nl
 midoffice.aalsmeer.nl
 midoffice.heerlen.nl
+midoffice.landgraaf.nl
 mijn-acc.groningen.nl
 mijn-acceptatie.enschede.nl
 mijn-o.ot.denhaag.nl
@@ -4450,6 +4488,7 @@ nas-beek.ovh.gemeentebeek.nl
 nas-productie.ovh.gemeentebeek.nl
 nasbackup.ovh.gemeentebeek.nl
 navigus.brunssum.nl
+navigus.landgraaf.nl
 nawservice.coevorden.nl
 ndes.apeldoorn.nl
 ndes.barneveld.nl
@@ -4968,6 +5007,7 @@ patternlab.barneveld.nl
 pb-yutpa.rnd.amsterdam.nl
 pcoda.kerkrade.nl
 pcorsa.kerkrade.nl
+pcorsa.landgraaf.nl
 pdc.alkmaar.nl
 pdc.buren.nl
 pencportaal.gemeentehw.nl
@@ -5016,9 +5056,11 @@ pki.enkhuizen.nl
 pki.heiloo.nl
 pki.heumen.nl
 pki.laarbeek.nl
+pki.landgraaf.nl
 pkio1.cranendonck.nl
 pkio1.heeze-leende.nl
 pkoppelcorsa.kerkrade.nl
+pkoppelcorsa.landgraaf.nl
 planboard.groningen.ad.groningen.nl
 planmonitor.acc.amsterdam.nl
 plannen.asten.nl
@@ -5127,6 +5169,7 @@ prd.afs.amsterdam.nl
 prd1.hoorn.nl
 prdb.haarlem.nl
 pre-formulieren.houten.nl
+pre-inloggen.landgraaf.nl
 pre-ows-ahp-test.groningen.nl
 pre-ows-ahp.groningen.nl
 pre-ows-app-test.groningen.nl
@@ -5238,6 +5281,7 @@ preproductie.huizen.nl
 preproductie.kerkrade.nl
 preproductie.koggenland.nl
 preproductie.krimpenerwaard.nl
+preproductie.landgraaf.nl
 prijsvraag-zwembad.apeldoorn.nl
 privacybewustzijn.bergendal.nl
 private-test.delft.nl
@@ -5276,6 +5320,7 @@ probeer.huizen.nl
 probeer.kerkrade.nl
 probeer.koggenland.nl
 probeer.krimpenerwaard.nl
+probeer.landgraaf.nl
 prod.drechterland.nl
 prod.enkhuizen.nl
 productie.postex.heusden.nl
@@ -5294,6 +5339,7 @@ protectus.ggd.amsterdam.nl
 proto.apeldoorn.nl
 provconnect.hethogeland.nl
 psmartdoc.heerlen.nl
+psquit2020.landgraaf.nl
 ptr.cranendonck.nl
 pub.alkmaar.nl
 pub.krimpenaandenijssel.nl
@@ -5310,6 +5356,7 @@ publicroam.brunssum.nl
 publicroam.gulpen-wittem.nl
 publicroam.heerlen.nl
 publicroam.kerkrade.nl
+publicroam.landgraaf.nl
 publiek-id-test.gouda.nl
 publiek-id.gouda.nl
 publiek.amsterdam.nl
@@ -5622,10 +5669,12 @@ secure.kerkrade.nl
 secure.koggenland.nl
 secure.krimpenerwaard.nl
 secure.laarbeek.nl
+secure.landgraaf.nl
 secure.ot.denhaag.nl
 secure1.gulpen-wittem.nl
 securegw.bunschoten.nl
 securemail.borne.nl
+secureweb.landgraaf.nl
 securewifi.hethogeland.nl
 selector1._domainkey.derondevenen.nl
 selector2._domainkey.derondevenen.nl
@@ -5760,6 +5809,7 @@ simcms.huizen.nl
 simcms.kerkrade.nl
 simcms.koggenland.nl
 simcms.krimpenerwaard.nl
+simcms.landgraaf.nl
 simcms2.beekdaelen.nl
 simcmsintra.bergeijk.nl
 simform-preproductie.achtkarspelen.nl
@@ -5817,6 +5867,7 @@ simsite.kaagenbraassem.nl
 simsite.kerkrade.nl
 simsite.koggenland.nl
 simsite.krimpenerwaard.nl
+simsite.landgraaf.nl
 singlegateway.haarlem.nl
 sint-agatha.landvancuijk.nl
 sint-hubert.landvancuijk.nl
@@ -5842,8 +5893,10 @@ smartatsea.denhaag.nl
 smartcity.denhaag.nl
 smartdoc-brl.brielle.nl
 smartdoc-brlacc.brielle.nl
+smartdoc.landgraaf.nl
 smartdocbrl.brielle.nl
 smartdocbrlacc.brielle.nl
+smartdoctst.landgraaf.nl
 smartdocuments-zgw.acc.denhaag.nl
 smartdocuments-zgw.denhaag.nl
 smartdocuments-zgw.test.denhaag.nl
@@ -5977,8 +6030,10 @@ srvmksbur.buren.nl
 sscict.intranet.amsterdam.nl
 ssd.brunssum.nl
 ssd.drimmelen.nl
+ssd.landgraaf.nl
 ssdacc.drimmelen.nl
 ssdtest.brunssum.nl
+ssdtest.landgraaf.nl
 sslvpn.arnhem.nl
 sslvpn.denhaag.nl
 sslvpn.haarlem.nl
@@ -6037,6 +6092,7 @@ sthbcp02.alkmaar.nl
 stkbcp01.alkmaar.nl
 stoepvrij.groningen.nl
 stolpersteine.groningen.nl
+storavox.landgraaf.nl
 storefront.delft.nl
 storefront.gemeentebeek.nl
 storefront.haarlemmermeer.nl
@@ -6098,7 +6154,9 @@ suite4burgerzaken-prod.dantumadiel.frl
 suite4burgerzaken-prod.gulpen-wittem.nl
 suite4burgerzaken-test.brunssum.nl
 suite4burgerzaken-test.gulpen-wittem.nl
+suite4burgerzaken-test.landgraaf.nl
 suite4burgerzaken.brunssum.nl
+suite4burgerzaken.landgraaf.nl
 suite4sdmhprod.hoorn.nl
 suite4sdmhtest.hoorn.nl
 summit-ft.amsterdam.nl
@@ -6118,6 +6176,7 @@ svs-acc.almere.nl
 sw01.alkmaar.nl
 swa1158ot.iamacc.denhaag.nl
 sync.brunssum.nl
+sync.landgraaf.nl
 sync01.iba.amsterdam.nl
 sync01.oa.amsterdam.nl
 t1.data.amsterdam.nl
@@ -6149,6 +6208,7 @@ tbt.harlingen.nl
 tc1.groningen.nl
 tcoda.kerkrade.nl
 tcorsa.kerkrade.nl
+tcorsa.landgraaf.nl
 td.gemeentehulst.nl
 teamplan.huizen.nl
 techniek.landvancuijk.nl
@@ -6157,6 +6217,7 @@ telefoon.gemeentehw.nl
 teleweb.arnhem.nl
 teleweb.heerlen.nl
 teleweb.kerkrade.nl
+teleweb.landgraaf.nl
 telewerken.amsterdam.nl
 telewerken.drechterland.nl
 telewerken.haarlemmermeer.nl
@@ -6259,6 +6320,8 @@ test-podiumd-logs.gemert-bakel.nl
 test-qr.eindhoven.nl
 test-secure.brunssum.nl
 test-secure.heerlen.nl
+test-secure.landgraaf.nl
+test-secureweb.landgraaf.nl
 test-subsidiebeheer.alkmaar.nl
 test-subsidieloket.alkmaar.nl
 test-topvorm.apeldoorn.nl
@@ -6384,6 +6447,7 @@ timetell.acc.amsterdam.nl
 timetell.pmb.amsterdam.nl
 tjooner.gulpen-wittem.nl
 tkoppelcorsa.kerkrade.nl
+tkoppelcorsa.landgraaf.nl
 tma.acc.amsterdam.nl
 tma.amsterdam.nl
 tmakelaar.kerkrade.nl
@@ -6438,6 +6502,7 @@ trobit.gooisemeren.nl
 trobit.gorinchem.nl
 tsjinstbus.harlingen.nl
 tsmartdoc.heerlen.nl
+tsquit2020.landgraaf.nl
 tst-eformulier.heerlen.nl
 tst-tripleforms.heerlen.nl
 tst-ubor.amsterdam.nl
@@ -6448,16 +6513,20 @@ tstwi169.tst.groningen.nl
 tstwi175.tst.groningen.nl
 tstwi184.tst.groningen.nl
 tstwi220.tst.groningen.nl
+tubwdds.landgraaf.nl
 tubweau.heerlen.nl
 tuinen.groningen.nl
 tunnel.hardenberg.nl
 tv.gemeentebest.nl
+tvalidsign.landgraaf.nl
 typo3.borger-odoorn.nl
 uaghelm01.helmond.nl
 uaghelm02.helmond.nl
 ubor.amsterdam.nl
 ubwprod.heerlen.nl
+ubwprod.landgraaf.nl
 ubwtest.heerlen.nl
+ubwtest.landgraaf.nl
 uc.beverwijk.nl
 uc.dantumadiel.frl
 uc.epe.nl
@@ -6520,6 +6589,7 @@ vacatures.landvancuijk.nl
 vakantie.landvancuijk.nl
 validsign-prod.koggenland.nl
 validsign.gulpen-wittem.nl
+validsign.landgraaf.nl
 varen.groningen.nl
 vasd-acc.groningen.nl
 vasd.groningen.nl
@@ -6531,6 +6601,7 @@ vdi.amersfoort.nl
 vdi.brunssum.nl
 vdi.delft.nl
 vdi.hardenberg.nl
+vdi.landgraaf.nl
 vdi8.amersfoort.nl
 veenkolonien.groningen.nl
 veilig.houten.nl
@@ -6579,6 +6650,7 @@ verkiezingen.deventer.nl
 verkiezingen.eemsdelta.nl
 verkiezingen.heerlen.nl
 verkiezingen.krimpenerwaard.nl
+verkiezingen.landgraaf.nl
 verkiezingen.topdesk.denhaag.nl
 versterkenenvernieuwen.groningen.nl
 vf.heitje.heerlen.nl
@@ -6599,6 +6671,7 @@ visvijver.doetinchem.nl
 vm-cs.kampen.nl
 vmapp002.borne.nl
 vmapp006.borne.nl
+vmbg01.landgraaf.nl
 vmgis003.borne.nl
 vogelweide.diemen.nl
 voip.bernheze.org
@@ -6652,6 +6725,10 @@ vth.kampen.nl
 vthbroker.hardinxveld-giessendam.nl
 vveacc.amsterdam.nl
 vvetest.amsterdam.nl
+w2008g.landgraaf.nl
+w2008l.landgraaf.nl
+w2012y.landgraaf.nl
+w2016l.landgraaf.nl
 waarderingsprijs.emmen.nl
 waarmerk.alphen-chaam.nl
 waarmerk.assen.nl
@@ -6676,6 +6753,7 @@ waarmerk.huizen.nl
 waarmerk.kampen.nl
 waarmerk.kerkrade.nl
 waarmerk.krimpenaandenijssel.nl
+waarmerk.landgraaf.nl
 waarstemjijvoor.kerkrade.nl
 wacfarm.acc.amsterdam.nl
 wachtwoord.acc.amsterdam.nl
@@ -6779,6 +6857,7 @@ webmail.ivv.amsterdam.nl
 webmail.kaagenbraassem.nl
 webmail.kampen.nl
 webmail.katwijk.nl
+webmail.landgraaf.nl
 webmail.nieuwwest.amsterdam.nl
 webmail.oost-wgm.amsterdam.nl
 webmail.oost.amsterdam.nl
@@ -6946,7 +7025,9 @@ wob-acc.denhaag.nl
 wob.arnhem.nl
 wob.denhaag.nl
 womserver-test.brunssum.nl
+womserver-test.landgraaf.nl
 womserver.brunssum.nl
+womserver.landgraaf.nl
 wonen.landvancuijk.nl
 wonenin.deventer.nl
 wonenportaal.amsterdam.nl
@@ -7404,6 +7485,7 @@ www.krimpenaandenijssel.nl
 www.krimpenerwaard.nl
 www.laakhavensbepaalt.denhaag.nl
 www.laarbeek.nl
+www.landgraaf.nl
 www.landvancuijk.nl
 www.lauwersmeer.groningen.nl
 www.ld-01.hellevoetsluis.nl
@@ -7622,6 +7704,7 @@ www.webmail.emmen.nl
 www.webmail.gemeentehulst.nl
 www.webmail.hellevoetsluis.nl
 www.webmail.kaagenbraassem.nl
+www.webmail.landgraaf.nl
 www.webvpn.gemeentehulst.nl
 www.webwinkel.landvancuijk.nl
 www.weespbegroot.amsterdam.nl
