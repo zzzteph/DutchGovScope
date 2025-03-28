@@ -21,9 +21,9 @@ loket
 felix
 werkplek
 formulieren
+eloket
 meldingen
 test
-eloket
 api.meldingen
 dkd
 waarmerk
@@ -32,8 +32,8 @@ open
 acc
 portal
 vpn
-geo
 parkeren
+geo
 gemeenteraad
 afspraak
 broker
@@ -60,12 +60,12 @@ openpub
 dloket
 dmidoffice
 formulier
+flowmailer-tracking
 hybrid
 kaart
 govroam
 remote
 zaken
-flowmailer-tracking
 digikoppeling-test
 login
 cmsoo
@@ -81,9 +81,11 @@ cloudadapter
 dtestloket
 mijnzorg
 mijninkomen
+parkeren-test
 piwik
 duurzaam
 extranet
+financien
 mks
 woningbouwkaart
 pki
@@ -92,10 +94,8 @@ portaal
 e
 verkiezingen
 osbacc
-parkeren-test
 preprod-mijninkomen
 snelbalie
-financien
 gemeente
 nieuwsbrief
 klantcontact
@@ -116,6 +116,7 @@ test-intranet
 gasten
 kaarten
 dtestmidoffice
+jaarstukken
 opendata
 kennisbank
 preprodbroker
@@ -135,7 +136,8 @@ test-cmsintranet
 inloggen
 doemee
 AutoDiscover
-jaarstukken
+begroting
+testloket
 magazines
 m
 evenementen
@@ -178,9 +180,7 @@ uc
 mdm
 mobile
 outlook
-begroting
 cryptshare
-testloket
 bestanden
 _dmarc
 servicedesk
@@ -586,6 +586,7 @@ data.gemnet
 intranetcms-acc
 testberichten
 aovpn
+zorg
 esb
 identity
 zorgmail
@@ -728,6 +729,7 @@ jccbetalen
 officewebapps
 pip
 portaltest
+testdigikoppeling
 testzaken
 www.djuma
 www.vpn
@@ -765,6 +767,7 @@ hta
 mijnsociaaldomein-acc
 tickets
 ews
+bestuursrapportage
 werkeninkomen-test
 werkeninkomen
 gemeentewinkel
@@ -3481,7 +3484,6 @@ cms-binnenshuis
 e-loketstaging
 test-binnenshuis
 testcms-binnenshuis
-zorg
 backup
 dell1.servers1
 dell2
@@ -5092,7 +5094,6 @@ survey123test
 test-formulieren
 test-kaarten
 testapps
-testdigikoppeling
 testinloggen
 testmijn
 testverseon
@@ -5788,7 +5789,6 @@ api-portal-dev.data
 api-portal.data
 api.tod
 app-ldn
-bestuursrapportage
 cms-archief
 easyfunders
 groenekaart
@@ -5945,3 +5945,11 @@ speciaal
 sportaccommodatieverhuur
 wie
 zaaksysteem-acc
+ggk-koppeling
+kadernota
+najaarsbrief
+regieportaal-test
+regieportaal
+samenwerkingbelastingen-test
+samenwerkingbelastingen
+zorg-acc
