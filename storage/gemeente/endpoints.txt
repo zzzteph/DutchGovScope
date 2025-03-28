@@ -88,6 +88,7 @@ http://autodiscover.katwijk.nl
 http://autodiscover.koggenland.nl
 http://autodiscover.landsmeer.nl
 http://autodiscover.lansingerland.nl
+http://autodiscover.leiden.nl
 http://autodiscover.s-hertogenbosch.nl
 http://bastion365.katwijk.nl
 http://beekdaelen.nl
@@ -134,6 +135,7 @@ http://intranet-acc.landvancuijk.nl
 http://intranetcms-acc.landvancuijk.nl
 http://kerkrade.nl
 http://lvs.denhaag.nl
+http://m.leiden.nl
 http://magazine.amersfoort.nl
 http://mail.amsterdam.nl
 http://mail.kampen.nl
@@ -418,6 +420,7 @@ https://acc.borsele.nl
 https://acc.bp.data.amsterdam.nl
 https://acc.breda.nl
 https://acc.denhaag.nl
+https://acc.easyfunders.leiden.nl
 https://acc.epe.nl
 https://acc.fblocatielijst.amsterdam.nl
 https://acc.formulieren.almere.nl
@@ -430,6 +433,7 @@ https://acc.iam.amsterdam.nl
 https://acc.io.amsterdam.nl
 https://acc.jvvs.amsterdam.nl
 https://acc.kapelle.nl
+https://acc.login.subsidie.leiden.nl
 https://acc.map.data.amsterdam.nl
 https://acc.meldingen.amsterdam.nl
 https://acc.meldingen.kampen.nl
@@ -448,12 +452,14 @@ https://acc.schulddossier.amsterdam.nl
 https://acc.sensorenregister.amsterdam.nl
 https://acc.statistiek.data.amsterdam.nl
 https://acc.straatnotes.amsterdam.nl
+https://acc.subsidie.leiden.nl
 https://acc.ton.amsterdam.nl
 https://acc.top.amsterdam.nl
 https://acc.vt.data.amsterdam.nl
 https://acc.wonen.zaken.amsterdam.nl
 https://acc.woz-loket.harlingen.nl
 https://accept-zaaksysteem.denhelder.nl
+https://accept.subsites.leiden.nl
 https://acceptatie-intranet.hardenberg.nl
 https://acceptatie-mobiliteitsplan.hillegom.nl
 https://acceptatie-open.dinkelland.nl
@@ -617,6 +623,7 @@ https://andreas2.opl.amsterdam.nl
 https://andreas2.tst.amsterdam.nl
 https://antispam.eijsden-margraten.nl
 https://any2info.deurne.nl
+https://anyconnect.leiden.nl
 https://aov.groningen.nl
 https://aov.helmond.nl
 https://aovpn.bergen.nl
@@ -675,6 +682,7 @@ https://api.meldingen-acc.heerde.nl
 https://api.meldingen-acc.hellendoorn.nl
 https://api.meldingen-acc.helmond.nl
 https://api.meldingen-acc.hilversum.nl
+https://api.meldingen-acc.leiden.nl
 https://api.meldingen.aaenhunze.nl
 https://api.meldingen.acceptatie.eindhoven.nl
 https://api.meldingen.accp.s-hertogenbosch.nl
@@ -695,18 +703,21 @@ https://api.meldingen.hengelo.nl
 https://api.meldingen.hilversum.nl
 https://api.meldingen.kampen.nl
 https://api.meldingen.leeuwarden.nl
+https://api.meldingen.leiden.nl
 https://api.meldingen.s-hertogenbosch.nl
 https://api.openstad.alphenaandenrijn.nl
 https://api.openstad.deventer.nl
 https://api.openstad.enschede.nl
 https://api.openstad.haarlemmermeer.nl
 https://api.pingping.amsterdam.nl
+https://api.tod.leiden.nl
 https://api.toegang.dataplatform.accp.s-hertogenbosch.nl
 https://api.toegang.dataplatform.s-hertogenbosch.nl
 https://api.ton.amsterdam.nl
 https://api.top.amsterdam.nl
 https://api.v2.openstad.haarlemmermeer.nl
 https://api.wonen.zaken.amsterdam.nl
+https://app-ldn.leiden.nl
 https://app.acc.meldingen.amsterdam.nl
 https://app.amsterdam.nl
 https://app.landvancuijk.nl
@@ -934,6 +945,7 @@ https://bestie-stats.gemeentebest.nl
 https://bestie.gemeentebest.nl
 https://bestuur.dijkenwaard.nl
 https://bestuur.gooisemeren.nl
+https://bestuursrapportage.leiden.nl
 https://betaal.ede.nl
 https://betalen.amsterdam.nl
 https://betalen.belastingloket.s-hertogenbosch.nl
@@ -973,6 +985,7 @@ https://bikecity.amsterdam.nl
 https://bink.beverwijk.nl
 https://binnenshuis.bergen.nl
 https://binnenstad.deventer.nl
+https://binnenstad.leiden.nl
 https://binnenstadsplan2030.denhaag.nl
 https://binnenstebuiten-acc.ede.nl
 https://binnenstebuiten.ede.nl
@@ -1242,6 +1255,7 @@ https://derondevenen.nl
 https://deschop.acceptatie.asten.nl
 https://deschop.asten.nl
 https://design.hoorn.nl
+https://designsystem.leiden.nl
 https://desktop5.denhaag.nl
 https://destemvan.groningen.nl
 https://deurne.nl
@@ -1312,6 +1326,7 @@ https://doemee.deventer.nl
 https://doemee.emmen.nl
 https://doemee.gemeentebest.nl
 https://doemee.gulpen-wittem.nl
+https://doemee.leiden.nl
 https://doetinchem.nl
 https://dok.dronten.nl
 https://dongen.nl
@@ -1370,11 +1385,13 @@ https://e.borger-odoorn.nl
 https://e.dewolden.nl
 https://e.hoogeveen.nl
 https://e.hoorn.nl
+https://e.leiden.nl
 https://e.mailings.deventer.nl
 https://e.openstad.emmen.nl
 https://e.openstad.enschede.nl
 https://e.openstad.haarlemmermeer.nl
 https://eaptls.deventer.nl
+https://easyfunders.leiden.nl
 https://ebs-dashboards.acc.denhaag.nl
 https://ebs-full.acc.denhaag.nl
 https://ebs-light.acc.denhaag.nl
@@ -1451,6 +1468,7 @@ https://edienstenburgerzaken-test.landgraaf.nl
 https://edienstenburgerzaken-test.landvancuijk.nl
 https://edienstenburgerzaken-test.lansingerland.nl
 https://edienstenburgerzaken-test.leeuwarden.nl
+https://edienstenburgerzaken-test.leiden.nl
 https://edienstenburgerzaken.aalsmeer.nl
 https://edienstenburgerzaken.aalten.nl
 https://edienstenburgerzaken.acc.denhaag.nl
@@ -1509,6 +1527,7 @@ https://edienstenburgerzaken.landgraaf.nl
 https://edienstenburgerzaken.landvancuijk.nl
 https://edienstenburgerzaken.lansingerland.nl
 https://edienstenburgerzaken.leeuwarden.nl
+https://edienstenburgerzaken.leiden.nl
 https://edienstenburgerzaken.test.aalsmeer.nl
 https://edienstenburgerzaken.test.amstelveen.nl
 https://edienstenmijninkomen-acceptatie.albrandswaard.nl
@@ -1820,6 +1839,7 @@ https://gemeente.derondevenen.nl
 https://gemeente.emmen.nl
 https://gemeente.groningen.nl
 https://gemeente.kampen.nl
+https://gemeente.leiden.nl
 https://gemeentearchief.alphenaandenrijn.nl
 https://gemeentearchief.barneveld.nl
 https://gemeentearchief.ede.nl
@@ -1848,6 +1868,7 @@ https://gemeenteraad.heemskerk.nl
 https://gemeenteraad.hillegom.nl
 https://gemeenteraad.hofvantwente.nl
 https://gemeenteraad.hollandskroon.nl
+https://gemeenteraad.leiden.nl
 https://gemert-bakel.nl
 https://genietenzonderzorgen.landvancuijk.nl
 https://gennep.nl
@@ -1942,6 +1963,7 @@ https://gpa.apeldoorn.nl
 https://gpg.apeldoorn.nl
 https://gpt.apeldoorn.nl
 https://grave.landvancuijk.nl
+https://groenekaart.leiden.nl
 https://groenengezond.almere.nl
 https://groenervijfhuizen.haarlemmermeer.nl
 https://groeningen.landvancuijk.nl
@@ -2235,6 +2257,7 @@ https://intranet.laarbeek.nl
 https://intranet.landgraaf.nl
 https://intranet.landvancuijk.nl
 https://intranet.lansingerland.nl
+https://intranet.leiden.nl
 https://intranetacc.apeldoorn.nl
 https://intranetcms-acc.bergendal.nl
 https://intranetcms.bergendal.nl
@@ -2261,6 +2284,7 @@ https://jaarstukken.gemeentehw.nl
 https://jaarstukken.gorinchem.nl
 https://jaarstukken.haarlemmermeer.nl
 https://jaarstukken.hengelo.nl
+https://jaarstukken.leiden.nl
 https://jaarstukken2020.bronckhorst.nl
 https://jaarstukken2021.bronckhorst.nl
 https://jaarstukken2021.financien.gouda.nl
@@ -2309,6 +2333,7 @@ https://kaart.haarlem.nl
 https://kaart.kaagenbraassem.nl
 https://kaart.kampen.nl
 https://kaart.katwijk.nl
+https://kaart.leiden.nl
 https://kaarten.boxtel.nl
 https://kaarten.buren.nl
 https://kaarten.deventer.nl
@@ -2318,6 +2343,7 @@ https://kaarten.helmond.nl
 https://kaartviewer.barneveld.nl
 https://kaartviewer.hoorn.nl
 https://kadbrkwkpd.deventer.nl
+https://kaderbrief.leiden.nl
 https://kadernota2022.financielestukken.diemen.nl
 https://kampen.nl
 https://kansshop.eemsdelta.nl
@@ -2388,6 +2414,7 @@ https://krimpenaandenijssel.nl
 https://krimpenerwaard.nl
 https://laakhavensbepaalt.denhaag.nl
 https://laarbeek.nl
+https://lab.tod.leiden.nl
 https://landgraaf.nl
 https://landhorst.landvancuijk.nl
 https://landingspage.landvancuijk.nl
@@ -2404,6 +2431,7 @@ https://leeromgeving-mijnleno.amsterdam.nl
 https://leerplein.arnhem.nl
 https://leerpleinburgerzaken.amsterdam.nl
 https://leeuwarden.nl
+https://leiden.nl
 https://leidschenveenaanzet.denhaag.nl
 https://lerenbij.groningen.nl
 https://lerenloont.almere.nl
@@ -2421,6 +2449,7 @@ https://live.landvancuijk.nl
 https://liveblog.ede.nl
 https://login.alphenaandenrijn.nl
 https://login.groningen.nl
+https://login.subsidie.leiden.nl
 https://loket.aaenhunze.nl
 https://loket.aalsmeer.nl
 https://loket.acceptatie.aaenhunze.nl
@@ -2519,6 +2548,7 @@ https://meet.ggd.amsterdam.nl
 https://meet.houten.nl
 https://melding.acc.heerlen.nl
 https://melding.heerlen.nl
+https://melding.leiden.nl
 https://meldingen-a.leeuwarden.nl
 https://meldingen-acc.aaenhunze.nl
 https://meldingen-acc.apeldoorn.nl
@@ -2530,6 +2560,7 @@ https://meldingen-acc.heerde.nl
 https://meldingen-acc.hellendoorn.nl
 https://meldingen-acc.helmond.nl
 https://meldingen-acc.hilversum.nl
+https://meldingen-acc.leiden.nl
 https://meldingen.aaenhunze.nl
 https://meldingen.acc.almelo.nl
 https://meldingen.acc.denhaag.nl
@@ -2556,6 +2587,7 @@ https://meldingen.hengelo.nl
 https://meldingen.hilversum.nl
 https://meldingen.kampen.nl
 https://meldingen.leeuwarden.nl
+https://meldingen.leiden.nl
 https://meldingen.s-hertogenbosch.nl
 https://meldingenamsterdamsebos.amsterdam.nl
 https://meldingenkust.acc.denhaag.nl
@@ -2729,6 +2761,7 @@ https://mycorsanxt.derondevenen.nl
 https://mzdtest.bunnik.nl
 https://naheffingsaanslag.amsterdam.nl
 https://najaarsrapportage.haarlemmermeer.nl
+https://natuur.leiden.nl
 https://ndes.apeldoorn.nl
 https://ndes.ot.denhaag.nl
 https://ndesapeldoorn.apeldoorn.nl
@@ -2864,6 +2897,7 @@ https://onderzoek.groningen.nl
 https://online-aanvraag-test.dalfsen.nl
 https://online-aanvraag.dalfsen.nl
 https://online.gooisemeren.nl
+https://online.leiden.nl
 https://onlinedorpsgesprek.ermelo.nl
 https://onlineregelen.alphenaandenrijn.nl
 https://onlineregelen.kaagenbraassem.nl
@@ -2942,6 +2976,7 @@ https://openpdc.hellendoorn.nl
 https://openpdc.hofvantwente.nl
 https://openpdc.hollandskroon.nl
 https://openpdc.lansingerland.nl
+https://openpdc.leiden.nl
 https://openpdc.s-hertogenbosch.nl
 https://openpub.albrandswaard.nl
 https://openpub.alkmaar.nl
@@ -2956,6 +2991,7 @@ https://openpub.hellendoorn.nl
 https://openpub.hofvantwente.nl
 https://openpub.hollandskroon.nl
 https://openpub.lansingerland.nl
+https://openpub.leiden.nl
 https://openpub.s-hertogenbosch.nl
 https://openstad.deventer.nl
 https://openstad.enschede.nl
@@ -3036,6 +3072,8 @@ https://parkeren.heerlen.nl
 https://parkeren.hengelo.nl
 https://parkeren.hoorn.nl
 https://parkeren.katwijk.nl
+https://parkeren.leiden.nl
+https://parkeren.reserveren.leiden.nl
 https://parkeren.s-hertogenbosch.nl
 https://parkerendenhaag.acc.denhaag.nl
 https://parkerendenhaag.denhaag.nl
@@ -3197,6 +3235,7 @@ https://private.delft.nl
 https://productie.postex.heusden.nl
 https://programmabegroting.bronckhorst.nl
 https://programmabegroting.haarlemmermeer.nl
+https://programmabegroting.leiden.nl
 https://programmabegroting2021.financielestukken.diemen.nl
 https://programmabegroting2022.bronckhorst.nl
 https://programmabegroting2023.bronckhorst.nl
@@ -3550,6 +3589,7 @@ https://subsidie.acceptatie.dordrecht.nl
 https://subsidie.almelo.nl
 https://subsidie.dordrecht.nl
 https://subsidie.haarlemmermeer.nl
+https://subsidie.leiden.nl
 https://subsidiebackoffice.acceptatie.dordrecht.nl
 https://subsidiebackoffice.dordrecht.nl
 https://subsidiebeheer.alkmaar.nl
@@ -3579,6 +3619,7 @@ https://subsidies.debilt.nl
 https://subsidies.ede.nl
 https://subsidies.heerenveen.nl
 https://subsidies.leeuwarden.nl
+https://subsites.leiden.nl
 https://suikerkwartier.groningen.nl
 https://suikerzijde.groningen.nl
 https://summit-ft.amsterdam.nl
@@ -3662,10 +3703,12 @@ https://test-subsidiebeheer.alkmaar.nl
 https://test-subsidieloket.alkmaar.nl
 https://test-trefpunt.deurne.nl
 https://test-zaakloket.ameland.nl
+https://test.api.tod.leiden.nl
 https://test.app.amsterdam.nl
 https://test.beverwijk.nl
 https://test.bp.data.amsterdam.nl
 https://test.brunssum.nl
+https://test.designsystem.leiden.nl
 https://test.drimmelen.nl
 https://test.eijsden-margraten.nl
 https://test.elburg.nl
@@ -3673,7 +3716,9 @@ https://test.formulieren.almere.nl
 https://test.helmond.nl
 https://test.hoorn.nl
 https://test.io.amsterdam.nl
+https://test.lab.tod.leiden.nl
 https://test.mijnzorg.beekdaelen.nl
+https://test.subsites.leiden.nl
 https://testafspraken.alkmaar.nl
 https://testapps.haarlemmermeer.nl
 https://testbelastingbalie.hoorn.nl
@@ -3814,8 +3859,10 @@ https://veiligmailen.almelo.nl
 https://veiligmailen.beverwijk.nl
 https://velp.landvancuijk.nl
 https://vergaderingen.goirle.nl
+https://vergunning.leiden.nl
 https://vergunningen.dronten.nl
 https://vergunningen.duiven.nl
+https://vergunningen.leiden.nl
 https://vergunningintaker-preprod.aalten.nl
 https://vergunningintaker-preprod.eemsdelta.nl
 https://vergunningintaker-preprod.hardinxveld-giessendam.nl
@@ -3952,6 +3999,8 @@ https://werkenbij.hilversum.nl
 https://werkenbij.hollandskroon.nl
 https://werkenbij.hoorn.nl
 https://werkenbij.leeuwarden.nl
+https://werkeninkomen-test.leiden.nl
+https://werkeninkomen.leiden.nl
 https://werkenvoor-acc.denhaag.nl
 https://werkenvoor.acceptatie.amstelveen.nl
 https://werkenvoor.amstelveen.nl
@@ -4283,6 +4332,7 @@ https://www.landvancuijk.nl
 https://www.lansingerland.nl
 https://www.laren.nl
 https://www.leeuwarden.nl
+https://www.leiden.nl
 https://www.leidschenveenaanzet.denhaag.nl
 https://www.mariahoeveaanzet.denhaag.nl
 https://www.matenpark.apeldoorn.nl
