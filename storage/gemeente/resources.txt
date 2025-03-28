@@ -425,6 +425,8 @@ admin.openstad.haarlemmermeer.nl
 admin.schoolwijzer.amsterdam.nl
 admin.stadjerspas.gemeente.groningen.nl
 admin.v2.openstad.haarlemmermeer.nl
+administratieportaal-test.huizen.nl
+administratieportaal.huizen.nl
 admsec.acc.denhaag.nl
 admsec.denhaag.nl
 admsecaz.acc.denhaag.nl
@@ -509,6 +511,7 @@ afspraken.gulpen-wittem.nl
 afspraken.haaksbergen.nl
 afspraken.heeze-leende.nl
 afspraken.hellevoetsluis.nl
+afspraken.huizen.nl
 afspraken2.gorinchem.nl
 afval.acc.denhaag.nl
 afval.assen.nl
@@ -1108,6 +1111,7 @@ berichten.gilzerijen.nl
 berichten.gorinchem.nl
 berichten.heeze-leende.nl
 berichten.helmond.nl
+berichten.huizen.nl
 berichtenverkeer.authenticatie.alkmaar.nl
 berichtenverkeer.gouda.nl
 berichtverkeer.acc.amsterdam.nl
@@ -1393,6 +1397,7 @@ cmsbink.beverwijk.nl
 cmsdieuwke.defryskemarren.nl
 cmsdok.dronten.nl
 cmshofnet.coevorden.nl
+cmsinhuiz.huizen.nl
 cmsinsite.houten.nl
 cmsintranet.etten-leur.nl
 cmsintranet.gemeentebeek.nl
@@ -1907,6 +1912,7 @@ duiven.nl
 duo-jvs.groningen.nl
 duo.emmen.nl
 durp.drechterland.nl
+durp.huizen.nl
 durplandelijkevoorziening.deventer.nl
 dusk-acc-openwave.beverwijk.nl
 dusk-openwave.beverwijk.nl
@@ -2223,6 +2229,7 @@ enterpriseregistration.bladel.nl
 enterpriseregistration.denhaag.nl
 enterpriseregistration.doetinchem.nl
 enterpriseregistration.gooisemeren.nl
+enterpriseregistration.huizen.nl
 epe.nl
 epms.amsterdam.nl
 epp.denhaag.nl
@@ -2290,6 +2297,7 @@ exchange2.alphenaandenrijn.nl
 exoconnect.denhaag.nl
 extern.borger-odoorn.nl
 extern.emmen.nl
+extern.huizen.nl
 extern.oa.amsterdam.nl
 extranet-acc.eemsdelta.nl
 extranet.alphen-chaam.nl
@@ -2362,6 +2370,7 @@ filetransfer.gennep.nl
 filr.derondevenen.nl
 filr.drimmelen.nl
 filr.eijsden-margraten.nl
+filr.huizen.nl
 financials-acc.apeldoorn.nl
 financials.apeldoorn.nl
 financialstest.derondevenen.nl
@@ -2485,6 +2494,7 @@ formulieren.heerenveen.nl
 formulieren.hethogeland.nl
 formulieren.hoorn.nl
 formulieren.houten.nl
+formulieren.huizen.nl
 formulieren.s-hertogenbosch.nl
 formulieren1.amsterdam.nl
 formulierenacc.breda.nl
@@ -2631,6 +2641,7 @@ geo.hardenberg.nl
 geo.heerenveen.nl
 geo.hilversum.nl
 geo.horstaandemaas.nl
+geo.huizen.nl
 geo1.arnhem.nl
 geoanalytics.haarlemmermeer.nl
 geobrowser.enschede.nl
@@ -2660,6 +2671,7 @@ geoserver.haarlemmermeer.nl
 geoservertest.haarlemmermeer.nl
 geoservices.denhaag.nl
 geoservices.haarlemmermeer.nl
+geoservices.huizen.nl
 geoservicesint.haarlemmermeer.nl
 geoservicestest.haarlemmermeer.nl
 geotest.arnhem.nl
@@ -2905,6 +2917,7 @@ hth-vpn.denhaag.nl
 huishoudboekje.amersfoort.nl
 huisvuilkalender.acc.denhaag.nl
 huisvuilkalender.denhaag.nl
+huizen.nl
 hulpwijzer.hattem.nl
 hupextern.acc.denhaag.nl
 hvd.groningen.nl
@@ -3027,6 +3040,7 @@ iburgerzaken.hilversum.nl
 iburgerzaken.hollandskroon.nl
 iburgerzaken.hoogeveen.nl
 iburgerzaken.horstaandemaas.nl
+iburgerzaken.huizen.nl
 iburgerzaken.s-hertogenbosch.nl
 ibzpink.aaenhunze.nl
 ibzpink.achtkarspelen.nl
@@ -3099,6 +3113,7 @@ ibzpink.hilversum.nl
 ibzpink.hollandskroon.nl
 ibzpink.hoogeveen.nl
 ibzpink.horstaandemaas.nl
+ibzpink.huizen.nl
 icm-ast.asten.nl
 id-beheer-erfpacht-acc.amsterdam.nl
 id-beheer-erfpacht-dev.amsterdam.nl
@@ -3116,7 +3131,9 @@ id.amsterdam.nl
 id.dalfsen.nl
 ideevoormijnbuurt.emmen.nl
 idefix.s-hertogenbosch.nl
+identity-test.huizen.nl
 identity.bergenopzoom.nl
+identity.huizen.nl
 identityota.bergenopzoom.nl
 idp.ggd.amsterdam.nl
 idrac1.ovh.gemeentebeek.nl
@@ -3152,6 +3169,7 @@ ikbouwin-acc.denhaag.nl
 ikbouwin.denhaag.nl
 ikbouwmijnhuisin.almere.nl
 ikonderneemin.almere.nl
+ikzoek.huizen.nl
 ikzoekeenhuis.almere.nl
 ilmt.heerlen.nl
 image.acc-nieuwsbrief.amsterdam.nl
@@ -3169,6 +3187,7 @@ infonet.eijsden-margraten.nl
 informatieplattegrond.denhaag.nl
 ingesprek.almere.nl
 ingesprek.denhelder.nl
+inhuiz.huizen.nl
 inkomen-test.mijn.arnhem.nl
 inkomen.mijn.arnhem.nl
 inkomensbalie.eindhoven.nl
@@ -3293,6 +3312,7 @@ iparticipatie.haarlemmermeer.nl
 iparticipatie.hattem.nl
 iparticipatie.heerde.nl
 iparticipatie.hollandskroon.nl
+iparticipatie.huizen.nl
 iparticipatie.s-hertogenbosch.nl
 ipp.haarlem.nl
 iris.acc.denhaag.nl
@@ -3311,6 +3331,7 @@ izaaksuite.alkmaar.nl
 izaaksuite.bergenopzoom.nl
 izaaksuite.bronckhorst.nl
 izaaksuite.drimmelen.nl
+izrm.huizen.nl
 jaarrekening.arnhem.nl
 jaarrekening2021.financieelportaal.etten-leur.nl
 jaarstukken.bronckhorst.nl
@@ -3712,6 +3733,7 @@ makelaar-test.almelo.nl
 makelaar.almelo.nl
 makelaar.brielle.nl
 makelaar.gooisemeren.nl
+makelaar.huizen.nl
 makelpunt.openstad.enschede.nl
 makkelijkemarkt-api.amsterdam.nl
 makkelijkemarkt-dashboard.amsterdam.nl
@@ -3794,6 +3816,7 @@ meldcode.denhaag.nl
 melddesk.almere.nl
 melddesk.bodegraven-reeuwijk.nl
 melddesk.haaksbergen.nl
+melddesk.huizen.nl
 melding.acc.heerlen.nl
 melding.amsterdam.nl
 melding.heerlen.nl
@@ -3855,6 +3878,7 @@ micc.dijkenwaard.nl
 micollab.beverwijk.nl
 micollab.deurne.nl
 micollab.hellendoorn.nl
+micollab.huizen.nl
 microservices.schoolwijzer.amsterdam.nl
 micstz.almelo.nl
 middengroningen.groningen.nl
@@ -4048,6 +4072,7 @@ mobile.doetinchem.nl
 mobile.emmen.nl
 mobile.ggd.amsterdam.nl
 mobile.gilzerijen.nl
+mobile.huizen.nl
 mobiliteitsplan.hillegom.nl
 mobility.drimmelen.nl
 mobility.groningen.nl
@@ -4254,6 +4279,8 @@ office365.haarlemmermeer.nl
 officewebapps.haarlemmermeer.nl
 officewebapps.heusden.nl
 ogc.data.amsterdam.nl
+ogdservicedesk.huizen.nl
+ogdservicedeskacceptatie.huizen.nl
 ogone-tk.denhaag.nl
 oidc.erfpachtmedewerkers-dev.amsterdam.nl
 oidc.erfpachtmedewerkers-ont.amsterdam.nl
@@ -4459,6 +4486,7 @@ osb.halderberge.nl
 osb.heerenveen.nl
 osb.heusden.nl
 osb.hilversum.nl
+osb.huizen.nl
 osbacc.alkmaar.nl
 osbacc.almere.nl
 osbacc.drechterland.nl
@@ -4724,6 +4752,8 @@ positioneringshuis-acc.denhaag.nl
 positioneringshuis.denhaag.nl
 positioning-acc.denhaag.nl
 positioning.denhaag.nl
+postbus.huizen.nl
+postbus1.huizen.nl
 postionering.denhaag.nl
 powerbi.beesel.nl
 powerbrowser-esb.gorinchem.nl
@@ -4805,6 +4835,7 @@ preprodbroker.bernheze.org
 preprodbroker.duiven.nl
 preprodbroker.elburg.nl
 preprodbroker.gemeentehw.nl
+preprodformulieren.huizen.nl
 preprodgdintaker.diemen.nl
 preprodscbroker.diemen.nl
 preproductie.aalten.nl
@@ -4840,6 +4871,7 @@ preproductie.heerenveen.nl
 preproductie.heeze-leende.nl
 preproductie.heiloo.nl
 preproductie.heumen.nl
+preproductie.huizen.nl
 prijsvraag-zwembad.apeldoorn.nl
 privacybewustzijn.bergendal.nl
 private-test.delft.nl
@@ -4874,6 +4906,7 @@ probeer.harlingen.nl
 probeer.heerlen.nl
 probeer.heeze-leende.nl
 probeer.heumen.nl
+probeer.huizen.nl
 prod.drechterland.nl
 prod.enkhuizen.nl
 productie.postex.heusden.nl
@@ -5112,6 +5145,7 @@ sammy-acc.derondevenen.nl
 sammy.derondevenen.nl
 sammycms-acc.derondevenen.nl
 sammycms.derondevenen.nl
+sas.huizen.nl
 sb.drechterland.nl
 sbc-01.haarlemmermeer.nl
 sbc-ata01.haarlemmermeer.nl
@@ -5325,6 +5359,7 @@ simcms.harlingen.nl
 simcms.heerlen.nl
 simcms.heeze-leende.nl
 simcms.heumen.nl
+simcms.huizen.nl
 simcms2.beekdaelen.nl
 simcmsintra.bergeijk.nl
 simform-preproductie.achtkarspelen.nl
@@ -5377,6 +5412,7 @@ simsite.heeze-leende.nl
 simsite.heiloo.nl
 simsite.heumen.nl
 simsite.hilvarenbeek.nl
+simsite.huizen.nl
 singlegateway.haarlem.nl
 sinterklaas.groningen.nl
 sip.assen.nl
@@ -5681,6 +5717,7 @@ taxiportaal.amsterdam.nl
 tbp.harlingen.nl
 tbt.harlingen.nl
 tc1.groningen.nl
+teamplan.huizen.nl
 telecom.apeldoorn.nl
 telefoon.gemeentehw.nl
 teleweb.arnhem.nl
@@ -5741,6 +5778,7 @@ test-ipa.haarlemmermeer.nl
 test-ipa.hattem.nl
 test-ipa.heerde.nl
 test-ipa.hollandskroon.nl
+test-ipa.huizen.nl
 test-ipa.s-hertogenbosch.nl
 test-jip.hofvantwente.nl
 test-kaart.almere.nl
@@ -5828,7 +5866,9 @@ testbelastingbalie.hoorn.nl
 testbelastingloket.hattem.nl
 testbelastingloket.heerde.nl
 testberichten.bergendal.nl
+testberichten.huizen.nl
 testcms-binnenshuis.bergen.nl
+testcms-inhuiz.huizen.nl
 testcms-intranet.beuningen.nl
 testcms-intranet.eemsdelta.nl
 testcms-jip.hofvantwente.nl
@@ -5853,6 +5893,7 @@ testeloket.heumen.nl
 testeloket.horstaandemaas.nl
 testformulieren.bodegraven-reeuwijk.nl
 testformulieren.haarlemmermeer.nl
+testinhuiz.huizen.nl
 testinloggen.haarlemmermeer.nl
 testkaart.alphenaandenrijn.nl
 testloket.dinkelland.nl
@@ -5922,7 +5963,9 @@ tr.barneveld.nl
 tra.hengelo.nl
 tracking.amersfoort.nl
 tradities.doemee.bloemendaal.nl
+trainersportaal.huizen.nl
 training.dijkenwaard.nl
+trainingsformulier.huizen.nl
 transfer.denhelder.nl
 transfer.drechterland.nl
 transfer.eemsdelta.nl
@@ -6117,6 +6160,7 @@ vpn.groningen.nl
 vpn.haarlemmermeer.nl
 vpn.heusden.nl
 vpn.hillegom.nl
+vpn.huizen.nl
 vpn.zuid.amsterdam.nl
 vpn02.denhaag.nl
 vpn365.denhelder.nl
@@ -6155,6 +6199,7 @@ waarmerk.haarlem.nl
 waarmerk.haarlemmermeer.nl
 waarmerk.hellevoetsluis.nl
 waarmerk.hillegom.nl
+waarmerk.huizen.nl
 wacfarm.acc.amsterdam.nl
 wachtwoord.acc.amsterdam.nl
 wachtwoord.alkmaar.nl
@@ -6248,6 +6293,7 @@ webmail.heusden.nl
 webmail.hillegom.nl
 webmail.hilversum.nl
 webmail.hoorn.nl
+webmail.huizen.nl
 webmail.iba.amsterdam.nl
 webmail.ivv.amsterdam.nl
 webmail.nieuwwest.amsterdam.nl
@@ -6432,6 +6478,7 @@ woz-loket.harlingen.nl
 woz-loket.heeze-leende.nl
 woz-portaal-eemnes.baarn.nl
 woz-portaal.drimmelen.nl
+woz-portaal.huizen.nl
 woz.amsterdam.nl
 wozloket-acc.borger-odoorn.nl
 wozloket-acc.coevorden.nl
@@ -6789,6 +6836,7 @@ www.hoorn.nl
 www.horstaandemaas.nl
 www.houten.nl
 www.houtwijkbegroot.denhaag.nl
+www.huizen.nl
 www.hvd.groningen.nl
 www.ibo.borger-odoorn.nl
 www.ict.amsterdam.nl
