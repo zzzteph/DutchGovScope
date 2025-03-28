@@ -49,6 +49,7 @@ Squitpub-prod.haarlem.nl
 Top.apeldoorn.nl
 VRiSeLoket.cranendonck.nl
 WOZ-loket.heeze-leende.nl
+Www.lochem.nl
 ZDPushservice.overheid.nl
 _autodiscover._tcp.buren.nl
 _autodiscover._tcp.debilt.nl
@@ -1131,6 +1132,7 @@ autodiscover.leidschendam-voorburg.nl
 autodiscover.leudal.nl
 autodiscover.lingewaard.nl
 autodiscover.lisse.nl
+autodiscover.lochem.nl
 autodiscover.noord.amsterdam.nl
 autodiscover.ombudsman.groningen.nl
 autodiscover.opsb.groningen.nl
@@ -1547,6 +1549,7 @@ bgt.capelleaandenijssel.nl
 bgt.dewolden.nl
 bgt.halderberge.nl
 bgt.hoogeveen.nl
+bgt.lochem.nl
 bgthvs.hilversum.nl
 bgtt.bergenopzoom.nl
 bgtwdm.hilversum.nl
@@ -2270,6 +2273,7 @@ digikoppeling-test.gemeentehw.nl
 digikoppeling-test.gemnet.ede.nl
 digikoppeling-test.heeze-leende.nl
 digikoppeling-test.leusden.nl
+digikoppeling-test.lochem.nl
 digikoppeling-tst.gemeente.groningen.nl
 digikoppeling.aaenhunze.nl
 digikoppeling.amstelveen.nl
@@ -2317,6 +2321,7 @@ digikoppeling.laren.nl
 digikoppeling.leiden.nl
 digikoppeling.leiderdorp.nl
 digikoppeling.leusden.nl
+digikoppeling.lochem.nl
 digikoppeling.test.amstelveen.nl
 digikoppeling.test.bernheze.org
 digikoppeling.test.blaricum.nl
@@ -2926,6 +2931,7 @@ enterpriseenrollment.heerlen.nl
 enterpriseenrollment.landsmeer.nl
 enterpriseenrollment.leeuwarden.nl
 enterpriseenrollment.lingewaard.nl
+enterpriseenrollment.lochem.nl
 enterpriseone-arc.almere.nl
 enterpriseone-dv.almere.nl
 enterpriseone-py.almere.nl
@@ -2941,6 +2947,7 @@ enterpriseregistration.doetinchem.nl
 enterpriseregistration.gooisemeren.nl
 enterpriseregistration.huizen.nl
 enterpriseregistration.landsmeer.nl
+enterpriseregistration.lochem.nl
 epe.nl
 epms.amsterdam.nl
 epp.denhaag.nl
@@ -3925,6 +3932,7 @@ iarchief.beekdaelen.nl
 iarchief.borne.nl
 iarchief.gooisemeren.nl
 iarchief.hilversum.nl
+iarchief.lochem.nl
 ib.kampen.nl
 iba.amsterdam.nl
 ibabs.hoorn.nl
@@ -4020,6 +4028,7 @@ iburgerzaken.laren.nl
 iburgerzaken.lelystad.nl
 iburgerzaken.leudal.nl
 iburgerzaken.lingewaard.nl
+iburgerzaken.lochem.nl
 iburgerzaken.s-hertogenbosch.nl
 ibzpink.aaenhunze.nl
 ibzpink.achtkarspelen.nl
@@ -4100,6 +4109,7 @@ ibzpink.landsmeer.nl
 ibzpink.lelystad.nl
 ibzpink.leudal.nl
 ibzpink.lingewaard.nl
+ibzpink.lochem.nl
 icm-ast.asten.nl
 ict-ers.werkenvoornederland.nl
 icters.werkenvoornederland.nl
@@ -4380,6 +4390,7 @@ iparticipatie.leiden.nl
 iparticipatie.leiderdorp.nl
 iparticipatie.lelystad.nl
 iparticipatie.lingewaard.nl
+iparticipatie.lochem.nl
 iparticipatie.s-hertogenbosch.nl
 ipp.haarlem.nl
 iris-acc.lingewaard.nl
@@ -4749,6 +4760,7 @@ live.landvancuijk.nl
 liveblog.ede.nl
 livestream.lelystad.nl
 localhost.hillegom.nl
+lochem.nl
 logilink.brunssum.nl
 logilink.debilt.nl
 logilink.gbamailbox.amersfoort.nl
@@ -4876,6 +4888,7 @@ m.amersfoort.nl
 m.groningen.nl
 m.hillegom.nl
 m.leiden.nl
+m.lochem.nl
 m.werkenvoornederland.nl
 m1.delft.nl
 m2.delft.nl
@@ -5215,6 +5228,7 @@ mijn.houten.nl
 mijn.igj.nl
 mijn.lansingerland.nl
 mijn.lingewaard.nl
+mijn.lochem.nl
 mijn.ont.belastingdienst.nl
 mijn.overheid.nl
 mijn.str10.acc.belastingdienst.nl
@@ -5418,6 +5432,7 @@ mobile.emmen.nl
 mobile.ggd.amsterdam.nl
 mobile.gilzerijen.nl
 mobile.huizen.nl
+mobile.lochem.nl
 mobiliteitsplan.hillegom.nl
 mobiliteitsplan.lisse.nl
 mobility.drimmelen.nl
@@ -5836,6 +5851,7 @@ open.hofvantwente.nl
 open.krimpenerwaard.nl
 open.leudal.nl
 open.lisse.nl
+open.lochem.nl
 open.overheid.nl
 openbareruimte.deventer.nl
 opendata.arnhem.nl
@@ -6708,6 +6724,7 @@ remote.gorinchem.nl
 remote.hethogeland.nl
 remote.hoorn.nl
 remote.kampen.nl
+remote.lochem.nl
 renvooiservice-eto.overheid.nl
 renvooiservice.overheid.nl
 rep.bronckhorst.nl
@@ -6785,6 +6802,7 @@ ruimtelijkeplannen.hattem.nl
 ruimtelijkeplannen.heerde.nl
 ruimtelijkeplannen.heerlen.nl
 ruimtelijkeplannen.houten.nl
+ruimtelijkeplannen.lochem.nl
 ruimtelijkeplannen.s-hertogenbosch.nl
 ruimtevoorjou.groningen.nl
 rvmetadata.logius.nl
@@ -6979,6 +6997,7 @@ sera.hardenberg.nl
 sera.hellendoorn.nl
 sera.horstaandemaas.nl
 server-appl13.haaksbergen.nl
+server23.lochem.nl
 serverruimte.dinkelland.nl
 service.acc.omgevingswet.overheid.nl
 service.bta.omgevingswet.overheid.nl
@@ -7537,6 +7556,7 @@ straatnotes.amsterdam.nl
 strand.hoorn.nl
 streaming.landvancuijk.nl
 streetsmart.gulpen-wittem.nl
+stroomlijn.lochem.nl
 stroomlijntest.derondevenen.nl
 stroomt.deventer.nl
 sts.assen.nl
@@ -7764,6 +7784,7 @@ test-ipa.huizen.nl
 test-ipa.leiden.nl
 test-ipa.lelystad.nl
 test-ipa.lingewaard.nl
+test-ipa.lochem.nl
 test-ipa.s-hertogenbosch.nl
 test-jip.hofvantwente.nl
 test-kaart.almere.nl
@@ -8299,6 +8320,7 @@ vpn.huizen.nl
 vpn.koop.overheid.nl
 vpn.landsmeer.nl
 vpn.leudal.nl
+vpn.lochem.nl
 vpn.zuid.amsterdam.nl
 vpn02.denhaag.nl
 vpn365.denhelder.nl
@@ -8614,6 +8636,7 @@ werkplek.lelystad.nl
 werkplek.leudal.nl
 werkplek.leusden.nl
 werkplek.lingewaard.nl
+werkplek.lochem.nl
 werkplek.ovh.gemeentebeek.nl
 werkplek02.derondevenen.nl
 werkplekcb.kampen.nl
@@ -9213,6 +9236,7 @@ www.leusden.nl
 www.lingewaard.nl
 www.lisse.nl
 www.live.groningen.nl
+www.lochem.nl
 www.login.gemeentebeek.nl
 www.login.haarlemmermeer.nl
 www.logius.nl

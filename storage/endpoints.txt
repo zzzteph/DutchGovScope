@@ -99,6 +99,7 @@ http://autodiscover.leiderdorp.nl
 http://autodiscover.leidschendam-voorburg.nl
 http://autodiscover.lingewaard.nl
 http://autodiscover.lisse.nl
+http://autodiscover.lochem.nl
 http://autodiscover.s-hertogenbosch.nl
 http://bastion365.katwijk.nl
 http://beekdaelen.nl
@@ -350,6 +351,7 @@ https://Infra-summit.acc.amsterdam.nl
 https://Infra-summit.tst.amsterdam.nl
 https://VRiSeLoket.cranendonck.nl
 https://WOZ-loket.heeze-leende.nl
+https://Www.lochem.nl
 https://a-consent.sarphati.amsterdam.nl
 https://a-surveys3.ggd.amsterdam.nl
 https://aaenhunze.nl
@@ -1864,6 +1866,7 @@ https://enterpriseenrollment.heerlen.nl
 https://enterpriseenrollment.landsmeer.nl
 https://enterpriseenrollment.leeuwarden.nl
 https://enterpriseenrollment.lingewaard.nl
+https://enterpriseenrollment.lochem.nl
 https://enterpriseone-arc.almere.nl
 https://enterpriseone-dv.almere.nl
 https://enterpriseone-py.almere.nl
@@ -1879,6 +1882,7 @@ https://enterpriseregistration.doetinchem.nl
 https://enterpriseregistration.gooisemeren.nl
 https://enterpriseregistration.huizen.nl
 https://enterpriseregistration.landsmeer.nl
+https://enterpriseregistration.lochem.nl
 https://epe.nl
 https://epp.denhaag.nl
 https://erfgoed.breda.nl
@@ -2428,6 +2432,7 @@ https://iburgerzaken.laren.nl
 https://iburgerzaken.lelystad.nl
 https://iburgerzaken.leudal.nl
 https://iburgerzaken.lingewaard.nl
+https://iburgerzaken.lochem.nl
 https://iburgerzaken.s-hertogenbosch.nl
 https://id-beheer-erfpacht-acc.amsterdam.nl
 https://id-beheer-erfpacht-dev.amsterdam.nl
@@ -2785,6 +2790,7 @@ https://lisse.nl
 https://live.bergen-nh.nl
 https://live.landvancuijk.nl
 https://liveblog.ede.nl
+https://lochem.nl
 https://login.alphenaandenrijn.nl
 https://login.groningen.nl
 https://login.subsidie.leiden.nl
@@ -2837,6 +2843,7 @@ https://lyncdiscover.ggd.amsterdam.nl
 https://lyncdiscover.hellevoetsluis.nl
 https://lyncdiscover.houten.nl
 https://m.amersfoort.nl
+https://m.lochem.nl
 https://m.werkenvoornederland.nl
 https://maashees.landvancuijk.nl
 https://maasheggen.landvancuijk.nl
@@ -3005,6 +3012,7 @@ https://mijn.hoorn.nl
 https://mijn.igj.nl
 https://mijn.lansingerland.nl
 https://mijn.lingewaard.nl
+https://mijn.lochem.nl
 https://mijn.overheid.nl
 https://mijn.toeslagen.nl
 https://mijnaanvraag.belastingdienst.nl
@@ -3333,6 +3341,7 @@ https://open.hofvantwente.nl
 https://open.krimpenerwaard.nl
 https://open.leudal.nl
 https://open.lisse.nl
+https://open.lochem.nl
 https://open.overheid.nl
 https://openbareruimte.deventer.nl
 https://opendata.assen.nl
@@ -3797,6 +3806,7 @@ https://remote.arnhem.nl
 https://remote.beverwijk.nl
 https://remote.gorinchem.nl
 https://remote.hethogeland.nl
+https://remote.lochem.nl
 https://renvooiservice-eto.overheid.nl
 https://renvooiservice.overheid.nl
 https://repository-eto.officiele-overheidspublicaties.nl
@@ -3840,6 +3850,7 @@ https://ruimtelijkeplannen.deventer.nl
 https://ruimtelijkeplannen.dronten.nl
 https://ruimtelijkeplannen.gemert-bakel.nl
 https://ruimtelijkeplannen.gorinchem.nl
+https://ruimtelijkeplannen.lochem.nl
 https://ruimtevoorjou.groningen.nl
 https://rw.belastingdienst.nl
 https://rwn.belastingdienst.nl
@@ -4997,6 +5008,7 @@ https://www.leudal.nl
 https://www.leusden.nl
 https://www.lingewaard.nl
 https://www.lisse.nl
+https://www.lochem.nl
 https://www.logius.nl
 https://www.mariahoeveaanzet.denhaag.nl
 https://www.matenpark.apeldoorn.nl
