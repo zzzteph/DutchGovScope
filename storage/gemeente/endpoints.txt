@@ -2306,6 +2306,7 @@ https://eloket.rhenen.nl
 https://eloket.rucphen.nl
 https://eloket.simpelveld.nl
 https://eloket.someren.nl
+https://eloket.sonenbreugel.nl
 https://eloketstaging.almere.nl
 https://eloketstaging.putten.nl
 https://elokettest.bloemendaal.nl
@@ -2328,6 +2329,7 @@ https://en.gemert-bakel.nl
 https://en.heerlen.nl
 https://en.kerkrade.nl
 https://en.nuenen.nl
+https://en.sonenbreugel.nl
 https://energiebespaaradvies.overbetuwe.nl
 https://energiek.beuningen.nl
 https://energieklussers.rotterdam.nl
@@ -3101,6 +3103,7 @@ https://iburgerzaken.s-hertogenbosch.nl
 https://iburgerzaken.schagen.nl
 https://iburgerzaken.smallingerland.nl
 https://iburgerzaken.someren.nl
+https://iburgerzaken.sonenbreugel.nl
 https://ict.gemeentesluis.nl
 https://id-beheer-erfpacht-acc.amsterdam.nl
 https://id-beheer-erfpacht-dev.amsterdam.nl
@@ -4329,6 +4332,7 @@ https://open.oude-ijsselstreek.nl
 https://open.rhenen.nl
 https://open.roosendaal.nl
 https://open.sint-michielsgestel.nl
+https://open.sonenbreugel.nl
 https://openagenda.ridderkerk.nl
 https://openbareruimte.deventer.nl
 https://opendata.assen.nl
@@ -5136,6 +5140,7 @@ https://simcms.ooststellingwerf.nl
 https://simcms.opmeer.nl
 https://simcms.renswoude.nl
 https://simcms.schiermonnikoog.nl
+https://simcms.sonenbreugel.nl
 https://simform-preproductie.achtkarspelen.nl
 https://simform-preproductie.gemeentehw.nl
 https://simform-test.rijswijk.nl
@@ -5227,6 +5232,7 @@ https://solliciteren.schouwen-duiveland.nl
 https://solliciterenbij.barneveld.nl
 https://solliciterenbij.maassluis.nl
 https://someren.nl
+https://sonenbreugel.nl
 https://spa4.acc.amsterdam.nl
 https://spa4.tst.amsterdam.nl
 https://spa4d.amsterdam.nl
@@ -5563,6 +5569,7 @@ https://testeloket.nuenen.nl
 https://testeloket.rhenen.nl
 https://testeloket.simpelveld.nl
 https://testeloket.someren.nl
+https://testeloket.sonenbreugel.nl
 https://testformulieren.bodegraven-reeuwijk.nl
 https://testformulieren.haarlemmermeer.nl
 https://testinloggen.haarlemmermeer.nl
@@ -6491,6 +6498,7 @@ https://www.sociaalloket.medemblik.nl
 https://www.socialekaart.echt-susteren.nl
 https://www.soest.nl
 https://www.someren.nl
+https://www.sonenbreugel.nl
 https://www.speleninoost.amsterdam.nl
 https://www.speleninzuid.amsterdam.nl
 https://www.sport.nijmegen.nl

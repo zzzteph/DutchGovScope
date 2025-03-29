@@ -17,25 +17,25 @@ simcms
 secure
 preproductie
 probeer
-loket
 felix
-formulieren
+loket
 eloket
+formulieren
 test
 werkplek
 dkd
 meldingen
+open
 portal
 acc
-open
 waarmerk
 adfs
 api.meldingen
 geo
 pv
+ruimtelijkeplannen
 vpn
 broker
-ruimtelijkeplannen
 raad
 parkeren
 afspraak
@@ -84,6 +84,7 @@ digikoppeling.test
 cloudadapter
 belastingloket
 portaal
+verkiezingen
 piwik
 duurzaam
 parkeren-acc
@@ -94,7 +95,6 @@ www.webmail
 filecap
 vergunningintaker
 denkmee
-verkiezingen
 osbacc
 preprod
 extranet
@@ -116,6 +116,7 @@ acc-objecttypen
 bastion365
 woningbouwkaart
 klantcontact
+simcms-open
 dtestmidoffice
 jaarstukken
 smtp
@@ -132,7 +133,6 @@ acc-openzaak
 keycloak
 podiumd-logs
 internetafspraken
-simcms-open
 test-intranet
 doemee
 squit2go
@@ -246,6 +246,7 @@ vth
 acceptatie-open
 bestanden
 mx1
+en
 handhaving
 mijnsociaaldomein
 api
@@ -308,7 +309,6 @@ mx2
 aeolus
 www.samen
 geoportaal
-en
 cloudadapter-prod
 ibabs
 kcc

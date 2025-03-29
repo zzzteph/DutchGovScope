@@ -3859,6 +3859,7 @@ eloket.rucphen.nl
 eloket.simpelveld.nl
 eloket.soest.nl
 eloket.someren.nl
+eloket.sonenbreugel.nl
 eloketstaging.almere.nl
 eloketstaging.putten.nl
 elokettest.bloemendaal.nl
@@ -3891,6 +3892,7 @@ en.gemert-bakel.nl
 en.heerlen.nl
 en.kerkrade.nl
 en.nuenen.nl
+en.sonenbreugel.nl
 enabling.omgevingswet.overheid.nl
 endpoint.oss.nl
 enepmx01.amsterdam.nl
@@ -4171,6 +4173,7 @@ felix.reuseldemierden.nl
 felix.scherpenzeel.nl
 felix.schiermonnikoog.nl
 felix.simpelveld.nl
+felix.sonenbreugel.nl
 felixburgerzaken.nissewaard.nl
 felixpdc.doesburg.nl
 festival.landvancuijk.nl
@@ -5371,6 +5374,7 @@ iburgerzaken.s-hertogenbosch.nl
 iburgerzaken.schagen.nl
 iburgerzaken.smallingerland.nl
 iburgerzaken.someren.nl
+iburgerzaken.sonenbreugel.nl
 ibzpink.aaenhunze.nl
 ibzpink.achtkarspelen.nl
 ibzpink.almelo.nl
@@ -5496,6 +5500,7 @@ ibzpink.rozendaal.nl
 ibzpink.schagen.nl
 ibzpink.smallingerland.nl
 ibzpink.someren.nl
+ibzpink.sonenbreugel.nl
 ice.nijmegen.nl
 icm-ast.asten.nl
 ict-ers.werkenvoornederland.nl
@@ -7929,6 +7934,7 @@ open.overheid.nl
 open.rhenen.nl
 open.roosendaal.nl
 open.sint-michielsgestel.nl
+open.sonenbreugel.nl
 openagenda.ridderkerk.nl
 openbareruimte.deventer.nl
 opencatalogi.rotterdam.nl
@@ -8840,6 +8846,7 @@ probeer.ridderkerk.nl
 probeer.roerdalen.nl
 probeer.scherpenzeel.nl
 probeer.simpelveld.nl
+probeer.sonenbreugel.nl
 prod-dictu.comcms.logius.nl
 prod-dictu.logius.nl
 prod.digikoppeling.schiedam.nl
@@ -9254,6 +9261,7 @@ ruimtelijkeplannen.ouder-amstel.nl
 ruimtelijkeplannen.raalte.nl
 ruimtelijkeplannen.rheden.nl
 ruimtelijkeplannen.s-hertogenbosch.nl
+ruimtelijkeplannen.sonenbreugel.nl
 ruimtevoorjou.groningen.nl
 rvmetadata.logius.nl
 rw.belastingdienst.nl
@@ -9646,6 +9654,7 @@ simcms-open.leudal.nl
 simcms-open.meerssen.nl
 simcms-open.nuenen.nl
 simcms-open.oirschot.nl
+simcms-open.sonenbreugel.nl
 simcms-preproductie.beekdaelen.nl
 simcms-preproductie.beuningen.nl
 simcms-preproductie.kerkrade.nl
@@ -9715,6 +9724,7 @@ simcms.roerdalen.nl
 simcms.scherpenzeel.nl
 simcms.schiermonnikoog.nl
 simcms.simpelveld.nl
+simcms.sonenbreugel.nl
 simcms2.beekdaelen.nl
 simcmsintra.bergeijk.nl
 simform-preproductie.achtkarspelen.nl
@@ -9805,6 +9815,7 @@ simsite.roerdalen.nl
 simsite.scherpenzeel.nl
 simsite.schiermonnikoog.nl
 simsite.simpelveld.nl
+simsite.sonenbreugel.nl
 singlegateway.haarlem.nl
 sint-agatha.landvancuijk.nl
 sint-hubert.landvancuijk.nl
@@ -9964,6 +9975,7 @@ solliciterenbij.barneveld.nl
 solliciterenbij.maassluis.nl
 someren.nl
 sonarqube.lpc.logius.nl
+sonenbreugel.nl
 songtitel.bibliotheek.rotterdam.nl
 sophos.beverwijk.nl
 sophos01.achtkarspelen.nl
@@ -10680,6 +10692,7 @@ test.schiedam.nl
 test.services.dronten.nl
 test.sint-michielsgestel.nl
 test.sittard-geleen.nl
+test.sonenbreugel.nl
 test.stub.mijn.overheid.nl
 test.subsites.leiden.nl
 testafspraken.alkmaar.nl
@@ -10737,6 +10750,7 @@ testeloket.nuenen.nl
 testeloket.rhenen.nl
 testeloket.simpelveld.nl
 testeloket.someren.nl
+testeloket.sonenbreugel.nl
 testembrace.nunspeet.nl
 testextsec.purmerend.nl
 testformulieren.bodegraven-reeuwijk.nl
@@ -11161,6 +11175,7 @@ verkiezingen.landgraaf.nl
 verkiezingen.nuenen.nl
 verkiezingen.putten.nl
 verkiezingen.ridderkerk.nl
+verkiezingen.sonenbreugel.nl
 verkiezingen.topdesk.denhaag.nl
 verleendekinderopvang.acc.belastingdienst.nl
 verleendekinderopvang.belastingdienst.nl
@@ -12645,6 +12660,7 @@ www.socialekaart.echt-susteren.nl
 www.soest.nl
 www.solliciterenbij.amsterdam.nl
 www.someren.nl
+www.sonenbreugel.nl
 www.speleninoost.amsterdam.nl
 www.speleninzuid.amsterdam.nl
 www.sport.amsterdam.nl
