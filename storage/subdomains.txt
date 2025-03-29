@@ -67,20 +67,20 @@ formulier
 remote
 kaart
 cmsoo
+cloudadapter-test
 zaken
 flowmailer-tracking
 login
-cloudadapter-test
 hybrid
 berichten
 beeldbank
 govroam
 mks
 acc-broker
+cloudadapter
 samen
 osbacc
 financien
-cloudadapter
 kaarten
 dtestloket
 verkiezingen
@@ -102,6 +102,7 @@ www.webmail
 filecap
 vergunningintaker
 mijninkomen
+qr
 gemeente
 acc-formulier
 acc-podiumd-logs
@@ -117,7 +118,6 @@ parkeren-test
 subsidies
 preprod-mijninkomen
 siam
-qr
 apps
 nieuwsbrief
 acc-mijn
@@ -131,6 +131,7 @@ test-cmsintranet
 doemee
 dtestmidoffice
 transfer
+belastingportaal
 afvalkalender
 snelbaliepp
 api.betalen
@@ -152,7 +153,6 @@ mdm
 AutoDiscover
 opendata
 mobiel
-belastingportaal
 preprodbroker
 college
 web
@@ -218,6 +218,7 @@ preprod-mijnsociaalplein
 ro
 _autodiscover._tcp
 bor
+acceptatie-open
 contact
 www.portal
 cms
@@ -253,7 +254,7 @@ key2gbav
 archief
 sport
 vth
-acceptatie-open
+bestuur
 jongin
 bestanden
 mx1
@@ -318,7 +319,6 @@ mijnzaken
 ondernemersloket
 topdesk
 openstad
-bestuur
 belastingbalie-test
 eformulieren
 woz-portaal
@@ -377,6 +377,7 @@ cloud
 www.doemee
 www.gemeenteraad
 jcccloud
+belastingportaal-test
 projecten
 erfgoed
 matomo
@@ -486,7 +487,6 @@ testcms-intranet
 csc
 mbg1
 wozloket
-belastingportaal-test
 preprod-mijnoverzicht
 2secure
 sportaccommodaties
@@ -522,6 +522,8 @@ intra
 wij
 winkelen
 www.openstad
+preprod-sociaalportaal
+sociaalportaal
 efactuur
 relay
 webdav
@@ -779,6 +781,7 @@ automator
 rx-mission-publiceren
 voormeldingen
 wim2-acc
+Belastingportaal-test
 netwerk
 beheerbeeldbank
 inkomensondersteuning
@@ -856,8 +859,7 @@ gisweb
 parkeren-siam-test
 parkeren-siam
 site
-preprod-sociaalportaal
-sociaalportaal
+serverruimte
 centric
 test-digikoppelingadapter
 dkd.berichtenverkeer
@@ -3798,7 +3800,6 @@ zaalhuur
 brsoribi01
 brsoribi02
 grmks06
-Belastingportaal-test
 woww
 2secureacc
 2securecloud
@@ -4464,7 +4465,6 @@ micc
 parkeeracties-test
 parkeeracties
 training
-serverruimte
 felixpdc
 menscentraal
 sim-prefill
