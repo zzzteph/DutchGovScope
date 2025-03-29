@@ -13,21 +13,21 @@ simsite
 digikoppeling
 mail
 simcms
-secure
 acceptatie
+secure
 preproductie
 probeer
 felix
 loket
 formulieren
-werkplek
 test
+werkplek
 eloket
 meldingen
 dkd
 acc
-portal
 open
+portal
 waarmerk
 adfs
 api.meldingen
@@ -86,6 +86,7 @@ portaal
 piwik
 duurzaam
 cloudadapter
+kaarten
 pki
 www.webmail
 filecap
@@ -96,7 +97,6 @@ extranet
 gemeente
 acc-formulier
 acc-podiumd-logs
-kaarten
 mailing
 mijnzorg
 vergunningintaker
@@ -122,6 +122,7 @@ e
 subsidies
 preprod-mijninkomen
 siam
+nieuwsbrief
 openzaak
 acc-contact
 acc-keycloak
@@ -137,8 +138,8 @@ squit2go
 transfer
 opendata
 mobiel
+belastingportaal
 apps
-nieuwsbrief
 bgt
 notificaties
 objecten
@@ -154,7 +155,6 @@ AutoDiscover
 testloket
 evenementen
 kennisbank
-belastingportaal
 preprodbroker
 simform
 web
@@ -169,6 +169,7 @@ email
 ftp
 gis
 owa
+test-digikoppeling
 meedoen
 connect.acceptatie
 inproces
@@ -191,7 +192,6 @@ auth
 woo
 lyncdiscover
 sts
-test-digikoppeling
 byod
 cmsintranet
 contentbeheer.acceptatie
@@ -214,6 +214,7 @@ www.portal
 servicedesk
 services
 omgevingswet
+praatmee
 preprod-mijn
 belastingen-acc
 maps
@@ -252,7 +253,6 @@ fs
 participatie
 documenten
 raadsnet
-praatmee
 www.werkenbij
 bis
 geodata
@@ -322,6 +322,7 @@ gisibgeoserver
 sociaaldomein
 stadsarchief
 exchange
+mijnoverzicht
 rpl3
 mozard
 mozardtest
@@ -408,7 +409,6 @@ edienstverlening
 testafspraken
 veiligmailen
 planon
-mijnoverzicht
 ssp
 digitaalnachtregister
 crl
@@ -461,6 +461,8 @@ csc
 mbg1
 www.doemee
 wozloket
+belastingportaal-test
+preprod-mijnoverzicht
 2secure
 sportaccommodaties
 mycorsanxt
@@ -721,9 +723,7 @@ automator
 rx-mission-publiceren
 voormeldingen
 wim2-acc
-belastingportaal-test
 netwerk
-preprod-mijnoverzicht
 inkomensondersteuning
 www.stadsarchief
 ro-onlineprod
@@ -6877,3 +6877,5 @@ dis4fintest
 key2fin
 key2fintest
 pkicertificaat2017
+Belastingportaal
+vind

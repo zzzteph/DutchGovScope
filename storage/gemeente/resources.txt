@@ -33,6 +33,7 @@ BGNVSV002.bergen.nl
 BRK.meerssen.nl
 Belastingbalie-test.meppel.nl
 Belastingportaal-test.boxtel.nl
+Belastingportaal.sint-michielsgestel.nl
 Cloudadapter-prod.hofvantwente.nl
 Cloudadapter-test.hofvantwente.nl
 Cloudadapter-test.simpelveld.nl
@@ -543,6 +544,7 @@ acceptatie.rijssen-holten.nl
 acceptatie.rijswijk.nl
 acceptatie.schagen.nl
 acceptatie.simpelveld.nl
+acceptatie.sint-michielsgestel.nl
 acceptatie.subsidies-backend.ede.nl
 acceptatie.subsidies.ede.nl
 acceptatiebelastingen.duiven.nl
@@ -1653,6 +1655,7 @@ belastingloket.test.oude-ijsselstreek.nl
 belastingloketacc.emmen.nl
 belastingportaal-test.boxtel.nl
 belastingportaal-test.dinkelland.nl
+belastingportaal-test.sint-michielsgestel.nl
 belastingportaal.aaenhunze.nl
 belastingportaal.acc.aaenhunze.nl
 belastingportaal.acc.assen.nl
@@ -1663,6 +1666,7 @@ belastingportaal.goirle.nl
 belastingportaal.hilvarenbeek.nl
 belastingportaal.midden-groningen.nl
 belastingportaal.oisterwijk.nl
+belastingportaal.sint-michielsgestel.nl
 belastingpraktijkonline.groningen.nl
 belastingtest.middendrenthe.nl
 beleidsatlas.rotterdam.nl
@@ -2688,6 +2692,7 @@ digikoppeling.schagen.nl
 digikoppeling.scherpenzeel.nl
 digikoppeling.schiedam.nl
 digikoppeling.schouwen-duiveland.nl
+digikoppeling.sint-michielsgestel.nl
 digikoppeling.ta-twd.rotterdam.nl
 digikoppeling.test.amstelveen.nl
 digikoppeling.test.bernheze.org
@@ -3186,6 +3191,7 @@ edienstenburgerzaken-test.rotterdam.nl
 edienstenburgerzaken-test.rucphen.nl
 edienstenburgerzaken-test.schiedam.nl
 edienstenburgerzaken-test.schouwen-duiveland.nl
+edienstenburgerzaken-test.sint-michielsgestel.nl
 edienstenburgerzaken.aalsmeer.nl
 edienstenburgerzaken.aalten.nl
 edienstenburgerzaken.acc.denhaag.nl
@@ -3277,6 +3283,7 @@ edienstenburgerzaken.rotterdam.nl
 edienstenburgerzaken.rucphen.nl
 edienstenburgerzaken.schiedam.nl
 edienstenburgerzaken.schouwen-duiveland.nl
+edienstenburgerzaken.sint-michielsgestel.nl
 edienstenburgerzaken.test.aalsmeer.nl
 edienstenburgerzaken.test.amstelveen.nl
 edienstenmijninkomen-acceptatie.albrandswaard.nl
@@ -5320,6 +5327,7 @@ kaarten.molenlanden.nl
 kaarten.ooststellingwerf.nl
 kaarten.pekela.nl
 kaarten.rijssen-holten.nl
+kaarten.sint-michielsgestel.nl
 kaartlaag.rotterdam.nl
 kaartviewer.barneveld.nl
 kaartviewer.gemeentehulst.nl
@@ -6279,6 +6287,7 @@ mijnoverheid.oldenzaal.nl
 mijnoverzicht.alphenaandenrijn.nl
 mijnoverzicht.boxtel.nl
 mijnoverzicht.purmerend.nl
+mijnoverzicht.sint-michielsgestel.nl
 mijnpersoneelsnet.amsterdam.nl
 mijnplan.gemeenteberkelland.nl
 mijnplein.assen.nl
@@ -6609,6 +6618,7 @@ nieuwsbrief.denhaag.nl
 nieuwsbrief.enschede.nl
 nieuwsbrief.goeree-overflakkee.nl
 nieuwsbrief.losser.nl
+nieuwsbrief.sint-michielsgestel.nl
 nieuwsbrieven.amsterdam.nl
 nieuwsbrieven.gorinchem.nl
 nieuwsbrieven.hengelo.nl
@@ -6951,6 +6961,7 @@ open.oirschot.nl
 open.oude-ijsselstreek.nl
 open.rhenen.nl
 open.roosendaal.nl
+open.sint-michielsgestel.nl
 openagenda.ridderkerk.nl
 openbareruimte.deventer.nl
 opencatalogi.rotterdam.nl
@@ -7520,6 +7531,7 @@ praatmee.borsele.nl
 praatmee.boxtel.nl
 praatmee.goeree-overflakkee.nl
 praatmee.schiedam.nl
+praatmee.sint-michielsgestel.nl
 prd.afs.amsterdam.nl
 prd1.hoorn.nl
 prdb.haarlem.nl
@@ -7578,6 +7590,7 @@ preprod-mijninkomen.gouda.nl
 preprod-mijninkomen.oss.nl
 preprod-mijnoverzicht.boxtel.nl
 preprod-mijnoverzicht.purmerend.nl
+preprod-mijnoverzicht.sint-michielsgestel.nl
 preprod-mijnplan.gemeenteberkelland.nl
 preprod-mijnportaal.defryskemarren.nl
 preprod-mijnportaal.gouda.nl
@@ -8592,6 +8605,7 @@ simsite.simpelveld.nl
 singlegateway.haarlem.nl
 sint-agatha.landvancuijk.nl
 sint-hubert.landvancuijk.nl
+sint-michielsgestel.nl
 sintanthonis.landvancuijk.nl
 sinterklaas.groningen.nl
 sip.assen.nl
@@ -9129,6 +9143,7 @@ test-digikoppeling.debilt.nl
 test-digikoppeling.gulpen-wittem.nl
 test-digikoppeling.nissewaard.nl
 test-digikoppeling.noordoostpolder.nl
+test-digikoppeling.sint-michielsgestel.nl
 test-digikoppelingadapter.doetinchem.nl
 test-digikoppelingadapter.oude-ijsselstreek.nl
 test-digikoppelingjnet.leeuwarden.nl
@@ -9303,6 +9318,7 @@ test.rijssen-holten.nl
 test.rijswijk.nl
 test.schiedam.nl
 test.services.dronten.nl
+test.sint-michielsgestel.nl
 test.subsites.leiden.nl
 testafspraken.alkmaar.nl
 testafspraken.gemeentehw.nl
@@ -9726,6 +9742,7 @@ viertfietsen.deventer.nl
 view.brunssum.nl
 view.nieuwsbrief.amsterdam.nl
 view.roerdalen.nl
+vind.sint-michielsgestel.nl
 vis.gouda.nl
 visvijver.doetinchem.nl
 vlindernet.lingewaard.nl
@@ -11042,6 +11059,7 @@ www.shopping.groningen.nl
 www.shops.landvancuijk.nl
 www.siam.rhenen.nl
 www.simpelveld.nl
+www.sint-michielsgestel.nl
 www.sinterklaas.groningen.nl
 www.sip.hellevoetsluis.nl
 www.sisa.rotterdam.nl
