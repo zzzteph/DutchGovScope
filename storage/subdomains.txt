@@ -12,10 +12,10 @@ afspraken
 simsite
 digikoppeling
 mail
-acceptatie
 secure
-simcms
+acceptatie
 preproductie
+simcms
 probeer
 felix
 loket
@@ -29,10 +29,10 @@ acc
 portal
 meldingen
 geo
+raad
 waarmerk
 vpn
 ruimtelijkeplannen
-raad
 adfs
 api.meldingen
 pv
@@ -42,18 +42,18 @@ zaaksysteem-accept
 parkeren
 betalen
 werkenbij
-testeloket
 iparticipatie
+testeloket
 gemeenteraad
 belastingen
 enterpriseenrollment
 dacceptatieloket
 dacceptatiemidoffice
+test-ipa
 openpdc
 dloket
 dmidoffice
 data
-test-ipa
 openpub
 osb
 belastingbalie
@@ -80,10 +80,10 @@ acc-broker
 cloudadapter
 samen
 dtestloket
+denkmee
 osbacc
 financien
 kaarten
-denkmee
 verkiezingen
 digikoppeling.test
 parkeren-acc
@@ -100,6 +100,7 @@ obsurv
 test-intranet
 pki
 filecap
+e
 vergunningintaker
 mijninkomen
 qr
@@ -113,7 +114,6 @@ dtestmidoffice
 jaarstukken
 begroting
 smtp
-e
 mailing
 belastingportaal
 mijnzorg
@@ -155,6 +155,7 @@ cryptshare
 opendata
 mobiel
 preprodbroker
+simform
 college
 web
 dali
@@ -173,7 +174,6 @@ testloket
 evenementen
 website
 kennisbank
-simform
 gisib
 preprod-mijn
 izaaksuite
@@ -233,6 +233,7 @@ rap
 services
 webservices
 omgevingswet
+geovisia
 praatmee
 bis
 geodata
@@ -268,7 +269,6 @@ participatie
 documenten
 raadsnet
 vergunningintaker-preprod
-geovisia
 gisib-test
 gisibapi-test
 gisibapi
@@ -342,6 +342,7 @@ werken
 loket.test
 midoffice
 toegang
+simform-preproductie
 sociaaldomein
 stadsarchief
 mijnoverzicht
@@ -426,7 +427,6 @@ belastingportaal.acc
 inloggen.belastingportaal
 inloggen.belastingportaal.acc
 www.acceptatie
-simform-preproductie
 edienstenaanvragensd-acceptatie
 edienstenaanvragensd
 edienstenmijninkomen-acceptatie
@@ -970,6 +970,7 @@ telefoon
 Cloudadapter-test
 rds
 communicatie
+www.denkmee
 organisatie
 test-kaartviewer
 test-insite
@@ -5475,7 +5476,6 @@ idselectprd
 organisatievisie2030
 sociaaljaarverslag
 verhalenroute
-www.denkmee
 www.meedoen
 hgvexc1
 hgvmks1
@@ -7214,3 +7214,9 @@ trouwen
 tyn-makelaar
 webreserveren
 zaaktest
+afvalris
+ried
+simcms-werkenbij
+taskflow
+webshop
+wsdl
