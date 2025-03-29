@@ -2,7 +2,7 @@ name: Schedule scan
 
 on:
   schedule:
-    - cron: "*/20 * * * *"
+    - cron: "*/6 * * * *"
 
 concurrency:
   group: scope-scan
