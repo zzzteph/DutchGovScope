@@ -29,10 +29,10 @@ portal
 meldingen
 open
 geo
+waarmerk
 vpn
 ruimtelijkeplannen
 parkeren
-waarmerk
 afspraak
 adfs
 api.meldingen
@@ -88,11 +88,11 @@ portaal
 denkmee
 financien
 belastingloket
+cmsintranet
 connect
 samen
 osbacc
 piwik
-cmsintranet
 test-cmsintranet
 pki
 mijnzorg
@@ -114,6 +114,7 @@ simform
 mijninkomen
 parkeren-test
 afvalkalender
+bgt
 woningbouwkaart
 obsurv
 klantcontact
@@ -126,7 +127,6 @@ qr
 nieuwsbrief
 acc-formulier
 acc-podiumd-logs
-bgt
 sts
 simcms-open
 micollab
@@ -208,6 +208,7 @@ test-digikoppeling
 byod
 contentbeheer.acceptatie
 zaken.acceptatie
+fmreturn
 guest
 publicroam
 intranet-acc
@@ -233,7 +234,6 @@ afval
 citrix
 inproces.acceptatie
 squit2020
-fmreturn
 iarchief
 formulieren-test
 mobile
@@ -293,6 +293,7 @@ ondernemersloket
 topdesk
 sport
 eformulieren
+woz-portaal
 aeolus
 en
 sbc01
@@ -316,6 +317,7 @@ subsidies.acceptatie
 dkd-test
 ro-online
 www.duurzaam
+bewustwording
 wion
 atlas
 app
@@ -349,7 +351,6 @@ subsidies-login
 mijnzaken
 admin.openstad
 openstad
-woz-portaal
 socialekaart
 www.intranet
 stemvan
@@ -376,7 +377,6 @@ rpl3
 test-zaakloket
 testsiam
 zaakloket
-bewustwording
 mail1
 nieuwsbrieven
 octopus
@@ -459,11 +459,14 @@ localhost
 bezoekersparkeren-acc
 cars
 mijnsociaaldomein-acc
+prefill
 gemeentewinkel
 awmail
 awseg
 awtunnel
 ens
+cca-acc
+cca
 mijndesktop
 git
 persberichten
@@ -658,16 +661,14 @@ insite
 www.parkeren
 digitaalloket
 hta
-prefill
 wonen
 ews
 www.belastingloket
 corsa-prod
 corsa-test
 prtg
+duoloket
 gt-loket
-cca-acc
-cca
 wmoloket
 content
 digitalebelastingbalie
@@ -830,6 +831,7 @@ spf-ogone01
 spf-ogone02
 spf-wind
 geoserver-test
+youpp
 pwa
 k2fin
 solliciterenbij
@@ -1125,7 +1127,6 @@ raadzaam
 wlan
 mylex
 Snelbalie
-duoloket
 eformulieren-test
 helpmij
 telefonie
@@ -1149,6 +1150,7 @@ parkeerloket
 secure-t
 camera
 qmanage
+e.bewustwording
 pdc.test
 mijnhr
 www.sharefile
@@ -3660,7 +3662,6 @@ woz-portaal-eemnes
 www.preprod-woz-portaal-eemnes
 www.woz-portaal-eemnes
 www.woz-portaal
-youpp
 adc
 cis
 cscp
@@ -6982,7 +6983,6 @@ digikoppelingentest
 gbiweb
 infoopkaart
 intranet2
-e.bewustwording
 cmssamenatwork
 mt-link
 octopus-webdav-acc
@@ -7759,3 +7759,14 @@ hamersestraat
 rosmolen
 westervoort-checker-preprod
 westervoort-checker
+bag-vwes11
+cmstestintranet
+dds-vwes21
+dkde-vwes11
+iis-vwes11
+iis-vwes21
+meldweb
+mh-vwes21
+prefill.test
+testintranet
+wes-x-iis-01
