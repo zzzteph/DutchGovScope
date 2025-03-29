@@ -398,12 +398,14 @@ acc.piwik.bodegraven-reeuwijk.nl
 acc.piwik.drimmelen.nl
 acc.piwik.echt-susteren.nl
 acc.piwik.halderberge.nl
+acc.piwik.roosendaal.nl
 acc.rabbitmq.datapunt.amsterdam.nl
 acc.registraties.amsterdam.nl
 acc.reimerswaal.nl
 acc.rhenen.nl
 acc.roles.data.amsterdam.nl
 acc.roles.datapunt.amsterdam.nl
+acc.roosendaal.nl
 acc.rooster.top.amsterdam.nl
 acc.schemas.data.amsterdam.nl
 acc.schoolwijzer.amsterdam.nl
@@ -459,6 +461,7 @@ acceptatie-open.gooisemeren.nl
 acceptatie-open.hofvantwente.nl
 acceptatie-open.moerdijk.nl
 acceptatie-open.oude-ijsselstreek.nl
+acceptatie-open.roosendaal.nl
 acceptatie-stemvan.emmen.nl
 acceptatie-vaarvergunningen.amsterdam.nl
 acceptatie.aalsmeer.nl
@@ -1295,6 +1298,7 @@ autodiscover.rijssen-holten.nl
 autodiscover.rijswijk.nl
 autodiscover.roerdalen.nl
 autodiscover.roermond.nl
+autodiscover.roosendaal.nl
 autodiscover.s-hertogenbosch.nl
 autodiscover.sp.haarlemmermeer.nl
 autodiscover.sp.nijmegen.nl
@@ -2333,6 +2337,7 @@ data.landvancuijk.nl
 data.mookenmiddelaar.nl
 data.nijmegen.nl
 data.oss.nl
+data.roosendaal.nl
 dataacc.breda.nl
 datab.drechterland.nl
 databeheer.gouda.nl
@@ -3295,6 +3300,7 @@ enterpriseenrollment.noardeast-fryslan.nl
 enterpriseenrollment.opsterland.nl
 enterpriseenrollment.oss.nl
 enterpriseenrollment.rheden.nl
+enterpriseenrollment.roosendaal.nl
 enterpriseone-arc.almere.nl
 enterpriseone-dv.almere.nl
 enterpriseone-py.almere.nl
@@ -3317,6 +3323,7 @@ enterpriseregistration.opsterland.nl
 enterpriseregistration.peelenmaas.nl
 enterpriseregistration.renkum.nl
 enterpriseregistration.rheden.nl
+enterpriseregistration.roosendaal.nl
 eoffice.purmerend.nl
 epe.nl
 epms.amsterdam.nl
@@ -4481,6 +4488,7 @@ iburgerzaken.reuseldemierden.nl
 iburgerzaken.rheden.nl
 iburgerzaken.rijssen-holten.nl
 iburgerzaken.roermond.nl
+iburgerzaken.roosendaal.nl
 iburgerzaken.s-hertogenbosch.nl
 ibzpink.aaenhunze.nl
 ibzpink.achtkarspelen.nl
@@ -4602,6 +4610,7 @@ ibzpink.reuseldemierden.nl
 ibzpink.rheden.nl
 ibzpink.rijssen-holten.nl
 ibzpink.roermond.nl
+ibzpink.roosendaal.nl
 ice.nijmegen.nl
 icm-ast.asten.nl
 id-beheer-erfpacht-acc.amsterdam.nl
@@ -4620,6 +4629,7 @@ id.amsterdam.nl
 id.dalfsen.nl
 id.krimpenerwaard.nl
 idcontact-accp.nijmegen.nl
+idee.roosendaal.nl
 ideevoormijnbuurt.emmen.nl
 idefix.s-hertogenbosch.nl
 identity-test.huizen.nl
@@ -5366,6 +5376,7 @@ logilink.gbamailbox.amersfoort.nl
 logilink.nissewaard.nl
 logilinkGBA.emmen.nl
 logilinkgba.emmen.nl
+login-acc.roosendaal.nl
 login-accept.maximaaljezelf.groningen.nl
 login-pre.mookenmiddelaar.nl
 login-pre.nijkerk.eu
@@ -5388,6 +5399,7 @@ login.mookenmiddelaar.nl
 login.nieuwegein.nl
 login.nijkerk.eu
 login.regiomonitor-acc.oosterhout.nl
+login.roosendaal.nl
 login.subsidie.leiden.nl
 logoff.ede.nl
 lois-acc.losser.nl
@@ -5681,6 +5693,7 @@ matenpark.apeldoorn.nl
 matomo.breda.nl
 matomo.haarlem.nl
 matomo.halderberge.nl
+matomo.roosendaal.nl
 mbg.buren.nl
 mbg.dantumadiel.frl
 mbg1.beverwijk.nl
@@ -5947,6 +5960,7 @@ mijn.pijnacker-nootdorp.nl
 mijn.ridderkerk.nl
 mijn.rijswijk.nl
 mijn.roermond.nl
+mijn.roosendaal.nl
 mijn.test.oss.nl
 mijnaanvraagzi.beuningen.nl
 mijnacc.montfoort.nl
@@ -6069,6 +6083,7 @@ mijnzorg-acc.amstelveen.nl
 mijnzorg-acc.barneveld.nl
 mijnzorg-acc.beesel.nl
 mijnzorg-acc.gennep.nl
+mijnzorg-acc.roosendaal.nl
 mijnzorg-test.borne.nl
 mijnzorg.aalsmeer.nl
 mijnzorg.accp.s-hertogenbosch.nl
@@ -6080,6 +6095,7 @@ mijnzorg.beesel.nl
 mijnzorg.borne.nl
 mijnzorg.denhelder.nl
 mijnzorg.gennep.nl
+mijnzorg.roosendaal.nl
 mijnzorg.s-hertogenbosch.nl
 milieudienst.groningen.nl
 milieueducatie.denhaag.nl
@@ -6633,12 +6649,14 @@ open.nuenen.nl
 open.oirschot.nl
 open.oude-ijsselstreek.nl
 open.rhenen.nl
+open.roosendaal.nl
 openagenda.ridderkerk.nl
 openbareruimte.deventer.nl
 opendata.arnhem.nl
 opendata.assen.nl
 opendata.bloemendaal.nl
 opendata.nijmegen.nl
+opendata.roosendaal.nl
 openformulieren-test.dewolden.nl
 openformulieren-test.enkhuizen.nl
 openformulieren-test.hoogeveen.nl
@@ -6773,6 +6791,7 @@ osb.montfoort.nl
 osb.nederweert.nl
 osb.oudewater.nl
 osb.purmerend.nl
+osb.roosendaal.nl
 osbacc.alkmaar.nl
 osbacc.almere.nl
 osbacc.drechterland.nl
@@ -6786,6 +6805,7 @@ osbacc.montfoort.nl
 osbacc.nederweert.nl
 osbacc.oudewater.nl
 osbtest.capelleaandenijssel.nl
+osbtest.roosendaal.nl
 osdorp.amsterdam.nl
 oso.s-hertogenbosch.nl
 ot.denhaag.nl
@@ -7017,6 +7037,7 @@ piwik.halderberge.nl
 piwik.kampen.nl
 piwik.krimpenerwaard.nl
 piwik.oostgelre.nl
+piwik.roosendaal.nl
 piwikacc.breda.nl
 pix-ia-sth.alkmaar.nl
 pix-ia-stk.alkmaar.nl
@@ -7484,6 +7505,7 @@ pv.oldebroek.nl
 pv.overbetuwe.nl
 pv.raalte.nl
 pv.ridderkerk.nl
+pv.roosendaal.nl
 pveopenbareruimte.deventer.nl
 pvh.hoorn.nl
 pw-specificatie.rijssen-holten.nl
@@ -7538,6 +7560,7 @@ raad.purmerend.nl
 raad.renkum.nl
 raad.ridderkerk.nl
 raad.rijssen-holten.nl
+raad.roosendaal.nl
 raadplegen.denhaag.nl
 raadsagenda.oirschot.nl
 raadsinformatie.eindhoven.nl
@@ -7678,6 +7701,7 @@ rokinintranet.amsterdam.nl
 roles.datapunt.amsterdam.nl
 rom.authenticatie.alkmaar.nl
 rondleidingen.landvancuijk.nl
+roosendaal.nl
 rooster.arnhem.nl
 rooster.denhelder.nl
 rooster.haarlemmermeer.nl
@@ -9644,6 +9668,7 @@ werkplek.overbetuwe.nl
 werkplek.ovh.gemeentebeek.nl
 werkplek.peelenmaas.nl
 werkplek.rheden.nl
+werkplek.roosendaal.nl
 werkplek02.derondevenen.nl
 werkplekcb.kampen.nl
 werkplektest.haarlemmermeer.nl
@@ -9827,6 +9852,8 @@ www.acc.echt-susteren.nl
 www.acc.halderberge.nl
 www.acc.mijngkb.midden-groningen.nl
 www.acc.piwik.echt-susteren.nl
+www.acc.piwik.roosendaal.nl
+www.acc.roosendaal.nl
 www.acccorsa02.ovh.gemeentebeek.nl
 www.acceptatie.aalsmeer.nl
 www.acceptatie.amstelveen.nl
@@ -10210,6 +10237,7 @@ www.ibo.borger-odoorn.nl
 www.iburgerzaken.overbetuwe.nl
 www.ibzpink.overbetuwe.nl
 www.ict.amsterdam.nl
+www.idee.roosendaal.nl
 www.iedereenwerktmee.amsterdam.nl
 www.ihp-acc.denhaag.nl
 www.ihp.denhaag.nl
@@ -10424,6 +10452,7 @@ www.pink-inproces-acc.overbetuwe.nl
 www.pip-test.emmen.nl
 www.piwik.echt-susteren.nl
 www.piwik.oostgelre.nl
+www.piwik.roosendaal.nl
 www.planboard.groningen.ad.groningen.nl
 www.plannen.groningen.nl
 www.platform.culemborg.nl
@@ -10478,6 +10507,7 @@ www.rijswijk.nl
 www.roerdalen.nl
 www.roermond.nl
 www.rondleidingen.landvancuijk.nl
+www.roosendaal.nl
 www.roplan.haarlemmermeer.nl
 www.ruimtelijkeplannen.amsterdam.nl
 www.ruimtelijkeplannen.dronten.nl
@@ -10731,6 +10761,7 @@ zaaksysteem-accept.moerdijk.nl
 zaaksysteem-accept.noordwijk.nl
 zaaksysteem-accept.ommen.nl
 zaaksysteem-accept.oude-ijsselstreek.nl
+zaaksysteem-accept.roosendaal.nl
 zaaksysteem.ede.nl
 zaaksysteem.eindhoven.nl
 zaaksysteem.hilversum.nl
