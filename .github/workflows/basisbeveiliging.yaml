@@ -31,8 +31,8 @@ jobs:
       - name: Run update script
         run: |
           python engine/basisbeveiliging.py scope.txt
-          cat scope.txt
-          cat scope.txt scope/rijksoverheid.txt | sort -u > scope/rijksoverheid.txt
+          cat scope.txt scope/rijksoverheid.txt | sort -u > scope/rijksoverheid.tmp
+          mv scope/rijksoverheid.tmp scope/rijksoverheid.txt
 
 
       - name: Commit changes
