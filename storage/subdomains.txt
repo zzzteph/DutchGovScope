@@ -28,9 +28,9 @@ acc
 portal
 waarmerk
 meldingen
+geo
 afspraak
 open
-geo
 parkeren
 api.meldingen
 adfs
@@ -630,6 +630,7 @@ pip-test
 www.gemeente
 gbionlinetest
 squit2gotest
+geo-secure
 de
 aaa
 preprod-belastingportaal
@@ -1000,7 +1001,6 @@ afspraakmakentest
 geoportaaltest
 mijn-acceptatie
 parkeervergunningtest
-geo-secure
 financieelportaal
 intake
 geovisiaonline
