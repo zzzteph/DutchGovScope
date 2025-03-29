@@ -6,8 +6,8 @@ ibzpink
 edienstenburgerzaken
 edienstenburgerzaken-test
 intranet
-webmail
 mijn
+webmail
 mail
 simsite
 afspraken
@@ -92,15 +92,15 @@ financien
 acc-broker
 klantcontact
 belastingloket
+pki
 osbacc
 parkeren-test
+siam
 test-cmsintranet
 samen
 doemee
-pki
 verkiezingen
 duurzaam
-siam
 apps
 simcms-open
 squit2go
@@ -931,6 +931,7 @@ squit2go-backoffice
 webcon
 wijzer
 idtst
+joinconnect
 bor-acc
 suite4burgerzaken-prod
 acceptatie.intranet
@@ -1211,6 +1212,7 @@ szc
 zwemmen
 wsn-mail
 spamfilter
+mailgate
 testbelastingen
 a-cms
 a-cms1
@@ -4030,7 +4032,6 @@ ptr
 vriseloket
 platform
 www.platform
-joinconnect
 kindregeling
 online-aanvraag-test
 online-aanvraag
@@ -7780,7 +7781,6 @@ e.doemee
 eopenstad
 guestportal
 intranet-oud
-mailgate
 mailgate2
 ontw
 oudewebsite
@@ -7983,3 +7983,4 @@ preprod-mijntoegang
 sigmax-acc
 sjaak.test
 sjaak
+digik
