@@ -1359,6 +1359,7 @@ apps.team-utrecht.cg-intern.acc.utrecht.nl
 apps.tilburg.nl
 apps.vught.nl
 apps.waalre.nl
+apps.waddinxveen.nl
 appstore-ont.belastingdienst.nl
 apv-broker.heuvelrug.nl
 apv-broker.preprod.heuvelrug.nl
@@ -2317,6 +2318,7 @@ bgt.lochem.nl
 bgt.pijnacker-nootdorp.nl
 bgt.veldhoven.nl
 bgt.voorst.nl
+bgt.waddinxveen.nl
 bgthvs.hilversum.nl
 bgtt.bergenopzoom.nl
 bgtwdm.hilversum.nl
@@ -2684,6 +2686,7 @@ cio-acc.overheid.nl
 cio-eto.overheid.nl
 cio.overheid.nl
 cios.acam.amsterdam.nl
+circulairopdreef.waddinxveen.nl
 cis.barneveld.nl
 citrix.brielle.nl
 citrix.gemeentebeek.nl
@@ -3168,6 +3171,7 @@ dali.noordwijk.nl
 dali.schiedam.nl
 dali.teylingen.nl
 dali.voorschoten.nl
+dali.waddinxveen.nl
 dantumadiel.frl
 dap.amsterdam.nl
 darwin.tilburg.nl
@@ -4813,6 +4817,7 @@ filetransfer.middendelfland.nl
 filetransfer.ont.belastingdienst.nl
 filetransfer.rijssen-holten.nl
 filetransfer.scherpenzeel.nl
+filetransfer.waddinxveen.nl
 filr.derondevenen.nl
 filr.drimmelen.nl
 filr.eijsden-margraten.nl
@@ -6138,6 +6143,7 @@ iburgerzaken.voorschoten.nl
 iburgerzaken.vught.nl
 iburgerzaken.waalre.nl
 iburgerzaken.waalwijk.nl
+iburgerzaken.waddinxveen.nl
 ibzpink.aaenhunze.nl
 ibzpink.achtkarspelen.nl
 ibzpink.almelo.nl
@@ -6287,6 +6293,7 @@ ibzpink.voorschoten.nl
 ibzpink.vught.nl
 ibzpink.waalre.nl
 ibzpink.waalwijk.nl
+ibzpink.waddinxveen.nl
 ice.nijmegen.nl
 icm-ast.asten.nl
 ict-ers.werkenvoornederland.nl
@@ -6676,6 +6683,7 @@ intranet.vlissingen.nl
 intranet.voerendaal.nl
 intranet.waadhoeke.nl
 intranet.waalwijk.nl
+intranet.waddinxveen.nl
 intranet2.steenwijkerland.nl
 intranetacc.apeldoorn.nl
 intranetacceptatie.kampen.nl
@@ -6748,6 +6756,7 @@ iparticipatie.t-diel.nl
 iparticipatie.twenterand.nl
 iparticipatie.urk.nl
 iparticipatie.velsen.nl
+iparticipatie.waddinxveen.nl
 ipp.haarlem.nl
 iris-acc.lingewaard.nl
 iris.acc.denhaag.nl
@@ -8099,6 +8108,7 @@ mijn.voerendaal.nl
 mijn.voorschoten.nl
 mijn.voorst.nl
 mijn.waalre.nl
+mijn.waddinxveen.nl
 mijnaanvraag.belastingdienst.nl
 mijnaanvraagzi.beuningen.nl
 mijnaanvragensociaaldomein.venlo.nl
@@ -8151,6 +8161,7 @@ mijngeldzaken.denhaag.nl
 mijngeldzaken.doetinchem.nl
 mijngeldzaken.nijmegen.nl
 mijngeldzakenacc.apeldoorn.nl
+mijngemeente.waddinxveen.nl
 mijngkb.groningen.nl
 mijngkb.midden-groningen.nl
 mijnhr.sudwestfryslan.nl
@@ -8263,6 +8274,7 @@ mijntokenactiveren.logius.nl
 mijnuitkering.emmen.nl
 mijnuitkering.nissewaard.nl
 mijnuitkering.s-hertogenbosch.nl
+mijnuitkering.waddinxveen.nl
 mijnwerkplek.peelenmaas.nl
 mijnwerkplek.schagen.nl
 mijnwerkregelingen-acc.utrecht.nl
@@ -9165,6 +9177,7 @@ openpdc.rozendaal.nl
 openpdc.s-hertogenbosch.nl
 openpdc.stedebroec.nl
 openpdc.texel.nl
+openpdc.waddinxveen.nl
 openpdckb.stedebroec.nl
 openpub.acc.stichtsevecht.nl
 openpub.albrandswaard.nl
@@ -9192,6 +9205,7 @@ openpub.sittard-geleen.nl
 openpub.stichtsevecht.nl
 openpub.test.stichtsevecht.nl
 openpub.texel.nl
+openpub.waddinxveen.nl
 openpubkb.stedebroec.nl
 openstad.deventer.nl
 openstad.emmen.nl
@@ -9615,6 +9629,7 @@ pip.gemeentehw.nl
 pip.haarlemmermeer.nl
 pip.urk.nl
 pip.vlaardingen.nl
+piptest.waddinxveen.nl
 pit.ede.nl
 piv-rest-test.belastingdienst.nl
 piv-rest.belastingdienst.nl
@@ -9906,6 +9921,7 @@ preprod-edienstensociaaldomein.heerenveen.nl
 preprod-formulieren.buren.nl
 preprod-formulieren.gemeentehw.nl
 preprod-formulieren.pijnacker-nootdorp.nl
+preprod-formulieren.waddinxveen.nl
 preprod-machtigen.digipoort.logius.nl
 preprod-meedoen.hellendoorn.nl
 preprod-meedoen.hollandskroon.nl
@@ -10073,6 +10089,7 @@ preproductie.urk.nl
 preproductie.valkenburg.nl
 preproductie.valkenswaard.nl
 preproductie.voorschoten.nl
+preproductie.waddinxveen.nl
 presenteren.ont.belastingdienst.nl
 preview-eto.overheid.nl
 pric.rotterdam.nl
@@ -10147,6 +10164,7 @@ probeer.twenterand.nl
 probeer.urk.nl
 probeer.valkenswaard.nl
 probeer.vlissingen.nl
+probeer.waddinxveen.nl
 prod-dictu.comcms.logius.nl
 prod-dictu.logius.nl
 prod-kodision-cli.sudwestfryslan.nl
@@ -11154,6 +11172,7 @@ simcms.vlieland.nl
 simcms.vlissingen.nl
 simcms.voorschoten.nl
 simcms.waalwijk.nl
+simcms.waddinxveen.nl
 simcms2.beekdaelen.nl
 simcmsintra.bergeijk.nl
 simform-preproductie.achtkarspelen.nl
@@ -11265,6 +11284,7 @@ simsite.vlieland.nl
 simsite.voerendaal.nl
 simsite.voorschoten.nl
 simsite.waalwijk.nl
+simsite.waddinxveen.nl
 singlegateway.haarlem.nl
 sint-agatha.landvancuijk.nl
 sint-hubert.landvancuijk.nl
@@ -11300,6 +11320,7 @@ site7.rijksoverheid.nl
 site8.rijksoverheid.nl
 sittard-geleen.nl
 sl.voorst.nl
+sleutelkwartier.waddinxveen.nl
 sliedrecht-checker-preprod.sliedrecht.nl
 sliedrecht-checker.sliedrecht.nl
 sliedrecht.nl
@@ -12128,6 +12149,7 @@ test-ipa.t-diel.nl
 test-ipa.twenterand.nl
 test-ipa.urk.nl
 test-ipa.velsen.nl
+test-ipa.waddinxveen.nl
 test-jip.hofvantwente.nl
 test-jip.vijfheerenlanden.nl
 test-kaart.almere.nl
@@ -12284,6 +12306,7 @@ test.vijfheerenlanden.nl
 test.voerendaal.nl
 test.waalre.nl
 test.waalwijk.nl
+test.waddinxveen.nl
 testafspraken.alkmaar.nl
 testafspraken.gemeentehw.nl
 testafspraken.nissewaard.nl
@@ -12366,6 +12389,7 @@ testloket.oldebroek.nl
 testmarkt1.nunspeet.nl
 testmeldingen.asten.nl
 testmijn.haarlemmermeer.nl
+testmijngemeente.waddinxveen.nl
 testmijnzaken.derondevenen.nl
 testmijnzaken.schagen.nl
 testmks.veere.nl
@@ -12598,6 +12622,7 @@ tstwi169.tst.groningen.nl
 tstwi175.tst.groningen.nl
 tstwi184.tst.groningen.nl
 tstwi220.tst.groningen.nl
+tsuyt.waddinxveen.nl
 ttgbav-prod.gemeente-steenbergen.nl
 ttgbav-test.gemeente-steenbergen.nl
 tty.cg-intern.acc.utrecht.nl
@@ -13093,6 +13118,11 @@ wachtwoordvergeten.amsterdam.nl
 wachtwoordvergeten.nederbetuwe.nl
 wadden.groningen.nl
 waddenland.groningen.nl
+waddsup.waddinxveen.nl
+wadelse-acc.waddinxveen.nl
+wadelse.waddinxveen.nl
+wadelsecms-acc.waddinxveen.nl
+wadelsecms.waddinxveen.nl
 waf.ont.belastingdienst.nl
 wagenparkgegevens.acc.belastingdienst.nl
 wagenparkgegevens.belastingdienst.nl
@@ -13125,6 +13155,7 @@ wd-ont.belastingdienst.nl
 wd.belastingdienst.nl
 wdm01.gooisemeren.nl
 wdt.belastingdienst.nl
+wdvggm.waddinxveen.nl
 web.alblasserdam.nl
 web.dordrecht.nl
 web.gorinchem.nl
@@ -14708,6 +14739,7 @@ www.waalre.nl
 www.waalwijk.nl
 www.wadden.groningen.nl
 www.waddenland.groningen.nl
+www.waddinxveen.nl
 www.wandelen.groningen.nl
 www.wandelroutes.landvancuijk.nl
 www.warenhuis.groningen.nl

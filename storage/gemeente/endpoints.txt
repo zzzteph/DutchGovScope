@@ -313,6 +313,7 @@ http://panel.almere.nl
 http://parkeervergunningen.amsterdam.nl
 http://participatieprikbord.denhaag.nl
 http://pip-preproductie.vlaardingen.nl
+http://piptest.waddinxveen.nl
 http://plannen.asten.nl
 http://pre-ows-ahp-test.groningen.nl
 http://pre-ows-app-test.groningen.nl
@@ -422,6 +423,7 @@ http://twenterand.nl
 http://urk.nl
 http://vergunningintaker.bernheze.org
 http://vsp.terneuzen.nl
+http://wadelse-acc.waddinxveen.nl
 http://webmail.gooisemeren.nl
 http://welkom.ede.nl
 http://wijkteam-acc.katwijk.nl
@@ -1201,6 +1203,7 @@ https://apps.sudwestfryslan.nl
 https://apps.tilburg.nl
 https://apps.vught.nl
 https://apps.waalre.nl
+https://apps.waddinxveen.nl
 https://apv-broker.heuvelrug.nl
 https://apv-broker.preprod.heuvelrug.nl
 https://arbo-kwaliteit.rotterdam.nl
@@ -1805,6 +1808,7 @@ https://centrumbegroot.amsterdam.nl
 https://checklist.rotterdam.nl
 https://cicd010.rotterdam.nl
 https://cimot.almelo.nl
+https://circulairopdreef.waddinxveen.nl
 https://citrix.brielle.nl
 https://citrix.gulpen-wittem.nl
 https://citrix.waalwijk.nl
@@ -2005,6 +2009,7 @@ https://dali.noordwijk.nl
 https://dali.schiedam.nl
 https://dali.teylingen.nl
 https://dali.voorschoten.nl
+https://dali.waddinxveen.nl
 https://dantumadiel.frl
 https://dap.amsterdam.nl
 https://darwin.tilburg.nl
@@ -3529,6 +3534,7 @@ https://iburgerzaken.voorschoten.nl
 https://iburgerzaken.vught.nl
 https://iburgerzaken.waalre.nl
 https://iburgerzaken.waalwijk.nl
+https://iburgerzaken.waddinxveen.nl
 https://ict.gemeentesluis.nl
 https://id-beheer-erfpacht-acc.amsterdam.nl
 https://id-beheer-erfpacht-dev.amsterdam.nl
@@ -4445,6 +4451,7 @@ https://mijngeldzaken.arnhem.nl
 https://mijngeldzaken.denhaag.nl
 https://mijngeldzaken.doetinchem.nl
 https://mijngeldzaken.nijmegen.nl
+https://mijngemeente.waddinxveen.nl
 https://mijngkb.groningen.nl
 https://mijngkb.midden-groningen.nl
 https://mijnhr.utrecht.nl
@@ -4533,6 +4540,7 @@ https://mijntalentcenter.gemeentehulst.nl
 https://mijntexeltest.texel.nl
 https://mijnuitkering.emmen.nl
 https://mijnuitkering.nissewaard.nl
+https://mijnuitkering.waddinxveen.nl
 https://mijnwerkregelingen-acc.utrecht.nl
 https://mijnwerkregelingen.utrecht.nl
 https://mijnwijkteam.schagen.nl
@@ -5022,6 +5030,7 @@ https://openpdc.rozendaal.nl
 https://openpdc.s-hertogenbosch.nl
 https://openpdc.stedebroec.nl
 https://openpdc.texel.nl
+https://openpdc.waddinxveen.nl
 https://openpdckb.stedebroec.nl
 https://openpub.acc.stichtsevecht.nl
 https://openpub.albrandswaard.nl
@@ -5049,6 +5058,7 @@ https://openpub.sittard-geleen.nl
 https://openpub.stichtsevecht.nl
 https://openpub.test.stichtsevecht.nl
 https://openpub.texel.nl
+https://openpub.waddinxveen.nl
 https://openpubkb.stedebroec.nl
 https://openstad.deventer.nl
 https://openstad.enschede.nl
@@ -5377,6 +5387,7 @@ https://preprod-edienstensociaaldomein.heerenveen.nl
 https://preprod-formulieren.buren.nl
 https://preprod-formulieren.gemeentehw.nl
 https://preprod-formulieren.pijnacker-nootdorp.nl
+https://preprod-formulieren.waddinxveen.nl
 https://preprod-meedoen.hellendoorn.nl
 https://preprod-meedoen.hollandskroon.nl
 https://preprod-mijn.albrandswaard.nl
@@ -5940,6 +5951,7 @@ https://sisa.rotterdam.nl
 https://site.dijkenwaard.nl
 https://site.tilburg.nl
 https://sittard-geleen.nl
+https://sleutelkwartier.waddinxveen.nl
 https://sliedrecht-checker-preprod.sliedrecht.nl
 https://sliedrecht-checker.sliedrecht.nl
 https://sliedrecht.nl
@@ -6411,6 +6423,7 @@ https://testloket.middelburg.nl
 https://testloket.nieuwkoop.nl
 https://testloket.oldebroek.nl
 https://testmeldingen.asten.nl
+https://testmijngemeente.waddinxveen.nl
 https://testmijnzaken.derondevenen.nl
 https://testmijnzaken.schagen.nl
 https://testportaal.almelo.nl
@@ -6506,6 +6519,7 @@ https://tsiam.oostzaan.nl
 https://tst-eformulier.heerlen.nl
 https://tst-ubor.amsterdam.nl
 https://tstidentity.sudwestfryslan.nl
+https://tsuyt.waddinxveen.nl
 https://ttgbav-prod.gemeente-steenbergen.nl
 https://tubbergen.nl
 https://tuinen.groningen.nl
@@ -6735,6 +6749,10 @@ https://wachtwoordreset.almere.nl
 https://wachtwoordvergeten.amsterdam.nl
 https://wachtwoordvergeten.nederbetuwe.nl
 https://waddenland.groningen.nl
+https://waddsup.waddinxveen.nl
+https://wadelse.waddinxveen.nl
+https://wadelsecms-acc.waddinxveen.nl
+https://wadelsecms.waddinxveen.nl
 https://wandelroutes.landvancuijk.nl
 https://wanroij.landvancuijk.nl
 https://warenhuis.groningen.nl
@@ -7541,6 +7559,7 @@ https://www.vvv.deventer.nl
 https://www.waadhoeke.nl
 https://www.waalre.nl
 https://www.waddenland.groningen.nl
+https://www.waddinxveen.nl
 https://www.wandelroutes.landvancuijk.nl
 https://www.watdoetdegemeente.rotterdam.nl
 https://www.webmail.olst-wijhe.nl
