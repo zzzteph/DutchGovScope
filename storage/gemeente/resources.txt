@@ -477,11 +477,13 @@ acc.vergunningcheck.amsterdam.nl
 acc.vergunningschecker.amsterdam.nl
 acc.verkeer.amsterdam.nl
 acc.vijfheerenlanden.nl
+acc.voerendaal.nl
 acc.voorraad.top.amsterdam.nl
 acc.vt.data.amsterdam.nl
 acc.wbakaart.amsterdam.nl
 acc.wonen.zaken.amsterdam.nl
 acc.woz-loket.harlingen.nl
+acc.zorg.voerendaal.nl
 acc.zrc.data.amsterdam.nl
 acc.ztc.data.amsterdam.nl
 acc.zxy-cloud-assets.amsterdam.nl
@@ -592,6 +594,7 @@ acceptatie.tiel.nl
 acceptatie.uithoorn.nl
 acceptatie.veendam.nl
 acceptatie.velsen.nl
+acceptatie.voerendaal.nl
 acceptatiebelastingen.duiven.nl
 acceptatieformulieren.nissewaard.nl
 acceptatieloket.bergen-nh.nl
@@ -658,6 +661,7 @@ adfs.pijnacker-nootdorp.nl
 adfs.purmerend.nl
 adfs.rijssen-holten.nl
 adfs.simpelveld.nl
+adfs.voerendaal.nl
 adfs01.sudwestfryslan.nl
 adfslogin.defryskemarren.nl
 adiko.apeldoorn.nl
@@ -852,6 +856,7 @@ afspraken.veendam.nl
 afspraken.veere.nl
 afspraken.velsen.nl
 afspraken.vlissingen.nl
+afspraken.voerendaal.nl
 afspraken2.gorinchem.nl
 afval.acc.denhaag.nl
 afval.assen.nl
@@ -1557,10 +1562,12 @@ autorisatie02.alkmaar.nl
 autorisatiebeheer-test.brunssum.nl
 autorisatiebeheer-test.heerlen.nl
 autorisatiebeheer-test.landgraaf.nl
+autorisatiebeheer-test.voerendaal.nl
 autorisatiebeheer.brunssum.nl
 autorisatiebeheer.heerlen.nl
 autorisatiebeheer.landgraaf.nl
 autorisatiebeheer.simpelveld.nl
+autorisatiebeheer.voerendaal.nl
 autorisatiebeheertest.simpelveld.nl
 autorisatietest.bloemendaal.nl
 av.alkmaar.nl
@@ -2072,6 +2079,7 @@ bi-sociaal.fo.amsterdam.nl
 bi-sociaal.ft.amsterdam.nl
 bi.amsterdam.nl
 bi.rhenen.nl
+bi.zorgned.voerendaal.nl
 bibliotheek.rotterdam.nl
 bibliotheek.vlaardingen.nl
 bibliotheekbenoordenhout.denhaag.nl
@@ -2283,6 +2291,7 @@ byod.groningen.nl
 byod.gulpen-wittem.nl
 byod.heerlen.nl
 byod.simpelveld.nl
+byod.voerendaal.nl
 byspy.maassluis.nl
 bzg1-acc.heerlen.nl
 bzg1-acc.hellevoetsluis.nl
@@ -2297,6 +2306,7 @@ camera-mkr.heerlen.nl
 camera-sport.alkmaar.nl
 camera.sliedrecht.nl
 camera.sudwestfryslan.nl
+camerabuitendienst.voerendaal.nl
 campagne.haarlem.nl
 campus.groningen.nl
 campus.purmerend.nl
@@ -2314,6 +2324,7 @@ carel.brunssum.nl
 carel.heerlen.nl
 carel.kerkrade.nl
 carel.simpelveld.nl
+carel.voerendaal.nl
 carel1900p-clientpki.sudwestfryslan.nl
 carel1900p.sudwestfryslan.nl
 carel1900t-clientpki.sudwestfryslan.nl
@@ -2425,6 +2436,7 @@ cloudadapter-test.simpelveld.nl
 cloudadapter-test.steenwijkerland.nl
 cloudadapter-test.tubbergen.nl
 cloudadapter-test.valkenburg.nl
+cloudadapter-test.voerendaal.nl
 cloudadapter.baarn.nl
 cloudadapter.bronckhorst.nl
 cloudadapter.brunssum.nl
@@ -2442,6 +2454,7 @@ cloudadapter.simpelveld.nl
 cloudadapter.steenwijkerland.nl
 cloudadapter.tubbergen.nl
 cloudadapter.valkenburg.nl
+cloudadapter.voerendaal.nl
 cloudconnector-test.rijswijk.nl
 cloudconnector.acc.maassluis.nl
 cloudconnector.prod.maassluis.nl
@@ -2539,6 +2552,7 @@ cognos.brunssum.nl
 cognos.heerlen.nl
 cognos.kerkrade.nl
 cognos.simpelveld.nl
+cognos.voerendaal.nl
 collabora.ede.nl
 collecties.dantumadiel.frl
 collecties.losser.nl
@@ -3211,6 +3225,7 @@ dis-test.gulpen-wittem.nl
 dis.gulpen-wittem.nl
 dis4bz.heerlen.nl
 dis4fin.simpelveld.nl
+dis4fin.voerendaal.nl
 dis4fintest.simpelveld.nl
 discoverreceiver.purmerend.nl
 ditwilikin.rotterdam.nl
@@ -3538,6 +3553,7 @@ e-loket.bergen.nl
 e-loket.gemeentebest.nl
 e-loket.steenwijkerland.nl
 e-loket.vlissingen.nl
+e-loket.voerendaal.nl
 e-loketstaging.bergen.nl
 e-net.amsterdam.nl
 e-net.intranet.amsterdam.nl
@@ -3707,6 +3723,7 @@ edienstenburgerzaken-test.utrecht.nl
 edienstenburgerzaken-test.valkenburg.nl
 edienstenburgerzaken-test.veldhoven.nl
 edienstenburgerzaken-test.vijfheerenlanden.nl
+edienstenburgerzaken-test.voerendaal.nl
 edienstenburgerzaken.aalsmeer.nl
 edienstenburgerzaken.aalten.nl
 edienstenburgerzaken.acc.denhaag.nl
@@ -3816,6 +3833,7 @@ edienstenburgerzaken.utrecht.nl
 edienstenburgerzaken.valkenburg.nl
 edienstenburgerzaken.veldhoven.nl
 edienstenburgerzaken.vijfheerenlanden.nl
+edienstenburgerzaken.voerendaal.nl
 edienstenmijninkomen-acceptatie.albrandswaard.nl
 edienstenmijninkomen-acceptatie.barendrecht.nl
 edienstenmijninkomen-acceptatie.ridderkerk.nl
@@ -4171,6 +4189,7 @@ extranet.tholen.nl
 extranet.valkenburg.nl
 extranet.valkenswaard.nl
 extranet.vga.amsterdam.nl
+extranet.voerendaal.nl
 extranetcms-acc.eemsdelta.nl
 extranetcms.eemsdelta.nl
 extranettest.vga.amsterdam.nl
@@ -4580,6 +4599,7 @@ gasten.kerkrade.nl
 gasten.landgraaf.nl
 gasten.lansingerland.nl
 gasten.simpelveld.nl
+gasten.voerendaal.nl
 gateway-ot.tilburg.nl
 gateway.groningen.nl
 gateway.heerenveen.nl
@@ -4989,6 +5009,7 @@ govroam.noordoostpolder.nl
 govroam.simpelveld.nl
 govroam.sudwestfryslan.nl
 govroam.twenterand.nl
+govroam.voerendaal.nl
 gp-admin.tilburg.nl
 gp-test.borne.nl
 gp.apeldoorn.nl
@@ -5056,6 +5077,7 @@ guest.heerlen.nl
 guest.kerkrade.nl
 guest.landgraaf.nl
 guest.simpelveld.nl
+guest.voerendaal.nl
 guido.asten.nl
 gulpen-wittem.nl
 gviservices.intranet.amsterdam.nl
@@ -5949,6 +5971,7 @@ intranet.veere.nl
 intranet.velsen.nl
 intranet.venlo.nl
 intranet.vlissingen.nl
+intranet.voerendaal.nl
 intranet2.steenwijkerland.nl
 intranetacc.apeldoorn.nl
 intranetacceptatie.kampen.nl
@@ -6283,11 +6306,15 @@ key2datadistributie-test.brunssum.nl
 key2datadistributie-test.heerlen.nl
 key2datadistributie-test.landgraaf.nl
 key2datadistributie-test.simpelveld.nl
+key2datadistributie-test.voerendaal.nl
 key2datadistributie.heerlen.nl
 key2datadistributie.landgraaf.nl
+key2datadistributie.voerendaal.nl
 key2fin.simpelveld.nl
 key2financien-prod.beverwijk.nl
 key2financien-test.beverwijk.nl
+key2financien-test.voerendaal.nl
+key2financien.voerendaal.nl
 key2fintest.simpelveld.nl
 key2gbav.brunssum.nl
 key2gbav.emmen.nl
@@ -6295,10 +6322,12 @@ key2gbav.haarlemmermeer.nl
 key2gbav.heerlen.nl
 key2gbav.landgraaf.nl
 key2gbav.simpelveld.nl
+key2gbav.voerendaal.nl
 key2gbavtest.brunssum.nl
 key2gbavtest.heerlen.nl
 key2gbavtest.landgraaf.nl
 key2gbavtest.simpelveld.nl
+key2gbavtest.voerendaal.nl
 key2parkeren.utrecht.nl
 key2percelen.haarlemmermeer.nl
 key2waarderen-voormeldingwoz.amersfoort.nl
@@ -6398,6 +6427,7 @@ koppelpoort.amersfoort.nl
 koppelvlak.bergen-nh.nl
 koppelvlak.peelenmaas.nl
 koppelvlakken.landgraaf.nl
+koppelvlakken.voerendaal.nl
 koppelvlakkentst.landgraaf.nl
 koppelvlaktest.peelenmaas.nl
 kopprd.lelystad.nl
@@ -7237,6 +7267,7 @@ mijn.veenendaal.nl
 mijn.veere.nl
 mijn.vijfheerenlanden.nl
 mijn.vlaardingen.nl
+mijn.voerendaal.nl
 mijnaanvraagzi.beuningen.nl
 mijnaanvragensociaaldomein.venlo.nl
 mijnacc.montfoort.nl
@@ -7758,6 +7789,7 @@ notificaties.openzaak-tst.amsterdam.nl
 notificaties.roermond.nl
 notificaties.rotterdam.nl
 notificaties.wonenportaal.amsterdam.nl
+notubiz-recorder.voerendaal.nl
 notubiz.alkmaar.nl
 notubiz.gulpen-wittem.nl
 ns.amersfoort.nl
@@ -7801,6 +7833,7 @@ nunspeet.nl
 nw.haarlemmermeer.nl
 nwk-djm02.nieuwkoop.nl
 nwro.velsen.nl
+nwro.voerendaal.nl
 nwro2.velsen.nl
 o1.afspraak.leiden.nl
 o1.ptr1802.bodegraven-reeuwijk.nl
@@ -9120,6 +9153,7 @@ publicroam.heerlen.nl
 publicroam.kerkrade.nl
 publicroam.landgraaf.nl
 publicroam.simpelveld.nl
+publicroam.voerendaal.nl
 publiek-id-test.gouda.nl
 publiek-id.gouda.nl
 publiek.amsterdam.nl
@@ -9478,6 +9512,7 @@ ruimtelijkeplannen.tilburg.nl
 ruimtelijkeplannen.veldhoven.nl
 ruimtelijkeplannen.venlo.nl
 ruimtelijkeplannen.vijfheerenlanden.nl
+ruimtelijkeplannen.voerendaal.nl
 ruimtevoorjou.groningen.nl
 ruimtevoorwerken.stichtsevecht.nl
 rvw.stichtsevecht.nl
@@ -9710,6 +9745,7 @@ secure.veldhoven.nl
 secure.venlo.nl
 secure.vlaardingen.nl
 secure.vlieland.nl
+secure.voerendaal.nl
 secure1.gulpen-wittem.nl
 securegemnet.roermond.nl
 securegw.bunschoten.nl
@@ -10046,6 +10082,7 @@ simsite.valkenswaard.nl
 simsite.veendam.nl
 simsite.veere.nl
 simsite.vlieland.nl
+simsite.voerendaal.nl
 singlegateway.haarlem.nl
 sint-agatha.landvancuijk.nl
 sint-hubert.landvancuijk.nl
@@ -10542,8 +10579,10 @@ suite4burgerzaken-prod.gulpen-wittem.nl
 suite4burgerzaken-test.brunssum.nl
 suite4burgerzaken-test.gulpen-wittem.nl
 suite4burgerzaken-test.landgraaf.nl
+suite4burgerzaken-test.voerendaal.nl
 suite4burgerzaken.brunssum.nl
 suite4burgerzaken.landgraaf.nl
+suite4burgerzaken.voerendaal.nl
 suite4sdmhprod.hoorn.nl
 suite4sdmhtest.hoorn.nl
 summit-ft.amsterdam.nl
@@ -10637,6 +10676,7 @@ teleweb.arnhem.nl
 teleweb.heerlen.nl
 teleweb.kerkrade.nl
 teleweb.landgraaf.nl
+teleweb.voerendaal.nl
 telewerk.velsen.nl
 telewerken.amsterdam.nl
 telewerken.drechterland.nl
@@ -10814,6 +10854,7 @@ test-secure.heerlen.nl
 test-secure.landgraaf.nl
 test-secure.leeuwarden.nl
 test-secure.nederweert.nl
+test-secure.voerendaal.nl
 test-secureweb.landgraaf.nl
 test-social.montferland.info
 test-socialintranet.middendelfland.nl
@@ -10906,6 +10947,7 @@ test.veendam.nl
 test.veere.nl
 test.velsen.nl
 test.vijfheerenlanden.nl
+test.voerendaal.nl
 testafspraken.alkmaar.nl
 testafspraken.gemeentehw.nl
 testafspraken.nissewaard.nl
@@ -11328,6 +11370,7 @@ vdi.rijswijk.nl
 vdi.rotterdam.nl
 vdi.schagen.nl
 vdi8.amersfoort.nl
+vdlpki.voerendaal.nl
 vdtm.veenendaal.nl
 veendam.nl
 veenendaal.nl
@@ -11456,6 +11499,7 @@ vmapp002.borne.nl
 vmapp006.borne.nl
 vmbg01.landgraaf.nl
 vmgis003.borne.nl
+voerendaal.nl
 vogelweide.diemen.nl
 voice.leudal.nl
 voip.bernheze.org
@@ -11785,6 +11829,7 @@ webmail.vaals.nl
 webmail.valkenburg.nl
 webmail.veendam.nl
 webmail.velsen.nl
+webmail.voerendaal.nl
 webmail.west.amsterdam.nl
 webmail.zuidoost.amsterdam.nl
 webmail2.heusden.nl
@@ -13106,6 +13151,7 @@ www.vijfheerenlanden.nl
 www.vlaardingen.nl
 www.vlieland.nl
 www.vlissingen.nl
+www.voerendaal.nl
 www.vpn.haarlemmermeer.nl
 www.vpn.hillegom.nl
 www.vraagbaak.doesburg.nl
@@ -13281,6 +13327,7 @@ zaaksysteem-accept.stichtsevecht.nl
 zaaksysteem-accept.tholen.nl
 zaaksysteem-accept.tilburg.nl
 zaaksysteem-accept.vlaardingen.nl
+zaaksysteem-accept.voerendaal.nl
 zaaksysteem-acceptatie.venlo.nl
 zaaksysteem-ontwikkeling.vijfheerenlanden.nl
 zaaksysteem.acc.utrecht.nl
@@ -13365,6 +13412,7 @@ zorg-acc.molenlanden.nl
 zorg.bergen.nl
 zorg.middelburg.nl
 zorg.molenlanden.nl
+zorg.voerendaal.nl
 zorgaanbieders.deventer.nl
 zorgaanbieders.eindhoven.nl
 zorgaanbod.sudwestfryslan.nl
