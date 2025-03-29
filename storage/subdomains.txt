@@ -13,8 +13,8 @@ simsite
 digikoppeling
 mail
 secure
-simcms
 acceptatie
+simcms
 preproductie
 felix
 probeer
@@ -26,17 +26,17 @@ werkplek
 dkd
 acc
 portal
-open
 meldingen
+open
 geo
 ruimtelijkeplannen
+api.meldingen
 raad
 waarmerk
 afspraak
 vpn
-api.meldingen
-adfs
 parkeren
+adfs
 betalen
 pv
 zaaksysteem-accept
@@ -44,8 +44,8 @@ werkenbij
 broker
 iparticipatie
 gemeenteraad
-testeloket
 enterpriseenrollment
+testeloket
 dacceptatieloket
 dacceptatiemidoffice
 data
@@ -60,17 +60,17 @@ enterpriseregistration
 openpub
 osb
 api.meldingen-acc
+loket.acceptatie
 meldingen-acc
 digikoppeling-test
 login
 cmsoo
-loket.acceptatie
 cloudadapter-test
 flowmailer-tracking
+kaart
 formulier
 remote
 zaken
-kaart
 berichten
 beeldbank
 cloudadapter
@@ -79,10 +79,10 @@ hybrid
 kaarten
 extranet
 mks
+parkeren-acc
 denkmee
 financien
 digikoppeling.test
-parkeren-acc
 acc-broker
 test-intranet
 samen
@@ -144,6 +144,7 @@ sip
 sts
 contentbeheer
 internetafspraken
+uc
 transfer
 opendata
 gisib
@@ -161,7 +162,6 @@ keycloak
 podiumd-logs
 gasten
 micollab
-uc
 mdm
 AutoDiscover
 cryptshare
@@ -401,6 +401,8 @@ mijnsociaalportaal
 radius
 beeldbankbeheer
 cloud
+csc
+mbg1
 www.doemee
 wozloket
 jcccloud
@@ -451,6 +453,7 @@ git
 persberichten
 sharepoint
 start
+videobellen
 koppelvlak
 social
 zoek
@@ -518,9 +521,7 @@ liquitsatellite
 preprod.vergunningintaker
 tim
 testcms-intranet
-csc
 digid-parkeervergunningen
-mbg1
 elokettest
 wmo
 testformulieren
@@ -535,11 +536,13 @@ ssd
 suite4burgerzaken
 sync
 test-eloket
+mbg
 preprod-formulieren
 clicksfm
 www.afspraak
 pkio1
 inproces.test
+mbg2
 subsidies-login.acceptatie
 buitenoporde
 preprod-mijnportaal
@@ -637,6 +640,7 @@ bezoekersparkeren-acc
 preprod-belastingen
 bekendmakingen
 insite
+www.parkeren
 digitaalloket
 hta
 mijnsociaaldomein-acc
@@ -682,7 +686,6 @@ mm
 otp
 services.acc
 toestemming
-videobellen
 vinden
 webapps
 webdiensten
@@ -802,6 +805,7 @@ acc-openformulieren
 acc-openklant.dev
 acc-openzaak.dev
 acc-podiumd-logs.dev
+werknemersportaal
 www.vastgoed
 dk
 dktest
@@ -866,7 +870,6 @@ womserver-test
 womserver
 siamtest
 uitwijk
-mbg
 link
 osbtest
 qr-acc
@@ -877,7 +880,6 @@ wijzer
 dvg
 idtst
 bor-acc
-mbg2
 suite4burgerzaken-prod
 efacturen
 geokoppeling-t
@@ -1048,7 +1050,6 @@ open-formulieren-test
 test-insite
 veilig
 www.eloket
-www.parkeren
 hybrid1
 hybrid2
 brk
@@ -1073,7 +1074,9 @@ wonen
 koppelvlakken
 smartdoc
 clicksfm.persberichten
+api.meldingen-a
 gisportal
+meldingen-a
 parkeervergunning-test
 anyconnect
 bestuursrapportage
@@ -3612,7 +3615,6 @@ wbs003
 wbs004
 web2print
 webconf
-werknemersportaal
 widocmksp001
 woningdossier
 wpdagast1
@@ -5826,7 +5828,6 @@ acc.open-formulieren
 acc.opennotificaties
 acc.openzaak
 afscheidcrone
-api.meldingen-a
 bestandverzenden
 digikoppelingjnet
 ediensten-aanvragen
@@ -5834,7 +5835,6 @@ flowmailer-tracking.parkeervergunning
 fortiguard
 gisportalnew
 goedterechtin
-meldingen-a
 nllwd-spider
 ondernemend
 ows-webapi-test
@@ -7661,3 +7661,7 @@ preprod-mijnbelastingen
 saas
 wegwijsplus
 www.wegwijsplus
+flowmailer-tracking.parkeervergunningen
+gebiedsteam
+squit2go-acc
+squit2go-beheer-acc
