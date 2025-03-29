@@ -182,6 +182,7 @@ http://autodiscover.vvd.nijmegen.nl
 http://autodiscover.waalre.nl
 http://autodiscover.waalwijk.nl
 http://autodiscover.wassenaar.nl
+http://autodiscover.weert.nl
 http://bastion365.katwijk.nl
 http://beekdaelen.nl
 http://beh-gemeenteloket.gemeentemaastricht.nl
@@ -241,6 +242,7 @@ http://ftp.lopik.nl
 http://geldzaken.loonopzand.nl
 http://geo.roermond.nl
 http://geocortex.krimpenerwaard.nl
+http://geoportal.weert.nl
 http://goeree-overflakkee.nl
 http://gplan.rheden.nl
 http://gws-prod.gemeente-steenbergen.nl
@@ -386,6 +388,7 @@ http://sportaccommodaties.nissewaard.nl
 http://squitxo.goirle.nl
 http://squitxotest.goirle.nl
 http://sslvpn.haarlem.nl
+http://stadspas.weert.nl
 http://subsites.amsterdam.nl
 http://t-diel.nl
 http://test-bink.beverwijk.nl
@@ -1331,11 +1334,13 @@ https://awmag.someren.nl
 https://awmail.nederweert.nl
 https://awmail.roermond.nl
 https://awmail.venlo.nl
+https://awmail.weert.nl
 https://awseg.roermond.nl
 https://awseg.venlo.nl
 https://awtunnel.nederweert.nl
 https://awtunnel.roermond.nl
 https://awtunnel.venlo.nl
+https://awtunnel.weert.nl
 https://awvpn.someren.nl
 https://backend-dvg.acc.rotterdam.nl
 https://backend-dvg.rotterdam.nl
@@ -1363,6 +1368,7 @@ https://bastion365.rozendaal.nl
 https://bastion365.someren.nl
 https://bastion365.tilburg.nl
 https://bastion365.venlo.nl
+https://bastion365.weert.nl
 https://bbz-ioaz.rotterdam.nl
 https://bec.acc.topdesk.denhaag.nl
 https://bec.ot.topdesk.denhaag.nl
@@ -1590,6 +1596,7 @@ https://bestuur.dijkenwaard.nl
 https://bestuur.gemeente-steenbergen.nl
 https://bestuur.gooisemeren.nl
 https://bestuur.tubbergen.nl
+https://bestuur.weert.nl
 https://bestuursrapportage.leiden.nl
 https://bestuursrapportage.middelburg.nl
 https://beta.tilburg.nl
@@ -2656,6 +2663,7 @@ https://eloket.twenterand.nl
 https://eloket.velsen.nl
 https://eloket.venray.nl
 https://eloket.vlissingen.nl
+https://eloket.weert.nl
 https://eloketstaging.almere.nl
 https://eloketstaging.putten.nl
 https://elokettest.bloemendaal.nl
@@ -2700,6 +2708,7 @@ https://enquete.denhaag.nl
 https://ens.nederweert.nl
 https://ens.roermond.nl
 https://ens.venlo.nl
+https://ens.weert.nl
 https://enschede.nl
 https://enterpriseenrollment.alphenaandenrijn.nl
 https://enterpriseenrollment.ameland.nl
@@ -2919,6 +2928,7 @@ https://flowmailer-tracking.schouwen-duiveland.nl
 https://flowmailer-tracking.smallingerland.nl
 https://flowmailer-tracking.venlo.nl
 https://flowmailer-tracking.vlissingen.nl
+https://flowmailer-tracking.weert.nl
 https://fm.krimpenerwaard.nl
 https://fmreturn.beekdaelen.nl
 https://fmreturn.beverwijk.nl
@@ -3117,6 +3127,7 @@ https://gemeenteraad.soest.nl
 https://gemeenteraad.stadskanaal.nl
 https://gemeenteraad.venlo.nl
 https://gemeenteraad.vught.nl
+https://gemeenteraad.weert.nl
 https://gemeentesluis.nl
 https://gemeentestein.nl
 https://gemeentewinkel.gemeente-steenbergen.nl
@@ -3565,6 +3576,7 @@ https://iburgerzaken.waalwijk.nl
 https://iburgerzaken.waddinxveen.nl
 https://iburgerzaken.wageningen.nl
 https://iburgerzaken.wassenaar.nl
+https://iburgerzaken.weert.nl
 https://ict.gemeentesluis.nl
 https://id-beheer-erfpacht-acc.amsterdam.nl
 https://id-beheer-erfpacht-dev.amsterdam.nl
@@ -3768,8 +3780,10 @@ https://intranet.vlissingen.nl
 https://intranet.waalwijk.nl
 https://intranet.wageningen.nl
 https://intranet.waterland.nl
+https://intranet.weert.nl
 https://intranet2.steenwijkerland.nl
 https://intranetacc.apeldoorn.nl
+https://intranetacc.weert.nl
 https://intranetcms-acc.bergendal.nl
 https://intranetcms-acc.waalwijk.nl
 https://intranetcms-test.nissewaard.nl
@@ -4384,6 +4398,7 @@ https://micollab.huizen.nl
 https://micollab.roermond.nl
 https://micollab.rucphen.nl
 https://micollab.veere.nl
+https://micollab.weert.nl
 https://micontentstore.lansingerland.nl
 https://microservices.schoolwijzer.amsterdam.nl
 https://midden-groningen.nl
@@ -5186,6 +5201,7 @@ https://parkeerbalie-test.wageningen.nl
 https://parkeerbalie.wageningen.nl
 https://parkeerkaart.amsterdam.nl
 https://parkeerloket.sittard-geleen.nl
+https://parkeerloket.weert.nl
 https://parkeernorm.valkenswaard.nl
 https://parkeernormen.utrecht.nl
 https://parkeernota.eindhoven.nl
@@ -5860,6 +5876,9 @@ https://secure.pekela.nl
 https://secure.rijswijk.nl
 https://secure.sittard-geleen.nl
 https://secure.veendam.nl
+https://secure1.weert.nl
+https://secure1ev.weert.nl
+https://secure1t.weert.nl
 https://securetest.roermond.nl
 https://seg.leudal.nl
 https://selfservice.ggd.amsterdam.nl
@@ -6467,6 +6486,7 @@ https://testeloket.tiel.nl
 https://testeloket.twenterand.nl
 https://testeloket.velsen.nl
 https://testeloket.venray.nl
+https://testeloket.weert.nl
 https://testformulieren.bodegraven-reeuwijk.nl
 https://testformulieren.haarlemmermeer.nl
 https://testformulieren.veldhoven.nl
@@ -6910,6 +6930,7 @@ https://webteam.gemeentemaastricht.nl
 https://webwerken.deventer.nl
 https://webwinkel.landvancuijk.nl
 https://weer.landvancuijk.nl
+https://weert.nl
 https://weesp.acc.meldingen.amsterdam.nl
 https://weesp.amsterdam.nl
 https://weespbegroot.amsterdam.nl
@@ -7634,6 +7655,7 @@ https://www.watdoetdegemeente.rotterdam.nl
 https://www.waterland.nl
 https://www.webmail.olst-wijhe.nl
 https://www.webwinkel.landvancuijk.nl
+https://www.weert.nl
 https://www.weespbegroot.amsterdam.nl
 https://www.wegwijsplus.vught.nl
 https://www.werkaandewijk.denhaag.nl
