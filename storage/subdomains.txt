@@ -14,8 +14,8 @@ digikoppeling
 mail
 acceptatie
 simcms
-secure
 preproductie
+secure
 probeer
 felix
 loket
@@ -48,17 +48,17 @@ testeloket
 belastingen
 dacceptatieloket
 dacceptatiemidoffice
+openpdc
 enterpriseenrollment
 dloket
 dmidoffice
 data
 test-ipa
-openpdc
 belastingbalie
 openpub
+osb
 api.meldingen-acc
 meldingen-acc
-osb
 omgevingsvisie
 formulier
 enterpriseregistration
@@ -76,15 +76,16 @@ berichten
 beeldbank
 mks
 acc-broker
+samen
 govroam
 financien
-samen
 dtestloket
 digikoppeling.test
 cloudadapter
 belastingloket
 portaal
 verkiezingen
+osbacc
 piwik
 duurzaam
 parkeren-acc
@@ -95,7 +96,6 @@ www.webmail
 filecap
 vergunningintaker
 denkmee
-osbacc
 preprod
 extranet
 gemeente
@@ -119,6 +119,7 @@ woningbouwkaart
 klantcontact
 dtestmidoffice
 jaarstukken
+transfer
 smtp
 e
 subsidies
@@ -137,7 +138,7 @@ test-intranet
 doemee
 squit2go
 mdm
-transfer
+AutoDiscover
 opendata
 mobiel
 belastingportaal
@@ -154,7 +155,6 @@ contentbeheer
 gasten
 micollab
 uc
-AutoDiscover
 testloket
 evenementen
 kennisbank
@@ -233,6 +233,7 @@ onderzoek
 legacy
 www.acc
 afval
+openformulieren
 citrix
 fmreturn
 iarchief
@@ -287,7 +288,6 @@ www.raad
 mijngeldzaken
 ns1
 meet
-openformulieren
 publicaties
 support
 formulieren-test
@@ -383,7 +383,9 @@ woz-loket
 zaken.test
 grooster
 filr
+openformulieren-test
 topdesk
+klantportaal
 test.digikoppeling
 admin.openstad
 auth.openstad
@@ -490,11 +492,9 @@ subsidies-login.acceptatie
 buitenoporde
 preprod-mijnportaal
 burgerloket.acceptatie
-openformulieren-test
 secure-test
 cjg
 geoservices
-klantportaal
 lvs
 smartdocuments
 www.cjg
@@ -509,6 +509,8 @@ relay
 webdav
 webformulieren
 www.jongin
+klantportaal.acc
+prod
 mobility
 grondwater
 vergunningen
@@ -827,8 +829,6 @@ centric
 test-digikoppelingadapter
 router
 durp
-klantportaal.acc
-prod
 dok
 www.zorgloket
 zmm
@@ -6941,3 +6941,5 @@ xential-prod
 epos
 probeer-epos
 simcms-epos
+openpdckb
+openpubkb
