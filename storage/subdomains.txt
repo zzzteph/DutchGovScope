@@ -50,9 +50,9 @@ belastingen
 enterpriseenrollment
 dacceptatieloket
 dacceptatiemidoffice
+data
 dloket
 dmidoffice
-data
 openpdc
 belastingbalie
 openpub
@@ -243,6 +243,7 @@ e-loket
 afval
 citrix
 formulieren-test
+data-test
 xential
 key2gbav
 _autodiscover._tcp
@@ -278,12 +279,12 @@ www.test
 parkeervergunningen
 desktop
 ns1
+sslvpn
 meet
 openformulieren
 awmag
 publicaties
 support
-data-test
 intranetcms
 liquit
 www.gemeenteraad
@@ -332,7 +333,6 @@ gbi
 gp
 mijngeldzaken
 rooster
-sslvpn
 teleweb
 squit2020.acceptatie
 squit2020publiceren
@@ -582,6 +582,7 @@ www.cjg
 cloudadapter-t
 vsp
 allegroweb
+forms
 haven
 mijnloket
 wij
@@ -681,6 +682,7 @@ www.iarchief
 content
 digitalebelastingbalie
 service
+qmanage
 www.sharefile
 a-feeds
 a-magazines
@@ -948,7 +950,6 @@ scim
 binnenstad
 cms.openstad
 devapps3
-forms
 pop
 staging
 www.staging
@@ -967,6 +968,7 @@ dkd.berichtenverkeer
 geoinformatie
 durp
 dok
+forms-test
 www.remote
 www.zorgloket
 zmm
@@ -1107,6 +1109,7 @@ status
 winkel
 koppelvlakken
 smartdoc
+publieksbalie
 clicksfm.persberichten
 api.meldingen-a
 digikoppelingjnet
@@ -1169,7 +1172,6 @@ dis4fin
 parkeerloket
 secure-t
 camera
-qmanage
 e.bewustwording
 pdc.test
 mijnhr
@@ -4591,7 +4593,6 @@ test-cmsdok
 test-dok
 test.afspraakmaken
 test.services
-forms-test
 kcv
 duiven-checker-preprod
 duiven-checker
@@ -5829,7 +5830,6 @@ w2008l
 w2012y
 w2016l
 ansvlm2009
-publieksbalie
 clicks.nieuws
 clicks.persberichten
 clicksfm.nieuws
