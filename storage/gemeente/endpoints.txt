@@ -234,6 +234,7 @@ http://insite.houten.nl
 http://internoss-test.oss.nl
 http://intranet-acc.bergendal.nl
 http://intranet-acc.landvancuijk.nl
+http://intranet-prod.sudwestfryslan.nl
 http://intranet.leudal.nl
 http://intranet.lopik.nl
 http://intranetcms-acc.landvancuijk.nl
@@ -782,6 +783,7 @@ https://adfs.meppel.nl
 https://adfs.montferland.info
 https://adfs.rijssen-holten.nl
 https://adfs.simpelveld.nl
+https://adfs01.sudwestfryslan.nl
 https://adfslogin.defryskemarren.nl
 https://admin.doemee.bloemendaal.nl
 https://admin.open.ede.nl
@@ -824,6 +826,7 @@ https://afspraak.oude-ijsselstreek.nl
 https://afspraak.pekela.nl
 https://afspraak.rijswijk.nl
 https://afspraak.staphorst.nl
+https://afspraak.sudwestfryslan.nl
 https://afspraakmaken.dronten.nl
 https://afspraakmaken.enschede.nl
 https://afspraakmaken.losser.nl
@@ -888,6 +891,7 @@ https://afvalkalender.peelenmaas.nl
 https://afvalkalender.purmerend.nl
 https://afvalkalender.schouwen-duiveland.nl
 https://afvalkalender.sliedrecht.nl
+https://afvalkalender.sudwestfryslan.nl
 https://afvalmelding.denhaag.nl
 https://afvalwijzer.lingewaard.nl
 https://agbi.apeldoorn.nl
@@ -1090,6 +1094,7 @@ https://apps.gouda.nl
 https://apps.haarlemmermeer.nl
 https://apps.heemskerk.nl
 https://apps.nieuwkoop.nl
+https://apps.sudwestfryslan.nl
 https://arbo-kwaliteit.rotterdam.nl
 https://arcgis.groningen.nl
 https://archeologie-acc.denhaag.nl
@@ -1351,6 +1356,7 @@ https://belastingen.rheden.nl
 https://belastingen.rozendaal.nl
 https://belastingen.soest.nl
 https://belastingen.stadskanaal.nl
+https://belastingen.sudwestfryslan.nl
 https://belastingloket.barneveld.nl
 https://belastingloket.elburg.nl
 https://belastingloket.emmen.nl
@@ -1663,6 +1669,7 @@ https://cmsintranet.meierijstad.nl
 https://cmsintranet.peelenmaas.nl
 https://cmsintranet.sittard-geleen.nl
 https://cmsintranet.steenwijkerland.nl
+https://cmsintranet.sudwestfryslan.nl
 https://cmsjip.hofvantwente.nl
 https://cmsmarkt1.nunspeet.nl
 https://cmsnopnet.noordoostpolder.nl
@@ -1749,6 +1756,7 @@ https://cryptacc.apeldoorn.nl
 https://cryptshare.delft.nl
 https://cryptshare.harlingen.nl
 https://cryptshare.rijswijk.nl
+https://cryptshare.sudwestfryslan.nl
 https://cryptsharetest.delft.nl
 https://csam.deventer.nl
 https://csc.beverwijk.nl
@@ -1918,6 +1926,7 @@ https://digipost-acc.amsterdam.nl
 https://digipost.amsterdam.nl
 https://digitaal-test.heerlen.nl
 https://digitaal.heerlen.nl
+https://digitaal.sudwestfryslan.nl
 https://digitaalerfgoed.almere.nl
 https://digitaalgemeenteloket.alphenaandenrijn.nl
 https://digitaalgemeenteloket.kaagenbraassem.nl
@@ -2178,6 +2187,7 @@ https://edienstenburgerzaken-test.soest.nl
 https://edienstenburgerzaken-test.stadskanaal.nl
 https://edienstenburgerzaken-test.stedebroec.nl
 https://edienstenburgerzaken-test.steenwijkerland.nl
+https://edienstenburgerzaken-test.sudwestfryslan.nl
 https://edienstenburgerzaken.aalsmeer.nl
 https://edienstenburgerzaken.aalten.nl
 https://edienstenburgerzaken.acc.denhaag.nl
@@ -2273,6 +2283,7 @@ https://edienstenburgerzaken.soest.nl
 https://edienstenburgerzaken.stadskanaal.nl
 https://edienstenburgerzaken.stedebroec.nl
 https://edienstenburgerzaken.steenwijkerland.nl
+https://edienstenburgerzaken.sudwestfryslan.nl
 https://edienstenburgerzaken.test.aalsmeer.nl
 https://edienstenburgerzaken.test.amstelveen.nl
 https://edienstenmijninkomen-acceptatie.albrandswaard.nl
@@ -2356,9 +2367,11 @@ https://eloket.rucphen.nl
 https://eloket.simpelveld.nl
 https://eloket.someren.nl
 https://eloket.sonenbreugel.nl
+https://eloket.sudwestfryslan.nl
 https://eloketstaging.almere.nl
 https://eloketstaging.putten.nl
 https://elokettest.bloemendaal.nl
+https://elokettest.sudwestfryslan.nl
 https://email.bernheze.org
 https://email.doemee.gemeentebest.nl
 https://email.eijsden-margraten.nl
@@ -2610,6 +2623,7 @@ https://focus.amsterdam.nl
 https://focus.tst.amsterdam.nl
 https://followyourdreams.denhaag.nl
 https://form.denhaag.nl
+https://form.sudwestfryslan.nl
 https://forms-test.druten.nl
 https://forms.deventer.nl
 https://forms.druten.nl
@@ -2698,6 +2712,7 @@ https://ftp.afs.acc.amsterdam.nl
 https://ftp.afs.amsterdam.nl
 https://ftp.bodegraven-reeuwijk.nl
 https://ftp.meerssen.nl
+https://ftp.sudwestfryslan.nl
 https://funderingsloket.rotterdam.nl
 https://fw.maassluis.nl
 https://g-rooster.bronckhorst.nl
@@ -2712,6 +2727,7 @@ https://gbiweb.steenwijkerland.nl
 https://gdintaker.diemen.nl
 https://gdintaker.ouder-amstel.nl
 https://gebiedinbeeld.amsterdam.nl
+https://geborgenverleden.sudwestfryslan.nl
 https://gebouwdin.amsterdam.nl
 https://geertruidenberg.nl
 https://gegevensuitwisselingsysteem.rotterdam.nl
@@ -2827,6 +2843,7 @@ https://geoservices.huizen.nl
 https://geotest.arnhem.nl
 https://geotest.goirle.nl
 https://geovisia.harlingen.nl
+https://geovisia.sudwestfryslan.nl
 https://geovisiaonline.gemert-bakel.nl
 https://geovisiaonline.schiedam.nl
 https://geoweb.haarlemmermeer.nl
@@ -2884,6 +2901,7 @@ https://gisibgeoserver.sliedrecht.nl
 https://gisibonline.beesel.nl
 https://gisibtest.peelenmaas.nl
 https://gisservices.haarlemmermeer.nl
+https://git.sudwestfryslan.nl
 https://gitops.acc.denhaag.nl
 https://gitops.dev.denhaag.nl
 https://gitops.test.denhaag.nl
@@ -2898,6 +2916,7 @@ https://gooisemeren.nl
 https://gorinchem.nl
 https://goud.almere.nl
 https://gouda.nl
+https://govpub.sudwestfryslan.nl
 https://gp.apeldoorn.nl
 https://gp.deventer.nl
 https://gpa.apeldoorn.nl
@@ -3187,6 +3206,7 @@ https://idee.roosendaal.nl
 https://identity-test.huizen.nl
 https://identity.bergenopzoom.nl
 https://identity.huizen.nl
+https://identity.sudwestfryslan.nl
 https://identityota.bergenopzoom.nl
 https://idiensten-contract.rotterdam.nl
 https://idinloggen.oosterhout.nl
@@ -3236,6 +3256,7 @@ https://img.v2.openstad.haarlemmermeer.nl
 https://impactmeter.kampen.nl
 https://indica-acc.amsterdam.nl
 https://indienst.almere.nl
+https://info.sudwestfryslan.nl
 https://infoopkaart.steenwijkerland.nl
 https://infoplein.oosterhout.nl
 https://informatieplattegrond.denhaag.nl
@@ -3341,6 +3362,7 @@ https://intranet.rucphen.nl
 https://intranet.schouwen-duiveland.nl
 https://intranet.sittard-geleen.nl
 https://intranet.staphorst.nl
+https://intranet.sudwestfryslan.nl
 https://intranet2.steenwijkerland.nl
 https://intranetacc.apeldoorn.nl
 https://intranetcms-acc.bergendal.nl
@@ -3973,6 +3995,7 @@ https://mijnafspraak.scherpenzeel.nl
 https://mijnafval.meerssen.nl
 https://mijnbbsuo.soest.nl
 https://mijnbelastingen.amsterdam.nl
+https://mijnbetaling.sudwestfryslan.nl
 https://mijnerfpacht.amsterdam.nl
 https://mijnevenement-authenticatie-staging.gemeente-steenbergen.nl
 https://mijnevenement-authenticatie.gemeente-steenbergen.nl
@@ -4551,6 +4574,7 @@ https://orbit.montferland.info
 https://organisatie.gemeente-steenbergen.nl
 https://organisatie.hoorn.nl
 https://organisatievisie2030.hollandskroon.nl
+https://ota.sudwestfryslan.nl
 https://otp.gemeenteberkelland.nl
 https://oud.heusden.nl
 https://oude-ijsselstreek.nl
@@ -4638,6 +4662,7 @@ https://parkeren.s-hertogenbosch.nl
 https://parkeren.schouwen-duiveland.nl
 https://parkeren.sittard-geleen.nl
 https://parkeren.smallingerland.nl
+https://parkeren.sudwestfryslan.nl
 https://parkerenapp-prod.schiedam.nl
 https://parkerendenhaag.acc.denhaag.nl
 https://parkerendenhaag.denhaag.nl
@@ -4661,6 +4686,7 @@ https://pdc.alkmaar.nl
 https://pdc.buren.nl
 https://pdc.sittard-geleen.nl
 https://pdc.stichtsevecht.nl
+https://pdc.sudwestfryslan.nl
 https://pdc.test.stichtsevecht.nl
 https://pdcschulddienstverlening.rotterdam.nl
 https://peelenmaas.nl
@@ -4763,6 +4789,7 @@ https://portal.olst-wijhe.nl
 https://portal.pekela.nl
 https://portal.sittard-geleen.nl
 https://portal.stadskanaal.nl
+https://portal.sudwestfryslan.nl
 https://portal1.denhaag.nl
 https://portal2.sittard-geleen.nl
 https://positionering.denhaag.nl
@@ -4808,6 +4835,7 @@ https://preprod-mijn.defryskemarren.nl
 https://preprod-mijn.hollandskroon.nl
 https://preprod-mijn.noordwijk.nl
 https://preprod-mijn.ridderkerk.nl
+https://preprod-mijn.sudwestfryslan.nl
 https://preprod-mijninkomen.beverwijk.nl
 https://preprod-mijninkomen.defryskemarren.nl
 https://preprod-mijninkomen.denhelder.nl
@@ -5535,6 +5563,7 @@ https://subsidies.maassluis.nl
 https://subsidies.nijmegen.nl
 https://subsidies.oosterhout.nl
 https://subsites.leiden.nl
+https://sudwestfryslan.nl
 https://suikerkwartier.groningen.nl
 https://suikerzijde.groningen.nl
 https://summit-ft.amsterdam.nl
@@ -5543,6 +5572,7 @@ https://support.bergen-nh.nl
 https://support.doetinchem.nl
 https://support.helmond.nl
 https://support.nieuwegein.nl
+https://survey.sudwestfryslan.nl
 https://surveys3.ggd.amsterdam.nl
 https://svs-acc.almere.nl
 https://t1.data.amsterdam.nl
@@ -5582,6 +5612,7 @@ https://test-cmsintranet.gooisemeren.nl
 https://test-cmsintranet.groningen.nl
 https://test-cmsintranet.meierijstad.nl
 https://test-cmsintranet.steenwijkerland.nl
+https://test-cmsintranet.sudwestfryslan.nl
 https://test-cmsnopnet.noordoostpolder.nl
 https://test-cmssocial.montferland.info
 https://test-contact.gemert-bakel.nl
@@ -5600,6 +5631,7 @@ https://test-insite.nijmegen.nl
 https://test-intra.gooisemeren.nl
 https://test-intranet.gemeentestein.nl
 https://test-intranet.steenwijkerland.nl
+https://test-intranet.sudwestfryslan.nl
 https://test-kaartviewer.hoorn.nl
 https://test-kaartviewer.pijnacker-nootdorp.nl
 https://test-kansshop.eemsdelta.nl
@@ -5796,6 +5828,7 @@ https://trobit.gorinchem.nl
 https://tsiam.oostzaan.nl
 https://tst-eformulier.heerlen.nl
 https://tst-ubor.amsterdam.nl
+https://tstidentity.sudwestfryslan.nl
 https://ttgbav-prod.gemeente-steenbergen.nl
 https://tuinen.groningen.nl
 https://tussenrapportage.gemeente-steenbergen.nl
@@ -5872,6 +5905,7 @@ https://veiligmailen.almelo.nl
 https://veiligmailen.beverwijk.nl
 https://velp.landvancuijk.nl
 https://vergaderingen.goirle.nl
+https://vergeten.sudwestfryslan.nl
 https://vergoedingen.nijmegen.nl
 https://vergunning.leiden.nl
 https://vergunningen.dronten.nl
@@ -5907,6 +5941,7 @@ https://verkiezingen.denhelder.nl
 https://verkiezingen.deventer.nl
 https://verkiezingen.eemsdelta.nl
 https://verkiezingen.heerlen.nl
+https://verkiezingen.sudwestfryslan.nl
 https://verkiezingen.topdesk.denhaag.nl
 https://verslag.ouder-amstel.nl
 https://versterkenenvernieuwen.groningen.nl
@@ -6049,6 +6084,7 @@ https://webserver.schiedam.nl
 https://webservice-decosdvl.acc.amsterdam.nl
 https://webservice-decosdvl.amsterdam.nl
 https://webshopapp.denhaag.nl
+https://webshopvitaloo.sudwestfryslan.nl
 https://website.acceptatie.hillegom.nl
 https://website.acceptatie.lisse.nl
 https://website.alphen-chaam.nl
@@ -6096,6 +6132,7 @@ https://werkenbij.schagen.nl
 https://werkenbij.scherpenzeel.nl
 https://werkenbij.schiermonnikoog.nl
 https://werkenbij.schouwen-duiveland.nl
+https://werkenbij.sudwestfryslan.nl
 https://werkeninkomen-test.leiden.nl
 https://werkeninkomen-test.leiderdorp.nl
 https://werkeninkomen.leiden.nl
@@ -6138,6 +6175,7 @@ https://werkplek.rucphen.nl
 https://werkplek.schagen.nl
 https://werkplek.schiedam.nl
 https://werkplek.smallingerland.nl
+https://werkplek.sudwestfryslan.nl
 https://werkplek02.derondevenen.nl
 https://werving.amsterdam.nl
 https://westbegroot.amsterdam.nl
@@ -6588,6 +6626,7 @@ https://www.ouder-amstel.nl
 https://www.oudewater.nl
 https://www.overbetuwe.nl
 https://www.papendrecht.nl
+https://www.parkeren.sudwestfryslan.nl
 https://www.peelenmaas.nl
 https://www.pekela.nl
 https://www.pijnacker-nootdorp.nl
@@ -6676,6 +6715,7 @@ https://www.stemmen.amsterdam.nl
 https://www.stemvan.groningen.nl
 https://www.stemvan.opsterland.nl
 https://www.stichtsevecht.nl
+https://www.sudwestfryslan.nl
 https://www.suikerkwartier.groningen.nl
 https://www.test.denhaag.nl
 https://www.thuiswinkelen.landvancuijk.nl
