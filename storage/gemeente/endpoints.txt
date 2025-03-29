@@ -287,6 +287,7 @@ http://raadsagenda.oirschot.nl
 http://redirector.alkmaar.nl
 http://reuseldemierden.nl
 http://ro.brunssum.nl
+http://schiermonnikoog.nl
 http://secure.pijnacker-nootdorp.nl
 http://sem.kampen.nl
 http://simcms-begraafplaatsduinrust.beverwijk.nl
@@ -2307,6 +2308,7 @@ https://enterpriseenrollment.opsterland.nl
 https://enterpriseenrollment.oss.nl
 https://enterpriseenrollment.rheden.nl
 https://enterpriseenrollment.roosendaal.nl
+https://enterpriseenrollment.schiermonnikoog.nl
 https://enterpriseone-arc.almere.nl
 https://enterpriseone-dv.almere.nl
 https://enterpriseone-py.almere.nl
@@ -2416,6 +2418,7 @@ https://felix.nederweert.nl
 https://felix.opmeer.nl
 https://felix.opsterland.nl
 https://felix.reuseldemierden.nl
+https://felix.schiermonnikoog.nl
 https://felixburgerzaken.nissewaard.nl
 https://felixpdc.doesburg.nl
 https://festival.landvancuijk.nl
@@ -3926,9 +3929,11 @@ https://move010.rotterdam.nl
 https://mozard.ameland.nl
 https://mozard.bunnik.nl
 https://mozard.gooisemeren.nl
+https://mozard.schiermonnikoog.nl
 https://mozardtest.ameland.nl
 https://mozardtest.bunnik.nl
 https://mozardtest.gooisemeren.nl
+https://mozardtest.schiermonnikoog.nl
 https://mpinajaar.haarlemmermeer.nl
 https://mpivoorjaar.haarlemmermeer.nl
 https://msm.almelo.nl
@@ -4949,6 +4954,7 @@ https://shops.landvancuijk.nl
 https://siam.ameland.nl
 https://siam.bunnik.nl
 https://siam.rhenen.nl
+https://siam.schiermonnikoog.nl
 https://siamtest.bunnik.nl
 https://sibp01.lelystad.nl
 https://sibt01.lelystad.nl
@@ -4993,6 +4999,7 @@ https://simcms.oirschot.nl
 https://simcms.ooststellingwerf.nl
 https://simcms.opmeer.nl
 https://simcms.renswoude.nl
+https://simcms.schiermonnikoog.nl
 https://simform-preproductie.achtkarspelen.nl
 https://simform-preproductie.gemeentehw.nl
 https://simform-test.rijswijk.nl
@@ -5340,6 +5347,7 @@ https://test-trefpunt.deurne.nl
 https://test-vergoedingen.nijmegen.nl
 https://test-witgoed.middendrenthe.nl
 https://test-zaakloket.ameland.nl
+https://test-zaakloket.schiermonnikoog.nl
 https://test.api.tod.leiden.nl
 https://test.app.amsterdam.nl
 https://test.beverwijk.nl
@@ -5417,6 +5425,7 @@ https://testmijnzaken.derondevenen.nl
 https://testmijnzaken.schagen.nl
 https://testportaal.almelo.nl
 https://testsiam.ameland.nl
+https://testsiam.schiermonnikoog.nl
 https://testwebsite.losser.nl
 https://testwozloket.borger-odoorn.nl
 https://testwww.rucphen.nl
@@ -5767,6 +5776,7 @@ https://werkenbij.noardeast-fryslan.nl
 https://werkenbij.oudewater.nl
 https://werkenbij.schagen.nl
 https://werkenbij.scherpenzeel.nl
+https://werkenbij.schiermonnikoog.nl
 https://werkeninkomen-test.leiden.nl
 https://werkeninkomen-test.leiderdorp.nl
 https://werkeninkomen.leiden.nl
@@ -6296,6 +6306,7 @@ https://www.samenwij.groningen.nl
 https://www.schagen.nl
 https://www.scherpenzeel.nl
 https://www.schiedam.nl
+https://www.schiermonnikoog.nl
 https://www.schoolwijzer.amsterdam.nl
 https://www.shops.landvancuijk.nl
 https://www.sinterklaas.groningen.nl
@@ -6400,6 +6411,7 @@ https://zaak-acc.barneveld.nl
 https://zaak-dev.barneveld.nl
 https://zaak.barneveld.nl
 https://zaakloket.ameland.nl
+https://zaakloket.schiermonnikoog.nl
 https://zaaksysteem-acc.meppel.nl
 https://zaaksysteem-accept.alkmaar.nl
 https://zaaksysteem-accept.baarn.nl
