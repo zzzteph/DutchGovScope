@@ -871,6 +871,7 @@ https://acc.waalre.nl
 https://acc.westerwolde.nl
 https://acc.wonen.zaken.amsterdam.nl
 https://acc.woz-loket.harlingen.nl
+https://acc.zandvoort.nl
 https://acc.zorg.voerendaal.nl
 https://accept-zaaksysteem.denhelder.nl
 https://accept-zaaksysteem.terneuzen.nl
@@ -1913,6 +1914,7 @@ https://bouw.omgevingswet.overheid.nl
 https://bouwarchief.hillegom.nl
 https://bouwarchief.lisse.nl
 https://bouwarchief.teylingen.nl
+https://bouwdossier.zandvoort.nl
 https://bouwdossiers.amsterdam.nl
 https://bouwdossiers.gemeentewestland.nl
 https://bouwkavels.hofvantwente.nl
@@ -4371,6 +4373,7 @@ https://kaart.soest.nl
 https://kaart.tilburg.nl
 https://kaart.waadhoeke.nl
 https://kaart.westerkwartier.nl
+https://kaart.zandvoort.nl
 https://kaarten-demo.overheid.nl
 https://kaarten-test.molenlanden.nl
 https://kaarten.boxtel.nl
@@ -8668,6 +8671,7 @@ https://www.xentialtest.veendam.nl
 https://www.ypenburgaanzet.denhaag.nl
 https://www.zaanstad.nl
 https://www.zaltbommel.nl
+https://www.zandvoort.nl
 https://www.zkd.denhaag.nl
 https://www.zomerprogramma070.denhaag.nl
 https://www.zwammerdamdorpskern.alphenaandenrijn.nl
@@ -8772,6 +8776,7 @@ https://zaltbommel.nl
 https://zamo-acc.zaanstad.nl
 https://zamo-beheer.zaanstad.nl
 https://zamo.zaanstad.nl
+https://zandvoort.nl
 https://zec.acc.amsterdam.nl
 https://zec.amsterdam.nl
 https://zgw.acc.denhaag.nl

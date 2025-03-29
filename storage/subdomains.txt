@@ -28,11 +28,11 @@ acc
 portal
 waarmerk
 meldingen
+afspraak
 open
 geo
-afspraak
-api.meldingen
 parkeren
+api.meldingen
 adfs
 vpn
 ruimtelijkeplannen
@@ -63,13 +63,13 @@ loket.acceptatie
 meldingen-acc
 osb
 omgevingsvisie
-enterpriseregistration
 digikoppeling-test
+enterpriseregistration
 login
 cloudadapter-test
 flowmailer-tracking
-zaken
 kaart
+zaken
 beeldbank
 formulier
 cloudadapter
@@ -94,6 +94,7 @@ osbacc
 piwik
 samen
 verkiezingen
+parkeren-test
 duurzaam
 siam
 klantcontact
@@ -101,16 +102,15 @@ test-cmsintranet
 doemee
 squit2go
 pki
+www.webmail
 filecap
 mijnzorg
-parkeren-test
 snelbalie
 preprod
 qr
 apps
 gemeente
 bastion365
-www.webmail
 dtestmidoffice
 e
 vergunningintaker
@@ -211,6 +211,7 @@ wachtwoord
 bis
 geodata
 subsidies-backend
+thuiswerken
 gemeentearchief
 onderzoek
 woo
@@ -227,11 +228,13 @@ mobile
 _autodiscover._tcp
 bor
 archief
+vth
 belastingbalie-test
 bestanden
 mx1
 mx2
 geoportaal
+handhaving
 www.portal
 magazines
 academie
@@ -240,7 +243,6 @@ mijnzorg-acc
 simform-preproductie
 praatmee
 melddesk
-thuiswerken
 api.openstad
 werkenvoor
 woz
@@ -253,12 +255,10 @@ formulieren-test
 data-test
 xential
 key2gbav
-vth
 acceptatie-open
 jongin
 woz-portaal
 contact
-handhaving
 mijnsociaaldomein
 servicedesk
 api
@@ -438,6 +438,7 @@ logilink
 suite4burgerzaken-test
 sync
 medewerkers
+www.afspraak
 grooster
 ris
 collecties
@@ -459,6 +460,7 @@ raadsinformatie
 duo
 gbionline
 hpdm
+neuron
 authenticatie
 sso
 www.werkplek
@@ -572,7 +574,6 @@ test-eloket
 uitwijk
 mbg
 clicksfm
-www.afspraak
 pkio1
 dvg
 mbg2
@@ -634,7 +635,6 @@ aaa
 preprod-belastingportaal
 squitxo
 online
-neuron
 stats
 berichtenverkeer
 aov
@@ -677,6 +677,7 @@ digitaalloket
 hta
 ews
 www.belastingloket
+www.mail
 prtg
 opentunnel
 duoloket
@@ -1033,6 +1034,7 @@ corsanxt
 secure1
 mijnintranet
 lynccon
+squitpub-prod
 wkpb
 autodiscover.d66
 autodiscover.sp
@@ -1076,6 +1078,7 @@ idselect
 siem
 wozportaal
 ediensten
+www.thuiswerken
 gvonline
 testwerkplek
 pip-preproductie
@@ -1096,6 +1099,7 @@ open-formulieren-test
 test-insite
 veilig
 www.eloket
+www.parkeren-test
 hybrid1
 hybrid2
 www.cryptshare
@@ -1134,7 +1138,6 @@ werkeninkomen-test
 werkeninkomen
 alwayson
 testwebsite
-www.mail
 uitvaart
 decos
 mijnafval
@@ -5188,7 +5191,6 @@ regelen
 sccmmp
 sdv
 singlegateway
-squitpub-prod
 videogesprek
 webmail-test
 werkenbij-ict
@@ -5504,7 +5506,6 @@ webmail2
 zsaccept
 hillegom-checker-preprod
 hillegom-checker
-www.thuiswerken
 acceptatie.hilvernet
 hilvernet
 1221
@@ -5625,7 +5626,6 @@ www.ldap
 www.mijntalentcenter
 www.parkeren-siam-test
 www.parkeren-siam
-www.parkeren-test
 www.preprod.clo
 www.transfer
 www.webvpn
@@ -7921,3 +7921,21 @@ zamo-beheer
 zamo
 mijnhulp-test
 mijnhulp
+bam
+bouwdossier
+code.intern
+code
+code2
+docu
+nlgemzdv.intern
+owncloud
+stroomlijn.intern
+thuis
+www.bam
+www.code.intern
+www.code
+www.code2
+www.docu
+www.handhaving
+www.owncloud
+www.thuis
