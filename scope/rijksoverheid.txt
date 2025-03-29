@@ -1,3 +1,4 @@
+
 a2vonderenkerensheide.nl
 aaenmaas.nl
 aanbiedersmedicijnen.nl
@@ -59,6 +60,7 @@ commissiemijnbouwschade.nl
 commissievanaanbestedingsexperts.nl
 communicatierijk.nl
 compensationsns.nl
+contenttoolsrijksoverheid.nl
 ctgb.nl
 ctivd.nl
 ctpveldzicht.nl
@@ -159,10 +161,6 @@ kansrijkestartnl.nl
 kennisvandeoverheid.nl
 kiesraad.nl
 kik-v.nl
-platformrijksoverheid.nl
-contenttoolsrijksoverheid.nl
-rijksoverheidsvideo.nl 
-toegankelijkheidsverklaring.nl
 kimnet.nl
 kinderbescherming.nl
 klimaatadaptatienederland.nl
@@ -248,6 +246,7 @@ p-direkt.nl
 pagw.nl
 papiamentu.rijksdienstcn.com
 persberichten.rijksoverheid.nl
+platformrijksoverheid.nl
 politiekeambtsdragers.nl
 postedworkers.nl
 prolander.nl
@@ -277,6 +276,7 @@ rijksinnovatiecommunity.nl
 rijksinspecties.nl
 rijksorganisatieodi.nl
 rijksoverheid.nl
+rijksoverheidsvideo.nl 
 rijksrecherche.nl
 rijksvastgoedbedrijf.nl
 royal-house.nl
@@ -308,6 +308,7 @@ strafrechtketen.nl
 tib-ivd.nl
 tlokb.nl
 toegangspuntmobiliteit.nl
+toegankelijkheidsverklaring.nl
 toekomstglb.nl
 toekomstreligieuserfgoed.nl
 toekomstvisiegewasbescherming2030.nl
@@ -355,4 +356,3 @@ youthatheart.nl
 zorgaanbiedersportaal.nl
 zorginstituutnederland.nl
 zuid-holland.nl
-
