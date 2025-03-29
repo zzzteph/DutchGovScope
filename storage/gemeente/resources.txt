@@ -580,6 +580,7 @@ acceptatie.subsidies.ede.nl
 acceptatie.teylingen.nl
 acceptatie.tiel.nl
 acceptatie.uithoorn.nl
+acceptatie.veendam.nl
 acceptatiebelastingen.duiven.nl
 acceptatieformulieren.nissewaard.nl
 acceptatieloket.bergen-nh.nl
@@ -730,6 +731,7 @@ afspraak.rijswijk.nl
 afspraak.staphorst.nl
 afspraak.sudwestfryslan.nl
 afspraak.utrecht.nl
+afspraak.veendam.nl
 afspraakformulier.nissewaard.nl
 afspraakmaken.dronten.nl
 afspraakmaken.enschede.nl
@@ -831,6 +833,7 @@ afspraken.tholen.nl
 afspraken.tynaarlo.nl
 afspraken.vaals.nl
 afspraken.valkenswaard.nl
+afspraken.veendam.nl
 afspraken2.gorinchem.nl
 afval.acc.denhaag.nl
 afval.assen.nl
@@ -1504,6 +1507,7 @@ autodiscover.uitwijk.denhaag.nl
 autodiscover.utrecht.nl
 autodiscover.valkenburg.nl
 autodiscover.valkenswaard.nl
+autodiscover.veendam.nl
 autodiscover.vsp.nijmegen.nl
 autodiscover.vvd.haarlemmermeer.nl
 autodiscover.vvd.mookenmiddelaar.nl
@@ -1558,6 +1562,7 @@ bag-acc.etten-leur.nl
 bag-kastlijst.acc.denhaag.nl
 bag-vold91.gemeente-oldambt.nl
 bag-vpek21.pekela.nl
+bag-vvee21.veendam.nl
 bag.acc.denhaag.nl
 bag.assen.nl
 bag.denhaag.nl
@@ -1895,6 +1900,7 @@ bermod.amsterdam.nl
 bermod2.amsterdam.nl
 bernheze.org
 besluitvorming.doetinchem.nl
+besluitvorming.veendam.nl
 bestand.gemeentebest.nl
 bestanden.dongen.nl
 bestanden.goirle.nl
@@ -2252,8 +2258,10 @@ cc.apeldoorn.nl
 cc.leiden.nl
 cca-acc.gemeente-oldambt.nl
 cca-acc.pekela.nl
+cca-acc.veendam.nl
 cca.gemeente-oldambt.nl
 cca.pekela.nl
+cca.veendam.nl
 cctst.apeldoorn.nl
 cdn1.tilburg.nl
 centric-lvo-vth-p-swf.digikoppeling.sudwestfryslan.nl
@@ -2508,6 +2516,7 @@ connect.test.dantumadiel.frl
 connect.test.kerkrade.nl
 connect.test.overbetuwe.nl
 connect.texel.nl
+connect.veendam.nl
 consent.sarphati.amsterdam.nl
 consul-tst.groningen.nl
 consul.midden-groningen.nl
@@ -2550,6 +2559,7 @@ contentbeheer.test.coevorden.nl
 contentbeheer.test.dantumadiel.frl
 contentbeheer.test.kerkrade.nl
 contentbeheer.test.overbetuwe.nl
+contentbeheer.veendam.nl
 continuverbeterenjmo-acc.denhaag.nl
 continuverbeterenjmo.denhaag.nl
 copper.dbga.acc.amsterdam.nl
@@ -2653,6 +2663,7 @@ dacceptatieloket.raalte.nl
 dacceptatieloket.roermond.nl
 dacceptatieloket.rotterdam.nl
 dacceptatieloket.twenterand.nl
+dacceptatieloket.veendam.nl
 dacceptatiemidoffice.assen.nl
 dacceptatiemidoffice.borger-odoorn.nl
 dacceptatiemidoffice.borne.nl
@@ -2679,6 +2690,7 @@ dacceptatiemidoffice.raalte.nl
 dacceptatiemidoffice.roermond.nl
 dacceptatiemidoffice.rotterdam.nl
 dacceptatiemidoffice.twenterand.nl
+dacceptatiemidoffice.veendam.nl
 dagbesteding.apeldoorn.nl
 dalfsen.nl
 dali.alphenaandenrijn.nl
@@ -2768,6 +2780,7 @@ ddrouter-t.nieuwegein.nl
 dds-alphen-kaag.kaagenbraassem.nl
 dds-vold21.gemeente-oldambt.nl
 dds-vpek21.pekela.nl
+dds-vvee21.veendam.nl
 ddskoppeling.gulpen-wittem.nl
 ddsp.services.debilt.nl
 ddst.services.debilt.nl
@@ -3211,6 +3224,7 @@ dloket.raalte.nl
 dloket.roermond.nl
 dloket.rotterdam.nl
 dloket.twenterand.nl
+dloket.veendam.nl
 dm-tst.groningen.nl
 dmafunc002.amsterdam.nl
 dmb.amsterdam.nl
@@ -3239,6 +3253,7 @@ dmidoffice.raalte.nl
 dmidoffice.roermond.nl
 dmidoffice.rotterdam.nl
 dmidoffice.twenterand.nl
+dmidoffice.veendam.nl
 dmpfunc002.amsterdam.nl
 dms.heuvelrug.nl
 dmst.noordoostpolder.nl
@@ -3350,6 +3365,7 @@ duo-jvs.groningen.nl
 duo.emmen.nl
 duo.gemeente-oldambt.nl
 duo.gemeentemaasgouw.nl
+duo.veendam.nl
 duoloket.nissewaard.nl
 duoloket.utrecht.nl
 durp.drechterland.nl
@@ -4485,6 +4501,7 @@ gemeente.nissewaard.nl
 gemeente.purmerend.nl
 gemeente.rucphen.nl
 gemeente.valkenburg.nl
+gemeente.veendam.nl
 gemeentearchief.alphenaandenrijn.nl
 gemeentearchief.barneveld.nl
 gemeentearchief.ede.nl
@@ -4535,6 +4552,7 @@ gemeentestein.nl
 gemeentewinkel.gemeente-steenbergen.nl
 gemeentewinkel.leiderdorp.nl
 gemeentewinkel.meerssen.nl
+gemeentewinkel.veendam.nl
 gemert-bakel.nl
 gemnet-dkd.schagen.nl
 gemnet-dkdtest.schagen.nl
@@ -5494,6 +5512,8 @@ iis-vold01.gemeente-oldambt.nl
 iis-vold21.gemeente-oldambt.nl
 iis-vpek01.pekela.nl
 iis-vpek21.pekela.nl
+iis-vvee01.veendam.nl
+iis-vvee21.veendam.nl
 iis2.gemeentemaasgouw.nl
 iis3.gemeentemaasgouw.nl
 iit-controle.rotterdam.nl
@@ -5601,6 +5621,7 @@ inproces.staging.overbetuwe.nl
 inproces.test.dantumadiel.frl
 inproces.test.kerkrade.nl
 inproces.test.overbetuwe.nl
+inproces.veendam.nl
 insite.houten.nl
 insite.nijmegen.nl
 insite.oisterwijk.nl
@@ -5762,6 +5783,7 @@ intranetcms.drimmelen.nl
 intranetcms.landvancuijk.nl
 intranetcms.midden-groningen.nl
 intranetcms.nissewaard.nl
+intranetdekompanjie.veendam.nl
 intranettest.krimpenerwaard.nl
 intratest.gouda.nl
 intraweb.nederbetuwe.nl
@@ -5918,6 +5940,7 @@ jeugdengezin.amsterdam.nl
 jeugdhulp.lansingerland.nl
 jeugdombudsman-acc.denhaag.nl
 jeugdombudsman.denhaag.nl
+jeugdplein.veendam.nl
 jijmaaktdebuurt.openstad.enschede.nl
 jimintranet.middendelfland.nl
 jip.hofvantwente.nl
@@ -5997,6 +6020,7 @@ kaarten.rijssen-holten.nl
 kaarten.sint-michielsgestel.nl
 kaarten.stichtsevecht.nl
 kaarten.sudwestfryslan.nl
+kaarten.veendam.nl
 kaartlaag.rotterdam.nl
 kaartviewer.barneveld.nl
 kaartviewer.gemeentehulst.nl
@@ -6379,6 +6403,7 @@ loket.acceptatie.ridderkerk.nl
 loket.acceptatie.sliedrecht.nl
 loket.acceptatie.smallingerland.nl
 loket.acceptatie.steenwijkerland.nl
+loket.acceptatie.veendam.nl
 loket.alblasserdam.nl
 loket.albrandswaard.nl
 loket.amstelveen.nl
@@ -6434,6 +6459,7 @@ loket.test.amsterdam.nl
 loket.test.dantumadiel.frl
 loket.texel.nl
 loket.uithoorn.nl
+loket.veendam.nl
 loketacc.arnhem.nl
 loketacpt.haarlem.nl
 lokettest.middendrenthe.nl
@@ -6595,6 +6621,7 @@ mail.sittard-geleen.nl
 mail.smallingerland.nl
 mail.someren.nl
 mail.stadskanaal.nl
+mail.veendam.nl
 mail01.bodegraven-reeuwijk.nl
 mail1.amersfoort.nl
 mail1.groningen.nl
@@ -7069,6 +7096,7 @@ mijnplein.assen.nl
 mijnportaal.defryskemarren.nl
 mijnportaal.lansingerland.nl
 mijnpost.pekela.nl
+mijnpost.veendam.nl
 mijnrapportages.rotterdam.nl
 mijnroteblease.rotterdam.nl
 mijnsbl-acc.amsterdam.nl
@@ -7698,6 +7726,7 @@ omgevingsvisie.oldebroek.nl
 omgevingsvisie.rucphen.nl
 omgevingsvisie.scherpenzeel.nl
 omgevingsvisie.utrecht.nl
+omgevingsvisie.veendam.nl
 omgevingswet.bronckhorst.nl
 omgevingswet.deventer.nl
 omgevingswet.gemeentemaashorst.nl
@@ -8461,6 +8490,7 @@ portal.t-diel.nl
 portal.test.oss.nl
 portal.twenterand.nl
 portal.utrecht.nl
+portal.veendam.nl
 portal1.denhaag.nl
 portal2.sittard-geleen.nl
 portaltest.haarlemmermeer.nl
@@ -9390,6 +9420,7 @@ secure.twenterand.nl
 secure.urk.nl
 secure.utrecht.nl
 secure.valkenburg.nl
+secure.veendam.nl
 secure1.gulpen-wittem.nl
 securegemnet.roermond.nl
 securegw.bunschoten.nl
@@ -9711,6 +9742,7 @@ simsite.tiel.nl
 simsite.twenterand.nl
 simsite.valkenburg.nl
 simsite.valkenswaard.nl
+simsite.veendam.nl
 singlegateway.haarlem.nl
 sint-agatha.landvancuijk.nl
 sint-hubert.landvancuijk.nl
@@ -10546,6 +10578,7 @@ test.tubbergen.nl
 test.uithoorn.nl
 test.utrecht.nl
 test.valkenburg.nl
+test.veendam.nl
 testafspraken.alkmaar.nl
 testafspraken.gemeentehw.nl
 testafspraken.nissewaard.nl
@@ -10954,6 +10987,7 @@ vdi.rijswijk.nl
 vdi.rotterdam.nl
 vdi.schagen.nl
 vdi8.amersfoort.nl
+veendam.nl
 veenkolonien.groningen.nl
 veilig.houten.nl
 veiligdelen.alkmaar.nl
@@ -11197,6 +11231,7 @@ waarmerk.overbetuwe.nl
 waarmerk.pekela.nl
 waarmerk.roerdalen.nl
 waarmerk.simpelveld.nl
+waarmerk.veendam.nl
 waarstemjijvoor.kerkrade.nl
 wabo.oostgelre.nl
 wacfarm.acc.amsterdam.nl
@@ -11387,6 +11422,7 @@ webmail.urk.nl
 webmail.utrecht.nl
 webmail.vaals.nl
 webmail.valkenburg.nl
+webmail.veendam.nl
 webmail.west.amsterdam.nl
 webmail.zuidoost.amsterdam.nl
 webmail2.heusden.nl
@@ -11786,6 +11822,7 @@ www.afspraken.kaagenbraassem.nl
 www.afspraken.oegstgeest.nl
 www.afspraken.oostgelre.nl
 www.afspraken.pekela.nl
+www.afspraken.veendam.nl
 www.aga.amsterdam.nl
 www.agrifoodtech.landvancuijk.nl
 www.alblasserdam.nl
@@ -12661,6 +12698,7 @@ www.varen.groningen.nl
 www.vasd-acc.groningen.nl
 www.vasd.groningen.nl
 www.vastgoed.assen.nl
+www.veendam.nl
 www.veenkolonien.groningen.nl
 www.vga.amsterdam.nl
 www.vibe.rhenen.nl
@@ -12740,6 +12778,7 @@ www.woz.overbetuwe.nl
 www.www2.formulieren.haarlemmermeer.nl
 www.www2.testformulieren.haarlemmermeer.nl
 www.xential.haarlemmermeer.nl
+www.xentialtest.veendam.nl
 www.youp.sudwestfryslan.nl
 www.ypenburgaanzet.denhaag.nl
 www.zkd.denhaag.nl
@@ -12781,6 +12820,7 @@ xential.montferland.info
 xential.urk.nl
 xentialtest.gulpen-wittem.nl
 xentialtest.montferland.info
+xentialtest.veendam.nl
 xerox.brievenbus.amsterdam.nl
 xmlgw.preprod.rotterdam.nl
 xmlgw.rotterdam.nl
@@ -12885,6 +12925,7 @@ zaken.test.dantumadiel.frl
 zaken.test.kerkrade.nl
 zaken.test.overbetuwe.nl
 zaken.top.amsterdam.nl
+zaken.veendam.nl
 zec.acc.amsterdam.nl
 zec.amsterdam.nl
 zeeburg.amsterdam.nl
