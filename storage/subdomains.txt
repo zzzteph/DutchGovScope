@@ -6,16 +6,16 @@ ibzpink
 edienstenburgerzaken
 edienstenburgerzaken-test
 intranet
-webmail
 mijn
-afspraken
+webmail
 simsite
+afspraken
 mail
 digikoppeling
 secure
 simcms
-acceptatie
 preproductie
+acceptatie
 felix
 probeer
 test
@@ -34,9 +34,9 @@ ruimtelijkeplannen
 parkeren
 waarmerk
 afspraak
+adfs
 api.meldingen
 raad
-adfs
 betalen
 pv
 zaaksysteem-accept
@@ -48,11 +48,11 @@ iparticipatie
 enterpriseenrollment
 dacceptatieloket
 dacceptatiemidoffice
+data
 test-ipa
 belastingen
 dloket
 dmidoffice
-data
 openpdc
 openpub
 belastingbalie
@@ -77,10 +77,10 @@ hybrid
 berichten
 parkeren-acc
 govroam
+mks
 kaarten
 extranet
 digikoppeling.test
-mks
 acc-broker
 test-intranet
 dtestloket
@@ -135,6 +135,7 @@ mobiel
 mailing
 belastingportaal
 web
+izaaksuite
 subsidies
 snelbaliepp
 api.betalen
@@ -153,7 +154,7 @@ cryptshare
 transfer
 opendata
 gisib
-izaaksuite
+vdi
 ftp
 openzaak
 auth
@@ -174,7 +175,6 @@ fs
 preprodbroker
 college
 maps
-vdi
 jcc
 email
 legacy
@@ -202,6 +202,7 @@ mail2
 onderzoek
 sharefile
 telewerken
+woo
 bag
 test-digikoppeling
 byod
@@ -224,10 +225,10 @@ subsidies-backend
 melddesk
 thuiswerken
 gemeentearchief
+werkenvoor
 woz
 www.acc
 e-loket
-woo
 afval
 citrix
 inproces.acceptatie
@@ -271,8 +272,8 @@ mozardtest
 magazine
 ns
 www.test
-werkenvoor
 parkeervergunningen
+desktop
 ns1
 meet
 openformulieren
@@ -292,6 +293,7 @@ ondernemersloket
 topdesk
 sport
 eformulieren
+aeolus
 en
 sbc01
 download
@@ -321,11 +323,11 @@ beheer
 edison
 parkeervergunning
 www.raad
-desktop
 gbi
 gp
 mijngeldzaken
 rooster
+sslvpn
 teleweb
 squit2020publiceren
 uca
@@ -350,7 +352,6 @@ openstad
 woz-portaal
 socialekaart
 www.intranet
-aeolus
 stemvan
 www.samen
 cloudadapter-prod
@@ -383,7 +384,6 @@ regelgeving
 geotest
 moh-acc
 moh
-sslvpn
 www2
 dialin
 media
@@ -457,6 +457,7 @@ digitaal
 localhost
 bezoekersparkeren-acc
 cars
+mijnsociaaldomein-acc
 gemeentewinkel
 awmail
 awseg
@@ -635,6 +636,7 @@ sera
 rxlaunch-signicat-preprod
 vthbroker
 testbelastingloket
+mijn-preproductie
 preprod-mijnsociaaldomein
 bzg1-acc
 key2datadistributie
@@ -655,8 +657,8 @@ insite
 www.parkeren
 digitaalloket
 hta
-mijnsociaaldomein-acc
 prefill
+wonen
 ews
 www.belastingloket
 corsa-prod
@@ -763,6 +765,7 @@ bi
 buurtbudget
 centrum
 docgen
+fileshare
 formulieren-g4-acc
 formulieren.acc
 gvz2digikoppeling
@@ -937,6 +940,7 @@ parkeeracties-test
 site
 serverruimte
 centric
+simcms-woo
 besluitvorming
 test-digikoppelingadapter
 dkd.berichtenverkeer
@@ -956,6 +960,7 @@ www.belastingbalie
 www.ondernemen
 mx
 allegro
+bijeenkomsten
 cmsoo.gemeente
 afspraakmakentest
 geoportaaltest
@@ -1023,7 +1028,6 @@ tbt
 testtsjinstbus
 tsjinstbus
 hulpwijzer
-mijn-preproductie
 subsidies-backend-test
 subsidies-test
 bzg1
@@ -1082,7 +1086,6 @@ embrace
 foto
 status
 winkel
-wonen
 koppelvlakken
 smartdoc
 clicksfm.persberichten
@@ -1150,6 +1153,7 @@ qmatic
 nwro
 zwemmen
 wsn-mail
+spamfilter
 a-cms
 a-cms1
 a-cms2
@@ -2955,7 +2959,6 @@ fibu
 fibu.dwiweb
 files.data
 fileshare.adds
-fileshare
 fise02.oudzuid
 fixxx10
 fixxx11
@@ -4534,7 +4537,6 @@ felixpdc
 menscentraal
 sim-prefill
 sim-preproductie
-simcms-woo
 vraagbaak
 www.vraagbaak
 afbeeldingen
@@ -4682,7 +4684,6 @@ api.participatiewebshop
 bars
 belastingloket.acc
 belastingloketacc
-bijeenkomsten
 digipoort
 doemee-test
 gbav
@@ -7731,8 +7732,20 @@ office
 planning
 portal.office.com
 secure2
-spamfilter
 testsim
 westmaasenwaal007.simgroephosting04.nl
 wmw-vvc02
 www.wmw-vvc02
+acceptatie.notarisportaal
+armoedepact
+autodiscover.raad
+notarisportaal
+potjeswijzer
+selfserviceportal
+simcms-armoedepact
+simcms-data
+simcms-subsite8
+simcms-werkenvoor
+simcms-wonen
+test-potjeswijzer
+wozbezwaar
