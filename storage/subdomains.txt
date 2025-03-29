@@ -159,6 +159,7 @@ AutoDiscover
 cryptshare
 transfer
 opendata
+mta-sts
 vdi
 email
 ftp
@@ -181,7 +182,6 @@ ro
 bestuur
 zaaksysteem
 evenementen
-mta-sts
 website
 kennisbank
 fs
@@ -372,6 +372,7 @@ bezoekersparkeren
 ibabs
 www.afspraken
 kcc
+mijndesktop
 feeds
 english
 mijn-acc
@@ -480,7 +481,6 @@ awtunnel
 ens
 cca-acc
 cca
-mijndesktop
 git
 persberichten
 mm
@@ -641,6 +641,7 @@ handhavingtest
 open-formulieren
 validsign
 xentialtest
+gemeentebestuur
 lyncweb
 servicegateway
 www.mdm
@@ -1029,7 +1030,6 @@ www.toerisme
 corsanxt
 secure1
 mijnintranet
-gemeentebestuur
 lynccon
 wkpb
 autodiscover.d66
@@ -7853,3 +7853,5 @@ pkioverheid
 geoxchange-prod
 geoxchange-test
 relay2
+sat
+uat
