@@ -29,9 +29,9 @@ portal
 meldingen
 open
 geo
+vpn
 ruimtelijkeplannen
 afspraak
-vpn
 api.meldingen
 raad
 parkeren
@@ -81,6 +81,7 @@ kaarten
 extranet
 mks
 test-intranet
+portaal
 denkmee
 financien
 digikoppeling.test
@@ -88,7 +89,6 @@ acc-broker
 belastingloket
 samen
 dtestloket
-portaal
 osbacc
 cmsintranet
 connect
@@ -109,14 +109,15 @@ www.webmail
 filecap
 e
 vergunningintaker
+simform
 mijninkomen
 parkeren-test
 afvalkalender
 bastion365
 obsurv
 begroting
-simform
 preprod-mijninkomen
+dali
 qr
 nieuwsbrief
 acc-formulier
@@ -134,7 +135,6 @@ mailing
 belastingportaal
 web
 subsidies
-dali
 snelbaliepp
 api.betalen
 acc-mijn
@@ -217,10 +217,12 @@ afspraakmaken
 www.portal
 magazines
 mijnzorg-acc
+simform-preproductie
 bis
 subsidies-backend
 melddesk
 thuiswerken
+gemeentearchief
 www.acc
 e-loket
 woo
@@ -256,13 +258,11 @@ webservices
 omgevingswet
 vergunningintaker-preprod
 geovisia
-simform-preproductie
 praatmee
 subsidie
 belastingen-acc
 api.openstad
 exchange
-gemeentearchief
 mozard
 mozardtest
 magazine
@@ -430,6 +430,7 @@ collecties
 filr
 openformulieren-test
 klantportaal
+mfa
 test.digikoppeling
 auth.openstad
 img.openstad
@@ -555,7 +556,6 @@ secure-test
 cjg
 geoservices
 lvs
-mfa
 octopus-acc
 smartdocuments
 www.cjg
@@ -662,6 +662,7 @@ gt-loket
 cca-acc
 cca
 wmoloket
+content
 digitalebelastingbalie
 service
 a-feeds
@@ -1120,7 +1121,6 @@ smtp10
 smtp20
 www.afspraakmaken
 www.iarchief
-content
 www.jcc
 mijnwerkplek
 mijnpost
@@ -1141,6 +1141,7 @@ digitalebelastingbalie-test
 qmatic
 nwro
 zwemmen
+wsn-mail
 a-cms
 a-cms1
 a-cms2
@@ -7641,7 +7642,6 @@ camerabuitendienst
 key2financien
 notubiz-recorder
 vdlpki
-wsn-mail
 ctb
 evenemententest
 geobeheer

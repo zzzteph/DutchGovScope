@@ -187,6 +187,7 @@ http://autodiscover.vvd.mookenmiddelaar.nl
 http://autodiscover.vvd.nijmegen.nl
 http://autodiscover.waalre.nl
 http://autodiscover.waalwijk.nl
+http://autodiscover.wassenaar.nl
 http://bastion365.katwijk.nl
 http://beekdaelen.nl
 http://beh-gemeenteloket.gemeentemaastricht.nl
@@ -411,6 +412,7 @@ http://simcms.maassluis.nl
 http://simcms.nederweert.nl
 http://simform-preproductie.t-diel.nl
 http://simform-preproductie.voorschoten.nl
+http://simform-preproductie.wassenaar.nl
 http://simform.beuningen.nl
 http://simform.gemeentehw.nl
 http://simform.heerenveen.nl
@@ -531,6 +533,7 @@ http://www.urk.nl
 http://www.vlieland.nl
 http://www.vroonermeer-noord.alkmaar.nl
 http://www.waalwijk.nl
+http://www.wassenaar.nl
 http://www.webmail.hellevoetsluis.nl
 http://www.werkenbij.amsterdam.nl
 http://www.zorgloket.druten.nl
@@ -2174,6 +2177,7 @@ https://dali.schiedam.nl
 https://dali.teylingen.nl
 https://dali.voorschoten.nl
 https://dali.waddinxveen.nl
+https://dali.wassenaar.nl
 https://dantumadiel.frl
 https://dap.amsterdam.nl
 https://darwin.tilburg.nl
@@ -3286,6 +3290,7 @@ https://gemeentearchief.ede.nl
 https://gemeentearchief.gemeentehulst.nl
 https://gemeentearchief.goes.nl
 https://gemeentearchief.veenendaal.nl
+https://gemeentearchief.wassenaar.nl
 https://gemeentebeek.nl
 https://gemeenteberkelland.nl
 https://gemeentebest.nl
@@ -3780,6 +3785,7 @@ https://iburgerzaken.waalre.nl
 https://iburgerzaken.waalwijk.nl
 https://iburgerzaken.waddinxveen.nl
 https://iburgerzaken.wageningen.nl
+https://iburgerzaken.wassenaar.nl
 https://ict.gemeentesluis.nl
 https://id-beheer-erfpacht-acc.amsterdam.nl
 https://id-beheer-erfpacht-dev.amsterdam.nl
@@ -5870,6 +5876,7 @@ https://preproductie.reuseldemierden.nl
 https://preproductie.simpelveld.nl
 https://preproductie.steenwijkerland.nl
 https://preproductie.voorschoten.nl
+https://preproductie.wassenaar.nl
 https://pric.rotterdam.nl
 https://prijsvraag-zwembad.apeldoorn.nl
 https://printen.tilburg.nl
@@ -6369,6 +6376,7 @@ https://simcms.valkenswaard.nl
 https://simcms.vlieland.nl
 https://simcms.vlissingen.nl
 https://simcms.voorschoten.nl
+https://simcms.wassenaar.nl
 https://simform-preproductie.achtkarspelen.nl
 https://simform-preproductie.gemeentehw.nl
 https://simform-test.rijswijk.nl
@@ -6377,6 +6385,7 @@ https://simform.rijswijk.nl
 https://simform.t-diel.nl
 https://simform.vlissingen.nl
 https://simform.voorschoten.nl
+https://simform.wassenaar.nl
 https://simpelveld.nl
 https://simsite.beekdaelen.nl
 https://simsite.bladel.nl
