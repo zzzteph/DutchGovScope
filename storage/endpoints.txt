@@ -515,6 +515,7 @@ http://www.telewerken.hellevoetsluis.nl
 http://www.trefnet.hellevoetsluis.nl
 http://www.twenterand.nl
 http://www.urk.nl
+http://www.vlieland.nl
 http://www.vroonermeer-noord.alkmaar.nl
 http://www.webmail.hellevoetsluis.nl
 http://www.werkenbij.amsterdam.nl
@@ -2281,7 +2282,9 @@ https://digitaalgemeenteloket.kaagenbraassem.nl
 https://digitaalvergaderen.soest.nl
 https://digitalebalie.rotterdam.nl
 https://digitalebelastingbalie-test.texel.nl
+https://digitalebelastingbalie-test.vlieland.nl
 https://digitalebelastingbalie.texel.nl
+https://digitalebelastingbalie.vlieland.nl
 https://digitaleplannen.apeldoorn.nl
 https://digiwap.rotterdam.nl
 https://dijkenwaard.nl
@@ -2844,6 +2847,7 @@ https://enterpriseenrollment.terschelling.nl
 https://enterpriseenrollment.tholen.nl
 https://enterpriseenrollment.veenendaal.nl
 https://enterpriseenrollment.vijfheerenlanden.nl
+https://enterpriseenrollment.vlieland.nl
 https://enterpriseone-arc.almere.nl
 https://enterpriseone-dv.almere.nl
 https://enterpriseone-py.almere.nl
@@ -4819,12 +4823,14 @@ https://mozard.bunnik.nl
 https://mozard.gooisemeren.nl
 https://mozard.schiermonnikoog.nl
 https://mozard.terschelling.nl
+https://mozard.vlieland.nl
 https://mozardproductie.texel.nl
 https://mozardtest.ameland.nl
 https://mozardtest.bunnik.nl
 https://mozardtest.gooisemeren.nl
 https://mozardtest.schiermonnikoog.nl
 https://mozardtest.terschelling.nl
+https://mozardtest.vlieland.nl
 https://mpinajaar.haarlemmermeer.nl
 https://mpivoorjaar.haarlemmermeer.nl
 https://msm.almelo.nl
@@ -6171,6 +6177,7 @@ https://siam.bunnik.nl
 https://siam.rhenen.nl
 https://siam.schiermonnikoog.nl
 https://siam.terschelling.nl
+https://siam.vlieland.nl
 https://siamtest.bunnik.nl
 https://sibp01.lelystad.nl
 https://sibt01.lelystad.nl
@@ -6222,6 +6229,7 @@ https://simcms.sonenbreugel.nl
 https://simcms.terschelling.nl
 https://simcms.twenterand.nl
 https://simcms.valkenswaard.nl
+https://simcms.vlieland.nl
 https://simform-preproductie.achtkarspelen.nl
 https://simform-preproductie.gemeentehw.nl
 https://simform-test.rijswijk.nl
@@ -6695,6 +6703,7 @@ https://test-witgoed.middendrenthe.nl
 https://test-zaakloket.ameland.nl
 https://test-zaakloket.schiermonnikoog.nl
 https://test-zaakloket.terschelling.nl
+https://test-zaakloket.vlieland.nl
 https://test.3d.utrecht.nl
 https://test.api.tod.leiden.nl
 https://test.app.amsterdam.nl
@@ -6786,6 +6795,7 @@ https://testportaal.almelo.nl
 https://testsiam.ameland.nl
 https://testsiam.schiermonnikoog.nl
 https://testsiam.terschelling.nl
+https://testsiam.vlieland.nl
 https://testwebsite.losser.nl
 https://testwozloket.borger-odoorn.nl
 https://testwww.rucphen.nl
@@ -7256,6 +7266,7 @@ https://werkenbij.schiermonnikoog.nl
 https://werkenbij.schouwen-duiveland.nl
 https://werkenbij.sudwestfryslan.nl
 https://werkenbij.toeslagen.nl
+https://werkenbij.vlieland.nl
 https://werkeninkomen-test.leiden.nl
 https://werkeninkomen-test.leiderdorp.nl
 https://werkeninkomen.leiden.nl
@@ -8030,6 +8041,7 @@ https://zaak.tynaarlo.nl
 https://zaakloket.ameland.nl
 https://zaakloket.schiermonnikoog.nl
 https://zaakloket.terschelling.nl
+https://zaakloket.vlieland.nl
 https://zaaksysteem-acc.meppel.nl
 https://zaaksysteem-accept.alkmaar.nl
 https://zaaksysteem-accept.baarn.nl
