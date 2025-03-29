@@ -108,6 +108,7 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git pull
           git add -A storage/ scope_scan.db
           git commit -m "Auto-update: updated with ${{ env.LATEST_SCOPE_NAME }}" || echo "No changes to commit"
           git push
