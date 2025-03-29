@@ -19,14 +19,14 @@ preproductie
 probeer
 felix
 loket
-eloket
 formulieren
+eloket
 test
 werkplek
 dkd
 meldingen
-open
 portal
+open
 acc
 waarmerk
 adfs
@@ -34,20 +34,20 @@ api.meldingen
 geo
 pv
 ruimtelijkeplannen
+raad
 vpn
 broker
-raad
 parkeren
 afspraak
+betalen
 werkenbij
 zaaksysteem-accept
-betalen
-iparticipatie
 gemeenteraad
+iparticipatie
 testeloket
+belastingen
 dacceptatieloket
 dacceptatiemidoffice
-belastingen
 enterpriseenrollment
 dloket
 dmidoffice
@@ -168,6 +168,7 @@ dali
 snelbaliepp
 vdi
 jcc
+api.betalen
 email
 ftp
 gis
@@ -192,7 +193,6 @@ mijnzorg-acc
 veiligdelen
 subsidies-backend
 melddesk
-api.betalen
 telewerken
 auth
 woo
@@ -220,6 +220,7 @@ academie
 rap
 services
 omgevingswet
+fs
 praatmee
 preprod-mijn
 geodata
@@ -253,7 +254,6 @@ api
 download
 webservices
 zoeken
-fs
 participatie
 documenten
 raadsnet
@@ -288,6 +288,7 @@ mijngeldzaken
 ns1
 meet
 openformulieren
+publicaties
 support
 formulieren-test
 intranetcms
@@ -353,7 +354,6 @@ awmag
 beeldbank-bo
 geoserver
 kaartviewer
-publicaties
 squit2020.acceptatie
 squit2020publiceren
 wifi
@@ -541,6 +541,7 @@ autodiscover.cda
 autodiscover.groenlinks
 autodiscover.pvda
 autodiscover.vvd
+geoweb
 testdigikoppeling
 acceptatie-intranet
 sera
@@ -553,6 +554,7 @@ localhost
 wijkteam
 access
 bezoekersparkeren-acc
+bekendmakingen
 insite
 digitaalloket
 hta
@@ -855,6 +857,7 @@ ucweb01-ext
 aaa
 vergaderingen
 trobit
+xential-test
 stats
 verhuursport
 berichtenverkeer
@@ -880,7 +883,6 @@ wkpb
 autodiscover.d66
 autodiscover.sp
 fortinet
-geoweb
 gisibtest
 gisservices
 jccbetalen
@@ -927,7 +929,6 @@ rds
 communicatie
 test-kaartviewer
 preprod-belastingen
-bekendmakingen
 test-insite
 www.eloket
 hybrid1
@@ -982,6 +983,7 @@ huisnet
 raadzaam
 mylex
 helpmij
+telefonie
 cca-acc
 cca
 wmoloket
@@ -4731,7 +4733,6 @@ test-intra
 thuiswerken-uitwijk
 vpn-extern
 wdm01
-xential-test
 afspraken2
 bliek-acc
 bliek
@@ -6231,7 +6232,6 @@ lvbgt
 nopnet
 pm
 sharenet
-telefonie
 test-cmsnopnet
 test-nopnet
 test.open-formulieren
@@ -6929,3 +6929,12 @@ snelbalietestbbsuo
 test-mijnbbsuo
 zorgzaam
 awvpn
+belastingen-preprod
+bombay
+delhi
+raadsarchief
+shantou
+stan-acc
+stan
+wenen
+xential-prod
