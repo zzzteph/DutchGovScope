@@ -3919,6 +3919,7 @@ dmpfunc002.amsterdam.nl
 dms.heuvelrug.nl
 dmst.noordoostpolder.nl
 dmz-websrv.achtkarspelen.nl
+dmz003024.wierden.nl
 dns-cache.denhaag.nl
 dns-fw1.rijksoverheid.nl
 dns-fw4.rijksoverheid.nl
@@ -4570,6 +4571,7 @@ eloket.venray.nl
 eloket.vlissingen.nl
 eloket.weert.nl
 eloket.westbetuwe.nl
+eloket.wierden.nl
 eloketstaging.almere.nl
 eloketstaging.putten.nl
 elokettest.bloemendaal.nl
@@ -4938,6 +4940,7 @@ felix.wassenaar.nl
 felix.westerkwartier.nl
 felix.westmaasenwaal.nl
 felix.weststellingwerf.nl
+felix.wierden.nl
 felixburgerzaken.nissewaard.nl
 felixpdc.doesburg.nl
 festival.landvancuijk.nl
@@ -4976,6 +4979,7 @@ filecap.nunspeet.nl
 filecap.renswoude.nl
 filecap.rozendaal.nl
 filecap.voorst.nl
+filecap.wierden.nl
 filecapacc.breda.nl
 files.data.amsterdam.nl
 fileshare.adds.amsterdam.nl
@@ -5434,6 +5438,7 @@ gemeentearchief.gemeentehulst.nl
 gemeentearchief.goes.nl
 gemeentearchief.veenendaal.nl
 gemeentearchief.wassenaar.nl
+gemeentearchief.wierden.nl
 gemeentebeek.nl
 gemeenteberkelland.nl
 gemeentebest.nl
@@ -6352,6 +6357,7 @@ iburgerzaken.westbetuwe.nl
 iburgerzaken.westerkwartier.nl
 iburgerzaken.weststellingwerf.nl
 iburgerzaken.westvoorne.nl
+iburgerzaken.wierden.nl
 ibzpink.aaenhunze.nl
 ibzpink.achtkarspelen.nl
 ibzpink.almelo.nl
@@ -6509,6 +6515,7 @@ ibzpink.westbetuwe.nl
 ibzpink.westerkwartier.nl
 ibzpink.weststellingwerf.nl
 ibzpink.westvoorne.nl
+ibzpink.wierden.nl
 ice.nijmegen.nl
 icm-ast.asten.nl
 ict-ers.werkenvoornederland.nl
@@ -6916,6 +6923,7 @@ intranet.waterland.nl
 intranet.weert.nl
 intranet.westerwolde.nl
 intranet.westvoorne.nl
+intranet.wierden.nl
 intranet2.steenwijkerland.nl
 intranetacc.apeldoorn.nl
 intranetacc.weert.nl
@@ -6993,6 +7001,7 @@ iparticipatie.urk.nl
 iparticipatie.velsen.nl
 iparticipatie.waddinxveen.nl
 iparticipatie.weststellingwerf.nl
+iparticipatie.wierden.nl
 ipp.haarlem.nl
 iris-acc.lingewaard.nl
 iris.acc.denhaag.nl
@@ -7365,6 +7374,7 @@ klantcontact.nissewaard.nl
 klantcontact.opmeer.nl
 klantcontact.veere.nl
 klantcontact.westmaasenwaal.nl
+klantcontact.wierden.nl
 klanten.heemskerk.nl
 klantgeleiding-test.noordoostpolder.nl
 klantgeleiding.gorinchem.nl
@@ -7905,6 +7915,7 @@ mail.weert.nl
 mail.westerkwartier.nl
 mail.westmaasenwaal.nl
 mail.westvoorne.nl
+mail.wierden.nl
 mail01.bodegraven-reeuwijk.nl
 mail1.amersfoort.nl
 mail1.groningen.nl
@@ -8808,6 +8819,7 @@ mx1.lelystad.nl
 mx1.rucphen.nl
 mx1.s-hertogenbosch.nl
 mx1.waalwijk.nl
+mx1.wierden.nl
 mx11.meierijstad.nl
 mx12.meierijstad.nl
 mx2.ede.nl
@@ -8817,6 +8829,7 @@ mx2.rucphen.nl
 mx2.s-hertogenbosch.nl
 mx2.valkenburg.nl
 mx2.waalwijk.nl
+mx2.wierden.nl
 mx3.ede.nl
 mx3.valkenburg.nl
 mxrelay.overheid.nl
@@ -9398,6 +9411,7 @@ open.staphorst.nl
 open.teylingen.nl
 open.tilburg.nl
 open.tubbergen.nl
+open.wierden.nl
 openagenda.ridderkerk.nl
 openbareruimte.deventer.nl
 opencatalogi.rotterdam.nl
@@ -10417,6 +10431,7 @@ preproductie.westerkwartier.nl
 preproductie.westmaasenwaal.nl
 preproductie.weststellingwerf.nl
 preproductie.westvoorne.nl
+preproductie.wierden.nl
 preproductiebroker.gemeentewesterveld.nl
 presenteren.ont.belastingdienst.nl
 preview-eto.overheid.nl
@@ -10496,6 +10511,7 @@ probeer.waddinxveen.nl
 probeer.westmaasenwaal.nl
 probeer.weststellingwerf.nl
 probeer.westvoorne.nl
+probeer.wierden.nl
 prod-dictu.comcms.logius.nl
 prod-dictu.logius.nl
 prod-kodision-cli.sudwestfryslan.nl
@@ -10846,6 +10862,7 @@ resolver.kta.omgevingswet.overheid.nl
 resolver.omgevingswet.overheid.nl
 resolver.pfm.omgevingswet.overheid.nl
 resolver.pre.omgevingswet.overheid.nl
+restore.wierden.nl
 return.heuvelrug.nl
 return.purmerend.nl
 reuseldemierden.nl
@@ -11446,6 +11463,7 @@ simcms-open.nuenen.nl
 simcms-open.oirschot.nl
 simcms-open.sonenbreugel.nl
 simcms-open.staphorst.nl
+simcms-open.wierden.nl
 simcms-preproductie.beekdaelen.nl
 simcms-preproductie.beuningen.nl
 simcms-preproductie.kerkrade.nl
@@ -11538,6 +11556,7 @@ simcms.westerkwartier.nl
 simcms.westmaasenwaal.nl
 simcms.weststellingwerf.nl
 simcms.westvoorne.nl
+simcms.wierden.nl
 simcms2.beekdaelen.nl
 simcmsintra.bergeijk.nl
 simform-preproductie.achtkarspelen.nl
@@ -11656,6 +11675,7 @@ simsite.westerkwartier.nl
 simsite.westmaasenwaal.nl
 simsite.weststellingwerf.nl
 simsite.westvoorne.nl
+simsite.wierden.nl
 singlegateway.haarlem.nl
 sint-agatha.landvancuijk.nl
 sint-hubert.landvancuijk.nl
@@ -12342,6 +12362,7 @@ swa1158ot.iamacc.denhaag.nl
 sync.brunssum.nl
 sync.landgraaf.nl
 sync.nederbetuwe.nl
+sync.wierden.nl
 sync01.iba.amsterdam.nl
 sync01.oa.amsterdam.nl
 szc.velsen.nl
@@ -12553,6 +12574,7 @@ test-ipa.urk.nl
 test-ipa.velsen.nl
 test-ipa.waddinxveen.nl
 test-ipa.weststellingwerf.nl
+test-ipa.wierden.nl
 test-jip.hofvantwente.nl
 test-jip.vijfheerenlanden.nl
 test-kaart.almere.nl
@@ -12777,6 +12799,7 @@ testeloket.velsen.nl
 testeloket.venray.nl
 testeloket.weert.nl
 testeloket.westbetuwe.nl
+testeloket.wierden.nl
 testembrace.nunspeet.nl
 testextsec.purmerend.nl
 testformulieren.bodegraven-reeuwijk.nl
@@ -13951,6 +13974,7 @@ werkplek.veldhoven.nl
 werkplek.velsen.nl
 werkplek.vlaardingen.nl
 werkplek.waalre.nl
+werkplek.wierden.nl
 werkplek02.derondevenen.nl
 werkplekcb.kampen.nl
 werkplekspel.tilburg.nl
@@ -13987,6 +14011,7 @@ whitelabel.acc.nijmegen.nl
 whitelabel.nijmegen.nl
 widocmksp001.assen.nl
 wie.meppel.nl
+wierden.nl
 wifi-sport.alkmaar.nl
 wifi.bergenopzoom.nl
 wifi.gemeentemaashorst.nl
@@ -14147,6 +14172,7 @@ woz-portaal.huizen.nl
 woz-portaal.koggenland.nl
 woz-portaal.oisterwijk.nl
 woz-portaal.westerwolde.nl
+woz-portaal.wierden.nl
 woz.amsterdam.nl
 woz.kampen.nl
 woz.lingewaard.nl
@@ -14173,6 +14199,7 @@ wpmksp001.assen.nl
 wppbeheer.acc.amsterdam.nl
 wppbeheer.amsterdam.nl
 wpvh.hoorn.nl
+wrd131001.wierden.nl
 ws013.roerdalen.nl
 ws018.roerdalen.nl
 wsdl.t-diel.nl
@@ -15294,6 +15321,7 @@ www.westlandbudgetbeheer.gemeentewestland.nl
 www.westmaasenwaal.nl
 www.weststellingwerf.nl
 www.westvoorne.nl
+www.wierden.nl
 www.wij.groningen.nl
 www.wijkaanpak.amsterdam.nl
 www.wijkagenda-archipelwillemspark.denhaag.nl

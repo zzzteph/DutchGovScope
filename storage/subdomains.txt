@@ -9,8 +9,8 @@ intranet
 mijn
 webmail
 simsite
-afspraken
 mail
+afspraken
 digikoppeling
 secure
 preproductie
@@ -22,12 +22,12 @@ loket
 test
 formulieren
 eloket
-dkd
 werkplek
+dkd
 acc
 portal
-meldingen
 open
+meldingen
 geo
 waarmerk
 afspraak
@@ -39,17 +39,17 @@ api.meldingen
 raad
 betalen
 broker
+iparticipatie
 pv
 zaaksysteem-accept
 gemeenteraad
-werkenbij
-iparticipatie
 testeloket
+werkenbij
+test-ipa
 belastingen
 enterpriseenrollment
 dacceptatieloket
 dacceptatiemidoffice
-test-ipa
 dloket
 dmidoffice
 data
@@ -97,6 +97,7 @@ piwik
 test-cmsintranet
 doemee
 pki
+filecap
 mijnzorg
 snelbalie
 duurzaam
@@ -105,9 +106,9 @@ siam
 apps
 gemeente
 bastion365
+klantcontact
 squit2go
 www.webmail
-filecap
 dtestmidoffice
 e
 vergunningintaker
@@ -118,7 +119,7 @@ afvalkalender
 bgt
 woningbouwkaart
 obsurv
-klantcontact
+simcms-open
 micollab
 begroting
 mobiel
@@ -132,7 +133,6 @@ acc-formulier
 acc-podiumd-logs
 sts
 contentbeheer
-simcms-open
 mdm
 jaarstukken
 smtp
@@ -205,6 +205,7 @@ veiligdelen
 wachtwoord
 geodata
 subsidies-backend
+gemeentearchief
 mail2
 onderzoek
 telewerken
@@ -223,6 +224,8 @@ preprod-mijnsociaalplein
 mobile
 belastingbalie-test
 bestanden
+mx1
+mx2
 www.portal
 cms
 magazines
@@ -233,7 +236,6 @@ bis
 melddesk
 thuiswerken
 api.openstad
-gemeentearchief
 werkenvoor
 woz
 www.acc
@@ -249,8 +251,7 @@ archief
 vth
 acceptatie-open
 jongin
-mx1
-mx2
+woz-portaal
 contact
 geoportaal
 handhaving
@@ -296,7 +297,6 @@ sport
 admin.openstad
 openstad
 eformulieren
-woz-portaal
 www.intranet
 aeolus
 en
@@ -426,6 +426,7 @@ autorisatiebeheer-test
 djumaproxy
 logilink
 suite4burgerzaken-test
+sync
 medewerkers
 preprod-formulieren
 connect.test
@@ -558,7 +559,6 @@ adsync
 kassaservice
 ssd
 suite4burgerzaken
-sync
 test-eloket
 uitwijk
 mbg
@@ -7822,3 +7822,6 @@ smartdoc-wvnacc
 smartdocwvn
 smartdocwvnacc
 wvncmg
+dmz003024
+restore
+wrd131001
