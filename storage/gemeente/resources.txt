@@ -851,6 +851,7 @@ afspraken.valkenswaard.nl
 afspraken.veendam.nl
 afspraken.veere.nl
 afspraken.velsen.nl
+afspraken.vlissingen.nl
 afspraken2.gorinchem.nl
 afval.acc.denhaag.nl
 afval.assen.nl
@@ -3145,6 +3146,7 @@ digikoppeling.veere.nl
 digikoppeling.venlo.nl
 digikoppeling.vijfheerenlanden.nl
 digikoppeling.vlaardingen.nl
+digikoppeling.vlissingen.nl
 digikoppelingadapter.doetinchem.nl
 digikoppelingenproductie.steenwijkerland.nl
 digikoppelingentest.steenwijkerland.nl
@@ -3400,6 +3402,7 @@ doemee.peelenmaas.nl
 doemee.terneuzen.nl
 doemee.valkenburg.nl
 doemee.veere.nl
+doemee.vlissingen.nl
 doesburg.nl
 doetinchem.nl
 doewatmoet-acc.denhaag.nl
@@ -3534,6 +3537,7 @@ e-loket.apeldoorn.nl
 e-loket.bergen.nl
 e-loket.gemeentebest.nl
 e-loket.steenwijkerland.nl
+e-loket.vlissingen.nl
 e-loketstaging.bergen.nl
 e-net.amsterdam.nl
 e-net.intranet.amsterdam.nl
@@ -3931,10 +3935,12 @@ eloket.twenterand.nl
 eloket.uitgeest.nl
 eloket.velsen.nl
 eloket.venray.nl
+eloket.vlissingen.nl
 eloketstaging.almere.nl
 eloketstaging.putten.nl
 elokettest.bloemendaal.nl
 elokettest.sudwestfryslan.nl
+elokettest.vlissingen.nl
 emagazine2030.rijswijk.nl
 email.amsterdam.nl
 email.bernheze.org
@@ -4242,6 +4248,7 @@ felix.urk.nl
 felix.valkenswaard.nl
 felix.veere.nl
 felix.vlieland.nl
+felix.vlissingen.nl
 felixburgerzaken.nissewaard.nl
 felixpdc.doesburg.nl
 festival.landvancuijk.nl
@@ -4359,6 +4366,7 @@ flowmailer-tracking.roermond.nl
 flowmailer-tracking.schouwen-duiveland.nl
 flowmailer-tracking.smallingerland.nl
 flowmailer-tracking.venlo.nl
+flowmailer-tracking.vlissingen.nl
 fm.apeldoorn.nl
 fm.krimpenerwaard.nl
 fm01.apeldoorn.nl
@@ -4688,6 +4696,7 @@ gemeenteraad.rotterdam.nl
 gemeenteraad.soest.nl
 gemeenteraad.stadskanaal.nl
 gemeenteraad.venlo.nl
+gemeenteraad.vlissingen.nl
 gemeentesluis.nl
 gemeentestein.nl
 gemeentewinkel.gemeente-steenbergen.nl
@@ -4834,6 +4843,7 @@ ggexoopsrv1.groningen.nl
 ggexoopsrv2.groningen.nl
 ggi.barneveld.nl
 ggk-koppeling.middelburg.nl
+ggk-koppeling.vlissingen.nl
 ggk-pki.sudwestfryslan.nl
 ggk.brunssum.nl
 ggk.oostgelre.nl
@@ -5452,6 +5462,7 @@ iburgerzaken.veere.nl
 iburgerzaken.velsen.nl
 iburgerzaken.venlo.nl
 iburgerzaken.venray.nl
+iburgerzaken.vlissingen.nl
 ibzpink.aaenhunze.nl
 ibzpink.achtkarspelen.nl
 ibzpink.almelo.nl
@@ -5596,6 +5607,7 @@ ibzpink.veere.nl
 ibzpink.velsen.nl
 ibzpink.venlo.nl
 ibzpink.venray.nl
+ibzpink.vlissingen.nl
 ice.nijmegen.nl
 icm-ast.asten.nl
 ict.gemeentesluis.nl
@@ -5936,6 +5948,7 @@ intranet.valkenswaard.nl
 intranet.veere.nl
 intranet.velsen.nl
 intranet.venlo.nl
+intranet.vlissingen.nl
 intranet2.steenwijkerland.nl
 intranetacc.apeldoorn.nl
 intranetacceptatie.kampen.nl
@@ -6975,6 +6988,7 @@ meet.hethogeland.nl
 meet.houten.nl
 meet.urk.nl
 meierijstad.nl
+meld.vlissingen.nl
 meldcode.denhaag.nl
 melddesk-test.renkum.nl
 melddesk.almere.nl
@@ -8414,6 +8428,7 @@ parkeren-acc.sittard-geleen.nl
 parkeren-acc.smallingerland.nl
 parkeren-acc.sudwestfryslan.nl
 parkeren-acc.veere.nl
+parkeren-acc.vlissingen.nl
 parkeren-edu.amsterdam.nl
 parkeren-prod.schiedam.nl
 parkeren-siam-prod.schiedam.nl
@@ -8473,6 +8488,7 @@ parkeren.sudwestfryslan.nl
 parkeren.valkenswaard.nl
 parkeren.veere.nl
 parkeren.venlo.nl
+parkeren.vlissingen.nl
 parkerenapp-prod.schiedam.nl
 parkerendenhaag-test.denhaag.nl
 parkerendenhaag.acc.denhaag.nl
@@ -8978,6 +8994,7 @@ proapp.rotterdam.nl
 probeer-cjg.scherpenzeel.nl
 probeer-energiek.beuningen.nl
 probeer-epos.staphorst.nl
+probeer-gemeenteraad.vlissingen.nl
 probeer.aalten.nl
 probeer.achtkarspelen.nl
 probeer.albrandswaard.nl
@@ -9037,6 +9054,7 @@ probeer.staphorst.nl
 probeer.twenterand.nl
 probeer.urk.nl
 probeer.valkenswaard.nl
+probeer.vlissingen.nl
 prod-kodision-cli.sudwestfryslan.nl
 prod.digikoppeling.schiedam.nl
 prod.drechterland.nl
@@ -9388,6 +9406,7 @@ ro.leiden.nl
 ro.lelystad.nl
 ro.olst-wijhe.nl
 ro.valkenburg.nl
+ro.vlissingen.nl
 roadi.rotterdam.nl
 roel.middendrenthe.nl
 roemte.hethogeland.nl
@@ -9824,6 +9843,7 @@ simcms-cjg.scherpenzeel.nl
 simcms-duurzaam.beverwijk.nl
 simcms-energiek.beuningen.nl
 simcms-epos.staphorst.nl
+simcms-gemeenteraad.vlissingen.nl
 simcms-klimaatbestendig.lingewaard.nl
 simcms-omgevingsvisie.geldrop-mierlo.nl
 simcms-omgevingswet.bronckhorst.nl
@@ -9919,6 +9939,7 @@ simcms.urk.nl
 simcms.valkenswaard.nl
 simcms.veere.nl
 simcms.vlieland.nl
+simcms.vlissingen.nl
 simcms2.beekdaelen.nl
 simcmsintra.bergeijk.nl
 simform-preproductie.achtkarspelen.nl
@@ -9937,6 +9958,7 @@ simform.houten.nl
 simform.rijswijk.nl
 simform.t-diel.nl
 simform.vlaardingen.nl
+simform.vlissingen.nl
 simpelveld.nl
 simsite.aalten.nl
 simsite.albrandswaard.nl
@@ -10361,6 +10383,7 @@ stationsdistrict.nijmegen.nl
 statistiek.amsterdam.nl
 statistiek.data.amsterdam.nl
 statistieken-intranet.enschede.nl
+statistieken.vlissingen.nl
 stats.gorinchem.nl
 stats.intranet.delft.nl
 stats.intranet.oostgelre.nl
@@ -10907,6 +10930,7 @@ testdigid.denhaag.nl
 testdigikoppeling.haarlemmermeer.nl
 testdigikoppeling.middelburg.nl
 testdigikoppeling.middendelfland.nl
+testdigikoppeling.vlissingen.nl
 testdigitaalgemeenteloket.alphenaandenrijn.nl
 testdigitaalgemeenteloket.kaagenbraassem.nl
 testeforms.peelenmaas.nl
@@ -11417,11 +11441,14 @@ vijfheerenlanden.nl
 vind.sint-michielsgestel.nl
 vinden.heuvelrug.nl
 vis.gouda.nl
+visnet-acc.vlissingen.nl
+visnet.vlissingen.nl
 visvijver.doetinchem.nl
 vitaal.venlo.nl
 vlaardingen.nl
 vlieland.nl
 vlindernet.lingewaard.nl
+vlissingen.nl
 vlspmks.velsen.nl
 vlstmks.velsen.nl
 vm-cs.kampen.nl
@@ -13078,6 +13105,7 @@ www.victor.amsterdam.nl
 www.vijfheerenlanden.nl
 www.vlaardingen.nl
 www.vlieland.nl
+www.vlissingen.nl
 www.vpn.haarlemmermeer.nl
 www.vpn.hillegom.nl
 www.vraagbaak.doesburg.nl

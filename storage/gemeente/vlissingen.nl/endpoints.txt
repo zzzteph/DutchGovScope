@@ -1,0 +1,16 @@
+http://felix.vlissingen.nl
+http://simcms-gemeenteraad.vlissingen.nl
+https://doemee.vlissingen.nl
+https://eloket.vlissingen.nl
+https://elokettest.vlissingen.nl
+https://flowmailer-tracking.vlissingen.nl
+https://iburgerzaken.vlissingen.nl
+https://intranet.vlissingen.nl
+https://meld.vlissingen.nl
+https://parkeren.vlissingen.nl
+https://ro.vlissingen.nl
+https://simcms.vlissingen.nl
+https://simform.vlissingen.nl
+https://statistieken.vlissingen.nl
+https://visnet-acc.vlissingen.nl
+https://visnet.vlissingen.nl
