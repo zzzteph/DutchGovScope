@@ -6,8 +6,8 @@ ibzpink
 edienstenburgerzaken
 edienstenburgerzaken-test
 intranet
-mijn
 webmail
+mijn
 afspraken
 simsite
 mail
@@ -66,17 +66,17 @@ meldingen-acc
 digikoppeling-test
 login
 cloudadapter-test
-flowmailer-tracking
 remote
+flowmailer-tracking
 kaart
 formulier
 zaken
 beeldbank
 cloudadapter
+hybrid
 berichten
 parkeren-acc
 govroam
-hybrid
 kaarten
 extranet
 digikoppeling.test
@@ -115,6 +115,7 @@ mijninkomen
 parkeren-test
 afvalkalender
 obsurv
+klantcontact
 dtestmidoffice
 begroting
 preprod-mijninkomen
@@ -126,7 +127,6 @@ acc-podiumd-logs
 bgt
 sts
 woningbouwkaart
-klantcontact
 simcms-open
 micollab
 jaarstukken
@@ -146,8 +146,10 @@ owa
 sip
 contentbeheer
 internetafspraken
+gasten
 uc
 mdm
+cryptshare
 transfer
 opendata
 gisib
@@ -163,9 +165,7 @@ acc-openzaak
 keycloak
 podiumd-logs
 meedoen
-gasten
 AutoDiscover
-cryptshare
 bestuur
 zaaksysteem
 evenementen
@@ -174,6 +174,7 @@ fs
 preprodbroker
 college
 maps
+vdi
 jcc
 email
 legacy
@@ -199,7 +200,6 @@ wachtwoord
 geodata
 mail2
 onderzoek
-vdi
 sharefile
 telewerken
 bag
@@ -243,6 +243,7 @@ archief
 vth
 acceptatie-open
 belastingbalie-test
+jongin
 mx1
 mx2
 contact
@@ -262,6 +263,7 @@ geovisia
 praatmee
 subsidie
 belastingen-acc
+diensten
 api.openstad
 exchange
 mozard
@@ -290,7 +292,6 @@ ondernemersloket
 topdesk
 sport
 eformulieren
-jongin
 en
 sbc01
 download
@@ -310,7 +311,6 @@ www.werkenbij
 makelaar
 subsidies-backend.acceptatie
 subsidies.acceptatie
-diensten
 dkd-test
 ro-online
 www.duurzaam
@@ -436,6 +436,7 @@ test.digikoppeling
 auth.openstad
 img.openstad
 intra
+www.jongin
 digitalebalie
 mobility
 ondernemen
@@ -445,6 +446,7 @@ e.openstad
 mijnuitkering
 gbionline
 hpdm
+authenticatie
 gateway
 sso
 www.werkplek
@@ -463,6 +465,7 @@ ens
 mijndesktop
 git
 persberichten
+mm
 sharepoint
 start
 videobellen
@@ -589,7 +592,6 @@ efactuur
 relay
 webdav
 webformulieren
-www.jongin
 router
 klantportaal.acc
 prod
@@ -617,7 +619,6 @@ online
 neuron
 stats
 aov
-authenticatie
 handhavingtest
 open-formulieren
 validsign
@@ -691,7 +692,6 @@ dns
 emm
 fibt1
 fibt2.acc
-mm
 otp
 services.acc
 toestemming
@@ -1041,6 +1041,7 @@ idselect
 siem
 wozportaal
 ediensten
+gvonline
 testwerkplek
 pip-preproductie
 telefoon
@@ -1062,6 +1063,7 @@ veilig
 www.eloket
 hybrid1
 hybrid2
+www.cryptshare
 brk
 www.woz
 liber
@@ -1129,6 +1131,7 @@ www.jcc
 mijnwerkplek
 mijnpost
 return
+analytics
 bibliotheek
 edison-opl
 www.bibliotheek
@@ -5486,7 +5489,6 @@ Autodiscover
 bgthvs
 bgtwdm
 energieloket
-gvonline
 mijnsociaalplein-acc
 vrijwilliger
 vrijwilligerin
@@ -5622,7 +5624,6 @@ outlook2
 spf
 test-digitaalgemeenteloket
 testservices
-www.cryptshare
 www.iobjecten-acc
 www.itstore
 www.ssp
@@ -6575,7 +6576,6 @@ squit2go-test
 taxivooriedereen
 timetell
 afspraak-test
-analytics
 berichten-test
 cloudconnector-test
 cloudconnector
@@ -7725,3 +7725,14 @@ secure1ev
 secure1t
 adviesraad
 www.adviesraad
+e-formulieren
+ftpes
+office
+planning
+portal.office.com
+secure2
+spamfilter
+testsim
+westmaasenwaal007.simgroephosting04.nl
+wmw-vvc02
+www.wmw-vvc02
