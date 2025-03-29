@@ -21,8 +21,8 @@ felix
 loket
 formulieren
 test
-eloket
 werkplek
+eloket
 dkd
 open
 meldingen
@@ -46,15 +46,15 @@ gemeenteraad
 iparticipatie
 belastingen
 testeloket
+openpdc
 enterpriseenrollment
 dacceptatieloket
 dacceptatiemidoffice
-openpdc
+openpub
 dloket
 dmidoffice
 data
 test-ipa
-openpub
 osb
 belastingbalie
 enterpriseregistration
@@ -87,13 +87,13 @@ osbacc
 digikoppeling.test
 parkeren-acc
 belastingloket
+connect
 portaal
 piwik
 snelbalie
 duurzaam
 preprod
 obsurv
-connect
 test-intranet
 pki
 www.webmail
@@ -132,6 +132,7 @@ transfer
 smtp
 afvalkalender
 snelbaliepp
+api.betalen
 apps
 openzaak
 auth
@@ -155,7 +156,6 @@ preprodbroker
 college
 web
 jcc
-api.betalen
 ftp
 bgt
 notificaties
@@ -172,6 +172,7 @@ evenementen
 kennisbank
 simform
 gisib
+preprod-mijn
 izaaksuite
 veiligdelen
 wachtwoord
@@ -196,7 +197,6 @@ m
 filetransfer
 website
 mijnzorg-acc
-preprod-mijn
 subsidies-backend
 melddesk
 thuiswerken
@@ -280,6 +280,7 @@ subsidies.acceptatie
 diensten
 api.openstad
 dkd-test
+exchange
 gemeentearchief
 ro-online
 www.duurzaam
@@ -331,12 +332,12 @@ mijn-acc
 ns2
 smtp1
 smtp2
+werken
 loket.test
 midoffice
 toegang
 sociaaldomein
 stadsarchief
-exchange
 mijnoverzicht
 rpl3
 wion
@@ -414,7 +415,6 @@ git
 persberichten
 sharepoint
 start
-werken
 koppelvlak
 social
 www.mijn
@@ -1024,6 +1024,7 @@ smtp20
 www.afspraakmaken
 www.jcc
 mijnwerkplek
+digitalebelastingbalie
 camera
 pdc.test
 a-cms
@@ -6561,7 +6562,6 @@ analytics
 berichten-test
 cloudconnector-test
 cloudconnector
-digitalebelastingbalie
 emagazine2030
 foto-bo
 keerpunt
@@ -7130,3 +7130,9 @@ tnz-park-01
 tnz-park-02
 tnz-rad-01
 co2monitor
+digitalebelastingbalie-test
+mail.digikoppeling
+mijntexeltest
+mozardproductie
+pbx
+subsidiebeleidskaart

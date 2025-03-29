@@ -164,6 +164,7 @@ http://autodiscover.stadspartij.nijmegen.nl
 http://autodiscover.stadspartijdnf.nijmegen.nl
 http://autodiscover.stedebroec.nl
 http://autodiscover.terneuzen.nl
+http://autodiscover.texel.nl
 http://autodiscover.vsp.nijmegen.nl
 http://autodiscover.vvd.mookenmiddelaar.nl
 http://autodiscover.vvd.nijmegen.nl
@@ -980,6 +981,7 @@ https://api.betalen.nissewaard.nl
 https://api.betalen.smallingerland.nl
 https://api.betalen.stadskanaal.nl
 https://api.betalen.steenwijkerland.nl
+https://api.betalen.texel.nl
 https://api.data.amsterdam.nl
 https://api.dataportaal.amsterdam.nl
 https://api.denhaag.nl
@@ -1462,6 +1464,7 @@ https://betalen.scherpenzeel.nl
 https://betalen.smallingerland.nl
 https://betalen.stadskanaal.nl
 https://betalen.steenwijkerland.nl
+https://betalen.texel.nl
 https://betalenaan.oirschot.nl
 https://betalingen.amsterdam.nl
 https://beugen.landvancuijk.nl
@@ -1937,6 +1940,8 @@ https://digitaalgemeenteloket.alphenaandenrijn.nl
 https://digitaalgemeenteloket.kaagenbraassem.nl
 https://digitaalvergaderen.soest.nl
 https://digitalebalie.rotterdam.nl
+https://digitalebelastingbalie-test.texel.nl
+https://digitalebelastingbalie.texel.nl
 https://digitaleplannen.apeldoorn.nl
 https://digiwap.rotterdam.nl
 https://dijkenwaard.nl
@@ -3196,6 +3201,7 @@ https://iburgerzaken.someren.nl
 https://iburgerzaken.sonenbreugel.nl
 https://iburgerzaken.staphorst.nl
 https://iburgerzaken.stichtsevecht.nl
+https://iburgerzaken.texel.nl
 https://ict.gemeentesluis.nl
 https://id-beheer-erfpacht-acc.amsterdam.nl
 https://id-beheer-erfpacht-dev.amsterdam.nl
@@ -3374,6 +3380,7 @@ https://intranet.sittard-geleen.nl
 https://intranet.staphorst.nl
 https://intranet.sudwestfryslan.nl
 https://intranet.terneuzen.nl
+https://intranet.texel.nl
 https://intranet2.steenwijkerland.nl
 https://intranetacc.apeldoorn.nl
 https://intranetcms-acc.bergendal.nl
@@ -3730,6 +3737,7 @@ https://loket.smallingerland.nl
 https://loket.steenwijkerland.nl
 https://loket.test.aalsmeer.nl
 https://loket.test.amstelveen.nl
+https://loket.texel.nl
 https://loonopzand.nl
 https://losser.nl
 https://lvs.hellendoorn.nl
@@ -4000,6 +4008,7 @@ https://mijn.sittard-geleen.nl
 https://mijn.soest.nl
 https://mijn.stichtsevecht.nl
 https://mijn.test.oss.nl
+https://mijn.texel.nl
 https://mijnaanvraagzi.beuningen.nl
 https://mijnacc.montfoort.nl
 https://mijnafspraak.scherpenzeel.nl
@@ -4086,6 +4095,7 @@ https://mijnsubsidies.tst.amsterdam.nl
 https://mijntalent-acc.gennep.nl
 https://mijntalent.gennep.nl
 https://mijntalentcenter.gemeentehulst.nl
+https://mijntexeltest.texel.nl
 https://mijnuitkering.emmen.nl
 https://mijnuitkering.nissewaard.nl
 https://mijnwijkteam.schagen.nl
@@ -4154,6 +4164,7 @@ https://mozard.bunnik.nl
 https://mozard.gooisemeren.nl
 https://mozard.schiermonnikoog.nl
 https://mozard.terschelling.nl
+https://mozardproductie.texel.nl
 https://mozardtest.ameland.nl
 https://mozardtest.bunnik.nl
 https://mozardtest.gooisemeren.nl
@@ -4525,6 +4536,7 @@ https://openpdc.rijssen-holten.nl
 https://openpdc.rozendaal.nl
 https://openpdc.s-hertogenbosch.nl
 https://openpdc.stedebroec.nl
+https://openpdc.texel.nl
 https://openpdckb.stedebroec.nl
 https://openpub.acc.stichtsevecht.nl
 https://openpub.albrandswaard.nl
@@ -4551,6 +4563,7 @@ https://openpub.s-hertogenbosch.nl
 https://openpub.sittard-geleen.nl
 https://openpub.stichtsevecht.nl
 https://openpub.test.stichtsevecht.nl
+https://openpub.texel.nl
 https://openpubkb.stedebroec.nl
 https://openstad.deventer.nl
 https://openstad.enschede.nl
@@ -4853,6 +4866,7 @@ https://preprod-mijn.hollandskroon.nl
 https://preprod-mijn.noordwijk.nl
 https://preprod-mijn.ridderkerk.nl
 https://preprod-mijn.sudwestfryslan.nl
+https://preprod-mijn.texel.nl
 https://preprod-mijninkomen.beverwijk.nl
 https://preprod-mijninkomen.defryskemarren.nl
 https://preprod-mijninkomen.denhelder.nl
@@ -5535,6 +5549,7 @@ https://subsidie.maassluis.nl
 https://subsidiebackoffice.acceptatie.dordrecht.nl
 https://subsidiebackoffice.dordrecht.nl
 https://subsidiebeheer.alkmaar.nl
+https://subsidiebeleidskaart.texel.nl
 https://subsidieloket-acc.midden-groningen.nl
 https://subsidieloket-backend-acc.midden-groningen.nl
 https://subsidieloket-backend.midden-groningen.nl
@@ -5788,6 +5803,7 @@ https://testwozloket.borger-odoorn.nl
 https://testwww.rucphen.nl
 https://testzaken.haarlemmermeer.nl
 https://testzaken.meierijstad.nl
+https://texel.nl
 https://themawebsite.hoorn.nl
 https://thic.denhaag.nl
 https://this010.rotterdam.nl
@@ -6753,6 +6769,7 @@ https://www.suikerkwartier.groningen.nl
 https://www.terneuzen.nl
 https://www.terschelling.nl
 https://www.test.denhaag.nl
+https://www.texel.nl
 https://www.thuiswinkelen.landvancuijk.nl
 https://www.toegankelijk.enschede.nl
 https://www.toerisme.groningen.nl
