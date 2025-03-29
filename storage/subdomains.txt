@@ -30,12 +30,12 @@ meldingen
 open
 geo
 ruimtelijkeplannen
+afspraak
 vpn
 api.meldingen
 raad
 parkeren
 waarmerk
-afspraak
 adfs
 betalen
 pv
@@ -47,15 +47,15 @@ gemeenteraad
 enterpriseenrollment
 testeloket
 test-ipa
+belastingen
 dacceptatieloket
 dacceptatiemidoffice
 data
-belastingen
+openpdc
 dloket
 dmidoffice
-openpdc
-belastingbalie
 openpub
+belastingbalie
 omgevingsvisie
 enterpriseregistration
 loket.acceptatie
@@ -80,17 +80,19 @@ parkeren-acc
 kaarten
 extranet
 mks
+test-intranet
 denkmee
 financien
 digikoppeling.test
 acc-broker
 belastingloket
-test-intranet
 samen
 dtestloket
 portaal
 osbacc
+cmsintranet
 connect
+test-cmsintranet
 pki
 mijnzorg
 verkiezingen
@@ -98,10 +100,9 @@ piwik
 snelbalie
 duurzaam
 preprod
+siam
 apps
 gemeente
-cmsintranet
-test-cmsintranet
 doemee
 squit2go
 www.webmail
@@ -111,7 +112,6 @@ vergunningintaker
 mijninkomen
 parkeren-test
 afvalkalender
-siam
 bastion365
 obsurv
 begroting
@@ -183,7 +183,9 @@ objecttypen
 openklant
 connect.acceptatie
 inproces
+inloggen
 ro
+outlook
 testloket
 _dmarc
 m
@@ -209,8 +211,6 @@ intranet-acc
 jccapi
 mijnsociaalplein
 preprod-mijnsociaalplein
-inloggen
-outlook
 bestuur
 bestanden
 afspraakmaken
@@ -243,6 +243,7 @@ belastingbalie-test
 mx1
 mx2
 contact
+geoportaal
 handhaving
 mijnsociaaldomein
 cms
@@ -286,7 +287,6 @@ ondernemersloket
 topdesk
 sport
 jongin
-geoportaal
 en
 sbc01
 download
@@ -329,6 +329,7 @@ uca
 wifi
 digikoppelingtest
 beeldbankbeheer
+cloud
 www.gemeenteraad
 extern
 mam
@@ -348,6 +349,7 @@ eformulieren
 woz-portaal
 www.intranet
 aeolus
+stemvan
 www.samen
 cloudadapter-prod
 bezoekersparkeren
@@ -401,8 +403,8 @@ zorg
 klimaatplein
 mijnsociaalportaal-acc
 mijnsociaalportaal
+esb
 radius
-cloud
 csc
 mbg1
 www.doemee
@@ -439,7 +441,6 @@ raadsinformatie
 duo
 e.openstad
 mijnuitkering
-stemvan
 gbionline
 hpdm
 gateway
@@ -519,7 +520,6 @@ sentry
 intranetcms-acc
 acceptatieloket
 live
-esb
 identity
 zorgmail
 liquitsatellite
@@ -562,6 +562,7 @@ www.cjg
 cloudadapter-t
 vsp
 allegroweb
+haven
 intra
 mijnloket
 wij
@@ -573,6 +574,7 @@ preprodgdintaker
 preprodscbroker
 scbroker
 www.financielestukken
+parkeeracties
 parkeren-siam-test
 parkeren-siam
 preprod-sociaalportaal
@@ -661,6 +663,7 @@ cca-acc
 cca
 wmoloket
 digitalebelastingbalie
+service
 a-feeds
 a-magazines
 a-opendata
@@ -718,6 +721,7 @@ nac
 apex
 eloketstaging
 formulier-test
+indienst
 ingesprek
 kavels
 leef
@@ -919,7 +923,6 @@ binnenstad
 cms.openstad
 devapps3
 forms
-haven
 pop
 staging
 www.staging
@@ -927,7 +930,7 @@ zorgaanbieders
 geodata-acc
 gisweb
 micc
-parkeeracties
+parkeeracties-test
 site
 serverruimte
 centric
@@ -974,6 +977,7 @@ begroting2018
 begroting2020
 campus
 economie
+esb-test
 mijngkb
 myprint
 ows-app
@@ -1098,6 +1102,7 @@ regieportaal
 zorg-acc
 portaaltest
 mymeeting
+scep
 login-pre
 services-test
 exch
@@ -1120,7 +1125,6 @@ www.jcc
 mijnwerkplek
 mijnpost
 return
-service
 bibliotheek
 edison-opl
 www.bibliotheek
@@ -2478,7 +2482,6 @@ hout
 ikbouwmijnhuisin
 ikonderneemin
 ikzoekeenhuis
-indienst
 inkoopplein
 kavelwinkel
 leef-acc
@@ -4518,7 +4521,6 @@ apps-vdi
 hetsociaalplein-acc
 hetsociaalplein
 kijk
-parkeeracties-test
 training
 felixpdc
 menscentraal
@@ -4877,7 +4879,6 @@ dwh-test
 dwh
 eemsdelta
 esb-prod
-esb-test
 fairtrade
 fietsen
 fleximap
@@ -6067,7 +6068,6 @@ filter
 flowise
 ggs2-adapter
 orbit
-scep
 squitxo-server-service
 test-cmssocial
 test-social
@@ -7690,3 +7690,10 @@ wadelse
 wadelsecms-acc
 wadelsecms
 wdvggm
+appconnect
+bereikbaar
+intranetprod
+parkeerbalie-test
+parkeerbalie
+siam-test
+test-belastingen

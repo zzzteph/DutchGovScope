@@ -758,6 +758,7 @@ afspraak.veendam.nl
 afspraak.veenendaal.nl
 afspraak.vijfheerenlanden.nl
 afspraak.vlaardingen.nl
+afspraak.wageningen.nl
 afspraakformulier.nissewaard.nl
 afspraakmaken.dronten.nl
 afspraakmaken.enschede.nl
@@ -1200,6 +1201,7 @@ app7-accp.nijmegen.nl
 app8.nijmegen.nl
 app9.nijmegen.nl
 appapi.montferland.info
+appconnect.wageningen.nl
 appl.gw.rotterdam.nl
 appl03.schiedam.nl
 applicaties.amsterdam.nl
@@ -1571,6 +1573,7 @@ autodiscover.vvd.nijmegen.nl
 autodiscover.waadhoeke.nl
 autodiscover.waalre.nl
 autodiscover.waalwijk.nl
+autodiscover.wageningen.nl
 autodiscover.wij.groningen.nl
 automator.borne.nl
 automator.haarlemmermeer.nl
@@ -1902,6 +1905,7 @@ belastingen.soest.nl
 belastingen.stadskanaal.nl
 belastingen.sudwestfryslan.nl
 belastingen.venray.nl
+belastingen.wageningen.nl
 belastingloket-test.vijfheerenlanden.nl
 belastingloket.acc.emmen.nl
 belastingloket.barneveld.nl
@@ -1944,6 +1948,7 @@ belastingpraktijkonline.groningen.nl
 belastingtest.middendrenthe.nl
 beleidsatlas.rotterdam.nl
 belevingsroute.gooisemeren.nl
+bereikbaar.wageningen.nl
 bereikbaarheid.amsterdam.nl
 bereikbaarnieuwvennep.haarlemmermeer.nl
 bereikbarestad-acc.denhaag.nl
@@ -2434,6 +2439,7 @@ cloud.beverwijk.nl
 cloud.buren.nl
 cloud.midden-groningen.nl
 cloud.nissewaard.nl
+cloud.wageningen.nl
 cloudadapter-gemnet-p.lopik.nl
 cloudadapter-gemnet-t.lopik.nl
 cloudadapter-p.denhelder.nl
@@ -2538,6 +2544,7 @@ cmsintranet.steenwijkerland.nl
 cmsintranet.sudwestfryslan.nl
 cmsintranet.velsen.nl
 cmsintranet.venlo.nl
+cmsintranet.wageningen.nl
 cmsjip.hofvantwente.nl
 cmsjip.vijfheerenlanden.nl
 cmsmarkt1.nunspeet.nl
@@ -3340,6 +3347,7 @@ dkd.veldhoven.nl
 dkd.venlo.nl
 dkd.voorst.nl
 dkd.vught.nl
+dkd.wageningen.nl
 dkde-vold21.gemeente-oldambt.nl
 dkdn.epe.nl
 dkdservice-test.meppel.nl
@@ -3770,6 +3778,7 @@ edienstenburgerzaken-test.voerendaal.nl
 edienstenburgerzaken-test.vught.nl
 edienstenburgerzaken-test.waadhoeke.nl
 edienstenburgerzaken-test.waalre.nl
+edienstenburgerzaken-test.wageningen.nl
 edienstenburgerzaken.aalsmeer.nl
 edienstenburgerzaken.aalten.nl
 edienstenburgerzaken.acc.denhaag.nl
@@ -3883,6 +3892,7 @@ edienstenburgerzaken.voerendaal.nl
 edienstenburgerzaken.vught.nl
 edienstenburgerzaken.waadhoeke.nl
 edienstenburgerzaken.waalre.nl
+edienstenburgerzaken.wageningen.nl
 edienstenmijninkomen-acceptatie.albrandswaard.nl
 edienstenmijninkomen-acceptatie.barendrecht.nl
 edienstenmijninkomen-acceptatie.ridderkerk.nl
@@ -4167,9 +4177,11 @@ esb-gm-tst.maassluis.nl
 esb-nhr.hellevoetsluis.nl
 esb-prod.groningen.nl
 esb-test.groningen.nl
+esb-test.wageningen.nl
 esb.bergenopzoom.nl
 esb.breda.nl
 esb.someren.nl
+esb.wageningen.nl
 esbacc.breda.nl
 esbt.bergenopzoom.nl
 escaperoom.kampen.nl
@@ -4879,6 +4891,7 @@ geoportaal.katwijk.nl
 geoportaal.oss.nl
 geoportaal.test.oss.nl
 geoportaal.waalwijk.nl
+geoportaal.wageningen.nl
 geoportaaltest.enschede.nl
 geoportaaltest.haarlemmermeer.nl
 geoprdb.stadstoezicht.amsterdam.nl
@@ -5207,6 +5220,7 @@ haven.acc.sittard-geleen.nl
 haven.deventer.nl
 haven.sittard-geleen.nl
 haven.tst.sittard-geleen.nl
+haven.wageningen.nl
 havenkwartieraanzet.denhaag.nl
 hba.dpg.amsterdam.nl
 hcr.vlaardingen.nl
@@ -5560,6 +5574,7 @@ iburgerzaken.vught.nl
 iburgerzaken.waalre.nl
 iburgerzaken.waalwijk.nl
 iburgerzaken.waddinxveen.nl
+iburgerzaken.wageningen.nl
 ibzpink.aaenhunze.nl
 ibzpink.achtkarspelen.nl
 ibzpink.almelo.nl
@@ -5710,6 +5725,7 @@ ibzpink.vught.nl
 ibzpink.waalre.nl
 ibzpink.waalwijk.nl
 ibzpink.waddinxveen.nl
+ibzpink.wageningen.nl
 ice.nijmegen.nl
 icm-ast.asten.nl
 ict.gemeentesluis.nl
@@ -5823,6 +5839,7 @@ impactmeter.kampen.nl
 import.regiomonitor-acc.oosterhout.nl
 indica-acc.amsterdam.nl
 indienst.almere.nl
+indienst.wageningen.nl
 info.sudwestfryslan.nl
 infonet.eijsden-margraten.nl
 infoopkaart.steenwijkerland.nl
@@ -5862,6 +5879,7 @@ inloggen.meierijstad.nl
 inloggen.mijnsubsidie.eindhoven.nl
 inloggen.mijnsubsidie.test.eindhoven.nl
 inloggen.oldenzaal.nl
+inloggen.wageningen.nl
 inloggenapv-preprod.hellendoorn.nl
 inloggenapv.hellendoorn.nl
 inproces-digeplan-acc.overbetuwe.nl
@@ -6056,6 +6074,7 @@ intranet.voerendaal.nl
 intranet.waadhoeke.nl
 intranet.waalwijk.nl
 intranet.waddinxveen.nl
+intranet.wageningen.nl
 intranet2.steenwijkerland.nl
 intranetacc.apeldoorn.nl
 intranetacceptatie.kampen.nl
@@ -6070,6 +6089,7 @@ intranetcms.midden-groningen.nl
 intranetcms.nissewaard.nl
 intranetcms.waalwijk.nl
 intranetdekompanjie.veendam.nl
+intranetprod.wageningen.nl
 intranettest.krimpenerwaard.nl
 intratest.gouda.nl
 intraweb.nederbetuwe.nl
@@ -6962,6 +6982,7 @@ mail.voorschoten.nl
 mail.vught.nl
 mail.waalre.nl
 mail.waalwijk.nl
+mail.wageningen.nl
 mail01.bodegraven-reeuwijk.nl
 mail1.amersfoort.nl
 mail1.groningen.nl
@@ -8339,6 +8360,7 @@ openpdc.s-hertogenbosch.nl
 openpdc.stedebroec.nl
 openpdc.texel.nl
 openpdc.waddinxveen.nl
+openpdc.wageningen.nl
 openpdckb.stedebroec.nl
 openpub.acc.stichtsevecht.nl
 openpub.albrandswaard.nl
@@ -8367,6 +8389,7 @@ openpub.stichtsevecht.nl
 openpub.test.stichtsevecht.nl
 openpub.texel.nl
 openpub.waddinxveen.nl
+openpub.wageningen.nl
 openpubkb.stedebroec.nl
 openstad.deventer.nl
 openstad.emmen.nl
@@ -8484,6 +8507,7 @@ outlook.kaagenbraassem.nl
 outlook.meerssen.nl
 outlook.roerdalen.nl
 outlook.sittard-geleen.nl
+outlook.wageningen.nl
 outlook2.kaagenbraassem.nl
 outlook3.denhaag.nl
 overbetuwe.nl
@@ -8533,12 +8557,16 @@ papendrecht-checker.papendrecht.nl
 papendrecht.nl
 parkeerabonnementen.breda.nl
 parkeeracties-test.dijkenwaard.nl
+parkeeracties-test.wageningen.nl
 parkeeracties.dijkenwaard.nl
 parkeeracties.valkenswaard.nl
+parkeeracties.wageningen.nl
 parkeerapp.acc.denhaag.nl
 parkeerapp.acc.utrecht.nl
 parkeerapp.denhaag.nl
 parkeerapp.utrecht.nl
+parkeerbalie-test.wageningen.nl
+parkeerbalie.wageningen.nl
 parkeerbelasting.amsterdam.nl
 parkeerhandhaving.utrecht.nl
 parkeerhandhavingtest.utrecht.nl
@@ -9773,6 +9801,7 @@ scbroker.ouder-amstel.nl
 scbroker.uithoorn.nl
 sccmmp.haarlem.nl
 scep.montferland.info
+scep.wageningen.nl
 schagen.nl
 schemas.data.amsterdam.nl
 scherpenzeel.nl
@@ -9933,6 +9962,7 @@ serverruimte.dinkelland.nl
 serverruimte.tubbergen.nl
 service.roerdalen.nl
 service.vlaardingen.nl
+service.wageningen.nl
 service01-acceptatie.eijsden-margraten.nl
 service01.eijsden-margraten.nl
 service02-acceptatie.eijsden-margraten.nl
@@ -10004,6 +10034,7 @@ shvmonitor.amsterdam.nl
 sia-tm.acc.amsterdam.nl
 sia-tm.amsterdam.nl
 sia.amsterdam.nl
+siam-test.wageningen.nl
 siam.ameland.nl
 siam.beverwijk.nl
 siam.bunnik.nl
@@ -10017,6 +10048,7 @@ siam.schiermonnikoog.nl
 siam.terschelling.nl
 siam.veenendaal.nl
 siam.vlieland.nl
+siam.wageningen.nl
 siamtest.bunnik.nl
 siamtest.veenendaal.nl
 sibp01.lelystad.nl
@@ -10614,6 +10646,7 @@ stemvan.emmen.nl
 stemvan.groningen.nl
 stemvan.midden-groningen.nl
 stemvan.opsterland.nl
+stemvan.wageningen.nl
 stevensbeek.landvancuijk.nl
 sthbcp02.alkmaar.nl
 stichtsevecht.nl
@@ -10869,6 +10902,7 @@ terneuzen.nl
 terschelling.nl
 test-2secure.gulpen-wittem.nl
 test-belastingbalie.eindhoven.nl
+test-belastingen.wageningen.nl
 test-belastingloket.purmerend.nl
 test-bink.beverwijk.nl
 test-binnenshuis.bergen.nl
@@ -10893,6 +10927,7 @@ test-cmsintranet.steenwijkerland.nl
 test-cmsintranet.sudwestfryslan.nl
 test-cmsintranet.velsen.nl
 test-cmsintranet.venlo.nl
+test-cmsintranet.wageningen.nl
 test-cmsjip.vijfheerenlanden.nl
 test-cmsnopnet.noordoostpolder.nl
 test-cmssamenatwork.stichtsevecht.nl
@@ -10949,6 +10984,7 @@ test-intranet.steenwijkerland.nl
 test-intranet.sudwestfryslan.nl
 test-intranet.velsen.nl
 test-intranet.venlo.nl
+test-intranet.wageningen.nl
 test-ipa.achtkarspelen.nl
 test-ipa.beesel.nl
 test-ipa.coevorden.nl
@@ -11853,6 +11889,7 @@ wadelse-acc.waddinxveen.nl
 wadelse.waddinxveen.nl
 wadelsecms-acc.waddinxveen.nl
 wadelsecms.waddinxveen.nl
+wageningen.nl
 wandelen.groningen.nl
 wandelroutes.landvancuijk.nl
 wanroij.landvancuijk.nl
@@ -12032,6 +12069,7 @@ webmail.velsen.nl
 webmail.voerendaal.nl
 webmail.voorst.nl
 webmail.waalwijk.nl
+webmail.wageningen.nl
 webmail.west.amsterdam.nl
 webmail.zuidoost.amsterdam.nl
 webmail2.heusden.nl
@@ -13378,6 +13416,7 @@ www.waalwijk.nl
 www.wadden.groningen.nl
 www.waddenland.groningen.nl
 www.waddinxveen.nl
+www.wageningen.nl
 www.wandelen.groningen.nl
 www.wandelroutes.landvancuijk.nl
 www.warenhuis.groningen.nl
