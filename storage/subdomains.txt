@@ -24,10 +24,10 @@ formulieren
 eloket
 werkplek
 dkd
+acc
 open
 meldingen
 portal
-acc
 geo
 api.meldingen
 raad
@@ -226,12 +226,14 @@ xential
 _autodiscover._tcp
 bor
 vth
+bestuur
 acceptatie-open
 contact
 cms
 servicedesk
 academie
 api
+mta-sts
 rap
 services
 webservices
@@ -264,7 +266,6 @@ burgerloket
 ondernemersloket
 archief
 sport
-bestuur
 jongin
 bestanden
 mx1
@@ -272,7 +273,6 @@ en
 handhaving
 mijnsociaaldomein
 download
-mta-sts
 ns2
 zoeken
 participatie
@@ -711,6 +711,7 @@ redactie
 aanmeldenparkeren
 acc-nieuwsbrief
 acc.meldingen
+afs
 api.acc.meldingen
 api.data
 applicaties
@@ -977,6 +978,7 @@ mijn-preproductie
 preprod-mijnsociaaldomein
 subsidies-backend-test
 subsidies-test
+bzg1
 key2datadistributie
 tripleforms
 ubwprod
@@ -2613,7 +2615,6 @@ admin.data
 admin.schoolwijzer
 adus
 afs.acc
-afs
 afs.ont
 afs.opl
 afs.tst
@@ -5286,7 +5287,6 @@ acc-tripleforms
 api.heitje
 api.melding.acc
 api.melding
-bzg1
 camera-mkr
 casarray
 digitaal-test
@@ -7490,3 +7490,9 @@ timtotalmobile-test
 tslogin
 vicrea
 www.cars
+digid-prod
+digilevering
+hcs01
+hcs02
+kgs01
+webpublishing

@@ -793,6 +793,7 @@ https://acc.straatnotes.amsterdam.nl
 https://acc.subsidie.leiden.nl
 https://acc.ton.amsterdam.nl
 https://acc.top.amsterdam.nl
+https://acc.vaals.nl
 https://acc.vt.data.amsterdam.nl
 https://acc.wonen.zaken.amsterdam.nl
 https://acc.woz-loket.harlingen.nl
@@ -982,6 +983,7 @@ https://afspraken.reimerswaal.nl
 https://afspraken.someren.nl
 https://afspraken.tholen.nl
 https://afspraken.tynaarlo.nl
+https://afspraken.vaals.nl
 https://afspraken2.gorinchem.nl
 https://afval.assen.nl
 https://afval.diemen.nl
@@ -3574,6 +3576,7 @@ https://iburgerzaken.twenterand.nl
 https://iburgerzaken.tynaarlo.nl
 https://iburgerzaken.uithoorn.nl
 https://iburgerzaken.urk.nl
+https://iburgerzaken.vaals.nl
 https://ict.gemeentesluis.nl
 https://id-beheer-erfpacht-acc.amsterdam.nl
 https://id-beheer-erfpacht-dev.amsterdam.nl
@@ -4678,6 +4681,7 @@ https://mta-sts.pop.deventer.nl
 https://mta-sts.raad.duiven.nl
 https://mta-sts.raad.terneuzen.nl
 https://mta-sts.terneuzen.nl
+https://mta-sts.vaals.nl
 https://mul-mbc.belastingdienst.nl
 https://mul-mkt.belastingdienst.nl
 https://mul-redirect.belastingdienst.nl
@@ -6719,6 +6723,7 @@ https://urknet.urk.nl
 https://uwdorpofwijk.alphenaandenrijn.nl
 https://uwmening.denhaag.nl
 https://v2.openstad.haarlemmermeer.nl
+https://vaals.nl
 https://vaarkaart.bba.amsterdam.nl
 https://vaarvergunningen.amsterdam.nl
 https://vaarvergunningen.nieuwkoop.nl
@@ -7681,6 +7686,7 @@ https://www.uithoorn.nl
 https://www.utrecht.nl
 https://www.uwdorpofwijk.alphenaandenrijn.nl
 https://www.v2.openstad.haarlemmermeer.nl
+https://www.vaals.nl
 https://www.vaarvergunningen.nieuwkoop.nl
 https://www.veenkolonien.groningen.nl
 https://www.vga.amsterdam.nl
