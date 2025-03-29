@@ -12,9 +12,9 @@ mail
 simsite
 afspraken
 digikoppeling
+simcms
 preproductie
 secure
-simcms
 acceptatie
 felix
 probeer
@@ -27,16 +27,16 @@ dkd
 acc
 portal
 waarmerk
+meldingen
 open
 geo
-meldingen
 afspraak
 adfs
 vpn
+api.meldingen
 ruimtelijkeplannen
 raad
 parkeren
-api.meldingen
 betalen
 broker
 iparticipatie
@@ -61,11 +61,11 @@ loket.acceptatie
 remote
 omgevingsvisie
 enterpriseregistration
+api.meldingen-acc
+meldingen-acc
 osb
 login
 cloudadapter-test
-api.meldingen-acc
-meldingen-acc
 digikoppeling-test
 zaken
 flowmailer-tracking
@@ -94,6 +94,8 @@ samen
 verkiezingen
 osbacc
 piwik
+duurzaam
+klantcontact
 test-cmsintranet
 doemee
 squit2go
@@ -101,13 +103,11 @@ pki
 filecap
 mijnzorg
 snelbalie
-duurzaam
 preprod
 siam
 apps
 gemeente
 bastion365
-klantcontact
 www.webmail
 dtestmidoffice
 e
@@ -223,6 +223,7 @@ mijnsociaalplein
 preprod-mijnsociaalplein
 mobile
 _autodiscover._tcp
+bor
 belastingbalie-test
 bestanden
 mx1
@@ -248,7 +249,6 @@ formulieren-test
 data-test
 xential
 key2gbav
-bor
 archief
 vth
 acceptatie-open
@@ -278,6 +278,7 @@ mozardtest
 bewustwording
 magazine
 ns
+wion
 www.test
 parkeervergunningen
 desktop
@@ -325,7 +326,6 @@ subsidies-backend.acceptatie
 subsidies.acceptatie
 dkd-test
 www.duurzaam
-wion
 atlas
 app
 beheer
@@ -417,6 +417,7 @@ mijnsociaalportaal-acc
 mijnsociaalportaal
 esb
 radius
+tim
 csc
 mbg1
 wozloket
@@ -468,6 +469,8 @@ cars
 mijnsociaaldomein-acc
 prefill
 gemeentewinkel
+corsa-prod
+corsa-test
 awmail
 awseg
 awtunnel
@@ -546,9 +549,9 @@ identity
 zorgmail
 liquitsatellite
 preprod.vergunningintaker
-tim
 testcms-intranet
 digid-parkeervergunningen
+simcms-duurzaam
 elokettest
 wmo
 testformulieren
@@ -673,8 +676,6 @@ hta
 wonen
 ews
 www.belastingloket
-corsa-prod
-corsa-test
 prtg
 duoloket
 gt-loket
@@ -872,7 +873,6 @@ acc-openwave
 corona
 key2financien-prod
 key2financien-test
-simcms-duurzaam
 admin.doemee
 api.doemee
 auth.doemee
@@ -7847,3 +7847,6 @@ wwcs02.ad
 wwex02.ad
 wwfortimail01.ad
 wwng01
+PKIoverheid
+goedendag
+pkioverheid
