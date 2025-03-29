@@ -46,10 +46,10 @@ gemeenteraad
 iparticipatie
 belastingen
 testeloket
+enterpriseenrollment
 dacceptatieloket
 dacceptatiemidoffice
 openpdc
-enterpriseenrollment
 dloket
 dmidoffice
 data
@@ -114,6 +114,7 @@ mijnzorg
 parkeren-test
 subsidies
 preprod-mijninkomen
+siam
 qr
 nieuwsbrief
 acc-mijn
@@ -131,7 +132,6 @@ transfer
 smtp
 afvalkalender
 snelbaliepp
-siam
 apps
 openzaak
 auth
@@ -283,6 +283,8 @@ dkd-test
 gemeentearchief
 ro-online
 www.duurzaam
+mozard
+mozardtest
 ns
 atlas
 app
@@ -337,8 +339,6 @@ stadsarchief
 exchange
 mijnoverzicht
 rpl3
-mozard
-mozardtest
 wion
 edison
 octopus
@@ -400,6 +400,7 @@ test.digikoppeling
 admin.openstad
 auth.openstad
 img.openstad
+bestuur
 digitalebalie
 raadsinformatie
 e.openstad
@@ -431,6 +432,9 @@ veiligmailen
 planon
 ssp
 digitaalnachtregister
+test-zaakloket
+testsiam
+zaakloket
 activesync
 bewustwording
 crl
@@ -443,6 +447,7 @@ melding
 nieuwsbrieven
 ombudsman
 parkeervergunningen-acc
+regelgeving
 top
 www.ruimtelijkeplannen
 www.sport
@@ -514,7 +519,6 @@ intra
 wij
 winkelen
 www.openstad
-bestuur
 efactuur
 relay
 webdav
@@ -661,9 +665,6 @@ qr.testdigitaalgemeenteloket
 samenveiligwerken
 testdigitaalgemeenteloket
 www.centrumbegroot
-test-zaakloket
-testsiam
-zaakloket
 redactie
 aanmeldenparkeren
 acc.meldingen
@@ -686,7 +687,6 @@ octopus-portaal
 octopus-webdav
 ois
 parkeervergunningen.acc
-regelgeving
 rekenkamer
 sportverhuur
 stswigo4it-acc
@@ -750,6 +750,7 @@ testberichten
 aovpn
 helloid
 liquitsatellite
+tim
 joost
 wwwtest
 acc-openwave
@@ -3717,7 +3718,6 @@ bestie-stats
 bestie
 email.doemee
 nta7516
-tim
 tv
 zwembadabonnement
 cms-joost
@@ -7129,3 +7129,4 @@ tijdregistratie
 tnz-park-01
 tnz-park-02
 tnz-rad-01
+co2monitor
