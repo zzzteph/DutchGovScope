@@ -64,9 +64,9 @@ omgevingsvisie
 enterpriseregistration
 api.meldingen-acc
 meldingen-acc
+digikoppeling-test
 login
 cloudadapter-test
-digikoppeling-test
 zaken
 flowmailer-tracking
 kaart
@@ -78,10 +78,10 @@ hybrid
 berichten
 parkeren-acc
 govroam
+denkmee
 mks
 connect
 dtestloket
-denkmee
 extranet
 digikoppeling.test
 acc-broker
@@ -118,6 +118,7 @@ parkeren-test
 afvalkalender
 qr
 bgt
+sip
 woningbouwkaart
 obsurv
 contentbeheer
@@ -135,7 +136,6 @@ api.betalen
 nieuwsbrief
 acc-formulier
 acc-podiumd-logs
-sip
 sts
 jaarstukken
 smtp
@@ -148,6 +148,7 @@ acc-mijn
 acc-notificaties
 acc-objecten
 acc-objecttypen
+lyncdiscover
 owa
 connect.acceptatie
 inproces
@@ -170,7 +171,6 @@ acc-keycloak
 acc-openklant
 acc-openzaak
 keycloak
-lyncdiscover
 podiumd-logs
 meedoen
 contentbeheer.acceptatie
@@ -1144,6 +1144,7 @@ regieportaal
 zorg-acc
 apigateway
 apigateway2
+opentunnel
 portaaltest
 mymeeting
 scep
@@ -1166,6 +1167,9 @@ smtp20
 stwapp02
 talentenbank
 www.talentenbank
+psiam
+tloket
+tsiam
 kantoor
 www.jcc
 mijnwerkplek
@@ -6052,7 +6056,6 @@ mdjcc
 mdliquit
 mdmks
 mdtel01
-opentunnel
 opentunnel.test
 roel
 sportief
@@ -6379,9 +6382,6 @@ stwidocosw02
 stwmksoost01
 www.stempasfonds
 www.stwidocosw02
-psiam
-tloket
-tsiam
 LVOLO-PROD
 LVOLO-TEST
 im
