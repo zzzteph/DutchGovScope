@@ -43,8 +43,8 @@ zaaksysteem-accept
 werkenbij
 broker
 iparticipatie
-testeloket
 gemeenteraad
+testeloket
 enterpriseenrollment
 dacceptatieloket
 dacceptatiemidoffice
@@ -63,8 +63,8 @@ api.meldingen-acc
 meldingen-acc
 digikoppeling-test
 login
-loket.acceptatie
 cmsoo
+loket.acceptatie
 cloudadapter-test
 flowmailer-tracking
 formulier
@@ -117,6 +117,7 @@ simform
 preprod-mijninkomen
 afvalkalender
 qr
+apps
 nieuwsbrief
 acc-formulier
 acc-podiumd-logs
@@ -133,7 +134,6 @@ web
 subsidies
 snelbaliepp
 api.betalen
-apps
 acc-mijn
 acc-notificaties
 acc-objecten
@@ -186,12 +186,14 @@ ro
 testloket
 _dmarc
 m
+mta-sts
 kennisbank
 fs
 preprod-mijn
 veiligdelen
 wachtwoord
 geodata
+mail2
 onderzoek
 vdi
 telewerken
@@ -212,13 +214,11 @@ afspraakmaken
 www.portal
 magazines
 filetransfer
-mta-sts
 mijnzorg-acc
 bis
 subsidies-backend
 melddesk
 thuiswerken
-mail2
 sharefile
 www.acc
 woo
@@ -326,6 +326,7 @@ intranetcms
 uca
 wifi
 digikoppelingtest
+www.gemeenteraad
 extern
 mam
 erfgoed
@@ -401,7 +402,6 @@ radius
 beeldbankbeheer
 cloud
 www.doemee
-www.gemeenteraad
 wozloket
 jcccloud
 belastingportaal-test
@@ -438,6 +438,7 @@ hpdm
 gateway
 sso
 www.werkplek
+geoweb
 pip
 testdigikoppeling
 bezoekersparkeren
@@ -612,7 +613,6 @@ autodiscover.cda
 autodiscover.groenlinks
 autodiscover.pvda
 autodiscover.vvd
-geoweb
 ons
 acceptatie-intranet
 sera
@@ -759,6 +759,7 @@ image.acc-nieuwsbrief
 image.nieuwsbrief
 mas
 mft
+mijnbelastingen
 nlx
 octopus-portaal
 octopus-webdav
@@ -831,6 +832,7 @@ joost
 wwwtest
 acc-openwave
 corona
+key2financien-prod
 key2financien-test
 begraafplaatsen
 ondernemers
@@ -1071,7 +1073,9 @@ wonen
 koppelvlakken
 smartdoc
 clicksfm.persberichten
+gisportal
 parkeervergunning-test
+anyconnect
 bestuursrapportage
 parkeren.reserveren
 werkeninkomen-test
@@ -1102,6 +1106,7 @@ duoloket
 eformulieren-test
 helpmij
 telefonie
+test.open-formulieren
 smtp10
 smtp20
 www.afspraakmaken
@@ -3111,7 +3116,6 @@ meldingenweesp
 mft-fa
 microservices.schoolwijzer
 mijn.data
-mijnbelastingen
 mijnerfpacht.acc
 mijnerfpacht
 mijnerfpacht.tst
@@ -3816,7 +3820,6 @@ dusk-acc-openwave
 dusk-openwave
 frontoffice-parkeervergunningen-acc
 frontoffice-parkeervergunningen
-key2financien-prod
 mdr
 openwave
 rp
@@ -5829,7 +5832,6 @@ digikoppelingjnet
 ediensten-aanvragen
 flowmailer-tracking.parkeervergunning
 fortiguard
-gisportal
 gisportalnew
 goedterechtin
 meldingen-a
@@ -5848,7 +5850,6 @@ acc.easyfunders
 acc.login.subsidie
 acc.subsidie
 accept.subsites
-anyconnect
 api-dev.data
 api-portal-dev.data
 api-portal.data
@@ -6255,7 +6256,6 @@ pm
 sharenet
 test-cmsnopnet
 test-nopnet
-test.open-formulieren
 tportal
 zs
 zst
@@ -7654,3 +7654,10 @@ sl
 sltest
 smartdoctest
 zsnl
+cmsoo.wegwijsplus
+geodb
+mailptr
+preprod-mijnbelastingen
+saas
+wegwijsplus
+www.wegwijsplus

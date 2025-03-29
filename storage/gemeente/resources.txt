@@ -1003,6 +1003,7 @@ anva.vga.amsterdam.nl
 anvatest.vga.amsterdam.nl
 any2info.deurne.nl
 anyconnect.leiden.nl
+anyconnect.vught.nl
 anyware.pijnacker-nootdorp.nl
 aov.groningen.nl
 aov.helmond.nl
@@ -1222,6 +1223,7 @@ apps.team-sensrnet.cg-intern.acc.utrecht.nl
 apps.team-signalen.cg-intern.acc.utrecht.nl
 apps.team-utrecht.cg-intern.acc.utrecht.nl
 apps.tilburg.nl
+apps.vught.nl
 apv-broker.heuvelrug.nl
 apv-broker.preprod.heuvelrug.nl
 arbo-kwaliteit.rotterdam.nl
@@ -2541,6 +2543,8 @@ cmsoo.roermond.nl
 cmsoo.tiel.nl
 cmsoo.velsen.nl
 cmsoo.venray.nl
+cmsoo.vught.nl
+cmsoo.wegwijsplus.vught.nl
 cmssamenatwork.stichtsevecht.nl
 cmssocial.montferland.info
 cmssocialintranet.middendelfland.nl
@@ -3310,6 +3314,7 @@ dkd.tiel.nl
 dkd.veldhoven.nl
 dkd.venlo.nl
 dkd.voorst.nl
+dkd.vught.nl
 dkde-vold21.gemeente-oldambt.nl
 dkdn.epe.nl
 dkdservice-test.meppel.nl
@@ -3735,6 +3740,7 @@ edienstenburgerzaken-test.valkenburg.nl
 edienstenburgerzaken-test.veldhoven.nl
 edienstenburgerzaken-test.vijfheerenlanden.nl
 edienstenburgerzaken-test.voerendaal.nl
+edienstenburgerzaken-test.vught.nl
 edienstenburgerzaken.aalsmeer.nl
 edienstenburgerzaken.aalten.nl
 edienstenburgerzaken.acc.denhaag.nl
@@ -3845,6 +3851,7 @@ edienstenburgerzaken.valkenburg.nl
 edienstenburgerzaken.veldhoven.nl
 edienstenburgerzaken.vijfheerenlanden.nl
 edienstenburgerzaken.voerendaal.nl
+edienstenburgerzaken.vught.nl
 edienstenmijninkomen-acceptatie.albrandswaard.nl
 edienstenmijninkomen-acceptatie.barendrecht.nl
 edienstenmijninkomen-acceptatie.ridderkerk.nl
@@ -4530,6 +4537,7 @@ formulieren.veere.nl
 formulieren.veldhoven.nl
 formulieren.venlo.nl
 formulieren.vlaardingen.nl
+formulieren.vught.nl
 formulieren1.amsterdam.nl
 formulierenacc.breda.nl
 formulierenaccdirect.breda.nl
@@ -4732,6 +4740,7 @@ gemeenteraad.soest.nl
 gemeenteraad.stadskanaal.nl
 gemeenteraad.venlo.nl
 gemeenteraad.vlissingen.nl
+gemeenteraad.vught.nl
 gemeentesluis.nl
 gemeentestein.nl
 gemeentewinkel.gemeente-steenbergen.nl
@@ -4795,6 +4804,7 @@ geo.texel.nl
 geo.tilburg.nl
 geo.valkenswaard.nl
 geo.veenendaal.nl
+geo.vught.nl
 geo1.arnhem.nl
 geoanalytics.haarlemmermeer.nl
 geobeheer.voorst.nl
@@ -4814,6 +4824,7 @@ geodata.nunspeet.nl
 geodata.sittard-geleen.nl
 geodata.utrecht.nl
 geodata.voorst.nl
+geodb.vught.nl
 geografie.bronckhorst.nl
 geohr.assen.nl
 geoinformatie.dongen.nl
@@ -4865,6 +4876,7 @@ geoweb.haarlemmermeer.nl
 geoweb.oss.nl
 geoweb.stadskanaal.nl
 geoweb.test.oss.nl
+geoweb.vught.nl
 geowebint.haarlemmermeer.nl
 geowebinttest.haarlemmermeer.nl
 geowebtest.haarlemmermeer.nl
@@ -4964,6 +4976,7 @@ gisibtest.haarlemmermeer.nl
 gisibtest.peelenmaas.nl
 giskit-bgt.geldrop-mierlo.nl
 gisportal.leeuwarden.nl
+gisportal.vught.nl
 gisportalnew.leeuwarden.nl
 gisservices.haarlemmermeer.nl
 gisservices.meierijstad.nl
@@ -5505,6 +5518,7 @@ iburgerzaken.venlo.nl
 iburgerzaken.venray.nl
 iburgerzaken.vlissingen.nl
 iburgerzaken.voorschoten.nl
+iburgerzaken.vught.nl
 ibzpink.aaenhunze.nl
 ibzpink.achtkarspelen.nl
 ibzpink.almelo.nl
@@ -5651,6 +5665,7 @@ ibzpink.venlo.nl
 ibzpink.venray.nl
 ibzpink.vlissingen.nl
 ibzpink.voorschoten.nl
+ibzpink.vught.nl
 ice.nijmegen.nl
 icm-ast.asten.nl
 ict.gemeentesluis.nl
@@ -6333,6 +6348,7 @@ key2datadistributie.landgraaf.nl
 key2datadistributie.voerendaal.nl
 key2fin.simpelveld.nl
 key2financien-prod.beverwijk.nl
+key2financien-prod.vught.nl
 key2financien-test.beverwijk.nl
 key2financien-test.voerendaal.nl
 key2financien.voerendaal.nl
@@ -6884,6 +6900,7 @@ mail.venlo.nl
 mail.vijfheerenlanden.nl
 mail.vlaardingen.nl
 mail.voorschoten.nl
+mail.vught.nl
 mail01.bodegraven-reeuwijk.nl
 mail1.amersfoort.nl
 mail1.groningen.nl
@@ -6896,6 +6913,7 @@ mail2.oostgelre.nl
 mail2.sittard-geleen.nl
 mail2.smallingerland.nl
 mail2.tilburg.nl
+mail2.vught.nl
 mail21.utrecht.nl
 mail22.utrecht.nl
 mail3.smallingerland.nl
@@ -6921,6 +6939,7 @@ mailing.nieuwegein.nl
 mailing.noord-beveland.nl
 mailing.oss.nl
 mailings.deventer.nl
+mailptr.vught.nl
 mailsig.lansingerland.nl
 maisflexis.heusden.nl
 makelaar-01.castricum.nl
@@ -7310,6 +7329,7 @@ mijnafval.meerssen.nl
 mijnafval.valkenburg.nl
 mijnbbsuo.soest.nl
 mijnbelastingen.amsterdam.nl
+mijnbelastingen.vught.nl
 mijnbereikbaarheid.rotterdam.nl
 mijnbetaling.sudwestfryslan.nl
 mijncultuurdocument.rheden.nl
@@ -7631,6 +7651,7 @@ mta-sts.raad.terneuzen.nl
 mta-sts.terneuzen.nl
 mta-sts.vaals.nl
 mta-sts.veenendaal.nl
+mta-sts.vught.nl
 mta.nieuwsbrief.amsterdam.nl
 museumcollecties.roermond.nl
 mv1.amsterdam.nl
@@ -8821,6 +8842,7 @@ portal.twenterand.nl
 portal.utrecht.nl
 portal.veendam.nl
 portal.vlaardingen.nl
+portal.vught.nl
 portal1.denhaag.nl
 portal2.sittard-geleen.nl
 portaltest.haarlemmermeer.nl
@@ -8903,6 +8925,7 @@ preprod-mijn.ridderkerk.nl
 preprod-mijn.sudwestfryslan.nl
 preprod-mijn.texel.nl
 preprod-mijnaanvragensociaaldomein.venlo.nl
+preprod-mijnbelastingen.vught.nl
 preprod-mijngeldzaken.arnhem.nl
 preprod-mijninkomen.almere.nl
 preprod-mijninkomen.beverwijk.nl
@@ -9580,6 +9603,7 @@ saaedepot-3.amsterdam.nl
 saaedepot-3.tst.amsterdam.nl
 saaedepot-storage.amsterdam.nl
 saaedepot-storage.tst.amsterdam.nl
+saas.vught.nl
 safenet.rijssen-holten.nl
 salto.heerlen.nl
 sambeek.landvancuijk.nl
@@ -10971,6 +10995,7 @@ test.moerdijk.nl
 test.nissewaard.nl
 test.nuenen.nl
 test.open-formulieren.noordoostpolder.nl
+test.open-formulieren.vught.nl
 test.oss.nl
 test.ouder-amstel.nl
 test.pekela.nl
@@ -11634,6 +11659,7 @@ vth.twenterand.nl
 vthbroker.hardinxveld-giessendam.nl
 vthbroker.papendrecht.nl
 vthbroker.sliedrecht.nl
+vught.nl
 vveacc.amsterdam.nl
 vvetest.amsterdam.nl
 w-p-exc-0005.leeuwarden.nl
@@ -11933,6 +11959,7 @@ weer.landvancuijk.nl
 weesp.acc.meldingen.amsterdam.nl
 weesp.amsterdam.nl
 weespbegroot.amsterdam.nl
+wegwijsplus.vught.nl
 welbo.alphenaandenrijn.nl
 welbotest.alphenaandenrijn.nl
 welkom.ede.nl
@@ -12583,6 +12610,7 @@ www.gemeenteraad.bloemendaal.nl
 www.gemeenteraad.etten-leur.nl
 www.gemeenteraad.groningen.nl
 www.gemeenteraad.haarlemmermeer.nl
+www.gemeenteraad.vught.nl
 www.gemeentesluis.nl
 www.gemeentestein.nl
 www.gemeentewinkel.leiderdorp.nl
@@ -13210,6 +13238,7 @@ www.vpn.hillegom.nl
 www.vraagbaak.doesburg.nl
 www.vroegsignalering.sudwestfryslan.nl
 www.vroonermeer-noord.alkmaar.nl
+www.vught.nl
 www.vvetest.amsterdam.nl
 www.vvv.deventer.nl
 www.wadden.groningen.nl
@@ -13237,6 +13266,7 @@ www.webmail.twenterand.nl
 www.webvpn.gemeentehulst.nl
 www.webwinkel.landvancuijk.nl
 www.weespbegroot.amsterdam.nl
+www.wegwijsplus.vught.nl
 www.werkaandeweg.amsterdam.nl
 www.werkaandewijk.denhaag.nl
 www.werkenbij.alkmaar.nl
