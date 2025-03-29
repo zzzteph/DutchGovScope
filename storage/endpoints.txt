@@ -185,6 +185,7 @@ http://autodiscover.voorschoten.nl
 http://autodiscover.vsp.nijmegen.nl
 http://autodiscover.vvd.mookenmiddelaar.nl
 http://autodiscover.vvd.nijmegen.nl
+http://autodiscover.waalre.nl
 http://bastion365.katwijk.nl
 http://beekdaelen.nl
 http://beh-gemeenteloket.gemeentemaastricht.nl
@@ -819,6 +820,7 @@ https://acc.veldhoven.nl
 https://acc.venlo.nl
 https://acc.vijfheerenlanden.nl
 https://acc.vt.data.amsterdam.nl
+https://acc.waalre.nl
 https://acc.wonen.zaken.amsterdam.nl
 https://acc.woz-loket.harlingen.nl
 https://acc.zorg.voerendaal.nl
@@ -1035,6 +1037,7 @@ https://afvalkalender.sliedrecht.nl
 https://afvalkalender.sudwestfryslan.nl
 https://afvalkalender.venray.nl
 https://afvalkalender.voorschoten.nl
+https://afvalkalender.waalre.nl
 https://afvalmelding.denhaag.nl
 https://afvalwijzer.lingewaard.nl
 https://agbi.apeldoorn.nl
@@ -1271,6 +1274,7 @@ https://apps.nieuwkoop.nl
 https://apps.sudwestfryslan.nl
 https://apps.tilburg.nl
 https://apps.vught.nl
+https://apps.waalre.nl
 https://apv-broker.heuvelrug.nl
 https://apv-broker.preprod.heuvelrug.nl
 https://arbo-kwaliteit.rotterdam.nl
@@ -1720,6 +1724,7 @@ https://beugen.landvancuijk.nl
 https://bewegen.apeldoorn.nl
 https://bewustwording.amersfoort.nl
 https://bewustwording.brielle.nl
+https://bewustwording.waalre.nl
 https://bezettinggebouwen.rotterdam.nl
 https://bezoek.rotterdam.nl
 https://bezoeker.tilburg.nl
@@ -2600,6 +2605,7 @@ https://edienstenburgerzaken-test.vijfheerenlanden.nl
 https://edienstenburgerzaken-test.voerendaal.nl
 https://edienstenburgerzaken-test.vught.nl
 https://edienstenburgerzaken-test.waadhoeke.nl
+https://edienstenburgerzaken-test.waalre.nl
 https://edienstenburgerzaken.aalsmeer.nl
 https://edienstenburgerzaken.aalten.nl
 https://edienstenburgerzaken.acc.denhaag.nl
@@ -2709,6 +2715,7 @@ https://edienstenburgerzaken.vijfheerenlanden.nl
 https://edienstenburgerzaken.voerendaal.nl
 https://edienstenburgerzaken.vught.nl
 https://edienstenburgerzaken.waadhoeke.nl
+https://edienstenburgerzaken.waalre.nl
 https://edienstenmijninkomen-acceptatie.albrandswaard.nl
 https://edienstenmijninkomen.albrandswaard.nl
 https://edienstenmijninkomen.barendrecht.nl
@@ -3739,6 +3746,7 @@ https://iburgerzaken.venray.nl
 https://iburgerzaken.vlissingen.nl
 https://iburgerzaken.voorschoten.nl
 https://iburgerzaken.vught.nl
+https://iburgerzaken.waalre.nl
 https://ict.gemeentesluis.nl
 https://id-beheer-erfpacht-acc.amsterdam.nl
 https://id-beheer-erfpacht-dev.amsterdam.nl
@@ -4688,6 +4696,7 @@ https://mijn.vijfheerenlanden.nl
 https://mijn.vlaardingen.nl
 https://mijn.voerendaal.nl
 https://mijn.voorst.nl
+https://mijn.waalre.nl
 https://mijnaanvraag.belastingdienst.nl
 https://mijnaanvraagzi.beuningen.nl
 https://mijnaanvragensociaaldomein.venlo.nl
@@ -7190,6 +7199,7 @@ https://w2008bag.gemeentesluis.nl
 https://w2008stuf.gemeentesluis.nl
 https://w2kmks.montferland.info
 https://waadhoeke.nl
+https://waalre.nl
 https://waalsprong.acc.nijmegen.nl
 https://waalsprong.nijmegen.nl
 https://waarmerk.alphen-chaam.nl
@@ -8062,6 +8072,7 @@ https://www.vught.nl
 https://www.vvetest.amsterdam.nl
 https://www.vvv.deventer.nl
 https://www.waadhoeke.nl
+https://www.waalre.nl
 https://www.waddenland.groningen.nl
 https://www.wandelroutes.landvancuijk.nl
 https://www.watdoetdegemeente.rotterdam.nl
@@ -8163,6 +8174,7 @@ https://zaaksysteem-accept.tholen.nl
 https://zaaksysteem-accept.tilburg.nl
 https://zaaksysteem-accept.vlaardingen.nl
 https://zaaksysteem-accept.voerendaal.nl
+https://zaaksysteem-accept.waalre.nl
 https://zaaksysteem-acceptatie.venlo.nl
 https://zaaksysteem-ontwikkeling.vijfheerenlanden.nl
 https://zaaksysteem.acc.utrecht.nl

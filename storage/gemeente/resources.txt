@@ -480,6 +480,7 @@ acc.vijfheerenlanden.nl
 acc.voerendaal.nl
 acc.voorraad.top.amsterdam.nl
 acc.vt.data.amsterdam.nl
+acc.waalre.nl
 acc.wbakaart.amsterdam.nl
 acc.wonen.zaken.amsterdam.nl
 acc.woz-loket.harlingen.nl
@@ -881,6 +882,7 @@ afvalkalender.sliedrecht.nl
 afvalkalender.sudwestfryslan.nl
 afvalkalender.venray.nl
 afvalkalender.voorschoten.nl
+afvalkalender.waalre.nl
 afvalmelding-acc.denhaag.nl
 afvalmelding-dev.denhaag.nl
 afvalmelding.denhaag.nl
@@ -1227,6 +1229,7 @@ apps.team-signalen.cg-intern.acc.utrecht.nl
 apps.team-utrecht.cg-intern.acc.utrecht.nl
 apps.tilburg.nl
 apps.vught.nl
+apps.waalre.nl
 apv-broker.heuvelrug.nl
 apv-broker.preprod.heuvelrug.nl
 arbo-kwaliteit.rotterdam.nl
@@ -1561,6 +1564,7 @@ autodiscover.vvd.haarlemmermeer.nl
 autodiscover.vvd.mookenmiddelaar.nl
 autodiscover.vvd.nijmegen.nl
 autodiscover.waadhoeke.nl
+autodiscover.waalre.nl
 autodiscover.wij.groningen.nl
 automator.borne.nl
 automator.haarlemmermeer.nl
@@ -2052,6 +2056,7 @@ bewegen.apeldoorn.nl
 bewustwording.amersfoort.nl
 bewustwording.brielle.nl
 bewustwording.gemeentestein.nl
+bewustwording.waalre.nl
 bezettinggebouwen.rotterdam.nl
 bezoek.rotterdam.nl
 bezoeker.tilburg.nl
@@ -3747,6 +3752,7 @@ edienstenburgerzaken-test.vijfheerenlanden.nl
 edienstenburgerzaken-test.voerendaal.nl
 edienstenburgerzaken-test.vught.nl
 edienstenburgerzaken-test.waadhoeke.nl
+edienstenburgerzaken-test.waalre.nl
 edienstenburgerzaken.aalsmeer.nl
 edienstenburgerzaken.aalten.nl
 edienstenburgerzaken.acc.denhaag.nl
@@ -3859,6 +3865,7 @@ edienstenburgerzaken.vijfheerenlanden.nl
 edienstenburgerzaken.voerendaal.nl
 edienstenburgerzaken.vught.nl
 edienstenburgerzaken.waadhoeke.nl
+edienstenburgerzaken.waalre.nl
 edienstenmijninkomen-acceptatie.albrandswaard.nl
 edienstenmijninkomen-acceptatie.barendrecht.nl
 edienstenmijninkomen-acceptatie.ridderkerk.nl
@@ -5529,6 +5536,7 @@ iburgerzaken.venray.nl
 iburgerzaken.vlissingen.nl
 iburgerzaken.voorschoten.nl
 iburgerzaken.vught.nl
+iburgerzaken.waalre.nl
 ibzpink.aaenhunze.nl
 ibzpink.achtkarspelen.nl
 ibzpink.almelo.nl
@@ -5676,6 +5684,7 @@ ibzpink.venray.nl
 ibzpink.vlissingen.nl
 ibzpink.voorschoten.nl
 ibzpink.vught.nl
+ibzpink.waalre.nl
 ice.nijmegen.nl
 icm-ast.asten.nl
 ict.gemeentesluis.nl
@@ -6343,6 +6352,7 @@ ketenportaal.acceptatie.gemeentebeek.nl
 ketenportaal.acceptatie.oldenzaal.nl
 ketenportaal.gemeentebeek.nl
 keuzesinbeeld.amsterdam.nl
+key2.waalre.nl
 key2GBAV.emmen.nl
 key2bag-test.brunssum.nl
 key2bag.emmen.nl
@@ -6358,6 +6368,8 @@ key2datadistributie-test.voerendaal.nl
 key2datadistributie.heerlen.nl
 key2datadistributie.landgraaf.nl
 key2datadistributie.voerendaal.nl
+key2dd-test.waalre.nl
+key2dd.waalre.nl
 key2fin.simpelveld.nl
 key2financien-prod.beverwijk.nl
 key2financien-prod.vught.nl
@@ -6915,6 +6927,7 @@ mail.vijfheerenlanden.nl
 mail.vlaardingen.nl
 mail.voorschoten.nl
 mail.vught.nl
+mail.waalre.nl
 mail01.bodegraven-reeuwijk.nl
 mail1.amersfoort.nl
 mail1.groningen.nl
@@ -7339,6 +7352,7 @@ mijn.vlaardingen.nl
 mijn.voerendaal.nl
 mijn.voorschoten.nl
 mijn.voorst.nl
+mijn.waalre.nl
 mijnaanvraagzi.beuningen.nl
 mijnaanvragensociaaldomein.venlo.nl
 mijnacc.montfoort.nl
@@ -7606,6 +7620,7 @@ mobiliteitsplan.teylingen.nl
 mobility.drimmelen.nl
 mobility.groningen.nl
 mobility.rheden.nl
+mobility.waalre.nl
 mobilitytest.rheden.nl
 modern.noordwijk.nl
 moerdijk.nl
@@ -8348,6 +8363,7 @@ ops-fw1.opsterland.nl
 ops-fw2.opsterland.nl
 opsterland.nl
 opsview.sudwestfryslan.nl
+opvangvluchtelingen.waalre.nl
 or.delft.nl
 oracbloemenbuurt.denhaag.nl
 oranjekwartier.deventer.nl
@@ -9546,6 +9562,7 @@ rotterdam.nl
 routebureau.groningen.nl
 router.dordrecht.nl
 router.ede.nl
+router.waalre.nl
 rozendaal.nl
 rp.beverwijk.nl
 rpl3.alphenaandenrijn.nl
@@ -9829,6 +9846,7 @@ secure.venlo.nl
 secure.vlaardingen.nl
 secure.vlieland.nl
 secure.voerendaal.nl
+secure.waalre.nl
 secure1.gulpen-wittem.nl
 securegemnet.roermond.nl
 securegw.bunschoten.nl
@@ -10550,6 +10568,7 @@ storefronttest.delft.nl
 storing.acc.denhaag.nl
 storing.denhaag.nl
 straatnotes.amsterdam.nl
+straling.waalre.nl
 strand.hoorn.nl
 streaming.landvancuijk.nl
 streetsmart.gulpen-wittem.nl
@@ -10571,6 +10590,7 @@ sts.rotterdam.nl
 sts.sittard-geleen.nl
 sts.sudwestfryslan.nl
 sts.tynaarlo.nl
+sts.waalre.nl
 sts2.rotterdam.nl
 stswigo4it-acc.amsterdam.nl
 stswigo4it-acc.rotterdam.nl
@@ -11042,6 +11062,7 @@ test.veere.nl
 test.velsen.nl
 test.vijfheerenlanden.nl
 test.voerendaal.nl
+test.waalre.nl
 testafspraken.alkmaar.nl
 testafspraken.gemeentehw.nl
 testafspraken.nissewaard.nl
@@ -11648,6 +11669,7 @@ vpn.sudwestfryslan.nl
 vpn.terneuzen.nl
 vpn.velsen.nl
 vpn.voorschoten.nl
+vpn.waalre.nl
 vpn.zuid.amsterdam.nl
 vpn02.denhaag.nl
 vpn365.denhelder.nl
@@ -11698,6 +11720,7 @@ w2016l.landgraaf.nl
 w2kmks.montferland.info
 w2kzmm.montferland.info
 waadhoeke.nl
+waalre.nl
 waalsprong.acc.nijmegen.nl
 waalsprong.nijmegen.nl
 waarderingsprijs.emmen.nl
@@ -11945,6 +11968,7 @@ webreserveren.tynaarlo.nl
 webscada-rps.doetinchem.nl
 webscada.doetinchem.nl
 webserver.schiedam.nl
+webserver.waalre.nl
 webservice-decosdvl.acc.amsterdam.nl
 webservice-decosdvl.amsterdam.nl
 webservices-acc.rotterdam.nl
@@ -12101,6 +12125,7 @@ werkplek.tilburg.nl
 werkplek.veldhoven.nl
 werkplek.velsen.nl
 werkplek.vlaardingen.nl
+werkplek.waalre.nl
 werkplek02.derondevenen.nl
 werkplekcb.kampen.nl
 werkplekspel.tilburg.nl
@@ -13271,6 +13296,7 @@ www.vught.nl
 www.vvetest.amsterdam.nl
 www.vvv.deventer.nl
 www.waadhoeke.nl
+www.waalre.nl
 www.wadden.groningen.nl
 www.waddenland.groningen.nl
 www.wandelen.groningen.nl
@@ -13441,6 +13467,7 @@ zaaksysteem-accept.tholen.nl
 zaaksysteem-accept.tilburg.nl
 zaaksysteem-accept.vlaardingen.nl
 zaaksysteem-accept.voerendaal.nl
+zaaksysteem-accept.waalre.nl
 zaaksysteem-acceptatie.venlo.nl
 zaaksysteem-ontwikkeling.vijfheerenlanden.nl
 zaaksysteem.acc.utrecht.nl

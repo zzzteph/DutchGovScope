@@ -21,8 +21,8 @@ probeer
 loket
 test
 formulieren
-eloket
 werkplek
+eloket
 dkd
 acc
 portal
@@ -30,11 +30,11 @@ meldingen
 open
 geo
 ruimtelijkeplannen
+vpn
 api.meldingen
 raad
 waarmerk
 afspraak
-vpn
 parkeren
 adfs
 betalen
@@ -108,19 +108,20 @@ mijnzorg
 vergunningintaker
 mijninkomen
 parkeren-test
+afvalkalender
 duurzaam
 siam
+apps
 bastion365
 obsurv
 begroting
 simform
 preprod-mijninkomen
-afvalkalender
 qr
-apps
 nieuwsbrief
 acc-formulier
 acc-podiumd-logs
+sts
 woningbouwkaart
 klantcontact
 simcms-open
@@ -141,7 +142,6 @@ acc-objecttypen
 bgt
 owa
 sip
-sts
 contentbeheer
 internetafspraken
 uc
@@ -369,6 +369,7 @@ rpl3
 test-zaakloket
 testsiam
 zaakloket
+bewustwording
 mail1
 nieuwsbrieven
 octopus
@@ -429,6 +430,7 @@ test.digikoppeling
 auth.openstad
 img.openstad
 digitalebalie
+mobility
 socialekaart
 ondernemen
 raadsinformatie
@@ -477,7 +479,6 @@ css.openstad
 ssp
 digitaalnachtregister
 activesync
-bewustwording
 crl
 belastingbalie.acc
 dataportaal
@@ -578,9 +579,9 @@ relay
 webdav
 webformulieren
 www.jongin
+router
 klantportaal.acc
 prod
-mobility
 grondwater
 vergunningen
 attachments
@@ -933,7 +934,6 @@ besluitvorming
 test-digikoppelingadapter
 dkd.berichtenverkeer
 geoinformatie
-router
 durp
 dok
 www.zorgloket
@@ -1124,6 +1124,7 @@ bibliotheek
 edison-opl
 www.bibliotheek
 oig
+webserver
 dis4fin
 secure-t
 camera
@@ -6867,7 +6868,6 @@ prod.digikoppeling
 schiedata
 sgen
 sm1-sec
-webserver
 websrv01
 websrv03
 zendto
@@ -7665,3 +7665,8 @@ flowmailer-tracking.parkeervergunningen
 gebiedsteam
 squit2go-acc
 squit2go-beheer-acc
+key2
+key2dd-test
+key2dd
+opvangvluchtelingen
+straling
