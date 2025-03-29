@@ -27,21 +27,21 @@ dkd
 acc
 portal
 open
-meldingen
 geo
+meldingen
 waarmerk
 afspraak
 adfs
 vpn
 ruimtelijkeplannen
+raad
 parkeren
 api.meldingen
-raad
 betalen
 broker
 iparticipatie
-pv
 zaaksysteem-accept
+pv
 gemeenteraad
 testeloket
 werkenbij
@@ -222,6 +222,7 @@ jccapi
 mijnsociaalplein
 preprod-mijnsociaalplein
 mobile
+_autodiscover._tcp
 belastingbalie-test
 bestanden
 mx1
@@ -247,7 +248,6 @@ formulieren-test
 data-test
 xential
 key2gbav
-_autodiscover._tcp
 bor
 archief
 vth
@@ -267,10 +267,12 @@ omgevingswet
 vergunningintaker-preprod
 geovisia
 praatmee
+makelaar
 subsidie
 belastingen-acc
 diensten
 exchange
+ro-online
 mozard
 mozardtest
 bewustwording
@@ -316,11 +318,9 @@ gisibgeoserver-test
 gisibgeoserver
 pdc
 www.werkenbij
-makelaar
 subsidies-backend.acceptatie
 subsidies.acceptatie
 dkd-test
-ro-online
 www.duurzaam
 wion
 atlas
@@ -777,6 +777,7 @@ autodiscover.ggd
 berichtverkeer
 bi
 bouwdossiers
+burgerzaken
 buurtbudget
 centrum
 docgen
@@ -2842,7 +2843,6 @@ bp.data
 brediusbad
 buikslotermeerplein
 bureaubroedplaatsen
-burgerzaken
 buurtbudgetnoord
 buurtbudgetzuid
 buurtbudgetzuidoost
@@ -7831,3 +7831,5 @@ icclient
 owas
 skype
 wdm-fepoolweb-ext
+plek
+vmjboss01.gem-dom
