@@ -1135,6 +1135,7 @@ api.meldingen-acc.oldenzaal.nl
 api.meldingen-acc.oostgelre.nl
 api.meldingen-acc.raalte.nl
 api.meldingen-acc.roermond.nl
+api.meldingen-acc.urk.nl
 api.meldingen.aaenhunze.nl
 api.meldingen.acceptatie.eindhoven.nl
 api.meldingen.accp.s-hertogenbosch.nl
@@ -1170,6 +1171,7 @@ api.meldingen.raalte.nl
 api.meldingen.roermond.nl
 api.meldingen.s-hertogenbosch.nl
 api.meldingen.test.purmerend.nl
+api.meldingen.urk.nl
 api.mijn.overheid.nl
 api.ondernemersplein.overheid.nl
 api.openstad.alphenaandenrijn.nl
@@ -1599,6 +1601,8 @@ autorisatiebeheer.simpelveld.nl
 autorisatiebeheertest.simpelveld.nl
 autorisatietest.bloemendaal.nl
 av.alkmaar.nl
+av.urk.nl
+av2.urk.nl
 avproxy.vga.amsterdam.nl
 aw-ds.belastingdienst.nl
 awa001.acc.belastingdienst.nl
@@ -1725,6 +1729,7 @@ becpo.acc.topdesk.denhaag.nl
 becpo.topdesk.denhaag.nl
 bedrijfsafval.assen.nl
 bedrijfsafval.rotterdam.nl
+bedrijfsgrond.urk.nl
 bedrijfslocaties.coevorden.nl
 bedrijven.landvancuijk.nl
 bedrijvengids.landvancuijk.nl
@@ -2639,6 +2644,7 @@ cmssamenatwork.stichtsevecht.nl
 cmssocial.montferland.info
 cmssocialintranet.middendelfland.nl
 cmstest-insite.nijmegen.nl
+cmsurknet.urk.nl
 cmswhatsepe.epe.nl
 cnoops.gemeentemaasgouw.nl
 co108.groningen.nl
@@ -3114,6 +3120,7 @@ devportal.api.amsterdam.nl
 devtest.sudwestfryslan.nl
 dewolden.nl
 dex.meldingen.alphenaandenrijn.nl
+dex.meldingen.urk.nl
 dezta.lelystad.nl
 dfs.noordoostpolder.nl
 dgdialog.acc.amsterdam.nl
@@ -3126,6 +3133,7 @@ dialin.acc.amsterdam.nl
 dialin.assen.nl
 dialin.haarlem.nl
 dialin.houten.nl
+dialin.urk.nl
 dicos-test.nissewaard.nl
 dict.amsterdam.nl
 diemen.nl
@@ -4018,6 +4026,7 @@ eformulieren.kerkrade.nl
 eformulieren.noordoostpolder.nl
 eformulieren.preprod.doetinchem.nl
 eformulieren.stichtsevecht.nl
+egemeente.urk.nl
 egress-repro.alkmaar.nl
 ehv-lpi-ap-15.lopik.nl
 ehvsubsidie.eindhoven.nl
@@ -4407,6 +4416,7 @@ felix.staphorst.nl
 felix.t-diel.nl
 felix.terschelling.nl
 felix.twenterand.nl
+felix.urk.nl
 felixburgerzaken.nissewaard.nl
 felixpdc.doesburg.nl
 festival.landvancuijk.nl
@@ -5161,6 +5171,7 @@ goud.almere.nl
 gouda.nl
 gouwbag-test.haarlemmermeer.nl
 gouwbag.haarlemmermeer.nl
+gov.urk.nl
 govpub.sudwestfryslan.nl
 govroam.beekdaelen.nl
 govroam.belastingdienst.nl
@@ -5669,6 +5680,7 @@ iburgerzaken.tiel.nl
 iburgerzaken.twenterand.nl
 iburgerzaken.tynaarlo.nl
 iburgerzaken.uithoorn.nl
+iburgerzaken.urk.nl
 ibzpink.aaenhunze.nl
 ibzpink.achtkarspelen.nl
 ibzpink.almelo.nl
@@ -5845,6 +5857,7 @@ identityota.bergenopzoom.nl
 idiensten-contract.rotterdam.nl
 idinloggen.oosterhout.nl
 idinloggenpre.oosterhout.nl
+idocumenten.urk.nl
 idp.ggd.amsterdam.nl
 idrac1.ovh.gemeentebeek.nl
 idrac10.ovh.gemeentebeek.nl
@@ -6226,6 +6239,7 @@ iparticipatie.raalte.nl
 iparticipatie.s-hertogenbosch.nl
 iparticipatie.t-diel.nl
 iparticipatie.twenterand.nl
+iparticipatie.urk.nl
 ipp.haarlem.nl
 iris-acc.lingewaard.nl
 iris.acc.denhaag.nl
@@ -6253,6 +6267,7 @@ izaaksuite.oirschot.nl
 izaaksuite.ooststellingwerf.nl
 izaaksuite.opsterland.nl
 izaaksuite.pijnacker-nootdorp.nl
+izaaksuite.urk.nl
 izrm.huizen.nl
 jaarrekening.arnhem.nl
 jaarrekening2021.financieelportaal.etten-leur.nl
@@ -6520,6 +6535,7 @@ keycloak.roermond.nl
 keycloak.rotterdam.nl
 keycloak.test.denhaag.nl
 keyhub.hofvantwente.nl
+keyhub.urk.nl
 kghtb-prod.gemeente-steenbergen.nl
 kghtb-test.gemeente-steenbergen.nl
 kgzorgned-prod.gemeente-steenbergen.nl
@@ -6912,6 +6928,7 @@ lyncdiscover.houten.nl
 lyncdiscover.oostzaan.nl
 lyncdiscover.ouder-amstel.nl
 lyncdiscover.uithoorn.nl
+lyncdiscover.urk.nl
 lyncrp.houten.nl
 lyncweb.haarlem.nl
 lyncweb.haarlemmermeer.nl
@@ -7192,6 +7209,7 @@ meet.ggd.amsterdam.nl
 meet.haarlem.nl
 meet.hethogeland.nl
 meet.houten.nl
+meet.urk.nl
 meierijstad.nl
 meldcode.denhaag.nl
 melddesk-test.renkum.nl
@@ -7228,6 +7246,7 @@ meldingen-acc.oldenzaal.nl
 meldingen-acc.oostgelre.nl
 meldingen-acc.raalte.nl
 meldingen-acc.roermond.nl
+meldingen-acc.urk.nl
 meldingen-test.landvancuijk.nl
 meldingen.aaenhunze.nl
 meldingen.acc.almelo.nl
@@ -7271,6 +7290,7 @@ meldingen.raalte.nl
 meldingen.roermond.nl
 meldingen.s-hertogenbosch.nl
 meldingen.test.purmerend.nl
+meldingen.urk.nl
 meldingenamsterdamsebos.amsterdam.nl
 meldingenkust.acc.denhaag.nl
 meldingenkust.denhaag.nl
@@ -7447,6 +7467,7 @@ mijn.texel.nl
 mijn.tholen.nl
 mijn.toeslagen.nl
 mijn.tst.belastingdienst.nl
+mijn.urk.nl
 mijnaanvraag.belastingdienst.nl
 mijnaanvraagzi.beuningen.nl
 mijnacc.montfoort.nl
@@ -8295,6 +8316,8 @@ ontwikkelstrategie.amsterdam.nl
 onzestad.nijmegen.nl
 oogst.groningen.nl
 oorlogenvrede.landvancuijk.nl
+oos.urk.nl
+oos2.urk.nl
 oostbegroot.amsterdam.nl
 oostgelre.nl
 ooststellingwerf.nl
@@ -8830,8 +8853,10 @@ pink-inproces.overbetuwe.nl
 pip-preproductie.gemeentehw.nl
 pip-test.emmen.nl
 pip-test.haarlemmermeer.nl
+pip-test.urk.nl
 pip.gemeentehw.nl
 pip.haarlemmermeer.nl
+pip.urk.nl
 pit.ede.nl
 piv-rest-test.belastingdienst.nl
 piv-rest.belastingdienst.nl
@@ -9261,6 +9286,7 @@ preproductie.steenwijkerland.nl
 preproductie.t-diel.nl
 preproductie.tiel.nl
 preproductie.twenterand.nl
+preproductie.urk.nl
 presenteren.ont.belastingdienst.nl
 preview-eto.overheid.nl
 pric.rotterdam.nl
@@ -9330,6 +9356,7 @@ probeer.simpelveld.nl
 probeer.sonenbreugel.nl
 probeer.staphorst.nl
 probeer.twenterand.nl
+probeer.urk.nl
 prod-dictu.comcms.logius.nl
 prod-dictu.logius.nl
 prod-kodision-cli.sudwestfryslan.nl
@@ -10022,6 +10049,7 @@ secure.terneuzen.nl
 secure.terschelling.nl
 secure.tiel.nl
 secure.twenterand.nl
+secure.urk.nl
 secure1.gulpen-wittem.nl
 securegemnet.roermond.nl
 securegw.bunschoten.nl
@@ -10109,6 +10137,8 @@ services2.amsterdam.nl
 servicestore.doetinchem.nl
 sfaccounts.haarlemmermeer.nl
 sfb.ggd.amsterdam.nl
+sfb.urk.nl
+sfb2.urk.nl
 sfbaccess.houten.nl
 sfbwebconf.houten.nl
 sfte.acc.amsterdam.nl
@@ -10268,6 +10298,7 @@ simcms.sonenbreugel.nl
 simcms.staphorst.nl
 simcms.terschelling.nl
 simcms.twenterand.nl
+simcms.urk.nl
 simcms2.beekdaelen.nl
 simcmsintra.bergeijk.nl
 simform-preproductie.achtkarspelen.nl
@@ -10383,6 +10414,8 @@ sip.oa.amsterdam.nl
 sip.oostzaan.nl
 sip.ouder-amstel.nl
 sip.uithoorn.nl
+sip.urk.nl
+sip2.urk.nl
 sipreg.belastingdienst.nl
 siraskalot.delft.nl
 sisa.rotterdam.nl
@@ -11097,6 +11130,7 @@ test-cmsnopnet.noordoostpolder.nl
 test-cmssamenatwork.stichtsevecht.nl
 test-cmssocial.montferland.info
 test-cmssocialintranet.middendelfland.nl
+test-cmsurknet.urk.nl
 test-contact.gemert-bakel.nl
 test-dictu.comcms.logius.nl
 test-dictu.kennisbank.logius.nl
@@ -11174,6 +11208,7 @@ test-ipa.raalte.nl
 test-ipa.s-hertogenbosch.nl
 test-ipa.t-diel.nl
 test-ipa.twenterand.nl
+test-ipa.urk.nl
 test-jip.hofvantwente.nl
 test-kaart.almere.nl
 test-kaarten.haarlemmermeer.nl
@@ -11237,6 +11272,7 @@ test-subsidieloket.alkmaar.nl
 test-topicus.sudwestfryslan.nl
 test-topvorm.apeldoorn.nl
 test-trefpunt.deurne.nl
+test-urknet.urk.nl
 test-vergoedingen.nijmegen.nl
 test-witgoed.middendrenthe.nl
 test-zaakloket.ameland.nl
@@ -11466,6 +11502,7 @@ tile.gis.rotterdam.nl
 tiles1.acc.opdekaart.amsterdam.nl
 tim.gemeentebest.nl
 tim.terschelling.nl
+tim.urk.nl
 time.leeuwarden.nl
 timetell.acc.amsterdam.nl
 timetell.pmb.amsterdam.nl
@@ -11692,6 +11729,8 @@ unjunk.krimpenerwaard.nl
 upk.afs.acc.amsterdam.nl
 upk.afs.amsterdam.nl
 uren-tst.groningen.nl
+urk.nl
+urknet.urk.nl
 uswolk.sudwestfryslan.nl
 uwdorpofwijk.alphenaandenrijn.nl
 uwmening.denhaag.nl
@@ -12047,6 +12086,7 @@ warenhuis.groningen.nl
 warmrijsenhout.haarlemmermeer.nl
 warmtenet.acc.nijmegen.nl
 warmtenet.nijmegen.nl
+warmtetransitie.urk.nl
 warp.gulpen-wittem.nl
 was010-stedin.rotterdam.nl
 was010-vrr.rotterdam.nl
@@ -12055,6 +12095,7 @@ wastexl.sudwestfryslan.nl
 watdoetdegemeente.rotterdam.nl
 water.deventer.nl
 water.omgevingswet.overheid.nl
+waterloket.urk.nl
 watten.groningen.nl
 wbakaart.amsterdam.nl
 wbs003.assen.nl
@@ -12075,8 +12116,10 @@ web.lingewaard.nl
 web.moerdijk.nl
 web.renswoude.nl
 web.sliedrecht.nl
+web.urk.nl
 web01.deventer.nl
 web02.deventer.nl
+web2.urk.nl
 web2print.assen.nl
 web4biz251.doetinchem.nl
 webaccess.drimmelen.nl
@@ -12224,6 +12267,7 @@ webmail.test.hoorn.nl
 webmail.teylingen.nl
 webmail.twenterand.nl
 webmail.tynaarlo.nl
+webmail.urk.nl
 webmail.werkenvoornederland.nl
 webmail.west.amsterdam.nl
 webmail.zuidoost.amsterdam.nl
@@ -13535,6 +13579,7 @@ www.uit.groningen.nl
 www.uitgeest.nl
 www.uithoorn.nl
 www.uren-tst.groningen.nl
+www.urk.nl
 www.uwdorpofwijk.alphenaandenrijn.nl
 www.v2.openstad.haarlemmermeer.nl
 www.vaarvergunningen.nieuwkoop.nl
@@ -13664,6 +13709,7 @@ xential.gooisemeren.nl
 xential.gulpen-wittem.nl
 xential.haarlemmermeer.nl
 xential.montferland.info
+xential.urk.nl
 xentialtest.gulpen-wittem.nl
 xentialtest.montferland.info
 xerox.brievenbus.amsterdam.nl

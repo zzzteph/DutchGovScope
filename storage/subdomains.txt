@@ -12,8 +12,8 @@ afspraken
 simsite
 digikoppeling
 mail
-acceptatie
 secure
+acceptatie
 preproductie
 simcms
 probeer
@@ -32,9 +32,9 @@ geo
 raad
 waarmerk
 vpn
+api.meldingen
 ruimtelijkeplannen
 adfs
-api.meldingen
 pv
 betalen
 afspraak
@@ -45,11 +45,11 @@ werkenbij
 iparticipatie
 testeloket
 gemeenteraad
+test-ipa
 belastingen
 enterpriseenrollment
 dacceptatieloket
 dacceptatiemidoffice
-test-ipa
 openpdc
 dloket
 dmidoffice
@@ -59,8 +59,8 @@ osb
 belastingbalie
 enterpriseregistration
 api.meldingen-acc
-loket.acceptatie
 meldingen-acc
+loket.acceptatie
 omgevingsvisie
 digikoppeling-test
 formulier
@@ -128,6 +128,7 @@ acc-mijn
 acc-notificaties
 acc-objecten
 acc-objecttypen
+sip
 sts
 klantcontact
 cmsintranet
@@ -136,6 +137,7 @@ test-cmsintranet
 doemee
 squit2go
 transfer
+web
 afvalkalender
 api.betalen
 ftp
@@ -147,7 +149,6 @@ acc-openklant
 acc-openzaak
 keycloak
 podiumd-logs
-sip
 contentbeheer
 uc
 mdm
@@ -158,11 +159,12 @@ mobiel
 preprodbroker
 simform
 college
-web
+izaaksuite
 dali
 jcc
 gis
 bgt
+lyncdiscover
 notificaties
 objecten
 objecttypen
@@ -176,13 +178,11 @@ website
 kennisbank
 gisib
 preprod-mijn
-izaaksuite
 veiligdelen
 wachtwoord
 vdi
 email
 telewerken
-lyncdiscover
 owa
 test-digikoppeling
 meedoen
@@ -220,6 +220,7 @@ iarchief
 publicroam
 intranet-acc
 ro
+xential
 _autodiscover._tcp
 bor
 vth
@@ -245,6 +246,7 @@ werkenvoor
 woz
 www.acc
 afval
+meet
 openformulieren
 publicaties
 citrix
@@ -252,7 +254,6 @@ fmreturn
 data-test
 liquit
 mobile
-xential
 key2gbav
 burgerloket
 ondernemersloket
@@ -306,7 +307,6 @@ gp
 mijngeldzaken
 ns1
 rooster
-meet
 support
 formulieren-test
 intranetcms
@@ -358,6 +358,7 @@ moh
 sslvpn
 teleweb
 www2
+dialin
 media
 test-formulier
 test-mijn
@@ -465,7 +466,6 @@ www.sport
 digitaleplannen
 digid
 werk
-dialin
 test-keycloak
 test-openklant
 test-openzaak
@@ -488,6 +488,7 @@ zorgmail
 liquitsatellite
 preprod.vergunningintaker
 beeldbankbeheer
+tim
 testcms-intranet
 csc
 mbg1
@@ -557,6 +558,7 @@ burgerportaal
 duo
 flex
 mijnuitkering
+pip-test
 gbionline
 squit2gotest
 de
@@ -577,6 +579,7 @@ autodiscover.groenlinks
 autodiscover.pvda
 autodiscover.vvd
 geoweb
+pip
 testdigikoppeling
 acceptatie-intranet
 sera
@@ -651,6 +654,7 @@ verkeersbesluiten
 edienstenburgerzaken.test
 aanvragen
 autorisatie
+av
 datalab
 ldap
 notubiz
@@ -676,6 +680,7 @@ regio
 sportencultuur
 centrumbegroot
 css.openstad
+dex.meldingen
 digikoppeling-prod
 digitaalgemeenteloket
 kinderburgemeester
@@ -772,7 +777,6 @@ intranetcms-acc
 testberichten
 aovpn
 helloid
-tim
 joost
 wwwtest
 acc-openwave
@@ -882,7 +886,6 @@ mijnsubsidie
 mx
 allegro
 cmsoo.gemeente
-pip-test
 www.gemeente
 afspraakmakentest
 gbionlinetest
@@ -930,7 +933,6 @@ gisibtest
 gisservices
 jccbetalen
 officewebapps
-pip
 portaltest
 testzaken
 www.djuma
@@ -968,6 +970,7 @@ ediensten
 testwerkplek
 telefoon
 Cloudadapter-test
+keyhub
 rds
 communicatie
 www.denkmee
@@ -2303,7 +2306,6 @@ ap01
 artiance
 autorisatie01
 autorisatie02
-av
 berichtenverkeer.authenticatie
 camera-sport
 digimedia
@@ -2419,7 +2421,6 @@ wijkteams
 alleplannen.centrumbegroot
 begroten.centrumbegroot
 begroten.zwammerdamdorpskern
-dex.meldingen
 dkd-prod
 email.samenveiligwerken
 exchange2
@@ -5466,7 +5467,6 @@ cmsjip
 e-notas-test
 e-notas
 jip
-keyhub
 qfact
 test-jip
 testcms-jip
@@ -7220,3 +7220,20 @@ simcms-werkenbij
 taskflow
 webshop
 wsdl
+av2
+bedrijfsgrond
+cmsurknet
+egemeente
+gov
+idocumenten
+oos
+oos2
+sfb
+sfb2
+sip2
+test-cmsurknet
+test-urknet
+urknet
+warmtetransitie
+waterloket
+web2

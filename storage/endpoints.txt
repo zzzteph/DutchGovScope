@@ -311,6 +311,7 @@ http://mijn.meierijstad.nl
 http://mijn.ooststellingwerf.nl
 http://mijn.opsterland.nl
 http://mijn.staphorst.nl
+http://mijn.urk.nl
 http://mijnsbl-test.amsterdam.nl
 http://mijnwerkplek.schagen.nl
 http://mijnzorg-acc.aalsmeer.nl
@@ -449,6 +450,7 @@ http://tuchtrecht-service-acc.overheid.nl
 http://tuchtrecht-service-tst.overheid.nl
 http://tuchtrecht-service.overheid.nl
 http://twenterand.nl
+http://urk.nl
 http://vergunningintaker.bernheze.org
 http://vsp.terneuzen.nl
 http://webmail.gooisemeren.nl
@@ -496,6 +498,7 @@ http://www.stadstoezicht.amsterdam.nl
 http://www.telewerken.hellevoetsluis.nl
 http://www.trefnet.hellevoetsluis.nl
 http://www.twenterand.nl
+http://www.urk.nl
 http://www.vroonermeer-noord.alkmaar.nl
 http://www.webmail.hellevoetsluis.nl
 http://www.werkenbij.amsterdam.nl
@@ -1127,6 +1130,7 @@ https://api.meldingen-acc.oldenzaal.nl
 https://api.meldingen-acc.oostgelre.nl
 https://api.meldingen-acc.raalte.nl
 https://api.meldingen-acc.roermond.nl
+https://api.meldingen-acc.urk.nl
 https://api.meldingen.aaenhunze.nl
 https://api.meldingen.acceptatie.eindhoven.nl
 https://api.meldingen.accp.s-hertogenbosch.nl
@@ -1161,6 +1165,7 @@ https://api.meldingen.raalte.nl
 https://api.meldingen.roermond.nl
 https://api.meldingen.s-hertogenbosch.nl
 https://api.meldingen.test.purmerend.nl
+https://api.meldingen.urk.nl
 https://api.mijn.overheid.nl
 https://api.ondernemersplein.overheid.nl
 https://api.openstad.alphenaandenrijn.nl
@@ -1353,6 +1358,7 @@ https://becpo.acc.topdesk.denhaag.nl
 https://becpo.topdesk.denhaag.nl
 https://bedrijfsafval.assen.nl
 https://bedrijfsafval.rotterdam.nl
+https://bedrijfsgrond.urk.nl
 https://bedrijfslocaties.coevorden.nl
 https://bedrijven.landvancuijk.nl
 https://bedrijvengids.landvancuijk.nl
@@ -1891,6 +1897,7 @@ https://cmsoo.tiel.nl
 https://cmssamenatwork.stichtsevecht.nl
 https://cmssocial.montferland.info
 https://cmstest-insite.nijmegen.nl
+https://cmsurknet.urk.nl
 https://cmswhatsepe.epe.nl
 https://cnoops.gemeentemaasgouw.nl
 https://co2monitor.terschelling.nl
@@ -3520,6 +3527,7 @@ https://iburgerzaken.tiel.nl
 https://iburgerzaken.twenterand.nl
 https://iburgerzaken.tynaarlo.nl
 https://iburgerzaken.uithoorn.nl
+https://iburgerzaken.urk.nl
 https://ict.gemeentesluis.nl
 https://id-beheer-erfpacht-acc.amsterdam.nl
 https://id-beheer-erfpacht-dev.amsterdam.nl
@@ -3912,6 +3920,7 @@ https://keycloak.roermond.nl
 https://keycloak.rotterdam.nl
 https://keycloak.test.denhaag.nl
 https://keyhub.hofvantwente.nl
+https://keyhub.urk.nl
 https://kghtb-prod.gemeente-steenbergen.nl
 https://kgzorgned-prod.gemeente-steenbergen.nl
 https://kijk.dijkenwaard.nl
@@ -4251,6 +4260,7 @@ https://meldingen-acc.oldenzaal.nl
 https://meldingen-acc.oostgelre.nl
 https://meldingen-acc.raalte.nl
 https://meldingen-acc.roermond.nl
+https://meldingen-acc.urk.nl
 https://meldingen.aaenhunze.nl
 https://meldingen.acc.almelo.nl
 https://meldingen.acc.denhaag.nl
@@ -4291,6 +4301,7 @@ https://meldingen.raalte.nl
 https://meldingen.roermond.nl
 https://meldingen.s-hertogenbosch.nl
 https://meldingen.test.purmerend.nl
+https://meldingen.urk.nl
 https://meldingenamsterdamsebos.amsterdam.nl
 https://meldingenkust.acc.denhaag.nl
 https://meldingenkust.denhaag.nl
@@ -5198,6 +5209,8 @@ https://pijnacker-nootdorp.nl
 https://pilot-digitaleplannen.apeldoorn.nl
 https://pingping.amsterdam.nl
 https://pip-preproductie.gemeentehw.nl
+https://pip-test.urk.nl
+https://pip.urk.nl
 https://piwik.ede.nl
 https://piwik.krimpenerwaard.nl
 https://pki.olst-wijhe.nl
@@ -6286,6 +6299,7 @@ https://test-cmsintranet.steenwijkerland.nl
 https://test-cmsintranet.sudwestfryslan.nl
 https://test-cmsnopnet.noordoostpolder.nl
 https://test-cmssocial.montferland.info
+https://test-cmsurknet.urk.nl
 https://test-contact.gemert-bakel.nl
 https://test-dictu.comcms.logius.nl
 https://test-dictu.kennisbank.logius.nl
@@ -6581,6 +6595,7 @@ https://unesco.landvancuijk.nl
 https://unjunk.krimpenerwaard.nl
 https://upk.afs.acc.amsterdam.nl
 https://upk.afs.amsterdam.nl
+https://urknet.urk.nl
 https://uwdorpofwijk.alphenaandenrijn.nl
 https://uwmening.denhaag.nl
 https://v2.openstad.haarlemmermeer.nl
@@ -6747,6 +6762,7 @@ https://warenhuis.groningen.nl
 https://warmrijsenhout.haarlemmermeer.nl
 https://warmtenet.acc.nijmegen.nl
 https://warmtenet.nijmegen.nl
+https://warmtetransitie.urk.nl
 https://water.deventer.nl
 https://water.omgevingswet.overheid.nl
 https://wdm01.gooisemeren.nl

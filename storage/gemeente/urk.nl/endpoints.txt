@@ -1,0 +1,16 @@
+http://mijn.urk.nl
+http://urk.nl
+http://www.urk.nl
+https://api.meldingen-acc.urk.nl
+https://api.meldingen.urk.nl
+https://bedrijfsgrond.urk.nl
+https://cmsurknet.urk.nl
+https://iburgerzaken.urk.nl
+https://keyhub.urk.nl
+https://meldingen-acc.urk.nl
+https://meldingen.urk.nl
+https://pip-test.urk.nl
+https://pip.urk.nl
+https://test-cmsurknet.urk.nl
+https://urknet.urk.nl
+https://warmtetransitie.urk.nl
