@@ -1322,6 +1322,7 @@ autodiscover.roerdalen.nl
 autodiscover.roermond.nl
 autodiscover.roosendaal.nl
 autodiscover.rotterdam.nl
+autodiscover.rozendaal.nl
 autodiscover.s-hertogenbosch.nl
 autodiscover.sp.haarlemmermeer.nl
 autodiscover.sp.nijmegen.nl
@@ -1401,6 +1402,7 @@ bastion365.katwijk.nl
 bastion365.nederweert.nl
 bastion365.nieuwkoop.nl
 bastion365.roermond.nl
+bastion365.rozendaal.nl
 batched.opsterland.nl
 bb1051246.kerkrade.nl
 bb1051247.kerkrade.nl
@@ -1584,6 +1586,7 @@ belastingen-acc.arnhem.nl
 belastingen-acc.nijmegen.nl
 belastingen-acc.renkum.nl
 belastingen-acc.rheden.nl
+belastingen-acc.rozendaal.nl
 belastingen-test.gilzerijen.nl
 belastingen-test.molenlanden.nl
 belastingen.accp.s-hertogenbosch.nl
@@ -1609,6 +1612,7 @@ belastingen.rheden.nl
 belastingen.rhenen.nl
 belastingen.rijswijk.nl
 belastingen.roermond.nl
+belastingen.rozendaal.nl
 belastingloket.acc.emmen.nl
 belastingloket.barneveld.nl
 belastingloket.echt-susteren.nl
@@ -2640,6 +2644,7 @@ digikoppeling.renswoude.nl
 digikoppeling.rheden.nl
 digikoppeling.rhenen.nl
 digikoppeling.rotterdam.nl
+digikoppeling.rozendaal.nl
 digikoppeling.ta-twd.rotterdam.nl
 digikoppeling.test.amstelveen.nl
 digikoppeling.test.bernheze.org
@@ -3606,6 +3611,7 @@ filecap.meerssen.nl
 filecap.noordoostpolder.nl
 filecap.nunspeet.nl
 filecap.renswoude.nl
+filecap.rozendaal.nl
 filecapacc.breda.nl
 files.data.amsterdam.nl
 fileshare.adds.amsterdam.nl
@@ -4606,6 +4612,7 @@ iburgerzaken.rheden.nl
 iburgerzaken.rijssen-holten.nl
 iburgerzaken.roermond.nl
 iburgerzaken.roosendaal.nl
+iburgerzaken.rozendaal.nl
 iburgerzaken.s-hertogenbosch.nl
 ibzpink.aaenhunze.nl
 ibzpink.achtkarspelen.nl
@@ -4728,6 +4735,7 @@ ibzpink.rheden.nl
 ibzpink.rijssen-holten.nl
 ibzpink.roermond.nl
 ibzpink.roosendaal.nl
+ibzpink.rozendaal.nl
 ice.nijmegen.nl
 icm-ast.asten.nl
 id-beheer-erfpacht-acc.amsterdam.nl
@@ -6281,6 +6289,7 @@ mks.overbetuwe.nl
 mks.preprod.amsterdam.nl
 mks.putten.nl
 mks.rheden.nl
+mks.rozendaal.nl
 mks.test.amsterdam.nl
 mks01.amsterdam.nl
 mks01msn.meerssen.nl
@@ -6332,9 +6341,11 @@ moerdijk.nl
 moh-acc.arnhem.nl
 moh-acc.renkum.nl
 moh-acc.rheden.nl
+moh-acc.rozendaal.nl
 moh.arnhem.nl
 moh.renkum.nl
 moh.rheden.nl
+moh.rozendaal.nl
 mohis.koggenland.nl
 mohistest.koggenland.nl
 molenlanden.nl
@@ -6883,6 +6894,7 @@ openpdc.ommen.nl
 openpdc.pijnacker-nootdorp.nl
 openpdc.ridderkerk.nl
 openpdc.rijssen-holten.nl
+openpdc.rozendaal.nl
 openpdc.s-hertogenbosch.nl
 openpub.albrandswaard.nl
 openpub.alkmaar.nl
@@ -6903,6 +6915,7 @@ openpub.ommen.nl
 openpub.pijnacker-nootdorp.nl
 openpub.ridderkerk.nl
 openpub.rijssen-holten.nl
+openpub.rozendaal.nl
 openpub.s-hertogenbosch.nl
 openstad.deventer.nl
 openstad.emmen.nl
@@ -7725,6 +7738,7 @@ qr.meierijstad.nl
 qr.nijmegen.nl
 qr.renkum.nl
 qr.rheden.nl
+qr.rozendaal.nl
 qr.testdigitaalgemeenteloket.alphenaandenrijn.nl
 qr.testdigitaalgemeenteloket.kaagenbraassem.nl
 quarantine.bernheze.org
@@ -7852,6 +7866,7 @@ remote.lochem.nl
 remote.montferland.info
 remote.nieuwegein.nl
 remote.renkum.nl
+remote.rozendaal.nl
 remotewerken.middendelfland.nl
 renkum.nl
 renswoude.nl
@@ -7917,6 +7932,7 @@ rotterdam.nl
 routebureau.groningen.nl
 router.dordrecht.nl
 router.ede.nl
+rozendaal.nl
 rp.beverwijk.nl
 rpl3.alphenaandenrijn.nl
 rpl3.amsterdam.nl
@@ -9817,6 +9833,7 @@ webmail.pmb.amsterdam.nl
 webmail.purmerend.nl
 webmail.rijswijk.nl
 webmail.roerdalen.nl
+webmail.rozendaal.nl
 webmail.samen.rhenen.nl
 webmail.stadsarchief.amsterdam.nl
 webmail.test.hoorn.nl
@@ -10803,6 +10820,7 @@ www.roosendaal.nl
 www.roplan.haarlemmermeer.nl
 www.roteb.rotterdam.nl
 www.rotterdam.nl
+www.rozendaal.nl
 www.ruimtelijkeplannen.amsterdam.nl
 www.ruimtelijkeplannen.dronten.nl
 www.ruimtevoorjou.groningen.nl

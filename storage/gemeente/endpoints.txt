@@ -149,6 +149,7 @@ http://autodiscover.rhenen.nl
 http://autodiscover.rijswijk.nl
 http://autodiscover.roermond.nl
 http://autodiscover.roosendaal.nl
+http://autodiscover.rozendaal.nl
 http://autodiscover.s-hertogenbosch.nl
 http://autodiscover.sp.nijmegen.nl
 http://autodiscover.stadspartij.nijmegen.nl
@@ -1153,6 +1154,7 @@ https://bastion365.hollandskroon.nl
 https://bastion365.nederweert.nl
 https://bastion365.nieuwkoop.nl
 https://bastion365.roermond.nl
+https://bastion365.rozendaal.nl
 https://bbz-ioaz.rotterdam.nl
 https://bec.acc.topdesk.denhaag.nl
 https://bec.ot.topdesk.denhaag.nl
@@ -1257,6 +1259,7 @@ https://belastingen-acc.arnhem.nl
 https://belastingen-acc.nijmegen.nl
 https://belastingen-acc.renkum.nl
 https://belastingen-acc.rheden.nl
+https://belastingen-acc.rozendaal.nl
 https://belastingen-test.gilzerijen.nl
 https://belastingen-test.molenlanden.nl
 https://belastingen.accp.s-hertogenbosch.nl
@@ -1275,6 +1278,7 @@ https://belastingen.molenlanden.nl
 https://belastingen.nijmegen.nl
 https://belastingen.renkum.nl
 https://belastingen.rheden.nl
+https://belastingen.rozendaal.nl
 https://belastingloket.barneveld.nl
 https://belastingloket.elburg.nl
 https://belastingloket.emmen.nl
@@ -2401,6 +2405,7 @@ https://filecap.gemert-bakel.nl
 https://filecap.haarlem.nl
 https://filecap.noordoostpolder.nl
 https://filecap.nunspeet.nl
+https://filecap.rozendaal.nl
 https://filecapacc.breda.nl
 https://fileshare.adds.amsterdam.nl
 https://fileshare.amsterdam.nl
@@ -2987,6 +2992,7 @@ https://iburgerzaken.rheden.nl
 https://iburgerzaken.rijssen-holten.nl
 https://iburgerzaken.roermond.nl
 https://iburgerzaken.roosendaal.nl
+https://iburgerzaken.rozendaal.nl
 https://iburgerzaken.s-hertogenbosch.nl
 https://id-beheer-erfpacht-acc.amsterdam.nl
 https://id-beheer-erfpacht-dev.amsterdam.nl
@@ -4223,6 +4229,7 @@ https://openpdc.ommen.nl
 https://openpdc.pijnacker-nootdorp.nl
 https://openpdc.ridderkerk.nl
 https://openpdc.rijssen-holten.nl
+https://openpdc.rozendaal.nl
 https://openpdc.s-hertogenbosch.nl
 https://openpub.albrandswaard.nl
 https://openpub.alkmaar.nl
@@ -4243,6 +4250,7 @@ https://openpub.ommen.nl
 https://openpub.pijnacker-nootdorp.nl
 https://openpub.ridderkerk.nl
 https://openpub.rijssen-holten.nl
+https://openpub.rozendaal.nl
 https://openpub.s-hertogenbosch.nl
 https://openstad.deventer.nl
 https://openstad.enschede.nl
@@ -4664,6 +4672,7 @@ https://qr.meierijstad.nl
 https://qr.nijmegen.nl
 https://qr.renkum.nl
 https://qr.rheden.nl
+https://qr.rozendaal.nl
 https://qr.testdigitaalgemeenteloket.alphenaandenrijn.nl
 https://qr.testdigitaalgemeenteloket.kaagenbraassem.nl
 https://raad.acceptatie.asten.nl
@@ -4764,6 +4773,7 @@ https://rooster.denhelder.nl
 https://roplan.haarlemmermeer.nl
 https://rostar.goes.nl
 https://rotterdam.nl
+https://rozendaal.nl
 https://rp.beverwijk.nl
 https://rpl3.nissewaard.nl
 https://rs010.rotterdam.nl
@@ -6199,6 +6209,7 @@ https://www.roermond.nl
 https://www.rondleidingen.landvancuijk.nl
 https://www.roosendaal.nl
 https://www.rotterdam.nl
+https://www.rozendaal.nl
 https://www.ruimtelijkeplannen.dronten.nl
 https://www.ruimtevoorjou.groningen.nl
 https://www.s-hertogenbosch.nl
