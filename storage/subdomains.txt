@@ -6,8 +6,8 @@ ibzpink
 edienstenburgerzaken
 edienstenburgerzaken-test
 intranet
-mijn
 webmail
+mijn
 afspraken
 simsite
 digikoppeling
@@ -32,9 +32,9 @@ geo
 waarmerk
 vpn
 ruimtelijkeplannen
+raad
 adfs
 api.meldingen
-raad
 pv
 afspraak
 broker
@@ -52,10 +52,10 @@ dacceptatiemidoffice
 openpdc
 dloket
 dmidoffice
+data
 test-ipa
 openpub
 osb
-data
 belastingbalie
 enterpriseregistration
 api.meldingen-acc
@@ -66,11 +66,11 @@ digikoppeling-test
 formulier
 remote
 kaart
+login
 cmsoo
 cloudadapter-test
 zaken
 flowmailer-tracking
-login
 hybrid
 berichten
 beeldbank
@@ -107,6 +107,7 @@ gemeente
 acc-formulier
 acc-podiumd-logs
 bastion365
+woningbouwkaart
 simcms-open
 dtestmidoffice
 jaarstukken
@@ -114,6 +115,7 @@ begroting
 smtp
 e
 mailing
+belastingportaal
 mijnzorg
 parkeren-test
 subsidies
@@ -125,7 +127,7 @@ acc-mijn
 acc-notificaties
 acc-objecten
 acc-objecttypen
-woningbouwkaart
+sts
 klantcontact
 cmsintranet
 internetafspraken
@@ -133,7 +135,6 @@ test-cmsintranet
 doemee
 squit2go
 transfer
-belastingportaal
 afvalkalender
 snelbaliepp
 api.betalen
@@ -146,7 +147,6 @@ acc-openklant
 acc-openzaak
 keycloak
 podiumd-logs
-sts
 contentbeheer
 uc
 mdm
@@ -201,6 +201,7 @@ filetransfer
 fs
 mijnzorg-acc
 subsidies-backend
+maps
 melddesk
 thuiswerken
 mail2
@@ -236,7 +237,6 @@ praatmee
 bis
 geodata
 belastingen-acc
-maps
 magazine
 onderzoek
 www.test
@@ -422,6 +422,9 @@ koppelvlak
 social
 www.mijn
 zoek
+belastingportaal.acc
+inloggen.belastingportaal
+inloggen.belastingportaal.acc
 www.acceptatie
 simform-preproductie
 edienstenaanvragensd-acceptatie
@@ -638,9 +641,6 @@ drop
 ondernemersplein
 repository
 verkeersbesluiten
-belastingportaal.acc
-inloggen.belastingportaal
-inloggen.belastingportaal.acc
 edienstenburgerzaken.test
 aanvragen
 autorisatie
@@ -753,6 +753,7 @@ geoserver-test
 pwa
 k2fin
 solliciterenbij
+zaak
 director
 ketenportaal.acceptatie
 nedplan
@@ -3583,7 +3584,6 @@ patternlab
 tr
 zaak-acc
 zaak-dev
-zaak
 accapp03.ovh
 acccorsa02.ovh
 accmksprd.ovh
@@ -7209,3 +7209,8 @@ webmail3
 www.automator2
 www.iarchieftest
 www.kofax
+ontdek
+trouwen
+tyn-makelaar
+webreserveren
+zaaktest
