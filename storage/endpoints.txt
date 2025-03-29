@@ -297,6 +297,7 @@ http://mijn.houten.nl
 http://mijn.meierijstad.nl
 http://mijn.ooststellingwerf.nl
 http://mijn.opsterland.nl
+http://mijn.staphorst.nl
 http://mijnsbl-test.amsterdam.nl
 http://mijnwerkplek.schagen.nl
 http://mijnzorg-acc.aalsmeer.nl
@@ -496,6 +497,7 @@ https://WOZ-loket.heeze-leende.nl
 https://Www.lochem.nl
 https://a-consent.sarphati.amsterdam.nl
 https://a-surveys3.ggd.amsterdam.nl
+https://aaa.staphorst.nl
 https://aaenhunze.nl
 https://aalsmeer.nl
 https://aalten-checker-preprod.aalten.nl
@@ -878,6 +880,7 @@ https://afspraak.moerdijk.nl
 https://afspraak.oude-ijsselstreek.nl
 https://afspraak.pekela.nl
 https://afspraak.rijswijk.nl
+https://afspraak.staphorst.nl
 https://afspraakmaken.dronten.nl
 https://afspraakmaken.enschede.nl
 https://afspraakmaken.losser.nl
@@ -2694,6 +2697,7 @@ https://felix.opmeer.nl
 https://felix.opsterland.nl
 https://felix.reuseldemierden.nl
 https://felix.schiermonnikoog.nl
+https://felix.staphorst.nl
 https://felixburgerzaken.nissewaard.nl
 https://felixpdc.doesburg.nl
 https://festival.landvancuijk.nl
@@ -3347,6 +3351,7 @@ https://iburgerzaken.schagen.nl
 https://iburgerzaken.smallingerland.nl
 https://iburgerzaken.someren.nl
 https://iburgerzaken.sonenbreugel.nl
+https://iburgerzaken.staphorst.nl
 https://ict.gemeentesluis.nl
 https://id-beheer-erfpacht-acc.amsterdam.nl
 https://id-beheer-erfpacht-dev.amsterdam.nl
@@ -3539,6 +3544,7 @@ https://intranet.peelenmaas.nl
 https://intranet.rucphen.nl
 https://intranet.schouwen-duiveland.nl
 https://intranet.sittard-geleen.nl
+https://intranet.staphorst.nl
 https://intranetacc.apeldoorn.nl
 https://intranetcms-acc.bergendal.nl
 https://intranetcms-test.nissewaard.nl
@@ -4663,6 +4669,7 @@ https://open.rhenen.nl
 https://open.roosendaal.nl
 https://open.sint-michielsgestel.nl
 https://open.sonenbreugel.nl
+https://open.staphorst.nl
 https://openagenda.ridderkerk.nl
 https://openbareruimte.deventer.nl
 https://opendata.assen.nl
@@ -5612,6 +5619,7 @@ https://simsite.opsterland.nl
 https://simsite.pekela.nl
 https://simsite.scherpenzeel.nl
 https://simsite.simpelveld.nl
+https://simsite.staphorst.nl
 https://sint-agatha.landvancuijk.nl
 https://sint-hubert.landvancuijk.nl
 https://sint-michielsgestel.nl
@@ -5742,6 +5750,7 @@ https://sso.ir.rotterdam.nl
 https://sso.omgevingswet.overheid.nl
 https://sso.perf.omgevingswet.overheid.nl
 https://sso.pre.omgevingswet.overheid.nl
+https://sso.staphorst.nl
 https://sso.tst2905.omgevingswet.overheid.nl
 https://ssorad.rotterdam.nl
 https://ssp-acc.purmerend.nl
@@ -5780,6 +5789,7 @@ https://standaarden-tst.overheid.nl
 https://standaarden.omgevingswet.overheid.nl
 https://standaarden.overheid.nl
 https://standplaatsen.heerenveen.nl
+https://staphorst.nl
 https://stappenteller.rotterdam.nl
 https://start.almelo.nl
 https://start.beverwijk.nl

@@ -25,8 +25,8 @@ test
 werkplek
 dkd
 meldingen
-portal
 open
+portal
 acc
 waarmerk
 adfs
@@ -35,10 +35,10 @@ geo
 pv
 ruimtelijkeplannen
 raad
+afspraak
 vpn
 broker
 parkeren
-afspraak
 betalen
 werkenbij
 zaaksysteem-accept
@@ -102,6 +102,7 @@ gemeente
 acc-formulier
 acc-podiumd-logs
 connect
+simcms-open
 begroting
 mailing
 mijnzorg
@@ -116,7 +117,6 @@ acc-objecttypen
 bastion365
 woningbouwkaart
 klantcontact
-simcms-open
 dtestmidoffice
 jaarstukken
 smtp
@@ -136,6 +136,7 @@ internetafspraken
 test-intranet
 doemee
 squit2go
+mdm
 transfer
 opendata
 mobiel
@@ -153,7 +154,6 @@ contentbeheer
 gasten
 micollab
 uc
-mdm
 AutoDiscover
 testloket
 evenementen
@@ -193,6 +193,7 @@ mijnzorg-acc
 veiligdelen
 subsidies-backend
 melddesk
+thuiswerken
 telewerken
 auth
 woo
@@ -226,7 +227,6 @@ preprod-mijn
 geodata
 belastingen-acc
 maps
-thuiswerken
 magazine
 mail2
 onderzoek
@@ -528,12 +528,14 @@ mijnuitkering
 gbionline
 squit2gotest
 de
+aaa
 preprod-belastingportaal
 squitxo
 hpdm
 online
 neuron
 aov
+sso
 validsign
 lyncweb
 servicegateway
@@ -854,7 +856,6 @@ geovisiaonline
 belastingen-test
 test-meedoen
 ucweb01-ext
-aaa
 vergaderingen
 trobit
 xential-test
@@ -871,7 +872,6 @@ mijngkb
 open-formulieren
 ows-app
 rekentool
-sso
 www.begroting
 www.stemvan
 corsanxt
@@ -924,6 +924,7 @@ edienstenpreprod
 mobiliteitsplan
 website.acceptatie
 testwerkplek
+telefoon
 Cloudadapter-test
 rds
 communicatie
@@ -5444,7 +5445,6 @@ pencportaal
 pip-preproductie
 pv.gevondenvoorwerpen
 squit2goprod
-telefoon
 zuil
 Cloudadapter-prod
 bouwkavels
@@ -6938,3 +6938,6 @@ stan-acc
 stan
 wenen
 xential-prod
+epos
+probeer-epos
+simcms-epos
