@@ -173,6 +173,7 @@ http://autodiscover.valkenswaard.nl
 http://autodiscover.veendam.nl
 http://autodiscover.veenendaal.nl
 http://autodiscover.venlo.nl
+http://autodiscover.venray.nl
 http://autodiscover.vsp.nijmegen.nl
 http://autodiscover.vvd.mookenmiddelaar.nl
 http://autodiscover.vvd.nijmegen.nl
@@ -947,6 +948,7 @@ https://afvalkalender.purmerend.nl
 https://afvalkalender.schouwen-duiveland.nl
 https://afvalkalender.sliedrecht.nl
 https://afvalkalender.sudwestfryslan.nl
+https://afvalkalender.venray.nl
 https://afvalmelding.denhaag.nl
 https://afvalwijzer.lingewaard.nl
 https://agbi.apeldoorn.nl
@@ -1145,6 +1147,7 @@ https://app-ldn.leiden.nl
 https://app.acc.meldingen.amsterdam.nl
 https://app.amsterdam.nl
 https://app.landvancuijk.nl
+https://app.meedoen.venray.nl
 https://app.meldingen.amsterdam.nl
 https://app.sittard-geleen.nl
 https://app4.nijmegen.nl
@@ -1457,6 +1460,7 @@ https://belastingen.rozendaal.nl
 https://belastingen.soest.nl
 https://belastingen.stadskanaal.nl
 https://belastingen.sudwestfryslan.nl
+https://belastingen.venray.nl
 https://belastingloket.barneveld.nl
 https://belastingloket.elburg.nl
 https://belastingloket.emmen.nl
@@ -1522,6 +1526,7 @@ https://besluitvorming.doetinchem.nl
 https://bestand.gemeentebest.nl
 https://bestanden.dongen.nl
 https://bestanden.veere.nl
+https://bestanden.venray.nl
 https://bestandverzenden.leeuwarden.nl
 https://bestelportaal.denhaag.nl
 https://bestemmingsplan.rhenen.nl
@@ -1834,6 +1839,7 @@ https://cmsoo.raalte.nl
 https://cmsoo.roermond.nl
 https://cmsoo.tiel.nl
 https://cmsoo.velsen.nl
+https://cmsoo.venray.nl
 https://cmssamenatwork.stichtsevecht.nl
 https://cmssocial.montferland.info
 https://cmstest-insite.nijmegen.nl
@@ -2559,6 +2565,7 @@ https://eloket.sudwestfryslan.nl
 https://eloket.tiel.nl
 https://eloket.twenterand.nl
 https://eloket.velsen.nl
+https://eloket.venray.nl
 https://eloketstaging.almere.nl
 https://eloketstaging.putten.nl
 https://elokettest.bloemendaal.nl
@@ -3264,6 +3271,7 @@ https://huisvestingkwetsbaredoelgroep.rotterdam.nl
 https://huisvuilkalender.denhaag.nl
 https://huizen.nl
 https://hulpwijzer.hattem.nl
+https://hulpwijzer.venray.nl
 https://huurprijscalculator.rotterdam.nl
 https://huursportzaal.kampen.nl
 https://hwok-test.gemeentehw.nl
@@ -3434,6 +3442,7 @@ https://iburgerzaken.valkenswaard.nl
 https://iburgerzaken.veere.nl
 https://iburgerzaken.velsen.nl
 https://iburgerzaken.venlo.nl
+https://iburgerzaken.venray.nl
 https://ict.gemeentesluis.nl
 https://id-beheer-erfpacht-acc.amsterdam.nl
 https://id-beheer-erfpacht-dev.amsterdam.nl
@@ -4118,6 +4127,7 @@ https://meedoen.hellendoorn.nl
 https://meedoen.hollandskroon.nl
 https://meedoen.losser.nl
 https://meedoen.schagen.nl
+https://meedoen.venray.nl
 https://meedoenregeling.dongen.nl
 https://meerssen.nl
 https://meet.ggd.amsterdam.nl
@@ -4214,6 +4224,7 @@ https://merk.denhaag.nl
 https://mfa-rooster.arnhem.nl
 https://mfa.eijsden-margraten.nl
 https://mfawerkplek.horstaandemaas.nl
+https://mfawerkplek.venray.nl
 https://mform.meerssen.nl
 https://mft-fa.amsterdam.nl
 https://mft.amsterdam.nl
@@ -4340,6 +4351,7 @@ https://mijninkomen.goeree-overflakkee.nl
 https://mijninkomen.gouda.nl
 https://mijninkomen.oss.nl
 https://mijninkomen.terneuzen.nl
+https://mijninkomen.venray.nl
 https://mijnintranet.haaksbergen.nl
 https://mijnintranet.heerlen.nl
 https://mijnjgz.ggd.groningen.nl
@@ -4713,6 +4725,7 @@ https://omgevingsvisie.rucphen.nl
 https://omgevingsvisie.scherpenzeel.nl
 https://omgevingsvisie.utrecht.nl
 https://omgevingsvisie.veendam.nl
+https://omgevingsvisie.venray.nl
 https://omgevingswet.bronckhorst.nl
 https://omgevingswet.deventer.nl
 https://omgevingswet.gemeentemaashorst.nl
@@ -4782,8 +4795,10 @@ https://ooststellingwerf.nl
 https://oostzaan.nl
 https://open-acceptatie.tilburg.nl
 https://open-formulieren-test.horstaandemaas.nl
+https://open-formulieren-test.venray.nl
 https://open-formulieren.groningen.nl
 https://open-formulieren.horstaandemaas.nl
+https://open-formulieren.venray.nl
 https://open-hub-acceptatie.tilburg.nl
 https://open-hub.tilburg.nl
 https://open-test.nijmegen.nl
@@ -6235,6 +6250,7 @@ https://testeloket.sonenbreugel.nl
 https://testeloket.tiel.nl
 https://testeloket.twenterand.nl
 https://testeloket.velsen.nl
+https://testeloket.venray.nl
 https://testformulieren.bodegraven-reeuwijk.nl
 https://testformulieren.haarlemmermeer.nl
 https://testformulieren.veldhoven.nl
@@ -6434,6 +6450,7 @@ https://veiligmailen.almelo.nl
 https://veiligmailen.beverwijk.nl
 https://velp.landvancuijk.nl
 https://velsen.nl
+https://venray.nl
 https://vergaderingen.goirle.nl
 https://vergeten.sudwestfryslan.nl
 https://vergoedingen.nijmegen.nl
@@ -6624,6 +6641,7 @@ https://webmail.terneuzen.nl
 https://webmail.tynaarlo.nl
 https://webmail.valkenburg.nl
 https://webmeeting.brunssum.nl
+https://webproxy.venray.nl
 https://webserver.schiedam.nl
 https://webservice-decosdvl.acc.amsterdam.nl
 https://webservice-decosdvl.amsterdam.nl
@@ -7081,6 +7099,7 @@ https://www.horstaandemaas.nl
 https://www.houten.nl
 https://www.houtwijkbegroot.denhaag.nl
 https://www.huizen.nl
+https://www.hulpwijzer.venray.nl
 https://www.idee.roosendaal.nl
 https://www.iedereenwerktmee.amsterdam.nl
 https://www.ihp-acc.denhaag.nl
@@ -7131,6 +7150,7 @@ https://www.mariahoeveaanzet.denhaag.nl
 https://www.matenpark.apeldoorn.nl
 https://www.medemblik.nl
 https://www.meedenken.arnhem.nl
+https://www.meedoen.venray.nl
 https://www.meerssen.nl
 https://www.meierijstad.nl
 https://www.meppel.nl
@@ -7339,6 +7359,7 @@ https://www.veenkolonien.groningen.nl
 https://www.veldhoven.nl
 https://www.velsen.nl
 https://www.venlo.nl
+https://www.venray.nl
 https://www.vga.amsterdam.nl
 https://www.victor.amsterdam.nl
 https://www.vraagbaak.doesburg.nl

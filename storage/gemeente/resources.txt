@@ -48,6 +48,7 @@ Fmiskoppeling-test.veldhoven.nl
 G0498.drechterland.nl
 GBAV.emmen.nl
 GBAVT.emmen.nl
+GT-Loket.venray.nl
 GouwBAG-test.haarlemmermeer.nl
 HTA-stuf.medemblik.nl
 HTA.koggenland.nl
@@ -470,6 +471,7 @@ acc.tynaarlo.nl
 acc.vaals.nl
 acc.veldhoven.nl
 acc.venlo.nl
+acc.venray.nl
 acc.vergunningcheck.amsterdam.nl
 acc.vergunningschecker.amsterdam.nl
 acc.verkeer.amsterdam.nl
@@ -864,6 +866,7 @@ afvalkalender.purmerend.nl
 afvalkalender.schouwen-duiveland.nl
 afvalkalender.sliedrecht.nl
 afvalkalender.sudwestfryslan.nl
+afvalkalender.venray.nl
 afvalmelding-acc.denhaag.nl
 afvalmelding-dev.denhaag.nl
 afvalmelding.denhaag.nl
@@ -1159,6 +1162,7 @@ app.acc.meldingen.amsterdam.nl
 app.acceptatie.steenwijkerland.nl
 app.amsterdam.nl
 app.landvancuijk.nl
+app.meedoen.venray.nl
 app.meldingen.amsterdam.nl
 app.overbetuwe.nl
 app.sittard-geleen.nl
@@ -1526,6 +1530,7 @@ autodiscover.veendam.nl
 autodiscover.veenendaal.nl
 autodiscover.veere.nl
 autodiscover.venlo.nl
+autodiscover.venray.nl
 autodiscover.vsp.nijmegen.nl
 autodiscover.vvd.haarlemmermeer.nl
 autodiscover.vvd.mookenmiddelaar.nl
@@ -1852,6 +1857,7 @@ belastingen.rozendaal.nl
 belastingen.soest.nl
 belastingen.stadskanaal.nl
 belastingen.sudwestfryslan.nl
+belastingen.venray.nl
 belastingloket.acc.emmen.nl
 belastingloket.barneveld.nl
 belastingloket.echt-susteren.nl
@@ -1939,6 +1945,7 @@ bestanden.lansingerland.nl
 bestanden.lingewaard.nl
 bestanden.s-hertogenbosch.nl
 bestanden.veere.nl
+bestanden.venray.nl
 bestandversturen.amersfoort.nl
 bestandverzenden.leeuwarden.nl
 bestelportaal.denhaag.nl
@@ -2492,6 +2499,7 @@ cmsoo.raalte.nl
 cmsoo.roermond.nl
 cmsoo.tiel.nl
 cmsoo.velsen.nl
+cmsoo.venray.nl
 cmssamenatwork.stichtsevecht.nl
 cmssocial.montferland.info
 cmssocialintranet.middendelfland.nl
@@ -3893,6 +3901,7 @@ eloket.tiel.nl
 eloket.twenterand.nl
 eloket.uitgeest.nl
 eloket.velsen.nl
+eloket.venray.nl
 eloketstaging.almere.nl
 eloketstaging.putten.nl
 elokettest.bloemendaal.nl
@@ -4991,6 +5000,7 @@ gs01msn.meerssen.nl
 gsmpt.stadstoezicht.amsterdam.nl
 gt-loket.noord-beveland.nl
 gt-loket.velsen.nl
+gt-loket.venray.nl
 gtbag-va01.gemeente-oldambt.nl
 guest.beekdaelen.nl
 guest.brunssum.nl
@@ -5175,6 +5185,7 @@ huisvuilkalender.acc.denhaag.nl
 huisvuilkalender.denhaag.nl
 huizen.nl
 hulpwijzer.hattem.nl
+hulpwijzer.venray.nl
 hupextern.acc.denhaag.nl
 huurprijscalculator.rotterdam.nl
 huursportzaal.kampen.nl
@@ -5402,6 +5413,7 @@ iburgerzaken.valkenswaard.nl
 iburgerzaken.veere.nl
 iburgerzaken.velsen.nl
 iburgerzaken.venlo.nl
+iburgerzaken.venray.nl
 ibzpink.aaenhunze.nl
 ibzpink.achtkarspelen.nl
 ibzpink.almelo.nl
@@ -5545,6 +5557,7 @@ ibzpink.valkenswaard.nl
 ibzpink.veere.nl
 ibzpink.velsen.nl
 ibzpink.venlo.nl
+ibzpink.venray.nl
 ice.nijmegen.nl
 icm-ast.asten.nl
 ict.gemeentesluis.nl
@@ -6326,6 +6339,7 @@ kompas.rotterdam.nl
 komverder.krimpenaandenijssel.nl
 koningsdag.groningen.nl
 koppeling-belastingbalie.doetinchem.nl
+koppeling.venray.nl
 koppelingen.krimpenerwaard.nl
 koppelingentest.krimpenerwaard.nl
 koppelpoort.amersfoort.nl
@@ -6903,6 +6917,7 @@ meedoen.hellendoorn.nl
 meedoen.hollandskroon.nl
 meedoen.losser.nl
 meedoen.schagen.nl
+meedoen.venray.nl
 meedoenregeling.dongen.nl
 meent.alkmaar.nl
 meerssen.nl
@@ -7025,6 +7040,7 @@ mfa-rooster.arnhem.nl
 mfa.denhaag.nl
 mfa.eijsden-margraten.nl
 mfawerkplek.horstaandemaas.nl
+mfawerkplek.venray.nl
 mform.meerssen.nl
 mft-fa.amsterdam.nl
 mft.amsterdam.nl
@@ -7211,6 +7227,7 @@ mijninkomen.goeree-overflakkee.nl
 mijninkomen.gouda.nl
 mijninkomen.oss.nl
 mijninkomen.terneuzen.nl
+mijninkomen.venray.nl
 mijnintranet.haaksbergen.nl
 mijnintranet.heerlen.nl
 mijnjgz.ggd.groningen.nl
@@ -7883,6 +7900,7 @@ omgevingsvisie.rucphen.nl
 omgevingsvisie.scherpenzeel.nl
 omgevingsvisie.utrecht.nl
 omgevingsvisie.veendam.nl
+omgevingsvisie.venray.nl
 omgevingswet.bronckhorst.nl
 omgevingswet.deventer.nl
 omgevingswet.gemeentemaashorst.nl
@@ -7968,8 +7986,10 @@ oov.brievenbus.amsterdam.nl
 opa.amsterdam.nl
 open-acceptatie.tilburg.nl
 open-formulieren-test.horstaandemaas.nl
+open-formulieren-test.venray.nl
 open-formulieren.groningen.nl
 open-formulieren.horstaandemaas.nl
+open-formulieren.venray.nl
 open-hub-acceptatie.tilburg.nl
 open-hub.tilburg.nl
 open-notificaties.cg-intern.acc.utrecht.nl
@@ -8751,6 +8771,7 @@ preprod-mijninkomen.goeree-overflakkee.nl
 preprod-mijninkomen.gouda.nl
 preprod-mijninkomen.oss.nl
 preprod-mijninkomen.terneuzen.nl
+preprod-mijninkomen.venray.nl
 preprod-mijnoverzicht.boxtel.nl
 preprod-mijnoverzicht.purmerend.nl
 preprod-mijnoverzicht.sint-michielsgestel.nl
@@ -9459,6 +9480,7 @@ sbc01.haarlem.nl
 sbc01.horstaandemaas.nl
 sbc01.leusden.nl
 sbc01.venlo.nl
+sbc01.venray.nl
 sbir1.lev.delft.nl
 sbir2.lev.delft.nl
 sbs-t.utrecht.nl
@@ -10840,6 +10862,7 @@ testeloket.sonenbreugel.nl
 testeloket.tiel.nl
 testeloket.twenterand.nl
 testeloket.velsen.nl
+testeloket.venray.nl
 testembrace.nunspeet.nl
 testextsec.purmerend.nl
 testformulieren.bodegraven-reeuwijk.nl
@@ -10848,6 +10871,7 @@ testformulieren.veldhoven.nl
 testinhuiz.huizen.nl
 testinloggen.haarlemmermeer.nl
 testkaart.alphenaandenrijn.nl
+testkoppeling.venray.nl
 testloket.dinkelland.nl
 testloket.groningen.nl
 testloket.hattem.nl
@@ -11222,6 +11246,7 @@ veiligmailen.haaksbergen.nl
 velp.landvancuijk.nl
 velsen.nl
 veluwsepoort.ede.nl
+venray.nl
 vergaderen-adp.amsterdam.nl
 vergaderen.acc.amsterdam.nl
 vergaderen.amsterdam.nl
@@ -11656,6 +11681,7 @@ webmail3.twenterand.nl
 webmailacc.utrecht.nl
 webmailpost.amstelveen.nl
 webmeeting.brunssum.nl
+webproxy.venray.nl
 webpublishing.vaals.nl
 webreserveren.tynaarlo.nl
 webscada-rps.doetinchem.nl
@@ -12035,6 +12061,7 @@ www.acc.mijngkb.midden-groningen.nl
 www.acc.piwik.echt-susteren.nl
 www.acc.piwik.roosendaal.nl
 www.acc.roosendaal.nl
+www.acc.venray.nl
 www.acccorsa02.ovh.gemeentebeek.nl
 www.acceptatie.aalsmeer.nl
 www.acceptatie.amstelveen.nl
@@ -12455,6 +12482,7 @@ www.houten.nl
 www.houtwijkbegroot.denhaag.nl
 www.huiselijkgeweld.rotterdam.nl
 www.huizen.nl
+www.hulpwijzer.venray.nl
 www.hvd.groningen.nl
 www.iarchief.ooststellingwerf.nl
 www.iarchief.twenterand.nl
@@ -12569,6 +12597,7 @@ www.medemblik.nl
 www.medezeggenschap.groningen.nl
 www.meedenken.arnhem.nl
 www.meedoen.hollandskroon.nl
+www.meedoen.venray.nl
 www.meerssen.nl
 www.meierijstad.nl
 www.meppel.nl
@@ -12745,6 +12774,7 @@ www.preprod.clo.gemeentehulst.nl
 www.prifill-test.sudwestfryslan.nl
 www.prijsvraag-zwembad.apeldoorn.nl
 www.prod-kodision-cli.sudwestfryslan.nl
+www.prodoud.venray.nl
 www.proeftuin.amsterdam.nl
 www.projecten.denhaag.nl
 www.purmerend.nl
@@ -12954,6 +12984,7 @@ www.veere.nl
 www.veldhoven.nl
 www.velsen.nl
 www.venlo.nl
+www.venray.nl
 www.vga.amsterdam.nl
 www.vibe.rhenen.nl
 www.victor.amsterdam.nl
