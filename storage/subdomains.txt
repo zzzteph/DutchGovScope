@@ -6,14 +6,14 @@ ibzpink
 edienstenburgerzaken
 edienstenburgerzaken-test
 intranet
-afspraken
 mijn
+afspraken
 webmail
 simsite
 digikoppeling
 mail
-secure
 simcms
+secure
 acceptatie
 preproductie
 probeer
@@ -40,12 +40,12 @@ afspraak
 raad
 iparticipatie
 parkeren
+betalen
+werkenbij
 zaaksysteem-accept
 gemeenteraad
 dacceptatieloket
 dacceptatiemidoffice
-betalen
-werkenbij
 dloket
 dmidoffice
 data
@@ -59,9 +59,9 @@ api.meldingen-acc
 meldingen-acc
 openpub
 osb
+omgevingsvisie
 formulier
 enterpriseregistration
-omgevingsvisie
 cmsoo
 loket.acceptatie
 remote
@@ -176,6 +176,7 @@ uc
 _dmarc
 magazines
 m
+filetransfer
 website
 mijnzorg-acc
 college
@@ -207,7 +208,6 @@ afspraakmaken
 contact
 www.portal
 servicedesk
-filetransfer
 services
 omgevingswet
 preprod-mijn
@@ -429,6 +429,7 @@ awmag
 loket-acc
 plannen
 geoserver
+accdrop
 nhr
 mijnmobiel
 storefront
@@ -477,6 +478,7 @@ burgerloket.acceptatie
 openformulieren-test
 secure-test
 topdesk
+cjg
 geoservices
 klantportaal
 lvs
@@ -539,6 +541,7 @@ digitaalloket
 hta
 mijnsociaaldomein-acc
 www.belastingloket
+mijndesktop
 a-feeds
 a-magazines
 a-opendata
@@ -680,7 +683,6 @@ acc-podiumd-logs.dev
 bedrijfsafval
 vastgoed
 pwa
-accdrop
 solliciterenbij
 director
 ketenportaal.acceptatie
@@ -755,7 +757,6 @@ m1
 m2
 sem
 stats.intranet
-cjg
 kennisportaal
 mfa
 uitslagen
@@ -952,7 +953,6 @@ smtp10
 smtp20
 www.afspraakmaken
 mijnwerkplek
-mijndesktop
 a-cms
 a-cms1
 a-cms2
@@ -6832,3 +6832,10 @@ preprod-mijnwijkteam
 profilemanager
 rdweb01
 squitxo-test
+cmsflash
+flash
+mijnafspraak
+probeer-cjg
+simcms-cjg
+test-cmsflash
+test-flash
