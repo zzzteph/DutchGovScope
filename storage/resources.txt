@@ -489,6 +489,7 @@ acc.statistiek.data.amsterdam.nl
 acc.statistiek.mijn.overheid.nl
 acc.stedebroec.nl
 acc.stemvan.opsterland.nl
+acc.stichtsevecht.nl
 acc.straatnotes.amsterdam.nl
 acc.stubs.lpc.mijn.overheid.nl
 acc.subsidie-feiten.amsterdam.nl
@@ -953,6 +954,7 @@ alsb.amsterdam.nl
 alsiam.s-hertogenbosch.nl
 altlas.dbi.amsterdam.nl
 alwayson.lopik.nl
+alwayson.stichtsevecht.nl
 alwaysonvpn.derondevenen.nl
 am-dev.rotterdam.nl
 am-preprod.rotterdam.nl
@@ -1525,6 +1527,7 @@ autodiscover.srh.haarlemmermeer.nl
 autodiscover.stadspartij.nijmegen.nl
 autodiscover.stadspartijdnf.nijmegen.nl
 autodiscover.stedebroec.nl
+autodiscover.stichtsevecht.nl
 autodiscover.test.haarlemmermeer.nl
 autodiscover.uitwijk.denhaag.nl
 autodiscover.vsp.nijmegen.nl
@@ -2224,6 +2227,7 @@ broker.purmerend.nl
 broker.raalte.nl
 broker.roermond.nl
 broker.rotterdam.nl
+broker.stichtsevecht.nl
 broker.test.purmerend.nl
 bronckhorst.nl
 bronro.overbetuwe.nl
@@ -2404,7 +2408,10 @@ clicksfm.capelleaandenijssel.nl
 clicksfm.lansingerland.nl
 clicksfm.nieuws.lansingerland.nl
 clicksfm.nieuwsbrief.goeree-overflakkee.nl
+clicksfm.nieuwsbrief.stichtsevecht.nl
 clicksfm.persberichten.lansingerland.nl
+clicksfm.persberichten.stichtsevecht.nl
+clicksfm.stichtsevecht.nl
 client.rotterdam.nl
 clientcert-prd.groningen.nl
 clientcert-tst.groningen.nl
@@ -2537,6 +2544,7 @@ cmsoo.oldenzaal.nl
 cmsoo.oostgelre.nl
 cmsoo.raalte.nl
 cmsoo.roermond.nl
+cmssamenatwork.stichtsevecht.nl
 cmssocial.montferland.info
 cmssocialintranet.middendelfland.nl
 cmstest-insite.nijmegen.nl
@@ -3275,6 +3283,7 @@ dkd.rijssen-holten.nl
 dkd.rijswijk.nl
 dkd.schouwen-duiveland.nl
 dkd.soest.nl
+dkd.stichtsevecht.nl
 dkde-vold21.gemeente-oldambt.nl
 dkdn.epe.nl
 dkdservice-test.meppel.nl
@@ -3562,6 +3571,7 @@ e.openstad.enschede.nl
 e.openstad.haarlemmermeer.nl
 e.openstad.nijmegen.nl
 e.oss.nl
+e.stichtsevecht.nl
 e.videobellen.toeslagen.nl
 e2s-connector-prd.heerlen.nl
 e2s-connector-tst.heerlen.nl
@@ -3849,11 +3859,13 @@ eforms.landgraaf.nl
 eforms.peelenmaas.nl
 eformulier.heerlen.nl
 eformulieren-test.noordoostpolder.nl
+eformulieren-test.stichtsevecht.nl
 eformulieren.doetinchem.nl
 eformulieren.gemeentesluis.nl
 eformulieren.kerkrade.nl
 eformulieren.noordoostpolder.nl
 eformulieren.preprod.doetinchem.nl
+eformulieren.stichtsevecht.nl
 egress-repro.alkmaar.nl
 ehv-lpi-ap-15.lopik.nl
 ehvsubsidie.eindhoven.nl
@@ -4424,6 +4436,7 @@ formulieren-test.culemborg.nl
 formulieren-test.duiven.nl
 formulieren-test.rijswijk.nl
 formulieren.acc.amsterdam.nl
+formulieren.acc.stichtsevecht.nl
 formulieren.accp.s-hertogenbosch.nl
 formulieren.almere.nl
 formulieren.amersfoort.nl
@@ -4470,6 +4483,7 @@ formulieren.purmerend.nl
 formulieren.rijswijk.nl
 formulieren.s-hertogenbosch.nl
 formulieren.stadskanaal.nl
+formulieren.stichtsevecht.nl
 formulieren.test.oss.nl
 formulieren1.amsterdam.nl
 formulierenacc.breda.nl
@@ -5445,6 +5459,7 @@ iburgerzaken.smallingerland.nl
 iburgerzaken.someren.nl
 iburgerzaken.sonenbreugel.nl
 iburgerzaken.staphorst.nl
+iburgerzaken.stichtsevecht.nl
 ibzpink.aaenhunze.nl
 ibzpink.achtkarspelen.nl
 ibzpink.almelo.nl
@@ -5574,6 +5589,7 @@ ibzpink.smallingerland.nl
 ibzpink.someren.nl
 ibzpink.sonenbreugel.nl
 ibzpink.staphorst.nl
+ibzpink.stichtsevecht.nl
 ice.nijmegen.nl
 icm-ast.asten.nl
 ict-ers.werkenvoornederland.nl
@@ -6150,6 +6166,7 @@ kaarten.ooststellingwerf.nl
 kaarten.pekela.nl
 kaarten.rijssen-holten.nl
 kaarten.sint-michielsgestel.nl
+kaarten.stichtsevecht.nl
 kaartlaag.rotterdam.nl
 kaartviewer.barneveld.nl
 kaartviewer.gemeentehulst.nl
@@ -7156,6 +7173,7 @@ mijn.schouwen-duiveland.nl
 mijn.sittard-geleen.nl
 mijn.soest.nl
 mijn.staphorst.nl
+mijn.stichtsevecht.nl
 mijn.str10.acc.belastingdienst.nl
 mijn.str10.tst.belastingdienst.nl
 mijn.str11.tst.belastingdienst.nl
@@ -7487,6 +7505,7 @@ msoid.arnhem.nl
 msp-a.logius.nl
 mstat.meerssen.nl
 msteamsbellen.soest.nl
+mt-link.stichtsevecht.nl
 mta-sts.belastingdienst.nl
 mta-sts.duiven.nl
 mta-sts.gennep.nl
@@ -7635,6 +7654,7 @@ nieuwsbrief.enschede.nl
 nieuwsbrief.goeree-overflakkee.nl
 nieuwsbrief.losser.nl
 nieuwsbrief.sint-michielsgestel.nl
+nieuwsbrief.stichtsevecht.nl
 nieuwsbrieven.amsterdam.nl
 nieuwsbrieven.gorinchem.nl
 nieuwsbrieven.hengelo.nl
@@ -7808,6 +7828,7 @@ octopus-acc-doc.denhaag.nl
 octopus-acc-docs.sittard-geleen.nl
 octopus-acc.denhaag.nl
 octopus-acc.sittard-geleen.nl
+octopus-acc.stichtsevecht.nl
 octopus-doc.denhaag.nl
 octopus-docs.sittard-geleen.nl
 octopus-portaal.acc.denhaag.nl
@@ -7816,12 +7837,15 @@ octopus-portaal.denhaag.nl
 octopus-prd.heerlen.nl
 octopus-tst.heerlen.nl
 octopus-vm.sittard-geleen.nl
+octopus-webdav-acc.stichtsevecht.nl
 octopus-webdav.acc.amsterdam.nl
 octopus-webdav.amsterdam.nl
+octopus-webdav.stichtsevecht.nl
 octopus.acc.amsterdam.nl
 octopus.amsterdam.nl
 octopus.denhaag.nl
 octopus.sittard-geleen.nl
+octopus.stichtsevecht.nl
 ocwhfi.acc.topdesk.denhaag.nl
 ocwhfi.topdesk.denhaag.nl
 odb.acc.belastingdienst.nl
@@ -8107,6 +8131,7 @@ openpdc.rozendaal.nl
 openpdc.s-hertogenbosch.nl
 openpdc.stedebroec.nl
 openpdckb.stedebroec.nl
+openpub.acc.stichtsevecht.nl
 openpub.albrandswaard.nl
 openpub.alkmaar.nl
 openpub.barendrecht.nl
@@ -8129,6 +8154,8 @@ openpub.rijssen-holten.nl
 openpub.rozendaal.nl
 openpub.s-hertogenbosch.nl
 openpub.sittard-geleen.nl
+openpub.stichtsevecht.nl
+openpub.test.stichtsevecht.nl
 openpubkb.stedebroec.nl
 openstad.deventer.nl
 openstad.emmen.nl
@@ -8212,6 +8239,7 @@ osb.oudewater.nl
 osb.purmerend.nl
 osb.roosendaal.nl
 osb.stedebroec.nl
+osb.stichtsevecht.nl
 osbacc.alkmaar.nl
 osbacc.almere.nl
 osbacc.drechterland.nl
@@ -8225,6 +8253,7 @@ osbacc.montfoort.nl
 osbacc.nederweert.nl
 osbacc.oudewater.nl
 osbacc.stedebroec.nl
+osbacc.stichtsevecht.nl
 osbtest.capelleaandenijssel.nl
 osbtest.roosendaal.nl
 osdorp.amsterdam.nl
@@ -8441,12 +8470,15 @@ pcorsa.landgraaf.nl
 pcportal.nijmegen.nl
 pda.sittard-geleen.nl
 pdc.acc.omgevingswet.overheid.nl
+pdc.acc.stichtsevecht.nl
 pdc.alkmaar.nl
 pdc.buren.nl
 pdc.int.omgevingswet.overheid.nl
 pdc.omgevingswet.overheid.nl
 pdc.pre.omgevingswet.overheid.nl
 pdc.sittard-geleen.nl
+pdc.stichtsevecht.nl
+pdc.test.stichtsevecht.nl
 pdcschulddienstverlening.rotterdam.nl
 peelenmaas.nl
 pekela.nl
@@ -8454,9 +8486,11 @@ penc-notes.rotterdam.nl
 pencportaal.gemeentehw.nl
 pencportal.ede.nl
 pensioen.toeslagen.nl
+peoplesync.stichtsevecht.nl
 perf.omgevingswet.overheid.nl
 persberichten.lansingerland.nl
 persberichten.rijksoverheid.nl
+persberichten.stichtsevecht.nl
 personeelshandboek.bronckhorst.nl
 personeelsplanning.beekdaelen.nl
 personeelsplanning.kampen.nl
@@ -8829,6 +8863,7 @@ preprodbroker.gemeentehw.nl
 preprodbroker.leeuwarden.nl
 preprodbroker.leusden.nl
 preprodbroker.nunspeet.nl
+preprodbroker.stichtsevecht.nl
 preproddigidmachtigen.nissewaard.nl
 preprodformulieren.huizen.nl
 preprodgdintaker.diemen.nl
@@ -9151,6 +9186,7 @@ raadsarchief.stadskanaal.nl
 raadsinformatie.eindhoven.nl
 raadsinformatie.kerkrade.nl
 raadsinformatie.oegstgeest.nl
+raadsinformatie.stichtsevecht.nl
 raadsleden.eijsden-margraten.nl
 raadsnet.aalten.nl
 raadsnet.bernheze.org
@@ -9258,6 +9294,7 @@ remote.nieuwegein.nl
 remote.renkum.nl
 remote.rozendaal.nl
 remote.schagen.nl
+remote.stichtsevecht.nl
 remotewerken.middendelfland.nl
 renkum.nl
 renswoude.nl
@@ -9388,7 +9425,9 @@ ruimtelijkeplannen.s-hertogenbosch.nl
 ruimtelijkeplannen.sonenbreugel.nl
 ruimtelijkeplannen.steenwijkerland.nl
 ruimtevoorjou.groningen.nl
+ruimtevoorwerken.stichtsevecht.nl
 rvmetadata.logius.nl
+rvw.stichtsevecht.nl
 rw.belastingdienst.nl
 rwn.belastingdienst.nl
 rx-mission-publiceren.borne.nl
@@ -9446,6 +9485,7 @@ samen.rijswijk.nl
 samen.s-hertogenbosch.nl
 samen.schagen.nl
 samen.stedebroec.nl
+samenatwork.stichtsevecht.nl
 samenduurzaam.geldrop-mierlo.nl
 samenindebuurt.heerlen.nl
 samenmet.beesel.nl
@@ -9620,6 +9660,7 @@ secure.roerdalen.nl
 secure.roermond.nl
 secure.simpelveld.nl
 secure.sittard-geleen.nl
+secure.stichtsevecht.nl
 secure1.gulpen-wittem.nl
 securegemnet.roermond.nl
 securegw.bunschoten.nl
@@ -10372,6 +10413,7 @@ stemvan.midden-groningen.nl
 stemvan.opsterland.nl
 stevensbeek.landvancuijk.nl
 sthbcp02.alkmaar.nl
+stichtsevecht.nl
 stijlgids.overheid.nl
 stkbcp01.alkmaar.nl
 stoepvrij.groningen.nl
@@ -10611,6 +10653,7 @@ telewerken.haarlemmermeer.nl
 telewerken.hellevoetsluis.nl
 telewerken.kampen.nl
 telewerken.nederbetuwe.nl
+telewerken.stichtsevecht.nl
 telewerkentest.nederbetuwe.nl
 telgids.nissewaard.nl
 teradek.roermond.nl
@@ -10637,6 +10680,7 @@ test-cmsintranet.meierijstad.nl
 test-cmsintranet.sittard-geleen.nl
 test-cmsintranet.steenwijkerland.nl
 test-cmsnopnet.noordoostpolder.nl
+test-cmssamenatwork.stichtsevecht.nl
 test-cmssocial.montferland.info
 test-cmssocialintranet.middendelfland.nl
 test-contact.gemert-bakel.nl
@@ -10762,6 +10806,7 @@ test-podiumd-logs.rotterdam.nl
 test-psproxy.belastingdienst.nl
 test-qr.eindhoven.nl
 test-redactie.nissewaard.nl
+test-samenatwork.stichtsevecht.nl
 test-secure.brunssum.nl
 test-secure.heerlen.nl
 test-secure.landgraaf.nl
@@ -10840,6 +10885,7 @@ test.services.dronten.nl
 test.sint-michielsgestel.nl
 test.sittard-geleen.nl
 test.sonenbreugel.nl
+test.stichtsevecht.nl
 test.stub.mijn.overheid.nl
 test.subsites.leiden.nl
 testafspraken.alkmaar.nl
@@ -11180,6 +11226,7 @@ uitvaartagenda-test.apeldoorn.nl
 uitvaartagenda.apeldoorn.nl
 uitvaartplanner.sittard-geleen.nl
 uitwijk.bunschoten.nl
+uitwijk.stichtsevecht.nl
 uitwisseling.drimmelen.nl
 unesco.landvancuijk.nl
 uniwin-acc.amsterdam.nl
@@ -11242,6 +11289,7 @@ veiligdelen.landvancuijk.nl
 veiligdelen.meppel.nl
 veiligdelen.montferland.info
 veiligdelen.schagen.nl
+veiligdelen.stichtsevecht.nl
 veiligmailen.almelo.nl
 veiligmailen.beverwijk.nl
 veiligmailen.haaksbergen.nl
@@ -11419,6 +11467,7 @@ vpn.peelenmaas.nl
 vpn.rotterdam.nl
 vpn.rucphen.nl
 vpn.sittard-geleen.nl
+vpn.stichtsevecht.nl
 vpn.zuid.amsterdam.nl
 vpn02.denhaag.nl
 vpn365.denhelder.nl
@@ -11700,6 +11749,7 @@ webmail.schiedam.nl
 webmail.sittard-geleen.nl
 webmail.stadsarchief.amsterdam.nl
 webmail.steenwijkerland.nl
+webmail.stichtsevecht.nl
 webmail.test.hoorn.nl
 webmail.werkenvoornederland.nl
 webmail.west.amsterdam.nl
@@ -12862,6 +12912,7 @@ www.stemmen.amsterdam.nl
 www.stempasfonds.ooststellingwerf.nl
 www.stemvan.groningen.nl
 www.stemvan.opsterland.nl
+www.stichtsevecht.nl
 www.sts.haarlemmermeer.nl
 www.stwidocosw02.ooststellingwerf.nl
 www.suikerkwartier.groningen.nl
@@ -13072,6 +13123,7 @@ zaaksysteem-accept.oude-ijsselstreek.nl
 zaaksysteem-accept.roosendaal.nl
 zaaksysteem-accept.schiedam.nl
 zaaksysteem-accept.schouwen-duiveland.nl
+zaaksysteem-accept.stichtsevecht.nl
 zaaksysteem.ede.nl
 zaaksysteem.eindhoven.nl
 zaaksysteem.hilversum.nl
