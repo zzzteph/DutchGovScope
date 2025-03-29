@@ -9,8 +9,8 @@ intranet
 webmail
 mijn
 mail
-simsite
 afspraken
+simsite
 digikoppeling
 simcms
 preproductie
@@ -33,10 +33,10 @@ geo
 open
 parkeren
 api.meldingen
+raad
 adfs
 vpn
 ruimtelijkeplannen
-raad
 betalen
 broker
 zaaksysteem-accept
@@ -56,8 +56,8 @@ dmidoffice
 openpdc
 belastingbalie
 openpub
-remote
 cmsoo
+remote
 enterpriseregistration
 api.meldingen-acc
 loket.acceptatie
@@ -71,12 +71,12 @@ flowmailer-tracking
 kaart
 beeldbank
 zaken
-formulier
-cloudadapter
 kaarten
+formulier
+parkeren-acc
+cloudadapter
 hybrid
 berichten
-parkeren-acc
 govroam
 denkmee
 digikoppeling.test
@@ -85,13 +85,13 @@ cmsintranet
 connect
 test-intranet
 dtestloket
+piwik
 extranet
 financien
 acc-broker
 belastingloket
 portaal
 osbacc
-piwik
 test-cmsintranet
 samen
 verkiezingen
@@ -113,6 +113,7 @@ gemeente
 bastion365
 dtestmidoffice
 e
+preprodbroker
 vergunningintaker
 simform
 mijninkomen
@@ -127,7 +128,6 @@ micollab
 mdm
 begroting
 mobiel
-preprodbroker
 izaaksuite
 subsidies
 preprod-mijninkomen
@@ -140,6 +140,7 @@ acc-podiumd-logs
 sts
 jaarstukken
 smtp
+mta-sts
 mailing
 belastingportaal
 gisib
@@ -159,7 +160,6 @@ AutoDiscover
 cryptshare
 transfer
 opendata
-mta-sts
 maps
 vdi
 email
@@ -221,6 +221,7 @@ fmreturn
 guest
 iarchief
 publicroam
+formulieren-test
 jccapi
 mijnsociaalplein
 preprod-mijnsociaalplein
@@ -251,7 +252,6 @@ e-loket
 afval
 citrix
 support
-formulieren-test
 data-test
 xential
 key2gbav
@@ -456,6 +456,7 @@ router
 digitalebalie
 mobility
 vergunningen
+mta-sts.raad
 raadsinformatie
 duo
 gbionline
@@ -614,7 +615,7 @@ klantportaal.acc
 prod
 grondwater
 zorgloket
-mta-sts.raad
+acceptatiebelastingen
 www.socialekaart
 attachments
 authenticatiedienst
@@ -986,7 +987,6 @@ forms-test
 www.remote
 www.zorgloket
 zmm
-acceptatiebelastingen
 acceptatievergunningen
 www.acc.piwik
 betaal
@@ -1204,6 +1204,7 @@ nwro
 zwemmen
 wsn-mail
 spamfilter
+autodiscover.raad
 a-cms
 a-cms1
 a-cms2
@@ -7738,7 +7739,6 @@ wmw-vvc02
 www.wmw-vvc02
 acceptatie.notarisportaal
 armoedepact
-autodiscover.raad
 notarisportaal
 potjeswijzer
 selfserviceportal
