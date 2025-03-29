@@ -31,8 +31,8 @@ meldingen
 open
 afspraak
 geo
-parkeren
 api.meldingen
+parkeren
 raad
 vpn
 adfs
@@ -55,13 +55,13 @@ dloket
 dmidoffice
 openpdc
 belastingbalie
+api.meldingen-acc
+meldingen-acc
 remote
 openpub
 cmsoo
 enterpriseregistration
-api.meldingen-acc
 loket.acceptatie
-meldingen-acc
 cloudadapter-test
 osb
 omgevingsvisie
@@ -90,9 +90,9 @@ piwik
 extranet
 financien
 acc-broker
+klantcontact
 belastingloket
 osbacc
-klantcontact
 test-cmsintranet
 samen
 doemee
@@ -200,8 +200,10 @@ objecten
 objecttypen
 openklant
 inproces.acceptatie
+fmreturn
 intranet-acc
 mobile
+bor
 outlook
 testloket
 geoportaal
@@ -220,7 +222,6 @@ onderzoek
 woo
 bag
 byod
-fmreturn
 guest
 iarchief
 publicroam
@@ -229,7 +230,6 @@ jccapi
 mijnsociaalplein
 preprod-mijnsociaalplein
 _autodiscover._tcp
-bor
 archief
 vth
 belastingbalie-test
@@ -378,6 +378,8 @@ mijn-preproductie
 ibabs
 www.afspraken
 prefill
+corsa-prod
+corsa-test
 mijndesktop
 feeds
 english
@@ -478,8 +480,6 @@ cars
 mijnsociaaldomein-acc
 wonen
 gemeentewinkel
-corsa-prod
-corsa-test
 awmail
 awseg
 awtunnel
