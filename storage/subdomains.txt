@@ -5,8 +5,8 @@ iburgerzaken
 ibzpink
 edienstenburgerzaken
 edienstenburgerzaken-test
-afspraken
 intranet
+afspraken
 mijn
 webmail
 simsite
@@ -21,9 +21,9 @@ loket
 felix
 formulieren
 test
-meldingen
 werkplek
 eloket
+meldingen
 dkd
 portal
 acc
@@ -34,9 +34,9 @@ adfs
 geo
 broker
 ruimtelijkeplannen
+vpn
 pv
 afspraak
-vpn
 iparticipatie
 raad
 parkeren
@@ -91,6 +91,7 @@ filecap
 verkiezingen
 osbacc
 extranet
+gemeente
 acc-formulier
 acc-podiumd-logs
 cloudadapter
@@ -104,7 +105,6 @@ parkeren-test
 snelbalie
 preprod
 qr
-gemeente
 acc-mijn
 acc-notificaties
 acc-objecten
@@ -147,6 +147,7 @@ openklant
 sip
 contentbeheer
 test-intranet
+micollab
 mdm
 AutoDiscover
 testloket
@@ -168,7 +169,6 @@ inproces
 gasten
 jccapi
 inloggen
-micollab
 uc
 _dmarc
 magazines
@@ -235,6 +235,7 @@ _autodiscover._tcp
 vth
 acceptatie-open
 bestanden
+mx1
 zaaksysteem
 handhaving
 cms
@@ -292,7 +293,7 @@ sport
 openstad
 jongin
 www.intranet
-mx1
+mx2
 aeolus
 www.samen
 geoportaal
@@ -371,7 +372,6 @@ img.openstad
 belastingbalie-test
 digitalebalie
 woz-portaal
-mx2
 e.openstad
 stemvan
 sbc01
@@ -6817,3 +6817,10 @@ xmlgw.preprod
 xmlgw
 xmstore
 xmstoreacc
+bijlage
+datadis
+datadis.test
+netiq
+oig
+testwww
+workdrive
