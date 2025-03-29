@@ -21,8 +21,8 @@ felix
 loket
 formulieren
 test
-werkplek
 eloket
+werkplek
 dkd
 open
 acc
@@ -37,10 +37,10 @@ adfs
 api.meldingen
 pv
 afspraak
+betalen
 broker
 zaaksysteem-accept
 parkeren
-betalen
 werkenbij
 iparticipatie
 testeloket
@@ -85,6 +85,7 @@ osbacc
 financien
 kaarten
 verkiezingen
+snelbalie
 digikoppeling.test
 parkeren-acc
 belastingloket
@@ -92,7 +93,6 @@ connect
 www.webmail
 portaal
 piwik
-snelbalie
 duurzaam
 preprod
 extranet
@@ -120,6 +120,7 @@ mijnzorg
 parkeren-test
 subsidies
 preprod-mijninkomen
+snelbaliepp
 siam
 apps
 nieuwsbrief
@@ -136,7 +137,6 @@ doemee
 squit2go
 transfer
 afvalkalender
-snelbaliepp
 api.betalen
 ftp
 openzaak
@@ -189,6 +189,8 @@ contentbeheer.acceptatie
 inproces
 zaken.acceptatie
 jccapi
+mijnsociaalplein
+preprod-mijnsociaalplein
 inloggen
 outlook
 afspraakmaken
@@ -217,8 +219,6 @@ guest
 iarchief
 publicroam
 intranet-acc
-mijnsociaalplein
-preprod-mijnsociaalplein
 ro
 _autodiscover._tcp
 bor
@@ -315,6 +315,7 @@ extern
 mam
 programmabegroting
 test-secure
+woz-loket
 subsidies-login
 burgerloket
 mijnzaken
@@ -372,6 +373,9 @@ nhr
 squit2020.acceptatie
 squit2020publiceren
 personeelsplanning
+klimaatplein
+mijnsociaalportaal-acc
+mijnsociaalportaal
 radius
 digikoppelingtest
 cloud
@@ -395,7 +399,6 @@ logilink
 medewerkers
 connect.test
 contentbeheer.test
-woz-loket
 zaken.test
 grooster
 filr
@@ -476,10 +479,7 @@ eforms
 sentry
 zorg
 acceptatieloket
-klimaatplein
 live
-mijnsociaalportaal-acc
-mijnsociaalportaal
 esb
 identity
 zorgmail
