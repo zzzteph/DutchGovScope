@@ -41,10 +41,10 @@ betalen
 broker
 iparticipatie
 zaaksysteem-accept
-testeloket
-pv
 gemeenteraad
+testeloket
 werkenbij
+pv
 test-ipa
 belastingen
 enterpriseenrollment
@@ -59,11 +59,11 @@ openpub
 cmsoo
 loket.acceptatie
 remote
+osb
 omgevingsvisie
 enterpriseregistration
 api.meldingen-acc
 meldingen-acc
-osb
 login
 cloudadapter-test
 digikoppeling-test
@@ -81,18 +81,18 @@ govroam
 mks
 connect
 dtestloket
+denkmee
 extranet
 digikoppeling.test
 acc-broker
+belastingloket
 cmsintranet
 test-intranet
 portaal
-denkmee
+osbacc
 financien
-belastingloket
 samen
 verkiezingen
-osbacc
 piwik
 duurzaam
 klantcontact
@@ -116,6 +116,7 @@ simform
 mijninkomen
 parkeren-test
 afvalkalender
+qr
 bgt
 woningbouwkaart
 obsurv
@@ -130,7 +131,6 @@ izaaksuite
 subsidies
 preprod-mijninkomen
 dali
-qr
 api.betalen
 nieuwsbrief
 acc-formulier
@@ -228,6 +228,7 @@ belastingbalie-test
 bestanden
 mx1
 mx2
+geoportaal
 www.portal
 cms
 magazines
@@ -255,7 +256,6 @@ acceptatie-open
 jongin
 woz-portaal
 contact
-geoportaal
 handhaving
 mijnsociaaldomein
 servicedesk
@@ -339,6 +339,7 @@ rooster
 teleweb
 uca
 wifi
+radius
 digikoppelingtest
 beeldbankbeheer
 cloud
@@ -396,6 +397,7 @@ regelgeving
 geotest
 moh-acc
 moh
+werk
 www2
 dialin
 media
@@ -416,7 +418,6 @@ klimaatplein
 mijnsociaalportaal-acc
 mijnsociaalportaal
 esb
-radius
 tim
 csc
 mbg1
@@ -444,6 +445,7 @@ mfa
 test.digikoppeling
 intra
 www.openstad
+relay
 www.jongin
 router
 digitalebalie
@@ -464,6 +466,7 @@ acceptatie-intranet
 mijn-preproductie
 digitaal
 localhost
+access
 bezoekersparkeren-acc
 cars
 mijnsociaaldomein-acc
@@ -527,7 +530,6 @@ www.sport
 digitaleplannen
 stadspas
 digid
-werk
 bedrijfsafval
 test-keycloak
 test-openklant
@@ -604,7 +606,6 @@ parkeren-siam
 preprod-sociaalportaal
 sociaalportaal
 efactuur
-relay
 webdav
 webformulieren
 klantportaal.acc
@@ -666,7 +667,6 @@ edienstenpreprod
 mobiliteitsplan
 website.acceptatie
 wijkteam
-access
 preprod-belastingen
 bekendmakingen
 insite
@@ -7850,3 +7850,6 @@ wwng01
 PKIoverheid
 goedendag
 pkioverheid
+geoxchange-prod
+geoxchange-test
+relay2
