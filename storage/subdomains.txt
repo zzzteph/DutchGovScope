@@ -40,11 +40,11 @@ adfs
 betalen
 pv
 zaaksysteem-accept
+gemeenteraad
+testeloket
 werkenbij
 broker
 iparticipatie
-gemeenteraad
-testeloket
 enterpriseenrollment
 dacceptatieloket
 dacceptatiemidoffice
@@ -57,10 +57,10 @@ openpdc
 openpub
 belastingbalie
 omgevingsvisie
+cmsoo
 enterpriseregistration
 loket.acceptatie
 osb
-cmsoo
 api.meldingen-acc
 meldingen-acc
 digikoppeling-test
@@ -166,6 +166,7 @@ meedoen
 gasten
 AutoDiscover
 cryptshare
+bestuur
 zaaksysteem
 evenementen
 website
@@ -186,7 +187,6 @@ inproces
 inloggen
 ro
 outlook
-bestuur
 testloket
 _dmarc
 m
@@ -277,9 +277,11 @@ openformulieren
 awmag
 publicaties
 support
+formulieren-test
 data-test
 intranetcms
 liquit
+www.gemeenteraad
 acc.piwik
 test-secure
 woz-loket
@@ -326,13 +328,11 @@ mijngeldzaken
 rooster
 teleweb
 squit2020publiceren
-formulieren-test
 uca
 wifi
 digikoppelingtest
 beeldbankbeheer
 cloud
-www.gemeenteraad
 extern
 mam
 erfgoed
@@ -348,6 +348,7 @@ mijnzaken
 admin.openstad
 openstad
 woz-portaal
+socialekaart
 www.intranet
 aeolus
 stemvan
@@ -437,7 +438,6 @@ img.openstad
 intra
 digitalebalie
 mobility
-socialekaart
 ondernemen
 raadsinformatie
 duo
@@ -552,6 +552,7 @@ mbg
 clicksfm
 www.afspraak
 pkio1
+dvg
 inproces.test
 mbg2
 subsidies-login.acceptatie
@@ -594,6 +595,7 @@ klantportaal.acc
 prod
 grondwater
 vergunningen
+www.socialekaart
 attachments
 authenticatiedienst
 authenticatiedienst.preprod
@@ -885,7 +887,6 @@ publicatie
 squit2go-backoffice
 webcon
 wijzer
-dvg
 idtst
 bor-acc
 suite4burgerzaken-prod
@@ -946,7 +947,6 @@ www.zorgloket
 zmm
 zorgloket
 mta-sts.raad
-www.socialekaart
 www.acc.piwik
 betaal
 mx3
@@ -7723,3 +7723,5 @@ klicwion
 parkeerlokettest
 secure1ev
 secure1t
+adviesraad
+www.adviesraad
