@@ -745,6 +745,7 @@ afspraak.utrecht.nl
 afspraak.veendam.nl
 afspraak.veenendaal.nl
 afspraak.vijfheerenlanden.nl
+afspraak.vlaardingen.nl
 afspraakformulier.nissewaard.nl
 afspraakmaken.dronten.nl
 afspraakmaken.enschede.nl
@@ -1243,6 +1244,7 @@ artiance.alkmaar.nl
 as.valkenburg.nl
 asd.purmerend.nl
 asde.ede.nl
+aselect.bibliotheek.vlaardingen.nl
 asp01.amsterdam.nl
 asp4all-1.amsterdam.nl
 assen.nl
@@ -1304,6 +1306,8 @@ authenticatiedienst.preprod.gemeentemaasgouw.nl
 authenticatiedienst.preprod.roerdalen.nl
 authenticatiedienst.roerdalen.nl
 authentication.gemeentehw.nl
+authmfa.vlaardingen.nl
+authportal.vlaardingen.nl
 authx.denhaag.nl
 authx1.denhaag.nl
 authx2.denhaag.nl
@@ -1535,6 +1539,7 @@ autodiscover.veere.nl
 autodiscover.venlo.nl
 autodiscover.venray.nl
 autodiscover.vijfheerenlanden.nl
+autodiscover.vlaardingen.nl
 autodiscover.vsp.nijmegen.nl
 autodiscover.vvd.haarlemmermeer.nl
 autodiscover.vvd.mookenmiddelaar.nl
@@ -1605,7 +1610,10 @@ bag.soest.nl
 bag1.gemeentemaasgouw.nl
 baglevering.beekdaelen.nl
 baglv.kerkrade.nl
+bagonline.vlaardingen.nl
+balie2.vlaardingen.nl
 baliealarm.rhenen.nl
+balietest2.vlaardingen.nl
 barendrecht.nl
 bars.emmen.nl
 bas.oss.nl
@@ -2062,6 +2070,7 @@ bi-sociaal.ft.amsterdam.nl
 bi.amsterdam.nl
 bi.rhenen.nl
 bibliotheek.rotterdam.nl
+bibliotheek.vlaardingen.nl
 bibliotheekbenoordenhout.denhaag.nl
 bibob.brievenbus.amsterdam.nl
 biebcgi.utrecht.nl
@@ -3123,6 +3132,7 @@ digikoppeling.test.oegstgeest.nl
 digikoppeling.test.oss.nl
 digikoppeling.test.rhenen.nl
 digikoppeling.test.veenendaal.nl
+digikoppeling.test.vlaardingen.nl
 digikoppeling.texel.nl
 digikoppeling.tilburg.nl
 digikoppeling.twenterand.nl
@@ -3132,6 +3142,7 @@ digikoppeling.veenendaal.nl
 digikoppeling.veere.nl
 digikoppeling.venlo.nl
 digikoppeling.vijfheerenlanden.nl
+digikoppeling.vlaardingen.nl
 digikoppelingadapter.doetinchem.nl
 digikoppelingenproductie.steenwijkerland.nl
 digikoppelingentest.steenwijkerland.nl
@@ -4408,6 +4419,7 @@ formulieren-g4-acc.utrecht.nl
 formulieren-g4.utrecht.nl
 formulieren-intern.hoorn.nl
 formulieren-preprod.veere.nl
+formulieren-preproductie.vlaardingen.nl
 formulieren-test.beesel.nl
 formulieren-test.bronckhorst.nl
 formulieren-test.culemborg.nl
@@ -4469,6 +4481,7 @@ formulieren.tiel.nl
 formulieren.veere.nl
 formulieren.veldhoven.nl
 formulieren.venlo.nl
+formulieren.vlaardingen.nl
 formulieren1.amsterdam.nl
 formulierenacc.breda.nl
 formulierenaccdirect.breda.nl
@@ -5089,6 +5102,7 @@ haven.sittard-geleen.nl
 haven.tst.sittard-geleen.nl
 havenkwartieraanzet.denhaag.nl
 hba.dpg.amsterdam.nl
+hcr.vlaardingen.nl
 hcs01.vaals.nl
 hcs02.vaals.nl
 healthyurbanliving.utrecht.nl
@@ -6792,6 +6806,7 @@ mail.veere.nl
 mail.veldhoven.nl
 mail.venlo.nl
 mail.vijfheerenlanden.nl
+mail.vlaardingen.nl
 mail01.bodegraven-reeuwijk.nl
 mail1.amersfoort.nl
 mail1.groningen.nl
@@ -6809,6 +6824,8 @@ mail22.utrecht.nl
 mail3.smallingerland.nl
 mail4.smallingerland.nl
 mail5.smallingerland.nl
+mailarchief.vlaardingen.nl
+mailbackup.vlaardingen.nl
 mailcamp.utrecht.nl
 mailct.nijmegen.nl
 mailer.utrecht.nl
@@ -6864,6 +6881,7 @@ maps.moerdijk.nl
 maps.rotterdam.nl
 maps.tynaarlo.nl
 maps.venlo.nl
+maps.vlaardingen.nl
 mariahoeveaanzet.denhaag.nl
 marketingtools.goeree-overflakkee.nl
 markt1.nunspeet.nl
@@ -7065,6 +7083,7 @@ mfawerkplek.venray.nl
 mform.meerssen.nl
 mft-fa.amsterdam.nl
 mft.amsterdam.nl
+mft.vlaardingen.nl
 mgapp.heuvelrug.nl
 mheenpark.apeldoorn.nl
 mhp.almelo.nl
@@ -7197,6 +7216,7 @@ mijn.urk.nl
 mijn.veenendaal.nl
 mijn.veere.nl
 mijn.vijfheerenlanden.nl
+mijn.vlaardingen.nl
 mijnaanvraagzi.beuningen.nl
 mijnaanvragensociaaldomein.venlo.nl
 mijnacc.montfoort.nl
@@ -7261,6 +7281,7 @@ mijnleefomgeving.olst-wijhe.nl
 mijnloket.deventer.nl
 mijnloket.ir.rotterdam.nl
 mijnloket.nieuwkoop.nl
+mijnloket.vlaardingen.nl
 mijnloonkostensubsidie-acc.utrecht.nl
 mijnloonkostensubsidie.utrecht.nl
 mijnmobiel.gemeentebeek.nl
@@ -7382,6 +7403,7 @@ mijnzorg.utrecht.nl
 milieudienst.groningen.nl
 milieueducatie.denhaag.nl
 mill.landvancuijk.nl
+minimi.vlaardingen.nl
 minio.cg-intern.acc.utrecht.nl
 mintra.mookenmiddelaar.nl
 misc-geo-01.barneveld.nl
@@ -7437,6 +7459,7 @@ mobiel.ouder-amstel.nl
 mobiel.peelenmaas.nl
 mobiel.renkum.nl
 mobiel.velsen.nl
+mobiel.vlaardingen.nl
 mobielacc.rotterdam.nl
 mobielbeek.gemeentebeek.nl
 mobielhandhaving-migratie.groningen.nl
@@ -7720,6 +7743,7 @@ ns.amsterdam.nl
 ns.apeldoorn.nl
 ns.delft.nl
 ns.gilzerijen.nl
+ns.vlaardingen.nl
 ns01.alkmaar.nl
 ns02.alkmaar.nl
 ns1.arnhem.nl
@@ -8522,12 +8546,14 @@ pingping.amsterdam.nl
 pink-inproces-acc.overbetuwe.nl
 pink-inproces.overbetuwe.nl
 pip-preproductie.gemeentehw.nl
+pip-preproductie.vlaardingen.nl
 pip-test.emmen.nl
 pip-test.haarlemmermeer.nl
 pip-test.urk.nl
 pip.gemeentehw.nl
 pip.haarlemmermeer.nl
 pip.urk.nl
+pip.vlaardingen.nl
 pit.ede.nl
 piwik.almelo.nl
 piwik.bodegraven-reeuwijk.nl
@@ -8702,6 +8728,7 @@ portal.test.oss.nl
 portal.twenterand.nl
 portal.utrecht.nl
 portal.veendam.nl
+portal.vlaardingen.nl
 portal1.denhaag.nl
 portal2.sittard-geleen.nl
 portaltest.haarlemmermeer.nl
@@ -9113,6 +9140,7 @@ pv.roosendaal.nl
 pv.schouwen-duiveland.nl
 pv.terneuzen.nl
 pv.uitgeest.nl
+pv.vlaardingen.nl
 pveopenbareruimte.deventer.nl
 pvh.hoorn.nl
 pw-specificatie.rijssen-holten.nl
@@ -9652,6 +9680,7 @@ secure.valkenburg.nl
 secure.veendam.nl
 secure.veldhoven.nl
 secure.venlo.nl
+secure.vlaardingen.nl
 secure1.gulpen-wittem.nl
 securegemnet.roermond.nl
 securegw.bunschoten.nl
@@ -9683,6 +9712,7 @@ server23.lochem.nl
 serverruimte.dinkelland.nl
 serverruimte.tubbergen.nl
 service.roerdalen.nl
+service.vlaardingen.nl
 service01-acceptatie.eijsden-margraten.nl
 service01.eijsden-margraten.nl
 service02-acceptatie.eijsden-margraten.nl
@@ -9883,6 +9913,7 @@ simform-preproductie.achtkarspelen.nl
 simform-preproductie.gemeentehw.nl
 simform-preproductie.heerenveen.nl
 simform-preproductie.t-diel.nl
+simform-preproductie.vlaardingen.nl
 simform-test.rijswijk.nl
 simform.achtkarspelen.nl
 simform.beuningen.nl
@@ -9893,6 +9924,7 @@ simform.heerlen.nl
 simform.houten.nl
 simform.rijswijk.nl
 simform.t-diel.nl
+simform.vlaardingen.nl
 simpelveld.nl
 simsite.aalten.nl
 simsite.albrandswaard.nl
@@ -10809,6 +10841,7 @@ test.loket.oss.nl
 test.maasdriel.nl
 test.middendrenthe.nl
 test.mijnhulpvraag.rijswijk.nl
+test.mijnloket.vlaardingen.nl
 test.mijnzorg.beekdaelen.nl
 test.moerdijk.nl
 test.nissewaard.nl
@@ -11371,6 +11404,7 @@ vinden.heuvelrug.nl
 vis.gouda.nl
 visvijver.doetinchem.nl
 vitaal.venlo.nl
+vlaardingen.nl
 vlindernet.lingewaard.nl
 vlspmks.velsen.nl
 vlstmks.velsen.nl
@@ -11565,6 +11599,7 @@ web.moerdijk.nl
 web.renswoude.nl
 web.sliedrecht.nl
 web.urk.nl
+web.vlaardingen.nl
 web01.deventer.nl
 web02.deventer.nl
 web2.urk.nl
@@ -11870,6 +11905,7 @@ werkplek.tholen.nl
 werkplek.tilburg.nl
 werkplek.veldhoven.nl
 werkplek.velsen.nl
+werkplek.vlaardingen.nl
 werkplek02.derondevenen.nl
 werkplekcb.kampen.nl
 werkplekspel.tilburg.nl
@@ -12186,6 +12222,7 @@ www.bhv.sudwestfryslan.nl
 www.bi.rhenen.nl
 www.bia.amsterdam.nl
 www.bibliotheek.rotterdam.nl
+www.bibliotheek.vlaardingen.nl
 www.bibliotheekbenoordenhout.denhaag.nl
 www.bikecity.amsterdam.nl
 www.binnenstad.amsterdam.nl
@@ -13021,6 +13058,7 @@ www.vga.amsterdam.nl
 www.vibe.rhenen.nl
 www.victor.amsterdam.nl
 www.vijfheerenlanden.nl
+www.vlaardingen.nl
 www.vpn.haarlemmermeer.nl
 www.vpn.hillegom.nl
 www.vraagbaak.doesburg.nl
@@ -13194,6 +13232,7 @@ zaaksysteem-accept.schouwen-duiveland.nl
 zaaksysteem-accept.stichtsevecht.nl
 zaaksysteem-accept.tholen.nl
 zaaksysteem-accept.tilburg.nl
+zaaksysteem-accept.vlaardingen.nl
 zaaksysteem-acceptatie.venlo.nl
 zaaksysteem-ontwikkeling.vijfheerenlanden.nl
 zaaksysteem.acc.utrecht.nl
@@ -13268,6 +13307,7 @@ zoeken.haarlemmermeer.nl
 zoeken.hengelo.nl
 zoeken.olst-wijhe.nl
 zoekengemeentearchief.gemeentehulst.nl
+zoekpersoon.vlaardingen.nl
 zomer.groningen.nl
 zomerprogramma070-acc.denhaag.nl
 zomerprogramma070.denhaag.nl

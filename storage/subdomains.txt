@@ -21,8 +21,8 @@ probeer
 loket
 test
 formulieren
-eloket
 werkplek
+eloket
 dkd
 acc
 portal
@@ -31,17 +31,17 @@ meldingen
 geo
 ruimtelijkeplannen
 raad
+afspraak
 api.meldingen
 waarmerk
-afspraak
 vpn
 betalen
+pv
 parkeren
 adfs
-pv
+zaaksysteem-accept
 broker
 iparticipatie
-zaaksysteem-accept
 testeloket
 werkenbij
 gemeenteraad
@@ -81,12 +81,12 @@ cloudadapter
 denkmee
 extranet
 financien
+digikoppeling.test
 acc-broker
 test-intranet
 samen
 dtestloket
 osbacc
-digikoppeling.test
 parkeren-acc
 belastingloket
 connect
@@ -124,8 +124,10 @@ simcms-open
 dtestmidoffice
 jaarstukken
 smtp
+mobiel
 mailing
 belastingportaal
+web
 subsidies
 afvalkalender
 snelbaliepp
@@ -142,9 +144,8 @@ contentbeheer
 internetafspraken
 transfer
 opendata
-mobiel
+simform
 gisib
-web
 izaaksuite
 ftp
 openzaak
@@ -165,8 +166,8 @@ cryptshare
 zaaksysteem
 website
 preprodbroker
-simform
 college
+maps
 dali
 jcc
 email
@@ -188,7 +189,6 @@ fs
 preprod-mijn
 veiligdelen
 wachtwoord
-maps
 onderzoek
 vdi
 telewerken
@@ -257,6 +257,7 @@ api.openstad
 exchange
 gemeentearchief
 magazine
+ns
 www.test
 werkenvoor
 parkeervergunningen
@@ -287,6 +288,7 @@ zoeken
 participatie
 documenten
 raadsnet
+simform-preproductie
 gisib-test
 gisibapi-test
 gisibapi
@@ -303,7 +305,6 @@ ro-online
 www.duurzaam
 mozard
 mozardtest
-ns
 wion
 atlas
 app
@@ -353,7 +354,6 @@ www.mijn
 loket.test
 midoffice
 toegang
-simform-preproductie
 sociaaldomein
 stadsarchief
 mijnoverzicht
@@ -430,6 +430,7 @@ gbionline
 gateway
 sso
 www.werkplek
+pip
 bezoekersparkeren
 digitaal
 localhost
@@ -548,6 +549,7 @@ cloudadapter-t
 vsp
 allegroweb
 intra
+mijnloket
 wij
 winkelen
 www.openstad
@@ -606,7 +608,6 @@ autodiscover.groenlinks
 autodiscover.pvda
 autodiscover.vvd
 geoweb
-pip
 testdigikoppeling
 ons
 acceptatie-intranet
@@ -750,6 +751,7 @@ iga
 image.acc-nieuwsbrief
 image.nieuwsbrief
 mas
+mft
 nlx
 octopus-portaal
 octopus-webdav
@@ -907,7 +909,6 @@ cms.openstad
 devapps3
 forms
 haven
-mijnloket
 pop
 staging
 www.staging
@@ -1021,6 +1022,7 @@ siem
 wozportaal
 ediensten
 testwerkplek
+pip-preproductie
 telefoon
 Cloudadapter-test
 cmsjip
@@ -1101,7 +1103,10 @@ mijnwerkplek
 mijnpost
 return
 digitalebelastingbalie
+service
+bibliotheek
 edison-opl
+www.bibliotheek
 oig
 secure-t
 camera
@@ -3094,7 +3099,6 @@ meet.ggd
 meldingenamsterdamsebos
 meldingenweesp
 mft-fa
-mft
 microservices.schoolwijzer
 mijn.data
 mijnbelastingen
@@ -5478,7 +5482,6 @@ hwok-test
 hwok
 mediabank
 pencportaal
-pip-preproductie
 pv.gevondenvoorwerpen
 squit2goprod
 zuil
@@ -6580,7 +6583,6 @@ voorjaarsnota
 krachtigedorpen
 roerdalen-checker-preprod
 roerdalen-checker
-service
 ws013
 ws018
 historiehuis
@@ -6622,7 +6624,6 @@ betaaltoolsorga
 bezettinggebouwen
 bezoek
 bezoekv2
-bibliotheek
 bodemvondsten
 cairo
 checklist
@@ -6810,7 +6811,6 @@ wise-web.bibliotheek
 wsone
 wsone2
 www.backup.crp
-www.bibliotheek
 www.bis
 www.crp
 www.gis
@@ -7616,3 +7616,16 @@ pki-test
 reject.dmarc
 test-cmsjip
 zaaksysteem-ontwikkeling
+aselect.bibliotheek
+authmfa
+authportal
+bagonline
+balie2
+balietest2
+formulieren-preproductie
+hcr
+mailarchief
+mailbackup
+minimi
+test.mijnloket
+zoekpersoon
