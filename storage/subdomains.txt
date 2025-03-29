@@ -32,9 +32,9 @@ geo
 api.meldingen
 waarmerk
 raad
+afspraak
 vpn
 ruimtelijkeplannen
-afspraak
 adfs
 betalen
 pv
@@ -45,22 +45,22 @@ werkenbij
 iparticipatie
 testeloket
 gemeenteraad
+enterpriseenrollment
 dacceptatieloket
 dacceptatiemidoffice
 test-ipa
 belastingen
-enterpriseenrollment
 dloket
 dmidoffice
 data
 openpdc
 openpub
 osb
+belastingbalie
+enterpriseregistration
 api.meldingen-acc
 meldingen-acc
 omgevingsvisie
-belastingbalie
-enterpriseregistration
 loket.acceptatie
 digikoppeling-test
 login
@@ -85,18 +85,18 @@ kaarten
 dtestloket
 osbacc
 financien
+digikoppeling.test
 connect
+portaal
 verkiezingen
 snelbalie
 preprod
-digikoppeling.test
 gemeente
 parkeren-acc
 belastingloket
 test-intranet
 pki
 www.webmail
-portaal
 mijnzorg
 vergunningintaker
 piwik
@@ -107,6 +107,7 @@ filecap
 e
 mijninkomen
 parkeren-test
+siam
 qr
 nieuwsbrief
 acc-formulier
@@ -126,7 +127,6 @@ belastingportaal
 subsidies
 preprod-mijninkomen
 snelbaliepp
-siam
 api.betalen
 apps
 acc-mijn
@@ -185,6 +185,7 @@ kennisbank
 preprod-mijn
 veiligdelen
 wachtwoord
+onderzoek
 vdi
 telewerken
 test-digikoppeling
@@ -203,6 +204,7 @@ _dmarc
 magazines
 m
 filetransfer
+mta-sts
 fs
 mijnzorg-acc
 geodata
@@ -211,7 +213,6 @@ maps
 melddesk
 thuiswerken
 mail2
-onderzoek
 sharefile
 woo
 bag
@@ -234,7 +235,6 @@ cms
 servicedesk
 academie
 api
-mta-sts
 rap
 services
 webservices
@@ -246,6 +246,7 @@ bis
 subsidie
 belastingen-acc
 api.openstad
+gemeentearchief
 magazine
 www.test
 werkenvoor
@@ -268,6 +269,7 @@ burgerloket
 ondernemersloket
 archief
 sport
+belastingbalie-test
 jongin
 bestanden
 mx1
@@ -293,7 +295,6 @@ subsidies.acceptatie
 diensten
 dkd-test
 exchange
-gemeentearchief
 ro-online
 www.duurzaam
 mozard
@@ -327,7 +328,6 @@ mijnzaken
 topdesk
 admin.openstad
 openstad
-belastingbalie-test
 eformulieren
 woz-portaal
 www.intranet
@@ -428,6 +428,7 @@ bezoekersparkeren
 digitaal
 cars
 gemeentewinkel
+mijndesktop
 git
 persberichten
 sharepoint
@@ -507,6 +508,7 @@ testcms-intranet
 csc
 digid-parkeervergunningen
 mbg1
+wmo
 automator
 preprod-mijnoverzicht
 2secure
@@ -635,7 +637,6 @@ corsa-test
 cca-acc
 cca
 wmoloket
-mijndesktop
 a-feeds
 a-magazines
 a-opendata
@@ -810,7 +811,6 @@ corona
 begraafplaatsen
 elokettest
 ondernemers
-wmo
 oud
 testformulieren
 gms
@@ -840,6 +840,7 @@ suite4burgerzaken
 view
 womserver-test
 womserver
+siamtest
 uitwijk
 mbg
 link
@@ -1013,6 +1014,7 @@ www.denkmee
 organisatie
 test-kaartviewer
 test-insite
+veilig
 www.eloket
 www.parkeren
 hybrid1
@@ -3901,7 +3903,6 @@ scan
 webmeeting
 zwembaddebronspot
 mzdtest
-siamtest
 securegw
 preprod-broker
 srvmksbur
@@ -5521,7 +5522,6 @@ pre-simform
 sfbaccess
 sfbwebconf
 test-cmsinsite
-veilig
 videodocs
 webconnector
 administratieportaal-test
@@ -7509,3 +7509,20 @@ iis-vvee21
 intranetdekompanjie
 jeugdplein
 www.xentialtest
+afspraken-burgerserviceloket
+bijveen-acc
+bijveen
+bijveencms-acc
+bijveencms
+gemnet.digikoppeling.test
+gemnet.digikoppeling
+ivor
+kranten
+mijn-test
+raadplegenbrp
+raadsakkoord
+toekomst
+vdtm
+wmonedtest
+wmonedversie
+www.raadsakkoord
