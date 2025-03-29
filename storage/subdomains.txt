@@ -14,10 +14,10 @@ digikoppeling
 mail
 secure
 preproductie
-acceptatie
 simcms
-probeer
+acceptatie
 felix
+probeer
 loket
 test
 formulieren
@@ -86,15 +86,16 @@ dtestloket
 osbacc
 financien
 digikoppeling.test
+parkeren-acc
 connect
 portaal
 verkiezingen
 snelbalie
 preprod
 gemeente
-parkeren-acc
 belastingloket
 test-intranet
+squit2go
 pki
 www.webmail
 mijnzorg
@@ -102,7 +103,7 @@ vergunningintaker
 piwik
 duurzaam
 obsurv
-squit2go
+doemee
 filecap
 e
 mijninkomen
@@ -114,10 +115,10 @@ acc-formulier
 acc-podiumd-logs
 bastion365
 woningbouwkaart
+klantcontact
 cmsintranet
 simcms-open
 test-cmsintranet
-doemee
 dtestmidoffice
 jaarstukken
 begroting
@@ -133,14 +134,15 @@ acc-mijn
 acc-notificaties
 acc-objecten
 acc-objecttypen
+owa
 sip
 sts
-klantcontact
 contentbeheer
 internetafspraken
 transfer
 opendata
 web
+izaaksuite
 afvalkalender
 ftp
 openzaak
@@ -150,8 +152,8 @@ acc-keycloak
 acc-openklant
 acc-openzaak
 keycloak
-owa
 podiumd-logs
+micollab
 uc
 mdm
 AutoDiscover
@@ -161,7 +163,6 @@ preprodbroker
 simform
 college
 gisib
-izaaksuite
 dali
 jcc
 email
@@ -176,7 +177,6 @@ openklant
 connect.acceptatie
 inproces
 gasten
-micollab
 testloket
 zaaksysteem
 evenementen
@@ -229,6 +229,7 @@ bor
 vth
 bestuur
 acceptatie-open
+bestanden
 contact
 handhaving
 cms
@@ -259,6 +260,7 @@ meet
 openformulieren
 publicaties
 citrix
+support
 fmreturn
 data-test
 liquit
@@ -271,7 +273,6 @@ archief
 sport
 belastingbalie-test
 jongin
-bestanden
 mx1
 mx2
 en
@@ -312,7 +313,6 @@ gbi
 gp
 mijngeldzaken
 rooster
-support
 formulieren-test
 intranetcms
 uca
@@ -859,6 +859,7 @@ efacturen
 geokoppeling-t
 geokoppeling
 mijnportaal
+alwaysonvpn
 testmijnzaken
 begraven
 datatest
@@ -1081,6 +1082,7 @@ mijnpost
 return
 digitalebelastingbalie
 edison-opl
+oig
 secure-t
 camera
 pdc.test
@@ -3952,7 +3954,6 @@ mdmcore
 preprod-edienstaanvragensd
 test-cmsdieuwke
 test-dieuwke
-alwaysonvpn
 financialstest
 sammy-acc
 sammy
@@ -6827,7 +6828,6 @@ bijlage
 datadis
 datadis.test
 netiq
-oig
 testwww
 workdrive
 gemnet-dkd
@@ -7526,3 +7526,15 @@ vdtm
 wmonedtest
 wmonedversie
 www.raadsakkoord
+brokersignicat-preprod-x509
+brokersignicat-preprod
+brokersignicat-x509
+brokersignicat
+formulieren-preprod
+ftrust
+gplan-app
+lms
+srv4587
+testmks
+tim-app
+vpsweb

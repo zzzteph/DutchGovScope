@@ -836,6 +836,7 @@ afspraken.tynaarlo.nl
 afspraken.vaals.nl
 afspraken.valkenswaard.nl
 afspraken.veendam.nl
+afspraken.veere.nl
 afspraken2.gorinchem.nl
 afval.acc.denhaag.nl
 afval.assen.nl
@@ -940,6 +941,7 @@ altlas.dbi.amsterdam.nl
 alwayson.lopik.nl
 alwayson.stichtsevecht.nl
 alwaysonvpn.derondevenen.nl
+alwaysonvpn.veere.nl
 am-dev.rotterdam.nl
 am-preprod.rotterdam.nl
 am.rotterdam.nl
@@ -1511,6 +1513,7 @@ autodiscover.valkenburg.nl
 autodiscover.valkenswaard.nl
 autodiscover.veendam.nl
 autodiscover.veenendaal.nl
+autodiscover.veere.nl
 autodiscover.vsp.nijmegen.nl
 autodiscover.vvd.haarlemmermeer.nl
 autodiscover.vvd.mookenmiddelaar.nl
@@ -1913,6 +1916,7 @@ bestanden.hengelo.nl
 bestanden.lansingerland.nl
 bestanden.lingewaard.nl
 bestanden.s-hertogenbosch.nl
+bestanden.veere.nl
 bestandversturen.amersfoort.nl
 bestandverzenden.leeuwarden.nl
 bestelportaal.denhaag.nl
@@ -2159,6 +2163,10 @@ broker.roermond.nl
 broker.rotterdam.nl
 broker.stichtsevecht.nl
 broker.test.purmerend.nl
+brokersignicat-preprod-x509.veere.nl
+brokersignicat-preprod.veere.nl
+brokersignicat-x509.veere.nl
+brokersignicat.veere.nl
 bronckhorst.nl
 bronro.overbetuwe.nl
 bros-academie.deurne.nl
@@ -3063,6 +3071,7 @@ digikoppeling.twenterand.nl
 digikoppeling.tynaarlo.nl
 digikoppeling.valkenswaard.nl
 digikoppeling.veenendaal.nl
+digikoppeling.veere.nl
 digikoppelingadapter.doetinchem.nl
 digikoppelingenproductie.steenwijkerland.nl
 digikoppelingentest.steenwijkerland.nl
@@ -3305,6 +3314,7 @@ doemee.oosterhout.nl
 doemee.peelenmaas.nl
 doemee.terneuzen.nl
 doemee.valkenburg.nl
+doemee.veere.nl
 doesburg.nl
 doetinchem.nl
 doewatmoet-acc.denhaag.nl
@@ -4132,6 +4142,7 @@ felix.terschelling.nl
 felix.twenterand.nl
 felix.urk.nl
 felix.valkenswaard.nl
+felix.veere.nl
 felixburgerzaken.nissewaard.nl
 felixpdc.doesburg.nl
 festival.landvancuijk.nl
@@ -4308,6 +4319,7 @@ formulieren-g4-acc.amsterdam.nl
 formulieren-g4-acc.utrecht.nl
 formulieren-g4.utrecht.nl
 formulieren-intern.hoorn.nl
+formulieren-preprod.veere.nl
 formulieren-test.beesel.nl
 formulieren-test.bronckhorst.nl
 formulieren-test.culemborg.nl
@@ -4366,6 +4378,7 @@ formulieren.stichtsevecht.nl
 formulieren.sudwestfryslan.nl
 formulieren.test.oss.nl
 formulieren.tiel.nl
+formulieren.veere.nl
 formulieren1.amsterdam.nl
 formulierenacc.breda.nl
 formulierenaccdirect.breda.nl
@@ -4427,6 +4440,7 @@ ftp.wpiweb.brievenbus.amsterdam.nl
 ftps.ggd.amsterdam.nl
 ftps.utrecht.nl
 ftptest.utrecht.nl
+ftrust.veere.nl
 funderingsloket.rotterdam.nl
 fw-rtr.alkmaar.nl
 fw.maassluis.nl
@@ -4860,6 +4874,7 @@ gp.midden-groningen.nl
 gp.tilburg.nl
 gpa.apeldoorn.nl
 gpg.apeldoorn.nl
+gplan-app.veere.nl
 gplan.rheden.nl
 gpt.apeldoorn.nl
 grafana.cg-intern.acc.utrecht.nl
@@ -5313,6 +5328,7 @@ iburgerzaken.uithoorn.nl
 iburgerzaken.urk.nl
 iburgerzaken.vaals.nl
 iburgerzaken.valkenswaard.nl
+iburgerzaken.veere.nl
 ibzpink.aaenhunze.nl
 ibzpink.achtkarspelen.nl
 ibzpink.almelo.nl
@@ -5453,6 +5469,7 @@ ibzpink.tynaarlo.nl
 ibzpink.uithoorn.nl
 ibzpink.vaals.nl
 ibzpink.valkenswaard.nl
+ibzpink.veere.nl
 ice.nijmegen.nl
 icm-ast.asten.nl
 ict.gemeentesluis.nl
@@ -5789,6 +5806,7 @@ intranet.tilburg.nl
 intranet.utrecht.nl
 intranet.valkenburg.nl
 intranet.valkenswaard.nl
+intranet.veere.nl
 intranet2.steenwijkerland.nl
 intranetacc.apeldoorn.nl
 intranetacceptatie.kampen.nl
@@ -5885,6 +5903,7 @@ izaaksuite.ooststellingwerf.nl
 izaaksuite.opsterland.nl
 izaaksuite.pijnacker-nootdorp.nl
 izaaksuite.urk.nl
+izaaksuite.veere.nl
 izrm.huizen.nl
 jaarrekening.arnhem.nl
 jaarrekening2021.financieelportaal.etten-leur.nl
@@ -6181,6 +6200,7 @@ klantcontact.lingewaard.nl
 klantcontact.loonopzand.nl
 klantcontact.nissewaard.nl
 klantcontact.opmeer.nl
+klantcontact.veere.nl
 klanten.heemskerk.nl
 klantgeleiding-test.noordoostpolder.nl
 klantgeleiding.gorinchem.nl
@@ -6351,6 +6371,7 @@ live.groningen.nl
 live.landvancuijk.nl
 liveblog.ede.nl
 livestream.lelystad.nl
+lms.veere.nl
 local.oostgelre.nl
 localhost.hillegom.nl
 localhost.opsterland.nl
@@ -6392,6 +6413,7 @@ login.schagen.nl
 login.sittard-geleen.nl
 login.subsidie.leiden.nl
 login.tynaarlo.nl
+login.veere.nl
 logoff.ede.nl
 lois-acc.losser.nl
 lois.losser.nl
@@ -6480,6 +6502,7 @@ loket.texel.nl
 loket.uithoorn.nl
 loket.veendam.nl
 loket.veenendaal.nl
+loket.veere.nl
 loketacc.arnhem.nl
 loketacpt.haarlem.nl
 lokettest.middendrenthe.nl
@@ -6643,6 +6666,7 @@ mail.someren.nl
 mail.stadskanaal.nl
 mail.veendam.nl
 mail.veenendaal.nl
+mail.veere.nl
 mail01.bodegraven-reeuwijk.nl
 mail1.amersfoort.nl
 mail1.groningen.nl
@@ -6927,6 +6951,7 @@ micollab.meerssen.nl
 micollab.pijnacker-nootdorp.nl
 micollab.roermond.nl
 micollab.rucphen.nl
+micollab.veere.nl
 micontentstore.lansingerland.nl
 microservices.schoolwijzer.amsterdam.nl
 micstz.almelo.nl
@@ -7039,6 +7064,7 @@ mijn.texel.nl
 mijn.tholen.nl
 mijn.urk.nl
 mijn.veenendaal.nl
+mijn.veere.nl
 mijnaanvraagzi.beuningen.nl
 mijnacc.montfoort.nl
 mijnacpt.haarlem.nl
@@ -7699,6 +7725,7 @@ oidc.erfpachtprofessionals-ont.amsterdam.nl
 oidc.erfpachtzakelijk-dev.amsterdam.nl
 oidc.erfpachtzakelijk-ont.amsterdam.nl
 oig.rucphen.nl
+oig.veere.nl
 oirschot.nl
 ois.accp.s-hertogenbosch.nl
 ois.amsterdam.nl
@@ -8113,6 +8140,7 @@ owa.schagen.nl
 owa.stadstoezicht.amsterdam.nl
 owa.utrecht.nl
 owa.valkenburg.nl
+owa.veere.nl
 ows-ahp-test.groningen.nl
 ows-ahp.groningen.nl
 ows-app-test.groningen.nl
@@ -8205,6 +8233,7 @@ parkeren-acc.schouwen-duiveland.nl
 parkeren-acc.sittard-geleen.nl
 parkeren-acc.smallingerland.nl
 parkeren-acc.sudwestfryslan.nl
+parkeren-acc.veere.nl
 parkeren-edu.amsterdam.nl
 parkeren-prod.schiedam.nl
 parkeren-siam-prod.schiedam.nl
@@ -8261,6 +8290,7 @@ parkeren.sittard-geleen.nl
 parkeren.smallingerland.nl
 parkeren.sudwestfryslan.nl
 parkeren.valkenswaard.nl
+parkeren.veere.nl
 parkerenapp-prod.schiedam.nl
 parkerendenhaag-test.denhaag.nl
 parkerendenhaag.acc.denhaag.nl
@@ -9673,6 +9703,7 @@ simcms.terschelling.nl
 simcms.twenterand.nl
 simcms.urk.nl
 simcms.valkenswaard.nl
+simcms.veere.nl
 simcms2.beekdaelen.nl
 simcmsintra.bergeijk.nl
 simform-preproductie.achtkarspelen.nl
@@ -9774,6 +9805,7 @@ simsite.twenterand.nl
 simsite.valkenburg.nl
 simsite.valkenswaard.nl
 simsite.veendam.nl
+simsite.veere.nl
 singlegateway.haarlem.nl
 sint-agatha.landvancuijk.nl
 sint-hubert.landvancuijk.nl
@@ -10012,6 +10044,7 @@ squit2go.purmerend.nl
 squit2go.rijssen-holten.nl
 squit2go.twenterand.nl
 squit2go.valkenburg.nl
+squit2go.veere.nl
 squit2goprod.gemeentehw.nl
 squit2gotest-backoffice.enschede.nl
 squit2gotest.enschede.nl
@@ -10030,6 +10063,7 @@ srmvaprd.ovh.gemeentebeek.nl
 srmvauitwijk.ovh.gemeentebeek.nl
 srv-app52.smallingerland.nl
 srv-dmz-01.middendelfland.nl
+srv4587.veere.nl
 srvmksbur.buren.nl
 sscict.intranet.amsterdam.nl
 ssd.brunssum.nl
@@ -10278,6 +10312,7 @@ support.gemeentebeek.nl
 support.helmond.nl
 support.nieuwegein.nl
 support.ovh.gemeentebeek.nl
+support.veere.nl
 survey.sudwestfryslan.nl
 survey123test.haarlemmermeer.nl
 surveys3.ggd.amsterdam.nl
@@ -10610,6 +10645,7 @@ test.uithoorn.nl
 test.utrecht.nl
 test.valkenburg.nl
 test.veendam.nl
+test.veere.nl
 testafspraken.alkmaar.nl
 testafspraken.gemeentehw.nl
 testafspraken.nissewaard.nl
@@ -10687,6 +10723,7 @@ testmeldingen.asten.nl
 testmijn.haarlemmermeer.nl
 testmijnzaken.derondevenen.nl
 testmijnzaken.schagen.nl
+testmks.veere.nl
 testnhr.sudwestfryslan.nl
 testparkeren.goes.nl
 testpki.utrecht.nl
@@ -10766,6 +10803,7 @@ tijdschrijven.hoogeveen.nl
 tilburg.nl
 tile.gis.rotterdam.nl
 tiles1.acc.opdekaart.amsterdam.nl
+tim-app.veere.nl
 tim.gemeentebest.nl
 tim.terschelling.nl
 tim.urk.nl
@@ -11023,6 +11061,7 @@ vdtm.veenendaal.nl
 veendam.nl
 veenendaal.nl
 veenkolonien.groningen.nl
+veere.nl
 veilig.houten.nl
 veilig.veenendaal.nl
 veiligdelen.alkmaar.nl
@@ -11187,6 +11226,7 @@ vpn.zuid.amsterdam.nl
 vpn02.denhaag.nl
 vpn365.denhelder.nl
 vpntunnel.oss.nl
+vpsweb.veere.nl
 vraagbaak.doesburg.nl
 vraaghulp.acc.nijmegen.nl
 vraagwijzer.gemeente-steenbergen.nl
@@ -12740,6 +12780,7 @@ www.vastgoed.assen.nl
 www.veendam.nl
 www.veenendaal.nl
 www.veenkolonien.groningen.nl
+www.veere.nl
 www.vga.amsterdam.nl
 www.vibe.rhenen.nl
 www.victor.amsterdam.nl

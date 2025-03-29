@@ -445,6 +445,7 @@ http://test-jip.hofvantwente.nl
 http://test-machtigen.digipoort.logius.nl
 http://test-nopnet.noordoostpolder.nl
 http://test-topvorm.apeldoorn.nl
+http://test.veere.nl
 http://testeformulieren.rhenen.nl
 http://testeloket.meppel.nl
 http://testmarkt1.nunspeet.nl
@@ -1343,6 +1344,7 @@ https://autodiscover.sittard-geleen.nl
 https://autodiscover.stichtsevecht.nl
 https://autodiscover.tynaarlo.nl
 https://autodiscover.valkenburg.nl
+https://autodiscover.veere.nl
 https://autodiscover.wij.groningen.nl
 https://autorisatie.bloemendaal.nl
 https://autorisatietest.bloemendaal.nl
@@ -1609,6 +1611,7 @@ https://besluitpreviewservice.overheid.nl
 https://besluitvorming.doetinchem.nl
 https://bestand.gemeentebest.nl
 https://bestanden.dongen.nl
+https://bestanden.veere.nl
 https://bestandverzenden.leeuwarden.nl
 https://bestelportaal.denhaag.nl
 https://bestemmingsplan.rhenen.nl
@@ -1794,6 +1797,10 @@ https://broker.roermond.nl
 https://broker.rotterdam.nl
 https://broker.stichtsevecht.nl
 https://broker.test.purmerend.nl
+https://brokersignicat-preprod-x509.veere.nl
+https://brokersignicat-preprod.veere.nl
+https://brokersignicat-x509.veere.nl
+https://brokersignicat.veere.nl
 https://bronckhorst.nl
 https://bros-academie.deurne.nl
 https://brt.basisregistraties.overheid.nl
@@ -2289,6 +2296,7 @@ https://doemee.oosterhout.nl
 https://doemee.peelenmaas.nl
 https://doemee.terneuzen.nl
 https://doemee.valkenburg.nl
+https://doemee.veere.nl
 https://doetinchem.nl
 https://dok.dronten.nl
 https://dok.rotterdam.nl
@@ -2908,6 +2916,7 @@ https://felix.reuseldemierden.nl
 https://felix.schiermonnikoog.nl
 https://felix.staphorst.nl
 https://felix.twenterand.nl
+https://felix.veere.nl
 https://felixburgerzaken.nissewaard.nl
 https://felixpdc.doesburg.nl
 https://festival.landvancuijk.nl
@@ -3034,6 +3043,7 @@ https://formulier.werkenvoornederland.nl
 https://formulieracc.breda.nl
 https://formulieren-acc.hoorn.nl
 https://formulieren-intern.hoorn.nl
+https://formulieren-preprod.veere.nl
 https://formulieren-test.beesel.nl
 https://formulieren-test.bronckhorst.nl
 https://formulieren-test.culemborg.nl
@@ -3074,6 +3084,7 @@ https://formulieren.stadskanaal.nl
 https://formulieren.stichtsevecht.nl
 https://formulieren.test.oss.nl
 https://formulieren.tiel.nl
+https://formulieren.veere.nl
 https://formulierenmd.groningen.nl
 https://formulierenpb.groningen.nl
 https://formulierna.denhaag.nl
@@ -3096,6 +3107,7 @@ https://ftp.afs.amsterdam.nl
 https://ftp.bodegraven-reeuwijk.nl
 https://ftp.meerssen.nl
 https://ftp.sudwestfryslan.nl
+https://ftrust.veere.nl
 https://funderingsloket.rotterdam.nl
 https://fw.maassluis.nl
 https://g-rooster.bronckhorst.nl
@@ -3610,6 +3622,7 @@ https://iburgerzaken.uithoorn.nl
 https://iburgerzaken.urk.nl
 https://iburgerzaken.vaals.nl
 https://iburgerzaken.valkenswaard.nl
+https://iburgerzaken.veere.nl
 https://ict.gemeentesluis.nl
 https://id-beheer-erfpacht-acc.amsterdam.nl
 https://id-beheer-erfpacht-dev.amsterdam.nl
@@ -4043,6 +4056,7 @@ https://klantcontact.lingewaard.nl
 https://klantcontact.loonopzand.nl
 https://klantcontact.nissewaard.nl
 https://klantcontact.opmeer.nl
+https://klantcontact.veere.nl
 https://klantgeleiding.gorinchem.nl
 https://klantmodule-centric-ot.extranet.tilburg.nl
 https://klantmodule.extranet.tilburg.nl
@@ -4141,6 +4155,7 @@ https://lisse.nl
 https://live.bergen-nh.nl
 https://live.landvancuijk.nl
 https://liveblog.ede.nl
+https://lms.veere.nl
 https://lochem.nl
 https://login-acc.roosendaal.nl
 https://login-pre.mookenmiddelaar.nl
@@ -4151,6 +4166,7 @@ https://login.mookenmiddelaar.nl
 https://login.nijkerk.eu
 https://login.schagen.nl
 https://login.subsidie.leiden.nl
+https://login.veere.nl
 https://logius.nl
 https://lois-acc.losser.nl
 https://lois.losser.nl
@@ -4440,6 +4456,7 @@ https://micollab.hellendoorn.nl
 https://micollab.huizen.nl
 https://micollab.roermond.nl
 https://micollab.rucphen.nl
+https://micollab.veere.nl
 https://micontentstore.lansingerland.nl
 https://microservices.schoolwijzer.amsterdam.nl
 https://midden-groningen.nl
@@ -5231,6 +5248,7 @@ https://owa.groningen.nl
 https://owa.nieuwegein.nl
 https://owa.utrecht.nl
 https://owa.valkenburg.nl
+https://owa.veere.nl
 https://ows-ahp.groningen.nl
 https://ows-app.groningen.nl
 https://ows-dmnsapi.groningen.nl
@@ -5314,6 +5332,7 @@ https://parkeren.sittard-geleen.nl
 https://parkeren.smallingerland.nl
 https://parkeren.sudwestfryslan.nl
 https://parkeren.valkenswaard.nl
+https://parkeren.veere.nl
 https://parkerenapp-prod.schiedam.nl
 https://parkerendenhaag.acc.denhaag.nl
 https://parkerendenhaag.denhaag.nl
@@ -6115,6 +6134,7 @@ https://simsite.simpelveld.nl
 https://simsite.staphorst.nl
 https://simsite.twenterand.nl
 https://simsite.veendam.nl
+https://simsite.veere.nl
 https://sint-agatha.landvancuijk.nl
 https://sint-hubert.landvancuijk.nl
 https://sint-michielsgestel.nl
@@ -6437,6 +6457,7 @@ https://support.bergen-nh.nl
 https://support.doetinchem.nl
 https://support.helmond.nl
 https://support.nieuwegein.nl
+https://support.veere.nl
 https://survey.sudwestfryslan.nl
 https://surveys3.ggd.amsterdam.nl
 https://svhsd-ot.berichtenverkeer.tilburg.nl
@@ -6671,6 +6692,7 @@ https://tijdregistratie.terneuzen.nl
 https://tijdschrijven.apeldoorn.nl
 https://tilburg.nl
 https://tile.gis.rotterdam.nl
+https://tim-app.veere.nl
 https://timetell.rijssen-holten.nl
 https://tloket.oostzaan.nl
 https://tma.acc.amsterdam.nl
@@ -6813,6 +6835,7 @@ https://vdi.rotterdam.nl
 https://veendam.nl
 https://veenendaal.nl
 https://veenkolonien.groningen.nl
+https://veere.nl
 https://veilig.houten.nl
 https://veilig.veenendaal.nl
 https://veiligdelen.alkmaar.nl
@@ -6922,6 +6945,7 @@ https://vpn.stichtsevecht.nl
 https://vpn.terneuzen.nl
 https://vpn02.denhaag.nl
 https://vpn365.denhelder.nl
+https://vpsweb.veere.nl
 https://vraagbaak.doesburg.nl
 https://vraaghulp.acc.nijmegen.nl
 https://vraagwijzer.gemeente-steenbergen.nl
