@@ -40,14 +40,14 @@ afspraak
 broker
 parkeren
 betalen
-werkenbij
 zaaksysteem-accept
+werkenbij
 gemeenteraad
 iparticipatie
 belastingen
+enterpriseenrollment
 testeloket
 openpdc
-enterpriseenrollment
 dacceptatieloket
 dacceptatiemidoffice
 openpub
@@ -93,6 +93,7 @@ piwik
 snelbalie
 duurzaam
 preprod
+extranet
 obsurv
 test-intranet
 pki
@@ -101,13 +102,13 @@ filecap
 vergunningintaker
 denkmee
 mijninkomen
-extranet
 gemeente
 acc-formulier
 acc-podiumd-logs
 simcms-open
 jaarstukken
 begroting
+smtp
 e
 mailing
 mijnzorg
@@ -129,7 +130,6 @@ test-cmsintranet
 doemee
 dtestmidoffice
 transfer
-smtp
 afvalkalender
 snelbaliepp
 api.betalen
@@ -297,6 +297,7 @@ www.raad
 gbi
 mijngeldzaken
 ns1
+rooster
 meet
 publicaties
 support
@@ -314,6 +315,7 @@ mijnzaken
 ondernemersloket
 topdesk
 openstad
+bestuur
 belastingbalie-test
 eformulieren
 jongin
@@ -349,7 +351,6 @@ gp
 geotest
 moh-acc
 moh
-rooster
 sslvpn
 teleweb
 www2
@@ -401,7 +402,6 @@ test.digikoppeling
 admin.openstad
 auth.openstad
 img.openstad
-bestuur
 digitalebalie
 raadsinformatie
 e.openstad
@@ -7137,3 +7137,5 @@ mozardproductie
 pbx
 subsidiebeleidskaart
 teylingen-checker-preprod
+qmatic
+ucserver
