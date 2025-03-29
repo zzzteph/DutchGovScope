@@ -28,6 +28,7 @@ AutoDiscover.nissewaard.nl
 AutoDiscover.opmeer.nl
 AutoDiscover.stedebroec.nl
 AutoDiscover.uitwijk.denhaag.nl
+AutoDiscover.westvoorne.nl
 Autodiscover.hilversum.nl
 Autorisatietest.bloemendaal.nl
 BAG.haarlemmermeer.nl
@@ -1624,6 +1625,7 @@ autodiscover.westervoort.nl
 autodiscover.westerwolde.nl
 autodiscover.westmaasenwaal.nl
 autodiscover.weststellingwerf.nl
+autodiscover.westvoorne.nl
 autodiscover.wij.groningen.nl
 automator.borne.nl
 automator.haarlemmermeer.nl
@@ -2143,6 +2145,7 @@ bewustwording.brielle.nl
 bewustwording.gemeentestein.nl
 bewustwording.waalre.nl
 bewustwording.westerwolde.nl
+bewustwording.westvoorne.nl
 bezettinggebouwen.rotterdam.nl
 bezoek.rotterdam.nl
 bezoeker.tilburg.nl
@@ -2903,6 +2906,7 @@ dacceptatieloket.twenterand.nl
 dacceptatieloket.veendam.nl
 dacceptatieloket.velsen.nl
 dacceptatieloket.waterland.nl
+dacceptatieloket.westvoorne.nl
 dacceptatiemidoffice.assen.nl
 dacceptatiemidoffice.borger-odoorn.nl
 dacceptatiemidoffice.borne.nl
@@ -2932,6 +2936,7 @@ dacceptatiemidoffice.twenterand.nl
 dacceptatiemidoffice.veendam.nl
 dacceptatiemidoffice.velsen.nl
 dacceptatiemidoffice.waterland.nl
+dacceptatiemidoffice.westvoorne.nl
 dagbesteding.apeldoorn.nl
 dalfsen.nl
 dali.alphenaandenrijn.nl
@@ -3316,6 +3321,7 @@ digikoppeling.vlaardingen.nl
 digikoppeling.vlissingen.nl
 digikoppeling.waterland.nl
 digikoppeling.westerkwartier.nl
+digikoppeling.westvoorne.nl
 digikoppelingadapter.doetinchem.nl
 digikoppelingenproductie.steenwijkerland.nl
 digikoppelingentest.steenwijkerland.nl
@@ -3513,6 +3519,7 @@ dloket.twenterand.nl
 dloket.veendam.nl
 dloket.velsen.nl
 dloket.waterland.nl
+dloket.westvoorne.nl
 dm-tst.groningen.nl
 dmafunc002.amsterdam.nl
 dmb.amsterdam.nl
@@ -3544,6 +3551,7 @@ dmidoffice.twenterand.nl
 dmidoffice.veendam.nl
 dmidoffice.velsen.nl
 dmidoffice.waterland.nl
+dmidoffice.westvoorne.nl
 dmpfunc002.amsterdam.nl
 dms.heuvelrug.nl
 dmst.noordoostpolder.nl
@@ -3638,6 +3646,7 @@ dtestloket.roermond.nl
 dtestloket.rotterdam.nl
 dtestloket.twenterand.nl
 dtestloket.waterland.nl
+dtestloket.westvoorne.nl
 dtestmidoffice.brielle.nl
 dtestmidoffice.coevorden.nl
 dtestmidoffice.emmen.nl
@@ -3651,6 +3660,7 @@ dtestmidoffice.oldenzaal.nl
 dtestmidoffice.rotterdam.nl
 dtestmidoffice.twenterand.nl
 dtestmidoffice.waterland.nl
+dtestmidoffice.westvoorne.nl
 dts-preprod.rotterdam.nl
 dts.rotterdam.nl
 duinoordfietst.denhaag.nl
@@ -4089,6 +4099,7 @@ eformulieren.preprod.doetinchem.nl
 eformulieren.stichtsevecht.nl
 eformulieren.waterland.nl
 egemeente.urk.nl
+egemeente.westvoorne.nl
 egress-repro.alkmaar.nl
 ehv-lpi-ap-15.lopik.nl
 ehvsubsidie.eindhoven.nl
@@ -4174,6 +4185,7 @@ email.samenveiligwerken.alphenaandenrijn.nl
 email.security.haarlemmermeer.nl
 email.security.veldhoven.nl
 email.valkenswaard.nl
+email.westvoorne.nl
 email.wijkteam-bewustwording.amersfoort.nl
 embrace.laarbeek.nl
 embrace.nunspeet.nl
@@ -4333,6 +4345,7 @@ esrce.haarlem.nl
 esrs.heerlen.nl
 esrs.ovh.gemeentebeek.nl
 esuitenotubiz-test.brielle.nl
+esuitenotubiz-test.westvoorne.nl
 etl.haarlemmermeer.nl
 ev-edienstenburgerzaken-test.echt-susteren.nl
 ev-edienstenburgerzaken.echt-susteren.nl
@@ -4951,6 +4964,7 @@ gemeenteraad.vlissingen.nl
 gemeenteraad.vught.nl
 gemeenteraad.weert.nl
 gemeenteraad.westbetuwe.nl
+gemeenteraad.westvoorne.nl
 gemeentesluis.nl
 gemeentestein.nl
 gemeentewesterveld.nl
@@ -5303,6 +5317,7 @@ groenengezond.almere.nl
 groenervijfhuizen.haarlemmermeer.nl
 groeningen.landvancuijk.nl
 groenlinks.nijmegen.nl
+grofvuil.westvoorne.nl
 grondwater.dronten.nl
 grondwater.krimpenerwaard.nl
 grondwater.noordoostpolder.nl
@@ -5752,6 +5767,7 @@ iburgerzaken.weert.nl
 iburgerzaken.westbetuwe.nl
 iburgerzaken.westerkwartier.nl
 iburgerzaken.weststellingwerf.nl
+iburgerzaken.westvoorne.nl
 ibzpink.aaenhunze.nl
 ibzpink.achtkarspelen.nl
 ibzpink.almelo.nl
@@ -5908,6 +5924,7 @@ ibzpink.weert.nl
 ibzpink.westbetuwe.nl
 ibzpink.westerkwartier.nl
 ibzpink.weststellingwerf.nl
+ibzpink.westvoorne.nl
 ice.nijmegen.nl
 icm-ast.asten.nl
 ict.gemeentesluis.nl
@@ -6270,6 +6287,7 @@ intranet.wageningen.nl
 intranet.waterland.nl
 intranet.weert.nl
 intranet.westerwolde.nl
+intranet.westvoorne.nl
 intranet2.steenwijkerland.nl
 intranetacc.apeldoorn.nl
 intranetacc.weert.nl
@@ -7203,6 +7221,7 @@ mail.wassenaar.nl
 mail.weert.nl
 mail.westerkwartier.nl
 mail.westmaasenwaal.nl
+mail.westvoorne.nl
 mail01.bodegraven-reeuwijk.nl
 mail1.amersfoort.nl
 mail1.groningen.nl
@@ -7795,6 +7814,7 @@ mijnuitkering.emmen.nl
 mijnuitkering.nissewaard.nl
 mijnuitkering.s-hertogenbosch.nl
 mijnuitkering.waddinxveen.nl
+mijnuitkering.westvoorne.nl
 mijnwerkplek.peelenmaas.nl
 mijnwerkplek.schagen.nl
 mijnwerkregelingen-acc.utrecht.nl
@@ -8083,6 +8103,7 @@ nedgraphics.eijsden-margraten.nl
 nedmagazijn.brunssum.nl
 nedplan.gemeentebeek.nl
 nedplan.montferland.info
+nedwion.westvoorne.nl
 neptunus.gemeentesluis.nl
 nerdio.meierijstad.nl
 net-pw-hide.denhaag.nl
@@ -9341,6 +9362,7 @@ preprod-mijnsociaalplein.hofvantwente.nl
 preprod-mijnsociaalplein.putten.nl
 preprod-mijnsociaalplein.uitgeest.nl
 preprod-mijnuitkering.nissewaard.nl
+preprod-mijnuitkering.westvoorne.nl
 preprod-mijnwijkteam.schagen.nl
 preprod-mijnzorg.denhelder.nl
 preprod-sociaalportaal.dinkelland.nl
@@ -9468,6 +9490,7 @@ preproductie.weert.nl
 preproductie.westerkwartier.nl
 preproductie.westmaasenwaal.nl
 preproductie.weststellingwerf.nl
+preproductie.westvoorne.nl
 preproductiebroker.gemeentewesterveld.nl
 pric.rotterdam.nl
 prifill-test.sudwestfryslan.nl
@@ -9544,6 +9567,7 @@ probeer.vlissingen.nl
 probeer.waddinxveen.nl
 probeer.westmaasenwaal.nl
 probeer.weststellingwerf.nl
+probeer.westvoorne.nl
 prod-kodision-cli.sudwestfryslan.nl
 prod.digikoppeling.schiedam.nl
 prod.drechterland.nl
@@ -9850,6 +9874,7 @@ remote.schagen.nl
 remote.stichtsevecht.nl
 remote.waalwijk.nl
 remote.westmaasenwaal.nl
+remote.westvoorne.nl
 remotewerken.middendelfland.nl
 renkum.nl
 renswoude.nl
@@ -9893,6 +9918,7 @@ ro-online.kaagenbraassem.nl
 ro-online1.amersfoort.nl
 ro-onlineprod.brielle.nl
 ro-onlineprod.nissewaard.nl
+ro-onlineprod.westvoorne.nl
 ro.brunssum.nl
 ro.emmen.nl
 ro.gemeenteberkelland.nl
@@ -9913,6 +9939,7 @@ rokinintranet.amsterdam.nl
 roles.datapunt.amsterdam.nl
 rom.authenticatie.alkmaar.nl
 rondleidingen.landvancuijk.nl
+roonline.westvoorne.nl
 roosendaal.nl
 rooster.arnhem.nl
 rooster.denhelder.nl
@@ -10217,6 +10244,7 @@ secure.waalre.nl
 secure.weert.nl
 secure.westmaasenwaal.nl
 secure.weststellingwerf.nl
+secure.westvoorne.nl
 secure1.gulpen-wittem.nl
 secure1.weert.nl
 secure1ev.weert.nl
@@ -10472,6 +10500,7 @@ simcms.wassenaar.nl
 simcms.westerkwartier.nl
 simcms.westmaasenwaal.nl
 simcms.weststellingwerf.nl
+simcms.westvoorne.nl
 simcms2.beekdaelen.nl
 simcmsintra.bergeijk.nl
 simform-preproductie.achtkarspelen.nl
@@ -10589,6 +10618,7 @@ simsite.waddinxveen.nl
 simsite.westerkwartier.nl
 simsite.westmaasenwaal.nl
 simsite.weststellingwerf.nl
+simsite.westvoorne.nl
 singlegateway.haarlem.nl
 sint-agatha.landvancuijk.nl
 sint-hubert.landvancuijk.nl
@@ -10631,6 +10661,8 @@ smartatsea.denhaag.nl
 smartcity.denhaag.nl
 smartdoc-brl.brielle.nl
 smartdoc-brlacc.brielle.nl
+smartdoc-wvn.westvoorne.nl
+smartdoc-wvnacc.westvoorne.nl
 smartdoc.landgraaf.nl
 smartdoc.voorst.nl
 smartdocbrl.brielle.nl
@@ -10644,6 +10676,8 @@ smartdocuments.denhaag.nl
 smartdocuments.drimmelen.nl
 smartdocuments.nissewaard.nl
 smartdocumentsacc.drimmelen.nl
+smartdocwvn.westvoorne.nl
+smartdocwvnacc.westvoorne.nl
 smartphone.kampen.nl
 smoelennet.almelo.nl
 sms.ggd.amsterdam.nl
@@ -11275,6 +11309,7 @@ test-digikoppeling.gulpen-wittem.nl
 test-digikoppeling.nissewaard.nl
 test-digikoppeling.noordoostpolder.nl
 test-digikoppeling.sint-michielsgestel.nl
+test-digikoppeling.westvoorne.nl
 test-digikoppelingadapter.doetinchem.nl
 test-digikoppelingadapter.oude-ijsselstreek.nl
 test-digikoppelingjnet.leeuwarden.nl
@@ -12023,6 +12058,7 @@ verkiezingen.ridderkerk.nl
 verkiezingen.sonenbreugel.nl
 verkiezingen.sudwestfryslan.nl
 verkiezingen.topdesk.denhaag.nl
+verkiezingen.westvoorne.nl
 verslag.ouder-amstel.nl
 versterkenenvernieuwen.groningen.nl
 vertexobjecten-accp.lansingerland.nl
@@ -12215,6 +12251,7 @@ waarmerk.veendam.nl
 waarmerk.vlieland.nl
 waarmerk.waterland.nl
 waarmerk.westerwolde.nl
+waarmerk.westvoorne.nl
 waarstemjijvoor.kerkrade.nl
 wabo.oostgelre.nl
 wacfarm.acc.amsterdam.nl
@@ -12429,6 +12466,7 @@ webmail.weert.nl
 webmail.west.amsterdam.nl
 webmail.westmaasenwaal.nl
 webmail.weststellingwerf.nl
+webmail.westvoorne.nl
 webmail.zuidoost.amsterdam.nl
 webmail2.heusden.nl
 webmail3.twenterand.nl
@@ -12624,6 +12662,7 @@ westlandbudgetbeheer.gemeentewestland.nl
 westmaasenwaal.nl
 westmaasenwaal007.simgroephosting04.nl.westmaasenwaal.nl
 weststellingwerf.nl
+westvoorne.nl
 whatsepe.epe.nl
 whitelabel.acc.nijmegen.nl
 whitelabel.nijmegen.nl
@@ -12828,6 +12867,7 @@ wsr.groningen.nl
 wsus.overbetuwe.nl
 wsus01.gem.overbetuwe.nl
 wup.schouwen-duiveland.nl
+wvncmg.westvoorne.nl
 wwt.groningen.nl
 www-acceptatie.tilburg.nl
 www-cache.gemeentesluis.nl
@@ -13617,6 +13657,7 @@ www.reimerswaal.nl
 www.rekenkamer.amsterdam.nl
 www.rekenkamer.rotterdam.nl
 www.remote.druten.nl
+www.remote.westvoorne.nl
 www.remotewerken.middendelfland.nl
 www.renkum.nl
 www.renswoude.nl
@@ -13888,6 +13929,7 @@ www.westerwolde.nl
 www.westlandbudgetbeheer.gemeentewestland.nl
 www.westmaasenwaal.nl
 www.weststellingwerf.nl
+www.westvoorne.nl
 www.wij.groningen.nl
 www.wijkaanpak.amsterdam.nl
 www.wijkagenda-archipelwillemspark.denhaag.nl
