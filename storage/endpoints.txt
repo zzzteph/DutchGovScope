@@ -391,6 +391,7 @@ http://preproductie.gemeentebeek.nl
 http://preproductie.gorinchem.nl
 http://preproductie.montferland.info
 http://preproductie.oirschot.nl
+http://preproductie.zoetermeer.nl
 http://publicaties.stadskanaal.nl
 http://pv.gemeentesluis.nl
 http://pwa001.belastingdienst.nl
@@ -422,6 +423,7 @@ http://simcms-open.bronckhorst.nl
 http://simcms-open.geldrop-mierlo.nl
 http://simcms-open.leudal.nl
 http://simcms-preproductie.beekdaelen.nl
+http://simcms-raad.zoetermeer.nl
 http://simcms-woo.doesburg.nl
 http://simcms.aalten.nl
 http://simcms.bergeijk.nl
@@ -434,6 +436,7 @@ http://simcms.harlingen.nl
 http://simcms.koggenland.nl
 http://simcms.maassluis.nl
 http://simcms.nederweert.nl
+http://simcms.zoetermeer.nl
 http://simform-preproductie.t-diel.nl
 http://simform-preproductie.voorschoten.nl
 http://simform-preproductie.wassenaar.nl
@@ -458,6 +461,7 @@ http://sportaccommodaties.nissewaard.nl
 http://squitxo.goirle.nl
 http://squitxotest.goirle.nl
 http://sslvpn.haarlem.nl
+http://stadsatlas.zoetermeer.nl
 http://stadspas.weert.nl
 http://stagiairs.werkenvoornederland.nl
 http://stijlgids.overheid.nl
@@ -1117,6 +1121,7 @@ https://agenda.landvancuijk.nl
 https://agrifoodtech.landvancuijk.nl
 https://agwp01.azweu.alkmaar.nl
 https://aip.amsterdam.nl
+https://aiz.zoetermeer.nl
 https://alarmfilter.rotterdam.nl
 https://alblasserdam.nl
 https://albrandswaard.nl
@@ -1569,6 +1574,7 @@ https://beeldbankbeheer.haarlemmermeer.nl
 https://beeldbankbeheer.loonopzand.nl
 https://beeldbankbeheer.veldhoven.nl
 https://beeldbankbeheer.waalwijk.nl
+https://beeldbellen.zoetermeer.nl
 https://beeldmateriaal.eindhoven.nl
 https://beemsterraadsinformatie.purmerend.nl
 https://beers.landvancuijk.nl
@@ -1705,6 +1711,7 @@ https://belastingen.westervoort.nl
 https://belastingen.winterswijk.nl
 https://belastingen.zaanstad.nl
 https://belastingen.zevenaar.nl
+https://belastingen.zoetermeer.nl
 https://belastingloket-test.vijfheerenlanden.nl
 https://belastingloket.barneveld.nl
 https://belastingloket.elburg.nl
@@ -2026,6 +2033,7 @@ https://buurtbudgetnoord.amsterdam.nl
 https://buurtbudgetzuid.amsterdam.nl
 https://buurtbudgetzuidoost.amsterdam.nl
 https://buurtkijker.deventer.nl
+https://buytenweghdeleyens.zoetermeer.nl
 https://bvd-pre.mev.logius.nl
 https://bvd.mev.logius.nl
 https://bvs.belastingdienst.nl
@@ -2551,6 +2559,7 @@ https://doemee.terneuzen.nl
 https://doemee.valkenburg.nl
 https://doemee.veere.nl
 https://doemee.vlissingen.nl
+https://doemee.zoetermeer.nl
 https://doetinchem.nl
 https://dok.dronten.nl
 https://dok.rotterdam.nl
@@ -3053,6 +3062,7 @@ https://en.heerlen.nl
 https://en.kerkrade.nl
 https://en.nuenen.nl
 https://en.sonenbreugel.nl
+https://en.zoetermeer.nl
 https://enabling.omgevingswet.overheid.nl
 https://energiebespaaradvies.overbetuwe.nl
 https://energiek.beuningen.nl
@@ -3130,6 +3140,8 @@ https://enterpriseregistration.tholen.nl
 https://enterpriseregistration.veenendaal.nl
 https://enterpriseregistration.vijfheerenlanden.nl
 https://enterpriseregistration.zeist.nl
+https://enzo.zoetermeer.nl
+https://enzobeheer.zoetermeer.nl
 https://eopenstad.gemeentewestland.nl
 https://epe.nl
 https://epp.denhaag.nl
@@ -3240,6 +3252,7 @@ https://felix.staphorst.nl
 https://felix.twenterand.nl
 https://felix.veere.nl
 https://felix.wierden.nl
+https://felix.zoetermeer.nl
 https://felixburgerzaken.nissewaard.nl
 https://felixpdc.doesburg.nl
 https://festival.landvancuijk.nl
@@ -3611,6 +3624,7 @@ https://geoportaal.oss.nl
 https://geoportaal.test.oss.nl
 https://geoportaal.waalwijk.nl
 https://geoportaal.wageningen.nl
+https://geoportaal.zoetermeer.nl
 https://geoportaaltest.enschede.nl
 https://geoproxy.s-hertogenbosch.nl
 https://geoserver-signalen.almere.nl
@@ -3647,6 +3661,7 @@ https://gis.assen.nl
 https://gis.breda.nl
 https://gis.tilburg.nl
 https://gis.vijfheerenlanden.nl
+https://gis.zoetermeer.nl
 https://gisib-test.alblasserdam.nl
 https://gisib-test.dordrecht.nl
 https://gisib-test.hardinxveld-giessendam.nl
@@ -3809,6 +3824,7 @@ https://hoorn.nl
 https://hor-acc.amsterdam.nl
 https://hor.amsterdam.nl
 https://hor.denhaag.nl
+https://horizon.zoetermeer.nl
 https://horizonvdi.haarlem.nl
 https://horstaandemaas.nl
 https://hout.almere.nl
@@ -4288,6 +4304,8 @@ https://introcms-acc.roermond.nl
 https://introcms.roermond.nl
 https://intunecollector.amsterdam.nl
 https://intunevpn.meppel.nl
+https://inwonerportaal-test.zoetermeer.nl
+https://inwonerportaal.zoetermeer.nl
 https://inzagecleopatra.rotterdam.nl
 https://iovi.amsterdam.nl
 https://ipp.haarlem.nl
@@ -4606,6 +4624,8 @@ https://lisse.nl
 https://live.bergen-nh.nl
 https://live.landvancuijk.nl
 https://liveblog.ede.nl
+https://lliam-test.zoetermeer.nl
+https://lliam.zoetermeer.nl
 https://lms.veere.nl
 https://lochem.nl
 https://logilink001.waterland.nl
@@ -4651,6 +4671,7 @@ https://loket.acceptatie.smallingerland.nl
 https://loket.acceptatie.steenwijkerland.nl
 https://loket.acceptatie.veendam.nl
 https://loket.acceptatie.waalwijk.nl
+https://loket.acceptatie.zoetermeer.nl
 https://loket.alblasserdam.nl
 https://loket.albrandswaard.nl
 https://loket.amstelveen.nl
@@ -4697,6 +4718,7 @@ https://loket.waalwijk.nl
 https://loket.westervoort.nl
 https://loket.zaanstad.nl
 https://loket.zevenaar.nl
+https://loket.zoetermeer.nl
 https://loonkostensubsidie-acc.utrecht.nl
 https://loonkostensubsidie.utrecht.nl
 https://loonopzand.nl
@@ -5052,6 +5074,7 @@ https://mijn.weststellingwerf.nl
 https://mijn.wijkbijduurstede.nl
 https://mijn.zaltbommel.nl
 https://mijn.zeist.nl
+https://mijn.zoetermeer.nl
 https://mijnaanvraag.belastingdienst.nl
 https://mijnaanvraagzi.beuningen.nl
 https://mijnaanvragensociaaldomein.venlo.nl
@@ -5587,6 +5610,7 @@ https://ontw.app.amsterdam.nl
 https://onzestad.nijmegen.nl
 https://oorlogenvrede.landvancuijk.nl
 https://oostbegroot.amsterdam.nl
+https://oosterheem.zoetermeer.nl
 https://oostgelre.nl
 https://ooststellingwerf.nl
 https://oostzaan.nl
@@ -5641,6 +5665,7 @@ https://open.tubbergen.nl
 https://open.wierden.nl
 https://openagenda.ridderkerk.nl
 https://openbareruimte.deventer.nl
+https://opendata-contrast.zoetermeer.nl
 https://opendata.assen.nl
 https://opendata.bloemendaal.nl
 https://opendata.english.igj.nl
@@ -5652,6 +5677,7 @@ https://opendata.rcgog.nl
 https://opendata.rijksoverheid.nl
 https://opendata.roosendaal.nl
 https://opendata.utrecht.nl
+https://opendata.zoetermeer.nl
 https://openformulieren-test.dewolden.nl
 https://openformulieren-test.enkhuizen.nl
 https://openformulieren-test.hoogeveen.nl
@@ -6717,6 +6743,7 @@ https://simcms-open.meerssen.nl
 https://simcms-open.nuenen.nl
 https://simcms-open.oirschot.nl
 https://simcms-open.wierden.nl
+https://simcms-open.zoetermeer.nl
 https://simcms-preproductie.kerkrade.nl
 https://simcms-samenindebuurt.heerlen.nl
 https://simcms-werkenbij.t-diel.nl
@@ -6797,6 +6824,7 @@ https://simsite.veendam.nl
 https://simsite.veere.nl
 https://simsite.westerkwartier.nl
 https://simsite.wierden.nl
+https://simsite.zoetermeer.nl
 https://sint-agatha.landvancuijk.nl
 https://sint-hubert.landvancuijk.nl
 https://sint-michielsgestel.nl
@@ -6967,6 +6995,7 @@ https://stadjerspas.gemeente.groningen.nl
 https://stadsarchief.almere.nl
 https://stadsarchief.breda.nl
 https://stadsarchief.rotterdam.nl
+https://stadsatlas-contrast.zoetermeer.nl
 https://stadsgesprekken.almere.nl
 https://stadshavens.groningen.nl
 https://stadskanaal.nl
@@ -7308,6 +7337,7 @@ https://testafspraken.alkmaar.nl
 https://testapps.haarlemmermeer.nl
 https://testbelastingbalie.hoorn.nl
 https://testbelastingen.zaanstad.nl
+https://testbelastingen.zoetermeer.nl
 https://testbelastingloket.hattem.nl
 https://testbelastingloket.heerde.nl
 https://testbelastingloket.oldebroek.nl
@@ -7446,6 +7476,7 @@ https://topdesk.ggd.amsterdam.nl
 https://topdesk.houten.nl
 https://topdesk.sittard-geleen.nl
 https://topdesk.venlo.nl
+https://topdesk.zoetermeer.nl
 https://topvorm.apeldoorn.nl
 https://tourbuzz.amsterdam.nl
 https://tportal.noordoostpolder.nl
@@ -7688,6 +7719,7 @@ https://vpn.rotterdam.nl
 https://vpn.rucphen.nl
 https://vpn.stichtsevecht.nl
 https://vpn.terneuzen.nl
+https://vpn.zoetermeer.nl
 https://vpn02.denhaag.nl
 https://vpn365.denhelder.nl
 https://vpsweb.veere.nl
@@ -8714,6 +8746,7 @@ https://www.zeewolde.nl
 https://www.zeist.nl
 https://www.zevenaar.nl
 https://www.zkd.denhaag.nl
+https://www.zoetermeer.nl
 https://www.zomerprogramma070.denhaag.nl
 https://www.zwammerdamdorpskern.alphenaandenrijn.nl
 https://www.zwemmen.venlo.nl
