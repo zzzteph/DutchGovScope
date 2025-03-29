@@ -5,10 +5,10 @@ iburgerzaken
 ibzpink
 edienstenburgerzaken
 edienstenburgerzaken-test
-intranet
 mijn
-afspraken
+intranet
 webmail
+afspraken
 simsite
 digikoppeling
 mail
@@ -39,10 +39,10 @@ pv
 afspraak
 raad
 iparticipatie
+zaaksysteem-accept
 parkeren
 betalen
 werkenbij
-zaaksysteem-accept
 gemeenteraad
 dacceptatieloket
 dacceptatiemidoffice
@@ -62,10 +62,10 @@ osb
 omgevingsvisie
 formulier
 enterpriseregistration
+digikoppeling-test
 cmsoo
 loket.acceptatie
 remote
-digikoppeling-test
 login
 zaken
 flowmailer-tracking
@@ -76,10 +76,10 @@ acc-broker
 cloudadapter-test
 berichten
 financien
+beeldbank
 samen
 dtestloket
 govroam
-beeldbank
 digikoppeling.test
 belastingloket
 portaal
@@ -159,6 +159,7 @@ simform
 web
 izaaksuite
 wachtwoord
+dali
 snelbaliepp
 vdi
 jcc
@@ -185,7 +186,6 @@ veiligdelen
 subsidies-backend
 melddesk
 afvalkalender
-dali
 telewerken
 auth
 woo
@@ -233,6 +233,7 @@ liquit
 mobile
 xential
 _autodiscover._tcp
+archief
 vth
 acceptatie-open
 bestanden
@@ -250,6 +251,7 @@ fs
 participatie
 documenten
 raadsnet
+praatmee
 www.werkenbij
 bis
 geodata
@@ -289,7 +291,6 @@ subsidies-login
 burgerloket
 mijnzaken
 ondernemersloket
-archief
 sport
 openstad
 jongin
@@ -318,7 +319,6 @@ gisibapi-test
 gisibapi
 gisibgeoserver-test
 gisibgeoserver
-praatmee
 sociaaldomein
 stadsarchief
 exchange
@@ -366,6 +366,7 @@ woz-loket
 zaken.test
 grooster
 filr
+test.digikoppeling
 admin.openstad
 auth.openstad
 img.openstad
@@ -470,6 +471,7 @@ test-eloket
 preprod-formulieren
 www.afspraak
 ris
+collecties
 inproces.test
 subsidies-login.acceptatie
 buitenoporde
@@ -485,7 +487,6 @@ lvs
 smartdocuments
 www.cjg
 cloudadapter-t
-test.digikoppeling
 allegroweb
 intra
 wij
@@ -724,6 +725,7 @@ g-rooster
 jaarstukken2020
 adsync
 afspraken-test
+edienstenburgerzaken-prod
 ggk
 kassaservice
 mor
@@ -744,7 +746,6 @@ wijzer
 pkio1
 idtst
 bor-acc
-collecties
 mbg2
 suite4burgerzaken-prod
 efacturen
@@ -819,6 +820,7 @@ parkeervergunningtest
 geo-secure
 financieelportaal
 intake
+geovisiaonline
 belastingen-test
 test-meedoen
 ucweb01-ext
@@ -3805,7 +3807,6 @@ bsmpkitest
 cognos-test
 databridge-tst
 databridge
-edienstenburgerzaken-prod
 jcc-afspraken
 key2bag-test
 key2datadistributie-prod
@@ -4675,7 +4676,6 @@ simcms-centrumimpuls
 simcms-omgevingsvisie
 en.cmsoo
 gb-servers.intra
-geovisiaonline
 malengo-cms
 malengo-test
 malengo-testcms
@@ -6839,3 +6839,25 @@ probeer-cjg
 simcms-cjg
 test-cmsflash
 test-flash
+aform
+appl03
+boeken
+brz1-sm100
+fallback.webserver
+geovisiaonlinetest
+jnetcc01p
+jnetcc01t
+ns1.webserver
+ns2.webserver
+parkeren-prod
+parkeren-siam-prod
+parkerenapp-prod
+pform
+prod.digikoppeling
+schiedata
+sgen
+sm1-sec
+webserver
+websrv01
+websrv03
+zendto
