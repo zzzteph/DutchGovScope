@@ -53,8 +53,8 @@ dacceptatiemidoffice
 data
 dloket
 dmidoffice
-openpdc
 belastingbalie
+openpdc
 openpub
 cmsoo
 loket.acceptatie
@@ -83,19 +83,20 @@ dtestloket
 extranet
 digikoppeling.test
 acc-broker
+cmsintranet
 connect
 test-intranet
 portaal
 denkmee
 financien
 belastingloket
-cmsintranet
 samen
 verkiezingen
 osbacc
 piwik
 test-cmsintranet
 doemee
+squit2go
 pki
 filecap
 mijnzorg
@@ -107,7 +108,6 @@ apps
 gemeente
 bastion365
 klantcontact
-squit2go
 www.webmail
 dtestmidoffice
 e
@@ -123,14 +123,17 @@ simcms-open
 micollab
 begroting
 mobiel
+preprodbroker
 izaaksuite
 subsidies
 preprod-mijninkomen
 dali
 qr
+api.betalen
 nieuwsbrief
 acc-formulier
 acc-podiumd-logs
+sip
 sts
 contentbeheer
 mdm
@@ -138,17 +141,14 @@ jaarstukken
 smtp
 mailing
 belastingportaal
-preprodbroker
 gisib
 web
 snelbaliepp
-api.betalen
 acc-mijn
 acc-notificaties
 acc-objecten
 acc-objecttypen
 owa
-sip
 internetafspraken
 gasten
 uc
@@ -168,6 +168,7 @@ acc-keycloak
 acc-openklant
 acc-openzaak
 keycloak
+lyncdiscover
 podiumd-logs
 meedoen
 connect.acceptatie
@@ -178,12 +179,12 @@ zaaksysteem
 evenementen
 mta-sts
 website
+kennisbank
 fs
 college
 maps
 jcc
 sharefile
-lyncdiscover
 notificaties
 objecten
 objecttypen
@@ -192,6 +193,7 @@ test-digikoppeling
 contentbeheer.acceptatie
 squit2020
 zaken.acceptatie
+intranet-acc
 ro
 outlook
 testloket
@@ -199,7 +201,6 @@ afspraakmaken
 _dmarc
 m
 filetransfer
-kennisbank
 preprod-mijn
 veiligdelen
 wachtwoord
@@ -217,7 +218,6 @@ fmreturn
 guest
 iarchief
 publicroam
-intranet-acc
 jccapi
 mijnsociaalplein
 preprod-mijnsociaalplein
@@ -242,6 +242,7 @@ www.acc
 e-loket
 afval
 citrix
+support
 formulieren-test
 data-test
 xential
@@ -284,7 +285,6 @@ meet
 openformulieren
 awmag
 publicaties
-support
 intranetcms
 liquit
 www.gemeenteraad
@@ -352,6 +352,7 @@ cognos
 dkdtest
 key2datadistributie-test
 key2gbavtest
+preprod-formulieren
 subsidies-login
 mijnzaken
 auth.openstad
@@ -428,7 +429,6 @@ logilink
 suite4burgerzaken-test
 sync
 medewerkers
-preprod-formulieren
 connect.test
 contentbeheer.test
 zaken.test
@@ -502,6 +502,7 @@ ssp
 digitaalnachtregister
 activesync
 crl
+belastingbalie-acc
 belastingbalie.acc
 dataportaal
 edison-acc
@@ -606,6 +607,7 @@ router
 klantportaal.acc
 prod
 grondwater
+zorgloket
 mta-sts.raad
 www.socialekaart
 attachments
@@ -772,7 +774,6 @@ api.acc.meldingen
 api.data
 applicaties
 autodiscover.ggd
-belastingbalie-acc
 berichtverkeer
 bi
 bouwdossiers
@@ -794,6 +795,7 @@ nlx
 octopus-portaal
 octopus-webdav
 ois
+ontheffingen
 publiek
 sportverhuur
 subsites
@@ -832,6 +834,7 @@ acc-openformulieren
 acc-openklant.dev
 acc-openzaak.dev
 acc-podiumd-logs.dev
+webconf
 werknemersportaal
 www.vastgoed
 dk
@@ -950,6 +953,7 @@ scim
 binnenstad
 cms.openstad
 devapps3
+mailings
 pop
 staging
 www.staging
@@ -972,7 +976,6 @@ forms-test
 www.remote
 www.zorgloket
 zmm
-zorgloket
 acceptatiebelastingen
 acceptatievergunningen
 www.acc.piwik
@@ -1163,6 +1166,7 @@ mijnwerkplek
 mijnpost
 return
 analytics
+cloudconnector
 bibliotheek
 edison-opl
 www.bibliotheek
@@ -3228,7 +3232,6 @@ ont.bp.data
 ont.io
 ont.management.api
 ontheffingen-acc
-ontheffingen
 ontw.app
 ontwikkelstrategie
 oostbegroot
@@ -3658,7 +3661,6 @@ slimbereikbaar
 wbs003
 wbs004
 web2print
-webconf
 widocmksp001
 woningdossier
 wpdagast1
@@ -4504,7 +4506,6 @@ jongerenloket
 kadbrkwkpd
 kei
 kennisportaal2
-mailings
 mijnwoonomgeving
 mta-sts.pop
 nieuweburgemeester
@@ -6581,7 +6582,6 @@ timetell
 afspraak-test
 berichten-test
 cloudconnector-test
-cloudconnector
 emagazine2030
 foto-bo
 keerpunt
@@ -7825,3 +7825,9 @@ wvncmg
 dmz003024
 restore
 wrd131001
+cmsinternet-acc
+cmsintranet-acc
+icclient
+owas
+skype
+wdm-fepoolweb-ext
