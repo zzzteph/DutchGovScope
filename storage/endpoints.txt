@@ -163,6 +163,7 @@ http://autodiscover.scherpenzeel.nl
 http://autodiscover.schiedam.nl
 http://autodiscover.schouwen-duiveland.nl
 http://autodiscover.sliedrecht.nl
+http://autodiscover.someren.nl
 http://autodiscover.sp.nijmegen.nl
 http://autodiscover.stadspartij.nijmegen.nl
 http://autodiscover.stadspartijdnf.nijmegen.nl
@@ -802,6 +803,7 @@ https://acceptatie.oosterhout.nl
 https://acceptatie.oranjeplein.goirle.nl
 https://acceptatie.rijswijk.nl
 https://acceptatie.schagen.nl
+https://acceptatie.someren.nl
 https://acceptatie.subsidies-backend.ede.nl
 https://acceptatie.subsidies.ede.nl
 https://acceptatiebelastingen.duiven.nl
@@ -922,6 +924,7 @@ https://afspraken.pekela.nl
 https://afspraken.pijnacker-nootdorp.nl
 https://afspraken.raalte.nl
 https://afspraken.reimerswaal.nl
+https://afspraken.someren.nl
 https://afspraken2.gorinchem.nl
 https://afval.assen.nl
 https://afval.diemen.nl
@@ -1247,11 +1250,13 @@ https://autorisatietest.bloemendaal.nl
 https://awm.amsterdam.nl
 https://awmag.asten.nl
 https://awmag.roermond.nl
+https://awmag.someren.nl
 https://awmail.nederweert.nl
 https://awmail.roermond.nl
 https://awseg.roermond.nl
 https://awtunnel.nederweert.nl
 https://awtunnel.roermond.nl
+https://awvpn.someren.nl
 https://backend-dvg.acc.rotterdam.nl
 https://backend-dvg.rotterdam.nl
 https://backoffice-parkeervergunningen-acc.beverwijk.nl
@@ -1276,6 +1281,7 @@ https://bastion365.nederweert.nl
 https://bastion365.nieuwkoop.nl
 https://bastion365.roermond.nl
 https://bastion365.rozendaal.nl
+https://bastion365.someren.nl
 https://bbz-ioaz.rotterdam.nl
 https://bec.acc.topdesk.denhaag.nl
 https://bec.ot.topdesk.denhaag.nl
@@ -2491,6 +2497,7 @@ https://eloket.putten.nl
 https://eloket.rhenen.nl
 https://eloket.rucphen.nl
 https://eloket.simpelveld.nl
+https://eloket.someren.nl
 https://eloketstaging.almere.nl
 https://eloketstaging.putten.nl
 https://elokettest.bloemendaal.nl
@@ -3326,6 +3333,7 @@ https://iburgerzaken.rozendaal.nl
 https://iburgerzaken.s-hertogenbosch.nl
 https://iburgerzaken.schagen.nl
 https://iburgerzaken.smallingerland.nl
+https://iburgerzaken.someren.nl
 https://ict.gemeentesluis.nl
 https://id-beheer-erfpacht-acc.amsterdam.nl
 https://id-beheer-erfpacht-dev.amsterdam.nl
@@ -4461,6 +4469,7 @@ https://obsurv.oss.nl
 https://obsurv.purmerend.nl
 https://obsurv.rotterdam.nl
 https://obsurv.sittard-geleen.nl
+https://obsurv.someren.nl
 https://oco.eindhoven.nl
 https://octopus-acc-doc.denhaag.nl
 https://octopus-acc-docs.sittard-geleen.nl
@@ -5226,6 +5235,7 @@ https://qr.testdigitaalgemeenteloket.alphenaandenrijn.nl
 https://qr.testdigitaalgemeenteloket.kaagenbraassem.nl
 https://quarantaine.sittard-geleen.nl
 https://raad.acceptatie.asten.nl
+https://raad.acceptatie.someren.nl
 https://raad.alblasserdam.nl
 https://raad.albrandswaard.nl
 https://raad.arnhem.nl
@@ -5251,6 +5261,7 @@ https://raad.rijssen-holten.nl
 https://raad.roosendaal.nl
 https://raad.schagen.nl
 https://raad.sliedrecht.nl
+https://raad.someren.nl
 https://raadplegen.denhaag.nl
 https://raadsinformatie.oegstgeest.nl
 https://raadzaam.nieuwegein.nl
@@ -5654,6 +5665,7 @@ https://soest.nl
 https://solliciteren.schouwen-duiveland.nl
 https://solliciterenbij.barneveld.nl
 https://solliciterenbij.maassluis.nl
+https://someren.nl
 https://sorry.belastingdienst.nl
 https://spa4.acc.amsterdam.nl
 https://spa4.tst.amsterdam.nl
@@ -5664,6 +5676,7 @@ https://spelenapp.loonopzand.nl
 https://speleninoost.amsterdam.nl
 https://speleninzuid.amsterdam.nl
 https://spf-wind.asten.nl
+https://spf-wind.someren.nl
 https://spinajaar.haarlemmermeer.nl
 https://spivoorjaar.haarlemmermeer.nl
 https://splunk-controlroom.denhaag.nl
@@ -6036,6 +6049,7 @@ https://testeloket.nissewaard.nl
 https://testeloket.nuenen.nl
 https://testeloket.rhenen.nl
 https://testeloket.simpelveld.nl
+https://testeloket.someren.nl
 https://testformulieren.bodegraven-reeuwijk.nl
 https://testformulieren.haarlemmermeer.nl
 https://testinloggen.haarlemmermeer.nl
@@ -7037,6 +7051,7 @@ https://www.smartatsea.denhaag.nl
 https://www.sociaalloket.medemblik.nl
 https://www.socialekaart.echt-susteren.nl
 https://www.soest.nl
+https://www.someren.nl
 https://www.speleninoost.amsterdam.nl
 https://www.speleninzuid.amsterdam.nl
 https://www.sport.nijmegen.nl

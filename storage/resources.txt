@@ -615,6 +615,7 @@ acceptatie.schagen.nl
 acceptatie.simpelveld.nl
 acceptatie.sint-michielsgestel.nl
 acceptatie.smallingerland.nl
+acceptatie.someren.nl
 acceptatie.subsidies-backend.ede.nl
 acceptatie.subsidies.ede.nl
 acceptatiebelastingen.duiven.nl
@@ -856,6 +857,7 @@ afspraken.raalte.nl
 afspraken.reimerswaal.nl
 afspraken.rijssen-holten.nl
 afspraken.roerdalen.nl
+afspraken.someren.nl
 afspraken2.gorinchem.nl
 afval.acc.denhaag.nl
 afval.acc.omgevingswet.overheid.nl
@@ -1501,6 +1503,7 @@ autodiscover.schiedam.nl
 autodiscover.schouwen-duiveland.nl
 autodiscover.sittard-geleen.nl
 autodiscover.sliedrecht.nl
+autodiscover.someren.nl
 autodiscover.sp.haarlemmermeer.nl
 autodiscover.sp.nijmegen.nl
 autodiscover.srh.haarlemmermeer.nl
@@ -1539,12 +1542,14 @@ awm.amsterdam.nl
 awmag.asten.nl
 awmag.nederweert.nl
 awmag.roermond.nl
+awmag.someren.nl
 awmail.nederweert.nl
 awmail.roermond.nl
 awseg.nederweert.nl
 awseg.roermond.nl
 awtunnel.nederweert.nl
 awtunnel.roermond.nl
+awvpn.someren.nl
 axians.lev.delft.nl
 axx-test.belastingdienst.nl
 axx.belastingdienst.nl
@@ -1615,6 +1620,7 @@ bastion365.nederweert.nl
 bastion365.nieuwkoop.nl
 bastion365.roermond.nl
 bastion365.rozendaal.nl
+bastion365.someren.nl
 bat.belastingdienst.nl
 batched.opsterland.nl
 bb1051246.kerkrade.nl
@@ -3177,6 +3183,7 @@ djumaproxy.heerlen.nl
 djumaproxy.helmond.nl
 djumaproxy.simpelveld.nl
 dk.asten.nl
+dk.someren.nl
 dkd-acc.groningen.nl
 dkd-prd.groningen.nl
 dkd-prod.alphenaandenrijn.nl
@@ -3241,6 +3248,7 @@ dkm.noordoostpolder.nl
 dkp.barneveld.nl
 dkt.barneveld.nl
 dktest.asten.nl
+dktest.someren.nl
 dktstdn.epe.nl
 dloket-s2s.olst-wijhe.nl
 dloket.assen.nl
@@ -3850,6 +3858,7 @@ eloket.rhenen.nl
 eloket.rucphen.nl
 eloket.simpelveld.nl
 eloket.soest.nl
+eloket.someren.nl
 eloketstaging.almere.nl
 eloketstaging.putten.nl
 elokettest.bloemendaal.nl
@@ -4002,6 +4011,7 @@ esb-prod.groningen.nl
 esb-test.groningen.nl
 esb.bergenopzoom.nl
 esb.breda.nl
+esb.someren.nl
 esbacc.breda.nl
 esbt.bergenopzoom.nl
 escaperoom.kampen.nl
@@ -5360,6 +5370,7 @@ iburgerzaken.rozendaal.nl
 iburgerzaken.s-hertogenbosch.nl
 iburgerzaken.schagen.nl
 iburgerzaken.smallingerland.nl
+iburgerzaken.someren.nl
 ibzpink.aaenhunze.nl
 ibzpink.achtkarspelen.nl
 ibzpink.almelo.nl
@@ -5484,6 +5495,7 @@ ibzpink.roosendaal.nl
 ibzpink.rozendaal.nl
 ibzpink.schagen.nl
 ibzpink.smallingerland.nl
+ibzpink.someren.nl
 ice.nijmegen.nl
 icm-ast.asten.nl
 ict-ers.werkenvoornederland.nl
@@ -6650,6 +6662,7 @@ mail.samen.rhenen.nl
 mail.schouwen-duiveland.nl
 mail.sittard-geleen.nl
 mail.smallingerland.nl
+mail.someren.nl
 mail01.bodegraven-reeuwijk.nl
 mail1.amersfoort.nl
 mail1.groningen.nl
@@ -7683,6 +7696,7 @@ obsurv.oss.nl
 obsurv.purmerend.nl
 obsurv.rotterdam.nl
 obsurv.sittard-geleen.nl
+obsurv.someren.nl
 obsurvtest.purmerend.nl
 oco.eindhoven.nl
 octobox.apeldoorn.nl
@@ -8971,6 +8985,7 @@ quarantine.bernheze.org
 quarantine.dmarc.nieuwegein.nl
 r01-nk-h140.ams.denhaag.nl
 raad.acceptatie.asten.nl
+raad.acceptatie.someren.nl
 raad.alblasserdam.nl
 raad.albrandswaard.nl
 raad.arnhem.nl
@@ -8999,6 +9014,7 @@ raad.rijssen-holten.nl
 raad.roosendaal.nl
 raad.schagen.nl
 raad.sliedrecht.nl
+raad.someren.nl
 raadplegen.denhaag.nl
 raadsagenda.oirschot.nl
 raadsinformatie.eindhoven.nl
@@ -9383,6 +9399,7 @@ sd-zgw.acc.denhaag.nl
 sd-zgw.denhaag.nl
 sd-zgw.test.denhaag.nl
 sd.asten.nl
+sd.someren.nl
 sd2-zgw.acc.denhaag.nl
 sd2-zgw.denhaag.nl
 sd2-zgw.test.denhaag.nl
@@ -9391,6 +9408,7 @@ sdgapi.ondernemersplein.overheid.nl
 sdm.igj.nl
 sdr.rotterdam.nl
 sdtest.asten.nl
+sdtest.someren.nl
 sdv.haarlem.nl
 se.vga.amsterdam.nl
 search.amsterdam.nl
@@ -9944,6 +9962,7 @@ sollicitatie.ggd.amsterdam.nl
 solliciteren.schouwen-duiveland.nl
 solliciterenbij.barneveld.nl
 solliciterenbij.maassluis.nl
+someren.nl
 sonarqube.lpc.logius.nl
 songtitel.bibliotheek.rotterdam.nl
 sophos.beverwijk.nl
@@ -9963,8 +9982,11 @@ spelenapp.loonopzand.nl
 speleninoost.amsterdam.nl
 speleninzuid.amsterdam.nl
 spf-ogone01.asten.nl
+spf-ogone01.someren.nl
 spf-ogone02.asten.nl
+spf-ogone02.someren.nl
 spf-wind.asten.nl
+spf-wind.someren.nl
 spf.kaagenbraassem.nl
 spin.ede.nl
 spinajaar.haarlemmermeer.nl
@@ -10714,6 +10736,7 @@ testeloket.nissewaard.nl
 testeloket.nuenen.nl
 testeloket.rhenen.nl
 testeloket.simpelveld.nl
+testeloket.someren.nl
 testembrace.nunspeet.nl
 testextsec.purmerend.nl
 testformulieren.bodegraven-reeuwijk.nl
@@ -12621,6 +12644,7 @@ www.socialekaart.duiven.nl
 www.socialekaart.echt-susteren.nl
 www.soest.nl
 www.solliciterenbij.amsterdam.nl
+www.someren.nl
 www.speleninoost.amsterdam.nl
 www.speleninzuid.amsterdam.nl
 www.sport.amsterdam.nl

@@ -20,9 +20,9 @@ probeer
 loket
 felix
 formulieren
+eloket
 test
 werkplek
-eloket
 dkd
 meldingen
 portal
@@ -36,19 +36,19 @@ pv
 vpn
 broker
 ruimtelijkeplannen
+raad
 parkeren
 afspraak
-raad
 werkenbij
 zaaksysteem-accept
 betalen
 iparticipatie
 gemeenteraad
+testeloket
 dacceptatieloket
 dacceptatiemidoffice
 belastingen
 enterpriseenrollment
-testeloket
 dloket
 dmidoffice
 data
@@ -87,6 +87,7 @@ portaal
 piwik
 duurzaam
 parkeren-acc
+obsurv
 kaarten
 pki
 www.webmail
@@ -100,7 +101,6 @@ extranet
 gemeente
 acc-formulier
 acc-podiumd-logs
-obsurv
 connect
 begroting
 mailing
@@ -113,6 +113,7 @@ acc-mijn
 acc-notificaties
 acc-objecten
 acc-objecttypen
+bastion365
 woningbouwkaart
 klantcontact
 dtestmidoffice
@@ -128,7 +129,6 @@ acc-contact
 acc-keycloak
 acc-openklant
 acc-openzaak
-bastion365
 keycloak
 podiumd-logs
 internetafspraken
@@ -349,6 +349,7 @@ test-notificaties
 test-objecten
 test-objecttypen
 test-podiumd-logs
+awmag
 beeldbank-bo
 geoserver
 kaartviewer
@@ -442,7 +443,6 @@ dialin
 test-keycloak
 test-openklant
 test-openzaak
-awmag
 loket-acc
 plannen
 accdrop
@@ -460,6 +460,7 @@ klimaatplein
 live
 mijnsociaalportaal-acc
 mijnsociaalportaal
+esb
 zorgmail
 preprod.vergunningintaker
 beeldbankbeheer
@@ -700,6 +701,14 @@ acc-openzaak.dev
 acc-podiumd-logs.dev
 bedrijfsafval
 vastgoed
+dk
+dktest
+raad.acceptatie
+sd
+sdtest
+spf-ogone01
+spf-ogone02
+spf-wind
 geoserver-test
 pwa
 solliciterenbij
@@ -715,7 +724,6 @@ data.gemnet
 intranetcms-acc
 testberichten
 aovpn
-esb
 helloid
 identity
 liquitsatellite
@@ -3506,16 +3514,8 @@ www.slimbereikbaar
 www.vastgoed
 deschop.acceptatie
 deschop
-dk
-dktest
 guido
 icm-ast
-raad.acceptatie
-sd
-sdtest
-spf-ogone01
-spf-ogone02
-spf-wind
 testmeldingen
 bestemmingsplannen
 neuron.prod
@@ -6928,3 +6928,4 @@ snelbaliebbsuo
 snelbalietestbbsuo
 test-mijnbbsuo
 zorgzaam
+awvpn
