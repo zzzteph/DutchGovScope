@@ -860,6 +860,7 @@ https://acceptatie.stadskanaal.nl
 https://acceptatie.subsidies-backend.ede.nl
 https://acceptatie.subsidies.ede.nl
 https://acceptatie.teylingen.nl
+https://acceptatie.velsen.nl
 https://acceptatiebelastingen.duiven.nl
 https://acceptatievergunningen.duiven.nl
 https://access.landvancuijk.nl
@@ -1928,6 +1929,7 @@ https://cmsintranet.peelenmaas.nl
 https://cmsintranet.sittard-geleen.nl
 https://cmsintranet.steenwijkerland.nl
 https://cmsintranet.sudwestfryslan.nl
+https://cmsintranet.velsen.nl
 https://cmsjip.hofvantwente.nl
 https://cmsmarkt1.nunspeet.nl
 https://cmsnopnet.noordoostpolder.nl
@@ -1953,6 +1955,7 @@ https://cmsoo.oostgelre.nl
 https://cmsoo.raalte.nl
 https://cmsoo.roermond.nl
 https://cmsoo.tiel.nl
+https://cmsoo.velsen.nl
 https://cmssamenatwork.stichtsevecht.nl
 https://cmssocial.montferland.info
 https://cmstest-insite.nijmegen.nl
@@ -2725,6 +2728,7 @@ https://eloket.sonenbreugel.nl
 https://eloket.sudwestfryslan.nl
 https://eloket.tiel.nl
 https://eloket.twenterand.nl
+https://eloket.velsen.nl
 https://eloketstaging.almere.nl
 https://eloketstaging.putten.nl
 https://elokettest.bloemendaal.nl
@@ -2976,6 +2980,7 @@ https://financien.oss.nl
 https://financien.pijnacker-nootdorp.nl
 https://financien.purmerend.nl
 https://financien.rijswijk.nl
+https://financien.velsen.nl
 https://fisha.rotterdam.nl
 https://flevoparkbad.amsterdam.nl
 https://flexibeleschil.rotterdam.nl
@@ -3633,6 +3638,7 @@ https://iburgerzaken.urk.nl
 https://iburgerzaken.vaals.nl
 https://iburgerzaken.valkenswaard.nl
 https://iburgerzaken.veere.nl
+https://iburgerzaken.velsen.nl
 https://ict.gemeentesluis.nl
 https://id-beheer-erfpacht-acc.amsterdam.nl
 https://id-beheer-erfpacht-dev.amsterdam.nl
@@ -3851,6 +3857,7 @@ https://intranet.texel.nl
 https://intranet.tilburg.nl
 https://intranet.utrecht.nl
 https://intranet.valkenburg.nl
+https://intranet.velsen.nl
 https://intranet2.steenwijkerland.nl
 https://intranetacc.apeldoorn.nl
 https://intranetcms-acc.bergendal.nl
@@ -4846,6 +4853,8 @@ https://nunietzwanger.rotterdam.nl
 https://nunspeet-checker-preprod.nunspeet.nl
 https://nunspeet-checker.nunspeet.nl
 https://nunspeet.nl
+https://nwro.velsen.nl
+https://nwro2.velsen.nl
 https://oauth.denhaag.nl
 https://oauth.openstad.alphenaandenrijn.nl
 https://oauth.openstad.utrecht.nl
@@ -5781,6 +5790,7 @@ https://raad.stadskanaal.nl
 https://raad.t-diel.nl
 https://raad.tiel.nl
 https://raad.tynaarlo.nl
+https://raad.velsen.nl
 https://raadplegen.denhaag.nl
 https://raadsakkoord.veenendaal.nl
 https://raadsinformatie.oegstgeest.nl
@@ -6519,6 +6529,7 @@ https://test-cmsintranet.heuvelrug.nl
 https://test-cmsintranet.meierijstad.nl
 https://test-cmsintranet.steenwijkerland.nl
 https://test-cmsintranet.sudwestfryslan.nl
+https://test-cmsintranet.velsen.nl
 https://test-cmsnopnet.noordoostpolder.nl
 https://test-cmssocial.montferland.info
 https://test-cmsurknet.urk.nl
@@ -6543,6 +6554,7 @@ https://test-intra.gooisemeren.nl
 https://test-intranet.gemeentestein.nl
 https://test-intranet.steenwijkerland.nl
 https://test-intranet.sudwestfryslan.nl
+https://test-intranet.velsen.nl
 https://test-kaartviewer.hoorn.nl
 https://test-kaartviewer.pijnacker-nootdorp.nl
 https://test-kansshop.eemsdelta.nl
@@ -6611,6 +6623,7 @@ https://test.schiedam.nl
 https://test.stichtsevecht.nl
 https://test.subsites.leiden.nl
 https://test.utrecht.nl
+https://test.velsen.nl
 https://testafspraken.alkmaar.nl
 https://testapps.haarlemmermeer.nl
 https://testbelastingbalie.hoorn.nl
@@ -6655,6 +6668,7 @@ https://testeloket.someren.nl
 https://testeloket.sonenbreugel.nl
 https://testeloket.tiel.nl
 https://testeloket.twenterand.nl
+https://testeloket.velsen.nl
 https://testformulieren.bodegraven-reeuwijk.nl
 https://testformulieren.haarlemmermeer.nl
 https://testformulieren.veldhoven.nl
@@ -6702,6 +6716,7 @@ https://thuiswerken.almere.nl
 https://thuiswinkelen.landvancuijk.nl
 https://tickets.landvancuijk.nl
 https://tiel.nl
+https://tijd.velsen.nl
 https://tijdregistratie.terneuzen.nl
 https://tijdschrijven.apeldoorn.nl
 https://tilburg.nl
@@ -6813,6 +6828,7 @@ https://uitgeest.nl
 https://uithoorn.nl
 https://uitslagen.denhaag.nl
 https://uitvaart.maassluis.nl
+https://uitvaart.velsen.nl
 https://uitvaartagenda-dev.apeldoorn.nl
 https://uitvaartagenda-staging.apeldoorn.nl
 https://uitvaartagenda-test.apeldoorn.nl
@@ -6864,6 +6880,7 @@ https://veiligmailen.almelo.nl
 https://veiligmailen.beverwijk.nl
 https://veiling.belastingdienst.nl
 https://velp.landvancuijk.nl
+https://velsen.nl
 https://vepapi.vcdn.belastingdienst.nl
 https://vepkms.vcdn.belastingdienst.nl
 https://vepvod.vcdn.belastingdienst.nl
@@ -7641,6 +7658,7 @@ https://www.noordoostpolder.nl
 https://www.noordwestbegroot.utrecht.nl
 https://www.noordwijk.nl
 https://www.nunspeet.nl
+https://www.nwro.velsen.nl
 https://www.oco.eindhoven.nl
 https://www.oefenenmetstemmen.denhaag.nl
 https://www.oegstgeest.nl
@@ -7813,6 +7831,7 @@ https://www.veendam.nl
 https://www.veenendaal.nl
 https://www.veenkolonien.groningen.nl
 https://www.veldhoven.nl
+https://www.velsen.nl
 https://www.vga.amsterdam.nl
 https://www.victor.amsterdam.nl
 https://www.vraagbaak.doesburg.nl

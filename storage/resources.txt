@@ -650,6 +650,7 @@ acceptatie.teylingen.nl
 acceptatie.tiel.nl
 acceptatie.uithoorn.nl
 acceptatie.veendam.nl
+acceptatie.velsen.nl
 acceptatiebelastingen.duiven.nl
 acceptatieformulieren.nissewaard.nl
 acceptatieloket.bergen-nh.nl
@@ -915,6 +916,7 @@ afspraken.vaals.nl
 afspraken.valkenswaard.nl
 afspraken.veendam.nl
 afspraken.veere.nl
+afspraken.velsen.nl
 afspraken2.gorinchem.nl
 afval.acc.denhaag.nl
 afval.acc.omgevingswet.overheid.nl
@@ -2739,6 +2741,7 @@ cmsintranet.peelenmaas.nl
 cmsintranet.sittard-geleen.nl
 cmsintranet.steenwijkerland.nl
 cmsintranet.sudwestfryslan.nl
+cmsintranet.velsen.nl
 cmsjip.hofvantwente.nl
 cmsmarkt1.nunspeet.nl
 cmsnopnet.noordoostpolder.nl
@@ -2764,6 +2767,7 @@ cmsoo.oostgelre.nl
 cmsoo.raalte.nl
 cmsoo.roermond.nl
 cmsoo.tiel.nl
+cmsoo.velsen.nl
 cmssamenatwork.stichtsevecht.nl
 cmssocial.montferland.info
 cmssocialintranet.middendelfland.nl
@@ -3023,6 +3027,7 @@ dacceptatieloket.roermond.nl
 dacceptatieloket.rotterdam.nl
 dacceptatieloket.twenterand.nl
 dacceptatieloket.veendam.nl
+dacceptatieloket.velsen.nl
 dacceptatiemidoffice.assen.nl
 dacceptatiemidoffice.borger-odoorn.nl
 dacceptatiemidoffice.borne.nl
@@ -3050,6 +3055,7 @@ dacceptatiemidoffice.roermond.nl
 dacceptatiemidoffice.rotterdam.nl
 dacceptatiemidoffice.twenterand.nl
 dacceptatiemidoffice.veendam.nl
+dacceptatiemidoffice.velsen.nl
 dagbesteding.apeldoorn.nl
 dalfsen.nl
 dali.alphenaandenrijn.nl
@@ -3106,6 +3112,7 @@ data.roosendaal.nl
 data.rotterdam.nl
 data.tynaarlo.nl
 data.utrecht.nl
+data.velsen.nl
 dataacc.breda.nl
 datab.drechterland.nl
 databeheer.gouda.nl
@@ -3506,6 +3513,8 @@ dis4fin.simpelveld.nl
 dis4fintest.simpelveld.nl
 discoverreceiver.purmerend.nl
 ditwilikin.rotterdam.nl
+djuma-mks-prd.velsen.nl
+djuma-mks-tst.velsen.nl
 djuma.beesel.nl
 djuma.gemeentehulst.nl
 djuma.haarlemmermeer.nl
@@ -3618,6 +3627,7 @@ dloket.roermond.nl
 dloket.rotterdam.nl
 dloket.twenterand.nl
 dloket.veendam.nl
+dloket.velsen.nl
 dm-tst.groningen.nl
 dmafunc002.amsterdam.nl
 dmb.amsterdam.nl
@@ -3647,6 +3657,7 @@ dmidoffice.roermond.nl
 dmidoffice.rotterdam.nl
 dmidoffice.twenterand.nl
 dmidoffice.veendam.nl
+dmidoffice.velsen.nl
 dmo.omgevingswet.overheid.nl
 dmpfunc002.amsterdam.nl
 dms.heuvelrug.nl
@@ -4258,6 +4269,7 @@ eloket.sudwestfryslan.nl
 eloket.tiel.nl
 eloket.twenterand.nl
 eloket.uitgeest.nl
+eloket.velsen.nl
 eloketstaging.almere.nl
 eloketstaging.putten.nl
 elokettest.bloemendaal.nl
@@ -4682,6 +4694,7 @@ financien.oss.nl
 financien.pijnacker-nootdorp.nl
 financien.purmerend.nl
 financien.rijswijk.nl
+financien.velsen.nl
 fiod.acc.belastingdienst.nl
 firewall.lopik.nl
 firewall.servers1.bergen-nh.nl
@@ -4899,6 +4912,7 @@ fs.maassluis.nl
 fs.mobiliteit.data.amsterdam.nl
 fs.stadskanaal.nl
 fs.tilburg.nl
+fs.velsen.nl
 fs001.leudal.nl
 fs2016.beesel.nl
 fsa.ede.nl
@@ -4981,8 +4995,10 @@ gbi.sudwestfryslan.nl
 gbionline.enschede.nl
 gbionline.houten.nl
 gbionline.losser.nl
+gbionline.velsen.nl
 gbionlinetest.enschede.nl
 gbionlinetest.losser.nl
+gbionlinetest.velsen.nl
 gbit.houten.nl
 gbiweb.steenwijkerland.nl
 gbkz-mks.bloemendaal.nl
@@ -5468,6 +5484,7 @@ gs01msn.meerssen.nl
 gsa-rest-test.belastingdienst.nl
 gsmpt.stadstoezicht.amsterdam.nl
 gt-loket.noord-beveland.nl
+gt-loket.velsen.nl
 gtbag-va01.gemeente-oldambt.nl
 gtmb.belastingdienst.nl
 gtmb.str10.acc.belastingdienst.nl
@@ -5931,6 +5948,7 @@ iburgerzaken.urk.nl
 iburgerzaken.vaals.nl
 iburgerzaken.valkenswaard.nl
 iburgerzaken.veere.nl
+iburgerzaken.velsen.nl
 ibzpink.aaenhunze.nl
 ibzpink.achtkarspelen.nl
 ibzpink.almelo.nl
@@ -6072,6 +6090,7 @@ ibzpink.uithoorn.nl
 ibzpink.vaals.nl
 ibzpink.valkenswaard.nl
 ibzpink.veere.nl
+ibzpink.velsen.nl
 ice.nijmegen.nl
 icm-ast.asten.nl
 ict-ers.werkenvoornederland.nl
@@ -6453,6 +6472,7 @@ intranet.utrecht.nl
 intranet.valkenburg.nl
 intranet.valkenswaard.nl
 intranet.veere.nl
+intranet.velsen.nl
 intranet2.steenwijkerland.nl
 intranetacc.apeldoorn.nl
 intranetacceptatie.kampen.nl
@@ -6522,6 +6542,7 @@ iparticipatie.s-hertogenbosch.nl
 iparticipatie.t-diel.nl
 iparticipatie.twenterand.nl
 iparticipatie.urk.nl
+iparticipatie.velsen.nl
 ipp.haarlem.nl
 iris-acc.lingewaard.nl
 iris.acc.denhaag.nl
@@ -7678,6 +7699,9 @@ midoffice.aalsmeer.nl
 midoffice.gemeente-oldambt.nl
 midoffice.heerlen.nl
 midoffice.landgraaf.nl
+midofficeacc.velsen.nl
+midofficeprd.velsen.nl
+midofficetst.velsen.nl
 mijn-acc.groningen.nl
 mijn-acc.igj.nl
 mijn-acc.overbetuwe.nl
@@ -8047,6 +8071,7 @@ mks.putten.nl
 mks.rheden.nl
 mks.rozendaal.nl
 mks.test.amsterdam.nl
+mks.velsen.nl
 mks01.amsterdam.nl
 mks01msn.meerssen.nl
 mksacc.breda.nl
@@ -8079,6 +8104,7 @@ mobiel.ouder-amstel.nl
 mobiel.peelenmaas.nl
 mobiel.renkum.nl
 mobiel.toeslagen.nl
+mobiel.velsen.nl
 mobiel1.acc.toeslagen.nl
 mobielacc.rotterdam.nl
 mobielbeek.gemeentebeek.nl
@@ -8429,6 +8455,8 @@ nunspeet-checker.nunspeet.nl
 nunspeet.nl
 nw.haarlemmermeer.nl
 nwk-djm02.nieuwkoop.nl
+nwro.velsen.nl
+nwro2.velsen.nl
 o-cms1.rijksoverheid.nl
 o-magazinesintern.rijksoverheid.nl
 o-opendata.rijksoverheid.nl
@@ -9927,6 +9955,7 @@ qapbldexte2.belastingdienst.nl
 qcalendar.deventer.nl
 qfact.hofvantwente.nl
 qmanage.smallingerland.nl
+qmanage.velsen.nl
 qmatic.tholen.nl
 qmatic.valkenburg.nl
 qr-acc.capelleaandenijssel.nl
@@ -9988,6 +10017,7 @@ raad.stadskanaal.nl
 raad.t-diel.nl
 raad.tiel.nl
 raad.tynaarlo.nl
+raad.velsen.nl
 raadplegen.denhaag.nl
 raadplegenbrp.veenendaal.nl
 raadsagenda.oirschot.nl
@@ -11512,6 +11542,7 @@ sync.landgraaf.nl
 sync.nederbetuwe.nl
 sync01.iba.amsterdam.nl
 sync01.oa.amsterdam.nl
+szc.velsen.nl
 t-cms.rijksoverheid.nl
 t-cms1.rijksoverheid.nl
 t-diel.nl
@@ -11583,6 +11614,7 @@ teleweb.arnhem.nl
 teleweb.heerlen.nl
 teleweb.kerkrade.nl
 teleweb.landgraaf.nl
+telewerk.velsen.nl
 telewerken.amsterdam.nl
 telewerken.drechterland.nl
 telewerken.gemeentemaashorst.nl
@@ -11620,6 +11652,7 @@ test-cmsintranet.meierijstad.nl
 test-cmsintranet.sittard-geleen.nl
 test-cmsintranet.steenwijkerland.nl
 test-cmsintranet.sudwestfryslan.nl
+test-cmsintranet.velsen.nl
 test-cmsnopnet.noordoostpolder.nl
 test-cmssamenatwork.stichtsevecht.nl
 test-cmssocial.montferland.info
@@ -11678,6 +11711,7 @@ test-intranet.midden-groningen.nl
 test-intranet.sittard-geleen.nl
 test-intranet.steenwijkerland.nl
 test-intranet.sudwestfryslan.nl
+test-intranet.velsen.nl
 test-ipa.achtkarspelen.nl
 test-ipa.beesel.nl
 test-ipa.coevorden.nl
@@ -11704,6 +11738,7 @@ test-ipa.s-hertogenbosch.nl
 test-ipa.t-diel.nl
 test-ipa.twenterand.nl
 test-ipa.urk.nl
+test-ipa.velsen.nl
 test-jip.hofvantwente.nl
 test-kaart.almere.nl
 test-kaarten.haarlemmermeer.nl
@@ -11848,6 +11883,7 @@ test.utrecht.nl
 test.valkenburg.nl
 test.veendam.nl
 test.veere.nl
+test.velsen.nl
 testafspraken.alkmaar.nl
 testafspraken.gemeentehw.nl
 testafspraken.nissewaard.nl
@@ -11906,6 +11942,7 @@ testeloket.someren.nl
 testeloket.sonenbreugel.nl
 testeloket.tiel.nl
 testeloket.twenterand.nl
+testeloket.velsen.nl
 testembrace.nunspeet.nl
 testextsec.purmerend.nl
 testformulieren.bodegraven-reeuwijk.nl
@@ -12001,6 +12038,7 @@ thuiswinkelen.landvancuijk.nl
 tickets.krimpenerwaard.nl
 tickets.landvancuijk.nl
 tiel.nl
+tijd.velsen.nl
 tijdelijk.data.amsterdam.nl
 tijdelijk.secure.amsterdam.nl
 tijdregistratie.terneuzen.nl
@@ -12177,6 +12215,7 @@ twenterand.nl
 tyn-makelaar.tynaarlo.nl
 tynaarlo.nl
 typo3.borger-odoorn.nl
+typo3.velsen.nl
 tzp.leiden.nl
 uaghelm01.helmond.nl
 uaghelm02.helmond.nl
@@ -12236,6 +12275,7 @@ uitleg.sudwestfryslan.nl
 uitslagen.denhaag.nl
 uitslagen.dinkelland.nl
 uitvaart.maassluis.nl
+uitvaart.velsen.nl
 uitvaartagenda-dev.apeldoorn.nl
 uitvaartagenda-staging.apeldoorn.nl
 uitvaartagenda-test.apeldoorn.nl
@@ -12329,6 +12369,7 @@ veiligmailen.haaksbergen.nl
 veiling.acc.belastingdienst.nl
 veiling.belastingdienst.nl
 velp.landvancuijk.nl
+velsen.nl
 veluwsepoort.ede.nl
 vepana.vcdn.belastingdienst.nl
 vepanaont.vcdn.belastingdienst.nl
@@ -12452,6 +12493,8 @@ vinden.heuvelrug.nl
 vis.gouda.nl
 visvijver.doetinchem.nl
 vlindernet.lingewaard.nl
+vlspmks.velsen.nl
+vlstmks.velsen.nl
 vm-cs.kampen.nl
 vmapp002.borne.nl
 vmapp006.borne.nl
@@ -12512,6 +12555,7 @@ vpn.sittard-geleen.nl
 vpn.stichtsevecht.nl
 vpn.sudwestfryslan.nl
 vpn.terneuzen.nl
+vpn.velsen.nl
 vpn.zuid.amsterdam.nl
 vpn02.denhaag.nl
 vpn365.denhelder.nl
@@ -12537,6 +12581,7 @@ vs_mijn.str13.tst.belastingdienst.nl
 vs_mijnzakelijk.str10.tst.belastingdienst.nl
 vs_mijnzakelijk.str13.tst.belastingdienst.nl
 vs_webdiensten.str13.tst.belastingdienst.nl
+vsnwutg.velsen.nl
 vsp.denhelder.nl
 vsp.heemskerk.nl
 vsp.terneuzen.nl
@@ -12818,6 +12863,7 @@ webmail.utrecht.nl
 webmail.vaals.nl
 webmail.valkenburg.nl
 webmail.veendam.nl
+webmail.velsen.nl
 webmail.werkenvoornederland.nl
 webmail.west.amsterdam.nl
 webmail.zuidoost.amsterdam.nl
@@ -12995,6 +13041,7 @@ werkplek.texel.nl
 werkplek.tholen.nl
 werkplek.tilburg.nl
 werkplek.veldhoven.nl
+werkplek.velsen.nl
 werkplek02.derondevenen.nl
 werkplekcb.kampen.nl
 werkplekspel.tilburg.nl
@@ -13852,6 +13899,7 @@ www.noordwijk.nl
 www.noordzuidlijn.amsterdam.nl
 www.nuenen.nl
 www.nunspeet.nl
+www.nwro.velsen.nl
 www.oco.eindhoven.nl
 www.oefenenmetstemmen.denhaag.nl
 www.oegstgeest.nl
@@ -14171,6 +14219,7 @@ www.veenendaal.nl
 www.veenkolonien.groningen.nl
 www.veere.nl
 www.veldhoven.nl
+www.velsen.nl
 www.vga.amsterdam.nl
 www.vibe.rhenen.nl
 www.victor.amsterdam.nl
