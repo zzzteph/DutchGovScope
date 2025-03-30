@@ -14994,6 +14994,7 @@ wifi.twenterand.nl
 wifiguestportal.almere.nl
 wifilab.belastingdienst.nl
 wifiradius.isl.belastingdienst.nl
+wij.bergen-nh.nl
 wij.deventer.nl
 wij.groningen.nl
 wij.purmerend.nl

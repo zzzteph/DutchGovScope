@@ -1,4 +1,5 @@
 http://autodiscover.bergen-nh.nl
+http://wij.bergen-nh.nl
 https://bergen-nh.nl
 https://betalen.bergen-nh.nl
 https://edienstenburgerzaken-test.bergen-nh.nl

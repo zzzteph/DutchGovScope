@@ -534,6 +534,7 @@ http://webmail.werkenvoornederland.nl
 http://welkom.ede.nl
 http://werkenbij.weststellingwerf.nl
 http://wierden.nl
+http://wij.bergen-nh.nl
 http://wijkteam-acc.katwijk.nl
 http://wijkteam-cursus.katwijk.nl
 http://wijkteam-tst.katwijk.nl

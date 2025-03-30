@@ -13417,6 +13417,7 @@ wifi.hilversum.nl
 wifi.hoorn.nl
 wifi.twenterand.nl
 wifiguestportal.almere.nl
+wij.bergen-nh.nl
 wij.deventer.nl
 wij.groningen.nl
 wij.purmerend.nl

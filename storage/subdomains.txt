@@ -427,6 +427,7 @@ zorg
 klimaatplein
 mijnsociaalportaal-acc
 mijnsociaalportaal
+wij
 tim
 csc
 mbg1
@@ -615,7 +616,6 @@ forms
 haven
 mijnloket
 staging
-wij
 winkelen
 financielestukken
 gdintaker
