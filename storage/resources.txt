@@ -8790,6 +8790,7 @@ middendelfland.nl
 middendrenthe.nl
 middengroningen.groningen.nl
 midoffice.aalsmeer.nl
+midoffice.coevorden.nl
 midoffice.gemeente-oldambt.nl
 midoffice.heerlen.nl
 midoffice.landgraaf.nl

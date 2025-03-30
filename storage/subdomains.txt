@@ -328,6 +328,7 @@ huisstijl
 ns2
 smtp1
 zoeken
+midoffice
 participatie
 documenten
 raadsnet
@@ -397,7 +398,6 @@ mijn-acc
 werken
 www.mijn
 loket.test
-midoffice
 www.acceptatie
 toegang
 secure-test
