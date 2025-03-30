@@ -6349,6 +6349,8 @@ handhavingtest.valkenburg.nl
 handleiding.nunspeet.nl
 handleiding.rijksoverheid.nl
 haps.landvancuijk.nl
+harbor.az1.lpc.logius.nl
+harbor.az2.lpc.logius.nl
 harbor.cg-intern.acc.utrecht.nl
 hardenberg.nl
 harderwijk.nl
@@ -9523,6 +9525,7 @@ neuron.zandvoort.nl
 neurontst.kerkrade.nl
 nextcloud.ede.nl
 nexus.datapunt.amsterdam.nl
+nexus.lpc.logius.nl
 ngdw.brunssum.nl
 ngsrv02.ad.winterswijk.nl
 nha-acc.amsterdam.nl

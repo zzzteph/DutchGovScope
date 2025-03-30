@@ -2683,6 +2683,8 @@ gitdocumentatie
 gm-pre.mev
 gm.mev
 grafana.lpc
+harbor.az1.lpc
+harbor.az2.lpc
 iam-containerplatform-az1.lpc
 iam-containerplatform
 iam-containerplatform.lpc
@@ -2695,6 +2697,7 @@ machtigen.digipoort
 managedservices
 mijntokenactiveren
 msp-a
+nexus.lpc
 oinregister
 pmz-pre
 pmz

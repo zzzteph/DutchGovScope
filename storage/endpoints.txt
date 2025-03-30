@@ -298,6 +298,8 @@ http://goeree-overflakkee.nl
 http://gplan.rheden.nl
 http://grafana.lpc.logius.nl
 http://gws-prod.gemeente-steenbergen.nl
+http://harbor.az1.lpc.logius.nl
+http://harbor.az2.lpc.logius.nl
 http://helloid.sittard-geleen.nl
 http://heumen.nl
 http://historie.venlo.nl
@@ -369,6 +371,7 @@ http://mijnzorg.aalsmeer.nl
 http://mijnzorg.amstelveen.nl
 http://mookenmiddelaar.nl
 http://mt-link.stichtsevecht.nl
+http://nexus.lpc.logius.nl
 http://nhr-prod.gemeente-steenbergen.nl
 http://nhr-test.gemeente-steenbergen.nl
 http://ondertekeningsviewer.overheid.nl

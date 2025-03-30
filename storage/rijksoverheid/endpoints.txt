@@ -24,6 +24,8 @@ http://git.lpc.logius.nl
 http://gm-pre.mev.logius.nl
 http://gm.mev.logius.nl
 http://grafana.lpc.logius.nl
+http://harbor.az1.lpc.logius.nl
+http://harbor.az2.lpc.logius.nl
 http://iam-containerplatform-az1.lpc.logius.nl
 http://ict-ers.werkenvoornederland.nl
 http://icters.werkenvoornederland.nl
@@ -32,6 +34,7 @@ http://juristen.werkenvoornederland.nl
 http://kec.officiele-overheidspublicaties.nl
 http://kibana-prod.lpc.logius.nl
 http://kibana.lpc.logius.nl
+http://nexus.lpc.logius.nl
 http://ondertekeningsviewer.overheid.nl
 http://preprod-machtigen.digipoort.logius.nl
 http://pwa001.belastingdienst.nl

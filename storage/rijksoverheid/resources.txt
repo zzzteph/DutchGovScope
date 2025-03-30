@@ -657,6 +657,8 @@ gvsh2ha.belastingdienst.nl
 gvsh2hb.belastingdienst.nl
 gw.rijksoverheid.nl
 handleiding.rijksoverheid.nl
+harbor.az1.lpc.logius.nl
+harbor.az2.lpc.logius.nl
 herstel.acc.belastingdienst.nl
 herstel.toeslagen.nl
 hrz-uag-ext.belastingdienst.nl
@@ -940,6 +942,7 @@ mysites.belastingdienst.nl
 nat_o5001vmfavapp.ont.belastingdienst.nl
 nat_o5002vmfavapp.ont.belastingdienst.nl
 natuur.omgevingswet.overheid.nl
+nexus.lpc.logius.nl
 nieuwsbrievenminocw.nl
 node1.acc.statistiek.mijn.overheid.nl
 nple-test.belastingdienst.nl
