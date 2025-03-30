@@ -416,7 +416,6 @@ http://simform.heerlen.nl
 http://simsite.beekdaelen.nl
 http://simsite.bergeijk.nl
 http://simsite.deurne.nl
-http://simsite.doesburg.nl
 http://simsite.eersel.nl
 http://simsite.heumen.nl
 http://simsite.kerkrade.nl
@@ -6470,7 +6469,6 @@ https://simcms.beverwijk.nl
 https://simcms.bronckhorst.nl
 https://simcms.cranendonck.nl
 https://simcms.deurne.nl
-https://simcms.doesburg.nl
 https://simcms.doetinchem.nl
 https://simcms.geldrop-mierlo.nl
 https://simcms.gemeentebeek.nl
@@ -6518,6 +6516,7 @@ https://simform.wassenaar.nl
 https://simpelveld.nl
 https://simsite.bergendal.nl
 https://simsite.bronckhorst.nl
+https://simsite.doesburg.nl
 https://simsite.geertruidenberg.nl
 https://simsite.gemeentebeek.nl
 https://simsite.heeze-leende.nl
@@ -7710,7 +7709,6 @@ https://woningdossier.assen.nl
 https://woo-acc.denhaag.nl
 https://woo.arnhem.nl
 https://woo.denhaag.nl
-https://woo.doesburg.nl
 https://woo.helmond.nl
 https://woo.hilversum.nl
 https://woo.krimpenerwaard.nl
