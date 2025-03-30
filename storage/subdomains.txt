@@ -771,6 +771,7 @@ ondernemersplein
 repository
 verkeersbesluiten
 edienstenburgerzaken.test
+www.praatmee
 autorisatie
 av
 datalab
@@ -2734,7 +2735,6 @@ dmz-websrv
 ebms
 lvwoz
 sophos01
-www.praatmee
 a2b-rtr
 aeos
 agwp01.azweu

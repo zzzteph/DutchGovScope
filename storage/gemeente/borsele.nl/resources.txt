@@ -12,3 +12,4 @@ mailing.borsele.nl
 omgevingsvisie.borsele.nl
 praatmee.borsele.nl
 www.borsele.nl
+www.praatmee.borsele.nl
