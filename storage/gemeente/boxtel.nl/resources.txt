@@ -1,6 +1,7 @@
 Belastingportaal-test.boxtel.nl
 acceptatie.boxtel.nl
 afspraak.boxtel.nl
+atelier.boxtel.nl
 belastingportaal-test.boxtel.nl
 belastingportaal.boxtel.nl
 boxtel.nl
