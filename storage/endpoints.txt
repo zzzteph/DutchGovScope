@@ -277,7 +277,6 @@ http://felix.waalwijk.nl
 http://felix.westerkwartier.nl
 http://felix.westmaasenwaal.nl
 http://felix.zundert.nl
-http://financials.werkenvoornederland.nl
 http://flash.scherpenzeel.nl
 http://flowmailer-tracking.katwijk.nl
 http://form-gemeenteloket.gemeentemaastricht.nl

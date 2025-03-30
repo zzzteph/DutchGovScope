@@ -19,7 +19,6 @@ http://dns-web10.rijksoverheid.nl
 http://dns-web300.rijksoverheid.nl
 http://docs.lpc.logius.nl
 http://dse.lx.overheid.nl
-http://financials.werkenvoornederland.nl
 http://git-az1.lpc.logius.nl
 http://git-az2.lpc.logius.nl
 http://git.lpc.logius.nl
