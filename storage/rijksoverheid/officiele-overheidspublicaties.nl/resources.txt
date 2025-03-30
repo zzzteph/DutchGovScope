@@ -4,3 +4,4 @@ officiele-overheidspublicaties.nl
 repository-acc.officiele-overheidspublicaties.nl
 repository-eto.officiele-overheidspublicaties.nl
 repository.officiele-overheidspublicaties.nl
+www.officiele-overheidspublicaties.nl
