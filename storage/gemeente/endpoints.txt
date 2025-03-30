@@ -209,6 +209,7 @@ http://beh-gemeenteloket.gemeentemaastricht.nl
 http://belasting-test.kampen.nl
 http://bestuursakkoord.s-hertogenbosch.nl
 http://bi-sociaal.fa.amsterdam.nl
+http://bladel.nl
 http://bouwdossiers.stadsarchief.breda.nl
 http://buurthuisvandetoekomst.denhaag.nl
 http://centrumimpuls.geldrop-mierlo.nl
@@ -393,6 +394,7 @@ http://simcms.achtkarspelen.nl
 http://simcms.ameland.nl
 http://simcms.bergendal.nl
 http://simcms.beuningen.nl
+http://simcms.bladel.nl
 http://simcms.bunschoten.nl
 http://simcms.dalfsen.nl
 http://simcms.deurne.nl
@@ -1828,7 +1830,6 @@ https://binnenstebuiten.ede.nl
 https://bis-test.tilburg.nl
 https://bis.houten.nl
 https://bis.tilburg.nl
-https://bladel.nl
 https://blaricum.nl
 https://bliek.gorinchem.nl
 https://bliekcms-acc.gorinchem.nl
@@ -6514,7 +6515,6 @@ https://simform.voorschoten.nl
 https://simform.wassenaar.nl
 https://simpelveld.nl
 https://simsite.bergendal.nl
-https://simsite.bladel.nl
 https://simsite.bunschoten.nl
 https://simsite.geertruidenberg.nl
 https://simsite.gemeentebeek.nl
@@ -7813,7 +7813,6 @@ https://www.bibliotheek.rotterdam.nl
 https://www.bibliotheekbenoordenhout.denhaag.nl
 https://www.bikecity.amsterdam.nl
 https://www.binnenstadsplan2030.denhaag.nl
-https://www.bladel.nl
 https://www.blaricum.nl
 https://www.bloemendaal.nl
 https://www.bodegraven-reeuwijk.nl
