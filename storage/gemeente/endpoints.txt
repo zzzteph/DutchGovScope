@@ -7243,6 +7243,7 @@ https://vastgoed.gemeentemaastricht.nl
 https://vastgoed.venlo.nl
 https://vastgoedaanbod.utrecht.nl
 https://vdi.delft.nl
+https://vdi.deventer.nl
 https://vdi.rijswijk.nl
 https://vdi.rotterdam.nl
 https://vdi.westmaasenwaal.nl

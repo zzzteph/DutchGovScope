@@ -103,6 +103,7 @@ staging.deventer.nl
 stroomt.deventer.nl
 test-ipa.deventer.nl
 transform.deventer.nl
+vdi.deventer.nl
 verkiezingen.deventer.nl
 viertfietsen.deventer.nl
 vth.deventer.nl

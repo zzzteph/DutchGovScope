@@ -14130,6 +14130,7 @@ vdi-uitwijk.hardenberg.nl
 vdi.amersfoort.nl
 vdi.brunssum.nl
 vdi.delft.nl
+vdi.deventer.nl
 vdi.hardenberg.nl
 vdi.landgraaf.nl
 vdi.rijswijk.nl
