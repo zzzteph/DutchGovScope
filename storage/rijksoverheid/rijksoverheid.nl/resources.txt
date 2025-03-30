@@ -42,6 +42,7 @@ handleiding.rijksoverheid.nl
 i-cms.rijksoverheid.nl
 i-cms1.rijksoverheid.nl
 i-magazinesintern.rijksoverheid.nl
+i-opendata.rijksoverheid.nl
 i-persberichten.rijksoverheid.nl
 i-site1.rijksoverheid.nl
 i-voor1.rijksoverheid.nl
@@ -82,6 +83,7 @@ t-cms.rijksoverheid.nl
 t-cms1.rijksoverheid.nl
 t-feeds.rijksoverheid.nl
 t-magazines.rijksoverheid.nl
+t-opendata.rijksoverheid.nl
 t-site1.rijksoverheid.nl
 t-static.rijksoverheid.nl
 t-voor1.rijksoverheid.nl

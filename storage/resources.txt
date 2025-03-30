@@ -6434,6 +6434,7 @@ hybridmail.amersfoort.nl
 i-cms.rijksoverheid.nl
 i-cms1.rijksoverheid.nl
 i-magazinesintern.rijksoverheid.nl
+i-opendata.rijksoverheid.nl
 i-persberichten.rijksoverheid.nl
 i-site1.rijksoverheid.nl
 i-voor1.rijksoverheid.nl
@@ -13006,6 +13007,7 @@ t-diel.nl
 t-eforms.utrecht.nl
 t-feeds.rijksoverheid.nl
 t-magazines.rijksoverheid.nl
+t-opendata.rijksoverheid.nl
 t-site1.rijksoverheid.nl
 t-static.rijksoverheid.nl
 t-test.belastingdienst.nl

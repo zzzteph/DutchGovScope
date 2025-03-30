@@ -1265,6 +1265,7 @@ gw
 i-cms
 i-cms1
 i-magazinesintern
+i-opendata
 i-persberichten
 i-site1
 i-voor1
@@ -1296,6 +1297,7 @@ t-cms
 t-cms1
 t-feeds
 t-magazines
+t-opendata
 t-site1
 t-static
 t-voor1
