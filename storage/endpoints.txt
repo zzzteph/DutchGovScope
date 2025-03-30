@@ -417,6 +417,7 @@ http://rijkstrainees.werkenvoornederland.nl
 http://ro.brunssum.nl
 http://samenwerkruimten-conf.belastingdienst.nl
 http://samenwerkruimten.belastingdienst.nl
+http://sammy-acc.derondevenen.nl
 http://scanhulp.amsterdam.nl
 http://schiermonnikoog.nl
 http://secure.dalfsen.nl
@@ -6749,7 +6750,6 @@ https://samenwerkingbelastingen-test.middelburg.nl
 https://samenwerkingbelastingen.middelburg.nl
 https://samenwij.groningen.nl
 https://samenwijzer.oss.nl
-https://sammy-acc.derondevenen.nl
 https://sammy.derondevenen.nl
 https://sammycms-acc.derondevenen.nl
 https://sammycms.derondevenen.nl
