@@ -4922,6 +4922,7 @@ ens.weert.nl
 enschede.nl
 enterpriseenrollment.alphenaandenrijn.nl
 enterpriseenrollment.ameland.nl
+enterpriseenrollment.apeldoorn.nl
 enterpriseenrollment.bergenopzoom.nl
 enterpriseenrollment.bladel.nl
 enterpriseenrollment.bronckhorst.nl
@@ -12544,8 +12545,10 @@ smartdoc-brl.brielle.nl
 smartdoc-brlacc.brielle.nl
 smartdoc-wvn.westvoorne.nl
 smartdoc-wvnacc.westvoorne.nl
+smartdoc.apeldoorn.nl
 smartdoc.landgraaf.nl
 smartdoc.voorst.nl
+smartdocacc.apeldoorn.nl
 smartdocbrl.brielle.nl
 smartdocbrlacc.brielle.nl
 smartdoctest.voorst.nl

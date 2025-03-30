@@ -31,6 +31,7 @@ digitaleplannen.apeldoorn.nl
 diko.apeldoorn.nl
 e-loket.apeldoorn.nl
 energiepunt.apeldoorn.nl
+enterpriseenrollment.apeldoorn.nl
 enterpriseregistration.apeldoorn.nl
 financials-acc.apeldoorn.nl
 financials.apeldoorn.nl
@@ -74,6 +75,8 @@ prijsvraag-zwembad.apeldoorn.nl
 proto.apeldoorn.nl
 riv.apeldoorn.nl
 riviewer.apeldoorn.nl
+smartdoc.apeldoorn.nl
+smartdocacc.apeldoorn.nl
 snelbalie.apeldoorn.nl
 snelbaliepp.apeldoorn.nl
 stadspark.apeldoorn.nl

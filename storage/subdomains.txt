@@ -47,9 +47,9 @@ iparticipatie
 belastingen
 testeloket
 test-ipa
+enterpriseenrollment
 dacceptatieloket
 dacceptatiemidoffice
-enterpriseenrollment
 dloket
 dmidoffice
 data
@@ -548,6 +548,7 @@ top
 www.ruimtelijkeplannen
 www.sport
 digitaleplannen
+smartdoc
 stadspas
 digid
 bedrijfsafval
@@ -1160,7 +1161,6 @@ foto
 status
 winkel
 koppelvlakken
-smartdoc
 publieksbalie
 clicksfm.persberichten
 api.meldingen-a
@@ -3929,6 +3929,7 @@ prijsvraag-zwembad
 proto
 riv
 riviewer
+smartdocacc
 stadspark
 talent
 telecom

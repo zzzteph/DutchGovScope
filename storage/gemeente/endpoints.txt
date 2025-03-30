@@ -1008,7 +1008,6 @@ https://afspraakmakentest.enschede.nl
 https://afspraakmakentest.losser.nl
 https://afspraken.alkmaar.nl
 https://afspraken.amersfoort.nl
-https://afspraken.apeldoorn.nl
 https://afspraken.assen.nl
 https://afspraken.baarle-nassau.nl
 https://afspraken.beekdaelen.nl
@@ -2962,6 +2961,7 @@ https://ens.weert.nl
 https://enschede.nl
 https://enterpriseenrollment.alphenaandenrijn.nl
 https://enterpriseenrollment.ameland.nl
+https://enterpriseenrollment.apeldoorn.nl
 https://enterpriseenrollment.bergenopzoom.nl
 https://enterpriseenrollment.bladel.nl
 https://enterpriseenrollment.dalfsen.nl
@@ -3724,7 +3724,6 @@ https://ibr-projectregistratie.rotterdam.nl
 https://iburgerzaken.aaenhunze.nl
 https://iburgerzaken.achtkarspelen.nl
 https://iburgerzaken.almelo.nl
-https://iburgerzaken.apeldoorn.nl
 https://iburgerzaken.assen.nl
 https://iburgerzaken.asten.nl
 https://iburgerzaken.baarle-nassau.nl
@@ -6568,6 +6567,8 @@ https://smartdoc-brl.brielle.nl
 https://smartdoc-brlacc.brielle.nl
 https://smartdoc-wvn.westvoorne.nl
 https://smartdoc-wvnacc.westvoorne.nl
+https://smartdoc.apeldoorn.nl
+https://smartdocacc.apeldoorn.nl
 https://smartdocbrl.brielle.nl
 https://smartdocbrlacc.brielle.nl
 https://smartdocuments-zgw.acc.denhaag.nl
