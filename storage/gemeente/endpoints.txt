@@ -223,6 +223,7 @@ http://cmsintranet.etten-leur.nl
 http://cmssocialintranet.middendelfland.nl
 http://connect.acceptatie.goirle.nl
 http://crl.denhaag.nl
+http://datatest.delft.nl
 http://diensten.westmaasenwaal.nl
 http://digid-subsidies-login.ede.nl
 http://digid.ooststellingwerf.nl
@@ -2272,7 +2273,6 @@ https://datamask.montferland.info
 https://dataportaal.apeldoorn.nl
 https://dataportaal.tilburg.nl
 https://datasociaaldomein.rotterdam.nl
-https://datatest.delft.nl
 https://db01.deventer.nl
 https://dds-vwes21.westerwolde.nl
 https://de.gemert-bakel.nl

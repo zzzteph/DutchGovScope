@@ -236,6 +236,7 @@ http://cmssocialintranet.middendelfland.nl
 http://connect.acceptatie.goirle.nl
 http://coronadashboard.rijksoverheid.nl
 http://crl.denhaag.nl
+http://datatest.delft.nl
 http://demo1-systemteam.overheid.nl
 http://demo2-systemteam.overheid.nl
 http://designsystem.overheid.nl
@@ -2434,7 +2435,6 @@ https://datamask.montferland.info
 https://dataportaal.apeldoorn.nl
 https://dataportaal.tilburg.nl
 https://datasociaaldomein.rotterdam.nl
-https://datatest.delft.nl
 https://datumprikker.belastingdienst.nl
 https://db01.deventer.nl
 https://dds-vwes21.westerwolde.nl
