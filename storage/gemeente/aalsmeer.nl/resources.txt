@@ -8,6 +8,7 @@ email.mail.participatie.aalsmeer.nl
 loket.aalsmeer.nl
 loket.acceptatie.aalsmeer.nl
 loket.test.aalsmeer.nl
+mail.participatie.aalsmeer.nl
 midoffice.aalsmeer.nl
 mijnzorg-acc.aalsmeer.nl
 mijnzorg.aalsmeer.nl
