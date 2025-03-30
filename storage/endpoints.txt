@@ -256,6 +256,7 @@ http://emagazine2030.rijswijk.nl
 http://email.capelleaandenijssel.nl
 http://embrace.laarbeek.nl
 http://extranet-acc.eemsdelta.nl
+http://felix.achtkarspelen.nl
 http://felix.beekdaelen.nl
 http://felix.bergeijk.nl
 http://felix.bronckhorst.nl
@@ -337,6 +338,7 @@ http://m.leiden.nl
 http://maassluis.nl
 http://magazine.amersfoort.nl
 http://magazine.schagen.nl
+http://mail.achtkarspelen.nl
 http://mail.amsterdam.nl
 http://mail.kampen.nl
 http://malengo-cms.gemert-bakel.nl
@@ -432,6 +434,7 @@ http://simcms-open.leudal.nl
 http://simcms-preproductie.beekdaelen.nl
 http://simcms-raad.zoetermeer.nl
 http://simcms-woo.doesburg.nl
+http://simcms.achtkarspelen.nl
 http://simcms.bergeijk.nl
 http://simcms.beuningen.nl
 http://simcms.bunschoten.nl
@@ -535,7 +538,6 @@ http://wijkteam.katwijk.nl
 http://woo.westerkwartier.nl
 http://woz.amsterdam.nl
 http://www.aalten.nl
-http://www.achtkarspelen.nl
 http://www.ameland.nl
 http://www.bba.amsterdam.nl
 http://www.bergeijk.nl
@@ -975,7 +977,6 @@ https://access.landvancuijk.nl
 https://accisdtalentcenter.bergenopzoom.nl
 https://accommodatieverhuur.gemeentesluis.nl
 https://acd.lopik.nl
-https://achtkarspelen.nl
 https://acpt.3d.utrecht.nl
 https://actief.landvancuijk.nl
 https://activesync.sittard-geleen.nl
@@ -3288,7 +3289,6 @@ https://feeds.nieuwsbrievenminocw.nl
 https://feeds.persberichten.rijksoverheid.nl
 https://feeds.rcgog.nl
 https://feeds.rijksoverheid.nl
-https://felix.achtkarspelen.nl
 https://felix.baarn.nl
 https://felix.beuningen.nl
 https://felix.beverwijk.nl
@@ -6886,7 +6886,6 @@ https://simcms-werkenvoor.westerkwartier.nl
 https://simcms-wonen.westerkwartier.nl
 https://simcms-woo.westerkwartier.nl
 https://simcms.aalten.nl
-https://simcms.achtkarspelen.nl
 https://simcms.ameland.nl
 https://simcms.bergen.nl
 https://simcms.bergendal.nl
