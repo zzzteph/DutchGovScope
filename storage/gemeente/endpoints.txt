@@ -418,6 +418,7 @@ http://simform.heerlen.nl
 http://simsite.beekdaelen.nl
 http://simsite.bergeijk.nl
 http://simsite.deurne.nl
+http://simsite.geertruidenberg.nl
 http://simsite.heumen.nl
 http://simsite.kerkrade.nl
 http://simsite.landgraaf.nl
@@ -6534,7 +6535,6 @@ https://simpelveld.nl
 https://simsite.bergendal.nl
 https://simsite.bronckhorst.nl
 https://simsite.doesburg.nl
-https://simsite.geertruidenberg.nl
 https://simsite.gemeentebeek.nl
 https://simsite.heeze-leende.nl
 https://simsite.heuvelrug.nl
