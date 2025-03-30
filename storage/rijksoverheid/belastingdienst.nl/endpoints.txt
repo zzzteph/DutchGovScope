@@ -18,7 +18,6 @@ https://cciwebstats.belastingdienst.nl
 https://centraalaanspreekpuntpensioenen.belastingdienst.nl
 https://connectpeople.belastingdienst.nl
 https://connectpeoplereg.belastingdienst.nl
-https://cpapps.belastingdienst.nl
 https://datumprikker.belastingdienst.nl
 https://delta.belastingdienst.nl
 https://download.belastingdienst.nl
@@ -28,6 +27,7 @@ https://enterpriseregistration.belastingdienst.nl
 https://eubtw.belastingdienst.nl
 https://f2b.belastingdienst.nl
 https://fibb1.belastingdienst.nl
+https://fibd1.belastingdienst.nl
 https://fibe1.belastingdienst.nl
 https://fibi1.belastingdienst.nl
 https://fibz1.belastingdienst.nl
@@ -52,11 +52,13 @@ https://kennisgroepen.belastingdienst.nl
 https://kennisnetwerk.belastingdienst.nl
 https://le-webservices-beta.belastingdienst.nl
 https://le-webservices.belastingdienst.nl
+https://mijn-aanvraag.belastingdienst.nl
 https://mijn.belastingdienst.nl
 https://mijnaanvraag.belastingdienst.nl
 https://mijndouane.belastingdienst.nl
 https://mijnzakelijk.belastingdienst.nl
 https://mm.belastingdienst.nl
+https://msnp-tegemoetkoming.belastingdienst.nl
 https://mta-sts.belastingdienst.nl
 https://mul-mbc.belastingdienst.nl
 https://mul-mkt.belastingdienst.nl

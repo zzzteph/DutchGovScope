@@ -151,7 +151,6 @@ https://content.omgevingswet.overheid.nl
 https://contentbeheer.acc.omgevingswet.overheid.nl
 https://contentbeheer.omgevingswet.overheid.nl
 https://contentbeheer.tst.omgevingswet.overheid.nl
-https://cpapps.belastingdienst.nl
 https://csoacct.werkenvoornederland.nl
 https://csotest.werkenvoornederland.nl
 https://cultureel-erfgoed.omgevingswet.overheid.nl
@@ -205,6 +204,7 @@ https://feeds.persberichten.rijksoverheid.nl
 https://feeds.rcgog.nl
 https://feeds.rijksoverheid.nl
 https://fibb1.belastingdienst.nl
+https://fibd1.belastingdienst.nl
 https://fibe1.belastingdienst.nl
 https://fibi1.belastingdienst.nl
 https://fibt1.toeslagen.nl
@@ -285,6 +285,7 @@ https://magazinesintern.rijksoverheid.nl
 https://mail.koop.overheid.nl
 https://mailing.logius.nl
 https://metelkaartrekkenwedegrens.nl
+https://mijn-aanvraag.belastingdienst.nl
 https://mijn-acc.igj.nl
 https://mijn.belastingdienst.nl
 https://mijn.igj.nl
@@ -299,6 +300,7 @@ https://mnd-preprd.overheid.nl
 https://mnd.overheid.nl
 https://monitoring-test5.koop.overheid.nl
 https://monitoring-test6.koop.overheid.nl
+https://msnp-tegemoetkoming.belastingdienst.nl
 https://mta-sts.belastingdienst.nl
 https://mul-mbc.belastingdienst.nl
 https://mul-mkt.belastingdienst.nl
