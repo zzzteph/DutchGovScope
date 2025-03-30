@@ -61,8 +61,8 @@ cmsoo
 loket.acceptatie
 remote
 openpub
-cloudadapter-test
 enterpriseregistration
+cloudadapter-test
 osb
 omgevingsvisie
 digikoppeling-test
@@ -312,7 +312,6 @@ www.doemee
 www.gemeenteraad
 acc.piwik
 dkdtest
-test-secure
 woz-loket
 burgerloket
 ondernemersloket
@@ -385,6 +384,7 @@ stemvan
 www.samen
 gateway
 mijn-preproductie
+test-secure
 ibabs
 www.afspraken
 prefill
@@ -438,7 +438,6 @@ projecten
 matomo
 nieuws
 aanmelden
-autorisatiebeheer-test
 djumaproxy
 logilink
 suite4burgerzaken-test
@@ -678,6 +677,7 @@ www.kaarten
 sera
 testbelastingloket
 preprod-mijnsociaaldomein
+autorisatiebeheer-test
 bzg1-acc
 key2datadistributie
 vacatures
@@ -946,7 +946,6 @@ jaarstukken2020
 afspraken-test
 edienstenburgerzaken-prod
 ggk
-key2datadistributie-prod
 mor
 navigus
 ssdtest
@@ -7170,6 +7169,7 @@ wup
 Cloudadapter
 autorisatiebeheertest
 dis4fintest
+key2datadistributie-prod
 key2fin
 key2fintest
 pkicertificaat2017
