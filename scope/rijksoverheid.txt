@@ -18,8 +18,6 @@ advisorycouncilinternationalaffairs.nl
 aeriusproducten.nl
 agroberichtenbuitenland.nl
 aivd.nl
-rijkscloud.nl
-inburgeren.nl
 algemenebestuursdienst.nl
 allesoverbiologisch.nl
 animalfreeinnovationtpi.nl
@@ -143,6 +141,7 @@ igj.nl
 ikvermoedhuiselijkgeweld.nl
 ikz.nl
 ilent.nl
+inburgeren.nl
 infomilcn.com
 informatieanalyseteam.nl
 informatiehuishouding.nl
@@ -272,6 +271,7 @@ rekenhulptransitievergoeding.nl
 rekenkamer.nl
 riec.nl
 rijksbredekennisagenda.nl
+rijkscloud.nl
 rijksdienstcn.com
 rijksinkoopsamenwerking.nl
 rijksinnovatiecommunity.nl
