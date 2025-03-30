@@ -32,6 +32,7 @@ geo.breda.nl
 gis.breda.nl
 iburgerzaken.breda.nl
 ibzpink.breda.nl
+ig.breda.nl
 inkomensondersteuning.breda.nl
 inkomensondersteuningpp.breda.nl
 knp.breda.nl
@@ -42,6 +43,7 @@ matomo.breda.nl
 mks.breda.nl
 mksacc.breda.nl
 nieuws.breda.nl
+onderzoek.breda.nl
 open.breda.nl
 parkeerabonnementen.breda.nl
 persoonlijk.breda.nl

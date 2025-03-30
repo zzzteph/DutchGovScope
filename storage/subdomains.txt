@@ -203,6 +203,7 @@ bis
 geodata
 belastingbalie-test
 mail2
+onderzoek
 jcc
 sharefile
 telewerken
@@ -223,7 +224,6 @@ subsidies-backend
 melddesk
 thuiswerken
 gemeentearchief
-onderzoek
 woo
 byod
 guest
@@ -936,6 +936,7 @@ wim2-acc
 Belastingportaal-test
 netwerk
 beheerbeeldbank
+ig
 inkomensondersteuning
 www.stadsarchief
 esuitenotubiz-test
@@ -6972,7 +6973,6 @@ ibr-projectregistratie
 idiensten-contract
 ig-acc
 ig-dev
-ig
 iit-controle
 inkomensadvies
 inzagecleopatra
