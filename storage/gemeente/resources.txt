@@ -2328,6 +2328,7 @@ bis-test.tilburg.nl
 bis.almelo.nl
 bis.assen.nl
 bis.beesel.nl
+bis.gemert-bakel.nl
 bis.houten.nl
 bis.rotterdam.nl
 bis.tilburg.nl
@@ -3939,6 +3940,7 @@ e-dfs-p-02.amsterdam.nl
 e-dienstaanvragen.amersfoort.nl
 e-diensten.haarlem.nl
 e-diensten001.haarlem.nl
+e-facturen-prod.gemert-bakel.nl
 e-file-p-01.adds.amsterdam.nl
 e-file-p-02.adds.amsterdam.nl
 e-file-p-02.amsterdam.nl
@@ -5134,6 +5136,8 @@ gateway.middendelfland.nl
 gateway.nederweert.nl
 gb-app05.gemeenteberkelland.nl
 gb-servers.intra.gemert-bakel.nl
+gb-wls-04.gemert-bakel.nl
+gb-wls-05.gemert-bakel.nl
 gba-v.haarlem.nl
 gba.lelystad.nl
 gbaservices.zuidplas.nl
@@ -5267,6 +5271,8 @@ gemeentewinkel.leiderdorp.nl
 gemeentewinkel.meerssen.nl
 gemeentewinkel.veendam.nl
 gemert-bakel.nl
+gemgbl-wls-gb-1.gemert-bakel.nl
+gemgbl-wls-gb-2.gemert-bakel.nl
 gemnet-dkd.schagen.nl
 gemnet-dkdtest.schagen.nl
 gemnet.digikoppeling.test.veenendaal.nl
@@ -6585,6 +6591,7 @@ intranet.gemeentemaasgouw.nl
 intranet.gemeentesluis.nl
 intranet.gemeentestein.nl
 intranet.gemeentewestland.nl
+intranet.gemert-bakel.nl
 intranet.gennep.nl
 intranet.geuzenveld.amsterdam.nl
 intranet.gouda.nl
@@ -11231,6 +11238,7 @@ simsite.geldrop-mierlo.nl
 simsite.gemeentebeek.nl
 simsite.gemeentehw.nl
 simsite.gemeentemaasgouw.nl
+simsite.gemert-bakel.nl
 simsite.gennep.nl
 simsite.gilzerijen.nl
 simsite.goeree-overflakkee.nl
@@ -13963,6 +13971,7 @@ www.dwa.amsterdam.nl
 www.dwh-test.groningen.nl
 www.dwh.groningen.nl
 www.e-diensten001.haarlem.nl
+www.e-facturen-prod.gemert-bakel.nl
 www.echt-susteren.nl
 www.economie.groningen.nl
 www.edam-volendam.nl
@@ -14018,6 +14027,8 @@ www.followyourdreams.denhaag.nl
 www.formulieren.sudwestfryslan.nl
 www.fortinet.haarlemmermeer.nl
 www.game.groningen.nl
+www.gb-wls-04.gemert-bakel.nl
+www.gb-wls-05.gemert-bakel.nl
 www.gbi.sudwestfryslan.nl
 www.gebiedmaanweg.denhaag.nl
 www.gebouwdin.amsterdam.nl
