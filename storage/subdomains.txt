@@ -375,6 +375,7 @@ contentbeheer.test
 zaken.test
 subsidies-login
 mijnzaken
+openformulieren-test
 auth.openstad
 img.openstad
 socialekaart
@@ -449,7 +450,6 @@ ris
 collecties
 inproces.test
 filr
-openformulieren-test
 klantportaal
 mfa
 test.digikoppeling
