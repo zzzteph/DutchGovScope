@@ -196,6 +196,7 @@ evenementen
 website
 kennisbank
 fs
+_autodiscover._tcp
 preprod-mijn
 veiligdelen
 bis
@@ -230,7 +231,6 @@ formulieren-test
 jccapi
 mijnsociaalplein
 preprod-mijnsociaalplein
-_autodiscover._tcp
 archief
 topdesk
 acceptatie-open

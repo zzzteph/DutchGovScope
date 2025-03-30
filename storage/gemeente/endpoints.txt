@@ -9,7 +9,6 @@ http://AutoDiscover.opmeer.nl
 http://AutoDiscover.stedebroec.nl
 http://AutoDiscover.westvoorne.nl
 http://Autodiscover.hilversum.nl
-http://aalten.nl
 http://acc-zaanlink.zaanstad.nl
 http://afspraak.bergendal.nl
 http://afspraken.rijssen-holten.nl
@@ -386,7 +385,6 @@ http://simcms-open.leudal.nl
 http://simcms-preproductie.beekdaelen.nl
 http://simcms-raad.zoetermeer.nl
 http://simcms-woo.doesburg.nl
-http://simcms.aalten.nl
 http://simcms.bergeijk.nl
 http://simcms.beuningen.nl
 http://simcms.bunschoten.nl
@@ -3083,7 +3081,6 @@ https://fd-zgw.acc.denhaag.nl
 https://fd-zgw.denhaag.nl
 https://fd-zgw.test.denhaag.nl
 https://feedback.delft.nl
-https://felix.aalten.nl
 https://felix.achtkarspelen.nl
 https://felix.baarn.nl
 https://felix.beuningen.nl
@@ -6450,6 +6447,7 @@ https://simcms-werkenbij.t-diel.nl
 https://simcms-werkenvoor.westerkwartier.nl
 https://simcms-wonen.westerkwartier.nl
 https://simcms-woo.westerkwartier.nl
+https://simcms.aalten.nl
 https://simcms.achtkarspelen.nl
 https://simcms.ameland.nl
 https://simcms.bergen.nl
