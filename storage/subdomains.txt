@@ -36,8 +36,8 @@ raad
 api.meldingen
 vpn
 adfs
-betalen
 broker
+betalen
 ruimtelijkeplannen
 zaaksysteem-accept
 werkenbij
@@ -379,6 +379,7 @@ openformulieren-test
 auth.openstad
 img.openstad
 socialekaart
+testbelastingloket
 ondernemen
 e.openstad
 mijnuitkering
@@ -467,7 +468,6 @@ mobility
 vergunningen
 mta-sts.raad
 gt-loket
-testbelastingloket
 raadsinformatie
 duo
 gbionline

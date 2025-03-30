@@ -2707,6 +2707,7 @@ broker.coevorden.nl
 broker.deventer.nl
 broker.duiven.nl
 broker.eemsdelta.nl
+broker.elburg.nl
 broker.emmen.nl
 broker.enschede.nl
 broker.gemeente-oldambt.nl
@@ -3828,6 +3829,7 @@ digikoppeling.ede.nl
 digikoppeling.eemnes.nl
 digikoppeling.eijsden-margraten.nl
 digikoppeling.eindhoven.nl
+digikoppeling.elburg.nl
 digikoppeling.emmen.nl
 digikoppeling.gemeentebest.nl
 digikoppeling.gemeentehulst.nl
@@ -4807,6 +4809,7 @@ eijsden-margraten.nl
 eikenhof.heemskerk.nl
 eindhoven.nl
 eladownload.belastingdienst.nl
+elburg.nl
 elise.rotterdam.nl
 elkk.amsterdam.nl
 eloket-sociaaldomein.krimpenerwaard.nl
@@ -6655,7 +6658,6 @@ iburgerzaken.eemnes.nl
 iburgerzaken.eemsdelta.nl
 iburgerzaken.eersel.nl
 iburgerzaken.eijsden-margraten.nl
-iburgerzaken.elburg.nl
 iburgerzaken.enschede.nl
 iburgerzaken.epe.nl
 iburgerzaken.etten-leur.nl
@@ -13668,6 +13670,7 @@ testbelastingbalie.hoorn.nl
 testbelastingen.zaanstad.nl
 testbelastingen.zoetermeer.nl
 testbelastingloket.edam-volendam.nl
+testbelastingloket.elburg.nl
 testbelastingloket.hattem.nl
 testbelastingloket.heerde.nl
 testbelastingloket.oldebroek.nl
