@@ -338,7 +338,6 @@ http://mookenmiddelaar.nl
 http://mt-link.stichtsevecht.nl
 http://nhr-prod.gemeente-steenbergen.nl
 http://nhr-test.gemeente-steenbergen.nl
-http://opendata.arnhem.nl
 http://opmeer.nl
 http://ows-ahp-test.groningen.nl
 http://ows-app-test.groningen.nl
@@ -484,6 +483,7 @@ http://wijkteam-acc.katwijk.nl
 http://wijkteam-cursus.katwijk.nl
 http://wijkteam-tst.katwijk.nl
 http://wijkteam.katwijk.nl
+http://wob.arnhem.nl
 http://woo.westerkwartier.nl
 http://woz.amsterdam.nl
 http://www.aalten.nl
@@ -3987,7 +3987,6 @@ https://informatieveiligheid.zaanstad.nl
 https://ingesprek.almere.nl
 https://ingesprek.denhelder.nl
 https://inhuiz.huizen.nl
-https://inkomen-test.mijn.arnhem.nl
 https://inkomen.mijn.arnhem.nl
 https://inkomensadvies.rotterdam.nl
 https://inkomensbalie.eindhoven.nl
@@ -5467,6 +5466,7 @@ https://openagenda.ridderkerk.nl
 https://openbaartoilet.zutphen.nl
 https://openbareruimte.deventer.nl
 https://opendata-contrast.zoetermeer.nl
+https://opendata.arnhem.nl
 https://opendata.assen.nl
 https://opendata.bloemendaal.nl
 https://opendata.nijmegen.nl
@@ -7685,7 +7685,6 @@ https://wmoservice.buren.nl
 https://woa.geertruidenberg.nl
 https://woa2.geertruidenberg.nl
 https://wob-acc.denhaag.nl
-https://wob.arnhem.nl
 https://wob.denhaag.nl
 https://woerden.nl
 https://wolk.valkenburg.nl
@@ -8273,6 +8272,7 @@ https://www.vaals.nl
 https://www.vaarvergunningen.nieuwkoop.nl
 https://www.valkenburg.nl
 https://www.vastgoed.venlo.nl
+https://www.vastgoedbedrijf.arnhem.nl
 https://www.veendam.nl
 https://www.veenendaal.nl
 https://www.veenkolonien.groningen.nl
