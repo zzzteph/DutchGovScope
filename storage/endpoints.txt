@@ -378,6 +378,7 @@ http://nexus.lpc.logius.nl
 http://nhr-prod.gemeente-steenbergen.nl
 http://nhr-test.gemeente-steenbergen.nl
 http://ondertekeningsviewer.overheid.nl
+http://open.doetinchem.nl
 http://open.gemeentebeek.nl
 http://opmeer.nl
 http://ows-ahp-test.groningen.nl
@@ -446,6 +447,7 @@ http://simcms.beuningen.nl
 http://simcms.bladel.nl
 http://simcms.bunschoten.nl
 http://simcms.capelleaandenijssel.nl
+http://simcms.doetinchem.nl
 http://simcms.eersel.nl
 http://simcms.harlingen.nl
 http://simcms.koggenland.nl
@@ -5753,7 +5755,6 @@ https://open.barneveld.nl
 https://open.boxtel.nl
 https://open.breda.nl
 https://open.dinkelland.nl
-https://open.doetinchem.nl
 https://open.ede.nl
 https://open.epe.nl
 https://open.geldrop-mierlo.nl
@@ -6890,7 +6891,6 @@ https://simcms-duurzaam.beverwijk.nl
 https://simcms-omgevingsvisie.geldrop-mierlo.nl
 https://simcms-omgevingswet.bronckhorst.nl
 https://simcms-open.bronckhorst.nl
-https://simcms-open.doetinchem.nl
 https://simcms-open.gemeentebeek.nl
 https://simcms-open.meerssen.nl
 https://simcms-open.nuenen.nl
@@ -6912,7 +6912,6 @@ https://simcms.beverwijk.nl
 https://simcms.bronckhorst.nl
 https://simcms.cranendonck.nl
 https://simcms.deurne.nl
-https://simcms.doetinchem.nl
 https://simcms.geldrop-mierlo.nl
 https://simcms.gemeentebeek.nl
 https://simcms.gemeentemaasgouw.nl
