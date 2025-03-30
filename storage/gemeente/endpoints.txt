@@ -488,6 +488,7 @@ http://woo.westerkwartier.nl
 http://woz.amsterdam.nl
 http://www.aalten.nl
 http://www.acutehulp.gezond.amsterdam.nl
+http://www.baarn.nl
 http://www.bba.amsterdam.nl
 http://www.bergeijk.nl
 http://www.binnenwaterbeheer.amsterdam.nl
@@ -7789,7 +7790,6 @@ https://www.assen.nl
 https://www.asten.nl
 https://www.ateliers.amsterdam.nl
 https://www.baarle-nassau.nl
-https://www.baarn.nl
 https://www.barendrecht.nl
 https://www.barneveld.nl
 https://www.beeldbank.landvancuijk.nl
