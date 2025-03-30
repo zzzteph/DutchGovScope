@@ -4041,6 +4041,7 @@ https://internoss.oss.nl
 https://internoss.test.oss.nl
 https://internwifi.hellevoetsluis.nl
 https://intra.deventer.nl
+https://intra.dordrecht.nl
 https://intra.gooisemeren.nl
 https://intranet-acc.borne.nl
 https://intranet-acc.delft.nl
@@ -7649,6 +7650,7 @@ https://wijkbudgetleidschenveen.denhaag.nl
 https://wijkbudgetvruchtenbuurt.denhaag.nl
 https://wijkbudgetwaldeck.denhaag.nl
 https://wijkbudgetypenburg.denhaag.nl
+https://wijken.dordrecht.nl
 https://wijkmanagement.zaanstad.nl
 https://wijkprofiel.rotterdam.nl
 https://wijkraad.rotterdam.nl

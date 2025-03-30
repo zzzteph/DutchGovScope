@@ -12,6 +12,7 @@ https://gisibapi-test.dordrecht.nl
 https://gisibapi.dordrecht.nl
 https://gisibgeoserver-test.dordrecht.nl
 https://gisibgeoserver.dordrecht.nl
+https://intra.dordrecht.nl
 https://loket.acceptatie.dordrecht.nl
 https://loket.dordrecht.nl
 https://raad.dordrecht.nl
@@ -20,4 +21,5 @@ https://subsidie.dordrecht.nl
 https://subsidiebackoffice.acceptatie.dordrecht.nl
 https://subsidiebackoffice.dordrecht.nl
 https://web.dordrecht.nl
+https://wijken.dordrecht.nl
 https://www.dordrecht.nl
