@@ -11077,6 +11077,7 @@ simcms-preproductie.beekdaelen.nl
 simcms-preproductie.beuningen.nl
 simcms-preproductie.kerkrade.nl
 simcms-raad.zoetermeer.nl
+simcms-samenduurzaam.geldrop-mierlo.nl
 simcms-samenindebuurt.heerlen.nl
 simcms-subsite8.westerkwartier.nl
 simcms-werkenbij.t-diel.nl

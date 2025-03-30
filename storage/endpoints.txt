@@ -223,7 +223,6 @@ http://bronckhorst.nl
 http://buurthuisvandetoekomst.denhaag.nl
 http://ca-devportal-pre.logius.nl
 http://ca-devportal.logius.nl
-http://centrumimpuls.geldrop-mierlo.nl
 http://channels-az1.lpc.logius.nl
 http://channels-az2.lpc.logius.nl
 http://clienteleitsm-acceptatie.logius.nl
@@ -267,7 +266,6 @@ http://felix.beekdaelen.nl
 http://felix.beuningen.nl
 http://felix.cranendonck.nl
 http://felix.deurne.nl
-http://felix.geldrop-mierlo.nl
 http://felix.gemeentemaasgouw.nl
 http://felix.lingewaard.nl
 http://felix.middendelfland.nl
@@ -289,6 +287,7 @@ http://formulieren.heerenveen.nl
 http://formulieren.montferland.info
 http://formulieren.vlaardingen.nl
 http://ftp.lopik.nl
+http://geldrop-mierlo.nl
 http://geldzaken.loonopzand.nl
 http://gemeentebeek.nl
 http://geo.roermond.nl
@@ -419,6 +418,7 @@ http://reuseldemierden.nl
 http://rijkstrainee.werkenvoornederland.nl
 http://rijkstrainees.werkenvoornederland.nl
 http://ro.brunssum.nl
+http://samenduurzaam.geldrop-mierlo.nl
 http://samenwerkruimten-conf.belastingdienst.nl
 http://samenwerkruimten.belastingdienst.nl
 http://sammy-acc.derondevenen.nl
@@ -431,6 +431,7 @@ http://sem.kampen.nl
 http://sharepoint-ext-conf.belastingdienst.nl
 http://sharepoint-ext.belastingdienst.nl
 http://simcms-centrum.heerlen.nl
+http://simcms-centrumimpuls.geldrop-mierlo.nl
 http://simcms-energiek.beuningen.nl
 http://simcms-gemeenteraad.vlissingen.nl
 http://simcms-klimaatbestendig.lingewaard.nl
@@ -3311,6 +3312,7 @@ https://felix.beverwijk.nl
 https://felix.bladel.nl
 https://felix.bronckhorst.nl
 https://felix.capelleaandenijssel.nl
+https://felix.geldrop-mierlo.nl
 https://felix.gemeentebeek.nl
 https://felix.halderberge.nl
 https://felix.heerlen.nl
@@ -3583,7 +3585,6 @@ https://gegevensportaal.belastingdienst.nl
 https://gegevensuitwisseling.belastingdienst.nl
 https://gegevensuitwisselingsysteem.rotterdam.nl
 https://geldloket.emmen.nl
-https://geldrop-mierlo.nl
 https://geldwijzer.zaanstad.nl
 https://gelukkignieuwjaar.zwolle.nl
 https://gemeente-oldambt.nl
@@ -4829,6 +4830,7 @@ https://loonkostensubsidie-acc.utrecht.nl
 https://loonkostensubsidie.utrecht.nl
 https://loonopzand.nl
 https://losser.nl
+https://luchen.geldrop-mierlo.nl
 https://lucht.omgevingswet.overheid.nl
 https://lvbb-lto.overheid.nl
 https://lvbb-perf-acc.overheid.nl
@@ -6902,7 +6904,6 @@ https://siem.rijssen-holten.nl
 https://siem2.hethogeland.nl
 https://simcms-armoedepact.westerkwartier.nl
 https://simcms-begraafplaatsduinrust.beverwijk.nl
-https://simcms-centrumimpuls.geldrop-mierlo.nl
 https://simcms-cjg.scherpenzeel.nl
 https://simcms-data.westerkwartier.nl
 https://simcms-duurzaam.beverwijk.nl
@@ -6918,6 +6919,7 @@ https://simcms-open.zoetermeer.nl
 https://simcms-open.zuidplas.nl
 https://simcms-preproductie.beekdaelen.nl
 https://simcms-preproductie.kerkrade.nl
+https://simcms-samenduurzaam.geldrop-mierlo.nl
 https://simcms-samenindebuurt.heerlen.nl
 https://simcms-werkenbij.t-diel.nl
 https://simcms-werkenvoor.westerkwartier.nl
@@ -8487,6 +8489,7 @@ https://www.followyourdreams.denhaag.nl
 https://www.gebouwdin.amsterdam.nl
 https://www.geertruidenberg.nl
 https://www.geldloket.emmen.nl
+https://www.geldrop-mierlo.nl
 https://www.gelukkignieuwjaar.zwolle.nl
 https://www.gemeente-oldambt.nl
 https://www.gemeente-steenbergen.nl

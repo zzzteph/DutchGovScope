@@ -15,6 +15,7 @@ samenduurzaam.geldrop-mierlo.nl
 simcms-centrumimpuls.geldrop-mierlo.nl
 simcms-omgevingsvisie.geldrop-mierlo.nl
 simcms-open.geldrop-mierlo.nl
+simcms-samenduurzaam.geldrop-mierlo.nl
 simcms.geldrop-mierlo.nl
 simsite.geldrop-mierlo.nl
 testeloket.geldrop-mierlo.nl
