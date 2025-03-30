@@ -272,6 +272,7 @@ http://geldzaken.loonopzand.nl
 http://gemeentebeek.nl
 http://geo.roermond.nl
 http://geocortex.krimpenerwaard.nl
+http://geodata.dijkenwaard.nl
 http://geoportal.weert.nl
 http://goeree-overflakkee.nl
 http://gplan.rheden.nl
@@ -3456,7 +3457,6 @@ https://geodata-a.utrecht.nl
 https://geodata-acc.dijkenwaard.nl
 https://geodata-acc.voorst.nl
 https://geodata-acc.zutphen.nl
-https://geodata.dijkenwaard.nl
 https://geodata.hollandskroon.nl
 https://geodata.nunspeet.nl
 https://geodata.sittard-geleen.nl
