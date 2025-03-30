@@ -575,7 +575,6 @@ http://www.samen.enkhuizen.nl
 http://www.samen.medemblik.nl
 http://www.scheveningen.denhaag.nl
 http://www.sip.hellevoetsluis.nl
-http://www.smartcity.denhaag.nl
 http://www.socialekaart.duiven.nl
 http://www.stadspas.apeldoorn.nl
 http://www.stadspas.venlo.nl
@@ -2739,6 +2738,7 @@ https://ebms.service.bta.omgevingswet.overheid.nl
 https://ebs-dashboards.acc.denhaag.nl
 https://ebs-full.acc.denhaag.nl
 https://ebs-light.acc.denhaag.nl
+https://ebs-light.denhaag.nl
 https://ebs.acc.denhaag.nl
 https://ebsfin.acc.topdesk.denhaag.nl
 https://ebsfin.topdesk.denhaag.nl
@@ -5632,6 +5632,7 @@ https://oldenzaal-checker.oldenzaal.nl
 https://oldenzaal.nl
 https://olst-wijhe.nl
 https://ombudsman-acc.denhaag.nl
+https://ombudsman.acc.denhaag.nl
 https://ombudsman.denhaag.nl
 https://ombudsman.nijmegen.nl
 https://omgevingsdocumenten.rijssen-holten.nl
@@ -8282,7 +8283,6 @@ https://wozloket.coevorden.nl
 https://wppbeheer.acc.amsterdam.nl
 https://wppbeheer.amsterdam.nl
 https://wsdl.t-diel.nl
-https://wsgateway-extern.acc.denhaag.nl
 https://wsgateway-extern.denhaag.nl
 https://wsone.rotterdam.nl
 https://wsone2.rotterdam.nl
@@ -8767,6 +8767,7 @@ https://www.sittard-geleen.nl
 https://www.sliedrecht.nl
 https://www.smallingerland.nl
 https://www.smartatsea.denhaag.nl
+https://www.smartcity.denhaag.nl
 https://www.sociaalloket.medemblik.nl
 https://www.socialekaart.echt-susteren.nl
 https://www.socialekaart.westbetuwe.nl

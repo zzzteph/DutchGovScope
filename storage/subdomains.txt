@@ -4452,6 +4452,7 @@ e-learningverkiezingen
 ebs-dashboards.acc
 ebs-full.acc
 ebs-light.acc
+ebs-light
 ebs.acc
 ebs
 ebsfin.acc.topdesk
@@ -4535,7 +4536,6 @@ mijngeldzaken.acc
 milieueducatie
 namitest1.acc
 ndes.ot
-net-pw-hide
 nige
 oauth
 objecten-zgw.acc
@@ -4558,6 +4558,7 @@ old-grafana
 old-grafana.test
 old-uptimekuma
 ombudsman-acc
+ombudsman.acc
 onboardingambulancezorg
 ondernemersportaal-acc
 ondernemersportaal
@@ -4707,6 +4708,7 @@ www.gebiedmaanweg
 www.geuzenstatenkwartierfietst
 www.gogo
 www.havenkwartieraanzet
+www.hgm
 www.hildebrandplein
 www.houtwijkbegroot
 www.ihp-acc

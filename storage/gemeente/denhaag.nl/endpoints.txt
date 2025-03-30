@@ -5,7 +5,6 @@ http://meldcode.denhaag.nl
 http://participatieprikbord.denhaag.nl
 http://www.ondernemersportaal.denhaag.nl
 http://www.scheveningen.denhaag.nl
-http://www.smartcity.denhaag.nl
 http://www.zuidwestopznbest.denhaag.nl
 https://acc.denhaag.nl
 https://adeptiaconnect.acc.denhaag.nl
@@ -80,6 +79,7 @@ https://duurzamestad.denhaag.nl
 https://ebs-dashboards.acc.denhaag.nl
 https://ebs-full.acc.denhaag.nl
 https://ebs-light.acc.denhaag.nl
+https://ebs-light.denhaag.nl
 https://ebs.acc.denhaag.nl
 https://ebsfin.acc.topdesk.denhaag.nl
 https://ebsfin.topdesk.denhaag.nl
@@ -187,6 +187,7 @@ https://old-grafana.denhaag.nl
 https://old-grafana.test.denhaag.nl
 https://old-uptimekuma.denhaag.nl
 https://ombudsman-acc.denhaag.nl
+https://ombudsman.acc.denhaag.nl
 https://ombudsman.denhaag.nl
 https://omgevingsvisie.denhaag.nl
 https://onboardingambulancezorg.denhaag.nl
@@ -299,7 +300,6 @@ https://woo.denhaag.nl
 https://wordpress-zgw.acc.denhaag.nl
 https://wordpress-zgw.denhaag.nl
 https://wordpress-zgw.test.denhaag.nl
-https://wsgateway-extern.acc.denhaag.nl
 https://wsgateway-extern.denhaag.nl
 https://www.acc.denhaag.nl
 https://www.archeologie.denhaag.nl
@@ -342,6 +342,7 @@ https://www.projecten.denhaag.nl
 https://www.regentesseplein.denhaag.nl
 https://www.regiocheckervth.denhaag.nl
 https://www.smartatsea.denhaag.nl
+https://www.smartcity.denhaag.nl
 https://www.stadskrant-acc.denhaag.nl
 https://www.stadskrant.denhaag.nl
 https://www.test.denhaag.nl

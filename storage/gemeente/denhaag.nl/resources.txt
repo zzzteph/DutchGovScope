@@ -93,6 +93,7 @@ e-learningverkiezingen.denhaag.nl
 ebs-dashboards.acc.denhaag.nl
 ebs-full.acc.denhaag.nl
 ebs-light.acc.denhaag.nl
+ebs-light.denhaag.nl
 ebs.acc.denhaag.nl
 ebs.denhaag.nl
 ebsfin.acc.topdesk.denhaag.nl
@@ -202,7 +203,6 @@ mijngeldzaken.denhaag.nl
 milieueducatie.denhaag.nl
 namitest1.acc.denhaag.nl
 ndes.ot.denhaag.nl
-net-pw-hide.denhaag.nl
 nieuwsbrief.denhaag.nl
 nige.denhaag.nl
 ns1.denhaag.nl
@@ -231,6 +231,7 @@ old-grafana.denhaag.nl
 old-grafana.test.denhaag.nl
 old-uptimekuma.denhaag.nl
 ombudsman-acc.denhaag.nl
+ombudsman.acc.denhaag.nl
 ombudsman.denhaag.nl
 omgevingsvisie.denhaag.nl
 onboardingambulancezorg.denhaag.nl
@@ -406,6 +407,7 @@ www.gebiedmaanweg.denhaag.nl
 www.geuzenstatenkwartierfietst.denhaag.nl
 www.gogo.denhaag.nl
 www.havenkwartieraanzet.denhaag.nl
+www.hgm.denhaag.nl
 www.hildebrandplein.denhaag.nl
 www.houtwijkbegroot.denhaag.nl
 www.ihp-acc.denhaag.nl

@@ -4447,6 +4447,7 @@ ebms.service.bta.omgevingswet.overheid.nl
 ebs-dashboards.acc.denhaag.nl
 ebs-full.acc.denhaag.nl
 ebs-light.acc.denhaag.nl
+ebs-light.denhaag.nl
 ebs.acc.denhaag.nl
 ebs.denhaag.nl
 ebsfin.acc.topdesk.denhaag.nl
@@ -9519,7 +9520,6 @@ nedplan.montferland.info
 nedwion.westvoorne.nl
 neptunus.gemeentesluis.nl
 nerdio.meierijstad.nl
-net-pw-hide.denhaag.nl
 netbox.alkmaar.nl
 netiq.rucphen.nl
 netwerk.boxtel.nl
@@ -9861,6 +9861,7 @@ olsgqa50.belastingdienst.nl
 olst-wijhe.nl
 olwmks01.opsterland.nl
 ombudsman-acc.denhaag.nl
+ombudsman.acc.denhaag.nl
 ombudsman.amsterdam.nl
 ombudsman.denhaag.nl
 ombudsman.nijmegen.nl
@@ -15696,6 +15697,7 @@ www.hethogeland.nl
 www.heumen.nl
 www.heusden.nl
 www.heuvelrug.nl
+www.hgm.denhaag.nl
 www.hh2015.groningen.nl
 www.hier.groningen.nl
 www.hildebrandplein.denhaag.nl
