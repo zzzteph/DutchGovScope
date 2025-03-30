@@ -6109,6 +6109,7 @@ ibzpink.bloemendaal.nl
 ibzpink.bodegraven-reeuwijk.nl
 ibzpink.boekel.nl
 ibzpink.borger-odoorn.nl
+ibzpink.borne.nl
 ibzpink.borsele.nl
 ibzpink.breda.nl
 ibzpink.brielle.nl
