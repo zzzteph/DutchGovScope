@@ -62,6 +62,7 @@ http://autodiscover.dordrecht.nl
 http://autodiscover.drechterland.nl
 http://autodiscover.druten.nl
 http://autodiscover.duiven.nl
+http://autodiscover.edam-volendam.nl
 http://autodiscover.eemsdelta.nl
 http://autodiscover.emmen.nl
 http://autodiscover.enkhuizen.nl
@@ -930,6 +931,7 @@ https://adfs.bronckhorst.nl
 https://adfs.brummen.nl
 https://adfs.brunssum.nl
 https://adfs.doetinchem.nl
+https://adfs.edam-volendam.nl
 https://adfs.gooisemeren.nl
 https://adfs.gorinchem.nl
 https://adfs.hellendoorn.nl
@@ -1657,6 +1659,7 @@ https://belastingen.zevenaar.nl
 https://belastingen.zoetermeer.nl
 https://belastingloket-test.vijfheerenlanden.nl
 https://belastingloket.barneveld.nl
+https://belastingloket.edam-volendam.nl
 https://belastingloket.elburg.nl
 https://belastingloket.emmen.nl
 https://belastingloket.hattem.nl
@@ -2038,6 +2041,7 @@ https://cmshuisnettest.nieuwegein.nl
 https://cmsinhuiz.huizen.nl
 https://cmsinternet-acc.wijdemeren.nl
 https://cmsintranet-acc.wijdemeren.nl
+https://cmsintranet.edam-volendam.nl
 https://cmsintranet.gemeentebeek.nl
 https://cmsintranet.gemeentestein.nl
 https://cmsintranet.gooisemeren.nl
@@ -2560,6 +2564,7 @@ https://echt-susteren-checker.echt-susteren.nl
 https://echt-susteren.nl
 https://economie.groningen.nl
 https://economie.landvancuijk.nl
+https://edam-volendam.nl
 https://ede.nl
 https://edienst.helmond.nl
 https://edienstaanvragensd.defryskemarren.nl
@@ -2926,6 +2931,7 @@ https://email.samenveiligwerken.alphenaandenrijn.nl
 https://email.security.haarlemmermeer.nl
 https://email.security.veldhoven.nl
 https://email.valkenswaard.nl
+https://email.veiligwerken.edam-volendam.nl
 https://email.westvoorne.nl
 https://email.wijkteam-bewustwording.amersfoort.nl
 https://emm.groningen.nl
@@ -2966,6 +2972,7 @@ https://enterpriseenrollment.bladel.nl
 https://enterpriseenrollment.dalfsen.nl
 https://enterpriseenrollment.dantumadiel.frl
 https://enterpriseenrollment.doetinchem.nl
+https://enterpriseenrollment.edam-volendam.nl
 https://enterpriseenrollment.gooisemeren.nl
 https://enterpriseenrollment.heerlen.nl
 https://enterpriseenrollment.landsmeer.nl
@@ -3269,6 +3276,7 @@ https://formulieren.culemborg.nl
 https://formulieren.defryskemarren.nl
 https://formulieren.denhaag.nl
 https://formulieren.duiven.nl
+https://formulieren.edam-volendam.nl
 https://formulieren.geertruidenberg.nl
 https://formulieren.gemeentehw.nl
 https://formulieren.gemeentemaasgouw.nl
@@ -3755,6 +3763,7 @@ https://iburgerzaken.diemen.nl
 https://iburgerzaken.dijkenwaard.nl
 https://iburgerzaken.drimmelen.nl
 https://iburgerzaken.druten.nl
+https://iburgerzaken.edam-volendam.nl
 https://iburgerzaken.ede.nl
 https://iburgerzaken.eemnes.nl
 https://iburgerzaken.eemsdelta.nl
@@ -4059,6 +4068,7 @@ https://intranet.debilt.nl
 https://intranet.delft.nl
 https://intranet.deventer.nl
 https://intranet.drimmelen.nl
+https://intranet.edam-volendam.nl
 https://intranet.eemsdelta.nl
 https://intranet.gemeente-steenbergen.nl
 https://intranet.gemeentebeek.nl
@@ -4942,6 +4952,7 @@ https://mijnkbr.rotterdam.nl
 https://mijnkrimpenwijzer.krimpenaandenijssel.nl
 https://mijnleefomgeving.olst-wijhe.nl
 https://mijnloket.deventer.nl
+https://mijnloket.edam-volendam.nl
 https://mijnloket.ir.rotterdam.nl
 https://mijnloket.nieuwkoop.nl
 https://mijnloonkostensubsidie-acc.utrecht.nl
@@ -5327,6 +5338,7 @@ https://omgevingsvisie.denhaag.nl
 https://omgevingsvisie.dijkenwaard.nl
 https://omgevingsvisie.doemee.bloemendaal.nl
 https://omgevingsvisie.drimmelen.nl
+https://omgevingsvisie.edam-volendam.nl
 https://omgevingsvisie.geertruidenberg.nl
 https://omgevingsvisie.gennep.nl
 https://omgevingsvisie.gooisemeren.nl
@@ -5891,6 +5903,7 @@ https://pp-fo-parkeervergunningen.acc.utrecht.nl
 https://pp-parkeerapp.acc.utrecht.nl
 https://pp-parkeervergunningen.acc.utrecht.nl
 https://ppmoflprojecten.rotterdam.nl
+https://praathuis.edam-volendam.nl
 https://praatmee.alblasserdam.nl
 https://praatmee.borsele.nl
 https://praatmee.boxtel.nl
@@ -6245,6 +6258,7 @@ https://ris.dalfsen.nl
 https://ris.delft.nl
 https://riviewer.apeldoorn.nl
 https://rmm.terneuzen.nl
+https://rmts.edam-volendam.nl
 https://rnd.amsterdam.nl
 https://ro-online.alphenaandenrijn.nl
 https://ro-online.kaagenbraassem.nl
@@ -6405,6 +6419,7 @@ https://serverruimte.dinkelland.nl
 https://serverruimte.tubbergen.nl
 https://service.vlaardingen.nl
 https://servicedesk.almelo.nl
+https://servicedesk.edam-volendam.nl
 https://servicedesk.hethogeland.nl
 https://servicedesk.meierijstad.nl
 https://servicedesk.montferland.info
@@ -6895,6 +6910,7 @@ https://test-cmsdok.dronten.nl
 https://test-cmsextranet.hethogeland.nl
 https://test-cmshofnet.coevorden.nl
 https://test-cmsintranet.drimmelen.nl
+https://test-cmsintranet.edam-volendam.nl
 https://test-cmsintranet.gemeentestein.nl
 https://test-cmsintranet.gooisemeren.nl
 https://test-cmsintranet.groningen.nl
@@ -6925,6 +6941,7 @@ https://test-hofnet.coevorden.nl
 https://test-insite.nijmegen.nl
 https://test-intra.gooisemeren.nl
 https://test-intranet.drimmelen.nl
+https://test-intranet.edam-volendam.nl
 https://test-intranet.gemeentestein.nl
 https://test-intranet.steenwijkerland.nl
 https://test-intranet.sudwestfryslan.nl
@@ -7007,6 +7024,7 @@ https://testapps.haarlemmermeer.nl
 https://testbelastingbalie.hoorn.nl
 https://testbelastingen.zaanstad.nl
 https://testbelastingen.zoetermeer.nl
+https://testbelastingloket.edam-volendam.nl
 https://testbelastingloket.hattem.nl
 https://testbelastingloket.heerde.nl
 https://testbelastingloket.oldebroek.nl
@@ -7541,6 +7559,7 @@ https://werkenbij.amsterdam.nl
 https://werkenbij.barneveld.nl
 https://werkenbij.buren.nl
 https://werkenbij.defryskemarren.nl
+https://werkenbij.edam-volendam.nl
 https://werkenbij.enschede.nl
 https://werkenbij.gooisemeren.nl
 https://werkenbij.heemskerk.nl
@@ -7899,6 +7918,7 @@ https://www.duurzamestad-acc.denhaag.nl
 https://www.duurzamestad.denhaag.nl
 https://www.echt-susteren.nl
 https://www.economie.groningen.nl
+https://www.edam-volendam.nl
 https://www.ede.nl
 https://www.eemnes.nl
 https://www.eemsdelta.groningen.nl
