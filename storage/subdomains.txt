@@ -819,6 +819,7 @@ acc.meldingen
 afs
 api.acc.meldingen
 api.data
+assets
 autodiscover.ggd
 berichtverkeer
 bi
@@ -844,6 +845,7 @@ ois
 ontheffingen
 publiek
 sportverhuur
+stembureaus
 subsites
 tma
 vaarvergunningen
@@ -853,6 +855,7 @@ www.ggd
 www.onderzoek
 www.open
 www.rekenkamer
+www1
 cc
 fm
 intranetacc
@@ -3223,6 +3226,7 @@ drc.data
 druktebeeld
 dso.data
 dsr.maps
+dup.rnd
 dvi.afs.acc
 dvi.afs
 dvl-wmf-cca.acc
@@ -3403,6 +3407,7 @@ inspraakmaatregel15
 intern.aanmeldenparkeren
 intern.formulieren.acc
 intern.formulieren
+internemagazines
 intranet.acc
 intranet.digi-mlv.os
 intranet.docwonen
@@ -3784,6 +3789,7 @@ wonenportaal
 wpi
 wppbeheer.acc
 wppbeheer
+www.acutehulp.gezond
 www.aga
 www.ateliers
 www.atlas
@@ -3819,6 +3825,7 @@ www.ez
 www.fiets
 www.gebouwdin
 www.geuzenveld
+www.gezond
 www.gpi
 www.groene-daken
 www.handhavingsacademie
@@ -3837,6 +3844,7 @@ www.ontwikkelstrategie
 www.oostbegroot
 www.openmonumentendag
 www.osdorp
+www.oud-west
 www.oudwest
 www.oudzuid
 www.pao
@@ -3858,10 +3866,12 @@ www.toegang.noord
 www.vga
 www.victor
 www.vvetest
+www.webcam.oudwest
 www.weespbegroot
 www.werkaandeweg
 www.westbegroot
 www.wijkaanpak
+www.wlb
 wzs
 wzs.brievenbus
 xerox.brievenbus
@@ -6118,7 +6128,6 @@ micontentstore
 testsecure
 vertexobjecten-accp
 vertexobjecten
-www1
 a-p-ddi-0003
 a-p-ddi-0010
 acc.open-formulieren
@@ -6605,7 +6614,6 @@ mijnleefomgeving
 www.mijnkijkop
 www.mijnleefomgeving
 www.ondersteuning
-assets
 digikoppeling.local
 geo.local
 glapp05.local
@@ -7706,7 +7714,6 @@ siem-soc
 snowinv
 squitxo-acc
 squitxo-prod
-stembureaus
 subsidie-api
 subsidie-staging
 t-eforms

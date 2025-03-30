@@ -14,6 +14,7 @@ http://acc.oinregister.logius.nl
 http://acpt-machtigen.digipoort.logius.nl
 http://afspraak.bergendal.nl
 http://afspraken.rijssen-holten.nl
+http://ami.amsterdam.nl
 http://amp-idp-pre.logius.nl
 http://amp-idp.logius.nl
 http://amp-pre.logius.nl
@@ -215,6 +216,7 @@ http://belasting-test.kampen.nl
 http://bergeijk.nl
 http://bergen.nl
 http://bestuursakkoord.s-hertogenbosch.nl
+http://bi-sociaal.fa.amsterdam.nl
 http://bouwdossiers.stadsarchief.breda.nl
 http://buurthuisvandetoekomst.denhaag.nl
 http://ca-devportal-pre.logius.nl
@@ -364,7 +366,6 @@ http://mijn.staphorst.nl
 http://mijn.urk.nl
 http://mijn.voorschoten.nl
 http://mijn.westerkwartier.nl
-http://mijnsbl-test.amsterdam.nl
 http://mijnwerkplek.schagen.nl
 http://mijnzorg-acc.aalsmeer.nl
 http://mijnzorg.aalsmeer.nl
@@ -418,6 +419,7 @@ http://rijkstrainees.werkenvoornederland.nl
 http://ro.brunssum.nl
 http://samenwerkruimten-conf.belastingdienst.nl
 http://samenwerkruimten.belastingdienst.nl
+http://scanhulp.amsterdam.nl
 http://schiermonnikoog.nl
 http://secure.pijnacker-nootdorp.nl
 http://secure.valkenburg.nl
@@ -543,6 +545,7 @@ http://wijkteam.katwijk.nl
 http://woo.westerkwartier.nl
 http://woz.amsterdam.nl
 http://www.aalten.nl
+http://www.acutehulp.gezond.amsterdam.nl
 http://www.bba.amsterdam.nl
 http://www.bergeijk.nl
 http://www.binnenwaterbeheer.amsterdam.nl
@@ -554,6 +557,7 @@ http://www.denkmee.hollandskroon.nl
 http://www.denkmee.t-diel.nl
 http://www.elburg.nl
 http://www.gemeentebeek.nl
+http://www.gezond.amsterdam.nl
 http://www.heerlen.nl
 http://www.heumen.nl
 http://www.internwifi.hellevoetsluis.nl
@@ -1191,7 +1195,6 @@ https://ameland.nl
 https://amersfoort.nl
 https://ami-acc.amsterdam.nl
 https://ami-tst.amsterdam.nl
-https://ami.amsterdam.nl
 https://amstelveen.nl
 https://amsterdam.nl
 https://amsterdaminbeeld.acc.amsterdam.nl
@@ -1433,6 +1436,7 @@ https://as.valkenburg.nl
 https://asd.purmerend.nl
 https://asde.ede.nl
 https://assen.nl
+https://assets.amsterdam.nl
 https://assets.oostgelre.nl
 https://assetvalue.rotterdam.nl
 https://asten.nl
@@ -1913,7 +1917,6 @@ https://bgt.pijnacker-nootdorp.nl
 https://bgt.zutphen.nl
 https://bi-sociaal.acc.amsterdam.nl
 https://bi-sociaal.amsterdam.nl
-https://bi-sociaal.fa.amsterdam.nl
 https://bi-sociaal.fo.amsterdam.nl
 https://bi-sociaal.ft.amsterdam.nl
 https://bibliotheek.rotterdam.nl
@@ -2071,7 +2074,6 @@ https://burgerloket.uithoorn.nl
 https://burgerpanel.middendrenthe.nl
 https://burgerportaal.hardenberg.nl
 https://burgerportaal.ommen.nl
-https://burgerzaken.amsterdam.nl
 https://busbrugdebinding.zaanstad.nl
 https://buurt.eindhoven.nl
 https://buurtbudget-centrumnoord.venlo.nl
@@ -2656,6 +2658,7 @@ https://duiven-checker.duiven.nl
 https://duiven.nl
 https://duo.veendam.nl
 https://duoloket.westerwolde.nl
+https://dup.rnd.amsterdam.nl
 https://durplandelijkevoorziening.deventer.nl
 https://dusk-acc-openwave.beverwijk.nl
 https://dusk-openwave.beverwijk.nl
@@ -4289,6 +4292,7 @@ https://intermediairdagen.belastingdienst.nl
 https://intern.aanmeldenparkeren.amsterdam.nl
 https://intern.formulieren.acc.amsterdam.nl
 https://intern.formulieren.amsterdam.nl
+https://internemagazines.amsterdam.nl
 https://internetafspraken.hattem.nl
 https://internetafspraken.heerde.nl
 https://internetafspraken.oldebroek.nl
@@ -5254,6 +5258,7 @@ https://mijnportaal.lansingerland.nl
 https://mijnpost.pekela.nl
 https://mijnpost.veendam.nl
 https://mijnrapportages.rotterdam.nl
+https://mijnsbl-test.amsterdam.nl
 https://mijnsbl.amsterdam.nl
 https://mijnschuldhulpverlening.nissewaard.nl
 https://mijnsdv.emmen.nl
@@ -6755,7 +6760,6 @@ https://scan.afs.amsterdam.nl
 https://scanhulp-fa.amsterdam.nl
 https://scanhulp-ft.amsterdam.nl
 https://scanhulp.acc.amsterdam.nl
-https://scanhulp.amsterdam.nl
 https://scanhulp.tst.amsterdam.nl
 https://scbroker.diemen.nl
 https://scbroker.ouder-amstel.nl
@@ -7211,6 +7215,7 @@ https://stelselcatalogus.kta.omgevingswet.overheid.nl
 https://stelselcatalogus.omgevingswet.overheid.nl
 https://stelselcatalogus.pfm.omgevingswet.overheid.nl
 https://stelselcatalogus.pre.omgevingswet.overheid.nl
+https://stembureaus.amsterdam.nl
 https://stembureaus.utrecht.nl
 https://stemmen.amsterdam.nl
 https://stemvan.groningen.nl
@@ -8923,6 +8928,7 @@ https://www.zwammerdamdorpskern.alphenaandenrijn.nl
 https://www.zwemmen.venlo.nl
 https://www.zwijndrecht.nl
 https://www.zwolle.nl
+https://www1.amsterdam.nl
 https://www2.formulieren.haarlemmermeer.nl
 https://www2.testformulieren.haarlemmermeer.nl
 https://wwwfcinetorg.belastingdienst.nl

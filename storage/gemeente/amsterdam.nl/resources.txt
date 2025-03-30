@@ -213,6 +213,7 @@ arena.ami-tac.amsterdam.nl
 arena.ami-tst.amsterdam.nl
 asp01.amsterdam.nl
 asp4all-1.amsterdam.nl
+assets.amsterdam.nl
 ata.acc.amsterdam.nl
 atlas.amsterdam.nl
 atlas.dbi.amsterdam.nl
@@ -353,6 +354,7 @@ drc.data.amsterdam.nl
 druktebeeld.amsterdam.nl
 dso.data.amsterdam.nl
 dsr.maps.amsterdam.nl
+dup.rnd.amsterdam.nl
 dvi.afs.acc.amsterdam.nl
 dvi.afs.amsterdam.nl
 dvl-wmf-cca.acc.amsterdam.nl
@@ -555,6 +557,7 @@ inspraakmaatregel15.amsterdam.nl
 intern.aanmeldenparkeren.amsterdam.nl
 intern.formulieren.acc.amsterdam.nl
 intern.formulieren.amsterdam.nl
+internemagazines.amsterdam.nl
 intranet.acc.amsterdam.nl
 intranet.amsterdam.nl
 intranet.digi-mlv.os.amsterdam.nl
@@ -884,6 +887,7 @@ staging.schoolwijzer.amsterdam.nl
 static.amsterdam.nl
 statistiek.amsterdam.nl
 statistiek.data.amsterdam.nl
+stembureaus.amsterdam.nl
 stemmen.amsterdam.nl
 straatnotes.amsterdam.nl
 stswigo4it-acc.amsterdam.nl
@@ -998,6 +1002,7 @@ wpi.amsterdam.nl
 wppbeheer.acc.amsterdam.nl
 wppbeheer.amsterdam.nl
 www.acc.amsterdam.nl
+www.acutehulp.gezond.amsterdam.nl
 www.aga.amsterdam.nl
 www.amsterdam.nl
 www.ateliers.amsterdam.nl
@@ -1035,6 +1040,7 @@ www.ez.amsterdam.nl
 www.fiets.amsterdam.nl
 www.gebouwdin.amsterdam.nl
 www.geuzenveld.amsterdam.nl
+www.gezond.amsterdam.nl
 www.ggd.amsterdam.nl
 www.gpi.amsterdam.nl
 www.groene-daken.amsterdam.nl
@@ -1056,6 +1062,7 @@ www.oostbegroot.amsterdam.nl
 www.open.amsterdam.nl
 www.openmonumentendag.amsterdam.nl
 www.osdorp.amsterdam.nl
+www.oud-west.amsterdam.nl
 www.oudwest.amsterdam.nl
 www.oudzuid.amsterdam.nl
 www.pao.amsterdam.nl
@@ -1081,11 +1088,14 @@ www.toegang.noord.amsterdam.nl
 www.vga.amsterdam.nl
 www.victor.amsterdam.nl
 www.vvetest.amsterdam.nl
+www.webcam.oudwest.amsterdam.nl
 www.weespbegroot.amsterdam.nl
 www.werkaandeweg.amsterdam.nl
 www.werkenbij.amsterdam.nl
 www.westbegroot.amsterdam.nl
 www.wijkaanpak.amsterdam.nl
+www.wlb.amsterdam.nl
+www1.amsterdam.nl
 wzs.amsterdam.nl
 wzs.brievenbus.amsterdam.nl
 xerox.brievenbus.amsterdam.nl

@@ -1375,6 +1375,7 @@ asp4all-1.amsterdam.nl
 assen.nl
 assengast1.assen.nl
 assengast2.assen.nl
+assets.amsterdam.nl
 assets.oostgelre.nl
 assetvalue.rotterdam.nl
 asten.nl
@@ -3880,6 +3881,7 @@ duo.veendam.nl
 duoloket.nissewaard.nl
 duoloket.utrecht.nl
 duoloket.westerwolde.nl
+dup.rnd.amsterdam.nl
 durp.drechterland.nl
 durp.huizen.nl
 durplandelijkevoorziening.deventer.nl
@@ -6481,6 +6483,7 @@ intern.formulieren.amsterdam.nl
 intern.venlo.nl
 internalbeacon.kampen.nl
 internekoppelingen.krimpenerwaard.nl
+internemagazines.amsterdam.nl
 internetafspraken.diemen.nl
 internetafspraken.gemeentebeek.nl
 internetafspraken.hattem.nl
@@ -11644,6 +11647,7 @@ status.landvancuijk.nl
 status.oostgelre.nl
 stedebroec.nl
 steenwijkerland.nl
+stembureaus.amsterdam.nl
 stembureaus.utrecht.nl
 stemmen.amsterdam.nl
 stempasfonds.ooststellingwerf.nl
@@ -13650,6 +13654,7 @@ www.acctsjinstbus.sudwestfryslan.nl
 www.achtkarspelen.nl
 www.actief.landvancuijk.nl
 www.activesync.rhenen.nl
+www.acutehulp.gezond.amsterdam.nl
 www.admin.haarlemmermeer.nl
 www.adviesraad.westbetuwe.nl
 www.afspraak.castricum.nl
@@ -14007,6 +14012,7 @@ www.geowebtest.haarlemmermeer.nl
 www.geuzenstatenkwartierfietst.denhaag.nl
 www.geuzenveld.amsterdam.nl
 www.gezond-en-gelukkig.tilburg.nl
+www.gezond.amsterdam.nl
 www.gezondleven.utrecht.nl
 www.ggd.amsterdam.nl
 www.ggd.groningen.nl
@@ -14344,6 +14350,7 @@ www.osdorp.amsterdam.nl
 www.oss.nl
 www.ota-kodision-cli.sudwestfryslan.nl
 www.ota-test.sudwestfryslan.nl
+www.oud-west.amsterdam.nl
 www.oude-ijsselstreek.nl
 www.ouder-amstel.nl
 www.oudewater.nl
@@ -14657,6 +14664,7 @@ www.warmrijsenhout.haarlemmermeer.nl
 www.wassenaar.nl
 www.watdoetdegemeente.rotterdam.nl
 www.waterland.nl
+www.webcam.oudwest.amsterdam.nl
 www.webkassa.sportbedrijf.oosterhout.nl
 www.webmail.boekel.nl
 www.webmail.eijsden-margraten.nl
@@ -14726,6 +14734,7 @@ www.willkommen.groningen.nl
 www.windopland.haarlemmermeer.nl
 www.winkelsteeg.nijmegen.nl
 www.winterswijk.nl
+www.wlb.amsterdam.nl
 www.wmw-vvc02.westmaasenwaal.nl
 www.wob.denhaag.nl
 www.woensdrecht.nl
@@ -14770,6 +14779,7 @@ www.zwartewaterland.nl
 www.zwemmen.venlo.nl
 www.zwijndrecht.nl
 www.zwolle.nl
+www1.amsterdam.nl
 www1.lansingerland.nl
 www2.arnhem.nl
 www2.formulieren.haarlemmermeer.nl
