@@ -244,7 +244,6 @@ http://felix.achtkarspelen.nl
 http://felix.beekdaelen.nl
 http://felix.beuningen.nl
 http://felix.cranendonck.nl
-http://felix.dalfsen.nl
 http://felix.geldrop-mierlo.nl
 http://felix.gemeentemaasgouw.nl
 http://felix.lingewaard.nl
@@ -374,6 +373,7 @@ http://reuseldemierden.nl
 http://ro.brunssum.nl
 http://scanhulp.amsterdam.nl
 http://schiermonnikoog.nl
+http://secure.dalfsen.nl
 http://secure.pijnacker-nootdorp.nl
 http://secure.valkenburg.nl
 http://sem.kampen.nl
@@ -394,7 +394,6 @@ http://simcms.beuningen.nl
 http://simcms.bladel.nl
 http://simcms.bunschoten.nl
 http://simcms.capelleaandenijssel.nl
-http://simcms.dalfsen.nl
 http://simcms.deurne.nl
 http://simcms.eersel.nl
 http://simcms.harlingen.nl
@@ -494,7 +493,6 @@ http://www.binnenwaterbeheer.amsterdam.nl
 http://www.bolwerken.amsterdam.nl
 http://www.capelleaandenijssel.nl
 http://www.cranendonck.nl
-http://www.dalfsen.nl
 http://www.denkmee.hollandskroon.nl
 http://www.denkmee.t-diel.nl
 http://www.elburg.nl
@@ -6012,6 +6010,7 @@ https://preproductie.achtkarspelen.nl
 https://preproductie.bergeijk.nl
 https://preproductie.beuningen.nl
 https://preproductie.bladel.nl
+https://preproductie.dalfsen.nl
 https://preproductie.gemeentebeek.nl
 https://preproductie.gemeentewesterveld.nl
 https://preproductie.gemeentewestland.nl
@@ -7853,6 +7852,7 @@ https://www.continuverbeterenjmo.denhaag.nl
 https://www.crk.amsterdam.nl
 https://www.csam.deventer.nl
 https://www.culemborg.nl
+https://www.dalfsen.nl
 https://www.dantumadiel.frl
 https://www.dataportaal.tilburg.nl
 https://www.de.gemert-bakel.nl
