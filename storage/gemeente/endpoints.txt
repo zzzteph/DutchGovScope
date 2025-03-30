@@ -245,6 +245,7 @@ http://felix.achtkarspelen.nl
 http://felix.beekdaelen.nl
 http://felix.beuningen.nl
 http://felix.cranendonck.nl
+http://felix.deurne.nl
 http://felix.geldrop-mierlo.nl
 http://felix.gemeentemaasgouw.nl
 http://felix.lingewaard.nl
@@ -396,7 +397,6 @@ http://simcms.beuningen.nl
 http://simcms.bladel.nl
 http://simcms.bunschoten.nl
 http://simcms.capelleaandenijssel.nl
-http://simcms.deurne.nl
 http://simcms.eersel.nl
 http://simcms.harlingen.nl
 http://simcms.koggenland.nl
@@ -414,6 +414,7 @@ http://simform.heerenveen.nl
 http://simform.heerlen.nl
 http://simsite.beekdaelen.nl
 http://simsite.bergeijk.nl
+http://simsite.deurne.nl
 http://simsite.doesburg.nl
 http://simsite.eersel.nl
 http://simsite.heumen.nl
@@ -497,6 +498,7 @@ http://www.capelleaandenijssel.nl
 http://www.cranendonck.nl
 http://www.denkmee.hollandskroon.nl
 http://www.denkmee.t-diel.nl
+http://www.deurne.nl
 http://www.elburg.nl
 http://www.gezond.amsterdam.nl
 http://www.heerlen.nl
@@ -2329,7 +2331,6 @@ https://designtool.rotterdam.nl
 https://desktop.lelystad.nl
 https://desktop5.denhaag.nl
 https://destemvan.groningen.nl
-https://deurne.nl
 https://dev-formulieren.haarlemmermeer.nl
 https://dev01.deventer.nl
 https://devapps3.deventer.nl
@@ -3093,7 +3094,6 @@ https://felix.beverwijk.nl
 https://felix.bladel.nl
 https://felix.bronckhorst.nl
 https://felix.capelleaandenijssel.nl
-https://felix.deurne.nl
 https://felix.gemeentebeek.nl
 https://felix.halderberge.nl
 https://felix.heerlen.nl
@@ -6470,6 +6470,7 @@ https://simcms.bergen.nl
 https://simcms.beverwijk.nl
 https://simcms.bronckhorst.nl
 https://simcms.cranendonck.nl
+https://simcms.deurne.nl
 https://simcms.doesburg.nl
 https://simcms.doetinchem.nl
 https://simcms.geldrop-mierlo.nl
