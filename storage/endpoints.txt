@@ -7424,6 +7424,7 @@ https://test-mijn.assen.nl
 https://test-mijn.enschede.nl
 https://test-mijn.gemert-bakel.nl
 https://test-mijn.hoorn.nl
+https://test-mijnoverzicht.alphenaandenrijn.nl
 https://test-notificaties.assen.nl
 https://test-notificaties.enschede.nl
 https://test-notificaties.gemert-bakel.nl
