@@ -1,7 +1,6 @@
 http://autodiscover.bergenopzoom.nl
 https://accisdtalentcenter.bergenopzoom.nl
 https://api.meldingen.bergenopzoom.nl
-https://data.bergenopzoom.nl
 https://enterpriseenrollment.bergenopzoom.nl
 https://enterpriseregistration.bergenopzoom.nl
 https://helloid.bergenopzoom.nl
@@ -12,7 +11,6 @@ https://isdtalentcenter.bergenopzoom.nl
 https://izaaksuite.bergenopzoom.nl
 https://meldingen.bergenopzoom.nl
 https://portal.bergenopzoom.nl
-https://simcms.bergenopzoom.nl
 https://snelbalie.bergenopzoom.nl
 https://snelbaliepp.bergenopzoom.nl
 https://vpn.bergenopzoom.nl

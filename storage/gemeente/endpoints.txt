@@ -2247,7 +2247,6 @@ https://data.alkmaar.nl
 https://data.amstelveen.nl
 https://data.amsterdam.nl
 https://data.bergendal.nl
-https://data.bergenopzoom.nl
 https://data.beuningen.nl
 https://data.breda.nl
 https://data.delft.nl
@@ -6463,7 +6462,6 @@ https://simcms-woo.westerkwartier.nl
 https://simcms.aalten.nl
 https://simcms.bergeijk.nl
 https://simcms.bergen.nl
-https://simcms.bergenopzoom.nl
 https://simcms.capelleaandenijssel.nl
 https://simcms.cranendonck.nl
 https://simcms.doesburg.nl
