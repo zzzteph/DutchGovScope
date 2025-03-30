@@ -64,6 +64,7 @@ http://autodiscover.druten.nl
 http://autodiscover.duiven.nl
 http://autodiscover.edam-volendam.nl
 http://autodiscover.eemsdelta.nl
+http://autodiscover.eindhoven.nl
 http://autodiscover.emmen.nl
 http://autodiscover.enkhuizen.nl
 http://autodiscover.epe.nl
@@ -224,6 +225,7 @@ http://cmsintranet.etten-leur.nl
 http://cmssocialintranet.middendelfland.nl
 http://connect.acceptatie.goirle.nl
 http://crl.denhaag.nl
+http://data.eindhoven.nl
 http://datatest.delft.nl
 http://diensten.westmaasenwaal.nl
 http://digid-subsidies-login.ede.nl
@@ -2250,7 +2252,6 @@ https://data.bergendal.nl
 https://data.beuningen.nl
 https://data.breda.nl
 https://data.delft.nl
-https://data.eindhoven.nl
 https://data.groningen.nl
 https://data.haarlem.nl
 https://data.heumen.nl
@@ -2857,6 +2858,7 @@ https://ehvsubsidie.eindhoven.nl
 https://ehvsubsidie.test.eindhoven.nl
 https://eijsden-margraten.nl
 https://eikenhof.heemskerk.nl
+https://eindhoven.nl
 https://elise.rotterdam.nl
 https://elkk.amsterdam.nl
 https://eloket-sociaaldomein.krimpenerwaard.nl
@@ -3564,6 +3566,7 @@ https://gisibgeoserver.zwijndrecht.nl
 https://gisibonline.beesel.nl
 https://gisibtest.peelenmaas.nl
 https://gisportal.vught.nl
+https://gisservice.eindhoven.nl
 https://gisservices.haarlemmermeer.nl
 https://gisservices.zwolle.nl
 https://gisservicestest.zwolle.nl

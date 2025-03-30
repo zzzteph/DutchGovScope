@@ -4995,6 +4995,7 @@ beeldmateriaal
 buurt
 ehvsubsidie
 ehvsubsidie.test
+gisservice
 inkomensbalie
 inloggen.mijnsubsidie
 inloggen.mijnsubsidie.test
@@ -5002,8 +5003,6 @@ lv
 lv.test
 meldingen.acceptatie
 mijnsubsidie.test
-o1.ptr1924.test
-o1.ptr6943
 oco
 opname
 parkeernota

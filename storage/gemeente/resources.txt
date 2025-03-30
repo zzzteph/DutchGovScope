@@ -1515,6 +1515,7 @@ autodiscover.ede.nl
 autodiscover.eemsdelta.nl
 autodiscover.eh.haarlemmermeer.nl
 autodiscover.eijsden-margraten.nl
+autodiscover.eindhoven.nl
 autodiscover.emmen.nl
 autodiscover.enkhuizen.nl
 autodiscover.enschede.nl
@@ -4345,6 +4346,7 @@ ehvsubsidie.eindhoven.nl
 ehvsubsidie.test.eindhoven.nl
 eijsden-margraten.nl
 eikenhof.heemskerk.nl
+eindhoven.nl
 elise.rotterdam.nl
 elkk.amsterdam.nl
 eloket-sociaaldomein.krimpenerwaard.nl
@@ -5518,6 +5520,7 @@ giskit-bgt.geldrop-mierlo.nl
 gisportal.leeuwarden.nl
 gisportal.vught.nl
 gisportalnew.leeuwarden.nl
+gisservice.eindhoven.nl
 gisservices.haarlemmermeer.nl
 gisservices.meierijstad.nl
 gisservices.zwolle.nl
@@ -8773,8 +8776,6 @@ nwro.voerendaal.nl
 nwro2.velsen.nl
 o1.afspraak.leiden.nl
 o1.ptr1802.bodegraven-reeuwijk.nl
-o1.ptr1924.test.eindhoven.nl
-o1.ptr6943.eindhoven.nl
 oa.amsterdam.nl
 oauth.denhaag.nl
 oauth.openstad.alphenaandenrijn.nl
