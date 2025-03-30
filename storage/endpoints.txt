@@ -492,7 +492,6 @@ http://survey-beheeracc.igj.nl
 http://t-diel.nl
 http://test-cmsflash.scherpenzeel.nl
 http://test-cmsinsite.houten.nl
-http://test-cmsintranet.drimmelen.nl
 http://test-cmsintranet.etten-leur.nl
 http://test-cmsintranet.lansingerland.nl
 http://test-cmssocialintranet.middendelfland.nl
@@ -500,7 +499,6 @@ http://test-embrace.laarbeek.nl
 http://test-flash.scherpenzeel.nl
 http://test-insite.houten.nl
 http://test-intranet.beuningen.nl
-http://test-intranet.drimmelen.nl
 http://test-intranet.eemsdelta.nl
 http://test-intranet.etten-leur.nl
 http://test-intranet.groningen.nl
@@ -7383,6 +7381,7 @@ https://test-cmsdieuwke.defryskemarren.nl
 https://test-cmsdok.dronten.nl
 https://test-cmsextranet.hethogeland.nl
 https://test-cmshofnet.coevorden.nl
+https://test-cmsintranet.drimmelen.nl
 https://test-cmsintranet.gemeentestein.nl
 https://test-cmsintranet.gooisemeren.nl
 https://test-cmsintranet.groningen.nl
@@ -7416,6 +7415,7 @@ https://test-hofnet.coevorden.nl
 https://test-insite.nijmegen.nl
 https://test-internationaal.ondernemen.overheid.nl
 https://test-intra.gooisemeren.nl
+https://test-intranet.drimmelen.nl
 https://test-intranet.gemeentestein.nl
 https://test-intranet.steenwijkerland.nl
 https://test-intranet.sudwestfryslan.nl

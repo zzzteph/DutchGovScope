@@ -1,5 +1,3 @@
-http://test-cmsintranet.drimmelen.nl
-http://test-intranet.drimmelen.nl
 https://academie.drimmelen.nl
 https://drimmelen.nl
 https://filecap.drimmelen.nl
@@ -8,6 +6,8 @@ https://intranet.drimmelen.nl
 https://intranetcms.drimmelen.nl
 https://omgevingsvisie.drimmelen.nl
 https://preprod.drimmelen.nl
+https://test-cmsintranet.drimmelen.nl
+https://test-intranet.drimmelen.nl
 https://test.drimmelen.nl
 https://uitwisseling.drimmelen.nl
 https://webmail.drimmelen.nl
