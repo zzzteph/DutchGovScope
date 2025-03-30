@@ -3955,7 +3955,6 @@ https://ibr-projectregistratie.rotterdam.nl
 https://iburgerzaken.aaenhunze.nl
 https://iburgerzaken.achtkarspelen.nl
 https://iburgerzaken.almelo.nl
-https://iburgerzaken.alphen-chaam.nl
 https://iburgerzaken.amersfoort.nl
 https://iburgerzaken.apeldoorn.nl
 https://iburgerzaken.assen.nl
