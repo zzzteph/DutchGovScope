@@ -13,6 +13,7 @@ extern.borger-odoorn.nl
 ibo.borger-odoorn.nl
 iburgerzaken.borger-odoorn.nl
 ibzpink.borger-odoorn.nl
+localhost.borger-odoorn.nl
 meedoen-acc.borger-odoorn.nl
 meedoen.borger-odoorn.nl
 omgevingsvisie.borger-odoorn.nl

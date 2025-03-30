@@ -257,6 +257,7 @@ www.acc
 e-loket
 afval
 meet
+localhost
 citrix
 support
 data-test
@@ -300,7 +301,6 @@ sslvpn
 openformulieren
 awmag
 beeldbank-bo
-localhost
 publicaties
 squit2020.acceptatie
 squit2020publiceren

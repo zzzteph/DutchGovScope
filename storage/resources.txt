@@ -8049,6 +8049,7 @@ lliam.zoetermeer.nl
 lms.veere.nl
 local.oostgelre.nl
 localhost.barneveld.nl
+localhost.borger-odoorn.nl
 localhost.hillegom.nl
 localhost.opsterland.nl
 localhost.smallingerland.nl
