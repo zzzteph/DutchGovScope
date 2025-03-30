@@ -6086,6 +6086,7 @@ ibzpink.aaenhunze.nl
 ibzpink.achtkarspelen.nl
 ibzpink.almelo.nl
 ibzpink.alphen-chaam.nl
+ibzpink.amersfoort.nl
 ibzpink.apeldoorn.nl
 ibzpink.assen.nl
 ibzpink.asten.nl
