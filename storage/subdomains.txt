@@ -43,11 +43,11 @@ zaaksysteem-accept
 werkenbij
 pv
 gemeenteraad
-iparticipatie
 belastingen
 testeloket
-test-ipa
+iparticipatie
 enterpriseenrollment
+test-ipa
 dacceptatieloket
 dacceptatiemidoffice
 dloket
