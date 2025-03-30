@@ -206,7 +206,6 @@ http://autodiscover.zwolle.nl
 http://bastion365.katwijk.nl
 http://beh-gemeenteloket.gemeentemaastricht.nl
 http://belasting-test.kampen.nl
-http://bergen.nl
 http://bestuursakkoord.s-hertogenbosch.nl
 http://bi-sociaal.fa.amsterdam.nl
 http://bouwdossiers.stadsarchief.breda.nl
@@ -3092,6 +3091,7 @@ https://fd-zgw.denhaag.nl
 https://fd-zgw.test.denhaag.nl
 https://feedback.delft.nl
 https://felix.baarn.nl
+https://felix.bergen.nl
 https://felix.beuningen.nl
 https://felix.beverwijk.nl
 https://felix.bladel.nl
@@ -6884,7 +6884,6 @@ https://terschelling.nl
 https://test-belastingbalie.eindhoven.nl
 https://test-belastingen.wageningen.nl
 https://test-belastingloket.purmerend.nl
-https://test-binnenshuis.bergen.nl
 https://test-cmsbink.beverwijk.nl
 https://test-cmsdieuwke.defryskemarren.nl
 https://test-cmsdok.dronten.nl
@@ -7004,7 +7003,6 @@ https://testbelastingen.zoetermeer.nl
 https://testbelastingloket.hattem.nl
 https://testbelastingloket.heerde.nl
 https://testbelastingloket.oldebroek.nl
-https://testcms-binnenshuis.bergen.nl
 https://testcms-inhuiz.huizen.nl
 https://testcms-intranet.beuningen.nl
 https://testcms-intranet.eemsdelta.nl
@@ -7806,7 +7804,6 @@ https://www.belastingloket.purmerend.nl
 https://www.bereikbarestad.denhaag.nl
 https://www.bergeijk.nl
 https://www.bergen-nh.nl
-https://www.bergen.nl
 https://www.bergendal.nl
 https://www.bernheze.org
 https://www.beverwijk.nl
