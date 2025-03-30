@@ -36,9 +36,9 @@ raad
 api.meldingen
 vpn
 adfs
+betalen
 broker
 ruimtelijkeplannen
-betalen
 zaaksysteem-accept
 pv
 gemeenteraad
@@ -53,12 +53,12 @@ enterpriseenrollment
 dloket
 dmidoffice
 data
+api.meldingen-acc
+meldingen-acc
 openpdc
 belastingbalie
 cmsoo
-api.meldingen-acc
 loket.acceptatie
-meldingen-acc
 remote
 openpub
 cloudadapter-test
@@ -169,6 +169,7 @@ ro
 uc
 AutoDiscover
 transfer
+evenementen
 college
 maps
 vdi
@@ -192,7 +193,6 @@ afspraakmaken
 zaaksysteem
 geoportaal
 _dmarc
-evenementen
 website
 kennisbank
 fs
@@ -201,6 +201,7 @@ preprod-mijn
 veiligdelen
 bis
 geodata
+belastingbalie-test
 mail2
 jcc
 sharefile
@@ -234,7 +235,6 @@ preprod-mijnsociaalplein
 archief
 topdesk
 acceptatie-open
-belastingbalie-test
 bestanden
 mx1
 mx2
@@ -400,6 +400,7 @@ loket.test
 midoffice
 www.acceptatie
 toegang
+secure-test
 sociaaldomein
 stadsarchief
 mijnoverzicht
@@ -599,7 +600,6 @@ subsidies-login.acceptatie
 buitenoporde
 preprod-mijnportaal
 burgerloket.acceptatie
-secure-test
 cjg
 geoservices
 lvs
@@ -773,6 +773,7 @@ nac
 apex
 eloketstaging
 formulier-test
+iam
 indienst
 ingesprek
 kavels
@@ -2563,6 +2564,7 @@ goud
 groenengezond
 growinggreencities
 hout
+iam-acc
 ikbouwmijnhuisin
 ikonderneemin
 ikzoekeenhuis
@@ -3102,7 +3104,6 @@ histor-web.tst
 hitkans.top
 hor-acc
 hosted-by
-iam
 iamapp.acc
 iamdigid.acc
 iamisp1

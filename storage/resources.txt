@@ -1282,6 +1282,7 @@ api.melding.heerlen.nl
 api.meldingen-a.leeuwarden.nl
 api.meldingen-a.waadhoeke.nl
 api.meldingen-acc.aaenhunze.nl
+api.meldingen-acc.almere.nl
 api.meldingen-acc.apeldoorn.nl
 api.meldingen-acc.assen.nl
 api.meldingen-acc.bernheze.org
@@ -2190,6 +2191,7 @@ belastingbalie-acc.amsterdam.nl
 belastingbalie-acc.hilversum.nl
 belastingbalie-acc.wijdemeren.nl
 belastingbalie-prepod.gooisemeren.nl
+belastingbalie-test.almere.nl
 belastingbalie-test.doetinchem.nl
 belastingbalie-test.gemeentewestland.nl
 belastingbalie-test.leeuwarden.nl
@@ -2410,6 +2412,7 @@ betaaltoolsorga-acc.rotterdam.nl
 betaaltoolsorga.rotterdam.nl
 betalen-cnf.belastingdienst.nl
 betalen.acc.belastingdienst.nl
+betalen.almere.nl
 betalen.amsterdam.nl
 betalen.belastingdienst.nl
 betalen.belastingloket.s-hertogenbosch.nl
@@ -5009,6 +5012,7 @@ ev-edienstenburgerzaken-test.echt-susteren.nl
 ev-edienstenburgerzaken.echt-susteren.nl
 evat-test2.belastingdienst.nl
 evenementen-acc.denhaag.nl
+evenementen.almere.nl
 evenementen.amsterdam.nl
 evenementen.assen.nl
 evenementen.belastingdienst.nl
@@ -6435,11 +6439,13 @@ i-site1.rijksoverheid.nl
 i-voor1.rijksoverheid.nl
 i-www.rijksoverheid.nl
 iah.acc.belastingdienst.nl
+iam-acc.almere.nl
 iam-containerplatform-az1.lpc.logius.nl
 iam-containerplatform.logius.nl
 iam-containerplatform.lpc.logius.nl
 iam-forms.denhaag.nl
 iam-portal.denhaag.nl
+iam.almere.nl
 iam.amsterdam.nl
 iamapp.acc.amsterdam.nl
 iamdigid.acc.amsterdam.nl
@@ -8509,6 +8515,7 @@ melding.leiden.nl
 meldingen-a.leeuwarden.nl
 meldingen-a.waadhoeke.nl
 meldingen-acc.aaenhunze.nl
+meldingen-acc.almere.nl
 meldingen-acc.apeldoorn.nl
 meldingen-acc.assen.nl
 meldingen-acc.bernheze.org
@@ -11749,6 +11756,7 @@ secure-a.utrecht.nl
 secure-s.utrecht.nl
 secure-t.sittard-geleen.nl
 secure-t.utrecht.nl
+secure-test.almere.nl
 secure-test.delft.nl
 secure-test.molenlanden.nl
 secure-test.rijswijk.nl
@@ -11756,6 +11764,7 @@ secure.aalten.nl
 secure.acc.denhaag.nl
 secure.achtkarspelen.nl
 secure.albrandswaard.nl
+secure.almere.nl
 secure.alphen-chaam.nl
 secure.ameland.nl
 secure.amsterdam.nl

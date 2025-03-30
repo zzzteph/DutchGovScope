@@ -255,6 +255,8 @@ http://eloket.meppel.nl
 http://emagazine2030.rijswijk.nl
 http://email.capelleaandenijssel.nl
 http://embrace.laarbeek.nl
+http://enterpriseone-dv.almere.nl
+http://enterpriseone.almere.nl
 http://extranet-acc.eemsdelta.nl
 http://felix.achtkarspelen.nl
 http://felix.beekdaelen.nl
@@ -304,6 +306,7 @@ http://historie.venlo.nl
 http://htb-test.gemeente-steenbergen.nl
 http://hybrid.dalfsen.nl
 http://hybrid.kampen.nl
+http://iam-acc.almere.nl
 http://iam-containerplatform-az1.lpc.logius.nl
 http://ict-ers.werkenvoornederland.nl
 http://icters.werkenvoornederland.nl
@@ -1276,6 +1279,7 @@ https://api.melding.heerlen.nl
 https://api.meldingen-a.leeuwarden.nl
 https://api.meldingen-a.waadhoeke.nl
 https://api.meldingen-acc.aaenhunze.nl
+https://api.meldingen-acc.almere.nl
 https://api.meldingen-acc.apeldoorn.nl
 https://api.meldingen-acc.assen.nl
 https://api.meldingen-acc.bernheze.org
@@ -1678,6 +1682,7 @@ https://belasting.kampen.nl
 https://belastingbalie-acc.hilversum.nl
 https://belastingbalie-acc.wijdemeren.nl
 https://belastingbalie-prepod.gooisemeren.nl
+https://belastingbalie-test.almere.nl
 https://belastingbalie-test.doetinchem.nl
 https://belastingbalie-test.gemeentewestland.nl
 https://belastingbalie-test.leeuwarden.nl
@@ -1843,6 +1848,7 @@ https://betaallink.oss.nl
 https://betaaltoolsorga-acc.rotterdam.nl
 https://betaaltoolsorga.rotterdam.nl
 https://betalen-cnf.belastingdienst.nl
+https://betalen.almere.nl
 https://betalen.amsterdam.nl
 https://betalen.belastingdienst.nl
 https://betalen.belastingloket.s-hertogenbosch.nl
@@ -3175,9 +3181,7 @@ https://enterpriseenrollment.vijfheerenlanden.nl
 https://enterpriseenrollment.vlieland.nl
 https://enterpriseenrollment.waadhoeke.nl
 https://enterpriseone-arc.almere.nl
-https://enterpriseone-dv.almere.nl
 https://enterpriseone-py.almere.nl
-https://enterpriseone.almere.nl
 https://enterpriseregistration.alphenaandenrijn.nl
 https://enterpriseregistration.apeldoorn.nl
 https://enterpriseregistration.arnhem.nl
@@ -3255,6 +3259,7 @@ https://esuitenotubiz-test.westvoorne.nl
 https://etl.haarlemmermeer.nl
 https://eubtw.belastingdienst.nl
 https://evenementen-acc.denhaag.nl
+https://evenementen.almere.nl
 https://evenementen.breda.nl
 https://evenementen.denhaag.nl
 https://evenementen.landvancuijk.nl
@@ -3941,6 +3946,7 @@ https://hybrid.sittard-geleen.nl
 https://iam-containerplatform.lpc.logius.nl
 https://iam-forms.denhaag.nl
 https://iam-portal.denhaag.nl
+https://iam.almere.nl
 https://iam.amsterdam.nl
 https://ibabs.montferland.info
 https://ibor.delft.nl
@@ -4964,6 +4970,7 @@ https://melding.leiden.nl
 https://meldingen-a.leeuwarden.nl
 https://meldingen-a.waadhoeke.nl
 https://meldingen-acc.aaenhunze.nl
+https://meldingen-acc.almere.nl
 https://meldingen-acc.apeldoorn.nl
 https://meldingen-acc.assen.nl
 https://meldingen-acc.bernheze.org
@@ -6784,7 +6791,9 @@ https://secfs.tilburg.nl
 https://secudoc.gemeentebeek.nl
 https://secudoc.nederbetuwe.nl
 https://secure-t.sittard-geleen.nl
+https://secure-test.almere.nl
 https://secure.acc.denhaag.nl
+https://secure.almere.nl
 https://secure.denhaag.nl
 https://secure.gemeentestein.nl
 https://secure.pekela.nl
