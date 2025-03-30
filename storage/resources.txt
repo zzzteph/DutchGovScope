@@ -1758,6 +1758,7 @@ autodiscover.opsterland.nl
 autodiscover.os.groningen.nl
 autodiscover.oss.nl
 autodiscover.overbetuwe.nl
+autodiscover.overheid.nl
 autodiscover.ovh.gemeentebeek.nl
 autodiscover.papendrecht.nl
 autodiscover.partijvoordedieren.nijmegen.nl
@@ -9323,6 +9324,8 @@ mom.groningen.nl
 monitor.krimpenerwaard.nl
 monitor.rijksoverheid.nl
 monitor.zwolle.nl
+monitoring-prod5.koop.overheid.nl
+monitoring-prod6.koop.overheid.nl
 monitoring-test5.koop.overheid.nl
 monitoring-test6.koop.overheid.nl
 monitoring.hellendoorn.nl

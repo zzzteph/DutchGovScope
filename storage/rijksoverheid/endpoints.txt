@@ -11,7 +11,6 @@ http://channels-az2.lpc.logius.nl
 http://clienteleitsm-acceptatie.logius.nl
 http://clienteleitsm.logius.nl
 http://coronadashboard.rijksoverheid.nl
-http://demo-systemteam.overheid.nl
 http://demo1-systemteam.overheid.nl
 http://demo2-systemteam.overheid.nl
 http://designsystem.overheid.nl
@@ -80,6 +79,7 @@ https://api.standaarden.overheid.nl
 https://apis.developer.overheid.nl
 https://artifact-rd1.toegang.overheid.nl
 https://autodiscover.koop.overheid.nl
+https://autodiscover.overheid.nl
 https://bag.basisregistraties.overheid.nl
 https://bag.test.basisregistraties.overheid.nl
 https://bag2.basisregistraties.overheid.nl
@@ -160,7 +160,7 @@ https://data.overheid.nl
 https://datumprikker.belastingdienst.nl
 https://decentrale.regelgeving.overheid.nl
 https://delta.belastingdienst.nl
-https://demo.mijn.overheid.nl
+https://demo-systemteam.overheid.nl
 https://developer.omgevingswet.overheid.nl
 https://developer.overheid.nl
 https://digid-stub.lpc.mijn.overheid.nl
@@ -217,7 +217,6 @@ https://formulier.werkenvoornederland.nl
 https://fsvportaal.belastingdienst.nl
 https://gdlo.belastingdienst.nl
 https://gegevensbijbesluiten.overheid.nl
-https://gegevensdelen.mijn.overheid.nl
 https://gegevensdelen.preprod.mijn.overheid.nl
 https://gegevensportaal.belastingdienst.nl
 https://gegevensuitwisseling.belastingdienst.nl
@@ -298,6 +297,8 @@ https://mijnzakelijk.belastingdienst.nl
 https://mm.belastingdienst.nl
 https://mnd-preprd.overheid.nl
 https://mnd.overheid.nl
+https://monitoring-prod5.koop.overheid.nl
+https://monitoring-prod6.koop.overheid.nl
 https://monitoring-test5.koop.overheid.nl
 https://monitoring-test6.koop.overheid.nl
 https://msnp-tegemoetkoming.belastingdienst.nl

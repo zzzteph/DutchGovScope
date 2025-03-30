@@ -54,6 +54,7 @@ artifact-pp2.toegang.overheid.nl
 artifact-rd1.toegang.overheid.nl
 artifact-rd2.toegang.overheid.nl
 autodiscover.koop.overheid.nl
+autodiscover.overheid.nl
 bag.acceptatie.basisregistraties.overheid.nl
 bag.basisregistraties.overheid.nl
 bag.test.basisregistraties.overheid.nl
@@ -260,6 +261,8 @@ metadata.toegang.overheid.nl
 mijn.overheid.nl
 mnd-preprd.overheid.nl
 mnd.overheid.nl
+monitoring-prod5.koop.overheid.nl
+monitoring-prod6.koop.overheid.nl
 monitoring-test5.koop.overheid.nl
 monitoring-test6.koop.overheid.nl
 mxrelay.overheid.nl

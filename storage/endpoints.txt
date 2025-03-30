@@ -234,7 +234,6 @@ http://cmssocialintranet.middendelfland.nl
 http://connect.acceptatie.goirle.nl
 http://coronadashboard.rijksoverheid.nl
 http://crl.denhaag.nl
-http://demo-systemteam.overheid.nl
 http://demo1-systemteam.overheid.nl
 http://demo2-systemteam.overheid.nl
 http://designsystem.overheid.nl
@@ -1508,6 +1507,7 @@ https://autodiscover.lopik.nl
 https://autodiscover.losser.nl
 https://autodiscover.ombudsman.groningen.nl
 https://autodiscover.os.groningen.nl
+https://autodiscover.overheid.nl
 https://autodiscover.peelenmaas.nl
 https://autodiscover.rijssen-holten.nl
 https://autodiscover.sittard-geleen.nl
@@ -2458,9 +2458,9 @@ https://defryskemarren.nl
 https://delft.nl
 https://delta.belastingdienst.nl
 https://demirandabad.amsterdam.nl
+https://demo-systemteam.overheid.nl
 https://demo.doemee.bloemendaal.nl
 https://demo.doemee.zwolle.nl
-https://demo.mijn.overheid.nl
 https://demo.onderwijssubsidies.amsterdam.nl
 https://denhaag.nl
 https://denhaagfietst-acc.denhaag.nl
@@ -3562,7 +3562,6 @@ https://geborgenverleden.sudwestfryslan.nl
 https://gebouwdin.amsterdam.nl
 https://geertruidenberg.nl
 https://gegevensbijbesluiten.overheid.nl
-https://gegevensdelen.mijn.overheid.nl
 https://gegevensdelen.preprod.mijn.overheid.nl
 https://gegevensportaal.belastingdienst.nl
 https://gegevensuitwisseling.belastingdienst.nl
@@ -5373,6 +5372,8 @@ https://modern.noordwijk.nl
 https://moerdijk.nl
 https://molenlanden.nl
 https://monitor.krimpenerwaard.nl
+https://monitoring-prod5.koop.overheid.nl
+https://monitoring-prod6.koop.overheid.nl
 https://monitoring-test5.koop.overheid.nl
 https://monitoring-test6.koop.overheid.nl
 https://monitoring.hellendoorn.nl

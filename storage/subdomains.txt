@@ -2372,6 +2372,8 @@ mailrelay2
 metadata.toegang
 mnd-preprd
 mnd
+monitoring-prod5.koop
+monitoring-prod6.koop
 monitoring-test5.koop
 monitoring-test6.koop
 mxrelay
