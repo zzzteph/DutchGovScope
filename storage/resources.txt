@@ -1985,6 +1985,7 @@ balietest2.vlaardingen.nl
 bam.zandvoort.nl
 bapicft.belastingdienst.nl
 barendrecht.nl
+barneveld.nl
 bars.emmen.nl
 bas.oss.nl
 bas.test.oss.nl
@@ -8046,6 +8047,7 @@ lliam-test.zoetermeer.nl
 lliam.zoetermeer.nl
 lms.veere.nl
 local.oostgelre.nl
+localhost.barneveld.nl
 localhost.hillegom.nl
 localhost.opsterland.nl
 localhost.smallingerland.nl

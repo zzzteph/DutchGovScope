@@ -300,6 +300,7 @@ sslvpn
 openformulieren
 awmag
 beeldbank-bo
+localhost
 publicaties
 squit2020.acceptatie
 squit2020publiceren
@@ -384,7 +385,6 @@ stemvan
 www.samen
 gateway
 mijn-preproductie
-localhost
 ibabs
 www.afspraken
 prefill

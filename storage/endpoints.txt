@@ -1560,6 +1560,7 @@ https://bag.test.basisregistraties.overheid.nl
 https://bag2.basisregistraties.overheid.nl
 https://balie2.vlaardingen.nl
 https://barendrecht.nl
+https://barneveld.nl
 https://bastion365.assen.nl
 https://bastion365.asten.nl
 https://bastion365.dijkenwaard.nl
