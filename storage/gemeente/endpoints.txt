@@ -4828,6 +4828,7 @@ https://mijn.enschede.nl
 https://mijn.epe.nl
 https://mijn.etten-leur.nl
 https://mijn.gemeente-oldambt.nl
+https://mijn.gemeenteberkelland.nl
 https://mijn.gemeentemaashorst.nl
 https://mijn.gemert-bakel.nl
 https://mijn.gooisemeren.nl
@@ -5948,6 +5949,7 @@ https://preprod-mijninkomen.goeree-overflakkee.nl
 https://preprod-mijninkomen.gouda.nl
 https://preprod-mijnoverzicht.purmerend.nl
 https://preprod-mijnoverzicht.sint-michielsgestel.nl
+https://preprod-mijnplan.gemeenteberkelland.nl
 https://preprod-mijnplan.winterswijk.nl
 https://preprod-mijnportaal.defryskemarren.nl
 https://preprod-mijnportaal.gouda.nl
