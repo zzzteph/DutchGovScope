@@ -1,5 +1,4 @@
 http://autodiscover.dantumadiel.frl
-https://bor.dantumadiel.frl
 https://collecties.dantumadiel.frl
 https://csc.dantumadiel.frl
 https://dantumadiel.frl

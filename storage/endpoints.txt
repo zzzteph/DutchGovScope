@@ -1967,7 +1967,6 @@ https://boekel.nl
 https://boeken.schiedam.nl
 https://bolwerk.gemeentehulst.nl
 https://bomen.amsterdam.nl
-https://bor.dantumadiel.frl
 https://bor.extranet.tilburg.nl
 https://bor.hilvarenbeek.nl
 https://bor.oisterwijk.nl
