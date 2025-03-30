@@ -238,6 +238,7 @@ http://enterpriseone.almere.nl
 http://extranet-acc.eemsdelta.nl
 http://felix.achtkarspelen.nl
 http://felix.beekdaelen.nl
+http://felix.beuningen.nl
 http://felix.bronckhorst.nl
 http://felix.cranendonck.nl
 http://felix.dalfsen.nl
@@ -488,6 +489,7 @@ http://www.aalten.nl
 http://www.acutehulp.gezond.amsterdam.nl
 http://www.baarn.nl
 http://www.bba.amsterdam.nl
+http://www.beuningen.nl
 http://www.binnenwaterbeheer.amsterdam.nl
 http://www.bolwerken.amsterdam.nl
 http://www.capelleaandenijssel.nl
@@ -1782,6 +1784,7 @@ https://betalen.zeewolde.nl
 https://betalenaan.oirschot.nl
 https://betalingen.amsterdam.nl
 https://beugen.landvancuijk.nl
+https://beuningen.nl
 https://bewegen.apeldoorn.nl
 https://bewustwording.amersfoort.nl
 https://bewustwording.brielle.nl
@@ -3092,7 +3095,6 @@ https://fd-zgw.test.denhaag.nl
 https://feedback.delft.nl
 https://felix.baarn.nl
 https://felix.bergen.nl
-https://felix.beuningen.nl
 https://felix.beverwijk.nl
 https://felix.bladel.nl
 https://felix.bunschoten.nl
