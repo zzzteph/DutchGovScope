@@ -1753,6 +1753,7 @@ awtunnel.venlo.nl
 awtunnel.weert.nl
 awvpn.someren.nl
 axians.lev.delft.nl
+baarle-nassau.nl
 baarn.nl
 backend-dvg.acc.rotterdam.nl
 backend-dvg.rotterdam.nl

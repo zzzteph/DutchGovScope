@@ -1540,6 +1540,7 @@ https://awtunnel.roermond.nl
 https://awtunnel.venlo.nl
 https://awtunnel.weert.nl
 https://awvpn.someren.nl
+https://baarle-nassau.nl
 https://backend-dvg.acc.rotterdam.nl
 https://backend-dvg.rotterdam.nl
 https://backoffice-parkeervergunningen-acc.beverwijk.nl
