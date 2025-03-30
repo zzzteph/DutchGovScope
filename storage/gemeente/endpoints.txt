@@ -204,6 +204,7 @@ http://autodiscover.zuidplas.nl
 http://autodiscover.zwijndrecht.nl
 http://autodiscover.zwolle.nl
 http://bastion365.katwijk.nl
+http://begraafplaatsduinrust.beverwijk.nl
 http://beh-gemeenteloket.gemeentemaastricht.nl
 http://belasting-test.kampen.nl
 http://bestuursakkoord.s-hertogenbosch.nl
@@ -227,6 +228,7 @@ http://dmb.amsterdam.nl
 http://docgen-acc.amsterdam.nl
 http://docgen-tst.amsterdam.nl
 http://docgen.amsterdam.nl
+http://duurzaam.beverwijk.nl
 http://ediensten-preproductie.gemeentehw.nl
 http://eersel.nl
 http://eloket.meppel.nl
@@ -375,7 +377,6 @@ http://schiermonnikoog.nl
 http://secure.pijnacker-nootdorp.nl
 http://secure.valkenburg.nl
 http://sem.kampen.nl
-http://simcms-begraafplaatsduinrust.beverwijk.nl
 http://simcms-centrum.heerlen.nl
 http://simcms-energiek.beuningen.nl
 http://simcms-gemeenteraad.vlissingen.nl
@@ -432,7 +433,6 @@ http://stadsatlas.zoetermeer.nl
 http://stadspas.weert.nl
 http://subsites.amsterdam.nl
 http://t-diel.nl
-http://test-bink.beverwijk.nl
 http://test-cmsflash.scherpenzeel.nl
 http://test-cmsinsite.houten.nl
 http://test-cmsintranet.drimmelen.nl
@@ -1539,7 +1539,6 @@ https://beeldmateriaal.eindhoven.nl
 https://beemsterraadsinformatie.purmerend.nl
 https://beers.landvancuijk.nl
 https://beesel.nl
-https://begraafplaatsduinrust.beverwijk.nl
 https://begraafplaatsen.bloemendaal.nl
 https://begraafplaatsen.gooisemeren.nl
 https://begraafplaatsreservering.bronckhorst.nl
@@ -2487,7 +2486,6 @@ https://dusk-openwave.beverwijk.nl
 https://duurzaam.alphenaandenrijn.nl
 https://duurzaam.barneveld.nl
 https://duurzaam.beesel.nl
-https://duurzaam.beverwijk.nl
 https://duurzaam.gooisemeren.nl
 https://duurzaam.heemskerk.nl
 https://duurzaam.hollandskroon.nl
@@ -5428,7 +5426,6 @@ https://open-hub.tilburg.nl
 https://open-test.nijmegen.nl
 https://open.arnhem.nl
 https://open.barneveld.nl
-https://open.beverwijk.nl
 https://open.boxtel.nl
 https://open.breda.nl
 https://open.dinkelland.nl
@@ -6443,6 +6440,7 @@ https://siem.hethogeland.nl
 https://siem.rijssen-holten.nl
 https://siem2.hethogeland.nl
 https://simcms-armoedepact.westerkwartier.nl
+https://simcms-begraafplaatsduinrust.beverwijk.nl
 https://simcms-centrumimpuls.geldrop-mierlo.nl
 https://simcms-cjg.scherpenzeel.nl
 https://simcms-data.westerkwartier.nl
@@ -6466,6 +6464,7 @@ https://simcms-woo.westerkwartier.nl
 https://simcms.aalten.nl
 https://simcms.bergeijk.nl
 https://simcms.bergen.nl
+https://simcms.beverwijk.nl
 https://simcms.capelleaandenijssel.nl
 https://simcms.cranendonck.nl
 https://simcms.doesburg.nl
@@ -6887,6 +6886,7 @@ https://terschelling.nl
 https://test-belastingbalie.eindhoven.nl
 https://test-belastingen.wageningen.nl
 https://test-belastingloket.purmerend.nl
+https://test-bink.beverwijk.nl
 https://test-cmsbink.beverwijk.nl
 https://test-cmsdieuwke.defryskemarren.nl
 https://test-cmsdok.dronten.nl
@@ -7809,7 +7809,6 @@ https://www.bergeijk.nl
 https://www.bergen-nh.nl
 https://www.bergendal.nl
 https://www.bernheze.org
-https://www.beverwijk.nl
 https://www.bibliotheek.rotterdam.nl
 https://www.bibliotheekbenoordenhout.denhaag.nl
 https://www.bikecity.amsterdam.nl
