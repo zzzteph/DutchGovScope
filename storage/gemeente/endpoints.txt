@@ -393,6 +393,7 @@ http://simcms.bergendal.nl
 http://simcms.beuningen.nl
 http://simcms.bladel.nl
 http://simcms.bunschoten.nl
+http://simcms.capelleaandenijssel.nl
 http://simcms.dalfsen.nl
 http://simcms.deurne.nl
 http://simcms.eersel.nl
@@ -3093,6 +3094,7 @@ https://felix.bergen.nl
 https://felix.beverwijk.nl
 https://felix.bladel.nl
 https://felix.bronckhorst.nl
+https://felix.capelleaandenijssel.nl
 https://felix.deurne.nl
 https://felix.gemeentebeek.nl
 https://felix.halderberge.nl
@@ -6468,7 +6470,6 @@ https://simcms.bergeijk.nl
 https://simcms.bergen.nl
 https://simcms.beverwijk.nl
 https://simcms.bronckhorst.nl
-https://simcms.capelleaandenijssel.nl
 https://simcms.cranendonck.nl
 https://simcms.doesburg.nl
 https://simcms.doetinchem.nl
