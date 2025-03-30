@@ -2,6 +2,7 @@ afspraken.eersel.nl
 eersel.nl
 felix.eersel.nl
 iburgerzaken.eersel.nl
+ibzpink.eersel.nl
 jccapi.eersel.nl
 preproductie.eersel.nl
 probeer.eersel.nl

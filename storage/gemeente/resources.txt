@@ -6146,6 +6146,7 @@ ibzpink.druten.nl
 ibzpink.edam-volendam.nl
 ibzpink.ede.nl
 ibzpink.eemsdelta.nl
+ibzpink.eersel.nl
 ibzpink.eijsden-margraten.nl
 ibzpink.elburg.nl
 ibzpink.enschede.nl
