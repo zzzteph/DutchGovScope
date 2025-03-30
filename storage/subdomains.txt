@@ -152,6 +152,7 @@ opendata
 mta-sts
 mailing
 belastingportaal
+ftp
 openzaak
 gis
 acc-contact
@@ -175,7 +176,6 @@ college
 maps
 vdi
 email
-ftp
 legacy
 auth
 notificaties

@@ -5065,6 +5065,7 @@ ftp.afs.amsterdam.nl
 ftp.amsterdam.nl
 ftp.bodegraven-reeuwijk.nl
 ftp.brummen.nl
+ftp.castricum.nl
 ftp.data.amsterdam.nl
 ftp.dwiweb.amsterdam.nl
 ftp.dwiweb.brievenbus.amsterdam.nl

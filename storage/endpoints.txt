@@ -3544,6 +3544,7 @@ https://fsvportaal.belastingdienst.nl
 https://ftp.afs.acc.amsterdam.nl
 https://ftp.afs.amsterdam.nl
 https://ftp.bodegraven-reeuwijk.nl
+https://ftp.castricum.nl
 https://ftp.meerssen.nl
 https://ftp.sudwestfryslan.nl
 https://ftrust.veere.nl
