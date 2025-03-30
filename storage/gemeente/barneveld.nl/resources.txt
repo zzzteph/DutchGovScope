@@ -2,6 +2,7 @@ accdrop.barneveld.nl
 adc.barneveld.nl
 afspraak.barneveld.nl
 autodiscover.barneveld.nl
+barneveld.nl
 belastingloket.barneveld.nl
 cis.barneveld.nl
 cscp.barneveld.nl
@@ -18,6 +19,7 @@ k2bg.barneveld.nl
 k2fin.barneveld.nl
 kaartviewer.barneveld.nl
 kennisbank.barneveld.nl
+localhost.barneveld.nl
 mail.barneveld.nl
 mijnzorg-acc.barneveld.nl
 mijnzorg.barneveld.nl

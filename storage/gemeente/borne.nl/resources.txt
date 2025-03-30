@@ -15,6 +15,7 @@ gp-test.borne.nl
 gp.borne.nl
 iarchief.borne.nl
 iburgerzaken.borne.nl
+ibzpink.borne.nl
 intranet-acc.borne.nl
 intranet.borne.nl
 invmid.borne.nl

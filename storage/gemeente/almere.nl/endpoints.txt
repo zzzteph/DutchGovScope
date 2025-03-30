@@ -1,3 +1,6 @@
+http://enterpriseone-dv.almere.nl
+http://enterpriseone.almere.nl
+http://iam-acc.almere.nl
 http://panel.almere.nl
 https://3d.almere.nl
 https://acc-maps.almere.nl
@@ -9,10 +12,13 @@ https://almeregeeftenergie.almere.nl
 https://almerekracht.almere.nl
 https://almerepoort.almere.nl
 https://apex.almere.nl
+https://api.meldingen-acc.almere.nl
 https://api.meldingen.almere.nl
 https://autodiscover.almere.nl
+https://belastingbalie-test.almere.nl
 https://belastingbalie.almere.nl
 https://belastingen.almere.nl
+https://betalen.almere.nl
 https://connect-preprod.almere.nl
 https://digitaalerfgoed.almere.nl
 https://edienstenburgerzaken-test.almere.nl
@@ -21,9 +27,8 @@ https://eloket.almere.nl
 https://eloketstaging.almere.nl
 https://english.almere.nl
 https://enterpriseone-arc.almere.nl
-https://enterpriseone-dv.almere.nl
 https://enterpriseone-py.almere.nl
-https://enterpriseone.almere.nl
+https://evenementen.almere.nl
 https://floriade.almere.nl
 https://formulier-test.almere.nl
 https://formulieren.almere.nl
@@ -35,6 +40,7 @@ https://groenengezond.almere.nl
 https://growinggreencities.almere.nl
 https://hout.almere.nl
 https://hybrid.almere.nl
+https://iam.almere.nl
 https://ikbouwmijnhuisin.almere.nl
 https://ikonderneemin.almere.nl
 https://ikzoekeenhuis.almere.nl
@@ -46,6 +52,7 @@ https://kavelwinkel.almere.nl
 https://lerenloont.almere.nl
 https://link.pr.almere.nl
 https://maps.almere.nl
+https://meldingen-acc.almere.nl
 https://meldingen.almere.nl
 https://mijnict.almere.nl
 https://mijninkomen.almere.nl
@@ -59,6 +66,8 @@ https://planon.almere.nl
 https://pv.diensten.almere.nl
 https://regio.almere.nl
 https://relatie-scheiding.almere.nl
+https://secure-test.almere.nl
+https://secure.almere.nl
 https://smap.almere.nl
 https://snelbalie.almere.nl
 https://snelbalietest.almere.nl

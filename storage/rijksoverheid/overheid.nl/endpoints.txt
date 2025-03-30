@@ -1,4 +1,3 @@
-http://demo-systemteam.overheid.nl
 http://demo1-systemteam.overheid.nl
 http://demo2-systemteam.overheid.nl
 http://designsystem.overheid.nl
@@ -25,6 +24,7 @@ https://api.standaarden.overheid.nl
 https://apis.developer.overheid.nl
 https://artifact-rd1.toegang.overheid.nl
 https://autodiscover.koop.overheid.nl
+https://autodiscover.overheid.nl
 https://bag.basisregistraties.overheid.nl
 https://bag.test.basisregistraties.overheid.nl
 https://bag2.basisregistraties.overheid.nl
@@ -86,7 +86,7 @@ https://cursus.drop.overheid.nl
 https://data-acc.overheid.nl
 https://data.overheid.nl
 https://decentrale.regelgeving.overheid.nl
-https://demo.mijn.overheid.nl
+https://demo-systemteam.overheid.nl
 https://developer.omgevingswet.overheid.nl
 https://developer.overheid.nl
 https://digid-stub.lpc.mijn.overheid.nl
@@ -109,7 +109,6 @@ https://emailtemplates.overheid.nl
 https://enabling.omgevingswet.overheid.nl
 https://externe-veiligheid.omgevingswet.overheid.nl
 https://gegevensbijbesluiten.overheid.nl
-https://gegevensdelen.mijn.overheid.nl
 https://gegevensdelen.preprod.mijn.overheid.nl
 https://identifier-preprod.overheid.nl
 https://identifier.overheid.nl
@@ -148,6 +147,8 @@ https://mail.koop.overheid.nl
 https://mijn.overheid.nl
 https://mnd-preprd.overheid.nl
 https://mnd.overheid.nl
+https://monitoring-prod5.koop.overheid.nl
+https://monitoring-prod6.koop.overheid.nl
 https://monitoring-test5.koop.overheid.nl
 https://monitoring-test6.koop.overheid.nl
 https://natuur.omgevingswet.overheid.nl

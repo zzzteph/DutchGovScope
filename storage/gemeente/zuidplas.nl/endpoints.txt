@@ -1,0 +1,8 @@
+http://autodiscover.zuidplas.nl
+http://simcms.zuidplas.nl
+https://apps.zuidplas.nl
+https://klantcontact.zuidplas.nl
+https://micc.zuidplas.nl
+https://mobielapp.zuidplas.nl
+https://simcms-open.zuidplas.nl
+https://simsite.zuidplas.nl

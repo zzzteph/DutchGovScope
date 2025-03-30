@@ -21,6 +21,7 @@ geovisia.amersfoort.nl
 huishoudboekje.amersfoort.nl
 hybridmail.amersfoort.nl
 iburgerzaken.amersfoort.nl
+ibzpink.amersfoort.nl
 kaart.amersfoort.nl
 key2waarderen-voormeldingwoz.amersfoort.nl
 koppelpoort.amersfoort.nl

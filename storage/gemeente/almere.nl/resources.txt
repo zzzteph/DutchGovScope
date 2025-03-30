@@ -10,13 +10,16 @@ almeregeeftenergie.almere.nl
 almerekracht.almere.nl
 almerepoort.almere.nl
 apex.almere.nl
+api.meldingen-acc.almere.nl
 api.meldingen.almere.nl
 apint.almere.nl
 apint2.almere.nl
 autodiscover.almere.nl
+belastingbalie-test.almere.nl
 belastingbalie.almere.nl
 belastingen-acc.almere.nl
 belastingen.almere.nl
+betalen.almere.nl
 connect-preprod.almere.nl
 diensten.almere.nl
 digitaalerfgoed.almere.nl
@@ -29,6 +32,7 @@ enterpriseone-arc.almere.nl
 enterpriseone-dv.almere.nl
 enterpriseone-py.almere.nl
 enterpriseone.almere.nl
+evenementen.almere.nl
 floriade.almere.nl
 formulier-test.almere.nl
 formulieren.almere.nl
@@ -40,6 +44,8 @@ groenengezond.almere.nl
 growinggreencities.almere.nl
 hout.almere.nl
 hybrid.almere.nl
+iam-acc.almere.nl
+iam.almere.nl
 ikbouwmijnhuisin.almere.nl
 ikonderneemin.almere.nl
 ikzoekeenhuis.almere.nl
@@ -56,6 +62,7 @@ lerenloont.almere.nl
 link.pr.almere.nl
 maps.almere.nl
 melddesk.almere.nl
+meldingen-acc.almere.nl
 meldingen.almere.nl
 mijn.almere.nl
 mijnict.almere.nl
@@ -76,6 +83,8 @@ preprod-mijninkomen.almere.nl
 pv.diensten.almere.nl
 regio.almere.nl
 relatie-scheiding.almere.nl
+secure-test.almere.nl
+secure.almere.nl
 smap.almere.nl
 snelbalie.almere.nl
 snelbalietest.almere.nl

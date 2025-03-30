@@ -1,16 +1,20 @@
+http://ami.amsterdam.nl
 http://autodiscover.amsterdam.nl
+http://bi-sociaal.fa.amsterdam.nl
 http://dmb.amsterdam.nl
 http://docgen-acc.amsterdam.nl
 http://docgen-tst.amsterdam.nl
 http://docgen.amsterdam.nl
 http://mail.amsterdam.nl
-http://mijnsbl-test.amsterdam.nl
 http://parkeervergunningen.amsterdam.nl
+http://scanhulp.amsterdam.nl
 http://subsites.amsterdam.nl
 http://woz.amsterdam.nl
+http://www.acutehulp.gezond.amsterdam.nl
 http://www.bba.amsterdam.nl
 http://www.binnenwaterbeheer.amsterdam.nl
 http://www.bolwerken.amsterdam.nl
+http://www.gezond.amsterdam.nl
 http://www.nieuwwest.amsterdam.nl
 http://www.pmb.amsterdam.nl
 http://www.raad.amsterdam.nl
@@ -72,7 +76,6 @@ https://alfresco.acc.amsterdam.nl
 https://alfresco.amsterdam.nl
 https://ami-acc.amsterdam.nl
 https://ami-tst.amsterdam.nl
-https://ami.amsterdam.nl
 https://amsterdam.nl
 https://amsterdaminbeeld.acc.amsterdam.nl
 https://amsterdamsebos.acc.meldingen.amsterdam.nl
@@ -122,6 +125,7 @@ https://arena.ami-acc.amsterdam.nl
 https://arena.ami-dev.amsterdam.nl
 https://arena.ami-tac.amsterdam.nl
 https://arena.ami-tst.amsterdam.nl
+https://assets.amsterdam.nl
 https://autodiscover.ggd.amsterdam.nl
 https://awm.amsterdam.nl
 https://beheer.acc.amsterdam.nl
@@ -136,7 +140,6 @@ https://betalen.amsterdam.nl
 https://betalingen.amsterdam.nl
 https://bi-sociaal.acc.amsterdam.nl
 https://bi-sociaal.amsterdam.nl
-https://bi-sociaal.fa.amsterdam.nl
 https://bi-sociaal.fo.amsterdam.nl
 https://bi-sociaal.ft.amsterdam.nl
 https://bikecity.amsterdam.nl
@@ -146,7 +149,6 @@ https://bounces-eps.amsterdam.nl
 https://bouwdossiers.amsterdam.nl
 https://bp.data.amsterdam.nl
 https://brediusbad.amsterdam.nl
-https://burgerzaken.amsterdam.nl
 https://buurtbudget.amsterdam.nl
 https://buurtbudgetnoord.amsterdam.nl
 https://buurtbudgetzuid.amsterdam.nl
@@ -199,6 +201,7 @@ https://documentgenerator.amsterdam.nl
 https://docwerker.amsterdam.nl
 https://druktebeeld.amsterdam.nl
 https://dso.data.amsterdam.nl
+https://dup.rnd.amsterdam.nl
 https://dvi.afs.acc.amsterdam.nl
 https://dvi.afs.amsterdam.nl
 https://dwh-sociaal.acc.amsterdam.nl
@@ -305,6 +308,7 @@ https://indica-acc.amsterdam.nl
 https://intern.aanmeldenparkeren.amsterdam.nl
 https://intern.formulieren.acc.amsterdam.nl
 https://intern.formulieren.amsterdam.nl
+https://internemagazines.amsterdam.nl
 https://intranet.acc.amsterdam.nl
 https://intranet.amsterdam.nl
 https://intunecollector.amsterdam.nl
@@ -335,6 +339,7 @@ https://microservices.schoolwijzer.amsterdam.nl
 https://mijn.amsterdam.nl
 https://mijnbelastingen.amsterdam.nl
 https://mijnerfpacht.amsterdam.nl
+https://mijnsbl-test.amsterdam.nl
 https://mijnsbl.amsterdam.nl
 https://mijnsubsidies.acc.amsterdam.nl
 https://mijnsubsidies.amsterdam.nl
@@ -429,7 +434,6 @@ https://scan.afs.amsterdam.nl
 https://scanhulp-fa.amsterdam.nl
 https://scanhulp-ft.amsterdam.nl
 https://scanhulp.acc.amsterdam.nl
-https://scanhulp.amsterdam.nl
 https://scanhulp.tst.amsterdam.nl
 https://schemas.data.amsterdam.nl
 https://schoolwijzer.amsterdam.nl
@@ -462,6 +466,7 @@ https://staging.onderwijssubsidies.amsterdam.nl
 https://staging.schoolwijzer.amsterdam.nl
 https://statistiek.amsterdam.nl
 https://statistiek.data.amsterdam.nl
+https://stembureaus.amsterdam.nl
 https://stemmen.amsterdam.nl
 https://straatnotes.amsterdam.nl
 https://summit-ft.amsterdam.nl
@@ -539,6 +544,7 @@ https://www.victor.amsterdam.nl
 https://www.vvetest.amsterdam.nl
 https://www.weespbegroot.amsterdam.nl
 https://www.westbegroot.amsterdam.nl
+https://www1.amsterdam.nl
 https://yutpaworkshop.dev.rnd.amsterdam.nl
 https://yutpaworkshop.rnd.amsterdam.nl
 https://zec.acc.amsterdam.nl

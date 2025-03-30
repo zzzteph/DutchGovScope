@@ -59,6 +59,8 @@ gitdocumentatie.logius.nl
 gm-pre.mev.logius.nl
 gm.mev.logius.nl
 grafana.lpc.logius.nl
+harbor.az1.lpc.logius.nl
+harbor.az2.lpc.logius.nl
 iam-containerplatform-az1.lpc.logius.nl
 iam-containerplatform.logius.nl
 iam-containerplatform.lpc.logius.nl
@@ -74,6 +76,7 @@ mailing.logius.nl
 managedservices.logius.nl
 mijntokenactiveren.logius.nl
 msp-a.logius.nl
+nexus.lpc.logius.nl
 oinregister.logius.nl
 pmz-pre.logius.nl
 pmz.logius.nl

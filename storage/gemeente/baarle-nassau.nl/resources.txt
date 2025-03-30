@@ -1,5 +1,6 @@
 acceptatie.baarle-nassau.nl
 afspraken.baarle-nassau.nl
+baarle-nassau.nl
 berichten.baarle-nassau.nl
 digitaalnachtregister.baarle-nassau.nl
 gemeente.baarle-nassau.nl

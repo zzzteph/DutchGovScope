@@ -1,5 +1,6 @@
 http://autodiscover.barneveld.nl
 https://afspraak.barneveld.nl
+https://barneveld.nl
 https://belastingloket.barneveld.nl
 https://duurzaam.barneveld.nl
 https://edienstenburgerzaken-test.barneveld.nl

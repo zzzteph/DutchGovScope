@@ -11,7 +11,6 @@ http://channels-az2.lpc.logius.nl
 http://clienteleitsm-acceptatie.logius.nl
 http://clienteleitsm.logius.nl
 http://coronadashboard.rijksoverheid.nl
-http://demo-systemteam.overheid.nl
 http://demo1-systemteam.overheid.nl
 http://demo2-systemteam.overheid.nl
 http://designsystem.overheid.nl
@@ -19,13 +18,14 @@ http://dns-web10.rijksoverheid.nl
 http://dns-web300.rijksoverheid.nl
 http://docs.lpc.logius.nl
 http://dse.lx.overheid.nl
-http://financials.werkenvoornederland.nl
 http://git-az1.lpc.logius.nl
 http://git-az2.lpc.logius.nl
 http://git.lpc.logius.nl
 http://gm-pre.mev.logius.nl
 http://gm.mev.logius.nl
 http://grafana.lpc.logius.nl
+http://harbor.az1.lpc.logius.nl
+http://harbor.az2.lpc.logius.nl
 http://iam-containerplatform-az1.lpc.logius.nl
 http://ict-ers.werkenvoornederland.nl
 http://icters.werkenvoornederland.nl
@@ -34,6 +34,7 @@ http://juristen.werkenvoornederland.nl
 http://kec.officiele-overheidspublicaties.nl
 http://kibana-prod.lpc.logius.nl
 http://kibana.lpc.logius.nl
+http://nexus.lpc.logius.nl
 http://ondertekeningsviewer.overheid.nl
 http://preprod-machtigen.digipoort.logius.nl
 http://pwa001.belastingdienst.nl
@@ -81,6 +82,7 @@ https://api.standaarden.overheid.nl
 https://apis.developer.overheid.nl
 https://artifact-rd1.toegang.overheid.nl
 https://autodiscover.koop.overheid.nl
+https://autodiscover.overheid.nl
 https://bag.basisregistraties.overheid.nl
 https://bag.test.basisregistraties.overheid.nl
 https://bag2.basisregistraties.overheid.nl
@@ -152,7 +154,6 @@ https://content.omgevingswet.overheid.nl
 https://contentbeheer.acc.omgevingswet.overheid.nl
 https://contentbeheer.omgevingswet.overheid.nl
 https://contentbeheer.tst.omgevingswet.overheid.nl
-https://cpapps.belastingdienst.nl
 https://csoacct.werkenvoornederland.nl
 https://csotest.werkenvoornederland.nl
 https://cultureel-erfgoed.omgevingswet.overheid.nl
@@ -162,7 +163,7 @@ https://data.overheid.nl
 https://datumprikker.belastingdienst.nl
 https://decentrale.regelgeving.overheid.nl
 https://delta.belastingdienst.nl
-https://demo.mijn.overheid.nl
+https://demo-systemteam.overheid.nl
 https://developer.omgevingswet.overheid.nl
 https://developer.overheid.nl
 https://digid-stub.lpc.mijn.overheid.nl
@@ -206,6 +207,7 @@ https://feeds.persberichten.rijksoverheid.nl
 https://feeds.rcgog.nl
 https://feeds.rijksoverheid.nl
 https://fibb1.belastingdienst.nl
+https://fibd1.belastingdienst.nl
 https://fibe1.belastingdienst.nl
 https://fibi1.belastingdienst.nl
 https://fibt1.toeslagen.nl
@@ -218,7 +220,6 @@ https://formulier.werkenvoornederland.nl
 https://fsvportaal.belastingdienst.nl
 https://gdlo.belastingdienst.nl
 https://gegevensbijbesluiten.overheid.nl
-https://gegevensdelen.mijn.overheid.nl
 https://gegevensdelen.preprod.mijn.overheid.nl
 https://gegevensportaal.belastingdienst.nl
 https://gegevensuitwisseling.belastingdienst.nl
@@ -286,6 +287,7 @@ https://magazinesintern.rijksoverheid.nl
 https://mail.koop.overheid.nl
 https://mailing.logius.nl
 https://metelkaartrekkenwedegrens.nl
+https://mijn-aanvraag.belastingdienst.nl
 https://mijn-acc.igj.nl
 https://mijn.belastingdienst.nl
 https://mijn.igj.nl
@@ -298,8 +300,11 @@ https://mijnzakelijk.belastingdienst.nl
 https://mm.belastingdienst.nl
 https://mnd-preprd.overheid.nl
 https://mnd.overheid.nl
+https://monitoring-prod5.koop.overheid.nl
+https://monitoring-prod6.koop.overheid.nl
 https://monitoring-test5.koop.overheid.nl
 https://monitoring-test6.koop.overheid.nl
+https://msnp-tegemoetkoming.belastingdienst.nl
 https://mta-sts.belastingdienst.nl
 https://mul-mbc.belastingdienst.nl
 https://mul-mkt.belastingdienst.nl

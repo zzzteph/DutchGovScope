@@ -17,9 +17,12 @@ http://git.lpc.logius.nl
 http://gm-pre.mev.logius.nl
 http://gm.mev.logius.nl
 http://grafana.lpc.logius.nl
+http://harbor.az1.lpc.logius.nl
+http://harbor.az2.lpc.logius.nl
 http://iam-containerplatform-az1.lpc.logius.nl
 http://kibana-prod.lpc.logius.nl
 http://kibana.lpc.logius.nl
+http://nexus.lpc.logius.nl
 http://preprod-machtigen.digipoort.logius.nl
 http://sonarqube.lpc.logius.nl
 http://test-machtigen.digipoort.logius.nl

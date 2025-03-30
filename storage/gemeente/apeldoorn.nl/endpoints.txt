@@ -1,6 +1,5 @@
 http://test-topvorm.apeldoorn.nl
 http://www.stadspas.apeldoorn.nl
-https://afspraken.apeldoorn.nl
 https://agbi.apeldoorn.nl
 https://apeldoorn.nl
 https://api.meldingen-acc.apeldoorn.nl
@@ -18,6 +17,7 @@ https://dataportaal.apeldoorn.nl
 https://digitaleplannen.apeldoorn.nl
 https://e-loket.apeldoorn.nl
 https://energiepunt.apeldoorn.nl
+https://enterpriseenrollment.apeldoorn.nl
 https://enterpriseregistration.apeldoorn.nl
 https://financials-acc.apeldoorn.nl
 https://financials.apeldoorn.nl
@@ -26,7 +26,6 @@ https://gp.apeldoorn.nl
 https://gpa.apeldoorn.nl
 https://gpg.apeldoorn.nl
 https://gpt.apeldoorn.nl
-https://iburgerzaken.apeldoorn.nl
 https://intranet.apeldoorn.nl
 https://intranetacc.apeldoorn.nl
 https://kinderburgemeester.apeldoorn.nl
@@ -46,6 +45,8 @@ https://planon.apeldoorn.nl
 https://prijsvraag-zwembad.apeldoorn.nl
 https://proto.apeldoorn.nl
 https://riviewer.apeldoorn.nl
+https://smartdoc.apeldoorn.nl
+https://smartdocacc.apeldoorn.nl
 https://snelbalie.apeldoorn.nl
 https://snelbaliepp.apeldoorn.nl
 https://stadspark.apeldoorn.nl

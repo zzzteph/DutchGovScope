@@ -1,14 +1,16 @@
 http://autodiscover.beuningen.nl
+http://felix.beuningen.nl
 http://simcms-energiek.beuningen.nl
 http://simcms.beuningen.nl
 http://simform.beuningen.nl
 http://test-intranet.beuningen.nl
+http://www.beuningen.nl
 https://afspraken.beuningen.nl
+https://beuningen.nl
 https://cms-joost.beuningen.nl
 https://data-test.beuningen.nl
 https://data.beuningen.nl
 https://energiek.beuningen.nl
-https://felix.beuningen.nl
 https://iburgerzaken.beuningen.nl
 https://joost.beuningen.nl
 https://klantcontact.beuningen.nl

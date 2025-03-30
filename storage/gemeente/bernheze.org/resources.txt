@@ -10,6 +10,7 @@ digikoppeling.bernheze.org
 digikoppeling.test.bernheze.org
 digikoppelingtest.bernheze.org
 email.bernheze.org
+gymzaalhuren.bernheze.org
 iburgerzaken.bernheze.org
 ibzpink.bernheze.org
 intranet-cms.bernheze.org
