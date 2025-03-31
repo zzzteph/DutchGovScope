@@ -545,6 +545,7 @@ http://www.capelleaandenijssel.nl
 http://www.cranendonck.nl
 http://www.denkmee.hollandskroon.nl
 http://www.denkmee.nieuwkoop.nl
+http://www.denkmee.noord-beveland.nl
 http://www.denkmee.t-diel.nl
 http://www.deurne.nl
 http://www.doemee.leiden.nl
@@ -5552,6 +5553,7 @@ https://nlgembrl.brielle.nl
 https://nln.nunspeet.nl
 https://noardeast-fryslan.nl
 https://nogknapper.deventer.nl
+https://noord-beveland.nl
 https://noorderkwartier.zwolle.nl
 https://noorderparkbad.amsterdam.nl
 https://noordoostpolder.nl
