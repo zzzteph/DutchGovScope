@@ -6914,6 +6914,7 @@ ibzpink.kerkrade.nl
 ibzpink.koggenland.nl
 ibzpink.laarbeek.nl
 ibzpink.landsmeer.nl
+ibzpink.laren.nl
 ibzpink.lelystad.nl
 ibzpink.leudal.nl
 ibzpink.lingewaard.nl
