@@ -1049,6 +1049,7 @@ geovisiaonline
 belastingen-test
 clicksfm.nieuwsbrief
 test-meedoen
+ucconf01
 ucweb01-ext
 snelbalievergunningen
 vergaderingen
@@ -5139,7 +5140,6 @@ dashboard-iav
 marketingtools
 ucaccess01
 ucc01
-ucconf01
 www.marketingtools
 acc-afvalkalender
 grmks01
