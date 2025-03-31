@@ -349,7 +349,6 @@ http://mijn-preproductie.heerenveen.nl
 http://mijn-preproductie.ooststellingwerf.nl
 http://mijn-preproductie.weststellingwerf.nl
 http://mijn.doesburg.nl
-http://mijn.meierijstad.nl
 http://mijn.ooststellingwerf.nl
 http://mijn.opsterland.nl
 http://mijn.staphorst.nl
@@ -486,7 +485,6 @@ http://test-intranet.beuningen.nl
 http://test-intranet.etten-leur.nl
 http://test-intranet.groningen.nl
 http://test-intranet.heuvelrug.nl
-http://test-intranet.meierijstad.nl
 http://test-intranet.midden-groningen.nl
 http://test-intranet.venlo.nl
 http://test-intranet.wageningen.nl
@@ -7475,6 +7473,7 @@ https://test-intranet.edam-volendam.nl
 https://test-intranet.eemsdelta.nl
 https://test-intranet.gemeentestein.nl
 https://test-intranet.lansingerland.nl
+https://test-intranet.meierijstad.nl
 https://test-intranet.steenwijkerland.nl
 https://test-intranet.sudwestfryslan.nl
 https://test-intranet.velsen.nl
