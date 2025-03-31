@@ -1651,6 +1651,7 @@ https://begroting.venlo.nl
 https://begroting.zoeterwoude.nl
 https://begroting2016.kerkrade.nl
 https://begroting2018.hoorn.nl
+https://begroting2019.financien.gouda.nl
 https://begroting2020.pijnacker-nootdorp.nl
 https://begroting2023.rijssen-holten.nl
 https://beheer-test-trefpunt.deurne.nl

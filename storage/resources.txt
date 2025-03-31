@@ -2160,6 +2160,7 @@ begroting2016.kerkrade.nl
 begroting2017.groningen.nl
 begroting2018.groningen.nl
 begroting2018.hoorn.nl
+begroting2019.financien.gouda.nl
 begroting2019.groningen.nl
 begroting2020.groningen.nl
 begroting2020.pijnacker-nootdorp.nl

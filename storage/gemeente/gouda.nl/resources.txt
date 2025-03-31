@@ -1,6 +1,7 @@
 aauth.gouda.nl
 apps.gouda.nl
 autodiscover.gouda.nl
+begroting2019.financien.gouda.nl
 berichtenverkeer.gouda.nl
 databeheer.gouda.nl
 digikoppeling.test.gouda.nl
