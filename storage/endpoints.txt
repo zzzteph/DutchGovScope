@@ -464,7 +464,6 @@ http://simsite.beekdaelen.nl
 http://simsite.bergeijk.nl
 http://simsite.deurne.nl
 http://simsite.geertruidenberg.nl
-http://simsite.heumen.nl
 http://simsite.kerkrade.nl
 http://simsite.landgraaf.nl
 http://simsite.ooststellingwerf.nl
@@ -557,7 +556,6 @@ http://www.denkmee.t-diel.nl
 http://www.deurne.nl
 http://www.gezond.amsterdam.nl
 http://www.halderberge.nl
-http://www.heumen.nl
 http://www.internwifi.hellevoetsluis.nl
 http://www.ld-01.hellevoetsluis.nl
 http://www.mijngkb.midden-groningen.nl
@@ -8573,6 +8571,7 @@ https://www.hellevoetsluis.nl
 https://www.helmond.nl
 https://www.hengelo.nl
 https://www.hethogeland.nl
+https://www.heumen.nl
 https://www.heusden.nl
 https://www.hildebrandplein.denhaag.nl
 https://www.hillegom.nl
