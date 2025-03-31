@@ -330,7 +330,6 @@ http://kaarten.gemeentewestland.nl
 http://kaarten.haarlemmermeer.nl
 http://kec.officiele-overheidspublicaties.nl
 http://kennisbank.nijmegen.nl
-http://kerkrade.nl
 http://kghtb-test.gemeente-steenbergen.nl
 http://kgzorgned-test.gemeente-steenbergen.nl
 http://kibana-prod.lpc.logius.nl
@@ -435,6 +434,7 @@ http://simcms-ontmoetingscentra.opmeer.nl
 http://simcms-open.beverwijk.nl
 http://simcms-open.geldrop-mierlo.nl
 http://simcms-open.leudal.nl
+http://simcms-preproductie.kerkrade.nl
 http://simcms-raad.zoetermeer.nl
 http://simcms-woo.doesburg.nl
 http://simcms.achtkarspelen.nl
@@ -463,7 +463,6 @@ http://simsite.beekdaelen.nl
 http://simsite.bergeijk.nl
 http://simsite.deurne.nl
 http://simsite.geertruidenberg.nl
-http://simsite.kerkrade.nl
 http://simsite.landgraaf.nl
 http://simsite.ooststellingwerf.nl
 http://simsite.renswoude.nl
@@ -557,6 +556,7 @@ http://www.gezond.amsterdam.nl
 http://www.halderberge.nl
 http://www.huursportzaal.kampen.nl
 http://www.internwifi.hellevoetsluis.nl
+http://www.kerkrade.nl
 http://www.ld-01.hellevoetsluis.nl
 http://www.mijngkb.midden-groningen.nl
 http://www.nieuwwest.amsterdam.nl
@@ -3057,6 +3057,7 @@ https://eformulier.heerlen.nl
 https://eformulieren-test.stichtsevecht.nl
 https://eformulieren.doetinchem.nl
 https://eformulieren.gemeentesluis.nl
+https://eformulieren.kerkrade.nl
 https://eformulieren.preprod.doetinchem.nl
 https://eformulieren.stichtsevecht.nl
 https://ehvsubsidie.eindhoven.nl
@@ -6952,7 +6953,6 @@ https://simcms-open.wierden.nl
 https://simcms-open.zoetermeer.nl
 https://simcms-open.zuidplas.nl
 https://simcms-preproductie.beekdaelen.nl
-https://simcms-preproductie.kerkrade.nl
 https://simcms-samenduurzaam.geldrop-mierlo.nl
 https://simcms-werkenbij.t-diel.nl
 https://simcms-werkenvoor.westerkwartier.nl
@@ -8625,7 +8625,6 @@ https://www.kaartlaag.rotterdam.nl
 https://www.kampen.nl
 https://www.kapelle.nl
 https://www.katwijk.nl
-https://www.kerkrade.nl
 https://www.koggenland.nl
 https://www.komverder.krimpenaandenijssel.nl
 https://www.kos.nijmegen.nl

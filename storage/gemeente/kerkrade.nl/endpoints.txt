@@ -1,8 +1,9 @@
-http://kerkrade.nl
-http://simsite.kerkrade.nl
+http://simcms-preproductie.kerkrade.nl
+http://www.kerkrade.nl
 https://adfs.kerkrade.nl
 https://begroting2016.kerkrade.nl
 https://de.kerkrade.nl
+https://eformulieren.kerkrade.nl
 https://en.kerkrade.nl
 https://felix.kerkrade.nl
 https://iburgerzaken.kerkrade.nl
@@ -11,6 +12,4 @@ https://jaarverslag2016.kerkrade.nl
 https://joep.kerkrade.nl
 https://klantcontact.kerkrade.nl
 https://ondernemersloket.kerkrade.nl
-https://simcms-preproductie.kerkrade.nl
 https://simcms.kerkrade.nl
-https://www.kerkrade.nl

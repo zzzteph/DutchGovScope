@@ -39,6 +39,7 @@ guest.kerkrade.nl
 handhaving.kerkrade.nl
 ibabs.kerkrade.nl
 iburgerzaken.kerkrade.nl
+ibzpink.kerkrade.nl
 inproces.acceptatie.kerkrade.nl
 inproces.kerkrade.nl
 inproces.test.kerkrade.nl

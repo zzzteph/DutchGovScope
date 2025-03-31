@@ -6227,6 +6227,7 @@ ibzpink.horstaandemaas.nl
 ibzpink.huizen.nl
 ibzpink.kampen.nl
 ibzpink.kapelle.nl
+ibzpink.kerkrade.nl
 ibzpink.laarbeek.nl
 ibzpink.landsmeer.nl
 ibzpink.lelystad.nl
