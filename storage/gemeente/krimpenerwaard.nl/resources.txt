@@ -33,5 +33,6 @@ thinclients.krimpenerwaard.nl
 tickets.krimpenerwaard.nl
 unjunk.krimpenerwaard.nl
 verkiezingen.krimpenerwaard.nl
+waardwijzer.krimpenerwaard.nl
 woo.krimpenerwaard.nl
 www.krimpenerwaard.nl

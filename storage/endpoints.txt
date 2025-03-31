@@ -289,7 +289,6 @@ http://geldzaken.loonopzand.nl
 http://gemeentebeek.nl
 http://geo.huizen.nl
 http://geo.roermond.nl
-http://geocortex.krimpenerwaard.nl
 http://geodata.dijkenwaard.nl
 http://geoportal.weert.nl
 http://git-az1.lpc.logius.nl
@@ -3706,6 +3705,7 @@ https://geo.vught.nl
 https://geo.wijkbijduurstede.nl
 https://geo.zeewolde.nl
 https://geobrowser.enschede.nl
+https://geocortex.krimpenerwaard.nl
 https://geocortex.middendrenthe.nl
 https://geodata-a.utrecht.nl
 https://geodata-acc.dijkenwaard.nl
@@ -4364,7 +4364,6 @@ https://intranet.heusden.nl
 https://intranet.heuvelrug.nl
 https://intranet.hoorn.nl
 https://intranet.kampen.nl
-https://intranet.krimpenerwaard.nl
 https://intranet.laarbeek.nl
 https://intranet.landgraaf.nl
 https://intranet.landvancuijk.nl
@@ -4421,7 +4420,6 @@ https://intranetcms.nissewaard.nl
 https://intranetcms.waalwijk.nl
 https://intranetdekompanjie.veendam.nl
 https://intranetprod.wageningen.nl
-https://intranettest.krimpenerwaard.nl
 https://intraweb.nederbetuwe.nl
 https://intro.roermond.nl
 https://introcms-acc.roermond.nl
@@ -6186,7 +6184,6 @@ https://pip-test.urk.nl
 https://pip.urk.nl
 https://pip.vlaardingen.nl
 https://piwik.ede.nl
-https://piwik.krimpenerwaard.nl
 https://pki.olst-wijhe.nl
 https://pki.rotterdam.nl
 https://pki.utrecht.nl
@@ -7946,6 +7943,7 @@ https://waadhoeke.nl
 https://waalre.nl
 https://waalsprong.acc.nijmegen.nl
 https://waalsprong.nijmegen.nl
+https://waardwijzer.krimpenerwaard.nl
 https://waarmerk.alphen-chaam.nl
 https://waarmerk.baarle-nassau.nl
 https://waarmerk.brielle.nl
