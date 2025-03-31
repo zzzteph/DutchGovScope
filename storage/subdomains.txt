@@ -134,6 +134,7 @@ mdm
 opendata
 smtp
 mobiel
+_autodiscover._tcp
 gisib
 web
 izaaksuite
@@ -152,7 +153,6 @@ cryptshare
 mta-sts
 mailing
 belastingportaal
-_autodiscover._tcp
 vdi
 email
 ftp
