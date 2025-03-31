@@ -267,6 +267,7 @@ http://gemeentebeek.nl
 http://geo.huizen.nl
 http://geo.roermond.nl
 http://geodata.dijkenwaard.nl
+http://geodev.nieuwegein.nl
 http://geoportal.weert.nl
 http://goeree-overflakkee.nl
 http://gplan.rheden.nl
@@ -275,6 +276,7 @@ http://helloid.sittard-geleen.nl
 http://heumen.nl
 http://historie.venlo.nl
 http://htb-test.gemeente-steenbergen.nl
+http://huisnettest.nieuwegein.nl
 http://huizen.nl
 http://hybrid.dalfsen.nl
 http://hybrid.kampen.nl
@@ -3726,7 +3728,6 @@ https://huishoudboekje.amersfoort.nl
 https://huishoudboekje.utrecht.nl
 https://huisnet.nederweert.nl
 https://huisnet.nieuwegein.nl
-https://huisnettest.nieuwegein.nl
 https://huisstijl.moerdijk.nl
 https://huisstijl.tilburg.nl
 https://huisstijl.utrecht.nl

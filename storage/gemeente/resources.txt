@@ -5394,6 +5394,7 @@ geodata.utrecht.nl
 geodata.voorst.nl
 geodata.zutphen.nl
 geodb.vught.nl
+geodev.nieuwegein.nl
 geografie.bronckhorst.nl
 geohr.assen.nl
 geoinformatie.dongen.nl
