@@ -8,8 +8,8 @@ edienstenburgerzaken-test
 intranet
 mijn
 webmail
-simsite
 mail
+simsite
 afspraken
 digikoppeling
 preproductie
@@ -21,8 +21,8 @@ probeer
 loket
 formulieren
 test
-werkplek
 eloket
+werkplek
 dkd
 acc
 portal
@@ -61,14 +61,14 @@ cmsoo
 loket.acceptatie
 remote
 openpub
-enterpriseregistration
 omgevingsvisie
+enterpriseregistration
 cloudadapter-test
 osb
 digikoppeling-test
 login
-zaken
 flowmailer-tracking
+zaken
 kaart
 beeldbank
 formulier
@@ -84,17 +84,17 @@ test-intranet
 dtestloket
 govroam
 denkmee
+parkeren-test
 piwik
 acc-broker
 belastingloket
 connect
+doemee
 portaal
-parkeren-test
 extranet
 financien
 klantcontact
 test-cmsintranet
-doemee
 pki
 osbacc
 siam
@@ -130,6 +130,7 @@ woningbouwkaart
 contentbeheer
 micollab
 mdm
+opendata
 smtp
 mobiel
 gisib
@@ -148,7 +149,6 @@ sts
 connect.acceptatie
 jaarstukken
 cryptshare
-opendata
 mta-sts
 mailing
 belastingportaal
@@ -433,6 +433,7 @@ wij
 tim
 csc
 mbg1
+elokettest
 wozloket
 jcccloud
 belastingportaal-test
@@ -476,6 +477,7 @@ neuron
 authenticatie
 sso
 www.werkplek
+gemeentebestuur
 lyncweb
 servicegateway
 geoweb
@@ -519,6 +521,7 @@ edienstenmijninkomen
 edienstverlening-preprod
 edienstverlening
 aanvragen
+autorisatie
 ldap
 pub
 subsidieloket
@@ -534,6 +537,7 @@ crl
 applicaties
 belastingbalie-acc
 belastingbalie.acc
+bouwdossiers
 centrum
 dataportaal
 edison-acc
@@ -581,7 +585,6 @@ simcms-duurzaam
 admin.doemee
 api.doemee
 auth.doemee
-elokettest
 img.doemee
 wmo
 testformulieren
@@ -668,7 +671,6 @@ handhavingtest
 open-formulieren
 validsign
 xentialtest
-gemeentebestuur
 www.mdm
 autodiscover.cda
 autodiscover.groenlinks
@@ -773,7 +775,6 @@ repository
 verkeersbesluiten
 edienstenburgerzaken.test
 www.praatmee
-autorisatie
 av
 datalab
 gen1
@@ -827,7 +828,6 @@ assets
 autodiscover.ggd
 berichtverkeer
 bi
-bouwdossiers
 burgerzaken
 buurtbudget
 docgen
@@ -924,9 +924,11 @@ acc-openwave
 corona
 key2financien-prod
 key2financien-test
+autorisatietest
 begraafplaatsen
 demo.doemee
 ondernemers
+zonneparking.doemee
 oud
 gms
 typo3
@@ -1102,6 +1104,7 @@ tbt
 testtsjinstbus
 tsjinstbus
 hulpwijzer
+begraafplaats
 subsidies-backend-test
 subsidies-test
 bzg1
@@ -4188,7 +4191,6 @@ test-cmsbink
 NLGEMBRC
 nlgembrc
 Autorisatietest
-autorisatietest
 bekslaan-leidsevaartweg.doemee
 deelscooters.doemee
 gbkz-mks
@@ -4197,7 +4199,6 @@ oldenhove.doemee
 omgevingsvisie.doemee
 tradities.doemee
 www.nieuwauthentiekbloemendaal.doemee
-zonneparking.doemee
 mail01
 o1.ptr1802
 phpmyadmin
@@ -5658,6 +5659,13 @@ eikenhof
 klanten
 uitkeringprod
 uitkeringtest
+bouwtekeningen
+grootklooster.doemee
+jf.doemee
+johanwagenaarlaan-cesarfrancklaan-old.doemee
+johanwagenaarlaan-cesarfrancklaan.doemee
+plein1
+tradities
 samenwerkenaan
 zorgvraag
 edienstensociaaldomein
@@ -7510,7 +7518,6 @@ www.dataportaal
 www.gezond-en-gelukkig
 www.werkplekspel
 automator2
-begraafplaats
 crdp
 iarchieftest
 svrapps
