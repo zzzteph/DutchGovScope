@@ -429,7 +429,6 @@ http://secure.valkenburg.nl
 http://sem.kampen.nl
 http://sharepoint-ext-conf.belastingdienst.nl
 http://sharepoint-ext.belastingdienst.nl
-http://simcms-centrum.heerlen.nl
 http://simcms-centrumimpuls.geldrop-mierlo.nl
 http://simcms-energiek.beuningen.nl
 http://simcms-gemeenteraad.vlissingen.nl
@@ -449,6 +448,7 @@ http://simcms.bunschoten.nl
 http://simcms.capelleaandenijssel.nl
 http://simcms.doetinchem.nl
 http://simcms.eersel.nl
+http://simcms.heerlen.nl
 http://simcms.koggenland.nl
 http://simcms.maassluis.nl
 http://simcms.nederweert.nl
@@ -460,7 +460,6 @@ http://simform-preproductie.voorschoten.nl
 http://simform-preproductie.wassenaar.nl
 http://simform.beuningen.nl
 http://simform.gemeentehw.nl
-http://simform.heerlen.nl
 http://simsite.beekdaelen.nl
 http://simsite.bergeijk.nl
 http://simsite.deurne.nl
@@ -558,7 +557,6 @@ http://www.denkmee.t-diel.nl
 http://www.deurne.nl
 http://www.gezond.amsterdam.nl
 http://www.halderberge.nl
-http://www.heerlen.nl
 http://www.heumen.nl
 http://www.internwifi.hellevoetsluis.nl
 http://www.ld-01.hellevoetsluis.nl
@@ -6946,7 +6944,6 @@ https://simcms-open.zuidplas.nl
 https://simcms-preproductie.beekdaelen.nl
 https://simcms-preproductie.kerkrade.nl
 https://simcms-samenduurzaam.geldrop-mierlo.nl
-https://simcms-samenindebuurt.heerlen.nl
 https://simcms-werkenbij.t-diel.nl
 https://simcms-werkenvoor.westerkwartier.nl
 https://simcms-wonen.westerkwartier.nl
@@ -6963,7 +6960,6 @@ https://simcms.geldrop-mierlo.nl
 https://simcms.gemeentebeek.nl
 https://simcms.gemeentemaasgouw.nl
 https://simcms.goeree-overflakkee.nl
-https://simcms.heerlen.nl
 https://simcms.heuvelrug.nl
 https://simcms.huizen.nl
 https://simcms.intranet.lopik.nl
@@ -6996,6 +6992,7 @@ https://simform-preproductie.achtkarspelen.nl
 https://simform-preproductie.gemeentehw.nl
 https://simform-test.rijswijk.nl
 https://simform.heerenveen.nl
+https://simform.heerlen.nl
 https://simform.houten.nl
 https://simform.rijswijk.nl
 https://simform.t-diel.nl
@@ -8565,6 +8562,7 @@ https://www.heemskerk.nl
 https://www.heemstede.nl
 https://www.heerde.nl
 https://www.heerenveen.nl
+https://www.heerlen.nl
 https://www.heeze-leende.nl
 https://www.heiloo.nl
 https://www.heitje.heerlen.nl
