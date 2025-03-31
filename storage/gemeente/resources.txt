@@ -7176,6 +7176,7 @@ klimaatplein.uitgeest.nl
 klooster.nieuwegein.nl
 kluis.hethogeland.nl
 kmdn.gemeentehulst.nl
+knaal.helmond.nl
 knowledgebase.sittard-geleen.nl
 knp.breda.nl
 kodision-prod.sudwestfryslan.nl
@@ -7747,6 +7748,7 @@ mailing.oss.nl
 mailings.deventer.nl
 mailings.wijdemeren.nl
 mailptr.vught.nl
+mailrelay.helmond.nl
 mailsig.lansingerland.nl
 mailvan.winterswijk.nl
 maisflexis.heusden.nl

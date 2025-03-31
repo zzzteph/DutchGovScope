@@ -22,7 +22,9 @@ iburgerzaken.helmond.nl
 ibzpink.helmond.nl
 jongerenparlement.helmond.nl
 kaarten.helmond.nl
+knaal.helmond.nl
 mail.helmond.nl
+mailrelay.helmond.nl
 meldingen-acc.helmond.nl
 meldingen.helmond.nl
 mijn.helmond.nl
