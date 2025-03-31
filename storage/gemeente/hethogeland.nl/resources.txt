@@ -4,6 +4,7 @@ extranet.hethogeland.nl
 formulier-test.hethogeland.nl
 formulier.hethogeland.nl
 formulieren.hethogeland.nl
+hethogeland.nl
 iburgerzaken.hethogeland.nl
 ibzpink.hethogeland.nl
 jzd-test.hethogeland.nl
