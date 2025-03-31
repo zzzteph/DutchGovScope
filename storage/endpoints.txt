@@ -366,6 +366,7 @@ http://mt-link.stichtsevecht.nl
 http://nexus.lpc.logius.nl
 http://nhr-prod.gemeente-steenbergen.nl
 http://nhr-test.gemeente-steenbergen.nl
+http://nieuwkoop.nl
 http://ondertekeningsviewer.overheid.nl
 http://open.doetinchem.nl
 http://open.gemeentebeek.nl
@@ -540,6 +541,7 @@ http://www.bolwerken.amsterdam.nl
 http://www.capelleaandenijssel.nl
 http://www.cranendonck.nl
 http://www.denkmee.hollandskroon.nl
+http://www.denkmee.nieuwkoop.nl
 http://www.denkmee.t-diel.nl
 http://www.deurne.nl
 http://www.doemee.leiden.nl
@@ -552,6 +554,7 @@ http://www.landgraaf.nl
 http://www.ld-01.hellevoetsluis.nl
 http://www.mijngkb.midden-groningen.nl
 http://www.mookenmiddelaar.nl
+http://www.nieuwkoop.nl
 http://www.nieuwwest.amsterdam.nl
 http://www.nijkerk.eu
 http://www.ondernemersportaal.denhaag.nl
@@ -3191,6 +3194,7 @@ https://enterpriseenrollment.lochem.nl
 https://enterpriseenrollment.meierijstad.nl
 https://enterpriseenrollment.moerdijk.nl
 https://enterpriseenrollment.nederweert.nl
+https://enterpriseenrollment.nieuwkoop.nl
 https://enterpriseenrollment.noardeast-fryslan.nl
 https://enterpriseenrollment.opsterland.nl
 https://enterpriseenrollment.oss.nl
@@ -3220,6 +3224,7 @@ https://enterpriseregistration.lochem.nl
 https://enterpriseregistration.moerdijk.nl
 https://enterpriseregistration.montferland.info
 https://enterpriseregistration.nederweert.nl
+https://enterpriseregistration.nieuwkoop.nl
 https://enterpriseregistration.opsterland.nl
 https://enterpriseregistration.peelenmaas.nl
 https://enterpriseregistration.renkum.nl
@@ -5459,6 +5464,7 @@ https://mpivoorjaar.haarlemmermeer.nl
 https://msm.almelo.nl
 https://msnp-tegemoetkoming.belastingdienst.nl
 https://msoid.arnhem.nl
+https://msoid.nieuwkoop.nl
 https://msoid.tilburg.nl
 https://mstat.meerssen.nl
 https://mta-sts.belastingdienst.nl
@@ -8702,7 +8708,6 @@ https://www.ndbu.utrecht.nl
 https://www.nederbetuwe.nl
 https://www.nieuwauthentiekbloemendaal.doemee.bloemendaal.nl
 https://www.nieuwegein.nl
-https://www.nieuwkoop.nl
 https://www.nieuwsbrief.enschede.nl
 https://www.nieuwsbrievenminocw.nl
 https://www.nijmegen.nl

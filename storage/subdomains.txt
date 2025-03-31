@@ -58,11 +58,11 @@ meldingen-acc
 openpdc
 belastingbalie
 cmsoo
+enterpriseregistration
 loket.acceptatie
 remote
 openpub
 omgevingsvisie
-enterpriseregistration
 osb
 cloudadapter-test
 digikoppeling-test
@@ -558,6 +558,7 @@ digitaleplannen
 smartdoc
 stadspas
 digid
+msoid
 bedrijfsafval
 test-keycloak
 test-openklant
@@ -697,6 +698,7 @@ mobiliteitsplan
 website.acceptatie
 rds
 wijkteam
+www.denkmee
 open-formulieren-test
 preprod-belastingen
 bekendmakingen
@@ -874,7 +876,6 @@ tijdschrijven
 www.stadspas
 digikoppelingtst
 leerplein
-msoid
 old
 testdigid
 wob
@@ -1137,7 +1138,6 @@ jip
 keyhub
 test-jip
 communicatie
-www.denkmee
 www.meedoen
 organisatie
 test-kaartviewer

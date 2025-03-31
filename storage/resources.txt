@@ -4989,6 +4989,7 @@ enterpriseenrollment.lochem.nl
 enterpriseenrollment.meierijstad.nl
 enterpriseenrollment.moerdijk.nl
 enterpriseenrollment.nederweert.nl
+enterpriseenrollment.nieuwkoop.nl
 enterpriseenrollment.noardeast-fryslan.nl
 enterpriseenrollment.opsterland.nl
 enterpriseenrollment.oss.nl
@@ -5020,6 +5021,7 @@ enterpriseregistration.lochem.nl
 enterpriseregistration.moerdijk.nl
 enterpriseregistration.montferland.info
 enterpriseregistration.nederweert.nl
+enterpriseregistration.nieuwkoop.nl
 enterpriseregistration.opsterland.nl
 enterpriseregistration.pc.belastingdienst.nl
 enterpriseregistration.peelenmaas.nl
@@ -8485,6 +8487,7 @@ mail.losser.nl
 mail.mailing.haaksbergen.nl
 mail.middendelfland.nl
 mail.nederweert.nl
+mail.nieuwkoop.nl
 mail.noord.amsterdam.nl
 mail.noordoostpolder.nl
 mail.oostgelre.nl
@@ -9488,6 +9491,7 @@ msm.almelo.nl
 msnp-tegemoetkoming.acc.belastingdienst.nl
 msnp-tegemoetkoming.belastingdienst.nl
 msoid.arnhem.nl
+msoid.nieuwkoop.nl
 msoid.tilburg.nl
 msp-a.logius.nl
 mstat.meerssen.nl
@@ -9662,6 +9666,7 @@ nieuwauthentiekbloemendaal.doemee.bloemendaal.nl
 nieuweburgemeester.deventer.nl
 nieuwegein.nl
 nieuwkomers.zaanstad.nl
+nieuwkoop.nl
 nieuws.breda.nl
 nieuws.hoorn.nl
 nieuws.landvancuijk.nl
@@ -15607,6 +15612,7 @@ www.denhaagfietst-acc.denhaag.nl
 www.denhaagfietst.denhaag.nl
 www.denhelder.nl
 www.denkmee.hollandskroon.nl
+www.denkmee.nieuwkoop.nl
 www.denkmee.t-diel.nl
 www.derondevenen.nl
 www.destemvan.groningen.nl
