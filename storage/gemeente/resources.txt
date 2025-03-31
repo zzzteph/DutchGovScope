@@ -8912,6 +8912,7 @@ oegstgeest.nl
 oekraine.zaanstad.nl
 oemojz.amsterdam.nl
 oens.almere.nl
+office.oso.s-hertogenbosch.nl
 office.westmaasenwaal.nl
 office365.haarlemmermeer.nl
 officewebapps.haarlemmermeer.nl
@@ -9347,7 +9348,6 @@ osbacc.woerden.nl
 osbtest.capelleaandenijssel.nl
 osbtest.roosendaal.nl
 osdorp.amsterdam.nl
-oso.s-hertogenbosch.nl
 ot.denhaag.nl
 ot1.tilburg.nl
 ota-kodision-cli.sudwestfryslan.nl

@@ -5801,8 +5801,8 @@ mijnzorg.accp
 mp1
 ntp1
 ntp2
+office.oso
 ois.accp
-oso
 overdrachtsdocument2022
 reflex
 servicegateway.accp

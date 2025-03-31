@@ -9881,6 +9881,7 @@ oegstgeest.nl
 oekraine.zaanstad.nl
 oemojz.amsterdam.nl
 oens.almere.nl
+office.oso.s-hertogenbosch.nl
 office.westmaasenwaal.nl
 office365.haarlemmermeer.nl
 officeonline-acc.belastingdienst.nl
@@ -10358,7 +10359,6 @@ osbacc.woerden.nl
 osbtest.capelleaandenijssel.nl
 osbtest.roosendaal.nl
 osdorp.amsterdam.nl
-oso.s-hertogenbosch.nl
 oss.developer.overheid.nl
 oswo-test.belastingdienst.nl
 oswo.belastingdienst.nl
