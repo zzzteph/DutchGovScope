@@ -450,7 +450,6 @@ http://simcms.bunschoten.nl
 http://simcms.capelleaandenijssel.nl
 http://simcms.doetinchem.nl
 http://simcms.eersel.nl
-http://simcms.harlingen.nl
 http://simcms.koggenland.nl
 http://simcms.maassluis.nl
 http://simcms.nederweert.nl
@@ -3320,6 +3319,7 @@ https://felix.capelleaandenijssel.nl
 https://felix.geldrop-mierlo.nl
 https://felix.gemeentebeek.nl
 https://felix.halderberge.nl
+https://felix.harlingen.nl
 https://felix.heerlen.nl
 https://felix.heeze-leende.nl
 https://felix.heuvelrug.nl
@@ -8537,7 +8537,6 @@ https://www.haarlemmermeer.nl
 https://www.hardenberg.nl
 https://www.harderwijk.nl
 https://www.hardinxveld-giessendam.nl
-https://www.harlingen.nl
 https://www.hattem.nl
 https://www.havenkwartieraanzet.denhaag.nl
 https://www.heemskerk.nl
