@@ -135,6 +135,7 @@ http://autodiscover.nieuwkoop.nl
 http://autodiscover.nijmegen.nl
 http://autodiscover.nijmegennu.nijmegen.nl
 http://autodiscover.nissewaard.nl
+http://autodiscover.noardeast-fryslan.nl
 http://autodiscover.noordoostpolder.nl
 http://autodiscover.oegstgeest.nl
 http://autodiscover.oldebroek.nl
