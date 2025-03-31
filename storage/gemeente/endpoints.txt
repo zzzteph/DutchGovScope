@@ -246,7 +246,6 @@ http://felix.beuningen.nl
 http://felix.cranendonck.nl
 http://felix.deurne.nl
 http://felix.koggenland.nl
-http://felix.middendelfland.nl
 http://felix.overbetuwe.nl
 http://felix.renswoude.nl
 http://felix.scherpenzeel.nl
@@ -391,6 +390,7 @@ http://simcms.heerlen.nl
 http://simcms.landgraaf.nl
 http://simcms.leudal.nl
 http://simcms.middelburg.nl
+http://simcms.middendelfland.nl
 http://simcms.nederweert.nl
 http://simcms.zoetermeer.nl
 http://simcms.zuidplas.nl
@@ -405,6 +405,7 @@ http://simsite.beekdaelen.nl
 http://simsite.bergeijk.nl
 http://simsite.deurne.nl
 http://simsite.geertruidenberg.nl
+http://simsite.middendelfland.nl
 http://simsite.ooststellingwerf.nl
 http://simsite.renswoude.nl
 http://simsite.reuseldemierden.nl
@@ -3124,6 +3125,7 @@ https://felix.landgraaf.nl
 https://felix.leudal.nl
 https://felix.lopik.nl
 https://felix.maassluis.nl
+https://felix.middendelfland.nl
 https://felix.mookenmiddelaar.nl
 https://felix.nederweert.nl
 https://felix.opmeer.nl
@@ -6537,7 +6539,6 @@ https://simcms.koggenland.nl
 https://simcms.lingewaard.nl
 https://simcms.lopik.nl
 https://simcms.maassluis.nl
-https://simcms.middendelfland.nl
 https://simcms.nieuwkoop.nl
 https://simcms.nuenen.nl
 https://simcms.oirschot.nl
@@ -6579,7 +6580,6 @@ https://simsite.heuvelrug.nl
 https://simsite.landgraaf.nl
 https://simsite.leudal.nl
 https://simsite.lopik.nl
-https://simsite.middendelfland.nl
 https://simsite.montferland.info
 https://simsite.nijkerk.eu
 https://simsite.opmeer.nl
@@ -8118,7 +8118,6 @@ https://www.meierijstad.nl
 https://www.meppel.nl
 https://www.merk.denhaag.nl
 https://www.midden-groningen.nl
-https://www.middendelfland.nl
 https://www.middendrenthe.nl
 https://www.mijn.arnhem.nl
 https://www.mijn.groningen.nl
