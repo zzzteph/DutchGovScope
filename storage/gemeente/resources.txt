@@ -6175,6 +6175,7 @@ ibzpink.gennep.nl
 ibzpink.gilzerijen.nl
 ibzpink.goes.nl
 ibzpink.goirle.nl
+ibzpink.gooisemeren.nl
 ibzpink.groningen.nl
 ibzpink.haaksbergen.nl
 ibzpink.hardenberg.nl
@@ -9003,7 +9004,6 @@ onderzoek.veenendaal.nl
 online-aanvraag-test.dalfsen.nl
 online-aanvraag.dalfsen.nl
 online.acc.nijmegen.nl
-online.gooisemeren.nl
 online.leiden.nl
 online.nijmegen.nl
 onlinedorpsgesprek.ermelo.nl
