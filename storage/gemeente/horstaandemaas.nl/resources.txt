@@ -18,6 +18,7 @@ preprod-belastingen.horstaandemaas.nl
 raster.horstaandemaas.nl
 sbc01.horstaandemaas.nl
 sera.horstaandemaas.nl
+sts.horstaandemaas.nl
 testeloket.horstaandemaas.nl
 www.horstaandemaas.nl
 zwembad.horstaandemaas.nl

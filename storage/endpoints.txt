@@ -344,6 +344,7 @@ http://m.leiden.nl
 http://maassluis.nl
 http://magazine.amersfoort.nl
 http://magazine.schagen.nl
+http://magazines.horstaandemaas.nl
 http://mail.achtkarspelen.nl
 http://mail.amsterdam.nl
 http://mail.kampen.nl
@@ -7290,6 +7291,7 @@ https://sts.delft.nl
 https://sts.dronten.nl
 https://sts.eijsden-margraten.nl
 https://sts.gemeentestein.nl
+https://sts.horstaandemaas.nl
 https://sts.koop.overheid.nl
 https://sts.lopik.nl
 https://sts.rotterdam.nl

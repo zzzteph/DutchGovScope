@@ -126,6 +126,7 @@ dali
 acc-formulier
 acc-podiumd-logs
 sip
+sts
 woningbouwkaart
 contentbeheer
 micollab
@@ -145,7 +146,6 @@ acc-mijn
 acc-notificaties
 acc-objecten
 acc-objecttypen
-sts
 connect.acceptatie
 jaarstukken
 cryptshare
