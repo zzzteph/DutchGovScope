@@ -7877,6 +7877,7 @@ medemblik.nl
 medewerkers.buren.nl
 medewerkers.defryskemarren.nl
 medewerkers.hellendoorn.nl
+medewerkers.meppel.nl
 medewerkers.oostgelre.nl
 medewerkersportaal.eemsdelta.nl
 medewerkersportal.zuidplas.nl
@@ -12802,6 +12803,7 @@ vdi.delft.nl
 vdi.deventer.nl
 vdi.hardenberg.nl
 vdi.landgraaf.nl
+vdi.meppel.nl
 vdi.rijswijk.nl
 vdi.rotterdam.nl
 vdi.schagen.nl

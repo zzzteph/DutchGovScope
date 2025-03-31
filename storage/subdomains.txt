@@ -141,6 +141,7 @@ izaaksuite
 subsidies
 preprod-mijninkomen
 snelbaliepp
+vdi
 api.betalen
 nieuwsbrief
 acc-mijn
@@ -153,7 +154,6 @@ cryptshare
 mta-sts
 mailing
 belastingportaal
-vdi
 email
 ftp
 openzaak
@@ -370,6 +370,7 @@ carel
 cognos
 key2datadistributie-test
 key2gbavtest
+medewerkers
 preprod-formulieren
 connect.test
 contentbeheer.test
@@ -445,7 +446,6 @@ djumaproxy
 logilink
 suite4burgerzaken-test
 sync
-medewerkers
 www.afspraak
 grooster
 ris

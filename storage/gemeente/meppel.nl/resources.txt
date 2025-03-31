@@ -17,6 +17,7 @@ flowmailer-tracking.meppel.nl
 hades62.meppel.nl
 intranet.meppel.nl
 intunevpn.meppel.nl
+medewerkers.meppel.nl
 meppel.nl
 mijn.meppel.nl
 onprem-smtp.meppel.nl
@@ -26,6 +27,7 @@ pv.meppel.nl
 speciaal.meppel.nl
 sportaccommodatieverhuur.meppel.nl
 testeloket.meppel.nl
+vdi.meppel.nl
 veiligdelen.meppel.nl
 wie.meppel.nl
 www.meppel.nl
