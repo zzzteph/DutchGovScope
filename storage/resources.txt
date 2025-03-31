@@ -8554,6 +8554,7 @@ mailptr.vught.nl
 mailrelay.helmond.nl
 mailrelay1.overheid.nl
 mailrelay2.overheid.nl
+mailscan.gemeentehulst.nl
 mailsig.lansingerland.nl
 mailvan.winterswijk.nl
 maisflexis.heusden.nl
