@@ -1,6 +1,4 @@
 http://autodiscover.lansingerland.nl
-http://test-cmsintranet.lansingerland.nl
-http://test-intranet.lansingerland.nl
 https://buitenoporde.lansingerland.nl
 https://clicks.nieuws.lansingerland.nl
 https://clicks.persberichten.lansingerland.nl
@@ -23,5 +21,7 @@ https://openpub.lansingerland.nl
 https://persberichten.lansingerland.nl
 https://preprod-mijnportaal.lansingerland.nl
 https://projecten.lansingerland.nl
+https://test-cmsintranet.lansingerland.nl
+https://test-intranet.lansingerland.nl
 https://www.lansingerland.nl
 https://zaaksysteem-accept.lansingerland.nl
