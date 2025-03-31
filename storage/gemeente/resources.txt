@@ -154,6 +154,7 @@ academie.nederbetuwe.nl
 academie.smallingerland.nl
 academie.weststellingwerf.nl
 acc-afvalkalender.goes.nl
+acc-beeldbank.leiden.nl
 acc-broker.assen.nl
 acc-broker.borger-odoorn.nl
 acc-broker.coevorden.nl
@@ -1918,6 +1919,7 @@ beeldbank.haarlemmermeer.nl
 beeldbank.hellendoorn.nl
 beeldbank.landvancuijk.nl
 beeldbank.leeuwarden.nl
+beeldbank.leiden.nl
 beeldbank.loonopzand.nl
 beeldbank.oegstgeest.nl
 beeldbank.putten.nl
@@ -12292,6 +12294,7 @@ test.eijsden-margraten.nl
 test.eindhoven.nl
 test.elburg.nl
 test.formulieren.almere.nl
+test.formulieren.leiden.nl
 test.geertruidenberg.nl
 test.gemeentebest.nl
 test.gemeentestein.nl
@@ -14017,6 +14020,7 @@ www.doemee.bloemendaal.nl
 www.doemee.denhaag.nl
 www.doemee.deventer.nl
 www.doemee.gemeentewestland.nl
+www.doemee.leiden.nl
 www.doemee.terneuzen.nl
 www.doemee.zwolle.nl
 www.doesburg.nl

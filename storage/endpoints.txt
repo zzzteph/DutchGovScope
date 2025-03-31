@@ -549,6 +549,7 @@ http://www.cranendonck.nl
 http://www.denkmee.hollandskroon.nl
 http://www.denkmee.t-diel.nl
 http://www.deurne.nl
+http://www.doemee.leiden.nl
 http://www.gezond.amsterdam.nl
 http://www.halderberge.nl
 http://www.huursportzaal.kampen.nl
@@ -651,6 +652,7 @@ https://academie.landgraaf.nl
 https://academie.nederbetuwe.nl
 https://academie.smallingerland.nl
 https://acc-afvalkalender.goes.nl
+https://acc-beeldbank.leiden.nl
 https://acc-broker.assen.nl
 https://acc-broker.borger-odoorn.nl
 https://acc-broker.coevorden.nl
@@ -1608,6 +1610,7 @@ https://beeldbank.haarlemmermeer.nl
 https://beeldbank.hellendoorn.nl
 https://beeldbank.landvancuijk.nl
 https://beeldbank.leeuwarden.nl
+https://beeldbank.leiden.nl
 https://beeldbank.loonopzand.nl
 https://beeldbank.oegstgeest.nl
 https://beeldbank.putten.nl
@@ -7516,6 +7519,7 @@ https://test.drimmelen.nl
 https://test.eijsden-margraten.nl
 https://test.elburg.nl
 https://test.formulieren.almere.nl
+https://test.formulieren.leiden.nl
 https://test.haarendossiers.oisterwijk.nl
 https://test.helmond.nl
 https://test.hoorn.nl

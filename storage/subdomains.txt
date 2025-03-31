@@ -68,9 +68,9 @@ cloudadapter-test
 digikoppeling-test
 login
 flowmailer-tracking
+beeldbank
 zaken
 kaart
-beeldbank
 formulier
 hybrid
 cloudadapter
@@ -263,6 +263,7 @@ localhost
 citrix
 support
 data-test
+www.doemee
 xential
 erfgoed
 key2gbav
@@ -309,7 +310,6 @@ intranetcms
 liquit
 radius
 digikoppelingtest
-www.doemee
 www.gemeenteraad
 acc.piwik
 dkdtest
@@ -804,6 +804,7 @@ link.pr
 panel
 regio
 sportencultuur
+test.formulieren
 centrumbegroot
 dex.meldingen
 digikoppeling-prod
@@ -2863,7 +2864,6 @@ svs-acc
 talentcenter
 talentcenter2
 test-kaart
-test.formulieren
 voorschool
 wachtwoordreset
 wifiguestportal
@@ -6203,6 +6203,7 @@ w-p-exc-0005
 w-p-exc-0006
 www.goedterechtin
 MiCollab
+acc-beeldbank
 acc.easyfunders
 acc.login.subsidie
 acc.subsidie
