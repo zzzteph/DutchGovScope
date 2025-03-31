@@ -5495,7 +5495,6 @@ https://open.krimpenerwaard.nl
 https://open.leudal.nl
 https://open.lisse.nl
 https://open.lochem.nl
-https://open.meerssen.nl
 https://open.middendrenthe.nl
 https://open.moerdijk.nl
 https://open.nijmegen.nl
