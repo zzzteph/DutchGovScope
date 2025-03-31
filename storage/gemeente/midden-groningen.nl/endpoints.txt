@@ -1,5 +1,4 @@
 http://autodiscover.midden-groningen.nl
-http://test-intranet.midden-groningen.nl
 http://www.mijngkb.midden-groningen.nl
 https://acc.midden-groningen.nl
 https://acceptatie.midden-groningen.nl
@@ -20,6 +19,7 @@ https://subsidieloket-backend.midden-groningen.nl
 https://subsidieloket-login-acc.midden-groningen.nl
 https://subsidieloket-login.midden-groningen.nl
 https://subsidieloket.midden-groningen.nl
+https://test-intranet.midden-groningen.nl
 https://testcms-intranet.midden-groningen.nl
 https://testeloket.midden-groningen.nl
 https://werkenbij.midden-groningen.nl
