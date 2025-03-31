@@ -264,7 +264,6 @@ http://flash.scherpenzeel.nl
 http://flowmailer-tracking.katwijk.nl
 http://form-gemeenteloket.gemeentemaastricht.nl
 http://formulieren-test.rijswijk.nl
-http://formulieren.heerenveen.nl
 http://formulieren.montferland.info
 http://formulieren.vlaardingen.nl
 http://ftp.lopik.nl
@@ -325,7 +324,6 @@ http://mijn-preproductie.heerenveen.nl
 http://mijn-preproductie.ooststellingwerf.nl
 http://mijn-preproductie.weststellingwerf.nl
 http://mijn.doesburg.nl
-http://mijn.heerenveen.nl
 http://mijn.houten.nl
 http://mijn.meierijstad.nl
 http://mijn.ooststellingwerf.nl
@@ -414,7 +412,6 @@ http://simform-preproductie.voorschoten.nl
 http://simform-preproductie.wassenaar.nl
 http://simform.beuningen.nl
 http://simform.gemeentehw.nl
-http://simform.heerenveen.nl
 http://simform.heerlen.nl
 http://simsite.beekdaelen.nl
 http://simsite.bergeijk.nl
@@ -6000,7 +5997,6 @@ https://preprod-mijnportaal.defryskemarren.nl
 https://preprod-mijnportaal.gouda.nl
 https://preprod-mijnportaal.lansingerland.nl
 https://preprod-mijnsociaaldomein.gemeentesluis.nl
-https://preprod-mijnsociaaldomein.heerenveen.nl
 https://preprod-mijnsociaaldomein.venlo.nl
 https://preprod-mijnsociaalplein.bergen-nh.nl
 https://preprod-mijnsociaalplein.castricum.nl
@@ -6060,6 +6056,7 @@ https://preproductie.gemeentebeek.nl
 https://preproductie.gemeentewesterveld.nl
 https://preproductie.gemeentewestland.nl
 https://preproductie.gorinchem.nl
+https://preproductie.heerenveen.nl
 https://preproductie.heeze-leende.nl
 https://preproductie.leudal.nl
 https://preproductie.pijnacker-nootdorp.nl
@@ -6555,6 +6552,7 @@ https://simcms.woensdrecht.nl
 https://simform-preproductie.achtkarspelen.nl
 https://simform-preproductie.gemeentehw.nl
 https://simform-test.rijswijk.nl
+https://simform.heerenveen.nl
 https://simform.houten.nl
 https://simform.rijswijk.nl
 https://simform.t-diel.nl
