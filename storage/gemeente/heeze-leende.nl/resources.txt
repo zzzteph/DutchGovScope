@@ -1,10 +1,12 @@
 WOZ-loket.heeze-leende.nl
+_autodiscover._tcp.heeze-leende.nl
 afspraken.heeze-leende.nl
 autodiscover.heeze-leende.nl
 berichten.heeze-leende.nl
 digikoppeling-test.heeze-leende.nl
 digikoppeling.heeze-leende.nl
 digitalebalie.heeze-leende.nl
+email.heeze-leende.nl
 extranet.heeze-leende.nl
 felix.heeze-leende.nl
 heeze-leende.nl

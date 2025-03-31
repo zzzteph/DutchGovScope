@@ -152,7 +152,9 @@ cryptshare
 mta-sts
 mailing
 belastingportaal
+_autodiscover._tcp
 vdi
+email
 ftp
 openzaak
 gis
@@ -174,11 +176,9 @@ AutoDiscover
 transfer
 evenementen
 fs
-_autodiscover._tcp
 college
 bis
 maps
-email
 legacy
 auth
 notificaties
