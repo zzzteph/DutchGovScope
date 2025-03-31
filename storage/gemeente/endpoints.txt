@@ -285,12 +285,10 @@ http://iam-acc.almere.nl
 http://id-subsidies-login.acceptatie.ede.nl
 http://insite.houten.nl
 http://internoss-test.oss.nl
-http://intranet-acc.landvancuijk.nl
 http://intranet-acc.waalwijk.nl
 http://intranet-prod.sudwestfryslan.nl
 http://intranet.leudal.nl
 http://intranet.lopik.nl
-http://intranetcms-acc.landvancuijk.nl
 http://inway-management.cg-intern.utrecht.nl
 http://inway.cg-intern.utrecht.nl
 http://kaarten.gemeentewestland.nl
@@ -4082,6 +4080,7 @@ https://intra.gooisemeren.nl
 https://intranet-acc.borne.nl
 https://intranet-acc.delft.nl
 https://intranet-acc.hoorn.nl
+https://intranet-acc.landvancuijk.nl
 https://intranet-acc.terneuzen.nl
 https://intranet-cms.bernheze.org
 https://intranet-ot.tilburg.nl
@@ -4111,7 +4110,6 @@ https://intranet.hoorn.nl
 https://intranet.kampen.nl
 https://intranet.laarbeek.nl
 https://intranet.landgraaf.nl
-https://intranet.landvancuijk.nl
 https://intranet.lansingerland.nl
 https://intranet.leiden.nl
 https://intranet.leusden.nl
@@ -4155,6 +4153,7 @@ https://intranet2.steenwijkerland.nl
 https://intranetacc.apeldoorn.nl
 https://intranetacc.weert.nl
 https://intranetcms-acc.bergendal.nl
+https://intranetcms-acc.landvancuijk.nl
 https://intranetcms-acc.waalwijk.nl
 https://intranetcms-test.nissewaard.nl
 https://intranetcms.bergendal.nl
@@ -5443,7 +5442,6 @@ https://onlineregelenstaging.alphenaandenrijn.nl
 https://onlineregelenstaging.kaagenbraassem.nl
 https://onlinestadsgesprek.harderwijk.nl
 https://ons.halderberge.nl
-https://ons.landvancuijk.nl
 https://ons.valkenswaard.nl
 https://onsovermorgen.zwolle.nl
 https://ont.api.amsterdam.nl
@@ -6363,7 +6361,6 @@ https://saaedepot-3.amsterdam.nl
 https://saaedepot-3.tst.amsterdam.nl
 https://saaedepot-storage.amsterdam.nl
 https://saaedepot-storage.tst.amsterdam.nl
-https://sambeek.landvancuijk.nl
 https://samen.beekdaelen.nl
 https://samen.dongen.nl
 https://samen.drechterland.nl
@@ -6720,7 +6717,6 @@ https://sportloket.landvancuijk.nl
 https://sportsupport.almere.nl
 https://sportverhuur.amsterdam.nl
 https://sportverhuur.emmen.nl
-https://spotler.mailing.landvancuijk.nl
 https://squit2020.acceptatie.winterswijk.nl
 https://squit2020.test.winterswijk.nl
 https://squit2020.winterswijk.nl
@@ -7386,7 +7382,6 @@ https://voorjaarsrapportage.haarlemmermeer.nl
 https://voorschool.almere.nl
 https://voorschoten.nl
 https://voorst.nl
-https://vortum-mullem.landvancuijk.nl
 https://vow.rotterdam.nl
 https://vpn-extern.gooisemeren.nl
 https://vpn.almere.nl

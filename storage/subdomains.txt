@@ -483,7 +483,6 @@ servicegateway
 geoweb
 pip
 testdigikoppeling
-ons
 acceptatie-intranet
 rxlaunch-signicat-preprod
 vthbroker
@@ -680,6 +679,7 @@ autodiscover.vvd
 gisservices
 portaltest
 www.kaarten
+ons
 sera
 preprod-mijnsociaaldomein
 autorisatiebeheer-test
@@ -6112,13 +6112,11 @@ plattegrond
 podcast
 rijkevoort
 rondleidingen
-sambeek
 shops
 sint-agatha
 sint-hubert
 sintanthonis
 sportloket
-spotler.mailing
 stevensbeek
 streaming
 techniek
@@ -6129,7 +6127,6 @@ velp
 vianen
 vierdaagse
 vierlingsbeek
-vortum-mullem
 wandelroutes
 wanroij
 webwinkel

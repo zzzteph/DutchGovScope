@@ -7370,7 +7370,6 @@ intranet.kampen.nl
 intranet.krimpenerwaard.nl
 intranet.laarbeek.nl
 intranet.landgraaf.nl
-intranet.landvancuijk.nl
 intranet.lansingerland.nl
 intranet.leiden.nl
 intranet.leudal.nl
@@ -10049,7 +10048,6 @@ onlineregelenstaging.kaagenbraassem.nl
 onlinestadsgesprek.harderwijk.nl
 onprem-smtp.meppel.nl
 ons.halderberge.nl
-ons.landvancuijk.nl
 ons.valkenswaard.nl
 ons.zwolle.nl
 onsovermorgen.zwolle.nl
@@ -11922,7 +11920,6 @@ sadp.acc.belastingdienst.nl
 sadp.belastingdienst.nl
 safenet.rijssen-holten.nl
 salto.heerlen.nl
-sambeek.landvancuijk.nl
 samen.beekdaelen.nl
 samen.dongen.nl
 samen.drechterland.nl
@@ -12866,7 +12863,6 @@ sportparken.datapunt.amsterdam.nl
 sportsupport.almere.nl
 sportverhuur.amsterdam.nl
 sportverhuur.emmen.nl
-spotler.mailing.landvancuijk.nl
 spyke-stw.alkmaar.nl
 squit2020.acceptatie.drechterland.nl
 squit2020.acceptatie.gemeentebeek.nl
@@ -14450,7 +14446,6 @@ voorraad.top.amsterdam.nl
 voorschool.almere.nl
 voorschoten.nl
 voorst.nl
-vortum-mullem.landvancuijk.nl
 vow.rotterdam.nl
 vp.denhaag.nl
 vpg-aag-test.belastingdienst.nl

@@ -1,5 +1,3 @@
-http://intranet-acc.landvancuijk.nl
-http://intranetcms-acc.landvancuijk.nl
 https://access.landvancuijk.nl
 https://actief.landvancuijk.nl
 https://adverteren.landvancuijk.nl
@@ -38,7 +36,8 @@ https://grave.landvancuijk.nl
 https://groeningen.landvancuijk.nl
 https://haps.landvancuijk.nl
 https://holthees.landvancuijk.nl
-https://intranet.landvancuijk.nl
+https://intranet-acc.landvancuijk.nl
+https://intranetcms-acc.landvancuijk.nl
 https://intranetcms.landvancuijk.nl
 https://katwijk.landvancuijk.nl
 https://kavels.landvancuijk.nl
@@ -60,7 +59,6 @@ https://nieuws.landvancuijk.nl
 https://oeffelt.landvancuijk.nl
 https://old.landvancuijk.nl
 https://ondernemen.landvancuijk.nl
-https://ons.landvancuijk.nl
 https://ontmoetingskaart.landvancuijk.nl
 https://oorlogenvrede.landvancuijk.nl
 https://oploo.landvancuijk.nl
@@ -70,14 +68,12 @@ https://podcast.landvancuijk.nl
 https://regio.landvancuijk.nl
 https://rijkevoort.landvancuijk.nl
 https://rondleidingen.landvancuijk.nl
-https://sambeek.landvancuijk.nl
 https://shops.landvancuijk.nl
 https://sint-agatha.landvancuijk.nl
 https://sint-hubert.landvancuijk.nl
 https://sintanthonis.landvancuijk.nl
 https://sport.landvancuijk.nl
 https://sportloket.landvancuijk.nl
-https://spotler.mailing.landvancuijk.nl
 https://status.landvancuijk.nl
 https://stevensbeek.landvancuijk.nl
 https://streaming.landvancuijk.nl
@@ -93,7 +89,6 @@ https://vianen.landvancuijk.nl
 https://video.landvancuijk.nl
 https://vierdaagse.landvancuijk.nl
 https://vierlingsbeek.landvancuijk.nl
-https://vortum-mullem.landvancuijk.nl
 https://wandelroutes.landvancuijk.nl
 https://wanroij.landvancuijk.nl
 https://website.landvancuijk.nl
