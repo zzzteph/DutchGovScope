@@ -511,6 +511,7 @@ http://www.mijngkb.midden-groningen.nl
 http://www.nieuwwest.amsterdam.nl
 http://www.nijkerk.eu
 http://www.ondernemersportaal.denhaag.nl
+http://www.onlinestadsgesprek.harderwijk.nl
 http://www.pmb.amsterdam.nl
 http://www.praatmee.borsele.nl
 http://www.raad.amsterdam.nl
@@ -1030,6 +1031,7 @@ https://afspraken.gemeente-oldambt.nl
 https://afspraken.gemeente-steenbergen.nl
 https://afspraken.goes.nl
 https://afspraken.goirle.nl
+https://afspraken.harderwijk.nl
 https://afspraken.heeze-leende.nl
 https://afspraken.hellevoetsluis.nl
 https://afspraken.huizen.nl
@@ -3448,6 +3450,7 @@ https://geo.doetinchem.nl
 https://geo.ermelo.nl
 https://geo.gemeente-oldambt.nl
 https://geo.gemeentestein.nl
+https://geo.harderwijk.nl
 https://geo.heerenveen.nl
 https://geo.hilversum.nl
 https://geo.horstaandemaas.nl

@@ -961,6 +961,7 @@ afspraken.goirle.nl
 afspraken.groningen.nl
 afspraken.gulpen-wittem.nl
 afspraken.haaksbergen.nl
+afspraken.harderwijk.nl
 afspraken.heeze-leende.nl
 afspraken.hellevoetsluis.nl
 afspraken.huizen.nl
@@ -5912,6 +5913,7 @@ geo.ermelo.nl
 geo.gemeente-oldambt.nl
 geo.gemeentestein.nl
 geo.hardenberg.nl
+geo.harderwijk.nl
 geo.heerenveen.nl
 geo.hilversum.nl
 geo.horstaandemaas.nl
@@ -16025,6 +16027,7 @@ www.ondersteuning.olst-wijhe.nl
 www.onderwijssubsidies.amsterdam.nl
 www.onderzoek.amsterdam.nl
 www.onderzoek.groningen.nl
+www.onlinestadsgesprek.harderwijk.nl
 www.onsovermorgen.zwolle.nl
 www.ontwikkelstrategie.amsterdam.nl
 www.onzestad.nijmegen.nl
