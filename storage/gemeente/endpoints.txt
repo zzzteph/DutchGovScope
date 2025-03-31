@@ -330,6 +330,7 @@ http://mt-link.stichtsevecht.nl
 http://nhr-prod.gemeente-steenbergen.nl
 http://nhr-test.gemeente-steenbergen.nl
 http://nieuwkoop.nl
+http://nijkerk.eu
 http://open.doetinchem.nl
 http://open.gemeentebeek.nl
 http://opmeer.nl
@@ -498,7 +499,6 @@ http://www.mijngkb.midden-groningen.nl
 http://www.mookenmiddelaar.nl
 http://www.nieuwkoop.nl
 http://www.nieuwwest.amsterdam.nl
-http://www.nijkerk.eu
 http://www.ondernemersportaal.denhaag.nl
 http://www.onlinestadsgesprek.harderwijk.nl
 http://www.pmb.amsterdam.nl
@@ -3135,6 +3135,7 @@ https://felix.lopik.nl
 https://felix.maassluis.nl
 https://felix.middendelfland.nl
 https://felix.mookenmiddelaar.nl
+https://felix.nijkerk.eu
 https://felix.opmeer.nl
 https://felix.opsterland.nl
 https://felix.reuseldemierden.nl
@@ -6455,6 +6456,7 @@ https://secure.veendam.nl
 https://secure1.weert.nl
 https://secure1ev.weert.nl
 https://secure1t.weert.nl
+https://securenetwork.nijkerk.eu
 https://securetest.roermond.nl
 https://seg.leudal.nl
 https://selfservice.ggd.amsterdam.nl
@@ -6551,6 +6553,7 @@ https://simcms.lopik.nl
 https://simcms.maassluis.nl
 https://simcms.nederweert.nl
 https://simcms.nieuwkoop.nl
+https://simcms.nijkerk.eu
 https://simcms.nuenen.nl
 https://simcms.oirschot.nl
 https://simcms.ooststellingwerf.nl
@@ -6592,7 +6595,6 @@ https://simsite.landgraaf.nl
 https://simsite.leudal.nl
 https://simsite.lopik.nl
 https://simsite.mookenmiddelaar.nl
-https://simsite.nijkerk.eu
 https://simsite.opmeer.nl
 https://simsite.opsterland.nl
 https://simsite.pekela.nl
@@ -8150,6 +8152,7 @@ https://www.nederbetuwe.nl
 https://www.nieuwauthentiekbloemendaal.doemee.bloemendaal.nl
 https://www.nieuwegein.nl
 https://www.nieuwsbrief.enschede.nl
+https://www.nijkerk.eu
 https://www.nijmegen.nl
 https://www.nimmaleert.nijmegen.nl
 https://www.nissewaard.nl

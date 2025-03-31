@@ -22,8 +22,8 @@ loket
 formulieren
 test
 eloket
-werkplek
 dkd
+werkplek
 acc
 portal
 waarmerk
@@ -43,9 +43,9 @@ zaaksysteem-accept
 werkenbij
 pv
 gemeenteraad
+testeloket
 iparticipatie
 belastingen
-testeloket
 test-ipa
 enterpriseenrollment
 dacceptatieloket
@@ -93,11 +93,11 @@ portaal
 denkmee
 osbacc
 extranet
+siam
 financien
 klantcontact
 test-cmsintranet
 pki
-siam
 apps
 samen
 verkiezingen
@@ -157,6 +157,7 @@ belastingportaal
 email
 ftp
 openzaak
+auth
 gis
 acc-contact
 acc-keycloak
@@ -183,7 +184,6 @@ college
 bis
 maps
 legacy
-auth
 openklant
 test-digikoppeling
 meedoen
@@ -333,6 +333,7 @@ midoffice
 participatie
 documenten
 raadsnet
+toegang
 pdc
 subsidies-backend.acceptatie
 subsidies.acceptatie
@@ -403,7 +404,6 @@ werken
 www.mijn
 loket.test
 www.acceptatie
-toegang
 secure-test
 sociaaldomein
 stadsarchief
@@ -1210,6 +1210,8 @@ huisnet
 raadzaam
 wlan
 mylex
+domain-admin
+teams
 Snelbalie
 preprod-mijnuitkering
 eformulieren-test
@@ -6449,6 +6451,10 @@ tripleformst
 mksggk
 nwk-djm02
 www.vaarvergunningen
+samenaanzet
+securenetwork
+wegwijzer
+www.wegwijzer
 aardgasvrij.acc
 aardgasvrij
 app1-test
@@ -8034,7 +8040,6 @@ digikoppelingwl.test
 digikoppelingwl
 dis4fis-prod
 dis4fis-test
-domain-admin
 logilink001
 mis
 waterweb
@@ -8343,7 +8348,6 @@ smic
 smict
 smictest
 stadsbroekenijsselvizier
-teams
 toegankelijkestad
 uni4
 unit4

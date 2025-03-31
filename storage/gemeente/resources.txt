@@ -1421,6 +1421,7 @@ auth.gemeentestein.nl
 auth.haarlem.nl
 auth.leeuwarden.nl
 auth.lelystad.nl
+auth.nijkerk.eu
 auth.openstad.deventer.nl
 auth.openstad.enschede.nl
 auth.openstad.gemeentewestland.nl
@@ -3678,6 +3679,7 @@ dkd.leeuwarden.nl
 dkd.lelystad.nl
 dkd.meierijstad.nl
 dkd.nederweert.nl
+dkd.nijkerk.eu
 dkd.nissewaard.nl
 dkd.noardeast-fryslan.nl
 dkd.noordoostpolder.nl
@@ -3843,6 +3845,7 @@ doewatmoet-acc.denhaag.nl
 dok.dronten.nl
 dok.rotterdam.nl
 dolph.rotterdam.nl
+domain-admin.nijkerk.eu
 domain-admin.waterland.nl
 dongen.nl
 dopleidingloket.rotterdam.nl
@@ -4418,6 +4421,7 @@ eloket.meerssen.nl
 eloket.meppel.nl
 eloket.middelburg.nl
 eloket.midden-groningen.nl
+eloket.nijkerk.eu
 eloket.nissewaard.nl
 eloket.nuenen.nl
 eloket.nunspeet.nl
@@ -10145,6 +10149,7 @@ preproductie.montferland.info
 preproductie.mookenmiddelaar.nl
 preproductie.nederweert.nl
 preproductie.nieuwkoop.nl
+preproductie.nijkerk.eu
 preproductie.nunspeet.nl
 preproductie.oirschot.nl
 preproductie.ooststellingwerf.nl
@@ -10238,6 +10243,7 @@ probeer.middendelfland.nl
 probeer.mookenmiddelaar.nl
 probeer.nederweert.nl
 probeer.nieuwkoop.nl
+probeer.nijkerk.eu
 probeer.nuenen.nl
 probeer.ooststellingwerf.nl
 probeer.opmeer.nl
@@ -10780,6 +10786,7 @@ samen.rijswijk.nl
 samen.s-hertogenbosch.nl
 samen.schagen.nl
 samen.stedebroec.nl
+samenaanzet.nijkerk.eu
 samenatwork.stichtsevecht.nl
 samenduurzaam.geldrop-mierlo.nl
 samenindebuurt.heerlen.nl
@@ -10946,6 +10953,7 @@ secure.montfoort.nl
 secure.mookenmiddelaar.nl
 secure.nederweert.nl
 secure.nieuwkoop.nl
+secure.nijkerk.eu
 secure.nunspeet.nl
 secure.ooststellingwerf.nl
 secure.opmeer.nl
@@ -10987,6 +10995,7 @@ secure2.westmaasenwaal.nl
 securegemnet.roermond.nl
 securegw.bunschoten.nl
 securemail.borne.nl
+securenetwork.nijkerk.eu
 securetest.roermond.nl
 secureweb.landgraaf.nl
 securewifi.hethogeland.nl
@@ -11104,6 +11113,7 @@ siam.denhelder.nl
 siam.doetinchem.nl
 siam.drimmelen.nl
 siam.gooisemeren.nl
+siam.nijkerk.eu
 siam.rhenen.nl
 siam.s-hertogenbosch.nl
 siam.schiermonnikoog.nl
@@ -11220,6 +11230,7 @@ simcms.middendelfland.nl
 simcms.mookenmiddelaar.nl
 simcms.nederweert.nl
 simcms.nieuwkoop.nl
+simcms.nijkerk.eu
 simcms.nuenen.nl
 simcms.oirschot.nl
 simcms.ooststellingwerf.nl
@@ -12039,6 +12050,7 @@ tcorsa.landgraaf.nl
 td.gemeentehulst.nl
 tdk.veldhoven.nl
 teamplan.huizen.nl
+teams.nijkerk.eu
 teams.zwolle.nl
 techniek.landvancuijk.nl
 tekst.gemeentenoordenveld.nl
@@ -12413,6 +12425,7 @@ testeloket.lelystad.nl
 testeloket.meerssen.nl
 testeloket.meppel.nl
 testeloket.midden-groningen.nl
+testeloket.nijkerk.eu
 testeloket.nissewaard.nl
 testeloket.nuenen.nl
 testeloket.rhenen.nl
@@ -12573,6 +12586,7 @@ toegang.dataplatform.accp.s-hertogenbosch.nl
 toegang.dataplatform.s-hertogenbosch.nl
 toegang.eindhoven.nl
 toegang.groningen.nl
+toegang.nijkerk.eu
 toegang.noord.amsterdam.nl
 toegang.rotterdam.nl
 toegang3.denhaag.nl
@@ -13403,6 +13417,7 @@ weesp.acc.meldingen.amsterdam.nl
 weesp.amsterdam.nl
 weespbegroot.amsterdam.nl
 wegwijsplus.vught.nl
+wegwijzer.nijkerk.eu
 welbo.alphenaandenrijn.nl
 welbotest.alphenaandenrijn.nl
 welkom.ede.nl
@@ -14860,6 +14875,7 @@ www.webwinkel.landvancuijk.nl
 www.weert.nl
 www.weespbegroot.amsterdam.nl
 www.wegwijsplus.vught.nl
+www.wegwijzer.nijkerk.eu
 www.werkaandeweg.amsterdam.nl
 www.werkaandewijk.denhaag.nl
 www.werkenbij.alkmaar.nl
