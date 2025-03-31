@@ -27,8 +27,8 @@ dkd
 acc
 portal
 waarmerk
-meldingen
 open
+meldingen
 afspraak
 geo
 parkeren
@@ -43,11 +43,11 @@ zaaksysteem-accept
 werkenbij
 pv
 gemeenteraad
+iparticipatie
 belastingen
 testeloket
-iparticipatie
-enterpriseenrollment
 test-ipa
+enterpriseenrollment
 dacceptatieloket
 dacceptatiemidoffice
 dloket
@@ -63,8 +63,8 @@ remote
 openpub
 omgevingsvisie
 enterpriseregistration
-cloudadapter-test
 osb
+cloudadapter-test
 digikoppeling-test
 login
 flowmailer-tracking
@@ -91,17 +91,17 @@ connect
 doemee
 portaal
 denkmee
+osbacc
 extranet
 financien
 klantcontact
 test-cmsintranet
 pki
-osbacc
 siam
+apps
 samen
 verkiezingen
 duurzaam
-apps
 simcms-open
 squit2go
 www.webmail
@@ -110,6 +110,7 @@ dtestmidoffice
 mijnzorg
 vergunningintaker
 snelbalie
+dali
 preprod
 qr
 gemeente
@@ -122,7 +123,6 @@ preprodbroker
 simform
 mijninkomen
 afvalkalender
-dali
 acc-formulier
 acc-podiumd-logs
 sip
@@ -1150,6 +1150,7 @@ www.cryptshare
 brk
 servicegatewayt
 www.woz
+parkeernormen
 liber
 pcorsa
 pkoppelcorsa
@@ -5993,8 +5994,11 @@ werkplekcb
 www.huursportzaal
 www.stad
 grmks02
+bro
 bro.pre
+extra
 katwijs
+testplannen
 wijkteam-acc
 wijkteam-care4
 wijkteam-cursus
@@ -7736,7 +7740,6 @@ opencost.cg-intern.acc
 otomi.cg-intern.acc
 parkeerhandhaving
 parkeerhandhavingtest
-parkeernormen
 pdc-api.cg-intern.acc
 pdc-api.cg-intern.ont
 pdc-api.cg-intern
