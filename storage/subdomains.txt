@@ -36,8 +36,8 @@ raad
 api.meldingen
 vpn
 adfs
-broker
 betalen
+broker
 ruimtelijkeplannen
 zaaksysteem-accept
 werkenbij
@@ -451,6 +451,7 @@ grooster
 ris
 collecties
 inproces.test
+subsidies-login.acceptatie
 filr
 klantportaal
 mfa
@@ -606,7 +607,6 @@ servicebus
 pkio1
 dvg
 mbg2
-subsidies-login.acceptatie
 buitenoporde
 preprod-mijnportaal
 burgerloket.acceptatie
@@ -697,6 +697,7 @@ mobiliteitsplan
 website.acceptatie
 rds
 wijkteam
+open-formulieren-test
 preprod-belastingen
 bekendmakingen
 insite
@@ -1139,7 +1140,6 @@ www.meedoen
 organisatie
 test-kaartviewer
 mfawerkplek
-open-formulieren-test
 test-insite
 veilig
 webvpn
@@ -6178,11 +6178,15 @@ vertexobjecten-accp
 vertexobjecten
 a-p-ddi-0003
 a-p-ddi-0010
+a-planonmca
 acc.open-formulieren
 acc.opennotificaties
 acc.openzaak
 afscheidcrone
 bestandverzenden
+democritus
+deurwaarderportaal
+diogenes
 ediensten-aanvragen
 flowmailer-tracking.parkeervergunning
 fortiguard

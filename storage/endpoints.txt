@@ -117,6 +117,7 @@ http://autodiscover.katwijk.nl
 http://autodiscover.koggenland.nl
 http://autodiscover.landsmeer.nl
 http://autodiscover.lansingerland.nl
+http://autodiscover.leeuwarden.nl
 http://autodiscover.leiden.nl
 http://autodiscover.leiderdorp.nl
 http://autodiscover.leidschendam-voorburg.nl
@@ -1881,6 +1882,7 @@ https://betalen.harderwijk.nl
 https://betalen.heiloo.nl
 https://betalen.hilversum.nl
 https://betalen.laarbeek.nl
+https://betalen.leeuwarden.nl
 https://betalen.meppel.nl
 https://betalen.nissewaard.nl
 https://betalen.ouder-amstel.nl
@@ -5790,6 +5792,7 @@ https://oostzaan.nl
 https://open-acc.overheid.nl
 https://open-acceptatie.tilburg.nl
 https://open-formulieren-test.horstaandemaas.nl
+https://open-formulieren-test.leeuwarden.nl
 https://open-formulieren-test.venray.nl
 https://open-formulieren.groningen.nl
 https://open-formulieren.horstaandemaas.nl
@@ -7352,6 +7355,7 @@ https://subsidies-backend.oosterhout.nl
 https://subsidies-login-test.heerenveen.nl
 https://subsidies-login.acceptatie.debilt.nl
 https://subsidies-login.acceptatie.ede.nl
+https://subsidies-login.acceptatie.leeuwarden.nl
 https://subsidies-login.acceptatie.maassluis.nl
 https://subsidies-login.debilt.nl
 https://subsidies-login.ede.nl

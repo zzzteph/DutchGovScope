@@ -103,6 +103,7 @@ a-digikoppeling.amersfoort.nl
 a-eformsmidoffice.utrecht.nl
 a-p-ddi-0003.leeuwarden.nl
 a-p-ddi-0010.leeuwarden.nl
+a-planonmca.leeuwarden.nl
 a-surveys3.ggd.amsterdam.nl
 a2b-rtr.alkmaar.nl
 aaa.goirle.nl
@@ -595,6 +596,7 @@ acceptatie.intranet.gemeentewestland.nl
 acceptatie.kaagenbraassem.nl
 acceptatie.kampen.nl
 acceptatie.landgraaf.nl
+acceptatie.leeuwarden.nl
 acceptatie.leiderdorp.nl
 acceptatie.leudal.nl
 acceptatie.leusden.nl
@@ -1585,6 +1587,7 @@ autodiscover.koggenland.nl
 autodiscover.landsmeer.nl
 autodiscover.lansingerland.nl
 autodiscover.leefbaar.haarlemmermeer.nl
+autodiscover.leeuwarden.nl
 autodiscover.leiden.nl
 autodiscover.leiderdorp.nl
 autodiscover.leidschendam-voorburg.nl
@@ -2236,6 +2239,7 @@ betalen.harderwijk.nl
 betalen.heiloo.nl
 betalen.hilversum.nl
 betalen.laarbeek.nl
+betalen.leeuwarden.nl
 betalen.meppel.nl
 betalen.nissewaard.nl
 betalen.ouder-amstel.nl
@@ -3272,6 +3276,7 @@ demo.doemee.bloemendaal.nl
 demo.doemee.zwolle.nl
 demo.onderwijssubsidies.amsterdam.nl
 demo.team-huishoudboekje.cg-intern.acc.utrecht.nl
+democritus.leeuwarden.nl
 denhaag.nl
 denhaagfietst-acc.denhaag.nl
 denhaagfietst.denhaag.nl
@@ -3311,6 +3316,7 @@ desktop5.denhaag.nl
 destemvan.groningen.nl
 desuikerzijde.groningen.nl
 deurne.nl
+deurwaarderportaal.leeuwarden.nl
 deurwaardersloket.amersfoort.nl
 deurwaardersloketws.sozawe.rotterdam.nl
 dev-apps.haarlemmermeer.nl
@@ -3600,6 +3606,7 @@ digiwap.rotterdam.nl
 dijkenwaard.nl
 diko.apeldoorn.nl
 dinkelland.nl
+diogenes.leeuwarden.nl
 directadmin.almelo.nl
 directduidelijk.openstad.enschede.nl
 director.gemeentebeek.nl
@@ -3663,6 +3670,7 @@ dkd.hofvantwente.nl
 dkd.kampen.nl
 dkd.landgraaf.nl
 dkd.lansingerland.nl
+dkd.leeuwarden.nl
 dkd.lelystad.nl
 dkd.meierijstad.nl
 dkd.nederweert.nl
@@ -9099,6 +9107,7 @@ oov.brievenbus.amsterdam.nl
 opa.amsterdam.nl
 open-acceptatie.tilburg.nl
 open-formulieren-test.horstaandemaas.nl
+open-formulieren-test.leeuwarden.nl
 open-formulieren-test.venray.nl
 open-formulieren.groningen.nl
 open-formulieren.horstaandemaas.nl
@@ -11886,6 +11895,7 @@ subsidies-backend.oosterhout.nl
 subsidies-login-test.heerenveen.nl
 subsidies-login.acceptatie.debilt.nl
 subsidies-login.acceptatie.ede.nl
+subsidies-login.acceptatie.leeuwarden.nl
 subsidies-login.acceptatie.maassluis.nl
 subsidies-login.debilt.nl
 subsidies-login.ede.nl
