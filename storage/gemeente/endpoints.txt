@@ -248,6 +248,7 @@ http://felix.beuningen.nl
 http://felix.cranendonck.nl
 http://felix.deurne.nl
 http://felix.koggenland.nl
+http://felix.nederweert.nl
 http://felix.overbetuwe.nl
 http://felix.renswoude.nl
 http://felix.scherpenzeel.nl
@@ -390,7 +391,6 @@ http://simcms.landgraaf.nl
 http://simcms.leudal.nl
 http://simcms.middelburg.nl
 http://simcms.middendelfland.nl
-http://simcms.nederweert.nl
 http://simcms.zoetermeer.nl
 http://simcms.zuidplas.nl
 http://simcms.zwartewaterland.nl
@@ -406,6 +406,7 @@ http://simsite.deurne.nl
 http://simsite.geertruidenberg.nl
 http://simsite.middendelfland.nl
 http://simsite.montferland.info
+http://simsite.nederweert.nl
 http://simsite.ooststellingwerf.nl
 http://simsite.renswoude.nl
 http://simsite.reuseldemierden.nl
@@ -3127,7 +3128,6 @@ https://felix.lopik.nl
 https://felix.maassluis.nl
 https://felix.middendelfland.nl
 https://felix.mookenmiddelaar.nl
-https://felix.nederweert.nl
 https://felix.opmeer.nl
 https://felix.opsterland.nl
 https://felix.reuseldemierden.nl
@@ -5193,7 +5193,6 @@ https://ndesapeldoorn.apeldoorn.nl
 https://nedbrw.apeldoorn.nl
 https://nedbrwacc.apeldoorn.nl
 https://nederbetuwe.nl
-https://nederweert.nl
 https://nerdio.meierijstad.nl
 https://netbox.alkmaar.nl
 https://neuron-test.gorinchem.nl
@@ -6543,6 +6542,7 @@ https://simcms.koggenland.nl
 https://simcms.lingewaard.nl
 https://simcms.lopik.nl
 https://simcms.maassluis.nl
+https://simcms.nederweert.nl
 https://simcms.nieuwkoop.nl
 https://simcms.nuenen.nl
 https://simcms.oirschot.nl
