@@ -83,7 +83,6 @@ cmsintranet
 test-intranet
 dtestloket
 govroam
-denkmee
 parkeren-test
 piwik
 acc-broker
@@ -91,6 +90,7 @@ belastingloket
 connect
 doemee
 portaal
+denkmee
 extranet
 financien
 klantcontact
