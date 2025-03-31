@@ -560,6 +560,7 @@ http://www.denkmee.hollandskroon.nl
 http://www.denkmee.t-diel.nl
 http://www.deurne.nl
 http://www.gezond.amsterdam.nl
+http://www.halderberge.nl
 http://www.heerlen.nl
 http://www.heumen.nl
 http://www.internwifi.hellevoetsluis.nl
@@ -6431,6 +6432,7 @@ https://printen.tilburg.nl
 https://privacybewustzijn.bergendal.nl
 https://private.delft.nl
 https://proapp.rotterdam.nl
+https://probeer.halderberge.nl
 https://probeer.winterswijk.nl
 https://prod-dictu.comcms.logius.nl
 https://prod-dictu.logius.nl
@@ -6939,7 +6941,6 @@ https://simcms.geldrop-mierlo.nl
 https://simcms.gemeentebeek.nl
 https://simcms.gemeentemaasgouw.nl
 https://simcms.goeree-overflakkee.nl
-https://simcms.halderberge.nl
 https://simcms.heerlen.nl
 https://simcms.heuvelrug.nl
 https://simcms.huizen.nl
@@ -8132,6 +8133,7 @@ https://werkplek.gemeenteberkelland.nl
 https://werkplek.gemeentehw.nl
 https://werkplek.gooisemeren.nl
 https://werkplek.haarlemmermeer.nl
+https://werkplek.halderberge.nl
 https://werkplek.hilversum.nl
 https://werkplek.landvancuijk.nl
 https://werkplek.lelystad.nl

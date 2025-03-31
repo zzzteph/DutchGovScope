@@ -26,6 +26,7 @@ samenwijzer.halderberge.nl
 simcms-open.halderberge.nl
 simcms.halderberge.nl
 webmail.halderberge.nl
+werkplek.halderberge.nl
 www.acc.halderberge.nl
 www.halderberge.nl
 zaaksysteem-accept.halderberge.nl
