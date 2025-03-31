@@ -10,6 +10,7 @@ goprod.koggenland.nl
 gotest.koggenland.nl
 hta.koggenland.nl
 iburgerzaken.koggenland.nl
+ibzpink.koggenland.nl
 ik-acc.koggenland.nl
 ik.koggenland.nl
 jboss.koggenland.nl

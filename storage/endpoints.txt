@@ -266,6 +266,7 @@ http://felix.beuningen.nl
 http://felix.cranendonck.nl
 http://felix.deurne.nl
 http://felix.gemeentemaasgouw.nl
+http://felix.koggenland.nl
 http://felix.lingewaard.nl
 http://felix.middendelfland.nl
 http://felix.overbetuwe.nl
@@ -334,6 +335,7 @@ http://kghtb-test.gemeente-steenbergen.nl
 http://kgzorgned-test.gemeente-steenbergen.nl
 http://kibana-prod.lpc.logius.nl
 http://kibana.lpc.logius.nl
+http://koggenland.nl
 http://leusden-checker-preprod.leusden.nl
 http://leusden-checker.leusden.nl
 http://lingewaard.nl
@@ -447,7 +449,6 @@ http://simcms.capelleaandenijssel.nl
 http://simcms.doetinchem.nl
 http://simcms.eersel.nl
 http://simcms.heerlen.nl
-http://simcms.koggenland.nl
 http://simcms.maassluis.nl
 http://simcms.nederweert.nl
 http://simcms.zoetermeer.nl
@@ -4678,7 +4679,6 @@ https://kluis.hethogeland.nl
 https://knaal.helmond.nl
 https://knowledgebase.sittard-geleen.nl
 https://kofax.winterswijk.nl
-https://koggenland.nl
 https://kompas.rotterdam.nl
 https://komverder.krimpenaandenijssel.nl
 https://koppelpoort.amersfoort.nl
@@ -6974,6 +6974,7 @@ https://simcms.heeze-leende.nl
 https://simcms.heuvelrug.nl
 https://simcms.intranet.lopik.nl
 https://simcms.kerkrade.nl
+https://simcms.koggenland.nl
 https://simcms.lingewaard.nl
 https://simcms.lopik.nl
 https://simcms.middelburg.nl
@@ -7015,7 +7016,6 @@ https://simsite.gemeentebeek.nl
 https://simsite.goeree-overflakkee.nl
 https://simsite.gorinchem.nl
 https://simsite.heuvelrug.nl
-https://simsite.koggenland.nl
 https://simsite.lopik.nl
 https://simsite.middendelfland.nl
 https://simsite.montferland.info
@@ -8625,7 +8625,6 @@ https://www.kaartlaag.rotterdam.nl
 https://www.kampen.nl
 https://www.kapelle.nl
 https://www.katwijk.nl
-https://www.koggenland.nl
 https://www.komverder.krimpenaandenijssel.nl
 https://www.kos.nijmegen.nl
 https://www.krimpenaandenijssel.nl
