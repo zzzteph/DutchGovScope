@@ -1,4 +1,5 @@
 Squitpub-prod.haarlem.nl
+_autodiscover._tcp.haarlem.nl
 acc.haarlem.nl
 auth.haarlem.nl
 autodiscover.haarlem.nl

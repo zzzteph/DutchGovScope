@@ -85,6 +85,7 @@ _autodiscover._tcp.aalten.nl
 _autodiscover._tcp.buren.nl
 _autodiscover._tcp.debilt.nl
 _autodiscover._tcp.haaksbergen.nl
+_autodiscover._tcp.haarlem.nl
 _autodiscover._tcp.lisse.nl
 _autodiscover._tcp.olst-wijhe.nl
 _autodiscover._tcp.ridderkerk.nl
