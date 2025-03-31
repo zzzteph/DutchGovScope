@@ -10981,6 +10981,7 @@ service02-acceptatie.eijsden-margraten.nl
 service02.eijsden-margraten.nl
 servicebus.capelleaandenijssel.nl
 servicebus.gemeentewesterveld.nl
+servicebus.kampen.nl
 servicedesk.almelo.nl
 servicedesk.edam-volendam.nl
 servicedesk.hethogeland.nl
@@ -14213,6 +14214,7 @@ www.huiselijkgeweld.rotterdam.nl
 www.huisstijl.zaanstad.nl
 www.huizen.nl
 www.hulpwijzer.venray.nl
+www.huursportzaal.kampen.nl
 www.hvd.groningen.nl
 www.iarchief.ooststellingwerf.nl
 www.iarchief.twenterand.nl

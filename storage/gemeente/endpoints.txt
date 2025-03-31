@@ -500,6 +500,7 @@ http://www.denkmee.t-diel.nl
 http://www.deurne.nl
 http://www.gezond.amsterdam.nl
 http://www.halderberge.nl
+http://www.huursportzaal.kampen.nl
 http://www.internwifi.hellevoetsluis.nl
 http://www.ld-01.hellevoetsluis.nl
 http://www.mijngkb.midden-groningen.nl

@@ -47,6 +47,7 @@ pv.kampen.nl
 radius.kampen.nl
 remote.kampen.nl
 sem.kampen.nl
+servicebus.kampen.nl
 servicegateway.kampen.nl
 servicegatewayt.kampen.nl
 smartphone.kampen.nl
@@ -61,6 +62,7 @@ webmail.kampen.nl
 werkplek.kampen.nl
 werkplekcb.kampen.nl
 woz.kampen.nl
+www.huursportzaal.kampen.nl
 www.intranet.kampen.nl
 www.kampen.nl
 www.stad.kampen.nl
