@@ -390,6 +390,7 @@ http://simcms.eersel.nl
 http://simcms.heerlen.nl
 http://simcms.landgraaf.nl
 http://simcms.leudal.nl
+http://simcms.middelburg.nl
 http://simcms.nederweert.nl
 http://simcms.zoetermeer.nl
 http://simcms.zuidplas.nl
@@ -6536,7 +6537,6 @@ https://simcms.koggenland.nl
 https://simcms.lingewaard.nl
 https://simcms.lopik.nl
 https://simcms.maassluis.nl
-https://simcms.middelburg.nl
 https://simcms.middendelfland.nl
 https://simcms.nieuwkoop.nl
 https://simcms.nuenen.nl
@@ -8117,7 +8117,6 @@ https://www.meerssen.nl
 https://www.meierijstad.nl
 https://www.meppel.nl
 https://www.merk.denhaag.nl
-https://www.middelburg.nl
 https://www.midden-groningen.nl
 https://www.middendelfland.nl
 https://www.middendrenthe.nl
