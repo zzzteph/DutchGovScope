@@ -263,7 +263,6 @@ http://form-gemeenteloket.gemeentemaastricht.nl
 http://formulieren-test.rijswijk.nl
 http://formulieren.montferland.info
 http://formulieren.vlaardingen.nl
-http://ftp.lopik.nl
 http://geldrop-mierlo.nl
 http://geldzaken.loonopzand.nl
 http://gemeentebeek.nl
@@ -288,7 +287,6 @@ http://internoss-test.oss.nl
 http://intranet-acc.waalwijk.nl
 http://intranet-prod.sudwestfryslan.nl
 http://intranet.leudal.nl
-http://intranet.lopik.nl
 http://inway-management.cg-intern.utrecht.nl
 http://inway.cg-intern.utrecht.nl
 http://kaarten.gemeentewestland.nl
@@ -3130,6 +3128,7 @@ https://felix.heuvelrug.nl
 https://felix.kerkrade.nl
 https://felix.landgraaf.nl
 https://felix.leudal.nl
+https://felix.lopik.nl
 https://felix.maassluis.nl
 https://felix.mookenmiddelaar.nl
 https://felix.nederweert.nl
@@ -4115,6 +4114,7 @@ https://intranet.lansingerland.nl
 https://intranet.leiden.nl
 https://intranet.leusden.nl
 https://intranet.loonopzand.nl
+https://intranet.lopik.nl
 https://intranet.meierijstad.nl
 https://intranet.meppel.nl
 https://intranet.middelburg.nl
@@ -4582,6 +4582,7 @@ https://loket.zwijndrecht.nl
 https://loonkostensubsidie-acc.utrecht.nl
 https://loonkostensubsidie.utrecht.nl
 https://loonopzand.nl
+https://lopik.nl
 https://losser.nl
 https://luchen.geldrop-mierlo.nl
 https://lvs.hellendoorn.nl
