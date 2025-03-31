@@ -6424,7 +6424,9 @@ w2kzmm
 xworks-acc
 xworks
 mijnacc
+autodiscover.dgp
 autodiscover.natuurlijkgroen
+cda
 mintra
 intraweb
 telewerkentest

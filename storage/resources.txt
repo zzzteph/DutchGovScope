@@ -1656,6 +1656,7 @@ autodiscover.denijmeegsefractie.nijmegen.nl
 autodiscover.derondevenen.nl
 autodiscover.deventer.nl
 autodiscover.dewolden.nl
+autodiscover.dgp.mookenmiddelaar.nl
 autodiscover.dh.haarlemmermeer.nl
 autodiscover.dongen.nl
 autodiscover.dordrecht.nl
@@ -2938,6 +2939,7 @@ cca.westerwolde.nl
 cciwebstats.belastingdienst.nl
 ccn2.belastingdienst.nl
 cctst.apeldoorn.nl
+cda.mookenmiddelaar.nl
 cdn1.tilburg.nl
 centraalaanspreekpuntpensioenen.acc.belastingdienst.nl
 centraalaanspreekpuntpensioenen.belastingdienst.nl
