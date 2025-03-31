@@ -235,7 +235,6 @@ http://docgen-acc.amsterdam.nl
 http://docgen-tst.amsterdam.nl
 http://docgen.amsterdam.nl
 http://duurzaam.beverwijk.nl
-http://ediensten-preproductie.gemeentehw.nl
 http://eloket.meppel.nl
 http://emagazine2030.rijswijk.nl
 http://email.capelleaandenijssel.nl
@@ -351,6 +350,7 @@ http://p8.zwolle.nl
 http://panel.almere.nl
 http://parkeervergunningen.amsterdam.nl
 http://participatieprikbord.denhaag.nl
+http://pip-preproductie.gemeentehw.nl
 http://pip-preproductie.vlaardingen.nl
 http://piptest.waddinxveen.nl
 http://plannen.asten.nl
@@ -2569,7 +2569,9 @@ https://ede.nl
 https://edienst.helmond.nl
 https://edienstaanvragensd.defryskemarren.nl
 https://ediensten-aanvragen.leeuwarden.nl
+https://ediensten-preproductie.gemeentehw.nl
 https://ediensten-sociaaldomein.denhelder.nl
+https://ediensten.gemeentehw.nl
 https://edienstenaanvragensd-acceptatie.albrandswaard.nl
 https://edienstenaanvragensd-acceptatie.barendrecht.nl
 https://edienstenaanvragensd-acceptatie.ridderkerk.nl
@@ -5817,7 +5819,6 @@ https://phpmyadmin.bodegraven-reeuwijk.nl
 https://pijnacker-nootdorp.nl
 https://pilot-digitaleplannen.apeldoorn.nl
 https://pingping.amsterdam.nl
-https://pip-preproductie.gemeentehw.nl
 https://pip-test.urk.nl
 https://pip.urk.nl
 https://pip.vlaardingen.nl
@@ -6546,7 +6547,6 @@ https://simcms.weststellingwerf.nl
 https://simcms.wierden.nl
 https://simcms.woensdrecht.nl
 https://simform-preproductie.achtkarspelen.nl
-https://simform-preproductie.gemeentehw.nl
 https://simform-test.rijswijk.nl
 https://simform.heerenveen.nl
 https://simform.heerlen.nl
