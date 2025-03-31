@@ -2419,6 +2419,7 @@ bestelportaal.denhaag.nl
 bestemmingsplan.rhenen.nl
 bestemmingsplannen.baarn.nl
 bestemmingsplannen.gemeentewestland.nl
+bestemmingsplannen.groningen.nl
 bestie-stats.gemeentebest.nl
 bestie.gemeentebest.nl
 bestplan.gemeentemaasgouw.nl
@@ -15415,6 +15416,7 @@ www.bergendal.nl
 www.bergenopzoom.nl
 www.bernheze.org
 www.bestemmingsplannen.amsterdam.nl
+www.bestemmingsplannen.groningen.nl
 www.bestuur.centrum.amsterdam.nl
 www.beuningen.nl
 www.beverwijk.nl

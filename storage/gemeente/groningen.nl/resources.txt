@@ -49,6 +49,7 @@ begroting2019.groningen.nl
 begroting2020.groningen.nl
 begroting2021.groningen.nl
 belastingpraktijkonline.groningen.nl
+bestemmingsplannen.groningen.nl
 brs.groningen.nl
 byod.groningen.nl
 c2c-tst.gemeente.groningen.nl
@@ -298,6 +299,7 @@ www.arcgis.groningen.nl
 www.begroting.groningen.nl
 www.begroting2017.groningen.nl
 www.begroting2018.groningen.nl
+www.bestemmingsplannen.groningen.nl
 www.byod.groningen.nl
 www.campus.groningen.nl
 www.citytrip.groningen.nl

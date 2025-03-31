@@ -441,6 +441,7 @@ http://test-cmsflash.scherpenzeel.nl
 http://test-cmsinsite.houten.nl
 http://test-cmsintranet.etten-leur.nl
 http://test-cmsintranet.gooisemeren.nl
+http://test-cmsintranet.groningen.nl
 http://test-cmsintranet.lansingerland.nl
 http://test-cmssocialintranet.middendelfland.nl
 http://test-embrace.laarbeek.nl
@@ -6917,7 +6918,6 @@ https://test-cmshofnet.coevorden.nl
 https://test-cmsintranet.drimmelen.nl
 https://test-cmsintranet.edam-volendam.nl
 https://test-cmsintranet.gemeentestein.nl
-https://test-cmsintranet.groningen.nl
 https://test-cmsintranet.heuvelrug.nl
 https://test-cmsintranet.meierijstad.nl
 https://test-cmsintranet.steenwijkerland.nl

@@ -561,6 +561,7 @@ test-openzaak
 vastgoed
 loket-acc
 plannen
+bestemmingsplannen
 accdrop
 storefront
 www.login
@@ -854,6 +855,7 @@ tma
 vaarvergunningen
 vergunning
 wachtwoordvergeten
+www.bestemmingsplannen
 www.ggd
 www.onderzoek
 www.open
@@ -897,7 +899,6 @@ sdtest
 spf-ogone01
 spf-ogone02
 spf-wind
-bestemmingsplannen
 geoserver-test
 youpp
 pwa
@@ -3797,7 +3798,6 @@ www.atlas
 www.baarsjes
 www.bba
 www.bereikbaar
-www.bestemmingsplannen
 www.bestuur.centrum
 www.bia
 www.bikecity
