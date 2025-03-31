@@ -268,7 +268,6 @@ http://felix.cranendonck.nl
 http://felix.deurne.nl
 http://felix.gemeentemaasgouw.nl
 http://felix.koggenland.nl
-http://felix.lingewaard.nl
 http://felix.middendelfland.nl
 http://felix.overbetuwe.nl
 http://felix.renswoude.nl
@@ -336,7 +335,6 @@ http://kibana.lpc.logius.nl
 http://koggenland.nl
 http://leusden-checker-preprod.leusden.nl
 http://leusden-checker.leusden.nl
-http://lingewaard.nl
 http://login.sittard-geleen.nl
 http://lvs.denhaag.nl
 http://m.leiden.nl
@@ -429,7 +427,6 @@ http://sharepoint-ext.belastingdienst.nl
 http://simcms-centrumimpuls.geldrop-mierlo.nl
 http://simcms-energiek.beuningen.nl
 http://simcms-gemeenteraad.vlissingen.nl
-http://simcms-klimaatbestendig.lingewaard.nl
 http://simcms-ontmoetingscentra.opmeer.nl
 http://simcms-open.beverwijk.nl
 http://simcms-open.geldrop-mierlo.nl
@@ -6949,6 +6946,7 @@ https://simcms-begraafplaatsduinrust.beverwijk.nl
 https://simcms-cjg.scherpenzeel.nl
 https://simcms-data.westerkwartier.nl
 https://simcms-duurzaam.beverwijk.nl
+https://simcms-klimaatbestendig.lingewaard.nl
 https://simcms-omgevingsvisie.geldrop-mierlo.nl
 https://simcms-omgevingswet.bronckhorst.nl
 https://simcms-open.bronckhorst.nl
@@ -8657,7 +8655,6 @@ https://www.lelystad.nl
 https://www.letoplood.rotterdam.nl
 https://www.leudal.nl
 https://www.leusden.nl
-https://www.lingewaard.nl
 https://www.lisse.nl
 https://www.lochem.nl
 https://www.logius.nl
