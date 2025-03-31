@@ -3,6 +3,7 @@ api.meldingen.heerde.nl
 autodiscover.heerde.nl
 belastingloket.heerde.nl
 digikoppeling.heerde.nl
+heerde.nl
 iburgerzaken.heerde.nl
 ibzpink.heerde.nl
 internetafspraken.heerde.nl
