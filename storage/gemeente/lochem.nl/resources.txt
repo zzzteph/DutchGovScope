@@ -19,6 +19,7 @@ ruimtelijkeplannen.lochem.nl
 server23.lochem.nl
 stroomlijn.lochem.nl
 test-ipa.lochem.nl
+testmijn.lochem.nl
 vpn.lochem.nl
 werkplek.lochem.nl
 www.lochem.nl

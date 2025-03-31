@@ -7109,6 +7109,7 @@ https://testloket.middelburg.nl
 https://testloket.nieuwkoop.nl
 https://testloket.oldebroek.nl
 https://testmeldingen.asten.nl
+https://testmijn.lochem.nl
 https://testmijngemeente.waddinxveen.nl
 https://testmijnzaken.derondevenen.nl
 https://testmijnzaken.schagen.nl

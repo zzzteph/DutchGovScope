@@ -13830,6 +13830,7 @@ testloket.oldebroek.nl
 testmarkt1.nunspeet.nl
 testmeldingen.asten.nl
 testmijn.haarlemmermeer.nl
+testmijn.lochem.nl
 testmijngemeente.waddinxveen.nl
 testmijnzaken.derondevenen.nl
 testmijnzaken.schagen.nl

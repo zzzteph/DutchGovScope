@@ -1092,6 +1092,7 @@ gisibtest
 gisservicestest
 jccbetalen
 officewebapps
+testmijn
 testzaken
 www.djuma
 www.sts
@@ -5589,7 +5590,6 @@ test-formulieren
 test-kaarten
 testapps
 testinloggen
-testmijn
 testverseon
 v2.openstad
 voorjaarsrapportage
