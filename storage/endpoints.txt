@@ -511,6 +511,7 @@ http://test-nopnet.noordoostpolder.nl
 http://test-topvorm.apeldoorn.nl
 http://test.veere.nl
 http://test.website.westland.gemeentewestland.nl
+http://testcms-jip.hofvantwente.nl
 http://testeformulieren.rhenen.nl
 http://testeloket.meppel.nl
 http://testmarkt1.nunspeet.nl
@@ -7532,7 +7533,6 @@ https://testcms-inhuiz.huizen.nl
 https://testcms-intranet.beuningen.nl
 https://testcms-intranet.eemsdelta.nl
 https://testcms-intranet.midden-groningen.nl
-https://testcms-jip.hofvantwente.nl
 https://testcms-markt1.nunspeet.nl
 https://testdigikoppeling.haarlemmermeer.nl
 https://testdigitaalgemeenteloket.alphenaandenrijn.nl

@@ -1,5 +1,6 @@
 http://autodiscover.hofvantwente.nl
 http://test-jip.hofvantwente.nl
+http://testcms-jip.hofvantwente.nl
 https://acceptatie-open.hofvantwente.nl
 https://belastingen.hofvantwente.nl
 https://bouwkavels.hofvantwente.nl
@@ -18,6 +19,5 @@ https://openpdc.hofvantwente.nl
 https://openpub.hofvantwente.nl
 https://preprod-mijnsociaalplein.hofvantwente.nl
 https://qfact.hofvantwente.nl
-https://testcms-jip.hofvantwente.nl
 https://www.hofvantwente.nl
 https://zaaksysteem-accept.hofvantwente.nl
