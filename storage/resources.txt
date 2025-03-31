@@ -3284,6 +3284,7 @@ contact.antwoord.amsterdam.nl
 contact.enschede.nl
 contact.gemeente-oldambt.nl
 contact.gemert-bakel.nl
+contact.laarbeek.nl
 contact.oldenzaal.nl
 contact.oostgelre.nl
 contact.roermond.nl
@@ -5507,6 +5508,7 @@ formulier.gemeentemaashorst.nl
 formulier.gemert-bakel.nl
 formulier.groningen.nl
 formulier.hethogeland.nl
+formulier.laarbeek.nl
 formulier.losser.nl
 formulier.nijmegen.nl
 formulier.oldenzaal.nl
@@ -8965,6 +8967,7 @@ mijn.hollandskroon.nl
 mijn.hoorn.nl
 mijn.houten.nl
 mijn.igj.nl
+mijn.laarbeek.nl
 mijn.lansingerland.nl
 mijn.lingewaard.nl
 mijn.lochem.nl
@@ -9714,6 +9717,7 @@ notificaties.enschede.nl
 notificaties.gemeente-oldambt.nl
 notificaties.gemeentemaashorst.nl
 notificaties.gemert-bakel.nl
+notificaties.laarbeek.nl
 notificaties.oldenzaal.nl
 notificaties.oostgelre.nl
 notificaties.openzaak-acc.amsterdam.nl
@@ -9808,6 +9812,7 @@ objecten.enschede.nl
 objecten.gemeente-oldambt.nl
 objecten.gemeentemaashorst.nl
 objecten.gemert-bakel.nl
+objecten.laarbeek.nl
 objecten.oldenzaal.nl
 objecten.oostgelre.nl
 objecten.roermond.nl
@@ -9829,6 +9834,7 @@ objecttypen.enschede.nl
 objecttypen.gemeente-oldambt.nl
 objecttypen.gemeentemaashorst.nl
 objecttypen.gemert-bakel.nl
+objecttypen.laarbeek.nl
 objecttypen.oldenzaal.nl
 objecttypen.oostgelre.nl
 objecttypen.roermond.nl

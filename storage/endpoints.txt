@@ -2297,6 +2297,7 @@ https://contact.antwoord.amsterdam.nl
 https://contact.enschede.nl
 https://contact.gemeente-oldambt.nl
 https://contact.gemert-bakel.nl
+https://contact.laarbeek.nl
 https://contact.oldenzaal.nl
 https://contact.oostgelre.nl
 https://contact.roermond.nl
@@ -3484,6 +3485,7 @@ https://formulier.gemeentemaashorst.nl
 https://formulier.gemert-bakel.nl
 https://formulier.groningen.nl
 https://formulier.hethogeland.nl
+https://formulier.laarbeek.nl
 https://formulier.losser.nl
 https://formulier.nijmegen.nl
 https://formulier.oldenzaal.nl
@@ -5179,6 +5181,7 @@ https://mijn.hollandskroon.nl
 https://mijn.hoorn.nl
 https://mijn.houten.nl
 https://mijn.igj.nl
+https://mijn.laarbeek.nl
 https://mijn.lansingerland.nl
 https://mijn.lingewaard.nl
 https://mijn.lochem.nl
@@ -5551,6 +5554,7 @@ https://notificaties.enschede.nl
 https://notificaties.gemeente-oldambt.nl
 https://notificaties.gemeentemaashorst.nl
 https://notificaties.gemert-bakel.nl
+https://notificaties.laarbeek.nl
 https://notificaties.oldenzaal.nl
 https://notificaties.oostgelre.nl
 https://notificaties.openzaak-acc.amsterdam.nl
@@ -5581,6 +5585,7 @@ https://objecten.enschede.nl
 https://objecten.gemeente-oldambt.nl
 https://objecten.gemeentemaashorst.nl
 https://objecten.gemert-bakel.nl
+https://objecten.laarbeek.nl
 https://objecten.oldenzaal.nl
 https://objecten.oostgelre.nl
 https://objecten.roermond.nl
@@ -5598,6 +5603,7 @@ https://objecttypen.enschede.nl
 https://objecttypen.gemeente-oldambt.nl
 https://objecttypen.gemeentemaashorst.nl
 https://objecttypen.gemert-bakel.nl
+https://objecttypen.laarbeek.nl
 https://objecttypen.oldenzaal.nl
 https://objecttypen.oostgelre.nl
 https://objecttypen.roermond.nl

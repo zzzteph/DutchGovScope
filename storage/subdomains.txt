@@ -164,6 +164,9 @@ acc-openklant
 acc-openzaak
 keycloak
 lyncdiscover
+notificaties
+objecten
+objecttypen
 owa
 podiumd-logs
 inproces
@@ -181,9 +184,6 @@ bis
 maps
 legacy
 auth
-notificaties
-objecten
-objecttypen
 openklant
 test-digikoppeling
 meedoen
@@ -216,6 +216,7 @@ intranet-acc
 outlook
 vth
 testloket
+contact
 cms
 m
 filetransfer
@@ -239,7 +240,6 @@ bestanden
 kcc
 mx1
 mx2
-contact
 cloudadapter-prod
 handhaving
 www.portal
