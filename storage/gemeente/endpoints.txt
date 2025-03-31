@@ -296,6 +296,7 @@ http://intranetcms-acc.landvancuijk.nl
 http://inway-management.cg-intern.utrecht.nl
 http://inway.cg-intern.utrecht.nl
 http://kaarten.gemeentewestland.nl
+http://kaarten.haarlemmermeer.nl
 http://kennisbank.nijmegen.nl
 http://kerkrade.nl
 http://kghtb-test.gemeente-steenbergen.nl
