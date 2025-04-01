@@ -499,7 +499,6 @@ http://test-intranet.wageningen.nl
 http://test-intranet.zeist.nl
 http://test-jip.hofvantwente.nl
 http://test-machtigen.digipoort.logius.nl
-http://test-nopnet.noordoostpolder.nl
 http://test-social.montferland.info
 http://test-topvorm.apeldoorn.nl
 http://test.veere.nl
@@ -7505,6 +7504,7 @@ https://test-meedoen.schagen.nl
 https://test-meedoenregeling.dongen.nl
 https://test-mijn.hoorn.nl
 https://test-mijnoverzicht.alphenaandenrijn.nl
+https://test-nopnet.noordoostpolder.nl
 https://test-opname.eindhoven.nl
 https://test-paswijzer.waalwijk.nl
 https://test-potjeswijzer.westerkwartier.nl
