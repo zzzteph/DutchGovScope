@@ -2750,6 +2750,7 @@ wachtwoordwijzigen
 webgis
 webgisacc
 chw
+wms
 email.mail.participatie
 mail.participatie
 aalten-checker-preprod
