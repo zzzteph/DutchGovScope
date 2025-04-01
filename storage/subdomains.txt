@@ -119,6 +119,7 @@ bastion365
 bgt
 obsurv
 begroting
+opendata
 e
 preprodbroker
 simform
@@ -132,7 +133,6 @@ woningbouwkaart
 contentbeheer
 micollab
 mdm
-opendata
 smtp
 mobiel
 gisib
@@ -324,6 +324,7 @@ www.intranet
 aeolus
 sbc01
 bezoekersparkeren
+feeds
 download
 huisstijl
 ns2
@@ -398,7 +399,6 @@ prefill
 corsa-prod
 corsa-test
 mijndesktop
-feeds
 english
 mijn-acc
 werken
