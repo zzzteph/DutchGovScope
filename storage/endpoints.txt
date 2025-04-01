@@ -2221,6 +2221,7 @@ https://centralecommissiedierproeven.nl
 https://centrum.heerlen.nl
 https://centrumbegroot.alphenaandenrijn.nl
 https://centrumbegroot.amsterdam.nl
+https://cert.nl
 https://channels.lpc.logius.nl
 https://checklist.rotterdam.nl
 https://chw.aandeslagmetdeomgevingswet.nl
@@ -3484,6 +3485,7 @@ https://feeds.cbg-meb.nl
 https://feeds.ccmo.nl
 https://feeds.ceg.nl
 https://feeds.centralecommissiedierproeven.nl
+https://feeds.cert.nl
 https://feeds.english.aivd.nl
 https://feeds.english.autoriteitnvs.nl
 https://feeds.english.belastingdienst-cn.nl
@@ -6109,6 +6111,7 @@ https://opendata.cbg-meb.nl
 https://opendata.ccmo.nl
 https://opendata.ceg.nl
 https://opendata.centralecommissiedierproeven.nl
+https://opendata.cert.nl
 https://opendata.english.aivd.nl
 https://opendata.english.autoriteitnvs.nl
 https://opendata.english.belastingdienst-cn.nl
@@ -8799,6 +8802,7 @@ https://www.ceg.nl
 https://www.centralecommissiedierproeven.nl
 https://www.centrumbegroot.alphenaandenrijn.nl
 https://www.centrumbegroot.amsterdam.nl
+https://www.cert.nl
 https://www.cjg.denhaag.nl
 https://www.cjg.olst-wijhe.nl
 https://www.cmsoo.gemeente.groningen.nl

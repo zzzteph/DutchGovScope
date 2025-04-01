@@ -3105,6 +3105,7 @@ centrum.zoetermeer.nl
 centrumbegroot.alphenaandenrijn.nl
 centrumbegroot.amsterdam.nl
 centrumimpuls.geldrop-mierlo.nl
+cert.nl
 cert.test2gbav.belastingdienst.nl
 certauth.sudwestfryslan.nl
 certificates.dongen.nl
@@ -5466,6 +5467,7 @@ feeds.cbg-meb.nl
 feeds.ccmo.nl
 feeds.ceg.nl
 feeds.centralecommissiedierproeven.nl
+feeds.cert.nl
 feeds.english.aivd.nl
 feeds.english.autoriteitnvs.nl
 feeds.english.belastingdienst-cn.nl
@@ -10537,6 +10539,7 @@ opendata.cbg-meb.nl
 opendata.ccmo.nl
 opendata.ceg.nl
 opendata.centralecommissiedierproeven.nl
+opendata.cert.nl
 opendata.english.aivd.nl
 opendata.english.autoriteitnvs.nl
 opendata.english.belastingdienst-cn.nl
@@ -16056,6 +16059,7 @@ www.centralecommissiedierproeven.nl
 www.centrum.amsterdam.nl
 www.centrumbegroot.alphenaandenrijn.nl
 www.centrumbegroot.amsterdam.nl
+www.cert.nl
 www.citrix.gemeentebeek.nl
 www.citytrip.groningen.nl
 www.cjg.denhaag.nl
