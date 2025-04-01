@@ -111,6 +111,7 @@ https://auditdienstrijk.nl
 https://autodiscover.koop.overheid.nl
 https://autodiscover.overheid.nl
 https://autoriteitnvs.nl
+https://avghelpdeskzorg.nl
 https://bag.basisregistraties.overheid.nl
 https://bag.test.basisregistraties.overheid.nl
 https://bag2.basisregistraties.overheid.nl
@@ -263,6 +264,7 @@ https://feeds.arboportaal.nl
 https://feeds.atkm.nl
 https://feeds.auditdienstrijk.nl
 https://feeds.autoriteitnvs.nl
+https://feeds.avghelpdeskzorg.nl
 https://feeds.english.aivd.nl
 https://feeds.english.autoriteitnvs.nl
 https://feeds.english.igj.nl
@@ -423,6 +425,7 @@ https://opendata.arboportaal.nl
 https://opendata.atkm.nl
 https://opendata.auditdienstrijk.nl
 https://opendata.autoriteitnvs.nl
+https://opendata.avghelpdeskzorg.nl
 https://opendata.english.aivd.nl
 https://opendata.english.autoriteitnvs.nl
 https://opendata.english.igj.nl
@@ -674,6 +677,7 @@ https://www.arboportaal.nl
 https://www.atkm.nl
 https://www.auditdienstrijk.nl
 https://www.autoriteitnvs.nl
+https://www.avghelpdeskzorg.nl
 https://www.belastingdienst.nl
 https://www.bta.omgevingswet.overheid.nl
 https://www.dmo.omgevingswet.overheid.nl

@@ -38,8 +38,8 @@ vpn
 adfs
 betalen
 broker
-ruimtelijkeplannen
 opendata
+ruimtelijkeplannen
 testeloket
 zaaksysteem-accept
 werkenbij
@@ -53,8 +53,8 @@ dacceptatieloket
 dacceptatiemidoffice
 dloket
 dmidoffice
-data
 feeds
+data
 api.meldingen-acc
 meldingen-acc
 remote
@@ -218,6 +218,9 @@ outlook
 vth
 testloket
 contact
+a-feeds
+a-opendata
+a-www
 cms
 magazines
 m
@@ -246,9 +249,6 @@ mx2
 cloudadapter-prod
 handhaving
 www.portal
-a-feeds
-a-opendata
-a-www
 servicedesk
 academie
 omgevingswet
