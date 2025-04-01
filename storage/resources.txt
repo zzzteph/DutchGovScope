@@ -5262,6 +5262,7 @@ feeds.adviescollegeicttoetsing.nl
 feeds.adviescollegeregeldruk.nl
 feeds.adviescollegeveiligheidgroningen.nl
 feeds.adviescommissievolkenrecht.nl
+feeds.adviesraadinternationalevraagstukken.nl
 feeds.english.igj.nl
 feeds.igj.nl
 feeds.nieuwsbrievenminocw.nl
@@ -10241,6 +10242,7 @@ opendata.adviescollegeicttoetsing.nl
 opendata.adviescollegeregeldruk.nl
 opendata.adviescollegeveiligheidgroningen.nl
 opendata.adviescommissievolkenrecht.nl
+opendata.adviesraadinternationalevraagstukken.nl
 opendata.arnhem.nl
 opendata.assen.nl
 opendata.bloemendaal.nl
@@ -15516,6 +15518,7 @@ www.adviescollegeregeldruk.nl
 www.adviescollegeveiligheidgroningen.nl
 www.adviescommissievolkenrecht.nl
 www.adviesraad.westbetuwe.nl
+www.adviesraadinternationalevraagstukken.nl
 www.afspraak.castricum.nl
 www.afspraak.gemeentehulst.nl
 www.afspraak.haarlemmermeer.nl

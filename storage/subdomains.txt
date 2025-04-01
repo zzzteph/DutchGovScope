@@ -71,8 +71,8 @@ flowmailer-tracking
 beeldbank
 zaken
 kaart
-formulier
 opendata
+formulier
 hybrid
 cloudadapter
 kaarten
@@ -108,6 +108,7 @@ squit2go
 www.webmail
 filecap
 dtestmidoffice
+feeds
 sip
 mijnzorg
 _autodiscover._tcp
@@ -121,7 +122,6 @@ bastion365
 bgt
 obsurv
 begroting
-feeds
 e
 web
 preprodbroker
