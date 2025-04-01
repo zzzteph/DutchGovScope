@@ -79,6 +79,7 @@ https://adobe-analytics-dc.toeslagen.nl
 https://adviescollegeicttoetsing.nl
 https://adviescollegeregeldruk.nl
 https://adviescollegeveiligheidgroningen.nl
+https://adviescommissievolkenrecht.nl
 https://afspraken.belastingdienst.nl
 https://afval.omgevingswet.overheid.nl
 https://algoritme.overheid.nl
@@ -223,6 +224,7 @@ https://feeds.academyforinternationalrelations.nl
 https://feeds.adviescollegeicttoetsing.nl
 https://feeds.adviescollegeregeldruk.nl
 https://feeds.adviescollegeveiligheidgroningen.nl
+https://feeds.adviescommissievolkenrecht.nl
 https://feeds.english.igj.nl
 https://feeds.igj.nl
 https://feeds.nieuwsbrievenminocw.nl
@@ -363,6 +365,7 @@ https://opendata.academyforinternationalrelations.nl
 https://opendata.adviescollegeicttoetsing.nl
 https://opendata.adviescollegeregeldruk.nl
 https://opendata.adviescollegeveiligheidgroningen.nl
+https://opendata.adviescommissievolkenrecht.nl
 https://opendata.english.igj.nl
 https://opendata.igj.nl
 https://opendata.nieuwsbrievenminocw.nl
@@ -595,6 +598,7 @@ https://www.acc.omgevingswet.overheid.nl
 https://www.adviescollegeicttoetsing.nl
 https://www.adviescollegeregeldruk.nl
 https://www.adviescollegeveiligheidgroningen.nl
+https://www.adviescommissievolkenrecht.nl
 https://www.belastingdienst.nl
 https://www.bta.omgevingswet.overheid.nl
 https://www.dmo.omgevingswet.overheid.nl

@@ -72,10 +72,10 @@ beeldbank
 zaken
 kaart
 formulier
+opendata
 hybrid
 cloudadapter
 kaarten
-opendata
 berichten
 parkeren-acc
 digikoppeling.test
@@ -121,6 +121,7 @@ bastion365
 bgt
 obsurv
 begroting
+feeds
 e
 web
 preprodbroker
@@ -134,7 +135,6 @@ woningbouwkaart
 contentbeheer
 micollab
 mdm
-feeds
 smtp
 mobiel
 lyncdiscover

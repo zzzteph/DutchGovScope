@@ -854,6 +854,7 @@ adverteren.landvancuijk.nl
 adviescollegeicttoetsing.nl
 adviescollegeregeldruk.nl
 adviescollegeveiligheidgroningen.nl
+adviescommissievolkenrecht.nl
 adviesraad.westbetuwe.nl
 adviesraden.deventer.nl
 aeolus.eijsden-margraten.nl
@@ -5260,6 +5261,7 @@ feeds.academyforinternationalrelations.nl
 feeds.adviescollegeicttoetsing.nl
 feeds.adviescollegeregeldruk.nl
 feeds.adviescollegeveiligheidgroningen.nl
+feeds.adviescommissievolkenrecht.nl
 feeds.english.igj.nl
 feeds.igj.nl
 feeds.nieuwsbrievenminocw.nl
@@ -10238,6 +10240,7 @@ opendata.academyforinternationalrelations.nl
 opendata.adviescollegeicttoetsing.nl
 opendata.adviescollegeregeldruk.nl
 opendata.adviescollegeveiligheidgroningen.nl
+opendata.adviescommissievolkenrecht.nl
 opendata.arnhem.nl
 opendata.assen.nl
 opendata.bloemendaal.nl
@@ -15511,6 +15514,7 @@ www.admin.haarlemmermeer.nl
 www.adviescollegeicttoetsing.nl
 www.adviescollegeregeldruk.nl
 www.adviescollegeveiligheidgroningen.nl
+www.adviescommissievolkenrecht.nl
 www.adviesraad.westbetuwe.nl
 www.afspraak.castricum.nl
 www.afspraak.gemeentehulst.nl
