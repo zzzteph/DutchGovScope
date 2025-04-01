@@ -63,10 +63,10 @@ enterpriseregistration
 loket.acceptatie
 openpub
 omgevingsvisie
+opendata
 login
 osb
 cloudadapter-test
-opendata
 digikoppeling-test
 flowmailer-tracking
 beeldbank
@@ -83,6 +83,7 @@ mks
 cmsintranet
 test-intranet
 dtestloket
+feeds
 govroam
 parkeren-test
 piwik
@@ -90,7 +91,6 @@ acc-broker
 belastingloket
 connect
 doemee
-feeds
 portaal
 denkmee
 osbacc
@@ -503,6 +503,9 @@ awtunnel
 ens
 cca-acc
 cca
+a-feeds
+a-opendata
+a-www
 git
 monitor
 persberichten
@@ -726,10 +729,7 @@ parkeerloket
 qmanage
 www.sharefile
 autodiscover.raad
-a-feeds
 a-magazines
-a-opendata
-a-www
 handleiding
 static
 statistiek
