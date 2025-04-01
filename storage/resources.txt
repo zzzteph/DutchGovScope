@@ -403,6 +403,7 @@ acc.adam.amsterdam.nl
 acc.admin.data.amsterdam.nl
 acc.admin.schoolwijzer.amsterdam.nl
 acc.adus.amsterdam.nl
+acc.adviescollegeveiligheidgroningen.nl
 acc.aip.amsterdam.nl
 acc.almelo.nl
 acc.amersfoort.nl
@@ -852,6 +853,7 @@ adus.amsterdam.nl
 adverteren.landvancuijk.nl
 adviescollegeicttoetsing.nl
 adviescollegeregeldruk.nl
+adviescollegeveiligheidgroningen.nl
 adviesraad.westbetuwe.nl
 adviesraden.deventer.nl
 aeolus.eijsden-margraten.nl
@@ -5257,6 +5259,7 @@ feeds.academievoorinternationalebetrekkingen.nl
 feeds.academyforinternationalrelations.nl
 feeds.adviescollegeicttoetsing.nl
 feeds.adviescollegeregeldruk.nl
+feeds.adviescollegeveiligheidgroningen.nl
 feeds.english.igj.nl
 feeds.igj.nl
 feeds.nieuwsbrievenminocw.nl
@@ -10234,6 +10237,7 @@ opendata.academievoorinternationalebetrekkingen.nl
 opendata.academyforinternationalrelations.nl
 opendata.adviescollegeicttoetsing.nl
 opendata.adviescollegeregeldruk.nl
+opendata.adviescollegeveiligheidgroningen.nl
 opendata.arnhem.nl
 opendata.assen.nl
 opendata.bloemendaal.nl
@@ -15506,6 +15510,7 @@ www.acutehulp.gezond.amsterdam.nl
 www.admin.haarlemmermeer.nl
 www.adviescollegeicttoetsing.nl
 www.adviescollegeregeldruk.nl
+www.adviescollegeveiligheidgroningen.nl
 www.adviesraad.westbetuwe.nl
 www.afspraak.castricum.nl
 www.afspraak.gemeentehulst.nl

@@ -839,6 +839,7 @@ https://acc-zaanlinkcms.zaanstad.nl
 https://acc-zac.dev.groningen.nl
 https://acc.admin.schoolwijzer.amsterdam.nl
 https://acc.adus.amsterdam.nl
+https://acc.adviescollegeveiligheidgroningen.nl
 https://acc.aip.amsterdam.nl
 https://acc.amersfoort.nl
 https://acc.api.brp.amsterdam.nl
@@ -1039,6 +1040,7 @@ https://adus.amsterdam.nl
 https://adverteren.landvancuijk.nl
 https://adviescollegeicttoetsing.nl
 https://adviescollegeregeldruk.nl
+https://adviescollegeveiligheidgroningen.nl
 https://adviesraad.westbetuwe.nl
 https://adviesraden.deventer.nl
 https://afbeeldingen.doetinchem.nl
@@ -3340,6 +3342,7 @@ https://feeds.academievoorinternationalebetrekkingen.nl
 https://feeds.academyforinternationalrelations.nl
 https://feeds.adviescollegeicttoetsing.nl
 https://feeds.adviescollegeregeldruk.nl
+https://feeds.adviescollegeveiligheidgroningen.nl
 https://feeds.english.igj.nl
 https://feeds.igj.nl
 https://feeds.nieuwsbrievenminocw.nl
@@ -5900,6 +5903,7 @@ https://opendata.academievoorinternationalebetrekkingen.nl
 https://opendata.academyforinternationalrelations.nl
 https://opendata.adviescollegeicttoetsing.nl
 https://opendata.adviescollegeregeldruk.nl
+https://opendata.adviescollegeveiligheidgroningen.nl
 https://opendata.arnhem.nl
 https://opendata.assen.nl
 https://opendata.bloemendaal.nl
@@ -8446,6 +8450,7 @@ https://www.acceptatie.derondevenen.nl
 https://www.actief.landvancuijk.nl
 https://www.adviescollegeicttoetsing.nl
 https://www.adviescollegeregeldruk.nl
+https://www.adviescollegeveiligheidgroningen.nl
 https://www.adviesraad.westbetuwe.nl
 https://www.afspraken.oegstgeest.nl
 https://www.afspraken.pekela.nl

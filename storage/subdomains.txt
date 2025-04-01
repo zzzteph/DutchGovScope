@@ -75,9 +75,9 @@ formulier
 hybrid
 cloudadapter
 kaarten
+opendata
 berichten
 parkeren-acc
-opendata
 digikoppeling.test
 mks
 cmsintranet
@@ -134,6 +134,7 @@ woningbouwkaart
 contentbeheer
 micollab
 mdm
+feeds
 smtp
 mobiel
 lyncdiscover
@@ -153,7 +154,6 @@ connect.acceptatie
 inloggen
 jaarstukken
 cryptshare
-feeds
 mta-sts
 mailing
 maps
