@@ -107,6 +107,7 @@ squit2go
 www.webmail
 filecap
 dtestmidoffice
+opendata
 sip
 mijnzorg
 _autodiscover._tcp
@@ -120,7 +121,6 @@ bastion365
 bgt
 obsurv
 begroting
-opendata
 e
 web
 preprodbroker
@@ -271,6 +271,7 @@ jongin
 woz-portaal
 en
 mijnsociaaldomein
+feeds
 api
 rap
 services
@@ -325,7 +326,6 @@ www.intranet
 aeolus
 sbc01
 bezoekersparkeren
-feeds
 download
 huisstijl
 ns2
