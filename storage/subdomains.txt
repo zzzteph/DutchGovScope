@@ -26,9 +26,9 @@ dkd
 werkplek
 acc
 portal
+meldingen
 waarmerk
 open
-meldingen
 afspraak
 geo
 parkeren
@@ -44,9 +44,9 @@ zaaksysteem-accept
 werkenbij
 pv
 gemeenteraad
+opendata
 iparticipatie
 belastingen
-opendata
 test-ipa
 enterpriseenrollment
 dacceptatieloket
@@ -64,10 +64,10 @@ enterpriseregistration
 loket.acceptatie
 openpub
 omgevingsvisie
+feeds
 login
 osb
 cloudadapter-test
-feeds
 digikoppeling-test
 flowmailer-tracking
 beeldbank
@@ -786,6 +786,8 @@ repository
 verkeersbesluiten
 lync
 oa
+bezwaar
+feedback
 edienstenburgerzaken.test
 www.praatmee
 datalab
@@ -4375,7 +4377,6 @@ ac03617
 axians.lev
 cppm
 cryptsharetest
-feedback
 financieel
 hnw
 ibor
@@ -4445,7 +4446,6 @@ bereikbarestad-acc
 bereikbarestad
 bestelportaal
 bezwaar.acc
-bezwaar
 bibliotheekbenoordenhout
 binnenstadsplan2030
 bloemenbuurtbegroot

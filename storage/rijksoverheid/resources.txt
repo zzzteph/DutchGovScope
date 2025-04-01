@@ -183,6 +183,7 @@ artifact-pp2.toegang.overheid.nl
 artifact-rd1.toegang.overheid.nl
 artifact-rd2.toegang.overheid.nl
 artifact-rv-pp1.logius.nl
+atkm.nl
 autodiscover.aaenmaas.nl
 autodiscover.koop.overheid.nl
 autodiscover.overheid.nl
@@ -290,6 +291,7 @@ betalen.str13.acc.belastingdienst.nl
 betalen.str14.acc.belastingdienst.nl
 betalen.str30.acc.belastingdienst.nl
 bezet.belastingdienst.nl
+bezwaar.atkm.nl
 bgt.basisregistraties.overheid.nl
 bideo.belastingdienst.nl
 bijleen.belastingdienst.nl
@@ -554,6 +556,7 @@ fed01.acc.toeslagen.nl
 fed01.hipad.tst.belastingdienst.nl
 fed01.toeslagen.nl
 fed01.tst.toeslagen.nl
+feedback.atkm.nl
 feeds.a2vonderenkerensheide.nl
 feeds.aanbiedersmedicijnen.nl
 feeds.aboutnetherlandscustoms.nl
@@ -575,6 +578,7 @@ feeds.animalfreeinnovationtpi.nl
 feeds.antennebureau.nl
 feeds.arbeidsmigratieingoedebanen.nl
 feeds.arboportaal.nl
+feeds.atkm.nl
 feeds.english.aivd.nl
 feeds.english.igj.nl
 feeds.igj.nl
@@ -892,6 +896,7 @@ mc.belastingdienst.nl
 mc.ont.belastingdienst.nl
 med-srv20.rijksoverheid.nl
 meet.aaenmaas.nl
+meldingen.atkm.nl
 merkportaal.belastingdienst.nl
 metadata.toegang.overheid.nl
 metelkaartrekkenwedegrens.nl
@@ -1095,6 +1100,7 @@ opendata.animalfreeinnovationtpi.nl
 opendata.antennebureau.nl
 opendata.arbeidsmigratieingoedebanen.nl
 opendata.arboportaal.nl
+opendata.atkm.nl
 opendata.english.aivd.nl
 opendata.english.igj.nl
 opendata.igj.nl
@@ -1743,6 +1749,7 @@ www.antennebureau.nl
 www.arbeidsmigratieingoedebanen.nl
 www.arboportaal.nl
 www.asl.omgevingswet.overheid.nl
+www.atkm.nl
 www.belastingdienst.nl
 www.bta.omgevingswet.overheid.nl
 www.dmo.omgevingswet.overheid.nl

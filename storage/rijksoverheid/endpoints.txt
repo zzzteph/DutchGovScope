@@ -106,6 +106,7 @@ https://apis.developer.overheid.nl
 https://arbeidsmigratieingoedebanen.nl
 https://arboportaal.nl
 https://artifact-rd1.toegang.overheid.nl
+https://atkm.nl
 https://autodiscover.koop.overheid.nl
 https://autodiscover.overheid.nl
 https://bag.basisregistraties.overheid.nl
@@ -136,6 +137,7 @@ https://besluitpreviewservice.overheid.nl
 https://beta.belastingdienst.nl
 https://betalen-cnf.belastingdienst.nl
 https://betalen.belastingdienst.nl
+https://bezwaar.atkm.nl
 https://bgt.basisregistraties.overheid.nl
 https://bodem-ondergrond.omgevingswet.overheid.nl
 https://boub-api-acc.overheid.nl
@@ -233,6 +235,7 @@ https://externe-veiligheid.omgevingswet.overheid.nl
 https://f2b.belastingdienst.nl
 https://fed01.toeslagen.nl
 https://fed01.tst.toeslagen.nl
+https://feedback.atkm.nl
 https://feeds.a2vonderenkerensheide.nl
 https://feeds.aanbiedersmedicijnen.nl
 https://feeds.aboutnetherlandscustoms.nl
@@ -254,6 +257,7 @@ https://feeds.animalfreeinnovationtpi.nl
 https://feeds.antennebureau.nl
 https://feeds.arbeidsmigratieingoedebanen.nl
 https://feeds.arboportaal.nl
+https://feeds.atkm.nl
 https://feeds.english.aivd.nl
 https://feeds.english.igj.nl
 https://feeds.igj.nl
@@ -350,6 +354,7 @@ https://mail.koop.overheid.nl
 https://mailing.logius.nl
 https://maps.aaenmaas.nl
 https://meet.aaenmaas.nl
+https://meldingen.atkm.nl
 https://metelkaartrekkenwedegrens.nl
 https://mijn-aanvraag.belastingdienst.nl
 https://mijn-acc.igj.nl
@@ -409,6 +414,7 @@ https://opendata.animalfreeinnovationtpi.nl
 https://opendata.antennebureau.nl
 https://opendata.arbeidsmigratieingoedebanen.nl
 https://opendata.arboportaal.nl
+https://opendata.atkm.nl
 https://opendata.english.aivd.nl
 https://opendata.english.igj.nl
 https://opendata.igj.nl
@@ -656,6 +662,7 @@ https://www.animalfreeinnovationtpi.nl
 https://www.antennebureau.nl
 https://www.arbeidsmigratieingoedebanen.nl
 https://www.arboportaal.nl
+https://www.atkm.nl
 https://www.belastingdienst.nl
 https://www.bta.omgevingswet.overheid.nl
 https://www.dmo.omgevingswet.overheid.nl
