@@ -119,6 +119,7 @@ bgt
 obsurv
 begroting
 e
+_autodiscover._tcp
 preprodbroker
 simform
 mijninkomen
@@ -134,7 +135,6 @@ mdm
 opendata
 smtp
 mobiel
-_autodiscover._tcp
 gisib
 web
 izaaksuite

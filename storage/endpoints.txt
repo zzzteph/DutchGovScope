@@ -371,6 +371,7 @@ http://nhr-test.gemeente-steenbergen.nl
 http://nieuwkoop.nl
 http://nijkerk.eu
 http://nuenen.nl
+http://oirschot.nl
 http://ondertekeningsviewer.overheid.nl
 http://open.doetinchem.nl
 http://open.gemeentebeek.nl
@@ -396,7 +397,6 @@ http://pre-ows-websrvc-test.groningen.nl
 http://preprod-machtigen.digipoort.logius.nl
 http://preproductie.beekdaelen.nl
 http://preproductie.deurne.nl
-http://preproductie.oirschot.nl
 http://preproductie.zoetermeer.nl
 http://preproductie.zwartewaterland.nl
 http://publicaties.stadskanaal.nl
@@ -3347,6 +3347,7 @@ https://felix.middendelfland.nl
 https://felix.mookenmiddelaar.nl
 https://felix.nijkerk.eu
 https://felix.nuenen.nl
+https://felix.oirschot.nl
 https://felix.opmeer.nl
 https://felix.opsterland.nl
 https://felix.reuseldemierden.nl
@@ -5677,7 +5678,6 @@ https://oidc.erfpachtprofessionals-ont.amsterdam.nl
 https://oidc.erfpachtzakelijk-dev.amsterdam.nl
 https://oidc.erfpachtzakelijk-ont.amsterdam.nl
 https://oinregister.logius.nl
-https://oirschot.nl
 https://ois.accp.s-hertogenbosch.nl
 https://oisterwijk.nl
 https://old-dbmanager.acc.denhaag.nl
@@ -6468,6 +6468,7 @@ https://preproductie.landgraaf.nl
 https://preproductie.leudal.nl
 https://preproductie.montferland.info
 https://preproductie.mookenmiddelaar.nl
+https://preproductie.oirschot.nl
 https://preproductie.pijnacker-nootdorp.nl
 https://preproductie.reuseldemierden.nl
 https://preproductie.simpelveld.nl
@@ -7042,6 +7043,7 @@ https://simsite.landgraaf.nl
 https://simsite.leudal.nl
 https://simsite.lopik.nl
 https://simsite.mookenmiddelaar.nl
+https://simsite.oirschot.nl
 https://simsite.opmeer.nl
 https://simsite.opsterland.nl
 https://simsite.pekela.nl
@@ -8733,7 +8735,6 @@ https://www.nwro.velsen.nl
 https://www.oco.eindhoven.nl
 https://www.oefenenmetstemmen.denhaag.nl
 https://www.oegstgeest.nl
-https://www.oirschot.nl
 https://www.oisterwijk.nl
 https://www.old.landvancuijk.nl
 https://www.oldebroek.nl
