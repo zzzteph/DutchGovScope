@@ -440,6 +440,7 @@ acc.api.top.amsterdam.nl
 acc.api.wonen.zaken.amsterdam.nl
 acc.app.amsterdam.nl
 acc.app.meldingen.amsterdam.nl
+acc.avgregisterrijksoverheid.nl
 acc.basisstatistiek.amsterdam.nl
 acc.beesel.nl
 acc.beheer.data.amsterdam.nl
@@ -1953,6 +1954,7 @@ av.urk.nl
 av2.urk.nl
 avedge.zwolle.nl
 avghelpdeskzorg.nl
+avgregisterrijksoverheid.nl
 avproxy.vga.amsterdam.nl
 aw-content.belastingdienst.nl
 aw-ds.belastingdienst.nl
@@ -15672,6 +15674,7 @@ www.auth.sudwestfryslan.nl
 www.automator2.twenterand.nl
 www.autoriteitnvs.nl
 www.avghelpdeskzorg.nl
+www.avgregisterrijksoverheid.nl
 www.baarle-nassau.nl
 www.baarn.nl
 www.baarsjes.amsterdam.nl

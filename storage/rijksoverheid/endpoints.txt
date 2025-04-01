@@ -1,3 +1,4 @@
+http://acc.avgregisterrijksoverheid.nl
 http://acc.oinregister.logius.nl
 http://acpt-machtigen.digipoort.logius.nl
 http://amp-idp-pre.logius.nl
@@ -112,6 +113,7 @@ https://autodiscover.koop.overheid.nl
 https://autodiscover.overheid.nl
 https://autoriteitnvs.nl
 https://avghelpdeskzorg.nl
+https://avgregisterrijksoverheid.nl
 https://bag.basisregistraties.overheid.nl
 https://bag.test.basisregistraties.overheid.nl
 https://bag2.basisregistraties.overheid.nl
@@ -678,6 +680,7 @@ https://www.atkm.nl
 https://www.auditdienstrijk.nl
 https://www.autoriteitnvs.nl
 https://www.avghelpdeskzorg.nl
+https://www.avgregisterrijksoverheid.nl
 https://www.belastingdienst.nl
 https://www.bta.omgevingswet.overheid.nl
 https://www.dmo.omgevingswet.overheid.nl

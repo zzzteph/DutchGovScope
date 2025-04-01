@@ -10,6 +10,7 @@ http://AutoDiscover.stedebroec.nl
 http://AutoDiscover.westvoorne.nl
 http://Autodiscover.hilversum.nl
 http://acc-zaanlink.zaanstad.nl
+http://acc.avgregisterrijksoverheid.nl
 http://acc.oinregister.logius.nl
 http://acpt-machtigen.digipoort.logius.nl
 http://afspraak.bergendal.nl
@@ -1553,6 +1554,7 @@ https://autorisatietest.bloemendaal.nl
 https://autorisatietest.heemstede.nl
 https://autoriteitnvs.nl
 https://avghelpdeskzorg.nl
+https://avgregisterrijksoverheid.nl
 https://awm.amsterdam.nl
 https://awmag.asten.nl
 https://awmag.roermond.nl
@@ -8562,6 +8564,7 @@ https://www.atkm.nl
 https://www.auditdienstrijk.nl
 https://www.autoriteitnvs.nl
 https://www.avghelpdeskzorg.nl
+https://www.avgregisterrijksoverheid.nl
 https://www.baarle-nassau.nl
 https://www.barendrecht.nl
 https://www.barneveld.nl

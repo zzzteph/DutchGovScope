@@ -79,6 +79,7 @@ acc-internationaal.ondernemen.overheid.nl
 acc-webservice-tdv.igj.nl
 acc.aanbiedersmedicijnen.nl
 acc.adviescollegeveiligheidgroningen.nl
+acc.avgregisterrijksoverheid.nl
 acc.contactherstelservice.lpc.mijn.overheid.nl
 acc.digid-stub.lpc.mijn.overheid.nl
 acc.eidas-stub.lpc.mijn.overheid.nl
@@ -201,6 +202,7 @@ autodiscover.rcgog.nl
 autoriteitnvs.nl
 av.aaenmaas.nl
 avghelpdeskzorg.nl
+avgregisterrijksoverheid.nl
 aw-content.belastingdienst.nl
 aw-ds.belastingdienst.nl
 aw-ftp.belastingdienst.nl
@@ -1774,6 +1776,7 @@ www.atkm.nl
 www.auditdienstrijk.nl
 www.autoriteitnvs.nl
 www.avghelpdeskzorg.nl
+www.avgregisterrijksoverheid.nl
 www.belastingdienst.nl
 www.bta.omgevingswet.overheid.nl
 www.dmo.omgevingswet.overheid.nl
