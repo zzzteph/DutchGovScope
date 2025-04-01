@@ -418,6 +418,7 @@ gisservices
 dataportaal
 id
 www.kaarten
+www.mail
 loket.test
 www.acceptatie
 secure-test
@@ -723,7 +724,6 @@ digitaalloket
 hta
 ews
 www.belastingloket
-www.mail
 prtg
 opentunnel
 duoloket
@@ -2886,6 +2886,8 @@ xential-acpt
 uptime
 www.zoekeentolkvertaler
 zoekeentolkvertaler
+ws-acc
+ws
 email.mail.participatie
 mail.participatie
 aalten-checker-preprod

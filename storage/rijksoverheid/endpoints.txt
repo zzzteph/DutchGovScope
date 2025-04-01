@@ -202,6 +202,7 @@ https://brt.basisregistraties.overheid.nl
 https://brt.test.basisregistraties.overheid.nl
 https://bta.omgevingswet.overheid.nl
 https://bureauncdr.nl
+https://bureauwsnp.nl
 https://bvd-pre.mev.logius.nl
 https://bvd.mev.logius.nl
 https://bvs.belastingdienst.nl
@@ -822,6 +823,7 @@ https://www.braic.nl
 https://www.bta.omgevingswet.overheid.nl
 https://www.bureauncdr.nl
 https://www.bureauwbtv.nl
+https://www.bureauwsnp.nl
 https://www.dataportaal.brabant.nl
 https://www.dmo.omgevingswet.overheid.nl
 https://www.enabling.omgevingswet.overheid.nl

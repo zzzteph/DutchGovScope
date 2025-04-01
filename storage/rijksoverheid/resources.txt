@@ -401,6 +401,7 @@ btube.belastingdienst.nl
 btubeont.vcdn.belastingdienst.nl
 btubetst.vcdn.belastingdienst.nl
 bureauncdr.nl
+bureauwsnp.nl
 bvd-pre.mev.logius.nl
 bvd.mev.logius.nl
 bvs.belastingdienst.nl
@@ -1030,6 +1031,7 @@ magazines.werkenvoornederland.nl
 magazinesintern.rijksoverheid.nl
 mail.bapi.belastingdienst.nl
 mail.bapicft.belastingdienst.nl
+mail.bureauwsnp.nl
 mail.koop.overheid.nl
 mail240.brabant.nl
 mail241.brabant.nl
@@ -1923,6 +1925,8 @@ wiki.rijksoverheid.nl
 wms.aanpakringzuid.nl
 woo-formulier.rijksoverheid.nl
 wordimport.drop.overheid.nl
+ws-acc.bureauwsnp.nl
+ws.bureauwsnp.nl
 wsgwhc-acc.belastingdienst.nl
 wsgwhc.belastingdienst.nl
 wus-encryptie.acc.belastingdienst.nl
@@ -1990,6 +1994,7 @@ www.braic.nl
 www.bta.omgevingswet.overheid.nl
 www.bureauncdr.nl
 www.bureauwbtv.nl
+www.bureauwsnp.nl
 www.dataportaal.brabant.nl
 www.dmo.omgevingswet.overheid.nl
 www.enabling.omgevingswet.overheid.nl
@@ -2008,6 +2013,7 @@ www.integratie02.omgevingswet.overheid.nl
 www.intpatch.omgevingswet.overheid.nl
 www.kaarten.brabant.nl
 www.logius.nl
+www.mail.bureauwsnp.nl
 www.metelkaartrekkenwedegrens.nl
 www.mijn.overheid.nl
 www.nieuwsbrievenminocw.nl
