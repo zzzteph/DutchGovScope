@@ -140,6 +140,7 @@ micollab
 mobiel
 lyncdiscover
 email
+ftp
 gisib
 izaaksuite
 subsidies
@@ -162,7 +163,6 @@ mailing
 maps
 geoportaal
 belastingportaal
-ftp
 openzaak
 auth
 gis
@@ -2899,6 +2899,8 @@ mdmvpn-t
 mdmvpn
 ncp-api-1
 toetsingonline
+testsite
+www.testsite
 email.mail.participatie
 mail.participatie
 aalten-checker-preprod

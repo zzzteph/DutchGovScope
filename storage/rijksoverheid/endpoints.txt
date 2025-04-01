@@ -219,6 +219,7 @@ https://cbm.mijn.overheid.nl
 https://cbm.preprod.mijn.overheid.nl
 https://cciwebstats.belastingdienst.nl
 https://ccmo.nl
+https://ceg.nl
 https://centraalaanspreekpuntpensioenen.belastingdienst.nl
 https://channels.lpc.logius.nl
 https://chw.aandeslagmetdeomgevingswet.nl
@@ -360,6 +361,7 @@ https://feeds.campagnetoolkits.nl
 https://feeds.caorijk.nl
 https://feeds.cbg-meb.nl
 https://feeds.ccmo.nl
+https://feeds.ceg.nl
 https://feeds.english.aivd.nl
 https://feeds.english.autoriteitnvs.nl
 https://feeds.english.belastingdienst-cn.nl
@@ -386,6 +388,7 @@ https://fmis.belastingdienst.nl
 https://formulier.werkenvoornederland.nl
 https://formulieren.brabant.nl
 https://fsvportaal.belastingdienst.nl
+https://ftp.ceg.nl
 https://gdlo.belastingdienst.nl
 https://gegevensbijbesluiten.overheid.nl
 https://gegevensdelen.preprod.mijn.overheid.nl
@@ -558,6 +561,7 @@ https://opendata.campagnetoolkits.nl
 https://opendata.caorijk.nl
 https://opendata.cbg-meb.nl
 https://opendata.ccmo.nl
+https://opendata.ceg.nl
 https://opendata.english.aivd.nl
 https://opendata.english.autoriteitnvs.nl
 https://opendata.english.belastingdienst-cn.nl
@@ -748,6 +752,7 @@ https://test-dictu.logius.nl
 https://test-internationaal.ondernemen.overheid.nl
 https://test.belastingdienst-cn.nl
 https://testeloket.aaenmaas.nl
+https://testsite.ceg.nl
 https://teverantwoordenregelingen.rijksoverheid.nl
 https://toepasbare-regels.omgevingswet.overheid.nl
 https://toepasbare-regels.pre.omgevingswet.overheid.nl
@@ -858,6 +863,7 @@ https://www.caorijk.nl
 https://www.cbg-meb.nl
 https://www.cbgjaarverslag.nl
 https://www.ccmo.nl
+https://www.ceg.nl
 https://www.dataportaal.brabant.nl
 https://www.dmo.omgevingswet.overheid.nl
 https://www.enabling.omgevingswet.overheid.nl
@@ -883,6 +889,7 @@ https://www.perf.omgevingswet.overheid.nl
 https://www.pre.omgevingswet.overheid.nl
 https://www.rcgog.nl
 https://www.rijksoverheid.nl
+https://www.testsite.ceg.nl
 https://www.toeslagen.nl
 https://www.tst2905.omgevingswet.overheid.nl
 https://www.wegen.brabant.nl

@@ -3088,6 +3088,7 @@ cctst.apeldoorn.nl
 cda.mookenmiddelaar.nl
 cdn.oude-ijsselstreek.nl
 cdn1.tilburg.nl
+ceg.nl
 centraalaanspreekpuntpensioenen.acc.belastingdienst.nl
 centraalaanspreekpuntpensioenen.belastingdienst.nl
 centric-lvo-vth-p-swf.digikoppeling.sudwestfryslan.nl
@@ -5459,6 +5460,7 @@ feeds.campagnetoolkits.nl
 feeds.caorijk.nl
 feeds.cbg-meb.nl
 feeds.ccmo.nl
+feeds.ceg.nl
 feeds.english.aivd.nl
 feeds.english.autoriteitnvs.nl
 feeds.english.belastingdienst-cn.nl
@@ -5917,6 +5919,7 @@ ftp.amsterdam.nl
 ftp.bodegraven-reeuwijk.nl
 ftp.brummen.nl
 ftp.castricum.nl
+ftp.ceg.nl
 ftp.data.amsterdam.nl
 ftp.dwiweb.amsterdam.nl
 ftp.dwiweb.brievenbus.amsterdam.nl
@@ -10527,6 +10530,7 @@ opendata.campagnetoolkits.nl
 opendata.caorijk.nl
 opendata.cbg-meb.nl
 opendata.ccmo.nl
+opendata.ceg.nl
 opendata.english.aivd.nl
 opendata.english.autoriteitnvs.nl
 opendata.english.belastingdienst-cn.nl
@@ -14258,6 +14262,7 @@ testsiam.schiermonnikoog.nl
 testsiam.terschelling.nl
 testsiam.vlieland.nl
 testsim.westmaasenwaal.nl
+testsite.ceg.nl
 testsuitewiz.nissewaard.nl
 testtsjinstbus.harlingen.nl
 testtsjinstbus.sudwestfryslan.nl
@@ -16040,6 +16045,7 @@ www.castricum.nl
 www.cbg-meb.nl
 www.cbgjaarverslag.nl
 www.ccmo.nl
+www.ceg.nl
 www.centrum.amsterdam.nl
 www.centrumbegroot.alphenaandenrijn.nl
 www.centrumbegroot.amsterdam.nl
@@ -16864,6 +16870,7 @@ www.test.sudwestfryslan.nl
 www.testeloket.rhenen.nl
 www.testloket.groningen.nl
 www.testnhr.sudwestfryslan.nl
+www.testsite.ceg.nl
 www.texel.nl
 www.teylingen.nl
 www.tholen.nl

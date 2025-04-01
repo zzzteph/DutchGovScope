@@ -456,6 +456,7 @@ cbm.tst5.mijn.overheid.nl
 cciwebstats.belastingdienst.nl
 ccmo.nl
 ccn2.belastingdienst.nl
+ceg.nl
 centraalaanspreekpuntpensioenen.acc.belastingdienst.nl
 centraalaanspreekpuntpensioenen.belastingdienst.nl
 cert.test2gbav.belastingdienst.nl
@@ -726,6 +727,7 @@ feeds.campagnetoolkits.nl
 feeds.caorijk.nl
 feeds.cbg-meb.nl
 feeds.ccmo.nl
+feeds.ceg.nl
 feeds.english.aivd.nl
 feeds.english.autoriteitnvs.nl
 feeds.english.belastingdienst-cn.nl
@@ -784,6 +786,7 @@ fs-up-sts02.brabant.nl
 fs.belastingdienst.nl
 fsvportaal.acc.belastingdienst.nl
 fsvportaal.belastingdienst.nl
+ftp.ceg.nl
 ftp.koop.overheid.nl
 ftpsconfpriv.belastingdienst.nl
 ftpsconfpriv.egb-kps.belastingdienst.nl
@@ -1318,6 +1321,7 @@ opendata.campagnetoolkits.nl
 opendata.caorijk.nl
 opendata.cbg-meb.nl
 opendata.ccmo.nl
+opendata.ceg.nl
 opendata.english.aivd.nl
 opendata.english.autoriteitnvs.nl
 opendata.english.belastingdienst-cn.nl
@@ -1759,6 +1763,7 @@ test2gbav.belastingdienst.nl
 testdigitaalvergaderen.belastingdienst.nl
 testdigitaalvergaderen.ont.belastingdienst.nl
 testeloket.aaenmaas.nl
+testsite.ceg.nl
 teverantwoordenregelingen.rijksoverheid.nl
 tgsb-btssrv-ut.tst.belastingdienst.nl
 tmd.acc.belastingdienst.nl
@@ -2049,6 +2054,7 @@ www.caorijk.nl
 www.cbg-meb.nl
 www.cbgjaarverslag.nl
 www.ccmo.nl
+www.ceg.nl
 www.dataportaal.brabant.nl
 www.dmo.omgevingswet.overheid.nl
 www.enabling.omgevingswet.overheid.nl
@@ -2081,6 +2087,7 @@ www.rcgog.nl
 www.rijksoverheid.nl
 www.sharepoint-conf.belastingdienst.nl
 www.sharepoint.belastingdienst.nl
+www.testsite.ceg.nl
 www.toeslagen.nl
 www.tst2905.omgevingswet.overheid.nl
 www.vepkmsont.vcdn.belastingdienst.nl
