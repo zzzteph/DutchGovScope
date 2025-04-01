@@ -12,9 +12,11 @@ http://Autodiscover.hilversum.nl
 http://acc-zaanlink.zaanstad.nl
 http://acc.avgregisterrijksoverheid.nl
 http://acc.oinregister.logius.nl
+http://acceptatie.digikoppeling-dcr.cibg.nl
 http://acpt-machtigen.digipoort.logius.nl
 http://afspraak.bergendal.nl
 http://afspraken.rijssen-holten.nl
+http://ag-dcr.cibg.nl
 http://ami.amsterdam.nl
 http://amp-idp-pre.logius.nl
 http://amp-idp.logius.nl
@@ -407,6 +409,7 @@ http://preproductie.opmeer.nl
 http://preproductie.zoetermeer.nl
 http://preproductie.zwartewaterland.nl
 http://publicaties.stadskanaal.nl
+http://publicwebservices-dcr.cibg.nl
 http://pv.gemeentesluis.nl
 http://pwa001.belastingdienst.nl
 http://raadsagenda.oirschot.nl
@@ -485,6 +488,7 @@ http://sslvpn.haarlem.nl
 http://stadsatlas.zoetermeer.nl
 http://stadspas.weert.nl
 http://stagiairs.werkenvoornederland.nl
+http://stijlgids.cibg.nl
 http://stijlgids.overheid.nl
 http://subsites.amsterdam.nl
 http://survey-acc.igj.nl
@@ -510,6 +514,7 @@ http://test-jip.hofvantwente.nl
 http://test-machtigen.digipoort.logius.nl
 http://test-social.montferland.info
 http://test-topvorm.apeldoorn.nl
+http://test.digikoppeling.cibg.nl
 http://test.veere.nl
 http://test.website.westland.gemeentewestland.nl
 http://testcms-jip.hofvantwente.nl
@@ -952,13 +957,21 @@ https://acceptatie-zaaksysteem.soest.nl
 https://acceptatie.advieswijzer.bigregister.nl
 https://acceptatie.alphen-chaam.nl
 https://acceptatie.api.bigregister.nl
+https://acceptatie.applicationframework.cibg.nl
 https://acceptatie.asten.nl
 https://acceptatie.baarle-nassau.nl
 https://acceptatie.behandel.bigregister.nl
+https://acceptatie.behandel.generiekeregistratiedienst.cibg.nl
 https://acceptatie.beheer.bigregister.nl
+https://acceptatie.beheer.generiekeregistratiedienst.cibg.nl
+https://acceptatie.beheer.lir.cibg.nl
+https://acceptatie.beheer.lrza.cibg.nl
+https://acceptatie.bestandsportaal.cibg.nl
 https://acceptatie.delft.nl
+https://acceptatie.designsystem.cibg.nl
 https://acceptatie.dewolden.nl
 https://acceptatie.dongen.nl
+https://acceptatie.drms.cibg.nl
 https://acceptatie.eemsdelta.nl
 https://acceptatie.eloket.leusden.nl
 https://acceptatie.gemeentesluis.nl
@@ -974,8 +987,10 @@ https://acceptatie.insite.oisterwijk.nl
 https://acceptatie.intranet.debilt.nl
 https://acceptatie.leiderdorp.nl
 https://acceptatie.leusden.nl
+https://acceptatie.lir.cibg.nl
 https://acceptatie.lisse.nl
 https://acceptatie.loonopzand.nl
+https://acceptatie.meldingen.klopt.cibg.nl
 https://acceptatie.midden-groningen.nl
 https://acceptatie.middendrenthe.nl
 https://acceptatie.mijn.bigregister.nl
@@ -986,6 +1001,9 @@ https://acceptatie.oegstgeest.nl
 https://acceptatie.oisterwijk.nl
 https://acceptatie.oosterhout.nl
 https://acceptatie.oranjeplein.goirle.nl
+https://acceptatie.portaal.competent.cibg.nl
+https://acceptatie.portaal.digilevering.cibg.nl
+https://acceptatie.publicwebservices.cibg.nl
 https://acceptatie.rijswijk.nl
 https://acceptatie.schagen.nl
 https://acceptatie.someren.nl
@@ -994,6 +1012,8 @@ https://acceptatie.subsidies-backend.ede.nl
 https://acceptatie.subsidies.ede.nl
 https://acceptatie.tea.bigregister.nl
 https://acceptatie.teylingen.nl
+https://acceptatie.tmv.cibg.nl
+https://acceptatie.uzipas.lir.cibg.nl
 https://acceptatie.velsen.nl
 https://acceptatie.voorst.nl
 https://acceptatie.waadhoeke.nl
@@ -1323,6 +1343,7 @@ https://api.erfpachtzakelijk.amsterdam.nl
 https://api.hardenberg.nl
 https://api.heitje.heerlen.nl
 https://api.horstaandemaas.nl
+https://api.klopt.cibg.nl
 https://api.makkelijkemarkt.amsterdam.nl
 https://api.melding.acc.heerlen.nl
 https://api.melding.heerlen.nl
@@ -1436,7 +1457,9 @@ https://appapi.montferland.info
 https://appl.gw.rotterdam.nl
 https://applicaties.tilburg.nl
 https://applicaties.zwolle.nl
+https://applicationframework.cibg.nl
 https://applicationgateway.tilburg.nl
+https://applications.klopt.cibg.nl
 https://apps-fat.dijkenwaard.nl
 https://apps-vdi.dijkenwaard.nl
 https://apps.amsterdam.nl
@@ -1724,13 +1747,17 @@ https://begroting2021.pijnacker-nootdorp.nl
 https://begroting2023.rijssen-holten.nl
 https://beh-gemeenteloket.gemeentemaastricht.nl
 https://behandel.bigregister.nl
+https://behandel.generiekeregistratiedienst.cibg.nl
 https://beheer-test-trefpunt.deurne.nl
 https://beheer-trefpunt.deurne.nl
 https://beheer.acc.amsterdam.nl
 https://beheer.amsterdam.nl
 https://beheer.bigregister.nl
 https://beheer.gemeentehw.nl
+https://beheer.generiekeregistratiedienst.cibg.nl
 https://beheer.landvancuijk.nl
+https://beheer.lir.cibg.nl
+https://beheer.lrza.cibg.nl
 https://beheerautoriteitwaddenzee.nl
 https://beheerbeeldbank.breda.nl
 https://beheerbeeldbank.soest.nl
@@ -1911,6 +1938,7 @@ https://bestand.gemeentebest.nl
 https://bestanden.dongen.nl
 https://bestanden.veere.nl
 https://bestanden.venray.nl
+https://bestandsportaal.cibg.nl
 https://bestandverzenden.leeuwarden.nl
 https://bestelportaal.denhaag.nl
 https://bestemmingsplan.rhenen.nl
@@ -2213,6 +2241,7 @@ https://cbm.mijn.overheid.nl
 https://cbm.preprod.mijn.overheid.nl
 https://cciwebstats.belastingdienst.nl
 https://ccmo.nl
+https://cdn.klopt.cibg.nl
 https://cdn.oude-ijsselstreek.nl
 https://cdn1.tilburg.nl
 https://ceg.nl
@@ -2223,12 +2252,14 @@ https://centrumbegroot.alphenaandenrijn.nl
 https://centrumbegroot.amsterdam.nl
 https://cert.nl
 https://channels.lpc.logius.nl
+https://chatapi.klopt.cibg.nl
 https://checklist.rotterdam.nl
 https://chw.aandeslagmetdeomgevingswet.nl
 https://cia.acp.ondernemersplein.overheid.nl
 https://cia.ondernemersplein.overheid.nl
 https://cia.staging.ondernemersplein.overheid.nl
 https://cia.tst.ondernemersplein.overheid.nl
+https://cibg.nl
 https://cicd010.rotterdam.nl
 https://cimot.almelo.nl
 https://cio-eto.overheid.nl
@@ -2403,6 +2434,7 @@ https://contactregistratie.acc.amsterdam.nl
 https://contactregistratie.amsterdam.nl
 https://contactregistratie.tst.amsterdam.nl
 https://containers.amsterdam.nl
+https://content.klopt.cibg.nl
 https://content.omgevingswet.overheid.nl
 https://contentbeheer.acc.omgevingswet.overheid.nl
 https://contentbeheer.acceptatie.winterswijk.nl
@@ -2602,8 +2634,10 @@ https://derondevenen.nl
 https://deschop.acceptatie.asten.nl
 https://deschop.asten.nl
 https://design.hoorn.nl
+https://designsystem.cibg.nl
 https://designsystem.leiden.nl
 https://designtool.rotterdam.nl
+https://desktop.klopt.cibg.nl
 https://desktop.lelystad.nl
 https://desktop5.denhaag.nl
 https://destemvan.groningen.nl
@@ -2750,6 +2784,7 @@ https://draadloos.sittard-geleen.nl
 https://draf.brabant.nl
 https://drechterland.nl
 https://drimmelen.nl
+https://drms.cibg.nl
 https://dronten.nl
 https://drop-api-preprd-poc.overheid.nl
 https://drop-api-preprd.overheid.nl
@@ -3486,6 +3521,7 @@ https://feeds.ccmo.nl
 https://feeds.ceg.nl
 https://feeds.centralecommissiedierproeven.nl
 https://feeds.cert.nl
+https://feeds.cibg.nl
 https://feeds.english.aivd.nl
 https://feeds.english.autoriteitnvs.nl
 https://feeds.english.belastingdienst-cn.nl
@@ -3646,6 +3682,7 @@ https://forms-test.druten.nl
 https://forms-test.wijchen.nl
 https://forms.deventer.nl
 https://forms.druten.nl
+https://forms.klopt.cibg.nl
 https://forms.vga.amsterdam.nl
 https://forms.wijchen.nl
 https://formulier-acc.ede.nl
@@ -4948,6 +4985,7 @@ https://liquit.gemeenteberkelland.nl
 https://liquit.gemeentebest.nl
 https://liquit.montferland.info
 https://liquitsatellite.tilburg.nl
+https://lir.cibg.nl
 https://lisse-checker-preprod.lisse.nl
 https://lisse.nl
 https://live.bergen-nh.nl
@@ -5144,6 +5182,7 @@ https://makelpunt.nijmegen.nl
 https://makelpunt.openstad.enschede.nl
 https://mam.groningen.nl
 https://management.api.amsterdam.nl
+https://manager.klopt.cibg.nl
 https://map.data.amsterdam.nl
 https://maps-tst.groningen.nl
 https://maps.aaenmaas.nl
@@ -5273,6 +5312,7 @@ https://meldingen.hengelo.nl
 https://meldingen.heuvelrug.nl
 https://meldingen.hilversum.nl
 https://meldingen.kampen.nl
+https://meldingen.klopt.cibg.nl
 https://meldingen.leeuwarden.nl
 https://meldingen.leiden.nl
 https://meldingen.leiderdorp.nl
@@ -6112,6 +6152,7 @@ https://opendata.ccmo.nl
 https://opendata.ceg.nl
 https://opendata.centralecommissiedierproeven.nl
 https://opendata.cert.nl
+https://opendata.cibg.nl
 https://opendata.english.aivd.nl
 https://opendata.english.autoriteitnvs.nl
 https://opendata.english.belastingdienst-cn.nl
@@ -6538,6 +6579,8 @@ https://point.assen.nl
 https://pollerscs.rotterdam.nl
 https://pop.deventer.nl
 https://portaal.belastingdienst.nl
+https://portaal.competent.cibg.nl
+https://portaal.digilevering.cibg.nl
 https://portaal.dronten.nl
 https://portaal.gemeentehulst.nl
 https://portaal.haarlem.nl
@@ -6772,6 +6815,7 @@ https://projecten.nederbetuwe.nl
 https://projectenboek.leidschendam-voorburg.nl
 https://protectus.ggd.amsterdam.nl
 https://proto.apeldoorn.nl
+https://prototype.cibg.nl
 https://provconnect.hethogeland.nl
 https://prp.tiel.nl
 https://prtg.gemeentemaashorst.nl
@@ -7956,6 +8000,7 @@ https://tloket.wormerland.nl
 https://tma.acc.amsterdam.nl
 https://tma.amsterdam.nl
 https://tma.utrecht.nl
+https://tmv.cibg.nl
 https://tnz-rad-01.terneuzen.nl
 https://toegang.dataplatform.accp.s-hertogenbosch.nl
 https://toegang.dataplatform.s-hertogenbosch.nl
@@ -8080,6 +8125,7 @@ https://ureka.utrecht.nl
 https://urknet.urk.nl
 https://uwdorpofwijk.alphenaandenrijn.nl
 https://uwmening.denhaag.nl
+https://uzipas.lir.cibg.nl
 https://v2.openstad.haarlemmermeer.nl
 https://vaals.nl
 https://vaarkaart.bba.amsterdam.nl
@@ -8325,6 +8371,7 @@ https://web02.deventer.nl
 https://webcams.gouda.nl
 https://webcamslingerweg.breda.nl
 https://webcamspinveld.breda.nl
+https://webchat.klopt.cibg.nl
 https://webdav.goeree-overflakkee.nl
 https://webdiensten.belastingdienst.nl
 https://webdiensten.rotterdam.nl
@@ -8803,6 +8850,7 @@ https://www.centralecommissiedierproeven.nl
 https://www.centrumbegroot.alphenaandenrijn.nl
 https://www.centrumbegroot.amsterdam.nl
 https://www.cert.nl
+https://www.cibg.nl
 https://www.cjg.denhaag.nl
 https://www.cjg.olst-wijhe.nl
 https://www.cmsoo.gemeente.groningen.nl

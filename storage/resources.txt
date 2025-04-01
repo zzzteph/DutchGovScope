@@ -95,6 +95,7 @@ _autodiscover._tcp.raalte.nl
 _autodiscover._tcp.ridderkerk.nl
 _autodiscover._tcp.schiermonnikoog.nl
 _autodiscover._tcp.wijkbijduurstede.nl
+_dmarc.cibg.nl
 _dmarc.delft.nl
 _dmarc.helmond.nl
 _dmarc.leiden.nl
@@ -131,6 +132,7 @@ a-feeds.avghelpdeskzorg.nl
 a-feeds.bigregister.nl
 a-feeds.cbg-meb.nl
 a-feeds.centralecommissiedierproeven.nl
+a-feeds.cibg.nl
 a-feeds.igj.nl
 a-feeds.rijksoverheid.nl
 a-git.rijksoverheid.nl
@@ -152,6 +154,7 @@ a-opendata.avghelpdeskzorg.nl
 a-opendata.bigregister.nl
 a-opendata.cbg-meb.nl
 a-opendata.centralecommissiedierproeven.nl
+a-opendata.cibg.nl
 a-opendata.igj.nl
 a-opendata.rijksoverheid.nl
 a-p-ddi-0003.leeuwarden.nl
@@ -177,6 +180,7 @@ a-www.bigregister.nl
 a-www.cbg-meb.nl
 a-www.cbgjaarverslag.nl
 a-www.centralecommissiedierproeven.nl
+a-www.cibg.nl
 a-www.igj.nl
 a-www.rijksoverheid.nl
 a2b-rtr.alkmaar.nl
@@ -314,6 +318,7 @@ acc-keycloak.oostgelre.nl
 acc-keycloak.roermond.nl
 acc-keycloak.zwolle.nl
 acc-loket.zaanstad.nl
+acc-lrza.services.cibg.nl
 acc-maps.almere.nl
 acc-mediabank.gemeentehw.nl
 acc-midoffice.gemeente-oldambt.nl
@@ -679,21 +684,36 @@ acceptatie.advieswijzer.bigregister.nl
 acceptatie.alphen-chaam.nl
 acceptatie.amstelveen.nl
 acceptatie.api.bigregister.nl
+acceptatie.api.kcc.cibg.nl
+acceptatie.applicationframework.cibg.nl
 acceptatie.asten.nl
 acceptatie.baarle-nassau.nl
 acceptatie.behandel.bigregister.nl
+acceptatie.behandel.generiekeregistratiedienst.cibg.nl
+acceptatie.behandel.isms.cibg.nl
 acceptatie.beheer.bigregister.nl
+acceptatie.beheer.generiekeregistratiedienst.cibg.nl
+acceptatie.beheer.lir.cibg.nl
+acceptatie.beheer.lrza.cibg.nl
+acceptatie.bestandsportaal.cibg.nl
 acceptatie.boxtel.nl
+acceptatie.brba.cibg.nl
 acceptatie.culemborg.nl
 acceptatie.dantumadiel.frl
 acceptatie.debilt.nl
 acceptatie.delft.nl
 acceptatie.denhelder.nl
 acceptatie.derondevenen.nl
+acceptatie.designsystem.cibg.nl
 acceptatie.dewolden.nl
 acceptatie.diemen.nl
+acceptatie.digikoppeling-dcr.cibg.nl
+acceptatie.digikoppeling.cibg.nl
+acceptatie.digikoppeling2.cibg.nl
 acceptatie.dongen.nl
 acceptatie.drechterland.nl
+acceptatie.drms.cibg.nl
+acceptatie.ebms.digikoppeling.cibg.nl
 acceptatie.eemsdelta.nl
 acceptatie.eijsden-margraten.nl
 acceptatie.eindhoven.nl
@@ -726,9 +746,11 @@ acceptatie.leeuwarden.nl
 acceptatie.leiderdorp.nl
 acceptatie.leudal.nl
 acceptatie.leusden.nl
+acceptatie.lir.cibg.nl
 acceptatie.lisse.nl
 acceptatie.loonopzand.nl
 acceptatie.medemblik.nl
+acceptatie.meldingen.klopt.cibg.nl
 acceptatie.midden-groningen.nl
 acceptatie.middendrenthe.nl
 acceptatie.mijn.bigregister.nl
@@ -748,6 +770,10 @@ acceptatie.oranjeplein.goirle.nl
 acceptatie.ouder-amstel.nl
 acceptatie.participatiewebshop.emmen.nl
 acceptatie.pekela.nl
+acceptatie.portaal.competent.cibg.nl
+acceptatie.portaal.digilevering.cibg.nl
+acceptatie.publicwebservices-dcr.cibg.nl
+acceptatie.publicwebservices.cibg.nl
 acceptatie.reimerswaal.nl
 acceptatie.rijssen-holten.nl
 acceptatie.rijswijk.nl
@@ -763,7 +789,9 @@ acceptatie.subsidies.ede.nl
 acceptatie.tea.bigregister.nl
 acceptatie.teylingen.nl
 acceptatie.tiel.nl
+acceptatie.tmv.cibg.nl
 acceptatie.uithoorn.nl
+acceptatie.uzipas.lir.cibg.nl
 acceptatie.veendam.nl
 acceptatie.velsen.nl
 acceptatie.voerendaal.nl
@@ -771,6 +799,7 @@ acceptatie.voorst.nl
 acceptatie.waadhoeke.nl
 acceptatie.waalwijk.nl
 acceptatie.webservices.bigregister.nl
+acceptatie.webservices.lrza.cibg.nl
 acceptatie.westbetuwe.nl
 acceptatie.winterswijk.nl
 acceptatie.zoeken.bigregister.nl
@@ -1129,6 +1158,7 @@ afvalmelding.denhaag.nl
 afvalris.t-diel.nl
 afvalscheiden.zaanstad.nl
 afvalwijzer.lingewaard.nl
+ag-dcr.cibg.nl
 agbi.apeldoorn.nl
 agenda.landvancuijk.nl
 agis.apeldoorn.nl
@@ -1203,6 +1233,7 @@ alleplannen.laakhavensbepaalt.denhaag.nl
 alleplannen.mariahoeveaanzet.denhaag.nl
 alleplannen.noordwestbegroot.utrecht.nl
 allesoverbiologisch.nl
+alm.cibg.nl
 almanak.overheid.nl
 almelo-centraal.almelo.nl
 almelo.nl
@@ -1371,6 +1402,8 @@ api.erfpachtzakelijk.amsterdam.nl
 api.hardenberg.nl
 api.heitje.heerlen.nl
 api.horstaandemaas.nl
+api.kcc.cibg.nl
+api.klopt.cibg.nl
 api.makkelijkemarkt.amsterdam.nl
 api.melding.acc.heerlen.nl
 api.melding.heerlen.nl
@@ -1526,7 +1559,9 @@ appl03.schiedam.nl
 applicaties.amsterdam.nl
 applicaties.tilburg.nl
 applicaties.zwolle.nl
+applicationframework.cibg.nl
 applicationgateway.tilburg.nl
+applications.klopt.cibg.nl
 apps-fat.dijkenwaard.nl
 apps-vdi.dijkenwaard.nl
 apps.amsterdam.nl
@@ -2070,6 +2105,7 @@ baarle-nassau.nl
 baarn.nl
 backend-dvg.acc.rotterdam.nl
 backend-dvg.rotterdam.nl
+backend.isms.cibg.nl
 backend.socint.acc.belastingdienst.nl
 backend.socint.belastingdienst.nl
 backoffice-parkeervergunningen-acc.beverwijk.nl
@@ -2293,6 +2329,8 @@ begroting2021.pijnacker-nootdorp.nl
 begroting2023.rijssen-holten.nl
 beh-gemeenteloket.gemeentemaastricht.nl
 behandel.bigregister.nl
+behandel.generiekeregistratiedienst.cibg.nl
+behandel.isms.cibg.nl
 beheer-bzv.brabant.nl
 beheer-test-trefpunt.deurne.nl
 beheer-trefpunt.deurne.nl
@@ -2303,10 +2341,13 @@ beheer.amsterdam.nl
 beheer.bigregister.nl
 beheer.data.amsterdam.nl
 beheer.gemeentehw.nl
+beheer.generiekeregistratiedienst.cibg.nl
 beheer.integratie.omgevingswet.overheid.nl
 beheer.intpatch.omgevingswet.overheid.nl
 beheer.landvancuijk.nl
 beheer.leusden.nl
+beheer.lir.cibg.nl
+beheer.lrza.cibg.nl
 beheer.pre.omgevingswet.overheid.nl
 beheer.preprod.omgevingswet.overheid.nl
 beheer.terneuzen.nl
@@ -2544,6 +2585,7 @@ bestanden.lingewaard.nl
 bestanden.s-hertogenbosch.nl
 bestanden.veere.nl
 bestanden.venray.nl
+bestandsportaal.cibg.nl
 bestandversturen.amersfoort.nl
 bestandverzenden.leeuwarden.nl
 bestelportaal.denhaag.nl
@@ -3089,6 +3131,7 @@ ccmo.nl
 ccn2.belastingdienst.nl
 cctst.apeldoorn.nl
 cda.mookenmiddelaar.nl
+cdn.klopt.cibg.nl
 cdn.oude-ijsselstreek.nl
 cdn1.tilburg.nl
 ceg.nl
@@ -3116,12 +3159,14 @@ channels-az1.lpc.logius.nl
 channels-az2.lpc.logius.nl
 channels.logius.nl
 channels.lpc.logius.nl
+chatapi.klopt.cibg.nl
 checklist.rotterdam.nl
 chw.aandeslagmetdeomgevingswet.nl
 cia.acp.ondernemersplein.overheid.nl
 cia.ondernemersplein.overheid.nl
 cia.staging.ondernemersplein.overheid.nl
 cia.tst.ondernemersplein.overheid.nl
+cibg.nl
 cicd010.rotterdam.nl
 cijfers.zaanstad.nl
 cimot.almelo.nl
@@ -3389,6 +3434,7 @@ communicatie.oldenzaal.nl
 communication.denhelder.nl
 community.developer.overheid.nl
 comoverheidacc.breda.nl
+competent.cibg.nl
 componenten-acc.overheid.nl
 componenten-tst.overheid.nl
 componenten.acc.nijmegen.nl
@@ -3465,6 +3511,7 @@ contactregistratie.tst.amsterdam.nl
 containers.amsterdam.nl
 containersweesperbuurt.amsterdam.nl
 content.acc.omgevingswet.overheid.nl
+content.klopt.cibg.nl
 content.omgevingswet.overheid.nl
 content.oss.nl
 content.voorschoten.nl
@@ -3874,12 +3921,14 @@ derondevenen.nl
 deschop.acceptatie.asten.nl
 deschop.asten.nl
 design.hoorn.nl
+designsystem.cibg.nl
 designsystem.leiden.nl
 designsystem.overheid.nl
 designtool.rotterdam.nl
 desktop.apeldoorn.nl
 desktop.borne.nl
 desktop.denhaag.nl
+desktop.klopt.cibg.nl
 desktop.lelystad.nl
 desktop.tilburg.nl
 desktop.westerkwartier.nl
@@ -3966,6 +4015,7 @@ digiform.amsterdam.nl
 digiforms.gemeente-steenbergen.nl
 digigateway.haarlem.nl
 digik.zwartewaterland.nl
+digikoppeling-dcr.cibg.nl
 digikoppeling-mks-test.assen.nl
 digikoppeling-mks.assen.nl
 digikoppeling-ot.tilburg.nl
@@ -4014,6 +4064,7 @@ digikoppeling.brielle.nl
 digikoppeling.brunssum.nl
 digikoppeling.bunnik.nl
 digikoppeling.bunschoten.nl
+digikoppeling.cibg.nl
 digikoppeling.cranendonck.nl
 digikoppeling.debilt.nl
 digikoppeling.denhelder.nl
@@ -4122,6 +4173,7 @@ digikoppeling.zaltbommel.nl
 digikoppeling.zandvoort.nl
 digikoppeling.zeist.nl
 digikoppeling.zoeterwoude.nl
+digikoppeling2.cibg.nl
 digikoppelingadapter.doetinchem.nl
 digikoppelingenproductie.steenwijkerland.nl
 digikoppelingentest.steenwijkerland.nl
@@ -4467,6 +4519,7 @@ draf.brabant.nl
 drc.data.amsterdam.nl
 drechterland.nl
 drimmelen.nl
+drms.cibg.nl
 drone.cg-intern.acc.utrecht.nl
 dronten.nl
 drop-acc.rotterdam.nl
@@ -5007,6 +5060,8 @@ eformulieren.waterland.nl
 egemeente.urk.nl
 egemeente.westvoorne.nl
 egress-repro.alkmaar.nl
+eherkenning.services.cibg.nl
+eherkenningtest.services.cibg.nl
 ehv-lpi-ap-15.lopik.nl
 ehvsubsidie.eindhoven.nl
 ehvsubsidie.test.eindhoven.nl
@@ -5468,6 +5523,7 @@ feeds.ccmo.nl
 feeds.ceg.nl
 feeds.centralecommissiedierproeven.nl
 feeds.cert.nl
+feeds.cibg.nl
 feeds.english.aivd.nl
 feeds.english.autoriteitnvs.nl
 feeds.english.belastingdienst-cn.nl
@@ -5753,6 +5809,7 @@ forms-test.druten.nl
 forms-test.wijchen.nl
 forms.deventer.nl
 forms.druten.nl
+forms.klopt.cibg.nl
 forms.vga.amsterdam.nl
 forms.wijchen.nl
 formulier-acc.ede.nl
@@ -8112,6 +8169,7 @@ kennisnetwerk.belastingdienst.nl
 kennisportaal.denhaag.nl
 kennisportaal.deventer.nl
 kennisportaal2.deventer.nl
+kennissysteem.cibg.nl
 kentekencheck.denhaag.nl
 kerkrade.nl
 kernhem.ede.nl
@@ -8244,6 +8302,7 @@ klimaatplein.castricum.nl
 klimaatplein.heiloo.nl
 klimaatplein.uitgeest.nl
 klooster.nieuwegein.nl
+klopt.cibg.nl
 kluis.hethogeland.nl
 kmdn.gemeentehulst.nl
 knaal.helmond.nl
@@ -8418,6 +8477,7 @@ liquit.nieuwkoop.nl
 liquitsatellite.gemeenteberkelland.nl
 liquitsatellite.nieuwkoop.nl
 liquitsatellite.tilburg.nl
+lir.cibg.nl
 lisse-checker-preprod.lisse.nl
 lisse.nl
 listen2.dro.amsterdam.nl
@@ -8609,6 +8669,7 @@ lrbh2hb.belastingdienst.nl
 lrdstufxml.bergen-nh.nl
 lrza.gatservices.acc.igj.nl
 lrza.gatservices.prd.igj.nl
+lrza.services.cibg.nl
 luchen.geldrop-mierlo.nl
 lucht.omgevingswet.overheid.nl
 lv-brk.noardeast-fryslan.nl
@@ -8907,6 +8968,7 @@ mam.purmerend.nl
 mamrdm.rotterdam.nl
 managedservices.logius.nl
 management.api.amsterdam.nl
+manager.klopt.cibg.nl
 map.data-o.azure.amsterdam.nl
 map.data.amsterdam.nl
 maps-tst.groningen.nl
@@ -9108,6 +9170,7 @@ meldingen.hengelo.nl
 meldingen.heuvelrug.nl
 meldingen.hilversum.nl
 meldingen.kampen.nl
+meldingen.klopt.cibg.nl
 meldingen.leeuwarden.nl
 meldingen.leiden.nl
 meldingen.leiderdorp.nl
@@ -10540,6 +10603,7 @@ opendata.ccmo.nl
 opendata.ceg.nl
 opendata.centralecommissiedierproeven.nl
 opendata.cert.nl
+opendata.cibg.nl
 opendata.english.aivd.nl
 opendata.english.autoriteitnvs.nl
 opendata.english.belastingdienst-cn.nl
@@ -11300,6 +11364,8 @@ portaal.achtkarspelen.nl
 portaal.almelo.nl
 portaal.amsterdam.nl
 portaal.belastingdienst.nl
+portaal.competent.cibg.nl
+portaal.digilevering.cibg.nl
 portaal.dijkenwaard.nl
 portaal.dronten.nl
 portaal.gemeentehulst.nl
@@ -11334,6 +11400,7 @@ portal.beverwijk.nl
 portal.borne.nl
 portal.brandweer.amsterdam.nl
 portal.brummen.nl
+portal.cibg.nl
 portal.dab.amsterdam.nl
 portal.dalfsen.nl
 portal.data.alkmaar.nl
@@ -11785,6 +11852,7 @@ projectenboek.leidschendam-voorburg.nl
 projects.rotterdam.nl
 protectus.ggd.amsterdam.nl
 proto.apeldoorn.nl
+prototype.cibg.nl
 provconnect.hethogeland.nl
 proxy.brabant.nl
 proxy.socint.belastingdienst.nl
@@ -11828,6 +11896,8 @@ publicroam.kerkrade.nl
 publicroam.landgraaf.nl
 publicroam.simpelveld.nl
 publicroam.voerendaal.nl
+publicwebservices-dcr.cibg.nl
+publicwebservices.cibg.nl
 publiek-id-test.gouda.nl
 publiek-id.gouda.nl
 publiek.amsterdam.nl
@@ -13544,6 +13614,7 @@ stemvan.wageningen.nl
 stevensbeek.landvancuijk.nl
 sthbcp02.alkmaar.nl
 stichtsevecht.nl
+stijlgids.cibg.nl
 stijlgids.overheid.nl
 stkbcp01.alkmaar.nl
 stoepvrij.groningen.nl
@@ -14091,6 +14162,7 @@ test.bunnik.nl
 test.denhelder.nl
 test.designsystem.leiden.nl
 test.diemen.nl
+test.digikoppeling.cibg.nl
 test.digikoppeling.denhelder.nl
 test.digikoppeling.gennep.nl
 test.digikoppeling.pijnacker-nootdorp.nl
@@ -14132,6 +14204,7 @@ test.open-formulieren.vught.nl
 test.oss.nl
 test.ouder-amstel.nl
 test.pekela.nl
+test.publicwebservices.cibg.nl
 test.rijssen-holten.nl
 test.rijswijk.nl
 test.schiedam.nl
@@ -14374,6 +14447,7 @@ tmakelaar.kerkrade.nl
 tmd.acc.belastingdienst.nl
 tmd.belastingdienst.nl
 tmd.ont.belastingdienst.nl
+tmv.cibg.nl
 tnz-park-01.terneuzen.nl
 tnz-park-02.terneuzen.nl
 tnz-rad-01.terneuzen.nl
@@ -14622,6 +14696,7 @@ uswolk.sudwestfryslan.nl
 uwdorpofwijk.alphenaandenrijn.nl
 uwmening.denhaag.nl
 uwvergunning.leiden.nl
+uzipas.lir.cibg.nl
 v2.openstad.haarlemmermeer.nl
 va_do.belastingdienst.nl
 vaals.nl
@@ -15154,6 +15229,7 @@ webcams.gouda.nl
 webcamslingerweg.breda.nl
 webcamspinveld.breda.nl
 webchat.belastingdienst.nl
+webchat.klopt.cibg.nl
 webcon.castricum.nl
 webcon.hoorn.nl
 webconf.assen.nl
@@ -15361,6 +15437,7 @@ webservices.bigregister.nl
 webservices.dongen.nl
 webservices.goirle.nl
 webservices.groningen.nl
+webservices.lrza.cibg.nl
 webservices.rotterdam.nl
 webservices.str10.acc.belastingdienst.nl
 webservices.str12.acc.belastingdienst.nl
@@ -16060,6 +16137,7 @@ www.centrum.amsterdam.nl
 www.centrumbegroot.alphenaandenrijn.nl
 www.centrumbegroot.amsterdam.nl
 www.cert.nl
+www.cibg.nl
 www.citrix.gemeentebeek.nl
 www.citytrip.groningen.nl
 www.cjg.denhaag.nl
@@ -17105,6 +17183,7 @@ www2.haarlemmermeer.nl
 www2.heusden.nl
 www2.noordoostpolder.nl
 www2.testformulieren.haarlemmermeer.nl
+www2.zorgcsp.cibg.nl
 www8.toeslagen.nl
 wwwfcinetorg.belastingdienst.nl
 wwwrijksacademienl.belastingdienst.nl

@@ -1,6 +1,7 @@
 Lrza.gatservices.acc.igj.nl
 Lrza.gatservices.prd.igj.nl
 ZDPushservice.overheid.nl
+_dmarc.cibg.nl
 _dmarc.logius.nl
 _dmarc.rijksoverheid.nl
 a-cms.rijksoverheid.nl
@@ -26,6 +27,7 @@ a-feeds.avghelpdeskzorg.nl
 a-feeds.bigregister.nl
 a-feeds.cbg-meb.nl
 a-feeds.centralecommissiedierproeven.nl
+a-feeds.cibg.nl
 a-feeds.igj.nl
 a-feeds.rijksoverheid.nl
 a-git.rijksoverheid.nl
@@ -47,6 +49,7 @@ a-opendata.avghelpdeskzorg.nl
 a-opendata.bigregister.nl
 a-opendata.cbg-meb.nl
 a-opendata.centralecommissiedierproeven.nl
+a-opendata.cibg.nl
 a-opendata.igj.nl
 a-opendata.rijksoverheid.nl
 a-persberichten.rijksoverheid.nl
@@ -68,6 +71,7 @@ a-www.bigregister.nl
 a-www.cbg-meb.nl
 a-www.cbgjaarverslag.nl
 a-www.centralecommissiedierproeven.nl
+a-www.cibg.nl
 a-www.igj.nl
 a-www.rijksoverheid.nl
 a2vonderenkerensheide.nl
@@ -93,6 +97,7 @@ acc-dictu.logius.nl
 acc-energielabels.gebouwen.overheid.nl
 acc-int.mijn.overheid.nl
 acc-internationaal.ondernemen.overheid.nl
+acc-lrza.services.cibg.nl
 acc-webservice-tdv.igj.nl
 acc.aanbiedersmedicijnen.nl
 acc.adviescollegeveiligheidgroningen.nl
@@ -119,12 +124,36 @@ acc8.mijn.overheid.nl
 acc9.mijn.overheid.nl
 acceptatie.advieswijzer.bigregister.nl
 acceptatie.api.bigregister.nl
+acceptatie.api.kcc.cibg.nl
+acceptatie.applicationframework.cibg.nl
 acceptatie.behandel.bigregister.nl
+acceptatie.behandel.generiekeregistratiedienst.cibg.nl
+acceptatie.behandel.isms.cibg.nl
 acceptatie.beheer.bigregister.nl
+acceptatie.beheer.generiekeregistratiedienst.cibg.nl
+acceptatie.beheer.lir.cibg.nl
+acceptatie.beheer.lrza.cibg.nl
+acceptatie.bestandsportaal.cibg.nl
+acceptatie.brba.cibg.nl
+acceptatie.designsystem.cibg.nl
+acceptatie.digikoppeling-dcr.cibg.nl
+acceptatie.digikoppeling.cibg.nl
+acceptatie.digikoppeling2.cibg.nl
+acceptatie.drms.cibg.nl
+acceptatie.ebms.digikoppeling.cibg.nl
+acceptatie.lir.cibg.nl
+acceptatie.meldingen.klopt.cibg.nl
 acceptatie.mijn.bigregister.nl
 acceptatie.omgevingswet.overheid.nl
+acceptatie.portaal.competent.cibg.nl
+acceptatie.portaal.digilevering.cibg.nl
+acceptatie.publicwebservices-dcr.cibg.nl
+acceptatie.publicwebservices.cibg.nl
 acceptatie.tea.bigregister.nl
+acceptatie.tmv.cibg.nl
+acceptatie.uzipas.lir.cibg.nl
 acceptatie.webservices.bigregister.nl
+acceptatie.webservices.lrza.cibg.nl
 acceptatie.zoeken.bigregister.nl
 ace_nat17.belastingdienst.nl
 ack.omgevingswet.overheid.nl
@@ -149,6 +178,7 @@ aeriusproducten.nl
 afspraken.belastingdienst.nl
 afval.acc.omgevingswet.overheid.nl
 afval.omgevingswet.overheid.nl
+ag-dcr.cibg.nl
 agroberichtenbuitenland.nl
 aivd.nl
 algemenebestuursdienst.nl
@@ -156,6 +186,7 @@ algoritme.overheid.nl
 algoritmen.overheid.nl
 algoritmes.overheid.nl
 allesoverbiologisch.nl
+alm.cibg.nl
 almanak.overheid.nl
 amlc.acc.belastingdienst.nl
 amlc.ont.belastingdienst.nl
@@ -191,6 +222,8 @@ api.brabant.nl
 api.dn.acc.mijn.overheid.nl
 api.dn.acc1.mijn.overheid.nl
 api.dn.tst1.mijn.overheid.nl
+api.kcc.cibg.nl
+api.klopt.cibg.nl
 api.mijn.overheid.nl
 api.ondernemersplein.overheid.nl
 api.preprod.mijn.overheid.nl
@@ -208,6 +241,8 @@ aplbeqa01.belastingdienst.nl
 apothekersregister.igj.nl
 app.brabant.nl
 appcontent.belastingdienst.nl
+applicationframework.cibg.nl
+applications.klopt.cibg.nl
 appstore-ont.belastingdienst.nl
 appstore.belastingdienst.nl
 arbeidsmigratieingoedebanen.nl
@@ -290,6 +325,7 @@ b2btest-rijks.belastingdienst.nl
 b2btest-rijks.toeslagen.nl
 b2btest.belastingdienst.nl
 b2btest.toeslagen.nl
+backend.isms.cibg.nl
 backend.socint.acc.belastingdienst.nl
 backend.socint.belastingdienst.nl
 bag.acceptatie.basisregistraties.overheid.nl
@@ -305,12 +341,17 @@ beeldbank-bo.brabant.nl
 beeldbank.brabant.nl
 begroting.brabant.nl
 behandel.bigregister.nl
+behandel.generiekeregistratiedienst.cibg.nl
+behandel.isms.cibg.nl
 beheer-bzv.brabant.nl
 beheer.acceptatie.omgevingswet.overheid.nl
 beheer.ack.omgevingswet.overheid.nl
 beheer.bigregister.nl
+beheer.generiekeregistratiedienst.cibg.nl
 beheer.integratie.omgevingswet.overheid.nl
 beheer.intpatch.omgevingswet.overheid.nl
+beheer.lir.cibg.nl
+beheer.lrza.cibg.nl
 beheer.pre.omgevingswet.overheid.nl
 beheer.preprod.omgevingswet.overheid.nl
 beheerautoriteitwaddenzee.nl
@@ -346,6 +387,7 @@ belastingdienst.nl
 beschermdecultuurgoederen.nl
 besluitpreviewservice-eto.overheid.nl
 besluitpreviewservice.overheid.nl
+bestandsportaal.cibg.nl
 beta.belastingdienst.nl
 betaalportaal-cnf.belastingdienst.nl
 betaalportaal.belastingdienst.nl
@@ -459,6 +501,7 @@ cbm.tst5.mijn.overheid.nl
 cciwebstats.belastingdienst.nl
 ccmo.nl
 ccn2.belastingdienst.nl
+cdn.klopt.cibg.nl
 ceg.nl
 centraalaanspreekpuntpensioenen.acc.belastingdienst.nl
 centraalaanspreekpuntpensioenen.belastingdienst.nl
@@ -469,11 +512,13 @@ channels-az1.lpc.logius.nl
 channels-az2.lpc.logius.nl
 channels.logius.nl
 channels.lpc.logius.nl
+chatapi.klopt.cibg.nl
 chw.aandeslagmetdeomgevingswet.nl
 cia.acp.ondernemersplein.overheid.nl
 cia.ondernemersplein.overheid.nl
 cia.staging.ondernemersplein.overheid.nl
 cia.tst.ondernemersplein.overheid.nl
+cibg.nl
 cio-acc.overheid.nl
 cio-eto.overheid.nl
 cio.overheid.nl
@@ -491,6 +536,7 @@ cognitatie.tst.omgevingswet.overheid.nl
 comcms.logius.nl
 commissaris.brabant.nl
 community.developer.overheid.nl
+competent.cibg.nl
 componenten-acc.overheid.nl
 componenten-tst.overheid.nl
 componenten.overheid.nl
@@ -504,6 +550,7 @@ connectpeople.ont.belastingdienst.nl
 connectpeoplereg.belastingdienst.nl
 contactherstelservice.lpc.mijn.overheid.nl
 content.acc.omgevingswet.overheid.nl
+content.klopt.cibg.nl
 content.omgevingswet.overheid.nl
 contentbeheer.acc.omgevingswet.overheid.nl
 contentbeheer.omgevingswet.overheid.nl
@@ -558,7 +605,9 @@ demo-systemteam.overheid.nl
 demo.mijn.overheid.nl
 demo1-systemteam.overheid.nl
 demo2-systemteam.overheid.nl
+designsystem.cibg.nl
 designsystem.overheid.nl
+desktop.klopt.cibg.nl
 detoekomstbegintnu.brabant.nl
 developer.omgevingswet.overheid.nl
 developer.overheid.nl
@@ -566,6 +615,9 @@ dialin.aaenmaas.nl
 dialin.cbg-meb.nl
 digicheck.brabant.nl
 digid-stub.lpc.mijn.overheid.nl
+digikoppeling-dcr.cibg.nl
+digikoppeling.cibg.nl
+digikoppeling2.cibg.nl
 digilab.overheid.nl
 digipoort-vpn1.belastingdienst.nl
 digipoort-vpn2.belastingdienst.nl
@@ -596,6 +648,7 @@ dpe.belastingdienst.nl
 dplockers.brabant.nl
 draf-acpt.brabant.nl
 draf.brabant.nl
+drms.cibg.nl
 drop-api-preprd-poc.overheid.nl
 drop-api-preprd.overheid.nl
 drop-api.overheid.nl
@@ -623,6 +676,8 @@ ebms.service.bta.omgevingswet.overheid.nl
 editor-drp-preprd.overheid.nl
 editor-drp.overheid.nl
 efm.belastingdienst.nl
+eherkenning.services.cibg.nl
+eherkenningtest.services.cibg.nl
 eidas-stub.lpc.mijn.overheid.nl
 eladownload.belastingdienst.nl
 eloket.aaenmaas.nl
@@ -735,6 +790,7 @@ feeds.ccmo.nl
 feeds.ceg.nl
 feeds.centralecommissiedierproeven.nl
 feeds.cert.nl
+feeds.cibg.nl
 feeds.english.aivd.nl
 feeds.english.autoriteitnvs.nl
 feeds.english.belastingdienst-cn.nl
@@ -780,6 +836,7 @@ financials.werkenvoornederland.nl
 fiod.acc.belastingdienst.nl
 fmis.acc.belastingdienst.nl
 fmis.belastingdienst.nl
+forms.klopt.cibg.nl
 formulier.werkenvoornederland.nl
 formulieren.brabant.nl
 fortescloud.acc.belastingdienst.nl
@@ -1023,10 +1080,12 @@ kennisgroepen.acc.belastingdienst.nl
 kennisgroepen.belastingdienst.nl
 kennisnetwerk.acc.belastingdienst.nl
 kennisnetwerk.belastingdienst.nl
+kennissysteem.cibg.nl
 ketentestnvr.belastingdienst.nl
 kibana-prod.lpc.logius.nl
 kibana.lpc.logius.nl
 kim.omgevingswet.overheid.nl
+klopt.cibg.nl
 koppelvlak-acc.overheid.nl
 koppelvlak-asl.overheid.nl
 koppelvlak.overheid.nl
@@ -1040,6 +1099,7 @@ leiderschap.belastingdienst.nl
 leiderschapp.belastingdienst.nl
 linkeddata.overheid.nl
 linkextractor.overheid.nl
+lir.cibg.nl
 login.aaenmaas.nl
 logius.nl
 lokaleregelgeving-acc.overheid.nl
@@ -1051,6 +1111,7 @@ lrbh2ha.belastingdienst.nl
 lrbh2hb.belastingdienst.nl
 lrza.gatservices.acc.igj.nl
 lrza.gatservices.prd.igj.nl
+lrza.services.cibg.nl
 lucht.omgevingswet.overheid.nl
 lvbb-acc.overheid.nl
 lvbb-asl.overheid.nl
@@ -1083,6 +1144,7 @@ mailing.logius.nl
 mailrelay1.overheid.nl
 mailrelay2.overheid.nl
 managedservices.logius.nl
+manager.klopt.cibg.nl
 maps.aaenmaas.nl
 mc.belastingdienst.nl
 mc.ont.belastingdienst.nl
@@ -1094,6 +1156,7 @@ mdmvpn.cbg-meb.nl
 med-srv20.rijksoverheid.nl
 meet.aaenmaas.nl
 meldingen.atkm.nl
+meldingen.klopt.cibg.nl
 merkportaal.belastingdienst.nl
 metadata.toegang.overheid.nl
 metelkaartrekkenwedegrens.nl
@@ -1331,6 +1394,7 @@ opendata.ccmo.nl
 opendata.ceg.nl
 opendata.centralecommissiedierproeven.nl
 opendata.cert.nl
+opendata.cibg.nl
 opendata.english.aivd.nl
 opendata.english.autoriteitnvs.nl
 opendata.english.belastingdienst-cn.nl
@@ -1447,7 +1511,10 @@ pmz-pre.logius.nl
 pmz.logius.nl
 portaal.acc.belastingdienst.nl
 portaal.belastingdienst.nl
+portaal.competent.cibg.nl
+portaal.digilevering.cibg.nl
 portaal.tst.belastingdienst.nl
+portal.cibg.nl
 portalen.acceptatie.digipoort.logius.nl
 portalen.preproductie.digipoort.logius.nl
 pp1.toegang.overheid.nl
@@ -1465,6 +1532,7 @@ preview-eto.overheid.nl
 prod-dictu.comcms.logius.nl
 prod-dictu.logius.nl
 prod-kvk.belastingdienst.nl
+prototype.cibg.nl
 proxy.brabant.nl
 proxy.socint.belastingdienst.nl
 ps-www.rijksoverheid.nl
@@ -1473,6 +1541,8 @@ psproxy-tao1.belastingdienst.nl
 psproxy-tao2.belastingdienst.nl
 psproxy.belastingdienst.nl
 publicaties.brabant.nl
+publicwebservices-dcr.cibg.nl
+publicwebservices.cibg.nl
 puc-acc.overheid.nl
 puc-redactie-acc.overheid.nl
 puc-redactie.overheid.nl
@@ -1718,6 +1788,7 @@ stelselcatalogus.logius.nl
 stelselcatalogus.omgevingswet.overheid.nl
 stelselcatalogus.pfm.omgevingswet.overheid.nl
 stelselcatalogus.pre.omgevingswet.overheid.nl
+stijlgids.cibg.nl
 stijlgids.overheid.nl
 sts.cbg-meb.nl
 sts.koop.overheid.nl
@@ -1766,7 +1837,9 @@ test-machtigen.digipoort.logius.nl
 test-psproxy.belastingdienst.nl
 test.antennebureau.nl
 test.belastingdienst-cn.nl
+test.digikoppeling.cibg.nl
 test.hcv.mijn.overheid.nl
+test.publicwebservices.cibg.nl
 test.stub.mijn.overheid.nl
 test2gbav.belastingdienst.nl
 testdigitaalvergaderen.belastingdienst.nl
@@ -1778,6 +1851,7 @@ tgsb-btssrv-ut.tst.belastingdienst.nl
 tmd.acc.belastingdienst.nl
 tmd.belastingdienst.nl
 tmd.ont.belastingdienst.nl
+tmv.cibg.nl
 toepasbare-regels-analyseren.acc.omgevingswet.overheid.nl
 toepasbare-regels-analyseren.int.omgevingswet.overheid.nl
 toepasbare-regels-analyseren.pre.omgevingswet.overheid.nl
@@ -1816,6 +1890,7 @@ tuchtrecht-service-tst.overheid.nl
 tuchtrecht-service.overheid.nl
 tuchtrecht.overheid.nl
 uptime.bureauwbtv.nl
+uzipas.lir.cibg.nl
 va_do.belastingdienst.nl
 vault.lpc.logius.nl
 vc.belastingdienst.nl
@@ -1923,6 +1998,7 @@ web.aaenmaas.nl
 webapps-acc.belastingdienst.nl
 webapps.belastingdienst.nl
 webchat.belastingdienst.nl
+webchat.klopt.cibg.nl
 webdiensten-acc1.belastingdienst.nl
 webdiensten-conf1.belastingdienst.nl
 webdiensten-perf.acc.belastingdienst.nl
@@ -1957,6 +2033,7 @@ webservices-test2.belastingdienst.nl
 webservices-test4.belastingdienst.nl
 webservices.belastingdienst.nl
 webservices.bigregister.nl
+webservices.lrza.cibg.nl
 webservices.str10.acc.belastingdienst.nl
 webservices.str12.acc.belastingdienst.nl
 webservices.str13.acc.belastingdienst.nl
@@ -2066,6 +2143,7 @@ www.ccmo.nl
 www.ceg.nl
 www.centralecommissiedierproeven.nl
 www.cert.nl
+www.cibg.nl
 www.dataportaal.brabant.nl
 www.dmo.omgevingswet.overheid.nl
 www.enabling.omgevingswet.overheid.nl
@@ -2107,6 +2185,7 @@ www.wegen.brabant.nl
 www.werken.belastingdienst.nl
 www.werkenvoornederland.nl
 www.zoekeentolkvertaler.bureauwbtv.nl
+www2.zorgcsp.cibg.nl
 www8.toeslagen.nl
 wwwfcinetorg.belastingdienst.nl
 wwwrijksacademienl.belastingdienst.nl
