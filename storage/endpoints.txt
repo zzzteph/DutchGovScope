@@ -2153,6 +2153,7 @@ https://buitenoporde.lansingerland.nl
 https://buitenoporde.pijnacker-nootdorp.nl
 https://bunnik.nl
 https://bunschoten.nl
+https://bureauncdr.nl
 https://buren.nl
 https://burgerloket.acceptatie.derondevenen.nl
 https://burgerloket.acceptatie.ouder-amstel.nl
@@ -3460,6 +3461,7 @@ https://feeds.beschermdecultuurgoederen.nl
 https://feeds.bigregister.nl
 https://feeds.binnenhofrenovatie.nl
 https://feeds.braic.nl
+https://feeds.bureauncdr.nl
 https://feeds.english.aivd.nl
 https://feeds.english.autoriteitnvs.nl
 https://feeds.english.belastingdienst-cn.nl
@@ -6072,6 +6074,7 @@ https://opendata.binnenhofrenovatie.nl
 https://opendata.bloemendaal.nl
 https://opendata.brabant.nl
 https://opendata.braic.nl
+https://opendata.bureauncdr.nl
 https://opendata.english.aivd.nl
 https://opendata.english.autoriteitnvs.nl
 https://opendata.english.belastingdienst-cn.nl
@@ -8733,6 +8736,7 @@ https://www.brummen.nl
 https://www.brunssum.nl
 https://www.bta.omgevingswet.overheid.nl
 https://www.bunnik.nl
+https://www.bureauncdr.nl
 https://www.buren.nl
 https://www.buurtbudget-centrumnoord.venlo.nl
 https://www.buurtbudget-klingerberg.venlo.nl

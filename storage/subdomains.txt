@@ -26,10 +26,10 @@ werkplek
 dkd
 acc
 portal
+opendata
 open
 meldingen
 waarmerk
-opendata
 afspraak
 geo
 parkeren
@@ -39,8 +39,8 @@ api.meldingen
 adfs
 betalen
 broker
-ruimtelijkeplannen
 feeds
+ruimtelijkeplannen
 testeloket
 zaaksysteem-accept
 werkenbij

@@ -400,6 +400,7 @@ bta.omgevingswet.overheid.nl
 btube.belastingdienst.nl
 btubeont.vcdn.belastingdienst.nl
 btubetst.vcdn.belastingdienst.nl
+bureauncdr.nl
 bvd-pre.mev.logius.nl
 bvd.mev.logius.nl
 bvs.belastingdienst.nl
@@ -695,6 +696,7 @@ feeds.beschermdecultuurgoederen.nl
 feeds.bigregister.nl
 feeds.binnenhofrenovatie.nl
 feeds.braic.nl
+feeds.bureauncdr.nl
 feeds.english.aivd.nl
 feeds.english.autoriteitnvs.nl
 feeds.english.belastingdienst-cn.nl
@@ -1271,6 +1273,7 @@ opendata.bigregister.nl
 opendata.binnenhofrenovatie.nl
 opendata.brabant.nl
 opendata.braic.nl
+opendata.bureauncdr.nl
 opendata.english.aivd.nl
 opendata.english.autoriteitnvs.nl
 opendata.english.belastingdienst-cn.nl
@@ -1984,6 +1987,7 @@ www.binnenhofrenovatie.nl
 www.brabant.nl
 www.braic.nl
 www.bta.omgevingswet.overheid.nl
+www.bureauncdr.nl
 www.dataportaal.brabant.nl
 www.dmo.omgevingswet.overheid.nl
 www.enabling.omgevingswet.overheid.nl

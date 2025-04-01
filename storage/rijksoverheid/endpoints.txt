@@ -200,6 +200,7 @@ https://brk.test.basisregistraties.overheid.nl
 https://brt.basisregistraties.overheid.nl
 https://brt.test.basisregistraties.overheid.nl
 https://bta.omgevingswet.overheid.nl
+https://bureauncdr.nl
 https://bvd-pre.mev.logius.nl
 https://bvd.mev.logius.nl
 https://bvs.belastingdienst.nl
@@ -340,6 +341,7 @@ https://feeds.beschermdecultuurgoederen.nl
 https://feeds.bigregister.nl
 https://feeds.binnenhofrenovatie.nl
 https://feeds.braic.nl
+https://feeds.bureauncdr.nl
 https://feeds.english.aivd.nl
 https://feeds.english.autoriteitnvs.nl
 https://feeds.english.belastingdienst-cn.nl
@@ -528,6 +530,7 @@ https://opendata.bigregister.nl
 https://opendata.binnenhofrenovatie.nl
 https://opendata.brabant.nl
 https://opendata.braic.nl
+https://opendata.bureauncdr.nl
 https://opendata.english.aivd.nl
 https://opendata.english.autoriteitnvs.nl
 https://opendata.english.belastingdienst-cn.nl
@@ -816,6 +819,7 @@ https://www.binnenhofrenovatie.nl
 https://www.brabant.nl
 https://www.braic.nl
 https://www.bta.omgevingswet.overheid.nl
+https://www.bureauncdr.nl
 https://www.dataportaal.brabant.nl
 https://www.dmo.omgevingswet.overheid.nl
 https://www.enabling.omgevingswet.overheid.nl
