@@ -535,6 +535,7 @@ codexalimentarius.nl
 cognitatie.acc.omgevingswet.overheid.nl
 cognitatie.omgevingswet.overheid.nl
 cognitatie.tst.omgevingswet.overheid.nl
+collegevanrijksadviseurs.nl
 comcms.logius.nl
 commissaris.brabant.nl
 community.developer.overheid.nl
@@ -795,6 +796,7 @@ feeds.cert.nl
 feeds.cibg.nl
 feeds.circulairinkopen.nl
 feeds.codexalimentarius.nl
+feeds.collegevanrijksadviseurs.nl
 feeds.english.aivd.nl
 feeds.english.autoriteitnvs.nl
 feeds.english.belastingdienst-cn.nl
@@ -1401,6 +1403,7 @@ opendata.cert.nl
 opendata.cibg.nl
 opendata.circulairinkopen.nl
 opendata.codexalimentarius.nl
+opendata.collegevanrijksadviseurs.nl
 opendata.english.aivd.nl
 opendata.english.autoriteitnvs.nl
 opendata.english.belastingdienst-cn.nl
@@ -2152,6 +2155,7 @@ www.cert.nl
 www.cibg.nl
 www.circulairinkopen.nl
 www.codexalimentarius.nl
+www.collegevanrijksadviseurs.nl
 www.dataportaal.brabant.nl
 www.dmo.omgevingswet.overheid.nl
 www.enabling.omgevingswet.overheid.nl
