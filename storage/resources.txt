@@ -2811,6 +2811,7 @@ bptl.cg-intern.acc.utrecht.nl
 bptl.cg-intern.ont.utrecht.nl
 bptl.ot.denhaag.nl
 brabantapps.brabant.nl
+braic.nl
 brain-acpt.brabant.nl
 brain-ontw.brabant.nl
 brain-sc8.brabant.nl
@@ -5426,6 +5427,7 @@ feeds.belastingdienst-cn.nl
 feeds.beschermdecultuurgoederen.nl
 feeds.bigregister.nl
 feeds.binnenhofrenovatie.nl
+feeds.braic.nl
 feeds.english.aivd.nl
 feeds.english.autoriteitnvs.nl
 feeds.english.belastingdienst-cn.nl
@@ -10477,6 +10479,7 @@ opendata.bigregister.nl
 opendata.binnenhofrenovatie.nl
 opendata.bloemendaal.nl
 opendata.brabant.nl
+opendata.braic.nl
 opendata.english.aivd.nl
 opendata.english.autoriteitnvs.nl
 opendata.english.belastingdienst-cn.nl
@@ -15941,6 +15944,7 @@ www.borsele.nl
 www.boxtel.nl
 www.bptl.ot.denhaag.nl
 www.brabant.nl
+www.braic.nl
 www.brandweer.almelo.nl
 www.breda.nl
 www.brielle.nl

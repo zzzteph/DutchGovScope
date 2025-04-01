@@ -29,8 +29,8 @@ portal
 open
 meldingen
 waarmerk
-afspraak
 opendata
+afspraak
 geo
 parkeren
 raad
@@ -40,9 +40,9 @@ adfs
 betalen
 broker
 ruimtelijkeplannen
+feeds
 testeloket
 zaaksysteem-accept
-feeds
 werkenbij
 pv
 gemeenteraad
