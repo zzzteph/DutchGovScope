@@ -374,7 +374,6 @@ http://oirschot.nl
 http://ondertekeningsviewer.overheid.nl
 http://open.doetinchem.nl
 http://open.gemeentebeek.nl
-http://opmeer.nl
 http://ows-ahp-test.groningen.nl
 http://ows-app-test.groningen.nl
 http://ows-dmnsapi-test.groningen.nl
@@ -396,6 +395,7 @@ http://pre-ows-websrvc-test.groningen.nl
 http://preprod-machtigen.digipoort.logius.nl
 http://preproductie.beekdaelen.nl
 http://preproductie.deurne.nl
+http://preproductie.opmeer.nl
 http://preproductie.zoetermeer.nl
 http://preproductie.zwartewaterland.nl
 http://publicaties.stadskanaal.nl
@@ -424,7 +424,6 @@ http://sharepoint-ext.belastingdienst.nl
 http://simcms-centrumimpuls.geldrop-mierlo.nl
 http://simcms-energiek.beuningen.nl
 http://simcms-gemeenteraad.vlissingen.nl
-http://simcms-ontmoetingscentra.opmeer.nl
 http://simcms-open.beverwijk.nl
 http://simcms-open.geldrop-mierlo.nl
 http://simcms-open.leudal.nl
@@ -462,6 +461,7 @@ http://simsite.geertruidenberg.nl
 http://simsite.middendelfland.nl
 http://simsite.montferland.info
 http://simsite.nederweert.nl
+http://simsite.opmeer.nl
 http://simsite.renswoude.nl
 http://simsite.reuseldemierden.nl
 http://smartphone.kampen.nl
@@ -5324,11 +5324,13 @@ https://mijnsdv.emmen.nl
 https://mijnsdv.zwolle.nl
 https://mijnshv.coevorden.nl
 https://mijnsociaaldomein-acc.meierijstad.nl
+https://mijnsociaaldomein-acc.opmeer.nl
 https://mijnsociaaldomein-test.losser.nl
 https://mijnsociaaldomein.gemeentesluis.nl
 https://mijnsociaaldomein.heerenveen.nl
 https://mijnsociaaldomein.losser.nl
 https://mijnsociaaldomein.meierijstad.nl
+https://mijnsociaaldomein.opmeer.nl
 https://mijnsociaaldomein.venlo.nl
 https://mijnsociaalplein.bergen-nh.nl
 https://mijnsociaalplein.castricum.nl
@@ -5992,6 +5994,7 @@ https://openzaakbrug-zgw.test.denhaag.nl
 https://operatiebomenbuurt.denhaag.nl
 https://opleiding-ola.belastingdienst.nl
 https://oploo.landvancuijk.nl
+https://opmeer.nl
 https://opname.eindhoven.nl
 https://oproepingen-api-preprd-poc.overheid.nl
 https://oproepingen-api-preprd.overheid.nl
@@ -7047,7 +7050,6 @@ https://simsite.lopik.nl
 https://simsite.mookenmiddelaar.nl
 https://simsite.oirschot.nl
 https://simsite.ooststellingwerf.nl
-https://simsite.opmeer.nl
 https://simsite.opsterland.nl
 https://simsite.pekela.nl
 https://simsite.scherpenzeel.nl
@@ -8767,7 +8769,6 @@ https://www.openstad.gemeentewestland.nl
 https://www.openstad.haarlemmermeer.nl
 https://www.openstad.nijmegen.nl
 https://www.operatiebomenbuurt.denhaag.nl
-https://www.opmeer.nl
 https://www.opsterland.nl
 https://www.opvang.zwolle.nl
 https://www.oracbloemenbuurt.denhaag.nl
