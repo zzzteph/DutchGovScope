@@ -53,13 +53,13 @@ dacceptatiemidoffice
 dloket
 dmidoffice
 data
+opendata
 api.meldingen-acc
 meldingen-acc
 remote
 openpdc
 belastingbalie
 cmsoo
-opendata
 enterpriseregistration
 loket.acceptatie
 openpub
@@ -76,9 +76,9 @@ formulier
 hybrid
 cloudadapter
 kaarten
+feeds
 berichten
 parkeren-acc
-feeds
 digikoppeling.test
 mks
 cmsintranet
@@ -219,6 +219,7 @@ vth
 testloket
 contact
 cms
+magazines
 m
 filetransfer
 meet
@@ -245,7 +246,6 @@ mx2
 cloudadapter-prod
 handhaving
 www.portal
-magazines
 servicedesk
 academie
 omgevingswet
