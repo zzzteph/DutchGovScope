@@ -32,8 +32,8 @@ open
 afspraak
 geo
 parkeren
-raad
 opendata
+raad
 api.meldingen
 vpn
 adfs
@@ -47,9 +47,9 @@ pv
 gemeenteraad
 iparticipatie
 belastingen
+feeds
 test-ipa
 enterpriseenrollment
-feeds
 dacceptatieloket
 dacceptatiemidoffice
 dloket

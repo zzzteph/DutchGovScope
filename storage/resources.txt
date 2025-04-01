@@ -1683,6 +1683,7 @@ autodiscover.bergen-nh.nl
 autodiscover.bergen.nl
 autodiscover.bergendal.nl
 autodiscover.bergenopzoom.nl
+autodiscover.beschermdecultuurgoederen.nl
 autodiscover.beuningen.nl
 autodiscover.beverwijk.nl
 autodiscover.bloemendaal.nl
@@ -2482,6 +2483,7 @@ bermod-fa.amsterdam.nl
 bermod.amsterdam.nl
 bermod2.amsterdam.nl
 bernheze.org
+beschermdecultuurgoederen.nl
 besluitpreviewservice-eto.overheid.nl
 besluitpreviewservice.overheid.nl
 besluitvorming.doetinchem.nl
@@ -5340,6 +5342,7 @@ feeds.avghelpdeskzorg.nl
 feeds.awti.nl
 feeds.beheerautoriteitwaddenzee.nl
 feeds.belastingdienst-cn.nl
+feeds.beschermdecultuurgoederen.nl
 feeds.english.aivd.nl
 feeds.english.autoriteitnvs.nl
 feeds.english.belastingdienst-cn.nl
@@ -10347,6 +10350,7 @@ opendata.avghelpdeskzorg.nl
 opendata.awti.nl
 opendata.beheerautoriteitwaddenzee.nl
 opendata.belastingdienst-cn.nl
+opendata.beschermdecultuurgoederen.nl
 opendata.bloemendaal.nl
 opendata.english.aivd.nl
 opendata.english.autoriteitnvs.nl
@@ -15739,6 +15743,7 @@ www.bergen.nl
 www.bergendal.nl
 www.bergenopzoom.nl
 www.bernheze.org
+www.beschermdecultuurgoederen.nl
 www.bestemmingsplannen.amsterdam.nl
 www.bestemmingsplannen.groningen.nl
 www.bestuur.centrum.amsterdam.nl

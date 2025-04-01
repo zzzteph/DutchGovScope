@@ -198,6 +198,7 @@ atkm.nl
 auditdienstrijk.nl
 autodiscover.aaenmaas.nl
 autodiscover.awti.nl
+autodiscover.beschermdecultuurgoederen.nl
 autodiscover.koop.overheid.nl
 autodiscover.overheid.nl
 autodiscover.rcgog.nl
@@ -295,6 +296,7 @@ beheersite-drp.overheid.nl
 belastingdienst-cn.nl
 belastingdienst.data.logius.nl
 belastingdienst.nl
+beschermdecultuurgoederen.nl
 besluitpreviewservice-eto.overheid.nl
 besluitpreviewservice.overheid.nl
 beta.belastingdienst.nl
@@ -607,6 +609,7 @@ feeds.avghelpdeskzorg.nl
 feeds.awti.nl
 feeds.beheerautoriteitwaddenzee.nl
 feeds.belastingdienst-cn.nl
+feeds.beschermdecultuurgoederen.nl
 feeds.english.aivd.nl
 feeds.english.autoriteitnvs.nl
 feeds.english.belastingdienst-cn.nl
@@ -1139,6 +1142,7 @@ opendata.avghelpdeskzorg.nl
 opendata.awti.nl
 opendata.beheerautoriteitwaddenzee.nl
 opendata.belastingdienst-cn.nl
+opendata.beschermdecultuurgoederen.nl
 opendata.english.aivd.nl
 opendata.english.autoriteitnvs.nl
 opendata.english.belastingdienst-cn.nl
@@ -1806,6 +1810,7 @@ www.awti.nl
 www.beheerautoriteitwaddenzee.nl
 www.belastingdienst-cn.nl
 www.belastingdienst.nl
+www.beschermdecultuurgoederen.nl
 www.bta.omgevingswet.overheid.nl
 www.dmo.omgevingswet.overheid.nl
 www.enabling.omgevingswet.overheid.nl

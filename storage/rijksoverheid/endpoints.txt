@@ -142,6 +142,7 @@ https://beheerportaal.pre.omgevingswet.overheid.nl
 https://beheerportaal.tst2905.omgevingswet.overheid.nl
 https://belastingdienst-cn.nl
 https://belastingdienst.nl
+https://beschermdecultuurgoederen.nl
 https://besluitpreviewservice-eto.overheid.nl
 https://besluitpreviewservice.overheid.nl
 https://beta.belastingdienst.nl
@@ -277,6 +278,7 @@ https://feeds.avghelpdeskzorg.nl
 https://feeds.awti.nl
 https://feeds.beheerautoriteitwaddenzee.nl
 https://feeds.belastingdienst-cn.nl
+https://feeds.beschermdecultuurgoederen.nl
 https://feeds.english.aivd.nl
 https://feeds.english.autoriteitnvs.nl
 https://feeds.english.belastingdienst-cn.nl
@@ -444,6 +446,7 @@ https://opendata.avghelpdeskzorg.nl
 https://opendata.awti.nl
 https://opendata.beheerautoriteitwaddenzee.nl
 https://opendata.belastingdienst-cn.nl
+https://opendata.beschermdecultuurgoederen.nl
 https://opendata.english.aivd.nl
 https://opendata.english.autoriteitnvs.nl
 https://opendata.english.belastingdienst-cn.nl
@@ -709,6 +712,7 @@ https://www.awti.nl
 https://www.beheerautoriteitwaddenzee.nl
 https://www.belastingdienst-cn.nl
 https://www.belastingdienst.nl
+https://www.beschermdecultuurgoederen.nl
 https://www.bta.omgevingswet.overheid.nl
 https://www.dmo.omgevingswet.overheid.nl
 https://www.enabling.omgevingswet.overheid.nl
