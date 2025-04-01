@@ -1,11 +1,11 @@
 http://autodiscover.opsterland.nl
-http://mijn.opsterland.nl
+http://formulieren.opsterland.nl
+http://opsterland.nl
 https://acc.stemvan.opsterland.nl
 https://enterpriseenrollment.opsterland.nl
 https://enterpriseregistration.opsterland.nl
-https://felix.opsterland.nl
 https://iburgerzaken.opsterland.nl
-https://opsterland.nl
+https://mijn.opsterland.nl
 https://ruimtelijkeplannen.opsterland.nl
 https://simsite.opsterland.nl
 https://stemvan.opsterland.nl

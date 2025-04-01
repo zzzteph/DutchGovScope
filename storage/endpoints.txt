@@ -283,6 +283,7 @@ http://felix.zundert.nl
 http://felixburgerzaken.nissewaard.nl
 http://flash.scherpenzeel.nl
 http://formulieren-test.rijswijk.nl
+http://formulieren.opsterland.nl
 http://formulieren.vlaardingen.nl
 http://geldrop-mierlo.nl
 http://geldzaken.loonopzand.nl
@@ -354,7 +355,6 @@ http://melddesk.renkum.nl
 http://mijn-preproductie.heerenveen.nl
 http://mijn-preproductie.weststellingwerf.nl
 http://mijn.doesburg.nl
-http://mijn.opsterland.nl
 http://mijn.staphorst.nl
 http://mijn.urk.nl
 http://mijn.voorschoten.nl
@@ -374,6 +374,7 @@ http://oirschot.nl
 http://ondertekeningsviewer.overheid.nl
 http://open.doetinchem.nl
 http://open.gemeentebeek.nl
+http://opsterland.nl
 http://ows-ahp-test.groningen.nl
 http://ows-app-test.groningen.nl
 http://ows-dmnsapi-test.groningen.nl
@@ -3348,7 +3349,6 @@ https://felix.nijkerk.eu
 https://felix.nuenen.nl
 https://felix.oirschot.nl
 https://felix.opmeer.nl
-https://felix.opsterland.nl
 https://felix.reuseldemierden.nl
 https://felix.schiermonnikoog.nl
 https://felix.staphorst.nl
@@ -5210,6 +5210,7 @@ https://mijn.oldenzaal.nl
 https://mijn.ommen.nl
 https://mijn.oostgelre.nl
 https://mijn.ooststellingwerf.nl
+https://mijn.opsterland.nl
 https://mijn.oss.nl
 https://mijn.oude-ijsselstreek.nl
 https://mijn.overheid.nl
@@ -6001,7 +6002,6 @@ https://oproepingen-api-preprd.overheid.nl
 https://oproepingen-api.overheid.nl
 https://oproepingen-preprd.overheid.nl
 https://oproepingen.overheid.nl
-https://opsterland.nl
 https://opvang.zwolle.nl
 https://or.delft.nl
 https://oracbloemenbuurt.denhaag.nl
