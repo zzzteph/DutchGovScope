@@ -953,6 +953,7 @@ esuitenotubiz-test
 ironport
 g-rooster
 jaarstukken2020
+jaarstukken2021
 afspraken-test
 edienstenburgerzaken-prod
 ggk
@@ -1063,6 +1064,7 @@ xential-test
 verhuursport
 begroting2018
 begroting2020
+begroting2021
 brs
 campus
 economie
@@ -4260,7 +4262,6 @@ smartdocbrlacc
 begraafplaatsreservering
 geografie
 isamenlevingszaken
-jaarstukken2021
 jaarstukken2022
 jaarstukken2023
 mdm-sentry
@@ -5212,7 +5213,6 @@ autodiscover.os
 autodiscover.wij
 begroting2017
 begroting2019
-begroting2021
 belastingpraktijkonline
 c2c-tst.gemeente
 c2c.gemeente
@@ -6827,9 +6827,12 @@ iis-vpek01
 iis-vpek21
 anyware
 jaarstukken2019
+kadernota2020
 kadernota2021
+kadernota2022
 najaarsnota
 najaarsnota2019
+najaarsnota2020
 pre-prod.digitalebalie
 preprod-wozbalie
 psecure
