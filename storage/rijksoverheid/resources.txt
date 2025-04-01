@@ -522,6 +522,7 @@ cibg.nl
 cio-acc.overheid.nl
 cio-eto.overheid.nl
 cio.overheid.nl
+circulairinkopen.nl
 clienteleitsm-acceptatie.logius.nl
 clienteleitsm.logius.nl
 cloudstorage-koop.overheid.nl
@@ -791,6 +792,7 @@ feeds.ceg.nl
 feeds.centralecommissiedierproeven.nl
 feeds.cert.nl
 feeds.cibg.nl
+feeds.circulairinkopen.nl
 feeds.english.aivd.nl
 feeds.english.autoriteitnvs.nl
 feeds.english.belastingdienst-cn.nl
@@ -1395,6 +1397,7 @@ opendata.ceg.nl
 opendata.centralecommissiedierproeven.nl
 opendata.cert.nl
 opendata.cibg.nl
+opendata.circulairinkopen.nl
 opendata.english.aivd.nl
 opendata.english.autoriteitnvs.nl
 opendata.english.belastingdienst-cn.nl
@@ -2144,6 +2147,7 @@ www.ceg.nl
 www.centralecommissiedierproeven.nl
 www.cert.nl
 www.cibg.nl
+www.circulairinkopen.nl
 www.dataportaal.brabant.nl
 www.dmo.omgevingswet.overheid.nl
 www.enabling.omgevingswet.overheid.nl

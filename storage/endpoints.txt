@@ -2264,6 +2264,7 @@ https://cicd010.rotterdam.nl
 https://cimot.almelo.nl
 https://cio-eto.overheid.nl
 https://cio.overheid.nl
+https://circulairinkopen.nl
 https://circulairopdreef.waddinxveen.nl
 https://citrix.brielle.nl
 https://citrix.gulpen-wittem.nl
@@ -3522,6 +3523,7 @@ https://feeds.ceg.nl
 https://feeds.centralecommissiedierproeven.nl
 https://feeds.cert.nl
 https://feeds.cibg.nl
+https://feeds.circulairinkopen.nl
 https://feeds.english.aivd.nl
 https://feeds.english.autoriteitnvs.nl
 https://feeds.english.belastingdienst-cn.nl
@@ -6153,6 +6155,7 @@ https://opendata.ceg.nl
 https://opendata.centralecommissiedierproeven.nl
 https://opendata.cert.nl
 https://opendata.cibg.nl
+https://opendata.circulairinkopen.nl
 https://opendata.english.aivd.nl
 https://opendata.english.autoriteitnvs.nl
 https://opendata.english.belastingdienst-cn.nl
@@ -8851,6 +8854,7 @@ https://www.centrumbegroot.alphenaandenrijn.nl
 https://www.centrumbegroot.amsterdam.nl
 https://www.cert.nl
 https://www.cibg.nl
+https://www.circulairinkopen.nl
 https://www.cjg.denhaag.nl
 https://www.cjg.olst-wijhe.nl
 https://www.cmsoo.gemeente.groningen.nl

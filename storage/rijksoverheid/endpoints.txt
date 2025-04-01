@@ -262,6 +262,7 @@ https://cia.tst.ondernemersplein.overheid.nl
 https://cibg.nl
 https://cio-eto.overheid.nl
 https://cio.overheid.nl
+https://circulairinkopen.nl
 https://cloudstorage-koop.overheid.nl
 https://cmsgui.ondernemersplein.overheid.nl
 https://cognitatie.acc.omgevingswet.overheid.nl
@@ -402,6 +403,7 @@ https://feeds.ceg.nl
 https://feeds.centralecommissiedierproeven.nl
 https://feeds.cert.nl
 https://feeds.cibg.nl
+https://feeds.circulairinkopen.nl
 https://feeds.english.aivd.nl
 https://feeds.english.autoriteitnvs.nl
 https://feeds.english.belastingdienst-cn.nl
@@ -609,6 +611,7 @@ https://opendata.ceg.nl
 https://opendata.centralecommissiedierproeven.nl
 https://opendata.cert.nl
 https://opendata.cibg.nl
+https://opendata.circulairinkopen.nl
 https://opendata.english.aivd.nl
 https://opendata.english.autoriteitnvs.nl
 https://opendata.english.belastingdienst-cn.nl
@@ -920,6 +923,7 @@ https://www.ceg.nl
 https://www.centralecommissiedierproeven.nl
 https://www.cert.nl
 https://www.cibg.nl
+https://www.circulairinkopen.nl
 https://www.dataportaal.brabant.nl
 https://www.dmo.omgevingswet.overheid.nl
 https://www.enabling.omgevingswet.overheid.nl

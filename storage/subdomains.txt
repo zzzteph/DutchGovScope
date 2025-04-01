@@ -22,15 +22,15 @@ loket
 formulieren
 test
 eloket
-werkplek
 opendata
+werkplek
 dkd
 acc
 portal
+feeds
 open
 meldingen
 waarmerk
-feeds
 afspraak
 geo
 parkeren

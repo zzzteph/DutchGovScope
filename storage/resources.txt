@@ -3174,6 +3174,7 @@ cio-acc.overheid.nl
 cio-eto.overheid.nl
 cio.overheid.nl
 cios.acam.amsterdam.nl
+circulairinkopen.nl
 circulairopdreef.waddinxveen.nl
 cis.barneveld.nl
 citrix.brielle.nl
@@ -5524,6 +5525,7 @@ feeds.ceg.nl
 feeds.centralecommissiedierproeven.nl
 feeds.cert.nl
 feeds.cibg.nl
+feeds.circulairinkopen.nl
 feeds.english.aivd.nl
 feeds.english.autoriteitnvs.nl
 feeds.english.belastingdienst-cn.nl
@@ -10604,6 +10606,7 @@ opendata.ceg.nl
 opendata.centralecommissiedierproeven.nl
 opendata.cert.nl
 opendata.cibg.nl
+opendata.circulairinkopen.nl
 opendata.english.aivd.nl
 opendata.english.autoriteitnvs.nl
 opendata.english.belastingdienst-cn.nl
@@ -16138,6 +16141,7 @@ www.centrumbegroot.alphenaandenrijn.nl
 www.centrumbegroot.amsterdam.nl
 www.cert.nl
 www.cibg.nl
+www.circulairinkopen.nl
 www.citrix.gemeentebeek.nl
 www.citytrip.groningen.nl
 www.cjg.denhaag.nl
