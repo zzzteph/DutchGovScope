@@ -149,6 +149,7 @@ acc-notificaties
 acc-objecten
 acc-objecttypen
 connect.acceptatie
+inloggen
 jaarstukken
 cryptshare
 mta-sts
@@ -173,7 +174,6 @@ podiumd-logs
 inproces
 internetafspraken
 gasten
-inloggen
 ro
 uc
 AutoDiscover
@@ -6693,6 +6693,7 @@ revprox01
 revprox02
 staging.intranet
 tsapp05.local
+uag1
 vrijwilligerswerk-oostgelre
 wabo
 www.mob

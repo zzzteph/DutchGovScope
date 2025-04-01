@@ -4297,6 +4297,7 @@ https://inloggen.meierijstad.nl
 https://inloggen.mijnsubsidie.eindhoven.nl
 https://inloggen.mijnsubsidie.test.eindhoven.nl
 https://inloggen.oldenzaal.nl
+https://inloggen.oostgelre.nl
 https://inloggen.wageningen.nl
 https://inloggenapv-preprod.hellendoorn.nl
 https://inloggenapv.hellendoorn.nl
@@ -7747,6 +7748,7 @@ https://tuinen.groningen.nl
 https://tussenrapportage.gemeente-steenbergen.nl
 https://tv.gemeentebest.nl
 https://tynaarlo.nl
+https://uag1.oostgelre.nl
 https://uaghelm01.helmond.nl
 https://uaghelm02.helmond.nl
 https://uath.rotterdam.nl

@@ -6513,6 +6513,7 @@ inloggen.meierijstad.nl
 inloggen.mijnsubsidie.eindhoven.nl
 inloggen.mijnsubsidie.test.eindhoven.nl
 inloggen.oldenzaal.nl
+inloggen.oostgelre.nl
 inloggen.wageningen.nl
 inloggenapv-preprod.hellendoorn.nl
 inloggenapv.hellendoorn.nl
@@ -12703,6 +12704,7 @@ tynaarlo.nl
 typo3.borger-odoorn.nl
 typo3.velsen.nl
 tzp.leiden.nl
+uag1.oostgelre.nl
 uaghelm01.helmond.nl
 uaghelm02.helmond.nl
 uat.woudenberg.nl

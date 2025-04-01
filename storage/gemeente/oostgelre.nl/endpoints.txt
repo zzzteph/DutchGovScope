@@ -20,6 +20,7 @@ https://dacceptatieloket.oostgelre.nl
 https://dloket.oostgelre.nl
 https://formulier.oostgelre.nl
 https://iburgerzaken.oostgelre.nl
+https://inloggen.oostgelre.nl
 https://keycloak.oostgelre.nl
 https://meldingen-acc.oostgelre.nl
 https://meldingen.oostgelre.nl
@@ -31,5 +32,6 @@ https://oostgelre.nl
 https://openklant.oostgelre.nl
 https://openzaak.oostgelre.nl
 https://podiumd-logs.oostgelre.nl
+https://uag1.oostgelre.nl
 https://wachtwoord.oostgelre.nl
 https://www.oostgelre.nl

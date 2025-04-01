@@ -36,6 +36,7 @@ help.oostgelre.nl
 helpmij.oostgelre.nl
 iburgerzaken.oostgelre.nl
 ibzpink.oostgelre.nl
+inloggen.oostgelre.nl
 intranet.oostgelre.nl
 keycloak.oostgelre.nl
 klickwion.oostgelre.nl
@@ -64,6 +65,7 @@ staging.intranet.oostgelre.nl
 stats.intranet.oostgelre.nl
 status.oostgelre.nl
 tsapp05.local.oostgelre.nl
+uag1.oostgelre.nl
 vrijwilligerswerk-oostgelre.oostgelre.nl
 wabo.oostgelre.nl
 wachtwoord.oostgelre.nl
