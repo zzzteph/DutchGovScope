@@ -107,6 +107,7 @@ https://apis.developer.overheid.nl
 https://arbeidsmigratieingoedebanen.nl
 https://arboportaal.nl
 https://artifact-rd1.toegang.overheid.nl
+https://asycuda.belastingdienst-cn.nl
 https://atkm.nl
 https://auditdienstrijk.nl
 https://autodiscover.awti.nl
@@ -139,6 +140,7 @@ https://beheerportaal.omgevingswet.overheid.nl
 https://beheerportaal.perf.omgevingswet.overheid.nl
 https://beheerportaal.pre.omgevingswet.overheid.nl
 https://beheerportaal.tst2905.omgevingswet.overheid.nl
+https://belastingdienst-cn.nl
 https://belastingdienst.nl
 https://besluitpreviewservice-eto.overheid.nl
 https://besluitpreviewservice.overheid.nl
@@ -236,6 +238,7 @@ https://enabling.omgevingswet.overheid.nl
 https://english.aivd.nl
 https://english.autoriteitnvs.nl
 https://english.awti.nl
+https://english.belastingdienst-cn.nl
 https://english.igj.nl
 https://enterpriseregistration.belastingdienst.nl
 https://eovgb-acc.aivd.nl
@@ -273,11 +276,14 @@ https://feeds.autoriteitnvs.nl
 https://feeds.avghelpdeskzorg.nl
 https://feeds.awti.nl
 https://feeds.beheerautoriteitwaddenzee.nl
+https://feeds.belastingdienst-cn.nl
 https://feeds.english.aivd.nl
 https://feeds.english.autoriteitnvs.nl
+https://feeds.english.belastingdienst-cn.nl
 https://feeds.english.igj.nl
 https://feeds.igj.nl
 https://feeds.nieuwsbrievenminocw.nl
+https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.persberichten.rijksoverheid.nl
 https://feeds.rcgog.nl
 https://feeds.rijksoverheid.nl
@@ -374,6 +380,7 @@ https://meldingen.atkm.nl
 https://metelkaartrekkenwedegrens.nl
 https://mijn-aanvraag.belastingdienst.nl
 https://mijn-acc.igj.nl
+https://mijn.belastingdienst-cn.nl
 https://mijn.belastingdienst.nl
 https://mijn.igj.nl
 https://mijn.overheid.nl
@@ -436,11 +443,14 @@ https://opendata.autoriteitnvs.nl
 https://opendata.avghelpdeskzorg.nl
 https://opendata.awti.nl
 https://opendata.beheerautoriteitwaddenzee.nl
+https://opendata.belastingdienst-cn.nl
 https://opendata.english.aivd.nl
 https://opendata.english.autoriteitnvs.nl
+https://opendata.english.belastingdienst-cn.nl
 https://opendata.english.igj.nl
 https://opendata.igj.nl
 https://opendata.nieuwsbrievenminocw.nl
+https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.persberichten.rijksoverheid.nl
 https://opendata.rcgog.nl
 https://opendata.rijksoverheid.nl
@@ -458,6 +468,7 @@ https://oss.developer.overheid.nl
 https://over-ons.belastingdienst.nl
 https://overheid.nl
 https://ovverklaringen.belastingdienst.nl
+https://papiamentu.belastingdienst-cn.nl
 https://pdc.acc.omgevingswet.overheid.nl
 https://pdc.omgevingswet.overheid.nl
 https://pdc.pre.omgevingswet.overheid.nl
@@ -609,6 +620,7 @@ https://test-dictu.comcms.logius.nl
 https://test-dictu.kennisbank.logius.nl
 https://test-dictu.logius.nl
 https://test-internationaal.ondernemen.overheid.nl
+https://test.belastingdienst-cn.nl
 https://testeloket.aaenmaas.nl
 https://teverantwoordenregelingen.rijksoverheid.nl
 https://toepasbare-regels.omgevingswet.overheid.nl
@@ -695,6 +707,7 @@ https://www.avghelpdeskzorg.nl
 https://www.avgregisterrijksoverheid.nl
 https://www.awti.nl
 https://www.beheerautoriteitwaddenzee.nl
+https://www.belastingdienst-cn.nl
 https://www.belastingdienst.nl
 https://www.bta.omgevingswet.overheid.nl
 https://www.dmo.omgevingswet.overheid.nl

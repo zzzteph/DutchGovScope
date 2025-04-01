@@ -193,6 +193,7 @@ artifact-pp2.toegang.overheid.nl
 artifact-rd1.toegang.overheid.nl
 artifact-rd2.toegang.overheid.nl
 artifact-rv-pp1.logius.nl
+asycuda.belastingdienst-cn.nl
 atkm.nl
 auditdienstrijk.nl
 autodiscover.aaenmaas.nl
@@ -291,6 +292,7 @@ beheerservice-drp-preprd.overheid.nl
 beheerservice-drp.overheid.nl
 beheersite-drp-preprd.overheid.nl
 beheersite-drp.overheid.nl
+belastingdienst-cn.nl
 belastingdienst.data.logius.nl
 belastingdienst.nl
 besluitpreviewservice-eto.overheid.nl
@@ -530,6 +532,7 @@ enabling.omgevingswet.overheid.nl
 english.aivd.nl
 english.autoriteitnvs.nl
 english.awti.nl
+english.belastingdienst-cn.nl
 english.igj.nl
 enterpriseregistration.belastingdienst.nl
 enterpriseregistration.pc.belastingdienst.nl
@@ -603,11 +606,14 @@ feeds.autoriteitnvs.nl
 feeds.avghelpdeskzorg.nl
 feeds.awti.nl
 feeds.beheerautoriteitwaddenzee.nl
+feeds.belastingdienst-cn.nl
 feeds.english.aivd.nl
 feeds.english.autoriteitnvs.nl
+feeds.english.belastingdienst-cn.nl
 feeds.english.igj.nl
 feeds.igj.nl
 feeds.nieuwsbrievenminocw.nl
+feeds.papiamentu.belastingdienst-cn.nl
 feeds.persberichten.rijksoverheid.nl
 feeds.rcgog.nl
 feeds.rijksoverheid.nl
@@ -939,6 +945,7 @@ mijn-test2.belastingdienst.nl
 mijn-test3.belastingdienst.nl
 mijn-xt.tst.toeslagen.nl
 mijn.acc.belastingdienst.nl
+mijn.belastingdienst-cn.nl
 mijn.belastingdienst.nl
 mijn.igj.nl
 mijn.ont.belastingdienst.nl
@@ -1131,11 +1138,14 @@ opendata.autoriteitnvs.nl
 opendata.avghelpdeskzorg.nl
 opendata.awti.nl
 opendata.beheerautoriteitwaddenzee.nl
+opendata.belastingdienst-cn.nl
 opendata.english.aivd.nl
 opendata.english.autoriteitnvs.nl
+opendata.english.belastingdienst-cn.nl
 opendata.english.igj.nl
 opendata.igj.nl
 opendata.nieuwsbrievenminocw.nl
+opendata.papiamentu.belastingdienst-cn.nl
 opendata.persberichten.rijksoverheid.nl
 opendata.rcgog.nl
 opendata.rijksoverheid.nl
@@ -1174,6 +1184,7 @@ overheid.nl
 ovverklaringen.acc.belastingdienst.nl
 ovverklaringen.belastingdienst.nl
 p285st201.utsjaca01.belastingdienst.nl
+papiamentu.belastingdienst-cn.nl
 pdc.acc.omgevingswet.overheid.nl
 pdc.int.omgevingswet.overheid.nl
 pdc.omgevingswet.overheid.nl
@@ -1535,6 +1546,7 @@ test-internationaal.ondernemen.overheid.nl
 test-machtigen.digipoort.logius.nl
 test-psproxy.belastingdienst.nl
 test.antennebureau.nl
+test.belastingdienst-cn.nl
 test.hcv.mijn.overheid.nl
 test.stub.mijn.overheid.nl
 test2gbav.belastingdienst.nl
@@ -1792,6 +1804,7 @@ www.avghelpdeskzorg.nl
 www.avgregisterrijksoverheid.nl
 www.awti.nl
 www.beheerautoriteitwaddenzee.nl
+www.belastingdienst-cn.nl
 www.belastingdienst.nl
 www.bta.omgevingswet.overheid.nl
 www.dmo.omgevingswet.overheid.nl

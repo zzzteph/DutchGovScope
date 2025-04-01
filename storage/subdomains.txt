@@ -33,8 +33,8 @@ afspraak
 geo
 parkeren
 raad
-api.meldingen
 opendata
+api.meldingen
 vpn
 adfs
 betalen
@@ -223,6 +223,7 @@ a-opendata
 a-www
 cms
 magazines
+english
 m
 filetransfer
 meet
@@ -250,7 +251,6 @@ cloudadapter-prod
 handhaving
 www.portal
 servicedesk
-english
 academie
 omgevingswet
 mijnzorg-acc
@@ -403,7 +403,9 @@ prefill
 corsa-prod
 corsa-test
 mijndesktop
+feeds.english
 mijn-acc
+opendata.english
 sharepoint
 werken
 www.mijn
@@ -512,8 +514,6 @@ persberichten
 a-english
 a-feeds.a-english
 a-opendata.a-english
-feeds.english
-opendata.english
 mm
 start
 vergaderen
@@ -2764,6 +2764,10 @@ outbound-eopg
 zorgenwerknetwerk
 rdgateway
 wadsup
+asycuda
+feeds.papiamentu
+opendata.papiamentu
+papiamentu
 email.mail.participatie
 mail.participatie
 aalten-checker-preprod
