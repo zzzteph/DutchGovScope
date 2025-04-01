@@ -165,6 +165,7 @@ apothekersregister.igj.nl
 appcontent.belastingdienst.nl
 appstore-ont.belastingdienst.nl
 appstore.belastingdienst.nl
+arbeidsmigratieingoedebanen.nl
 artifact-fibb1.belastingdienst.nl
 artifact-fibb2.acc.belastingdienst.nl
 artifact-fibe2.acc.belastingdienst.nl
@@ -568,6 +569,7 @@ feeds.algemenebestuursdienst.nl
 feeds.allesoverbiologisch.nl
 feeds.animalfreeinnovationtpi.nl
 feeds.antennebureau.nl
+feeds.arbeidsmigratieingoedebanen.nl
 feeds.english.aivd.nl
 feeds.english.igj.nl
 feeds.igj.nl
@@ -1086,6 +1088,7 @@ opendata.algemenebestuursdienst.nl
 opendata.allesoverbiologisch.nl
 opendata.animalfreeinnovationtpi.nl
 opendata.antennebureau.nl
+opendata.arbeidsmigratieingoedebanen.nl
 opendata.english.aivd.nl
 opendata.english.igj.nl
 opendata.igj.nl
@@ -1731,6 +1734,7 @@ www.algemenebestuursdienst.nl
 www.allesoverbiologisch.nl
 www.animalfreeinnovationtpi.nl
 www.antennebureau.nl
+www.arbeidsmigratieingoedebanen.nl
 www.asl.omgevingswet.overheid.nl
 www.belastingdienst.nl
 www.bta.omgevingswet.overheid.nl
