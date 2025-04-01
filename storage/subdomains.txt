@@ -39,11 +39,11 @@ adfs
 betalen
 broker
 ruimtelijkeplannen
+testeloket
 zaaksysteem-accept
 werkenbij
 pv
 gemeenteraad
-testeloket
 iparticipatie
 belastingen
 test-ipa
@@ -63,10 +63,10 @@ enterpriseregistration
 loket.acceptatie
 openpub
 omgevingsvisie
+login
 osb
 cloudadapter-test
 digikoppeling-test
-login
 flowmailer-tracking
 beeldbank
 zaken
@@ -107,6 +107,7 @@ squit2go
 www.webmail
 filecap
 dtestmidoffice
+sip
 mijnzorg
 _autodiscover._tcp
 vergunningintaker
@@ -121,13 +122,13 @@ obsurv
 begroting
 opendata
 e
+web
 preprodbroker
 simform
 mijninkomen
 afvalkalender
 acc-formulier
 acc-podiumd-logs
-sip
 sts
 woningbouwkaart
 contentbeheer
@@ -135,8 +136,8 @@ micollab
 mdm
 smtp
 mobiel
+lyncdiscover
 gisib
-web
 izaaksuite
 subsidies
 preprod-mijninkomen
@@ -154,6 +155,7 @@ jaarstukken
 cryptshare
 mta-sts
 mailing
+maps
 belastingportaal
 email
 ftp
@@ -165,7 +167,6 @@ acc-keycloak
 acc-openklant
 acc-openzaak
 keycloak
-lyncdiscover
 notificaties
 objecten
 objecttypen
@@ -182,7 +183,6 @@ evenementen
 fs
 college
 bis
-maps
 legacy
 openklant
 test-digikoppeling
@@ -220,6 +220,7 @@ contact
 cms
 m
 filetransfer
+meet
 wachtwoord
 subsidies-backend
 melddesk
@@ -258,7 +259,6 @@ woz
 www.acc
 e-loket
 afval
-meet
 localhost
 citrix
 support
@@ -276,6 +276,7 @@ rap
 services
 smtp2
 webservices
+dialin
 geovisia
 gisib-test
 gisibapi-test
@@ -351,7 +352,6 @@ gbi
 mijngeldzaken
 rooster
 teleweb
-dialin
 test-formulier
 test-mijn
 test-notificaties
@@ -401,8 +401,10 @@ corsa-test
 mijndesktop
 english
 mijn-acc
+sharepoint
 werken
 www.mijn
+gisservices
 loket.test
 www.acceptatie
 secure-test
@@ -505,13 +507,14 @@ git
 monitor
 persberichten
 mm
-sharepoint
 start
 vergaderen
 videobellen
 koppelvlak
 social
 zoek
+av
+helloid
 belastingportaal.acc
 inloggen.belastingportaal
 inloggen.belastingportaal.acc
@@ -678,7 +681,6 @@ autodiscover.cda
 autodiscover.groenlinks
 autodiscover.pvda
 autodiscover.vvd
-gisservices
 portaltest
 www.kaarten
 ons
@@ -777,9 +779,10 @@ drop
 ondernemersplein
 repository
 verkeersbesluiten
+lync
+oa
 edienstenburgerzaken.test
 www.praatmee
-av
 datalab
 gen1
 notubiz
@@ -920,7 +923,6 @@ werkomgeving
 data.gemnet
 testberichten
 aovpn
-helloid
 mijnplan
 preprod-mijnplan
 joost
@@ -2742,6 +2744,11 @@ htmleditor
 kec
 repository-acc
 repository-eto
+gisservicesacc
+vpn2
+wachtwoordwijzigen
+webgis
+webgisacc
 email.mail.participatie
 mail.participatie
 aalten-checker-preprod
@@ -3523,7 +3530,6 @@ noorderparkbad
 notificaties.openzaak-acc
 notificaties.openzaak-tst
 notificaties.wonenportaal
-oa
 objecten-beheer-erfpacht-dev
 objecten-beheer-erfpacht-ont
 objecten-beheer-erfpacht
@@ -5564,7 +5570,6 @@ jouwbadhoevedorp
 key2percelen
 kliconline
 lostlemon
-lync
 mijnsubsidie.acc
 mpinajaar
 mpivoorjaar
