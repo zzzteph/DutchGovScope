@@ -3335,6 +3335,7 @@ https://feeds.a2vonderenkerensheide.nl
 https://feeds.aanbiedersmedicijnen.nl
 https://feeds.aboutnetherlandscustoms.nl
 https://feeds.academievoorinternationalebetrekkingen.nl
+https://feeds.academyforinternationalrelations.nl
 https://feeds.english.igj.nl
 https://feeds.igj.nl
 https://feeds.nieuwsbrievenminocw.nl
@@ -5892,6 +5893,7 @@ https://opendata.a2vonderenkerensheide.nl
 https://opendata.aanbiedersmedicijnen.nl
 https://opendata.aboutnetherlandscustoms.nl
 https://opendata.academievoorinternationalebetrekkingen.nl
+https://opendata.academyforinternationalrelations.nl
 https://opendata.arnhem.nl
 https://opendata.assen.nl
 https://opendata.bloemendaal.nl
@@ -8428,6 +8430,7 @@ https://www.aanvraagparkeren.groningen.nl
 https://www.abonneren.toezichtdocumenten.igj.nl
 https://www.aboutnetherlandscustoms.nl
 https://www.academievoorinternationalebetrekkingen.nl
+https://www.academyforinternationalrelations.nl
 https://www.acc.amsterdam.nl
 https://www.acc.denhaag.nl
 https://www.acc.omgevingswet.overheid.nl

@@ -89,6 +89,7 @@ acc-broker
 belastingloket
 connect
 doemee
+opendata
 portaal
 denkmee
 osbacc
@@ -98,7 +99,6 @@ financien
 klantcontact
 test-cmsintranet
 pki
-opendata
 apps
 samen
 verkiezingen
@@ -197,6 +197,7 @@ afspraakmaken
 zaaksysteem
 geoportaal
 _dmarc
+feeds
 website
 kennisbank
 preprod-mijn
@@ -218,7 +219,6 @@ vth
 testloket
 contact
 cms
-feeds
 m
 filetransfer
 meet

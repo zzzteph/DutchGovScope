@@ -519,6 +519,7 @@ feeds.a2vonderenkerensheide.nl
 feeds.aanbiedersmedicijnen.nl
 feeds.aboutnetherlandscustoms.nl
 feeds.academievoorinternationalebetrekkingen.nl
+feeds.academyforinternationalrelations.nl
 feeds.english.igj.nl
 feeds.igj.nl
 feeds.nieuwsbrievenminocw.nl
@@ -1020,6 +1021,7 @@ opendata.a2vonderenkerensheide.nl
 opendata.aanbiedersmedicijnen.nl
 opendata.aboutnetherlandscustoms.nl
 opendata.academievoorinternationalebetrekkingen.nl
+opendata.academyforinternationalrelations.nl
 opendata.english.igj.nl
 opendata.igj.nl
 opendata.nieuwsbrievenminocw.nl
@@ -1645,6 +1647,7 @@ www.aanpakringzuid.nl
 www.abonneren.toezichtdocumenten.igj.nl
 www.aboutnetherlandscustoms.nl
 www.academievoorinternationalebetrekkingen.nl
+www.academyforinternationalrelations.nl
 www.acc.omgevingswet.overheid.nl
 www.asl.omgevingswet.overheid.nl
 www.belastingdienst.nl
