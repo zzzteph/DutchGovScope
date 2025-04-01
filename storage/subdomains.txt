@@ -862,6 +862,7 @@ vergunning
 wachtwoordvergeten
 www.bestemmingsplannen
 www.ggd
+www.loket
 www.onderzoek
 www.open
 www.rekenkamer
@@ -3843,7 +3844,6 @@ www.iedereenwerktmee
 www.inburgeren
 www.inspraakmaatregel15
 www.intranet.nieuwsbrief
-www.loket
 www.mail.noord
 www.nieuwbouw
 www.nieuwwest
