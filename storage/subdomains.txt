@@ -33,9 +33,9 @@ waarmerk
 afspraak
 geo
 parkeren
+feeds
 vpn
 raad
-feeds
 api.meldingen
 adfs
 betalen
@@ -125,6 +125,7 @@ gemeente
 bastion365
 obsurv
 smtp
+english
 e
 web
 preprodbroker
@@ -136,7 +137,6 @@ acc-podiumd-logs
 woningbouwkaart
 contentbeheer
 micollab
-english
 mobiel
 lyncdiscover
 email
@@ -254,6 +254,8 @@ cloudadapter-prod
 handhaving
 www.portal
 servicedesk
+feeds.english
+opendata.english
 academie
 webservices
 omgevingswet
@@ -282,8 +284,6 @@ woz-portaal
 en
 mijnsociaaldomein
 a-english
-feeds.english
-opendata.english
 rap
 services
 smtp1
@@ -2897,6 +2897,8 @@ mdm-t
 mdmeas
 mdmvpn-t
 mdmvpn
+ncp-api-1
+toetsingonline
 email.mail.participatie
 mail.participatie
 aalten-checker-preprod
