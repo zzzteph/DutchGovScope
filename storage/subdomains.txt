@@ -108,6 +108,7 @@ www.webmail
 filecap
 dtestmidoffice
 mijnzorg
+_autodiscover._tcp
 vergunningintaker
 snelbalie
 dali
@@ -119,7 +120,6 @@ bgt
 obsurv
 begroting
 e
-_autodiscover._tcp
 preprodbroker
 simform
 mijninkomen
