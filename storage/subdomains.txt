@@ -98,9 +98,9 @@ financien
 klantcontact
 test-cmsintranet
 pki
+opendata
 apps
 samen
-opendata
 verkiezingen
 duurzaam
 simcms-open
@@ -218,6 +218,7 @@ vth
 testloket
 contact
 cms
+feeds
 m
 filetransfer
 meet
@@ -244,7 +245,6 @@ mx2
 cloudadapter-prod
 handhaving
 www.portal
-feeds
 magazines
 servicedesk
 academie
