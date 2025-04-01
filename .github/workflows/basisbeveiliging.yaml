@@ -1,8 +1,5 @@
 name: basisbeveiliging scope update
 
-on:
-  schedule:
-    - cron: "0 0 1 * *"
 
 concurrency:
   group: scope-scan
