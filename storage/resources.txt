@@ -1675,6 +1675,7 @@ autodiscover.amsterdam.nl
 autodiscover.apeldoorn.nl
 autodiscover.arnhem.nl
 autodiscover.asten.nl
+autodiscover.awti.nl
 autodiscover.baarn.nl
 autodiscover.barneveld.nl
 autodiscover.bergen-nh.nl
@@ -1980,6 +1981,7 @@ awseg.nederweert.nl
 awseg.roermond.nl
 awseg.venlo.nl
 awseg.weert.nl
+awti.nl
 awtunnel.nederweert.nl
 awtunnel.roermond.nl
 awtunnel.venlo.nl
@@ -5032,6 +5034,7 @@ english.aivd.nl
 english.almere.nl
 english.assen.nl
 english.autoriteitnvs.nl
+english.awti.nl
 english.eindhoven.nl
 english.igj.nl
 enkhuizen.nl
@@ -5330,6 +5333,7 @@ feeds.atkm.nl
 feeds.auditdienstrijk.nl
 feeds.autoriteitnvs.nl
 feeds.avghelpdeskzorg.nl
+feeds.awti.nl
 feeds.english.aivd.nl
 feeds.english.autoriteitnvs.nl
 feeds.english.igj.nl
@@ -10331,6 +10335,7 @@ opendata.atkm.nl
 opendata.auditdienstrijk.nl
 opendata.autoriteitnvs.nl
 opendata.avghelpdeskzorg.nl
+opendata.awti.nl
 opendata.bloemendaal.nl
 opendata.english.aivd.nl
 opendata.english.autoriteitnvs.nl
@@ -11622,6 +11627,7 @@ puc.overheid.nl
 purmerend-checker-preprod.purmerend.nl
 purmerend-checker.purmerend.nl
 purmerend.nl
+pushmail.awti.nl
 pushmail.heusden.nl
 putten.nl
 pv.achtkarspelen.nl
@@ -11790,6 +11796,7 @@ rcgog.nl
 rcm.belastingdienst.nl
 rd1.toegang.overheid.nl
 rd2.toegang.overheid.nl
+rdgateway.awti.nl
 rds.gemeentesluis.nl
 rds.hofvantwente.nl
 rds.vga.amsterdam.nl
@@ -12869,6 +12876,7 @@ smict.zwolle.nl
 smictest.zwolle.nl
 smoelennet.almelo.nl
 sms.ggd.amsterdam.nl
+smtp.awti.nl
 smtp.bapi.belastingdienst.nl
 smtp.bapicft.belastingdienst.nl
 smtp.borne.nl
@@ -12887,6 +12895,7 @@ smtp.zwolle.nl
 smtp01.meerssen.nl
 smtp01.nunspeet.nl
 smtp02.nunspeet.nl
+smtp1.awti.nl
 smtp1.belastingdienst.nl
 smtp1.denhaag.nl
 smtp1.hoorn.nl
@@ -15675,6 +15684,7 @@ www.automator2.twenterand.nl
 www.autoriteitnvs.nl
 www.avghelpdeskzorg.nl
 www.avgregisterrijksoverheid.nl
+www.awti.nl
 www.baarle-nassau.nl
 www.baarn.nl
 www.baarsjes.amsterdam.nl

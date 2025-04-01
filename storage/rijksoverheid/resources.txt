@@ -196,6 +196,7 @@ artifact-rv-pp1.logius.nl
 atkm.nl
 auditdienstrijk.nl
 autodiscover.aaenmaas.nl
+autodiscover.awti.nl
 autodiscover.koop.overheid.nl
 autodiscover.overheid.nl
 autodiscover.rcgog.nl
@@ -210,6 +211,7 @@ aw-seg.belastingdienst.nl
 aw-tunnel.belastingdienst.nl
 awa001.acc.belastingdienst.nl
 awakta01.belastingdienst.nl
+awti.nl
 axx-test.belastingdienst.nl
 axx.belastingdienst.nl
 az1.acc.belastingdienst.data.logius.nl
@@ -526,6 +528,7 @@ emm.belastingdienst.nl
 enabling.omgevingswet.overheid.nl
 english.aivd.nl
 english.autoriteitnvs.nl
+english.awti.nl
 english.igj.nl
 enterpriseregistration.belastingdienst.nl
 enterpriseregistration.pc.belastingdienst.nl
@@ -597,6 +600,7 @@ feeds.atkm.nl
 feeds.auditdienstrijk.nl
 feeds.autoriteitnvs.nl
 feeds.avghelpdeskzorg.nl
+feeds.awti.nl
 feeds.english.aivd.nl
 feeds.english.autoriteitnvs.nl
 feeds.english.igj.nl
@@ -1123,6 +1127,7 @@ opendata.atkm.nl
 opendata.auditdienstrijk.nl
 opendata.autoriteitnvs.nl
 opendata.avghelpdeskzorg.nl
+opendata.awti.nl
 opendata.english.aivd.nl
 opendata.english.autoriteitnvs.nl
 opendata.english.igj.nl
@@ -1256,6 +1261,7 @@ puc-acc.overheid.nl
 puc-redactie-acc.overheid.nl
 puc-redactie.overheid.nl
 puc.overheid.nl
+pushmail.awti.nl
 pwa001.belastingdienst.nl
 pwa002.belastingdienst.nl
 qapbldexte2.belastingdienst.nl
@@ -1265,6 +1271,7 @@ rcgog.nl
 rcm.belastingdienst.nl
 rd1.toegang.overheid.nl
 rd2.toegang.overheid.nl
+rdgateway.awti.nl
 ref.omgevingswet.overheid.nl
 regelgeving.acc.omgevingswet.overheid.nl
 regelgeving.omgevingswet.overheid.nl
@@ -1384,9 +1391,11 @@ site5.rijksoverheid.nl
 site6.rijksoverheid.nl
 site7.rijksoverheid.nl
 site8.rijksoverheid.nl
+smtp.awti.nl
 smtp.bapi.belastingdienst.nl
 smtp.bapicft.belastingdienst.nl
 smtp.rijksoverheid.nl
+smtp1.awti.nl
 smtp1.belastingdienst.nl
 smtp1.mijn.overheid.nl
 smtp11.belastingdienst.nl
@@ -1777,6 +1786,7 @@ www.auditdienstrijk.nl
 www.autoriteitnvs.nl
 www.avghelpdeskzorg.nl
 www.avgregisterrijksoverheid.nl
+www.awti.nl
 www.belastingdienst.nl
 www.bta.omgevingswet.overheid.nl
 www.dmo.omgevingswet.overheid.nl

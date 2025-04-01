@@ -109,11 +109,13 @@ https://arboportaal.nl
 https://artifact-rd1.toegang.overheid.nl
 https://atkm.nl
 https://auditdienstrijk.nl
+https://autodiscover.awti.nl
 https://autodiscover.koop.overheid.nl
 https://autodiscover.overheid.nl
 https://autoriteitnvs.nl
 https://avghelpdeskzorg.nl
 https://avgregisterrijksoverheid.nl
+https://awti.nl
 https://bag.basisregistraties.overheid.nl
 https://bag.test.basisregistraties.overheid.nl
 https://bag2.basisregistraties.overheid.nl
@@ -232,6 +234,7 @@ https://emailtemplates.overheid.nl
 https://enabling.omgevingswet.overheid.nl
 https://english.aivd.nl
 https://english.autoriteitnvs.nl
+https://english.awti.nl
 https://english.igj.nl
 https://enterpriseregistration.belastingdienst.nl
 https://eovgb-acc.aivd.nl
@@ -267,6 +270,7 @@ https://feeds.atkm.nl
 https://feeds.auditdienstrijk.nl
 https://feeds.autoriteitnvs.nl
 https://feeds.avghelpdeskzorg.nl
+https://feeds.awti.nl
 https://feeds.english.aivd.nl
 https://feeds.english.autoriteitnvs.nl
 https://feeds.english.igj.nl
@@ -428,6 +432,7 @@ https://opendata.atkm.nl
 https://opendata.auditdienstrijk.nl
 https://opendata.autoriteitnvs.nl
 https://opendata.avghelpdeskzorg.nl
+https://opendata.awti.nl
 https://opendata.english.aivd.nl
 https://opendata.english.autoriteitnvs.nl
 https://opendata.english.igj.nl
@@ -492,6 +497,7 @@ https://puc-acc.overheid.nl
 https://puc-redactie-acc.overheid.nl
 https://puc-redactie.overheid.nl
 https://puc.overheid.nl
+https://pushmail.awti.nl
 https://rcgog.nl
 https://rd1.toegang.overheid.nl
 https://rd2.toegang.overheid.nl
@@ -549,6 +555,8 @@ https://service.pre.omgevingswet.overheid.nl
 https://service.tst2905.omgevingswet.overheid.nl
 https://services.belastingdienst.nl
 https://sharepoint.aaenmaas.nl
+https://smtp.awti.nl
+https://smtp1.awti.nl
 https://social.overheid.nl
 https://sorry.belastingdienst.nl
 https://sso.acc.omgevingswet.overheid.nl
@@ -681,6 +689,7 @@ https://www.auditdienstrijk.nl
 https://www.autoriteitnvs.nl
 https://www.avghelpdeskzorg.nl
 https://www.avgregisterrijksoverheid.nl
+https://www.awti.nl
 https://www.belastingdienst.nl
 https://www.bta.omgevingswet.overheid.nl
 https://www.dmo.omgevingswet.overheid.nl

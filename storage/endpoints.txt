@@ -1518,6 +1518,7 @@ https://authx4.denhaag.nl
 https://authx5.denhaag.nl
 https://autodiscover.almere.nl
 https://autodiscover.apeldoorn.nl
+https://autodiscover.awti.nl
 https://autodiscover.beverwijk.nl
 https://autodiscover.defryskemarren.nl
 https://autodiscover.dronten.nl
@@ -1565,6 +1566,7 @@ https://awmail.venlo.nl
 https://awmail.weert.nl
 https://awseg.roermond.nl
 https://awseg.venlo.nl
+https://awti.nl
 https://awtunnel.nederweert.nl
 https://awtunnel.roermond.nl
 https://awtunnel.venlo.nl
@@ -3206,6 +3208,7 @@ https://energiethuis.scan.maassluis.nl
 https://english.aivd.nl
 https://english.almere.nl
 https://english.autoriteitnvs.nl
+https://english.awti.nl
 https://english.eindhoven.nl
 https://english.igj.nl
 https://enkhuizen.nl
@@ -3387,6 +3390,7 @@ https://feeds.atkm.nl
 https://feeds.auditdienstrijk.nl
 https://feeds.autoriteitnvs.nl
 https://feeds.avghelpdeskzorg.nl
+https://feeds.awti.nl
 https://feeds.english.aivd.nl
 https://feeds.english.autoriteitnvs.nl
 https://feeds.english.igj.nl
@@ -5971,6 +5975,7 @@ https://opendata.atkm.nl
 https://opendata.auditdienstrijk.nl
 https://opendata.autoriteitnvs.nl
 https://opendata.avghelpdeskzorg.nl
+https://opendata.awti.nl
 https://opendata.bloemendaal.nl
 https://opendata.english.aivd.nl
 https://opendata.english.autoriteitnvs.nl
@@ -6652,6 +6657,7 @@ https://puc.overheid.nl
 https://purmerend-checker-preprod.purmerend.nl
 https://purmerend-checker.purmerend.nl
 https://purmerend.nl
+https://pushmail.awti.nl
 https://putten.nl
 https://pv.achtkarspelen.nl
 https://pv.albrandswaard.nl
@@ -7224,6 +7230,8 @@ https://smartdocuments.denhaag.nl
 https://smartdocwvn.westvoorne.nl
 https://smartdocwvnacc.westvoorne.nl
 https://smoelennet.almelo.nl
+https://smtp.awti.nl
+https://smtp1.awti.nl
 https://snelbalie.almere.nl
 https://snelbalie.apeldoorn.nl
 https://snelbalie.bergenopzoom.nl
@@ -8565,6 +8573,7 @@ https://www.auditdienstrijk.nl
 https://www.autoriteitnvs.nl
 https://www.avghelpdeskzorg.nl
 https://www.avgregisterrijksoverheid.nl
+https://www.awti.nl
 https://www.baarle-nassau.nl
 https://www.barendrecht.nl
 https://www.barneveld.nl

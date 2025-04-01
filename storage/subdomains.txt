@@ -36,9 +36,9 @@ raad
 api.meldingen
 vpn
 adfs
+opendata
 betalen
 broker
-opendata
 ruimtelijkeplannen
 testeloket
 zaaksysteem-accept
@@ -51,9 +51,9 @@ test-ipa
 enterpriseenrollment
 dacceptatieloket
 dacceptatiemidoffice
+feeds
 dloket
 dmidoffice
-feeds
 data
 api.meldingen-acc
 meldingen-acc
@@ -122,6 +122,7 @@ bastion365
 bgt
 obsurv
 begroting
+smtp
 e
 web
 preprodbroker
@@ -135,7 +136,6 @@ woningbouwkaart
 contentbeheer
 micollab
 mdm
-smtp
 mobiel
 lyncdiscover
 gisib
@@ -250,6 +250,7 @@ cloudadapter-prod
 handhaving
 www.portal
 servicedesk
+english
 academie
 omgevingswet
 mijnzorg-acc
@@ -275,10 +276,10 @@ jongin
 woz-portaal
 en
 mijnsociaaldomein
-english
 api
 rap
 services
+smtp1
 smtp2
 webservices
 dialin
@@ -333,7 +334,6 @@ bezoekersparkeren
 download
 huisstijl
 ns2
-smtp1
 zoeken
 midoffice
 participatie
@@ -788,6 +788,7 @@ lync
 oa
 bezwaar
 feedback
+pushmail
 edienstenburgerzaken.test
 www.praatmee
 datalab
@@ -2761,6 +2762,7 @@ fbadmin-eopg-acc
 fbadmin-eopg
 outbound-eopg
 zorgenwerknetwerk
+rdgateway
 email.mail.participatie
 mail.participatie
 aalten-checker-preprod
@@ -5846,7 +5848,6 @@ olo-test
 olo
 po
 productie.postex
-pushmail
 webmail2
 zsaccept
 hillegom-checker-preprod
