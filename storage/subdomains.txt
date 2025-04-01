@@ -26,8 +26,8 @@ eloket
 werkplek
 dkd
 acc
-portal
 feeds
+portal
 open
 meldingen
 waarmerk

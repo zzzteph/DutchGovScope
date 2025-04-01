@@ -538,6 +538,7 @@ cognitatie.tst.omgevingswet.overheid.nl
 collegevanrijksadviseurs.nl
 comcms.logius.nl
 commissaris.brabant.nl
+commissiecelz.nl
 community.developer.overheid.nl
 competent.cibg.nl
 componenten-acc.overheid.nl
@@ -797,6 +798,7 @@ feeds.cibg.nl
 feeds.circulairinkopen.nl
 feeds.codexalimentarius.nl
 feeds.collegevanrijksadviseurs.nl
+feeds.commissiecelz.nl
 feeds.english.aivd.nl
 feeds.english.autoriteitnvs.nl
 feeds.english.belastingdienst-cn.nl
@@ -1404,6 +1406,7 @@ opendata.cibg.nl
 opendata.circulairinkopen.nl
 opendata.codexalimentarius.nl
 opendata.collegevanrijksadviseurs.nl
+opendata.commissiecelz.nl
 opendata.english.aivd.nl
 opendata.english.autoriteitnvs.nl
 opendata.english.belastingdienst-cn.nl
@@ -2156,6 +2159,7 @@ www.cibg.nl
 www.circulairinkopen.nl
 www.codexalimentarius.nl
 www.collegevanrijksadviseurs.nl
+www.commissiecelz.nl
 www.dataportaal.brabant.nl
 www.dmo.omgevingswet.overheid.nl
 www.enabling.omgevingswet.overheid.nl

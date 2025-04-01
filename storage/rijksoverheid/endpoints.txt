@@ -271,6 +271,7 @@ https://cognitatie.omgevingswet.overheid.nl
 https://cognitatie.tst.omgevingswet.overheid.nl
 https://collegevanrijksadviseurs.nl
 https://comcms.logius.nl
+https://commissiecelz.nl
 https://community.developer.overheid.nl
 https://componenten-acc.overheid.nl
 https://componenten-tst.overheid.nl
@@ -408,6 +409,7 @@ https://feeds.cibg.nl
 https://feeds.circulairinkopen.nl
 https://feeds.codexalimentarius.nl
 https://feeds.collegevanrijksadviseurs.nl
+https://feeds.commissiecelz.nl
 https://feeds.english.aivd.nl
 https://feeds.english.autoriteitnvs.nl
 https://feeds.english.belastingdienst-cn.nl
@@ -618,6 +620,7 @@ https://opendata.cibg.nl
 https://opendata.circulairinkopen.nl
 https://opendata.codexalimentarius.nl
 https://opendata.collegevanrijksadviseurs.nl
+https://opendata.commissiecelz.nl
 https://opendata.english.aivd.nl
 https://opendata.english.autoriteitnvs.nl
 https://opendata.english.belastingdienst-cn.nl
@@ -932,6 +935,7 @@ https://www.cibg.nl
 https://www.circulairinkopen.nl
 https://www.codexalimentarius.nl
 https://www.collegevanrijksadviseurs.nl
+https://www.commissiecelz.nl
 https://www.dataportaal.brabant.nl
 https://www.dmo.omgevingswet.overheid.nl
 https://www.enabling.omgevingswet.overheid.nl
