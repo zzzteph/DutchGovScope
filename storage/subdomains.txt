@@ -77,12 +77,12 @@ cloudadapter
 kaarten
 berichten
 parkeren-acc
+opendata
 digikoppeling.test
 mks
 cmsintranet
 test-intranet
 dtestloket
-opendata
 govroam
 parkeren-test
 piwik
@@ -153,6 +153,7 @@ connect.acceptatie
 inloggen
 jaarstukken
 cryptshare
+feeds
 mta-sts
 mailing
 maps
@@ -179,7 +180,6 @@ ro
 uc
 AutoDiscover
 transfer
-feeds
 evenementen
 fs
 college
