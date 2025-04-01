@@ -117,6 +117,7 @@ a-feeds.a-english.aivd.nl
 a-feeds.a-english.igj.nl
 a-feeds.agroberichtenbuitenland.nl
 a-feeds.aivd.nl
+a-feeds.antennebureau.nl
 a-feeds.igj.nl
 a-feeds.rijksoverheid.nl
 a-git.rijksoverheid.nl
@@ -128,6 +129,7 @@ a-opendata.a-english.aivd.nl
 a-opendata.a-english.igj.nl
 a-opendata.agroberichtenbuitenland.nl
 a-opendata.aivd.nl
+a-opendata.antennebureau.nl
 a-opendata.igj.nl
 a-opendata.rijksoverheid.nl
 a-p-ddi-0003.leeuwarden.nl
@@ -145,6 +147,7 @@ a-voorlichting.rijksoverheid.nl
 a-wiki.rijksoverheid.nl
 a-www.agroberichtenbuitenland.nl
 a-www.aivd.nl
+a-www.antennebureau.nl
 a-www.igj.nl
 a-www.rijksoverheid.nl
 a2b-rtr.alkmaar.nl
@@ -1222,6 +1225,7 @@ ansvwl2016.waterland.nl
 ansvwl2019.waterland.nl
 ansvwl2032.waterland.nl
 ansvwl2903.waterland.nl
+antennebureau.nl
 antispam.eijsden-margraten.nl
 antix.overbetuwe.nl
 anva.vga.amsterdam.nl
@@ -5296,6 +5300,7 @@ feeds.aivd.nl
 feeds.algemenebestuursdienst.nl
 feeds.allesoverbiologisch.nl
 feeds.animalfreeinnovationtpi.nl
+feeds.antennebureau.nl
 feeds.english.aivd.nl
 feeds.english.igj.nl
 feeds.igj.nl
@@ -10286,6 +10291,7 @@ opendata.aivd.nl
 opendata.algemenebestuursdienst.nl
 opendata.allesoverbiologisch.nl
 opendata.animalfreeinnovationtpi.nl
+opendata.antennebureau.nl
 opendata.arnhem.nl
 opendata.assen.nl
 opendata.bloemendaal.nl
@@ -13789,6 +13795,7 @@ test.achtkarspelen.nl
 test.afspraakmaken.dronten.nl
 test.amersfoort.nl
 test.amstelveen.nl
+test.antennebureau.nl
 test.api.tod.leiden.nl
 test.app.amsterdam.nl
 test.arnhem.nl
@@ -15604,6 +15611,7 @@ www.amsterdam.nl
 www.animalfreeinnovationtpi.nl
 www.ansvwl2016.waterland.nl
 www.ansvwl2903.waterland.nl
+www.antennebureau.nl
 www.anwebintwl2008.waterland.nl
 www.apeldoorn.nl
 www.app6-accp.nijmegen.nl

@@ -48,9 +48,9 @@ iparticipatie
 belastingen
 test-ipa
 enterpriseenrollment
+opendata
 dacceptatieloket
 dacceptatiemidoffice
-opendata
 dloket
 dmidoffice
 data
@@ -70,9 +70,9 @@ cloudadapter-test
 digikoppeling-test
 flowmailer-tracking
 beeldbank
+feeds
 zaken
 kaart
-feeds
 formulier
 hybrid
 cloudadapter
@@ -326,6 +326,9 @@ www.intranet
 aeolus
 sbc01
 bezoekersparkeren
+a-feeds
+a-opendata
+a-www
 english
 download
 huisstijl
@@ -400,9 +403,6 @@ prefill
 corsa-prod
 corsa-test
 mijndesktop
-a-feeds
-a-opendata
-a-www
 mijn-acc
 sharepoint
 werken
