@@ -25,8 +25,8 @@ eloket
 werkplek
 dkd
 acc
-portal
 opendata
+portal
 open
 meldingen
 waarmerk
@@ -36,8 +36,8 @@ parkeren
 raad
 vpn
 api.meldingen
-adfs
 feeds
+adfs
 betalen
 broker
 ruimtelijkeplannen
@@ -518,6 +518,7 @@ cca
 git
 monitor
 persberichten
+static
 mm
 start
 vergaderen
@@ -739,7 +740,6 @@ www.sharefile
 autodiscover.raad
 a-magazines
 handleiding
-static
 statistiek
 wiki
 sdm
