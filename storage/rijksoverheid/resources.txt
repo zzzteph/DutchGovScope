@@ -7,13 +7,16 @@ a-cms.rijksoverheid.nl
 a-cms1.rijksoverheid.nl
 a-cms2.rijksoverheid.nl
 a-english.aivd.nl
+a-english.autoriteitnvs.nl
 a-english.igj.nl
 a-feeds.a-english.aivd.nl
+a-feeds.a-english.autoriteitnvs.nl
 a-feeds.a-english.igj.nl
 a-feeds.agroberichtenbuitenland.nl
 a-feeds.aivd.nl
 a-feeds.antennebureau.nl
 a-feeds.arboportaal.nl
+a-feeds.autoriteitnvs.nl
 a-feeds.igj.nl
 a-feeds.rijksoverheid.nl
 a-git.rijksoverheid.nl
@@ -22,11 +25,13 @@ a-magazines.igj.nl
 a-magazines.rijksoverheid.nl
 a-magazinesintern.rijksoverheid.nl
 a-opendata.a-english.aivd.nl
+a-opendata.a-english.autoriteitnvs.nl
 a-opendata.a-english.igj.nl
 a-opendata.agroberichtenbuitenland.nl
 a-opendata.aivd.nl
 a-opendata.antennebureau.nl
 a-opendata.arboportaal.nl
+a-opendata.autoriteitnvs.nl
 a-opendata.igj.nl
 a-opendata.rijksoverheid.nl
 a-persberichten.rijksoverheid.nl
@@ -42,6 +47,7 @@ a-www.agroberichtenbuitenland.nl
 a-www.aivd.nl
 a-www.antennebureau.nl
 a-www.arboportaal.nl
+a-www.autoriteitnvs.nl
 a-www.igj.nl
 a-www.rijksoverheid.nl
 a2vonderenkerensheide.nl
@@ -189,6 +195,7 @@ autodiscover.aaenmaas.nl
 autodiscover.koop.overheid.nl
 autodiscover.overheid.nl
 autodiscover.rcgog.nl
+autoriteitnvs.nl
 av.aaenmaas.nl
 aw-content.belastingdienst.nl
 aw-ds.belastingdienst.nl
@@ -512,6 +519,7 @@ emailtemplates.overheid.nl
 emm.belastingdienst.nl
 enabling.omgevingswet.overheid.nl
 english.aivd.nl
+english.autoriteitnvs.nl
 english.igj.nl
 enterpriseregistration.belastingdienst.nl
 enterpriseregistration.pc.belastingdienst.nl
@@ -581,7 +589,9 @@ feeds.arbeidsmigratieingoedebanen.nl
 feeds.arboportaal.nl
 feeds.atkm.nl
 feeds.auditdienstrijk.nl
+feeds.autoriteitnvs.nl
 feeds.english.aivd.nl
+feeds.english.autoriteitnvs.nl
 feeds.english.igj.nl
 feeds.igj.nl
 feeds.nieuwsbrievenminocw.nl
@@ -1104,7 +1114,9 @@ opendata.arbeidsmigratieingoedebanen.nl
 opendata.arboportaal.nl
 opendata.atkm.nl
 opendata.auditdienstrijk.nl
+opendata.autoriteitnvs.nl
 opendata.english.aivd.nl
+opendata.english.autoriteitnvs.nl
 opendata.english.igj.nl
 opendata.igj.nl
 opendata.nieuwsbrievenminocw.nl
@@ -1754,6 +1766,7 @@ www.arboportaal.nl
 www.asl.omgevingswet.overheid.nl
 www.atkm.nl
 www.auditdienstrijk.nl
+www.autoriteitnvs.nl
 www.belastingdienst.nl
 www.bta.omgevingswet.overheid.nl
 www.dmo.omgevingswet.overheid.nl

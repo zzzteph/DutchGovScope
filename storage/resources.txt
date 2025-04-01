@@ -112,13 +112,16 @@ a-consent.sarphati.amsterdam.nl
 a-digikoppeling.amersfoort.nl
 a-eformsmidoffice.utrecht.nl
 a-english.aivd.nl
+a-english.autoriteitnvs.nl
 a-english.igj.nl
 a-feeds.a-english.aivd.nl
+a-feeds.a-english.autoriteitnvs.nl
 a-feeds.a-english.igj.nl
 a-feeds.agroberichtenbuitenland.nl
 a-feeds.aivd.nl
 a-feeds.antennebureau.nl
 a-feeds.arboportaal.nl
+a-feeds.autoriteitnvs.nl
 a-feeds.igj.nl
 a-feeds.rijksoverheid.nl
 a-git.rijksoverheid.nl
@@ -127,11 +130,13 @@ a-magazines.igj.nl
 a-magazines.rijksoverheid.nl
 a-magazinesintern.rijksoverheid.nl
 a-opendata.a-english.aivd.nl
+a-opendata.a-english.autoriteitnvs.nl
 a-opendata.a-english.igj.nl
 a-opendata.agroberichtenbuitenland.nl
 a-opendata.aivd.nl
 a-opendata.antennebureau.nl
 a-opendata.arboportaal.nl
+a-opendata.autoriteitnvs.nl
 a-opendata.igj.nl
 a-opendata.rijksoverheid.nl
 a-p-ddi-0003.leeuwarden.nl
@@ -151,6 +156,7 @@ a-www.agroberichtenbuitenland.nl
 a-www.aivd.nl
 a-www.antennebureau.nl
 a-www.arboportaal.nl
+a-www.autoriteitnvs.nl
 a-www.igj.nl
 a-www.rijksoverheid.nl
 a2b-rtr.alkmaar.nl
@@ -1937,6 +1943,7 @@ autorisatiebeheer.voerendaal.nl
 autorisatiebeheertest.simpelveld.nl
 autorisatietest.bloemendaal.nl
 autorisatietest.heemstede.nl
+autoriteitnvs.nl
 av.aaenmaas.nl
 av.alkmaar.nl
 av.urk.nl
@@ -5018,6 +5025,7 @@ energiethuis.scan.maassluis.nl
 english.aivd.nl
 english.almere.nl
 english.assen.nl
+english.autoriteitnvs.nl
 english.eindhoven.nl
 english.igj.nl
 enkhuizen.nl
@@ -5314,7 +5322,9 @@ feeds.arbeidsmigratieingoedebanen.nl
 feeds.arboportaal.nl
 feeds.atkm.nl
 feeds.auditdienstrijk.nl
+feeds.autoriteitnvs.nl
 feeds.english.aivd.nl
+feeds.english.autoriteitnvs.nl
 feeds.english.igj.nl
 feeds.igj.nl
 feeds.nieuwsbrievenminocw.nl
@@ -10312,8 +10322,10 @@ opendata.arnhem.nl
 opendata.assen.nl
 opendata.atkm.nl
 opendata.auditdienstrijk.nl
+opendata.autoriteitnvs.nl
 opendata.bloemendaal.nl
 opendata.english.aivd.nl
+opendata.english.autoriteitnvs.nl
 opendata.english.igj.nl
 opendata.heemstede.nl
 opendata.igj.nl
@@ -15652,6 +15664,7 @@ www.atlas.amsterdam.nl
 www.auditdienstrijk.nl
 www.auth.sudwestfryslan.nl
 www.automator2.twenterand.nl
+www.autoriteitnvs.nl
 www.baarle-nassau.nl
 www.baarn.nl
 www.baarsjes.amsterdam.nl

@@ -1551,6 +1551,7 @@ https://autorisatie.bloemendaal.nl
 https://autorisatie.heemstede.nl
 https://autorisatietest.bloemendaal.nl
 https://autorisatietest.heemstede.nl
+https://autoriteitnvs.nl
 https://awm.amsterdam.nl
 https://awmag.asten.nl
 https://awmag.roermond.nl
@@ -3201,6 +3202,7 @@ https://energiethuis.maassluis.nl
 https://energiethuis.scan.maassluis.nl
 https://english.aivd.nl
 https://english.almere.nl
+https://english.autoriteitnvs.nl
 https://english.eindhoven.nl
 https://english.igj.nl
 https://enkhuizen.nl
@@ -3380,7 +3382,9 @@ https://feeds.arbeidsmigratieingoedebanen.nl
 https://feeds.arboportaal.nl
 https://feeds.atkm.nl
 https://feeds.auditdienstrijk.nl
+https://feeds.autoriteitnvs.nl
 https://feeds.english.aivd.nl
+https://feeds.english.autoriteitnvs.nl
 https://feeds.english.igj.nl
 https://feeds.igj.nl
 https://feeds.nieuwsbrievenminocw.nl
@@ -5961,8 +5965,10 @@ https://opendata.arnhem.nl
 https://opendata.assen.nl
 https://opendata.atkm.nl
 https://opendata.auditdienstrijk.nl
+https://opendata.autoriteitnvs.nl
 https://opendata.bloemendaal.nl
 https://opendata.english.aivd.nl
+https://opendata.english.autoriteitnvs.nl
 https://opendata.english.igj.nl
 https://opendata.heemstede.nl
 https://opendata.igj.nl
@@ -8551,6 +8557,7 @@ https://www.asten.nl
 https://www.ateliers.amsterdam.nl
 https://www.atkm.nl
 https://www.auditdienstrijk.nl
+https://www.autoriteitnvs.nl
 https://www.baarle-nassau.nl
 https://www.barendrecht.nl
 https://www.barneveld.nl
