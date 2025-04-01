@@ -2678,6 +2678,7 @@ bijveencms-acc.veenendaal.nl
 bijveencms.veenendaal.nl
 bikecity.amsterdam.nl
 bink.beverwijk.nl
+binnenhofrenovatie.nl
 binnenshuis.bergen.nl
 binnenstad.deventer.nl
 binnenstad.leiden.nl
@@ -5364,6 +5365,7 @@ feeds.beheerautoriteitwaddenzee.nl
 feeds.belastingdienst-cn.nl
 feeds.beschermdecultuurgoederen.nl
 feeds.bigregister.nl
+feeds.binnenhofrenovatie.nl
 feeds.english.aivd.nl
 feeds.english.autoriteitnvs.nl
 feeds.english.belastingdienst-cn.nl
@@ -10375,6 +10377,7 @@ opendata.beheerautoriteitwaddenzee.nl
 opendata.belastingdienst-cn.nl
 opendata.beschermdecultuurgoederen.nl
 opendata.bigregister.nl
+opendata.binnenhofrenovatie.nl
 opendata.bloemendaal.nl
 opendata.english.aivd.nl
 opendata.english.autoriteitnvs.nl
@@ -15785,6 +15788,7 @@ www.bibliotheekbenoordenhout.denhaag.nl
 www.bigregister.nl
 www.bijmijindebuurt.gemeentewestland.nl
 www.bikecity.amsterdam.nl
+www.binnenhofrenovatie.nl
 www.binnenstad.amsterdam.nl
 www.binnenstadsplan2030.denhaag.nl
 www.binnenwaterbeheer.amsterdam.nl

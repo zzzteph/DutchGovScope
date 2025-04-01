@@ -335,6 +335,7 @@ bgt.basisregistraties.overheid.nl
 bideo.belastingdienst.nl
 bigregister.nl
 bijleen.belastingdienst.nl
+binnenhofrenovatie.nl
 bms.acc.belastingdienst.nl
 bms.belastingdienst.nl
 bmt.acc.belastingdienst.nl
@@ -631,6 +632,7 @@ feeds.beheerautoriteitwaddenzee.nl
 feeds.belastingdienst-cn.nl
 feeds.beschermdecultuurgoederen.nl
 feeds.bigregister.nl
+feeds.binnenhofrenovatie.nl
 feeds.english.aivd.nl
 feeds.english.autoriteitnvs.nl
 feeds.english.belastingdienst-cn.nl
@@ -1167,6 +1169,7 @@ opendata.beheerautoriteitwaddenzee.nl
 opendata.belastingdienst-cn.nl
 opendata.beschermdecultuurgoederen.nl
 opendata.bigregister.nl
+opendata.binnenhofrenovatie.nl
 opendata.english.aivd.nl
 opendata.english.autoriteitnvs.nl
 opendata.english.belastingdienst-cn.nl
@@ -1839,6 +1842,7 @@ www.belastingdienst-cn.nl
 www.belastingdienst.nl
 www.beschermdecultuurgoederen.nl
 www.bigregister.nl
+www.binnenhofrenovatie.nl
 www.bta.omgevingswet.overheid.nl
 www.dmo.omgevingswet.overheid.nl
 www.enabling.omgevingswet.overheid.nl

@@ -30,9 +30,9 @@ meldingen
 waarmerk
 open
 afspraak
+opendata
 geo
 parkeren
-opendata
 raad
 api.meldingen
 vpn
@@ -42,10 +42,10 @@ broker
 ruimtelijkeplannen
 testeloket
 zaaksysteem-accept
+feeds
 werkenbij
 pv
 gemeenteraad
-feeds
 iparticipatie
 belastingen
 test-ipa

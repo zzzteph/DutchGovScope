@@ -1990,6 +1990,7 @@ https://bijveencms-acc.veenendaal.nl
 https://bijveencms.veenendaal.nl
 https://bikecity.amsterdam.nl
 https://bink.beverwijk.nl
+https://binnenhofrenovatie.nl
 https://binnenshuis.bergen.nl
 https://binnenstad.deventer.nl
 https://binnenstad.leiden.nl
@@ -3413,6 +3414,7 @@ https://feeds.beheerautoriteitwaddenzee.nl
 https://feeds.belastingdienst-cn.nl
 https://feeds.beschermdecultuurgoederen.nl
 https://feeds.bigregister.nl
+https://feeds.binnenhofrenovatie.nl
 https://feeds.english.aivd.nl
 https://feeds.english.autoriteitnvs.nl
 https://feeds.english.belastingdienst-cn.nl
@@ -6007,6 +6009,7 @@ https://opendata.beheerautoriteitwaddenzee.nl
 https://opendata.belastingdienst-cn.nl
 https://opendata.beschermdecultuurgoederen.nl
 https://opendata.bigregister.nl
+https://opendata.binnenhofrenovatie.nl
 https://opendata.bloemendaal.nl
 https://opendata.english.aivd.nl
 https://opendata.english.autoriteitnvs.nl
@@ -8637,6 +8640,7 @@ https://www.bibliotheek.rotterdam.nl
 https://www.bibliotheekbenoordenhout.denhaag.nl
 https://www.bigregister.nl
 https://www.bikecity.amsterdam.nl
+https://www.binnenhofrenovatie.nl
 https://www.binnenstadsplan2030.denhaag.nl
 https://www.blaricum.nl
 https://www.bloemendaal.nl
