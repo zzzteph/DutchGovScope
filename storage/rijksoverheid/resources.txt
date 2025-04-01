@@ -416,6 +416,7 @@ ca-idp.logius.nl
 ca-tst.logius.nl
 ca.logius.nl
 calendartst.brabant.nl
+campagnetoolkits.nl
 cap.om.belastingdienst.nl
 captiveportal.belastingdienst.nl
 cbm.acc.mijn.overheid.nl
@@ -698,6 +699,7 @@ feeds.bigregister.nl
 feeds.binnenhofrenovatie.nl
 feeds.braic.nl
 feeds.bureauncdr.nl
+feeds.campagnetoolkits.nl
 feeds.english.aivd.nl
 feeds.english.autoriteitnvs.nl
 feeds.english.belastingdienst-cn.nl
@@ -1276,6 +1278,7 @@ opendata.binnenhofrenovatie.nl
 opendata.brabant.nl
 opendata.braic.nl
 opendata.bureauncdr.nl
+opendata.campagnetoolkits.nl
 opendata.english.aivd.nl
 opendata.english.autoriteitnvs.nl
 opendata.english.belastingdienst-cn.nl
@@ -1995,6 +1998,7 @@ www.bta.omgevingswet.overheid.nl
 www.bureauncdr.nl
 www.bureauwbtv.nl
 www.bureauwsnp.nl
+www.campagnetoolkits.nl
 www.dataportaal.brabant.nl
 www.dmo.omgevingswet.overheid.nl
 www.enabling.omgevingswet.overheid.nl

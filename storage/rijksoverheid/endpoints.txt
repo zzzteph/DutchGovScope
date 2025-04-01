@@ -209,6 +209,7 @@ https://bvs.belastingdienst.nl
 https://bzv.brabant.nl
 https://ca-idp-pre.logius.nl
 https://ca-idp.logius.nl
+https://campagnetoolkits.nl
 https://cbm.demo.mijn.overheid.nl
 https://cbm.mijn.overheid.nl
 https://cbm.preprod.mijn.overheid.nl
@@ -344,6 +345,7 @@ https://feeds.bigregister.nl
 https://feeds.binnenhofrenovatie.nl
 https://feeds.braic.nl
 https://feeds.bureauncdr.nl
+https://feeds.campagnetoolkits.nl
 https://feeds.english.aivd.nl
 https://feeds.english.autoriteitnvs.nl
 https://feeds.english.belastingdienst-cn.nl
@@ -533,6 +535,7 @@ https://opendata.binnenhofrenovatie.nl
 https://opendata.brabant.nl
 https://opendata.braic.nl
 https://opendata.bureauncdr.nl
+https://opendata.campagnetoolkits.nl
 https://opendata.english.aivd.nl
 https://opendata.english.autoriteitnvs.nl
 https://opendata.english.belastingdienst-cn.nl
@@ -824,6 +827,7 @@ https://www.bta.omgevingswet.overheid.nl
 https://www.bureauncdr.nl
 https://www.bureauwbtv.nl
 https://www.bureauwsnp.nl
+https://www.campagnetoolkits.nl
 https://www.dataportaal.brabant.nl
 https://www.dmo.omgevingswet.overheid.nl
 https://www.enabling.omgevingswet.overheid.nl

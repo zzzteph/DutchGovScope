@@ -2188,6 +2188,7 @@ https://ca-idp-pre.logius.nl
 https://ca-idp.logius.nl
 https://cairo.rotterdam.nl
 https://camera.sliedrecht.nl
+https://campagnetoolkits.nl
 https://campus.groningen.nl
 https://campus.purmerend.nl
 https://camunda-zgw.acc.denhaag.nl
@@ -3464,6 +3465,7 @@ https://feeds.bigregister.nl
 https://feeds.binnenhofrenovatie.nl
 https://feeds.braic.nl
 https://feeds.bureauncdr.nl
+https://feeds.campagnetoolkits.nl
 https://feeds.english.aivd.nl
 https://feeds.english.autoriteitnvs.nl
 https://feeds.english.belastingdienst-cn.nl
@@ -6077,6 +6079,7 @@ https://opendata.bloemendaal.nl
 https://opendata.brabant.nl
 https://opendata.braic.nl
 https://opendata.bureauncdr.nl
+https://opendata.campagnetoolkits.nl
 https://opendata.english.aivd.nl
 https://opendata.english.autoriteitnvs.nl
 https://opendata.english.belastingdienst-cn.nl
@@ -8751,6 +8754,7 @@ https://www.buurtbudget.amsterdam.nl
 https://www.buurtbudgetnoord.amsterdam.nl
 https://www.buurtbudgetzuid.amsterdam.nl
 https://www.buurtbudgetzuidoost.amsterdam.nl
+https://www.campagnetoolkits.nl
 https://www.campus.groningen.nl
 https://www.castricum.nl
 https://www.centrumbegroot.alphenaandenrijn.nl

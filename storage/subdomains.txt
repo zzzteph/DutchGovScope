@@ -37,9 +37,9 @@ raad
 vpn
 api.meldingen
 adfs
+feeds
 betalen
 broker
-feeds
 ruimtelijkeplannen
 testeloket
 zaaksysteem-accept
