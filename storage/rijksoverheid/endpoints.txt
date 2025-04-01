@@ -92,6 +92,7 @@ https://algemenebestuursdienst.nl
 https://algoritme.overheid.nl
 https://algoritmen.overheid.nl
 https://algoritmes.overheid.nl
+https://allesoverbiologisch.nl
 https://almanak.overheid.nl
 https://api-ota.belastingdienst.nl
 https://api.belastingdienst.nl
@@ -244,6 +245,7 @@ https://feeds.advisorycouncilinternationalaffairs.nl
 https://feeds.agroberichtenbuitenland.nl
 https://feeds.aivd.nl
 https://feeds.algemenebestuursdienst.nl
+https://feeds.allesoverbiologisch.nl
 https://feeds.english.aivd.nl
 https://feeds.english.igj.nl
 https://feeds.igj.nl
@@ -394,6 +396,7 @@ https://opendata.advisorycouncilinternationalaffairs.nl
 https://opendata.agroberichtenbuitenland.nl
 https://opendata.aivd.nl
 https://opendata.algemenebestuursdienst.nl
+https://opendata.allesoverbiologisch.nl
 https://opendata.english.aivd.nl
 https://opendata.english.igj.nl
 https://opendata.igj.nl
@@ -636,6 +639,7 @@ https://www.aeriusproducten.nl
 https://www.agroberichtenbuitenland.nl
 https://www.aivd.nl
 https://www.algemenebestuursdienst.nl
+https://www.allesoverbiologisch.nl
 https://www.belastingdienst.nl
 https://www.bta.omgevingswet.overheid.nl
 https://www.dmo.omgevingswet.overheid.nl

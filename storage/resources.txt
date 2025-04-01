@@ -1158,6 +1158,7 @@ alleplannen.centrumbegroot.alphenaandenrijn.nl
 alleplannen.laakhavensbepaalt.denhaag.nl
 alleplannen.mariahoeveaanzet.denhaag.nl
 alleplannen.noordwestbegroot.utrecht.nl
+allesoverbiologisch.nl
 almanak.overheid.nl
 almelo-centraal.almelo.nl
 almelo.nl
@@ -5292,6 +5293,7 @@ feeds.advisorycouncilinternationalaffairs.nl
 feeds.agroberichtenbuitenland.nl
 feeds.aivd.nl
 feeds.algemenebestuursdienst.nl
+feeds.allesoverbiologisch.nl
 feeds.english.aivd.nl
 feeds.english.igj.nl
 feeds.igj.nl
@@ -10280,6 +10282,7 @@ opendata.advisorycouncilinternationalaffairs.nl
 opendata.agroberichtenbuitenland.nl
 opendata.aivd.nl
 opendata.algemenebestuursdienst.nl
+opendata.allesoverbiologisch.nl
 opendata.arnhem.nl
 opendata.assen.nl
 opendata.bloemendaal.nl
@@ -15586,6 +15589,7 @@ www.albrandswaard.nl
 www.algemenebestuursdienst.nl
 www.alkmaar.nl
 www.alleplannen.centrumbegroot.alphenaandenrijn.nl
+www.allesoverbiologisch.nl
 www.almelo.nl
 www.almere.nl
 www.alphen-chaam.nl

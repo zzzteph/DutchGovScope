@@ -111,6 +111,7 @@ algemenebestuursdienst.nl
 algoritme.overheid.nl
 algoritmen.overheid.nl
 algoritmes.overheid.nl
+allesoverbiologisch.nl
 almanak.overheid.nl
 amlc.acc.belastingdienst.nl
 amlc.ont.belastingdienst.nl
@@ -559,6 +560,7 @@ feeds.advisorycouncilinternationalaffairs.nl
 feeds.agroberichtenbuitenland.nl
 feeds.aivd.nl
 feeds.algemenebestuursdienst.nl
+feeds.allesoverbiologisch.nl
 feeds.english.aivd.nl
 feeds.english.igj.nl
 feeds.igj.nl
@@ -1074,6 +1076,7 @@ opendata.advisorycouncilinternationalaffairs.nl
 opendata.agroberichtenbuitenland.nl
 opendata.aivd.nl
 opendata.algemenebestuursdienst.nl
+opendata.allesoverbiologisch.nl
 opendata.english.aivd.nl
 opendata.english.igj.nl
 opendata.igj.nl
@@ -1715,6 +1718,7 @@ www.aeriusproducten.nl
 www.agroberichtenbuitenland.nl
 www.aivd.nl
 www.algemenebestuursdienst.nl
+www.allesoverbiologisch.nl
 www.asl.omgevingswet.overheid.nl
 www.belastingdienst.nl
 www.bta.omgevingswet.overheid.nl

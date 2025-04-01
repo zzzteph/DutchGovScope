@@ -52,8 +52,8 @@ dacceptatieloket
 dacceptatiemidoffice
 dloket
 dmidoffice
-data
 opendata
+data
 api.meldingen-acc
 meldingen-acc
 remote
@@ -73,10 +73,10 @@ beeldbank
 zaken
 kaart
 formulier
+feeds
 hybrid
 cloudadapter
 kaarten
-feeds
 berichten
 parkeren-acc
 digikoppeling.test
