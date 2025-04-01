@@ -2749,6 +2749,7 @@ vpn2
 wachtwoordwijzigen
 webgis
 webgisacc
+chw
 email.mail.participatie
 mail.participatie
 aalten-checker-preprod
