@@ -55,12 +55,12 @@ dmidoffice
 data
 api.meldingen-acc
 meldingen-acc
+remote
 openpdc
 belastingbalie
 cmsoo
 enterpriseregistration
 loket.acceptatie
-remote
 openpub
 omgevingsvisie
 osb

@@ -508,7 +508,6 @@ http://test.website.westland.gemeentewestland.nl
 http://testcms-jip.hofvantwente.nl
 http://testeformulieren.rhenen.nl
 http://testeloket.meppel.nl
-http://testmarkt1.nunspeet.nl
 http://thomas100.rotterdam.nl
 http://thuiswerk.rotterdam.nl
 http://thuiswerkacc.rotterdam.nl
@@ -6689,6 +6688,7 @@ https://remote.gorinchem.nl
 https://remote.hethogeland.nl
 https://remote.lochem.nl
 https://remote.montferland.info
+https://remote.nunspeet.nl
 https://remote.waalwijk.nl
 https://remote.westmaasenwaal.nl
 https://remote.westvoorne.nl
