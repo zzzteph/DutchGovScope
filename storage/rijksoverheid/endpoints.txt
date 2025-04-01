@@ -81,6 +81,7 @@ https://adviescollegeregeldruk.nl
 https://adviescollegeveiligheidgroningen.nl
 https://adviescommissievolkenrecht.nl
 https://adviesraadmigratie.nl
+https://advisorycommitteeinternationallaw.nl
 https://afspraken.belastingdienst.nl
 https://afval.omgevingswet.overheid.nl
 https://algoritme.overheid.nl
@@ -228,6 +229,7 @@ https://feeds.adviescollegeveiligheidgroningen.nl
 https://feeds.adviescommissievolkenrecht.nl
 https://feeds.adviesraadinternationalevraagstukken.nl
 https://feeds.adviesraadmigratie.nl
+https://feeds.advisorycommitteeinternationallaw.nl
 https://feeds.english.igj.nl
 https://feeds.igj.nl
 https://feeds.nieuwsbrievenminocw.nl
@@ -371,6 +373,7 @@ https://opendata.adviescollegeveiligheidgroningen.nl
 https://opendata.adviescommissievolkenrecht.nl
 https://opendata.adviesraadinternationalevraagstukken.nl
 https://opendata.adviesraadmigratie.nl
+https://opendata.advisorycommitteeinternationallaw.nl
 https://opendata.english.igj.nl
 https://opendata.igj.nl
 https://opendata.nieuwsbrievenminocw.nl
@@ -606,6 +609,7 @@ https://www.adviescollegeveiligheidgroningen.nl
 https://www.adviescommissievolkenrecht.nl
 https://www.adviesraadinternationalevraagstukken.nl
 https://www.adviesraadmigratie.nl
+https://www.advisorycommitteeinternationallaw.nl
 https://www.belastingdienst.nl
 https://www.bta.omgevingswet.overheid.nl
 https://www.dmo.omgevingswet.overheid.nl

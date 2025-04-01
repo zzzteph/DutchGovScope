@@ -67,9 +67,9 @@ login
 osb
 cloudadapter-test
 digikoppeling-test
+opendata
 flowmailer-tracking
 beeldbank
-opendata
 zaken
 kaart
 formulier
@@ -99,9 +99,9 @@ financien
 klantcontact
 test-cmsintranet
 pki
+feeds
 apps
 samen
-feeds
 verkiezingen
 duurzaam
 simcms-open
