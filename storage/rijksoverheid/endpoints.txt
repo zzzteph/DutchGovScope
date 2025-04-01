@@ -221,6 +221,7 @@ https://cciwebstats.belastingdienst.nl
 https://ccmo.nl
 https://ceg.nl
 https://centraalaanspreekpuntpensioenen.belastingdienst.nl
+https://centralecommissiedierproeven.nl
 https://channels.lpc.logius.nl
 https://chw.aandeslagmetdeomgevingswet.nl
 https://cia.acp.ondernemersplein.overheid.nl
@@ -362,6 +363,7 @@ https://feeds.caorijk.nl
 https://feeds.cbg-meb.nl
 https://feeds.ccmo.nl
 https://feeds.ceg.nl
+https://feeds.centralecommissiedierproeven.nl
 https://feeds.english.aivd.nl
 https://feeds.english.autoriteitnvs.nl
 https://feeds.english.belastingdienst-cn.nl
@@ -562,6 +564,7 @@ https://opendata.caorijk.nl
 https://opendata.cbg-meb.nl
 https://opendata.ccmo.nl
 https://opendata.ceg.nl
+https://opendata.centralecommissiedierproeven.nl
 https://opendata.english.aivd.nl
 https://opendata.english.autoriteitnvs.nl
 https://opendata.english.belastingdienst-cn.nl
@@ -864,6 +867,7 @@ https://www.cbg-meb.nl
 https://www.cbgjaarverslag.nl
 https://www.ccmo.nl
 https://www.ceg.nl
+https://www.centralecommissiedierproeven.nl
 https://www.dataportaal.brabant.nl
 https://www.dmo.omgevingswet.overheid.nl
 https://www.enabling.omgevingswet.overheid.nl

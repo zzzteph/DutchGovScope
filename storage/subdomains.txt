@@ -31,9 +31,9 @@ open
 meldingen
 waarmerk
 afspraak
+feeds
 geo
 parkeren
-feeds
 vpn
 raad
 api.meldingen
@@ -137,6 +137,7 @@ acc-podiumd-logs
 woningbouwkaart
 contentbeheer
 micollab
+a-www
 mobiel
 lyncdiscover
 email
@@ -157,7 +158,8 @@ connect.acceptatie
 inloggen
 jaarstukken
 cryptshare
-a-www
+a-feeds
+a-opendata
 mta-sts
 mailing
 maps
@@ -183,8 +185,6 @@ ro
 uc
 AutoDiscover
 transfer
-a-feeds
-a-opendata
 evenementen
 fs
 college

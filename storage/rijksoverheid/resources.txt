@@ -25,6 +25,7 @@ a-feeds.autoriteitnvs.nl
 a-feeds.avghelpdeskzorg.nl
 a-feeds.bigregister.nl
 a-feeds.cbg-meb.nl
+a-feeds.centralecommissiedierproeven.nl
 a-feeds.igj.nl
 a-feeds.rijksoverheid.nl
 a-git.rijksoverheid.nl
@@ -45,6 +46,7 @@ a-opendata.autoriteitnvs.nl
 a-opendata.avghelpdeskzorg.nl
 a-opendata.bigregister.nl
 a-opendata.cbg-meb.nl
+a-opendata.centralecommissiedierproeven.nl
 a-opendata.igj.nl
 a-opendata.rijksoverheid.nl
 a-persberichten.rijksoverheid.nl
@@ -65,6 +67,7 @@ a-www.avghelpdeskzorg.nl
 a-www.bigregister.nl
 a-www.cbg-meb.nl
 a-www.cbgjaarverslag.nl
+a-www.centralecommissiedierproeven.nl
 a-www.igj.nl
 a-www.rijksoverheid.nl
 a2vonderenkerensheide.nl
@@ -459,6 +462,7 @@ ccn2.belastingdienst.nl
 ceg.nl
 centraalaanspreekpuntpensioenen.acc.belastingdienst.nl
 centraalaanspreekpuntpensioenen.belastingdienst.nl
+centralecommissiedierproeven.nl
 cert.test2gbav.belastingdienst.nl
 channels-az1.lpc.logius.nl
 channels-az2.lpc.logius.nl
@@ -728,6 +732,7 @@ feeds.caorijk.nl
 feeds.cbg-meb.nl
 feeds.ccmo.nl
 feeds.ceg.nl
+feeds.centralecommissiedierproeven.nl
 feeds.english.aivd.nl
 feeds.english.autoriteitnvs.nl
 feeds.english.belastingdienst-cn.nl
@@ -1322,6 +1327,7 @@ opendata.caorijk.nl
 opendata.cbg-meb.nl
 opendata.ccmo.nl
 opendata.ceg.nl
+opendata.centralecommissiedierproeven.nl
 opendata.english.aivd.nl
 opendata.english.autoriteitnvs.nl
 opendata.english.belastingdienst-cn.nl
@@ -2055,6 +2061,7 @@ www.cbg-meb.nl
 www.cbgjaarverslag.nl
 www.ccmo.nl
 www.ceg.nl
+www.centralecommissiedierproeven.nl
 www.dataportaal.brabant.nl
 www.dmo.omgevingswet.overheid.nl
 www.enabling.omgevingswet.overheid.nl
