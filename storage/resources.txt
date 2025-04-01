@@ -2261,6 +2261,7 @@ beheer.leusden.nl
 beheer.pre.omgevingswet.overheid.nl
 beheer.preprod.omgevingswet.overheid.nl
 beheer.terneuzen.nl
+beheerautoriteitwaddenzee.nl
 beheerbeeldbank.breda.nl
 beheerbeeldbank.soest.nl
 beheerconsole.cg-intern.acc.utrecht.nl
@@ -5334,6 +5335,7 @@ feeds.auditdienstrijk.nl
 feeds.autoriteitnvs.nl
 feeds.avghelpdeskzorg.nl
 feeds.awti.nl
+feeds.beheerautoriteitwaddenzee.nl
 feeds.english.aivd.nl
 feeds.english.autoriteitnvs.nl
 feeds.english.igj.nl
@@ -10336,6 +10338,7 @@ opendata.auditdienstrijk.nl
 opendata.autoriteitnvs.nl
 opendata.avghelpdeskzorg.nl
 opendata.awti.nl
+opendata.beheerautoriteitwaddenzee.nl
 opendata.bloemendaal.nl
 opendata.english.aivd.nl
 opendata.english.autoriteitnvs.nl
@@ -14839,6 +14842,7 @@ wadelse-acc.waddinxveen.nl
 wadelse.waddinxveen.nl
 wadelsecms-acc.waddinxveen.nl
 wadelsecms.waddinxveen.nl
+wadsup.beheerautoriteitwaddenzee.nl
 waf.ont.belastingdienst.nl
 wageningen.nl
 wagenparkgegevens.acc.belastingdienst.nl
@@ -15704,6 +15708,7 @@ www.begroting.groningen.nl
 www.begroting.soest.nl
 www.begroting2017.groningen.nl
 www.begroting2018.groningen.nl
+www.beheerautoriteitwaddenzee.nl
 www.belastingbalie-test.gemeentewestland.nl
 www.belastingbalie.acc.rhenen.nl
 www.belastingbalie.ede.nl

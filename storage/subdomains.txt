@@ -34,9 +34,9 @@ geo
 parkeren
 raad
 api.meldingen
+opendata
 vpn
 adfs
-opendata
 betalen
 broker
 ruimtelijkeplannen
@@ -49,9 +49,9 @@ iparticipatie
 belastingen
 test-ipa
 enterpriseenrollment
+feeds
 dacceptatieloket
 dacceptatiemidoffice
-feeds
 dloket
 dmidoffice
 data
@@ -2763,6 +2763,7 @@ fbadmin-eopg
 outbound-eopg
 zorgenwerknetwerk
 rdgateway
+wadsup
 email.mail.participatie
 mail.participatie
 aalten-checker-preprod

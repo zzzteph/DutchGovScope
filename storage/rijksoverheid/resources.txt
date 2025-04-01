@@ -264,6 +264,7 @@ beheer.integratie.omgevingswet.overheid.nl
 beheer.intpatch.omgevingswet.overheid.nl
 beheer.pre.omgevingswet.overheid.nl
 beheer.preprod.omgevingswet.overheid.nl
+beheerautoriteitwaddenzee.nl
 beheerportaal.acc.omgevingswet.overheid.nl
 beheerportaal.acceptatie.digipoort.logius.nl
 beheerportaal.bta.omgevingswet.overheid.nl
@@ -601,6 +602,7 @@ feeds.auditdienstrijk.nl
 feeds.autoriteitnvs.nl
 feeds.avghelpdeskzorg.nl
 feeds.awti.nl
+feeds.beheerautoriteitwaddenzee.nl
 feeds.english.aivd.nl
 feeds.english.autoriteitnvs.nl
 feeds.english.igj.nl
@@ -1128,6 +1130,7 @@ opendata.auditdienstrijk.nl
 opendata.autoriteitnvs.nl
 opendata.avghelpdeskzorg.nl
 opendata.awti.nl
+opendata.beheerautoriteitwaddenzee.nl
 opendata.english.aivd.nl
 opendata.english.autoriteitnvs.nl
 opendata.english.igj.nl
@@ -1664,6 +1667,7 @@ vts-beheer.belastingdienst.nl
 vts.belastingdienst.nl
 vtsd.belastingdienst.nl
 wachtwoordwijzigen.aaenmaas.nl
+wadsup.beheerautoriteitwaddenzee.nl
 waf.ont.belastingdienst.nl
 wagenparkgegevens.acc.belastingdienst.nl
 wagenparkgegevens.belastingdienst.nl
@@ -1787,6 +1791,7 @@ www.autoriteitnvs.nl
 www.avghelpdeskzorg.nl
 www.avgregisterrijksoverheid.nl
 www.awti.nl
+www.beheerautoriteitwaddenzee.nl
 www.belastingdienst.nl
 www.bta.omgevingswet.overheid.nl
 www.dmo.omgevingswet.overheid.nl

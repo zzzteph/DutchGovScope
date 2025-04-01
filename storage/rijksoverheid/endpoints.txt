@@ -119,6 +119,7 @@ https://awti.nl
 https://bag.basisregistraties.overheid.nl
 https://bag.test.basisregistraties.overheid.nl
 https://bag2.basisregistraties.overheid.nl
+https://beheerautoriteitwaddenzee.nl
 https://beheerportaal.acc.omgevingswet.overheid.nl
 https://beheerportaal.bta.omgevingswet.overheid.nl
 https://beheerportaal.dmo.omgevingswet.overheid.nl
@@ -271,6 +272,7 @@ https://feeds.auditdienstrijk.nl
 https://feeds.autoriteitnvs.nl
 https://feeds.avghelpdeskzorg.nl
 https://feeds.awti.nl
+https://feeds.beheerautoriteitwaddenzee.nl
 https://feeds.english.aivd.nl
 https://feeds.english.autoriteitnvs.nl
 https://feeds.english.igj.nl
@@ -433,6 +435,7 @@ https://opendata.auditdienstrijk.nl
 https://opendata.autoriteitnvs.nl
 https://opendata.avghelpdeskzorg.nl
 https://opendata.awti.nl
+https://opendata.beheerautoriteitwaddenzee.nl
 https://opendata.english.aivd.nl
 https://opendata.english.autoriteitnvs.nl
 https://opendata.english.igj.nl
@@ -636,6 +639,7 @@ https://vinden.belastingdienst.nl
 https://vpn2.aaenmaas.nl
 https://vts.belastingdienst.nl
 https://vtsd.belastingdienst.nl
+https://wadsup.beheerautoriteitwaddenzee.nl
 https://wagenparkgegevens.belastingdienst.nl
 https://water.omgevingswet.overheid.nl
 https://webdiensten.belastingdienst.nl
@@ -690,6 +694,7 @@ https://www.autoriteitnvs.nl
 https://www.avghelpdeskzorg.nl
 https://www.avgregisterrijksoverheid.nl
 https://www.awti.nl
+https://www.beheerautoriteitwaddenzee.nl
 https://www.belastingdienst.nl
 https://www.bta.omgevingswet.overheid.nl
 https://www.dmo.omgevingswet.overheid.nl

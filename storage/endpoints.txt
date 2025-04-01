@@ -1696,6 +1696,7 @@ https://beheer.acc.amsterdam.nl
 https://beheer.amsterdam.nl
 https://beheer.gemeentehw.nl
 https://beheer.landvancuijk.nl
+https://beheerautoriteitwaddenzee.nl
 https://beheerbeeldbank.breda.nl
 https://beheerbeeldbank.soest.nl
 https://beheerfotobank.amsterdam.nl
@@ -3391,6 +3392,7 @@ https://feeds.auditdienstrijk.nl
 https://feeds.autoriteitnvs.nl
 https://feeds.avghelpdeskzorg.nl
 https://feeds.awti.nl
+https://feeds.beheerautoriteitwaddenzee.nl
 https://feeds.english.aivd.nl
 https://feeds.english.autoriteitnvs.nl
 https://feeds.english.igj.nl
@@ -5976,6 +5978,7 @@ https://opendata.auditdienstrijk.nl
 https://opendata.autoriteitnvs.nl
 https://opendata.avghelpdeskzorg.nl
 https://opendata.awti.nl
+https://opendata.beheerautoriteitwaddenzee.nl
 https://opendata.bloemendaal.nl
 https://opendata.english.aivd.nl
 https://opendata.english.autoriteitnvs.nl
@@ -8137,6 +8140,7 @@ https://waddsup.waddinxveen.nl
 https://wadelse.waddinxveen.nl
 https://wadelsecms-acc.waddinxveen.nl
 https://wadelsecms.waddinxveen.nl
+https://wadsup.beheerautoriteitwaddenzee.nl
 https://wageningen.nl
 https://wagenparkgegevens.belastingdienst.nl
 https://walkoffame.zaanstad.nl
@@ -8581,6 +8585,7 @@ https://www.beekdaelen.nl
 https://www.beeldbank.landvancuijk.nl
 https://www.beesel.nl
 https://www.begroting.soest.nl
+https://www.beheerautoriteitwaddenzee.nl
 https://www.belastingbalie.ede.nl
 https://www.belastingdienst.nl
 https://www.belastingloket.lingewaard.nl
