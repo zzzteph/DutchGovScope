@@ -2205,6 +2205,7 @@ https://casa.topdesk.denhaag.nl
 https://castricum.nl
 https://catalogus.dataplatform.accp.s-hertogenbosch.nl
 https://catalogus.dataplatform.s-hertogenbosch.nl
+https://cbg-meb.nl
 https://cbm.demo.mijn.overheid.nl
 https://cbm.mijn.overheid.nl
 https://cbm.preprod.mijn.overheid.nl
@@ -2539,7 +2540,9 @@ https://dataportaal.brabant.nl
 https://dataportaal.tilburg.nl
 https://datasociaaldomein.rotterdam.nl
 https://datumprikker.belastingdienst.nl
+https://db.cbg-meb.nl
 https://db01.deventer.nl
+https://dcp-time-slot.cbg-meb.nl
 https://dds-vwes21.westerwolde.nl
 https://de.gemert-bakel.nl
 https://de.heerlen.nl
@@ -3270,6 +3273,7 @@ https://english.awti.nl
 https://english.belastingdienst-cn.nl
 https://english.bigregister.nl
 https://english.brabant.nl
+https://english.cbg-meb.nl
 https://english.eindhoven.nl
 https://english.igj.nl
 https://enkhuizen.nl
@@ -3286,6 +3290,7 @@ https://enterpriseenrollment.ameland.nl
 https://enterpriseenrollment.apeldoorn.nl
 https://enterpriseenrollment.bergenopzoom.nl
 https://enterpriseenrollment.bladel.nl
+https://enterpriseenrollment.cbg-meb.nl
 https://enterpriseenrollment.dalfsen.nl
 https://enterpriseenrollment.dantumadiel.frl
 https://enterpriseenrollment.doetinchem.nl
@@ -3468,10 +3473,12 @@ https://feeds.braic.nl
 https://feeds.bureauncdr.nl
 https://feeds.campagnetoolkits.nl
 https://feeds.caorijk.nl
+https://feeds.cbg-meb.nl
 https://feeds.english.aivd.nl
 https://feeds.english.autoriteitnvs.nl
 https://feeds.english.belastingdienst-cn.nl
 https://feeds.english.bigregister.nl
+https://feeds.english.cbg-meb.nl
 https://feeds.english.igj.nl
 https://feeds.igj.nl
 https://feeds.nieuwsbrievenminocw.nl
@@ -5156,6 +5163,8 @@ https://md02.middendrenthe.nl
 https://md04.middendrenthe.nl
 https://mdesk.renkum.nl
 https://mdliquit.middendrenthe.nl
+https://mdm-t.cbg-meb.nl
+https://mdm.cbg-meb.nl
 https://mdm.waterland.nl
 https://mdm.winterswijk.nl
 https://medemblik.nl
@@ -5548,6 +5557,7 @@ https://mijnuitkering.emmen.nl
 https://mijnuitkering.nissewaard.nl
 https://mijnuitkering.waddinxveen.nl
 https://mijnuitkering.westvoorne.nl
+https://mijnwerkplek.cbg-meb.nl
 https://mijnwerkregelingen-acc.utrecht.nl
 https://mijnwerkregelingen.utrecht.nl
 https://mijnwijk.zwolle.nl
@@ -6083,10 +6093,12 @@ https://opendata.braic.nl
 https://opendata.bureauncdr.nl
 https://opendata.campagnetoolkits.nl
 https://opendata.caorijk.nl
+https://opendata.cbg-meb.nl
 https://opendata.english.aivd.nl
 https://opendata.english.autoriteitnvs.nl
 https://opendata.english.belastingdienst-cn.nl
 https://opendata.english.bigregister.nl
+https://opendata.english.cbg-meb.nl
 https://opendata.english.igj.nl
 https://opendata.heemstede.nl
 https://opendata.igj.nl
@@ -7563,6 +7575,7 @@ https://stroomt.deventer.nl
 https://sts-acc.rotterdam.nl
 https://sts-azdev.rotterdam.nl
 https://sts.assen.nl
+https://sts.cbg-meb.nl
 https://sts.delft.nl
 https://sts.dronten.nl
 https://sts.eijsden-margraten.nl
@@ -8188,6 +8201,7 @@ https://vpn-extern.gooisemeren.nl
 https://vpn.almere.nl
 https://vpn.bergenopzoom.nl
 https://vpn.brabant.nl
+https://vpn.cbg-meb.nl
 https://vpn.denhaag.nl
 https://vpn.gemeentestein.nl
 https://vpn.gooisemeren.nl
@@ -8761,6 +8775,7 @@ https://www.campagnetoolkits.nl
 https://www.campus.groningen.nl
 https://www.caorijk.nl
 https://www.castricum.nl
+https://www.cbg-meb.nl
 https://www.centrumbegroot.alphenaandenrijn.nl
 https://www.centrumbegroot.amsterdam.nl
 https://www.cjg.denhaag.nl
