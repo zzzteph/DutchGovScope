@@ -111,9 +111,12 @@ a-cms2.rijksoverheid.nl
 a-consent.sarphati.amsterdam.nl
 a-digikoppeling.amersfoort.nl
 a-eformsmidoffice.utrecht.nl
+a-english.aivd.nl
 a-english.igj.nl
+a-feeds.a-english.aivd.nl
 a-feeds.a-english.igj.nl
 a-feeds.agroberichtenbuitenland.nl
+a-feeds.aivd.nl
 a-feeds.igj.nl
 a-feeds.rijksoverheid.nl
 a-git.rijksoverheid.nl
@@ -121,8 +124,10 @@ a-jira.rijksoverheid.nl
 a-magazines.igj.nl
 a-magazines.rijksoverheid.nl
 a-magazinesintern.rijksoverheid.nl
+a-opendata.a-english.aivd.nl
 a-opendata.a-english.igj.nl
 a-opendata.agroberichtenbuitenland.nl
+a-opendata.aivd.nl
 a-opendata.igj.nl
 a-opendata.rijksoverheid.nl
 a-p-ddi-0003.leeuwarden.nl
@@ -139,6 +144,7 @@ a-voor2.rijksoverheid.nl
 a-voorlichting.rijksoverheid.nl
 a-wiki.rijksoverheid.nl
 a-www.agroberichtenbuitenland.nl
+a-www.aivd.nl
 a-www.igj.nl
 a-www.rijksoverheid.nl
 a2b-rtr.alkmaar.nl
@@ -1086,6 +1092,7 @@ agrifoodtech.landvancuijk.nl
 agroberichtenbuitenland.nl
 agwp01.azweu.alkmaar.nl
 aip.amsterdam.nl
+aivd.nl
 aiz.zoetermeer.nl
 alarm.beekdaelen.nl
 alarmfilter.rotterdam.nl
@@ -4512,6 +4519,8 @@ e2s.molenlanden.nl
 e2stest.helmond.nl
 eaptls.deventer.nl
 easyfunders.leiden.nl
+eavgb-acc.aivd.nl
+eavgb.aivd.nl
 ebms.achtkarspelen.nl
 ebms.contentbeheer.acc.omgevingswet.overheid.nl
 ebms.contentbeheer.omgevingswet.overheid.nl
@@ -4991,6 +5000,7 @@ energiepunt.apeldoorn.nl
 energiethuis.eba.maassluis.nl
 energiethuis.maassluis.nl
 energiethuis.scan.maassluis.nl
+english.aivd.nl
 english.almere.nl
 english.assen.nl
 english.eindhoven.nl
@@ -5074,6 +5084,8 @@ enzobeheer.zoetermeer.nl
 eoffice.purmerend.nl
 eop.utrecht.nl
 eopenstad.gemeentewestland.nl
+eovgb-acc.aivd.nl
+eovgb.aivd.nl
 epe.nl
 epms.amsterdam.nl
 epos.staphorst.nl
@@ -5246,6 +5258,8 @@ fallback.webserver.schiedam.nl
 fatcacrs.belastingdienst.nl
 fatcacrstest.belastingdienst.nl
 fba.deventer.nl
+fbadmin-eopg-acc.aivd.nl
+fbadmin-eopg.aivd.nl
 fblocatielijst.amsterdam.nl
 fbtools.amsterdam.nl
 fcinet.acc.belastingdienst.nl
@@ -5275,6 +5289,8 @@ feeds.adviesraadmigratie.nl
 feeds.advisorycommitteeinternationallaw.nl
 feeds.advisorycouncilinternationalaffairs.nl
 feeds.agroberichtenbuitenland.nl
+feeds.aivd.nl
+feeds.english.aivd.nl
 feeds.english.igj.nl
 feeds.igj.nl
 feeds.nieuwsbrievenminocw.nl
@@ -10259,9 +10275,11 @@ opendata.adviesraadmigratie.nl
 opendata.advisorycommitteeinternationallaw.nl
 opendata.advisorycouncilinternationalaffairs.nl
 opendata.agroberichtenbuitenland.nl
+opendata.aivd.nl
 opendata.arnhem.nl
 opendata.assen.nl
 opendata.bloemendaal.nl
+opendata.english.aivd.nl
 opendata.english.igj.nl
 opendata.heemstede.nl
 opendata.igj.nl
@@ -10512,6 +10530,7 @@ oudebeeldbank.putten.nl
 ouder-amstel.nl
 oudewater.nl
 oudewebsite.gemeentewestland.nl
+outbound-eopg.aivd.nl
 outbound.waalwijk.nl
 outlook.denhelder.nl
 outlook.deventer.nl
@@ -15557,6 +15576,7 @@ www.afspraken.veendam.nl
 www.aga.amsterdam.nl
 www.agrifoodtech.landvancuijk.nl
 www.agroberichtenbuitenland.nl
+www.aivd.nl
 www.alblasserdam.nl
 www.albrandswaard.nl
 www.alkmaar.nl

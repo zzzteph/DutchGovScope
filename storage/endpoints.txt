@@ -1172,6 +1172,7 @@ https://agrifoodtech.landvancuijk.nl
 https://agroberichtenbuitenland.nl
 https://agwp01.azweu.alkmaar.nl
 https://aip.amsterdam.nl
+https://aivd.nl
 https://aiz.zoetermeer.nl
 https://alarmfilter.rotterdam.nl
 https://alblasserdam.nl
@@ -2765,6 +2766,8 @@ https://e2s-test.molenlanden.nl
 https://e2s.molenlanden.nl
 https://eaptls.deventer.nl
 https://easyfunders.leiden.nl
+https://eavgb-acc.aivd.nl
+https://eavgb.aivd.nl
 https://ebms.contentbeheer.acc.omgevingswet.overheid.nl
 https://ebms.contentbeheer.omgevingswet.overheid.nl
 https://ebms.service.bta.omgevingswet.overheid.nl
@@ -3187,6 +3190,7 @@ https://energiepunt.apeldoorn.nl
 https://energiethuis.eba.maassluis.nl
 https://energiethuis.maassluis.nl
 https://energiethuis.scan.maassluis.nl
+https://english.aivd.nl
 https://english.almere.nl
 https://english.eindhoven.nl
 https://english.igj.nl
@@ -3261,6 +3265,8 @@ https://enterpriseregistration.zoeterwoude.nl
 https://enzo.zoetermeer.nl
 https://enzobeheer.zoetermeer.nl
 https://eopenstad.gemeentewestland.nl
+https://eovgb-acc.aivd.nl
+https://eovgb.aivd.nl
 https://epe.nl
 https://epp.denhaag.nl
 https://erfgoed.breda.nl
@@ -3355,6 +3361,8 @@ https://feeds.adviesraadmigratie.nl
 https://feeds.advisorycommitteeinternationallaw.nl
 https://feeds.advisorycouncilinternationalaffairs.nl
 https://feeds.agroberichtenbuitenland.nl
+https://feeds.aivd.nl
+https://feeds.english.aivd.nl
 https://feeds.english.igj.nl
 https://feeds.igj.nl
 https://feeds.nieuwsbrievenminocw.nl
@@ -5922,9 +5930,11 @@ https://opendata.adviesraadmigratie.nl
 https://opendata.advisorycommitteeinternationallaw.nl
 https://opendata.advisorycouncilinternationalaffairs.nl
 https://opendata.agroberichtenbuitenland.nl
+https://opendata.aivd.nl
 https://opendata.arnhem.nl
 https://opendata.assen.nl
 https://opendata.bloemendaal.nl
+https://opendata.english.aivd.nl
 https://opendata.english.igj.nl
 https://opendata.heemstede.nl
 https://opendata.igj.nl
@@ -8481,6 +8491,7 @@ https://www.afspraken.pekela.nl
 https://www.afspraken.veendam.nl
 https://www.agrifoodtech.landvancuijk.nl
 https://www.agroberichtenbuitenland.nl
+https://www.aivd.nl
 https://www.alblasserdam.nl
 https://www.albrandswaard.nl
 https://www.alkmaar.nl
