@@ -50,9 +50,9 @@ test-ipa
 enterpriseenrollment
 dacceptatieloket
 dacceptatiemidoffice
+opendata
 dloket
 dmidoffice
-opendata
 data
 api.meldingen-acc
 meldingen-acc
@@ -72,8 +72,8 @@ flowmailer-tracking
 beeldbank
 zaken
 kaart
-formulier
 feeds
+formulier
 hybrid
 cloudadapter
 kaarten
