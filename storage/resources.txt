@@ -14547,6 +14547,7 @@ uniwin.amsterdam.nl
 unjunk.krimpenerwaard.nl
 upk.afs.acc.amsterdam.nl
 upk.afs.amsterdam.nl
+uptime.bureauwbtv.nl
 ureka.utrecht.nl
 uren-tst.groningen.nl
 uren.utrecht.nl
@@ -15960,6 +15961,7 @@ www.bunnik.nl
 www.bunschoten.nl
 www.bureaubroedplaatsen.amsterdam.nl
 www.bureauncdr.nl
+www.bureauwbtv.nl
 www.buren.nl
 www.buurtbudget-centrumnoord.venlo.nl
 www.buurtbudget-klingerberg.venlo.nl
@@ -16998,6 +17000,7 @@ www.zeist.nl
 www.zevenaar.nl
 www.zkd.denhaag.nl
 www.zmm.rhenen.nl
+www.zoekeentolkvertaler.bureauwbtv.nl
 www.zoeken.haarlemmermeer.nl
 www.zoetermeer.nl
 www.zoeterwoude.nl
@@ -17206,6 +17209,7 @@ zoek.gilzerijen.nl
 zoek.overheid.nl
 zoekdienst-preprod.overheid.nl
 zoekdienst.overheid.nl
+zoekeentolkvertaler.bureauwbtv.nl
 zoeken.belastingdienst.nl
 zoeken.bigregister.nl
 zoeken.deventer.nl

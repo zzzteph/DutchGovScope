@@ -66,6 +66,7 @@ http://torenvalk.brabant.nl
 http://tuchtrecht-service-acc.overheid.nl
 http://tuchtrecht-service-tst.overheid.nl
 http://tuchtrecht-service.overheid.nl
+http://uptime.bureauwbtv.nl
 http://videoserver2.brabant.nl
 http://voi.brabant.nl
 http://webmail.werkenvoornederland.nl
@@ -820,6 +821,7 @@ https://www.brabant.nl
 https://www.braic.nl
 https://www.bta.omgevingswet.overheid.nl
 https://www.bureauncdr.nl
+https://www.bureauwbtv.nl
 https://www.dataportaal.brabant.nl
 https://www.dmo.omgevingswet.overheid.nl
 https://www.enabling.omgevingswet.overheid.nl
@@ -855,6 +857,7 @@ https://wwwrijksacademienl.belastingdienst.nl
 https://xential-acpt.brabant.nl
 https://xential.brabant.nl
 https://zoekdienst.overheid.nl
+https://zoekeentolkvertaler.bureauwbtv.nl
 https://zoeken.bigregister.nl
 https://zoeken.ondernemersplein.overheid.nl
 https://zoekservice.overheid.nl

@@ -1751,6 +1751,7 @@ tuchtrecht-service-acc.overheid.nl
 tuchtrecht-service-tst.overheid.nl
 tuchtrecht-service.overheid.nl
 tuchtrecht.overheid.nl
+uptime.bureauwbtv.nl
 va_do.belastingdienst.nl
 vault.lpc.logius.nl
 vc.belastingdienst.nl
@@ -1988,6 +1989,7 @@ www.brabant.nl
 www.braic.nl
 www.bta.omgevingswet.overheid.nl
 www.bureauncdr.nl
+www.bureauwbtv.nl
 www.dataportaal.brabant.nl
 www.dmo.omgevingswet.overheid.nl
 www.enabling.omgevingswet.overheid.nl
@@ -2026,6 +2028,7 @@ www.vepkmstst.vcdn.belastingdienst.nl
 www.wegen.brabant.nl
 www.werken.belastingdienst.nl
 www.werkenvoornederland.nl
+www.zoekeentolkvertaler.bureauwbtv.nl
 www8.toeslagen.nl
 wwwfcinetorg.belastingdienst.nl
 wwwrijksacademienl.belastingdienst.nl
@@ -2037,6 +2040,7 @@ zelfbediening.belastingdienst.nl
 zoek.overheid.nl
 zoekdienst-preprod.overheid.nl
 zoekdienst.overheid.nl
+zoekeentolkvertaler.bureauwbtv.nl
 zoeken.belastingdienst.nl
 zoeken.bigregister.nl
 zoeken.ondernemersplein.overheid.nl
