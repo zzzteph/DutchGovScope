@@ -41,10 +41,10 @@ broker
 ruimtelijkeplannen
 testeloket
 zaaksysteem-accept
+opendata
 werkenbij
 pv
 gemeenteraad
-opendata
 iparticipatie
 belastingen
 test-ipa
@@ -60,11 +60,11 @@ remote
 openpdc
 belastingbalie
 cmsoo
+feeds
 enterpriseregistration
 loket.acceptatie
 openpub
 omgevingsvisie
-feeds
 login
 osb
 cloudadapter-test
