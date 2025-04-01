@@ -333,6 +333,7 @@ http://nhr-prod.gemeente-steenbergen.nl
 http://nhr-test.gemeente-steenbergen.nl
 http://nieuwkoop.nl
 http://nijkerk.eu
+http://nuenen.nl
 http://open.doetinchem.nl
 http://open.gemeentebeek.nl
 http://opmeer.nl
@@ -397,6 +398,7 @@ http://simcms.landgraaf.nl
 http://simcms.leudal.nl
 http://simcms.middelburg.nl
 http://simcms.middendelfland.nl
+http://simcms.nuenen.nl
 http://simcms.zoetermeer.nl
 http://simcms.zuidplas.nl
 http://simcms.zwartewaterland.nl
@@ -3137,6 +3139,7 @@ https://felix.maassluis.nl
 https://felix.middendelfland.nl
 https://felix.mookenmiddelaar.nl
 https://felix.nijkerk.eu
+https://felix.nuenen.nl
 https://felix.opmeer.nl
 https://felix.opsterland.nl
 https://felix.reuseldemierden.nl
@@ -5511,7 +5514,6 @@ https://open.middendrenthe.nl
 https://open.moerdijk.nl
 https://open.nijmegen.nl
 https://open.noordwijk.nl
-https://open.nuenen.nl
 https://open.oirschot.nl
 https://open.oude-ijsselstreek.nl
 https://open.rhenen.nl
@@ -6557,7 +6559,6 @@ https://simcms.maassluis.nl
 https://simcms.nederweert.nl
 https://simcms.nieuwkoop.nl
 https://simcms.nijkerk.eu
-https://simcms.nuenen.nl
 https://simcms.oirschot.nl
 https://simcms.ooststellingwerf.nl
 https://simcms.opmeer.nl
