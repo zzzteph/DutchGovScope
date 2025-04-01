@@ -75,6 +75,7 @@ https://acc-internationaal.ondernemen.overheid.nl
 https://acc.omgevingswet.overheid.nl
 https://adobe-analytics-dc.belastingdienst.nl
 https://adobe-analytics-dc.toeslagen.nl
+https://adviescollegeicttoetsing.nl
 https://afspraken.belastingdienst.nl
 https://afval.omgevingswet.overheid.nl
 https://algoritme.overheid.nl
@@ -216,6 +217,7 @@ https://feeds.aanbiedersmedicijnen.nl
 https://feeds.aboutnetherlandscustoms.nl
 https://feeds.academievoorinternationalebetrekkingen.nl
 https://feeds.academyforinternationalrelations.nl
+https://feeds.adviescollegeicttoetsing.nl
 https://feeds.english.igj.nl
 https://feeds.igj.nl
 https://feeds.nieuwsbrievenminocw.nl
@@ -353,6 +355,7 @@ https://opendata.aanbiedersmedicijnen.nl
 https://opendata.aboutnetherlandscustoms.nl
 https://opendata.academievoorinternationalebetrekkingen.nl
 https://opendata.academyforinternationalrelations.nl
+https://opendata.adviescollegeicttoetsing.nl
 https://opendata.english.igj.nl
 https://opendata.igj.nl
 https://opendata.nieuwsbrievenminocw.nl
@@ -582,6 +585,7 @@ https://www.aboutnetherlandscustoms.nl
 https://www.academievoorinternationalebetrekkingen.nl
 https://www.academyforinternationalrelations.nl
 https://www.acc.omgevingswet.overheid.nl
+https://www.adviescollegeicttoetsing.nl
 https://www.belastingdienst.nl
 https://www.bta.omgevingswet.overheid.nl
 https://www.dmo.omgevingswet.overheid.nl

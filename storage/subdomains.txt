@@ -82,6 +82,7 @@ mks
 cmsintranet
 test-intranet
 dtestloket
+opendata
 govroam
 parkeren-test
 piwik
@@ -89,7 +90,6 @@ acc-broker
 belastingloket
 connect
 doemee
-opendata
 portaal
 denkmee
 osbacc
@@ -179,6 +179,7 @@ ro
 uc
 AutoDiscover
 transfer
+feeds
 evenementen
 fs
 college
@@ -197,7 +198,6 @@ afspraakmaken
 zaaksysteem
 geoportaal
 _dmarc
-feeds
 website
 kennisbank
 preprod-mijn
