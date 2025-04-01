@@ -8,9 +8,11 @@ a-cms1.rijksoverheid.nl
 a-cms2.rijksoverheid.nl
 a-english.aivd.nl
 a-english.autoriteitnvs.nl
+a-english.bigregister.nl
 a-english.igj.nl
 a-feeds.a-english.aivd.nl
 a-feeds.a-english.autoriteitnvs.nl
+a-feeds.a-english.bigregister.nl
 a-feeds.a-english.igj.nl
 a-feeds.agroberichtenbuitenland.nl
 a-feeds.aivd.nl
@@ -18,6 +20,7 @@ a-feeds.antennebureau.nl
 a-feeds.arboportaal.nl
 a-feeds.autoriteitnvs.nl
 a-feeds.avghelpdeskzorg.nl
+a-feeds.bigregister.nl
 a-feeds.igj.nl
 a-feeds.rijksoverheid.nl
 a-git.rijksoverheid.nl
@@ -27,6 +30,7 @@ a-magazines.rijksoverheid.nl
 a-magazinesintern.rijksoverheid.nl
 a-opendata.a-english.aivd.nl
 a-opendata.a-english.autoriteitnvs.nl
+a-opendata.a-english.bigregister.nl
 a-opendata.a-english.igj.nl
 a-opendata.agroberichtenbuitenland.nl
 a-opendata.aivd.nl
@@ -34,6 +38,7 @@ a-opendata.antennebureau.nl
 a-opendata.arboportaal.nl
 a-opendata.autoriteitnvs.nl
 a-opendata.avghelpdeskzorg.nl
+a-opendata.bigregister.nl
 a-opendata.igj.nl
 a-opendata.rijksoverheid.nl
 a-persberichten.rijksoverheid.nl
@@ -51,6 +56,7 @@ a-www.antennebureau.nl
 a-www.arboportaal.nl
 a-www.autoriteitnvs.nl
 a-www.avghelpdeskzorg.nl
+a-www.bigregister.nl
 a-www.igj.nl
 a-www.rijksoverheid.nl
 a2vonderenkerensheide.nl
@@ -100,7 +106,15 @@ acc6.mijn.overheid.nl
 acc7.mijn.overheid.nl
 acc8.mijn.overheid.nl
 acc9.mijn.overheid.nl
+acceptatie.advieswijzer.bigregister.nl
+acceptatie.api.bigregister.nl
+acceptatie.behandel.bigregister.nl
+acceptatie.beheer.bigregister.nl
+acceptatie.mijn.bigregister.nl
 acceptatie.omgevingswet.overheid.nl
+acceptatie.tea.bigregister.nl
+acceptatie.webservices.bigregister.nl
+acceptatie.zoeken.bigregister.nl
 ace_nat17.belastingdienst.nl
 ack.omgevingswet.overheid.nl
 acp.ondernemersplein.overheid.nl
@@ -115,6 +129,7 @@ adviescollegeregeldruk.nl
 adviescollegeveiligheidgroningen.nl
 adviescommissievolkenrecht.nl
 adviesraadmigratie.nl
+advieswijzer.bigregister.nl
 advisorycommitteeinternationallaw.nl
 advisorycouncilinternationalaffairs.nl
 aeriusproducten.nl
@@ -157,6 +172,7 @@ api.acc.mijn.overheid.nl
 api.acc1.mijn.overheid.nl
 api.acc2.mijn.overheid.nl
 api.belastingdienst.nl
+api.bigregister.nl
 api.dn.acc.mijn.overheid.nl
 api.dn.acc1.mijn.overheid.nl
 api.dn.tst1.mijn.overheid.nl
@@ -260,8 +276,10 @@ bastion.rijksoverheid.nl
 bat.belastingdienst.nl
 bat.ont.belastingdienst.nl
 bdmz-reth473.belastingdienst.nl
+behandel.bigregister.nl
 beheer.acceptatie.omgevingswet.overheid.nl
 beheer.ack.omgevingswet.overheid.nl
+beheer.bigregister.nl
 beheer.integratie.omgevingswet.overheid.nl
 beheer.intpatch.omgevingswet.overheid.nl
 beheer.pre.omgevingswet.overheid.nl
@@ -315,6 +333,7 @@ bezet.belastingdienst.nl
 bezwaar.atkm.nl
 bgt.basisregistraties.overheid.nl
 bideo.belastingdienst.nl
+bigregister.nl
 bijleen.belastingdienst.nl
 bms.acc.belastingdienst.nl
 bms.belastingdienst.nl
@@ -535,6 +554,7 @@ english.aivd.nl
 english.autoriteitnvs.nl
 english.awti.nl
 english.belastingdienst-cn.nl
+english.bigregister.nl
 english.igj.nl
 enterpriseregistration.belastingdienst.nl
 enterpriseregistration.pc.belastingdienst.nl
@@ -610,9 +630,11 @@ feeds.awti.nl
 feeds.beheerautoriteitwaddenzee.nl
 feeds.belastingdienst-cn.nl
 feeds.beschermdecultuurgoederen.nl
+feeds.bigregister.nl
 feeds.english.aivd.nl
 feeds.english.autoriteitnvs.nl
 feeds.english.belastingdienst-cn.nl
+feeds.english.bigregister.nl
 feeds.english.igj.nl
 feeds.igj.nl
 feeds.nieuwsbrievenminocw.nl
@@ -950,6 +972,7 @@ mijn-xt.tst.toeslagen.nl
 mijn.acc.belastingdienst.nl
 mijn.belastingdienst-cn.nl
 mijn.belastingdienst.nl
+mijn.bigregister.nl
 mijn.igj.nl
 mijn.ont.belastingdienst.nl
 mijn.overheid.nl
@@ -1143,9 +1166,11 @@ opendata.awti.nl
 opendata.beheerautoriteitwaddenzee.nl
 opendata.belastingdienst-cn.nl
 opendata.beschermdecultuurgoederen.nl
+opendata.bigregister.nl
 opendata.english.aivd.nl
 opendata.english.autoriteitnvs.nl
 opendata.english.belastingdienst-cn.nl
+opendata.english.bigregister.nl
 opendata.english.igj.nl
 opendata.igj.nl
 opendata.nieuwsbrievenminocw.nl
@@ -1534,6 +1559,7 @@ t-voor1.rijksoverheid.nl
 t-www.rijksoverheid.nl
 te205vcciw12.dmzota.ont.belastingdienst.nl
 te205vcciw12f.dmzota.ont.belastingdienst.nl
+tea.bigregister.nl
 tekortkomingen-wvggz.webservices-dbb-acc.igj.nl
 tekortkomingen-wvggz.webservices-dbb.igj.nl
 tekortkomingen-wzd.webservices-dbb-acc.igj.nl
@@ -1729,6 +1755,7 @@ webservices-digin.belastingdienst.nl
 webservices-test2.belastingdienst.nl
 webservices-test4.belastingdienst.nl
 webservices.belastingdienst.nl
+webservices.bigregister.nl
 webservices.str10.acc.belastingdienst.nl
 webservices.str12.acc.belastingdienst.nl
 webservices.str13.acc.belastingdienst.nl
@@ -1811,6 +1838,7 @@ www.beheerautoriteitwaddenzee.nl
 www.belastingdienst-cn.nl
 www.belastingdienst.nl
 www.beschermdecultuurgoederen.nl
+www.bigregister.nl
 www.bta.omgevingswet.overheid.nl
 www.dmo.omgevingswet.overheid.nl
 www.enabling.omgevingswet.overheid.nl
@@ -1856,6 +1884,7 @@ zoek.overheid.nl
 zoekdienst-preprod.overheid.nl
 zoekdienst.overheid.nl
 zoeken.belastingdienst.nl
+zoeken.bigregister.nl
 zoeken.ondernemersplein.overheid.nl
 zoekservice.overheid.nl
 zorgenwerknetwerk.arboportaal.nl

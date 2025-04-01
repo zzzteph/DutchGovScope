@@ -75,6 +75,14 @@ https://acc-dictu.logius.nl
 https://acc-internationaal.ondernemen.overheid.nl
 https://acc.adviescollegeveiligheidgroningen.nl
 https://acc.omgevingswet.overheid.nl
+https://acceptatie.advieswijzer.bigregister.nl
+https://acceptatie.api.bigregister.nl
+https://acceptatie.behandel.bigregister.nl
+https://acceptatie.beheer.bigregister.nl
+https://acceptatie.mijn.bigregister.nl
+https://acceptatie.tea.bigregister.nl
+https://acceptatie.webservices.bigregister.nl
+https://acceptatie.zoeken.bigregister.nl
 https://adobe-analytics-dc.belastingdienst.nl
 https://adobe-analytics-dc.toeslagen.nl
 https://adviescollegeicttoetsing.nl
@@ -82,6 +90,7 @@ https://adviescollegeregeldruk.nl
 https://adviescollegeveiligheidgroningen.nl
 https://adviescommissievolkenrecht.nl
 https://adviesraadmigratie.nl
+https://advieswijzer.bigregister.nl
 https://advisorycommitteeinternationallaw.nl
 https://advisorycouncilinternationalaffairs.nl
 https://aeriusproducten.nl
@@ -120,6 +129,8 @@ https://awti.nl
 https://bag.basisregistraties.overheid.nl
 https://bag.test.basisregistraties.overheid.nl
 https://bag2.basisregistraties.overheid.nl
+https://behandel.bigregister.nl
+https://beheer.bigregister.nl
 https://beheerautoriteitwaddenzee.nl
 https://beheerportaal.acc.omgevingswet.overheid.nl
 https://beheerportaal.bta.omgevingswet.overheid.nl
@@ -150,6 +161,7 @@ https://betalen-cnf.belastingdienst.nl
 https://betalen.belastingdienst.nl
 https://bezwaar.atkm.nl
 https://bgt.basisregistraties.overheid.nl
+https://bigregister.nl
 https://bodem-ondergrond.omgevingswet.overheid.nl
 https://boub-api-acc.overheid.nl
 https://boub-api.overheid.nl
@@ -240,6 +252,7 @@ https://english.aivd.nl
 https://english.autoriteitnvs.nl
 https://english.awti.nl
 https://english.belastingdienst-cn.nl
+https://english.bigregister.nl
 https://english.igj.nl
 https://enterpriseregistration.belastingdienst.nl
 https://eovgb-acc.aivd.nl
@@ -279,9 +292,11 @@ https://feeds.awti.nl
 https://feeds.beheerautoriteitwaddenzee.nl
 https://feeds.belastingdienst-cn.nl
 https://feeds.beschermdecultuurgoederen.nl
+https://feeds.bigregister.nl
 https://feeds.english.aivd.nl
 https://feeds.english.autoriteitnvs.nl
 https://feeds.english.belastingdienst-cn.nl
+https://feeds.english.bigregister.nl
 https://feeds.english.igj.nl
 https://feeds.igj.nl
 https://feeds.nieuwsbrievenminocw.nl
@@ -384,6 +399,7 @@ https://mijn-aanvraag.belastingdienst.nl
 https://mijn-acc.igj.nl
 https://mijn.belastingdienst-cn.nl
 https://mijn.belastingdienst.nl
+https://mijn.bigregister.nl
 https://mijn.igj.nl
 https://mijn.overheid.nl
 https://mijn.toeslagen.nl
@@ -447,9 +463,11 @@ https://opendata.awti.nl
 https://opendata.beheerautoriteitwaddenzee.nl
 https://opendata.belastingdienst-cn.nl
 https://opendata.beschermdecultuurgoederen.nl
+https://opendata.bigregister.nl
 https://opendata.english.aivd.nl
 https://opendata.english.autoriteitnvs.nl
 https://opendata.english.belastingdienst-cn.nl
+https://opendata.english.bigregister.nl
 https://opendata.english.igj.nl
 https://opendata.igj.nl
 https://opendata.nieuwsbrievenminocw.nl
@@ -619,6 +637,7 @@ https://stelselcatalogus.pfm.omgevingswet.overheid.nl
 https://stelselcatalogus.pre.omgevingswet.overheid.nl
 https://sts.koop.overheid.nl
 https://stubs.tst.belastingdienst.nl
+https://tea.bigregister.nl
 https://test-dictu.comcms.logius.nl
 https://test-dictu.kennisbank.logius.nl
 https://test-dictu.logius.nl
@@ -661,6 +680,7 @@ https://webdiensten.belastingdienst.nl
 https://webforms.belastingdienst.nl
 https://webgis.aaenmaas.nl
 https://webgisacc.aaenmaas.nl
+https://webservices.bigregister.nl
 https://website.belastingdienst.nl
 https://werken.belastingdienst.nl
 https://werken.toeslagen.nl
@@ -713,6 +733,7 @@ https://www.beheerautoriteitwaddenzee.nl
 https://www.belastingdienst-cn.nl
 https://www.belastingdienst.nl
 https://www.beschermdecultuurgoederen.nl
+https://www.bigregister.nl
 https://www.bta.omgevingswet.overheid.nl
 https://www.dmo.omgevingswet.overheid.nl
 https://www.enabling.omgevingswet.overheid.nl
@@ -745,6 +766,7 @@ https://www.werkenvoornederland.nl
 https://wwwfcinetorg.belastingdienst.nl
 https://wwwrijksacademienl.belastingdienst.nl
 https://zoekdienst.overheid.nl
+https://zoeken.bigregister.nl
 https://zoeken.ondernemersplein.overheid.nl
 https://zoekservice.overheid.nl
 https://zorgenwerknetwerk.arboportaal.nl
