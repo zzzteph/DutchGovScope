@@ -115,6 +115,7 @@ a-english.aivd.nl
 a-english.autoriteitnvs.nl
 a-english.bigregister.nl
 a-english.cbg-meb.nl
+a-english.cbgjaarverslag.nl
 a-english.igj.nl
 a-feeds.a-english.aivd.nl
 a-feeds.a-english.autoriteitnvs.nl
@@ -172,6 +173,7 @@ a-www.autoriteitnvs.nl
 a-www.avghelpdeskzorg.nl
 a-www.bigregister.nl
 a-www.cbg-meb.nl
+a-www.cbgjaarverslag.nl
 a-www.igj.nl
 a-www.rijksoverheid.nl
 a2b-rtr.alkmaar.nl
@@ -3048,6 +3050,7 @@ catalogus.dataplatform.accp.s-hertogenbosch.nl
 catalogus.dataplatform.s-hertogenbosch.nl
 cba.ede.nl
 cbg-meb.nl
+cbgjaarverslag.nl
 cbm.acc.mijn.overheid.nl
 cbm.acc.picard.mijn.overheid.nl
 cbm.acc0.mijn.overheid.nl
@@ -5133,6 +5136,7 @@ english.belastingdienst-cn.nl
 english.bigregister.nl
 english.brabant.nl
 english.cbg-meb.nl
+english.cbgjaarverslag.nl
 english.eindhoven.nl
 english.igj.nl
 enkhuizen.nl
@@ -16026,6 +16030,7 @@ www.carel1900t-clientpki.sudwestfryslan.nl
 www.cars.heuvelrug.nl
 www.castricum.nl
 www.cbg-meb.nl
+www.cbgjaarverslag.nl
 www.centrum.amsterdam.nl
 www.centrumbegroot.alphenaandenrijn.nl
 www.centrumbegroot.amsterdam.nl

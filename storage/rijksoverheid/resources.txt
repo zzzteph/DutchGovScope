@@ -10,6 +10,7 @@ a-english.aivd.nl
 a-english.autoriteitnvs.nl
 a-english.bigregister.nl
 a-english.cbg-meb.nl
+a-english.cbgjaarverslag.nl
 a-english.igj.nl
 a-feeds.a-english.aivd.nl
 a-feeds.a-english.autoriteitnvs.nl
@@ -63,6 +64,7 @@ a-www.autoriteitnvs.nl
 a-www.avghelpdeskzorg.nl
 a-www.bigregister.nl
 a-www.cbg-meb.nl
+a-www.cbgjaarverslag.nl
 a-www.igj.nl
 a-www.rijksoverheid.nl
 a2vonderenkerensheide.nl
@@ -430,6 +432,7 @@ caorijk.nl
 cap.om.belastingdienst.nl
 captiveportal.belastingdienst.nl
 cbg-meb.nl
+cbgjaarverslag.nl
 cbm.acc.mijn.overheid.nl
 cbm.acc.picard.mijn.overheid.nl
 cbm.acc0.mijn.overheid.nl
@@ -627,6 +630,7 @@ english.belastingdienst-cn.nl
 english.bigregister.nl
 english.brabant.nl
 english.cbg-meb.nl
+english.cbgjaarverslag.nl
 english.igj.nl
 enterpriseenrollment.cbg-meb.nl
 enterpriseregistration.belastingdienst.nl
@@ -2035,6 +2039,7 @@ www.bureauwsnp.nl
 www.campagnetoolkits.nl
 www.caorijk.nl
 www.cbg-meb.nl
+www.cbgjaarverslag.nl
 www.dataportaal.brabant.nl
 www.dmo.omgevingswet.overheid.nl
 www.enabling.omgevingswet.overheid.nl

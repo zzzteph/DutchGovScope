@@ -212,6 +212,7 @@ https://ca-idp.logius.nl
 https://campagnetoolkits.nl
 https://caorijk.nl
 https://cbg-meb.nl
+https://cbgjaarverslag.nl
 https://cbm.demo.mijn.overheid.nl
 https://cbm.mijn.overheid.nl
 https://cbm.preprod.mijn.overheid.nl
@@ -300,6 +301,7 @@ https://english.belastingdienst-cn.nl
 https://english.bigregister.nl
 https://english.brabant.nl
 https://english.cbg-meb.nl
+https://english.cbgjaarverslag.nl
 https://english.igj.nl
 https://enterpriseenrollment.cbg-meb.nl
 https://enterpriseregistration.belastingdienst.nl
@@ -847,6 +849,7 @@ https://www.bureauwsnp.nl
 https://www.campagnetoolkits.nl
 https://www.caorijk.nl
 https://www.cbg-meb.nl
+https://www.cbgjaarverslag.nl
 https://www.dataportaal.brabant.nl
 https://www.dmo.omgevingswet.overheid.nl
 https://www.enabling.omgevingswet.overheid.nl

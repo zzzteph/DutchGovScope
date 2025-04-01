@@ -136,6 +136,7 @@ acc-podiumd-logs
 woningbouwkaart
 contentbeheer
 micollab
+english
 mobiel
 lyncdiscover
 email
@@ -155,7 +156,7 @@ connect.acceptatie
 inloggen
 jaarstukken
 cryptshare
-english
+a-www
 mta-sts
 mailing
 maps
@@ -184,7 +185,6 @@ AutoDiscover
 transfer
 a-feeds
 a-opendata
-a-www
 evenementen
 fs
 college
@@ -281,6 +281,7 @@ jongin
 woz-portaal
 en
 mijnsociaaldomein
+a-english
 feeds.english
 opendata.english
 rap
@@ -339,7 +340,6 @@ www.intranet
 aeolus
 sbc01
 bezoekersparkeren
-a-english
 a-feeds.a-english
 a-opendata.a-english
 download

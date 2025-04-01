@@ -2206,6 +2206,7 @@ https://castricum.nl
 https://catalogus.dataplatform.accp.s-hertogenbosch.nl
 https://catalogus.dataplatform.s-hertogenbosch.nl
 https://cbg-meb.nl
+https://cbgjaarverslag.nl
 https://cbm.demo.mijn.overheid.nl
 https://cbm.mijn.overheid.nl
 https://cbm.preprod.mijn.overheid.nl
@@ -3274,6 +3275,7 @@ https://english.belastingdienst-cn.nl
 https://english.bigregister.nl
 https://english.brabant.nl
 https://english.cbg-meb.nl
+https://english.cbgjaarverslag.nl
 https://english.eindhoven.nl
 https://english.igj.nl
 https://enkhuizen.nl
@@ -8776,6 +8778,7 @@ https://www.campus.groningen.nl
 https://www.caorijk.nl
 https://www.castricum.nl
 https://www.cbg-meb.nl
+https://www.cbgjaarverslag.nl
 https://www.centrumbegroot.alphenaandenrijn.nl
 https://www.centrumbegroot.amsterdam.nl
 https://www.cjg.denhaag.nl
