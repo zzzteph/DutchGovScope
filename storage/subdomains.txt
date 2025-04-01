@@ -100,6 +100,7 @@ test-cmsintranet
 pki
 apps
 samen
+opendata
 verkiezingen
 duurzaam
 simcms-open
@@ -107,7 +108,6 @@ squit2go
 www.webmail
 filecap
 dtestmidoffice
-opendata
 sip
 mijnzorg
 _autodiscover._tcp
@@ -244,6 +244,7 @@ mx2
 cloudadapter-prod
 handhaving
 www.portal
+feeds
 magazines
 servicedesk
 academie
@@ -271,7 +272,6 @@ jongin
 woz-portaal
 en
 mijnsociaaldomein
-feeds
 api
 rap
 services
