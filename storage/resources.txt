@@ -856,6 +856,7 @@ adviescollegeregeldruk.nl
 adviescollegeveiligheidgroningen.nl
 adviescommissievolkenrecht.nl
 adviesraad.westbetuwe.nl
+adviesraadmigratie.nl
 adviesraden.deventer.nl
 aeolus.eijsden-margraten.nl
 aeolus.gulpen-wittem.nl
@@ -5263,6 +5264,7 @@ feeds.adviescollegeregeldruk.nl
 feeds.adviescollegeveiligheidgroningen.nl
 feeds.adviescommissievolkenrecht.nl
 feeds.adviesraadinternationalevraagstukken.nl
+feeds.adviesraadmigratie.nl
 feeds.english.igj.nl
 feeds.igj.nl
 feeds.nieuwsbrievenminocw.nl
@@ -10243,6 +10245,7 @@ opendata.adviescollegeregeldruk.nl
 opendata.adviescollegeveiligheidgroningen.nl
 opendata.adviescommissievolkenrecht.nl
 opendata.adviesraadinternationalevraagstukken.nl
+opendata.adviesraadmigratie.nl
 opendata.arnhem.nl
 opendata.assen.nl
 opendata.bloemendaal.nl
@@ -15519,6 +15522,7 @@ www.adviescollegeveiligheidgroningen.nl
 www.adviescommissievolkenrecht.nl
 www.adviesraad.westbetuwe.nl
 www.adviesraadinternationalevraagstukken.nl
+www.adviesraadmigratie.nl
 www.afspraak.castricum.nl
 www.afspraak.gemeentehulst.nl
 www.afspraak.haarlemmermeer.nl

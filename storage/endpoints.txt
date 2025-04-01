@@ -1043,6 +1043,7 @@ https://adviescollegeregeldruk.nl
 https://adviescollegeveiligheidgroningen.nl
 https://adviescommissievolkenrecht.nl
 https://adviesraad.westbetuwe.nl
+https://adviesraadmigratie.nl
 https://adviesraden.deventer.nl
 https://afbeeldingen.doetinchem.nl
 https://aform.schiedam.nl
@@ -3346,6 +3347,7 @@ https://feeds.adviescollegeregeldruk.nl
 https://feeds.adviescollegeveiligheidgroningen.nl
 https://feeds.adviescommissievolkenrecht.nl
 https://feeds.adviesraadinternationalevraagstukken.nl
+https://feeds.adviesraadmigratie.nl
 https://feeds.english.igj.nl
 https://feeds.igj.nl
 https://feeds.nieuwsbrievenminocw.nl
@@ -5909,6 +5911,7 @@ https://opendata.adviescollegeregeldruk.nl
 https://opendata.adviescollegeveiligheidgroningen.nl
 https://opendata.adviescommissievolkenrecht.nl
 https://opendata.adviesraadinternationalevraagstukken.nl
+https://opendata.adviesraadmigratie.nl
 https://opendata.arnhem.nl
 https://opendata.assen.nl
 https://opendata.bloemendaal.nl
@@ -8459,6 +8462,7 @@ https://www.adviescollegeveiligheidgroningen.nl
 https://www.adviescommissievolkenrecht.nl
 https://www.adviesraad.westbetuwe.nl
 https://www.adviesraadinternationalevraagstukken.nl
+https://www.adviesraadmigratie.nl
 https://www.afspraken.oegstgeest.nl
 https://www.afspraken.pekela.nl
 https://www.afspraken.veendam.nl

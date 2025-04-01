@@ -69,9 +69,9 @@ cloudadapter-test
 digikoppeling-test
 flowmailer-tracking
 beeldbank
+opendata
 zaken
 kaart
-opendata
 formulier
 hybrid
 cloudadapter
@@ -101,6 +101,7 @@ test-cmsintranet
 pki
 apps
 samen
+feeds
 verkiezingen
 duurzaam
 simcms-open
@@ -108,7 +109,6 @@ squit2go
 www.webmail
 filecap
 dtestmidoffice
-feeds
 sip
 mijnzorg
 _autodiscover._tcp

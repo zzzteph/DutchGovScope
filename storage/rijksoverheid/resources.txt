@@ -89,6 +89,7 @@ adviescollegeicttoetsing.nl
 adviescollegeregeldruk.nl
 adviescollegeveiligheidgroningen.nl
 adviescommissievolkenrecht.nl
+adviesraadmigratie.nl
 afspraken.belastingdienst.nl
 afval.acc.omgevingswet.overheid.nl
 afval.omgevingswet.overheid.nl
@@ -530,6 +531,7 @@ feeds.adviescollegeregeldruk.nl
 feeds.adviescollegeveiligheidgroningen.nl
 feeds.adviescommissievolkenrecht.nl
 feeds.adviesraadinternationalevraagstukken.nl
+feeds.adviesraadmigratie.nl
 feeds.english.igj.nl
 feeds.igj.nl
 feeds.nieuwsbrievenminocw.nl
@@ -1037,6 +1039,7 @@ opendata.adviescollegeregeldruk.nl
 opendata.adviescollegeveiligheidgroningen.nl
 opendata.adviescommissievolkenrecht.nl
 opendata.adviesraadinternationalevraagstukken.nl
+opendata.adviesraadmigratie.nl
 opendata.english.igj.nl
 opendata.igj.nl
 opendata.nieuwsbrievenminocw.nl
@@ -1669,6 +1672,7 @@ www.adviescollegeregeldruk.nl
 www.adviescollegeveiligheidgroningen.nl
 www.adviescommissievolkenrecht.nl
 www.adviesraadinternationalevraagstukken.nl
+www.adviesraadmigratie.nl
 www.asl.omgevingswet.overheid.nl
 www.belastingdienst.nl
 www.bta.omgevingswet.overheid.nl
