@@ -2,6 +2,7 @@ https://acceptatie-open.oude-ijsselstreek.nl
 https://afspraak.oude-ijsselstreek.nl
 https://belastingloket.oude-ijsselstreek.nl
 https://belastingloket.test.oude-ijsselstreek.nl
+https://cdn.oude-ijsselstreek.nl
 https://edienstenburgerzaken-test.oude-ijsselstreek.nl
 https://edienstenburgerzaken.oude-ijsselstreek.nl
 https://mijn.oude-ijsselstreek.nl

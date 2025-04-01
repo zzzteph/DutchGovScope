@@ -2626,6 +2626,7 @@ cca.veendam.nl
 cca.westerwolde.nl
 cctst.apeldoorn.nl
 cda.mookenmiddelaar.nl
+cdn.oude-ijsselstreek.nl
 cdn1.tilburg.nl
 centric-lvo-vth-p-swf.digikoppeling.sudwestfryslan.nl
 centric-lvo-vth-t-swf.digikoppeling.sudwestfryslan.nl

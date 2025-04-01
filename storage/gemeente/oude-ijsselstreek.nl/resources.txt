@@ -2,6 +2,7 @@ acceptatie-open.oude-ijsselstreek.nl
 afspraak.oude-ijsselstreek.nl
 belastingloket.oude-ijsselstreek.nl
 belastingloket.test.oude-ijsselstreek.nl
+cdn.oude-ijsselstreek.nl
 digikoppeling-test.oude-ijsselstreek.nl
 digikoppeling.oude-ijsselstreek.nl
 edienstenburgerzaken-test.oude-ijsselstreek.nl
