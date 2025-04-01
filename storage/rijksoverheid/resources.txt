@@ -531,6 +531,7 @@ cms1.rijksoverheid.nl
 cms2.rijksoverheid.nl
 cmsdev.rijksoverheid.nl
 cmsgui.ondernemersplein.overheid.nl
+codexalimentarius.nl
 cognitatie.acc.omgevingswet.overheid.nl
 cognitatie.omgevingswet.overheid.nl
 cognitatie.tst.omgevingswet.overheid.nl
@@ -793,6 +794,7 @@ feeds.centralecommissiedierproeven.nl
 feeds.cert.nl
 feeds.cibg.nl
 feeds.circulairinkopen.nl
+feeds.codexalimentarius.nl
 feeds.english.aivd.nl
 feeds.english.autoriteitnvs.nl
 feeds.english.belastingdienst-cn.nl
@@ -1398,6 +1400,7 @@ opendata.centralecommissiedierproeven.nl
 opendata.cert.nl
 opendata.cibg.nl
 opendata.circulairinkopen.nl
+opendata.codexalimentarius.nl
 opendata.english.aivd.nl
 opendata.english.autoriteitnvs.nl
 opendata.english.belastingdienst-cn.nl
@@ -2148,6 +2151,7 @@ www.centralecommissiedierproeven.nl
 www.cert.nl
 www.cibg.nl
 www.circulairinkopen.nl
+www.codexalimentarius.nl
 www.dataportaal.brabant.nl
 www.dmo.omgevingswet.overheid.nl
 www.enabling.omgevingswet.overheid.nl

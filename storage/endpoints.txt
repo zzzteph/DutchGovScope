@@ -2376,6 +2376,7 @@ https://cmswhatsepe.epe.nl
 https://cmszaanzoeker.zaanstad.nl
 https://cnoops.gemeentemaasgouw.nl
 https://co2monitor.terschelling.nl
+https://codexalimentarius.nl
 https://coevorden.nl
 https://cognitatie.acc.omgevingswet.overheid.nl
 https://cognitatie.omgevingswet.overheid.nl
@@ -3524,6 +3525,7 @@ https://feeds.centralecommissiedierproeven.nl
 https://feeds.cert.nl
 https://feeds.cibg.nl
 https://feeds.circulairinkopen.nl
+https://feeds.codexalimentarius.nl
 https://feeds.english.aivd.nl
 https://feeds.english.autoriteitnvs.nl
 https://feeds.english.belastingdienst-cn.nl
@@ -6156,6 +6158,7 @@ https://opendata.centralecommissiedierproeven.nl
 https://opendata.cert.nl
 https://opendata.cibg.nl
 https://opendata.circulairinkopen.nl
+https://opendata.codexalimentarius.nl
 https://opendata.english.aivd.nl
 https://opendata.english.autoriteitnvs.nl
 https://opendata.english.belastingdienst-cn.nl
@@ -8858,6 +8861,7 @@ https://www.circulairinkopen.nl
 https://www.cjg.denhaag.nl
 https://www.cjg.olst-wijhe.nl
 https://www.cmsoo.gemeente.groningen.nl
+https://www.codexalimentarius.nl
 https://www.coevorden.nl
 https://www.containers.amsterdam.nl
 https://www.continuverbeterenjmo.denhaag.nl

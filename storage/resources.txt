@@ -3397,6 +3397,7 @@ coda.heusden.nl
 code.intern.zandvoort.nl
 code.zandvoort.nl
 code2.zandvoort.nl
+codexalimentarius.nl
 coevorden.nl
 cognitatie.acc.omgevingswet.overheid.nl
 cognitatie.omgevingswet.overheid.nl
@@ -5526,6 +5527,7 @@ feeds.centralecommissiedierproeven.nl
 feeds.cert.nl
 feeds.cibg.nl
 feeds.circulairinkopen.nl
+feeds.codexalimentarius.nl
 feeds.english.aivd.nl
 feeds.english.autoriteitnvs.nl
 feeds.english.belastingdienst-cn.nl
@@ -10607,6 +10609,7 @@ opendata.centralecommissiedierproeven.nl
 opendata.cert.nl
 opendata.cibg.nl
 opendata.circulairinkopen.nl
+opendata.codexalimentarius.nl
 opendata.english.aivd.nl
 opendata.english.autoriteitnvs.nl
 opendata.english.belastingdienst-cn.nl
@@ -16156,6 +16159,7 @@ www.coalitieprogramma.oldenzaal.nl
 www.code.intern.zandvoort.nl
 www.code.zandvoort.nl
 www.code2.zandvoort.nl
+www.codexalimentarius.nl
 www.coevorden.nl
 www.communicatie.oldenzaal.nl
 www.connect.echt-susteren.nl
