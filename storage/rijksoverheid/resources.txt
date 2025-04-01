@@ -91,6 +91,7 @@ adviescollegeveiligheidgroningen.nl
 adviescommissievolkenrecht.nl
 adviesraadmigratie.nl
 advisorycommitteeinternationallaw.nl
+advisorycouncilinternationalaffairs.nl
 afspraken.belastingdienst.nl
 afval.acc.omgevingswet.overheid.nl
 afval.omgevingswet.overheid.nl
@@ -534,6 +535,7 @@ feeds.adviescommissievolkenrecht.nl
 feeds.adviesraadinternationalevraagstukken.nl
 feeds.adviesraadmigratie.nl
 feeds.advisorycommitteeinternationallaw.nl
+feeds.advisorycouncilinternationalaffairs.nl
 feeds.english.igj.nl
 feeds.igj.nl
 feeds.nieuwsbrievenminocw.nl
@@ -1043,6 +1045,7 @@ opendata.adviescommissievolkenrecht.nl
 opendata.adviesraadinternationalevraagstukken.nl
 opendata.adviesraadmigratie.nl
 opendata.advisorycommitteeinternationallaw.nl
+opendata.advisorycouncilinternationalaffairs.nl
 opendata.english.igj.nl
 opendata.igj.nl
 opendata.nieuwsbrievenminocw.nl
@@ -1677,6 +1680,7 @@ www.adviescommissievolkenrecht.nl
 www.adviesraadinternationalevraagstukken.nl
 www.adviesraadmigratie.nl
 www.advisorycommitteeinternationallaw.nl
+www.advisorycouncilinternationalaffairs.nl
 www.asl.omgevingswet.overheid.nl
 www.belastingdienst.nl
 www.bta.omgevingswet.overheid.nl

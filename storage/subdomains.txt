@@ -66,8 +66,8 @@ omgevingsvisie
 login
 osb
 cloudadapter-test
-digikoppeling-test
 opendata
+digikoppeling-test
 flowmailer-tracking
 beeldbank
 zaken
@@ -90,6 +90,7 @@ acc-broker
 belastingloket
 connect
 doemee
+feeds
 portaal
 denkmee
 osbacc
@@ -99,7 +100,6 @@ financien
 klantcontact
 test-cmsintranet
 pki
-feeds
 apps
 samen
 verkiezingen

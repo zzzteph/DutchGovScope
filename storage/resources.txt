@@ -859,6 +859,7 @@ adviesraad.westbetuwe.nl
 adviesraadmigratie.nl
 adviesraden.deventer.nl
 advisorycommitteeinternationallaw.nl
+advisorycouncilinternationalaffairs.nl
 aeolus.eijsden-margraten.nl
 aeolus.gulpen-wittem.nl
 aeolus.ijsselstein.nl
@@ -5267,6 +5268,7 @@ feeds.adviescommissievolkenrecht.nl
 feeds.adviesraadinternationalevraagstukken.nl
 feeds.adviesraadmigratie.nl
 feeds.advisorycommitteeinternationallaw.nl
+feeds.advisorycouncilinternationalaffairs.nl
 feeds.english.igj.nl
 feeds.igj.nl
 feeds.nieuwsbrievenminocw.nl
@@ -10249,6 +10251,7 @@ opendata.adviescommissievolkenrecht.nl
 opendata.adviesraadinternationalevraagstukken.nl
 opendata.adviesraadmigratie.nl
 opendata.advisorycommitteeinternationallaw.nl
+opendata.advisorycouncilinternationalaffairs.nl
 opendata.arnhem.nl
 opendata.assen.nl
 opendata.bloemendaal.nl
@@ -15527,6 +15530,7 @@ www.adviesraad.westbetuwe.nl
 www.adviesraadinternationalevraagstukken.nl
 www.adviesraadmigratie.nl
 www.advisorycommitteeinternationallaw.nl
+www.advisorycouncilinternationalaffairs.nl
 www.afspraak.castricum.nl
 www.afspraak.gemeentehulst.nl
 www.afspraak.haarlemmermeer.nl
