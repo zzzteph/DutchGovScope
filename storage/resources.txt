@@ -5932,6 +5932,7 @@ feeds.informatieanalyseteam.nl
 feeds.informatiehuishouding.nl
 feeds.inspectie-jenv.nl
 feeds.inspectie-oe.nl
+feeds.inspectiebtd.nl
 feeds.nieuwsbrievenminocw.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.persberichten.rijksoverheid.nl
@@ -8081,6 +8082,7 @@ insite.oisterwijk.nl
 inspecteur.ilent.nl
 inspectie-jenv.nl
 inspectie-oe.nl
+inspectiebtd.nl
 inspraakmaatregel15.amsterdam.nl
 instroom.belastingdienst.nl
 int-acc-01.flevoland.nl
@@ -11313,6 +11315,7 @@ opendata.informatieanalyseteam.nl
 opendata.informatiehuishouding.nl
 opendata.inspectie-jenv.nl
 opendata.inspectie-oe.nl
+opendata.inspectiebtd.nl
 opendata.nieuwsbrievenminocw.nl
 opendata.nijmegen.nl
 opendata.papiamentu.belastingdienst-cn.nl
@@ -17433,6 +17436,7 @@ www.inkomensondersteuning.nijmegen.nl
 www.inproces-digeplan.overbetuwe.nl
 www.inspectie-jenv.nl
 www.inspectie-oe.nl
+www.inspectiebtd.nl
 www.inspraakmaatregel15.amsterdam.nl
 www.int.omgevingswet.overheid.nl
 www.int02.omgevingswet.overheid.nl

@@ -1199,6 +1199,7 @@ feeds.informatieanalyseteam.nl
 feeds.informatiehuishouding.nl
 feeds.inspectie-jenv.nl
 feeds.inspectie-oe.nl
+feeds.inspectiebtd.nl
 feeds.nieuwsbrievenminocw.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.persberichten.rijksoverheid.nl
@@ -1519,6 +1520,7 @@ inloggen.hhdelfland.nl
 inspecteur.ilent.nl
 inspectie-jenv.nl
 inspectie-oe.nl
+inspectiebtd.nl
 instroom.belastingdienst.nl
 int-acc-01.flevoland.nl
 int-prod-01.flevoland.nl
@@ -2103,6 +2105,7 @@ opendata.informatieanalyseteam.nl
 opendata.informatiehuishouding.nl
 opendata.inspectie-jenv.nl
 opendata.inspectie-oe.nl
+opendata.inspectiebtd.nl
 opendata.nieuwsbrievenminocw.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.persberichten.rijksoverheid.nl
@@ -3108,6 +3111,7 @@ www.informatieanalyseteam.nl
 www.informatiehuishouding.nl
 www.inspectie-jenv.nl
 www.inspectie-oe.nl
+www.inspectiebtd.nl
 www.int.omgevingswet.overheid.nl
 www.int02.omgevingswet.overheid.nl
 www.int12.omgevingswet.overheid.nl

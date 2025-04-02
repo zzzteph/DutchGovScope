@@ -3809,6 +3809,7 @@ https://feeds.informatieanalyseteam.nl
 https://feeds.informatiehuishouding.nl
 https://feeds.inspectie-jenv.nl
 https://feeds.inspectie-oe.nl
+https://feeds.inspectiebtd.nl
 https://feeds.nieuwsbrievenminocw.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.persberichten.rijksoverheid.nl
@@ -4874,6 +4875,7 @@ https://insite.oisterwijk.nl
 https://inspecteur.ilent.nl
 https://inspectie-jenv.nl
 https://inspectie-oe.nl
+https://inspectiebtd.nl
 https://instroom.belastingdienst.nl
 https://int.omgevingswet.overheid.nl
 https://int02.omgevingswet.overheid.nl
@@ -6663,6 +6665,7 @@ https://opendata.informatieanalyseteam.nl
 https://opendata.informatiehuishouding.nl
 https://opendata.inspectie-jenv.nl
 https://opendata.inspectie-oe.nl
+https://opendata.inspectiebtd.nl
 https://opendata.nieuwsbrievenminocw.nl
 https://opendata.nijmegen.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
@@ -9702,6 +9705,7 @@ https://www.ingesprek.denhelder.nl
 https://www.inkomensondersteuning.nijmegen.nl
 https://www.inspectie-jenv.nl
 https://www.inspectie-oe.nl
+https://www.inspectiebtd.nl
 https://www.int.omgevingswet.overheid.nl
 https://www.int02.omgevingswet.overheid.nl
 https://www.int12.omgevingswet.overheid.nl
