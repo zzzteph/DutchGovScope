@@ -360,6 +360,7 @@ https://connect-with.brabant.nl
 https://connect-with.flevoland.nl
 https://connect.ctgb.nl
 https://connect.dji.nl
+https://connect.ikz.nl
 https://connectpeople.belastingdienst.nl
 https://connectpeoplereg.belastingdienst.nl
 https://content.klopt.cibg.nl
@@ -382,6 +383,7 @@ https://cursus.drop.overheid.nl
 https://cvte.nl
 https://cybersecuritycouncil.nl
 https://cybersecurityraad.nl
+https://dashboard.ikz.nl
 https://data-acc.overheid.nl
 https://data.cultureelerfgoed.nl
 https://data.flevoland.nl
@@ -777,6 +779,7 @@ https://iknowcimow.acc.omgevingswet.overheid.nl
 https://iknowcimow.omgevingswet.overheid.nl
 https://iknowcimow.tst.omgevingswet.overheid.nl
 https://ikvermoedhuiselijkgeweld.nl
+https://ikz.nl
 https://import-acc.organisaties.overheid.nl
 https://import.organisaties.overheid.nl
 https://incassomachtigen.belastingdienst.nl
@@ -1135,11 +1138,13 @@ https://pmm.belastingdienst.nl
 https://pmz-pre.logius.nl
 https://pmz.logius.nl
 https://pom.cultureelerfgoed.nl
+https://portaal-a.ikz.nl
 https://portaal.belastingdienst.nl
 https://portaal.competent.cibg.nl
 https://portaal.dienstterugkeerenvertrek.nl
 https://portaal.digilevering.cibg.nl
 https://portaal.huurcommissie.nl
+https://portaal.ikz.nl
 https://pp1.toegang.overheid.nl
 https://pp2.toegang.overheid.nl
 https://prd.archis.cultureelerfgoed.nl
@@ -1362,6 +1367,7 @@ https://vinden.belastingdienst.nl
 https://vouch.checkjeprijs.huurcommissie.nl
 https://vpn.brabant.nl
 https://vpn.cbg-meb.nl
+https://vpn.ikz.nl
 https://vpn2.aaenmaas.nl
 https://vps-prod-01.flevoland.nl
 https://vts.belastingdienst.nl
@@ -1549,6 +1555,7 @@ https://www.huurcommissie.nl
 https://www.hwbp.nl
 https://www.igj.nl
 https://www.ikvermoedhuiselijkgeweld.nl
+https://www.ikz.nl
 https://www.int.omgevingswet.overheid.nl
 https://www.int02.omgevingswet.overheid.nl
 https://www.int12.omgevingswet.overheid.nl

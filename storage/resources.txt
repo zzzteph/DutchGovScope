@@ -3644,6 +3644,7 @@ connect.gemeentewesterveld.nl
 connect.gemeentewestland.nl
 connect.goirle.nl
 connect.hhdelfland.nl
+connect.ikz.nl
 connect.kerkrade.nl
 connect.oldenzaal.nl
 connect.overbetuwe.nl
@@ -3934,6 +3935,7 @@ dash-mp.mijn.overheid.nl
 dash-mt.mijn.overheid.nl
 dashboard-iav-api.goeree-overflakkee.nl
 dashboard-iav.goeree-overflakkee.nl
+dashboard.ikz.nl
 dashboard.makkelijkemarkt.amsterdam.nl
 data-acc.hilversum.nl
 data-acc.overheid.nl
@@ -7906,6 +7908,7 @@ iknowcimow.omgevingswet.overheid.nl
 iknowcimow.tst.omgevingswet.overheid.nl
 ikonderneemin.almere.nl
 ikvermoedhuiselijkgeweld.nl
+ikz.nl
 ikzitklem.zaanstad.nl
 ikzoek.huizen.nl
 ikzoekeenhuis.almere.nl
@@ -12017,6 +12020,7 @@ pollerscs.rotterdam.nl
 pom.cultureelerfgoed.nl
 pop.deventer.nl
 pop.opsterland.nl
+portaal-a.ikz.nl
 portaal.acc.belastingdienst.nl
 portaal.achtkarspelen.nl
 portaal.almelo.nl
@@ -12030,6 +12034,7 @@ portaal.dronten.nl
 portaal.gemeentehulst.nl
 portaal.haarlem.nl
 portaal.huurcommissie.nl
+portaal.ikz.nl
 portaal.kre-acc.amsterdam.nl
 portaal.kre-dev.amsterdam.nl
 portaal.kre-ont.amsterdam.nl
@@ -12116,11 +12121,14 @@ portalen.preproductie.digipoort.logius.nl
 portaltest.haarlemmermeer.nl
 portaltest.helmond.nl
 portaltest.zwolle.nl
+positconnect.ikz.nl
 positionering.denhaag.nl
 positioneringshuis-acc.denhaag.nl
 positioneringshuis.denhaag.nl
 positioning-acc.denhaag.nl
 positioning.denhaag.nl
+positpm.ikz.nl
+positwb.ikz.nl
 postbus.huizen.nl
 postbus1.huizen.nl
 postcodezoektool.rotterdam.nl
@@ -15771,6 +15779,7 @@ vpn.heusden.nl
 vpn.hillegom.nl
 vpn.huizen.nl
 vpn.huurcommissie.nl
+vpn.ikz.nl
 vpn.koop.overheid.nl
 vpn.landsmeer.nl
 vpn.leudal.nl
@@ -17348,6 +17357,7 @@ www.ihp.denhaag.nl
 www.iidb.sudwestfryslan.nl
 www.ijsselstein.nl
 www.ikvermoedhuiselijkgeweld.nl
+www.ikz.nl
 www.inburgeren.amsterdam.nl
 www.infonet.eijsden-margraten.nl
 www.infozuil.utrecht.nl

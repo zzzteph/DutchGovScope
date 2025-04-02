@@ -84,12 +84,12 @@ feeds.english
 opendata.english
 connect
 cloudadapter
+portaal
 cmsintranet
 test-intranet
 berichten
 parkeren-acc
 govroam
-portaal
 digikoppeling.test
 mks
 dtestloket
@@ -3255,6 +3255,11 @@ synergy
 vouch.checkjeprijs
 webmail-a
 www-a
+dashboard
+portaal-a
+positconnect
+positpm
+positwb
 email.mail.participatie
 mail.participatie
 aalten-checker-preprod

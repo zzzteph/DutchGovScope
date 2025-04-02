@@ -2497,6 +2497,7 @@ https://connect.acceptatie.winterswijk.nl
 https://connect.ctgb.nl
 https://connect.dji.nl
 https://connect.goirle.nl
+https://connect.ikz.nl
 https://connect.pekela.nl
 https://connect.test.winterswijk.nl
 https://connect.veendam.nl
@@ -2630,6 +2631,7 @@ https://dap.amsterdam.nl
 https://darwin.tilburg.nl
 https://dashboard-iav-api.goeree-overflakkee.nl
 https://dashboard-iav.goeree-overflakkee.nl
+https://dashboard.ikz.nl
 https://dashboard.makkelijkemarkt.amsterdam.nl
 https://data-acc.hilversum.nl
 https://data-acc.overheid.nl
@@ -4774,6 +4776,7 @@ https://iknowcimow.omgevingswet.overheid.nl
 https://iknowcimow.tst.omgevingswet.overheid.nl
 https://ikonderneemin.almere.nl
 https://ikvermoedhuiselijkgeweld.nl
+https://ikz.nl
 https://ikzitklem.zaanstad.nl
 https://ikzoek.huizen.nl
 https://ikzoekeenhuis.almere.nl
@@ -7046,6 +7049,7 @@ https://point.assen.nl
 https://pollerscs.rotterdam.nl
 https://pom.cultureelerfgoed.nl
 https://pop.deventer.nl
+https://portaal-a.ikz.nl
 https://portaal.belastingdienst.nl
 https://portaal.competent.cibg.nl
 https://portaal.dienstterugkeerenvertrek.nl
@@ -7054,6 +7058,7 @@ https://portaal.dronten.nl
 https://portaal.gemeentehulst.nl
 https://portaal.haarlem.nl
 https://portaal.huurcommissie.nl
+https://portaal.ikz.nl
 https://portaal.kre-acc.amsterdam.nl
 https://portaal.kre-dev.amsterdam.nl
 https://portaal.kre-ont.amsterdam.nl
@@ -8804,6 +8809,7 @@ https://vpn.gouda.nl
 https://vpn.groningen.nl
 https://vpn.haarlemmermeer.nl
 https://vpn.huizen.nl
+https://vpn.ikz.nl
 https://vpn.maassluis.nl
 https://vpn.rotterdam.nl
 https://vpn.rucphen.nl
@@ -9652,6 +9658,7 @@ https://www.ihp-acc.denhaag.nl
 https://www.ihp.denhaag.nl
 https://www.ijsselstein.nl
 https://www.ikvermoedhuiselijkgeweld.nl
+https://www.ikz.nl
 https://www.ingesprek.denhelder.nl
 https://www.inkomensondersteuning.nijmegen.nl
 https://www.int.omgevingswet.overheid.nl

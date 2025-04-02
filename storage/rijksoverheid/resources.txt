@@ -718,6 +718,7 @@ connect.acceptatie.hhdelfland.nl
 connect.ctgb.nl
 connect.dji.nl
 connect.hhdelfland.nl
+connect.ikz.nl
 connectpeople.acc.belastingdienst.nl
 connectpeople.belastingdienst.nl
 connectpeople.ont.belastingdienst.nl
@@ -770,6 +771,7 @@ dagstaatmonitors.brabant.nl
 dash-ma.mijn.overheid.nl
 dash-mp.mijn.overheid.nl
 dash-mt.mijn.overheid.nl
+dashboard.ikz.nl
 data-acc.overheid.nl
 data.cultureelerfgoed.nl
 data.flevoland.nl
@@ -1460,6 +1462,7 @@ iknowcimow.acc.omgevingswet.overheid.nl
 iknowcimow.omgevingswet.overheid.nl
 iknowcimow.tst.omgevingswet.overheid.nl
 ikvermoedhuiselijkgeweld.nl
+ikz.nl
 import-acc.organisaties.overheid.nl
 import.organisaties.overheid.nl
 inbewaringstelling.webservices-dbb-acc.igj.nl
@@ -2167,16 +2170,21 @@ pmm.belastingdienst.nl
 pmz-pre.logius.nl
 pmz.logius.nl
 pom.cultureelerfgoed.nl
+portaal-a.ikz.nl
 portaal.acc.belastingdienst.nl
 portaal.belastingdienst.nl
 portaal.competent.cibg.nl
 portaal.dienstterugkeerenvertrek.nl
 portaal.digilevering.cibg.nl
 portaal.huurcommissie.nl
+portaal.ikz.nl
 portaal.tst.belastingdienst.nl
 portal.cibg.nl
 portalen.acceptatie.digipoort.logius.nl
 portalen.preproductie.digipoort.logius.nl
+positconnect.ikz.nl
+positpm.ikz.nl
+positwb.ikz.nl
 pp1.toegang.overheid.nl
 pp2.toegang.overheid.nl
 prd.archis.cultureelerfgoed.nl
@@ -2745,6 +2753,7 @@ vpn.brabant.nl
 vpn.cbg-meb.nl
 vpn.flevoland.nl
 vpn.huurcommissie.nl
+vpn.ikz.nl
 vpn.koop.overheid.nl
 vpn2.aaenmaas.nl
 vpn2.domeinenrz.nl
@@ -3029,6 +3038,7 @@ www.huurcommissie.nl
 www.hwbp.nl
 www.igj.nl
 www.ikvermoedhuiselijkgeweld.nl
+www.ikz.nl
 www.int.omgevingswet.overheid.nl
 www.int02.omgevingswet.overheid.nl
 www.int12.omgevingswet.overheid.nl
