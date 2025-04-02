@@ -3832,6 +3832,7 @@ https://feeds.kabinetsformatie2023.nl
 https://feeds.kansrijkestartnl.nl
 https://feeds.kennisvandeoverheid.nl
 https://feeds.kiesraad.nl
+https://feeds.kik-v.nl
 https://feeds.nieuwsbrievenminocw.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.persberichten.rijksoverheid.nl
@@ -5262,6 +5263,7 @@ https://kghtb-prod.gemeente-steenbergen.nl
 https://kgzorgned-prod.gemeente-steenbergen.nl
 https://kiesraad.nl
 https://kijk.dijkenwaard.nl
+https://kik-v.nl
 https://kim.omgevingswet.overheid.nl
 https://kim3.amsterdam.nl
 https://kinderboerderij.purmerend.nl
@@ -6721,6 +6723,7 @@ https://opendata.kabinetsformatie2023.nl
 https://opendata.kansrijkestartnl.nl
 https://opendata.kennisvandeoverheid.nl
 https://opendata.kiesraad.nl
+https://opendata.kik-v.nl
 https://opendata.nieuwsbrievenminocw.nl
 https://opendata.nijmegen.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
@@ -9806,6 +9809,7 @@ https://www.kapelle.nl
 https://www.katwijk.nl
 https://www.kennisvandeoverheid.nl
 https://www.kiesraad.nl
+https://www.kik-v.nl
 https://www.komverder.krimpenaandenijssel.nl
 https://www.kos.nijmegen.nl
 https://www.krimpenaandenijssel.nl

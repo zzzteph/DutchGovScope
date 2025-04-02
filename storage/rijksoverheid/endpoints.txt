@@ -712,6 +712,7 @@ https://feeds.kabinetsformatie2023.nl
 https://feeds.kansrijkestartnl.nl
 https://feeds.kennisvandeoverheid.nl
 https://feeds.kiesraad.nl
+https://feeds.kik-v.nl
 https://feeds.nieuwsbrievenminocw.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.persberichten.rijksoverheid.nl
@@ -883,6 +884,7 @@ https://kennisgroepen.belastingdienst.nl
 https://kennisnetwerk.belastingdienst.nl
 https://kennisvandeoverheid.nl
 https://kiesraad.nl
+https://kik-v.nl
 https://kim.omgevingswet.overheid.nl
 https://koppelvlak-asl.overheid.nl
 https://koppelvlak.overheid.nl
@@ -1176,6 +1178,7 @@ https://opendata.kabinetsformatie2023.nl
 https://opendata.kansrijkestartnl.nl
 https://opendata.kennisvandeoverheid.nl
 https://opendata.kiesraad.nl
+https://opendata.kik-v.nl
 https://opendata.nieuwsbrievenminocw.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.persberichten.rijksoverheid.nl
@@ -1689,6 +1692,7 @@ https://www.kabinetsformatie2023.nl
 https://www.kansrijkestartnl.nl
 https://www.kennisvandeoverheid.nl
 https://www.kiesraad.nl
+https://www.kik-v.nl
 https://www.logius.nl
 https://www.metelkaartrekkenwedegrens.nl
 https://www.mijn.dus-i.nl
