@@ -5885,6 +5885,7 @@ feeds.healthcouncil.nl
 feeds.hoesterkstaik.nl
 feeds.hogeraadvanadel.nl
 feeds.houdmisdaaduitjebuurt.nl
+feeds.huiselijkgeweld.nl
 feeds.igj.nl
 feeds.nieuwsbrievenminocw.nl
 feeds.papiamentu.belastingdienst-cn.nl
@@ -11222,6 +11223,7 @@ opendata.hhdelfland.nl
 opendata.hoesterkstaik.nl
 opendata.hogeraadvanadel.nl
 opendata.houdmisdaaduitjebuurt.nl
+opendata.huiselijkgeweld.nl
 opendata.igj.nl
 opendata.nieuwsbrievenminocw.nl
 opendata.nijmegen.nl
@@ -17272,6 +17274,7 @@ www.horstaandemaas.nl
 www.houdmisdaaduitjebuurt.nl
 www.houten.nl
 www.houtwijkbegroot.denhaag.nl
+www.huiselijkgeweld.nl
 www.huiselijkgeweld.rotterdam.nl
 www.huisstijl.zaanstad.nl
 www.huizen.nl

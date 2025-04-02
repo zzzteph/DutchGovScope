@@ -1152,6 +1152,7 @@ feeds.healthcouncil.nl
 feeds.hoesterkstaik.nl
 feeds.hogeraadvanadel.nl
 feeds.houdmisdaaduitjebuurt.nl
+feeds.huiselijkgeweld.nl
 feeds.igj.nl
 feeds.nieuwsbrievenminocw.nl
 feeds.papiamentu.belastingdienst-cn.nl
@@ -2012,6 +2013,7 @@ opendata.hhdelfland.nl
 opendata.hoesterkstaik.nl
 opendata.hogeraadvanadel.nl
 opendata.houdmisdaaduitjebuurt.nl
+opendata.huiselijkgeweld.nl
 opendata.igj.nl
 opendata.nieuwsbrievenminocw.nl
 opendata.papiamentu.belastingdienst-cn.nl
@@ -2976,6 +2978,7 @@ www.hhdelfland.nl
 www.hoesterkstaik.nl
 www.hogeraadvanadel.nl
 www.houdmisdaaduitjebuurt.nl
+www.huiselijkgeweld.nl
 www.igj.nl
 www.int.omgevingswet.overheid.nl
 www.int02.omgevingswet.overheid.nl

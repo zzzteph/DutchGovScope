@@ -3783,6 +3783,7 @@ https://feeds.healthcouncil.nl
 https://feeds.hoesterkstaik.nl
 https://feeds.hogeraadvanadel.nl
 https://feeds.houdmisdaaduitjebuurt.nl
+https://feeds.huiselijkgeweld.nl
 https://feeds.igj.nl
 https://feeds.nieuwsbrievenminocw.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
@@ -6602,6 +6603,7 @@ https://opendata.heemstede.nl
 https://opendata.hoesterkstaik.nl
 https://opendata.hogeraadvanadel.nl
 https://opendata.houdmisdaaduitjebuurt.nl
+https://opendata.huiselijkgeweld.nl
 https://opendata.igj.nl
 https://opendata.nieuwsbrievenminocw.nl
 https://opendata.nijmegen.nl
@@ -9608,6 +9610,7 @@ https://www.horstaandemaas.nl
 https://www.houdmisdaaduitjebuurt.nl
 https://www.houten.nl
 https://www.houtwijkbegroot.denhaag.nl
+https://www.huiselijkgeweld.nl
 https://www.huisstijl.zaanstad.nl
 https://www.hulpwijzer.venray.nl
 https://www.idee.roosendaal.nl
