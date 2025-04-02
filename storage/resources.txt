@@ -5944,6 +5944,7 @@ feeds.investeringsimpulsspv.nl
 feeds.iob-evaluatie.nl
 feeds.it-academieoverheid.nl
 feeds.jaarverantwoordingzorg.nl
+feeds.jenvgegevens.nl
 feeds.nieuwsbrievenminocw.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.persberichten.rijksoverheid.nl
@@ -10395,6 +10396,7 @@ mobility.groningen.nl
 mobility.rheden.nl
 mobility.waalre.nl
 mobilitytest.rheden.nl
+modellen.jenvgegevens.nl
 modern.noordwijk.nl
 moerdijk.nl
 moh-acc.arnhem.nl
@@ -11338,6 +11340,7 @@ opendata.investeringsimpulsspv.nl
 opendata.iob-evaluatie.nl
 opendata.it-academieoverheid.nl
 opendata.jaarverantwoordingzorg.nl
+opendata.jenvgegevens.nl
 opendata.nieuwsbrievenminocw.nl
 opendata.nijmegen.nl
 opendata.papiamentu.belastingdienst-cn.nl
@@ -17496,6 +17499,7 @@ www.janvanzanen.denhaag.nl
 www.jcc.overbetuwe.nl
 www.jcc.sudwestfryslan.nl
 www.jccbetalen.haarlemmermeer.nl
+www.jenvgegevens.nl
 www.jijmaaktdebuurt.openstad.enschede.nl
 www.jongerenloket.zaanstad.nl
 www.jongin.doetinchem.nl

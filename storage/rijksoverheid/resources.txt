@@ -1211,6 +1211,7 @@ feeds.investeringsimpulsspv.nl
 feeds.iob-evaluatie.nl
 feeds.it-academieoverheid.nl
 feeds.jaarverantwoordingzorg.nl
+feeds.jenvgegevens.nl
 feeds.nieuwsbrievenminocw.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.persberichten.rijksoverheid.nl
@@ -1860,6 +1861,7 @@ mobiel.acc.toeslagen.nl
 mobiel.toeslagen.nl
 mobiel1.acc.toeslagen.nl
 mobile.hhdelfland.nl
+modellen.jenvgegevens.nl
 monitor.rijksoverheid.nl
 monitoring-prod5.koop.overheid.nl
 monitoring-prod6.koop.overheid.nl
@@ -2128,6 +2130,7 @@ opendata.investeringsimpulsspv.nl
 opendata.iob-evaluatie.nl
 opendata.it-academieoverheid.nl
 opendata.jaarverantwoordingzorg.nl
+opendata.jenvgegevens.nl
 opendata.nieuwsbrievenminocw.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.persberichten.rijksoverheid.nl
@@ -3153,6 +3156,7 @@ www.iplo.nl
 www.it-academieoverheid.nl
 www.jaarverantwoordingzorg.nl
 www.jaarverslag2018.flevoland.nl
+www.jenvgegevens.nl
 www.kaarten.brabant.nl
 www.logius.nl
 www.mail.bureauwsnp.nl

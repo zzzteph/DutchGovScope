@@ -3817,6 +3817,7 @@ https://feeds.investeringsimpulsspv.nl
 https://feeds.iob-evaluatie.nl
 https://feeds.it-academieoverheid.nl
 https://feeds.jaarverantwoordingzorg.nl
+https://feeds.jenvgegevens.nl
 https://feeds.nieuwsbrievenminocw.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.persberichten.rijksoverheid.nl
@@ -6088,6 +6089,7 @@ https://mobile.ggd.amsterdam.nl
 https://mobiliteitsplan.hillegom.nl
 https://mobiliteitsplan.lisse.nl
 https://mobiliteitsplan.teylingen.nl
+https://modellen.jenvgegevens.nl
 https://modern.noordwijk.nl
 https://moerdijk.nl
 https://molenlanden.nl
@@ -6684,6 +6686,7 @@ https://opendata.investeringsimpulsspv.nl
 https://opendata.iob-evaluatie.nl
 https://opendata.it-academieoverheid.nl
 https://opendata.jaarverantwoordingzorg.nl
+https://opendata.jenvgegevens.nl
 https://opendata.nieuwsbrievenminocw.nl
 https://opendata.nijmegen.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
@@ -9747,6 +9750,7 @@ https://www.jaarverantwoordingzorg.nl
 https://www.jaarverslag2018.flevoland.nl
 https://www.janvanzanen-acc.denhaag.nl
 https://www.janvanzanen.denhaag.nl
+https://www.jenvgegevens.nl
 https://www.jijmaaktdebuurt.openstad.enschede.nl
 https://www.jongerenloket.zaanstad.nl
 https://www.jouwgrotemarkt.groningen.nl

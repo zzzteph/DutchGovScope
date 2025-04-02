@@ -697,6 +697,7 @@ https://feeds.investeringsimpulsspv.nl
 https://feeds.iob-evaluatie.nl
 https://feeds.it-academieoverheid.nl
 https://feeds.jaarverantwoordingzorg.nl
+https://feeds.jenvgegevens.nl
 https://feeds.nieuwsbrievenminocw.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.persberichten.rijksoverheid.nl
@@ -948,6 +949,7 @@ https://mivp.emissieautoriteit.nl
 https://mm.belastingdienst.nl
 https://mnd-preprd.overheid.nl
 https://mnd.overheid.nl
+https://modellen.jenvgegevens.nl
 https://monitoring-prod5.koop.overheid.nl
 https://monitoring-prod6.koop.overheid.nl
 https://monitoring-test5.koop.overheid.nl
@@ -1139,6 +1141,7 @@ https://opendata.investeringsimpulsspv.nl
 https://opendata.iob-evaluatie.nl
 https://opendata.it-academieoverheid.nl
 https://opendata.jaarverantwoordingzorg.nl
+https://opendata.jenvgegevens.nl
 https://opendata.nieuwsbrievenminocw.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.persberichten.rijksoverheid.nl
@@ -1638,6 +1641,7 @@ https://www.iplo.nl
 https://www.it-academieoverheid.nl
 https://www.jaarverantwoordingzorg.nl
 https://www.jaarverslag2018.flevoland.nl
+https://www.jenvgegevens.nl
 https://www.logius.nl
 https://www.metelkaartrekkenwedegrens.nl
 https://www.mijn.dus-i.nl
