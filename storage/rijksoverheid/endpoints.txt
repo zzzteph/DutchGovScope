@@ -25,6 +25,7 @@ http://channels-az1.lpc.logius.nl
 http://channels-az2.lpc.logius.nl
 http://clienteleitsm-acceptatie.logius.nl
 http://clienteleitsm.logius.nl
+http://coronadashboard.government.nl
 http://coronadashboard.rijksoverheid.nl
 http://demo1-systemteam.overheid.nl
 http://demo2-systemteam.overheid.nl
@@ -644,6 +645,7 @@ https://feeds.gobiernodireino.nl
 https://feeds.gobiernudireino.nl
 https://feeds.goudenpiramide.nl
 https://feeds.gouverneuraruba.com
+https://feeds.government.nl
 https://feeds.igj.nl
 https://feeds.nieuwsbrievenminocw.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
@@ -706,6 +708,7 @@ https://gobiernodireino.nl
 https://gobiernudireino.nl
 https://goudenpiramide.nl
 https://gouverneuraruba.com
+https://government.nl
 https://gpi.belastingdienst.nl
 https://grondwaterstand.brabant.nl
 https://gtmb.belastingdienst.nl
@@ -798,6 +801,7 @@ https://magazines.deltaprogramma.nl
 https://magazines.dji.nl
 https://magazines.emissieautoriteit.nl
 https://magazines.forensischinstituut.nl
+https://magazines.government.nl
 https://magazines.igj.nl
 https://magazines.rijksoverheid.nl
 https://magazines.werkenvoornederland.nl
@@ -1007,6 +1011,7 @@ https://opendata.gobiernodireino.nl
 https://opendata.gobiernudireino.nl
 https://opendata.goudenpiramide.nl
 https://opendata.gouverneuraruba.com
+https://opendata.government.nl
 https://opendata.igj.nl
 https://opendata.nieuwsbrievenminocw.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
@@ -1135,6 +1140,7 @@ https://sb-dictu.logius.nl
 https://schadeherstel.acc.toeslagen.nl
 https://schadeherstel.toeslagen.nl
 https://scheiden.belastingdienst.nl
+https://sdg.government.nl
 https://sdg.rijksoverheid.nl
 https://sdgapi.ondernemersplein.overheid.nl
 https://search.developer.overheid.nl
@@ -1435,6 +1441,7 @@ https://www.gobiernodireino.nl
 https://www.gobiernudireino.nl
 https://www.goudenpiramide.nl
 https://www.gouverneuraruba.com
+https://www.government.nl
 https://www.hetverhaalvan.flevoland.nl
 https://www.igj.nl
 https://www.int.omgevingswet.overheid.nl

@@ -253,6 +253,7 @@ http://cmsintranet.etten-leur.nl
 http://cmsintranet.gooisemeren.nl
 http://cmssocialintranet.middendelfland.nl
 http://connect.acceptatie.goirle.nl
+http://coronadashboard.government.nl
 http://coronadashboard.rijksoverheid.nl
 http://crl.denhaag.nl
 http://data.eindhoven.nl
@@ -3764,6 +3765,7 @@ https://feeds.gobiernodireino.nl
 https://feeds.gobiernudireino.nl
 https://feeds.goudenpiramide.nl
 https://feeds.gouverneuraruba.com
+https://feeds.government.nl
 https://feeds.igj.nl
 https://feeds.nieuwsbrievenminocw.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
@@ -4324,6 +4326,7 @@ https://goud.almere.nl
 https://gouda.nl
 https://goudenpiramide.nl
 https://gouverneuraruba.com
+https://government.nl
 https://govpub.sudwestfryslan.nl
 https://gp-admin.tilburg.nl
 https://gp.apeldoorn.nl
@@ -5429,6 +5432,7 @@ https://magazines.dji.nl
 https://magazines.emissieautoriteit.nl
 https://magazines.forensischinstituut.nl
 https://magazines.gooisemeren.nl
+https://magazines.government.nl
 https://magazines.igj.nl
 https://magazines.rijksoverheid.nl
 https://magazines.rotterdam.nl
@@ -6551,6 +6555,7 @@ https://opendata.gobiernodireino.nl
 https://opendata.gobiernudireino.nl
 https://opendata.goudenpiramide.nl
 https://opendata.gouverneuraruba.com
+https://opendata.government.nl
 https://opendata.heemstede.nl
 https://opendata.igj.nl
 https://opendata.nieuwsbrievenminocw.nl
@@ -7589,6 +7594,7 @@ https://sd-zgw.test.denhaag.nl
 https://sd2-zgw.acc.denhaag.nl
 https://sd2-zgw.denhaag.nl
 https://sd2-zgw.test.denhaag.nl
+https://sdg.government.nl
 https://sdg.rijksoverheid.nl
 https://sdgapi.ondernemersplein.overheid.nl
 https://sdv-a.zwolle.nl
@@ -9493,6 +9499,7 @@ https://www.gorinchem.nl
 https://www.gouda.nl
 https://www.goudenpiramide.nl
 https://www.gouverneuraruba.com
+https://www.government.nl
 https://www.groenervijfhuizen.haarlemmermeer.nl
 https://www.groningen.nl
 https://www.gulpen-wittem.nl

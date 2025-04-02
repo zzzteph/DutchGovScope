@@ -158,6 +158,7 @@ a-feeds.forensicinstitute.nl
 a-feeds.forensischinstituut.nl
 a-feeds.geobasisregistraties.nl
 a-feeds.gezondheidsraad.nl
+a-feeds.government.nl
 a-feeds.igj.nl
 a-feeds.rijksoverheid.nl
 a-git.rijksoverheid.nl
@@ -165,6 +166,7 @@ a-jira.rijksoverheid.nl
 a-magazines.defensie.nl
 a-magazines.dji.nl
 a-magazines.forensischinstituut.nl
+a-magazines.government.nl
 a-magazines.igj.nl
 a-magazines.rijksoverheid.nl
 a-magazinesintern.rijksoverheid.nl
@@ -199,6 +201,7 @@ a-opendata.forensicinstitute.nl
 a-opendata.forensischinstituut.nl
 a-opendata.geobasisregistraties.nl
 a-opendata.gezondheidsraad.nl
+a-opendata.government.nl
 a-opendata.igj.nl
 a-opendata.rijksoverheid.nl
 a-p-ddi-0003.leeuwarden.nl
@@ -240,6 +243,7 @@ a-www.forensischinstituut.nl
 a-www.geobasisregistraties.nl
 a-www.gezondheidsraad.nl
 a-www.gobiernudireino.nl
+a-www.government.nl
 a-www.igj.nl
 a-www.rijksoverheid.nl
 a2b-rtr.alkmaar.nl
@@ -3696,6 +3700,7 @@ copper.dbga.acc.amsterdam.nl
 copper.dbga.amsterdam.nl
 corona.beverwijk.nl
 corona.breda.nl
+coronadashboard.government.nl
 coronadashboard.rijksoverheid.nl
 coronamedewerker.rotterdam.nl
 coronavirus.deventer.nl
@@ -5844,6 +5849,7 @@ feeds.gobiernodireino.nl
 feeds.gobiernudireino.nl
 feeds.goudenpiramide.nl
 feeds.gouverneuraruba.com
+feeds.government.nl
 feeds.igj.nl
 feeds.nieuwsbrievenminocw.nl
 feeds.papiamentu.belastingdienst-cn.nl
@@ -6898,6 +6904,7 @@ gouverneuraruba.com
 gouwbag-test.haarlemmermeer.nl
 gouwbag.haarlemmermeer.nl
 gov.urk.nl
+government.nl
 govpub.sudwestfryslan.nl
 govroam.beekdaelen.nl
 govroam.belastingdienst.nl
@@ -7295,6 +7302,7 @@ i-site1.defensie.nl
 i-site1.rijksoverheid.nl
 i-voor1.rijksoverheid.nl
 i-www.defensie.nl
+i-www.government.nl
 i-www.rijksoverheid.nl
 iah.acc.belastingdienst.nl
 iah.belastingdienst.nl
@@ -9150,6 +9158,7 @@ magazines.dji.nl
 magazines.emissieautoriteit.nl
 magazines.forensischinstituut.nl
 magazines.gooisemeren.nl
+magazines.government.nl
 magazines.horstaandemaas.nl
 magazines.igj.nl
 magazines.rijksoverheid.nl
@@ -10615,6 +10624,7 @@ nwro2.velsen.nl
 o-cms.defensie.nl
 o-cms1.defensie.nl
 o-cms1.rijksoverheid.nl
+o-magazines.government.nl
 o-magazinesintern.rijksoverheid.nl
 o-opendata.rijksoverheid.nl
 o-persberichten.rijksoverheid.nl
@@ -10623,6 +10633,7 @@ o-site1.rijksoverheid.nl
 o-static.rijksoverheid.nl
 o-voor1.rijksoverheid.nl
 o-www.defensie.nl
+o-www.government.nl
 o-www.rijksoverheid.nl
 o1.afspraak.leiden.nl
 o1.ptr1802.bodegraven-reeuwijk.nl
@@ -11129,6 +11140,7 @@ opendata.gobiernodireino.nl
 opendata.gobiernudireino.nl
 opendata.goudenpiramide.nl
 opendata.gouverneuraruba.com
+opendata.government.nl
 opendata.heemstede.nl
 opendata.igj.nl
 opendata.nieuwsbrievenminocw.nl
@@ -13084,6 +13096,7 @@ sd.someren.nl
 sd2-zgw.acc.denhaag.nl
 sd2-zgw.denhaag.nl
 sd2-zgw.test.denhaag.nl
+sdg.government.nl
 sdg.rijksoverheid.nl
 sdgapi.ondernemersplein.overheid.nl
 sdm.igj.nl
@@ -14421,6 +14434,7 @@ t-static.rijksoverheid.nl
 t-test.belastingdienst.nl
 t-voor1.rijksoverheid.nl
 t-www.defensie.nl
+t-www.government.nl
 t-www.rijksoverheid.nl
 t.cultureelerfgoed.nl
 t1.data.amsterdam.nl
@@ -17076,6 +17090,7 @@ www.goudenpiramide.nl
 www.gouverneuraruba.com
 www.gouwbag-test.haarlemmermeer.nl
 www.gouwbag.haarlemmermeer.nl
+www.government.nl
 www.govroam.groningen.nl
 www.govroam.sudwestfryslan.nl
 www.gpi.amsterdam.nl

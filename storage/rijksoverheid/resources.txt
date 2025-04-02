@@ -53,6 +53,7 @@ a-feeds.forensicinstitute.nl
 a-feeds.forensischinstituut.nl
 a-feeds.geobasisregistraties.nl
 a-feeds.gezondheidsraad.nl
+a-feeds.government.nl
 a-feeds.igj.nl
 a-feeds.rijksoverheid.nl
 a-git.rijksoverheid.nl
@@ -60,6 +61,7 @@ a-jira.rijksoverheid.nl
 a-magazines.defensie.nl
 a-magazines.dji.nl
 a-magazines.forensischinstituut.nl
+a-magazines.government.nl
 a-magazines.igj.nl
 a-magazines.rijksoverheid.nl
 a-magazinesintern.rijksoverheid.nl
@@ -94,6 +96,7 @@ a-opendata.forensicinstitute.nl
 a-opendata.forensischinstituut.nl
 a-opendata.geobasisregistraties.nl
 a-opendata.gezondheidsraad.nl
+a-opendata.government.nl
 a-opendata.igj.nl
 a-opendata.rijksoverheid.nl
 a-persberichten.rijksoverheid.nl
@@ -131,6 +134,7 @@ a-www.forensischinstituut.nl
 a-www.geobasisregistraties.nl
 a-www.gezondheidsraad.nl
 a-www.gobiernudireino.nl
+a-www.government.nl
 a-www.igj.nl
 a-www.rijksoverheid.nl
 a2vonderenkerensheide.nl
@@ -697,6 +701,7 @@ contentbeheer.acc.omgevingswet.overheid.nl
 contentbeheer.omgevingswet.overheid.nl
 contentbeheer.tst.omgevingswet.overheid.nl
 contentcreatie-eto.overheid.nl
+coronadashboard.government.nl
 coronadashboard.rijksoverheid.nl
 corsa-acpt.brabant.nl
 corsa.brabant.nl
@@ -1111,6 +1116,7 @@ feeds.gobiernodireino.nl
 feeds.gobiernudireino.nl
 feeds.goudenpiramide.nl
 feeds.gouverneuraruba.com
+feeds.government.nl
 feeds.igj.nl
 feeds.nieuwsbrievenminocw.nl
 feeds.papiamentu.belastingdienst-cn.nl
@@ -1268,6 +1274,7 @@ gobiernodireino.nl
 gobiernudireino.nl
 goudenpiramide.nl
 gouverneuraruba.com
+government.nl
 govroam.belastingdienst.nl
 govroam.brabant.nl
 gpa-rest-test.belastingdienst.nl
@@ -1346,6 +1353,7 @@ i-site1.defensie.nl
 i-site1.rijksoverheid.nl
 i-voor1.rijksoverheid.nl
 i-www.defensie.nl
+i-www.government.nl
 i-www.rijksoverheid.nl
 iah.acc.belastingdienst.nl
 iah.belastingdienst.nl
@@ -1515,6 +1523,7 @@ magazines.deltaprogramma.nl
 magazines.dji.nl
 magazines.emissieautoriteit.nl
 magazines.forensischinstituut.nl
+magazines.government.nl
 magazines.igj.nl
 magazines.rijksoverheid.nl
 magazines.werkenvoornederland.nl
@@ -1747,6 +1756,7 @@ ns4.brabant.nl
 o-cms.defensie.nl
 o-cms1.defensie.nl
 o-cms1.rijksoverheid.nl
+o-magazines.government.nl
 o-magazinesintern.rijksoverheid.nl
 o-opendata.rijksoverheid.nl
 o-persberichten.rijksoverheid.nl
@@ -1755,6 +1765,7 @@ o-site1.rijksoverheid.nl
 o-static.rijksoverheid.nl
 o-voor1.rijksoverheid.nl
 o-www.defensie.nl
+o-www.government.nl
 o-www.rijksoverheid.nl
 o5000proxvapp.ont.belastingdienst.nl
 o5001proxvapp.ont.belastingdienst.nl
@@ -1920,6 +1931,7 @@ opendata.gobiernodireino.nl
 opendata.gobiernudireino.nl
 opendata.goudenpiramide.nl
 opendata.gouverneuraruba.com
+opendata.government.nl
 opendata.igj.nl
 opendata.nieuwsbrievenminocw.nl
 opendata.papiamentu.belastingdienst-cn.nl
@@ -2190,6 +2202,7 @@ schadeherstel.acc.toeslagen.nl
 schadeherstel.toeslagen.nl
 scheiden.belastingdienst.nl
 schouw.flevoland.nl
+sdg.government.nl
 sdg.rijksoverheid.nl
 sdgapi.ondernemersplein.overheid.nl
 sdm.igj.nl
@@ -2396,6 +2409,7 @@ t-static.rijksoverheid.nl
 t-test.belastingdienst.nl
 t-voor1.rijksoverheid.nl
 t-www.defensie.nl
+t-www.government.nl
 t-www.rijksoverheid.nl
 t.cultureelerfgoed.nl
 te205vcciw12.dmzota.ont.belastingdienst.nl
@@ -2837,6 +2851,7 @@ www.gobiernodireino.nl
 www.gobiernudireino.nl
 www.goudenpiramide.nl
 www.gouverneuraruba.com
+www.government.nl
 www.gtmx.acc.belastingdienst.nl
 www.hetverhaalvan.flevoland.nl
 www.igj.nl
