@@ -1164,6 +1164,7 @@ feeds.houdmisdaaduitjebuurt.nl
 feeds.huiselijkgeweld.nl
 feeds.huisvoorklokkenluiders.nl
 feeds.huurcommissie.nl
+feeds.hwbp.nl
 feeds.igj.nl
 feeds.nieuwsbrievenminocw.nl
 feeds.papiamentu.belastingdienst-cn.nl
@@ -1416,6 +1417,7 @@ huisvoorklokkenluiders.nl
 hulpmiddelen.farmatec.nl
 huurcommissie.nl
 huurprijscheck.huurcommissie.nl
+hwbp.nl
 hybrid.brabant.nl
 hybrid.domeinenrz.nl
 i-cms.defensie.nl
@@ -2038,6 +2040,7 @@ opendata.houdmisdaaduitjebuurt.nl
 opendata.huiselijkgeweld.nl
 opendata.huisvoorklokkenluiders.nl
 opendata.huurcommissie.nl
+opendata.hwbp.nl
 opendata.igj.nl
 opendata.nieuwsbrievenminocw.nl
 opendata.papiamentu.belastingdienst-cn.nl
@@ -3020,6 +3023,7 @@ www.houdmisdaaduitjebuurt.nl
 www.huiselijkgeweld.nl
 www.huisvoorklokkenluiders.nl
 www.huurcommissie.nl
+www.hwbp.nl
 www.igj.nl
 www.int.omgevingswet.overheid.nl
 www.int02.omgevingswet.overheid.nl

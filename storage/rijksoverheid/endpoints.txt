@@ -670,6 +670,7 @@ https://feeds.houdmisdaaduitjebuurt.nl
 https://feeds.huiselijkgeweld.nl
 https://feeds.huisvoorklokkenluiders.nl
 https://feeds.huurcommissie.nl
+https://feeds.hwbp.nl
 https://feeds.igj.nl
 https://feeds.nieuwsbrievenminocw.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
@@ -763,6 +764,7 @@ https://huisvoorklokkenluiders.nl
 https://hulpmiddelen.farmatec.nl
 https://huurcommissie.nl
 https://huurprijscheck.huurcommissie.nl
+https://hwbp.nl
 https://iam-containerplatform.lpc.logius.nl
 https://id.brabant.nl
 https://id.flevoland.nl
@@ -1075,6 +1077,7 @@ https://opendata.houdmisdaaduitjebuurt.nl
 https://opendata.huiselijkgeweld.nl
 https://opendata.huisvoorklokkenluiders.nl
 https://opendata.huurcommissie.nl
+https://opendata.hwbp.nl
 https://opendata.igj.nl
 https://opendata.nieuwsbrievenminocw.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
@@ -1540,6 +1543,7 @@ https://www.houdmisdaaduitjebuurt.nl
 https://www.huiselijkgeweld.nl
 https://www.huisvoorklokkenluiders.nl
 https://www.huurcommissie.nl
+https://www.hwbp.nl
 https://www.igj.nl
 https://www.int.omgevingswet.overheid.nl
 https://www.int02.omgevingswet.overheid.nl

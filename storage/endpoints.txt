@@ -3790,6 +3790,7 @@ https://feeds.houdmisdaaduitjebuurt.nl
 https://feeds.huiselijkgeweld.nl
 https://feeds.huisvoorklokkenluiders.nl
 https://feeds.huurcommissie.nl
+https://feeds.hwbp.nl
 https://feeds.igj.nl
 https://feeds.nieuwsbrievenminocw.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
@@ -4511,6 +4512,7 @@ https://huurcommissie.nl
 https://huurprijscalculator.rotterdam.nl
 https://huurprijscheck.huurcommissie.nl
 https://huursportzaal.kampen.nl
+https://hwbp.nl
 https://hwok-test.gemeentehw.nl
 https://hwok.gemeentehw.nl
 https://hybrid.almere.nl
@@ -6620,6 +6622,7 @@ https://opendata.houdmisdaaduitjebuurt.nl
 https://opendata.huiselijkgeweld.nl
 https://opendata.huisvoorklokkenluiders.nl
 https://opendata.huurcommissie.nl
+https://opendata.hwbp.nl
 https://opendata.igj.nl
 https://opendata.nieuwsbrievenminocw.nl
 https://opendata.nijmegen.nl
@@ -9638,6 +9641,7 @@ https://www.huisstijl.zaanstad.nl
 https://www.huisvoorklokkenluiders.nl
 https://www.hulpwijzer.venray.nl
 https://www.huurcommissie.nl
+https://www.hwbp.nl
 https://www.idee.roosendaal.nl
 https://www.iedereenwerktmee.amsterdam.nl
 https://www.igj.nl
