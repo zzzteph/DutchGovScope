@@ -3885,6 +3885,7 @@ datasociaaldomein.rotterdam.nl
 datasync.dmb.amsterdam.nl
 datatest.delft.nl
 datatest.haarlem.nl
+datavoorgezondheid.nl
 datumprikker.belastingdienst.nl
 db-p-iftopdesk.rotterdam.nl
 db.cbg-meb.nl
@@ -5615,6 +5616,7 @@ feeds.cultuursubsidie.nl
 feeds.cvte.nl
 feeds.cybersecuritycouncil.nl
 feeds.cybersecurityraad.nl
+feeds.datavoorgezondheid.nl
 feeds.english.aivd.nl
 feeds.english.autoriteitnvs.nl
 feeds.english.belastingdienst-cn.nl
@@ -6334,6 +6336,7 @@ gen1.alkmaar.nl
 gen1.edam-volendam.nl
 gen2.alkmaar.nl
 genealogie.oldenzaal.nl
+generiekefuncties.datavoorgezondheid.nl
 generiekportaal.tst.belastingdienst.nl
 genieten.groningen.nl
 genietenzonderzorgen.landvancuijk.nl
@@ -10754,6 +10757,7 @@ opendata.cultuursubsidie.nl
 opendata.cvte.nl
 opendata.cybersecuritycouncil.nl
 opendata.cybersecurityraad.nl
+opendata.datavoorgezondheid.nl
 opendata.english.aivd.nl
 opendata.english.autoriteitnvs.nl
 opendata.english.belastingdienst-cn.nl
@@ -16384,6 +16388,7 @@ www.dataland-test.sudwestfryslan.nl
 www.dataland.sudwestfryslan.nl
 www.dataportaal.brabant.nl
 www.dataportaal.tilburg.nl
+www.datavoorgezondheid.nl
 www.de.gemert-bakel.nl
 www.debilt.nl
 www.defryskemarren.nl

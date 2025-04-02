@@ -334,6 +334,7 @@ https://data.cultureelerfgoed.nl
 https://data.geo.cultureelerfgoed.nl
 https://data.overheid.nl
 https://dataportaal.brabant.nl
+https://datavoorgezondheid.nl
 https://datumprikker.belastingdienst.nl
 https://db.cbg-meb.nl
 https://dcp-time-slot.cbg-meb.nl
@@ -469,6 +470,7 @@ https://feeds.cultuursubsidie.nl
 https://feeds.cvte.nl
 https://feeds.cybersecuritycouncil.nl
 https://feeds.cybersecurityraad.nl
+https://feeds.datavoorgezondheid.nl
 https://feeds.english.aivd.nl
 https://feeds.english.autoriteitnvs.nl
 https://feeds.english.belastingdienst-cn.nl
@@ -509,6 +511,7 @@ https://gegevensbijbesluiten.overheid.nl
 https://gegevensdelen.preprod.mijn.overheid.nl
 https://gegevensportaal.belastingdienst.nl
 https://gegevensuitwisseling.belastingdienst.nl
+https://generiekefuncties.datavoorgezondheid.nl
 https://geoportaal-acceptatie.brabant.nl
 https://geoportaal.brabant.nl
 https://georegister.brabant.nl
@@ -717,6 +720,7 @@ https://opendata.cultuursubsidie.nl
 https://opendata.cvte.nl
 https://opendata.cybersecuritycouncil.nl
 https://opendata.cybersecurityraad.nl
+https://opendata.datavoorgezondheid.nl
 https://opendata.english.aivd.nl
 https://opendata.english.autoriteitnvs.nl
 https://opendata.english.belastingdienst-cn.nl
@@ -1069,6 +1073,7 @@ https://www.cvte.nl
 https://www.cybersecuritycouncil.nl
 https://www.cybersecurityraad.nl
 https://www.dataportaal.brabant.nl
+https://www.datavoorgezondheid.nl
 https://www.dmo.omgevingswet.overheid.nl
 https://www.enabling.omgevingswet.overheid.nl
 https://www.igj.nl

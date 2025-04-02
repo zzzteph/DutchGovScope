@@ -2621,6 +2621,7 @@ https://dataportaal.apeldoorn.nl
 https://dataportaal.brabant.nl
 https://dataportaal.tilburg.nl
 https://datasociaaldomein.rotterdam.nl
+https://datavoorgezondheid.nl
 https://datumprikker.belastingdienst.nl
 https://db.cbg-meb.nl
 https://db01.deventer.nl
@@ -3589,6 +3590,7 @@ https://feeds.cultuursubsidie.nl
 https://feeds.cvte.nl
 https://feeds.cybersecuritycouncil.nl
 https://feeds.cybersecurityraad.nl
+https://feeds.datavoorgezondheid.nl
 https://feeds.english.aivd.nl
 https://feeds.english.autoriteitnvs.nl
 https://feeds.english.belastingdienst-cn.nl
@@ -3969,6 +3971,7 @@ https://gemeentewinkel.gemeente-steenbergen.nl
 https://gemeentewinkel.meerssen.nl
 https://gemert-bakel.nl
 https://genealogie.oldenzaal.nl
+https://generiekefuncties.datavoorgezondheid.nl
 https://genietenzonderzorgen.landvancuijk.nl
 https://gennep.nl
 https://geo-secure.ermelo.nl
@@ -6261,6 +6264,7 @@ https://opendata.cultuursubsidie.nl
 https://opendata.cvte.nl
 https://opendata.cybersecuritycouncil.nl
 https://opendata.cybersecurityraad.nl
+https://opendata.datavoorgezondheid.nl
 https://opendata.english.aivd.nl
 https://opendata.english.autoriteitnvs.nl
 https://opendata.english.belastingdienst-cn.nl
@@ -9012,6 +9016,7 @@ https://www.dalfsen.nl
 https://www.dantumadiel.frl
 https://www.dataportaal.brabant.nl
 https://www.dataportaal.tilburg.nl
+https://www.datavoorgezondheid.nl
 https://www.de.gemert-bakel.nl
 https://www.debilt.nl
 https://www.defryskemarren.nl
