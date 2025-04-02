@@ -3721,6 +3721,7 @@ cvdkacc.nissewaard.nl
 cvdr.overheid.nl
 cvte.nl
 cybersecuritycouncil.nl
+cybersecurityraad.nl
 cyclomedia.gulpen-wittem.nl
 cyclorama.utrecht.nl
 da.deurne.nl
@@ -5613,6 +5614,7 @@ feeds.cultureelerfgoed.nl
 feeds.cultuursubsidie.nl
 feeds.cvte.nl
 feeds.cybersecuritycouncil.nl
+feeds.cybersecurityraad.nl
 feeds.english.aivd.nl
 feeds.english.autoriteitnvs.nl
 feeds.english.belastingdienst-cn.nl
@@ -8872,6 +8874,7 @@ magazine.schagen.nl
 magazines.algemenebestuursdienst.nl
 magazines.amsterdam.nl
 magazines.cultureelerfgoed.nl
+magazines.cybersecurityraad.nl
 magazines.gooisemeren.nl
 magazines.horstaandemaas.nl
 magazines.igj.nl
@@ -10750,6 +10753,7 @@ opendata.cultureelerfgoed.nl
 opendata.cultuursubsidie.nl
 opendata.cvte.nl
 opendata.cybersecuritycouncil.nl
+opendata.cybersecurityraad.nl
 opendata.english.aivd.nl
 opendata.english.autoriteitnvs.nl
 opendata.english.belastingdienst-cn.nl
@@ -16370,6 +16374,7 @@ www.cultuursubsidie.nl
 www.cust-ata01.haarlemmermeer.nl
 www.cvte.nl
 www.cybersecuritycouncil.nl
+www.cybersecurityraad.nl
 www.dalfsen.nl
 www.dantumadiel.frl
 www.data.amsterdam.nl

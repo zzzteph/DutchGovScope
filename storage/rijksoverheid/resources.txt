@@ -646,6 +646,7 @@ cv-mailrelays.overheid.nl
 cvdr.overheid.nl
 cvte.nl
 cybersecuritycouncil.nl
+cybersecurityraad.nl
 dagstaatmonitors.brabant.nl
 dash-ma.mijn.overheid.nl
 dash-mp.mijn.overheid.nl
@@ -880,6 +881,7 @@ feeds.cultureelerfgoed.nl
 feeds.cultuursubsidie.nl
 feeds.cvte.nl
 feeds.cybersecuritycouncil.nl
+feeds.cybersecurityraad.nl
 feeds.english.aivd.nl
 feeds.english.autoriteitnvs.nl
 feeds.english.belastingdienst-cn.nl
@@ -1238,6 +1240,7 @@ machtigen-ont.toeslagen.nl
 machtigen.digipoort.logius.nl
 magazines.algemenebestuursdienst.nl
 magazines.cultureelerfgoed.nl
+magazines.cybersecurityraad.nl
 magazines.igj.nl
 magazines.rijksoverheid.nl
 magazines.werkenvoornederland.nl
@@ -1541,6 +1544,7 @@ opendata.cultureelerfgoed.nl
 opendata.cultuursubsidie.nl
 opendata.cvte.nl
 opendata.cybersecuritycouncil.nl
+opendata.cybersecurityraad.nl
 opendata.english.aivd.nl
 opendata.english.autoriteitnvs.nl
 opendata.english.belastingdienst-cn.nl
@@ -2346,6 +2350,7 @@ www.cultureelerfgoed.nl
 www.cultuursubsidie.nl
 www.cvte.nl
 www.cybersecuritycouncil.nl
+www.cybersecurityraad.nl
 www.dataportaal.brabant.nl
 www.dmo.omgevingswet.overheid.nl
 www.enabling.omgevingswet.overheid.nl
