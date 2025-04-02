@@ -805,6 +805,7 @@ acceptatie.hilvernet.hilvarenbeek.nl
 acceptatie.hofvantwente.nl
 acceptatie.hoogeveen.nl
 acceptatie.horstaandemaas.nl
+acceptatie.hulpmiddelen.farmatec.nl
 acceptatie.insite.oisterwijk.nl
 acceptatie.intranet.debilt.nl
 acceptatie.intranet.gemeentewestland.nl
@@ -5381,6 +5382,7 @@ english.donorregister.nl
 english.dsta.nl
 english.eindhoven.nl
 english.euthanasiecommissie.nl
+english.farmatec.nl
 english.igj.nl
 english.sso3w.nl
 enkhuizen.nl
@@ -5776,12 +5778,14 @@ feeds.english.domeinenrz.nl
 feeds.english.donorregister.nl
 feeds.english.dsta.nl
 feeds.english.euthanasiecommissie.nl
+feeds.english.farmatec.nl
 feeds.english.igj.nl
 feeds.english.sso3w.nl
 feeds.erfgoeddeal.nl
 feeds.euthanasiecommissie.nl
 feeds.excellentescholen.nl
 feeds.expertisecentrummggz.nl
+feeds.farmatec.nl
 feeds.igj.nl
 feeds.nieuwsbrievenminocw.nl
 feeds.papiamentu.belastingdienst-cn.nl
@@ -7158,6 +7162,7 @@ huisvuilkalender.acc.denhaag.nl
 huisvuilkalender.denhaag.nl
 huisvuilkalender.gemeentewestland.nl
 huizen.nl
+hulpmiddelen.farmatec.nl
 hulpwijzer.hattem.nl
 hulpwijzer.venray.nl
 hupextern.acc.denhaag.nl
@@ -10994,11 +10999,13 @@ opendata.english.domeinenrz.nl
 opendata.english.donorregister.nl
 opendata.english.dsta.nl
 opendata.english.euthanasiecommissie.nl
+opendata.english.farmatec.nl
 opendata.english.igj.nl
 opendata.english.sso3w.nl
 opendata.euthanasiecommissie.nl
 opendata.excellentescholen.nl
 opendata.expertisecentrummggz.nl
+opendata.farmatec.nl
 opendata.heemstede.nl
 opendata.igj.nl
 opendata.nieuwsbrievenminocw.nl
@@ -16799,6 +16806,7 @@ www.expertisecentrummggz.nl
 www.extern.emmen.nl
 www.ez.amsterdam.nl
 www.fairtrade.groningen.nl
+www.farmatec.nl
 www.fiets.amsterdam.nl
 www.fietsen.groningen.nl
 www.fietsroutes.landvancuijk.nl

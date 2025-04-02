@@ -1010,6 +1010,7 @@ https://acceptatie.hillegom.nl
 https://acceptatie.hilvarenbeek.nl
 https://acceptatie.hilvernet.hilvarenbeek.nl
 https://acceptatie.hoogeveen.nl
+https://acceptatie.hulpmiddelen.farmatec.nl
 https://acceptatie.insite.oisterwijk.nl
 https://acceptatie.intranet.debilt.nl
 https://acceptatie.leiderdorp.nl
@@ -3433,6 +3434,7 @@ https://english.donorregister.nl
 https://english.dsta.nl
 https://english.eindhoven.nl
 https://english.euthanasiecommissie.nl
+https://english.farmatec.nl
 https://english.igj.nl
 https://english.sso3w.nl
 https://enkhuizen.nl
@@ -3708,12 +3710,14 @@ https://feeds.english.domeinenrz.nl
 https://feeds.english.donorregister.nl
 https://feeds.english.dsta.nl
 https://feeds.english.euthanasiecommissie.nl
+https://feeds.english.farmatec.nl
 https://feeds.english.igj.nl
 https://feeds.english.sso3w.nl
 https://feeds.erfgoeddeal.nl
 https://feeds.euthanasiecommissie.nl
 https://feeds.excellentescholen.nl
 https://feeds.expertisecentrummggz.nl
+https://feeds.farmatec.nl
 https://feeds.igj.nl
 https://feeds.nieuwsbrievenminocw.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
@@ -4390,6 +4394,7 @@ https://huisstijl.utrecht.nl
 https://huisstijl.zaanstad.nl
 https://huisvestingkwetsbaredoelgroep.rotterdam.nl
 https://huisvuilkalender.denhaag.nl
+https://hulpmiddelen.farmatec.nl
 https://hulpwijzer.hattem.nl
 https://hulpwijzer.venray.nl
 https://huurprijscalculator.rotterdam.nl
@@ -6439,11 +6444,13 @@ https://opendata.english.domeinenrz.nl
 https://opendata.english.donorregister.nl
 https://opendata.english.dsta.nl
 https://opendata.english.euthanasiecommissie.nl
+https://opendata.english.farmatec.nl
 https://opendata.english.igj.nl
 https://opendata.english.sso3w.nl
 https://opendata.euthanasiecommissie.nl
 https://opendata.excellentescholen.nl
 https://opendata.expertisecentrummggz.nl
+https://opendata.farmatec.nl
 https://opendata.heemstede.nl
 https://opendata.igj.nl
 https://opendata.nieuwsbrievenminocw.nl
@@ -9301,6 +9308,7 @@ https://www.etten-leur.nl
 https://www.euthanasiecommissie.nl
 https://www.excellentescholen.nl
 https://www.expertisecentrummggz.nl
+https://www.farmatec.nl
 https://www.fietsroutes.landvancuijk.nl
 https://www.financielestukken.diemen.nl
 https://www.financielestukken.ouder-amstel.nl

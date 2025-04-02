@@ -132,6 +132,7 @@ https://acceptatie.bestandsportaal.cibg.nl
 https://acceptatie.designsystem.cibg.nl
 https://acceptatie.drms.cibg.nl
 https://acceptatie.geoservices.cultureelerfgoed.nl
+https://acceptatie.hulpmiddelen.farmatec.nl
 https://acceptatie.lir.cibg.nl
 https://acceptatie.meldingen.klopt.cibg.nl
 https://acceptatie.mijn.bigregister.nl
@@ -458,6 +459,7 @@ https://english.domeinenrz.nl
 https://english.donorregister.nl
 https://english.dsta.nl
 https://english.euthanasiecommissie.nl
+https://english.farmatec.nl
 https://english.igj.nl
 https://english.sso3w.nl
 https://enterpriseenrollment.cbg-meb.nl
@@ -588,12 +590,14 @@ https://feeds.english.domeinenrz.nl
 https://feeds.english.donorregister.nl
 https://feeds.english.dsta.nl
 https://feeds.english.euthanasiecommissie.nl
+https://feeds.english.farmatec.nl
 https://feeds.english.igj.nl
 https://feeds.english.sso3w.nl
 https://feeds.erfgoeddeal.nl
 https://feeds.euthanasiecommissie.nl
 https://feeds.excellentescholen.nl
 https://feeds.expertisecentrummggz.nl
+https://feeds.farmatec.nl
 https://feeds.igj.nl
 https://feeds.nieuwsbrievenminocw.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
@@ -646,6 +650,7 @@ https://gw.defensie.nl
 https://helloid.aaenmaas.nl
 https://herstel.toeslagen.nl
 https://huisstijl.belastingdienst.nl
+https://hulpmiddelen.farmatec.nl
 https://iam-containerplatform.lpc.logius.nl
 https://id.brabant.nl
 https://identifier-preprod.overheid.nl
@@ -895,11 +900,13 @@ https://opendata.english.domeinenrz.nl
 https://opendata.english.donorregister.nl
 https://opendata.english.dsta.nl
 https://opendata.english.euthanasiecommissie.nl
+https://opendata.english.farmatec.nl
 https://opendata.english.igj.nl
 https://opendata.english.sso3w.nl
 https://opendata.euthanasiecommissie.nl
 https://opendata.excellentescholen.nl
 https://opendata.expertisecentrummggz.nl
+https://opendata.farmatec.nl
 https://opendata.igj.nl
 https://opendata.nieuwsbrievenminocw.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
@@ -1293,6 +1300,7 @@ https://www.erfgoeddeal.nl
 https://www.euthanasiecommissie.nl
 https://www.excellentescholen.nl
 https://www.expertisecentrummggz.nl
+https://www.farmatec.nl
 https://www.igj.nl
 https://www.int.omgevingswet.overheid.nl
 https://www.int02.omgevingswet.overheid.nl

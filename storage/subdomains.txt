@@ -10,8 +10,8 @@ mijn
 webmail
 mail
 simsite
-afspraken
 opendata
+afspraken
 digikoppeling
 feeds
 preproductie
@@ -55,6 +55,7 @@ dacceptatiemidoffice
 data
 dloket
 dmidoffice
+english
 enterpriseregistration
 api.meldingen-acc
 meldingen-acc
@@ -62,7 +63,6 @@ remote
 openpdc
 belastingbalie
 cmsoo
-english
 login
 osb
 loket.acceptatie
@@ -78,11 +78,11 @@ zaken
 kaart
 kaarten
 a-www
+feeds.english
+opendata.english
 cloudadapter
 a-feeds
 a-opendata
-feeds.english
-opendata.english
 connect
 berichten
 parkeren-acc
@@ -3123,6 +3123,8 @@ preprodehpzee
 preprodmivp
 preprodrev
 rev
+acceptatie.hulpmiddelen
+hulpmiddelen
 email.mail.participatie
 mail.participatie
 aalten-checker-preprod

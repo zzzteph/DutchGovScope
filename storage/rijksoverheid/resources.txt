@@ -210,6 +210,7 @@ acceptatie.digikoppeling2.cibg.nl
 acceptatie.drms.cibg.nl
 acceptatie.ebms.digikoppeling.cibg.nl
 acceptatie.geoservices.cultureelerfgoed.nl
+acceptatie.hulpmiddelen.farmatec.nl
 acceptatie.lir.cibg.nl
 acceptatie.meldingen.klopt.cibg.nl
 acceptatie.mijn.bigregister.nl
@@ -874,6 +875,7 @@ english.domeinenrz.nl
 english.donorregister.nl
 english.dsta.nl
 english.euthanasiecommissie.nl
+english.farmatec.nl
 english.igj.nl
 english.sso3w.nl
 enterpriseenrollment.cbg-meb.nl
@@ -1043,12 +1045,14 @@ feeds.english.domeinenrz.nl
 feeds.english.donorregister.nl
 feeds.english.dsta.nl
 feeds.english.euthanasiecommissie.nl
+feeds.english.farmatec.nl
 feeds.english.igj.nl
 feeds.english.sso3w.nl
 feeds.erfgoeddeal.nl
 feeds.euthanasiecommissie.nl
 feeds.excellentescholen.nl
 feeds.expertisecentrummggz.nl
+feeds.farmatec.nl
 feeds.igj.nl
 feeds.nieuwsbrievenminocw.nl
 feeds.papiamentu.belastingdienst-cn.nl
@@ -1246,6 +1250,7 @@ hrz-uag-ext.belastingdienst.nl
 htmleditor.officiele-overheidspublicaties.nl
 huisstijl.acc.belastingdienst.nl
 huisstijl.belastingdienst.nl
+hulpmiddelen.farmatec.nl
 hybrid.brabant.nl
 hybrid.domeinenrz.nl
 i-cms.defensie.nl
@@ -1785,11 +1790,13 @@ opendata.english.domeinenrz.nl
 opendata.english.donorregister.nl
 opendata.english.dsta.nl
 opendata.english.euthanasiecommissie.nl
+opendata.english.farmatec.nl
 opendata.english.igj.nl
 opendata.english.sso3w.nl
 opendata.euthanasiecommissie.nl
 opendata.excellentescholen.nl
 opendata.expertisecentrummggz.nl
+opendata.farmatec.nl
 opendata.igj.nl
 opendata.nieuwsbrievenminocw.nl
 opendata.papiamentu.belastingdienst-cn.nl
@@ -2659,6 +2666,7 @@ www.erfgoeddeal.nl
 www.euthanasiecommissie.nl
 www.excellentescholen.nl
 www.expertisecentrummggz.nl
+www.farmatec.nl
 www.gtmx.acc.belastingdienst.nl
 www.igj.nl
 www.int.omgevingswet.overheid.nl
