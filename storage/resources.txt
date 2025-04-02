@@ -5882,6 +5882,7 @@ feeds.grenzeloossamenwerken.nl
 feeds.groeiennaarmorgen.nl
 feeds.hansken.nl
 feeds.healthcouncil.nl
+feeds.hoesterkstaik.nl
 feeds.igj.nl
 feeds.nieuwsbrievenminocw.nl
 feeds.papiamentu.belastingdienst-cn.nl
@@ -7244,6 +7245,7 @@ hlmrvpn.haarlemmermeer.nl
 hlnpki.heerlen.nl
 hlnpkitest.heerlen.nl
 hnw.delft.nl
+hoesterkstaik.nl
 hofnet.coevorden.nl
 hofvantwente.nl
 hollandskroon.nl
@@ -11213,6 +11215,7 @@ opendata.hansken.nl
 opendata.healthcouncil.nl
 opendata.heemstede.nl
 opendata.hhdelfland.nl
+opendata.hoesterkstaik.nl
 opendata.igj.nl
 opendata.nieuwsbrievenminocw.nl
 opendata.nijmegen.nl
@@ -17252,6 +17255,7 @@ www.hilvarenbeek.nl
 www.hilversum.nl
 www.historiehuis.roermond.nl
 www.hlmrvpn.haarlemmermeer.nl
+www.hoesterkstaik.nl
 www.hofvantwente.nl
 www.hollandskroon.nl
 www.hoogeland.groningen.nl

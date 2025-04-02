@@ -3780,6 +3780,7 @@ https://feeds.grenzeloossamenwerken.nl
 https://feeds.groeiennaarmorgen.nl
 https://feeds.hansken.nl
 https://feeds.healthcouncil.nl
+https://feeds.hoesterkstaik.nl
 https://feeds.igj.nl
 https://feeds.nieuwsbrievenminocw.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
@@ -4457,6 +4458,7 @@ https://historischarchief.midden-groningen.nl
 https://historischbeeldarchief.putten.nl
 https://historische-luchtfoto.flevoland.nl
 https://hnw.delft.nl
+https://hoesterkstaik.nl
 https://hofnet.coevorden.nl
 https://hofvantwente.nl
 https://hollandskroon.nl
@@ -6593,6 +6595,7 @@ https://opendata.groeiennaarmorgen.nl
 https://opendata.hansken.nl
 https://opendata.healthcouncil.nl
 https://opendata.heemstede.nl
+https://opendata.hoesterkstaik.nl
 https://opendata.igj.nl
 https://opendata.nieuwsbrievenminocw.nl
 https://opendata.nijmegen.nl
@@ -9589,6 +9592,7 @@ https://www.hillegom.nl
 https://www.hilvarenbeek.nl
 https://www.hilversum.nl
 https://www.historiehuis.roermond.nl
+https://www.hoesterkstaik.nl
 https://www.hofvantwente.nl
 https://www.hollandskroon.nl
 https://www.hoogeveen.nl

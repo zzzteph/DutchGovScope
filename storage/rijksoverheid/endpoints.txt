@@ -660,6 +660,7 @@ https://feeds.grenzeloossamenwerken.nl
 https://feeds.groeiennaarmorgen.nl
 https://feeds.hansken.nl
 https://feeds.healthcouncil.nl
+https://feeds.hoesterkstaik.nl
 https://feeds.igj.nl
 https://feeds.nieuwsbrievenminocw.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
@@ -743,6 +744,7 @@ https://herstel.toeslagen.nl
 https://hetverhaalvan.flevoland.nl
 https://hhdelfland.nl
 https://historische-luchtfoto.flevoland.nl
+https://hoesterkstaik.nl
 https://huisstijl.belastingdienst.nl
 https://hulpmiddelen.farmatec.nl
 https://iam-containerplatform.lpc.logius.nl
@@ -1048,6 +1050,7 @@ https://opendata.grenzeloossamenwerken.nl
 https://opendata.groeiennaarmorgen.nl
 https://opendata.hansken.nl
 https://opendata.healthcouncil.nl
+https://opendata.hoesterkstaik.nl
 https://opendata.igj.nl
 https://opendata.nieuwsbrievenminocw.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
@@ -1500,6 +1503,7 @@ https://www.hdsr.nl
 https://www.healthcouncil.nl
 https://www.hetverhaalvan.flevoland.nl
 https://www.hhdelfland.nl
+https://www.hoesterkstaik.nl
 https://www.igj.nl
 https://www.int.omgevingswet.overheid.nl
 https://www.int02.omgevingswet.overheid.nl
