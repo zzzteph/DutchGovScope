@@ -91,6 +91,7 @@ piwik
 acc-broker
 belastingloket
 doemee
+a-www
 english
 portaal
 denkmee
@@ -101,11 +102,10 @@ financien
 klantcontact
 test-cmsintranet
 pki
-a-www
-apps
-samen
 a-feeds
 a-opendata
+apps
+samen
 sip
 begroting
 bgt

@@ -2525,6 +2525,7 @@ https://culemborg.nl
 https://cultureel-erfgoed.omgevingswet.overheid.nl
 https://cultureelerfgoed.nl
 https://cultuur.landvancuijk.nl
+https://cultuursubsidie.nl
 https://cursus.drop.overheid.nl
 https://cuup-web.amsterdam.nl
 https://daalder-dash.makkelijkemarkt.amsterdam.nl
@@ -3580,6 +3581,7 @@ https://feeds.ctgb.nl
 https://feeds.ctivd.nl
 https://feeds.ctpveldzicht.nl
 https://feeds.cultureelerfgoed.nl
+https://feeds.cultuursubsidie.nl
 https://feeds.english.aivd.nl
 https://feeds.english.autoriteitnvs.nl
 https://feeds.english.belastingdienst-cn.nl
@@ -6247,6 +6249,7 @@ https://opendata.ctgb.nl
 https://opendata.ctivd.nl
 https://opendata.ctpveldzicht.nl
 https://opendata.cultureelerfgoed.nl
+https://opendata.cultuursubsidie.nl
 https://opendata.english.aivd.nl
 https://opendata.english.autoriteitnvs.nl
 https://opendata.english.belastingdienst-cn.nl
@@ -8990,6 +8993,7 @@ https://www.ctivd.nl
 https://www.ctpveldzicht.nl
 https://www.culemborg.nl
 https://www.cultureelerfgoed.nl
+https://www.cultuursubsidie.nl
 https://www.dalfsen.nl
 https://www.dantumadiel.frl
 https://www.dataportaal.brabant.nl

@@ -35,6 +35,7 @@ a-feeds.cibg.nl
 a-feeds.communicatierijk.nl
 a-feeds.ctgb.nl
 a-feeds.ctivd.nl
+a-feeds.cultuursubsidie.nl
 a-feeds.igj.nl
 a-feeds.rijksoverheid.nl
 a-git.rijksoverheid.nl
@@ -62,6 +63,7 @@ a-opendata.cibg.nl
 a-opendata.communicatierijk.nl
 a-opendata.ctgb.nl
 a-opendata.ctivd.nl
+a-opendata.cultuursubsidie.nl
 a-opendata.igj.nl
 a-opendata.rijksoverheid.nl
 a-persberichten.rijksoverheid.nl
@@ -87,6 +89,7 @@ a-www.cibg.nl
 a-www.communicatierijk.nl
 a-www.ctgb.nl
 a-www.ctivd.nl
+a-www.cultuursubsidie.nl
 a-www.igj.nl
 a-www.rijksoverheid.nl
 a2vonderenkerensheide.nl
@@ -630,6 +633,7 @@ ctstest.belastingdienst.nl
 ctstest4k.belastingdienst.nl
 cultureel-erfgoed.omgevingswet.overheid.nl
 cultureelerfgoed.nl
+cultuursubsidie.nl
 cursus.drop.overheid.nl
 cv-mailrelay1.overheid.nl
 cv-mailrelay2.overheid.nl
@@ -869,6 +873,7 @@ feeds.ctgb.nl
 feeds.ctivd.nl
 feeds.ctpveldzicht.nl
 feeds.cultureelerfgoed.nl
+feeds.cultuursubsidie.nl
 feeds.english.aivd.nl
 feeds.english.autoriteitnvs.nl
 feeds.english.belastingdienst-cn.nl
@@ -1527,6 +1532,7 @@ opendata.ctgb.nl
 opendata.ctivd.nl
 opendata.ctpveldzicht.nl
 opendata.cultureelerfgoed.nl
+opendata.cultuursubsidie.nl
 opendata.english.aivd.nl
 opendata.english.autoriteitnvs.nl
 opendata.english.belastingdienst-cn.nl
@@ -2329,6 +2335,7 @@ www.ctgb.nl
 www.ctivd.nl
 www.ctpveldzicht.nl
 www.cultureelerfgoed.nl
+www.cultuursubsidie.nl
 www.dataportaal.brabant.nl
 www.dmo.omgevingswet.overheid.nl
 www.enabling.omgevingswet.overheid.nl

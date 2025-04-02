@@ -140,6 +140,7 @@ a-feeds.cibg.nl
 a-feeds.communicatierijk.nl
 a-feeds.ctgb.nl
 a-feeds.ctivd.nl
+a-feeds.cultuursubsidie.nl
 a-feeds.igj.nl
 a-feeds.rijksoverheid.nl
 a-git.rijksoverheid.nl
@@ -167,6 +168,7 @@ a-opendata.cibg.nl
 a-opendata.communicatierijk.nl
 a-opendata.ctgb.nl
 a-opendata.ctivd.nl
+a-opendata.cultuursubsidie.nl
 a-opendata.igj.nl
 a-opendata.rijksoverheid.nl
 a-p-ddi-0003.leeuwarden.nl
@@ -196,6 +198,7 @@ a-www.cibg.nl
 a-www.communicatierijk.nl
 a-www.ctgb.nl
 a-www.ctivd.nl
+a-www.cultuursubsidie.nl
 a-www.igj.nl
 a-www.rijksoverheid.nl
 a2b-rtr.alkmaar.nl
@@ -3701,6 +3704,7 @@ culemborg.nl
 cultureel-erfgoed.omgevingswet.overheid.nl
 cultureelerfgoed.nl
 cultuur.landvancuijk.nl
+cultuursubsidie.nl
 cursus.drop.overheid.nl
 cust-ata01.haarlemmermeer.nl
 cuup-web.amsterdam.nl
@@ -5602,6 +5606,7 @@ feeds.ctgb.nl
 feeds.ctivd.nl
 feeds.ctpveldzicht.nl
 feeds.cultureelerfgoed.nl
+feeds.cultuursubsidie.nl
 feeds.english.aivd.nl
 feeds.english.autoriteitnvs.nl
 feeds.english.belastingdienst-cn.nl
@@ -10736,6 +10741,7 @@ opendata.ctgb.nl
 opendata.ctivd.nl
 opendata.ctpveldzicht.nl
 opendata.cultureelerfgoed.nl
+opendata.cultuursubsidie.nl
 opendata.english.aivd.nl
 opendata.english.autoriteitnvs.nl
 opendata.english.belastingdienst-cn.nl
@@ -16352,6 +16358,7 @@ www.ctivd.nl
 www.ctpveldzicht.nl
 www.culemborg.nl
 www.cultureelerfgoed.nl
+www.cultuursubsidie.nl
 www.cust-ata01.haarlemmermeer.nl
 www.dalfsen.nl
 www.dantumadiel.frl
