@@ -2647,6 +2647,7 @@ https://decosvor.amsterdam.nl
 https://decoswonen.acc.amsterdam.nl
 https://decoswonen.amsterdam.nl
 https://deelscooters.doemee.bloemendaal.nl
+https://defensie.nl
 https://defryskemarren.nl
 https://delft.nl
 https://delta.belastingdienst.nl
@@ -3367,6 +3368,7 @@ https://english.ccmo.nl
 https://english.ctgb.nl
 https://english.ctivd.nl
 https://english.cultureelerfgoed.nl
+https://english.defensie.nl
 https://english.eindhoven.nl
 https://english.igj.nl
 https://enkhuizen.nl
@@ -3593,6 +3595,7 @@ https://feeds.cybersecuritycouncil.nl
 https://feeds.cybersecurityraad.nl
 https://feeds.datavoorgezondheid.nl
 https://feeds.dcc-ienw.nl
+https://feeds.defensie.nl
 https://feeds.english.aivd.nl
 https://feeds.english.autoriteitnvs.nl
 https://feeds.english.belastingdienst-cn.nl
@@ -3602,6 +3605,7 @@ https://feeds.english.ccmo.nl
 https://feeds.english.ctgb.nl
 https://feeds.english.ctivd.nl
 https://feeds.english.cultureelerfgoed.nl
+https://feeds.english.defensie.nl
 https://feeds.english.igj.nl
 https://feeds.igj.nl
 https://feeds.nieuwsbrievenminocw.nl
@@ -4173,6 +4177,7 @@ https://guisweg.zaanstad.nl
 https://gulpen-wittem.nl
 https://gvonline.hilversum.nl
 https://gw-test.nijmegen.nl
+https://gw.defensie.nl
 https://gwo.lopik.nl
 https://gzac.t.ssv.amsterdam.nl
 https://haaksbergen.nl
@@ -5227,6 +5232,7 @@ https://magazines.algemenebestuursdienst.nl
 https://magazines.amsterdam.nl
 https://magazines.cultureelerfgoed.nl
 https://magazines.cybersecurityraad.nl
+https://magazines.defensie.nl
 https://magazines.gooisemeren.nl
 https://magazines.igj.nl
 https://magazines.rijksoverheid.nl
@@ -5892,6 +5898,7 @@ https://nieuwsbrieven.zwolle.nl
 https://nieuwsbrievenminocw.nl
 https://nieuwzaansklimaat.zaanstad.nl
 https://nijmegen.nl
+https://nimh-beeldbank.defensie.nl
 https://nimmaleert.nijmegen.nl
 https://nissewaard.nl
 https://nlgembrl.brielle.nl
@@ -6268,6 +6275,7 @@ https://opendata.cybersecuritycouncil.nl
 https://opendata.cybersecurityraad.nl
 https://opendata.datavoorgezondheid.nl
 https://opendata.dcc-ienw.nl
+https://opendata.defensie.nl
 https://opendata.english.aivd.nl
 https://opendata.english.autoriteitnvs.nl
 https://opendata.english.belastingdienst-cn.nl
@@ -6277,6 +6285,7 @@ https://opendata.english.ccmo.nl
 https://opendata.english.ctgb.nl
 https://opendata.english.ctivd.nl
 https://opendata.english.cultureelerfgoed.nl
+https://opendata.english.defensie.nl
 https://opendata.english.igj.nl
 https://opendata.heemstede.nl
 https://opendata.igj.nl
@@ -9023,6 +9032,7 @@ https://www.datavoorgezondheid.nl
 https://www.dcc-ienw.nl
 https://www.de.gemert-bakel.nl
 https://www.debilt.nl
+https://www.defensie.nl
 https://www.defryskemarren.nl
 https://www.delft.nl
 https://www.denhaag.nl

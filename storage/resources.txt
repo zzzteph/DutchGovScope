@@ -106,8 +106,11 @@ _dmarc.rijksoverheid.nl
 _dmarc.vijfheerenlanden.nl
 _dmarc.zoeterwoude.nl
 _sipfederationtls._tcp.raalte.nl
+a-cms.defensie.nl
 a-cms.rijksoverheid.nl
+a-cms1.defensie.nl
 a-cms1.rijksoverheid.nl
+a-cms2.defensie.nl
 a-cms2.rijksoverheid.nl
 a-consent.sarphati.amsterdam.nl
 a-digikoppeling.amersfoort.nl
@@ -119,6 +122,7 @@ a-english.cbg-meb.nl
 a-english.cbgjaarverslag.nl
 a-english.ctgb.nl
 a-english.ctivd.nl
+a-english.defensie.nl
 a-english.igj.nl
 a-feeds.a-english.aivd.nl
 a-feeds.a-english.autoriteitnvs.nl
@@ -126,6 +130,7 @@ a-feeds.a-english.bigregister.nl
 a-feeds.a-english.cbg-meb.nl
 a-feeds.a-english.ctgb.nl
 a-feeds.a-english.ctivd.nl
+a-feeds.a-english.defensie.nl
 a-feeds.a-english.igj.nl
 a-feeds.agroberichtenbuitenland.nl
 a-feeds.aivd.nl
@@ -141,10 +146,12 @@ a-feeds.communicatierijk.nl
 a-feeds.ctgb.nl
 a-feeds.ctivd.nl
 a-feeds.cultuursubsidie.nl
+a-feeds.defensie.nl
 a-feeds.igj.nl
 a-feeds.rijksoverheid.nl
 a-git.rijksoverheid.nl
 a-jira.rijksoverheid.nl
+a-magazines.defensie.nl
 a-magazines.igj.nl
 a-magazines.rijksoverheid.nl
 a-magazinesintern.rijksoverheid.nl
@@ -154,6 +161,7 @@ a-opendata.a-english.bigregister.nl
 a-opendata.a-english.cbg-meb.nl
 a-opendata.a-english.ctgb.nl
 a-opendata.a-english.ctivd.nl
+a-opendata.a-english.defensie.nl
 a-opendata.a-english.igj.nl
 a-opendata.agroberichtenbuitenland.nl
 a-opendata.aivd.nl
@@ -169,6 +177,7 @@ a-opendata.communicatierijk.nl
 a-opendata.ctgb.nl
 a-opendata.ctivd.nl
 a-opendata.cultuursubsidie.nl
+a-opendata.defensie.nl
 a-opendata.igj.nl
 a-opendata.rijksoverheid.nl
 a-p-ddi-0003.leeuwarden.nl
@@ -176,7 +185,9 @@ a-p-ddi-0010.leeuwarden.nl
 a-persberichten.rijksoverheid.nl
 a-planonmca.leeuwarden.nl
 a-servicedesk.rijksoverheid.nl
+a-site1.defensie.nl
 a-site1.rijksoverheid.nl
+a-site2.defensie.nl
 a-site2.rijksoverheid.nl
 a-static.rijksoverheid.nl
 a-surveys3.ggd.amsterdam.nl
@@ -199,6 +210,7 @@ a-www.communicatierijk.nl
 a-www.ctgb.nl
 a-www.ctivd.nl
 a-www.cultuursubsidie.nl
+a-www.defensie.nl
 a-www.igj.nl
 a-www.rijksoverheid.nl
 a2b-rtr.alkmaar.nl
@@ -3348,6 +3360,7 @@ cms-intranet.eemsdelta.nl
 cms-joost.beuningen.nl
 cms.alphenaandenrijn.nl
 cms.bernheze.org
+cms.defensie.nl
 cms.dordrecht.nl
 cms.gemeentewestland.nl
 cms.openstad.deventer.nl
@@ -3356,9 +3369,12 @@ cms.rijksoverheid.nl
 cms.rotterdam.nl
 cms.sittard-geleen.nl
 cms.zaanstad.nl
+cms1.defensie.nl
 cms1.rijksoverheid.nl
+cms2.defensie.nl
 cms2.rijksoverheid.nl
 cmsbink.beverwijk.nl
+cmsdev.defensie.nl
 cmsdev.rijksoverheid.nl
 cmsdieuwke.defryskemarren.nl
 cmsdok.dronten.nl
@@ -3435,6 +3451,7 @@ cmssocialintranet.middendelfland.nl
 cmstest-insite.nijmegen.nl
 cmstestintranet.westerwolde.nl
 cmsurknet.urk.nl
+cmsvpn.defensie.nl
 cmswhatsepe.epe.nl
 cmszaanzoeker.zaanstad.nl
 cnoops.gemeentemaasgouw.nl
@@ -3939,6 +3956,7 @@ decoswonen.acc.amsterdam.nl
 decoswonen.amsterdam.nl
 decreg-acc.overheid.nl
 deelscooters.doemee.bloemendaal.nl
+defensie.nl
 defryskemarren.nl
 delft.nl
 delfzijl.groningen.nl
@@ -5099,6 +5117,7 @@ edison.rotterdam.nl
 edison.utrecht.nl
 editor-drp-preprd.overheid.nl
 editor-drp.overheid.nl
+editorial.defensie.nl
 educatieffestival.denhaag.nl
 eemnes.nl
 eemsdelta.groningen.nl
@@ -5273,6 +5292,7 @@ english.ctgb.nl
 english.ctivd.nl
 english.ctpveldzicht.nl
 english.cultureelerfgoed.nl
+english.defensie.nl
 english.eindhoven.nl
 english.igj.nl
 enkhuizen.nl
@@ -5619,6 +5639,7 @@ feeds.cybersecuritycouncil.nl
 feeds.cybersecurityraad.nl
 feeds.datavoorgezondheid.nl
 feeds.dcc-ienw.nl
+feeds.defensie.nl
 feeds.english.aivd.nl
 feeds.english.autoriteitnvs.nl
 feeds.english.belastingdienst-cn.nl
@@ -5628,6 +5649,7 @@ feeds.english.ccmo.nl
 feeds.english.ctgb.nl
 feeds.english.ctivd.nl
 feeds.english.cultureelerfgoed.nl
+feeds.english.defensie.nl
 feeds.english.igj.nl
 feeds.igj.nl
 feeds.nieuwsbrievenminocw.nl
@@ -6814,6 +6836,7 @@ gvzdigikoppeling.acc.amsterdam.nl
 gvzdigikoppeling.amsterdam.nl
 gvzdigikoppeling.landsmeer.nl
 gw-test.nijmegen.nl
+gw.defensie.nl
 gw.rijksoverheid.nl
 gw.servers1.bergen-nh.nl
 gwm-orawls-01.middendelfland.nl
@@ -7038,13 +7061,17 @@ hybrid2.montfoort.nl
 hybrid2.zuidplas.nl
 hybridexo.haarlem.nl
 hybridmail.amersfoort.nl
+i-cms.defensie.nl
 i-cms.rijksoverheid.nl
+i-cms1.defensie.nl
 i-cms1.rijksoverheid.nl
 i-magazinesintern.rijksoverheid.nl
 i-opendata.rijksoverheid.nl
 i-persberichten.rijksoverheid.nl
+i-site1.defensie.nl
 i-site1.rijksoverheid.nl
 i-voor1.rijksoverheid.nl
+i-www.defensie.nl
 i-www.rijksoverheid.nl
 iah.acc.belastingdienst.nl
 iah.belastingdienst.nl
@@ -8880,6 +8907,7 @@ magazines.algemenebestuursdienst.nl
 magazines.amsterdam.nl
 magazines.cultureelerfgoed.nl
 magazines.cybersecurityraad.nl
+magazines.defensie.nl
 magazines.gooisemeren.nl
 magazines.horstaandemaas.nl
 magazines.igj.nl
@@ -9987,6 +10015,7 @@ mozardtest.vlieland.nl
 mp1.s-hertogenbosch.nl
 mpinajaar.haarlemmermeer.nl
 mpivoorjaar.haarlemmermeer.nl
+mrt.defensie.nl
 msm.almelo.nl
 msnp-tegemoetkoming.acc.belastingdienst.nl
 msnp-tegemoetkoming.belastingdienst.nl
@@ -10202,6 +10231,7 @@ nieuwzaansklimaat.zaanstad.nl
 nige.denhaag.nl
 nijkerk.eu
 nijmegen.nl
+nimh-beeldbank.defensie.nl
 nimmaleert.nijmegen.nl
 nip.brummen.nl
 niptest.brummen.nl
@@ -10315,13 +10345,17 @@ nwk-djm02.nieuwkoop.nl
 nwro.velsen.nl
 nwro.voerendaal.nl
 nwro2.velsen.nl
+o-cms.defensie.nl
+o-cms1.defensie.nl
 o-cms1.rijksoverheid.nl
 o-magazinesintern.rijksoverheid.nl
 o-opendata.rijksoverheid.nl
 o-persberichten.rijksoverheid.nl
+o-site1.defensie.nl
 o-site1.rijksoverheid.nl
 o-static.rijksoverheid.nl
 o-voor1.rijksoverheid.nl
+o-www.defensie.nl
 o-www.rijksoverheid.nl
 o1.afspraak.leiden.nl
 o1.ptr1802.bodegraven-reeuwijk.nl
@@ -10761,6 +10795,7 @@ opendata.cybersecuritycouncil.nl
 opendata.cybersecurityraad.nl
 opendata.datavoorgezondheid.nl
 opendata.dcc-ienw.nl
+opendata.defensie.nl
 opendata.english.aivd.nl
 opendata.english.autoriteitnvs.nl
 opendata.english.belastingdienst-cn.nl
@@ -10770,6 +10805,7 @@ opendata.english.ccmo.nl
 opendata.english.ctgb.nl
 opendata.english.ctivd.nl
 opendata.english.cultureelerfgoed.nl
+opendata.english.defensie.nl
 opendata.english.igj.nl
 opendata.heemstede.nl
 opendata.igj.nl
@@ -13290,9 +13326,13 @@ sis.brabant.nl
 sisa.rotterdam.nl
 site.dijkenwaard.nl
 site.tilburg.nl
+site1.defensie.nl
 site1.rijksoverheid.nl
+site2.defensie.nl
 site2.rijksoverheid.nl
+site3.defensie.nl
 site3.rijksoverheid.nl
+site4.defensie.nl
 site4.rijksoverheid.nl
 site5.rijksoverheid.nl
 site6.rijksoverheid.nl
@@ -13609,6 +13649,7 @@ ssdacc.drimmelen.nl
 ssdtest.brunssum.nl
 ssdtest.landgraaf.nl
 ssl-vpn.brabant.nl
+ssl.defensie.nl
 ssl.roermond.nl
 sslvpn.arnhem.nl
 sslvpn.denhaag.nl
@@ -14009,17 +14050,21 @@ sync01.iba.amsterdam.nl
 sync01.oa.amsterdam.nl
 szc.velsen.nl
 szc.zutphen.nl
+t-cms.defensie.nl
 t-cms.rijksoverheid.nl
+t-cms1.defensie.nl
 t-cms1.rijksoverheid.nl
 t-diel.nl
 t-eforms.utrecht.nl
 t-feeds.rijksoverheid.nl
 t-magazines.rijksoverheid.nl
 t-opendata.rijksoverheid.nl
+t-site1.defensie.nl
 t-site1.rijksoverheid.nl
 t-static.rijksoverheid.nl
 t-test.belastingdienst.nl
 t-voor1.rijksoverheid.nl
+t-www.defensie.nl
 t-www.rijksoverheid.nl
 t.cultureelerfgoed.nl
 t1.data.amsterdam.nl
@@ -16395,6 +16440,7 @@ www.datavoorgezondheid.nl
 www.dcc-ienw.nl
 www.de.gemert-bakel.nl
 www.debilt.nl
+www.defensie.nl
 www.defryskemarren.nl
 www.delft.nl
 www.delfzijl.groningen.nl
