@@ -1206,6 +1206,7 @@ feeds.inspectie-oe.nl
 feeds.inspectiebtd.nl
 feeds.investeringsimpulsspv.nl
 feeds.iob-evaluatie.nl
+feeds.it-academieoverheid.nl
 feeds.nieuwsbrievenminocw.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.persberichten.rijksoverheid.nl
@@ -1561,6 +1562,7 @@ intrekkingsportaal.digipoort.logius.nl
 intrekkingsportaal.preproductie.digipoort.logius.nl
 iob-evaluatie.nl
 isamproxyont.ont.belastingdienst.nl
+it-academieoverheid.nl
 itp-acc.ilent.nl
 itp.ilent.nl
 jaarverslag2017.flevoland.nl
@@ -1619,6 +1621,7 @@ le-webservices-beta.belastingdienst.nl
 le-webservices.belastingdienst.nl
 leereco.acc.belastingdienst.nl
 leereco.belastingdienst.nl
+leerplatform.it-academieoverheid.nl
 legacy.flevoland.nl
 leiderschap.belastingdienst.nl
 leiderschapp.belastingdienst.nl
@@ -2118,6 +2121,7 @@ opendata.inspectie-oe.nl
 opendata.inspectiebtd.nl
 opendata.investeringsimpulsspv.nl
 opendata.iob-evaluatie.nl
+opendata.it-academieoverheid.nl
 opendata.nieuwsbrievenminocw.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.persberichten.rijksoverheid.nl
@@ -3140,6 +3144,7 @@ www.intpatch.omgevingswet.overheid.nl
 www.investeringsimpulsspv.nl
 www.iob-evaluatie.nl
 www.iplo.nl
+www.it-academieoverheid.nl
 www.jaarverslag2018.flevoland.nl
 www.kaarten.brabant.nl
 www.logius.nl

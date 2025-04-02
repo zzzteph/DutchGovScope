@@ -3815,6 +3815,7 @@ https://feeds.inspectie-oe.nl
 https://feeds.inspectiebtd.nl
 https://feeds.investeringsimpulsspv.nl
 https://feeds.iob-evaluatie.nl
+https://feeds.it-academieoverheid.nl
 https://feeds.nieuwsbrievenminocw.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.persberichten.rijksoverheid.nl
@@ -5033,6 +5034,7 @@ https://isis-a.rotterdam.nl
 https://isis.rotterdam.nl
 https://isms-acc.denhaag.nl
 https://isms.denhaag.nl
+https://it-academieoverheid.nl
 https://ivor.veenendaal.nl
 https://izaaksuite.bergenopzoom.nl
 https://izrm.huizen.nl
@@ -5322,6 +5324,7 @@ https://leerlingenvervoer.rotterdam.nl
 https://leerlingzaken.denhaag.nl
 https://leeromgeving-mijnleno-a.amsterdam.nl
 https://leeromgeving-mijnleno.amsterdam.nl
+https://leerplatform.it-academieoverheid.nl
 https://leerplein.arnhem.nl
 https://leerplein.oirschot.nl
 https://leerpleinburgerzaken.amsterdam.nl
@@ -6677,6 +6680,7 @@ https://opendata.inspectie-oe.nl
 https://opendata.inspectiebtd.nl
 https://opendata.investeringsimpulsspv.nl
 https://opendata.iob-evaluatie.nl
+https://opendata.it-academieoverheid.nl
 https://opendata.nieuwsbrievenminocw.nl
 https://opendata.nijmegen.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
@@ -9735,6 +9739,7 @@ https://www.intranet.oegstgeest.nl
 https://www.investeringsimpulsspv.nl
 https://www.iob-evaluatie.nl
 https://www.iplo.nl
+https://www.it-academieoverheid.nl
 https://www.jaarverslag2018.flevoland.nl
 https://www.janvanzanen-acc.denhaag.nl
 https://www.janvanzanen.denhaag.nl

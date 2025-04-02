@@ -5939,6 +5939,7 @@ feeds.inspectie-oe.nl
 feeds.inspectiebtd.nl
 feeds.investeringsimpulsspv.nl
 feeds.iob-evaluatie.nl
+feeds.it-academieoverheid.nl
 feeds.nieuwsbrievenminocw.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.persberichten.rijksoverheid.nl
@@ -8395,6 +8396,7 @@ isis-a.rotterdam.nl
 isis.rotterdam.nl
 isms-acc.denhaag.nl
 isms.denhaag.nl
+it-academieoverheid.nl
 itp-acc.ilent.nl
 itp.ilent.nl
 itstore.kaagenbraassem.nl
@@ -8929,6 +8931,7 @@ leerlingenvervoer.rotterdam.nl
 leerlingzaken.denhaag.nl
 leeromgeving-mijnleno-a.amsterdam.nl
 leeromgeving-mijnleno.amsterdam.nl
+leerplatform.it-academieoverheid.nl
 leerplein.arnhem.nl
 leerplein.oirschot.nl
 leerpleinburgerzaken.amsterdam.nl
@@ -11328,6 +11331,7 @@ opendata.inspectie-oe.nl
 opendata.inspectiebtd.nl
 opendata.investeringsimpulsspv.nl
 opendata.iob-evaluatie.nl
+opendata.it-academieoverheid.nl
 opendata.nieuwsbrievenminocw.nl
 opendata.nijmegen.nl
 opendata.papiamentu.belastingdienst-cn.nl
@@ -17477,6 +17481,7 @@ www.iob-evaluatie.nl
 www.iobjecten-acc.kaagenbraassem.nl
 www.iobjects.weststellingwerf.nl
 www.iplo.nl
+www.it-academieoverheid.nl
 www.itstore.kaagenbraassem.nl
 www.jaarverslag2018.flevoland.nl
 www.janvanzanen-acc.denhaag.nl

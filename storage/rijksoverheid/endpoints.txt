@@ -695,6 +695,7 @@ https://feeds.inspectie-oe.nl
 https://feeds.inspectiebtd.nl
 https://feeds.investeringsimpulsspv.nl
 https://feeds.iob-evaluatie.nl
+https://feeds.it-academieoverheid.nl
 https://feeds.nieuwsbrievenminocw.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.persberichten.rijksoverheid.nl
@@ -837,6 +838,7 @@ https://intranet.cultureelerfgoed.nl
 https://intranet.dji.nl
 https://intranet.flevoland.nl
 https://iob-evaluatie.nl
+https://it-academieoverheid.nl
 https://jaarverslag2017.flevoland.nl
 https://jaarverslag2018.flevoland.nl
 https://jip.inspectie-jenv.nl
@@ -861,6 +863,7 @@ https://koppelvlak.overheid.nl
 https://kwaliteitsdashboard-koop.overheid.nl
 https://le-webservices-beta.belastingdienst.nl
 https://le-webservices.belastingdienst.nl
+https://leerplatform.it-academieoverheid.nl
 https://lil.cultureelerfgoed.nl
 https://linkeddata.cultureelerfgoed.nl
 https://linkeddata.overheid.nl
@@ -1132,6 +1135,7 @@ https://opendata.inspectie-oe.nl
 https://opendata.inspectiebtd.nl
 https://opendata.investeringsimpulsspv.nl
 https://opendata.iob-evaluatie.nl
+https://opendata.it-academieoverheid.nl
 https://opendata.nieuwsbrievenminocw.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.persberichten.rijksoverheid.nl
@@ -1628,6 +1632,7 @@ https://www.intpatch.omgevingswet.overheid.nl
 https://www.investeringsimpulsspv.nl
 https://www.iob-evaluatie.nl
 https://www.iplo.nl
+https://www.it-academieoverheid.nl
 https://www.jaarverslag2018.flevoland.nl
 https://www.logius.nl
 https://www.metelkaartrekkenwedegrens.nl
