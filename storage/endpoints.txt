@@ -2332,6 +2332,7 @@ https://checkjeprijs.huurcommissie.nl
 https://checklist.rotterdam.nl
 https://cher.emissieautoriteit.nl
 https://chw.aandeslagmetdeomgevingswet.nl
+https://chw.iplo.nl
 https://cia.acp.ondernemersplein.overheid.nl
 https://cia.ondernemersplein.overheid.nl
 https://cia.staging.ondernemersplein.overheid.nl
@@ -3873,6 +3874,7 @@ https://filecap.nunspeet.nl
 https://filecap.rozendaal.nl
 https://filecap.wierden.nl
 https://filecapacc.breda.nl
+https://files.iplo.nl
 https://filesender.ctgb.nl
 https://fileshare.adds.amsterdam.nl
 https://fileshare.amsterdam.nl
@@ -3972,6 +3974,7 @@ https://forms-test.druten.nl
 https://forms-test.wijchen.nl
 https://forms.deventer.nl
 https://forms.druten.nl
+https://forms.iplo.nl
 https://forms.klopt.cibg.nl
 https://forms.vga.amsterdam.nl
 https://forms.wijchen.nl
@@ -7500,6 +7503,7 @@ https://rdweb.houten.nl
 https://rdweb01.schagen.nl
 https://reclame.nijmegen.nl
 https://redactie-extern.denhaag.nl
+https://redactie-tl.iplo.nl
 https://redactie.amersfoort.nl
 https://redactie.antwoord.amsterdam.nl
 https://redactie.hdsr.nl
@@ -8563,6 +8567,7 @@ https://tim-app.veere.nl
 https://tim.maassluis.nl
 https://tim.woensdrecht.nl
 https://timetell.rijssen-holten.nl
+https://tl.iplo.nl
 https://tloket.oostzaan.nl
 https://tloket.wormerland.nl
 https://tma.acc.amsterdam.nl
@@ -9729,6 +9734,7 @@ https://www.intranet.kampen.nl
 https://www.intranet.oegstgeest.nl
 https://www.investeringsimpulsspv.nl
 https://www.iob-evaluatie.nl
+https://www.iplo.nl
 https://www.jaarverslag2018.flevoland.nl
 https://www.janvanzanen-acc.denhaag.nl
 https://www.janvanzanen.denhaag.nl

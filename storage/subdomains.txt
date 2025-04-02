@@ -356,6 +356,7 @@ mijnloket
 geoservices
 prod
 nhr
+forms
 geotest
 midoffice
 participatie
@@ -433,7 +434,6 @@ qmanage
 veiligmailen
 loket-acc
 burgerloket.acceptatie
-forms
 loket.test
 www.acceptatie
 secure-test
@@ -840,6 +840,7 @@ verkeersbesluiten
 lync
 oa
 vpn2
+chw
 bezwaar
 feedback
 acceptatie.behandel
@@ -2792,7 +2793,6 @@ gisservicesacc
 wachtwoordwijzigen
 webgis
 webgisacc
-chw
 wms
 eavgb-acc
 eavgb
@@ -3286,6 +3286,9 @@ staging.meldingen
 stc
 wio
 meldpuntwki
+files
+redactie-tl
+tl
 email.mail.participatie
 mail.participatie
 aalten-checker-preprod

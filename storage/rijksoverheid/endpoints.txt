@@ -332,6 +332,7 @@ https://chatapi.klopt.cibg.nl
 https://checkjeprijs.huurcommissie.nl
 https://cher.emissieautoriteit.nl
 https://chw.aandeslagmetdeomgevingswet.nl
+https://chw.iplo.nl
 https://cia.acp.ondernemersplein.overheid.nl
 https://cia.ondernemersplein.overheid.nl
 https://cia.staging.ondernemersplein.overheid.nl
@@ -705,6 +706,7 @@ https://fibe1.belastingdienst.nl
 https://fibi1.belastingdienst.nl
 https://fibt1.toeslagen.nl
 https://fibz1.belastingdienst.nl
+https://files.iplo.nl
 https://filesender.ctgb.nl
 https://filetransfer.belastingdienst.nl
 https://filetransfer.ont.belastingdienst.nl
@@ -715,6 +717,7 @@ https://fmis.belastingdienst.nl
 https://forensicinstitute.nl
 https://forensischezorg.nl
 https://forensischinstituut.nl
+https://forms.iplo.nl
 https://forms.klopt.cibg.nl
 https://formulier.cultureelerfgoed.nl
 https://formulier.emissieautoriteit.nl
@@ -1222,6 +1225,7 @@ https://raadplegen.donorregister.nl
 https://rcgog.nl
 https://rd1.toegang.overheid.nl
 https://rd2.toegang.overheid.nl
+https://redactie-tl.iplo.nl
 https://redactie.hdsr.nl
 https://regelgeving.omgevingswet.overheid.nl
 https://regelgeving.pre.omgevingswet.overheid.nl
@@ -1372,6 +1376,7 @@ https://testmonitorwonen.flevoland.nl
 https://testsite.ceg.nl
 https://teverantwoordenregelingen.rijksoverheid.nl
 https://thesaurus.cultureelerfgoed.nl
+https://tl.iplo.nl
 https://tmv.cibg.nl
 https://toelatingen.ctgb.nl
 https://toepasbare-regels.omgevingswet.overheid.nl
@@ -1622,6 +1627,7 @@ https://www.integratie02.omgevingswet.overheid.nl
 https://www.intpatch.omgevingswet.overheid.nl
 https://www.investeringsimpulsspv.nl
 https://www.iob-evaluatie.nl
+https://www.iplo.nl
 https://www.jaarverslag2018.flevoland.nl
 https://www.logius.nl
 https://www.metelkaartrekkenwedegrens.nl
