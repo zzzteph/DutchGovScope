@@ -5945,6 +5945,7 @@ feeds.iob-evaluatie.nl
 feeds.it-academieoverheid.nl
 feeds.jaarverantwoordingzorg.nl
 feeds.jenvgegevens.nl
+feeds.jeugdautoriteit.nl
 feeds.nieuwsbrievenminocw.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.persberichten.rijksoverheid.nl
@@ -8492,6 +8493,7 @@ jcccloud.kapelle.nl
 jcccloud.noord-beveland.nl
 jcccloud.reimerswaal.nl
 jcctest.bergenopzoom.nl
+jeugdautoriteit.nl
 jeugdengezin.amsterdam.nl
 jeugdhulp.lansingerland.nl
 jeugdombudsman-acc.denhaag.nl
@@ -9322,6 +9324,7 @@ magazines.igj.nl
 magazines.ilent.nl
 magazines.informatiehuishouding.nl
 magazines.inspectie-jenv.nl
+magazines.jeugdautoriteit.nl
 magazines.rijksoverheid.nl
 magazines.rotterdam.nl
 magazines.werkenvoornederland.nl
@@ -11341,6 +11344,7 @@ opendata.iob-evaluatie.nl
 opendata.it-academieoverheid.nl
 opendata.jaarverantwoordingzorg.nl
 opendata.jenvgegevens.nl
+opendata.jeugdautoriteit.nl
 opendata.nieuwsbrievenminocw.nl
 opendata.nijmegen.nl
 opendata.papiamentu.belastingdienst-cn.nl
@@ -17500,6 +17504,7 @@ www.jcc.overbetuwe.nl
 www.jcc.sudwestfryslan.nl
 www.jccbetalen.haarlemmermeer.nl
 www.jenvgegevens.nl
+www.jeugdautoriteit.nl
 www.jijmaaktdebuurt.openstad.enschede.nl
 www.jongerenloket.zaanstad.nl
 www.jongin.doetinchem.nl

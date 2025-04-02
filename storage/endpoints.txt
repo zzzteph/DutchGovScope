@@ -3818,6 +3818,7 @@ https://feeds.iob-evaluatie.nl
 https://feeds.it-academieoverheid.nl
 https://feeds.jaarverantwoordingzorg.nl
 https://feeds.jenvgegevens.nl
+https://feeds.jeugdautoriteit.nl
 https://feeds.nieuwsbrievenminocw.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.persberichten.rijksoverheid.nl
@@ -5088,6 +5089,7 @@ https://jcccloud.borsele.nl
 https://jcccloud.kapelle.nl
 https://jcccloud.noord-beveland.nl
 https://jcccloud.reimerswaal.nl
+https://jeugdautoriteit.nl
 https://jeugdhulp.lansingerland.nl
 https://jeugdombudsman-acc.denhaag.nl
 https://jeugdombudsman.denhaag.nl
@@ -5533,6 +5535,7 @@ https://magazines.government.nl
 https://magazines.igj.nl
 https://magazines.ilent.nl
 https://magazines.informatiehuishouding.nl
+https://magazines.jeugdautoriteit.nl
 https://magazines.rijksoverheid.nl
 https://magazines.rotterdam.nl
 https://magazines.werkenvoornederland.nl
@@ -6687,6 +6690,7 @@ https://opendata.iob-evaluatie.nl
 https://opendata.it-academieoverheid.nl
 https://opendata.jaarverantwoordingzorg.nl
 https://opendata.jenvgegevens.nl
+https://opendata.jeugdautoriteit.nl
 https://opendata.nieuwsbrievenminocw.nl
 https://opendata.nijmegen.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
@@ -9751,6 +9755,7 @@ https://www.jaarverslag2018.flevoland.nl
 https://www.janvanzanen-acc.denhaag.nl
 https://www.janvanzanen.denhaag.nl
 https://www.jenvgegevens.nl
+https://www.jeugdautoriteit.nl
 https://www.jijmaaktdebuurt.openstad.enschede.nl
 https://www.jongerenloket.zaanstad.nl
 https://www.jouwgrotemarkt.groningen.nl

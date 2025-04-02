@@ -698,6 +698,7 @@ https://feeds.iob-evaluatie.nl
 https://feeds.it-academieoverheid.nl
 https://feeds.jaarverantwoordingzorg.nl
 https://feeds.jenvgegevens.nl
+https://feeds.jeugdautoriteit.nl
 https://feeds.nieuwsbrievenminocw.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.persberichten.rijksoverheid.nl
@@ -844,6 +845,7 @@ https://it-academieoverheid.nl
 https://jaarverantwoordingzorg.nl
 https://jaarverslag2017.flevoland.nl
 https://jaarverslag2018.flevoland.nl
+https://jeugdautoriteit.nl
 https://jip.inspectie-jenv.nl
 https://jobs.werkenvoornederland.nl
 https://kaart.flevoland.nl
@@ -902,6 +904,7 @@ https://magazines.government.nl
 https://magazines.igj.nl
 https://magazines.ilent.nl
 https://magazines.informatiehuishouding.nl
+https://magazines.jeugdautoriteit.nl
 https://magazines.rijksoverheid.nl
 https://magazines.werkenvoornederland.nl
 https://magazinesintern.rijksoverheid.nl
@@ -1142,6 +1145,7 @@ https://opendata.iob-evaluatie.nl
 https://opendata.it-academieoverheid.nl
 https://opendata.jaarverantwoordingzorg.nl
 https://opendata.jenvgegevens.nl
+https://opendata.jeugdautoriteit.nl
 https://opendata.nieuwsbrievenminocw.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.persberichten.rijksoverheid.nl
@@ -1642,6 +1646,7 @@ https://www.it-academieoverheid.nl
 https://www.jaarverantwoordingzorg.nl
 https://www.jaarverslag2018.flevoland.nl
 https://www.jenvgegevens.nl
+https://www.jeugdautoriteit.nl
 https://www.logius.nl
 https://www.metelkaartrekkenwedegrens.nl
 https://www.mijn.dus-i.nl

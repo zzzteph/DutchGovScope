@@ -1212,6 +1212,7 @@ feeds.iob-evaluatie.nl
 feeds.it-academieoverheid.nl
 feeds.jaarverantwoordingzorg.nl
 feeds.jenvgegevens.nl
+feeds.jeugdautoriteit.nl
 feeds.nieuwsbrievenminocw.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.persberichten.rijksoverheid.nl
@@ -1573,6 +1574,7 @@ itp.ilent.nl
 jaarverantwoordingzorg.nl
 jaarverslag2017.flevoland.nl
 jaarverslag2018.flevoland.nl
+jeugdautoriteit.nl
 jip.inspectie-jenv.nl
 jira.rijksoverheid.nl
 jobs.werkenvoornederland.nl
@@ -1686,6 +1688,7 @@ magazines.igj.nl
 magazines.ilent.nl
 magazines.informatiehuishouding.nl
 magazines.inspectie-jenv.nl
+magazines.jeugdautoriteit.nl
 magazines.rijksoverheid.nl
 magazines.werkenvoornederland.nl
 magazinesintern.rijksoverheid.nl
@@ -2131,6 +2134,7 @@ opendata.iob-evaluatie.nl
 opendata.it-academieoverheid.nl
 opendata.jaarverantwoordingzorg.nl
 opendata.jenvgegevens.nl
+opendata.jeugdautoriteit.nl
 opendata.nieuwsbrievenminocw.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.persberichten.rijksoverheid.nl
@@ -3157,6 +3161,7 @@ www.it-academieoverheid.nl
 www.jaarverantwoordingzorg.nl
 www.jaarverslag2018.flevoland.nl
 www.jenvgegevens.nl
+www.jeugdautoriteit.nl
 www.kaarten.brabant.nl
 www.logius.nl
 www.mail.bureauwsnp.nl

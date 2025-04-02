@@ -84,12 +84,12 @@ kaarten
 zaken
 connect
 cloudadapter
+magazines
 portaal
 cmsintranet
 test-intranet
 berichten
 parkeren-acc
-magazines
 govroam
 digikoppeling.test
 mks
