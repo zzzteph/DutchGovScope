@@ -5851,6 +5851,7 @@ feeds.goudenpiramide.nl
 feeds.gouverneuraruba.com
 feeds.government.nl
 feeds.grenzeloossamenwerken.nl
+feeds.groeiennaarmorgen.nl
 feeds.igj.nl
 feeds.nieuwsbrievenminocw.nl
 feeds.papiamentu.belastingdienst-cn.nl
@@ -11143,6 +11144,7 @@ opendata.goudenpiramide.nl
 opendata.gouverneuraruba.com
 opendata.government.nl
 opendata.grenzeloossamenwerken.nl
+opendata.groeiennaarmorgen.nl
 opendata.heemstede.nl
 opendata.igj.nl
 opendata.nieuwsbrievenminocw.nl
@@ -17099,6 +17101,7 @@ www.gpi.amsterdam.nl
 www.grenzeloossamenwerken.nl
 www.grnlm035.groningen.nl
 www.grnwi520.groningen.nl
+www.groeiennaarmorgen.nl
 www.groene-daken.amsterdam.nl
 www.groenervijfhuizen.haarlemmermeer.nl
 www.groningen.nl

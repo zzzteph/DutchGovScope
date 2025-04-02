@@ -3767,6 +3767,7 @@ https://feeds.goudenpiramide.nl
 https://feeds.gouverneuraruba.com
 https://feeds.government.nl
 https://feeds.grenzeloossamenwerken.nl
+https://feeds.groeiennaarmorgen.nl
 https://feeds.igj.nl
 https://feeds.nieuwsbrievenminocw.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
@@ -6558,6 +6559,7 @@ https://opendata.goudenpiramide.nl
 https://opendata.gouverneuraruba.com
 https://opendata.government.nl
 https://opendata.grenzeloossamenwerken.nl
+https://opendata.groeiennaarmorgen.nl
 https://opendata.heemstede.nl
 https://opendata.igj.nl
 https://opendata.nieuwsbrievenminocw.nl
@@ -9503,6 +9505,7 @@ https://www.goudenpiramide.nl
 https://www.gouverneuraruba.com
 https://www.government.nl
 https://www.grenzeloossamenwerken.nl
+https://www.groeiennaarmorgen.nl
 https://www.groenervijfhuizen.haarlemmermeer.nl
 https://www.groningen.nl
 https://www.gulpen-wittem.nl

@@ -6,8 +6,8 @@ ibzpink
 edienstenburgerzaken
 edienstenburgerzaken-test
 intranet
-mijn
 opendata
+mijn
 mail
 webmail
 feeds
