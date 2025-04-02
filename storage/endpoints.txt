@@ -3753,6 +3753,7 @@ https://feeds.fmhaaglanden.nl
 https://feeds.forensicinstitute.nl
 https://feeds.forensischezorg.nl
 https://feeds.forensischinstituut.nl
+https://feeds.gelijke-kansen.nl
 https://feeds.igj.nl
 https://feeds.nieuwsbrievenminocw.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
@@ -4060,6 +4061,7 @@ https://gegevensuitwisseling.belastingdienst.nl
 https://gegevensuitwisselingsysteem.rotterdam.nl
 https://geldloket.emmen.nl
 https://geldwijzer.zaanstad.nl
+https://gelijke-kansen.nl
 https://gelukkignieuwjaar.zwolle.nl
 https://gemeente-oldambt.nl
 https://gemeente-steenbergen.nl
@@ -6521,6 +6523,7 @@ https://opendata.fmhaaglanden.nl
 https://opendata.forensicinstitute.nl
 https://opendata.forensischezorg.nl
 https://opendata.forensischinstituut.nl
+https://opendata.gelijke-kansen.nl
 https://opendata.heemstede.nl
 https://opendata.igj.nl
 https://opendata.nieuwsbrievenminocw.nl
@@ -9413,6 +9416,7 @@ https://www.gebouwdin.amsterdam.nl
 https://www.geertruidenberg.nl
 https://www.geldloket.emmen.nl
 https://www.geldrop-mierlo.nl
+https://www.gelijke-kansen.nl
 https://www.gelukkignieuwjaar.zwolle.nl
 https://www.gemeente-oldambt.nl
 https://www.gemeente-steenbergen.nl

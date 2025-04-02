@@ -12,8 +12,8 @@ webmail
 opendata
 simsite
 afspraken
-digikoppeling
 feeds
+digikoppeling
 preproductie
 simcms
 secure
