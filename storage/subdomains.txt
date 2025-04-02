@@ -7,8 +7,8 @@ edienstenburgerzaken
 edienstenburgerzaken-test
 intranet
 mijn
-mail
 opendata
+mail
 webmail
 feeds
 simsite

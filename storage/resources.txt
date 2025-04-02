@@ -5850,6 +5850,7 @@ feeds.gobiernudireino.nl
 feeds.goudenpiramide.nl
 feeds.gouverneuraruba.com
 feeds.government.nl
+feeds.grenzeloossamenwerken.nl
 feeds.igj.nl
 feeds.nieuwsbrievenminocw.nl
 feeds.papiamentu.belastingdienst-cn.nl
@@ -11141,6 +11142,7 @@ opendata.gobiernudireino.nl
 opendata.goudenpiramide.nl
 opendata.gouverneuraruba.com
 opendata.government.nl
+opendata.grenzeloossamenwerken.nl
 opendata.heemstede.nl
 opendata.igj.nl
 opendata.nieuwsbrievenminocw.nl
@@ -17094,6 +17096,7 @@ www.government.nl
 www.govroam.groningen.nl
 www.govroam.sudwestfryslan.nl
 www.gpi.amsterdam.nl
+www.grenzeloossamenwerken.nl
 www.grnlm035.groningen.nl
 www.grnwi520.groningen.nl
 www.groene-daken.amsterdam.nl
