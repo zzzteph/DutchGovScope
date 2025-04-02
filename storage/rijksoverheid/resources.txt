@@ -175,6 +175,7 @@ acc-int.mijn.overheid.nl
 acc-internationaal.ondernemen.overheid.nl
 acc-lrza.services.cibg.nl
 acc-raadplegen.donorregister.nl
+acc-referentiegegevens.justid.nl
 acc-webservice-tdv.igj.nl
 acc.aanbiedersmedicijnen.nl
 acc.adviescollegeveiligheidgroningen.nl
@@ -305,6 +306,7 @@ afval.acc.omgevingswet.overheid.nl
 afval.omgevingswet.overheid.nl
 ag-dcr.cibg.nl
 agroberichtenbuitenland.nl
+ainformatieportaal.justid.nl
 aivd.nl
 alerting.hdsr.nl
 algemenebestuursdienst.nl
@@ -417,6 +419,7 @@ autodiscover.hdsr.nl
 autodiscover.hhdelfland.nl
 autodiscover.huisvoorklokkenluiders.nl
 autodiscover.inspectie-oe.nl
+autodiscover.justid.nl
 autodiscover.koop.overheid.nl
 autodiscover.overheid.nl
 autodiscover.rcgog.nl
@@ -695,6 +698,7 @@ cibg.nl
 cio-acc.overheid.nl
 cio-eto.overheid.nl
 cio.overheid.nl
+ciot.justid.nl
 circulairinkopen.nl
 cjib.huurcommissie.nl
 clienteleitsm-acceptatie.logius.nl
@@ -835,6 +839,7 @@ dfp.domeinenrz.nl
 dggf.nl
 dialin.aaenmaas.nl
 dialin.cbg-meb.nl
+dialin.justid.nl
 dienstterugkeerenvertrek.nl
 diergeneesmiddeleninformatiebank.nl
 digi.ilent.nl
@@ -1032,6 +1037,7 @@ event.acc.belastingdienst.nl
 event.belastingdienst.nl
 event.tst.belastingdienst.nl
 evserver1.flevoland.nl
+ews-external.justid.nl
 examenplein.cvte.nl
 excellentescholen.nl
 exchange.flevoland.nl
@@ -1213,6 +1219,7 @@ feeds.it-academieoverheid.nl
 feeds.jaarverantwoordingzorg.nl
 feeds.jenvgegevens.nl
 feeds.jeugdautoriteit.nl
+feeds.justid.nl
 feeds.nieuwsbrievenminocw.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.persberichten.rijksoverheid.nl
@@ -1438,6 +1445,7 @@ gtmz.str13.acc.belastingdienst.nl
 gtmz.str13.tst.belastingdienst.nl
 gtmz.str14.acc.belastingdienst.nl
 gtmzperf.acc.belastingdienst.nl
+guest.justid.nl
 gvsh2ha.belastingdienst.nl
 gvsh2hb.belastingdienst.nl
 gw.defensie.nl
@@ -1526,6 +1534,7 @@ informatie-acpt.brabant.nl
 informatie-ext.brabant.nl
 informatie-rws.brabant.nl
 informatiehuishouding.nl
+informatieportaal.justid.nl
 informatiepuntkinderopvangtoeslag.rijksoverheid.nl
 inkomen.toeslagen.nl
 inkoopportaal.belastingdienst.nl
@@ -1562,11 +1571,13 @@ intranet.ctgb.nl
 intranet.cultureelerfgoed.nl
 intranet.dji.nl
 intranet.flevoland.nl
+intranet.justid.nl
 intratst.belastingdienst.nl
 intrekkingsportaal.acceptatie.digipoort.logius.nl
 intrekkingsportaal.digipoort.logius.nl
 intrekkingsportaal.preproductie.digipoort.logius.nl
 iob-evaluatie.nl
+iob.justid.nl
 isamproxyont.ont.belastingdienst.nl
 it-academieoverheid.nl
 itp-acc.ilent.nl
@@ -1580,6 +1591,7 @@ jira.rijksoverheid.nl
 jobs.werkenvoornederland.nl
 jong.belastingdienst.nl
 juristen.werkenvoornederland.nl
+justid.nl
 kaart.flevoland.nl
 kaartbank.brabant.nl
 kaarten-demo.overheid.nl
@@ -1670,6 +1682,7 @@ lvbb-tst.overheid.nl
 lync.aaenmaas.nl
 lyncav.vico.dji.nl
 lyncdiscover.aaenmaas.nl
+lyncdiscover.justid.nl
 m.huisvoorklokkenluiders.nl
 m.werkenvoornederland.nl
 m365.ctgb.nl
@@ -1723,6 +1736,7 @@ mailmdm.flevoland.nl
 mailrelay1.overheid.nl
 mailrelay2.overheid.nl
 mam.ctgb.nl
+mam.justid.nl
 managedservices.logius.nl
 manager.klopt.cibg.nl
 maps.aaenmaas.nl
@@ -1736,12 +1750,14 @@ mdm-t.cbg-meb.nl
 mdm.cbg-meb.nl
 mdm.ctgb.nl
 mdm.flevoland.nl
+mdm.justid.nl
 mdmeas.cbg-meb.nl
 mdmvpn-t.cbg-meb.nl
 mdmvpn.cbg-meb.nl
 med-srv20.rijksoverheid.nl
 meepraten.flevoland.nl
 meet.aaenmaas.nl
+meet.justid.nl
 meldingen.atkm.nl
 meldingen.emissieautoriteit.nl
 meldingen.ilent.nl
@@ -2135,6 +2151,7 @@ opendata.it-academieoverheid.nl
 opendata.jaarverantwoordingzorg.nl
 opendata.jenvgegevens.nl
 opendata.jeugdautoriteit.nl
+opendata.justid.nl
 opendata.nieuwsbrievenminocw.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.persberichten.rijksoverheid.nl
@@ -2186,6 +2203,7 @@ over-ons.belastingdienst.nl
 overheid.nl
 ovverklaringen.acc.belastingdienst.nl
 ovverklaringen.belastingdienst.nl
+p-crl.justid.nl
 p285st201.utsjaca01.belastingdienst.nl
 pan.emissieautoriteit.nl
 papiamentu.belastingdienst-cn.nl
@@ -2339,6 +2357,7 @@ rdgateway.awti.nl
 redactie-tl.iplo.nl
 redactie.hdsr.nl
 ref.omgevingswet.overheid.nl
+referentiegegevens.justid.nl
 regelgeving.acc.omgevingswet.overheid.nl
 regelgeving.omgevingswet.overheid.nl
 regelgeving.pre.omgevingswet.overheid.nl
@@ -2427,6 +2446,7 @@ sbopg1scs01.prod.sap.belastingdienst.nl
 scansys.huurcommissie.nl
 schadeherstel.acc.toeslagen.nl
 schadeherstel.toeslagen.nl
+schedule.justid.nl
 scheiden.belastingdienst.nl
 schouw.flevoland.nl
 screenconnect.hhdelfland.nl
@@ -2464,6 +2484,9 @@ services.cultureelerfgoed.nl
 services.ilent.nl
 services1.domeinenrz.nl
 sf.ctgb.nl
+sfbedgepool.justid.nl
+sfbrppool01.justid.nl
+sfbwconf.justid.nl
 sharepoint-acc-ext.belastingdienst.nl
 sharepoint-acc.belastingdienst.nl
 sharepoint-acc.toeslagen.nl
@@ -2481,7 +2504,10 @@ signing.pre.brabant.nl
 sip.aaenmaas.nl
 sip.cbg-meb.nl
 sip.emissieautoriteit.nl
+sip.justid.nl
 sip.vico.dji.nl
+sip001.justid.nl
+sip002.justid.nl
 sipreg.belastingdienst.nl
 sis.brabant.nl
 site1.defensie.nl
@@ -2733,6 +2759,7 @@ toezichtopzorgnetwerken.igj.nl
 torenvalk.brabant.nl
 treatydatabase-acc.overheid.nl
 treatydatabase.overheid.nl
+tst-referentiegegevens.justid.nl
 tst.mijn.overheid.nl
 tst.ondernemersplein.overheid.nl
 tst.subsidie.cultureelerfgoed.nl
@@ -2760,6 +2787,8 @@ uwork.flevoland.nl
 uworktest.flevoland.nl
 uzipas.lir.cibg.nl
 va_do.belastingdienst.nl
+validatie-acc.justid.nl
+validatie.justid.nl
 vault.lpc.logius.nl
 vc.belastingdienst.nl
 vcbewepa02c.kdmz.belastingdienst.nl
@@ -2938,12 +2967,14 @@ webtest10.rijksoverheid.nl
 wegen.brabant.nl
 werken.belastingdienst.nl
 werken.toeslagen.nl
+werkenbij.justid.nl
 werkenbij.toeslagen.nl
 werkenvoor.brabant.nl
 werkenvoornederland.nl
 werkplek.brabant.nl
 werkplek.ctgb.nl
 werkplek.hdsr.nl
+werkplek.justid.nl
 wetgeving.acc.omgevingswet.overheid.nl
 wetgeving.int.omgevingswet.overheid.nl
 wetgeving.omgevingswet.overheid.nl
@@ -3162,6 +3193,7 @@ www.jaarverantwoordingzorg.nl
 www.jaarverslag2018.flevoland.nl
 www.jenvgegevens.nl
 www.jeugdautoriteit.nl
+www.justid.nl
 www.kaarten.brabant.nl
 www.logius.nl
 www.mail.bureauwsnp.nl

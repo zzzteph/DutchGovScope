@@ -67,6 +67,7 @@ http://mail.flevoland.nl
 http://mijn.adr.donorregister.nl
 http://nexus.lpc.logius.nl
 http://ondertekeningsviewer.overheid.nl
+http://p-crl.justid.nl
 http://preprod-machtigen.digipoort.logius.nl
 http://prod.flevoland.nl
 http://publicwebservices-dcr.cibg.nl
@@ -119,6 +120,7 @@ https://acc-dictu.comcms.logius.nl
 https://acc-dictu.kennisbank.logius.nl
 https://acc-dictu.logius.nl
 https://acc-internationaal.ondernemen.overheid.nl
+https://acc-referentiegegevens.justid.nl
 https://acc.adviescollegeveiligheidgroningen.nl
 https://acc.api-gateway.archis.cultureelerfgoed.nl
 https://acc.archis.cultureelerfgoed.nl
@@ -184,6 +186,7 @@ https://afspraak.domeinenrz.nl
 https://afspraken.belastingdienst.nl
 https://afval.omgevingswet.overheid.nl
 https://agroberichtenbuitenland.nl
+https://ainformatieportaal.justid.nl
 https://aivd.nl
 https://algemenebestuursdienst.nl
 https://algoritme.overheid.nl
@@ -699,6 +702,7 @@ https://feeds.it-academieoverheid.nl
 https://feeds.jaarverantwoordingzorg.nl
 https://feeds.jenvgegevens.nl
 https://feeds.jeugdautoriteit.nl
+https://feeds.justid.nl
 https://feeds.nieuwsbrievenminocw.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.persberichten.rijksoverheid.nl
@@ -813,6 +817,7 @@ https://import.organisaties.overheid.nl
 https://incassomachtigen.belastingdienst.nl
 https://infomilcn.com
 https://informatiehuishouding.nl
+https://informatieportaal.justid.nl
 https://informatiepuntkinderopvangtoeslag.rijksoverheid.nl
 https://inloggen-preprod.hhdelfland.nl
 https://inloggen.hhdelfland.nl
@@ -840,7 +845,9 @@ https://intranet.ad.hdsr.nl
 https://intranet.cultureelerfgoed.nl
 https://intranet.dji.nl
 https://intranet.flevoland.nl
+https://intranet.justid.nl
 https://iob-evaluatie.nl
+https://iob.justid.nl
 https://it-academieoverheid.nl
 https://jaarverantwoordingzorg.nl
 https://jaarverslag2017.flevoland.nl
@@ -848,6 +855,7 @@ https://jaarverslag2018.flevoland.nl
 https://jeugdautoriteit.nl
 https://jip.inspectie-jenv.nl
 https://jobs.werkenvoornederland.nl
+https://justid.nl
 https://kaart.flevoland.nl
 https://kaartbank.brabant.nl
 https://kaarten-demo.overheid.nl
@@ -922,6 +930,7 @@ https://mbg-proxy.flevoland.nl
 https://mdm-t.cbg-meb.nl
 https://mdm.cbg-meb.nl
 https://mdm.flevoland.nl
+https://mdm.justid.nl
 https://meepraten.flevoland.nl
 https://meet.aaenmaas.nl
 https://meldingen.atkm.nl
@@ -1146,6 +1155,7 @@ https://opendata.it-academieoverheid.nl
 https://opendata.jaarverantwoordingzorg.nl
 https://opendata.jenvgegevens.nl
 https://opendata.jeugdautoriteit.nl
+https://opendata.justid.nl
 https://opendata.nieuwsbrievenminocw.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.persberichten.rijksoverheid.nl
@@ -1241,6 +1251,7 @@ https://rd1.toegang.overheid.nl
 https://rd2.toegang.overheid.nl
 https://redactie-tl.iplo.nl
 https://redactie.hdsr.nl
+https://referentiegegevens.justid.nl
 https://regelgeving.omgevingswet.overheid.nl
 https://regelgeving.pre.omgevingswet.overheid.nl
 https://regels.overheid.nl
@@ -1403,6 +1414,7 @@ https://toestemming.toeslagen.nl
 https://toezichtdocumenten.igj.nl
 https://treatydatabase-acc.overheid.nl
 https://treatydatabase.overheid.nl
+https://tst-referentiegegevens.justid.nl
 https://tst.subsidie.cultureelerfgoed.nl
 https://tst2905.omgevingswet.overheid.nl
 https://tuchtrecht-acc.overheid.nl
@@ -1410,6 +1422,8 @@ https://tuchtrecht.overheid.nl
 https://uconnect-acc.hdsr.nl
 https://uconnect.hdsr.nl
 https://uzipas.lir.cibg.nl
+https://validatie-acc.justid.nl
+https://validatie.justid.nl
 https://veilig.cultureelerfgoed.nl
 https://veiligmailen.flevoland.nl
 https://veiling.belastingdienst.nl
@@ -1459,10 +1473,12 @@ https://website.belastingdienst.nl
 https://wegen.brabant.nl
 https://werken.belastingdienst.nl
 https://werken.toeslagen.nl
+https://werkenbij.justid.nl
 https://werkenbij.toeslagen.nl
 https://werkenvoor.brabant.nl
 https://werkenvoornederland.nl
 https://werkplek.brabant.nl
+https://werkplek.justid.nl
 https://wetgeving.omgevingswet.overheid.nl
 https://wetgeving.pre.omgevingswet.overheid.nl
 https://wetgevingskalender-acc.overheid.nl
@@ -1647,6 +1663,7 @@ https://www.jaarverantwoordingzorg.nl
 https://www.jaarverslag2018.flevoland.nl
 https://www.jenvgegevens.nl
 https://www.jeugdautoriteit.nl
+https://www.justid.nl
 https://www.logius.nl
 https://www.metelkaartrekkenwedegrens.nl
 https://www.mijn.dus-i.nl
