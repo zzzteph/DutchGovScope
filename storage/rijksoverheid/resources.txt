@@ -915,6 +915,7 @@ event.acc.belastingdienst.nl
 event.belastingdienst.nl
 event.tst.belastingdienst.nl
 examenplein.cvte.nl
+excellentescholen.nl
 extern-abv-acc.belastingdienst.nl
 externe-veiligheid.omgevingswet.overheid.nl
 externemail.ctgb.nl
@@ -1045,6 +1046,7 @@ feeds.english.igj.nl
 feeds.english.sso3w.nl
 feeds.erfgoeddeal.nl
 feeds.euthanasiecommissie.nl
+feeds.excellentescholen.nl
 feeds.igj.nl
 feeds.nieuwsbrievenminocw.nl
 feeds.papiamentu.belastingdienst-cn.nl
@@ -1784,6 +1786,7 @@ opendata.english.euthanasiecommissie.nl
 opendata.english.igj.nl
 opendata.english.sso3w.nl
 opendata.euthanasiecommissie.nl
+opendata.excellentescholen.nl
 opendata.igj.nl
 opendata.nieuwsbrievenminocw.nl
 opendata.papiamentu.belastingdienst-cn.nl
@@ -2651,6 +2654,7 @@ www.enabling.omgevingswet.overheid.nl
 www.energierijkdenhaag.nl
 www.erfgoeddeal.nl
 www.euthanasiecommissie.nl
+www.excellentescholen.nl
 www.gtmx.acc.belastingdienst.nl
 www.igj.nl
 www.int.omgevingswet.overheid.nl

@@ -3576,6 +3576,7 @@ https://evenementen.rotterdam.nl
 https://evenementenvergunning.rotterdam.nl
 https://ews.lopik.nl
 https://examenplein.cvte.nl
+https://excellentescholen.nl
 https://exchange.defryskemarren.nl
 https://exchangehybrid.tilburg.nl
 https://extern.pijnacker-nootdorp.nl
@@ -3710,6 +3711,7 @@ https://feeds.english.igj.nl
 https://feeds.english.sso3w.nl
 https://feeds.erfgoeddeal.nl
 https://feeds.euthanasiecommissie.nl
+https://feeds.excellentescholen.nl
 https://feeds.igj.nl
 https://feeds.nieuwsbrievenminocw.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
@@ -6438,6 +6440,7 @@ https://opendata.english.euthanasiecommissie.nl
 https://opendata.english.igj.nl
 https://opendata.english.sso3w.nl
 https://opendata.euthanasiecommissie.nl
+https://opendata.excellentescholen.nl
 https://opendata.heemstede.nl
 https://opendata.igj.nl
 https://opendata.nieuwsbrievenminocw.nl
@@ -9293,6 +9296,7 @@ https://www.erfgoeddeal.nl
 https://www.ermelo.nl
 https://www.etten-leur.nl
 https://www.euthanasiecommissie.nl
+https://www.excellentescholen.nl
 https://www.fietsroutes.landvancuijk.nl
 https://www.financielestukken.diemen.nl
 https://www.financielestukken.ouder-amstel.nl

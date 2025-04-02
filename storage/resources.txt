@@ -5587,6 +5587,7 @@ ews.leeuwarden.nl
 ews.lopik.nl
 ews.utrecht.nl
 examenplein.cvte.nl
+excellentescholen.nl
 exch.nederweert.nl
 exch.roermond.nl
 exchange.alphenaandenrijn.nl
@@ -5778,6 +5779,7 @@ feeds.english.igj.nl
 feeds.english.sso3w.nl
 feeds.erfgoeddeal.nl
 feeds.euthanasiecommissie.nl
+feeds.excellentescholen.nl
 feeds.igj.nl
 feeds.nieuwsbrievenminocw.nl
 feeds.papiamentu.belastingdienst-cn.nl
@@ -10993,6 +10995,7 @@ opendata.english.euthanasiecommissie.nl
 opendata.english.igj.nl
 opendata.english.sso3w.nl
 opendata.euthanasiecommissie.nl
+opendata.excellentescholen.nl
 opendata.heemstede.nl
 opendata.igj.nl
 opendata.nieuwsbrievenminocw.nl
@@ -16788,6 +16791,7 @@ www.etten-leur.nl
 www.euthanasiecommissie.nl
 www.evenementen.assen.nl
 www.evmail.sudwestfryslan.nl
+www.excellentescholen.nl
 www.extern.emmen.nl
 www.ez.amsterdam.nl
 www.fairtrade.groningen.nl
