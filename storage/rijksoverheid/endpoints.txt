@@ -708,6 +708,7 @@ https://feeds.justid.nl
 https://feeds.justitieleictorganisatie.nl
 https://feeds.kabinetsformatie2023.nl
 https://feeds.kansrijkestartnl.nl
+https://feeds.kennisvandeoverheid.nl
 https://feeds.nieuwsbrievenminocw.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.persberichten.rijksoverheid.nl
@@ -877,6 +878,7 @@ https://kennisbank.hhdelfland.nl
 https://kennisbank.logius.nl
 https://kennisgroepen.belastingdienst.nl
 https://kennisnetwerk.belastingdienst.nl
+https://kennisvandeoverheid.nl
 https://kim.omgevingswet.overheid.nl
 https://koppelvlak-asl.overheid.nl
 https://koppelvlak.overheid.nl
@@ -1167,6 +1169,7 @@ https://opendata.justid.nl
 https://opendata.justitieleictorganisatie.nl
 https://opendata.kabinetsformatie2023.nl
 https://opendata.kansrijkestartnl.nl
+https://opendata.kennisvandeoverheid.nl
 https://opendata.nieuwsbrievenminocw.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.persberichten.rijksoverheid.nl
@@ -1678,6 +1681,7 @@ https://www.justid.nl
 https://www.justitieleictorganisatie.nl
 https://www.kabinetsformatie2023.nl
 https://www.kansrijkestartnl.nl
+https://www.kennisvandeoverheid.nl
 https://www.logius.nl
 https://www.metelkaartrekkenwedegrens.nl
 https://www.mijn.dus-i.nl

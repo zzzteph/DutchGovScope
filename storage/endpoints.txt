@@ -3828,6 +3828,7 @@ https://feeds.justid.nl
 https://feeds.justitieleictorganisatie.nl
 https://feeds.kabinetsformatie2023.nl
 https://feeds.kansrijkestartnl.nl
+https://feeds.kennisvandeoverheid.nl
 https://feeds.nieuwsbrievenminocw.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.persberichten.rijksoverheid.nl
@@ -5232,6 +5233,7 @@ https://kennisnetwerk.belastingdienst.nl
 https://kennisportaal.denhaag.nl
 https://kennisportaal.deventer.nl
 https://kennisportaal2.deventer.nl
+https://kennisvandeoverheid.nl
 https://kernhem.ede.nl
 https://keuzesinbeeld.amsterdam.nl
 https://keycloak-adm.denhaag.nl
@@ -6712,6 +6714,7 @@ https://opendata.justid.nl
 https://opendata.justitieleictorganisatie.nl
 https://opendata.kabinetsformatie2023.nl
 https://opendata.kansrijkestartnl.nl
+https://opendata.kennisvandeoverheid.nl
 https://opendata.nieuwsbrievenminocw.nl
 https://opendata.nijmegen.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
@@ -9795,6 +9798,7 @@ https://www.kampen.nl
 https://www.kansrijkestartnl.nl
 https://www.kapelle.nl
 https://www.katwijk.nl
+https://www.kennisvandeoverheid.nl
 https://www.komverder.krimpenaandenijssel.nl
 https://www.kos.nijmegen.nl
 https://www.krimpenaandenijssel.nl
