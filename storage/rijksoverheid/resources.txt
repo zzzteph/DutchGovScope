@@ -412,6 +412,7 @@ autodiscover.flevoland.nl
 autodiscover.hdsr.nl
 autodiscover.hhdelfland.nl
 autodiscover.huisvoorklokkenluiders.nl
+autodiscover.inspectie-oe.nl
 autodiscover.koop.overheid.nl
 autodiscover.overheid.nl
 autodiscover.rcgog.nl
@@ -607,6 +608,7 @@ brmrest-test.belastingdienst.nl
 broker.huurcommissie.nl
 brp-test.belastingdienst.nl
 brp.belastingdienst.nl
+brs.inspectie-oe.nl
 brt.acceptatie.basisregistraties.overheid.nl
 brt.basisregistraties.overheid.nl
 brt.test.basisregistraties.overheid.nl
@@ -978,6 +980,7 @@ english.farmatec.nl
 english.globalhealthhub.nl
 english.igj.nl
 english.ilent.nl
+english.inspectie-oe.nl
 english.sso3w.nl
 enterpriseenrollment.cbg-meb.nl
 enterpriseregistration.belastingdienst.nl
@@ -1157,6 +1160,7 @@ feeds.english.farmatec.nl
 feeds.english.globalhealthhub.nl
 feeds.english.igj.nl
 feeds.english.ilent.nl
+feeds.english.inspectie-oe.nl
 feeds.english.sso3w.nl
 feeds.erfgoeddeal.nl
 feeds.euthanasiecommissie.nl
@@ -1194,6 +1198,7 @@ feeds.ilent.nl
 feeds.informatieanalyseteam.nl
 feeds.informatiehuishouding.nl
 feeds.inspectie-jenv.nl
+feeds.inspectie-oe.nl
 feeds.nieuwsbrievenminocw.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.persberichten.rijksoverheid.nl
@@ -1513,6 +1518,7 @@ inloggen-preprod.hhdelfland.nl
 inloggen.hhdelfland.nl
 inspecteur.ilent.nl
 inspectie-jenv.nl
+inspectie-oe.nl
 instroom.belastingdienst.nl
 int-acc-01.flevoland.nl
 int-prod-01.flevoland.nl
@@ -2058,6 +2064,7 @@ opendata.english.farmatec.nl
 opendata.english.globalhealthhub.nl
 opendata.english.igj.nl
 opendata.english.ilent.nl
+opendata.english.inspectie-oe.nl
 opendata.english.sso3w.nl
 opendata.euthanasiecommissie.nl
 opendata.excellentescholen.nl
@@ -2095,6 +2102,7 @@ opendata.ilent.nl
 opendata.informatieanalyseteam.nl
 opendata.informatiehuishouding.nl
 opendata.inspectie-jenv.nl
+opendata.inspectie-oe.nl
 opendata.nieuwsbrievenminocw.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.persberichten.rijksoverheid.nl
@@ -3099,6 +3107,7 @@ www.infomilcn.com
 www.informatieanalyseteam.nl
 www.informatiehuishouding.nl
 www.inspectie-jenv.nl
+www.inspectie-oe.nl
 www.int.omgevingswet.overheid.nl
 www.int02.omgevingswet.overheid.nl
 www.int12.omgevingswet.overheid.nl

@@ -51,9 +51,9 @@ iparticipatie
 belastingen
 test-ipa
 data
+english
 dacceptatieloket
 dacceptatiemidoffice
-english
 remote
 dloket
 dmidoffice
@@ -74,11 +74,11 @@ openpub
 omgevingsvisie
 digikoppeling-test
 cloudadapter-test
+feeds.english
+opendata.english
 formulier
 kaart
 flowmailer-tracking
-feeds.english
-opendata.english
 hybrid
 kaarten
 zaken
@@ -566,6 +566,7 @@ geoportaaltest
 samenveiligwerken
 teams
 jip
+brs
 belastingportaal.acc
 inloggen.belastingportaal
 inloggen.belastingportaal.acc
@@ -1156,7 +1157,6 @@ xential-test
 verhuursport
 begroting2018
 begroting2021
-brs
 campus
 economie
 koningsdag
