@@ -645,6 +645,7 @@ cv-mailrelay6.overheid.nl
 cv-mailrelays.overheid.nl
 cvdr.overheid.nl
 cvte.nl
+cybersecuritycouncil.nl
 dagstaatmonitors.brabant.nl
 dash-ma.mijn.overheid.nl
 dash-mp.mijn.overheid.nl
@@ -878,6 +879,7 @@ feeds.ctpveldzicht.nl
 feeds.cultureelerfgoed.nl
 feeds.cultuursubsidie.nl
 feeds.cvte.nl
+feeds.cybersecuritycouncil.nl
 feeds.english.aivd.nl
 feeds.english.autoriteitnvs.nl
 feeds.english.belastingdienst-cn.nl
@@ -1538,6 +1540,7 @@ opendata.ctpveldzicht.nl
 opendata.cultureelerfgoed.nl
 opendata.cultuursubsidie.nl
 opendata.cvte.nl
+opendata.cybersecuritycouncil.nl
 opendata.english.aivd.nl
 opendata.english.autoriteitnvs.nl
 opendata.english.belastingdienst-cn.nl
@@ -2342,6 +2345,7 @@ www.ctpveldzicht.nl
 www.cultureelerfgoed.nl
 www.cultuursubsidie.nl
 www.cvte.nl
+www.cybersecuritycouncil.nl
 www.dataportaal.brabant.nl
 www.dmo.omgevingswet.overheid.nl
 www.enabling.omgevingswet.overheid.nl

@@ -2529,6 +2529,7 @@ https://cultuursubsidie.nl
 https://cursus.drop.overheid.nl
 https://cuup-web.amsterdam.nl
 https://cvte.nl
+https://cybersecuritycouncil.nl
 https://daalder-dash.makkelijkemarkt.amsterdam.nl
 https://daalder.makkelijkemarkt.amsterdam.nl
 https://dacceptatieloket-s2s.olst-wijhe.nl
@@ -3585,6 +3586,7 @@ https://feeds.ctpveldzicht.nl
 https://feeds.cultureelerfgoed.nl
 https://feeds.cultuursubsidie.nl
 https://feeds.cvte.nl
+https://feeds.cybersecuritycouncil.nl
 https://feeds.english.aivd.nl
 https://feeds.english.autoriteitnvs.nl
 https://feeds.english.belastingdienst-cn.nl
@@ -6254,6 +6256,7 @@ https://opendata.ctpveldzicht.nl
 https://opendata.cultureelerfgoed.nl
 https://opendata.cultuursubsidie.nl
 https://opendata.cvte.nl
+https://opendata.cybersecuritycouncil.nl
 https://opendata.english.aivd.nl
 https://opendata.english.autoriteitnvs.nl
 https://opendata.english.belastingdienst-cn.nl
@@ -8999,6 +9002,7 @@ https://www.culemborg.nl
 https://www.cultureelerfgoed.nl
 https://www.cultuursubsidie.nl
 https://www.cvte.nl
+https://www.cybersecuritycouncil.nl
 https://www.dalfsen.nl
 https://www.dantumadiel.frl
 https://www.dataportaal.brabant.nl
