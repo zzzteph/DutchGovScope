@@ -4813,6 +4813,7 @@ https://indica-acc.amsterdam.nl
 https://indienst.almere.nl
 https://indienst.wageningen.nl
 https://info.sudwestfryslan.nl
+https://infomilcn.com
 https://infoopkaart.steenwijkerland.nl
 https://infoplein.oosterhout.nl
 https://informatieplattegrond.denhaag.nl
@@ -9676,6 +9677,7 @@ https://www.ijsselstein.nl
 https://www.ikvermoedhuiselijkgeweld.nl
 https://www.ikz.nl
 https://www.ilent.nl
+https://www.infomilcn.com
 https://www.ingesprek.denhelder.nl
 https://www.inkomensondersteuning.nijmegen.nl
 https://www.int.omgevingswet.overheid.nl
