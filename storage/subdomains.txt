@@ -77,9 +77,10 @@ kaart
 hybrid
 kaarten
 cloudadapter
+english
 berichten
 parkeren-acc
-english
+a-www
 govroam
 connect
 digikoppeling.test
@@ -87,14 +88,13 @@ mks
 cmsintranet
 test-intranet
 dtestloket
-a-www
+a-feeds
+a-opendata
 parkeren-test
 piwik
 acc-broker
 belastingloket
 doemee
-a-feeds
-a-opendata
 portaal
 denkmee
 osbacc
@@ -129,6 +129,8 @@ gemeente
 bastion365
 obsurv
 smtp
+feeds.english
+opendata.english
 e
 web
 ftp
@@ -142,8 +144,6 @@ woningbouwkaart
 contentbeheer
 micollab
 magazines
-feeds.english
-opendata.english
 mobiel
 lyncdiscover
 email
@@ -190,6 +190,7 @@ uc
 AutoDiscover
 transfer
 _dmarc
+a-english
 evenementen
 onderzoek
 college
@@ -207,7 +208,8 @@ bestuur
 afspraakmaken
 zaaksysteem
 cms
-a-english
+a-feeds.a-english
+a-opendata.a-english
 website
 kennisbank
 wachtwoord
@@ -228,8 +230,6 @@ outlook
 vth
 testloket
 contact
-a-feeds.a-english
-a-opendata.a-english
 m
 api
 filetransfer

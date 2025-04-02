@@ -2712,6 +2712,7 @@ https://devportal.api.amsterdam.nl
 https://dewolden.nl
 https://dex.meldingen.alphenaandenrijn.nl
 https://dezi.nl
+https://dggf.nl
 https://dgk-prd.zutphen.nl
 https://dialin.aaenmaas.nl
 https://dialin.houten.nl
@@ -3383,6 +3384,7 @@ https://english.ctivd.nl
 https://english.cultureelerfgoed.nl
 https://english.defensie.nl
 https://english.deltaprogramma.nl
+https://english.dggf.nl
 https://english.eindhoven.nl
 https://english.igj.nl
 https://enkhuizen.nl
@@ -3614,6 +3616,7 @@ https://feeds.deltaprogramma.nl
 https://feeds.denkdoeduurzaam.nl
 https://feeds.deutsch.postedworkers.nl
 https://feeds.dezi.nl
+https://feeds.dggf.nl
 https://feeds.english.aivd.nl
 https://feeds.english.autoriteitnvs.nl
 https://feeds.english.belastingdienst-cn.nl
@@ -3625,6 +3628,7 @@ https://feeds.english.ctivd.nl
 https://feeds.english.cultureelerfgoed.nl
 https://feeds.english.defensie.nl
 https://feeds.english.deltaprogramma.nl
+https://feeds.english.dggf.nl
 https://feeds.english.igj.nl
 https://feeds.igj.nl
 https://feeds.nieuwsbrievenminocw.nl
@@ -6300,6 +6304,7 @@ https://opendata.deltaprogramma.nl
 https://opendata.denkdoeduurzaam.nl
 https://opendata.deutsch.postedworkers.nl
 https://opendata.dezi.nl
+https://opendata.dggf.nl
 https://opendata.english.aivd.nl
 https://opendata.english.autoriteitnvs.nl
 https://opendata.english.belastingdienst-cn.nl
@@ -6311,6 +6316,7 @@ https://opendata.english.ctivd.nl
 https://opendata.english.cultureelerfgoed.nl
 https://opendata.english.defensie.nl
 https://opendata.english.deltaprogramma.nl
+https://opendata.english.dggf.nl
 https://opendata.english.igj.nl
 https://opendata.heemstede.nl
 https://opendata.igj.nl
@@ -9072,6 +9078,7 @@ https://www.deventer.nl
 https://www.devgovrs1.deventer.nl
 https://www.dewolden.nl
 https://www.dezi.nl
+https://www.dggf.nl
 https://www.diemen.nl
 https://www.digitaalfotoarchief.oegstgeest.nl
 https://www.dijkenwaard.nl

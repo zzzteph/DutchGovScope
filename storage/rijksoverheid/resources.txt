@@ -18,6 +18,7 @@ a-english.cbgjaarverslag.nl
 a-english.ctgb.nl
 a-english.ctivd.nl
 a-english.defensie.nl
+a-english.dggf.nl
 a-english.igj.nl
 a-feeds.a-english.aivd.nl
 a-feeds.a-english.autoriteitnvs.nl
@@ -26,6 +27,7 @@ a-feeds.a-english.cbg-meb.nl
 a-feeds.a-english.ctgb.nl
 a-feeds.a-english.ctivd.nl
 a-feeds.a-english.defensie.nl
+a-feeds.a-english.dggf.nl
 a-feeds.a-english.igj.nl
 a-feeds.agroberichtenbuitenland.nl
 a-feeds.aivd.nl
@@ -42,6 +44,7 @@ a-feeds.ctgb.nl
 a-feeds.ctivd.nl
 a-feeds.cultuursubsidie.nl
 a-feeds.defensie.nl
+a-feeds.dggf.nl
 a-feeds.igj.nl
 a-feeds.rijksoverheid.nl
 a-git.rijksoverheid.nl
@@ -57,6 +60,7 @@ a-opendata.a-english.cbg-meb.nl
 a-opendata.a-english.ctgb.nl
 a-opendata.a-english.ctivd.nl
 a-opendata.a-english.defensie.nl
+a-opendata.a-english.dggf.nl
 a-opendata.a-english.igj.nl
 a-opendata.agroberichtenbuitenland.nl
 a-opendata.aivd.nl
@@ -73,6 +77,7 @@ a-opendata.ctgb.nl
 a-opendata.ctivd.nl
 a-opendata.cultuursubsidie.nl
 a-opendata.defensie.nl
+a-opendata.dggf.nl
 a-opendata.igj.nl
 a-opendata.rijksoverheid.nl
 a-persberichten.rijksoverheid.nl
@@ -102,6 +107,7 @@ a-www.ctgb.nl
 a-www.ctivd.nl
 a-www.cultuursubsidie.nl
 a-www.defensie.nl
+a-www.dggf.nl
 a-www.igj.nl
 a-www.rijksoverheid.nl
 a2vonderenkerensheide.nl
@@ -705,6 +711,7 @@ deutsch.postedworkers.nl
 developer.omgevingswet.overheid.nl
 developer.overheid.nl
 dezi.nl
+dggf.nl
 dialin.aaenmaas.nl
 dialin.cbg-meb.nl
 digicheck.brabant.nl
@@ -801,6 +808,7 @@ english.ctpveldzicht.nl
 english.cultureelerfgoed.nl
 english.defensie.nl
 english.deltaprogramma.nl
+english.dggf.nl
 english.igj.nl
 enterpriseenrollment.cbg-meb.nl
 enterpriseregistration.belastingdienst.nl
@@ -925,6 +933,7 @@ feeds.deltaprogramma.nl
 feeds.denkdoeduurzaam.nl
 feeds.deutsch.postedworkers.nl
 feeds.dezi.nl
+feeds.dggf.nl
 feeds.english.aivd.nl
 feeds.english.autoriteitnvs.nl
 feeds.english.belastingdienst-cn.nl
@@ -936,6 +945,7 @@ feeds.english.ctivd.nl
 feeds.english.cultureelerfgoed.nl
 feeds.english.defensie.nl
 feeds.english.deltaprogramma.nl
+feeds.english.dggf.nl
 feeds.english.igj.nl
 feeds.igj.nl
 feeds.nieuwsbrievenminocw.nl
@@ -1611,6 +1621,7 @@ opendata.deltaprogramma.nl
 opendata.denkdoeduurzaam.nl
 opendata.deutsch.postedworkers.nl
 opendata.dezi.nl
+opendata.dggf.nl
 opendata.english.aivd.nl
 opendata.english.autoriteitnvs.nl
 opendata.english.belastingdienst-cn.nl
@@ -1622,6 +1633,7 @@ opendata.english.ctivd.nl
 opendata.english.cultureelerfgoed.nl
 opendata.english.defensie.nl
 opendata.english.deltaprogramma.nl
+opendata.english.dggf.nl
 opendata.english.igj.nl
 opendata.igj.nl
 opendata.nieuwsbrievenminocw.nl
@@ -2435,6 +2447,7 @@ www.defensie.nl
 www.deltaprogramma.nl
 www.denkdoeduurzaam.nl
 www.dezi.nl
+www.dggf.nl
 www.dmo.omgevingswet.overheid.nl
 www.enabling.omgevingswet.overheid.nl
 www.gtmx.acc.belastingdienst.nl
