@@ -1224,6 +1224,7 @@ feeds.jeugdautoriteit.nl
 feeds.justid.nl
 feeds.justitieleictorganisatie.nl
 feeds.kabinetsformatie2023.nl
+feeds.kansrijkestartnl.nl
 feeds.nieuwsbrievenminocw.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.persberichten.rijksoverheid.nl
@@ -1769,6 +1770,7 @@ meldingen.emissieautoriteit.nl
 meldingen.ilent.nl
 meldingen.klopt.cibg.nl
 meldpuntwki.inspectie-jenv.nl
+menukaart.kansrijkestartnl.nl
 merkportaal.belastingdienst.nl
 metadata.toegang.overheid.nl
 metelkaartrekkenwedegrens.nl
@@ -2160,6 +2162,7 @@ opendata.jeugdautoriteit.nl
 opendata.justid.nl
 opendata.justitieleictorganisatie.nl
 opendata.kabinetsformatie2023.nl
+opendata.kansrijkestartnl.nl
 opendata.nieuwsbrievenminocw.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.persberichten.rijksoverheid.nl
@@ -3206,6 +3209,7 @@ www.justid.nl
 www.justitieleictorganisatie.nl
 www.kaarten.brabant.nl
 www.kabinetsformatie2023.nl
+www.kansrijkestartnl.nl
 www.logius.nl
 www.mail.bureauwsnp.nl
 www.metelkaartrekkenwedegrens.nl

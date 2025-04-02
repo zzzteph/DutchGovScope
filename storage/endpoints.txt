@@ -3827,6 +3827,7 @@ https://feeds.jeugdautoriteit.nl
 https://feeds.justid.nl
 https://feeds.justitieleictorganisatie.nl
 https://feeds.kabinetsformatie2023.nl
+https://feeds.kansrijkestartnl.nl
 https://feeds.nieuwsbrievenminocw.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.persberichten.rijksoverheid.nl
@@ -5772,6 +5773,7 @@ https://menditectmo.rotterdam.nl
 https://menditectsb.rotterdam.nl
 https://menditectso.rotterdam.nl
 https://menditectweni.rotterdam.nl
+https://menukaart.kansrijkestartnl.nl
 https://meppel.nl
 https://merk-acc.denhaag.nl
 https://merk.denhaag.nl
@@ -6709,6 +6711,7 @@ https://opendata.jeugdautoriteit.nl
 https://opendata.justid.nl
 https://opendata.justitieleictorganisatie.nl
 https://opendata.kabinetsformatie2023.nl
+https://opendata.kansrijkestartnl.nl
 https://opendata.nieuwsbrievenminocw.nl
 https://opendata.nijmegen.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
@@ -9789,6 +9792,7 @@ https://www.kaagenbraassem.nl
 https://www.kaartlaag.rotterdam.nl
 https://www.kabinetsformatie2023.nl
 https://www.kampen.nl
+https://www.kansrijkestartnl.nl
 https://www.kapelle.nl
 https://www.katwijk.nl
 https://www.komverder.krimpenaandenijssel.nl

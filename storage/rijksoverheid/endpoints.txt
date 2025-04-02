@@ -707,6 +707,7 @@ https://feeds.jeugdautoriteit.nl
 https://feeds.justid.nl
 https://feeds.justitieleictorganisatie.nl
 https://feeds.kabinetsformatie2023.nl
+https://feeds.kansrijkestartnl.nl
 https://feeds.nieuwsbrievenminocw.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.persberichten.rijksoverheid.nl
@@ -943,6 +944,7 @@ https://meldingen.atkm.nl
 https://meldingen.ilent.nl
 https://meldingen.klopt.cibg.nl
 https://meldpuntwki.inspectie-jenv.nl
+https://menukaart.kansrijkestartnl.nl
 https://metelkaartrekkenwedegrens.nl
 https://mgt.flevoland.nl
 https://micollab.flevoland.nl
@@ -1164,6 +1166,7 @@ https://opendata.jeugdautoriteit.nl
 https://opendata.justid.nl
 https://opendata.justitieleictorganisatie.nl
 https://opendata.kabinetsformatie2023.nl
+https://opendata.kansrijkestartnl.nl
 https://opendata.nieuwsbrievenminocw.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.persberichten.rijksoverheid.nl
@@ -1674,6 +1677,7 @@ https://www.jeugdautoriteit.nl
 https://www.justid.nl
 https://www.justitieleictorganisatie.nl
 https://www.kabinetsformatie2023.nl
+https://www.kansrijkestartnl.nl
 https://www.logius.nl
 https://www.metelkaartrekkenwedegrens.nl
 https://www.mijn.dus-i.nl
