@@ -117,11 +117,13 @@ a-english.autoriteitnvs.nl
 a-english.bigregister.nl
 a-english.cbg-meb.nl
 a-english.cbgjaarverslag.nl
+a-english.ctgb.nl
 a-english.igj.nl
 a-feeds.a-english.aivd.nl
 a-feeds.a-english.autoriteitnvs.nl
 a-feeds.a-english.bigregister.nl
 a-feeds.a-english.cbg-meb.nl
+a-feeds.a-english.ctgb.nl
 a-feeds.a-english.igj.nl
 a-feeds.agroberichtenbuitenland.nl
 a-feeds.aivd.nl
@@ -134,6 +136,7 @@ a-feeds.cbg-meb.nl
 a-feeds.centralecommissiedierproeven.nl
 a-feeds.cibg.nl
 a-feeds.communicatierijk.nl
+a-feeds.ctgb.nl
 a-feeds.igj.nl
 a-feeds.rijksoverheid.nl
 a-git.rijksoverheid.nl
@@ -145,6 +148,7 @@ a-opendata.a-english.aivd.nl
 a-opendata.a-english.autoriteitnvs.nl
 a-opendata.a-english.bigregister.nl
 a-opendata.a-english.cbg-meb.nl
+a-opendata.a-english.ctgb.nl
 a-opendata.a-english.igj.nl
 a-opendata.agroberichtenbuitenland.nl
 a-opendata.aivd.nl
@@ -157,6 +161,7 @@ a-opendata.cbg-meb.nl
 a-opendata.centralecommissiedierproeven.nl
 a-opendata.cibg.nl
 a-opendata.communicatierijk.nl
+a-opendata.ctgb.nl
 a-opendata.igj.nl
 a-opendata.rijksoverheid.nl
 a-p-ddi-0003.leeuwarden.nl
@@ -184,6 +189,7 @@ a-www.cbgjaarverslag.nl
 a-www.centralecommissiedierproeven.nl
 a-www.cibg.nl
 a-www.communicatierijk.nl
+a-www.ctgb.nl
 a-www.igj.nl
 a-www.rijksoverheid.nl
 a2b-rtr.alkmaar.nl
@@ -837,6 +843,8 @@ ace_nat17.belastingdienst.nl
 achtkarspelen.nl
 acis005.ise.rotterdam.nl
 ack.omgevingswet.overheid.nl
+acm-acc.ctgb.nl
+acm.ctgb.nl
 acp.ondernemersplein.overheid.nl
 acpt-machtigen.digipoort.logius.nl
 acpt.3d.utrecht.nl
@@ -1775,6 +1783,7 @@ autodiscover.christenunie-sgp.haarlemmermeer.nl
 autodiscover.christenunie.haarlemmermeer.nl
 autodiscover.coevorden.nl
 autodiscover.cranendonck.nl
+autodiscover.ctgb.nl
 autodiscover.cu-sgp.haarlemmermeer.nl
 autodiscover.d66.haarlemmermeer.nl
 autodiscover.d66.nijmegen.nl
@@ -2764,6 +2773,7 @@ binnenstad.leiden.nl
 binnenstadsplan2030.denhaag.nl
 binnenstebuiten-acc.ede.nl
 binnenstebuiten.ede.nl
+biociden.ctgb.nl
 bis-test.tilburg.nl
 bis.almelo.nl
 bis.assen.nl
@@ -3472,6 +3482,7 @@ connect.acceptatie.steenwijkerland.nl
 connect.acceptatie.winterswijk.nl
 connect.acceptatie.zutphen.nl
 connect.coevorden.nl
+connect.ctgb.nl
 connect.dantumadiel.frl
 connect.doesburg.nl
 connect.drechterland.nl
@@ -3646,6 +3657,7 @@ css.openstad.haarlemmermeer.nl
 css.openstad.utrecht.nl
 css.v2.openstad.haarlemmermeer.nl
 ctb.voorst.nl
+ctgb.nl
 ctr.s-hertogenbosch.nl
 cts.belastingdienst.nl
 cts4k.belastingdienst.nl
@@ -4643,6 +4655,7 @@ dwh-test.groningen.nl
 dwh.groningen.nl
 dwi.amsterdam.nl
 dwiweb.amsterdam.nl
+dwo.ctgb.nl
 e-depot.rotterdam.nl
 e-dfs-p-01.adds.amsterdam.nl
 e-dfs-p-01.amsterdam.nl
@@ -5210,6 +5223,7 @@ english.brabant.nl
 english.cbg-meb.nl
 english.cbgjaarverslag.nl
 english.ccmo.nl
+english.ctgb.nl
 english.eindhoven.nl
 english.igj.nl
 enkhuizen.nl
@@ -5437,6 +5451,7 @@ extern.huizen.nl
 extern.oa.amsterdam.nl
 extern.pijnacker-nootdorp.nl
 externe-veiligheid.omgevingswet.overheid.nl
+externemail.ctgb.nl
 extgmea02.ss.belastingdienst.nl
 extra-vpn.belastingdienst.nl
 extra.katwijk.nl
@@ -5542,12 +5557,14 @@ feeds.commissiemijnbouwschade.nl
 feeds.commissievanaanbestedingsexperts.nl
 feeds.communicatierijk.nl
 feeds.compensationsns.nl
+feeds.ctgb.nl
 feeds.english.aivd.nl
 feeds.english.autoriteitnvs.nl
 feeds.english.belastingdienst-cn.nl
 feeds.english.bigregister.nl
 feeds.english.cbg-meb.nl
 feeds.english.ccmo.nl
+feeds.english.ctgb.nl
 feeds.english.igj.nl
 feeds.igj.nl
 feeds.nieuwsbrievenminocw.nl
@@ -5682,6 +5699,7 @@ filecap.voorst.nl
 filecap.wierden.nl
 filecapacc.breda.nl
 files.data.amsterdam.nl
+filesender.ctgb.nl
 fileshare.adds.amsterdam.nl
 fileshare.amsterdam.nl
 fileshare.westerkwartier.nl
@@ -5979,6 +5997,7 @@ fs-up-sts02.brabant.nl
 fs.aaenhunze.nl
 fs.belastingdienst.nl
 fs.beverwijk.nl
+fs.ctgb.nl
 fs.haarlem.nl
 fs.halderberge.nl
 fs.maassluis.nl
@@ -6402,6 +6421,7 @@ geoxchange-prod.woerden.nl
 geoxchange-test.woerden.nl
 geuzenstatenkwartierfietst.denhaag.nl
 gevondenvoorwerpen.gemeentehw.nl
+gewasbeschermingsmiddelen.ctgb.nl
 gezinscoach.deventer.nl
 gezond-en-gelukkig.tilburg.nl
 gezondheid.landvancuijk.nl
@@ -7700,6 +7720,7 @@ intranet.brielle.nl
 intranet.bronckhorst.nl
 intranet.castricum.nl
 intranet.cranendonck.nl
+intranet.ctgb.nl
 intranet.debilt.nl
 intranet.delft.nl
 intranet.deurne.nl
@@ -8756,6 +8777,7 @@ m1.rijswijk.nl
 m2.delft.nl
 m2.rijswijk.nl
 m2m.amersfoort.nl
+m365.ctgb.nl
 maak.zaanstad.nl
 maakachtersluispolder.zaanstad.nl
 maakcentrum.zaanstad.nl
@@ -8805,6 +8827,7 @@ mail.borne.nl
 mail.brummen.nl
 mail.bureauwsnp.nl
 mail.cbg-meb.nl
+mail.ctgb.nl
 mail.delft.nl
 mail.denhelder.nl
 mail.denkmee.amstelveen.nl
@@ -8979,6 +9002,7 @@ malengo-test.gemert-bakel.nl
 malengo-testcms.gemert-bakel.nl
 malengo.gemert-bakel.nl
 mam.borne.nl
+mam.ctgb.nl
 mam.ede.nl
 mam.groningen.nl
 mam.overbetuwe.nl
@@ -9039,12 +9063,14 @@ mdesk.renkum.nl
 mdfg01.middendrenthe.nl
 mdjcc.middendrenthe.nl
 mdliquit.middendrenthe.nl
+mdm-acc.ctgb.nl
 mdm-sentry.bronckhorst.nl
 mdm-t.cbg-meb.nl
 mdm.borne.nl
 mdm.bronckhorst.nl
 mdm.brummen.nl
 mdm.cbg-meb.nl
+mdm.ctgb.nl
 mdm.denhaag.nl
 mdm.ede.nl
 mdm.gemeentewestland.nl
@@ -9883,6 +9909,10 @@ msoid.arnhem.nl
 msoid.nieuwkoop.nl
 msoid.tilburg.nl
 msp-a.logius.nl
+mst-acc.ctgb.nl
+mst-ci.ctgb.nl
+mst-test.ctgb.nl
+mst.ctgb.nl
 mstat.meerssen.nl
 msteamsbellen.soest.nl
 mt-link.stichtsevecht.nl
@@ -10634,12 +10664,14 @@ opendata.commissiemijnbouwschade.nl
 opendata.commissievanaanbestedingsexperts.nl
 opendata.communicatierijk.nl
 opendata.compensationsns.nl
+opendata.ctgb.nl
 opendata.english.aivd.nl
 opendata.english.autoriteitnvs.nl
 opendata.english.belastingdienst-cn.nl
 opendata.english.bigregister.nl
 opendata.english.cbg-meb.nl
 opendata.english.ccmo.nl
+opendata.english.ctgb.nl
 opendata.english.igj.nl
 opendata.heemstede.nl
 opendata.igj.nl
@@ -10665,6 +10697,10 @@ openformulieren.drechterland.nl
 openformulieren.enkhuizen.nl
 openformulieren.hoogeveen.nl
 openformulieren.stedebroec.nl
+openims-acc.ctgb.nl
+openims-dev.ctgb.nl
+openims-test.ctgb.nl
+openims.ctgb.nl
 openkaarten.sittard-geleen.nl
 openklant-beheer-erfpacht-dev.amsterdam.nl
 openklant-beheer-erfpacht-ont.amsterdam.nl
@@ -11146,6 +11182,7 @@ pass.secure.amsterdam.nl
 passbolt.terneuzen.nl
 passion.groningen.nl
 password.almere.nl
+password.ctgb.nl
 passwordreset.almere.nl
 paswijzer.waalwijk.nl
 patternlab.barneveld.nl
@@ -11197,6 +11234,7 @@ personeelsplanning.sudwestfryslan.nl
 personeelsvereniging.helmond.nl
 persoonlijk.breda.nl
 perspectiefnota.gemeente-steenbergen.nl
+pesticidesdatabase.ctgb.nl
 petear.brummen.nl
 pform.schiedam.nl
 pfsense.secure.amsterdam.nl
@@ -11906,6 +11944,8 @@ pub.alkmaar.nl
 pub.krimpenaandenijssel.nl
 pub.uithoorn.nl
 pubgov.heerenveen.nl
+public.mst-acc.ctgb.nl
+public.mst.ctgb.nl
 publicatie-test.castricum.nl
 publicatie.castricum.nl
 publicatie.heiloo.nl
@@ -12773,6 +12813,7 @@ services.tst.amsterdam.nl
 services2.acc.amsterdam.nl
 services2.amsterdam.nl
 servicestore.doetinchem.nl
+sf.ctgb.nl
 sfaccounts.haarlemmermeer.nl
 sfb.ggd.amsterdam.nl
 sfb.urk.nl
@@ -14098,6 +14139,7 @@ test-keycloak.assen.nl
 test-keycloak.enschede.nl
 test-keycloak.gemert-bakel.nl
 test-machtigen.digipoort.logius.nl
+test-mam.ctgb.nl
 test-meedoen.goeree-overflakkee.nl
 test-meedoen.schagen.nl
 test-meedoenregeling.dongen.nl
@@ -14284,6 +14326,7 @@ testcms-intranet.eemsdelta.nl
 testcms-intranet.midden-groningen.nl
 testcms-jip.hofvantwente.nl
 testcms-markt1.nunspeet.nl
+testconn.ctgb.nl
 testcorsa.gulpen-wittem.nl
 testdigid.arnhem.nl
 testdigid.denhaag.nl
@@ -14497,6 +14540,7 @@ toegankelijkestad.zwolle.nl
 toekomst.veenendaal.nl
 toekomstig.purmerend.nl
 toekomstvisie.oude-ijsselstreek.nl
+toelatingen.ctgb.nl
 toepasbare-regels-analyseren.acc.omgevingswet.overheid.nl
 toepasbare-regels-analyseren.int.omgevingswet.overheid.nl
 toepasbare-regels-analyseren.pre.omgevingswet.overheid.nl
@@ -15594,6 +15638,7 @@ werkplek.beesel.nl
 werkplek.bodegraven-reeuwijk.nl
 werkplek.brabant.nl
 werkplek.buren.nl
+werkplek.ctgb.nl
 werkplek.derondevenen.nl
 werkplek.dongen.nl
 werkplek.eemsdelta.nl
@@ -16204,6 +16249,7 @@ www.cryptshare.kaagenbraassem.nl
 www.cryptshare.westmaasenwaal.nl
 www.csa.sudwestfryslan.nl
 www.csam.deventer.nl
+www.ctgb.nl
 www.culemborg.nl
 www.cust-ata01.haarlemmermeer.nl
 www.dalfsen.nl

@@ -9,6 +9,7 @@ http://amp-pre.logius.nl
 http://amp.logius.nl
 http://atlas-acpt.brabant.nl
 http://autodiscover.aaenmaas.nl
+http://autodiscover.ctgb.nl
 http://bzv-a.brabant.nl
 http://ca-devportal-pre.logius.nl
 http://ca-devportal.logius.nl
@@ -116,6 +117,8 @@ https://acceptatie.tmv.cibg.nl
 https://acceptatie.uzipas.lir.cibg.nl
 https://acceptatie.webservices.bigregister.nl
 https://acceptatie.zoeken.bigregister.nl
+https://acm-acc.ctgb.nl
+https://acm.ctgb.nl
 https://acs-acpt.brabant.nl
 https://acs.brabant.nl
 https://adobe-analytics-dc.belastingdienst.nl
@@ -216,6 +219,7 @@ https://bezwaar.atkm.nl
 https://bgt.basisregistraties.overheid.nl
 https://bigregister.nl
 https://binnenhofrenovatie.nl
+https://biociden.ctgb.nl
 https://blogs.brabant.nl
 https://bodem-ondergrond.omgevingswet.overheid.nl
 https://boub-api-acc.overheid.nl
@@ -280,6 +284,7 @@ https://componenten-acc.overheid.nl
 https://componenten-tst.overheid.nl
 https://componenten.overheid.nl
 https://connect-with.brabant.nl
+https://connect.ctgb.nl
 https://connectpeople.belastingdienst.nl
 https://connectpeoplereg.belastingdienst.nl
 https://content.klopt.cibg.nl
@@ -292,6 +297,7 @@ https://corsa.brabant.nl
 https://corsa2023.brabant.nl
 https://csoacct.werkenvoornederland.nl
 https://csotest.werkenvoornederland.nl
+https://ctgb.nl
 https://cultureel-erfgoed.omgevingswet.overheid.nl
 https://cursus.drop.overheid.nl
 https://data-acc.overheid.nl
@@ -324,6 +330,7 @@ https://drop-api.overheid.nl
 https://drop-preprd.overheid.nl
 https://drop.overheid.nl
 https://dva.belastingdienst.nl
+https://dwo.ctgb.nl
 https://e-mailabonnementen.rijksoverheid.nl
 https://e-maildiensten.rijksoverheid.nl
 https://e.acc.videobellen.toeslagen.nl
@@ -350,6 +357,7 @@ https://english.brabant.nl
 https://english.cbg-meb.nl
 https://english.cbgjaarverslag.nl
 https://english.ccmo.nl
+https://english.ctgb.nl
 https://english.igj.nl
 https://enterpriseenrollment.cbg-meb.nl
 https://enterpriseregistration.belastingdienst.nl
@@ -417,12 +425,14 @@ https://feeds.commissiemijnbouwschade.nl
 https://feeds.commissievanaanbestedingsexperts.nl
 https://feeds.communicatierijk.nl
 https://feeds.compensationsns.nl
+https://feeds.ctgb.nl
 https://feeds.english.aivd.nl
 https://feeds.english.autoriteitnvs.nl
 https://feeds.english.belastingdienst-cn.nl
 https://feeds.english.bigregister.nl
 https://feeds.english.cbg-meb.nl
 https://feeds.english.ccmo.nl
+https://feeds.english.ctgb.nl
 https://feeds.english.igj.nl
 https://feeds.igj.nl
 https://feeds.nieuwsbrievenminocw.nl
@@ -436,6 +446,7 @@ https://fibe1.belastingdienst.nl
 https://fibi1.belastingdienst.nl
 https://fibt1.toeslagen.nl
 https://fibz1.belastingdienst.nl
+https://filesender.ctgb.nl
 https://filetransfer.belastingdienst.nl
 https://filetransfer.ont.belastingdienst.nl
 https://fmis.acc.belastingdienst.nl
@@ -443,6 +454,7 @@ https://fmis.belastingdienst.nl
 https://forms.klopt.cibg.nl
 https://formulier.werkenvoornederland.nl
 https://formulieren.brabant.nl
+https://fs.ctgb.nl
 https://fsvportaal.belastingdienst.nl
 https://ftp.ceg.nl
 https://gdlo.belastingdienst.nl
@@ -453,6 +465,7 @@ https://gegevensuitwisseling.belastingdienst.nl
 https://geoportaal-acceptatie.brabant.nl
 https://geoportaal.brabant.nl
 https://georegister.brabant.nl
+https://gewasbeschermingsmiddelen.ctgb.nl
 https://gisservices.aaenmaas.nl
 https://gisservicesacc.aaenmaas.nl
 https://gitdocumentatie.logius.nl
@@ -635,12 +648,14 @@ https://opendata.commissiemijnbouwschade.nl
 https://opendata.commissievanaanbestedingsexperts.nl
 https://opendata.communicatierijk.nl
 https://opendata.compensationsns.nl
+https://opendata.ctgb.nl
 https://opendata.english.aivd.nl
 https://opendata.english.autoriteitnvs.nl
 https://opendata.english.belastingdienst-cn.nl
 https://opendata.english.bigregister.nl
 https://opendata.english.cbg-meb.nl
 https://opendata.english.ccmo.nl
+https://opendata.english.ctgb.nl
 https://opendata.english.igj.nl
 https://opendata.igj.nl
 https://opendata.nieuwsbrievenminocw.nl
@@ -663,11 +678,13 @@ https://over-ons.belastingdienst.nl
 https://overheid.nl
 https://ovverklaringen.belastingdienst.nl
 https://papiamentu.belastingdienst-cn.nl
+https://password.ctgb.nl
 https://pdc.acc.omgevingswet.overheid.nl
 https://pdc.omgevingswet.overheid.nl
 https://pdc.pre.omgevingswet.overheid.nl
 https://perf.omgevingswet.overheid.nl
 https://persberichten.rijksoverheid.nl
+https://pesticidesdatabase.ctgb.nl
 https://pgw.belastingdienst.nl
 https://pih.belastingdienst.nl
 https://pkio.service.acc.omgevingswet.overheid.nl
@@ -705,6 +722,7 @@ https://prod-dictu.comcms.logius.nl
 https://prod-dictu.logius.nl
 https://prototype.cibg.nl
 https://psarchief.brabant.nl
+https://public.mst.ctgb.nl
 https://publicaties.brabant.nl
 https://puc-acc.overheid.nl
 https://puc-redactie-acc.overheid.nl
@@ -770,6 +788,7 @@ https://service.perf.omgevingswet.overheid.nl
 https://service.pre.omgevingswet.overheid.nl
 https://service.tst2905.omgevingswet.overheid.nl
 https://services.belastingdienst.nl
+https://sf.ctgb.nl
 https://sharepoint.aaenmaas.nl
 https://signing.pre.brabant.nl
 https://smtp.awti.nl
@@ -827,10 +846,12 @@ https://test-dictu.kennisbank.logius.nl
 https://test-dictu.logius.nl
 https://test-internationaal.ondernemen.overheid.nl
 https://test.belastingdienst-cn.nl
+https://testconn.ctgb.nl
 https://testeloket.aaenmaas.nl
 https://testsite.ceg.nl
 https://teverantwoordenregelingen.rijksoverheid.nl
 https://tmv.cibg.nl
+https://toelatingen.ctgb.nl
 https://toepasbare-regels.omgevingswet.overheid.nl
 https://toepasbare-regels.pre.omgevingswet.overheid.nl
 https://toeslagen.nl
@@ -954,6 +975,7 @@ https://www.commissiemijnbouwschade.nl
 https://www.commissievanaanbestedingsexperts.nl
 https://www.communicatierijk.nl
 https://www.compensationsns.nl
+https://www.ctgb.nl
 https://www.dataportaal.brabant.nl
 https://www.dmo.omgevingswet.overheid.nl
 https://www.enabling.omgevingswet.overheid.nl
