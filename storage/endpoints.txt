@@ -2496,6 +2496,7 @@ https://componenten.nijmegen.nl
 https://componenten.overheid.nl
 https://concern.ir.rotterdam.nl
 https://connect-acpt.dji.nl
+https://connect-acpt.justitieleictorganisatie.nl
 https://connect-preprod.almere.nl
 https://connect-with.brabant.nl
 https://connect-with.flevoland.nl
@@ -2505,6 +2506,7 @@ https://connect.ctgb.nl
 https://connect.dji.nl
 https://connect.goirle.nl
 https://connect.ikz.nl
+https://connect.justitieleictorganisatie.nl
 https://connect.pekela.nl
 https://connect.test.winterswijk.nl
 https://connect.veendam.nl
@@ -3823,6 +3825,7 @@ https://feeds.jaarverantwoordingzorg.nl
 https://feeds.jenvgegevens.nl
 https://feeds.jeugdautoriteit.nl
 https://feeds.justid.nl
+https://feeds.justitieleictorganisatie.nl
 https://feeds.nieuwsbrievenminocw.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.persberichten.rijksoverheid.nl
@@ -4963,6 +4966,7 @@ https://intranet.heusden.nl
 https://intranet.heuvelrug.nl
 https://intranet.hoorn.nl
 https://intranet.justid.nl
+https://intranet.justitieleictorganisatie.nl
 https://intranet.kampen.nl
 https://intranet.laarbeek.nl
 https://intranet.landgraaf.nl
@@ -6701,6 +6705,7 @@ https://opendata.jaarverantwoordingzorg.nl
 https://opendata.jenvgegevens.nl
 https://opendata.jeugdautoriteit.nl
 https://opendata.justid.nl
+https://opendata.justitieleictorganisatie.nl
 https://opendata.nieuwsbrievenminocw.nl
 https://opendata.nijmegen.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
@@ -9776,6 +9781,7 @@ https://www.jijmaaktdebuurt.openstad.enschede.nl
 https://www.jongerenloket.zaanstad.nl
 https://www.jouwgrotemarkt.groningen.nl
 https://www.justid.nl
+https://www.justitieleictorganisatie.nl
 https://www.kaagenbraassem.nl
 https://www.kaartlaag.rotterdam.nl
 https://www.kampen.nl

@@ -81,8 +81,8 @@ kaart
 flowmailer-tracking
 hybrid
 kaarten
-zaken
 connect
+zaken
 cloudadapter
 magazines
 portaal
@@ -567,6 +567,7 @@ samenveiligwerken
 teams
 jip
 brs
+tunnel
 belastingportaal.acc
 inloggen.belastingportaal
 inloggen.belastingportaal.acc
@@ -859,6 +860,7 @@ kennis
 monumentenregister
 ssl
 beeldbellen
+connect-acpt
 feeds.dnadatabank
 opendata.dnadatabank
 raadplegen
@@ -1193,7 +1195,6 @@ www.sts
 www.vpn
 samenwijzer
 preprod-burgerportaal
-tunnel
 zwemles
 webkassa
 groen
@@ -3092,7 +3093,6 @@ feeds.deutsch
 opendata.deutsch
 acceptatie.abonnee
 acc.beeldbellen
-connect-acpt
 drife-f
 dvfz-acc-auth
 dvfz-acc

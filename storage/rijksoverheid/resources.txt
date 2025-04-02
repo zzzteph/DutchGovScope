@@ -738,6 +738,7 @@ conf.cbg-meb.nl
 conference-2-belastingdienst1.vc.belastingdienst.nl
 conference-3-belastingdienst1.vc.belastingdienst.nl
 connect-acpt.dji.nl
+connect-acpt.justitieleictorganisatie.nl
 connect-with.brabant.nl
 connect-with.flevoland.nl
 connect.acceptatie.hhdelfland.nl
@@ -745,6 +746,7 @@ connect.ctgb.nl
 connect.dji.nl
 connect.hhdelfland.nl
 connect.ikz.nl
+connect.justitieleictorganisatie.nl
 connectpeople.acc.belastingdienst.nl
 connectpeople.belastingdienst.nl
 connectpeople.ont.belastingdienst.nl
@@ -1220,6 +1222,7 @@ feeds.jaarverantwoordingzorg.nl
 feeds.jenvgegevens.nl
 feeds.jeugdautoriteit.nl
 feeds.justid.nl
+feeds.justitieleictorganisatie.nl
 feeds.nieuwsbrievenminocw.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.persberichten.rijksoverheid.nl
@@ -1572,6 +1575,7 @@ intranet.cultureelerfgoed.nl
 intranet.dji.nl
 intranet.flevoland.nl
 intranet.justid.nl
+intranet.justitieleictorganisatie.nl
 intratst.belastingdienst.nl
 intrekkingsportaal.acceptatie.digipoort.logius.nl
 intrekkingsportaal.digipoort.logius.nl
@@ -2152,6 +2156,7 @@ opendata.jaarverantwoordingzorg.nl
 opendata.jenvgegevens.nl
 opendata.jeugdautoriteit.nl
 opendata.justid.nl
+opendata.justitieleictorganisatie.nl
 opendata.nieuwsbrievenminocw.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.persberichten.rijksoverheid.nl
@@ -2779,6 +2784,7 @@ tuchtrecht-service-acc.overheid.nl
 tuchtrecht-service-tst.overheid.nl
 tuchtrecht-service.overheid.nl
 tuchtrecht.overheid.nl
+tunnel.justitieleictorganisatie.nl
 tunnelmdm.flevoland.nl
 uconnect-acc.hdsr.nl
 uconnect.hdsr.nl
@@ -3194,6 +3200,7 @@ www.jaarverslag2018.flevoland.nl
 www.jenvgegevens.nl
 www.jeugdautoriteit.nl
 www.justid.nl
+www.justitieleictorganisatie.nl
 www.kaarten.brabant.nl
 www.logius.nl
 www.mail.bureauwsnp.nl
