@@ -2497,6 +2497,7 @@ https://componenten.overheid.nl
 https://concern.ir.rotterdam.nl
 https://connect-acpt.dji.nl
 https://connect-acpt.justitieleictorganisatie.nl
+https://connect-acpt.kinderbescherming.nl
 https://connect-preprod.almere.nl
 https://connect-with.brabant.nl
 https://connect-with.flevoland.nl
@@ -2507,6 +2508,7 @@ https://connect.dji.nl
 https://connect.goirle.nl
 https://connect.ikz.nl
 https://connect.justitieleictorganisatie.nl
+https://connect.kinderbescherming.nl
 https://connect.pekela.nl
 https://connect.test.winterswijk.nl
 https://connect.veendam.nl
@@ -3836,6 +3838,7 @@ https://feeds.kennisvandeoverheid.nl
 https://feeds.kiesraad.nl
 https://feeds.kik-v.nl
 https://feeds.kimnet.nl
+https://feeds.kinderbescherming.nl
 https://feeds.nieuwsbrievenminocw.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.persberichten.rijksoverheid.nl
@@ -5270,6 +5273,7 @@ https://kik-v.nl
 https://kim.omgevingswet.overheid.nl
 https://kim3.amsterdam.nl
 https://kimnet.nl
+https://kinderbescherming.nl
 https://kinderboerderij.purmerend.nl
 https://kinderburgemeester.alphenaandenrijn.nl
 https://kinderburgemeester.apeldoorn.nl
@@ -5563,6 +5567,7 @@ https://magazines.igj.nl
 https://magazines.ilent.nl
 https://magazines.informatiehuishouding.nl
 https://magazines.jeugdautoriteit.nl
+https://magazines.kinderbescherming.nl
 https://magazines.rijksoverheid.nl
 https://magazines.rotterdam.nl
 https://magazines.werkenvoornederland.nl
@@ -6730,6 +6735,7 @@ https://opendata.kennisvandeoverheid.nl
 https://opendata.kiesraad.nl
 https://opendata.kik-v.nl
 https://opendata.kimnet.nl
+https://opendata.kinderbescherming.nl
 https://opendata.nieuwsbrievenminocw.nl
 https://opendata.nijmegen.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
@@ -9817,6 +9823,7 @@ https://www.kennisvandeoverheid.nl
 https://www.kiesraad.nl
 https://www.kik-v.nl
 https://www.kimnet.nl
+https://www.kinderbescherming.nl
 https://www.komverder.krimpenaandenijssel.nl
 https://www.kos.nijmegen.nl
 https://www.krimpenaandenijssel.nl

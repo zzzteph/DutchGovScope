@@ -739,6 +739,7 @@ conference-2-belastingdienst1.vc.belastingdienst.nl
 conference-3-belastingdienst1.vc.belastingdienst.nl
 connect-acpt.dji.nl
 connect-acpt.justitieleictorganisatie.nl
+connect-acpt.kinderbescherming.nl
 connect-with.brabant.nl
 connect-with.flevoland.nl
 connect.acceptatie.hhdelfland.nl
@@ -747,6 +748,7 @@ connect.dji.nl
 connect.hhdelfland.nl
 connect.ikz.nl
 connect.justitieleictorganisatie.nl
+connect.kinderbescherming.nl
 connectpeople.acc.belastingdienst.nl
 connectpeople.belastingdienst.nl
 connectpeople.ont.belastingdienst.nl
@@ -1233,6 +1235,7 @@ feeds.kennisvandeoverheid.nl
 feeds.kiesraad.nl
 feeds.kik-v.nl
 feeds.kimnet.nl
+feeds.kinderbescherming.nl
 feeds.nieuwsbrievenminocw.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.persberichten.rijksoverheid.nl
@@ -1651,6 +1654,7 @@ kiesraad.nl
 kik-v.nl
 kim.omgevingswet.overheid.nl
 kimnet.nl
+kinderbescherming.nl
 klopt.cibg.nl
 koppelvlak-acc.overheid.nl
 koppelvlak-asl.overheid.nl
@@ -1722,6 +1726,7 @@ magazines.ilent.nl
 magazines.informatiehuishouding.nl
 magazines.inspectie-jenv.nl
 magazines.jeugdautoriteit.nl
+magazines.kinderbescherming.nl
 magazines.rijksoverheid.nl
 magazines.werkenvoornederland.nl
 magazinesintern.rijksoverheid.nl
@@ -2182,6 +2187,7 @@ opendata.kennisvandeoverheid.nl
 opendata.kiesraad.nl
 opendata.kik-v.nl
 opendata.kimnet.nl
+opendata.kinderbescherming.nl
 opendata.nieuwsbrievenminocw.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.persberichten.rijksoverheid.nl
@@ -2742,12 +2748,14 @@ test.geoservices.cultureelerfgoed.nl
 test.hcv.mijn.overheid.nl
 test.kennis-staging.cultureelerfgoed.nl
 test.kennis.cultureelerfgoed.nl
+test.kinderbescherming.nl
 test.monumentenregister.cultureelerfgoed.nl
 test.publicwebservices.cibg.nl
 test.stub.mijn.overheid.nl
 test.t.cultureelerfgoed.nl
 test.veilig.cultureelerfgoed.nl
 test.webservices.donorregister.nl
+test2.kinderbescherming.nl
 test2gbav.belastingdienst.nl
 testbegrippen.hdsr.nl
 testconn.ctgb.nl
@@ -3235,6 +3243,7 @@ www.kennisvandeoverheid.nl
 www.kiesraad.nl
 www.kik-v.nl
 www.kimnet.nl
+www.kinderbescherming.nl
 www.logius.nl
 www.mail.bureauwsnp.nl
 www.metelkaartrekkenwedegrens.nl

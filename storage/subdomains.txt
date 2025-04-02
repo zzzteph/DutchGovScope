@@ -77,14 +77,14 @@ omgevingsvisie
 digikoppeling-test
 cloudadapter-test
 formulier
+connect
 kaart
 flowmailer-tracking
 hybrid
 kaarten
-connect
 zaken
-cloudadapter
 magazines
+cloudadapter
 portaal
 cmsintranet
 test-intranet
@@ -555,6 +555,7 @@ mijnwerkplek
 idselect
 oud
 veilig
+connect-acpt
 services-test
 mailings
 begroting2020
@@ -860,7 +861,6 @@ kennis
 monumentenregister
 ssl
 beeldbellen
-connect-acpt
 feeds.dnadatabank
 opendata.dnadatabank
 raadplegen
@@ -3310,6 +3310,7 @@ validatie-acc
 validatie
 menukaart
 www-old
+test2
 email.mail.participatie
 mail.participatie
 aalten-checker-preprod

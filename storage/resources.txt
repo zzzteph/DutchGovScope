@@ -3642,6 +3642,7 @@ conference-3-belastingdienst1.vc.belastingdienst.nl
 conference.assen.nl
 connect-acpt.dji.nl
 connect-acpt.justitieleictorganisatie.nl
+connect-acpt.kinderbescherming.nl
 connect-preprod.almere.nl
 connect-with.brabant.nl
 connect-with.flevoland.nl
@@ -3674,6 +3675,7 @@ connect.hhdelfland.nl
 connect.ikz.nl
 connect.justitieleictorganisatie.nl
 connect.kerkrade.nl
+connect.kinderbescherming.nl
 connect.oldenzaal.nl
 connect.overbetuwe.nl
 connect.pekela.nl
@@ -5966,6 +5968,7 @@ feeds.kennisvandeoverheid.nl
 feeds.kiesraad.nl
 feeds.kik-v.nl
 feeds.kimnet.nl
+feeds.kinderbescherming.nl
 feeds.nieuwsbrievenminocw.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.persberichten.rijksoverheid.nl
@@ -8818,6 +8821,7 @@ kim3.amsterdam.nl
 kimgoa.acc.amsterdam.nl
 kimgoa.amsterdam.nl
 kimnet.nl
+kinderbescherming.nl
 kinderboerderij.purmerend.nl
 kinderburgemeester.alphenaandenrijn.nl
 kinderburgemeester.apeldoorn.nl
@@ -9358,6 +9362,7 @@ magazines.ilent.nl
 magazines.informatiehuishouding.nl
 magazines.inspectie-jenv.nl
 magazines.jeugdautoriteit.nl
+magazines.kinderbescherming.nl
 magazines.rijksoverheid.nl
 magazines.rotterdam.nl
 magazines.werkenvoornederland.nl
@@ -11392,6 +11397,7 @@ opendata.kennisvandeoverheid.nl
 opendata.kiesraad.nl
 opendata.kik-v.nl
 opendata.kimnet.nl
+opendata.kinderbescherming.nl
 opendata.nieuwsbrievenminocw.nl
 opendata.nijmegen.nl
 opendata.papiamentu.belastingdienst-cn.nl
@@ -15091,6 +15097,7 @@ test.io.amsterdam.nl
 test.kampen.nl
 test.kennis-staging.cultureelerfgoed.nl
 test.kennis.cultureelerfgoed.nl
+test.kinderbescherming.nl
 test.lab.tod.leiden.nl
 test.leiden.nl
 test.loket.oss.nl
@@ -15138,6 +15145,7 @@ test.waddinxveen.nl
 test.webservices.donorregister.nl
 test.website.westland.gemeentewestland.nl
 test.zaltbommel.nl
+test2.kinderbescherming.nl
 test2gbav.belastingdienst.nl
 testafspraken.alkmaar.nl
 testafspraken.gemeentehw.nl
@@ -17599,6 +17607,7 @@ www.kerkrade.nl
 www.kiesraad.nl
 www.kik-v.nl
 www.kimnet.nl
+www.kinderbescherming.nl
 www.kindpakket.groningen.nl
 www.kmdn.gemeentehulst.nl
 www.kodision-prod.sudwestfryslan.nl

@@ -364,12 +364,14 @@ https://componenten-tst.overheid.nl
 https://componenten.overheid.nl
 https://connect-acpt.dji.nl
 https://connect-acpt.justitieleictorganisatie.nl
+https://connect-acpt.kinderbescherming.nl
 https://connect-with.brabant.nl
 https://connect-with.flevoland.nl
 https://connect.ctgb.nl
 https://connect.dji.nl
 https://connect.ikz.nl
 https://connect.justitieleictorganisatie.nl
+https://connect.kinderbescherming.nl
 https://connectpeople.belastingdienst.nl
 https://connectpeoplereg.belastingdienst.nl
 https://content.klopt.cibg.nl
@@ -716,6 +718,7 @@ https://feeds.kennisvandeoverheid.nl
 https://feeds.kiesraad.nl
 https://feeds.kik-v.nl
 https://feeds.kimnet.nl
+https://feeds.kinderbescherming.nl
 https://feeds.nieuwsbrievenminocw.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.persberichten.rijksoverheid.nl
@@ -890,6 +893,7 @@ https://kiesraad.nl
 https://kik-v.nl
 https://kim.omgevingswet.overheid.nl
 https://kimnet.nl
+https://kinderbescherming.nl
 https://koppelvlak-asl.overheid.nl
 https://koppelvlak.overheid.nl
 https://kwaliteitsdashboard-koop.overheid.nl
@@ -932,6 +936,7 @@ https://magazines.igj.nl
 https://magazines.ilent.nl
 https://magazines.informatiehuishouding.nl
 https://magazines.jeugdautoriteit.nl
+https://magazines.kinderbescherming.nl
 https://magazines.rijksoverheid.nl
 https://magazines.werkenvoornederland.nl
 https://magazinesintern.rijksoverheid.nl
@@ -1185,6 +1190,7 @@ https://opendata.kennisvandeoverheid.nl
 https://opendata.kiesraad.nl
 https://opendata.kik-v.nl
 https://opendata.kimnet.nl
+https://opendata.kinderbescherming.nl
 https://opendata.nieuwsbrievenminocw.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.persberichten.rijksoverheid.nl
@@ -1700,6 +1706,7 @@ https://www.kennisvandeoverheid.nl
 https://www.kiesraad.nl
 https://www.kik-v.nl
 https://www.kimnet.nl
+https://www.kinderbescherming.nl
 https://www.logius.nl
 https://www.metelkaartrekkenwedegrens.nl
 https://www.mijn.dus-i.nl
