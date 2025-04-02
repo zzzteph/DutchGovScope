@@ -11,7 +11,13 @@ http://AutoDiscover.westvoorne.nl
 http://Autodiscover.hilversum.nl
 http://acc-zaanlink.zaanstad.nl
 http://acc.avgregisterrijksoverheid.nl
+http://acc.encoded.api-gateway.archis.cultureelerfgoed.nl
+http://acc.gml.map.services.cultureelerfgoed.nl
 http://acc.oinregister.logius.nl
+http://acc.render.map.services.cultureelerfgoed.nl
+http://acc.subsidie.cultureelerfgoed.nl
+http://acc.translate.services.cultureelerfgoed.nl
+http://acc.zaak.services.cultureelerfgoed.nl
 http://acceptatie.digikoppeling-dcr.cibg.nl
 http://acpt-machtigen.digipoort.logius.nl
 http://afspraak.bergendal.nl
@@ -430,6 +436,7 @@ http://schiermonnikoog.nl
 http://secure.dalfsen.nl
 http://secure.valkenburg.nl
 http://sem.kampen.nl
+http://services.cultureelerfgoed.nl
 http://sharepoint-ext-conf.belastingdienst.nl
 http://sharepoint-ext.belastingdienst.nl
 http://simcms-centrumimpuls.geldrop-mierlo.nl
@@ -862,6 +869,7 @@ https://acc.adus.amsterdam.nl
 https://acc.adviescollegeveiligheidgroningen.nl
 https://acc.aip.amsterdam.nl
 https://acc.amersfoort.nl
+https://acc.api-gateway.archis.cultureelerfgoed.nl
 https://acc.api.brp.amsterdam.nl
 https://acc.api.data.amsterdam.nl
 https://acc.api.meldingen.amsterdam.nl
@@ -870,6 +878,8 @@ https://acc.api.top.amsterdam.nl
 https://acc.api.wonen.zaken.amsterdam.nl
 https://acc.app.amsterdam.nl
 https://acc.app.meldingen.amsterdam.nl
+https://acc.archis.cultureelerfgoed.nl
+https://acc.auth.services.cultureelerfgoed.nl
 https://acc.beesel.nl
 https://acc.belastingloket.waalwijk.nl
 https://acc.bereikbaarheid.amsterdam.nl
@@ -879,6 +889,7 @@ https://acc.boekel.nl
 https://acc.borsele.nl
 https://acc.bp.data.amsterdam.nl
 https://acc.breda.nl
+https://acc.client.archis.cultureelerfgoed.nl
 https://acc.denhaag.nl
 https://acc.easyfunders.leiden.nl
 https://acc.epe.nl
@@ -904,6 +915,7 @@ https://acc.microservices.schoolwijzer.amsterdam.nl
 https://acc.midden-groningen.nl
 https://acc.mijn.leeuwarden.nl
 https://acc.montferland.info
+https://acc.monumentenregister.cultureelerfgoed.nl
 https://acc.nijmegen.nl
 https://acc.noord-beveland.nl
 https://acc.omgevingswet.overheid.nl
@@ -921,6 +933,7 @@ https://acc.sensorenregister.amsterdam.nl
 https://acc.statistiek.data.amsterdam.nl
 https://acc.stemvan.opsterland.nl
 https://acc.stichtsevecht.nl
+https://acc.stor.services.cultureelerfgoed.nl
 https://acc.straatnotes.amsterdam.nl
 https://acc.subsidie.leiden.nl
 https://acc.ton.amsterdam.nl
@@ -959,6 +972,7 @@ https://acceptatie.advieswijzer.bigregister.nl
 https://acceptatie.alphen-chaam.nl
 https://acceptatie.api.bigregister.nl
 https://acceptatie.applicationframework.cibg.nl
+https://acceptatie.archis.cultureelerfgoed.nl
 https://acceptatie.asten.nl
 https://acceptatie.baarle-nassau.nl
 https://acceptatie.behandel.bigregister.nl
@@ -976,6 +990,7 @@ https://acceptatie.drms.cibg.nl
 https://acceptatie.eemsdelta.nl
 https://acceptatie.eloket.leusden.nl
 https://acceptatie.gemeentesluis.nl
+https://acceptatie.geoservices.cultureelerfgoed.nl
 https://acceptatie.gilzerijen.nl
 https://acceptatie.goirle.nl
 https://acceptatie.hardenberg.nl
@@ -1296,6 +1311,7 @@ https://apex.almere.nl
 https://api-acc.breda.nl
 https://api-acceptatie.tilburg.nl
 https://api-dev.breda.nl
+https://api-gateway.archis.cultureelerfgoed.nl
 https://api-hetravijn.hellendoorn.nl
 https://api-meldingen.acc.almelo.nl
 https://api-meldingen.acc.denhaag.nl
@@ -1347,6 +1363,7 @@ https://api.hardenberg.nl
 https://api.heitje.heerlen.nl
 https://api.horstaandemaas.nl
 https://api.klopt.cibg.nl
+https://api.linkeddata.cultureelerfgoed.nl
 https://api.makkelijkemarkt.amsterdam.nl
 https://api.melding.acc.heerlen.nl
 https://api.melding.heerlen.nl
@@ -1499,6 +1516,8 @@ https://archief.schiedam.nl
 https://archief.venlo.nl
 https://archief.zaanstad.nl
 https://archieven.stadsarchief.breda.nl
+https://archis.cultureelerfgoed.nl
+https://archisarchief.cultureelerfgoed.nl
 https://arena.ami-acc.amsterdam.nl
 https://arena.ami-dev.amsterdam.nl
 https://arena.ami-tac.amsterdam.nl
@@ -1543,6 +1562,7 @@ https://auth.openstad.enschede.nl
 https://auth.openstad.gemeentewestland.nl
 https://auth.openstad.haarlemmermeer.nl
 https://auth.openstad.nijmegen.nl
+https://auth.services.cultureelerfgoed.nl
 https://auth.steenwijkerland.nl
 https://auth.v2.openstad.haarlemmermeer.nl
 https://auth1.denhaag.nl
@@ -1689,6 +1709,7 @@ https://beeldbank.amstelveen.nl
 https://beeldbank.baarn.nl
 https://beeldbank.brabant.nl
 https://beeldbank.breda.nl
+https://beeldbank.cultureelerfgoed.nl
 https://beeldbank.ede.nl
 https://beeldbank.extranet.tilburg.nl
 https://beeldbank.gemeentebest.nl
@@ -2236,6 +2257,7 @@ https://cardsonline.tst.intra.amsterdam.nl
 https://casa.acc.topdesk.denhaag.nl
 https://casa.topdesk.denhaag.nl
 https://castricum.nl
+https://catalogus.cultureelerfgoed.nl
 https://catalogus.dataplatform.accp.s-hertogenbosch.nl
 https://catalogus.dataplatform.s-hertogenbosch.nl
 https://cbg-meb.nl
@@ -2501,6 +2523,7 @@ https://ctpveldzicht.nl
 https://cuijk.landvancuijk.nl
 https://culemborg.nl
 https://cultureel-erfgoed.omgevingswet.overheid.nl
+https://cultureelerfgoed.nl
 https://cultuur.landvancuijk.nl
 https://cursus.drop.overheid.nl
 https://cuup-web.amsterdam.nl
@@ -2567,7 +2590,9 @@ https://data.amsterdam.nl
 https://data.bergendal.nl
 https://data.beuningen.nl
 https://data.breda.nl
+https://data.cultureelerfgoed.nl
 https://data.delft.nl
+https://data.geo.cultureelerfgoed.nl
 https://data.groningen.nl
 https://data.haarlem.nl
 https://data.heumen.nl
@@ -3335,6 +3360,7 @@ https://english.cbgjaarverslag.nl
 https://english.ccmo.nl
 https://english.ctgb.nl
 https://english.ctivd.nl
+https://english.cultureelerfgoed.nl
 https://english.eindhoven.nl
 https://english.igj.nl
 https://enkhuizen.nl
@@ -3421,6 +3447,7 @@ https://erfgoed.utrecht.nl
 https://erfgoed.zaanstad.nl
 https://erfgoed.zwolle.nl
 https://erfgoedmaasenniers.gennep.nl
+https://erfgoedmonitor.cultureelerfgoed.nl
 https://erfgoedregister.amsterdam.nl
 https://erfpacht-acc.amsterdam.nl
 https://erfpacht-codekwal-dev.amsterdam.nl
@@ -3489,6 +3516,7 @@ https://ezaken-acceptatie.purmerend.nl
 https://ezaken.purmerend.nl
 https://f2b.belastingdienst.nl
 https://facilitor.brabant.nl
+https://faro.cultureelerfgoed.nl
 https://fba.deventer.nl
 https://fblocatielijst.amsterdam.nl
 https://fbtools.amsterdam.nl
@@ -3551,6 +3579,7 @@ https://feeds.compensationsns.nl
 https://feeds.ctgb.nl
 https://feeds.ctivd.nl
 https://feeds.ctpveldzicht.nl
+https://feeds.cultureelerfgoed.nl
 https://feeds.english.aivd.nl
 https://feeds.english.autoriteitnvs.nl
 https://feeds.english.belastingdienst-cn.nl
@@ -3559,6 +3588,7 @@ https://feeds.english.cbg-meb.nl
 https://feeds.english.ccmo.nl
 https://feeds.english.ctgb.nl
 https://feeds.english.ctivd.nl
+https://feeds.english.cultureelerfgoed.nl
 https://feeds.english.igj.nl
 https://feeds.igj.nl
 https://feeds.nieuwsbrievenminocw.nl
@@ -3725,6 +3755,7 @@ https://formulier.accp.s-hertogenbosch.nl
 https://formulier.amsterdam.nl
 https://formulier.assen.nl
 https://formulier.breda.nl
+https://formulier.cultureelerfgoed.nl
 https://formulier.denhaag.nl
 https://formulier.ede.nl
 https://formulier.enschede.nl
@@ -3806,6 +3837,7 @@ https://formulierenmd.groningen.nl
 https://formulierenpb.groningen.nl
 https://formulierna.denhaag.nl
 https://foto-bo.rijswijk.nl
+https://foto-opdracht.cultureelerfgoed.nl
 https://foto.landvancuijk.nl
 https://foto.rijswijk.nl
 https://fotobank.amsterdam.nl
@@ -3994,6 +4026,7 @@ https://georegister.brabant.nl
 https://geoserver-signalen.almere.nl
 https://geoserver.haarlemmermeer.nl
 https://geoserver.nieuwegein.nl
+https://geoservices.cultureelerfgoed.nl
 https://geoservices.denhaag.nl
 https://geoservices.haarlemmermeer.nl
 https://geoservices.huizen.nl
@@ -4455,6 +4488,7 @@ https://idp.ggd.amsterdam.nl
 https://ids-test.smallingerland.nl
 https://ids.smallingerland.nl
 https://idselect.accp.s-hertogenbosch.nl
+https://idselect.cultureelerfgoed.nl
 https://idselect.hollandskroon.nl
 https://idselectprd.hollandskroon.nl
 https://idtst.dalfsen.nl
@@ -4582,6 +4616,7 @@ https://intens-acc.enschede.nl
 https://intens.enschede.nl
 https://intermediairdagen.belastingdienst.nl
 https://intern.aanmeldenparkeren.amsterdam.nl
+https://intern.catalogus.cultureelerfgoed.nl
 https://intern.formulieren.acc.amsterdam.nl
 https://intern.formulieren.amsterdam.nl
 https://internemagazines.amsterdam.nl
@@ -4610,6 +4645,7 @@ https://intranet.amsterdam.nl
 https://intranet.apeldoorn.nl
 https://intranet.bergendal.nl
 https://intranet.bernheze.org
+https://intranet.cultureelerfgoed.nl
 https://intranet.debilt.nl
 https://intranet.delft.nl
 https://intranet.deventer.nl
@@ -4860,6 +4896,8 @@ https://kcsburgerzaken.nissewaard.nl
 https://keerpunt.rijswijk.nl
 https://kei.deventer.nl
 https://kenneth.delft.nl
+https://kennis-staging.cultureelerfgoed.nl
+https://kennis.cultureelerfgoed.nl
 https://kennisbank.barneveld.nl
 https://kennisbank.eindhoven.nl
 https://kennisbank.groningen.nl
@@ -5005,12 +5043,14 @@ https://leusden.nl
 https://leverancier.gemeenteberkelland.nl
 https://life.landvancuijk.nl
 https://lifecoolsquare.groningen.nl
+https://lil.cultureelerfgoed.nl
 https://linden.landvancuijk.nl
 https://link.burgerpanel.middendrenthe.nl
 https://link.capelleaandenijssel.nl
 https://link.pr.almere.nl
 https://link.schouwen-duiveland.nl
 https://link.socialewegwijzer.meierijstad.nl
+https://linkeddata.cultureelerfgoed.nl
 https://linkeddata.overheid.nl
 https://linkextractor.overheid.nl
 https://lintendijkenpaden.zaanstad.nl
@@ -5171,6 +5211,7 @@ https://magazine.kampen.nl
 https://magazine.landvancuijk.nl
 https://magazines.algemenebestuursdienst.nl
 https://magazines.amsterdam.nl
+https://magazines.cultureelerfgoed.nl
 https://magazines.gooisemeren.nl
 https://magazines.igj.nl
 https://magazines.rijksoverheid.nl
@@ -5197,6 +5238,7 @@ https://mail.zutphen.nl
 https://mail2.vught.nl
 https://mailct.nijmegen.nl
 https://mailer.utrecht.nl
+https://mailhog.acc.monumentenregister.cultureelerfgoed.nl
 https://mailing.alphenaandenrijn.nl
 https://mailing.borsele.nl
 https://mailing.defryskemarren.nl
@@ -5234,6 +5276,7 @@ https://mariahoeveaanzet.denhaag.nl
 https://markt1.nunspeet.nl
 https://marktportaal.hoorn.nl
 https://mas.groningen.nl
+https://mass.cultureelerfgoed.nl
 https://mataf.rotterdam.nl
 https://matenpark.apeldoorn.nl
 https://matomo.breda.nl
@@ -5728,6 +5771,7 @@ https://montferland.info
 https://montfoort.nl
 https://monumenten.acc.amsterdam.nl
 https://monumenten.amsterdam.nl
+https://monumentenregister.cultureelerfgoed.nl
 https://monumentenregister.rotterdam.nl
 https://mookenmiddelaar.nl
 https://morgen.venlo.nl
@@ -5837,6 +5881,7 @@ https://nimmaleert.nijmegen.nl
 https://nissewaard.nl
 https://nlgembrl.brielle.nl
 https://nln.nunspeet.nl
+https://noaa.cultureelerfgoed.nl
 https://noardeast-fryslan.nl
 https://nogknapper.deventer.nl
 https://noord-beveland.nl
@@ -6201,6 +6246,7 @@ https://opendata.compensationsns.nl
 https://opendata.ctgb.nl
 https://opendata.ctivd.nl
 https://opendata.ctpveldzicht.nl
+https://opendata.cultureelerfgoed.nl
 https://opendata.english.aivd.nl
 https://opendata.english.autoriteitnvs.nl
 https://opendata.english.belastingdienst-cn.nl
@@ -6209,6 +6255,7 @@ https://opendata.english.cbg-meb.nl
 https://opendata.english.ccmo.nl
 https://opendata.english.ctgb.nl
 https://opendata.english.ctivd.nl
+https://opendata.english.cultureelerfgoed.nl
 https://opendata.english.igj.nl
 https://opendata.heemstede.nl
 https://opendata.igj.nl
@@ -6629,6 +6676,7 @@ https://podiumd-openzaak.deventer.nl
 https://podiumd-zac.deventer.nl
 https://point.assen.nl
 https://pollerscs.rotterdam.nl
+https://pom.cultureelerfgoed.nl
 https://pop.deventer.nl
 https://portaal.belastingdienst.nl
 https://portaal.competent.cibg.nl
@@ -6699,6 +6747,7 @@ https://praatmee.goeree-overflakkee.nl
 https://praatmee.schiedam.nl
 https://praatmee.sint-michielsgestel.nl
 https://prd.afs.amsterdam.nl
+https://prd.archis.cultureelerfgoed.nl
 https://pre-gemeenteloket.gemeentemaastricht.nl
 https://pre-inloggen.landgraaf.nl
 https://pre-mijnzorg.waalwijk.nl
@@ -6778,6 +6827,7 @@ https://preprod.drimmelen.nl
 https://preprod.enschede.nl
 https://preprod.hattem.nl
 https://preprod.heerde.nl
+https://preprod.idselect.cultureelerfgoed.nl
 https://preprod.inloggen.meierijstad.nl
 https://preprod.mijn.overheid.nl
 https://preprod.mijnaanvraagzi.beuningen.nl
@@ -7682,6 +7732,7 @@ https://stemvan.wageningen.nl
 https://stevensbeek.landvancuijk.nl
 https://stichtsevecht.nl
 https://stoepvrij.groningen.nl
+https://stor.services.cultureelerfgoed.nl
 https://storing.acc.denhaag.nl
 https://storing.denhaag.nl
 https://straatnotes.amsterdam.nl
@@ -7712,6 +7763,7 @@ https://subsidie-backend.maassluis.nl
 https://subsidie.acc.haarlemmermeer.nl
 https://subsidie.acceptatie.dordrecht.nl
 https://subsidie.almelo.nl
+https://subsidie.cultureelerfgoed.nl
 https://subsidie.dordrecht.nl
 https://subsidie.haarlemmermeer.nl
 https://subsidie.leiden.nl
@@ -7917,15 +7969,19 @@ https://test.eijsden-margraten.nl
 https://test.elburg.nl
 https://test.formulieren.almere.nl
 https://test.formulieren.leiden.nl
+https://test.geoservices.cultureelerfgoed.nl
 https://test.haarendossiers.oisterwijk.nl
 https://test.helmond.nl
 https://test.hoorn.nl
 https://test.io.amsterdam.nl
+https://test.kennis-staging.cultureelerfgoed.nl
+https://test.kennis.cultureelerfgoed.nl
 https://test.lab.tod.leiden.nl
 https://test.loket.oss.nl
 https://test.mijnhulpvraag.rijswijk.nl
 https://test.mijnzorg.beekdaelen.nl
 https://test.moerdijk.nl
+https://test.monumentenregister.cultureelerfgoed.nl
 https://test.open-formulieren.noordoostpolder.nl
 https://test.open-formulieren.vught.nl
 https://test.pekela.nl
@@ -8021,6 +8077,7 @@ https://texel.nl
 https://teylingen-checker-preprod.teylingen.nl
 https://teylingen.nl
 https://themawebsite.hoorn.nl
+https://thesaurus.cultureelerfgoed.nl
 https://thic.denhaag.nl
 https://this010.rotterdam.nl
 https://tholen.nl
@@ -8119,6 +8176,7 @@ https://tsiam.oostzaan.nl
 https://tsiam.wormerland.nl
 https://tst-eformulier.heerlen.nl
 https://tst-ubor.amsterdam.nl
+https://tst.subsidie.cultureelerfgoed.nl
 https://tst2905.omgevingswet.overheid.nl
 https://tstidentity.sudwestfryslan.nl
 https://tsuyt.waddinxveen.nl
@@ -8209,6 +8267,7 @@ https://veendam.nl
 https://veenendaal.nl
 https://veenkolonien.groningen.nl
 https://veere.nl
+https://veilig.cultureelerfgoed.nl
 https://veilig.houten.nl
 https://veilig.veenendaal.nl
 https://veiligdelen.alkmaar.nl
@@ -8668,6 +8727,8 @@ https://wijkvernieuwing.groningen.nl
 https://wijsamen.groningen.nl
 https://wijzer-acc.opmeer.nl
 https://wijzer.opmeer.nl
+https://wikixl-saml.cultureelerfgoed.nl
+https://wikixl-saml.test.cultureelerfgoed.nl
 https://wilbertoord.landvancuijk.nl
 https://willkommen.groningen.nl
 https://windopland.haarlemmermeer.nl
@@ -8783,6 +8844,7 @@ https://www.academievoorinternationalebetrekkingen.nl
 https://www.academyforinternationalrelations.nl
 https://www.acc.amsterdam.nl
 https://www.acc.denhaag.nl
+https://www.acc.monumentenregister.cultureelerfgoed.nl
 https://www.acc.omgevingswet.overheid.nl
 https://www.acceptatie.aalsmeer.nl
 https://www.acceptatie.amstelveen.nl
@@ -8927,6 +8989,7 @@ https://www.ctgb.nl
 https://www.ctivd.nl
 https://www.ctpveldzicht.nl
 https://www.culemborg.nl
+https://www.cultureelerfgoed.nl
 https://www.dalfsen.nl
 https://www.dantumadiel.frl
 https://www.dataportaal.brabant.nl
@@ -9172,6 +9235,7 @@ https://www.moerdijk.nl
 https://www.molenlanden.nl
 https://www.montferland.info
 https://www.montfoort.nl
+https://www.monumentenregister.cultureelerfgoed.nl
 https://www.morgen.venlo.nl
 https://www.ndbu-acc.utrecht.nl
 https://www.ndbu-tst.utrecht.nl
@@ -9338,6 +9402,7 @@ https://www.t-diel.nl
 https://www.terneuzen.nl
 https://www.terschelling.nl
 https://www.test.denhaag.nl
+https://www.test.monumentenregister.cultureelerfgoed.nl
 https://www.testsite.ceg.nl
 https://www.texel.nl
 https://www.teylingen.nl
@@ -9373,6 +9438,7 @@ https://www.vastgoedbedrijf.arnhem.nl
 https://www.veendam.nl
 https://www.veenendaal.nl
 https://www.veenkolonien.groningen.nl
+https://www.veilig.cultureelerfgoed.nl
 https://www.veldhoven.nl
 https://www.velsen.nl
 https://www.venlo.nl
@@ -9579,6 +9645,7 @@ https://zoek.epe.nl
 https://zoekdienst.overheid.nl
 https://zoekeentolkvertaler.bureauwbtv.nl
 https://zoeken.bigregister.nl
+https://zoeken.cultureelerfgoed.nl
 https://zoeken.deventer.nl
 https://zoeken.olst-wijhe.nl
 https://zoeken.ondernemersplein.overheid.nl
