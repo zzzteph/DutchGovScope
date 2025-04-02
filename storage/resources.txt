@@ -5353,6 +5353,7 @@ energiek.beuningen.nl
 energieklussers.rotterdam.nl
 energieloket.hilversum.nl
 energiepunt.apeldoorn.nl
+energierijkdenhaag.nl
 energiethuis.eba.maassluis.nl
 energiethuis.maassluis.nl
 energiethuis.scan.maassluis.nl
@@ -5751,6 +5752,7 @@ feeds.elkeregiotelt.nl
 feeds.emissieautoriteit.nl
 feeds.emissionsauthority.nl
 feeds.emm-online.nl
+feeds.energierijkdenhaag.nl
 feeds.english.aivd.nl
 feeds.english.autoriteitnvs.nl
 feeds.english.belastingdienst-cn.nl
@@ -10962,6 +10964,7 @@ opendata.elkeregiotelt.nl
 opendata.emissieautoriteit.nl
 opendata.emissionsauthority.nl
 opendata.emm-online.nl
+opendata.energierijkdenhaag.nl
 opendata.english.aivd.nl
 opendata.english.autoriteitnvs.nl
 opendata.english.belastingdienst-cn.nl
@@ -16757,6 +16760,7 @@ www.en.gemert-bakel.nl
 www.enabling.omgevingswet.overheid.nl
 www.energiek.beuningen.nl
 www.energiepunt.apeldoorn.nl
+www.energierijkdenhaag.nl
 www.english.assen.nl
 www.enkhuizen.nl
 www.enquete.denhaag.nl

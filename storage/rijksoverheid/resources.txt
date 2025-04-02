@@ -852,6 +852,7 @@ emissionsauthority.nl
 emm-online.nl
 emm.belastingdienst.nl
 enabling.omgevingswet.overheid.nl
+energierijkdenhaag.nl
 english.aivd.nl
 english.autoriteitnvs.nl
 english.awti.nl
@@ -1018,6 +1019,7 @@ feeds.elkeregiotelt.nl
 feeds.emissieautoriteit.nl
 feeds.emissionsauthority.nl
 feeds.emm-online.nl
+feeds.energierijkdenhaag.nl
 feeds.english.aivd.nl
 feeds.english.autoriteitnvs.nl
 feeds.english.belastingdienst-cn.nl
@@ -1753,6 +1755,7 @@ opendata.elkeregiotelt.nl
 opendata.emissieautoriteit.nl
 opendata.emissionsauthority.nl
 opendata.emm-online.nl
+opendata.energierijkdenhaag.nl
 opendata.english.aivd.nl
 opendata.english.autoriteitnvs.nl
 opendata.english.belastingdienst-cn.nl
@@ -2634,6 +2637,7 @@ www.emissieautoriteit.nl
 www.emissionsauthority.nl
 www.emm-online.nl
 www.enabling.omgevingswet.overheid.nl
+www.energierijkdenhaag.nl
 www.gtmx.acc.belastingdienst.nl
 www.igj.nl
 www.int.omgevingswet.overheid.nl
