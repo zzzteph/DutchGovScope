@@ -5956,6 +5956,7 @@ feeds.jenvgegevens.nl
 feeds.jeugdautoriteit.nl
 feeds.justid.nl
 feeds.justitieleictorganisatie.nl
+feeds.kabinetsformatie2023.nl
 feeds.nieuwsbrievenminocw.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.persberichten.rijksoverheid.nl
@@ -8633,6 +8634,7 @@ kaartviewer.barneveld.nl
 kaartviewer.gemeentehulst.nl
 kaartviewer.hoorn.nl
 kaartviewer.pijnacker-nootdorp.nl
+kabinetsformatie2023.nl
 kadbrkwkpd.deventer.nl
 kaderbrief.leiden.nl
 kadernota.middelburg.nl
@@ -11367,6 +11369,7 @@ opendata.jenvgegevens.nl
 opendata.jeugdautoriteit.nl
 opendata.justid.nl
 opendata.justitieleictorganisatie.nl
+opendata.kabinetsformatie2023.nl
 opendata.nieuwsbrievenminocw.nl
 opendata.nijmegen.nl
 opendata.papiamentu.belastingdienst-cn.nl
@@ -17561,6 +17564,7 @@ www.kaarten.haarlemmermeer.nl
 www.kaarten.sudwestfryslan.nl
 www.kaartlaag.rotterdam.nl
 www.kaartviewer.gemeentehulst.nl
+www.kabinetsformatie2023.nl
 www.kampen.nl
 www.kantoor.weststellingwerf.nl
 www.kapelle.nl

@@ -3826,6 +3826,7 @@ https://feeds.jenvgegevens.nl
 https://feeds.jeugdautoriteit.nl
 https://feeds.justid.nl
 https://feeds.justitieleictorganisatie.nl
+https://feeds.kabinetsformatie2023.nl
 https://feeds.nieuwsbrievenminocw.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.persberichten.rijksoverheid.nl
@@ -5186,6 +5187,7 @@ https://kaartlaag.rotterdam.nl
 https://kaartviewer.barneveld.nl
 https://kaartviewer.hoorn.nl
 https://kaartviewer.pijnacker-nootdorp.nl
+https://kabinetsformatie2023.nl
 https://kadbrkwkpd.deventer.nl
 https://kaderbrief.leiden.nl
 https://kadernota.middelburg.nl
@@ -6706,6 +6708,7 @@ https://opendata.jenvgegevens.nl
 https://opendata.jeugdautoriteit.nl
 https://opendata.justid.nl
 https://opendata.justitieleictorganisatie.nl
+https://opendata.kabinetsformatie2023.nl
 https://opendata.nieuwsbrievenminocw.nl
 https://opendata.nijmegen.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
@@ -9784,6 +9787,7 @@ https://www.justid.nl
 https://www.justitieleictorganisatie.nl
 https://www.kaagenbraassem.nl
 https://www.kaartlaag.rotterdam.nl
+https://www.kabinetsformatie2023.nl
 https://www.kampen.nl
 https://www.kapelle.nl
 https://www.katwijk.nl

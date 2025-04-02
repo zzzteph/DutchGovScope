@@ -1223,6 +1223,7 @@ feeds.jenvgegevens.nl
 feeds.jeugdautoriteit.nl
 feeds.justid.nl
 feeds.justitieleictorganisatie.nl
+feeds.kabinetsformatie2023.nl
 feeds.nieuwsbrievenminocw.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.persberichten.rijksoverheid.nl
@@ -1601,6 +1602,7 @@ kaartbank.brabant.nl
 kaarten-demo.overheid.nl
 kaarten.brabant.nl
 kaarten.hdsr.nl
+kabinetsformatie2023.nl
 kantoor.hdsr.nl
 kasdimsigning-cnf.belastingdienst.nl
 kasdimsigning.belastingdienst.nl
@@ -2157,6 +2159,7 @@ opendata.jenvgegevens.nl
 opendata.jeugdautoriteit.nl
 opendata.justid.nl
 opendata.justitieleictorganisatie.nl
+opendata.kabinetsformatie2023.nl
 opendata.nieuwsbrievenminocw.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.persberichten.rijksoverheid.nl
@@ -3202,6 +3205,7 @@ www.jeugdautoriteit.nl
 www.justid.nl
 www.justitieleictorganisatie.nl
 www.kaarten.brabant.nl
+www.kabinetsformatie2023.nl
 www.logius.nl
 www.mail.bureauwsnp.nl
 www.metelkaartrekkenwedegrens.nl
