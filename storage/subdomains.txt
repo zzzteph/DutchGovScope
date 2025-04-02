@@ -4,13 +4,13 @@ autodiscover
 iburgerzaken
 ibzpink
 edienstenburgerzaken
-edienstenburgerzaken-test
 opendata
+edienstenburgerzaken-test
 intranet
 mijn
 mail
-webmail
 feeds
+webmail
 simsite
 afspraken
 digikoppeling
