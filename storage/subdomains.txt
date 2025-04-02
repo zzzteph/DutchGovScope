@@ -14,8 +14,8 @@ afspraken
 digikoppeling
 preproductie
 simcms
-secure
 opendata
+secure
 acceptatie
 feeds
 felix
@@ -78,18 +78,18 @@ zaken
 kaart
 kaarten
 cloudadapter
+a-www
 connect
 berichten
 parkeren-acc
-a-www
+a-feeds
+a-opendata
 govroam
 digikoppeling.test
 mks
 cmsintranet
 test-intranet
 dtestloket
-a-feeds
-a-opendata
 portaal
 parkeren-test
 piwik
@@ -145,6 +145,7 @@ woningbouwkaart
 contentbeheer
 micollab
 mobiel
+mailing
 lyncdiscover
 email
 gisib
@@ -167,7 +168,6 @@ _dmarc
 a-english
 fs
 mta-sts
-mailing
 maps
 geoportaal
 belastingportaal
@@ -346,6 +346,7 @@ bezoekersparkeren
 download
 huisstijl
 ns2
+www.mijn
 geoserver
 nieuws
 test.digikoppeling
@@ -415,8 +416,8 @@ mijndesktop
 a-magazines
 mijn-acc
 sharepoint
+start
 werken
-www.mijn
 av
 gisservices
 dataportaal
@@ -525,9 +526,9 @@ monitor
 persberichten
 static
 mm
-start
 vergaderen
 videobellen
+acc.mijn
 designsystem
 koppelvlak
 social
@@ -543,6 +544,7 @@ idselect
 oud
 veilig
 services-test
+mailings
 belastingportaal.acc
 inloggen.belastingportaal
 inloggen.belastingportaal.acc
@@ -812,7 +814,6 @@ video
 vinden
 webapps
 webdiensten
-acc.mijn
 componenten
 data-acc
 dns1
@@ -842,6 +843,7 @@ ssl
 beeldbellen
 raadplegen
 mail01
+aanvraag
 edienstenburgerzaken.test
 www.praatmee
 datalab
@@ -1075,7 +1077,6 @@ binnenstad
 cms.openstad
 devapps3
 jongerenloket
-mailings
 pop
 www.staging
 zorgaanbieders
@@ -3101,6 +3102,11 @@ acc-raadplegen
 acceptatie.raadplegen
 mijn.adr
 test.webservices
+beoordeling
+formulier-beheer
+gebruiker-beheer
+max
+www.acc.mijn
 email.mail.participatie
 mail.participatie
 aalten-checker-preprod
@@ -8352,7 +8358,6 @@ key2dd-test
 key2dd
 opvangvluchtelingen
 straling
-aanvraag
 aanvraagstaging
 acc.belastingloket
 outbound
