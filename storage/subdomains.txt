@@ -77,13 +77,13 @@ hybrid
 zaken
 kaart
 kaarten
-cloudadapter
 a-www
+cloudadapter
+a-feeds
+a-opendata
 connect
 berichten
 parkeren-acc
-a-feeds
-a-opendata
 govroam
 digikoppeling.test
 mks

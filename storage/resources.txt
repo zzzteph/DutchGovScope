@@ -153,6 +153,7 @@ a-feeds.cultuursubsidie.nl
 a-feeds.defensie.nl
 a-feeds.dggf.nl
 a-feeds.dus-i.nl
+a-feeds.dwangindezorg.nl
 a-feeds.igj.nl
 a-feeds.rijksoverheid.nl
 a-git.rijksoverheid.nl
@@ -188,6 +189,7 @@ a-opendata.cultuursubsidie.nl
 a-opendata.defensie.nl
 a-opendata.dggf.nl
 a-opendata.dus-i.nl
+a-opendata.dwangindezorg.nl
 a-opendata.igj.nl
 a-opendata.rijksoverheid.nl
 a-p-ddi-0003.leeuwarden.nl
@@ -223,6 +225,7 @@ a-www.cultuursubsidie.nl
 a-www.defensie.nl
 a-www.dggf.nl
 a-www.dus-i.nl
+a-www.dwangindezorg.nl
 a-www.igj.nl
 a-www.rijksoverheid.nl
 a2b-rtr.alkmaar.nl
@@ -4772,6 +4775,7 @@ dvi.afs.acc.amsterdam.nl
 dvi.afs.amsterdam.nl
 dvl-wmf-cca.acc.amsterdam.nl
 dvlm.3d.utrecht.nl
+dwangindezorg.nl
 dwh-sociaal.acc.amsterdam.nl
 dwh-sociaal.amsterdam.nl
 dwh-sociaal.fa.amsterdam.nl
@@ -5728,6 +5732,7 @@ feeds.dus-i.nl
 feeds.dutchncca.nl
 feeds.dutchoffshorewindatlas.nl
 feeds.dutchrapporteur.nl
+feeds.dwangindezorg.nl
 feeds.english.aivd.nl
 feeds.english.autoriteitnvs.nl
 feeds.english.belastingdienst-cn.nl
@@ -10928,6 +10933,7 @@ opendata.dus-i.nl
 opendata.dutchncca.nl
 opendata.dutchoffshorewindatlas.nl
 opendata.dutchrapporteur.nl
+opendata.dwangindezorg.nl
 opendata.english.aivd.nl
 opendata.english.autoriteitnvs.nl
 opendata.english.belastingdienst-cn.nl
@@ -16677,6 +16683,7 @@ www.duurzaamheidscentrum.assen.nl
 www.duurzamestad-acc.denhaag.nl
 www.duurzamestad.denhaag.nl
 www.dwa.amsterdam.nl
+www.dwangindezorg.nl
 www.dwh-test.groningen.nl
 www.dwh.groningen.nl
 www.e-diensten001.haarlem.nl

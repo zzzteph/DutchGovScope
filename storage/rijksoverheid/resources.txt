@@ -48,6 +48,7 @@ a-feeds.cultuursubsidie.nl
 a-feeds.defensie.nl
 a-feeds.dggf.nl
 a-feeds.dus-i.nl
+a-feeds.dwangindezorg.nl
 a-feeds.igj.nl
 a-feeds.rijksoverheid.nl
 a-git.rijksoverheid.nl
@@ -83,6 +84,7 @@ a-opendata.cultuursubsidie.nl
 a-opendata.defensie.nl
 a-opendata.dggf.nl
 a-opendata.dus-i.nl
+a-opendata.dwangindezorg.nl
 a-opendata.igj.nl
 a-opendata.rijksoverheid.nl
 a-persberichten.rijksoverheid.nl
@@ -114,6 +116,7 @@ a-www.cultuursubsidie.nl
 a-www.defensie.nl
 a-www.dggf.nl
 a-www.dus-i.nl
+a-www.dwangindezorg.nl
 a-www.igj.nl
 a-www.rijksoverheid.nl
 a2vonderenkerensheide.nl
@@ -810,6 +813,7 @@ dvfz-acc-auth.dji.nl
 dvfz-acc.dji.nl
 dvfz-auth.dji.nl
 dvfz.dji.nl
+dwangindezorg.nl
 dwo.ctgb.nl
 e-mailabonnementen.rijksoverheid.nl
 e-maildiensten.rijksoverheid.nl
@@ -995,6 +999,7 @@ feeds.dus-i.nl
 feeds.dutchncca.nl
 feeds.dutchoffshorewindatlas.nl
 feeds.dutchrapporteur.nl
+feeds.dwangindezorg.nl
 feeds.english.aivd.nl
 feeds.english.autoriteitnvs.nl
 feeds.english.belastingdienst-cn.nl
@@ -1719,6 +1724,7 @@ opendata.dus-i.nl
 opendata.dutchncca.nl
 opendata.dutchoffshorewindatlas.nl
 opendata.dutchrapporteur.nl
+opendata.dwangindezorg.nl
 opendata.english.aivd.nl
 opendata.english.autoriteitnvs.nl
 opendata.english.belastingdienst-cn.nl
@@ -2582,6 +2588,7 @@ www.dus-i.nl
 www.dutchncca.nl
 www.dutchoffshorewindatlas.nl
 www.dutchrapporteur.nl
+www.dwangindezorg.nl
 www.enabling.omgevingswet.overheid.nl
 www.gtmx.acc.belastingdienst.nl
 www.igj.nl

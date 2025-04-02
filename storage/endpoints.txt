@@ -2921,6 +2921,7 @@ https://dvfz.dji.nl
 https://dvi.afs.acc.amsterdam.nl
 https://dvi.afs.amsterdam.nl
 https://dvlm.3d.utrecht.nl
+https://dwangindezorg.nl
 https://dwh-sociaal.acc.amsterdam.nl
 https://dwh-sociaal.amsterdam.nl
 https://dwh-sociaal.fa.amsterdam.nl
@@ -3665,6 +3666,7 @@ https://feeds.dus-i.nl
 https://feeds.dutchncca.nl
 https://feeds.dutchoffshorewindatlas.nl
 https://feeds.dutchrapporteur.nl
+https://feeds.dwangindezorg.nl
 https://feeds.english.aivd.nl
 https://feeds.english.autoriteitnvs.nl
 https://feeds.english.belastingdienst-cn.nl
@@ -6379,6 +6381,7 @@ https://opendata.dus-i.nl
 https://opendata.dutchncca.nl
 https://opendata.dutchoffshorewindatlas.nl
 https://opendata.dutchrapporteur.nl
+https://opendata.dwangindezorg.nl
 https://opendata.english.aivd.nl
 https://opendata.english.autoriteitnvs.nl
 https://opendata.english.belastingdienst-cn.nl
@@ -9208,6 +9211,7 @@ https://www.duurzaam.beesel.nl
 https://www.duurzaam.hoorn.nl
 https://www.duurzamestad-acc.denhaag.nl
 https://www.duurzamestad.denhaag.nl
+https://www.dwangindezorg.nl
 https://www.echt-susteren.nl
 https://www.economie.groningen.nl
 https://www.edam-volendam.nl
