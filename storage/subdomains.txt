@@ -17,8 +17,8 @@ simcms
 secure
 opendata
 acceptatie
-felix
 feeds
+felix
 probeer
 loket
 formulieren
@@ -71,11 +71,11 @@ beeldbank
 cloudadapter-test
 digikoppeling-test
 flowmailer-tracking
+english
 formulier
 hybrid
 zaken
 kaart
-english
 kaarten
 cloudadapter
 connect
@@ -104,10 +104,10 @@ financien
 klantcontact
 test-cmsintranet
 pki
-apps
-samen
 feeds.english
 opendata.english
+apps
+samen
 sip
 begroting
 bgt
@@ -233,6 +233,7 @@ contact
 m
 api
 filetransfer
+webservices
 meet
 werkenvoor
 xential
@@ -261,10 +262,10 @@ www.portal
 servicedesk
 academie
 services
-webservices
 zoeken
 omgevingswet
 dialin
+beheer
 beeldbank-bo
 publicaties
 subsidie
@@ -292,7 +293,6 @@ mijnsociaaldomein
 rap
 smtp1
 smtp2
-beheer
 app
 atlas
 esb
@@ -533,6 +533,8 @@ koppelvlak
 social
 zoek
 helloid
+acceptatie.beheer
+acceptatie.mijn
 esb-test
 idtst
 samenwerken
@@ -827,8 +829,7 @@ bezwaar
 feedback
 pushmail
 acceptatie.behandel
-acceptatie.beheer
-acceptatie.mijn
+acceptatie.webservices
 acceptatie.zoeken
 corsa
 corsa2023
@@ -839,6 +840,7 @@ acc.subsidie
 monumentenregister
 ssl
 beeldbellen
+raadplegen
 edienstenburgerzaken.test
 www.praatmee
 datalab
@@ -2784,7 +2786,6 @@ papiamentu
 acceptatie.advieswijzer
 acceptatie.api
 acceptatie.tea
-acceptatie.webservices
 advieswijzer
 behandel
 tea
@@ -3095,6 +3096,10 @@ verkoop
 verkooptest
 vpn3
 vuurwerk
+acc-raadplegen
+acceptatie.raadplegen
+mijn.adr
+test.webservices
 email.mail.participatie
 mail.participatie
 aalten-checker-preprod
@@ -4959,7 +4964,6 @@ positioning-acc
 positioning
 postionering
 r01-nk-h140.ams
-raadplegen
 redactie-extern
 redactiemijn-o.ot
 redactiemijn-t.ot

@@ -475,6 +475,7 @@ acc-podiumd-openklant.deventer.nl
 acc-podiumd-openzaak.deventer.nl
 acc-podiumd-zac.deventer.nl
 acc-podiumd.sschosting.nl.assen.nl
+acc-raadplegen.donorregister.nl
 acc-tripleforms.heerlen.nl
 acc-waardepapieren-balie.hoorn.nl
 acc-waardepapieren.hoorn.nl
@@ -747,6 +748,7 @@ acceptatie.behandel.generiekeregistratiedienst.cibg.nl
 acceptatie.behandel.isms.cibg.nl
 acceptatie.beheer.bigregister.nl
 acceptatie.beheer.dezi.nl
+acceptatie.beheer.donorregister.nl
 acceptatie.beheer.generiekeregistratiedienst.cibg.nl
 acceptatie.beheer.lir.cibg.nl
 acceptatie.beheer.lrza.cibg.nl
@@ -812,6 +814,7 @@ acceptatie.midden-groningen.nl
 acceptatie.middendrenthe.nl
 acceptatie.mijn.bigregister.nl
 acceptatie.mijn.dezi.nl
+acceptatie.mijn.donorregister.nl
 acceptatie.mijnkbr.rotterdam.nl
 acceptatie.molenlanden.nl
 acceptatie.nederbetuwe.nl
@@ -832,6 +835,7 @@ acceptatie.portaal.competent.cibg.nl
 acceptatie.portaal.digilevering.cibg.nl
 acceptatie.publicwebservices-dcr.cibg.nl
 acceptatie.publicwebservices.cibg.nl
+acceptatie.raadplegen.donorregister.nl
 acceptatie.reimerswaal.nl
 acceptatie.rijssen-holten.nl
 acceptatie.rijswijk.nl
@@ -857,6 +861,7 @@ acceptatie.voorst.nl
 acceptatie.waadhoeke.nl
 acceptatie.waalwijk.nl
 acceptatie.webservices.bigregister.nl
+acceptatie.webservices.donorregister.nl
 acceptatie.webservices.lrza.cibg.nl
 acceptatie.westbetuwe.nl
 acceptatie.winterswijk.nl
@@ -2415,6 +2420,7 @@ beheer.ack.omgevingswet.overheid.nl
 beheer.amsterdam.nl
 beheer.bigregister.nl
 beheer.data.amsterdam.nl
+beheer.donorregister.nl
 beheer.gemeentehw.nl
 beheer.generiekeregistratiedienst.cibg.nl
 beheer.integratie.omgevingswet.overheid.nl
@@ -4614,6 +4620,7 @@ domain-admin.nijkerk.eu
 domain-admin.waterland.nl
 domeinnaamregistratie.rijksoverheid.nl
 dongen.nl
+donorregister.nl
 dopleidingloket.rotterdam.nl
 dopleidingmidoffice.rotterdam.nl
 dordrecht.nl
@@ -5340,6 +5347,7 @@ english.deltaprogramma.nl
 english.dggf.nl
 english.dienstterugkeerenvertrek.nl
 english.domeinenrz.nl
+english.donorregister.nl
 english.eindhoven.nl
 english.igj.nl
 enkhuizen.nl
@@ -5700,6 +5708,7 @@ feeds.dihoo.nl
 feeds.dji.nl
 feeds.dnadatabank.forensischinstituut.nl
 feeds.domeinenrz.nl
+feeds.donorregister.nl
 feeds.english.aivd.nl
 feeds.english.autoriteitnvs.nl
 feeds.english.belastingdienst-cn.nl
@@ -5714,6 +5723,7 @@ feeds.english.deltaprogramma.nl
 feeds.english.dggf.nl
 feeds.english.dienstterugkeerenvertrek.nl
 feeds.english.domeinenrz.nl
+feeds.english.donorregister.nl
 feeds.english.igj.nl
 feeds.igj.nl
 feeds.nieuwsbrievenminocw.nl
@@ -9530,6 +9540,7 @@ mijn-xt.tst.toeslagen.nl
 mijn.aalten.nl
 mijn.acc.belastingdienst.nl
 mijn.accp.nijmegen.nl
+mijn.adr.donorregister.nl
 mijn.alkmaar.nl
 mijn.almere.nl
 mijn.amersfoort.nl
@@ -9554,6 +9565,7 @@ mijn.dev.nijmegen.nl
 mijn.deventer.nl
 mijn.dijkenwaard.nl
 mijn.doesburg.nl
+mijn.donorregister.nl
 mijn.dronten.nl
 mijn.enschede.nl
 mijn.epe.nl
@@ -10883,6 +10895,7 @@ opendata.dihoo.nl
 opendata.dji.nl
 opendata.dnadatabank.forensischinstituut.nl
 opendata.domeinenrz.nl
+opendata.donorregister.nl
 opendata.english.aivd.nl
 opendata.english.autoriteitnvs.nl
 opendata.english.belastingdienst-cn.nl
@@ -10897,6 +10910,7 @@ opendata.english.deltaprogramma.nl
 opendata.english.dggf.nl
 opendata.english.dienstterugkeerenvertrek.nl
 opendata.english.domeinenrz.nl
+opendata.english.donorregister.nl
 opendata.english.igj.nl
 opendata.heemstede.nl
 opendata.igj.nl
@@ -12344,6 +12358,7 @@ raad.zoetermeer.nl
 raad.zutphen.nl
 raad.zwijndrecht.nl
 raadplegen.denhaag.nl
+raadplegen.donorregister.nl
 raadplegenbrp.veenendaal.nl
 raadsagenda.oirschot.nl
 raadsakkoord.veenendaal.nl
@@ -14560,6 +14575,7 @@ test.voerendaal.nl
 test.waalre.nl
 test.waalwijk.nl
 test.waddinxveen.nl
+test.webservices.donorregister.nl
 test.website.westland.gemeentewestland.nl
 test.zaltbommel.nl
 test2gbav.belastingdienst.nl
@@ -15779,6 +15795,7 @@ webservices-tst.groningen.nl
 webservices.belastingdienst.nl
 webservices.bigregister.nl
 webservices.dongen.nl
+webservices.donorregister.nl
 webservices.goirle.nl
 webservices.groningen.nl
 webservices.lrza.cibg.nl
@@ -16602,6 +16619,7 @@ www.doetinchem.nl
 www.doewatmoet-acc.denhaag.nl
 www.domeinenrz.nl
 www.dongen.nl
+www.donorregister.nl
 www.dordrecht.nl
 www.drechterland.nl
 www.drimmelen.nl
