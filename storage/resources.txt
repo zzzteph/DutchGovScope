@@ -5843,6 +5843,7 @@ feeds.gobernadoraruba.com
 feeds.gobiernodireino.nl
 feeds.gobiernudireino.nl
 feeds.goudenpiramide.nl
+feeds.gouverneuraruba.com
 feeds.igj.nl
 feeds.nieuwsbrievenminocw.nl
 feeds.papiamentu.belastingdienst-cn.nl
@@ -6893,6 +6894,7 @@ gotest.koggenland.nl
 goud.almere.nl
 gouda.nl
 goudenpiramide.nl
+gouverneuraruba.com
 gouwbag-test.haarlemmermeer.nl
 gouwbag.haarlemmermeer.nl
 gov.urk.nl
@@ -11126,6 +11128,7 @@ opendata.gobernadoraruba.com
 opendata.gobiernodireino.nl
 opendata.gobiernudireino.nl
 opendata.goudenpiramide.nl
+opendata.gouverneuraruba.com
 opendata.heemstede.nl
 opendata.igj.nl
 opendata.nieuwsbrievenminocw.nl
@@ -17070,6 +17073,7 @@ www.gooisemeren.nl
 www.gorinchem.nl
 www.gouda.nl
 www.goudenpiramide.nl
+www.gouverneuraruba.com
 www.gouwbag-test.haarlemmermeer.nl
 www.gouwbag.haarlemmermeer.nl
 www.govroam.groningen.nl

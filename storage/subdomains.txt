@@ -8,8 +8,8 @@ edienstenburgerzaken-test
 intranet
 mijn
 mail
-webmail
 opendata
+webmail
 feeds
 simsite
 afspraken
