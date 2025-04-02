@@ -57,6 +57,7 @@ dloket
 dmidoffice
 english
 remote
+a-www
 enterpriseregistration
 osb
 api.meldingen-acc
@@ -64,16 +65,15 @@ meldingen-acc
 openpdc
 belastingbalie
 cmsoo
-a-www
 login
 loket.acceptatie
 openpub
 omgevingsvisie
+a-feeds
+a-opendata
 beeldbank
 digikoppeling-test
 cloudadapter-test
-a-feeds
-a-opendata
 formulier
 kaart
 flowmailer-tracking

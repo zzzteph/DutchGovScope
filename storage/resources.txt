@@ -160,6 +160,7 @@ a-feeds.forensischinstituut.nl
 a-feeds.geobasisregistraties.nl
 a-feeds.gezondheidsraad.nl
 a-feeds.government.nl
+a-feeds.healthcouncil.nl
 a-feeds.igj.nl
 a-feeds.rijksoverheid.nl
 a-git.rijksoverheid.nl
@@ -203,6 +204,7 @@ a-opendata.forensischinstituut.nl
 a-opendata.geobasisregistraties.nl
 a-opendata.gezondheidsraad.nl
 a-opendata.government.nl
+a-opendata.healthcouncil.nl
 a-opendata.igj.nl
 a-opendata.rijksoverheid.nl
 a-p-ddi-0003.leeuwarden.nl
@@ -245,6 +247,7 @@ a-www.geobasisregistraties.nl
 a-www.gezondheidsraad.nl
 a-www.gobiernudireino.nl
 a-www.government.nl
+a-www.healthcouncil.nl
 a-www.igj.nl
 a-www.rijksoverheid.nl
 a2b-rtr.alkmaar.nl
@@ -5862,6 +5865,7 @@ feeds.government.nl
 feeds.grenzeloossamenwerken.nl
 feeds.groeiennaarmorgen.nl
 feeds.hansken.nl
+feeds.healthcouncil.nl
 feeds.igj.nl
 feeds.nieuwsbrievenminocw.nl
 feeds.papiamentu.belastingdienst-cn.nl
@@ -7141,6 +7145,7 @@ hcr.vlaardingen.nl
 hcs01.vaals.nl
 hcs02.vaals.nl
 hdsr.nl
+healthcouncil.nl
 healthyurbanliving.utrecht.nl
 heelenschoon.amsterdam.nl
 heemskerk.nl
@@ -11167,6 +11172,7 @@ opendata.government.nl
 opendata.grenzeloossamenwerken.nl
 opendata.groeiennaarmorgen.nl
 opendata.hansken.nl
+opendata.healthcouncil.nl
 opendata.heemstede.nl
 opendata.igj.nl
 opendata.nieuwsbrievenminocw.nl
@@ -17156,6 +17162,7 @@ www.harlingen.nl
 www.hattem.nl
 www.havenkwartieraanzet.denhaag.nl
 www.hdsr.nl
+www.healthcouncil.nl
 www.heemskerk.nl
 www.heemstede.nl
 www.heerde.nl

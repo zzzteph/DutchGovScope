@@ -654,6 +654,7 @@ https://feeds.government.nl
 https://feeds.grenzeloossamenwerken.nl
 https://feeds.groeiennaarmorgen.nl
 https://feeds.hansken.nl
+https://feeds.healthcouncil.nl
 https://feeds.igj.nl
 https://feeds.nieuwsbrievenminocw.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
@@ -729,6 +730,7 @@ https://gtmz.belastingdienst.nl
 https://gw.defensie.nl
 https://hansken.nl
 https://hdsr.nl
+https://healthcouncil.nl
 https://helloid.aaenmaas.nl
 https://herstel.toeslagen.nl
 https://hetverhaalvan.flevoland.nl
@@ -1032,6 +1034,7 @@ https://opendata.government.nl
 https://opendata.grenzeloossamenwerken.nl
 https://opendata.groeiennaarmorgen.nl
 https://opendata.hansken.nl
+https://opendata.healthcouncil.nl
 https://opendata.igj.nl
 https://opendata.nieuwsbrievenminocw.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
@@ -1475,6 +1478,7 @@ https://www.grenzeloossamenwerken.nl
 https://www.groeiennaarmorgen.nl
 https://www.hansken.nl
 https://www.hdsr.nl
+https://www.healthcouncil.nl
 https://www.hetverhaalvan.flevoland.nl
 https://www.igj.nl
 https://www.int.omgevingswet.overheid.nl

@@ -3774,6 +3774,7 @@ https://feeds.government.nl
 https://feeds.grenzeloossamenwerken.nl
 https://feeds.groeiennaarmorgen.nl
 https://feeds.hansken.nl
+https://feeds.healthcouncil.nl
 https://feeds.igj.nl
 https://feeds.nieuwsbrievenminocw.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
@@ -4399,6 +4400,7 @@ https://haven.tst.sittard-geleen.nl
 https://haven.wageningen.nl
 https://havenkwartieraanzet.denhaag.nl
 https://hdsr.nl
+https://healthcouncil.nl
 https://healthyurbanliving.utrecht.nl
 https://heemskerk.nl
 https://heemstede.nl
@@ -6576,6 +6578,7 @@ https://opendata.government.nl
 https://opendata.grenzeloossamenwerken.nl
 https://opendata.groeiennaarmorgen.nl
 https://opendata.hansken.nl
+https://opendata.healthcouncil.nl
 https://opendata.heemstede.nl
 https://opendata.igj.nl
 https://opendata.nieuwsbrievenminocw.nl
@@ -9544,6 +9547,7 @@ https://www.hardinxveld-giessendam.nl
 https://www.hattem.nl
 https://www.havenkwartieraanzet.denhaag.nl
 https://www.hdsr.nl
+https://www.healthcouncil.nl
 https://www.heemskerk.nl
 https://www.heemstede.nl
 https://www.heerde.nl
