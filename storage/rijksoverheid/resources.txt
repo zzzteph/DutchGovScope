@@ -714,6 +714,7 @@ dezi.nl
 dggf.nl
 dialin.aaenmaas.nl
 dialin.cbg-meb.nl
+dienstterugkeerenvertrek.nl
 digicheck.brabant.nl
 digid-stub.lpc.mijn.overheid.nl
 digikoppeling-dcr.cibg.nl
@@ -809,6 +810,7 @@ english.cultureelerfgoed.nl
 english.defensie.nl
 english.deltaprogramma.nl
 english.dggf.nl
+english.dienstterugkeerenvertrek.nl
 english.igj.nl
 enterpriseenrollment.cbg-meb.nl
 enterpriseregistration.belastingdienst.nl
@@ -934,6 +936,7 @@ feeds.denkdoeduurzaam.nl
 feeds.deutsch.postedworkers.nl
 feeds.dezi.nl
 feeds.dggf.nl
+feeds.dienstterugkeerenvertrek.nl
 feeds.english.aivd.nl
 feeds.english.autoriteitnvs.nl
 feeds.english.belastingdienst-cn.nl
@@ -946,6 +949,7 @@ feeds.english.cultureelerfgoed.nl
 feeds.english.defensie.nl
 feeds.english.deltaprogramma.nl
 feeds.english.dggf.nl
+feeds.english.dienstterugkeerenvertrek.nl
 feeds.english.igj.nl
 feeds.igj.nl
 feeds.nieuwsbrievenminocw.nl
@@ -1622,6 +1626,7 @@ opendata.denkdoeduurzaam.nl
 opendata.deutsch.postedworkers.nl
 opendata.dezi.nl
 opendata.dggf.nl
+opendata.dienstterugkeerenvertrek.nl
 opendata.english.aivd.nl
 opendata.english.autoriteitnvs.nl
 opendata.english.belastingdienst-cn.nl
@@ -1634,6 +1639,7 @@ opendata.english.cultureelerfgoed.nl
 opendata.english.defensie.nl
 opendata.english.deltaprogramma.nl
 opendata.english.dggf.nl
+opendata.english.dienstterugkeerenvertrek.nl
 opendata.english.igj.nl
 opendata.igj.nl
 opendata.nieuwsbrievenminocw.nl
@@ -1753,6 +1759,7 @@ pom.cultureelerfgoed.nl
 portaal.acc.belastingdienst.nl
 portaal.belastingdienst.nl
 portaal.competent.cibg.nl
+portaal.dienstterugkeerenvertrek.nl
 portaal.digilevering.cibg.nl
 portaal.tst.belastingdienst.nl
 portal.cibg.nl
@@ -2448,6 +2455,7 @@ www.deltaprogramma.nl
 www.denkdoeduurzaam.nl
 www.dezi.nl
 www.dggf.nl
+www.dienstterugkeerenvertrek.nl
 www.dmo.omgevingswet.overheid.nl
 www.enabling.omgevingswet.overheid.nl
 www.gtmx.acc.belastingdienst.nl

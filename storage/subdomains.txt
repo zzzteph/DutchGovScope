@@ -76,8 +76,8 @@ zaken
 kaart
 hybrid
 kaarten
-cloudadapter
 english
+cloudadapter
 berichten
 parkeren-acc
 a-www
@@ -90,12 +90,12 @@ test-intranet
 dtestloket
 a-feeds
 a-opendata
+portaal
 parkeren-test
 piwik
 acc-broker
 belastingloket
 doemee
-portaal
 denkmee
 osbacc
 extranet
@@ -117,6 +117,8 @@ squit2go
 www.webmail
 filecap
 dtestmidoffice
+feeds.english
+opendata.english
 sts
 mijnzorg
 _autodiscover._tcp
@@ -129,8 +131,6 @@ gemeente
 bastion365
 obsurv
 smtp
-feeds.english
-opendata.english
 e
 web
 ftp
