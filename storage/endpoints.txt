@@ -511,6 +511,7 @@ http://sslvpn.haarlem.nl
 http://stadsatlas.zoetermeer.nl
 http://stadspas.weert.nl
 http://stagiairs.werkenvoornederland.nl
+http://staging.meldingen.ilent.nl
 http://stijlgids.cibg.nl
 http://stijlgids.overheid.nl
 http://subsites.amsterdam.nl
@@ -911,6 +912,7 @@ https://acc.bp.data.amsterdam.nl
 https://acc.breda.nl
 https://acc.client.archis.cultureelerfgoed.nl
 https://acc.denhaag.nl
+https://acc.e-loket.ilent.nl
 https://acc.easyfunders.leiden.nl
 https://acc.epe.nl
 https://acc.fblocatielijst.amsterdam.nl
@@ -1063,6 +1065,7 @@ https://acceptatie.voorst.nl
 https://acceptatie.waadhoeke.nl
 https://acceptatie.webservices.bigregister.nl
 https://acceptatie.winterswijk.nl
+https://acceptatie.wio.ilent.nl
 https://acceptatie.zoeken.bigregister.nl
 https://acceptatie.zoeterwoude.nl
 https://acceptatie.zundert.nl
@@ -2981,6 +2984,7 @@ https://e-file-p-08.adds.amsterdam.nl
 https://e-loket.apeldoorn.nl
 https://e-loket.bergen.nl
 https://e-loket.gemeentebest.nl
+https://e-loket.ilent.nl
 https://e-loket.steenwijkerland.nl
 https://e-loketstaging.bergen.nl
 https://e-mailabonnementen.rijksoverheid.nl
@@ -3017,6 +3021,7 @@ https://e2s-test.molenlanden.nl
 https://e2s.molenlanden.nl
 https://eaptls.deventer.nl
 https://easyfunders.leiden.nl
+https://easyrules.ilent.nl
 https://eavgb-acc.aivd.nl
 https://eavgb.aivd.nl
 https://ebms.contentbeheer.acc.omgevingswet.overheid.nl
@@ -3478,6 +3483,7 @@ https://english.euthanasiecommissie.nl
 https://english.farmatec.nl
 https://english.globalhealthhub.nl
 https://english.igj.nl
+https://english.ilent.nl
 https://english.sso3w.nl
 https://enkhuizen.nl
 https://enquete-acc.denhaag.nl
@@ -3762,6 +3768,7 @@ https://feeds.english.euthanasiecommissie.nl
 https://feeds.english.farmatec.nl
 https://feeds.english.globalhealthhub.nl
 https://feeds.english.igj.nl
+https://feeds.english.ilent.nl
 https://feeds.english.sso3w.nl
 https://feeds.erfgoeddeal.nl
 https://feeds.euthanasiecommissie.nl
@@ -3795,6 +3802,7 @@ https://feeds.huurcommissie.nl
 https://feeds.hwbp.nl
 https://feeds.igj.nl
 https://feeds.ikvermoedhuiselijkgeweld.nl
+https://feeds.ilent.nl
 https://feeds.nieuwsbrievenminocw.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.persberichten.rijksoverheid.nl
@@ -4780,6 +4788,7 @@ https://ikz.nl
 https://ikzitklem.zaanstad.nl
 https://ikzoek.huizen.nl
 https://ikzoekeenhuis.almere.nl
+https://ilent.nl
 https://im.opmeer.nl
 https://image.acc-nieuwsbrief.utrecht.nl
 https://image.nieuwsbrief.amsterdam.nl
@@ -4853,6 +4862,7 @@ https://inproces.veendam.nl
 https://inproces.winterswijk.nl
 https://insite.nijmegen.nl
 https://insite.oisterwijk.nl
+https://inspecteur.ilent.nl
 https://instroom.belastingdienst.nl
 https://int.omgevingswet.overheid.nl
 https://int02.omgevingswet.overheid.nl
@@ -5493,6 +5503,7 @@ https://magazines.forensischinstituut.nl
 https://magazines.gooisemeren.nl
 https://magazines.government.nl
 https://magazines.igj.nl
+https://magazines.ilent.nl
 https://magazines.rijksoverheid.nl
 https://magazines.rotterdam.nl
 https://magazines.werkenvoornederland.nl
@@ -5674,6 +5685,7 @@ https://meldingen.helmond.nl
 https://meldingen.hengelo.nl
 https://meldingen.heuvelrug.nl
 https://meldingen.hilversum.nl
+https://meldingen.ilent.nl
 https://meldingen.kampen.nl
 https://meldingen.klopt.cibg.nl
 https://meldingen.leeuwarden.nl
@@ -6597,6 +6609,7 @@ https://opendata.english.euthanasiecommissie.nl
 https://opendata.english.farmatec.nl
 https://opendata.english.globalhealthhub.nl
 https://opendata.english.igj.nl
+https://opendata.english.ilent.nl
 https://opendata.english.sso3w.nl
 https://opendata.euthanasiecommissie.nl
 https://opendata.excellentescholen.nl
@@ -6630,6 +6643,7 @@ https://opendata.huurcommissie.nl
 https://opendata.hwbp.nl
 https://opendata.igj.nl
 https://opendata.ikvermoedhuiselijkgeweld.nl
+https://opendata.ilent.nl
 https://opendata.nieuwsbrievenminocw.nl
 https://opendata.nijmegen.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
@@ -8112,6 +8126,7 @@ https://status-paginas-zgw.test.denhaag.nl
 https://status.landvancuijk.nl
 https://status.omgevingswet.overheid.nl
 https://status.pre.omgevingswet.overheid.nl
+https://stc.ilent.nl
 https://stcrtin-preprd.overheid.nl
 https://stcrtin.overheid.nl
 https://stedebroec.nl
@@ -9168,6 +9183,7 @@ https://winkelen.landvancuijk.nl
 https://winkelsteeg.acc.nijmegen.nl
 https://winkelsteeg.nijmegen.nl
 https://winterswijk.nl
+https://wio.ilent.nl
 https://wion.gemeentestein.nl
 https://witgoed.middendrenthe.nl
 https://wiz.zaanstad.nl
@@ -9659,6 +9675,7 @@ https://www.ihp.denhaag.nl
 https://www.ijsselstein.nl
 https://www.ikvermoedhuiselijkgeweld.nl
 https://www.ikz.nl
+https://www.ilent.nl
 https://www.ingesprek.denhelder.nl
 https://www.inkomensondersteuning.nijmegen.nl
 https://www.int.omgevingswet.overheid.nl

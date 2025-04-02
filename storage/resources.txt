@@ -525,9 +525,11 @@ acc.aip.amsterdam.nl
 acc.almelo.nl
 acc.amersfoort.nl
 acc.amsterdam.nl
+acc.api-auth.ilent.nl
 acc.api-gateway.archis.cultureelerfgoed.nl
 acc.api.brp.amsterdam.nl
 acc.api.data.amsterdam.nl
+acc.api.ilent.nl
 acc.api.meldingen.amsterdam.nl
 acc.api.ton.amsterdam.nl
 acc.api.top.amsterdam.nl
@@ -537,6 +539,8 @@ acc.app.meldingen.amsterdam.nl
 acc.archis.cultureelerfgoed.nl
 acc.auth.services.cultureelerfgoed.nl
 acc.avgregisterrijksoverheid.nl
+acc.b2b.digi.ilent.nl
+acc.b2b.ilent.nl
 acc.basisstatistiek.amsterdam.nl
 acc.beeldbellen.dji.nl
 acc.beesel.nl
@@ -555,6 +559,7 @@ acc.client.archis.cultureelerfgoed.nl
 acc.contactherstelservice.lpc.mijn.overheid.nl
 acc.dantumadiel.frl
 acc.data.amsterdam.nl
+acc.data.ilent.nl
 acc.datapunt.amsterdam.nl
 acc.demolab.amsterdam.nl
 acc.denhaag.nl
@@ -564,6 +569,7 @@ acc.drc.data.amsterdam.nl
 acc.drechterland.nl
 acc.drimmelen.nl
 acc.dsr.maps.amsterdam.nl
+acc.e-loket.ilent.nl
 acc.easyfunders.leiden.nl
 acc.echt-susteren.nl
 acc.eentegeneenzaamheid.nl
@@ -904,6 +910,8 @@ acceptatie.webservices.donorregister.nl
 acceptatie.webservices.lrza.cibg.nl
 acceptatie.westbetuwe.nl
 acceptatie.winterswijk.nl
+acceptatie.wio.ilent.nl
+acceptatie.wioservice.ilent.nl
 acceptatie.zoeken.bigregister.nl
 acceptatie.zoeken.cultureelerfgoed.nl
 acceptatie.zoeterwoude.nl
@@ -1444,6 +1452,7 @@ apgmea02.prod.bna.belastingdienst.nl
 api-acc.breda.nl
 api-acceptatie.tilburg.nl
 api-acpt.brabant.nl
+api-auth.ilent.nl
 api-dev.breda.nl
 api-dev.data.leiden.nl
 api-gateway-ot.tilburg.nl
@@ -1515,6 +1524,7 @@ api.erfpachtzakelijk.amsterdam.nl
 api.hardenberg.nl
 api.heitje.heerlen.nl
 api.horstaandemaas.nl
+api.ilent.nl
 api.kcc.cibg.nl
 api.klopt.cibg.nl
 api.linkeddata.cultureelerfgoed.nl
@@ -2208,6 +2218,8 @@ b2b-rijks.toeslagen.nl
 b2b-security.acc.belastingdienst.nl
 b2b-security.belastingdienst.nl
 b2b.belastingdienst.nl
+b2b.digi.ilent.nl
+b2b.ilent.nl
 b2b.toeslagen.nl
 b2bcesop.belastingdienst.nl
 b2bcesoptest.belastingdienst.nl
@@ -3968,6 +3980,7 @@ data.groningen.nl
 data.haarlem.nl
 data.heumen.nl
 data.hilversum.nl
+data.ilent.nl
 data.landvancuijk.nl
 data.mookenmiddelaar.nl
 data.nijmegen.nl
@@ -4193,6 +4206,7 @@ dienstterugkeerenvertrek.nl
 diergeneesmiddeleninformatiebank.nl
 dieuwke.defryskemarren.nl
 digeplan-inproces.overbetuwe.nl
+digi.ilent.nl
 digi01.meerssen.nl
 digicheck.brabant.nl
 digid-parkeervergunningen-acc.beverwijk.nl
@@ -4885,6 +4899,7 @@ e-learningverkiezingen.denhaag.nl
 e-loket.apeldoorn.nl
 e-loket.bergen.nl
 e-loket.gemeentebest.nl
+e-loket.ilent.nl
 e-loket.steenwijkerland.nl
 e-loket.vlissingen.nl
 e-loket.voerendaal.nl
@@ -4936,6 +4951,7 @@ eagle-acc.dji.nl
 eagle.dji.nl
 eaptls.deventer.nl
 easyfunders.leiden.nl
+easyrules.ilent.nl
 eavgb-acc.aivd.nl
 eavgb.aivd.nl
 ebms.achtkarspelen.nl
@@ -5465,6 +5481,7 @@ english.euthanasiecommissie.nl
 english.farmatec.nl
 english.globalhealthhub.nl
 english.igj.nl
+english.ilent.nl
 english.sso3w.nl
 enkhuizen.nl
 enquete-acc.denhaag.nl
@@ -5869,6 +5886,7 @@ feeds.english.euthanasiecommissie.nl
 feeds.english.farmatec.nl
 feeds.english.globalhealthhub.nl
 feeds.english.igj.nl
+feeds.english.ilent.nl
 feeds.english.sso3w.nl
 feeds.erfgoeddeal.nl
 feeds.euthanasiecommissie.nl
@@ -5902,6 +5920,7 @@ feeds.huurcommissie.nl
 feeds.hwbp.nl
 feeds.igj.nl
 feeds.ikvermoedhuiselijkgeweld.nl
+feeds.ilent.nl
 feeds.nieuwsbrievenminocw.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.persberichten.rijksoverheid.nl
@@ -7912,6 +7931,7 @@ ikz.nl
 ikzitklem.zaanstad.nl
 ikzoek.huizen.nl
 ikzoekeenhuis.almere.nl
+ilent.nl
 ilmt.heerlen.nl
 im.opmeer.nl
 image.acc-nieuwsbrief.amsterdam.nl
@@ -8044,6 +8064,7 @@ inproces.winterswijk.nl
 insite.houten.nl
 insite.nijmegen.nl
 insite.oisterwijk.nl
+inspecteur.ilent.nl
 inspraakmaatregel15.amsterdam.nl
 instroom.belastingdienst.nl
 int-acc-01.flevoland.nl
@@ -8347,6 +8368,8 @@ isis-a.rotterdam.nl
 isis.rotterdam.nl
 isms-acc.denhaag.nl
 isms.denhaag.nl
+itp-acc.ilent.nl
+itp.ilent.nl
 itstore.kaagenbraassem.nl
 iverblijf.heuvelrug.nl
 ivor.veenendaal.nl
@@ -8599,6 +8622,7 @@ kavelsvastgoed.nijmegen.nl
 kavelwinkel.almere.nl
 kb-apps2.kaagenbraassem.nl
 kb-dezta.kaagenbraassem.nl
+kc.ilent.nl
 kcc.edam-volendam.nl
 kcc.montferland.info
 kcc.nunspeet.nl
@@ -8943,6 +8967,7 @@ linkeddata.test.cultureelerfgoed.nl
 linkextractor.overheid.nl
 lintendijkenpaden.zaanstad.nl
 lior.oegstgeest.nl
+lip.ilent.nl
 liquidfiles-acc.ede.nl
 liquidfiles.ede.nl
 liquit.gemeenteberkelland.nl
@@ -9257,6 +9282,7 @@ magazines.gooisemeren.nl
 magazines.government.nl
 magazines.horstaandemaas.nl
 magazines.igj.nl
+magazines.ilent.nl
 magazines.rijksoverheid.nl
 magazines.rotterdam.nl
 magazines.werkenvoornederland.nl
@@ -9689,6 +9715,7 @@ meldingen.helmond.nl
 meldingen.hengelo.nl
 meldingen.heuvelrug.nl
 meldingen.hilversum.nl
+meldingen.ilent.nl
 meldingen.kampen.nl
 meldingen.klopt.cibg.nl
 meldingen.leeuwarden.nl
@@ -9738,6 +9765,7 @@ merk.denhaag.nl
 merkportaal.belastingdienst.nl
 metadata.toegang.overheid.nl
 metelkaartrekkenwedegrens.nl
+metrixinbound.inspecteur.ilent.nl
 mfa-rooster.arnhem.nl
 mfa.denhaag.nl
 mfa.eijsden-margraten.nl
@@ -11224,6 +11252,7 @@ opendata.english.euthanasiecommissie.nl
 opendata.english.farmatec.nl
 opendata.english.globalhealthhub.nl
 opendata.english.igj.nl
+opendata.english.ilent.nl
 opendata.english.sso3w.nl
 opendata.euthanasiecommissie.nl
 opendata.excellentescholen.nl
@@ -11258,6 +11287,7 @@ opendata.huurcommissie.nl
 opendata.hwbp.nl
 opendata.igj.nl
 opendata.ikvermoedhuiselijkgeweld.nl
+opendata.ilent.nl
 opendata.nieuwsbrievenminocw.nl
 opendata.nijmegen.nl
 opendata.papiamentu.belastingdienst-cn.nl
@@ -12134,6 +12164,7 @@ postbus1.huizen.nl
 postcodezoektool.rotterdam.nl
 postionering.denhaag.nl
 potjeswijzer.westerkwartier.nl
+povv-poc.ilent.nl
 powerbi.beesel.nl
 powerbrowser-esb.gorinchem.nl
 powerbrowsertest-esb.gorinchem.nl
@@ -13163,6 +13194,8 @@ sap-pi-tx1.belastingdienst.nl
 sap-pi.belastingdienst.nl
 sap01.gem.overbetuwe.nl
 sas.huizen.nl
+sasbi-acc.ilent.nl
+sasbi.ilent.nl
 sat.woudenberg.nl
 sb-dictu.logius.nl
 sb.drechterland.nl
@@ -13237,6 +13270,7 @@ sdg.government.nl
 sdg.rijksoverheid.nl
 sdgapi.ondernemersplein.overheid.nl
 sdm.igj.nl
+sdm.ilent.nl
 sdm.voorst.nl
 sdr.rotterdam.nl
 sdtest.asten.nl
@@ -13445,6 +13479,7 @@ services.belastingdienst.nl
 services.cultureelerfgoed.nl
 services.darwin.tilburg.nl
 services.dronten.nl
+services.ilent.nl
 services.ir.rotterdam.nl
 services.kaagenbraassem.nl
 services.mookenmiddelaar.nl
@@ -14238,6 +14273,7 @@ staging.buurtbudget.venlo.nl
 staging.deventer.nl
 staging.english.ctpveldzicht.nl
 staging.intranet.oostgelre.nl
+staging.meldingen.ilent.nl
 staging.microservices.schoolwijzer.amsterdam.nl
 staging.olst-wijhe.nl
 staging.ondernemersplein.overheid.nl
@@ -14317,6 +14353,7 @@ status.landvancuijk.nl
 status.omgevingswet.overheid.nl
 status.oostgelre.nl
 status.pre.omgevingswet.overheid.nl
+stc.ilent.nl
 stcrtin-acc.overheid.nl
 stcrtin-preprd.overheid.nl
 stcrtin.overheid.nl
@@ -16519,6 +16556,7 @@ winkelsteeg.acc.nijmegen.nl
 winkelsteeg.nijmegen.nl
 winter.groningen.nl
 winterswijk.nl
+wio.ilent.nl
 wion.amersfoort.nl
 wion.gemeentestein.nl
 wion.goes.nl
@@ -17358,6 +17396,7 @@ www.iidb.sudwestfryslan.nl
 www.ijsselstein.nl
 www.ikvermoedhuiselijkgeweld.nl
 www.ikz.nl
+www.ilent.nl
 www.inburgeren.amsterdam.nl
 www.infonet.eijsden-margraten.nl
 www.infozuil.utrecht.nl

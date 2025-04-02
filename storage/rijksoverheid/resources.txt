@@ -172,14 +172,20 @@ acc-raadplegen.donorregister.nl
 acc-webservice-tdv.igj.nl
 acc.aanbiedersmedicijnen.nl
 acc.adviescollegeveiligheidgroningen.nl
+acc.api-auth.ilent.nl
 acc.api-gateway.archis.cultureelerfgoed.nl
+acc.api.ilent.nl
 acc.archis.cultureelerfgoed.nl
 acc.auth.services.cultureelerfgoed.nl
 acc.avgregisterrijksoverheid.nl
+acc.b2b.digi.ilent.nl
+acc.b2b.ilent.nl
 acc.beeldbellen.dji.nl
 acc.client.archis.cultureelerfgoed.nl
 acc.contactherstelservice.lpc.mijn.overheid.nl
+acc.data.ilent.nl
 acc.digid-stub.lpc.mijn.overheid.nl
+acc.e-loket.ilent.nl
 acc.eentegeneenzaamheid.nl
 acc.eidas-stub.lpc.mijn.overheid.nl
 acc.encoded.api-gateway.archis.cultureelerfgoed.nl
@@ -256,6 +262,8 @@ acceptatie.uzipas.lir.cibg.nl
 acceptatie.webservices.bigregister.nl
 acceptatie.webservices.donorregister.nl
 acceptatie.webservices.lrza.cibg.nl
+acceptatie.wio.ilent.nl
+acceptatie.wioservice.ilent.nl
 acceptatie.zoeken.bigregister.nl
 acceptatie.zoeken.cultureelerfgoed.nl
 acceptatiepan.emissieautoriteit.nl
@@ -324,6 +332,7 @@ apextq01.belastingdienst.nl
 apextw01.belastingdienst.nl
 apgmea02.prod.bna.belastingdienst.nl
 api-acpt.brabant.nl
+api-auth.ilent.nl
 api-gateway.archis.cultureelerfgoed.nl
 api-ota.belastingdienst.nl
 api.acc.mijn.overheid.nl
@@ -335,6 +344,7 @@ api.brabant.nl
 api.dn.acc.mijn.overheid.nl
 api.dn.acc1.mijn.overheid.nl
 api.dn.tst1.mijn.overheid.nl
+api.ilent.nl
 api.kcc.cibg.nl
 api.klopt.cibg.nl
 api.linkeddata.cultureelerfgoed.nl
@@ -432,6 +442,8 @@ b2b-rijks.toeslagen.nl
 b2b-security.acc.belastingdienst.nl
 b2b-security.belastingdienst.nl
 b2b.belastingdienst.nl
+b2b.digi.ilent.nl
+b2b.ilent.nl
 b2b.toeslagen.nl
 b2bcesop.belastingdienst.nl
 b2bcesoptest.belastingdienst.nl
@@ -776,6 +788,7 @@ data-acc.overheid.nl
 data.cultureelerfgoed.nl
 data.flevoland.nl
 data.geo.cultureelerfgoed.nl
+data.ilent.nl
 data.overheid.nl
 dataportaal.brabant.nl
 datavoorgezondheid.nl
@@ -814,6 +827,7 @@ dialin.aaenmaas.nl
 dialin.cbg-meb.nl
 dienstterugkeerenvertrek.nl
 diergeneesmiddeleninformatiebank.nl
+digi.ilent.nl
 digicheck.brabant.nl
 digid-stub.lpc.mijn.overheid.nl
 digikoppeling-dcr.cibg.nl
@@ -890,6 +904,7 @@ dvfz-auth.dji.nl
 dvfz.dji.nl
 dwangindezorg.nl
 dwo.ctgb.nl
+e-loket.ilent.nl
 e-mailabonnementen.rijksoverheid.nl
 e-maildiensten.rijksoverheid.nl
 e.acc.videobellen.toeslagen.nl
@@ -899,6 +914,7 @@ e.logius.nl
 e.videobellen.toeslagen.nl
 eagle-acc.dji.nl
 eagle.dji.nl
+easyrules.ilent.nl
 eavgb-acc.aivd.nl
 eavgb.aivd.nl
 ebms.contentbeheer.acc.omgevingswet.overheid.nl
@@ -958,6 +974,7 @@ english.euthanasiecommissie.nl
 english.farmatec.nl
 english.globalhealthhub.nl
 english.igj.nl
+english.ilent.nl
 english.sso3w.nl
 enterpriseenrollment.cbg-meb.nl
 enterpriseregistration.belastingdienst.nl
@@ -1136,6 +1153,7 @@ feeds.english.euthanasiecommissie.nl
 feeds.english.farmatec.nl
 feeds.english.globalhealthhub.nl
 feeds.english.igj.nl
+feeds.english.ilent.nl
 feeds.english.sso3w.nl
 feeds.erfgoeddeal.nl
 feeds.euthanasiecommissie.nl
@@ -1169,6 +1187,7 @@ feeds.huurcommissie.nl
 feeds.hwbp.nl
 feeds.igj.nl
 feeds.ikvermoedhuiselijkgeweld.nl
+feeds.ilent.nl
 feeds.nieuwsbrievenminocw.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.persberichten.rijksoverheid.nl
@@ -1463,6 +1482,7 @@ iknowcimow.omgevingswet.overheid.nl
 iknowcimow.tst.omgevingswet.overheid.nl
 ikvermoedhuiselijkgeweld.nl
 ikz.nl
+ilent.nl
 import-acc.organisaties.overheid.nl
 import.organisaties.overheid.nl
 inbewaringstelling.webservices-dbb-acc.igj.nl
@@ -1482,6 +1502,7 @@ inkoopportaal.belastingdienst.nl
 inkopers.werkenvoornederland.nl
 inloggen-preprod.hhdelfland.nl
 inloggen.hhdelfland.nl
+inspecteur.ilent.nl
 instroom.belastingdienst.nl
 int-acc-01.flevoland.nl
 int-prod-01.flevoland.nl
@@ -1513,6 +1534,8 @@ intrekkingsportaal.acceptatie.digipoort.logius.nl
 intrekkingsportaal.digipoort.logius.nl
 intrekkingsportaal.preproductie.digipoort.logius.nl
 isamproxyont.ont.belastingdienst.nl
+itp-acc.ilent.nl
+itp.ilent.nl
 jaarverslag2017.flevoland.nl
 jaarverslag2018.flevoland.nl
 jira.rijksoverheid.nl
@@ -1540,6 +1563,7 @@ kavaanalyticsont.vcdn.belastingdienst.nl
 kavaanalyticstst.vcdn.belastingdienst.nl
 kavaont.vcdn.belastingdienst.nl
 kavatst.vcdn.belastingdienst.nl
+kc.ilent.nl
 kdmz.belastingdienst.nl
 kec.officiele-overheidspublicaties.nl
 kennis-fiod.acc.belastingdienst.nl
@@ -1576,6 +1600,7 @@ linkeddata.cultureelerfgoed.nl
 linkeddata.overheid.nl
 linkeddata.test.cultureelerfgoed.nl
 linkextractor.overheid.nl
+lip.ilent.nl
 lir.cibg.nl
 login.aaenmaas.nl
 login.domeinenrz.nl
@@ -1621,6 +1646,7 @@ magazines.emissieautoriteit.nl
 magazines.forensischinstituut.nl
 magazines.government.nl
 magazines.igj.nl
+magazines.ilent.nl
 magazines.rijksoverheid.nl
 magazines.werkenvoornederland.nl
 magazinesintern.rijksoverheid.nl
@@ -1676,10 +1702,12 @@ meepraten.flevoland.nl
 meet.aaenmaas.nl
 meldingen.atkm.nl
 meldingen.emissieautoriteit.nl
+meldingen.ilent.nl
 meldingen.klopt.cibg.nl
 merkportaal.belastingdienst.nl
 metadata.toegang.overheid.nl
 metelkaartrekkenwedegrens.nl
+metrixinbound.inspecteur.ilent.nl
 mgt.flevoland.nl
 micollab.flevoland.nl
 mijn-aanvraag.belastingdienst.nl
@@ -2015,6 +2043,7 @@ opendata.english.euthanasiecommissie.nl
 opendata.english.farmatec.nl
 opendata.english.globalhealthhub.nl
 opendata.english.igj.nl
+opendata.english.ilent.nl
 opendata.english.sso3w.nl
 opendata.euthanasiecommissie.nl
 opendata.excellentescholen.nl
@@ -2048,6 +2077,7 @@ opendata.huurcommissie.nl
 opendata.hwbp.nl
 opendata.igj.nl
 opendata.ikvermoedhuiselijkgeweld.nl
+opendata.ilent.nl
 opendata.nieuwsbrievenminocw.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.persberichten.rijksoverheid.nl
@@ -2185,6 +2215,7 @@ portalen.preproductie.digipoort.logius.nl
 positconnect.ikz.nl
 positpm.ikz.nl
 positwb.ikz.nl
+povv-poc.ilent.nl
 pp1.toegang.overheid.nl
 pp2.toegang.overheid.nl
 prd.archis.cultureelerfgoed.nl
@@ -2331,6 +2362,8 @@ sap-pi-px1.belastingdienst.nl
 sap-pi-test.belastingdienst.nl
 sap-pi-tx1.belastingdienst.nl
 sap-pi.belastingdienst.nl
+sasbi-acc.ilent.nl
+sasbi.ilent.nl
 sb-dictu.logius.nl
 sbopg1scs01.prod.sap.belastingdienst.nl
 scansys.huurcommissie.nl
@@ -2343,6 +2376,7 @@ sdg.government.nl
 sdg.rijksoverheid.nl
 sdgapi.ondernemersplein.overheid.nl
 sdm.igj.nl
+sdm.ilent.nl
 search.developer.overheid.nl
 sepm.belastingdienst.nl
 service.acc.omgevingswet.overheid.nl
@@ -2369,6 +2403,7 @@ services-test.domeinenrz.nl
 services.acc.belastingdienst.nl
 services.belastingdienst.nl
 services.cultureelerfgoed.nl
+services.ilent.nl
 services1.domeinenrz.nl
 sf.ctgb.nl
 sharepoint-acc-ext.belastingdienst.nl
@@ -2456,6 +2491,7 @@ sso.tst2905.omgevingswet.overheid.nl
 stadvanced.belastingdienst.nl
 stagiairs.werkenvoornederland.nl
 staging.english.ctpveldzicht.nl
+staging.meldingen.ilent.nl
 staging.ondernemersplein.overheid.nl
 standaarden-acc.overheid.nl
 standaarden-tst.overheid.nl
@@ -2505,6 +2541,7 @@ statistiek.mijn.overheid.nl
 statistiek.rijksoverheid.nl
 status.omgevingswet.overheid.nl
 status.pre.omgevingswet.overheid.nl
+stc.ilent.nl
 stcrtin-acc.overheid.nl
 stcrtin-preprd.overheid.nl
 stcrtin.overheid.nl
@@ -2863,6 +2900,7 @@ wiki.logius.nl
 wiki.rijksoverheid.nl
 wikixl-saml.cultureelerfgoed.nl
 wikixl-saml.test.cultureelerfgoed.nl
+wio.ilent.nl
 wist-fpi.hhdelfland.nl
 wms.aanpakringzuid.nl
 woo-formulier.rijksoverheid.nl
@@ -3039,6 +3077,7 @@ www.hwbp.nl
 www.igj.nl
 www.ikvermoedhuiselijkgeweld.nl
 www.ikz.nl
+www.ilent.nl
 www.int.omgevingswet.overheid.nl
 www.int02.omgevingswet.overheid.nl
 www.int12.omgevingswet.overheid.nl

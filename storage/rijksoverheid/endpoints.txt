@@ -84,6 +84,7 @@ http://slechtvalk.brabant.nl
 http://sonarqube.lpc.logius.nl
 http://specials.brabant.nl
 http://stagiairs.werkenvoornederland.nl
+http://staging.meldingen.ilent.nl
 http://stijlgids.cibg.nl
 http://stijlgids.overheid.nl
 http://survey-acc.igj.nl
@@ -124,6 +125,7 @@ https://acc.archis.cultureelerfgoed.nl
 https://acc.auth.services.cultureelerfgoed.nl
 https://acc.beeldbellen.dji.nl
 https://acc.client.archis.cultureelerfgoed.nl
+https://acc.e-loket.ilent.nl
 https://acc.monumentenregister.cultureelerfgoed.nl
 https://acc.omgevingswet.overheid.nl
 https://acc.stor.services.cultureelerfgoed.nl
@@ -159,6 +161,7 @@ https://acceptatie.tea.bigregister.nl
 https://acceptatie.tmv.cibg.nl
 https://acceptatie.uzipas.lir.cibg.nl
 https://acceptatie.webservices.bigregister.nl
+https://acceptatie.wio.ilent.nl
 https://acceptatie.zoeken.bigregister.nl
 https://acm-acc.ctgb.nl
 https://acm.ctgb.nl
@@ -449,6 +452,7 @@ https://dva.belastingdienst.nl
 https://dvfz.dji.nl
 https://dwangindezorg.nl
 https://dwo.ctgb.nl
+https://e-loket.ilent.nl
 https://e-mailabonnementen.rijksoverheid.nl
 https://e-maildiensten.rijksoverheid.nl
 https://e.acc.videobellen.toeslagen.nl
@@ -456,6 +460,7 @@ https://e.flevoland.nl
 https://e.hhdelfland.nl
 https://e.logius.nl
 https://e.videobellen.toeslagen.nl
+https://easyrules.ilent.nl
 https://eavgb-acc.aivd.nl
 https://eavgb.aivd.nl
 https://ebms.contentbeheer.acc.omgevingswet.overheid.nl
@@ -503,6 +508,7 @@ https://english.euthanasiecommissie.nl
 https://english.farmatec.nl
 https://english.globalhealthhub.nl
 https://english.igj.nl
+https://english.ilent.nl
 https://english.sso3w.nl
 https://enterpriseenrollment.cbg-meb.nl
 https://enterpriseregistration.belastingdienst.nl
@@ -642,6 +648,7 @@ https://feeds.english.euthanasiecommissie.nl
 https://feeds.english.farmatec.nl
 https://feeds.english.globalhealthhub.nl
 https://feeds.english.igj.nl
+https://feeds.english.ilent.nl
 https://feeds.english.sso3w.nl
 https://feeds.erfgoeddeal.nl
 https://feeds.euthanasiecommissie.nl
@@ -675,6 +682,7 @@ https://feeds.huurcommissie.nl
 https://feeds.hwbp.nl
 https://feeds.igj.nl
 https://feeds.ikvermoedhuiselijkgeweld.nl
+https://feeds.ilent.nl
 https://feeds.nieuwsbrievenminocw.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.persberichten.rijksoverheid.nl
@@ -780,12 +788,14 @@ https://iknowcimow.omgevingswet.overheid.nl
 https://iknowcimow.tst.omgevingswet.overheid.nl
 https://ikvermoedhuiselijkgeweld.nl
 https://ikz.nl
+https://ilent.nl
 https://import-acc.organisaties.overheid.nl
 https://import.organisaties.overheid.nl
 https://incassomachtigen.belastingdienst.nl
 https://informatiepuntkinderopvangtoeslag.rijksoverheid.nl
 https://inloggen-preprod.hhdelfland.nl
 https://inloggen.hhdelfland.nl
+https://inspecteur.ilent.nl
 https://instroom.belastingdienst.nl
 https://int.omgevingswet.overheid.nl
 https://int02.omgevingswet.overheid.nl
@@ -862,6 +872,7 @@ https://magazines.emissieautoriteit.nl
 https://magazines.forensischinstituut.nl
 https://magazines.government.nl
 https://magazines.igj.nl
+https://magazines.ilent.nl
 https://magazines.rijksoverheid.nl
 https://magazines.werkenvoornederland.nl
 https://magazinesintern.rijksoverheid.nl
@@ -882,6 +893,7 @@ https://mdm.flevoland.nl
 https://meepraten.flevoland.nl
 https://meet.aaenmaas.nl
 https://meldingen.atkm.nl
+https://meldingen.ilent.nl
 https://meldingen.klopt.cibg.nl
 https://metelkaartrekkenwedegrens.nl
 https://mgt.flevoland.nl
@@ -1053,6 +1065,7 @@ https://opendata.english.euthanasiecommissie.nl
 https://opendata.english.farmatec.nl
 https://opendata.english.globalhealthhub.nl
 https://opendata.english.igj.nl
+https://opendata.english.ilent.nl
 https://opendata.english.sso3w.nl
 https://opendata.euthanasiecommissie.nl
 https://opendata.excellentescholen.nl
@@ -1085,6 +1098,7 @@ https://opendata.huurcommissie.nl
 https://opendata.hwbp.nl
 https://opendata.igj.nl
 https://opendata.ikvermoedhuiselijkgeweld.nl
+https://opendata.ilent.nl
 https://opendata.nieuwsbrievenminocw.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.persberichten.rijksoverheid.nl
@@ -1288,6 +1302,7 @@ https://statistiek.mijn.overheid.nl
 https://statistiek.rijksoverheid.nl
 https://status.omgevingswet.overheid.nl
 https://status.pre.omgevingswet.overheid.nl
+https://stc.ilent.nl
 https://stcrtin-preprd.overheid.nl
 https://stcrtin.overheid.nl
 https://stelselcatalogus.acc.omgevingswet.overheid.nl
@@ -1408,6 +1423,7 @@ https://wetten.overheid.nl
 https://wifi.brabant.nl
 https://wikixl-saml.cultureelerfgoed.nl
 https://wikixl-saml.test.cultureelerfgoed.nl
+https://wio.ilent.nl
 https://wms.aanpakringzuid.nl
 https://woo-formulier.rijksoverheid.nl
 https://wordimport.drop.overheid.nl
@@ -1556,6 +1572,7 @@ https://www.hwbp.nl
 https://www.igj.nl
 https://www.ikvermoedhuiselijkgeweld.nl
 https://www.ikz.nl
+https://www.ilent.nl
 https://www.int.omgevingswet.overheid.nl
 https://www.int02.omgevingswet.overheid.nl
 https://www.int12.omgevingswet.overheid.nl
