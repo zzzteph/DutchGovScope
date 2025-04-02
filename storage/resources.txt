@@ -3969,6 +3969,7 @@ dell3.bergen-nh.nl
 dellmanage.gemeentebeek.nl
 dellmanage.ovh.gemeentebeek.nl
 delta.belastingdienst.nl
+deltaprogramma.nl
 demirandabad.amsterdam.nl
 demo-onderwijsloket.amsterdam.nl
 demo-systemteam.overheid.nl
@@ -4596,6 +4597,11 @@ download.roerdalen.nl
 download.webmail.sudwestfryslan.nl
 download1.belastingdienst.nl
 downloaddomain.gemeentemaashorst.nl
+dp2021.deltaprogramma.nl
+dp2022.deltaprogramma.nl
+dp2023.deltaprogramma.nl
+dp2024.deltaprogramma.nl
+dp2025.deltaprogramma.nl
 dpe.belastingdienst.nl
 dplockers.brabant.nl
 dpt.purmerend.nl
@@ -5293,6 +5299,7 @@ english.ctivd.nl
 english.ctpveldzicht.nl
 english.cultureelerfgoed.nl
 english.defensie.nl
+english.deltaprogramma.nl
 english.eindhoven.nl
 english.igj.nl
 enkhuizen.nl
@@ -5640,6 +5647,7 @@ feeds.cybersecurityraad.nl
 feeds.datavoorgezondheid.nl
 feeds.dcc-ienw.nl
 feeds.defensie.nl
+feeds.deltaprogramma.nl
 feeds.english.aivd.nl
 feeds.english.autoriteitnvs.nl
 feeds.english.belastingdienst-cn.nl
@@ -5650,6 +5658,7 @@ feeds.english.ctgb.nl
 feeds.english.ctivd.nl
 feeds.english.cultureelerfgoed.nl
 feeds.english.defensie.nl
+feeds.english.deltaprogramma.nl
 feeds.english.igj.nl
 feeds.igj.nl
 feeds.nieuwsbrievenminocw.nl
@@ -8908,6 +8917,7 @@ magazines.amsterdam.nl
 magazines.cultureelerfgoed.nl
 magazines.cybersecurityraad.nl
 magazines.defensie.nl
+magazines.deltaprogramma.nl
 magazines.gooisemeren.nl
 magazines.horstaandemaas.nl
 magazines.igj.nl
@@ -10796,6 +10806,7 @@ opendata.cybersecurityraad.nl
 opendata.datavoorgezondheid.nl
 opendata.dcc-ienw.nl
 opendata.defensie.nl
+opendata.deltaprogramma.nl
 opendata.english.aivd.nl
 opendata.english.autoriteitnvs.nl
 opendata.english.belastingdienst-cn.nl
@@ -10806,6 +10817,7 @@ opendata.english.ctgb.nl
 opendata.english.ctivd.nl
 opendata.english.cultureelerfgoed.nl
 opendata.english.defensie.nl
+opendata.english.deltaprogramma.nl
 opendata.english.igj.nl
 opendata.heemstede.nl
 opendata.igj.nl
@@ -16444,6 +16456,7 @@ www.defensie.nl
 www.defryskemarren.nl
 www.delft.nl
 www.delfzijl.groningen.nl
+www.deltaprogramma.nl
 www.denhaag.nl
 www.denhaagfietst-acc.denhaag.nl
 www.denhaagfietst.denhaag.nl

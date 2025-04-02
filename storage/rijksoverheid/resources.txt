@@ -687,6 +687,7 @@ decentrale.regelgeving.overheid.nl
 decreg-acc.overheid.nl
 defensie.nl
 delta.belastingdienst.nl
+deltaprogramma.nl
 demo-systemteam.overheid.nl
 demo.mijn.overheid.nl
 demo1-systemteam.overheid.nl
@@ -730,6 +731,11 @@ documentenapplicatie.igj.nl
 domeinnaamregistratie.rijksoverheid.nl
 download.belastingdienst.nl
 download1.belastingdienst.nl
+dp2021.deltaprogramma.nl
+dp2022.deltaprogramma.nl
+dp2023.deltaprogramma.nl
+dp2024.deltaprogramma.nl
+dp2025.deltaprogramma.nl
 dpe.belastingdienst.nl
 dplockers.brabant.nl
 draf-acpt.brabant.nl
@@ -787,6 +793,7 @@ english.ctivd.nl
 english.ctpveldzicht.nl
 english.cultureelerfgoed.nl
 english.defensie.nl
+english.deltaprogramma.nl
 english.igj.nl
 enterpriseenrollment.cbg-meb.nl
 enterpriseregistration.belastingdienst.nl
@@ -907,6 +914,7 @@ feeds.cybersecurityraad.nl
 feeds.datavoorgezondheid.nl
 feeds.dcc-ienw.nl
 feeds.defensie.nl
+feeds.deltaprogramma.nl
 feeds.english.aivd.nl
 feeds.english.autoriteitnvs.nl
 feeds.english.belastingdienst-cn.nl
@@ -917,6 +925,7 @@ feeds.english.ctgb.nl
 feeds.english.ctivd.nl
 feeds.english.cultureelerfgoed.nl
 feeds.english.defensie.nl
+feeds.english.deltaprogramma.nl
 feeds.english.igj.nl
 feeds.igj.nl
 feeds.nieuwsbrievenminocw.nl
@@ -1274,6 +1283,7 @@ magazines.algemenebestuursdienst.nl
 magazines.cultureelerfgoed.nl
 magazines.cybersecurityraad.nl
 magazines.defensie.nl
+magazines.deltaprogramma.nl
 magazines.igj.nl
 magazines.rijksoverheid.nl
 magazines.werkenvoornederland.nl
@@ -1587,6 +1597,7 @@ opendata.cybersecurityraad.nl
 opendata.datavoorgezondheid.nl
 opendata.dcc-ienw.nl
 opendata.defensie.nl
+opendata.deltaprogramma.nl
 opendata.english.aivd.nl
 opendata.english.autoriteitnvs.nl
 opendata.english.belastingdienst-cn.nl
@@ -1597,6 +1608,7 @@ opendata.english.ctgb.nl
 opendata.english.ctivd.nl
 opendata.english.cultureelerfgoed.nl
 opendata.english.defensie.nl
+opendata.english.deltaprogramma.nl
 opendata.english.igj.nl
 opendata.igj.nl
 opendata.nieuwsbrievenminocw.nl
@@ -2407,6 +2419,7 @@ www.dataportaal.brabant.nl
 www.datavoorgezondheid.nl
 www.dcc-ienw.nl
 www.defensie.nl
+www.deltaprogramma.nl
 www.dmo.omgevingswet.overheid.nl
 www.enabling.omgevingswet.overheid.nl
 www.gtmx.acc.belastingdienst.nl
