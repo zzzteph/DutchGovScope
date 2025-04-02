@@ -1003,6 +1003,7 @@ feeds.dutchoffshorewindatlas.nl
 feeds.dutchrapporteur.nl
 feeds.dwangindezorg.nl
 feeds.eentegeneenzaamheid.nl
+feeds.eersteenthuis.nl
 feeds.english.aivd.nl
 feeds.english.autoriteitnvs.nl
 feeds.english.belastingdienst-cn.nl
@@ -1729,6 +1730,7 @@ opendata.dutchoffshorewindatlas.nl
 opendata.dutchrapporteur.nl
 opendata.dwangindezorg.nl
 opendata.eentegeneenzaamheid.nl
+opendata.eersteenthuis.nl
 opendata.english.aivd.nl
 opendata.english.autoriteitnvs.nl
 opendata.english.belastingdienst-cn.nl
@@ -2594,6 +2596,7 @@ www.dutchoffshorewindatlas.nl
 www.dutchrapporteur.nl
 www.dwangindezorg.nl
 www.eentegeneenzaamheid.nl
+www.eersteenthuis.nl
 www.enabling.omgevingswet.overheid.nl
 www.gtmx.acc.belastingdienst.nl
 www.igj.nl

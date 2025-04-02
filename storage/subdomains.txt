@@ -16,8 +16,8 @@ opendata
 preproductie
 simcms
 secure
-acceptatie
 feeds
+acceptatie
 felix
 probeer
 loket

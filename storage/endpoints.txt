@@ -3669,6 +3669,7 @@ https://feeds.dutchoffshorewindatlas.nl
 https://feeds.dutchrapporteur.nl
 https://feeds.dwangindezorg.nl
 https://feeds.eentegeneenzaamheid.nl
+https://feeds.eersteenthuis.nl
 https://feeds.english.aivd.nl
 https://feeds.english.autoriteitnvs.nl
 https://feeds.english.belastingdienst-cn.nl
@@ -6385,6 +6386,7 @@ https://opendata.dutchoffshorewindatlas.nl
 https://opendata.dutchrapporteur.nl
 https://opendata.dwangindezorg.nl
 https://opendata.eentegeneenzaamheid.nl
+https://opendata.eersteenthuis.nl
 https://opendata.english.aivd.nl
 https://opendata.english.autoriteitnvs.nl
 https://opendata.english.belastingdienst-cn.nl
@@ -9223,6 +9225,7 @@ https://www.eemnes.nl
 https://www.eemsdelta.groningen.nl
 https://www.eemsdelta.nl
 https://www.eentegeneenzaamheid.nl
+https://www.eersteenthuis.nl
 https://www.eformulieren.gemeentesluis.nl
 https://www.eijsden-margraten.nl
 https://www.eindhoven.nl

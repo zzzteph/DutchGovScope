@@ -5736,6 +5736,7 @@ feeds.dutchoffshorewindatlas.nl
 feeds.dutchrapporteur.nl
 feeds.dwangindezorg.nl
 feeds.eentegeneenzaamheid.nl
+feeds.eersteenthuis.nl
 feeds.english.aivd.nl
 feeds.english.autoriteitnvs.nl
 feeds.english.belastingdienst-cn.nl
@@ -10938,6 +10939,7 @@ opendata.dutchoffshorewindatlas.nl
 opendata.dutchrapporteur.nl
 opendata.dwangindezorg.nl
 opendata.eentegeneenzaamheid.nl
+opendata.eersteenthuis.nl
 opendata.english.aivd.nl
 opendata.english.autoriteitnvs.nl
 opendata.english.belastingdienst-cn.nl
@@ -16705,6 +16707,7 @@ www.eengoedideevoorocw-acc.denhaag.nl
 www.eengoedideevoorocw.denhaag.nl
 www.eentegeneenzaamheid.nl
 www.eersel.nl
+www.eersteenthuis.nl
 www.eformulieren.gemeentesluis.nl
 www.eijsden-margraten.nl
 www.eindhoven.nl
