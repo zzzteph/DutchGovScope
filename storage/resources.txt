@@ -3666,6 +3666,7 @@ css.v2.openstad.haarlemmermeer.nl
 ctb.voorst.nl
 ctgb.nl
 ctivd.nl
+ctpveldzicht.nl
 ctr.s-hertogenbosch.nl
 cts.belastingdienst.nl
 cts4k.belastingdienst.nl
@@ -5233,6 +5234,7 @@ english.cbgjaarverslag.nl
 english.ccmo.nl
 english.ctgb.nl
 english.ctivd.nl
+english.ctpveldzicht.nl
 english.eindhoven.nl
 english.igj.nl
 enkhuizen.nl
@@ -5568,6 +5570,7 @@ feeds.communicatierijk.nl
 feeds.compensationsns.nl
 feeds.ctgb.nl
 feeds.ctivd.nl
+feeds.ctpveldzicht.nl
 feeds.english.aivd.nl
 feeds.english.autoriteitnvs.nl
 feeds.english.belastingdienst-cn.nl
@@ -6032,6 +6035,7 @@ ftp.bodegraven-reeuwijk.nl
 ftp.brummen.nl
 ftp.castricum.nl
 ftp.ceg.nl
+ftp.ctpveldzicht.nl
 ftp.data.amsterdam.nl
 ftp.dwiweb.amsterdam.nl
 ftp.dwiweb.brievenbus.amsterdam.nl
@@ -10679,6 +10683,7 @@ opendata.communicatierijk.nl
 opendata.compensationsns.nl
 opendata.ctgb.nl
 opendata.ctivd.nl
+opendata.ctpveldzicht.nl
 opendata.english.aivd.nl
 opendata.english.autoriteitnvs.nl
 opendata.english.belastingdienst-cn.nl
@@ -13599,6 +13604,7 @@ staging.archief.venlo.nl
 staging.buurtbudget-buurt.venlo.nl
 staging.buurtbudget.venlo.nl
 staging.deventer.nl
+staging.english.ctpveldzicht.nl
 staging.intranet.oostgelre.nl
 staging.microservices.schoolwijzer.amsterdam.nl
 staging.olst-wijhe.nl
@@ -16267,6 +16273,7 @@ www.csa.sudwestfryslan.nl
 www.csam.deventer.nl
 www.ctgb.nl
 www.ctivd.nl
+www.ctpveldzicht.nl
 www.culemborg.nl
 www.cust-ata01.haarlemmermeer.nl
 www.dalfsen.nl

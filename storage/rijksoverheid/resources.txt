@@ -599,6 +599,7 @@ csoacct.werkenvoornederland.nl
 csotest.werkenvoornederland.nl
 ctgb.nl
 ctivd.nl
+ctpveldzicht.nl
 cts.belastingdienst.nl
 cts4k.belastingdienst.nl
 ctstest.belastingdienst.nl
@@ -727,6 +728,7 @@ english.cbgjaarverslag.nl
 english.ccmo.nl
 english.ctgb.nl
 english.ctivd.nl
+english.ctpveldzicht.nl
 english.igj.nl
 enterpriseenrollment.cbg-meb.nl
 enterpriseregistration.belastingdienst.nl
@@ -835,6 +837,7 @@ feeds.communicatierijk.nl
 feeds.compensationsns.nl
 feeds.ctgb.nl
 feeds.ctivd.nl
+feeds.ctpveldzicht.nl
 feeds.english.aivd.nl
 feeds.english.autoriteitnvs.nl
 feeds.english.belastingdienst-cn.nl
@@ -899,6 +902,7 @@ fs.ctgb.nl
 fsvportaal.acc.belastingdienst.nl
 fsvportaal.belastingdienst.nl
 ftp.ceg.nl
+ftp.ctpveldzicht.nl
 ftp.koop.overheid.nl
 ftpsconfpriv.belastingdienst.nl
 ftpsconfpriv.egb-kps.belastingdienst.nl
@@ -1470,6 +1474,7 @@ opendata.communicatierijk.nl
 opendata.compensationsns.nl
 opendata.ctgb.nl
 opendata.ctivd.nl
+opendata.ctpveldzicht.nl
 opendata.english.aivd.nl
 opendata.english.autoriteitnvs.nl
 opendata.english.belastingdienst-cn.nl
@@ -1818,6 +1823,7 @@ sso.pre.omgevingswet.overheid.nl
 sso.tst2905.omgevingswet.overheid.nl
 stadvanced.belastingdienst.nl
 stagiairs.werkenvoornederland.nl
+staging.english.ctpveldzicht.nl
 staging.ondernemersplein.overheid.nl
 standaarden-acc.overheid.nl
 standaarden-tst.overheid.nl
@@ -2245,6 +2251,7 @@ www.communicatierijk.nl
 www.compensationsns.nl
 www.ctgb.nl
 www.ctivd.nl
+www.ctpveldzicht.nl
 www.dataportaal.brabant.nl
 www.dmo.omgevingswet.overheid.nl
 www.enabling.omgevingswet.overheid.nl
