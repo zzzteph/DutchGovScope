@@ -5852,6 +5852,7 @@ feeds.gouverneuraruba.com
 feeds.government.nl
 feeds.grenzeloossamenwerken.nl
 feeds.groeiennaarmorgen.nl
+feeds.hansken.nl
 feeds.igj.nl
 feeds.nieuwsbrievenminocw.nl
 feeds.papiamentu.belastingdienst-cn.nl
@@ -7105,6 +7106,7 @@ handhavingtest.heerlen.nl
 handhavingtest.valkenburg.nl
 handleiding.nunspeet.nl
 handleiding.rijksoverheid.nl
+hansken.nl
 haps.landvancuijk.nl
 harbor.az1.lpc.logius.nl
 harbor.az2.lpc.logius.nl
@@ -11145,6 +11147,7 @@ opendata.gouverneuraruba.com
 opendata.government.nl
 opendata.grenzeloossamenwerken.nl
 opendata.groeiennaarmorgen.nl
+opendata.hansken.nl
 opendata.heemstede.nl
 opendata.igj.nl
 opendata.nieuwsbrievenminocw.nl
@@ -17115,6 +17118,7 @@ www.haarlemmermeer.nl
 www.halderberge.nl
 www.handhaving.zandvoort.nl
 www.handhavingsacademie.amsterdam.nl
+www.hansken.nl
 www.hardenberg.nl
 www.harderwijk.nl
 www.hardinxveld-giessendam.nl

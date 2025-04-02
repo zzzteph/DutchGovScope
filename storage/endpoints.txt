@@ -3768,6 +3768,7 @@ https://feeds.gouverneuraruba.com
 https://feeds.government.nl
 https://feeds.grenzeloossamenwerken.nl
 https://feeds.groeiennaarmorgen.nl
+https://feeds.hansken.nl
 https://feeds.igj.nl
 https://feeds.nieuwsbrievenminocw.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
@@ -4375,6 +4376,7 @@ https://halbox.halderberge.nl
 https://halnet.halderberge.nl
 https://handboekdibor.ede.nl
 https://handleiding.nunspeet.nl
+https://hansken.nl
 https://haps.landvancuijk.nl
 https://hardenberg.nl
 https://harderwijk.nl
@@ -6560,6 +6562,7 @@ https://opendata.gouverneuraruba.com
 https://opendata.government.nl
 https://opendata.grenzeloossamenwerken.nl
 https://opendata.groeiennaarmorgen.nl
+https://opendata.hansken.nl
 https://opendata.heemstede.nl
 https://opendata.igj.nl
 https://opendata.nieuwsbrievenminocw.nl
@@ -9512,6 +9515,7 @@ https://www.gulpen-wittem.nl
 https://www.haaksbergen.nl
 https://www.haarlem.nl
 https://www.haarlemmermeer.nl
+https://www.hansken.nl
 https://www.hardenberg.nl
 https://www.harderwijk.nl
 https://www.hardinxveld-giessendam.nl

@@ -1119,6 +1119,7 @@ feeds.gouverneuraruba.com
 feeds.government.nl
 feeds.grenzeloossamenwerken.nl
 feeds.groeiennaarmorgen.nl
+feeds.hansken.nl
 feeds.igj.nl
 feeds.nieuwsbrievenminocw.nl
 feeds.papiamentu.belastingdienst-cn.nl
@@ -1330,6 +1331,7 @@ gvsh2hb.belastingdienst.nl
 gw.defensie.nl
 gw.rijksoverheid.nl
 handleiding.rijksoverheid.nl
+hansken.nl
 harbor.az1.lpc.logius.nl
 harbor.az2.lpc.logius.nl
 helloid.aaenmaas.nl
@@ -1936,6 +1938,7 @@ opendata.gouverneuraruba.com
 opendata.government.nl
 opendata.grenzeloossamenwerken.nl
 opendata.groeiennaarmorgen.nl
+opendata.hansken.nl
 opendata.igj.nl
 opendata.nieuwsbrievenminocw.nl
 opendata.papiamentu.belastingdienst-cn.nl
@@ -2859,6 +2862,7 @@ www.government.nl
 www.grenzeloossamenwerken.nl
 www.groeiennaarmorgen.nl
 www.gtmx.acc.belastingdienst.nl
+www.hansken.nl
 www.hetverhaalvan.flevoland.nl
 www.igj.nl
 www.int.omgevingswet.overheid.nl
