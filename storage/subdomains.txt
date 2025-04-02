@@ -8,8 +8,8 @@ opendata
 edienstenburgerzaken-test
 intranet
 mijn
-mail
 feeds
+mail
 webmail
 simsite
 afspraken
@@ -213,6 +213,7 @@ bestuur
 afspraakmaken
 a-feeds.a-english
 a-opendata.a-english
+m
 webservices
 website
 wachtwoord
@@ -231,7 +232,6 @@ outlook
 vth
 testloket
 contact
-m
 api
 filetransfer
 meet
@@ -3232,6 +3232,8 @@ watertoetsportaal
 wbp6
 wist-fpi
 workspace
+apkl
+integriteitswijzer
 email.mail.participatie
 mail.participatie
 aalten-checker-preprod

@@ -200,6 +200,7 @@ https://api.ondernemersplein.overheid.nl
 https://api.preprod.mijn.overheid.nl
 https://api.standaarden.overheid.nl
 https://apis.developer.overheid.nl
+https://apkl.huisvoorklokkenluiders.nl
 https://app.brabant.nl
 https://applicationframework.cibg.nl
 https://applications.klopt.cibg.nl
@@ -215,6 +216,7 @@ https://atlas.brabant.nl
 https://auditdienstrijk.nl
 https://auth.services.cultureelerfgoed.nl
 https://autodiscover.awti.nl
+https://autodiscover.huisvoorklokkenluiders.nl
 https://autodiscover.koop.overheid.nl
 https://autodiscover.overheid.nl
 https://autorisatie-preprod.brabant.nl
@@ -664,6 +666,7 @@ https://feeds.hoesterkstaik.nl
 https://feeds.hogeraadvanadel.nl
 https://feeds.houdmisdaaduitjebuurt.nl
 https://feeds.huiselijkgeweld.nl
+https://feeds.huisvoorklokkenluiders.nl
 https://feeds.igj.nl
 https://feeds.nieuwsbrievenminocw.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
@@ -751,6 +754,7 @@ https://hoesterkstaik.nl
 https://hogeraadvanadel.nl
 https://houdmisdaaduitjebuurt.nl
 https://huisstijl.belastingdienst.nl
+https://huisvoorklokkenluiders.nl
 https://hulpmiddelen.farmatec.nl
 https://iam-containerplatform.lpc.logius.nl
 https://id.brabant.nl
@@ -779,6 +783,7 @@ https://intbhr.omgevingswet.overheid.nl
 https://inte2e.omgevingswet.overheid.nl
 https://integratie.omgevingswet.overheid.nl
 https://integratie02.omgevingswet.overheid.nl
+https://integriteitswijzer.huisvoorklokkenluiders.nl
 https://intermediairdagen.belastingdienst.nl
 https://intern.catalogus.cultureelerfgoed.nl
 https://intpatch.omgevingswet.overheid.nl
@@ -830,6 +835,7 @@ https://lvbb-preprod.overheid.nl
 https://lvbb-tst.overheid.nl
 https://lync.aaenmaas.nl
 https://lyncdiscover.aaenmaas.nl
+https://m.huisvoorklokkenluiders.nl
 https://m.werkenvoornederland.nl
 https://machtigen.digipoort.logius.nl
 https://magazines.algemenebestuursdienst.nl
@@ -1059,6 +1065,7 @@ https://opendata.hoesterkstaik.nl
 https://opendata.hogeraadvanadel.nl
 https://opendata.houdmisdaaduitjebuurt.nl
 https://opendata.huiselijkgeweld.nl
+https://opendata.huisvoorklokkenluiders.nl
 https://opendata.igj.nl
 https://opendata.nieuwsbrievenminocw.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
@@ -1515,6 +1522,7 @@ https://www.hoesterkstaik.nl
 https://www.hogeraadvanadel.nl
 https://www.houdmisdaaduitjebuurt.nl
 https://www.huiselijkgeweld.nl
+https://www.huisvoorklokkenluiders.nl
 https://www.igj.nl
 https://www.int.omgevingswet.overheid.nl
 https://www.int02.omgevingswet.overheid.nl
