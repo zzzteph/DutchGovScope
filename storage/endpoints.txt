@@ -3492,6 +3492,7 @@ https://english.igj.nl
 https://english.ilent.nl
 https://english.inspectie-oe.nl
 https://english.iob-evaluatie.nl
+https://english.kiesraad.nl
 https://english.sso3w.nl
 https://enkhuizen.nl
 https://enquete-acc.denhaag.nl
@@ -3779,6 +3780,7 @@ https://feeds.english.igj.nl
 https://feeds.english.ilent.nl
 https://feeds.english.inspectie-oe.nl
 https://feeds.english.iob-evaluatie.nl
+https://feeds.english.kiesraad.nl
 https://feeds.english.sso3w.nl
 https://feeds.erfgoeddeal.nl
 https://feeds.euthanasiecommissie.nl
@@ -3829,6 +3831,7 @@ https://feeds.justitieleictorganisatie.nl
 https://feeds.kabinetsformatie2023.nl
 https://feeds.kansrijkestartnl.nl
 https://feeds.kennisvandeoverheid.nl
+https://feeds.kiesraad.nl
 https://feeds.nieuwsbrievenminocw.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.persberichten.rijksoverheid.nl
@@ -5257,6 +5260,7 @@ https://keyhub.hofvantwente.nl
 https://keyhub.urk.nl
 https://kghtb-prod.gemeente-steenbergen.nl
 https://kgzorgned-prod.gemeente-steenbergen.nl
+https://kiesraad.nl
 https://kijk.dijkenwaard.nl
 https://kim.omgevingswet.overheid.nl
 https://kim3.amsterdam.nl
@@ -6665,6 +6669,7 @@ https://opendata.english.igj.nl
 https://opendata.english.ilent.nl
 https://opendata.english.inspectie-oe.nl
 https://opendata.english.iob-evaluatie.nl
+https://opendata.english.kiesraad.nl
 https://opendata.english.sso3w.nl
 https://opendata.euthanasiecommissie.nl
 https://opendata.excellentescholen.nl
@@ -6715,6 +6720,7 @@ https://opendata.justitieleictorganisatie.nl
 https://opendata.kabinetsformatie2023.nl
 https://opendata.kansrijkestartnl.nl
 https://opendata.kennisvandeoverheid.nl
+https://opendata.kiesraad.nl
 https://opendata.nieuwsbrievenminocw.nl
 https://opendata.nijmegen.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
@@ -9799,6 +9805,7 @@ https://www.kansrijkestartnl.nl
 https://www.kapelle.nl
 https://www.katwijk.nl
 https://www.kennisvandeoverheid.nl
+https://www.kiesraad.nl
 https://www.komverder.krimpenaandenijssel.nl
 https://www.kos.nijmegen.nl
 https://www.krimpenaandenijssel.nl

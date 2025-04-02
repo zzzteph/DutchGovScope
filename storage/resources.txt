@@ -5501,6 +5501,7 @@ english.igj.nl
 english.ilent.nl
 english.inspectie-oe.nl
 english.iob-evaluatie.nl
+english.kiesraad.nl
 english.sso3w.nl
 enkhuizen.nl
 enquete-acc.denhaag.nl
@@ -5909,6 +5910,7 @@ feeds.english.igj.nl
 feeds.english.ilent.nl
 feeds.english.inspectie-oe.nl
 feeds.english.iob-evaluatie.nl
+feeds.english.kiesraad.nl
 feeds.english.sso3w.nl
 feeds.erfgoeddeal.nl
 feeds.euthanasiecommissie.nl
@@ -5959,6 +5961,7 @@ feeds.justitieleictorganisatie.nl
 feeds.kabinetsformatie2023.nl
 feeds.kansrijkestartnl.nl
 feeds.kennisvandeoverheid.nl
+feeds.kiesraad.nl
 feeds.nieuwsbrievenminocw.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.persberichten.rijksoverheid.nl
@@ -8710,6 +8713,7 @@ kennisbank.bronckhorst.nl
 kennisbank.eindhoven.nl
 kennisbank.groningen.nl
 kennisbank.hhdelfland.nl
+kennisbank.kiesraad.nl
 kennisbank.logius.nl
 kennisbank.nijmegen.nl
 kennisbank.wijdemeren.nl
@@ -8801,6 +8805,7 @@ kibana-prod.lpc.logius.nl
 kibana.lpc.logius.nl
 kibana.parkeren.data.amsterdam.nl
 kiesjekraam.amsterdam.nl
+kiesraad.nl
 kijk.dijkenwaard.nl
 kim.acc.amsterdam.nl
 kim.omgevingswet.overheid.nl
@@ -11325,6 +11330,7 @@ opendata.english.igj.nl
 opendata.english.ilent.nl
 opendata.english.inspectie-oe.nl
 opendata.english.iob-evaluatie.nl
+opendata.english.kiesraad.nl
 opendata.english.sso3w.nl
 opendata.euthanasiecommissie.nl
 opendata.excellentescholen.nl
@@ -11376,6 +11382,7 @@ opendata.justitieleictorganisatie.nl
 opendata.kabinetsformatie2023.nl
 opendata.kansrijkestartnl.nl
 opendata.kennisvandeoverheid.nl
+opendata.kiesraad.nl
 opendata.nieuwsbrievenminocw.nl
 opendata.nijmegen.nl
 opendata.papiamentu.belastingdienst-cn.nl
@@ -13946,6 +13953,7 @@ sip.hellevoetsluis.nl
 sip.hoorn.nl
 sip.houten.nl
 sip.justid.nl
+sip.kiesraad.nl
 sip.oa.amsterdam.nl
 sip.oostzaan.nl
 sip.ouder-amstel.nl
@@ -16853,6 +16861,7 @@ www-a.huurcommissie.nl
 www-acceptatie.tilburg.nl
 www-acpt.brabant.nl
 www-cache.gemeentesluis.nl
+www-old.kiesraad.nl
 www-ontw.brabant.nl
 www-sandbox.werkenvoornederland.nl
 www-sc8.brabant.nl
@@ -17578,6 +17587,7 @@ www.kapelle.nl
 www.katwijk.nl
 www.kennisvandeoverheid.nl
 www.kerkrade.nl
+www.kiesraad.nl
 www.kindpakket.groningen.nl
 www.kmdn.gemeentehulst.nl
 www.kodision-prod.sudwestfryslan.nl

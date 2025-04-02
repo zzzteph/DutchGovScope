@@ -49,8 +49,8 @@ gemeenteraad
 enterpriseenrollment
 iparticipatie
 belastingen
-test-ipa
 english
+test-ipa
 data
 dacceptatieloket
 dacceptatiemidoffice
@@ -72,10 +72,10 @@ beeldbank
 loket.acceptatie
 openpub
 omgevingsvisie
-digikoppeling-test
-cloudadapter-test
 feeds.english
 opendata.english
+digikoppeling-test
+cloudadapter-test
 formulier
 kaart
 flowmailer-tracking
@@ -94,6 +94,7 @@ govroam
 digikoppeling.test
 mks
 dtestloket
+sip
 denkmee
 osbacc
 test-cmsintranet
@@ -102,7 +103,6 @@ piwik
 acc-broker
 belastingloket
 doemee
-sip
 mdm
 apps
 extranet
@@ -172,6 +172,7 @@ cms
 a-english
 fs
 mta-sts
+kennisbank
 maps
 legacy
 mobile
@@ -196,7 +197,6 @@ ro
 uc
 transfer
 evenementen
-kennisbank
 onderzoek
 intranet-acc
 telewerken
@@ -3309,6 +3309,7 @@ tst-referentiegegevens
 validatie-acc
 validatie
 menukaart
+www-old
 email.mail.participatie
 mail.participatie
 aalten-checker-preprod
