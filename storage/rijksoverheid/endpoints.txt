@@ -683,6 +683,7 @@ https://feeds.hwbp.nl
 https://feeds.igj.nl
 https://feeds.ikvermoedhuiselijkgeweld.nl
 https://feeds.ilent.nl
+https://feeds.informatieanalyseteam.nl
 https://feeds.nieuwsbrievenminocw.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.persberichten.rijksoverheid.nl
@@ -1100,6 +1101,7 @@ https://opendata.hwbp.nl
 https://opendata.igj.nl
 https://opendata.ikvermoedhuiselijkgeweld.nl
 https://opendata.ilent.nl
+https://opendata.informatieanalyseteam.nl
 https://opendata.nieuwsbrievenminocw.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.persberichten.rijksoverheid.nl
@@ -1575,6 +1577,7 @@ https://www.ikvermoedhuiselijkgeweld.nl
 https://www.ikz.nl
 https://www.ilent.nl
 https://www.infomilcn.com
+https://www.informatieanalyseteam.nl
 https://www.int.omgevingswet.overheid.nl
 https://www.int02.omgevingswet.overheid.nl
 https://www.int12.omgevingswet.overheid.nl

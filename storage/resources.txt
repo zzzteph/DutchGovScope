@@ -5921,6 +5921,7 @@ feeds.hwbp.nl
 feeds.igj.nl
 feeds.ikvermoedhuiselijkgeweld.nl
 feeds.ilent.nl
+feeds.informatieanalyseteam.nl
 feeds.nieuwsbrievenminocw.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.persberichten.rijksoverheid.nl
@@ -11289,6 +11290,7 @@ opendata.hwbp.nl
 opendata.igj.nl
 opendata.ikvermoedhuiselijkgeweld.nl
 opendata.ilent.nl
+opendata.informatieanalyseteam.nl
 opendata.nieuwsbrievenminocw.nl
 opendata.nijmegen.nl
 opendata.papiamentu.belastingdienst-cn.nl
@@ -17401,6 +17403,7 @@ www.ilent.nl
 www.inburgeren.amsterdam.nl
 www.infomilcn.com
 www.infonet.eijsden-margraten.nl
+www.informatieanalyseteam.nl
 www.infozuil.utrecht.nl
 www.ingesprek.denhelder.nl
 www.inkomensondersteuning.nijmegen.nl

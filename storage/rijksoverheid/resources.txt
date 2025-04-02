@@ -1188,6 +1188,7 @@ feeds.hwbp.nl
 feeds.igj.nl
 feeds.ikvermoedhuiselijkgeweld.nl
 feeds.ilent.nl
+feeds.informatieanalyseteam.nl
 feeds.nieuwsbrievenminocw.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.persberichten.rijksoverheid.nl
@@ -2079,6 +2080,7 @@ opendata.hwbp.nl
 opendata.igj.nl
 opendata.ikvermoedhuiselijkgeweld.nl
 opendata.ilent.nl
+opendata.informatieanalyseteam.nl
 opendata.nieuwsbrievenminocw.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.persberichten.rijksoverheid.nl
@@ -3080,6 +3082,7 @@ www.ikvermoedhuiselijkgeweld.nl
 www.ikz.nl
 www.ilent.nl
 www.infomilcn.com
+www.informatieanalyseteam.nl
 www.int.omgevingswet.overheid.nl
 www.int02.omgevingswet.overheid.nl
 www.int12.omgevingswet.overheid.nl
