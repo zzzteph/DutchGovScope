@@ -58,6 +58,7 @@ a-feeds.government.nl
 a-feeds.healthcouncil.nl
 a-feeds.igj.nl
 a-feeds.inspectie-jenv.nl
+a-feeds.jaarverantwoordingzorg.nl
 a-feeds.rijksoverheid.nl
 a-git.rijksoverheid.nl
 a-jira.rijksoverheid.nl
@@ -103,6 +104,7 @@ a-opendata.government.nl
 a-opendata.healthcouncil.nl
 a-opendata.igj.nl
 a-opendata.inspectie-jenv.nl
+a-opendata.jaarverantwoordingzorg.nl
 a-opendata.rijksoverheid.nl
 a-persberichten.rijksoverheid.nl
 a-servicedesk.rijksoverheid.nl
@@ -143,6 +145,7 @@ a-www.government.nl
 a-www.healthcouncil.nl
 a-www.igj.nl
 a-www.inspectie-jenv.nl
+a-www.jaarverantwoordingzorg.nl
 a-www.rijksoverheid.nl
 a2vonderenkerensheide.nl
 aaenmaas.nl
@@ -1207,6 +1210,7 @@ feeds.inspectiebtd.nl
 feeds.investeringsimpulsspv.nl
 feeds.iob-evaluatie.nl
 feeds.it-academieoverheid.nl
+feeds.jaarverantwoordingzorg.nl
 feeds.nieuwsbrievenminocw.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.persberichten.rijksoverheid.nl
@@ -1565,6 +1569,7 @@ isamproxyont.ont.belastingdienst.nl
 it-academieoverheid.nl
 itp-acc.ilent.nl
 itp.ilent.nl
+jaarverantwoordingzorg.nl
 jaarverslag2017.flevoland.nl
 jaarverslag2018.flevoland.nl
 jip.inspectie-jenv.nl
@@ -2122,6 +2127,7 @@ opendata.inspectiebtd.nl
 opendata.investeringsimpulsspv.nl
 opendata.iob-evaluatie.nl
 opendata.it-academieoverheid.nl
+opendata.jaarverantwoordingzorg.nl
 opendata.nieuwsbrievenminocw.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.persberichten.rijksoverheid.nl
@@ -3145,6 +3151,7 @@ www.investeringsimpulsspv.nl
 www.iob-evaluatie.nl
 www.iplo.nl
 www.it-academieoverheid.nl
+www.jaarverantwoordingzorg.nl
 www.jaarverslag2018.flevoland.nl
 www.kaarten.brabant.nl
 www.logius.nl

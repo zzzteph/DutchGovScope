@@ -54,10 +54,12 @@ english
 data
 dacceptatieloket
 dacceptatiemidoffice
+a-www
 remote
 dloket
 dmidoffice
-a-www
+a-feeds
+a-opendata
 enterpriseregistration
 osb
 api.meldingen-acc
@@ -65,8 +67,6 @@ meldingen-acc
 openpdc
 belastingbalie
 cmsoo
-a-feeds
-a-opendata
 login
 beeldbank
 loket.acceptatie
