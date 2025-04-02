@@ -4738,6 +4738,7 @@ dusk-acc-openwave.beverwijk.nl
 dusk-openwave.beverwijk.nl
 dutchncca.nl
 dutchoffshorewindatlas.nl
+dutchrapporteur.nl
 duurzaam.alphenaandenrijn.nl
 duurzaam.assen.nl
 duurzaam.barneveld.nl
@@ -5726,6 +5727,7 @@ feeds.dsta.nl
 feeds.dus-i.nl
 feeds.dutchncca.nl
 feeds.dutchoffshorewindatlas.nl
+feeds.dutchrapporteur.nl
 feeds.english.aivd.nl
 feeds.english.autoriteitnvs.nl
 feeds.english.belastingdienst-cn.nl
@@ -10925,6 +10927,7 @@ opendata.dsta.nl
 opendata.dus-i.nl
 opendata.dutchncca.nl
 opendata.dutchoffshorewindatlas.nl
+opendata.dutchrapporteur.nl
 opendata.english.aivd.nl
 opendata.english.autoriteitnvs.nl
 opendata.english.belastingdienst-cn.nl
@@ -16664,6 +16667,7 @@ www.duiven.nl
 www.dus-i.nl
 www.dutchncca.nl
 www.dutchoffshorewindatlas.nl
+www.dutchrapporteur.nl
 www.duurzaam.alphenaandenrijn.nl
 www.duurzaam.assen.nl
 www.duurzaam.barneveld.nl

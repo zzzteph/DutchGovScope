@@ -12,9 +12,9 @@ mail
 simsite
 afspraken
 digikoppeling
+opendata
 preproductie
 simcms
-opendata
 secure
 acceptatie
 feeds
