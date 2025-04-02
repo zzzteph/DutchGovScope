@@ -314,6 +314,7 @@ autodiscover.brabant.nl
 autodiscover.ctgb.nl
 autodiscover.ctivd.nl
 autodiscover.cultureelerfgoed.nl
+autodiscover.cvte.nl
 autodiscover.koop.overheid.nl
 autodiscover.overheid.nl
 autodiscover.rcgog.nl
@@ -643,6 +644,7 @@ cv-mailrelay5.overheid.nl
 cv-mailrelay6.overheid.nl
 cv-mailrelays.overheid.nl
 cvdr.overheid.nl
+cvte.nl
 dagstaatmonitors.brabant.nl
 dash-ma.mijn.overheid.nl
 dash-mp.mijn.overheid.nl
@@ -797,6 +799,7 @@ evenementen.belastingdienst.nl
 event.acc.belastingdienst.nl
 event.belastingdienst.nl
 event.tst.belastingdienst.nl
+examenplein.cvte.nl
 extern-abv-acc.belastingdienst.nl
 externe-veiligheid.omgevingswet.overheid.nl
 externemail.ctgb.nl
@@ -874,6 +877,7 @@ feeds.ctivd.nl
 feeds.ctpveldzicht.nl
 feeds.cultureelerfgoed.nl
 feeds.cultuursubsidie.nl
+feeds.cvte.nl
 feeds.english.aivd.nl
 feeds.english.autoriteitnvs.nl
 feeds.english.belastingdienst-cn.nl
@@ -1533,6 +1537,7 @@ opendata.ctivd.nl
 opendata.ctpveldzicht.nl
 opendata.cultureelerfgoed.nl
 opendata.cultuursubsidie.nl
+opendata.cvte.nl
 opendata.english.aivd.nl
 opendata.english.autoriteitnvs.nl
 opendata.english.belastingdienst-cn.nl
@@ -2336,6 +2341,7 @@ www.ctivd.nl
 www.ctpveldzicht.nl
 www.cultureelerfgoed.nl
 www.cultuursubsidie.nl
+www.cvte.nl
 www.dataportaal.brabant.nl
 www.dmo.omgevingswet.overheid.nl
 www.enabling.omgevingswet.overheid.nl

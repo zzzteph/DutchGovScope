@@ -1817,6 +1817,7 @@ autodiscover.ctgb.nl
 autodiscover.ctivd.nl
 autodiscover.cu-sgp.haarlemmermeer.nl
 autodiscover.cultureelerfgoed.nl
+autodiscover.cvte.nl
 autodiscover.d66.haarlemmermeer.nl
 autodiscover.d66.nijmegen.nl
 autodiscover.dalfsen.nl
@@ -3718,6 +3719,7 @@ cv-mailrelays.overheid.nl
 cvdk.nissewaard.nl
 cvdkacc.nissewaard.nl
 cvdr.overheid.nl
+cvte.nl
 cyclomedia.gulpen-wittem.nl
 cyclorama.utrecht.nl
 da.deurne.nl
@@ -5469,6 +5471,7 @@ evoitest.nissewaard.nl
 ews.leeuwarden.nl
 ews.lopik.nl
 ews.utrecht.nl
+examenplein.cvte.nl
 exch.nederweert.nl
 exch.roermond.nl
 exchange.alphenaandenrijn.nl
@@ -5607,6 +5610,7 @@ feeds.ctivd.nl
 feeds.ctpveldzicht.nl
 feeds.cultureelerfgoed.nl
 feeds.cultuursubsidie.nl
+feeds.cvte.nl
 feeds.english.aivd.nl
 feeds.english.autoriteitnvs.nl
 feeds.english.belastingdienst-cn.nl
@@ -10742,6 +10746,7 @@ opendata.ctivd.nl
 opendata.ctpveldzicht.nl
 opendata.cultureelerfgoed.nl
 opendata.cultuursubsidie.nl
+opendata.cvte.nl
 opendata.english.aivd.nl
 opendata.english.autoriteitnvs.nl
 opendata.english.belastingdienst-cn.nl
@@ -16360,6 +16365,7 @@ www.culemborg.nl
 www.cultureelerfgoed.nl
 www.cultuursubsidie.nl
 www.cust-ata01.haarlemmermeer.nl
+www.cvte.nl
 www.dalfsen.nl
 www.dantumadiel.frl
 www.data.amsterdam.nl

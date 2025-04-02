@@ -326,6 +326,7 @@ https://cultureel-erfgoed.omgevingswet.overheid.nl
 https://cultureelerfgoed.nl
 https://cultuursubsidie.nl
 https://cursus.drop.overheid.nl
+https://cvte.nl
 https://data-acc.overheid.nl
 https://data.cultureelerfgoed.nl
 https://data.geo.cultureelerfgoed.nl
@@ -401,6 +402,7 @@ https://esb-t1.brabant.nl
 https://esb-test.brabant.nl
 https://esb.brabant.nl
 https://eubtw.belastingdienst.nl
+https://examenplein.cvte.nl
 https://externe-veiligheid.omgevingswet.overheid.nl
 https://f2b.belastingdienst.nl
 https://facilitor.brabant.nl
@@ -462,6 +464,7 @@ https://feeds.ctivd.nl
 https://feeds.ctpveldzicht.nl
 https://feeds.cultureelerfgoed.nl
 https://feeds.cultuursubsidie.nl
+https://feeds.cvte.nl
 https://feeds.english.aivd.nl
 https://feeds.english.autoriteitnvs.nl
 https://feeds.english.belastingdienst-cn.nl
@@ -706,6 +709,7 @@ https://opendata.ctivd.nl
 https://opendata.ctpveldzicht.nl
 https://opendata.cultureelerfgoed.nl
 https://opendata.cultuursubsidie.nl
+https://opendata.cvte.nl
 https://opendata.english.aivd.nl
 https://opendata.english.autoriteitnvs.nl
 https://opendata.english.belastingdienst-cn.nl
@@ -1054,6 +1058,7 @@ https://www.ctivd.nl
 https://www.ctpveldzicht.nl
 https://www.cultureelerfgoed.nl
 https://www.cultuursubsidie.nl
+https://www.cvte.nl
 https://www.dataportaal.brabant.nl
 https://www.dmo.omgevingswet.overheid.nl
 https://www.enabling.omgevingswet.overheid.nl
