@@ -3761,6 +3761,7 @@ https://feeds.gezondheidsraad.nl
 https://feeds.globalhealthhub.nl
 https://feeds.gobernadoraruba.com
 https://feeds.gobiernodireino.nl
+https://feeds.gobiernudireino.nl
 https://feeds.igj.nl
 https://feeds.nieuwsbrievenminocw.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
@@ -4308,6 +4309,7 @@ https://gitops.test.denhaag.nl
 https://glanerbrug.openstad.enschede.nl
 https://gobernadoraruba.com
 https://gobiernodireino.nl
+https://gobiernudireino.nl
 https://goedbezig.rotterdam.nl
 https://goedterechtin.leeuwarden.nl
 https://goes.nl
@@ -6542,6 +6544,7 @@ https://opendata.gezondheidsraad.nl
 https://opendata.globalhealthhub.nl
 https://opendata.gobernadoraruba.com
 https://opendata.gobiernodireino.nl
+https://opendata.gobiernudireino.nl
 https://opendata.heemstede.nl
 https://opendata.igj.nl
 https://opendata.nieuwsbrievenminocw.nl
@@ -9474,6 +9477,7 @@ https://www.gis.rotterdam.nl
 https://www.globalhealthhub.nl
 https://www.gobernadoraruba.com
 https://www.gobiernodireino.nl
+https://www.gobiernudireino.nl
 https://www.goedterechtin.leeuwarden.nl
 https://www.goes.nl
 https://www.gogo.denhaag.nl

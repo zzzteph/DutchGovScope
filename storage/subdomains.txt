@@ -68,9 +68,9 @@ login
 loket.acceptatie
 openpub
 omgevingsvisie
+a-www
 beeldbank
 cloudadapter-test
-a-www
 digikoppeling-test
 a-feeds
 a-opendata

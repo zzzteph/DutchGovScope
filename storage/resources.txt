@@ -239,6 +239,7 @@ a-www.forensicinstitute.nl
 a-www.forensischinstituut.nl
 a-www.geobasisregistraties.nl
 a-www.gezondheidsraad.nl
+a-www.gobiernudireino.nl
 a-www.igj.nl
 a-www.rijksoverheid.nl
 a2b-rtr.alkmaar.nl
@@ -5840,6 +5841,7 @@ feeds.gezondheidsraad.nl
 feeds.globalhealthhub.nl
 feeds.gobernadoraruba.com
 feeds.gobiernodireino.nl
+feeds.gobiernudireino.nl
 feeds.igj.nl
 feeds.nieuwsbrievenminocw.nl
 feeds.papiamentu.belastingdienst-cn.nl
@@ -6873,6 +6875,7 @@ gn2connect-acc.apeldoorn.nl
 gn2connect.apeldoorn.nl
 gobernadoraruba.com
 gobiernodireino.nl
+gobiernudireino.nl
 goedbezig.rotterdam.nl
 goedendag.woensdrecht.nl
 goedterechtin.leeuwarden.nl
@@ -11119,6 +11122,7 @@ opendata.gezondheidsraad.nl
 opendata.globalhealthhub.nl
 opendata.gobernadoraruba.com
 opendata.gobiernodireino.nl
+opendata.gobiernudireino.nl
 opendata.heemstede.nl
 opendata.igj.nl
 opendata.nieuwsbrievenminocw.nl
@@ -17053,6 +17057,7 @@ www.gkb.groningen.nl
 www.globalhealthhub.nl
 www.gobernadoraruba.com
 www.gobiernodireino.nl
+www.gobiernudireino.nl
 www.goedterechtin.leeuwarden.nl
 www.goeree-overflakkee.nl
 www.goes.nl

@@ -641,6 +641,7 @@ https://feeds.gezondheidsraad.nl
 https://feeds.globalhealthhub.nl
 https://feeds.gobernadoraruba.com
 https://feeds.gobiernodireino.nl
+https://feeds.gobiernudireino.nl
 https://feeds.igj.nl
 https://feeds.nieuwsbrievenminocw.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
@@ -700,6 +701,7 @@ https://gisservicesacc.aaenmaas.nl
 https://gitdocumentatie.logius.nl
 https://gobernadoraruba.com
 https://gobiernodireino.nl
+https://gobiernudireino.nl
 https://gpi.belastingdienst.nl
 https://grondwaterstand.brabant.nl
 https://gtmb.belastingdienst.nl
@@ -998,6 +1000,7 @@ https://opendata.gezondheidsraad.nl
 https://opendata.globalhealthhub.nl
 https://opendata.gobernadoraruba.com
 https://opendata.gobiernodireino.nl
+https://opendata.gobiernudireino.nl
 https://opendata.igj.nl
 https://opendata.nieuwsbrievenminocw.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
@@ -1423,6 +1426,7 @@ https://www.gezondheidsraad.nl
 https://www.globalhealthhub.nl
 https://www.gobernadoraruba.com
 https://www.gobiernodireino.nl
+https://www.gobiernudireino.nl
 https://www.hetverhaalvan.flevoland.nl
 https://www.igj.nl
 https://www.int.omgevingswet.overheid.nl
