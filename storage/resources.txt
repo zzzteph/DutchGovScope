@@ -97,6 +97,7 @@ _autodiscover._tcp.schiermonnikoog.nl
 _autodiscover._tcp.wijkbijduurstede.nl
 _dmarc.cibg.nl
 _dmarc.delft.nl
+_dmarc.dji.nl
 _dmarc.helmond.nl
 _dmarc.leiden.nl
 _dmarc.logius.nl
@@ -155,6 +156,7 @@ a-feeds.rijksoverheid.nl
 a-git.rijksoverheid.nl
 a-jira.rijksoverheid.nl
 a-magazines.defensie.nl
+a-magazines.dji.nl
 a-magazines.igj.nl
 a-magazines.rijksoverheid.nl
 a-magazinesintern.rijksoverheid.nl
@@ -503,6 +505,7 @@ acc.archis.cultureelerfgoed.nl
 acc.auth.services.cultureelerfgoed.nl
 acc.avgregisterrijksoverheid.nl
 acc.basisstatistiek.amsterdam.nl
+acc.beeldbellen.dji.nl
 acc.beesel.nl
 acc.beheer.data.amsterdam.nl
 acc.belastingloket.waalwijk.nl
@@ -2351,6 +2354,7 @@ beeldbankbeheer.haarlemmermeer.nl
 beeldbankbeheer.loonopzand.nl
 beeldbankbeheer.veldhoven.nl
 beeldbankbeheer.waalwijk.nl
+beeldbellen.dji.nl
 beeldbellen.zoetermeer.nl
 beelden.zwolle.nl
 beeldmateriaal.eindhoven.nl
@@ -3528,6 +3532,7 @@ conf.cbg-meb.nl
 conference-2-belastingdienst1.vc.belastingdienst.nl
 conference-3-belastingdienst1.vc.belastingdienst.nl
 conference.assen.nl
+connect-acpt.dji.nl
 connect-preprod.almere.nl
 connect-with.brabant.nl
 connect-with.trouwen.tilburg.nl
@@ -3546,6 +3551,7 @@ connect.acceptatie.zutphen.nl
 connect.coevorden.nl
 connect.ctgb.nl
 connect.dantumadiel.frl
+connect.dji.nl
 connect.doesburg.nl
 connect.drechterland.nl
 connect.echt-susteren.nl
@@ -4365,6 +4371,7 @@ dis4fis-prod.waterland.nl
 dis4fis-test.waterland.nl
 discoverreceiver.purmerend.nl
 ditwilikin.rotterdam.nl
+dji.nl
 djuma-mks-prd.velsen.nl
 djuma-mks-tst.velsen.nl
 djuma.beesel.nl
@@ -4629,6 +4636,7 @@ draf-acpt.brabant.nl
 draf.brabant.nl
 drc.data.amsterdam.nl
 drechterland.nl
+drife-f.dji.nl
 drimmelen.nl
 drms.cibg.nl
 drone.cg-intern.acc.utrecht.nl
@@ -4729,6 +4737,10 @@ duurzameescaperoom-vr.belastingdienst.nl
 duurzamestad-acc.denhaag.nl
 duurzamestad.denhaag.nl
 dva.belastingdienst.nl
+dvfz-acc-auth.dji.nl
+dvfz-acc.dji.nl
+dvfz-auth.dji.nl
+dvfz.dji.nl
 dvg.culemborg.nl
 dvg.tiel.nl
 dvg.westbetuwe.nl
@@ -4815,6 +4827,8 @@ e2s-test.molenlanden.nl
 e2s.helmond.nl
 e2s.molenlanden.nl
 e2stest.helmond.nl
+eagle-acc.dji.nl
+eagle.dji.nl
 eaptls.deventer.nl
 easyfunders.leiden.nl
 eavgb-acc.aivd.nl
@@ -5677,6 +5691,7 @@ feeds.dienstterugkeerenvertrek.nl
 feeds.digitaalstelselmobiliteitsdata.nl
 feeds.dihoo.eu
 feeds.dihoo.nl
+feeds.dji.nl
 feeds.english.aivd.nl
 feeds.english.autoriteitnvs.nl
 feeds.english.belastingdienst-cn.nl
@@ -6150,6 +6165,7 @@ ftp.castricum.nl
 ftp.ceg.nl
 ftp.ctpveldzicht.nl
 ftp.data.amsterdam.nl
+ftp.dji.nl
 ftp.dwiweb.amsterdam.nl
 ftp.dwiweb.brievenbus.amsterdam.nl
 ftp.koop.overheid.nl
@@ -7865,6 +7881,7 @@ intranet.delft.nl
 intranet.deurne.nl
 intranet.deventer.nl
 intranet.digi-mlv.os.amsterdam.nl
+intranet.dji.nl
 intranet.docwonen.amsterdam.nl
 intranet.drimmelen.nl
 intranet.echt-susteren.nl
@@ -8888,6 +8905,7 @@ lync.aaenmaas.nl
 lync.haarlemmermeer.nl
 lyncaccess.houten.nl
 lyncav.haarlem.nl
+lyncav.vico.dji.nl
 lynccon.haarlem.nl
 lynccon.haarlemmermeer.nl
 lyncdir.haarlem.nl
@@ -8949,6 +8967,7 @@ magazines.cultureelerfgoed.nl
 magazines.cybersecurityraad.nl
 magazines.defensie.nl
 magazines.deltaprogramma.nl
+magazines.dji.nl
 magazines.gooisemeren.nl
 magazines.horstaandemaas.nl
 magazines.igj.nl
@@ -8968,6 +8987,7 @@ mail.asten.nl
 mail.bapi.belastingdienst.nl
 mail.bapicft.belastingdienst.nl
 mail.barneveld.nl
+mail.beeldbellen.dji.nl
 mail.bergen.nl
 mail.bergenopzoom.nl
 mail.bernheze.org
@@ -8986,6 +9006,7 @@ mail.derondevenen.nl
 mail.deventer.nl
 mail.digikoppeling.texel.nl
 mail.dihoo.nl
+mail.dji.nl
 mail.dmb.amsterdam.nl
 mail.drechterland.nl
 mail.echt-susteren.nl
@@ -10847,6 +10868,7 @@ opendata.dienstterugkeerenvertrek.nl
 opendata.digitaalstelselmobiliteitsdata.nl
 opendata.dihoo.eu
 opendata.dihoo.nl
+opendata.dji.nl
 opendata.english.aivd.nl
 opendata.english.autoriteitnvs.nl
 opendata.english.belastingdienst-cn.nl
@@ -11529,6 +11551,7 @@ pkoppelcorsa.kerkrade.nl
 pkoppelcorsa.landgraaf.nl
 pl.gemeentewestland.nl
 plan-plan-validatie.pre.omgevingswet.overheid.nl
+plan.beeldbellen.dji.nl
 planboard.groningen.ad.groningen.nl
 planmonitor.acc.amsterdam.nl
 plannen.asten.nl
@@ -13372,6 +13395,7 @@ sip.oostzaan.nl
 sip.ouder-amstel.nl
 sip.uithoorn.nl
 sip.urk.nl
+sip.vico.dji.nl
 sip.wijdemeren.nl
 sip.wormerland.nl
 sip2.urk.nl
@@ -15205,6 +15229,8 @@ vianen.landvancuijk.nl
 vibe.rhenen.nl
 vicrea.heuvelrug.nl
 victor.amsterdam.nl
+video-acc.beeldbellen.dji.nl
+video.beeldbellen.dji.nl
 video.belastingdienst.nl
 video.landvancuijk.nl
 videoafspraak.rotterdam.nl
@@ -16531,6 +16557,7 @@ www.dihoo.nl
 www.dijkenwaard.nl
 www.dinkelland.nl
 www.directduidelijk.openstad.enschede.nl
+www.dji.nl
 www.djuma.gemeentehulst.nl
 www.djuma.haarlemmermeer.nl
 www.dloket.zwolle.nl

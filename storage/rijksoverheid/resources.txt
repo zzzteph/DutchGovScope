@@ -2,6 +2,7 @@ Lrza.gatservices.acc.igj.nl
 Lrza.gatservices.prd.igj.nl
 ZDPushservice.overheid.nl
 _dmarc.cibg.nl
+_dmarc.dji.nl
 _dmarc.logius.nl
 _dmarc.rijksoverheid.nl
 a-cms.defensie.nl
@@ -50,6 +51,7 @@ a-feeds.rijksoverheid.nl
 a-git.rijksoverheid.nl
 a-jira.rijksoverheid.nl
 a-magazines.defensie.nl
+a-magazines.dji.nl
 a-magazines.igj.nl
 a-magazines.rijksoverheid.nl
 a-magazinesintern.rijksoverheid.nl
@@ -141,6 +143,7 @@ acc.api-gateway.archis.cultureelerfgoed.nl
 acc.archis.cultureelerfgoed.nl
 acc.auth.services.cultureelerfgoed.nl
 acc.avgregisterrijksoverheid.nl
+acc.beeldbellen.dji.nl
 acc.client.archis.cultureelerfgoed.nl
 acc.contactherstelservice.lpc.mijn.overheid.nl
 acc.digid-stub.lpc.mijn.overheid.nl
@@ -407,6 +410,7 @@ bdmz-reth473.belastingdienst.nl
 beeldbank-bo.brabant.nl
 beeldbank.brabant.nl
 beeldbank.cultureelerfgoed.nl
+beeldbellen.dji.nl
 begroting.brabant.nl
 behandel.bigregister.nl
 behandel.generiekeregistratiedienst.cibg.nl
@@ -625,8 +629,10 @@ componenten.overheid.nl
 conf.cbg-meb.nl
 conference-2-belastingdienst1.vc.belastingdienst.nl
 conference-3-belastingdienst1.vc.belastingdienst.nl
+connect-acpt.dji.nl
 connect-with.brabant.nl
 connect.ctgb.nl
+connect.dji.nl
 connectpeople.acc.belastingdienst.nl
 connectpeople.belastingdienst.nl
 connectpeople.ont.belastingdienst.nl
@@ -732,6 +738,7 @@ digitaalvergaderen.belastingdienst.nl
 digitaalvergaderen.ont.belastingdienst.nl
 dihoo.eu
 dihoo.nl
+dji.nl
 dmo.omgevingswet.overheid.nl
 dns-fw1.rijksoverheid.nl
 dns-fw4.rijksoverheid.nl
@@ -759,6 +766,7 @@ dpe.belastingdienst.nl
 dplockers.brabant.nl
 draf-acpt.brabant.nl
 draf.brabant.nl
+drife-f.dji.nl
 drms.cibg.nl
 drop-api-preprd-poc.overheid.nl
 drop-api-preprd.overheid.nl
@@ -774,12 +782,18 @@ duo2.belastingdienst.nl
 duurzameescaperoom-light-vr.belastingdienst.nl
 duurzameescaperoom-vr.belastingdienst.nl
 dva.belastingdienst.nl
+dvfz-acc-auth.dji.nl
+dvfz-acc.dji.nl
+dvfz-auth.dji.nl
+dvfz.dji.nl
 dwo.ctgb.nl
 e-mailabonnementen.rijksoverheid.nl
 e-maildiensten.rijksoverheid.nl
 e.acc.videobellen.toeslagen.nl
 e.logius.nl
 e.videobellen.toeslagen.nl
+eagle-acc.dji.nl
+eagle.dji.nl
 eavgb-acc.aivd.nl
 eavgb.aivd.nl
 ebms.contentbeheer.acc.omgevingswet.overheid.nl
@@ -944,6 +958,7 @@ feeds.dienstterugkeerenvertrek.nl
 feeds.digitaalstelselmobiliteitsdata.nl
 feeds.dihoo.eu
 feeds.dihoo.nl
+feeds.dji.nl
 feeds.english.aivd.nl
 feeds.english.autoriteitnvs.nl
 feeds.english.belastingdienst-cn.nl
@@ -1016,6 +1031,7 @@ fsvportaal.acc.belastingdienst.nl
 fsvportaal.belastingdienst.nl
 ftp.ceg.nl
 ftp.ctpveldzicht.nl
+ftp.dji.nl
 ftp.koop.overheid.nl
 ftpsconfpriv.belastingdienst.nl
 ftpsconfpriv.egb-kps.belastingdienst.nl
@@ -1223,6 +1239,7 @@ intpatch.omgevingswet.overheid.nl
 intranet.belastingdienst.nl
 intranet.ctgb.nl
 intranet.cultureelerfgoed.nl
+intranet.dji.nl
 intratst.belastingdienst.nl
 intrekkingsportaal.acceptatie.digipoort.logius.nl
 intrekkingsportaal.digipoort.logius.nl
@@ -1305,6 +1322,7 @@ lvbb-perf-acc.overheid.nl
 lvbb-preprod.overheid.nl
 lvbb-tst.overheid.nl
 lync.aaenmaas.nl
+lyncav.vico.dji.nl
 lyncdiscover.aaenmaas.nl
 m.werkenvoornederland.nl
 m365.ctgb.nl
@@ -1315,18 +1333,21 @@ magazines.cultureelerfgoed.nl
 magazines.cybersecurityraad.nl
 magazines.defensie.nl
 magazines.deltaprogramma.nl
+magazines.dji.nl
 magazines.igj.nl
 magazines.rijksoverheid.nl
 magazines.werkenvoornederland.nl
 magazinesintern.rijksoverheid.nl
 mail.bapi.belastingdienst.nl
 mail.bapicft.belastingdienst.nl
+mail.beeldbellen.dji.nl
 mail.bureauwsnp.nl
 mail.cbg-meb.nl
 mail.ctgb.nl
 mail.ctivd.nl
 mail.cultureelerfgoed.nl
 mail.dihoo.nl
+mail.dji.nl
 mail.koop.overheid.nl
 mail240.brabant.nl
 mail241.brabant.nl
@@ -1638,6 +1659,7 @@ opendata.dienstterugkeerenvertrek.nl
 opendata.digitaalstelselmobiliteitsdata.nl
 opendata.dihoo.eu
 opendata.dihoo.nl
+opendata.dji.nl
 opendata.english.aivd.nl
 opendata.english.autoriteitnvs.nl
 opendata.english.belastingdienst-cn.nl
@@ -1741,6 +1763,7 @@ pkio.service.perf.omgevingswet.overheid.nl
 pkio.service.pre.omgevingswet.overheid.nl
 pkio.service.tst2905.omgevingswet.overheid.nl
 plan-plan-validatie.pre.omgevingswet.overheid.nl
+plan.beeldbellen.dji.nl
 planon.acc.belastingdienst.nl
 platformafpakken-fiod.acc.belastingdienst.nl
 pleio-test.belastingdienst.nl
@@ -1940,6 +1963,7 @@ sign1.toeslagen.nl
 signing.pre.brabant.nl
 sip.aaenmaas.nl
 sip.cbg-meb.nl
+sip.vico.dji.nl
 sipreg.belastingdienst.nl
 sis.brabant.nl
 site1.defensie.nl
@@ -2251,6 +2275,8 @@ verzekeringsproducten.acc.belastingdienst.nl
 verzekeringsproducten.belastingdienst.nl
 via2008pilot-test2.belastingdienst.nl
 via2008pilot.belastingdienst.nl
+video-acc.beeldbellen.dji.nl
+video.beeldbellen.dji.nl
 video.belastingdienst.nl
 videobellen.belastingdienst.nl
 videoserver.brabant.nl
@@ -2471,6 +2497,7 @@ www.diergeneesmiddeleninformatiebank.nl
 www.digitaalstelselmobiliteitsdata.nl
 www.dihoo.eu
 www.dihoo.nl
+www.dji.nl
 www.dmo.omgevingswet.overheid.nl
 www.enabling.omgevingswet.overheid.nl
 www.gtmx.acc.belastingdienst.nl

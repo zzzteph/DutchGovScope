@@ -272,6 +272,8 @@ http://docs.lpc.logius.nl
 http://draf-acpt.brabant.nl
 http://dse.lx.overheid.nl
 http://duurzaam.beverwijk.nl
+http://eagle-acc.dji.nl
+http://eagle.dji.nl
 http://eloket.meppel.nl
 http://emagazine2030.rijswijk.nl
 http://email.capelleaandenijssel.nl
@@ -880,6 +882,7 @@ https://acc.app.amsterdam.nl
 https://acc.app.meldingen.amsterdam.nl
 https://acc.archis.cultureelerfgoed.nl
 https://acc.auth.services.cultureelerfgoed.nl
+https://acc.beeldbellen.dji.nl
 https://acc.beesel.nl
 https://acc.belastingloket.waalwijk.nl
 https://acc.bereikbaarheid.amsterdam.nl
@@ -1739,6 +1742,7 @@ https://beeldbankbeheer.haarlemmermeer.nl
 https://beeldbankbeheer.loonopzand.nl
 https://beeldbankbeheer.veldhoven.nl
 https://beeldbankbeheer.waalwijk.nl
+https://beeldbellen.dji.nl
 https://beeldbellen.zoetermeer.nl
 https://beelden.zwolle.nl
 https://beeldmateriaal.eindhoven.nl
@@ -2442,11 +2446,13 @@ https://componenten.acc.nijmegen.nl
 https://componenten.nijmegen.nl
 https://componenten.overheid.nl
 https://concern.ir.rotterdam.nl
+https://connect-acpt.dji.nl
 https://connect-preprod.almere.nl
 https://connect-with.brabant.nl
 https://connect-with.trouwen.tilburg.nl
 https://connect.acceptatie.winterswijk.nl
 https://connect.ctgb.nl
+https://connect.dji.nl
 https://connect.goirle.nl
 https://connect.pekela.nl
 https://connect.test.winterswijk.nl
@@ -2768,6 +2774,7 @@ https://dinkelland.nl
 https://directadmin.almelo.nl
 https://directduidelijk.openstad.enschede.nl
 https://discoverreceiver.purmerend.nl
+https://dji.nl
 https://dkd.deventer.nl
 https://dkdtest.deventer.nl
 https://dloket-s2s.olst-wijhe.nl
@@ -2849,6 +2856,7 @@ https://dpt.purmerend.nl
 https://draadloos.sittard-geleen.nl
 https://draf.brabant.nl
 https://drechterland.nl
+https://drife-f.dji.nl
 https://drimmelen.nl
 https://drms.cibg.nl
 https://dronten.nl
@@ -2893,6 +2901,7 @@ https://duurzaamwonen.sittard-geleen.nl
 https://duurzamestad-acc.denhaag.nl
 https://duurzamestad.denhaag.nl
 https://dva.belastingdienst.nl
+https://dvfz.dji.nl
 https://dvi.afs.acc.amsterdam.nl
 https://dvi.afs.amsterdam.nl
 https://dvlm.3d.utrecht.nl
@@ -3627,6 +3636,7 @@ https://feeds.dienstterugkeerenvertrek.nl
 https://feeds.digitaalstelselmobiliteitsdata.nl
 https://feeds.dihoo.eu
 https://feeds.dihoo.nl
+https://feeds.dji.nl
 https://feeds.english.aivd.nl
 https://feeds.english.autoriteitnvs.nl
 https://feeds.english.belastingdienst-cn.nl
@@ -3909,6 +3919,7 @@ https://ftp.afs.amsterdam.nl
 https://ftp.bodegraven-reeuwijk.nl
 https://ftp.castricum.nl
 https://ftp.ceg.nl
+https://ftp.dji.nl
 https://ftp.meerssen.nl
 https://ftp.sudwestfryslan.nl
 https://ftrust.veere.nl
@@ -4702,6 +4713,7 @@ https://intranet.cultureelerfgoed.nl
 https://intranet.debilt.nl
 https://intranet.delft.nl
 https://intranet.deventer.nl
+https://intranet.dji.nl
 https://intranet.drimmelen.nl
 https://intranet.edam-volendam.nl
 https://intranet.eemsdelta.nl
@@ -5268,6 +5280,7 @@ https://magazines.cultureelerfgoed.nl
 https://magazines.cybersecurityraad.nl
 https://magazines.defensie.nl
 https://magazines.deltaprogramma.nl
+https://magazines.dji.nl
 https://magazines.gooisemeren.nl
 https://magazines.igj.nl
 https://magazines.rijksoverheid.nl
@@ -6321,6 +6334,7 @@ https://opendata.dienstterugkeerenvertrek.nl
 https://opendata.digitaalstelselmobiliteitsdata.nl
 https://opendata.dihoo.eu
 https://opendata.dihoo.nl
+https://opendata.dji.nl
 https://opendata.english.aivd.nl
 https://opendata.english.autoriteitnvs.nl
 https://opendata.english.belastingdienst-cn.nl
@@ -8424,6 +8438,8 @@ https://vga.amsterdam.nl
 https://via.geertruidenberg.nl
 https://vianen.landvancuijk.nl
 https://victor.amsterdam.nl
+https://video-acc.beeldbellen.dji.nl
+https://video.beeldbellen.dji.nl
 https://video.landvancuijk.nl
 https://videoafspraak.rotterdam.nl
 https://videobellen.belastingdienst.nl
@@ -9107,6 +9123,7 @@ https://www.dihoo.nl
 https://www.dijkenwaard.nl
 https://www.dinkelland.nl
 https://www.directduidelijk.openstad.enschede.nl
+https://www.dji.nl
 https://www.dloket.zwolle.nl
 https://www.dmo.omgevingswet.overheid.nl
 https://www.doemee.bloemendaal.nl

@@ -33,6 +33,8 @@ http://dns-web300.rijksoverheid.nl
 http://docs.lpc.logius.nl
 http://draf-acpt.brabant.nl
 http://dse.lx.overheid.nl
+http://eagle-acc.dji.nl
+http://eagle.dji.nl
 http://git-az1.lpc.logius.nl
 http://git-az2.lpc.logius.nl
 http://git.lpc.logius.nl
@@ -103,6 +105,7 @@ https://acc.adviescollegeveiligheidgroningen.nl
 https://acc.api-gateway.archis.cultureelerfgoed.nl
 https://acc.archis.cultureelerfgoed.nl
 https://acc.auth.services.cultureelerfgoed.nl
+https://acc.beeldbellen.dji.nl
 https://acc.client.archis.cultureelerfgoed.nl
 https://acc.monumentenregister.cultureelerfgoed.nl
 https://acc.omgevingswet.overheid.nl
@@ -202,6 +205,7 @@ https://bag.test.basisregistraties.overheid.nl
 https://bag2.basisregistraties.overheid.nl
 https://beeldbank.brabant.nl
 https://beeldbank.cultureelerfgoed.nl
+https://beeldbellen.dji.nl
 https://begroting.brabant.nl
 https://behandel.bigregister.nl
 https://behandel.generiekeregistratiedienst.cibg.nl
@@ -309,8 +313,10 @@ https://community.developer.overheid.nl
 https://componenten-acc.overheid.nl
 https://componenten-tst.overheid.nl
 https://componenten.overheid.nl
+https://connect-acpt.dji.nl
 https://connect-with.brabant.nl
 https://connect.ctgb.nl
+https://connect.dji.nl
 https://connectpeople.belastingdienst.nl
 https://connectpeoplereg.belastingdienst.nl
 https://content.klopt.cibg.nl
@@ -365,6 +371,7 @@ https://digilab.overheid.nl
 https://digitaalstelselmobiliteitsdata.nl
 https://dihoo.eu
 https://dihoo.nl
+https://dji.nl
 https://dmo.omgevingswet.overheid.nl
 https://doculoket-acc.overheid.nl
 https://doculoket.overheid.nl
@@ -376,6 +383,7 @@ https://dp2023.deltaprogramma.nl
 https://dp2024.deltaprogramma.nl
 https://dp2025.deltaprogramma.nl
 https://draf.brabant.nl
+https://drife-f.dji.nl
 https://drms.cibg.nl
 https://drop-api-preprd-poc.overheid.nl
 https://drop-api-preprd.overheid.nl
@@ -383,6 +391,7 @@ https://drop-api.overheid.nl
 https://drop-preprd.overheid.nl
 https://drop.overheid.nl
 https://dva.belastingdienst.nl
+https://dvfz.dji.nl
 https://dwo.ctgb.nl
 https://e-mailabonnementen.rijksoverheid.nl
 https://e-maildiensten.rijksoverheid.nl
@@ -507,6 +516,7 @@ https://feeds.dienstterugkeerenvertrek.nl
 https://feeds.digitaalstelselmobiliteitsdata.nl
 https://feeds.dihoo.eu
 https://feeds.dihoo.nl
+https://feeds.dji.nl
 https://feeds.english.aivd.nl
 https://feeds.english.autoriteitnvs.nl
 https://feeds.english.belastingdienst-cn.nl
@@ -546,6 +556,7 @@ https://foto-opdracht.cultureelerfgoed.nl
 https://fs.ctgb.nl
 https://fsvportaal.belastingdienst.nl
 https://ftp.ceg.nl
+https://ftp.dji.nl
 https://gdlo.belastingdienst.nl
 https://gegevensbijbesluiten.overheid.nl
 https://gegevensdelen.preprod.mijn.overheid.nl
@@ -598,6 +609,7 @@ https://intermediairdagen.belastingdienst.nl
 https://intern.catalogus.cultureelerfgoed.nl
 https://intpatch.omgevingswet.overheid.nl
 https://intranet.cultureelerfgoed.nl
+https://intranet.dji.nl
 https://jobs.werkenvoornederland.nl
 https://kaartbank.brabant.nl
 https://kaarten-demo.overheid.nl
@@ -638,6 +650,7 @@ https://magazines.cultureelerfgoed.nl
 https://magazines.cybersecurityraad.nl
 https://magazines.defensie.nl
 https://magazines.deltaprogramma.nl
+https://magazines.dji.nl
 https://magazines.igj.nl
 https://magazines.rijksoverheid.nl
 https://magazines.werkenvoornederland.nl
@@ -777,6 +790,7 @@ https://opendata.dienstterugkeerenvertrek.nl
 https://opendata.digitaalstelselmobiliteitsdata.nl
 https://opendata.dihoo.eu
 https://opendata.dihoo.nl
+https://opendata.dji.nl
 https://opendata.english.aivd.nl
 https://opendata.english.autoriteitnvs.nl
 https://opendata.english.belastingdienst-cn.nl
@@ -1023,6 +1037,8 @@ https://verkeersbesluiten-preprd.overheid.nl
 https://verkeersbesluiten.overheid.nl
 https://verleendekinderopvang.belastingdienst.nl
 https://verzekeringsproducten.belastingdienst.nl
+https://video-acc.beeldbellen.dji.nl
+https://video.beeldbellen.dji.nl
 https://videobellen.belastingdienst.nl
 https://vinden.belastingdienst.nl
 https://vpn.brabant.nl
@@ -1146,6 +1162,7 @@ https://www.diergeneesmiddeleninformatiebank.nl
 https://www.digitaalstelselmobiliteitsdata.nl
 https://www.dihoo.eu
 https://www.dihoo.nl
+https://www.dji.nl
 https://www.dmo.omgevingswet.overheid.nl
 https://www.enabling.omgevingswet.overheid.nl
 https://www.igj.nl

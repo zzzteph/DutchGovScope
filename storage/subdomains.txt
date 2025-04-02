@@ -78,11 +78,11 @@ hybrid
 kaarten
 english
 cloudadapter
+connect
 berichten
 parkeren-acc
 a-www
 govroam
-connect
 digikoppeling.test
 mks
 cmsintranet
@@ -120,6 +120,7 @@ dtestmidoffice
 feeds.english
 opendata.english
 sts
+ftp
 mijnzorg
 _autodiscover._tcp
 vergunningintaker
@@ -130,10 +131,10 @@ qr
 gemeente
 bastion365
 obsurv
+magazines
 smtp
 e
 web
-ftp
 preprodbroker
 simform
 mijninkomen
@@ -143,7 +144,6 @@ acc-podiumd-logs
 woningbouwkaart
 contentbeheer
 micollab
-magazines
 mobiel
 lyncdiscover
 email
@@ -163,6 +163,7 @@ connect.acceptatie
 inloggen
 jaarstukken
 cryptshare
+_dmarc
 fs
 mta-sts
 mailing
@@ -189,7 +190,6 @@ ro
 uc
 AutoDiscover
 transfer
-_dmarc
 a-english
 evenementen
 onderzoek
@@ -412,6 +412,7 @@ prefill
 corsa-prod
 corsa-test
 mijndesktop
+a-magazines
 mijn-acc
 sharepoint
 werken
@@ -519,7 +520,6 @@ awtunnel
 ens
 cca-acc
 cca
-a-magazines
 git
 monitor
 persberichten
@@ -836,6 +836,7 @@ password
 acc.subsidie
 monumentenregister
 ssl
+beeldbellen
 edienstenburgerzaken.test
 www.praatmee
 datalab
@@ -3068,6 +3069,21 @@ deutsch
 feeds.deutsch
 opendata.deutsch
 acceptatie.abonnee
+acc.beeldbellen
+connect-acpt
+drife-f
+dvfz-acc-auth
+dvfz-acc
+dvfz-auth
+dvfz
+eagle-acc
+eagle
+lyncav.vico
+mail.beeldbellen
+plan.beeldbellen
+sip.vico
+video-acc.beeldbellen
+video.beeldbellen
 email.mail.participatie
 mail.participatie
 aalten-checker-preprod
@@ -8586,7 +8602,6 @@ www.thuis
 acctest
 zs-accept
 aiz
-beeldbellen
 buytenweghdeleyens
 enzo
 enzobeheer
