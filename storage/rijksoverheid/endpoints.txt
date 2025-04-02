@@ -627,6 +627,7 @@ https://feeds.euthanasiecommissie.nl
 https://feeds.excellentescholen.nl
 https://feeds.expertisecentrummggz.nl
 https://feeds.farmatec.nl
+https://feeds.fmhaaglanden.nl
 https://feeds.igj.nl
 https://feeds.nieuwsbrievenminocw.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
@@ -963,6 +964,7 @@ https://opendata.euthanasiecommissie.nl
 https://opendata.excellentescholen.nl
 https://opendata.expertisecentrummggz.nl
 https://opendata.farmatec.nl
+https://opendata.fmhaaglanden.nl
 https://opendata.igj.nl
 https://opendata.nieuwsbrievenminocw.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
@@ -1377,6 +1379,7 @@ https://www.excellentescholen.nl
 https://www.expertisecentrummggz.nl
 https://www.farmatec.nl
 https://www.flevoland.nl
+https://www.fmhaaglanden.nl
 https://www.hetverhaalvan.flevoland.nl
 https://www.igj.nl
 https://www.int.omgevingswet.overheid.nl

@@ -1078,6 +1078,7 @@ feeds.euthanasiecommissie.nl
 feeds.excellentescholen.nl
 feeds.expertisecentrummggz.nl
 feeds.farmatec.nl
+feeds.fmhaaglanden.nl
 feeds.igj.nl
 feeds.nieuwsbrievenminocw.nl
 feeds.papiamentu.belastingdienst-cn.nl
@@ -1858,6 +1859,7 @@ opendata.euthanasiecommissie.nl
 opendata.excellentescholen.nl
 opendata.expertisecentrummggz.nl
 opendata.farmatec.nl
+opendata.fmhaaglanden.nl
 opendata.igj.nl
 opendata.nieuwsbrievenminocw.nl
 opendata.papiamentu.belastingdienst-cn.nl
@@ -2761,6 +2763,7 @@ www.excellentescholen.nl
 www.expertisecentrummggz.nl
 www.farmatec.nl
 www.flevoland.nl
+www.fmhaaglanden.nl
 www.gtmx.acc.belastingdienst.nl
 www.hetverhaalvan.flevoland.nl
 www.igj.nl
