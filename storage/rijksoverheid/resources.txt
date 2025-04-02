@@ -1166,6 +1166,7 @@ feeds.huisvoorklokkenluiders.nl
 feeds.huurcommissie.nl
 feeds.hwbp.nl
 feeds.igj.nl
+feeds.ikvermoedhuiselijkgeweld.nl
 feeds.nieuwsbrievenminocw.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.persberichten.rijksoverheid.nl
@@ -1458,6 +1459,7 @@ igjportaal.webservices-dbb.igj.nl
 iknowcimow.acc.omgevingswet.overheid.nl
 iknowcimow.omgevingswet.overheid.nl
 iknowcimow.tst.omgevingswet.overheid.nl
+ikvermoedhuiselijkgeweld.nl
 import-acc.organisaties.overheid.nl
 import.organisaties.overheid.nl
 inbewaringstelling.webservices-dbb-acc.igj.nl
@@ -2042,6 +2044,7 @@ opendata.huisvoorklokkenluiders.nl
 opendata.huurcommissie.nl
 opendata.hwbp.nl
 opendata.igj.nl
+opendata.ikvermoedhuiselijkgeweld.nl
 opendata.nieuwsbrievenminocw.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.persberichten.rijksoverheid.nl
@@ -3025,6 +3028,7 @@ www.huisvoorklokkenluiders.nl
 www.huurcommissie.nl
 www.hwbp.nl
 www.igj.nl
+www.ikvermoedhuiselijkgeweld.nl
 www.int.omgevingswet.overheid.nl
 www.int02.omgevingswet.overheid.nl
 www.int12.omgevingswet.overheid.nl

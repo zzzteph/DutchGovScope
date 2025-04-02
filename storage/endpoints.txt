@@ -3792,6 +3792,7 @@ https://feeds.huisvoorklokkenluiders.nl
 https://feeds.huurcommissie.nl
 https://feeds.hwbp.nl
 https://feeds.igj.nl
+https://feeds.ikvermoedhuiselijkgeweld.nl
 https://feeds.nieuwsbrievenminocw.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.persberichten.rijksoverheid.nl
@@ -4772,6 +4773,7 @@ https://iknowcimow.acc.omgevingswet.overheid.nl
 https://iknowcimow.omgevingswet.overheid.nl
 https://iknowcimow.tst.omgevingswet.overheid.nl
 https://ikonderneemin.almere.nl
+https://ikvermoedhuiselijkgeweld.nl
 https://ikzitklem.zaanstad.nl
 https://ikzoek.huizen.nl
 https://ikzoekeenhuis.almere.nl
@@ -6624,6 +6626,7 @@ https://opendata.huisvoorklokkenluiders.nl
 https://opendata.huurcommissie.nl
 https://opendata.hwbp.nl
 https://opendata.igj.nl
+https://opendata.ikvermoedhuiselijkgeweld.nl
 https://opendata.nieuwsbrievenminocw.nl
 https://opendata.nijmegen.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
@@ -9648,6 +9651,7 @@ https://www.igj.nl
 https://www.ihp-acc.denhaag.nl
 https://www.ihp.denhaag.nl
 https://www.ijsselstein.nl
+https://www.ikvermoedhuiselijkgeweld.nl
 https://www.ingesprek.denhelder.nl
 https://www.inkomensondersteuning.nijmegen.nl
 https://www.int.omgevingswet.overheid.nl

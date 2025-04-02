@@ -672,6 +672,7 @@ https://feeds.huisvoorklokkenluiders.nl
 https://feeds.huurcommissie.nl
 https://feeds.hwbp.nl
 https://feeds.igj.nl
+https://feeds.ikvermoedhuiselijkgeweld.nl
 https://feeds.nieuwsbrievenminocw.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.persberichten.rijksoverheid.nl
@@ -775,6 +776,7 @@ https://igj.nl
 https://iknowcimow.acc.omgevingswet.overheid.nl
 https://iknowcimow.omgevingswet.overheid.nl
 https://iknowcimow.tst.omgevingswet.overheid.nl
+https://ikvermoedhuiselijkgeweld.nl
 https://import-acc.organisaties.overheid.nl
 https://import.organisaties.overheid.nl
 https://incassomachtigen.belastingdienst.nl
@@ -1079,6 +1081,7 @@ https://opendata.huisvoorklokkenluiders.nl
 https://opendata.huurcommissie.nl
 https://opendata.hwbp.nl
 https://opendata.igj.nl
+https://opendata.ikvermoedhuiselijkgeweld.nl
 https://opendata.nieuwsbrievenminocw.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.persberichten.rijksoverheid.nl
@@ -1545,6 +1548,7 @@ https://www.huisvoorklokkenluiders.nl
 https://www.huurcommissie.nl
 https://www.hwbp.nl
 https://www.igj.nl
+https://www.ikvermoedhuiselijkgeweld.nl
 https://www.int.omgevingswet.overheid.nl
 https://www.int02.omgevingswet.overheid.nl
 https://www.int12.omgevingswet.overheid.nl
