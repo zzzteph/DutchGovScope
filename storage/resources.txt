@@ -5883,6 +5883,7 @@ feeds.groeiennaarmorgen.nl
 feeds.hansken.nl
 feeds.healthcouncil.nl
 feeds.hoesterkstaik.nl
+feeds.hogeraadvanadel.nl
 feeds.igj.nl
 feeds.nieuwsbrievenminocw.nl
 feeds.papiamentu.belastingdienst-cn.nl
@@ -7248,6 +7249,7 @@ hnw.delft.nl
 hoesterkstaik.nl
 hofnet.coevorden.nl
 hofvantwente.nl
+hogeraadvanadel.nl
 hollandskroon.nl
 holthees.landvancuijk.nl
 home.groningen.nl
@@ -11216,6 +11218,7 @@ opendata.healthcouncil.nl
 opendata.heemstede.nl
 opendata.hhdelfland.nl
 opendata.hoesterkstaik.nl
+opendata.hogeraadvanadel.nl
 opendata.igj.nl
 opendata.nieuwsbrievenminocw.nl
 opendata.nijmegen.nl
@@ -17257,6 +17260,7 @@ www.historiehuis.roermond.nl
 www.hlmrvpn.haarlemmermeer.nl
 www.hoesterkstaik.nl
 www.hofvantwente.nl
+www.hogeraadvanadel.nl
 www.hollandskroon.nl
 www.hoogeland.groningen.nl
 www.hoogeveen.nl

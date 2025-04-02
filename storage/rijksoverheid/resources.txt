@@ -1150,6 +1150,7 @@ feeds.groeiennaarmorgen.nl
 feeds.hansken.nl
 feeds.healthcouncil.nl
 feeds.hoesterkstaik.nl
+feeds.hogeraadvanadel.nl
 feeds.igj.nl
 feeds.nieuwsbrievenminocw.nl
 feeds.papiamentu.belastingdienst-cn.nl
@@ -1389,6 +1390,7 @@ hetverhaalvan.flevoland.nl
 hhdelfland.nl
 historische-luchtfoto.flevoland.nl
 hoesterkstaik.nl
+hogeraadvanadel.nl
 hrz-uag-ext.belastingdienst.nl
 htmleditor.officiele-overheidspublicaties.nl
 huisstijl.acc.belastingdienst.nl
@@ -2006,6 +2008,7 @@ opendata.hansken.nl
 opendata.healthcouncil.nl
 opendata.hhdelfland.nl
 opendata.hoesterkstaik.nl
+opendata.hogeraadvanadel.nl
 opendata.igj.nl
 opendata.nieuwsbrievenminocw.nl
 opendata.papiamentu.belastingdienst-cn.nl
@@ -2968,6 +2971,7 @@ www.healthcouncil.nl
 www.hetverhaalvan.flevoland.nl
 www.hhdelfland.nl
 www.hoesterkstaik.nl
+www.hogeraadvanadel.nl
 www.igj.nl
 www.int.omgevingswet.overheid.nl
 www.int02.omgevingswet.overheid.nl
