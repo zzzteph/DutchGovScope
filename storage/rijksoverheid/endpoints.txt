@@ -458,6 +458,7 @@ https://english.domeinenrz.nl
 https://english.donorregister.nl
 https://english.dsta.nl
 https://english.igj.nl
+https://english.sso3w.nl
 https://enterpriseenrollment.cbg-meb.nl
 https://enterpriseregistration.belastingdienst.nl
 https://enterpriseregistration.domeinenrz.nl
@@ -582,6 +583,7 @@ https://feeds.english.domeinenrz.nl
 https://feeds.english.donorregister.nl
 https://feeds.english.dsta.nl
 https://feeds.english.igj.nl
+https://feeds.english.sso3w.nl
 https://feeds.igj.nl
 https://feeds.nieuwsbrievenminocw.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
@@ -883,6 +885,7 @@ https://opendata.english.domeinenrz.nl
 https://opendata.english.donorregister.nl
 https://opendata.english.dsta.nl
 https://opendata.english.igj.nl
+https://opendata.english.sso3w.nl
 https://opendata.igj.nl
 https://opendata.nieuwsbrievenminocw.nl
 https://opendata.papiamentu.belastingdienst-cn.nl

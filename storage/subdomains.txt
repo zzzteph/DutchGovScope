@@ -67,9 +67,9 @@ osb
 loket.acceptatie
 openpub
 omgevingsvisie
+english
 beeldbank
 cloudadapter-test
-english
 digikoppeling-test
 formulier
 flowmailer-tracking
@@ -84,14 +84,14 @@ a-opendata
 connect
 berichten
 parkeren-acc
+feeds.english
+opendata.english
 govroam
 digikoppeling.test
 mks
 cmsintranet
 test-intranet
 dtestloket
-feeds.english
-opendata.english
 portaal
 parkeren-test
 piwik

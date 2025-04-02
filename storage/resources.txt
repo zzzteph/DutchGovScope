@@ -5381,6 +5381,7 @@ english.donorregister.nl
 english.dsta.nl
 english.eindhoven.nl
 english.igj.nl
+english.sso3w.nl
 enkhuizen.nl
 enquete-acc.denhaag.nl
 enquete.almelo.nl
@@ -5770,6 +5771,7 @@ feeds.english.domeinenrz.nl
 feeds.english.donorregister.nl
 feeds.english.dsta.nl
 feeds.english.igj.nl
+feeds.english.sso3w.nl
 feeds.igj.nl
 feeds.nieuwsbrievenminocw.nl
 feeds.papiamentu.belastingdienst-cn.nl
@@ -10982,6 +10984,7 @@ opendata.english.domeinenrz.nl
 opendata.english.donorregister.nl
 opendata.english.dsta.nl
 opendata.english.igj.nl
+opendata.english.sso3w.nl
 opendata.heemstede.nl
 opendata.igj.nl
 opendata.nieuwsbrievenminocw.nl
