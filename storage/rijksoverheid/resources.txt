@@ -1109,6 +1109,7 @@ feeds.globalhealthhub.nl
 feeds.gobernadoraruba.com
 feeds.gobiernodireino.nl
 feeds.gobiernudireino.nl
+feeds.goudenpiramide.nl
 feeds.igj.nl
 feeds.nieuwsbrievenminocw.nl
 feeds.papiamentu.belastingdienst-cn.nl
@@ -1264,6 +1265,7 @@ gm.mev.logius.nl
 gobernadoraruba.com
 gobiernodireino.nl
 gobiernudireino.nl
+goudenpiramide.nl
 govroam.belastingdienst.nl
 govroam.brabant.nl
 gpa-rest-test.belastingdienst.nl
@@ -1914,6 +1916,7 @@ opendata.globalhealthhub.nl
 opendata.gobernadoraruba.com
 opendata.gobiernodireino.nl
 opendata.gobiernudireino.nl
+opendata.goudenpiramide.nl
 opendata.igj.nl
 opendata.nieuwsbrievenminocw.nl
 opendata.papiamentu.belastingdienst-cn.nl
@@ -2829,6 +2832,7 @@ www.globalhealthhub.nl
 www.gobernadoraruba.com
 www.gobiernodireino.nl
 www.gobiernudireino.nl
+www.goudenpiramide.nl
 www.gtmx.acc.belastingdienst.nl
 www.hetverhaalvan.flevoland.nl
 www.igj.nl

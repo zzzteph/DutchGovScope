@@ -3762,6 +3762,7 @@ https://feeds.globalhealthhub.nl
 https://feeds.gobernadoraruba.com
 https://feeds.gobiernodireino.nl
 https://feeds.gobiernudireino.nl
+https://feeds.goudenpiramide.nl
 https://feeds.igj.nl
 https://feeds.nieuwsbrievenminocw.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
@@ -4320,6 +4321,7 @@ https://gooisemeren.nl
 https://gorinchem.nl
 https://goud.almere.nl
 https://gouda.nl
+https://goudenpiramide.nl
 https://govpub.sudwestfryslan.nl
 https://gp-admin.tilburg.nl
 https://gp.apeldoorn.nl
@@ -6545,6 +6547,7 @@ https://opendata.globalhealthhub.nl
 https://opendata.gobernadoraruba.com
 https://opendata.gobiernodireino.nl
 https://opendata.gobiernudireino.nl
+https://opendata.goudenpiramide.nl
 https://opendata.heemstede.nl
 https://opendata.igj.nl
 https://opendata.nieuwsbrievenminocw.nl
@@ -9485,6 +9488,7 @@ https://www.goirle.nl
 https://www.gooisemeren.nl
 https://www.gorinchem.nl
 https://www.gouda.nl
+https://www.goudenpiramide.nl
 https://www.groenervijfhuizen.haarlemmermeer.nl
 https://www.groningen.nl
 https://www.gulpen-wittem.nl
