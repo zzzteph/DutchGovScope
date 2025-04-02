@@ -13,12 +13,14 @@ a-english.bigregister.nl
 a-english.cbg-meb.nl
 a-english.cbgjaarverslag.nl
 a-english.ctgb.nl
+a-english.ctivd.nl
 a-english.igj.nl
 a-feeds.a-english.aivd.nl
 a-feeds.a-english.autoriteitnvs.nl
 a-feeds.a-english.bigregister.nl
 a-feeds.a-english.cbg-meb.nl
 a-feeds.a-english.ctgb.nl
+a-feeds.a-english.ctivd.nl
 a-feeds.a-english.igj.nl
 a-feeds.agroberichtenbuitenland.nl
 a-feeds.aivd.nl
@@ -32,6 +34,7 @@ a-feeds.centralecommissiedierproeven.nl
 a-feeds.cibg.nl
 a-feeds.communicatierijk.nl
 a-feeds.ctgb.nl
+a-feeds.ctivd.nl
 a-feeds.igj.nl
 a-feeds.rijksoverheid.nl
 a-git.rijksoverheid.nl
@@ -44,6 +47,7 @@ a-opendata.a-english.autoriteitnvs.nl
 a-opendata.a-english.bigregister.nl
 a-opendata.a-english.cbg-meb.nl
 a-opendata.a-english.ctgb.nl
+a-opendata.a-english.ctivd.nl
 a-opendata.a-english.igj.nl
 a-opendata.agroberichtenbuitenland.nl
 a-opendata.aivd.nl
@@ -57,6 +61,7 @@ a-opendata.centralecommissiedierproeven.nl
 a-opendata.cibg.nl
 a-opendata.communicatierijk.nl
 a-opendata.ctgb.nl
+a-opendata.ctivd.nl
 a-opendata.igj.nl
 a-opendata.rijksoverheid.nl
 a-persberichten.rijksoverheid.nl
@@ -81,6 +86,7 @@ a-www.centralecommissiedierproeven.nl
 a-www.cibg.nl
 a-www.communicatierijk.nl
 a-www.ctgb.nl
+a-www.ctivd.nl
 a-www.igj.nl
 a-www.rijksoverheid.nl
 a2vonderenkerensheide.nl
@@ -282,6 +288,7 @@ autodiscover.awti.nl
 autodiscover.beschermdecultuurgoederen.nl
 autodiscover.brabant.nl
 autodiscover.ctgb.nl
+autodiscover.ctivd.nl
 autodiscover.koop.overheid.nl
 autodiscover.overheid.nl
 autodiscover.rcgog.nl
@@ -591,6 +598,7 @@ crisismaatregel.webservices-dbb.igj.nl
 csoacct.werkenvoornederland.nl
 csotest.werkenvoornederland.nl
 ctgb.nl
+ctivd.nl
 cts.belastingdienst.nl
 cts4k.belastingdienst.nl
 ctstest.belastingdienst.nl
@@ -718,6 +726,7 @@ english.cbg-meb.nl
 english.cbgjaarverslag.nl
 english.ccmo.nl
 english.ctgb.nl
+english.ctivd.nl
 english.igj.nl
 enterpriseenrollment.cbg-meb.nl
 enterpriseregistration.belastingdienst.nl
@@ -825,6 +834,7 @@ feeds.commissievanaanbestedingsexperts.nl
 feeds.communicatierijk.nl
 feeds.compensationsns.nl
 feeds.ctgb.nl
+feeds.ctivd.nl
 feeds.english.aivd.nl
 feeds.english.autoriteitnvs.nl
 feeds.english.belastingdienst-cn.nl
@@ -832,6 +842,7 @@ feeds.english.bigregister.nl
 feeds.english.cbg-meb.nl
 feeds.english.ccmo.nl
 feeds.english.ctgb.nl
+feeds.english.ctivd.nl
 feeds.english.igj.nl
 feeds.igj.nl
 feeds.nieuwsbrievenminocw.nl
@@ -1175,6 +1186,7 @@ mail.bapicft.belastingdienst.nl
 mail.bureauwsnp.nl
 mail.cbg-meb.nl
 mail.ctgb.nl
+mail.ctivd.nl
 mail.koop.overheid.nl
 mail240.brabant.nl
 mail241.brabant.nl
@@ -1336,6 +1348,7 @@ mwr-app-api-ota.belastingdienst.nl
 mwr-app-api.belastingdienst.nl
 mwr-app-cdn-ota.belastingdienst.nl
 mwr-app-cdn.belastingdienst.nl
+mx001.ctivd.nl
 mxrelay.overheid.nl
 mxrelay1.overheid.nl
 mxrelay2.overheid.nl
@@ -1456,6 +1469,7 @@ opendata.commissievanaanbestedingsexperts.nl
 opendata.communicatierijk.nl
 opendata.compensationsns.nl
 opendata.ctgb.nl
+opendata.ctivd.nl
 opendata.english.aivd.nl
 opendata.english.autoriteitnvs.nl
 opendata.english.belastingdienst-cn.nl
@@ -1463,6 +1477,7 @@ opendata.english.bigregister.nl
 opendata.english.cbg-meb.nl
 opendata.english.ccmo.nl
 opendata.english.ctgb.nl
+opendata.english.ctivd.nl
 opendata.english.igj.nl
 opendata.igj.nl
 opendata.nieuwsbrievenminocw.nl
@@ -2097,6 +2112,7 @@ webgisacc.aaenmaas.nl
 webmail-acpt.brabant.nl
 webmail.aaenmaas.nl
 webmail.brabant.nl
+webmail.ctivd.nl
 webmail.werkenvoornederland.nl
 webservice-tdv.igj.nl
 webservices-acc1.belastingdienst.nl
@@ -2228,6 +2244,7 @@ www.commissievanaanbestedingsexperts.nl
 www.communicatierijk.nl
 www.compensationsns.nl
 www.ctgb.nl
+www.ctivd.nl
 www.dataportaal.brabant.nl
 www.dmo.omgevingswet.overheid.nl
 www.enabling.omgevingswet.overheid.nl
@@ -2272,6 +2289,7 @@ www.zoekeentolkvertaler.bureauwbtv.nl
 www2.zorgcsp.cibg.nl
 www8.toeslagen.nl
 wwwfcinetorg.belastingdienst.nl
+wwwnieuw.ctivd.nl
 wwwrijksacademienl.belastingdienst.nl
 xential-acpt.brabant.nl
 xential.brabant.nl

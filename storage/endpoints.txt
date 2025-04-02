@@ -2496,6 +2496,7 @@ https://css.openstad.alphenaandenrijn.nl
 https://css.openstad.utrecht.nl
 https://css.v2.openstad.haarlemmermeer.nl
 https://ctgb.nl
+https://ctivd.nl
 https://cuijk.landvancuijk.nl
 https://culemborg.nl
 https://cultureel-erfgoed.omgevingswet.overheid.nl
@@ -3332,6 +3333,7 @@ https://english.cbg-meb.nl
 https://english.cbgjaarverslag.nl
 https://english.ccmo.nl
 https://english.ctgb.nl
+https://english.ctivd.nl
 https://english.eindhoven.nl
 https://english.igj.nl
 https://enkhuizen.nl
@@ -3546,6 +3548,7 @@ https://feeds.commissievanaanbestedingsexperts.nl
 https://feeds.communicatierijk.nl
 https://feeds.compensationsns.nl
 https://feeds.ctgb.nl
+https://feeds.ctivd.nl
 https://feeds.english.aivd.nl
 https://feeds.english.autoriteitnvs.nl
 https://feeds.english.belastingdienst-cn.nl
@@ -3553,6 +3556,7 @@ https://feeds.english.bigregister.nl
 https://feeds.english.cbg-meb.nl
 https://feeds.english.ccmo.nl
 https://feeds.english.ctgb.nl
+https://feeds.english.ctivd.nl
 https://feeds.english.igj.nl
 https://feeds.igj.nl
 https://feeds.nieuwsbrievenminocw.nl
@@ -6193,6 +6197,7 @@ https://opendata.commissievanaanbestedingsexperts.nl
 https://opendata.communicatierijk.nl
 https://opendata.compensationsns.nl
 https://opendata.ctgb.nl
+https://opendata.ctivd.nl
 https://opendata.english.aivd.nl
 https://opendata.english.autoriteitnvs.nl
 https://opendata.english.belastingdienst-cn.nl
@@ -6200,6 +6205,7 @@ https://opendata.english.bigregister.nl
 https://opendata.english.cbg-meb.nl
 https://opendata.english.ccmo.nl
 https://opendata.english.ctgb.nl
+https://opendata.english.ctivd.nl
 https://opendata.english.igj.nl
 https://opendata.heemstede.nl
 https://opendata.igj.nl
@@ -8915,6 +8921,7 @@ https://www.continuverbeterenjmo.denhaag.nl
 https://www.crk.amsterdam.nl
 https://www.csam.deventer.nl
 https://www.ctgb.nl
+https://www.ctivd.nl
 https://www.culemborg.nl
 https://www.dalfsen.nl
 https://www.dantumadiel.frl

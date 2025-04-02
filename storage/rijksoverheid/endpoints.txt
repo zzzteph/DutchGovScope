@@ -298,6 +298,7 @@ https://corsa2023.brabant.nl
 https://csoacct.werkenvoornederland.nl
 https://csotest.werkenvoornederland.nl
 https://ctgb.nl
+https://ctivd.nl
 https://cultureel-erfgoed.omgevingswet.overheid.nl
 https://cursus.drop.overheid.nl
 https://data-acc.overheid.nl
@@ -358,6 +359,7 @@ https://english.cbg-meb.nl
 https://english.cbgjaarverslag.nl
 https://english.ccmo.nl
 https://english.ctgb.nl
+https://english.ctivd.nl
 https://english.igj.nl
 https://enterpriseenrollment.cbg-meb.nl
 https://enterpriseregistration.belastingdienst.nl
@@ -426,6 +428,7 @@ https://feeds.commissievanaanbestedingsexperts.nl
 https://feeds.communicatierijk.nl
 https://feeds.compensationsns.nl
 https://feeds.ctgb.nl
+https://feeds.ctivd.nl
 https://feeds.english.aivd.nl
 https://feeds.english.autoriteitnvs.nl
 https://feeds.english.belastingdienst-cn.nl
@@ -433,6 +436,7 @@ https://feeds.english.bigregister.nl
 https://feeds.english.cbg-meb.nl
 https://feeds.english.ccmo.nl
 https://feeds.english.ctgb.nl
+https://feeds.english.ctivd.nl
 https://feeds.english.igj.nl
 https://feeds.igj.nl
 https://feeds.nieuwsbrievenminocw.nl
@@ -649,6 +653,7 @@ https://opendata.commissievanaanbestedingsexperts.nl
 https://opendata.communicatierijk.nl
 https://opendata.compensationsns.nl
 https://opendata.ctgb.nl
+https://opendata.ctivd.nl
 https://opendata.english.aivd.nl
 https://opendata.english.autoriteitnvs.nl
 https://opendata.english.belastingdienst-cn.nl
@@ -656,6 +661,7 @@ https://opendata.english.bigregister.nl
 https://opendata.english.cbg-meb.nl
 https://opendata.english.ccmo.nl
 https://opendata.english.ctgb.nl
+https://opendata.english.ctivd.nl
 https://opendata.english.igj.nl
 https://opendata.igj.nl
 https://opendata.nieuwsbrievenminocw.nl
@@ -976,6 +982,7 @@ https://www.commissievanaanbestedingsexperts.nl
 https://www.communicatierijk.nl
 https://www.compensationsns.nl
 https://www.ctgb.nl
+https://www.ctivd.nl
 https://www.dataportaal.brabant.nl
 https://www.dmo.omgevingswet.overheid.nl
 https://www.enabling.omgevingswet.overheid.nl

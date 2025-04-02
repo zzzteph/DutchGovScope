@@ -100,9 +100,12 @@ financien
 klantcontact
 test-cmsintranet
 pki
+a-www
 apps
 samen
-a-www
+a-feeds
+a-opendata
+english
 sip
 begroting
 bgt
@@ -114,9 +117,6 @@ squit2go
 www.webmail
 filecap
 dtestmidoffice
-a-feeds
-a-opendata
-english
 sts
 mijnzorg
 _autodiscover._tcp
@@ -203,6 +203,8 @@ bor
 bestuur
 afspraakmaken
 zaaksysteem
+feeds.english
+opendata.english
 website
 kennisbank
 wachtwoord
@@ -225,8 +227,7 @@ testloket
 contact
 cms
 magazines
-feeds.english
-opendata.english
+a-english
 m
 api
 filetransfer
@@ -256,7 +257,8 @@ cloudadapter-prod
 handhaving
 www.portal
 servicedesk
-a-english
+a-feeds.a-english
+a-opendata.a-english
 academie
 webservices
 omgevingswet
@@ -284,8 +286,6 @@ jongin
 woz-portaal
 en
 mijnsociaaldomein
-a-feeds.a-english
-a-opendata.a-english
 rap
 services
 smtp1
@@ -2993,6 +2993,8 @@ sf
 test-mam
 testconn
 toelatingen
+mx001
+wwwnieuw
 email.mail.participatie
 mail.participatie
 aalten-checker-preprod
