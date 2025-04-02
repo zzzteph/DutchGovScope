@@ -3084,6 +3084,8 @@ plan.beeldbellen
 sip.vico
 video-acc.beeldbellen
 video.beeldbellen
+feeds.dnadatabank
+opendata.dnadatabank
 email.mail.participatie
 mail.participatie
 aalten-checker-preprod

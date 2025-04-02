@@ -3637,6 +3637,7 @@ https://feeds.digitaalstelselmobiliteitsdata.nl
 https://feeds.dihoo.eu
 https://feeds.dihoo.nl
 https://feeds.dji.nl
+https://feeds.dnadatabank.forensischinstituut.nl
 https://feeds.english.aivd.nl
 https://feeds.english.autoriteitnvs.nl
 https://feeds.english.belastingdienst-cn.nl
@@ -6335,6 +6336,7 @@ https://opendata.digitaalstelselmobiliteitsdata.nl
 https://opendata.dihoo.eu
 https://opendata.dihoo.nl
 https://opendata.dji.nl
+https://opendata.dnadatabank.forensischinstituut.nl
 https://opendata.english.aivd.nl
 https://opendata.english.autoriteitnvs.nl
 https://opendata.english.belastingdienst-cn.nl
