@@ -425,6 +425,7 @@ https://editor-drp.overheid.nl
 https://eentegeneenzaamheid.nl
 https://efm.belastingdienst.nl
 https://eidas-stub.lpc.mijn.overheid.nl
+https://elkeregiotelt.nl
 https://eloket.aaenmaas.nl
 https://emailtemplates.overheid.nl
 https://enabling.omgevingswet.overheid.nl
@@ -550,6 +551,7 @@ https://feeds.dutchrapporteur.nl
 https://feeds.dwangindezorg.nl
 https://feeds.eentegeneenzaamheid.nl
 https://feeds.eersteenthuis.nl
+https://feeds.elkeregiotelt.nl
 https://feeds.english.aivd.nl
 https://feeds.english.autoriteitnvs.nl
 https://feeds.english.belastingdienst-cn.nl
@@ -843,6 +845,7 @@ https://opendata.dutchrapporteur.nl
 https://opendata.dwangindezorg.nl
 https://opendata.eentegeneenzaamheid.nl
 https://opendata.eersteenthuis.nl
+https://opendata.elkeregiotelt.nl
 https://opendata.english.aivd.nl
 https://opendata.english.autoriteitnvs.nl
 https://opendata.english.belastingdienst-cn.nl
@@ -1235,6 +1238,7 @@ https://www.dutchrapporteur.nl
 https://www.dwangindezorg.nl
 https://www.eentegeneenzaamheid.nl
 https://www.eersteenthuis.nl
+https://www.elkeregiotelt.nl
 https://www.enabling.omgevingswet.overheid.nl
 https://www.igj.nl
 https://www.int.omgevingswet.overheid.nl

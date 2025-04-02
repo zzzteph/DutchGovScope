@@ -5229,6 +5229,7 @@ eindhoven.nl
 eladownload.belastingdienst.nl
 elburg.nl
 elise.rotterdam.nl
+elkeregiotelt.nl
 elkk.amsterdam.nl
 eloket-sociaaldomein.krimpenerwaard.nl
 eloket-test-sociaaldomein.krimpenerwaard.nl
@@ -5737,6 +5738,7 @@ feeds.dutchrapporteur.nl
 feeds.dwangindezorg.nl
 feeds.eentegeneenzaamheid.nl
 feeds.eersteenthuis.nl
+feeds.elkeregiotelt.nl
 feeds.english.aivd.nl
 feeds.english.autoriteitnvs.nl
 feeds.english.belastingdienst-cn.nl
@@ -10940,6 +10942,7 @@ opendata.dutchrapporteur.nl
 opendata.dwangindezorg.nl
 opendata.eentegeneenzaamheid.nl
 opendata.eersteenthuis.nl
+opendata.elkeregiotelt.nl
 opendata.english.aivd.nl
 opendata.english.autoriteitnvs.nl
 opendata.english.belastingdienst-cn.nl
@@ -16712,6 +16715,7 @@ www.eformulieren.gemeentesluis.nl
 www.eijsden-margraten.nl
 www.eindhoven.nl
 www.elburg.nl
+www.elkeregiotelt.nl
 www.elkk.amsterdam.nl
 www.eloket.gemeentehulst.nl
 www.eloket.rhenen.nl

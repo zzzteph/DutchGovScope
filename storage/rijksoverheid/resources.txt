@@ -837,6 +837,7 @@ eherkenning.services.cibg.nl
 eherkenningtest.services.cibg.nl
 eidas-stub.lpc.mijn.overheid.nl
 eladownload.belastingdienst.nl
+elkeregiotelt.nl
 eloket.aaenmaas.nl
 email.brabant.nl
 emailtemplates.overheid.nl
@@ -1004,6 +1005,7 @@ feeds.dutchrapporteur.nl
 feeds.dwangindezorg.nl
 feeds.eentegeneenzaamheid.nl
 feeds.eersteenthuis.nl
+feeds.elkeregiotelt.nl
 feeds.english.aivd.nl
 feeds.english.autoriteitnvs.nl
 feeds.english.belastingdienst-cn.nl
@@ -1731,6 +1733,7 @@ opendata.dutchrapporteur.nl
 opendata.dwangindezorg.nl
 opendata.eentegeneenzaamheid.nl
 opendata.eersteenthuis.nl
+opendata.elkeregiotelt.nl
 opendata.english.aivd.nl
 opendata.english.autoriteitnvs.nl
 opendata.english.belastingdienst-cn.nl
@@ -2597,6 +2600,7 @@ www.dutchrapporteur.nl
 www.dwangindezorg.nl
 www.eentegeneenzaamheid.nl
 www.eersteenthuis.nl
+www.elkeregiotelt.nl
 www.enabling.omgevingswet.overheid.nl
 www.gtmx.acc.belastingdienst.nl
 www.igj.nl
