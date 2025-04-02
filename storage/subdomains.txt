@@ -70,8 +70,8 @@ omgevingsvisie
 beeldbank
 cloudadapter-test
 digikoppeling-test
-flowmailer-tracking
 english
+flowmailer-tracking
 formulier
 hybrid
 zaken
@@ -96,6 +96,8 @@ piwik
 acc-broker
 belastingloket
 doemee
+feeds.english
+opendata.english
 denkmee
 osbacc
 extranet
@@ -104,8 +106,6 @@ financien
 klantcontact
 test-cmsintranet
 pki
-feeds.english
-opendata.english
 apps
 samen
 sip
@@ -164,6 +164,7 @@ inloggen
 jaarstukken
 cryptshare
 _dmarc
+a-english
 fs
 mta-sts
 mailing
@@ -190,7 +191,7 @@ ro
 uc
 AutoDiscover
 transfer
-a-english
+cms
 evenementen
 onderzoek
 college
@@ -207,7 +208,6 @@ bor
 bestuur
 afspraakmaken
 zaaksysteem
-cms
 a-feeds.a-english
 a-opendata.a-english
 website
@@ -841,6 +841,7 @@ monumentenregister
 ssl
 beeldbellen
 raadplegen
+mail01
 edienstenburgerzaken.test
 www.praatmee
 datalab
@@ -4562,7 +4563,6 @@ oldenhove.doemee
 omgevingsvisie.doemee
 tradities.doemee
 www.nieuwauthentiekbloemendaal.doemee
-mail01
 o1.ptr1802
 phpmyadmin
 mksp01bkl
