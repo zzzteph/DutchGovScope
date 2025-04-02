@@ -698,6 +698,7 @@ https://academie.landgraaf.nl
 https://academie.nederbetuwe.nl
 https://academie.smallingerland.nl
 https://academievoorinternationalebetrekkingen.nl
+https://academy.forensischinstituut.nl
 https://acc-afvalkalender.goes.nl
 https://acc-beeldbank.leiden.nl
 https://acc-broker.assen.nl
@@ -2836,6 +2837,7 @@ https://dmo.omgevingswet.overheid.nl
 https://dmpfunc002.amsterdam.nl
 https://dmst.noordoostpolder.nl
 https://dmzsvr02.winterswijk.nl
+https://dnadatabank.forensischinstituut.nl
 https://do.winterswijk.nl
 https://docgen.deventer.nl
 https://doculoket-acc.overheid.nl
@@ -3750,6 +3752,7 @@ https://feeds.farmatec.nl
 https://feeds.fmhaaglanden.nl
 https://feeds.forensicinstitute.nl
 https://feeds.forensischezorg.nl
+https://feeds.forensischinstituut.nl
 https://feeds.igj.nl
 https://feeds.nieuwsbrievenminocw.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
@@ -3900,6 +3903,7 @@ https://focus.tst.amsterdam.nl
 https://followyourdreams.denhaag.nl
 https://forensicinstitute.nl
 https://forensischezorg.nl
+https://forensischinstituut.nl
 https://form-gemeenteloket.gemeentemaastricht.nl
 https://form.denhaag.nl
 https://form.sudwestfryslan.nl
@@ -5403,6 +5407,7 @@ https://magazines.defensie.nl
 https://magazines.deltaprogramma.nl
 https://magazines.dji.nl
 https://magazines.emissieautoriteit.nl
+https://magazines.forensischinstituut.nl
 https://magazines.gooisemeren.nl
 https://magazines.igj.nl
 https://magazines.rijksoverheid.nl
@@ -6515,6 +6520,7 @@ https://opendata.farmatec.nl
 https://opendata.fmhaaglanden.nl
 https://opendata.forensicinstitute.nl
 https://opendata.forensischezorg.nl
+https://opendata.forensischinstituut.nl
 https://opendata.heemstede.nl
 https://opendata.igj.nl
 https://opendata.nieuwsbrievenminocw.nl
@@ -9402,6 +9408,7 @@ https://www.fmhaaglanden.nl
 https://www.followyourdreams.denhaag.nl
 https://www.forensicinstitute.nl
 https://www.forensischezorg.nl
+https://www.forensischinstituut.nl
 https://www.gebouwdin.amsterdam.nl
 https://www.geertruidenberg.nl
 https://www.geldloket.emmen.nl

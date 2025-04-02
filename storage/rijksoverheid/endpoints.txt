@@ -109,6 +109,7 @@ https://aboutnetherlandscustoms.nl
 https://academie.acc.belastingdienst.nl
 https://academie.belastingdienst.nl
 https://academievoorinternationalebetrekkingen.nl
+https://academy.forensischinstituut.nl
 https://acc-dictu.comcms.logius.nl
 https://acc-dictu.kennisbank.logius.nl
 https://acc-dictu.logius.nl
@@ -404,6 +405,7 @@ https://dihoo.eu
 https://dihoo.nl
 https://dji.nl
 https://dmo.omgevingswet.overheid.nl
+https://dnadatabank.forensischinstituut.nl
 https://doculoket-acc.overheid.nl
 https://doculoket.overheid.nl
 https://documentenapplicatie.igj.nl
@@ -630,6 +632,7 @@ https://feeds.farmatec.nl
 https://feeds.fmhaaglanden.nl
 https://feeds.forensicinstitute.nl
 https://feeds.forensischezorg.nl
+https://feeds.forensischinstituut.nl
 https://feeds.igj.nl
 https://feeds.nieuwsbrievenminocw.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
@@ -650,6 +653,7 @@ https://fmis.acc.belastingdienst.nl
 https://fmis.belastingdienst.nl
 https://forensicinstitute.nl
 https://forensischezorg.nl
+https://forensischinstituut.nl
 https://forms.klopt.cibg.nl
 https://formulier.cultureelerfgoed.nl
 https://formulier.emissieautoriteit.nl
@@ -773,6 +777,7 @@ https://magazines.defensie.nl
 https://magazines.deltaprogramma.nl
 https://magazines.dji.nl
 https://magazines.emissieautoriteit.nl
+https://magazines.forensischinstituut.nl
 https://magazines.igj.nl
 https://magazines.rijksoverheid.nl
 https://magazines.werkenvoornederland.nl
@@ -971,6 +976,7 @@ https://opendata.farmatec.nl
 https://opendata.fmhaaglanden.nl
 https://opendata.forensicinstitute.nl
 https://opendata.forensischezorg.nl
+https://opendata.forensischinstituut.nl
 https://opendata.igj.nl
 https://opendata.nieuwsbrievenminocw.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
@@ -1388,6 +1394,7 @@ https://www.flevoland.nl
 https://www.fmhaaglanden.nl
 https://www.forensicinstitute.nl
 https://www.forensischezorg.nl
+https://www.forensischinstituut.nl
 https://www.hetverhaalvan.flevoland.nl
 https://www.igj.nl
 https://www.int.omgevingswet.overheid.nl

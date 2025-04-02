@@ -74,12 +74,12 @@ digikoppeling-test
 formulier
 kaart
 flowmailer-tracking
+a-www
 hybrid
 zaken
-a-www
-kaarten
 a-feeds
 a-opendata
+kaarten
 feeds.english
 opendata.english
 cloudadapter
@@ -110,6 +110,7 @@ sip
 mdm
 apps
 samen
+magazines
 begroting
 bgt
 verkiezingen
@@ -119,7 +120,6 @@ squit2go
 www.webmail
 filecap
 dtestmidoffice
-magazines
 e
 sts
 ftp
@@ -343,6 +343,7 @@ www.intranet
 aeolus
 sbc01
 bezoekersparkeren
+a-magazines
 download
 huisstijl
 ns2
@@ -416,7 +417,6 @@ prefill
 corsa-prod
 corsa-test
 mijndesktop
-a-magazines
 mijn-acc
 sharepoint
 start
@@ -845,6 +845,8 @@ acc.subsidie
 monumentenregister
 ssl
 beeldbellen
+feeds.dnadatabank
+opendata.dnadatabank
 raadplegen
 mail01
 aanvraag
@@ -855,6 +857,7 @@ jaarverslag2018
 omgevingsplan
 oudewebsite
 preprodformulieren
+academy
 edienstenburgerzaken.test
 www.praatmee
 datalab
@@ -3094,8 +3097,6 @@ plan.beeldbellen
 sip.vico
 video-acc.beeldbellen
 video.beeldbellen
-feeds.dnadatabank
-opendata.dnadatabank
 bdx
 dfp
 ras
@@ -3182,7 +3183,7 @@ www.hetverhaalvan
 www.jaarverslag2018
 www.omgevingsplan
 www.risicokaart
-academy
+dnadatabank
 email.mail.participatie
 mail.participatie
 aalten-checker-preprod
