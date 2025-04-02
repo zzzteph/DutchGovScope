@@ -1106,6 +1106,7 @@ feeds.geobasisregistraties.nl
 feeds.gezondheidsraad.nl
 feeds.globalhealthhub.nl
 feeds.gobernadoraruba.com
+feeds.gobiernodireino.nl
 feeds.igj.nl
 feeds.nieuwsbrievenminocw.nl
 feeds.papiamentu.belastingdienst-cn.nl
@@ -1259,6 +1260,7 @@ gitdocumentatie.logius.nl
 gm-pre.mev.logius.nl
 gm.mev.logius.nl
 gobernadoraruba.com
+gobiernodireino.nl
 govroam.belastingdienst.nl
 govroam.brabant.nl
 gpa-rest-test.belastingdienst.nl
@@ -1907,6 +1909,7 @@ opendata.geobasisregistraties.nl
 opendata.gezondheidsraad.nl
 opendata.globalhealthhub.nl
 opendata.gobernadoraruba.com
+opendata.gobiernodireino.nl
 opendata.igj.nl
 opendata.nieuwsbrievenminocw.nl
 opendata.papiamentu.belastingdienst-cn.nl
@@ -2820,6 +2823,7 @@ www.geobasisregistraties.nl
 www.gezondheidsraad.nl
 www.globalhealthhub.nl
 www.gobernadoraruba.com
+www.gobiernodireino.nl
 www.gtmx.acc.belastingdienst.nl
 www.hetverhaalvan.flevoland.nl
 www.igj.nl
