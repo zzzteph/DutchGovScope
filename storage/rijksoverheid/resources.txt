@@ -1,3 +1,4 @@
+AutoDiscover.hdsr.nl
 Lrza.gatservices.acc.igj.nl
 Lrza.gatservices.prd.igj.nl
 ZDPushservice.overheid.nl
@@ -262,6 +263,7 @@ acpt-machtigen.digipoort.logius.nl
 acs-acpt.brabant.nl
 acs.brabant.nl
 activemq.beheer.intpatch.omgevingswet.overheid.nl
+ad.hdsr.nl
 adfs.flevoland.nl
 adobe-analytics-dc.belastingdienst.nl
 adobe-analytics-dc.toeslagen.nl
@@ -283,6 +285,7 @@ afval.omgevingswet.overheid.nl
 ag-dcr.cibg.nl
 agroberichtenbuitenland.nl
 aivd.nl
+alerting.hdsr.nl
 algemenebestuursdienst.nl
 algoritme.overheid.nl
 algoritmen.overheid.nl
@@ -384,6 +387,7 @@ autodiscover.cultureelerfgoed.nl
 autodiscover.cvte.nl
 autodiscover.domeinenrz.nl
 autodiscover.flevoland.nl
+autodiscover.hdsr.nl
 autodiscover.koop.overheid.nl
 autodiscover.overheid.nl
 autodiscover.rcgog.nl
@@ -456,6 +460,7 @@ beeldbank-bo.brabant.nl
 beeldbank.brabant.nl
 beeldbank.cultureelerfgoed.nl
 beeldbellen.dji.nl
+begrippen.hdsr.nl
 begroting.brabant.nl
 begroting2019.flevoland.nl
 begroting2020.flevoland.nl
@@ -601,6 +606,8 @@ caorijk.nl
 cap.om.belastingdienst.nl
 captiveportal.belastingdienst.nl
 catalogus.cultureelerfgoed.nl
+cawfirewall.hdsr.nl
+cawuitwijkfirewall.hdsr.nl
 cbg-meb.nl
 cbgjaarverslag.nl
 cbm.acc.mijn.overheid.nl
@@ -786,7 +793,9 @@ diergeneesmiddeleninformatiebank.nl
 digicheck.brabant.nl
 digid-stub.lpc.mijn.overheid.nl
 digikoppeling-dcr.cibg.nl
+digikoppeling-test.hdsr.nl
 digikoppeling.cibg.nl
+digikoppeling.hdsr.nl
 digikoppeling2.cibg.nl
 digilab.overheid.nl
 digipoort-vpn1.belastingdienst.nl
@@ -1158,6 +1167,7 @@ filetransfer.ont.belastingdienst.nl
 financials.werkenvoornederland.nl
 fiod.acc.belastingdienst.nl
 flevoland.nl
+fme.hdsr.nl
 fmis.acc.belastingdienst.nl
 fmis.belastingdienst.nl
 forensicinstitute.nl
@@ -1183,6 +1193,7 @@ fs.belastingdienst.nl
 fs.ctgb.nl
 fsvportaal.acc.belastingdienst.nl
 fsvportaal.belastingdienst.nl
+ftp-hdsr.hdsr.nl
 ftp.ceg.nl
 ftp.ctpveldzicht.nl
 ftp.dji.nl
@@ -1260,6 +1271,7 @@ georegister.flevoland.nl
 geoserver.brabant.nl
 geoservertest.brabant.nl
 geoservices.cultureelerfgoed.nl
+geoservices.hdsr.nl
 gewasbeschermingsmiddelen.ctgb.nl
 gezondheidsraad.nl
 gisservices.aaenmaas.nl
@@ -1334,6 +1346,7 @@ handleiding.rijksoverheid.nl
 hansken.nl
 harbor.az1.lpc.logius.nl
 harbor.az2.lpc.logius.nl
+hdsr.nl
 helloid.aaenmaas.nl
 herstel.acc.belastingdienst.nl
 herstel.toeslagen.nl
@@ -1420,6 +1433,7 @@ internationaal.ondernemen.overheid.nl
 intpatch.omgevingswet.overheid.nl
 intranet-acc.flevoland.nl
 intranet-bestanden.flevoland.nl
+intranet.ad.hdsr.nl
 intranet.belastingdienst.nl
 intranet.ctgb.nl
 intranet.cultureelerfgoed.nl
@@ -1440,6 +1454,8 @@ kaart.flevoland.nl
 kaartbank.brabant.nl
 kaarten-demo.overheid.nl
 kaarten.brabant.nl
+kaarten.hdsr.nl
+kantoor.hdsr.nl
 kasdimsigning-cnf.belastingdienst.nl
 kasdimsigning.belastingdienst.nl
 kasdimsigning.test.belastingdienst.nl
@@ -1460,6 +1476,7 @@ kec.officiele-overheidspublicaties.nl
 kennis-fiod.acc.belastingdienst.nl
 kennis-staging.cultureelerfgoed.nl
 kennis.cultureelerfgoed.nl
+kennis.hdsr.nl
 kennisbank.logius.nl
 kennisgroepen.acc.belastingdienst.nl
 kennisgroepen.belastingdienst.nl
@@ -1496,6 +1513,8 @@ logius.nl
 lokaleregelgeving-acc.overheid.nl
 lokaleregelgeving-eto.overheid.nl
 lokaleregelgeving.overheid.nl
+loket-acc.hdsr.nl
+loket.hdsr.nl
 loket.overheid.nl
 longread.brabant.nl
 lrbh2ha.belastingdienst.nl
@@ -2130,12 +2149,14 @@ rcm.belastingdienst.nl
 rd1.toegang.overheid.nl
 rd2.toegang.overheid.nl
 rdgateway.awti.nl
+redactie.hdsr.nl
 ref.omgevingswet.overheid.nl
 regelgeving.acc.omgevingswet.overheid.nl
 regelgeving.omgevingswet.overheid.nl
 regelgeving.pre.omgevingswet.overheid.nl
 regels.overheid.nl
 regiotaxi.flevoland.nl
+remote-pa.hdsr.nl
 remote.flevoland.nl
 renvooiservice-eto.overheid.nl
 renvooiservice.overheid.nl
@@ -2456,11 +2477,13 @@ test.t.cultureelerfgoed.nl
 test.veilig.cultureelerfgoed.nl
 test.webservices.donorregister.nl
 test2gbav.belastingdienst.nl
+testbegrippen.hdsr.nl
 testconn.ctgb.nl
 testdigitaalvergaderen.belastingdienst.nl
 testdigitaalvergaderen.ont.belastingdienst.nl
 testeloket.aaenmaas.nl
 testeloket.flevoland.nl
+testkennis.hdsr.nl
 testmailmdm.flevoland.nl
 testmdm.flevoland.nl
 testmonitorwonen.flevoland.nl
@@ -2513,6 +2536,8 @@ tuchtrecht-service-tst.overheid.nl
 tuchtrecht-service.overheid.nl
 tuchtrecht.overheid.nl
 tunnelmdm.flevoland.nl
+uconnect-acc.hdsr.nl
+uconnect.hdsr.nl
 uptime.bureauwbtv.nl
 uwork.flevoland.nl
 uworktest.flevoland.nl
@@ -2625,6 +2650,7 @@ waf.ont.belastingdienst.nl
 wagenparkgegevens.acc.belastingdienst.nl
 wagenparkgegevens.belastingdienst.nl
 water.omgevingswet.overheid.nl
+waterkwaliteitinbeeld.hdsr.nl
 wbxbotserver.belastingdienst.nl
 wbxbottestserver.belastingdienst.nl
 wd-ont.belastingdienst.nl
@@ -2644,6 +2670,7 @@ webdiensten-test4.belastingdienst.nl
 webdiensten-webservices.acc.belastingdienst.nl
 webdiensten.acc.belastingdienst.nl
 webdiensten.belastingdienst.nl
+webdiensten.hdsr.nl
 webdiensten.str10.acc.belastingdienst.nl
 webdiensten.str12.acc.belastingdienst.nl
 webdiensten.str13.acc.belastingdienst.nl
@@ -2673,6 +2700,7 @@ webservices-test4.belastingdienst.nl
 webservices.belastingdienst.nl
 webservices.bigregister.nl
 webservices.donorregister.nl
+webservices.hdsr.nl
 webservices.lrza.cibg.nl
 webservices.str10.acc.belastingdienst.nl
 webservices.str12.acc.belastingdienst.nl
@@ -2690,6 +2718,7 @@ werkenvoor.brabant.nl
 werkenvoornederland.nl
 werkplek.brabant.nl
 werkplek.ctgb.nl
+werkplek.hdsr.nl
 wetgeving.acc.omgevingswet.overheid.nl
 wetgeving.int.omgevingswet.overheid.nl
 wetgeving.omgevingswet.overheid.nl
@@ -2712,6 +2741,7 @@ ws-acc.bureauwsnp.nl
 ws.bureauwsnp.nl
 wsgwhc-acc.belastingdienst.nl
 wsgwhc.belastingdienst.nl
+wsus.hdsr.nl
 wus-encryptie.acc.belastingdienst.nl
 wus-encryptie.belastingdienst.nl
 wus-gemnet.belastingdienst.nl
@@ -2863,6 +2893,7 @@ www.grenzeloossamenwerken.nl
 www.groeiennaarmorgen.nl
 www.gtmx.acc.belastingdienst.nl
 www.hansken.nl
+www.hdsr.nl
 www.hetverhaalvan.flevoland.nl
 www.igj.nl
 www.int.omgevingswet.overheid.nl
@@ -2908,6 +2939,7 @@ www.wegen.brabant.nl
 www.werken.belastingdienst.nl
 www.werkenvoornederland.nl
 www.zoekeentolkvertaler.bureauwbtv.nl
+www1.hdsr.nl
 www2.zorgcsp.cibg.nl
 www8.toeslagen.nl
 wwwfcinetorg.belastingdienst.nl
@@ -2916,6 +2948,8 @@ wwwrijksacademienl.belastingdienst.nl
 xential-acpt.brabant.nl
 xential.brabant.nl
 xml.belastingdienst.nl
+zaaksysteem-acc.hdsr.nl
+zaaksysteem.hdsr.nl
 zdpushservice.overheid.nl
 zelfbediening.belastingdienst.nl
 zoek.overheid.nl

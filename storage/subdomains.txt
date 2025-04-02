@@ -24,8 +24,8 @@ loket
 formulieren
 test
 eloket
-acc
 werkplek
+acc
 dkd
 portal
 meldingen
@@ -70,18 +70,18 @@ loket.acceptatie
 openpub
 omgevingsvisie
 beeldbank
+digikoppeling-test
 cloudadapter-test
 a-feeds
 a-opendata
-digikoppeling-test
 formulier
 kaart
 flowmailer-tracking
 hybrid
+kaarten
 zaken
 feeds.english
 opendata.english
-kaarten
 cloudadapter
 connect
 cmsintranet
@@ -148,6 +148,7 @@ mobiel
 mailing
 lyncdiscover
 email
+AutoDiscover
 gisib
 izaaksuite
 subsidies
@@ -171,6 +172,7 @@ mta-sts
 maps
 geoportaal
 legacy
+zaaksysteem
 belastingportaal
 openzaak
 auth
@@ -190,7 +192,6 @@ internetafspraken
 gasten
 ro
 uc
-AutoDiscover
 transfer
 cms
 evenementen
@@ -208,9 +209,9 @@ mobile
 bor
 bestuur
 afspraakmaken
-zaaksysteem
 a-feeds.a-english
 a-opendata.a-english
+webservices
 website
 kennisbank
 wachtwoord
@@ -233,7 +234,6 @@ contact
 m
 api
 filetransfer
-webservices
 meet
 werkenvoor
 xential
@@ -353,6 +353,7 @@ id
 nieuws
 test.digikoppeling
 mijnloket
+geoservices
 prod
 nhr
 midoffice
@@ -427,9 +428,9 @@ dataportaal
 www.kaarten
 www.mail
 ons
-geoservices
 qmanage
 veiligmailen
+loket-acc
 loket.test
 www.acceptatie
 secure-test
@@ -533,6 +534,7 @@ t-www
 mm
 vergaderen
 videobellen
+webdiensten
 acc.mijn
 designsystem
 koppelvlak
@@ -552,6 +554,9 @@ veilig
 services-test
 mailings
 begroting2020
+kantoor
+redactie
+www1
 belastingportaal.acc
 inloggen.belastingportaal
 inloggen.belastingportaal.acc
@@ -602,7 +607,6 @@ test-keycloak
 test-openklant
 test-openzaak
 vastgoed
-loket-acc
 plannen
 bestemmingsplannen
 accdrop
@@ -817,7 +821,6 @@ toestemming
 video
 vinden
 webapps
-webdiensten
 componenten
 data-acc
 dns1
@@ -844,6 +847,7 @@ ondertekenen
 www.dataportaal
 password
 acc.subsidie
+kennis
 monumentenregister
 ssl
 beeldbellen
@@ -860,6 +864,9 @@ omgevingsplan
 oudewebsite
 preprodformulieren
 academy
+fme
+wsus
+zaaksysteem-acc
 edienstenburgerzaken.test
 www.praatmee
 datalab
@@ -904,7 +911,6 @@ samenveiligwerken
 testdigitaalgemeenteloket
 www.centrumbegroot
 huishoudboekje
-redactie
 aanmeldenparkeren
 acc-nieuwsbrief
 acc.meldingen
@@ -948,7 +954,6 @@ www.loket
 www.onderzoek
 www.open
 www.rekenkamer
-www1
 cc
 fm
 gpa
@@ -1302,7 +1307,6 @@ www.talentenbank
 psiam
 tloket
 tsiam
-kantoor
 www.jcc
 mijnpost
 return
@@ -3039,7 +3043,6 @@ faro
 foto-opdracht
 intern.catalogus
 kennis-staging
-kennis
 lil
 linkeddata.accept
 linkeddata.test
@@ -3185,6 +3188,19 @@ www.omgevingsplan
 www.risicokaart
 dnadatabank
 o-magazines
+ad
+alerting
+begrippen
+cawfirewall
+cawuitwijkfirewall
+ftp-hdsr
+intranet.ad
+remote-pa
+testbegrippen
+testkennis
+uconnect-acc
+uconnect
+waterkwaliteitinbeeld
 email.mail.participatie
 mail.participatie
 aalten-checker-preprod
@@ -5412,7 +5428,6 @@ extranet-acc
 extranetcms-acc
 extranetcms
 ez
-fme
 kansshop
 medewerkersportaal
 test-kansshop
@@ -6783,7 +6798,6 @@ onprem-smtp
 speciaal
 sportaccommodatieverhuur
 wie
-zaaksysteem-acc
 najaarsbrief
 regieportaal-test
 samenwerkingbelastingen-test
@@ -7230,7 +7244,6 @@ sap01.gem
 svpsicppm01
 svpsicppm02
 svtobmks01.gem
-wsus
 wsus01.gem
 www.iburgerzaken
 www.ibzpink

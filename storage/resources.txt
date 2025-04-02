@@ -22,6 +22,7 @@ AutoDiscover.denhaag.nl
 AutoDiscover.derondevenen.nl
 AutoDiscover.drechterland.nl
 AutoDiscover.enkhuizen.nl
+AutoDiscover.hdsr.nl
 AutoDiscover.koggenland.nl
 AutoDiscover.medemblik.nl
 AutoDiscover.nissewaard.nl
@@ -945,6 +946,7 @@ activesync.amersfoort.nl
 activesync.rhenen.nl
 activesync.sittard-geleen.nl
 activiteiten.amsterdam.nl
+ad.hdsr.nl
 adam.amsterdam.nl
 adc.barneveld.nl
 adccallback.ovh.gemeentebeek.nl
@@ -1274,6 +1276,7 @@ alarm.beekdaelen.nl
 alarmfilter.rotterdam.nl
 alblasserdam.nl
 albrandswaard.nl
+alerting.hdsr.nl
 alforum.almere.nl
 alfresco-api1-acc.amsterdam.nl
 alfresco-api1-tst.amsterdam.nl
@@ -1953,6 +1956,7 @@ autodiscover.hap.haarlemmermeer.nl
 autodiscover.hardenberg.nl
 autodiscover.hardinxveld-giessendam.nl
 autodiscover.hattem.nl
+autodiscover.hdsr.nl
 autodiscover.heemskerk.nl
 autodiscover.heemstede.nl
 autodiscover.heerde.nl
@@ -2415,6 +2419,7 @@ begraafplaatsreservering.bronckhorst.nl
 begraaftijd.ede.nl
 begraven.dewolden.nl
 begraven.hoogeveen.nl
+begrippen.hdsr.nl
 begroten.centrumbegroot.alphenaandenrijn.nl
 begroten.noordwestbegroot.utrecht.nl
 begroten.zwammerdamdorpskern.alphenaandenrijn.nl
@@ -3218,6 +3223,8 @@ catalogus.cultureelerfgoed.nl
 catalogus.data.amsterdam.nl
 catalogus.dataplatform.accp.s-hertogenbosch.nl
 catalogus.dataplatform.s-hertogenbosch.nl
+cawfirewall.hdsr.nl
+cawuitwijkfirewall.hdsr.nl
 cba.ede.nl
 cbg-meb.nl
 cbgjaarverslag.nl
@@ -4206,6 +4213,7 @@ digikoppeling-test.gemeente-steenbergen.nl
 digikoppeling-test.gemeentehulst.nl
 digikoppeling-test.gemeentehw.nl
 digikoppeling-test.gemnet.ede.nl
+digikoppeling-test.hdsr.nl
 digikoppeling-test.heeze-leende.nl
 digikoppeling-test.leusden.nl
 digikoppeling-test.lochem.nl
@@ -4258,6 +4266,7 @@ digikoppeling.gulpen-wittem.nl
 digikoppeling.haarlemmermeer.nl
 digikoppeling.halderberge.nl
 digikoppeling.hattem.nl
+digikoppeling.hdsr.nl
 digikoppeling.heemskerk.nl
 digikoppeling.heerde.nl
 digikoppeling.heerlen.nl
@@ -6099,6 +6108,7 @@ fm.krimpenerwaard.nl
 fm01.apeldoorn.nl
 fm02.apeldoorn.nl
 fme.eemsdelta.nl
+fme.hdsr.nl
 fmis.acc.belastingdienst.nl
 fmis.belastingdienst.nl
 fmiskoppeling-prod.veldhoven.nl
@@ -6308,6 +6318,7 @@ fsa.ede.nl
 fsp.ede.nl
 fsvportaal.acc.belastingdienst.nl
 fsvportaal.belastingdienst.nl
+ftp-hdsr.hdsr.nl
 ftp-server.ovh.gemeentebeek.nl
 ftp-test.tilburg.nl
 ftp.afs.acc.amsterdam.nl
@@ -6705,6 +6716,7 @@ geoservertest.haarlemmermeer.nl
 geoservices.cultureelerfgoed.nl
 geoservices.denhaag.nl
 geoservices.haarlemmermeer.nl
+geoservices.hdsr.nl
 geoservices.huizen.nl
 geoservicesint.haarlemmermeer.nl
 geoservicestest.haarlemmermeer.nl
@@ -7128,6 +7140,7 @@ hba.dpg.amsterdam.nl
 hcr.vlaardingen.nl
 hcs01.vaals.nl
 hcs02.vaals.nl
+hdsr.nl
 healthyurbanliving.utrecht.nl
 heelenschoon.amsterdam.nl
 heemskerk.nl
@@ -8040,6 +8053,7 @@ intranet-stats.bernheze.org
 intranet-test.nissewaard.nl
 intranet.aalten.nl
 intranet.acc.amsterdam.nl
+intranet.ad.hdsr.nl
 intranet.albrandswaard.nl
 intranet.amsterdam.nl
 intranet.apeldoorn.nl
@@ -8454,6 +8468,7 @@ kaarten.gemeenteberkelland.nl
 kaarten.gemeentewestland.nl
 kaarten.gooisemeren.nl
 kaarten.haarlemmermeer.nl
+kaarten.hdsr.nl
 kaarten.helmond.nl
 kaarten.molenlanden.nl
 kaarten.ooststellingwerf.nl
@@ -8483,6 +8498,7 @@ kadernota2022.pijnacker-nootdorp.nl
 kadernota2025.oss.nl
 kampen.nl
 kansshop.eemsdelta.nl
+kantoor.hdsr.nl
 kantoor.opsterland.nl
 kantoor.weststellingwerf.nl
 kapelle.nl
@@ -8535,6 +8551,7 @@ kenneth.delft.nl
 kennis-fiod.acc.belastingdienst.nl
 kennis-staging.cultureelerfgoed.nl
 kennis.cultureelerfgoed.nl
+kennis.hdsr.nl
 kennisbank.achtkarspelen.nl
 kennisbank.almelo.nl
 kennisbank.barneveld.nl
@@ -8943,6 +8960,7 @@ lokaleregelgeving-eto.overheid.nl
 lokaleregelgeving.overheid.nl
 loket-acc.asten.nl
 loket-acc.gemeentehulst.nl
+loket-acc.hdsr.nl
 loket-acc.leidschendam-voorburg.nl
 loket-ontw.gemeentehulst.nl
 loket.aaenhunze.nl
@@ -9001,6 +9019,7 @@ loket.haarlem.nl
 loket.haarlemmermeer.nl
 loket.hardinxveld-giessendam.nl
 loket.hattem.nl
+loket.hdsr.nl
 loket.heerde.nl
 loket.heerlen.nl
 loket.hellendoorn.nl
@@ -12671,6 +12690,7 @@ reclame.nijmegen.nl
 redactie-extern.denhaag.nl
 redactie.amersfoort.nl
 redactie.antwoord.amsterdam.nl
+redactie.hdsr.nl
 redactie.nissewaard.nl
 redactie.test.amersfoort.nl
 redactiemijn-o.ot.denhaag.nl
@@ -12723,6 +12743,7 @@ relay.woerden.nl
 relay2.woerden.nl
 religieuserfgoed.deventer.nl
 remcon.amsterdam.nl
+remote-pa.hdsr.nl
 remote.aaenhunze.nl
 remote.arnhem.nl
 remote.beverwijk.nl
@@ -14850,6 +14871,7 @@ testafspraken.alkmaar.nl
 testafspraken.gemeentehw.nl
 testafspraken.nissewaard.nl
 testapps.haarlemmermeer.nl
+testbegrippen.hdsr.nl
 testbelastingbalie.hoorn.nl
 testbelastingen.zaanstad.nl
 testbelastingen.zoetermeer.nl
@@ -14928,6 +14950,7 @@ testinhuiz.huizen.nl
 testinloggen.haarlemmermeer.nl
 testintranet.westerwolde.nl
 testkaart.alphenaandenrijn.nl
+testkennis.hdsr.nl
 testkoppeling.venray.nl
 testloket.dinkelland.nl
 testloket.groningen.nl
@@ -15261,6 +15284,8 @@ ucav1.hellevoetsluis.nl
 ucc01.goeree-overflakkee.nl
 ucconf01.goeree-overflakkee.nl
 ucconf01.hilversum.nl
+uconnect-acc.hdsr.nl
+uconnect.hdsr.nl
 ucserver.tholen.nl
 ucweb01-ext.goeree-overflakkee.nl
 ucweb01-ext.houten.nl
@@ -15819,6 +15844,7 @@ watdoetdegemeente.rotterdam.nl
 water.deventer.nl
 water.omgevingswet.overheid.nl
 waterberging.valkenswaard.nl
+waterkwaliteitinbeeld.hdsr.nl
 waterland.nl
 waterloket.urk.nl
 waterweb.waterland.nl
@@ -15884,6 +15910,7 @@ webdiensten-test4.belastingdienst.nl
 webdiensten-webservices.acc.belastingdienst.nl
 webdiensten.acc.belastingdienst.nl
 webdiensten.belastingdienst.nl
+webdiensten.hdsr.nl
 webdiensten.rotterdam.nl
 webdiensten.str10.acc.belastingdienst.nl
 webdiensten.str12.acc.belastingdienst.nl
@@ -16077,6 +16104,7 @@ webservices.dongen.nl
 webservices.donorregister.nl
 webservices.goirle.nl
 webservices.groningen.nl
+webservices.hdsr.nl
 webservices.lrza.cibg.nl
 webservices.rotterdam.nl
 webservices.str10.acc.belastingdienst.nl
@@ -16221,6 +16249,7 @@ werkplek.groningen.nl
 werkplek.gslb.alkmaar.nl
 werkplek.haarlemmermeer.nl
 werkplek.halderberge.nl
+werkplek.hdsr.nl
 werkplek.hilversum.nl
 werkplek.kaagenbraassem.nl
 werkplek.kampen.nl
@@ -16521,6 +16550,7 @@ wsn-mail.wassenaar.nl
 wsone.rotterdam.nl
 wsone2.rotterdam.nl
 wsr.groningen.nl
+wsus.hdsr.nl
 wsus.overbetuwe.nl
 wsus01.gem.overbetuwe.nl
 wup.schouwen-duiveland.nl
@@ -17125,6 +17155,7 @@ www.hardinxveld-giessendam.nl
 www.harlingen.nl
 www.hattem.nl
 www.havenkwartieraanzet.denhaag.nl
+www.hdsr.nl
 www.heemskerk.nl
 www.heemstede.nl
 www.heerde.nl
@@ -17899,6 +17930,7 @@ www.zwemmen.venlo.nl
 www.zwijndrecht.nl
 www.zwolle.nl
 www1.amsterdam.nl
+www1.hdsr.nl
 www1.lansingerland.nl
 www2.arnhem.nl
 www2.formulieren.haarlemmermeer.nl
@@ -17961,6 +17993,7 @@ zaakloket.ameland.nl
 zaakloket.schiermonnikoog.nl
 zaakloket.terschelling.nl
 zaakloket.vlieland.nl
+zaaksysteem-acc.hdsr.nl
 zaaksysteem-acc.meppel.nl
 zaaksysteem-accept.alkmaar.nl
 zaaksysteem-accept.baarn.nl
@@ -18003,6 +18036,7 @@ zaaksysteem-ontwikkeling.vijfheerenlanden.nl
 zaaksysteem.acc.utrecht.nl
 zaaksysteem.ede.nl
 zaaksysteem.eindhoven.nl
+zaaksysteem.hdsr.nl
 zaaksysteem.hilversum.nl
 zaaksysteem.maassluis.nl
 zaaksysteem.meppel.nl

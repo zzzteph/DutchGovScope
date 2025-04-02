@@ -2,6 +2,7 @@ http://AutoDiscover.brielle.nl
 http://AutoDiscover.derondevenen.nl
 http://AutoDiscover.drechterland.nl
 http://AutoDiscover.enkhuizen.nl
+http://AutoDiscover.hdsr.nl
 http://AutoDiscover.koggenland.nl
 http://AutoDiscover.medemblik.nl
 http://AutoDiscover.nissewaard.nl
@@ -111,6 +112,7 @@ http://autodiscover.haarlemmermeer.nl
 http://autodiscover.hardenberg.nl
 http://autodiscover.hardinxveld-giessendam.nl
 http://autodiscover.hattem.nl
+http://autodiscover.hdsr.nl
 http://autodiscover.heemskerk.nl
 http://autodiscover.heemstede.nl
 http://autodiscover.heerde.nl
@@ -1775,6 +1777,7 @@ https://begraafplaatsen.gooisemeren.nl
 https://begraafplaatsreservering.bronckhorst.nl
 https://begraven.dewolden.nl
 https://begraven.hoogeveen.nl
+https://begrippen.hdsr.nl
 https://begroten.centrumbegroot.alphenaandenrijn.nl
 https://begroten.noordwestbegroot.utrecht.nl
 https://begroten.zwammerdamdorpskern.alphenaandenrijn.nl
@@ -2294,6 +2297,8 @@ https://castricum.nl
 https://catalogus.cultureelerfgoed.nl
 https://catalogus.dataplatform.accp.s-hertogenbosch.nl
 https://catalogus.dataplatform.s-hertogenbosch.nl
+https://cawfirewall.hdsr.nl
+https://cawuitwijkfirewall.hdsr.nl
 https://cbg-meb.nl
 https://cbgjaarverslag.nl
 https://cbm.demo.mijn.overheid.nl
@@ -3893,6 +3898,7 @@ https://flowmailer-tracking.vlissingen.nl
 https://flowmailer-tracking.weert.nl
 https://flowmailer-tracking.zaanstad.nl
 https://fm.krimpenerwaard.nl
+https://fme.hdsr.nl
 https://fmis.acc.belastingdienst.nl
 https://fmis.belastingdienst.nl
 https://fmreturn.beekdaelen.nl
@@ -4038,6 +4044,7 @@ https://fs.halderberge.nl
 https://fs.waalwijk.nl
 https://fs001.leudal.nl
 https://fsvportaal.belastingdienst.nl
+https://ftp-hdsr.hdsr.nl
 https://ftp.afs.acc.amsterdam.nl
 https://ftp.afs.amsterdam.nl
 https://ftp.bodegraven-reeuwijk.nl
@@ -4226,6 +4233,7 @@ https://geoserver.nieuwegein.nl
 https://geoservices.cultureelerfgoed.nl
 https://geoservices.denhaag.nl
 https://geoservices.haarlemmermeer.nl
+https://geoservices.hdsr.nl
 https://geoservices.huizen.nl
 https://geotest.arnhem.nl
 https://geotest.goirle.nl
@@ -4390,6 +4398,7 @@ https://haven.sittard-geleen.nl
 https://haven.tst.sittard-geleen.nl
 https://haven.wageningen.nl
 https://havenkwartieraanzet.denhaag.nl
+https://hdsr.nl
 https://healthyurbanliving.utrecht.nl
 https://heemskerk.nl
 https://heemstede.nl
@@ -4852,6 +4861,7 @@ https://intranet-ot.tilburg.nl
 https://intranet-stats.bernheze.org
 https://intranet-test.nissewaard.nl
 https://intranet.acc.amsterdam.nl
+https://intranet.ad.hdsr.nl
 https://intranet.amsterdam.nl
 https://intranet.apeldoorn.nl
 https://intranet.bergendal.nl
@@ -5071,6 +5081,7 @@ https://kaarten.buren.nl
 https://kaarten.deventer.nl
 https://kaarten.duiven.nl
 https://kaarten.gooisemeren.nl
+https://kaarten.hdsr.nl
 https://kaarten.helmond.nl
 https://kaarten.molenlanden.nl
 https://kaarten.ooststellingwerf.nl
@@ -5096,6 +5107,7 @@ https://kadernota2022.financielestukken.diemen.nl
 https://kadernota2022.pijnacker-nootdorp.nl
 https://kampen.nl
 https://kansshop.eemsdelta.nl
+https://kantoor.hdsr.nl
 https://kapelle.nl
 https://katwijk.landvancuijk.nl
 https://katwijk.nl
@@ -5114,6 +5126,7 @@ https://kei.deventer.nl
 https://kenneth.delft.nl
 https://kennis-staging.cultureelerfgoed.nl
 https://kennis.cultureelerfgoed.nl
+https://kennis.hdsr.nl
 https://kennisbank.barneveld.nl
 https://kennisbank.eindhoven.nl
 https://kennisbank.groningen.nl
@@ -7390,6 +7403,7 @@ https://reclame.nijmegen.nl
 https://redactie-extern.denhaag.nl
 https://redactie.amersfoort.nl
 https://redactie.antwoord.amsterdam.nl
+https://redactie.hdsr.nl
 https://redirect.leeuwarden.nl
 https://reflex.s-hertogenbosch.nl
 https://regelen.haarlem.nl
@@ -8321,6 +8335,7 @@ https://test.utrecht.nl
 https://test.velsen.nl
 https://testafspraken.alkmaar.nl
 https://testapps.haarlemmermeer.nl
+https://testbegrippen.hdsr.nl
 https://testbelastingbalie.hoorn.nl
 https://testbelastingen.zaanstad.nl
 https://testbelastingen.zoetermeer.nl
@@ -8378,6 +8393,7 @@ https://testformulieren.haarlemmermeer.nl
 https://testformulieren.veldhoven.nl
 https://testinloggen.haarlemmermeer.nl
 https://testintranet.westerwolde.nl
+https://testkennis.hdsr.nl
 https://testloket.hattem.nl
 https://testloket.heerde.nl
 https://testloket.katwijk.nl
@@ -8534,6 +8550,8 @@ https://uc.waadhoeke.nl
 https://uca.geertruidenberg.nl
 https://ucaccess1.hellevoetsluis.nl
 https://ucav1.hellevoetsluis.nl
+https://uconnect-acc.hdsr.nl
+https://uconnect.hdsr.nl
 https://ucserver.tholen.nl
 https://ucweb01-ext.houten.nl
 https://ucweb1-ext.hellevoetsluis.nl
@@ -8806,6 +8824,7 @@ https://warmtetransitie.urk.nl
 https://water.deventer.nl
 https://water.omgevingswet.overheid.nl
 https://waterberging.valkenswaard.nl
+https://waterkwaliteitinbeeld.hdsr.nl
 https://waterland.nl
 https://waterweb.waterland.nl
 https://wdm-fepoolweb-ext.wijdemeren.nl
@@ -8828,6 +8847,7 @@ https://webcamspinveld.breda.nl
 https://webchat.klopt.cibg.nl
 https://webdav.goeree-overflakkee.nl
 https://webdiensten.belastingdienst.nl
+https://webdiensten.hdsr.nl
 https://webdiensten.rotterdam.nl
 https://webforms.belastingdienst.nl
 https://webformulieren-acc.hoorn.nl
@@ -8889,6 +8909,7 @@ https://webservice-decosdvl.acc.amsterdam.nl
 https://webservice-decosdvl.amsterdam.nl
 https://webservices-ot.tilburg.nl
 https://webservices.bigregister.nl
+https://webservices.hdsr.nl
 https://webshop.t-diel.nl
 https://webshopapp.denhaag.nl
 https://webshopvitaloo.sudwestfryslan.nl
@@ -9161,6 +9182,7 @@ https://wsdl.t-diel.nl
 https://wsgateway-extern.denhaag.nl
 https://wsone.rotterdam.nl
 https://wsone2.rotterdam.nl
+https://wsus.hdsr.nl
 https://wvncmg.westvoorne.nl
 https://wwcs02.ad.winterswijk.nl
 https://wwex02.ad.winterswijk.nl
@@ -9521,6 +9543,7 @@ https://www.harderwijk.nl
 https://www.hardinxveld-giessendam.nl
 https://www.hattem.nl
 https://www.havenkwartieraanzet.denhaag.nl
+https://www.hdsr.nl
 https://www.heemskerk.nl
 https://www.heemstede.nl
 https://www.heerde.nl
@@ -9960,6 +9983,7 @@ https://zaakloket.ameland.nl
 https://zaakloket.schiermonnikoog.nl
 https://zaakloket.terschelling.nl
 https://zaakloket.vlieland.nl
+https://zaaksysteem-acc.hdsr.nl
 https://zaaksysteem-acc.meppel.nl
 https://zaaksysteem-accept.alkmaar.nl
 https://zaaksysteem-accept.baarn.nl
@@ -10001,6 +10025,7 @@ https://zaaksysteem-acceptatie.venlo.nl
 https://zaaksysteem-ontwikkeling.vijfheerenlanden.nl
 https://zaaksysteem.acc.utrecht.nl
 https://zaaksysteem.ede.nl
+https://zaaksysteem.hdsr.nl
 https://zaaksysteem.hilversum.nl
 https://zaaksysteem.maassluis.nl
 https://zaaksysteem.meppel.nl
