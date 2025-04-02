@@ -107,13 +107,16 @@ https://acc.client.archis.cultureelerfgoed.nl
 https://acc.monumentenregister.cultureelerfgoed.nl
 https://acc.omgevingswet.overheid.nl
 https://acc.stor.services.cultureelerfgoed.nl
+https://acceptatie.abonnee.dezi.nl
 https://acceptatie.advieswijzer.bigregister.nl
 https://acceptatie.api.bigregister.nl
 https://acceptatie.applicationframework.cibg.nl
 https://acceptatie.archis.cultureelerfgoed.nl
 https://acceptatie.behandel.bigregister.nl
+https://acceptatie.behandel.dezi.nl
 https://acceptatie.behandel.generiekeregistratiedienst.cibg.nl
 https://acceptatie.beheer.bigregister.nl
+https://acceptatie.beheer.dezi.nl
 https://acceptatie.beheer.generiekeregistratiedienst.cibg.nl
 https://acceptatie.beheer.lir.cibg.nl
 https://acceptatie.beheer.lrza.cibg.nl
@@ -124,6 +127,7 @@ https://acceptatie.geoservices.cultureelerfgoed.nl
 https://acceptatie.lir.cibg.nl
 https://acceptatie.meldingen.klopt.cibg.nl
 https://acceptatie.mijn.bigregister.nl
+https://acceptatie.mijn.dezi.nl
 https://acceptatie.portaal.competent.cibg.nl
 https://acceptatie.portaal.digilevering.cibg.nl
 https://acceptatie.publicwebservices.cibg.nl
@@ -350,6 +354,7 @@ https://desktop.klopt.cibg.nl
 https://deutsch.postedworkers.nl
 https://developer.omgevingswet.overheid.nl
 https://developer.overheid.nl
+https://dezi.nl
 https://dialin.aaenmaas.nl
 https://digicheck.brabant.nl
 https://digid-stub.lpc.mijn.overheid.nl
@@ -488,6 +493,7 @@ https://feeds.defensie.nl
 https://feeds.deltaprogramma.nl
 https://feeds.denkdoeduurzaam.nl
 https://feeds.deutsch.postedworkers.nl
+https://feeds.dezi.nl
 https://feeds.english.aivd.nl
 https://feeds.english.autoriteitnvs.nl
 https://feeds.english.belastingdienst-cn.nl
@@ -749,6 +755,7 @@ https://opendata.defensie.nl
 https://opendata.deltaprogramma.nl
 https://opendata.denkdoeduurzaam.nl
 https://opendata.deutsch.postedworkers.nl
+https://opendata.dezi.nl
 https://opendata.english.aivd.nl
 https://opendata.english.autoriteitnvs.nl
 https://opendata.english.belastingdienst-cn.nl
@@ -1108,6 +1115,7 @@ https://www.dcc-ienw.nl
 https://www.defensie.nl
 https://www.deltaprogramma.nl
 https://www.denkdoeduurzaam.nl
+https://www.dezi.nl
 https://www.dmo.omgevingswet.overheid.nl
 https://www.enabling.omgevingswet.overheid.nl
 https://www.igj.nl

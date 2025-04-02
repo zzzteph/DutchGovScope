@@ -968,6 +968,7 @@ https://acceptatie-open.tubbergen.nl
 https://acceptatie-open.zutphen.nl
 https://acceptatie-vaarvergunningen.amsterdam.nl
 https://acceptatie-zaaksysteem.soest.nl
+https://acceptatie.abonnee.dezi.nl
 https://acceptatie.advieswijzer.bigregister.nl
 https://acceptatie.alphen-chaam.nl
 https://acceptatie.api.bigregister.nl
@@ -976,8 +977,10 @@ https://acceptatie.archis.cultureelerfgoed.nl
 https://acceptatie.asten.nl
 https://acceptatie.baarle-nassau.nl
 https://acceptatie.behandel.bigregister.nl
+https://acceptatie.behandel.dezi.nl
 https://acceptatie.behandel.generiekeregistratiedienst.cibg.nl
 https://acceptatie.beheer.bigregister.nl
+https://acceptatie.beheer.dezi.nl
 https://acceptatie.beheer.generiekeregistratiedienst.cibg.nl
 https://acceptatie.beheer.lir.cibg.nl
 https://acceptatie.beheer.lrza.cibg.nl
@@ -1010,6 +1013,7 @@ https://acceptatie.meldingen.klopt.cibg.nl
 https://acceptatie.midden-groningen.nl
 https://acceptatie.middendrenthe.nl
 https://acceptatie.mijn.bigregister.nl
+https://acceptatie.mijn.dezi.nl
 https://acceptatie.nederbetuwe.nl
 https://acceptatie.notarisportaal.westerkwartier.nl
 https://acceptatie.nunspeet.nl
@@ -2707,6 +2711,7 @@ https://devops.rotterdam.nl
 https://devportal.api.amsterdam.nl
 https://dewolden.nl
 https://dex.meldingen.alphenaandenrijn.nl
+https://dezi.nl
 https://dgk-prd.zutphen.nl
 https://dialin.aaenmaas.nl
 https://dialin.houten.nl
@@ -3608,6 +3613,7 @@ https://feeds.defensie.nl
 https://feeds.deltaprogramma.nl
 https://feeds.denkdoeduurzaam.nl
 https://feeds.deutsch.postedworkers.nl
+https://feeds.dezi.nl
 https://feeds.english.aivd.nl
 https://feeds.english.autoriteitnvs.nl
 https://feeds.english.belastingdienst-cn.nl
@@ -6293,6 +6299,7 @@ https://opendata.defensie.nl
 https://opendata.deltaprogramma.nl
 https://opendata.denkdoeduurzaam.nl
 https://opendata.deutsch.postedworkers.nl
+https://opendata.dezi.nl
 https://opendata.english.aivd.nl
 https://opendata.english.autoriteitnvs.nl
 https://opendata.english.belastingdienst-cn.nl
@@ -9064,6 +9071,7 @@ https://www.destemvan.groningen.nl
 https://www.deventer.nl
 https://www.devgovrs1.deventer.nl
 https://www.dewolden.nl
+https://www.dezi.nl
 https://www.diemen.nl
 https://www.digitaalfotoarchief.oegstgeest.nl
 https://www.dijkenwaard.nl

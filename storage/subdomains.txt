@@ -824,6 +824,9 @@ oa
 bezwaar
 feedback
 pushmail
+acceptatie.behandel
+acceptatie.beheer
+acceptatie.mijn
 acceptatie.zoeken
 corsa
 corsa2023
@@ -2779,9 +2782,6 @@ opendata.papiamentu
 papiamentu
 acceptatie.advieswijzer
 acceptatie.api
-acceptatie.behandel
-acceptatie.beheer
-acceptatie.mijn
 acceptatie.tea
 acceptatie.webservices
 advieswijzer
@@ -3067,6 +3067,7 @@ dp2025
 deutsch
 feeds.deutsch
 opendata.deutsch
+acceptatie.abonnee
 email.mail.participatie
 mail.participatie
 aalten-checker-preprod
