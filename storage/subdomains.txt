@@ -50,8 +50,8 @@ enterpriseenrollment
 iparticipatie
 belastingen
 test-ipa
-data
 english
+data
 dacceptatieloket
 dacceptatiemidoffice
 remote
@@ -218,6 +218,7 @@ api
 webservices
 website
 wachtwoord
+archief
 preprod-mijn
 veiligdelen
 geodata
@@ -253,7 +254,6 @@ formulieren-test
 jccapi
 mijnsociaalplein
 preprod-mijnsociaalplein
-archief
 topdesk
 acceptatie-open
 bestanden
