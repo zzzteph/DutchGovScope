@@ -1189,6 +1189,7 @@ feeds.igj.nl
 feeds.ikvermoedhuiselijkgeweld.nl
 feeds.ilent.nl
 feeds.informatieanalyseteam.nl
+feeds.informatiehuishouding.nl
 feeds.nieuwsbrievenminocw.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.persberichten.rijksoverheid.nl
@@ -1367,6 +1368,7 @@ gpa-rest-test.belastingdienst.nl
 gpi.acc.belastingdienst.nl
 gpi.belastingdienst.nl
 grafana.lpc.logius.nl
+grip.informatiehuishouding.nl
 grondwaterportaal-a.hhdelfland.nl
 grondwaterportaal.hhdelfland.nl
 grondwaterstand.brabant.nl
@@ -1498,6 +1500,7 @@ infomilcn.com
 informatie-acpt.brabant.nl
 informatie-ext.brabant.nl
 informatie-rws.brabant.nl
+informatiehuishouding.nl
 informatiepuntkinderopvangtoeslag.rijksoverheid.nl
 inkomen.toeslagen.nl
 inkoopportaal.belastingdienst.nl
@@ -1649,6 +1652,7 @@ magazines.forensischinstituut.nl
 magazines.government.nl
 magazines.igj.nl
 magazines.ilent.nl
+magazines.informatiehuishouding.nl
 magazines.rijksoverheid.nl
 magazines.werkenvoornederland.nl
 magazinesintern.rijksoverheid.nl
@@ -2081,6 +2085,7 @@ opendata.igj.nl
 opendata.ikvermoedhuiselijkgeweld.nl
 opendata.ilent.nl
 opendata.informatieanalyseteam.nl
+opendata.informatiehuishouding.nl
 opendata.nieuwsbrievenminocw.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.persberichten.rijksoverheid.nl
@@ -3083,6 +3088,7 @@ www.ikz.nl
 www.ilent.nl
 www.infomilcn.com
 www.informatieanalyseteam.nl
+www.informatiehuishouding.nl
 www.int.omgevingswet.overheid.nl
 www.int02.omgevingswet.overheid.nl
 www.int12.omgevingswet.overheid.nl

@@ -93,6 +93,7 @@ govroam
 digikoppeling.test
 mks
 dtestloket
+magazines
 denkmee
 osbacc
 test-cmsintranet
@@ -101,7 +102,6 @@ piwik
 acc-broker
 belastingloket
 doemee
-magazines
 apps
 extranet
 siam
@@ -876,6 +876,7 @@ inloggen-preprod
 pkioverheid
 telewerk
 acc.data
+grip
 edienstenburgerzaken.test
 www.praatmee
 datalab
@@ -5024,7 +5025,6 @@ gitops.dev
 gitops.test
 gogo-acc
 gogo
-grip
 havenkwartieraanzet
 hildebrandplein
 houtwijkbegroot

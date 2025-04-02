@@ -5922,6 +5922,7 @@ feeds.igj.nl
 feeds.ikvermoedhuiselijkgeweld.nl
 feeds.ilent.nl
 feeds.informatieanalyseteam.nl
+feeds.informatiehuishouding.nl
 feeds.nieuwsbrievenminocw.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.persberichten.rijksoverheid.nl
@@ -7047,6 +7048,7 @@ grafana.team-utrecht.cg-intern.acc.utrecht.nl
 grave.landvancuijk.nl
 griffie.rotterdam.nl
 grip.denhaag.nl
+grip.informatiehuishouding.nl
 grmks01.goes.nl
 grmks02.kapelle.nl
 grmks03.reimerswaal.nl
@@ -7976,6 +7978,7 @@ infoplein.oosterhout.nl
 informatie-acpt.brabant.nl
 informatie-ext.brabant.nl
 informatie-rws.brabant.nl
+informatiehuishouding.nl
 informatieplattegrond.denhaag.nl
 informatiepuntkinderopvangtoeslag.rijksoverheid.nl
 informatieveiligheid.zaanstad.nl
@@ -9285,6 +9288,7 @@ magazines.government.nl
 magazines.horstaandemaas.nl
 magazines.igj.nl
 magazines.ilent.nl
+magazines.informatiehuishouding.nl
 magazines.rijksoverheid.nl
 magazines.rotterdam.nl
 magazines.werkenvoornederland.nl
@@ -11291,6 +11295,7 @@ opendata.igj.nl
 opendata.ikvermoedhuiselijkgeweld.nl
 opendata.ilent.nl
 opendata.informatieanalyseteam.nl
+opendata.informatiehuishouding.nl
 opendata.nieuwsbrievenminocw.nl
 opendata.nijmegen.nl
 opendata.papiamentu.belastingdienst-cn.nl
@@ -17404,6 +17409,7 @@ www.inburgeren.amsterdam.nl
 www.infomilcn.com
 www.infonet.eijsden-margraten.nl
 www.informatieanalyseteam.nl
+www.informatiehuishouding.nl
 www.infozuil.utrecht.nl
 www.ingesprek.denhelder.nl
 www.inkomensondersteuning.nijmegen.nl

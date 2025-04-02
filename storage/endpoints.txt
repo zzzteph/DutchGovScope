@@ -3804,6 +3804,7 @@ https://feeds.igj.nl
 https://feeds.ikvermoedhuiselijkgeweld.nl
 https://feeds.ilent.nl
 https://feeds.informatieanalyseteam.nl
+https://feeds.informatiehuishouding.nl
 https://feeds.nieuwsbrievenminocw.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.persberichten.rijksoverheid.nl
@@ -4376,6 +4377,7 @@ https://gpg.apeldoorn.nl
 https://gpi.belastingdienst.nl
 https://gpt.apeldoorn.nl
 https://grave.landvancuijk.nl
+https://grip.informatiehuishouding.nl
 https://groenekaart.leiden.nl
 https://groenengezond.almere.nl
 https://groenervijfhuizen.haarlemmermeer.nl
@@ -4817,6 +4819,7 @@ https://info.sudwestfryslan.nl
 https://infomilcn.com
 https://infoopkaart.steenwijkerland.nl
 https://infoplein.oosterhout.nl
+https://informatiehuishouding.nl
 https://informatieplattegrond.denhaag.nl
 https://informatiepuntkinderopvangtoeslag.rijksoverheid.nl
 https://informatieveiligheid.zaanstad.nl
@@ -5506,6 +5509,7 @@ https://magazines.gooisemeren.nl
 https://magazines.government.nl
 https://magazines.igj.nl
 https://magazines.ilent.nl
+https://magazines.informatiehuishouding.nl
 https://magazines.rijksoverheid.nl
 https://magazines.rotterdam.nl
 https://magazines.werkenvoornederland.nl
@@ -6647,6 +6651,7 @@ https://opendata.igj.nl
 https://opendata.ikvermoedhuiselijkgeweld.nl
 https://opendata.ilent.nl
 https://opendata.informatieanalyseteam.nl
+https://opendata.informatiehuishouding.nl
 https://opendata.nieuwsbrievenminocw.nl
 https://opendata.nijmegen.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
@@ -9681,6 +9686,7 @@ https://www.ikz.nl
 https://www.ilent.nl
 https://www.infomilcn.com
 https://www.informatieanalyseteam.nl
+https://www.informatiehuishouding.nl
 https://www.ingesprek.denhelder.nl
 https://www.inkomensondersteuning.nijmegen.nl
 https://www.int.omgevingswet.overheid.nl

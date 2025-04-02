@@ -684,6 +684,7 @@ https://feeds.igj.nl
 https://feeds.ikvermoedhuiselijkgeweld.nl
 https://feeds.ilent.nl
 https://feeds.informatieanalyseteam.nl
+https://feeds.informatiehuishouding.nl
 https://feeds.nieuwsbrievenminocw.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.persberichten.rijksoverheid.nl
@@ -750,6 +751,7 @@ https://goudenpiramide.nl
 https://gouverneuraruba.com
 https://government.nl
 https://gpi.belastingdienst.nl
+https://grip.informatiehuishouding.nl
 https://grondwaterportaal-a.hhdelfland.nl
 https://grondwaterportaal.hhdelfland.nl
 https://grondwaterstand.brabant.nl
@@ -794,6 +796,7 @@ https://import-acc.organisaties.overheid.nl
 https://import.organisaties.overheid.nl
 https://incassomachtigen.belastingdienst.nl
 https://infomilcn.com
+https://informatiehuishouding.nl
 https://informatiepuntkinderopvangtoeslag.rijksoverheid.nl
 https://inloggen-preprod.hhdelfland.nl
 https://inloggen.hhdelfland.nl
@@ -875,6 +878,7 @@ https://magazines.forensischinstituut.nl
 https://magazines.government.nl
 https://magazines.igj.nl
 https://magazines.ilent.nl
+https://magazines.informatiehuishouding.nl
 https://magazines.rijksoverheid.nl
 https://magazines.werkenvoornederland.nl
 https://magazinesintern.rijksoverheid.nl
@@ -1102,6 +1106,7 @@ https://opendata.igj.nl
 https://opendata.ikvermoedhuiselijkgeweld.nl
 https://opendata.ilent.nl
 https://opendata.informatieanalyseteam.nl
+https://opendata.informatiehuishouding.nl
 https://opendata.nieuwsbrievenminocw.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.persberichten.rijksoverheid.nl
@@ -1578,6 +1583,7 @@ https://www.ikz.nl
 https://www.ilent.nl
 https://www.infomilcn.com
 https://www.informatieanalyseteam.nl
+https://www.informatiehuishouding.nl
 https://www.int.omgevingswet.overheid.nl
 https://www.int02.omgevingswet.overheid.nl
 https://www.int12.omgevingswet.overheid.nl
