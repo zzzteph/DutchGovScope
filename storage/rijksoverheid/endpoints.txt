@@ -20,6 +20,7 @@ http://autodiscover.ctgb.nl
 http://autodiscover.domeinenrz.nl
 http://autodiscover.flevoland.nl
 http://autodiscover.hdsr.nl
+http://autodiscover.hhdelfland.nl
 http://bzv-a.brabant.nl
 http://ca-devportal-pre.logius.nl
 http://ca-devportal.logius.nl
@@ -225,8 +226,10 @@ https://awti.nl
 https://bag.basisregistraties.overheid.nl
 https://bag.test.basisregistraties.overheid.nl
 https://bag2.basisregistraties.overheid.nl
+https://beeldbank-bo.hhdelfland.nl
 https://beeldbank.brabant.nl
 https://beeldbank.cultureelerfgoed.nl
+https://beeldbank.hhdelfland.nl
 https://beeldbellen.dji.nl
 https://begrippen.hdsr.nl
 https://begroting.brabant.nl
@@ -294,6 +297,7 @@ https://brt.test.basisregistraties.overheid.nl
 https://bta.omgevingswet.overheid.nl
 https://bureauncdr.nl
 https://bureauwsnp.nl
+https://burgerloket.hhdelfland.nl
 https://bvd-pre.mev.logius.nl
 https://bvd.mev.logius.nl
 https://bvs.belastingdienst.nl
@@ -443,6 +447,7 @@ https://e-mailabonnementen.rijksoverheid.nl
 https://e-maildiensten.rijksoverheid.nl
 https://e.acc.videobellen.toeslagen.nl
 https://e.flevoland.nl
+https://e.hhdelfland.nl
 https://e.logius.nl
 https://e.videobellen.toeslagen.nl
 https://eavgb-acc.aivd.nl
@@ -722,6 +727,8 @@ https://goudenpiramide.nl
 https://gouverneuraruba.com
 https://government.nl
 https://gpi.belastingdienst.nl
+https://grondwaterportaal-a.hhdelfland.nl
+https://grondwaterportaal.hhdelfland.nl
 https://grondwaterstand.brabant.nl
 https://gtmb.belastingdienst.nl
 https://gtmd.belastingdienst.nl
@@ -734,6 +741,7 @@ https://healthcouncil.nl
 https://helloid.aaenmaas.nl
 https://herstel.toeslagen.nl
 https://hetverhaalvan.flevoland.nl
+https://hhdelfland.nl
 https://historische-luchtfoto.flevoland.nl
 https://huisstijl.belastingdienst.nl
 https://hulpmiddelen.farmatec.nl
@@ -751,6 +759,8 @@ https://import-acc.organisaties.overheid.nl
 https://import.organisaties.overheid.nl
 https://incassomachtigen.belastingdienst.nl
 https://informatiepuntkinderopvangtoeslag.rijksoverheid.nl
+https://inloggen-preprod.hhdelfland.nl
+https://inloggen.hhdelfland.nl
 https://instroom.belastingdienst.nl
 https://int.omgevingswet.overheid.nl
 https://int02.omgevingswet.overheid.nl
@@ -783,6 +793,7 @@ https://kavaanalytics.vcdn.belastingdienst.nl
 https://kennis-staging.cultureelerfgoed.nl
 https://kennis.cultureelerfgoed.nl
 https://kennis.hdsr.nl
+https://kennisbank.hhdelfland.nl
 https://kennisbank.logius.nl
 https://kennisgroepen.belastingdienst.nl
 https://kennisnetwerk.belastingdienst.nl
@@ -802,6 +813,8 @@ https://logius.nl
 https://lokaleregelgeving-acc.overheid.nl
 https://lokaleregelgeving-eto.overheid.nl
 https://lokaleregelgeving.overheid.nl
+https://loket-preprod.hhdelfland.nl
+https://loket.hhdelfland.nl
 https://lucht.omgevingswet.overheid.nl
 https://luchtfoto.flevoland.nl
 https://lvbb-lto.overheid.nl
@@ -1158,6 +1171,7 @@ https://s4a.brabant.nl
 https://s4p.brabant.nl
 https://sa.belastingdienst.nl
 https://sadp.belastingdienst.nl
+https://samenveiligwerken.hhdelfland.nl
 https://samenwerken.brabant.nl
 https://sandbox.werkenvoornederland.nl
 https://sb-dictu.logius.nl
@@ -1220,6 +1234,8 @@ https://standaarden.omgevingswet.overheid.nl
 https://standaarden.overheid.nl
 https://start.dus-i.nl
 https://startformuliertest.brabant.nl
+https://startstopmelding-a.hhdelfland.nl
+https://startstopmelding.hhdelfland.nl
 https://stateninformatie.flevoland.nl
 https://static.demo.mijn.overheid.nl
 https://static.developer.overheid.nl
@@ -1316,6 +1332,9 @@ https://wadsup.beheerautoriteitwaddenzee.nl
 https://wagenparkgegevens.belastingdienst.nl
 https://water.omgevingswet.overheid.nl
 https://waterkwaliteitinbeeld.hdsr.nl
+https://watertoetsportaal-a.hhdelfland.nl
+https://watertoetsportaal.hhdelfland.nl
+https://wbp6.hhdelfland.nl
 https://webchat.klopt.cibg.nl
 https://webdiensten.belastingdienst.nl
 https://webdiensten.hdsr.nl
@@ -1480,6 +1499,7 @@ https://www.hansken.nl
 https://www.hdsr.nl
 https://www.healthcouncil.nl
 https://www.hetverhaalvan.flevoland.nl
+https://www.hhdelfland.nl
 https://www.igj.nl
 https://www.int.omgevingswet.overheid.nl
 https://www.int02.omgevingswet.overheid.nl

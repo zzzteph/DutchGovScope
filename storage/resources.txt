@@ -603,6 +603,7 @@ acc.haarlem.nl
 acc.halderberge.nl
 acc.heelenschoon.amsterdam.nl
 acc.heemskerk.nl
+acc.hhdelfland.nl
 acc.hior.amsterdam.nl
 acc.hitkans.top.amsterdam.nl
 acc.iam.amsterdam.nl
@@ -978,6 +979,7 @@ adfs.gulpen-wittem.nl
 adfs.heerlen.nl
 adfs.hellendoorn.nl
 adfs.helmond.nl
+adfs.hhdelfland.nl
 adfs.hoorn.nl
 adfs.kerkrade.nl
 adfs.landgraaf.nl
@@ -1682,6 +1684,7 @@ apps.dijkenwaard.nl
 apps.gouda.nl
 apps.haarlemmermeer.nl
 apps.heemskerk.nl
+apps.hhdelfland.nl
 apps.hoogeveen.nl
 apps.katwijk.nl
 apps.nieuwkoop.nl
@@ -1971,6 +1974,7 @@ autodiscover.helmond.nl
 autodiscover.hengelo.nl
 autodiscover.heumen.nl
 autodiscover.heusden.nl
+autodiscover.hhdelfland.nl
 autodiscover.hillegom.nl
 autodiscover.hofvantwente.nl
 autodiscover.hoogeveen.nl
@@ -2370,6 +2374,7 @@ beeksapcontent.ovh.gemeentebeek.nl
 beeldbank-bo.baarn.nl
 beeldbank-bo.brabant.nl
 beeldbank-bo.goirle.nl
+beeldbank-bo.hhdelfland.nl
 beeldbank-bo.leeuwarden.nl
 beeldbank-bo.rotterdam.nl
 beeldbank-bo.zaanstad.nl
@@ -2386,6 +2391,7 @@ beeldbank.gemeentewestland.nl
 beeldbank.goirle.nl
 beeldbank.haarlemmermeer.nl
 beeldbank.hellendoorn.nl
+beeldbank.hhdelfland.nl
 beeldbank.landvancuijk.nl
 beeldbank.leeuwarden.nl
 beeldbank.leiden.nl
@@ -3118,14 +3124,17 @@ bureauncdr.nl
 bureauwsnp.nl
 buren.nl
 burgerloket.acceptatie.derondevenen.nl
+burgerloket.acceptatie.hhdelfland.nl
 burgerloket.acceptatie.ouder-amstel.nl
 burgerloket.acceptatie.overbetuwe.nl
 burgerloket.derondevenen.nl
 burgerloket.diemen.nl
 burgerloket.duiven.nl
+burgerloket.hhdelfland.nl
 burgerloket.ouder-amstel.nl
 burgerloket.overbetuwe.nl
 burgerloket.staging.overbetuwe.nl
+burgerloket.test.hhdelfland.nl
 burgerloket.uithoorn.nl
 burgerpanel.middendrenthe.nl
 burgerportaal.eijsden-margraten.nl
@@ -3440,6 +3449,7 @@ cms.defensie.nl
 cms.dordrecht.nl
 cms.dsta.nl
 cms.gemeentewestland.nl
+cms.hhdelfland.nl
 cms.openstad.deventer.nl
 cms.openstad.nijmegen.nl
 cms.rijksoverheid.nl
@@ -3608,6 +3618,7 @@ connect.acceptatie.drechterland.nl
 connect.acceptatie.gemeentebeek.nl
 connect.acceptatie.gemeentewestland.nl
 connect.acceptatie.goirle.nl
+connect.acceptatie.hhdelfland.nl
 connect.acceptatie.kerkrade.nl
 connect.acceptatie.oldenzaal.nl
 connect.acceptatie.overbetuwe.nl
@@ -3625,6 +3636,7 @@ connect.gemeentebeek.nl
 connect.gemeentewesterveld.nl
 connect.gemeentewestland.nl
 connect.goirle.nl
+connect.hhdelfland.nl
 connect.kerkrade.nl
 connect.oldenzaal.nl
 connect.overbetuwe.nl
@@ -4611,6 +4623,7 @@ dmidoffice.zwolle.nl
 dmo.omgevingswet.overheid.nl
 dmpfunc002.amsterdam.nl
 dms.heuvelrug.nl
+dms.hhdelfland.nl
 dmst.noordoostpolder.nl
 dmz-websrv.achtkarspelen.nl
 dmz003024.wierden.nl
@@ -4888,6 +4901,7 @@ e.doemee.gemeentewestland.nl
 e.doemee.zwolle.nl
 e.flevoland.nl
 e.haarlem.nl
+e.hhdelfland.nl
 e.hoogeveen.nl
 e.hoorn.nl
 e.leiden.nl
@@ -5239,6 +5253,8 @@ edison.utrecht.nl
 editor-drp-preprd.overheid.nl
 editor-drp.overheid.nl
 editorial.defensie.nl
+edocs.hhdelfland.nl
+edocstest.hhdelfland.nl
 educatieffestival.denhaag.nl
 eemnes.nl
 eemsdelta.groningen.nl
@@ -6150,6 +6166,7 @@ forms-test.druten.nl
 forms-test.wijchen.nl
 forms.deventer.nl
 forms.druten.nl
+forms.hhdelfland.nl
 forms.klopt.cibg.nl
 forms.vga.amsterdam.nl
 forms.wijchen.nl
@@ -6621,6 +6638,7 @@ geo.gemeentestein.nl
 geo.hardenberg.nl
 geo.harderwijk.nl
 geo.heerenveen.nl
+geo.hhdelfland.nl
 geo.hilversum.nl
 geo.horstaandemaas.nl
 geo.huizen.nl
@@ -6651,6 +6669,8 @@ geo1.arnhem.nl
 geo2.flevoland.nl
 geo3.flevoland.nl
 geoanalytics.haarlemmermeer.nl
+geoapps.hhdelfland.nl
+geoappstest.hhdelfland.nl
 geobasisregistraties.nl
 geobeheer.voorst.nl
 geobrowser.enschede.nl
@@ -6691,6 +6711,7 @@ geoportaal.brabant.nl
 geoportaal.enschede.nl
 geoportaal.gorinchem.nl
 geoportaal.haarlemmermeer.nl
+geoportaal.hhdelfland.nl
 geoportaal.katwijk.nl
 geoportaal.oss.nl
 geoportaal.test.oss.nl
@@ -6699,8 +6720,10 @@ geoportaal.wageningen.nl
 geoportaal.woerden.nl
 geoportaal.zoetermeer.nl
 geoportaal.zwolle.nl
+geoportaalhhd.hhdelfland.nl
 geoportaaltest.enschede.nl
 geoportaaltest.haarlemmermeer.nl
+geoportaaltest.hhdelfland.nl
 geoportal.weert.nl
 geoprdb.stadstoezicht.amsterdam.nl
 geoproxy.s-hertogenbosch.nl
@@ -6727,7 +6750,11 @@ geoservicestest.haarlemmermeer.nl
 geotest.arnhem.nl
 geotest.emmen.nl
 geotest.goirle.nl
+geotest.hhdelfland.nl
 geotest.sudwestfryslan.nl
+geoview.hhdelfland.nl
+geoviewerhhd.hhdelfland.nl
+geoviewhhd.hhdelfland.nl
 geovisia.achtkarspelen.nl
 geovisia.amersfoort.nl
 geovisia.gemeente-oldambt.nl
@@ -6999,6 +7026,8 @@ grofvuil.westvoorne.nl
 grondwater.dronten.nl
 grondwater.krimpenerwaard.nl
 grondwater.noordoostpolder.nl
+grondwaterportaal-a.hhdelfland.nl
+grondwaterportaal.hhdelfland.nl
 grondwaterstand.brabant.nl
 groningen.nl
 grooster.dalfsen.nl
@@ -7190,6 +7219,7 @@ heuvelrug.nl
 hgvexc1.hoogeveen.nl
 hgvmks1.hoogeveen.nl
 hh2015.groningen.nl
+hhdelfland.nl
 hier.groningen.nl
 hildebrandplein.denhaag.nl
 hillegom-checker-preprod.hillegom.nl
@@ -7919,6 +7949,7 @@ inlogef.utrecht.nl
 inloggen-acc.hoorn.nl
 inloggen-acceptatie.oldenzaal.nl
 inloggen-preprod.geertruidenberg.nl
+inloggen-preprod.hhdelfland.nl
 inloggen.belastingportaal.aaenhunze.nl
 inloggen.belastingportaal.acc.aaenhunze.nl
 inloggen.belastingportaal.acc.assen.nl
@@ -7931,6 +7962,7 @@ inloggen.geertruidenberg.nl
 inloggen.gemeenteberkelland.nl
 inloggen.gemeentewestland.nl
 inloggen.haarlemmermeer.nl
+inloggen.hhdelfland.nl
 inloggen.hoorn.nl
 inloggen.landgraaf.nl
 inloggen.meierijstad.nl
@@ -8563,6 +8595,7 @@ kennisbank.barneveld.nl
 kennisbank.bronckhorst.nl
 kennisbank.eindhoven.nl
 kennisbank.groningen.nl
+kennisbank.hhdelfland.nl
 kennisbank.logius.nl
 kennisbank.nijmegen.nl
 kennisbank.wijdemeren.nl
@@ -8968,6 +9001,7 @@ loket-acc.gemeentehulst.nl
 loket-acc.hdsr.nl
 loket-acc.leidschendam-voorburg.nl
 loket-ontw.gemeentehulst.nl
+loket-preprod.hhdelfland.nl
 loket.aaenhunze.nl
 loket.aalsmeer.nl
 loket.acceptatie.aaenhunze.nl
@@ -9028,6 +9062,7 @@ loket.hdsr.nl
 loket.heerde.nl
 loket.heerlen.nl
 loket.hellendoorn.nl
+loket.hhdelfland.nl
 loket.katwijk.nl
 loket.leeuwarden.nl
 loket.leidschendam-voorburg.nl
@@ -10241,6 +10276,7 @@ mobile.emmen.nl
 mobile.gemeentewestland.nl
 mobile.ggd.amsterdam.nl
 mobile.gilzerijen.nl
+mobile.hhdelfland.nl
 mobile.huizen.nl
 mobile.lochem.nl
 mobile.venlo.nl
@@ -10408,6 +10444,8 @@ mysite.belastingdienst.nl
 mysite.zwolle.nl
 mysites-conf.belastingdienst.nl
 mysites.belastingdienst.nl
+mysites.hhdelfland.nl
+mysitestest.hhdelfland.nl
 mysitetest.zwolle.nl
 mzdtest.bunnik.nl
 n1.auth.haarlem.nl
@@ -11174,6 +11212,7 @@ opendata.groeiennaarmorgen.nl
 opendata.hansken.nl
 opendata.healthcouncil.nl
 opendata.heemstede.nl
+opendata.hhdelfland.nl
 opendata.igj.nl
 opendata.nieuwsbrievenminocw.nl
 opendata.nijmegen.nl
@@ -12664,6 +12703,7 @@ radius.overbetuwe.nl
 radius.woerden.nl
 radius.zwolle.nl
 rads.rotterdam.nl
+rand.hhdelfland.nl
 rap.belastingdienst.nl
 rap.breda.nl
 rap.echt-susteren.nl
@@ -12764,6 +12804,7 @@ remote.gemeentesluis.nl
 remote.gemeentewestland.nl
 remote.gorinchem.nl
 remote.hethogeland.nl
+remote.hhdelfland.nl
 remote.hoorn.nl
 remote.kampen.nl
 remote.lochem.nl
@@ -12780,6 +12821,7 @@ remote.westvoorne.nl
 remote.winterswijk.nl
 remote.zaanstad.nl
 remote.zoetermeer.nl
+remotetest.hhdelfland.nl
 remotevoice.zaanstad.nl
 remotewerken.middendelfland.nl
 renkum.nl
@@ -13025,6 +13067,7 @@ samenmet.beesel.nl
 samenspel.goes.nl
 samenvattingbegroting2017.deventer.nl
 samenveiligwerken.alphenaandenrijn.nl
+samenveiligwerken.hhdelfland.nl
 samenveiligwerken.kaagenbraassem.nl
 samenwerken.brabant.nl
 samenwerken.groningen.nl
@@ -13034,6 +13077,10 @@ samenwerkentest.zwolle.nl
 samenwerking.tilburg.nl
 samenwerkingbelastingen-test.middelburg.nl
 samenwerkingbelastingen.middelburg.nl
+samenwerkingsportaal.hhdelfland.nl
+samenwerkingsportaalcms.hhdelfland.nl
+samenwerkingsportaalcmstest.hhdelfland.nl
+samenwerkingsportaaltest.hhdelfland.nl
 samenwerkportaal.pre.omgevingswet.overheid.nl
 samenwerkruimten-acc.belastingdienst.nl
 samenwerkruimten-conf.belastingdienst.nl
@@ -13121,6 +13168,7 @@ scim.deurne.nl
 scim.noordwijk.nl
 scoremodule.harderwijk.nl
 scorpio.assen.nl
+screenconnect.hhdelfland.nl
 scrum.sudwestfryslan.nl
 sd-zgw.acc.denhaag.nl
 sd-zgw.denhaag.nl
@@ -13796,6 +13844,7 @@ smtp.denhelder.nl
 smtp.dronten.nl
 smtp.gemeentebeek.nl
 smtp.heusden.nl
+smtp.hhdelfland.nl
 smtp.iba.amsterdam.nl
 smtp.lingewaard.nl
 smtp.moerdijk.nl
@@ -14157,6 +14206,8 @@ startformulier.brabant.nl
 startformuliertest.brabant.nl
 startportaal.belastingdienst.nl
 startportaal1.belastingdienst.nl
+startstopmelding-a.hhdelfland.nl
+startstopmelding.hhdelfland.nl
 stateninformatie.flevoland.nl
 static.acc.mijn.overheid.nl
 static.acc.picard.mijn.overheid.nl
@@ -14271,6 +14322,7 @@ sts.dronten.nl
 sts.eijsden-margraten.nl
 sts.gemeentestein.nl
 sts.haarlemmermeer.nl
+sts.hhdelfland.nl
 sts.horstaandemaas.nl
 sts.koop.overheid.nl
 sts.lopik.nl
@@ -14517,8 +14569,10 @@ te205vcciw12.dmzota.ont.belastingdienst.nl
 te205vcciw12f.dmzota.ont.belastingdienst.nl
 tea.bigregister.nl
 teamplan.huizen.nl
+teams.hhdelfland.nl
 teams.nijkerk.eu
 teams.zwolle.nl
+teamstest.hhdelfland.nl
 techniek.landvancuijk.nl
 tekortkomingen-wvggz.webservices-dbb-acc.igj.nl
 tekortkomingen-wvggz.webservices-dbb.igj.nl
@@ -14545,6 +14599,7 @@ telewerken.drechterland.nl
 telewerken.gemeentemaashorst.nl
 telewerken.haarlemmermeer.nl
 telewerken.hellevoetsluis.nl
+telewerken.hhdelfland.nl
 telewerken.kampen.nl
 telewerken.nederbetuwe.nl
 telewerken.stichtsevecht.nl
@@ -14979,6 +15034,7 @@ testmijnzaken.schagen.nl
 testmks.veere.nl
 testmonitorwonen.flevoland.nl
 testnhr.sudwestfryslan.nl
+testopendata.hhdelfland.nl
 testparkeren.goes.nl
 testpki.utrecht.nl
 testplannen.katwijk.nl
@@ -15853,9 +15909,12 @@ waterberging.valkenswaard.nl
 waterkwaliteitinbeeld.hdsr.nl
 waterland.nl
 waterloket.urk.nl
+watertoetsportaal-a.hhdelfland.nl
+watertoetsportaal.hhdelfland.nl
 waterweb.waterland.nl
 watten.groningen.nl
 wbakaart.amsterdam.nl
+wbp6.hhdelfland.nl
 wbs003.assen.nl
 wbs004.assen.nl
 wbxbotserver.belastingdienst.nl
@@ -16405,6 +16464,7 @@ wion.woensdrecht.nl
 wionklic.leudal.nl
 wise-accept.bibliotheek.rotterdam.nl
 wise-web.bibliotheek.rotterdam.nl
+wist-fpi.hhdelfland.nl
 witgoed.middendrenthe.nl
 wiz-aanvragen.zaanstad.nl
 wiz.zaanstad.nl
@@ -16490,6 +16550,7 @@ wordpress-zgw.test.denhaag.nl
 workdrive.rucphen.nl
 workforce.nissewaard.nl
 workspace-rds.gemeentesluis.nl
+workspace.hhdelfland.nl
 workspace365.almelo.nl
 wormerland.nl
 woudenberg.nl
@@ -17183,6 +17244,7 @@ www.heusden.nl
 www.heuvelrug.nl
 www.hgm.denhaag.nl
 www.hh2015.groningen.nl
+www.hhdelfland.nl
 www.hier.groningen.nl
 www.hildebrandplein.denhaag.nl
 www.hillegom.nl
