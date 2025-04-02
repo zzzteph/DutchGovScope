@@ -273,6 +273,7 @@ https://collegevanrijksadviseurs.nl
 https://comcms.logius.nl
 https://commissiecelz.nl
 https://commissiemijnbouwschade.nl
+https://commissievanaanbestedingsexperts.nl
 https://community.developer.overheid.nl
 https://componenten-acc.overheid.nl
 https://componenten-tst.overheid.nl
@@ -412,6 +413,7 @@ https://feeds.codexalimentarius.nl
 https://feeds.collegevanrijksadviseurs.nl
 https://feeds.commissiecelz.nl
 https://feeds.commissiemijnbouwschade.nl
+https://feeds.commissievanaanbestedingsexperts.nl
 https://feeds.english.aivd.nl
 https://feeds.english.autoriteitnvs.nl
 https://feeds.english.belastingdienst-cn.nl
@@ -625,6 +627,7 @@ https://opendata.codexalimentarius.nl
 https://opendata.collegevanrijksadviseurs.nl
 https://opendata.commissiecelz.nl
 https://opendata.commissiemijnbouwschade.nl
+https://opendata.commissievanaanbestedingsexperts.nl
 https://opendata.english.aivd.nl
 https://opendata.english.autoriteitnvs.nl
 https://opendata.english.belastingdienst-cn.nl
@@ -941,6 +944,7 @@ https://www.codexalimentarius.nl
 https://www.collegevanrijksadviseurs.nl
 https://www.commissiecelz.nl
 https://www.commissiemijnbouwschade.nl
+https://www.commissievanaanbestedingsexperts.nl
 https://www.dataportaal.brabant.nl
 https://www.dmo.omgevingswet.overheid.nl
 https://www.enabling.omgevingswet.overheid.nl
