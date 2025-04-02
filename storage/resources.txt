@@ -4028,6 +4028,7 @@ deurne.nl
 deurwaarderportaal.leeuwarden.nl
 deurwaardersloket.amersfoort.nl
 deurwaardersloketws.sozawe.rotterdam.nl
+deutsch.postedworkers.nl
 dev-apps.haarlemmermeer.nl
 dev-formulieren.haarlemmermeer.nl
 dev.rnd.amsterdam.nl
@@ -5650,6 +5651,7 @@ feeds.dcc-ienw.nl
 feeds.defensie.nl
 feeds.deltaprogramma.nl
 feeds.denkdoeduurzaam.nl
+feeds.deutsch.postedworkers.nl
 feeds.english.aivd.nl
 feeds.english.autoriteitnvs.nl
 feeds.english.belastingdienst-cn.nl
@@ -10810,6 +10812,7 @@ opendata.dcc-ienw.nl
 opendata.defensie.nl
 opendata.deltaprogramma.nl
 opendata.denkdoeduurzaam.nl
+opendata.deutsch.postedworkers.nl
 opendata.english.aivd.nl
 opendata.english.autoriteitnvs.nl
 opendata.english.belastingdienst-cn.nl
