@@ -363,6 +363,7 @@ https://digicheck.brabant.nl
 https://digid-stub.lpc.mijn.overheid.nl
 https://digilab.overheid.nl
 https://digitaalstelselmobiliteitsdata.nl
+https://dihoo.eu
 https://dmo.omgevingswet.overheid.nl
 https://doculoket-acc.overheid.nl
 https://doculoket.overheid.nl
@@ -503,6 +504,7 @@ https://feeds.dezi.nl
 https://feeds.dggf.nl
 https://feeds.dienstterugkeerenvertrek.nl
 https://feeds.digitaalstelselmobiliteitsdata.nl
+https://feeds.dihoo.eu
 https://feeds.english.aivd.nl
 https://feeds.english.autoriteitnvs.nl
 https://feeds.english.belastingdienst-cn.nl
@@ -770,6 +772,7 @@ https://opendata.dezi.nl
 https://opendata.dggf.nl
 https://opendata.dienstterugkeerenvertrek.nl
 https://opendata.digitaalstelselmobiliteitsdata.nl
+https://opendata.dihoo.eu
 https://opendata.english.aivd.nl
 https://opendata.english.autoriteitnvs.nl
 https://opendata.english.belastingdienst-cn.nl
@@ -1137,6 +1140,7 @@ https://www.dggf.nl
 https://www.dienstterugkeerenvertrek.nl
 https://www.diergeneesmiddeleninformatiebank.nl
 https://www.digitaalstelselmobiliteitsdata.nl
+https://www.dihoo.eu
 https://www.dmo.omgevingswet.overheid.nl
 https://www.enabling.omgevingswet.overheid.nl
 https://www.igj.nl

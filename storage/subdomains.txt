@@ -18,8 +18,8 @@ secure
 acceptatie
 opendata
 felix
-probeer
 feeds
+probeer
 loket
 formulieren
 test

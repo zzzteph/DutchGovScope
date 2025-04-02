@@ -730,6 +730,7 @@ digipoort-wus.belastingdienst.nl
 digitaalstelselmobiliteitsdata.nl
 digitaalvergaderen.belastingdienst.nl
 digitaalvergaderen.ont.belastingdienst.nl
+dihoo.eu
 dmo.omgevingswet.overheid.nl
 dns-fw1.rijksoverheid.nl
 dns-fw4.rijksoverheid.nl
@@ -940,6 +941,7 @@ feeds.dezi.nl
 feeds.dggf.nl
 feeds.dienstterugkeerenvertrek.nl
 feeds.digitaalstelselmobiliteitsdata.nl
+feeds.dihoo.eu
 feeds.english.aivd.nl
 feeds.english.autoriteitnvs.nl
 feeds.english.belastingdienst-cn.nl
@@ -1631,6 +1633,7 @@ opendata.dezi.nl
 opendata.dggf.nl
 opendata.dienstterugkeerenvertrek.nl
 opendata.digitaalstelselmobiliteitsdata.nl
+opendata.dihoo.eu
 opendata.english.aivd.nl
 opendata.english.autoriteitnvs.nl
 opendata.english.belastingdienst-cn.nl
@@ -2462,6 +2465,7 @@ www.dggf.nl
 www.dienstterugkeerenvertrek.nl
 www.diergeneesmiddeleninformatiebank.nl
 www.digitaalstelselmobiliteitsdata.nl
+www.dihoo.eu
 www.dmo.omgevingswet.overheid.nl
 www.enabling.omgevingswet.overheid.nl
 www.gtmx.acc.belastingdienst.nl

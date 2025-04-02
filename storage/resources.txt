@@ -4345,6 +4345,7 @@ digitaleplannen.ommen.nl
 digitaletweeling.alkmaar.nl
 digitestsrvr.gorinchem.nl
 digiwap.rotterdam.nl
+dihoo.eu
 dijkenwaard.nl
 diko.apeldoorn.nl
 dinkelland.nl
@@ -5673,6 +5674,7 @@ feeds.dezi.nl
 feeds.dggf.nl
 feeds.dienstterugkeerenvertrek.nl
 feeds.digitaalstelselmobiliteitsdata.nl
+feeds.dihoo.eu
 feeds.english.aivd.nl
 feeds.english.autoriteitnvs.nl
 feeds.english.belastingdienst-cn.nl
@@ -10840,6 +10842,7 @@ opendata.dezi.nl
 opendata.dggf.nl
 opendata.dienstterugkeerenvertrek.nl
 opendata.digitaalstelselmobiliteitsdata.nl
+opendata.dihoo.eu
 opendata.english.aivd.nl
 opendata.english.autoriteitnvs.nl
 opendata.english.belastingdienst-cn.nl
@@ -16519,6 +16522,7 @@ www.digikoppeling-test.gemeentehulst.nl
 www.digikoppeling.gemeentehulst.nl
 www.digitaalfotoarchief.oegstgeest.nl
 www.digitaalstelselmobiliteitsdata.nl
+www.dihoo.eu
 www.dijkenwaard.nl
 www.dinkelland.nl
 www.directduidelijk.openstad.enschede.nl

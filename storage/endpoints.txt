@@ -2761,6 +2761,7 @@ https://digitalebelastingbalie.texel.nl
 https://digitalebelastingbalie.vlieland.nl
 https://digitaleplannen.apeldoorn.nl
 https://digiwap.rotterdam.nl
+https://dihoo.eu
 https://dijkenwaard.nl
 https://dinkelland.nl
 https://directadmin.almelo.nl
@@ -3623,6 +3624,7 @@ https://feeds.dezi.nl
 https://feeds.dggf.nl
 https://feeds.dienstterugkeerenvertrek.nl
 https://feeds.digitaalstelselmobiliteitsdata.nl
+https://feeds.dihoo.eu
 https://feeds.english.aivd.nl
 https://feeds.english.autoriteitnvs.nl
 https://feeds.english.belastingdienst-cn.nl
@@ -6314,6 +6316,7 @@ https://opendata.dezi.nl
 https://opendata.dggf.nl
 https://opendata.dienstterugkeerenvertrek.nl
 https://opendata.digitaalstelselmobiliteitsdata.nl
+https://opendata.dihoo.eu
 https://opendata.english.aivd.nl
 https://opendata.english.autoriteitnvs.nl
 https://opendata.english.belastingdienst-cn.nl
@@ -9095,6 +9098,7 @@ https://www.dienstterugkeerenvertrek.nl
 https://www.diergeneesmiddeleninformatiebank.nl
 https://www.digitaalfotoarchief.oegstgeest.nl
 https://www.digitaalstelselmobiliteitsdata.nl
+https://www.dihoo.eu
 https://www.dijkenwaard.nl
 https://www.dinkelland.nl
 https://www.directduidelijk.openstad.enschede.nl
