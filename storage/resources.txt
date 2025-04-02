@@ -156,6 +156,7 @@ a-feeds.dus-i.nl
 a-feeds.dwangindezorg.nl
 a-feeds.forensicinstitute.nl
 a-feeds.forensischinstituut.nl
+a-feeds.geobasisregistraties.nl
 a-feeds.igj.nl
 a-feeds.rijksoverheid.nl
 a-git.rijksoverheid.nl
@@ -195,6 +196,7 @@ a-opendata.dus-i.nl
 a-opendata.dwangindezorg.nl
 a-opendata.forensicinstitute.nl
 a-opendata.forensischinstituut.nl
+a-opendata.geobasisregistraties.nl
 a-opendata.igj.nl
 a-opendata.rijksoverheid.nl
 a-p-ddi-0003.leeuwarden.nl
@@ -233,6 +235,7 @@ a-www.dus-i.nl
 a-www.dwangindezorg.nl
 a-www.forensicinstitute.nl
 a-www.forensischinstituut.nl
+a-www.geobasisregistraties.nl
 a-www.igj.nl
 a-www.rijksoverheid.nl
 a2b-rtr.alkmaar.nl
@@ -5827,6 +5830,7 @@ feeds.forensicinstitute.nl
 feeds.forensischezorg.nl
 feeds.forensischinstituut.nl
 feeds.gelijke-kansen.nl
+feeds.geobasisregistraties.nl
 feeds.igj.nl
 feeds.nieuwsbrievenminocw.nl
 feeds.papiamentu.belastingdienst-cn.nl
@@ -6610,6 +6614,7 @@ geo1.arnhem.nl
 geo2.flevoland.nl
 geo3.flevoland.nl
 geoanalytics.haarlemmermeer.nl
+geobasisregistraties.nl
 geobeheer.voorst.nl
 geobrowser.enschede.nl
 geocatalogus.haarlemmermeer.nl
@@ -11096,6 +11101,7 @@ opendata.forensicinstitute.nl
 opendata.forensischezorg.nl
 opendata.forensischinstituut.nl
 opendata.gelijke-kansen.nl
+opendata.geobasisregistraties.nl
 opendata.heemstede.nl
 opendata.igj.nl
 opendata.nieuwsbrievenminocw.nl
@@ -16992,6 +16998,7 @@ www.gennep.nl
 www.geo.arnhem.nl
 www.geo.renkum.nl
 www.geoanalytics.haarlemmermeer.nl
+www.geobasisregistraties.nl
 www.geobrowser.enschede.nl
 www.geocatalogus.haarlemmermeer.nl
 www.geoportaal.haarlemmermeer.nl

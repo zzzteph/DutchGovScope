@@ -634,6 +634,7 @@ https://feeds.forensicinstitute.nl
 https://feeds.forensischezorg.nl
 https://feeds.forensischinstituut.nl
 https://feeds.gelijke-kansen.nl
+https://feeds.geobasisregistraties.nl
 https://feeds.igj.nl
 https://feeds.nieuwsbrievenminocw.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
@@ -678,6 +679,7 @@ https://generiekefuncties.datavoorgezondheid.nl
 https://gensys.flevoland.nl
 https://geo.flevoland.nl
 https://geo3.flevoland.nl
+https://geobasisregistraties.nl
 https://geodiensten.flevoland.nl
 https://geoportaal-acceptatie.brabant.nl
 https://geoportaal.brabant.nl
@@ -981,6 +983,7 @@ https://opendata.forensicinstitute.nl
 https://opendata.forensischezorg.nl
 https://opendata.forensischinstituut.nl
 https://opendata.gelijke-kansen.nl
+https://opendata.geobasisregistraties.nl
 https://opendata.igj.nl
 https://opendata.nieuwsbrievenminocw.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
@@ -1401,6 +1404,7 @@ https://www.forensischezorg.nl
 https://www.forensischinstituut.nl
 https://www.gelijke-kansen.nl
 https://www.geneesmiddeleninformatiebank.nl
+https://www.geobasisregistraties.nl
 https://www.hetverhaalvan.flevoland.nl
 https://www.igj.nl
 https://www.int.omgevingswet.overheid.nl

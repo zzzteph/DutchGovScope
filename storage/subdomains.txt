@@ -71,14 +71,14 @@ omgevingsvisie
 beeldbank
 cloudadapter-test
 digikoppeling-test
+a-www
 formulier
 kaart
 flowmailer-tracking
-a-www
-hybrid
-zaken
 a-feeds
 a-opendata
+hybrid
+zaken
 kaarten
 feeds.english
 opendata.english
