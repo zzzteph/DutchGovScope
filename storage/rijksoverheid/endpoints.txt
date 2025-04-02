@@ -344,6 +344,7 @@ https://defensie.nl
 https://delta.belastingdienst.nl
 https://deltaprogramma.nl
 https://demo-systemteam.overheid.nl
+https://denkdoeduurzaam.nl
 https://designsystem.cibg.nl
 https://desktop.klopt.cibg.nl
 https://developer.omgevingswet.overheid.nl
@@ -484,6 +485,7 @@ https://feeds.datavoorgezondheid.nl
 https://feeds.dcc-ienw.nl
 https://feeds.defensie.nl
 https://feeds.deltaprogramma.nl
+https://feeds.denkdoeduurzaam.nl
 https://feeds.english.aivd.nl
 https://feeds.english.autoriteitnvs.nl
 https://feeds.english.belastingdienst-cn.nl
@@ -743,6 +745,7 @@ https://opendata.datavoorgezondheid.nl
 https://opendata.dcc-ienw.nl
 https://opendata.defensie.nl
 https://opendata.deltaprogramma.nl
+https://opendata.denkdoeduurzaam.nl
 https://opendata.english.aivd.nl
 https://opendata.english.autoriteitnvs.nl
 https://opendata.english.belastingdienst-cn.nl
@@ -1101,6 +1104,7 @@ https://www.datavoorgezondheid.nl
 https://www.dcc-ienw.nl
 https://www.defensie.nl
 https://www.deltaprogramma.nl
+https://www.denkdoeduurzaam.nl
 https://www.dmo.omgevingswet.overheid.nl
 https://www.enabling.omgevingswet.overheid.nl
 https://www.igj.nl

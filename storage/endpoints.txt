@@ -2661,6 +2661,7 @@ https://denhaag.nl
 https://denhaagfietst-acc.denhaag.nl
 https://denhaagfietst.denhaag.nl
 https://denhelder.nl
+https://denkdoeduurzaam.nl
 https://denkmee.achtkarspelen.nl
 https://denkmee.amstelveen.nl
 https://denkmee.beverwijk.nl
@@ -3604,6 +3605,7 @@ https://feeds.datavoorgezondheid.nl
 https://feeds.dcc-ienw.nl
 https://feeds.defensie.nl
 https://feeds.deltaprogramma.nl
+https://feeds.denkdoeduurzaam.nl
 https://feeds.english.aivd.nl
 https://feeds.english.autoriteitnvs.nl
 https://feeds.english.belastingdienst-cn.nl
@@ -6287,6 +6289,7 @@ https://opendata.datavoorgezondheid.nl
 https://opendata.dcc-ienw.nl
 https://opendata.defensie.nl
 https://opendata.deltaprogramma.nl
+https://opendata.denkdoeduurzaam.nl
 https://opendata.english.aivd.nl
 https://opendata.english.autoriteitnvs.nl
 https://opendata.english.belastingdienst-cn.nl
@@ -9052,6 +9055,7 @@ https://www.denhaag.nl
 https://www.denhaagfietst-acc.denhaag.nl
 https://www.denhaagfietst.denhaag.nl
 https://www.denhelder.nl
+https://www.denkdoeduurzaam.nl
 https://www.derondevenen.nl
 https://www.destemvan.groningen.nl
 https://www.deventer.nl
