@@ -69,8 +69,8 @@ openpub
 omgevingsvisie
 beeldbank
 cloudadapter-test
-digikoppeling-test
 english
+digikoppeling-test
 formulier
 flowmailer-tracking
 hybrid
@@ -90,14 +90,14 @@ mks
 cmsintranet
 test-intranet
 dtestloket
+feeds.english
+opendata.english
 portaal
 parkeren-test
 piwik
 acc-broker
 belastingloket
 doemee
-feeds.english
-opendata.english
 denkmee
 osbacc
 extranet
