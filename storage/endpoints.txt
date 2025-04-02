@@ -2752,6 +2752,7 @@ https://digitaal.sudwestfryslan.nl
 https://digitaalerfgoed.almere.nl
 https://digitaalgemeenteloket.alphenaandenrijn.nl
 https://digitaalgemeenteloket.kaagenbraassem.nl
+https://digitaalstelselmobiliteitsdata.nl
 https://digitaalvergaderen.soest.nl
 https://digitalebalie.rotterdam.nl
 https://digitalebelastingbalie-test.texel.nl
@@ -3621,6 +3622,7 @@ https://feeds.deutsch.postedworkers.nl
 https://feeds.dezi.nl
 https://feeds.dggf.nl
 https://feeds.dienstterugkeerenvertrek.nl
+https://feeds.digitaalstelselmobiliteitsdata.nl
 https://feeds.english.aivd.nl
 https://feeds.english.autoriteitnvs.nl
 https://feeds.english.belastingdienst-cn.nl
@@ -6311,6 +6313,7 @@ https://opendata.deutsch.postedworkers.nl
 https://opendata.dezi.nl
 https://opendata.dggf.nl
 https://opendata.dienstterugkeerenvertrek.nl
+https://opendata.digitaalstelselmobiliteitsdata.nl
 https://opendata.english.aivd.nl
 https://opendata.english.autoriteitnvs.nl
 https://opendata.english.belastingdienst-cn.nl
@@ -9091,6 +9094,7 @@ https://www.diemen.nl
 https://www.dienstterugkeerenvertrek.nl
 https://www.diergeneesmiddeleninformatiebank.nl
 https://www.digitaalfotoarchief.oegstgeest.nl
+https://www.digitaalstelselmobiliteitsdata.nl
 https://www.dijkenwaard.nl
 https://www.dinkelland.nl
 https://www.directduidelijk.openstad.enschede.nl

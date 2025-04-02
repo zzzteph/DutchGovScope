@@ -4326,6 +4326,7 @@ digitaalloket.landgraaf.nl
 digitaalnachtregister.alphen-chaam.nl
 digitaalnachtregister.baarle-nassau.nl
 digitaalnachtregister.gilzerijen.nl
+digitaalstelselmobiliteitsdata.nl
 digitaalvergaderen.belastingdienst.nl
 digitaalvergaderen.ont.belastingdienst.nl
 digitaalvergaderen.soest.nl
@@ -5671,6 +5672,7 @@ feeds.deutsch.postedworkers.nl
 feeds.dezi.nl
 feeds.dggf.nl
 feeds.dienstterugkeerenvertrek.nl
+feeds.digitaalstelselmobiliteitsdata.nl
 feeds.english.aivd.nl
 feeds.english.autoriteitnvs.nl
 feeds.english.belastingdienst-cn.nl
@@ -10837,6 +10839,7 @@ opendata.deutsch.postedworkers.nl
 opendata.dezi.nl
 opendata.dggf.nl
 opendata.dienstterugkeerenvertrek.nl
+opendata.digitaalstelselmobiliteitsdata.nl
 opendata.english.aivd.nl
 opendata.english.autoriteitnvs.nl
 opendata.english.belastingdienst-cn.nl
@@ -16515,6 +16518,7 @@ www.diergeneesmiddeleninformatiebank.nl
 www.digikoppeling-test.gemeentehulst.nl
 www.digikoppeling.gemeentehulst.nl
 www.digitaalfotoarchief.oegstgeest.nl
+www.digitaalstelselmobiliteitsdata.nl
 www.dijkenwaard.nl
 www.dinkelland.nl
 www.directduidelijk.openstad.enschede.nl
