@@ -5,8 +5,8 @@ iburgerzaken
 ibzpink
 opendata
 edienstenburgerzaken
-edienstenburgerzaken-test
 feeds
+edienstenburgerzaken-test
 intranet
 mijn
 mail
@@ -65,13 +65,13 @@ meldingen-acc
 openpdc
 belastingbalie
 cmsoo
+a-feeds
+a-opendata
 login
 beeldbank
 loket.acceptatie
 openpub
 omgevingsvisie
-a-feeds
-a-opendata
 digikoppeling-test
 cloudadapter-test
 formulier
@@ -89,11 +89,11 @@ cmsintranet
 test-intranet
 berichten
 parkeren-acc
+magazines
 govroam
 digikoppeling.test
 mks
 dtestloket
-magazines
 denkmee
 osbacc
 test-cmsintranet
@@ -152,6 +152,7 @@ lyncdiscover
 email
 geoportaal
 AutoDiscover
+zaaksysteem
 gisib
 izaaksuite
 subsidies
@@ -173,7 +174,6 @@ fs
 mta-sts
 maps
 legacy
-zaaksysteem
 mobile
 belastingportaal
 openzaak
@@ -561,9 +561,11 @@ begroting2020
 kantoor
 redactie
 www1
+zaaksysteem-acc
 geoportaaltest
 samenveiligwerken
 teams
+jip
 belastingportaal.acc
 inloggen.belastingportaal
 inloggen.belastingportaal.acc
@@ -870,7 +872,6 @@ preprodformulieren
 academy
 fme
 wsus
-zaaksysteem-acc
 dms
 inloggen-preprod
 pkioverheid
@@ -1224,7 +1225,6 @@ pip-preproductie
 telefoon
 Cloudadapter-test
 cmsjip
-jip
 keyhub
 test-jip
 communicatie
@@ -3285,6 +3285,7 @@ sasbi
 staging.meldingen
 stc
 wio
+meldpuntwki
 email.mail.participatie
 mail.participatie
 aalten-checker-preprod

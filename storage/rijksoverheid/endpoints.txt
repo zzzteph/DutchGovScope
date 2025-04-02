@@ -685,6 +685,7 @@ https://feeds.ikvermoedhuiselijkgeweld.nl
 https://feeds.ilent.nl
 https://feeds.informatieanalyseteam.nl
 https://feeds.informatiehuishouding.nl
+https://feeds.inspectie-jenv.nl
 https://feeds.nieuwsbrievenminocw.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.persberichten.rijksoverheid.nl
@@ -801,6 +802,7 @@ https://informatiepuntkinderopvangtoeslag.rijksoverheid.nl
 https://inloggen-preprod.hhdelfland.nl
 https://inloggen.hhdelfland.nl
 https://inspecteur.ilent.nl
+https://inspectie-jenv.nl
 https://instroom.belastingdienst.nl
 https://int.omgevingswet.overheid.nl
 https://int02.omgevingswet.overheid.nl
@@ -823,6 +825,7 @@ https://intranet.dji.nl
 https://intranet.flevoland.nl
 https://jaarverslag2017.flevoland.nl
 https://jaarverslag2018.flevoland.nl
+https://jip.inspectie-jenv.nl
 https://jobs.werkenvoornederland.nl
 https://kaart.flevoland.nl
 https://kaartbank.brabant.nl
@@ -901,6 +904,7 @@ https://meet.aaenmaas.nl
 https://meldingen.atkm.nl
 https://meldingen.ilent.nl
 https://meldingen.klopt.cibg.nl
+https://meldpuntwki.inspectie-jenv.nl
 https://metelkaartrekkenwedegrens.nl
 https://mgt.flevoland.nl
 https://micollab.flevoland.nl
@@ -1107,6 +1111,7 @@ https://opendata.ikvermoedhuiselijkgeweld.nl
 https://opendata.ilent.nl
 https://opendata.informatieanalyseteam.nl
 https://opendata.informatiehuishouding.nl
+https://opendata.inspectie-jenv.nl
 https://opendata.nieuwsbrievenminocw.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.persberichten.rijksoverheid.nl
@@ -1584,6 +1589,7 @@ https://www.ilent.nl
 https://www.infomilcn.com
 https://www.informatieanalyseteam.nl
 https://www.informatiehuishouding.nl
+https://www.inspectie-jenv.nl
 https://www.int.omgevingswet.overheid.nl
 https://www.int02.omgevingswet.overheid.nl
 https://www.int12.omgevingswet.overheid.nl
@@ -1622,8 +1628,10 @@ https://wwwrijksacademienl.belastingdienst.nl
 https://xential-acpt.brabant.nl
 https://xential.brabant.nl
 https://zaaksysteem-acc.hdsr.nl
+https://zaaksysteem-acc.inspectie-jenv.nl
 https://zaaksysteem-accept.huurcommissie.nl
 https://zaaksysteem.hdsr.nl
+https://zaaksysteem.inspectie-jenv.nl
 https://zoekdienst.overheid.nl
 https://zoekeentolkvertaler.bureauwbtv.nl
 https://zoeken.bigregister.nl

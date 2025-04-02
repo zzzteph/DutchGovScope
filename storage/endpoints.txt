@@ -3805,6 +3805,7 @@ https://feeds.ikvermoedhuiselijkgeweld.nl
 https://feeds.ilent.nl
 https://feeds.informatieanalyseteam.nl
 https://feeds.informatiehuishouding.nl
+https://feeds.inspectie-jenv.nl
 https://feeds.nieuwsbrievenminocw.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.persberichten.rijksoverheid.nl
@@ -4868,6 +4869,7 @@ https://inproces.winterswijk.nl
 https://insite.nijmegen.nl
 https://insite.oisterwijk.nl
 https://inspecteur.ilent.nl
+https://inspectie-jenv.nl
 https://instroom.belastingdienst.nl
 https://int.omgevingswet.overheid.nl
 https://int02.omgevingswet.overheid.nl
@@ -5074,6 +5076,7 @@ https://jeugdplein.veendam.nl
 https://jf.doemee.heemstede.nl
 https://jijmaaktdebuurt.openstad.enschede.nl
 https://jip.hofvantwente.nl
+https://jip.inspectie-jenv.nl
 https://jip.vijfheerenlanden.nl
 https://jmg.acc.nijmegen.nl
 https://jmh.acc.nijmegen.nl
@@ -5720,6 +5723,7 @@ https://meldingenkust.acc.denhaag.nl
 https://meldingenkust.denhaag.nl
 https://meldingenweesp.amsterdam.nl
 https://meldpuntondermijning.rotterdam.nl
+https://meldpuntwki.inspectie-jenv.nl
 https://meldpuntzorgenomeenander.rotterdam.nl
 https://meldpuntzorgsignalen.rotterdam.nl
 https://meldr.rotterdam.nl
@@ -6652,6 +6656,7 @@ https://opendata.ikvermoedhuiselijkgeweld.nl
 https://opendata.ilent.nl
 https://opendata.informatieanalyseteam.nl
 https://opendata.informatiehuishouding.nl
+https://opendata.inspectie-jenv.nl
 https://opendata.nieuwsbrievenminocw.nl
 https://opendata.nijmegen.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
@@ -9689,6 +9694,7 @@ https://www.informatieanalyseteam.nl
 https://www.informatiehuishouding.nl
 https://www.ingesprek.denhelder.nl
 https://www.inkomensondersteuning.nijmegen.nl
+https://www.inspectie-jenv.nl
 https://www.int.omgevingswet.overheid.nl
 https://www.int02.omgevingswet.overheid.nl
 https://www.int12.omgevingswet.overheid.nl
@@ -10091,6 +10097,7 @@ https://zaakloket.schiermonnikoog.nl
 https://zaakloket.terschelling.nl
 https://zaakloket.vlieland.nl
 https://zaaksysteem-acc.hdsr.nl
+https://zaaksysteem-acc.inspectie-jenv.nl
 https://zaaksysteem-acc.meppel.nl
 https://zaaksysteem-accept.alkmaar.nl
 https://zaaksysteem-accept.baarn.nl
@@ -10135,6 +10142,7 @@ https://zaaksysteem.acc.utrecht.nl
 https://zaaksysteem.ede.nl
 https://zaaksysteem.hdsr.nl
 https://zaaksysteem.hilversum.nl
+https://zaaksysteem.inspectie-jenv.nl
 https://zaaksysteem.maassluis.nl
 https://zaaksysteem.meppel.nl
 https://zaaksysteem.migratie.utrecht.nl
