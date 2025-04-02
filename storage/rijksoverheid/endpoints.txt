@@ -628,6 +628,7 @@ https://feeds.excellentescholen.nl
 https://feeds.expertisecentrummggz.nl
 https://feeds.farmatec.nl
 https://feeds.fmhaaglanden.nl
+https://feeds.forensicinstitute.nl
 https://feeds.igj.nl
 https://feeds.nieuwsbrievenminocw.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
@@ -646,6 +647,7 @@ https://filetransfer.ont.belastingdienst.nl
 https://flevoland.nl
 https://fmis.acc.belastingdienst.nl
 https://fmis.belastingdienst.nl
+https://forensicinstitute.nl
 https://forms.klopt.cibg.nl
 https://formulier.cultureelerfgoed.nl
 https://formulier.emissieautoriteit.nl
@@ -965,6 +967,7 @@ https://opendata.excellentescholen.nl
 https://opendata.expertisecentrummggz.nl
 https://opendata.farmatec.nl
 https://opendata.fmhaaglanden.nl
+https://opendata.forensicinstitute.nl
 https://opendata.igj.nl
 https://opendata.nieuwsbrievenminocw.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
@@ -1380,6 +1383,7 @@ https://www.expertisecentrummggz.nl
 https://www.farmatec.nl
 https://www.flevoland.nl
 https://www.fmhaaglanden.nl
+https://www.forensicinstitute.nl
 https://www.hetverhaalvan.flevoland.nl
 https://www.igj.nl
 https://www.int.omgevingswet.overheid.nl

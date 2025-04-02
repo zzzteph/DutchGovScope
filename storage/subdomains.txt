@@ -7,10 +7,10 @@ edienstenburgerzaken
 edienstenburgerzaken-test
 intranet
 mijn
-webmail
 mail
-simsite
+webmail
 opendata
+simsite
 afspraken
 digikoppeling
 feeds
@@ -76,13 +76,13 @@ kaart
 flowmailer-tracking
 hybrid
 zaken
-kaarten
 a-www
+kaarten
+a-feeds
+a-opendata
 feeds.english
 opendata.english
 cloudadapter
-a-feeds
-a-opendata
 connect
 cmsintranet
 test-intranet
@@ -3182,6 +3182,7 @@ www.hetverhaalvan
 www.jaarverslag2018
 www.omgevingsplan
 www.risicokaart
+academy
 email.mail.participatie
 mail.participatie
 aalten-checker-preprod

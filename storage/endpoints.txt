@@ -3748,6 +3748,7 @@ https://feeds.excellentescholen.nl
 https://feeds.expertisecentrummggz.nl
 https://feeds.farmatec.nl
 https://feeds.fmhaaglanden.nl
+https://feeds.forensicinstitute.nl
 https://feeds.igj.nl
 https://feeds.nieuwsbrievenminocw.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
@@ -3896,6 +3897,7 @@ https://focus.acc.amsterdam.nl
 https://focus.amsterdam.nl
 https://focus.tst.amsterdam.nl
 https://followyourdreams.denhaag.nl
+https://forensicinstitute.nl
 https://form-gemeenteloket.gemeentemaastricht.nl
 https://form.denhaag.nl
 https://form.sudwestfryslan.nl
@@ -6509,6 +6511,7 @@ https://opendata.excellentescholen.nl
 https://opendata.expertisecentrummggz.nl
 https://opendata.farmatec.nl
 https://opendata.fmhaaglanden.nl
+https://opendata.forensicinstitute.nl
 https://opendata.heemstede.nl
 https://opendata.igj.nl
 https://opendata.nieuwsbrievenminocw.nl
@@ -9394,6 +9397,7 @@ https://www.fit.venlo.nl
 https://www.flevoland.nl
 https://www.fmhaaglanden.nl
 https://www.followyourdreams.denhaag.nl
+https://www.forensicinstitute.nl
 https://www.gebouwdin.amsterdam.nl
 https://www.geertruidenberg.nl
 https://www.geldloket.emmen.nl
