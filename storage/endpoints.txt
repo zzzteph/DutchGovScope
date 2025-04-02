@@ -2722,6 +2722,7 @@ https://diensten.purmerend.nl
 https://diensten.rijswijk.nl
 https://diensten.rotterdam.nl
 https://dienstterugkeerenvertrek.nl
+https://diergeneesmiddeleninformatiebank.nl
 https://dieuwke.defryskemarren.nl
 https://digicheck.brabant.nl
 https://digid-parkeervergunningen-acc.beverwijk.nl
@@ -9088,6 +9089,7 @@ https://www.dezi.nl
 https://www.dggf.nl
 https://www.diemen.nl
 https://www.dienstterugkeerenvertrek.nl
+https://www.diergeneesmiddeleninformatiebank.nl
 https://www.digitaalfotoarchief.oegstgeest.nl
 https://www.dijkenwaard.nl
 https://www.dinkelland.nl

@@ -715,6 +715,7 @@ dggf.nl
 dialin.aaenmaas.nl
 dialin.cbg-meb.nl
 dienstterugkeerenvertrek.nl
+diergeneesmiddeleninformatiebank.nl
 digicheck.brabant.nl
 digid-stub.lpc.mijn.overheid.nl
 digikoppeling-dcr.cibg.nl
@@ -2456,6 +2457,7 @@ www.denkdoeduurzaam.nl
 www.dezi.nl
 www.dggf.nl
 www.dienstterugkeerenvertrek.nl
+www.diergeneesmiddeleninformatiebank.nl
 www.dmo.omgevingswet.overheid.nl
 www.enabling.omgevingswet.overheid.nl
 www.gtmx.acc.belastingdienst.nl

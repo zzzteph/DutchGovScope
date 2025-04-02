@@ -358,6 +358,7 @@ https://dezi.nl
 https://dggf.nl
 https://dialin.aaenmaas.nl
 https://dienstterugkeerenvertrek.nl
+https://diergeneesmiddeleninformatiebank.nl
 https://digicheck.brabant.nl
 https://digid-stub.lpc.mijn.overheid.nl
 https://digilab.overheid.nl
@@ -1131,6 +1132,7 @@ https://www.denkdoeduurzaam.nl
 https://www.dezi.nl
 https://www.dggf.nl
 https://www.dienstterugkeerenvertrek.nl
+https://www.diergeneesmiddeleninformatiebank.nl
 https://www.dmo.omgevingswet.overheid.nl
 https://www.enabling.omgevingswet.overheid.nl
 https://www.igj.nl
