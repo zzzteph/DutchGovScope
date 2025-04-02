@@ -731,6 +731,7 @@ digitaalstelselmobiliteitsdata.nl
 digitaalvergaderen.belastingdienst.nl
 digitaalvergaderen.ont.belastingdienst.nl
 dihoo.eu
+dihoo.nl
 dmo.omgevingswet.overheid.nl
 dns-fw1.rijksoverheid.nl
 dns-fw4.rijksoverheid.nl
@@ -942,6 +943,7 @@ feeds.dggf.nl
 feeds.dienstterugkeerenvertrek.nl
 feeds.digitaalstelselmobiliteitsdata.nl
 feeds.dihoo.eu
+feeds.dihoo.nl
 feeds.english.aivd.nl
 feeds.english.autoriteitnvs.nl
 feeds.english.belastingdienst-cn.nl
@@ -1324,6 +1326,7 @@ mail.cbg-meb.nl
 mail.ctgb.nl
 mail.ctivd.nl
 mail.cultureelerfgoed.nl
+mail.dihoo.nl
 mail.koop.overheid.nl
 mail240.brabant.nl
 mail241.brabant.nl
@@ -1634,6 +1637,7 @@ opendata.dggf.nl
 opendata.dienstterugkeerenvertrek.nl
 opendata.digitaalstelselmobiliteitsdata.nl
 opendata.dihoo.eu
+opendata.dihoo.nl
 opendata.english.aivd.nl
 opendata.english.autoriteitnvs.nl
 opendata.english.belastingdienst-cn.nl
@@ -2466,6 +2470,7 @@ www.dienstterugkeerenvertrek.nl
 www.diergeneesmiddeleninformatiebank.nl
 www.digitaalstelselmobiliteitsdata.nl
 www.dihoo.eu
+www.dihoo.nl
 www.dmo.omgevingswet.overheid.nl
 www.enabling.omgevingswet.overheid.nl
 www.gtmx.acc.belastingdienst.nl

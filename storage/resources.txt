@@ -4346,6 +4346,7 @@ digitaletweeling.alkmaar.nl
 digitestsrvr.gorinchem.nl
 digiwap.rotterdam.nl
 dihoo.eu
+dihoo.nl
 dijkenwaard.nl
 diko.apeldoorn.nl
 dinkelland.nl
@@ -5675,6 +5676,7 @@ feeds.dggf.nl
 feeds.dienstterugkeerenvertrek.nl
 feeds.digitaalstelselmobiliteitsdata.nl
 feeds.dihoo.eu
+feeds.dihoo.nl
 feeds.english.aivd.nl
 feeds.english.autoriteitnvs.nl
 feeds.english.belastingdienst-cn.nl
@@ -8983,6 +8985,7 @@ mail.denkmee.amstelveen.nl
 mail.derondevenen.nl
 mail.deventer.nl
 mail.digikoppeling.texel.nl
+mail.dihoo.nl
 mail.dmb.amsterdam.nl
 mail.drechterland.nl
 mail.echt-susteren.nl
@@ -10843,6 +10846,7 @@ opendata.dggf.nl
 opendata.dienstterugkeerenvertrek.nl
 opendata.digitaalstelselmobiliteitsdata.nl
 opendata.dihoo.eu
+opendata.dihoo.nl
 opendata.english.aivd.nl
 opendata.english.autoriteitnvs.nl
 opendata.english.belastingdienst-cn.nl
@@ -16523,6 +16527,7 @@ www.digikoppeling.gemeentehulst.nl
 www.digitaalfotoarchief.oegstgeest.nl
 www.digitaalstelselmobiliteitsdata.nl
 www.dihoo.eu
+www.dihoo.nl
 www.dijkenwaard.nl
 www.dinkelland.nl
 www.directduidelijk.openstad.enschede.nl

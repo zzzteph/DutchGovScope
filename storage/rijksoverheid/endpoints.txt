@@ -364,6 +364,7 @@ https://digid-stub.lpc.mijn.overheid.nl
 https://digilab.overheid.nl
 https://digitaalstelselmobiliteitsdata.nl
 https://dihoo.eu
+https://dihoo.nl
 https://dmo.omgevingswet.overheid.nl
 https://doculoket-acc.overheid.nl
 https://doculoket.overheid.nl
@@ -505,6 +506,7 @@ https://feeds.dggf.nl
 https://feeds.dienstterugkeerenvertrek.nl
 https://feeds.digitaalstelselmobiliteitsdata.nl
 https://feeds.dihoo.eu
+https://feeds.dihoo.nl
 https://feeds.english.aivd.nl
 https://feeds.english.autoriteitnvs.nl
 https://feeds.english.belastingdienst-cn.nl
@@ -640,6 +642,7 @@ https://magazines.igj.nl
 https://magazines.rijksoverheid.nl
 https://magazines.werkenvoornederland.nl
 https://magazinesintern.rijksoverheid.nl
+https://mail.dihoo.nl
 https://mail.koop.overheid.nl
 https://mailhog.acc.monumentenregister.cultureelerfgoed.nl
 https://mailing.logius.nl
@@ -773,6 +776,7 @@ https://opendata.dggf.nl
 https://opendata.dienstterugkeerenvertrek.nl
 https://opendata.digitaalstelselmobiliteitsdata.nl
 https://opendata.dihoo.eu
+https://opendata.dihoo.nl
 https://opendata.english.aivd.nl
 https://opendata.english.autoriteitnvs.nl
 https://opendata.english.belastingdienst-cn.nl
@@ -1141,6 +1145,7 @@ https://www.dienstterugkeerenvertrek.nl
 https://www.diergeneesmiddeleninformatiebank.nl
 https://www.digitaalstelselmobiliteitsdata.nl
 https://www.dihoo.eu
+https://www.dihoo.nl
 https://www.dmo.omgevingswet.overheid.nl
 https://www.enabling.omgevingswet.overheid.nl
 https://www.igj.nl
