@@ -518,6 +518,7 @@ https://english.ilent.nl
 https://english.inspectie-oe.nl
 https://english.iob-evaluatie.nl
 https://english.kiesraad.nl
+https://english.kimnet.nl
 https://english.sso3w.nl
 https://enterpriseenrollment.cbg-meb.nl
 https://enterpriseregistration.belastingdienst.nl
@@ -661,6 +662,7 @@ https://feeds.english.ilent.nl
 https://feeds.english.inspectie-oe.nl
 https://feeds.english.iob-evaluatie.nl
 https://feeds.english.kiesraad.nl
+https://feeds.english.kimnet.nl
 https://feeds.english.sso3w.nl
 https://feeds.erfgoeddeal.nl
 https://feeds.euthanasiecommissie.nl
@@ -713,6 +715,7 @@ https://feeds.kansrijkestartnl.nl
 https://feeds.kennisvandeoverheid.nl
 https://feeds.kiesraad.nl
 https://feeds.kik-v.nl
+https://feeds.kimnet.nl
 https://feeds.nieuwsbrievenminocw.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.persberichten.rijksoverheid.nl
@@ -886,6 +889,7 @@ https://kennisvandeoverheid.nl
 https://kiesraad.nl
 https://kik-v.nl
 https://kim.omgevingswet.overheid.nl
+https://kimnet.nl
 https://koppelvlak-asl.overheid.nl
 https://koppelvlak.overheid.nl
 https://kwaliteitsdashboard-koop.overheid.nl
@@ -1128,6 +1132,7 @@ https://opendata.english.ilent.nl
 https://opendata.english.inspectie-oe.nl
 https://opendata.english.iob-evaluatie.nl
 https://opendata.english.kiesraad.nl
+https://opendata.english.kimnet.nl
 https://opendata.english.sso3w.nl
 https://opendata.euthanasiecommissie.nl
 https://opendata.excellentescholen.nl
@@ -1179,6 +1184,7 @@ https://opendata.kansrijkestartnl.nl
 https://opendata.kennisvandeoverheid.nl
 https://opendata.kiesraad.nl
 https://opendata.kik-v.nl
+https://opendata.kimnet.nl
 https://opendata.nieuwsbrievenminocw.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.persberichten.rijksoverheid.nl
@@ -1693,6 +1699,7 @@ https://www.kansrijkestartnl.nl
 https://www.kennisvandeoverheid.nl
 https://www.kiesraad.nl
 https://www.kik-v.nl
+https://www.kimnet.nl
 https://www.logius.nl
 https://www.metelkaartrekkenwedegrens.nl
 https://www.mijn.dus-i.nl

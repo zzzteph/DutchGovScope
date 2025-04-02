@@ -5502,6 +5502,7 @@ english.ilent.nl
 english.inspectie-oe.nl
 english.iob-evaluatie.nl
 english.kiesraad.nl
+english.kimnet.nl
 english.sso3w.nl
 enkhuizen.nl
 enquete-acc.denhaag.nl
@@ -5911,6 +5912,7 @@ feeds.english.ilent.nl
 feeds.english.inspectie-oe.nl
 feeds.english.iob-evaluatie.nl
 feeds.english.kiesraad.nl
+feeds.english.kimnet.nl
 feeds.english.sso3w.nl
 feeds.erfgoeddeal.nl
 feeds.euthanasiecommissie.nl
@@ -5963,6 +5965,7 @@ feeds.kansrijkestartnl.nl
 feeds.kennisvandeoverheid.nl
 feeds.kiesraad.nl
 feeds.kik-v.nl
+feeds.kimnet.nl
 feeds.nieuwsbrievenminocw.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.persberichten.rijksoverheid.nl
@@ -8814,6 +8817,7 @@ kim.omgevingswet.overheid.nl
 kim3.amsterdam.nl
 kimgoa.acc.amsterdam.nl
 kimgoa.amsterdam.nl
+kimnet.nl
 kinderboerderij.purmerend.nl
 kinderburgemeester.alphenaandenrijn.nl
 kinderburgemeester.apeldoorn.nl
@@ -11333,6 +11337,7 @@ opendata.english.ilent.nl
 opendata.english.inspectie-oe.nl
 opendata.english.iob-evaluatie.nl
 opendata.english.kiesraad.nl
+opendata.english.kimnet.nl
 opendata.english.sso3w.nl
 opendata.euthanasiecommissie.nl
 opendata.excellentescholen.nl
@@ -11386,6 +11391,7 @@ opendata.kansrijkestartnl.nl
 opendata.kennisvandeoverheid.nl
 opendata.kiesraad.nl
 opendata.kik-v.nl
+opendata.kimnet.nl
 opendata.nieuwsbrievenminocw.nl
 opendata.nijmegen.nl
 opendata.papiamentu.belastingdienst-cn.nl
@@ -17592,6 +17598,7 @@ www.kennisvandeoverheid.nl
 www.kerkrade.nl
 www.kiesraad.nl
 www.kik-v.nl
+www.kimnet.nl
 www.kindpakket.groningen.nl
 www.kmdn.gemeentehulst.nl
 www.kodision-prod.sudwestfryslan.nl

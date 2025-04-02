@@ -3493,6 +3493,7 @@ https://english.ilent.nl
 https://english.inspectie-oe.nl
 https://english.iob-evaluatie.nl
 https://english.kiesraad.nl
+https://english.kimnet.nl
 https://english.sso3w.nl
 https://enkhuizen.nl
 https://enquete-acc.denhaag.nl
@@ -3781,6 +3782,7 @@ https://feeds.english.ilent.nl
 https://feeds.english.inspectie-oe.nl
 https://feeds.english.iob-evaluatie.nl
 https://feeds.english.kiesraad.nl
+https://feeds.english.kimnet.nl
 https://feeds.english.sso3w.nl
 https://feeds.erfgoeddeal.nl
 https://feeds.euthanasiecommissie.nl
@@ -3833,6 +3835,7 @@ https://feeds.kansrijkestartnl.nl
 https://feeds.kennisvandeoverheid.nl
 https://feeds.kiesraad.nl
 https://feeds.kik-v.nl
+https://feeds.kimnet.nl
 https://feeds.nieuwsbrievenminocw.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.persberichten.rijksoverheid.nl
@@ -5266,6 +5269,7 @@ https://kijk.dijkenwaard.nl
 https://kik-v.nl
 https://kim.omgevingswet.overheid.nl
 https://kim3.amsterdam.nl
+https://kimnet.nl
 https://kinderboerderij.purmerend.nl
 https://kinderburgemeester.alphenaandenrijn.nl
 https://kinderburgemeester.apeldoorn.nl
@@ -6672,6 +6676,7 @@ https://opendata.english.ilent.nl
 https://opendata.english.inspectie-oe.nl
 https://opendata.english.iob-evaluatie.nl
 https://opendata.english.kiesraad.nl
+https://opendata.english.kimnet.nl
 https://opendata.english.sso3w.nl
 https://opendata.euthanasiecommissie.nl
 https://opendata.excellentescholen.nl
@@ -6724,6 +6729,7 @@ https://opendata.kansrijkestartnl.nl
 https://opendata.kennisvandeoverheid.nl
 https://opendata.kiesraad.nl
 https://opendata.kik-v.nl
+https://opendata.kimnet.nl
 https://opendata.nieuwsbrievenminocw.nl
 https://opendata.nijmegen.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
@@ -9810,6 +9816,7 @@ https://www.katwijk.nl
 https://www.kennisvandeoverheid.nl
 https://www.kiesraad.nl
 https://www.kik-v.nl
+https://www.kimnet.nl
 https://www.komverder.krimpenaandenijssel.nl
 https://www.kos.nijmegen.nl
 https://www.krimpenaandenijssel.nl

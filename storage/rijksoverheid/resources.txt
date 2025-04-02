@@ -995,6 +995,7 @@ english.ilent.nl
 english.inspectie-oe.nl
 english.iob-evaluatie.nl
 english.kiesraad.nl
+english.kimnet.nl
 english.sso3w.nl
 enterpriseenrollment.cbg-meb.nl
 enterpriseregistration.belastingdienst.nl
@@ -1178,6 +1179,7 @@ feeds.english.ilent.nl
 feeds.english.inspectie-oe.nl
 feeds.english.iob-evaluatie.nl
 feeds.english.kiesraad.nl
+feeds.english.kimnet.nl
 feeds.english.sso3w.nl
 feeds.erfgoeddeal.nl
 feeds.euthanasiecommissie.nl
@@ -1230,6 +1232,7 @@ feeds.kansrijkestartnl.nl
 feeds.kennisvandeoverheid.nl
 feeds.kiesraad.nl
 feeds.kik-v.nl
+feeds.kimnet.nl
 feeds.nieuwsbrievenminocw.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.persberichten.rijksoverheid.nl
@@ -1647,6 +1650,7 @@ kibana.lpc.logius.nl
 kiesraad.nl
 kik-v.nl
 kim.omgevingswet.overheid.nl
+kimnet.nl
 klopt.cibg.nl
 koppelvlak-acc.overheid.nl
 koppelvlak-asl.overheid.nl
@@ -2124,6 +2128,7 @@ opendata.english.ilent.nl
 opendata.english.inspectie-oe.nl
 opendata.english.iob-evaluatie.nl
 opendata.english.kiesraad.nl
+opendata.english.kimnet.nl
 opendata.english.sso3w.nl
 opendata.euthanasiecommissie.nl
 opendata.excellentescholen.nl
@@ -2176,6 +2181,7 @@ opendata.kansrijkestartnl.nl
 opendata.kennisvandeoverheid.nl
 opendata.kiesraad.nl
 opendata.kik-v.nl
+opendata.kimnet.nl
 opendata.nieuwsbrievenminocw.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.persberichten.rijksoverheid.nl
@@ -3228,6 +3234,7 @@ www.kansrijkestartnl.nl
 www.kennisvandeoverheid.nl
 www.kiesraad.nl
 www.kik-v.nl
+www.kimnet.nl
 www.logius.nl
 www.mail.bureauwsnp.nl
 www.metelkaartrekkenwedegrens.nl
