@@ -5418,6 +5418,7 @@ english.dsta.nl
 english.eindhoven.nl
 english.euthanasiecommissie.nl
 english.farmatec.nl
+english.globalhealthhub.nl
 english.igj.nl
 english.sso3w.nl
 enkhuizen.nl
@@ -5821,6 +5822,7 @@ feeds.english.donorregister.nl
 feeds.english.dsta.nl
 feeds.english.euthanasiecommissie.nl
 feeds.english.farmatec.nl
+feeds.english.globalhealthhub.nl
 feeds.english.igj.nl
 feeds.english.sso3w.nl
 feeds.erfgoeddeal.nl
@@ -5835,6 +5837,7 @@ feeds.forensischinstituut.nl
 feeds.gelijke-kansen.nl
 feeds.geobasisregistraties.nl
 feeds.gezondheidsraad.nl
+feeds.globalhealthhub.nl
 feeds.igj.nl
 feeds.nieuwsbrievenminocw.nl
 feeds.papiamentu.belastingdienst-cn.nl
@@ -11095,6 +11098,7 @@ opendata.english.donorregister.nl
 opendata.english.dsta.nl
 opendata.english.euthanasiecommissie.nl
 opendata.english.farmatec.nl
+opendata.english.globalhealthhub.nl
 opendata.english.igj.nl
 opendata.english.sso3w.nl
 opendata.euthanasiecommissie.nl
@@ -11108,6 +11112,7 @@ opendata.forensischinstituut.nl
 opendata.gelijke-kansen.nl
 opendata.geobasisregistraties.nl
 opendata.gezondheidsraad.nl
+opendata.globalhealthhub.nl
 opendata.heemstede.nl
 opendata.igj.nl
 opendata.nieuwsbrievenminocw.nl
@@ -17039,6 +17044,7 @@ www.gisibtest.haarlemmermeer.nl
 www.gisservices.haarlemmermeer.nl
 www.gisservicestest.haarlemmermeer.nl
 www.gkb.groningen.nl
+www.globalhealthhub.nl
 www.goedterechtin.leeuwarden.nl
 www.goeree-overflakkee.nl
 www.goes.nl

@@ -11,8 +11,8 @@ mail
 webmail
 opendata
 simsite
-afspraken
 feeds
+afspraken
 digikoppeling
 preproductie
 simcms
@@ -55,8 +55,8 @@ dacceptatieloket
 dacceptatiemidoffice
 dloket
 dmidoffice
-remote
 english
+remote
 enterpriseregistration
 osb
 api.meldingen-acc
@@ -79,9 +79,9 @@ kaart
 flowmailer-tracking
 hybrid
 zaken
-kaarten
 feeds.english
 opendata.english
+kaarten
 cloudadapter
 connect
 cmsintranet

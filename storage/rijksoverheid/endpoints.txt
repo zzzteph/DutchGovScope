@@ -484,6 +484,7 @@ https://english.donorregister.nl
 https://english.dsta.nl
 https://english.euthanasiecommissie.nl
 https://english.farmatec.nl
+https://english.globalhealthhub.nl
 https://english.igj.nl
 https://english.sso3w.nl
 https://enterpriseenrollment.cbg-meb.nl
@@ -622,6 +623,7 @@ https://feeds.english.donorregister.nl
 https://feeds.english.dsta.nl
 https://feeds.english.euthanasiecommissie.nl
 https://feeds.english.farmatec.nl
+https://feeds.english.globalhealthhub.nl
 https://feeds.english.igj.nl
 https://feeds.english.sso3w.nl
 https://feeds.erfgoeddeal.nl
@@ -636,6 +638,7 @@ https://feeds.forensischinstituut.nl
 https://feeds.gelijke-kansen.nl
 https://feeds.geobasisregistraties.nl
 https://feeds.gezondheidsraad.nl
+https://feeds.globalhealthhub.nl
 https://feeds.igj.nl
 https://feeds.nieuwsbrievenminocw.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
@@ -974,6 +977,7 @@ https://opendata.english.donorregister.nl
 https://opendata.english.dsta.nl
 https://opendata.english.euthanasiecommissie.nl
 https://opendata.english.farmatec.nl
+https://opendata.english.globalhealthhub.nl
 https://opendata.english.igj.nl
 https://opendata.english.sso3w.nl
 https://opendata.euthanasiecommissie.nl
@@ -987,6 +991,7 @@ https://opendata.forensischinstituut.nl
 https://opendata.gelijke-kansen.nl
 https://opendata.geobasisregistraties.nl
 https://opendata.gezondheidsraad.nl
+https://opendata.globalhealthhub.nl
 https://opendata.igj.nl
 https://opendata.nieuwsbrievenminocw.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
@@ -1409,6 +1414,7 @@ https://www.gelijke-kansen.nl
 https://www.geneesmiddeleninformatiebank.nl
 https://www.geobasisregistraties.nl
 https://www.gezondheidsraad.nl
+https://www.globalhealthhub.nl
 https://www.hetverhaalvan.flevoland.nl
 https://www.igj.nl
 https://www.int.omgevingswet.overheid.nl
