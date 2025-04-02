@@ -1215,6 +1215,7 @@ gegevensuitwisseling.acc.belastingdienst.nl
 gegevensuitwisseling.belastingdienst.nl
 gelijke-kansen.nl
 gembrp.belastingdienst.nl
+geneesmiddeleninformatiebank.nl
 generiekefuncties.datavoorgezondheid.nl
 generiekportaal.tst.belastingdienst.nl
 gensys.flevoland.nl
@@ -2794,6 +2795,7 @@ www.forensicinstitute.nl
 www.forensischezorg.nl
 www.forensischinstituut.nl
 www.gelijke-kansen.nl
+www.geneesmiddeleninformatiebank.nl
 www.gtmx.acc.belastingdienst.nl
 www.hetverhaalvan.flevoland.nl
 www.igj.nl

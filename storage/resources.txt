@@ -6547,6 +6547,7 @@ gen1.alkmaar.nl
 gen1.edam-volendam.nl
 gen2.alkmaar.nl
 genealogie.oldenzaal.nl
+geneesmiddeleninformatiebank.nl
 generiekefuncties.datavoorgezondheid.nl
 generiekportaal.tst.belastingdienst.nl
 genieten.groningen.nl
@@ -16985,6 +16986,7 @@ www.gemeentewinkel.leiderdorp.nl
 www.gemert-bakel.nl
 www.gemnps01.eijsden-margraten.nl
 www.gemnps01.intern.eijsden-margraten.nl
+www.geneesmiddeleninformatiebank.nl
 www.genieten.groningen.nl
 www.gennep.nl
 www.geo.arnhem.nl

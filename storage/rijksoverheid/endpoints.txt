@@ -673,6 +673,7 @@ https://gegevensdelen.preprod.mijn.overheid.nl
 https://gegevensportaal.belastingdienst.nl
 https://gegevensuitwisseling.belastingdienst.nl
 https://gelijke-kansen.nl
+https://geneesmiddeleninformatiebank.nl
 https://generiekefuncties.datavoorgezondheid.nl
 https://gensys.flevoland.nl
 https://geo.flevoland.nl
@@ -1399,6 +1400,7 @@ https://www.forensicinstitute.nl
 https://www.forensischezorg.nl
 https://www.forensischinstituut.nl
 https://www.gelijke-kansen.nl
+https://www.geneesmiddeleninformatiebank.nl
 https://www.hetverhaalvan.flevoland.nl
 https://www.igj.nl
 https://www.int.omgevingswet.overheid.nl
