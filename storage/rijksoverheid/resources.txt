@@ -848,6 +848,7 @@ eloket.aaenmaas.nl
 email.brabant.nl
 emailtemplates.overheid.nl
 emissieautoriteit.nl
+emissionsauthority.nl
 emm.belastingdienst.nl
 enabling.omgevingswet.overheid.nl
 english.aivd.nl
@@ -1014,6 +1015,7 @@ feeds.eentegeneenzaamheid.nl
 feeds.eersteenthuis.nl
 feeds.elkeregiotelt.nl
 feeds.emissieautoriteit.nl
+feeds.emissionsauthority.nl
 feeds.english.aivd.nl
 feeds.english.autoriteitnvs.nl
 feeds.english.belastingdienst-cn.nl
@@ -1747,6 +1749,7 @@ opendata.eentegeneenzaamheid.nl
 opendata.eersteenthuis.nl
 opendata.elkeregiotelt.nl
 opendata.emissieautoriteit.nl
+opendata.emissionsauthority.nl
 opendata.english.aivd.nl
 opendata.english.autoriteitnvs.nl
 opendata.english.belastingdienst-cn.nl
@@ -2625,6 +2628,7 @@ www.eentegeneenzaamheid.nl
 www.eersteenthuis.nl
 www.elkeregiotelt.nl
 www.emissieautoriteit.nl
+www.emissionsauthority.nl
 www.enabling.omgevingswet.overheid.nl
 www.gtmx.acc.belastingdienst.nl
 www.igj.nl

@@ -15,8 +15,8 @@ digikoppeling
 opendata
 preproductie
 simcms
-secure
 feeds
+secure
 acceptatie
 felix
 probeer
