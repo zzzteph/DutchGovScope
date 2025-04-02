@@ -348,6 +348,7 @@ ns2
 geoserver
 nieuws
 test.digikoppeling
+mijnloket
 midoffice
 participatie
 documenten
@@ -473,7 +474,6 @@ filr
 klantportaal
 mfa
 intra
-mijnloket
 www.openstad
 parkeeracties
 parkeren-siam-test
@@ -2967,6 +2967,7 @@ uzipas.lir
 webchat.klopt
 webservices.lrza
 www2.zorgcsp
+mijnloket-acc
 email.mail.participatie
 mail.participatie
 aalten-checker-preprod

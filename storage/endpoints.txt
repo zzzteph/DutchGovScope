@@ -2401,6 +2401,7 @@ https://collegevanrijksadviseurs.nl
 https://column.landvancuijk.nl
 https://comcms.logius.nl
 https://commissiecelz.nl
+https://commissiemijnbouwschade.nl
 https://communicatie.hollandskroon.nl
 https://community.developer.overheid.nl
 https://componenten-acc.overheid.nl
@@ -3530,6 +3531,7 @@ https://feeds.circulairinkopen.nl
 https://feeds.codexalimentarius.nl
 https://feeds.collegevanrijksadviseurs.nl
 https://feeds.commissiecelz.nl
+https://feeds.commissiemijnbouwschade.nl
 https://feeds.english.aivd.nl
 https://feeds.english.autoriteitnvs.nl
 https://feeds.english.belastingdienst-cn.nl
@@ -5546,6 +5548,7 @@ https://mijnkaart.deurne.nl
 https://mijnkbr.rotterdam.nl
 https://mijnkrimpenwijzer.krimpenaandenijssel.nl
 https://mijnleefomgeving.olst-wijhe.nl
+https://mijnloket.commissiemijnbouwschade.nl
 https://mijnloket.deventer.nl
 https://mijnloket.edam-volendam.nl
 https://mijnloket.ir.rotterdam.nl
@@ -6165,6 +6168,7 @@ https://opendata.circulairinkopen.nl
 https://opendata.codexalimentarius.nl
 https://opendata.collegevanrijksadviseurs.nl
 https://opendata.commissiecelz.nl
+https://opendata.commissiemijnbouwschade.nl
 https://opendata.english.aivd.nl
 https://opendata.english.autoriteitnvs.nl
 https://opendata.english.belastingdienst-cn.nl
@@ -8871,6 +8875,7 @@ https://www.codexalimentarius.nl
 https://www.coevorden.nl
 https://www.collegevanrijksadviseurs.nl
 https://www.commissiecelz.nl
+https://www.commissiemijnbouwschade.nl
 https://www.containers.amsterdam.nl
 https://www.continuverbeterenjmo.denhaag.nl
 https://www.crk.amsterdam.nl
