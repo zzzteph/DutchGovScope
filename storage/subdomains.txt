@@ -70,13 +70,13 @@ openpub
 omgevingsvisie
 beeldbank
 cloudadapter-test
-digikoppeling-test
 a-www
+digikoppeling-test
+a-feeds
+a-opendata
 formulier
 kaart
 flowmailer-tracking
-a-feeds
-a-opendata
 hybrid
 zaken
 kaarten

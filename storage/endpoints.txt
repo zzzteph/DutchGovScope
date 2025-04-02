@@ -3755,6 +3755,7 @@ https://feeds.forensischezorg.nl
 https://feeds.forensischinstituut.nl
 https://feeds.gelijke-kansen.nl
 https://feeds.geobasisregistraties.nl
+https://feeds.gezondheidsraad.nl
 https://feeds.igj.nl
 https://feeds.nieuwsbrievenminocw.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
@@ -4226,6 +4227,7 @@ https://geuzenstatenkwartierfietst.denhaag.nl
 https://gewasbeschermingsmiddelen.ctgb.nl
 https://gezinscoach.deventer.nl
 https://gezondheid.landvancuijk.nl
+https://gezondheidsraad.nl
 https://gezondleven.utrecht.nl
 https://ggd.amsterdam.nl
 https://ggd.groningen.nl
@@ -6528,6 +6530,7 @@ https://opendata.forensischezorg.nl
 https://opendata.forensischinstituut.nl
 https://opendata.gelijke-kansen.nl
 https://opendata.geobasisregistraties.nl
+https://opendata.gezondheidsraad.nl
 https://opendata.heemstede.nl
 https://opendata.igj.nl
 https://opendata.nieuwsbrievenminocw.nl
@@ -9451,6 +9454,7 @@ https://www.geo.arnhem.nl
 https://www.geobasisregistraties.nl
 https://www.geobrowser.enschede.nl
 https://www.geuzenstatenkwartierfietst.denhaag.nl
+https://www.gezondheidsraad.nl
 https://www.gezondleven.utrecht.nl
 https://www.ggd.amsterdam.nl
 https://www.ggd.groningen.nl
