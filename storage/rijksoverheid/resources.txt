@@ -236,6 +236,7 @@ advieswijzer.bigregister.nl
 advisorycommitteeinternationallaw.nl
 advisorycouncilinternationalaffairs.nl
 aeriusproducten.nl
+afspraak.domeinenrz.nl
 afspraken.belastingdienst.nl
 afval.acc.omgevingswet.overheid.nl
 afval.omgevingswet.overheid.nl
@@ -340,6 +341,7 @@ autodiscover.ctgb.nl
 autodiscover.ctivd.nl
 autodiscover.cultureelerfgoed.nl
 autodiscover.cvte.nl
+autodiscover.domeinenrz.nl
 autodiscover.koop.overheid.nl
 autodiscover.overheid.nl
 autodiscover.rcgog.nl
@@ -407,6 +409,7 @@ bastion.rijksoverheid.nl
 bat.belastingdienst.nl
 bat.ont.belastingdienst.nl
 bdmz-reth473.belastingdienst.nl
+bdx.domeinenrz.nl
 beeldbank-bo.brabant.nl
 beeldbank.brabant.nl
 beeldbank.cultureelerfgoed.nl
@@ -717,6 +720,7 @@ deutsch.postedworkers.nl
 developer.omgevingswet.overheid.nl
 developer.overheid.nl
 dezi.nl
+dfp.domeinenrz.nl
 dggf.nl
 dialin.aaenmaas.nl
 dialin.cbg-meb.nl
@@ -829,9 +833,11 @@ english.defensie.nl
 english.deltaprogramma.nl
 english.dggf.nl
 english.dienstterugkeerenvertrek.nl
+english.domeinenrz.nl
 english.igj.nl
 enterpriseenrollment.cbg-meb.nl
 enterpriseregistration.belastingdienst.nl
+enterpriseregistration.domeinenrz.nl
 enterpriseregistration.pc.belastingdienst.nl
 eovgb-acc.aivd.nl
 eovgb.aivd.nl
@@ -960,6 +966,7 @@ feeds.dihoo.eu
 feeds.dihoo.nl
 feeds.dji.nl
 feeds.dnadatabank.forensischinstituut.nl
+feeds.domeinenrz.nl
 feeds.english.aivd.nl
 feeds.english.autoriteitnvs.nl
 feeds.english.belastingdienst-cn.nl
@@ -973,6 +980,7 @@ feeds.english.defensie.nl
 feeds.english.deltaprogramma.nl
 feeds.english.dggf.nl
 feeds.english.dienstterugkeerenvertrek.nl
+feeds.english.domeinenrz.nl
 feeds.english.igj.nl
 feeds.igj.nl
 feeds.nieuwsbrievenminocw.nl
@@ -1169,6 +1177,7 @@ htmleditor.officiele-overheidspublicaties.nl
 huisstijl.acc.belastingdienst.nl
 huisstijl.belastingdienst.nl
 hybrid.brabant.nl
+hybrid.domeinenrz.nl
 i-cms.defensie.nl
 i-cms.rijksoverheid.nl
 i-cms1.defensie.nl
@@ -1303,6 +1312,7 @@ linkeddata.test.cultureelerfgoed.nl
 linkextractor.overheid.nl
 lir.cibg.nl
 login.aaenmaas.nl
+login.domeinenrz.nl
 logius.nl
 lokaleregelgeving-acc.overheid.nl
 lokaleregelgeving-eto.overheid.nl
@@ -1349,6 +1359,7 @@ mail.ctivd.nl
 mail.cultureelerfgoed.nl
 mail.dihoo.nl
 mail.dji.nl
+mail.domeinenrz.nl
 mail.koop.overheid.nl
 mail240.brabant.nl
 mail241.brabant.nl
@@ -1662,6 +1673,7 @@ opendata.dihoo.eu
 opendata.dihoo.nl
 opendata.dji.nl
 opendata.dnadatabank.forensischinstituut.nl
+opendata.domeinenrz.nl
 opendata.english.aivd.nl
 opendata.english.autoriteitnvs.nl
 opendata.english.belastingdienst-cn.nl
@@ -1675,6 +1687,7 @@ opendata.english.defensie.nl
 opendata.english.deltaprogramma.nl
 opendata.english.dggf.nl
 opendata.english.dienstterugkeerenvertrek.nl
+opendata.english.domeinenrz.nl
 opendata.english.igj.nl
 opendata.igj.nl
 opendata.nieuwsbrievenminocw.nl
@@ -1841,6 +1854,8 @@ pwa001.belastingdienst.nl
 pwa002.belastingdienst.nl
 qapbldexte2.belastingdienst.nl
 rap.belastingdienst.nl
+ras.domeinenrz.nl
+ras2.domeinenrz.nl
 rat.belastingdienst.nl
 rcgog.nl
 rcm.belastingdienst.nl
@@ -1946,9 +1961,11 @@ service.perf.omgevingswet.overheid.nl
 service.pre.omgevingswet.overheid.nl
 service.tst2905.omgevingswet.overheid.nl
 servicedesk.rijksoverheid.nl
+services-test.domeinenrz.nl
 services.acc.belastingdienst.nl
 services.belastingdienst.nl
 services.cultureelerfgoed.nl
+services1.domeinenrz.nl
 sf.ctgb.nl
 sharepoint-acc-ext.belastingdienst.nl
 sharepoint-acc.belastingdienst.nl
@@ -2270,6 +2287,8 @@ vergaderen.belastingdienst.nl
 verkeersbesluiten-acc.overheid.nl
 verkeersbesluiten-preprd.overheid.nl
 verkeersbesluiten.overheid.nl
+verkoop.domeinenrz.nl
+verkooptest.domeinenrz.nl
 verleendekinderopvang.acc.belastingdienst.nl
 verleendekinderopvang.belastingdienst.nl
 verpakkingen.belastingdienst.nl
@@ -2295,6 +2314,8 @@ vpn.brabant.nl
 vpn.cbg-meb.nl
 vpn.koop.overheid.nl
 vpn2.aaenmaas.nl
+vpn2.domeinenrz.nl
+vpn3.domeinenrz.nl
 vs_mijn.str13.tst.belastingdienst.nl
 vs_mijnzakelijk.str10.tst.belastingdienst.nl
 vs_mijnzakelijk.str13.tst.belastingdienst.nl
@@ -2302,6 +2323,7 @@ vs_webdiensten.str13.tst.belastingdienst.nl
 vts-beheer.belastingdienst.nl
 vts.belastingdienst.nl
 vtsd.belastingdienst.nl
+vuurwerk.domeinenrz.nl
 wachtwoord.brabant.nl
 wachtwoordwijzigen.aaenmaas.nl
 wadsup.beheerautoriteitwaddenzee.nl
@@ -2501,6 +2523,7 @@ www.dihoo.eu
 www.dihoo.nl
 www.dji.nl
 www.dmo.omgevingswet.overheid.nl
+www.domeinenrz.nl
 www.enabling.omgevingswet.overheid.nl
 www.gtmx.acc.belastingdienst.nl
 www.igj.nl

@@ -1031,6 +1031,7 @@ afspraak.boxtel.nl
 afspraak.castricum.nl
 afspraak.defryskemarren.nl
 afspraak.dijkenwaard.nl
+afspraak.domeinenrz.nl
 afspraak.drimmelen.nl
 afspraak.echt-susteren.nl
 afspraak.edam-volendam.nl
@@ -1858,6 +1859,7 @@ autodiscover.deventer.nl
 autodiscover.dewolden.nl
 autodiscover.dgp.mookenmiddelaar.nl
 autodiscover.dh.haarlemmermeer.nl
+autodiscover.domeinenrz.nl
 autodiscover.dongen.nl
 autodiscover.dordrecht.nl
 autodiscover.drechterland.nl
@@ -2266,6 +2268,7 @@ bda-mis-01.amsterdam.nl
 bda-sql-02.bda.amsterdam.nl
 bda.amsterdam.nl
 bdmz-reth473.belastingdienst.nl
+bdx.domeinenrz.nl
 bec.acc.topdesk.denhaag.nl
 bec.ot.topdesk.denhaag.nl
 bec.topdesk.denhaag.nl
@@ -4069,6 +4072,7 @@ dex.meldingen.alphenaandenrijn.nl
 dex.meldingen.urk.nl
 dezi.nl
 dezta.lelystad.nl
+dfp.domeinenrz.nl
 dfs.noordoostpolder.nl
 dgdialog.acc.amsterdam.nl
 dgdialog.amsterdam.nl
@@ -5335,6 +5339,7 @@ english.defensie.nl
 english.deltaprogramma.nl
 english.dggf.nl
 english.dienstterugkeerenvertrek.nl
+english.domeinenrz.nl
 english.eindhoven.nl
 english.igj.nl
 enkhuizen.nl
@@ -5392,6 +5397,7 @@ enterpriseregistration.bergenopzoom.nl
 enterpriseregistration.bladel.nl
 enterpriseregistration.denhaag.nl
 enterpriseregistration.doetinchem.nl
+enterpriseregistration.domeinenrz.nl
 enterpriseregistration.gooisemeren.nl
 enterpriseregistration.huizen.nl
 enterpriseregistration.landsmeer.nl
@@ -5693,6 +5699,7 @@ feeds.dihoo.eu
 feeds.dihoo.nl
 feeds.dji.nl
 feeds.dnadatabank.forensischinstituut.nl
+feeds.domeinenrz.nl
 feeds.english.aivd.nl
 feeds.english.autoriteitnvs.nl
 feeds.english.belastingdienst-cn.nl
@@ -5706,6 +5713,7 @@ feeds.english.defensie.nl
 feeds.english.deltaprogramma.nl
 feeds.english.dggf.nl
 feeds.english.dienstterugkeerenvertrek.nl
+feeds.english.domeinenrz.nl
 feeds.english.igj.nl
 feeds.igj.nl
 feeds.nieuwsbrievenminocw.nl
@@ -7093,6 +7101,7 @@ hybrid.almere.nl
 hybrid.beverwijk.nl
 hybrid.brabant.nl
 hybrid.dalfsen.nl
+hybrid.domeinenrz.nl
 hybrid.dongen.nl
 hybrid.edam-volendam.nl
 hybrid.gemeentebeek.nl
@@ -8718,6 +8727,7 @@ login.alphenaandenrijn.nl
 login.bergen.nl
 login.bernheze.org
 login.boekel.nl
+login.domeinenrz.nl
 login.ede.nl
 login.gemeentebeek.nl
 login.gemeentehw.nl
@@ -9009,6 +9019,7 @@ mail.digikoppeling.texel.nl
 mail.dihoo.nl
 mail.dji.nl
 mail.dmb.amsterdam.nl
+mail.domeinenrz.nl
 mail.drechterland.nl
 mail.echt-susteren.nl
 mail.ede.nl
@@ -10871,6 +10882,7 @@ opendata.dihoo.eu
 opendata.dihoo.nl
 opendata.dji.nl
 opendata.dnadatabank.forensischinstituut.nl
+opendata.domeinenrz.nl
 opendata.english.aivd.nl
 opendata.english.autoriteitnvs.nl
 opendata.english.belastingdienst-cn.nl
@@ -10884,6 +10896,7 @@ opendata.english.defensie.nl
 opendata.english.deltaprogramma.nl
 opendata.english.dggf.nl
 opendata.english.dienstterugkeerenvertrek.nl
+opendata.english.domeinenrz.nl
 opendata.english.igj.nl
 opendata.heemstede.nl
 opendata.igj.nl
@@ -12364,6 +12377,8 @@ rap.echt-susteren.nl
 rap.gemeentesluis.nl
 rap.haarlemmermeer.nl
 rap.montferland.info
+ras.domeinenrz.nl
+ras2.domeinenrz.nl
 raster.horstaandemaas.nl
 rat.belastingdienst.nl
 rbp.rotterdam.nl
@@ -13015,6 +13030,7 @@ servicepleintest.zwolle.nl
 serviceportaalfh.utrecht.nl
 services-p.nieuwegein.nl
 services-t.nieuwegein.nl
+services-test.domeinenrz.nl
 services-test.mookenmiddelaar.nl
 services-test.nijmegen.nl
 services.acc.amsterdam.nl
@@ -13030,6 +13046,7 @@ services.kaagenbraassem.nl
 services.mookenmiddelaar.nl
 services.nijmegen.nl
 services.tst.amsterdam.nl
+services1.domeinenrz.nl
 services2.acc.amsterdam.nl
 services2.amsterdam.nl
 servicestore.doetinchem.nl
@@ -15213,6 +15230,8 @@ verkiezingen.sonenbreugel.nl
 verkiezingen.sudwestfryslan.nl
 verkiezingen.topdesk.denhaag.nl
 verkiezingen.westvoorne.nl
+verkoop.domeinenrz.nl
+verkooptest.domeinenrz.nl
 verleendekinderopvang.acc.belastingdienst.nl
 verleendekinderopvang.belastingdienst.nl
 verpakkingen.belastingdienst.nl
@@ -15344,6 +15363,8 @@ vpn.zuid.amsterdam.nl
 vpn.zwartewaterland.nl
 vpn02.denhaag.nl
 vpn2.aaenmaas.nl
+vpn2.domeinenrz.nl
+vpn3.domeinenrz.nl
 vpn365.denhelder.nl
 vpntunnel.oss.nl
 vpsweb.veere.nl
@@ -15389,6 +15410,7 @@ vts-beheer.belastingdienst.nl
 vts.belastingdienst.nl
 vtsd.belastingdienst.nl
 vught.nl
+vuurwerk.domeinenrz.nl
 vveacc.amsterdam.nl
 vvetest.amsterdam.nl
 w-p-exc-0005.leeuwarden.nl
@@ -16578,6 +16600,7 @@ www.doemee.zwolle.nl
 www.doesburg.nl
 www.doetinchem.nl
 www.doewatmoet-acc.denhaag.nl
+www.domeinenrz.nl
 www.dongen.nl
 www.dordrecht.nl
 www.drechterland.nl

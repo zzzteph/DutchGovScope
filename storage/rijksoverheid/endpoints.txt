@@ -16,6 +16,7 @@ http://amp.logius.nl
 http://atlas-acpt.brabant.nl
 http://autodiscover.aaenmaas.nl
 http://autodiscover.ctgb.nl
+http://autodiscover.domeinenrz.nl
 http://bzv-a.brabant.nl
 http://ca-devportal-pre.logius.nl
 http://ca-devportal.logius.nl
@@ -154,6 +155,7 @@ https://advieswijzer.bigregister.nl
 https://advisorycommitteeinternationallaw.nl
 https://advisorycouncilinternationalaffairs.nl
 https://aeriusproducten.nl
+https://afspraak.domeinenrz.nl
 https://afspraken.belastingdienst.nl
 https://afval.omgevingswet.overheid.nl
 https://agroberichtenbuitenland.nl
@@ -426,9 +428,11 @@ https://english.defensie.nl
 https://english.deltaprogramma.nl
 https://english.dggf.nl
 https://english.dienstterugkeerenvertrek.nl
+https://english.domeinenrz.nl
 https://english.igj.nl
 https://enterpriseenrollment.cbg-meb.nl
 https://enterpriseregistration.belastingdienst.nl
+https://enterpriseregistration.domeinenrz.nl
 https://eovgb-acc.aivd.nl
 https://eovgb.aivd.nl
 https://erfgoedmonitor.cultureelerfgoed.nl
@@ -518,6 +522,7 @@ https://feeds.dihoo.eu
 https://feeds.dihoo.nl
 https://feeds.dji.nl
 https://feeds.dnadatabank.forensischinstituut.nl
+https://feeds.domeinenrz.nl
 https://feeds.english.aivd.nl
 https://feeds.english.autoriteitnvs.nl
 https://feeds.english.belastingdienst-cn.nl
@@ -531,6 +536,7 @@ https://feeds.english.defensie.nl
 https://feeds.english.deltaprogramma.nl
 https://feeds.english.dggf.nl
 https://feeds.english.dienstterugkeerenvertrek.nl
+https://feeds.english.domeinenrz.nl
 https://feeds.english.igj.nl
 https://feeds.igj.nl
 https://feeds.nieuwsbrievenminocw.nl
@@ -793,6 +799,7 @@ https://opendata.dihoo.eu
 https://opendata.dihoo.nl
 https://opendata.dji.nl
 https://opendata.dnadatabank.forensischinstituut.nl
+https://opendata.domeinenrz.nl
 https://opendata.english.aivd.nl
 https://opendata.english.autoriteitnvs.nl
 https://opendata.english.belastingdienst-cn.nl
@@ -806,6 +813,7 @@ https://opendata.english.defensie.nl
 https://opendata.english.deltaprogramma.nl
 https://opendata.english.dggf.nl
 https://opendata.english.dienstterugkeerenvertrek.nl
+https://opendata.english.domeinenrz.nl
 https://opendata.english.igj.nl
 https://opendata.igj.nl
 https://opendata.nieuwsbrievenminocw.nl
@@ -1037,6 +1045,8 @@ https://verdragenbank-acc.overheid.nl
 https://verdragenbank.overheid.nl
 https://verkeersbesluiten-preprd.overheid.nl
 https://verkeersbesluiten.overheid.nl
+https://verkoop.domeinenrz.nl
+https://verkooptest.domeinenrz.nl
 https://verleendekinderopvang.belastingdienst.nl
 https://verzekeringsproducten.belastingdienst.nl
 https://video-acc.beeldbellen.dji.nl
@@ -1048,6 +1058,7 @@ https://vpn.cbg-meb.nl
 https://vpn2.aaenmaas.nl
 https://vts.belastingdienst.nl
 https://vtsd.belastingdienst.nl
+https://vuurwerk.domeinenrz.nl
 https://wachtwoord.brabant.nl
 https://wadsup.beheerautoriteitwaddenzee.nl
 https://wagenparkgegevens.belastingdienst.nl
@@ -1166,6 +1177,7 @@ https://www.dihoo.eu
 https://www.dihoo.nl
 https://www.dji.nl
 https://www.dmo.omgevingswet.overheid.nl
+https://www.domeinenrz.nl
 https://www.enabling.omgevingswet.overheid.nl
 https://www.igj.nl
 https://www.int.omgevingswet.overheid.nl
