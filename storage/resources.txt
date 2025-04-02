@@ -5933,6 +5933,7 @@ feeds.informatiehuishouding.nl
 feeds.inspectie-jenv.nl
 feeds.inspectie-oe.nl
 feeds.inspectiebtd.nl
+feeds.investeringsimpulsspv.nl
 feeds.nieuwsbrievenminocw.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.persberichten.rijksoverheid.nl
@@ -11316,6 +11317,7 @@ opendata.informatiehuishouding.nl
 opendata.inspectie-jenv.nl
 opendata.inspectie-oe.nl
 opendata.inspectiebtd.nl
+opendata.investeringsimpulsspv.nl
 opendata.nieuwsbrievenminocw.nl
 opendata.nijmegen.nl
 opendata.papiamentu.belastingdienst-cn.nl
@@ -17458,6 +17460,7 @@ www.intranet.hillegom.nl
 www.intranet.kampen.nl
 www.intranet.nieuwsbrief.amsterdam.nl
 www.intranet.oegstgeest.nl
+www.investeringsimpulsspv.nl
 www.iobjecten-acc.kaagenbraassem.nl
 www.iobjects.weststellingwerf.nl
 www.itstore.kaagenbraassem.nl

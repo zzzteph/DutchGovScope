@@ -1200,6 +1200,7 @@ feeds.informatiehuishouding.nl
 feeds.inspectie-jenv.nl
 feeds.inspectie-oe.nl
 feeds.inspectiebtd.nl
+feeds.investeringsimpulsspv.nl
 feeds.nieuwsbrievenminocw.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.persberichten.rijksoverheid.nl
@@ -2106,6 +2107,7 @@ opendata.informatiehuishouding.nl
 opendata.inspectie-jenv.nl
 opendata.inspectie-oe.nl
 opendata.inspectiebtd.nl
+opendata.investeringsimpulsspv.nl
 opendata.nieuwsbrievenminocw.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.persberichten.rijksoverheid.nl
@@ -3123,6 +3125,7 @@ www.inte2e.omgevingswet.overheid.nl
 www.integratie.omgevingswet.overheid.nl
 www.integratie02.omgevingswet.overheid.nl
 www.intpatch.omgevingswet.overheid.nl
+www.investeringsimpulsspv.nl
 www.jaarverslag2018.flevoland.nl
 www.kaarten.brabant.nl
 www.logius.nl

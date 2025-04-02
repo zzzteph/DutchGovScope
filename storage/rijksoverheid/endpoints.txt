@@ -690,6 +690,7 @@ https://feeds.informatiehuishouding.nl
 https://feeds.inspectie-jenv.nl
 https://feeds.inspectie-oe.nl
 https://feeds.inspectiebtd.nl
+https://feeds.investeringsimpulsspv.nl
 https://feeds.nieuwsbrievenminocw.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.persberichten.rijksoverheid.nl
@@ -1121,6 +1122,7 @@ https://opendata.informatiehuishouding.nl
 https://opendata.inspectie-jenv.nl
 https://opendata.inspectie-oe.nl
 https://opendata.inspectiebtd.nl
+https://opendata.investeringsimpulsspv.nl
 https://opendata.nieuwsbrievenminocw.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.persberichten.rijksoverheid.nl
@@ -1612,6 +1614,7 @@ https://www.inte2e.omgevingswet.overheid.nl
 https://www.integratie.omgevingswet.overheid.nl
 https://www.integratie02.omgevingswet.overheid.nl
 https://www.intpatch.omgevingswet.overheid.nl
+https://www.investeringsimpulsspv.nl
 https://www.jaarverslag2018.flevoland.nl
 https://www.logius.nl
 https://www.metelkaartrekkenwedegrens.nl

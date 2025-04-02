@@ -4,8 +4,8 @@ autodiscover
 iburgerzaken
 ibzpink
 opendata
-edienstenburgerzaken
 feeds
+edienstenburgerzaken
 edienstenburgerzaken-test
 intranet
 mijn
