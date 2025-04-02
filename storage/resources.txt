@@ -5838,6 +5838,7 @@ feeds.gelijke-kansen.nl
 feeds.geobasisregistraties.nl
 feeds.gezondheidsraad.nl
 feeds.globalhealthhub.nl
+feeds.gobernadoraruba.com
 feeds.igj.nl
 feeds.nieuwsbrievenminocw.nl
 feeds.papiamentu.belastingdienst-cn.nl
@@ -6869,6 +6870,7 @@ gms.boekel.nl
 gms.gilzerijen.nl
 gn2connect-acc.apeldoorn.nl
 gn2connect.apeldoorn.nl
+gobernadoraruba.com
 goedbezig.rotterdam.nl
 goedendag.woensdrecht.nl
 goedterechtin.leeuwarden.nl
@@ -11113,6 +11115,7 @@ opendata.gelijke-kansen.nl
 opendata.geobasisregistraties.nl
 opendata.gezondheidsraad.nl
 opendata.globalhealthhub.nl
+opendata.gobernadoraruba.com
 opendata.heemstede.nl
 opendata.igj.nl
 opendata.nieuwsbrievenminocw.nl
@@ -17045,6 +17048,7 @@ www.gisservices.haarlemmermeer.nl
 www.gisservicestest.haarlemmermeer.nl
 www.gkb.groningen.nl
 www.globalhealthhub.nl
+www.gobernadoraruba.com
 www.goedterechtin.leeuwarden.nl
 www.goeree-overflakkee.nl
 www.goes.nl
