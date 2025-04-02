@@ -3899,6 +3899,7 @@ dbpmo.belastingdienst.nl
 dcagast1.assen.nl
 dcagast2.assen.nl
 dcatd-admin.amsterdam.nl
+dcc-ienw.nl
 dcp-time-slot.cbg-meb.nl
 ddi.vga.amsterdam.nl
 dditest.vga.amsterdam.nl
@@ -5617,6 +5618,7 @@ feeds.cvte.nl
 feeds.cybersecuritycouncil.nl
 feeds.cybersecurityraad.nl
 feeds.datavoorgezondheid.nl
+feeds.dcc-ienw.nl
 feeds.english.aivd.nl
 feeds.english.autoriteitnvs.nl
 feeds.english.belastingdienst-cn.nl
@@ -10758,6 +10760,7 @@ opendata.cvte.nl
 opendata.cybersecuritycouncil.nl
 opendata.cybersecurityraad.nl
 opendata.datavoorgezondheid.nl
+opendata.dcc-ienw.nl
 opendata.english.aivd.nl
 opendata.english.autoriteitnvs.nl
 opendata.english.belastingdienst-cn.nl
@@ -16389,6 +16392,7 @@ www.dataland.sudwestfryslan.nl
 www.dataportaal.brabant.nl
 www.dataportaal.tilburg.nl
 www.datavoorgezondheid.nl
+www.dcc-ienw.nl
 www.de.gemert-bakel.nl
 www.debilt.nl
 www.defryskemarren.nl

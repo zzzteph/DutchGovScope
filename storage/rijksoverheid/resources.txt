@@ -664,6 +664,7 @@ dbb.igj.nl
 dbbprodmta01.dbb.igj.nl
 dbbtamta01.dbb-acc.igj.nl
 dbpmo.belastingdienst.nl
+dcc-ienw.nl
 dcp-time-slot.cbg-meb.nl
 decentrale.regelgeving.overheid.nl
 decreg-acc.overheid.nl
@@ -884,6 +885,7 @@ feeds.cvte.nl
 feeds.cybersecuritycouncil.nl
 feeds.cybersecurityraad.nl
 feeds.datavoorgezondheid.nl
+feeds.dcc-ienw.nl
 feeds.english.aivd.nl
 feeds.english.autoriteitnvs.nl
 feeds.english.belastingdienst-cn.nl
@@ -1549,6 +1551,7 @@ opendata.cvte.nl
 opendata.cybersecuritycouncil.nl
 opendata.cybersecurityraad.nl
 opendata.datavoorgezondheid.nl
+opendata.dcc-ienw.nl
 opendata.english.aivd.nl
 opendata.english.autoriteitnvs.nl
 opendata.english.belastingdienst-cn.nl
@@ -2357,6 +2360,7 @@ www.cybersecuritycouncil.nl
 www.cybersecurityraad.nl
 www.dataportaal.brabant.nl
 www.datavoorgezondheid.nl
+www.dcc-ienw.nl
 www.dmo.omgevingswet.overheid.nl
 www.enabling.omgevingswet.overheid.nl
 www.gtmx.acc.belastingdienst.nl

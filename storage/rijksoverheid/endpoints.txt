@@ -337,6 +337,7 @@ https://dataportaal.brabant.nl
 https://datavoorgezondheid.nl
 https://datumprikker.belastingdienst.nl
 https://db.cbg-meb.nl
+https://dcc-ienw.nl
 https://dcp-time-slot.cbg-meb.nl
 https://decentrale.regelgeving.overheid.nl
 https://delta.belastingdienst.nl
@@ -471,6 +472,7 @@ https://feeds.cvte.nl
 https://feeds.cybersecuritycouncil.nl
 https://feeds.cybersecurityraad.nl
 https://feeds.datavoorgezondheid.nl
+https://feeds.dcc-ienw.nl
 https://feeds.english.aivd.nl
 https://feeds.english.autoriteitnvs.nl
 https://feeds.english.belastingdienst-cn.nl
@@ -721,6 +723,7 @@ https://opendata.cvte.nl
 https://opendata.cybersecuritycouncil.nl
 https://opendata.cybersecurityraad.nl
 https://opendata.datavoorgezondheid.nl
+https://opendata.dcc-ienw.nl
 https://opendata.english.aivd.nl
 https://opendata.english.autoriteitnvs.nl
 https://opendata.english.belastingdienst-cn.nl
@@ -1074,6 +1077,7 @@ https://www.cybersecuritycouncil.nl
 https://www.cybersecurityraad.nl
 https://www.dataportaal.brabant.nl
 https://www.datavoorgezondheid.nl
+https://www.dcc-ienw.nl
 https://www.dmo.omgevingswet.overheid.nl
 https://www.enabling.omgevingswet.overheid.nl
 https://www.igj.nl

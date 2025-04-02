@@ -2625,6 +2625,7 @@ https://datavoorgezondheid.nl
 https://datumprikker.belastingdienst.nl
 https://db.cbg-meb.nl
 https://db01.deventer.nl
+https://dcc-ienw.nl
 https://dcp-time-slot.cbg-meb.nl
 https://dds-vwes21.westerwolde.nl
 https://de.gemert-bakel.nl
@@ -3591,6 +3592,7 @@ https://feeds.cvte.nl
 https://feeds.cybersecuritycouncil.nl
 https://feeds.cybersecurityraad.nl
 https://feeds.datavoorgezondheid.nl
+https://feeds.dcc-ienw.nl
 https://feeds.english.aivd.nl
 https://feeds.english.autoriteitnvs.nl
 https://feeds.english.belastingdienst-cn.nl
@@ -6265,6 +6267,7 @@ https://opendata.cvte.nl
 https://opendata.cybersecuritycouncil.nl
 https://opendata.cybersecurityraad.nl
 https://opendata.datavoorgezondheid.nl
+https://opendata.dcc-ienw.nl
 https://opendata.english.aivd.nl
 https://opendata.english.autoriteitnvs.nl
 https://opendata.english.belastingdienst-cn.nl
@@ -9017,6 +9020,7 @@ https://www.dantumadiel.frl
 https://www.dataportaal.brabant.nl
 https://www.dataportaal.tilburg.nl
 https://www.datavoorgezondheid.nl
+https://www.dcc-ienw.nl
 https://www.de.gemert-bakel.nl
 https://www.debilt.nl
 https://www.defryskemarren.nl
