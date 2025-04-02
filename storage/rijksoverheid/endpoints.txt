@@ -422,6 +422,7 @@ https://ebms.contentbeheer.omgevingswet.overheid.nl
 https://ebms.service.bta.omgevingswet.overheid.nl
 https://editor-drp-preprd.overheid.nl
 https://editor-drp.overheid.nl
+https://eentegeneenzaamheid.nl
 https://efm.belastingdienst.nl
 https://eidas-stub.lpc.mijn.overheid.nl
 https://eloket.aaenmaas.nl
@@ -547,6 +548,7 @@ https://feeds.dutchncca.nl
 https://feeds.dutchoffshorewindatlas.nl
 https://feeds.dutchrapporteur.nl
 https://feeds.dwangindezorg.nl
+https://feeds.eentegeneenzaamheid.nl
 https://feeds.english.aivd.nl
 https://feeds.english.autoriteitnvs.nl
 https://feeds.english.belastingdienst-cn.nl
@@ -838,6 +840,7 @@ https://opendata.dutchncca.nl
 https://opendata.dutchoffshorewindatlas.nl
 https://opendata.dutchrapporteur.nl
 https://opendata.dwangindezorg.nl
+https://opendata.eentegeneenzaamheid.nl
 https://opendata.english.aivd.nl
 https://opendata.english.autoriteitnvs.nl
 https://opendata.english.belastingdienst-cn.nl
@@ -1228,6 +1231,7 @@ https://www.dutchncca.nl
 https://www.dutchoffshorewindatlas.nl
 https://www.dutchrapporteur.nl
 https://www.dwangindezorg.nl
+https://www.eentegeneenzaamheid.nl
 https://www.enabling.omgevingswet.overheid.nl
 https://www.igj.nl
 https://www.int.omgevingswet.overheid.nl

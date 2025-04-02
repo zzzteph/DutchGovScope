@@ -156,6 +156,7 @@ acc.beeldbellen.dji.nl
 acc.client.archis.cultureelerfgoed.nl
 acc.contactherstelservice.lpc.mijn.overheid.nl
 acc.digid-stub.lpc.mijn.overheid.nl
+acc.eentegeneenzaamheid.nl
 acc.eidas-stub.lpc.mijn.overheid.nl
 acc.encoded.api-gateway.archis.cultureelerfgoed.nl
 acc.gml.map.services.cultureelerfgoed.nl
@@ -830,6 +831,7 @@ ebms.service.bta.omgevingswet.overheid.nl
 editor-drp-preprd.overheid.nl
 editor-drp.overheid.nl
 editorial.defensie.nl
+eentegeneenzaamheid.nl
 efm.belastingdienst.nl
 eherkenning.services.cibg.nl
 eherkenningtest.services.cibg.nl
@@ -1000,6 +1002,7 @@ feeds.dutchncca.nl
 feeds.dutchoffshorewindatlas.nl
 feeds.dutchrapporteur.nl
 feeds.dwangindezorg.nl
+feeds.eentegeneenzaamheid.nl
 feeds.english.aivd.nl
 feeds.english.autoriteitnvs.nl
 feeds.english.belastingdienst-cn.nl
@@ -1725,6 +1728,7 @@ opendata.dutchncca.nl
 opendata.dutchoffshorewindatlas.nl
 opendata.dutchrapporteur.nl
 opendata.dwangindezorg.nl
+opendata.eentegeneenzaamheid.nl
 opendata.english.aivd.nl
 opendata.english.autoriteitnvs.nl
 opendata.english.belastingdienst-cn.nl
@@ -2589,6 +2593,7 @@ www.dutchncca.nl
 www.dutchoffshorewindatlas.nl
 www.dutchrapporteur.nl
 www.dwangindezorg.nl
+www.eentegeneenzaamheid.nl
 www.enabling.omgevingswet.overheid.nl
 www.gtmx.acc.belastingdienst.nl
 www.igj.nl
