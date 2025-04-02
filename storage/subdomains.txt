@@ -11,8 +11,8 @@ webmail
 mail
 simsite
 afspraken
-digikoppeling
 opendata
+digikoppeling
 feeds
 preproductie
 simcms
@@ -62,12 +62,12 @@ remote
 openpdc
 belastingbalie
 cmsoo
+english
 login
 osb
 loket.acceptatie
 openpub
 omgevingsvisie
-english
 beeldbank
 cloudadapter-test
 digikoppeling-test
@@ -81,11 +81,11 @@ a-www
 cloudadapter
 a-feeds
 a-opendata
+feeds.english
+opendata.english
 connect
 berichten
 parkeren-acc
-feeds.english
-opendata.english
 govroam
 digikoppeling.test
 mks

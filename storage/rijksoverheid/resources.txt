@@ -873,6 +873,7 @@ english.dienstterugkeerenvertrek.nl
 english.domeinenrz.nl
 english.donorregister.nl
 english.dsta.nl
+english.euthanasiecommissie.nl
 english.igj.nl
 english.sso3w.nl
 enterpriseenrollment.cbg-meb.nl
@@ -903,6 +904,7 @@ eubtw-acc.belastingdienst.nl
 eubtw.belastingdienst.nl
 eubtw.str15.acc.belastingdienst.nl
 eubtw.str2.tst.belastingdienst.nl
+euthanasiecommissie.nl
 eux-olo.belastingdienst.nl
 eux-tao.belastingdienst.nl
 evat-test2.belastingdienst.nl
@@ -1038,9 +1040,11 @@ feeds.english.dienstterugkeerenvertrek.nl
 feeds.english.domeinenrz.nl
 feeds.english.donorregister.nl
 feeds.english.dsta.nl
+feeds.english.euthanasiecommissie.nl
 feeds.english.igj.nl
 feeds.english.sso3w.nl
 feeds.erfgoeddeal.nl
+feeds.euthanasiecommissie.nl
 feeds.igj.nl
 feeds.nieuwsbrievenminocw.nl
 feeds.papiamentu.belastingdienst-cn.nl
@@ -1776,8 +1780,10 @@ opendata.english.dienstterugkeerenvertrek.nl
 opendata.english.domeinenrz.nl
 opendata.english.donorregister.nl
 opendata.english.dsta.nl
+opendata.english.euthanasiecommissie.nl
 opendata.english.igj.nl
 opendata.english.sso3w.nl
+opendata.euthanasiecommissie.nl
 opendata.igj.nl
 opendata.nieuwsbrievenminocw.nl
 opendata.papiamentu.belastingdienst-cn.nl
@@ -2644,6 +2650,7 @@ www.emm-online.nl
 www.enabling.omgevingswet.overheid.nl
 www.energierijkdenhaag.nl
 www.erfgoeddeal.nl
+www.euthanasiecommissie.nl
 www.gtmx.acc.belastingdienst.nl
 www.igj.nl
 www.int.omgevingswet.overheid.nl

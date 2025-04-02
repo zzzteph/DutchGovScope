@@ -3432,6 +3432,7 @@ https://english.domeinenrz.nl
 https://english.donorregister.nl
 https://english.dsta.nl
 https://english.eindhoven.nl
+https://english.euthanasiecommissie.nl
 https://english.igj.nl
 https://english.sso3w.nl
 https://enkhuizen.nl
@@ -3565,6 +3566,7 @@ https://escharen.landvancuijk.nl
 https://esuitenotubiz-test.westvoorne.nl
 https://etl.haarlemmermeer.nl
 https://eubtw.belastingdienst.nl
+https://euthanasiecommissie.nl
 https://evenementen-acc.denhaag.nl
 https://evenementen.almere.nl
 https://evenementen.breda.nl
@@ -3703,9 +3705,11 @@ https://feeds.english.dienstterugkeerenvertrek.nl
 https://feeds.english.domeinenrz.nl
 https://feeds.english.donorregister.nl
 https://feeds.english.dsta.nl
+https://feeds.english.euthanasiecommissie.nl
 https://feeds.english.igj.nl
 https://feeds.english.sso3w.nl
 https://feeds.erfgoeddeal.nl
+https://feeds.euthanasiecommissie.nl
 https://feeds.igj.nl
 https://feeds.nieuwsbrievenminocw.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
@@ -6430,8 +6434,10 @@ https://opendata.english.dienstterugkeerenvertrek.nl
 https://opendata.english.domeinenrz.nl
 https://opendata.english.donorregister.nl
 https://opendata.english.dsta.nl
+https://opendata.english.euthanasiecommissie.nl
 https://opendata.english.igj.nl
 https://opendata.english.sso3w.nl
+https://opendata.euthanasiecommissie.nl
 https://opendata.heemstede.nl
 https://opendata.igj.nl
 https://opendata.nieuwsbrievenminocw.nl
@@ -9286,6 +9292,7 @@ https://www.erfgoed.groningen.nl
 https://www.erfgoeddeal.nl
 https://www.ermelo.nl
 https://www.etten-leur.nl
+https://www.euthanasiecommissie.nl
 https://www.fietsroutes.landvancuijk.nl
 https://www.financielestukken.diemen.nl
 https://www.financielestukken.ouder-amstel.nl
