@@ -881,6 +881,7 @@ enterpriseregistration.domeinenrz.nl
 enterpriseregistration.pc.belastingdienst.nl
 eovgb-acc.aivd.nl
 eovgb.aivd.nl
+erfgoeddeal.nl
 erfgoedmonitor.cultureelerfgoed.nl
 esb-a1.brabant.nl
 esb-acpt.brabant.nl
@@ -1039,6 +1040,7 @@ feeds.english.donorregister.nl
 feeds.english.dsta.nl
 feeds.english.igj.nl
 feeds.english.sso3w.nl
+feeds.erfgoeddeal.nl
 feeds.igj.nl
 feeds.nieuwsbrievenminocw.nl
 feeds.papiamentu.belastingdienst-cn.nl
@@ -2641,6 +2643,7 @@ www.emissionsauthority.nl
 www.emm-online.nl
 www.enabling.omgevingswet.overheid.nl
 www.energierijkdenhaag.nl
+www.erfgoeddeal.nl
 www.gtmx.acc.belastingdienst.nl
 www.igj.nl
 www.int.omgevingswet.overheid.nl

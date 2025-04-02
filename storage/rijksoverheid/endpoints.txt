@@ -464,6 +464,7 @@ https://enterpriseregistration.belastingdienst.nl
 https://enterpriseregistration.domeinenrz.nl
 https://eovgb-acc.aivd.nl
 https://eovgb.aivd.nl
+https://erfgoeddeal.nl
 https://erfgoedmonitor.cultureelerfgoed.nl
 https://esb-a1.brabant.nl
 https://esb-acpt.brabant.nl
@@ -584,6 +585,7 @@ https://feeds.english.donorregister.nl
 https://feeds.english.dsta.nl
 https://feeds.english.igj.nl
 https://feeds.english.sso3w.nl
+https://feeds.erfgoeddeal.nl
 https://feeds.igj.nl
 https://feeds.nieuwsbrievenminocw.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
@@ -1275,6 +1277,7 @@ https://www.emissionsauthority.nl
 https://www.emm-online.nl
 https://www.enabling.omgevingswet.overheid.nl
 https://www.energierijkdenhaag.nl
+https://www.erfgoeddeal.nl
 https://www.igj.nl
 https://www.int.omgevingswet.overheid.nl
 https://www.int02.omgevingswet.overheid.nl

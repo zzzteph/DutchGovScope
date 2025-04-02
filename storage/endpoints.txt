@@ -3518,6 +3518,7 @@ https://erfgoed.medemblik.nl
 https://erfgoed.utrecht.nl
 https://erfgoed.zaanstad.nl
 https://erfgoed.zwolle.nl
+https://erfgoeddeal.nl
 https://erfgoedmaasenniers.gennep.nl
 https://erfgoedmonitor.cultureelerfgoed.nl
 https://erfgoedregister.amsterdam.nl
@@ -3704,6 +3705,7 @@ https://feeds.english.donorregister.nl
 https://feeds.english.dsta.nl
 https://feeds.english.igj.nl
 https://feeds.english.sso3w.nl
+https://feeds.erfgoeddeal.nl
 https://feeds.igj.nl
 https://feeds.nieuwsbrievenminocw.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
@@ -9281,6 +9283,7 @@ https://www.enquete.denhaag.nl
 https://www.enschede.nl
 https://www.epe.nl
 https://www.erfgoed.groningen.nl
+https://www.erfgoeddeal.nl
 https://www.ermelo.nl
 https://www.etten-leur.nl
 https://www.fietsroutes.landvancuijk.nl

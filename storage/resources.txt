@@ -5477,6 +5477,7 @@ erfgoed.medemblik.nl
 erfgoed.utrecht.nl
 erfgoed.zaanstad.nl
 erfgoed.zwolle.nl
+erfgoeddeal.nl
 erfgoedmaasenniers.gennep.nl
 erfgoedmonitor.cultureelerfgoed.nl
 erfgoedregister.amsterdam.nl
@@ -5772,6 +5773,7 @@ feeds.english.donorregister.nl
 feeds.english.dsta.nl
 feeds.english.igj.nl
 feeds.english.sso3w.nl
+feeds.erfgoeddeal.nl
 feeds.igj.nl
 feeds.nieuwsbrievenminocw.nl
 feeds.papiamentu.belastingdienst-cn.nl
@@ -16770,6 +16772,7 @@ www.enquete.denhaag.nl
 www.enschede.nl
 www.epe.nl
 www.erfgoed.groningen.nl
+www.erfgoeddeal.nl
 www.erfpacht.amsterdam.nl
 www.ermelo.nl
 www.esb-prod.groningen.nl
