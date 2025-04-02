@@ -112,6 +112,7 @@ squit2go
 www.webmail
 filecap
 dtestmidoffice
+a-www
 mdm
 sts
 mijnzorg
@@ -124,7 +125,8 @@ qr
 gemeente
 bastion365
 obsurv
-a-www
+a-feeds
+a-opendata
 smtp
 english
 e
@@ -138,8 +140,6 @@ acc-podiumd-logs
 woningbouwkaart
 contentbeheer
 micollab
-a-feeds
-a-opendata
 mobiel
 lyncdiscover
 email
@@ -188,6 +188,7 @@ transfer
 _dmarc
 evenementen
 fs
+onderzoek
 college
 bis
 legacy
@@ -210,7 +211,6 @@ veiligdelen
 geodata
 belastingbalie-test
 mail2
-onderzoek
 jcc
 sharefile
 telewerken
@@ -422,6 +422,7 @@ dataportaal
 id
 www.kaarten
 www.mail
+ons
 loket.test
 www.acceptatie
 secure-test
@@ -698,7 +699,6 @@ autodiscover.groenlinks
 autodiscover.pvda
 autodiscover.vvd
 portaltest
-ons
 sera
 preprod-mijnsociaaldomein
 autorisatiebeheer-test

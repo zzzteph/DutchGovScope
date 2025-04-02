@@ -28,6 +28,7 @@ a-feeds.bigregister.nl
 a-feeds.cbg-meb.nl
 a-feeds.centralecommissiedierproeven.nl
 a-feeds.cibg.nl
+a-feeds.communicatierijk.nl
 a-feeds.igj.nl
 a-feeds.rijksoverheid.nl
 a-git.rijksoverheid.nl
@@ -50,6 +51,7 @@ a-opendata.bigregister.nl
 a-opendata.cbg-meb.nl
 a-opendata.centralecommissiedierproeven.nl
 a-opendata.cibg.nl
+a-opendata.communicatierijk.nl
 a-opendata.igj.nl
 a-opendata.rijksoverheid.nl
 a-persberichten.rijksoverheid.nl
@@ -72,6 +74,7 @@ a-www.cbg-meb.nl
 a-www.cbgjaarverslag.nl
 a-www.centralecommissiedierproeven.nl
 a-www.cibg.nl
+a-www.communicatierijk.nl
 a-www.igj.nl
 a-www.rijksoverheid.nl
 a2vonderenkerensheide.nl
@@ -541,6 +544,7 @@ commissaris.brabant.nl
 commissiecelz.nl
 commissiemijnbouwschade.nl
 commissievanaanbestedingsexperts.nl
+communicatierijk.nl
 community.developer.overheid.nl
 competent.cibg.nl
 componenten-acc.overheid.nl
@@ -803,6 +807,7 @@ feeds.collegevanrijksadviseurs.nl
 feeds.commissiecelz.nl
 feeds.commissiemijnbouwschade.nl
 feeds.commissievanaanbestedingsexperts.nl
+feeds.communicatierijk.nl
 feeds.english.aivd.nl
 feeds.english.autoriteitnvs.nl
 feeds.english.belastingdienst-cn.nl
@@ -1359,8 +1364,10 @@ ondersteuning.omgevingswet.overheid.nl
 ondertekenen.brabant.nl
 ondertekenentst.brabant.nl
 ondertekeningsviewer.overheid.nl
+onderzoek.communicatierijk.nl
 onderzoeksbank.brabant.nl
 onlineaangifte.str1.acc.belastingdienst.nl
+ons.communicatierijk.nl
 ont.belastingdienst.nl
 ontimegtw.belastingdienst.nl
 ontimegtw.ont.belastingdienst.nl
@@ -1415,6 +1422,7 @@ opendata.collegevanrijksadviseurs.nl
 opendata.commissiecelz.nl
 opendata.commissiemijnbouwschade.nl
 opendata.commissievanaanbestedingsexperts.nl
+opendata.communicatierijk.nl
 opendata.english.aivd.nl
 opendata.english.autoriteitnvs.nl
 opendata.english.belastingdienst-cn.nl
@@ -2170,6 +2178,7 @@ www.collegevanrijksadviseurs.nl
 www.commissiecelz.nl
 www.commissiemijnbouwschade.nl
 www.commissievanaanbestedingsexperts.nl
+www.communicatierijk.nl
 www.dataportaal.brabant.nl
 www.dmo.omgevingswet.overheid.nl
 www.enabling.omgevingswet.overheid.nl
