@@ -808,6 +808,7 @@ feeds.commissiecelz.nl
 feeds.commissiemijnbouwschade.nl
 feeds.commissievanaanbestedingsexperts.nl
 feeds.communicatierijk.nl
+feeds.compensationsns.nl
 feeds.english.aivd.nl
 feeds.english.autoriteitnvs.nl
 feeds.english.belastingdienst-cn.nl
@@ -1423,6 +1424,7 @@ opendata.commissiecelz.nl
 opendata.commissiemijnbouwschade.nl
 opendata.commissievanaanbestedingsexperts.nl
 opendata.communicatierijk.nl
+opendata.compensationsns.nl
 opendata.english.aivd.nl
 opendata.english.autoriteitnvs.nl
 opendata.english.belastingdienst-cn.nl
@@ -2179,6 +2181,7 @@ www.commissiecelz.nl
 www.commissiemijnbouwschade.nl
 www.commissievanaanbestedingsexperts.nl
 www.communicatierijk.nl
+www.compensationsns.nl
 www.dataportaal.brabant.nl
 www.dmo.omgevingswet.overheid.nl
 www.enabling.omgevingswet.overheid.nl
