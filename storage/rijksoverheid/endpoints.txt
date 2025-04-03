@@ -753,6 +753,7 @@ https://feeds.mirtoverzicht.nl
 https://feeds.monitorlangdurigezorg.nl
 https://feeds.nationaalcoordinatorgroningen.nl
 https://feeds.nationaalgroeifonds.nl
+https://feeds.nationaalrapporteur.nl
 https://feeds.nieuwsbrievenminocw.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.papiamentu.mijncn.nl
@@ -1073,6 +1074,7 @@ https://mul.belastingdienst.nl
 https://mwr-app-cdn-ota.belastingdienst.nl
 https://mwr-app-cdn.belastingdienst.nl
 https://nationaalcoordinatorgroningen.nl
+https://nationaalrapporteur.nl
 https://natuur.omgevingswet.overheid.nl
 https://natuurbeheerplan.flevoland.nl
 https://nieuws.brabant.nl
@@ -1290,6 +1292,7 @@ https://opendata.mirtoverzicht.nl
 https://opendata.monitorlangdurigezorg.nl
 https://opendata.nationaalcoordinatorgroningen.nl
 https://opendata.nationaalgroeifonds.nl
+https://opendata.nationaalrapporteur.nl
 https://opendata.nieuwsbrievenminocw.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.papiamentu.mijncn.nl
@@ -1845,6 +1848,7 @@ https://www.monitorlangdurigezorg.nl
 https://www.monumentenregister.cultureelerfgoed.nl
 https://www.nationaalcoordinatorgroningen.nl
 https://www.nationaalgroeifonds.nl
+https://www.nationaalrapporteur.nl
 https://www.nieuwsbrievenminocw.nl
 https://www.omgevingsplan.flevoland.nl
 https://www.omgevingswet.overheid.nl
