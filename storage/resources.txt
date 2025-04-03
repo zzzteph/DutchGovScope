@@ -6118,6 +6118,7 @@ feeds.nieuwsbrieven.rijkswaterstaat.nl
 feeds.nieuwsbrievenminocw.nl
 feeds.nifp.nl
 feeds.nimh.nl
+feeds.nix18.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.papiamentu.mijncn.nl
 feeds.persberichten.rijksoverheid.nl
@@ -10984,6 +10985,7 @@ nissewaardtf_acceptance.nissewaard.nl
 nivo-acc.overbetuwe.nl
 nivo.gem.overbetuwe.nl
 nivo.overbetuwe.nl
+nix18.nl
 nlb-irma-disclosure.nijmegen.nl
 nlb-irma.nijmegen.nl
 nlb-test-irma-disclosure.nijmegen.nl
@@ -11710,6 +11712,7 @@ opendata.nieuwsbrievenminocw.nl
 opendata.nifp.nl
 opendata.nijmegen.nl
 opendata.nimh.nl
+opendata.nix18.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.papiamentu.mijncn.nl
 opendata.persberichten.rijksoverheid.nl
@@ -18156,6 +18159,7 @@ www.nijmegen.nl
 www.nimh.nl
 www.nimmaleert.nijmegen.nl
 www.nissewaard.nl
+www.nix18.nl
 www.noardeast-fryslan.nl
 www.noord-beveland.nl
 www.noorderkwartier.zwolle.nl

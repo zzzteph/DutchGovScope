@@ -3959,6 +3959,7 @@ https://feeds.nieuwsbrieven.rijkswaterstaat.nl
 https://feeds.nieuwsbrievenminocw.nl
 https://feeds.nifp.nl
 https://feeds.nimh.nl
+https://feeds.nix18.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.papiamentu.mijncn.nl
 https://feeds.persberichten.rijksoverheid.nl
@@ -6458,6 +6459,7 @@ https://nimh-beeldbank.defensie.nl
 https://nimh.nl
 https://nimmaleert.nijmegen.nl
 https://nissewaard.nl
+https://nix18.nl
 https://nlgembrl.brielle.nl
 https://nln.nunspeet.nl
 https://nls.ndw.nu
@@ -6995,6 +6997,7 @@ https://opendata.nieuwsbrievenminocw.nl
 https://opendata.nifp.nl
 https://opendata.nijmegen.nl
 https://opendata.nimh.nl
+https://opendata.nix18.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.papiamentu.mijncn.nl
 https://opendata.persberichten.rijksoverheid.nl
@@ -10239,6 +10242,7 @@ https://www.nijmegen.nl
 https://www.nimh.nl
 https://www.nimmaleert.nijmegen.nl
 https://www.nissewaard.nl
+https://www.nix18.nl
 https://www.noardeast-fryslan.nl
 https://www.noord-beveland.nl
 https://www.noorderkwartier.zwolle.nl
