@@ -34,6 +34,7 @@ http://amp-idp.logius.nl
 http://amp-pre.logius.nl
 http://amp.logius.nl
 http://ansvlm2009.landsmeer.nl
+http://api.rdi.nl
 http://archief-yell-cms.etten-leur.nl
 http://archief-yell.etten-leur.nl
 http://atlas-acpt.brabant.nl
@@ -350,6 +351,7 @@ http://hybrid.dalfsen.nl
 http://hybrid.kampen.nl
 http://iam-acc.almere.nl
 http://iam-containerplatform-az1.lpc.logius.nl
+http://iam.rdi.nl
 http://ict-ers.werkenvoornederland.nl
 http://icters.werkenvoornederland.nl
 http://id-subsidies-login.acceptatie.ede.nl
@@ -2364,6 +2366,7 @@ https://ca-idp-pre.logius.nl
 https://ca-idp.logius.nl
 https://caas.ndw.nu
 https://cairo.rotterdam.nl
+https://callbook.rdi.nl
 https://camera.sliedrecht.nl
 https://campagnetoolkits.nl
 https://campus.groningen.nl
@@ -4086,6 +4089,7 @@ https://feeds.rabarijk.nl
 https://feeds.rcgog.nl
 https://feeds.rcihh.nl
 https://feeds.rda.nl
+https://feeds.rdi.nl
 https://feeds.rijksoverheid.nl
 https://felix.baarn.nl
 https://felix.bergen.nl
@@ -5054,6 +5058,7 @@ https://id.limburg.nl
 https://id.trouwen.tilburg.nl
 https://idcontact-accp.nijmegen.nl
 https://idee.roosendaal.nl
+https://identificatie.rdi.nl
 https://identifier-preprod.overheid.nl
 https://identifier.overheid.nl
 https://identity-test.huizen.nl
@@ -5136,6 +5141,7 @@ https://info.sudwestfryslan.nl
 https://infomilcn.com
 https://infoopkaart.steenwijkerland.nl
 https://infoplein.oosterhout.nl
+https://infoportal.rdi.nl
 https://informatiehuishouding.nl
 https://informatieplattegrond.denhaag.nl
 https://informatieportaal.justid.nl
@@ -5902,6 +5908,7 @@ https://magazines.nvwa.nl
 https://magazines.nza.nl
 https://magazines.onderwijsinspectie.nl
 https://magazines.overheidvannu.nl
+https://magazines.rdi.nl
 https://magazines.rijksoverheid.nl
 https://magazines.rotterdam.nl
 https://magazines.werkenvoornederland.nl
@@ -6259,6 +6266,7 @@ https://mijn.oude-ijsselstreek.nl
 https://mijn.overbetuwe.nl
 https://mijn.overheid.nl
 https://mijn.pekela.nl
+https://mijn.rdi.nl
 https://mijn.roermond.nl
 https://mijn.roosendaal.nl
 https://mijn.rotterdam.nl
@@ -6918,6 +6926,7 @@ https://onderzoek.nederlandwereldwijd.nl
 https://onderzoek.nieuwegein.nl
 https://onderzoek.odmh.nl
 https://onderzoek.purmerend.nl
+https://onderzoek.rdi.nl
 https://onderzoek.utrecht.nl
 https://onderzoek.veenendaal.nl
 https://onderzoeksbank.brabant.nl
@@ -7286,6 +7295,7 @@ https://opendata.rabarijk.nl
 https://opendata.rcgog.nl
 https://opendata.rcihh.nl
 https://opendata.rda.nl
+https://opendata.rdi.nl
 https://opendata.rijksoverheid.nl
 https://opendata.roosendaal.nl
 https://opendata.utrecht.nl
@@ -7960,6 +7970,7 @@ https://probeer.winterswijk.nl
 https://prod-dictu.comcms.logius.nl
 https://prod-dictu.logius.nl
 https://prod.nl-alert.nl
+https://prod.radar.rdi.nl
 https://prod.stedebroec.nl
 https://productenraming.venlo.nl
 https://productie.postex.heusden.nl
@@ -8136,6 +8147,7 @@ https://raadzaam.nieuwegein.nl
 https://raadzaam.nijmegen.nl
 https://raalte.nl
 https://raas.rotterdam.nl
+https://radar.rdi.nl
 https://radar.rotterdam.nl
 https://radicaalofpuberaal.nctv.nl
 https://rads.rotterdam.nl
@@ -8150,6 +8162,7 @@ https://rcihh.nl
 https://rd1.toegang.overheid.nl
 https://rd2.toegang.overheid.nl
 https://rda.nl
+https://rdi.nl
 https://rdweb.houten.nl
 https://rdweb01.schagen.nl
 https://realtime.ndw.nu
@@ -8631,6 +8644,7 @@ https://sliedrecht-checker-preprod.sliedrecht.nl
 https://sliedrecht-checker.sliedrecht.nl
 https://sliedrecht.nl
 https://slim-reizen.ndw.nu
+https://slimmestad.rdi.nl
 https://smallingerland.nl
 https://smap.almere.nl
 https://smartaim-test.haarlemmermeer.nl
@@ -9409,6 +9423,7 @@ https://unesco.landvancuijk.nl
 https://unjunk.krimpenerwaard.nl
 https://upk.afs.acc.amsterdam.nl
 https://upk.afs.amsterdam.nl
+https://uploadmodule.rdi.nl
 https://ureka.utrecht.nl
 https://urknet.urk.nl
 https://url6099.mail.postedworkers.nl
@@ -10748,6 +10763,7 @@ https://www.ras-acc.nvwa.nl
 https://www.rcgog.nl
 https://www.rcihh.nl
 https://www.rda.nl
+https://www.rdi.nl
 https://www.regentesseplein.denhaag.nl
 https://www.regiocheckervth.denhaag.nl
 https://www.reimerswaal.nl

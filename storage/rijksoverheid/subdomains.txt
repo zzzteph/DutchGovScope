@@ -450,6 +450,7 @@ api.nederlandwereldwijd.nl
 api.ondernemersplein.overheid.nl
 api.p-direkt.nl
 api.preprod.mijn.overheid.nl
+api.rdi.nl
 api.standaarden.overheid.nl
 api.tst.mijn.overheid.nl
 api.tst0.mijn.overheid.nl
@@ -760,6 +761,7 @@ ca-tst.logius.nl
 ca.logius.nl
 caas.ndw.nu
 calendartst.brabant.nl
+callbook.rdi.nl
 campagnetoolkits.nl
 caorijk.nl
 cap.om.belastingdienst.nl
@@ -1540,6 +1542,7 @@ feeds.rabarijk.nl
 feeds.rcgog.nl
 feeds.rcihh.nl
 feeds.rda.nl
+feeds.rdi.nl
 feeds.rijksoverheid.nl
 fibb-perf.acc.belastingdienst.nl
 fibb1.belastingdienst.nl
@@ -1858,6 +1861,7 @@ iam-containerplatform-az1.lpc.logius.nl
 iam-containerplatform.logius.nl
 iam-containerplatform.lpc.logius.nl
 iam.ndw.nu
+iam.rdi.nl
 iam.staging.ndw.nu
 ib-preprod.provincie-utrecht.nl
 ib.provincie-utrecht.nl
@@ -1869,6 +1873,7 @@ id.limburg.nl
 ideal20-cnf.belastingdienst.nl
 ideal20-test.belastingdienst.nl
 ideal20.belastingdienst.nl
+identificatie.rdi.nl
 identifier-acc.overheid.nl
 identifier-preprod.overheid.nl
 identifier.overheid.nl
@@ -1896,6 +1901,7 @@ incassomachtigen.str11.acc.belastingdienst.nl
 incassomachtigen.str12.acc.belastingdienst.nl
 incassomachtigen.str13.acc.belastingdienst.nl
 infomilcn.com
+infoportal.rdi.nl
 informatie-acpt.brabant.nl
 informatie-ext.brabant.nl
 informatie-rws.brabant.nl
@@ -2146,6 +2152,7 @@ magazines.nza.nl
 magazines.onderwijsinspectie.nl
 magazines.overheidvannu.nl
 magazines.p-direkt.nl
+magazines.rdi.nl
 magazines.rijksoverheid.nl
 magazines.werkenvoornederland.nl
 magazinesintern.p-direkt.nl
@@ -2248,6 +2255,7 @@ micollab.mensenrechten.nl
 mijn-aanvraag.belastingdienst.nl
 mijn-acc.igj.nl
 mijn-acc.nvwa.nl
+mijn-acc.rdi.nl
 mijn-acc1.belastingdienst.nl
 mijn-acc1.toeslagen.nl
 mijn-acc2.toeslagen.nl
@@ -2274,6 +2282,7 @@ mijn.ndw.nu
 mijn.nvwa.nl
 mijn.ont.belastingdienst.nl
 mijn.overheid.nl
+mijn.rdi.nl
 mijn.str10.acc.belastingdienst.nl
 mijn.str10.tst.belastingdienst.nl
 mijn.str11.acc.belastingdienst.nl
@@ -2572,6 +2581,7 @@ onderwijsregio.nl
 onderzoek.communicatierijk.nl
 onderzoek.nederlandwereldwijd.nl
 onderzoek.odmh.nl
+onderzoek.rdi.nl
 onderzoeksbank.brabant.nl
 onlineaangifte.str1.acc.belastingdienst.nl
 ons.communicatierijk.nl
@@ -2854,6 +2864,7 @@ opendata.rabarijk.nl
 opendata.rcgog.nl
 opendata.rcihh.nl
 opendata.rda.nl
+opendata.rdi.nl
 opendata.rijksoverheid.nl
 opendisdata-acc.nza.nl
 opendisdata.nza.nl
@@ -3051,6 +3062,7 @@ prod-kvk.belastingdienst.nl
 prod.cultureelerfgoed.nl
 prod.flevoland.nl
 prod.nl-alert.nl
+prod.radar.rdi.nl
 prod2.opendata.nederlandwereldwijd.nl
 projecten.netwerkplatteland.nl
 prolander.nl
@@ -3090,6 +3102,7 @@ raadopenbaarbestuur.nl
 raadplegen.donorregister.nl
 raadrvs.nl
 raadvoorcultuur.nl
+radar.rdi.nl
 radicaalofpuberaal.nctv.nl
 rand.hhdelfland.nl
 rap.belastingdienst.nl
@@ -3106,6 +3119,7 @@ rd1.toegang.overheid.nl
 rd2.toegang.overheid.nl
 rda.nl
 rdgateway.awti.nl
+rdi.nl
 realtime.ndw.nu
 realtime.staging.ndw.nu
 redactie-tl.iplo.nl
@@ -3313,6 +3327,7 @@ site8.rijksoverheid.nl
 slechtvalk.brabant.nl
 slechtvalk.provincie-utrecht.nl
 slim-reizen.ndw.nu
+slimmestad.rdi.nl
 sltn.bzv.brabant.nl
 smartmobility.flevoland.nl
 smtp.awti.nl
@@ -3619,6 +3634,7 @@ tunnelmdm.flevoland.nl
 uag.ncsc.nl
 uconnect-acc.hdsr.nl
 uconnect.hdsr.nl
+uploadmodule.rdi.nl
 uptime.bureauwbtv.nl
 url6099.mail.postedworkers.nl
 uwork.flevoland.nl
@@ -4204,6 +4220,7 @@ www.ras-acc.nvwa.nl
 www.rcgog.nl
 www.rcihh.nl
 www.rda.nl
+www.rdi.nl
 www.rijksoverheid.nl
 www.risicokaart.flevoland.nl
 www.sharepoint-conf.belastingdienst.nl

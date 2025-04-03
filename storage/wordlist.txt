@@ -62,8 +62,8 @@ dacceptatiemidoffice
 remote
 dloket
 dmidoffice
-login
 magazines
+login
 enterpriseregistration
 beeldbank
 osb
@@ -127,6 +127,7 @@ filecap
 dtestmidoffice
 _dmarc
 a-english
+api
 lyncdiscover
 inloggen
 mijnzorg
@@ -139,9 +140,9 @@ qr
 gemeente
 bastion365
 obsurv
-api
 mailing
 web
+onderzoek
 zaaksysteem
 connect.acceptatie
 auth
@@ -160,7 +161,6 @@ mobiel
 maps
 email
 geoportaal
-onderzoek
 AutoDiscover
 keycloak
 transfer
@@ -301,6 +301,7 @@ woz-portaal
 en
 mijnsociaaldomein
 a-magazines
+mijn-acc
 rap
 smtp1
 smtp2
@@ -353,7 +354,6 @@ www.intranet
 aeolus
 sbc01
 bezoekersparkeren
-mijn-acc
 download
 huisstijl
 ns2
@@ -448,6 +448,7 @@ loket-acc
 zaaksysteem-acc
 burgerloket.acceptatie
 welkom
+iam
 sentry
 staging
 stats
@@ -587,7 +588,6 @@ tunnel
 mx
 nac
 analytics
-iam
 join
 pop
 kadernota
@@ -943,6 +943,7 @@ scan
 search
 smtp02
 socialintranet
+radar
 edienstenburgerzaken.test
 www.praatmee
 datalab
@@ -3697,6 +3698,12 @@ formulieren.provincie
 open.provincie
 www.provincie
 adviezen
+callbook
+identificatie
+infoportal
+prod.radar
+slimmestad
+uploadmodule
 email.mail.participatie
 mail.participatie
 aalten-checker-preprod
@@ -8006,7 +8013,6 @@ projects
 psn.ise
 pzr
 raas
-radar
 rads
 rbp
 registratie

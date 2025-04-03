@@ -1716,6 +1716,7 @@ api.participatiewebshop-test.emmen.nl
 api.participatiewebshop.emmen.nl
 api.pingping.amsterdam.nl
 api.preprod.mijn.overheid.nl
+api.rdi.nl
 api.standaarden.overheid.nl
 api.straatnotes.amsterdam.nl
 api.tilburg.nl
@@ -3340,6 +3341,7 @@ caas.ndw.nu
 cag.gemeentemaasgouw.nl
 cairo.rotterdam.nl
 calendartst.brabant.nl
+callbook.rdi.nl
 camera-mkr.heerlen.nl
 camera-sport.alkmaar.nl
 camera.sliedrecht.nl
@@ -6273,6 +6275,7 @@ feeds.rabarijk.nl
 feeds.rcgog.nl
 feeds.rcihh.nl
 feeds.rda.nl
+feeds.rdi.nl
 feeds.rijksoverheid.nl
 felix.aalten.nl
 felix.achtkarspelen.nl
@@ -7812,6 +7815,7 @@ iam-portal.denhaag.nl
 iam.almere.nl
 iam.amsterdam.nl
 iam.ndw.nu
+iam.rdi.nl
 iam.staging.ndw.nu
 iamapp.acc.amsterdam.nl
 iamdigid.acc.amsterdam.nl
@@ -8244,6 +8248,7 @@ ideal20.belastingdienst.nl
 idee.roosendaal.nl
 ideevoormijnbuurt.emmen.nl
 idefix.s-hertogenbosch.nl
+identificatie.rdi.nl
 identifier-acc.overheid.nl
 identifier-preprod.overheid.nl
 identifier.overheid.nl
@@ -8374,6 +8379,7 @@ infomilcn.com
 infonet.eijsden-margraten.nl
 infoopkaart.steenwijkerland.nl
 infoplein.oosterhout.nl
+infoportal.rdi.nl
 informatie-acpt.brabant.nl
 informatie-ext.brabant.nl
 informatie-rws.brabant.nl
@@ -9782,6 +9788,7 @@ magazines.nza.nl
 magazines.onderwijsinspectie.nl
 magazines.overheidvannu.nl
 magazines.p-direkt.nl
+magazines.rdi.nl
 magazines.rijksoverheid.nl
 magazines.rotterdam.nl
 magazines.werkenvoornederland.nl
@@ -10356,6 +10363,7 @@ mijn-acc.groningen.nl
 mijn-acc.igj.nl
 mijn-acc.nvwa.nl
 mijn-acc.overbetuwe.nl
+mijn-acc.rdi.nl
 mijn-acc.sittard-geleen.nl
 mijn-acc1.belastingdienst.nl
 mijn-acc1.toeslagen.nl
@@ -10471,6 +10479,7 @@ mijn.overbetuwe.nl
 mijn.overheid.nl
 mijn.pekela.nl
 mijn.pijnacker-nootdorp.nl
+mijn.rdi.nl
 mijn.ridderkerk.nl
 mijn.rijswijk.nl
 mijn.roermond.nl
@@ -11660,6 +11669,7 @@ onderzoek.nederlandwereldwijd.nl
 onderzoek.nieuwegein.nl
 onderzoek.odmh.nl
 onderzoek.purmerend.nl
+onderzoek.rdi.nl
 onderzoek.utrecht.nl
 onderzoek.veenendaal.nl
 onderzoeksbank.brabant.nl
@@ -12065,6 +12075,7 @@ opendata.rabarijk.nl
 opendata.rcgog.nl
 opendata.rcihh.nl
 opendata.rda.nl
+opendata.rdi.nl
 opendata.rijksoverheid.nl
 opendata.roosendaal.nl
 opendata.utrecht.nl
@@ -13342,6 +13353,7 @@ prod.drechterland.nl
 prod.enkhuizen.nl
 prod.flevoland.nl
 prod.nl-alert.nl
+prod.radar.rdi.nl
 prod.stedebroec.nl
 prod2.opendata.nederlandwereldwijd.nl
 prodextsec.purmerend.nl
@@ -13600,6 +13612,7 @@ raadzaam.nijmegen.nl
 raalte.nl
 raas.rotterdam.nl
 rabbitmq.datapunt.amsterdam.nl
+radar.rdi.nl
 radar.rotterdam.nl
 radicaalofpuberaal.nctv.nl
 radius.gemeenteberkelland.nl
@@ -13631,6 +13644,7 @@ rd1.toegang.overheid.nl
 rd2.toegang.overheid.nl
 rda.nl
 rdgateway.awti.nl
+rdi.nl
 rds.gemeentesluis.nl
 rds.hofvantwente.nl
 rds.vga.amsterdam.nl
@@ -14763,6 +14777,7 @@ sliedrecht.nl
 slim-reizen.ndw.nu
 slimbereikbaar.assen.nl
 slimmeapparaten.amsterdam.nl
+slimmestad.rdi.nl
 sltest.voorst.nl
 sltn.bzv.brabant.nl
 sm1-sec.schiedam.nl
@@ -16415,6 +16430,7 @@ uniwin.amsterdam.nl
 unjunk.krimpenerwaard.nl
 upk.afs.acc.amsterdam.nl
 upk.afs.amsterdam.nl
+uploadmodule.rdi.nl
 uptime.bureauwbtv.nl
 ureka.utrecht.nl
 uren-tst.groningen.nl
@@ -18840,6 +18856,7 @@ www.ras-acc.nvwa.nl
 www.rcgog.nl
 www.rcihh.nl
 www.rda.nl
+www.rdi.nl
 www.rdsportal.haarlemmermeer.nl
 www.regelgeving.amsterdam.nl
 www.regentesseplein.denhaag.nl
