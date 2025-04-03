@@ -120,6 +120,7 @@ https://aanvraag.dus-i.nl
 https://aboutnetherlandscustoms.nl
 https://academie.acc.belastingdienst.nl
 https://academie.belastingdienst.nl
+https://academie.nifp.nl
 https://academievoorinternationalebetrekkingen.nl
 https://academy.forensischinstituut.nl
 https://acc-dictu.comcms.logius.nl
@@ -835,6 +836,7 @@ https://feeds.nederlandtegengeorganiseerdemisdaad.nl
 https://feeds.netwerkplatteland.nl
 https://feeds.nieuwsbrieven.rijkswaterstaat.nl
 https://feeds.nieuwsbrievenminocw.nl
+https://feeds.nifp.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.papiamentu.mijncn.nl
 https://feeds.persberichten.rijksoverheid.nl
@@ -1204,6 +1206,7 @@ https://netwerkplatteland.nl
 https://nieuws.brabant.nl
 https://nieuwsbrieven.limburg.nl
 https://nieuwsbrievenminocw.nl
+https://nifp.nl
 https://nimh-beeldbank.defensie.nl
 https://nls.ndw.nu
 https://nnn.flevoland.nl
@@ -1441,6 +1444,7 @@ https://opendata.nederlandwereldwijd.nl
 https://opendata.netwerkplatteland.nl
 https://opendata.nieuwsbrieven.rijkswaterstaat.nl
 https://opendata.nieuwsbrievenminocw.nl
+https://opendata.nifp.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.papiamentu.mijncn.nl
 https://opendata.persberichten.rijksoverheid.nl
@@ -1542,6 +1546,7 @@ https://pushmail.flevoland.nl
 https://put-kpi-dashboard.ndw.nu
 https://raadplegen.donorregister.nl
 https://radicaalofpuberaal.nctv.nl
+https://rapporteursnet.nifp.nl
 https://rcgog.nl
 https://rd1.toegang.overheid.nl
 https://rd2.toegang.overheid.nl
@@ -2049,6 +2054,7 @@ https://www.nederlandwereldwijd.nl
 https://www.netherlandsworldwide.nl
 https://www.netwerkplatteland.nl
 https://www.nieuwsbrievenminocw.nl
+https://www.nifp.nl
 https://www.nt.ndw.nu
 https://www.omgevingsplan.flevoland.nl
 https://www.omgevingswet.overheid.nl

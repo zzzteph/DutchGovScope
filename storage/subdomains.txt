@@ -238,6 +238,7 @@ outlook
 vth
 testloket
 contact
+academie
 filetransfer
 services
 dialin
@@ -267,7 +268,6 @@ cloudadapter-prod
 handhaving
 www.portal
 servicedesk
-academie
 zoeken
 omgevingswet
 atlas
@@ -3480,6 +3480,7 @@ prod2.opendata
 tst.opendata
 feeds.nieuwsbrieven
 opendata.nieuwsbrieven
+rapporteursnet
 email.mail.participatie
 mail.participatie
 aalten-checker-preprod

@@ -346,6 +346,7 @@ academie.drimmelen.nl
 academie.goirle.nl
 academie.landgraaf.nl
 academie.nederbetuwe.nl
+academie.nifp.nl
 academie.smallingerland.nl
 academie.weststellingwerf.nl
 academievoorinternationalebetrekkingen.nl
@@ -6114,6 +6115,7 @@ feeds.nederlandtegengeorganiseerdemisdaad.nl
 feeds.netwerkplatteland.nl
 feeds.nieuwsbrieven.rijkswaterstaat.nl
 feeds.nieuwsbrievenminocw.nl
+feeds.nifp.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.papiamentu.mijncn.nl
 feeds.persberichten.rijksoverheid.nl
@@ -10966,6 +10968,7 @@ nieuwsbrieven.zwolle.nl
 nieuwsbrievenminocw.nl
 nieuwwest.amsterdam.nl
 nieuwzaansklimaat.zaanstad.nl
+nifp.nl
 nige.denhaag.nl
 nijkerk.eu
 nijmegen.nl
@@ -11701,6 +11704,7 @@ opendata.nederlandwereldwijd.nl
 opendata.netwerkplatteland.nl
 opendata.nieuwsbrieven.rijkswaterstaat.nl
 opendata.nieuwsbrievenminocw.nl
+opendata.nifp.nl
 opendata.nijmegen.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.papiamentu.mijncn.nl
@@ -13224,6 +13228,7 @@ rap.echt-susteren.nl
 rap.gemeentesluis.nl
 rap.haarlemmermeer.nl
 rap.montferland.info
+rapporteursnet.nifp.nl
 ras.domeinenrz.nl
 ras2.domeinenrz.nl
 raster.horstaandemaas.nl
@@ -18141,6 +18146,7 @@ www.nieuwkoop.nl
 www.nieuwsbrief.enschede.nl
 www.nieuwsbrievenminocw.nl
 www.nieuwwest.amsterdam.nl
+www.nifp.nl
 www.nijkerk.eu
 www.nijmegen.nl
 www.nimmaleert.nijmegen.nl

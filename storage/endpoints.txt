@@ -708,6 +708,7 @@ https://academie.drimmelen.nl
 https://academie.goirle.nl
 https://academie.landgraaf.nl
 https://academie.nederbetuwe.nl
+https://academie.nifp.nl
 https://academie.smallingerland.nl
 https://academievoorinternationalebetrekkingen.nl
 https://academy.forensischinstituut.nl
@@ -3955,6 +3956,7 @@ https://feeds.nederlandtegengeorganiseerdemisdaad.nl
 https://feeds.netwerkplatteland.nl
 https://feeds.nieuwsbrieven.rijkswaterstaat.nl
 https://feeds.nieuwsbrievenminocw.nl
+https://feeds.nifp.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.papiamentu.mijncn.nl
 https://feeds.persberichten.rijksoverheid.nl
@@ -6448,6 +6450,7 @@ https://nieuwsbrieven.utrecht.nl
 https://nieuwsbrieven.zwolle.nl
 https://nieuwsbrievenminocw.nl
 https://nieuwzaansklimaat.zaanstad.nl
+https://nifp.nl
 https://nijmegen.nl
 https://nimh-beeldbank.defensie.nl
 https://nimmaleert.nijmegen.nl
@@ -6986,6 +6989,7 @@ https://opendata.nederlandwereldwijd.nl
 https://opendata.netwerkplatteland.nl
 https://opendata.nieuwsbrieven.rijkswaterstaat.nl
 https://opendata.nieuwsbrievenminocw.nl
+https://opendata.nifp.nl
 https://opendata.nijmegen.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.papiamentu.mijncn.nl
@@ -7814,6 +7818,7 @@ https://radar.rotterdam.nl
 https://radicaalofpuberaal.nctv.nl
 https://rads.rotterdam.nl
 https://rap.gemeentesluis.nl
+https://rapporteursnet.nifp.nl
 https://raster.horstaandemaas.nl
 https://rbp.rotterdam.nl
 https://rcgog.nl
@@ -10224,6 +10229,7 @@ https://www.nieuwauthentiekbloemendaal.doemee.bloemendaal.nl
 https://www.nieuwegein.nl
 https://www.nieuwsbrief.enschede.nl
 https://www.nieuwsbrievenminocw.nl
+https://www.nifp.nl
 https://www.nijkerk.eu
 https://www.nijmegen.nl
 https://www.nimmaleert.nijmegen.nl

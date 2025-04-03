@@ -191,6 +191,7 @@ abr.acc.belastingdienst.nl
 abr.belastingdienst.nl
 academie.acc.belastingdienst.nl
 academie.belastingdienst.nl
+academie.nifp.nl
 academievoorinternationalebetrekkingen.nl
 academy.forensicinstitute.nl
 academy.forensischinstituut.nl
@@ -1381,6 +1382,7 @@ feeds.nederlandtegengeorganiseerdemisdaad.nl
 feeds.netwerkplatteland.nl
 feeds.nieuwsbrieven.rijkswaterstaat.nl
 feeds.nieuwsbrievenminocw.nl
+feeds.nifp.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.papiamentu.mijncn.nl
 feeds.persberichten.rijksoverheid.nl
@@ -2203,6 +2205,7 @@ nhr.flevoland.nl
 nieuws.brabant.nl
 nieuwsbrieven.limburg.nl
 nieuwsbrievenminocw.nl
+nifp.nl
 nimh-beeldbank.defensie.nl
 nls.ndw.nu
 nnn.flevoland.nl
@@ -2491,6 +2494,7 @@ opendata.nederlandwereldwijd.nl
 opendata.netwerkplatteland.nl
 opendata.nieuwsbrieven.rijkswaterstaat.nl
 opendata.nieuwsbrievenminocw.nl
+opendata.nifp.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.papiamentu.mijncn.nl
 opendata.persberichten.rijksoverheid.nl
@@ -2701,6 +2705,7 @@ raadplegen.donorregister.nl
 radicaalofpuberaal.nctv.nl
 rand.hhdelfland.nl
 rap.belastingdienst.nl
+rapporteursnet.nifp.nl
 ras.domeinenrz.nl
 ras2.domeinenrz.nl
 rat.belastingdienst.nl
@@ -3653,6 +3658,7 @@ www.nederlandwereldwijd.nl
 www.netherlandsworldwide.nl
 www.netwerkplatteland.nl
 www.nieuwsbrievenminocw.nl
+www.nifp.nl
 www.nt.ndw.nu
 www.officiele-overheidspublicaties.nl
 www.omgevingsplan.flevoland.nl
