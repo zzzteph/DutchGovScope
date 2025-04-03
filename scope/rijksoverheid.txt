@@ -14,7 +14,6 @@ adviescommissievolkenrecht.nl
 adviesraadinternationalevraagstukken.nl
 adviesraadmigratie.nl
 advisorycommitteeinternationallaw.nl
-nationaalgeoregister.nl
 advisorycouncilinternationalaffairs.nl
 aeriusproducten.nl
 agroberichtenbuitenland.nl
@@ -92,6 +91,7 @@ dus-i.nl
 dutchncca.nl
 dutchoffshorewindatlas.nl
 dutchrapporteur.nl
+duurzame-infra.nl
 dwangindezorg.nl
 eentegeneenzaamheid.nl
 eersteenthuis.nl
@@ -189,6 +189,7 @@ mijnpgb.nl
 mirtoverzicht.nl
 monitorlangdurigezorg.nl
 nationaalcoordinatorgroningen.nl
+nationaalgeoregister.nl
 nationaalgroeifonds.nl
 nationaalrapporteur.nl
 nationaalwegenbestand.nl
