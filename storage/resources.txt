@@ -5994,6 +5994,7 @@ feeds.leefbaarenveilig.nl
 feeds.leerenontwikkelplein.nl
 feeds.lintjes.nl
 feeds.loonaangifteketen.nl
+feeds.lvmb.nl
 feeds.nieuwsbrievenminocw.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.persberichten.rijksoverheid.nl
@@ -9314,6 +9315,7 @@ lvbgt.noordoostpolder.nl
 lvbrk.nissewaard.nl
 lvgeo.acc.capelleaandenijssel.nl
 lvgeo.capelleaandenijssel.nl
+lvmb.nl
 lvolo-prod.koggenland.nl
 lvolo-prod.opmeer.nl
 lvolo-test.koggenland.nl
@@ -11455,6 +11457,7 @@ opendata.leefbaarenveilig.nl
 opendata.leerenontwikkelplein.nl
 opendata.lintjes.nl
 opendata.loonaangifteketen.nl
+opendata.lvmb.nl
 opendata.nieuwsbrievenminocw.nl
 opendata.nijmegen.nl
 opendata.papiamentu.belastingdienst-cn.nl
@@ -17733,6 +17736,7 @@ www.loonaangifteketen.nl
 www.loonopzand.nl
 www.lopik.nl
 www.losser.nl
+www.lvmb.nl
 www.maasdriel.nl
 www.maassluis.nl
 www.mail.bureauwsnp.nl

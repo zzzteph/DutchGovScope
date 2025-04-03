@@ -1261,6 +1261,7 @@ feeds.leefbaarenveilig.nl
 feeds.leerenontwikkelplein.nl
 feeds.lintjes.nl
 feeds.loonaangifteketen.nl
+feeds.lvmb.nl
 feeds.nieuwsbrievenminocw.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.persberichten.rijksoverheid.nl
@@ -1746,6 +1747,7 @@ lvbb-lto.overheid.nl
 lvbb-perf-acc.overheid.nl
 lvbb-preprod.overheid.nl
 lvbb-tst.overheid.nl
+lvmb.nl
 lync.aaenmaas.nl
 lyncav.vico.dji.nl
 lyncdiscover.aaenmaas.nl
@@ -2245,6 +2247,7 @@ opendata.leefbaarenveilig.nl
 opendata.leerenontwikkelplein.nl
 opendata.lintjes.nl
 opendata.loonaangifteketen.nl
+opendata.lvmb.nl
 opendata.nieuwsbrievenminocw.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.persberichten.rijksoverheid.nl
@@ -3321,6 +3324,7 @@ www.limburg.nl
 www.lintjes.nl
 www.logius.nl
 www.loonaangifteketen.nl
+www.lvmb.nl
 www.mail.bureauwsnp.nl
 www.metelkaartrekkenwedegrens.nl
 www.mijn.dus-i.nl

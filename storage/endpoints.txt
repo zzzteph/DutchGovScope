@@ -3852,6 +3852,7 @@ https://feeds.leefbaarenveilig.nl
 https://feeds.leerenontwikkelplein.nl
 https://feeds.lintjes.nl
 https://feeds.loonaangifteketen.nl
+https://feeds.lvmb.nl
 https://feeds.nieuwsbrievenminocw.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.persberichten.rijksoverheid.nl
@@ -5547,6 +5548,7 @@ https://lvbb-lto.overheid.nl
 https://lvbb-perf-acc.overheid.nl
 https://lvbb-preprod.overheid.nl
 https://lvbb-tst.overheid.nl
+https://lvmb.nl
 https://lvs.hellendoorn.nl
 https://lvs.horstaandemaas.nl
 https://lvs.zwemmen.venlo.nl
@@ -6781,6 +6783,7 @@ https://opendata.leefbaarenveilig.nl
 https://opendata.leerenontwikkelplein.nl
 https://opendata.lintjes.nl
 https://opendata.loonaangifteketen.nl
+https://opendata.lvmb.nl
 https://opendata.nieuwsbrievenminocw.nl
 https://opendata.nijmegen.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
@@ -9914,6 +9917,7 @@ https://www.loonaangifteketen.nl
 https://www.loonopzand.nl
 https://www.lopik.nl
 https://www.losser.nl
+https://www.lvmb.nl
 https://www.maasdriel.nl
 https://www.mariahoeveaanzet.denhaag.nl
 https://www.matenpark.apeldoorn.nl
