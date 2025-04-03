@@ -1016,6 +1016,7 @@ english.kiesraad.nl
 english.kimnet.nl
 english.knmidata.nl
 english.marechaussee.nl
+english.mijncn.nl
 english.sso3w.nl
 enterpriseenrollment.cbg-meb.nl
 enterpriseregistration.belastingdienst.nl
@@ -1202,6 +1203,7 @@ feeds.english.kiesraad.nl
 feeds.english.kimnet.nl
 feeds.english.knmidata.nl
 feeds.english.marechaussee.nl
+feeds.english.mijncn.nl
 feeds.english.sso3w.nl
 feeds.erfgoeddeal.nl
 feeds.euthanasiecommissie.nl
@@ -1271,8 +1273,10 @@ feeds.marechaussee.nl
 feeds.medicineshortagesdefects.nl
 feeds.meldpuntgeneesmiddelentekortendefecten.nl
 feeds.mensenrechten.nl
+feeds.mijncn.nl
 feeds.nieuwsbrievenminocw.nl
 feeds.papiamentu.belastingdienst-cn.nl
+feeds.papiamentu.mijncn.nl
 feeds.persberichten.rijksoverheid.nl
 feeds.rcgog.nl
 feeds.rijksoverheid.nl
@@ -1537,6 +1541,7 @@ i-cms.defensie.nl
 i-cms.rijksoverheid.nl
 i-cms1.defensie.nl
 i-cms1.rijksoverheid.nl
+i-login.mijncn.nl
 i-magazinesintern.rijksoverheid.nl
 i-opendata.rijksoverheid.nl
 i-persberichten.rijksoverheid.nl
@@ -1734,7 +1739,9 @@ lintjes.nl
 lip.ilent.nl
 lir.cibg.nl
 login.aaenmaas.nl
+login.acc.mijncn.nl
 login.domeinenrz.nl
+login.mijncn.nl
 logius.nl
 lokaleregelgeving-acc.overheid.nl
 lokaleregelgeving-eto.overheid.nl
@@ -1908,6 +1915,7 @@ mijn.toeslagen.nl
 mijn.tst.belastingdienst.nl
 mijn8.belastingdienst.nl
 mijnaanvraag.belastingdienst.nl
+mijncn.nl
 mijndouane-perf.acc.belastingdienst.nl
 mijndouane.acc.belastingdienst.nl
 mijndouane.belastingdienst.nl
@@ -2208,6 +2216,7 @@ opendata.english.kiesraad.nl
 opendata.english.kimnet.nl
 opendata.english.knmidata.nl
 opendata.english.marechaussee.nl
+opendata.english.mijncn.nl
 opendata.english.sso3w.nl
 opendata.euthanasiecommissie.nl
 opendata.excellentescholen.nl
@@ -2277,8 +2286,10 @@ opendata.marechaussee.nl
 opendata.medicineshortagesdefects.nl
 opendata.meldpuntgeneesmiddelentekortendefecten.nl
 opendata.mensenrechten.nl
+opendata.mijncn.nl
 opendata.nieuwsbrievenminocw.nl
 opendata.papiamentu.belastingdienst-cn.nl
+opendata.papiamentu.mijncn.nl
 opendata.persberichten.rijksoverheid.nl
 opendata.rcgog.nl
 opendata.rijksoverheid.nl
@@ -2333,6 +2344,7 @@ p-crl.justid.nl
 p285st201.utsjaca01.belastingdienst.nl
 pan.emissieautoriteit.nl
 papiamentu.belastingdienst-cn.nl
+papiamentu.mijncn.nl
 password.ctgb.nl
 pdc.acc.omgevingswet.overheid.nl
 pdc.int.omgevingswet.overheid.nl
@@ -3366,6 +3378,7 @@ www.mensenrechten.nl
 www.metelkaartrekkenwedegrens.nl
 www.mijn.dus-i.nl
 www.mijn.overheid.nl
+www.mijncn.nl
 www.mijnsubsidies-acc.limburg.nl
 www.monumentenregister.cultureelerfgoed.nl
 www.nieuwsbrievenminocw.nl

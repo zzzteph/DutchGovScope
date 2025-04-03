@@ -527,6 +527,7 @@ https://english.kiesraad.nl
 https://english.kimnet.nl
 https://english.knmidata.nl
 https://english.marechaussee.nl
+https://english.mijncn.nl
 https://english.sso3w.nl
 https://enterpriseenrollment.cbg-meb.nl
 https://enterpriseregistration.belastingdienst.nl
@@ -673,6 +674,7 @@ https://feeds.english.kiesraad.nl
 https://feeds.english.kimnet.nl
 https://feeds.english.knmidata.nl
 https://feeds.english.marechaussee.nl
+https://feeds.english.mijncn.nl
 https://feeds.english.sso3w.nl
 https://feeds.erfgoeddeal.nl
 https://feeds.euthanasiecommissie.nl
@@ -742,8 +744,10 @@ https://feeds.marechaussee.nl
 https://feeds.medicineshortagesdefects.nl
 https://feeds.meldpuntgeneesmiddelentekortendefecten.nl
 https://feeds.mensenrechten.nl
+https://feeds.mijncn.nl
 https://feeds.nieuwsbrievenminocw.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
+https://feeds.papiamentu.mijncn.nl
 https://feeds.persberichten.rijksoverheid.nl
 https://feeds.rcgog.nl
 https://feeds.rijksoverheid.nl
@@ -841,6 +845,7 @@ https://hulpmiddelen.farmatec.nl
 https://huurcommissie.nl
 https://huurprijscheck.huurcommissie.nl
 https://hwbp.nl
+https://i-login.mijncn.nl
 https://iam-containerplatform.lpc.logius.nl
 https://id.brabant.nl
 https://id.flevoland.nl
@@ -948,6 +953,7 @@ https://linkextractor.overheid.nl
 https://lintjes.nl
 https://lir.cibg.nl
 https://login.aaenmaas.nl
+https://login.mijncn.nl
 https://logius.nl
 https://lokaleregelgeving-acc.overheid.nl
 https://lokaleregelgeving-eto.overheid.nl
@@ -1026,6 +1032,7 @@ https://mijn.igj.nl
 https://mijn.overheid.nl
 https://mijn.toeslagen.nl
 https://mijnaanvraag.belastingdienst.nl
+https://mijncn.nl
 https://mijndouane.belastingdienst.nl
 https://mijnloket.commissiemijnbouwschade.nl
 https://mijnsubsidies-acc.limburg.nl
@@ -1195,6 +1202,7 @@ https://opendata.english.kiesraad.nl
 https://opendata.english.kimnet.nl
 https://opendata.english.knmidata.nl
 https://opendata.english.marechaussee.nl
+https://opendata.english.mijncn.nl
 https://opendata.english.sso3w.nl
 https://opendata.euthanasiecommissie.nl
 https://opendata.excellentescholen.nl
@@ -1263,8 +1271,10 @@ https://opendata.marechaussee.nl
 https://opendata.medicineshortagesdefects.nl
 https://opendata.meldpuntgeneesmiddelentekortendefecten.nl
 https://opendata.mensenrechten.nl
+https://opendata.mijncn.nl
 https://opendata.nieuwsbrievenminocw.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
+https://opendata.papiamentu.mijncn.nl
 https://opendata.persberichten.rijksoverheid.nl
 https://opendata.rcgog.nl
 https://opendata.rijksoverheid.nl
@@ -1283,6 +1293,7 @@ https://over-ons.belastingdienst.nl
 https://overheid.nl
 https://ovverklaringen.belastingdienst.nl
 https://papiamentu.belastingdienst-cn.nl
+https://papiamentu.mijncn.nl
 https://password.ctgb.nl
 https://pdc.acc.omgevingswet.overheid.nl
 https://pdc.omgevingswet.overheid.nl
@@ -1809,6 +1820,7 @@ https://www.mensenrechten.nl
 https://www.metelkaartrekkenwedegrens.nl
 https://www.mijn.dus-i.nl
 https://www.mijn.overheid.nl
+https://www.mijncn.nl
 https://www.monumentenregister.cultureelerfgoed.nl
 https://www.nieuwsbrievenminocw.nl
 https://www.omgevingsplan.flevoland.nl

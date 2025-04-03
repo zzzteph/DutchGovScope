@@ -5523,6 +5523,7 @@ english.kiesraad.nl
 english.kimnet.nl
 english.knmidata.nl
 english.marechaussee.nl
+english.mijncn.nl
 english.sso3w.nl
 enkhuizen.nl
 enquete-acc.denhaag.nl
@@ -5935,6 +5936,7 @@ feeds.english.kiesraad.nl
 feeds.english.kimnet.nl
 feeds.english.knmidata.nl
 feeds.english.marechaussee.nl
+feeds.english.mijncn.nl
 feeds.english.sso3w.nl
 feeds.erfgoeddeal.nl
 feeds.euthanasiecommissie.nl
@@ -6004,8 +6006,10 @@ feeds.marechaussee.nl
 feeds.medicineshortagesdefects.nl
 feeds.meldpuntgeneesmiddelentekortendefecten.nl
 feeds.mensenrechten.nl
+feeds.mijncn.nl
 feeds.nieuwsbrievenminocw.nl
 feeds.papiamentu.belastingdienst-cn.nl
+feeds.papiamentu.mijncn.nl
 feeds.persberichten.rijksoverheid.nl
 feeds.rcgog.nl
 feeds.rijksoverheid.nl
@@ -7486,6 +7490,7 @@ i-cms.defensie.nl
 i-cms.rijksoverheid.nl
 i-cms1.defensie.nl
 i-cms1.rijksoverheid.nl
+i-login.mijncn.nl
 i-magazinesintern.rijksoverheid.nl
 i-opendata.rijksoverheid.nl
 i-persberichten.rijksoverheid.nl
@@ -9145,6 +9150,7 @@ login-pre.mookenmiddelaar.nl
 login-pre.nijkerk.eu
 login.aaenmaas.nl
 login.acc.denhaag.nl
+login.acc.mijncn.nl
 login.alphenaandenrijn.nl
 login.bergen.nl
 login.bernheze.org
@@ -9162,6 +9168,7 @@ login.kaagenbraassem.nl
 login.lansingerland.nl
 login.maximaaljezelf.groningen.nl
 login.meerssen.nl
+login.mijncn.nl
 login.mookenmiddelaar.nl
 login.nieuwegein.nl
 login.nijkerk.eu
@@ -10158,6 +10165,7 @@ mijnbelastingen.amsterdam.nl
 mijnbelastingen.vught.nl
 mijnbereikbaarheid.rotterdam.nl
 mijnbetaling.sudwestfryslan.nl
+mijncn.nl
 mijncultuurdocument.rheden.nl
 mijndesktop.renswoude.nl
 mijndesktop.rhenen.nl
@@ -11417,6 +11425,7 @@ opendata.english.kiesraad.nl
 opendata.english.kimnet.nl
 opendata.english.knmidata.nl
 opendata.english.marechaussee.nl
+opendata.english.mijncn.nl
 opendata.english.sso3w.nl
 opendata.euthanasiecommissie.nl
 opendata.excellentescholen.nl
@@ -11487,9 +11496,11 @@ opendata.marechaussee.nl
 opendata.medicineshortagesdefects.nl
 opendata.meldpuntgeneesmiddelentekortendefecten.nl
 opendata.mensenrechten.nl
+opendata.mijncn.nl
 opendata.nieuwsbrievenminocw.nl
 opendata.nijmegen.nl
 opendata.papiamentu.belastingdienst-cn.nl
+opendata.papiamentu.mijncn.nl
 opendata.persberichten.rijksoverheid.nl
 opendata.rcgog.nl
 opendata.rijksoverheid.nl
@@ -11820,6 +11831,7 @@ papendrecht-checker-preprod.papendrecht.nl
 papendrecht-checker.papendrecht.nl
 papendrecht.nl
 papiamentu.belastingdienst-cn.nl
+papiamentu.mijncn.nl
 parkeerabonnementen.breda.nl
 parkeeracties-test.dijkenwaard.nl
 parkeeracties-test.wageningen.nl
@@ -17809,6 +17821,7 @@ www.mijn.dus-i.nl
 www.mijn.groningen.nl
 www.mijn.heuvelrug.nl
 www.mijn.overheid.nl
+www.mijncn.nl
 www.mijndesktop.rhenen.nl
 www.mijngkb.midden-groningen.nl
 www.mijnhr.sudwestfryslan.nl

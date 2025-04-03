@@ -3502,6 +3502,7 @@ https://english.kiesraad.nl
 https://english.kimnet.nl
 https://english.knmidata.nl
 https://english.marechaussee.nl
+https://english.mijncn.nl
 https://english.sso3w.nl
 https://enkhuizen.nl
 https://enquete-acc.denhaag.nl
@@ -3793,6 +3794,7 @@ https://feeds.english.kiesraad.nl
 https://feeds.english.kimnet.nl
 https://feeds.english.knmidata.nl
 https://feeds.english.marechaussee.nl
+https://feeds.english.mijncn.nl
 https://feeds.english.sso3w.nl
 https://feeds.erfgoeddeal.nl
 https://feeds.euthanasiecommissie.nl
@@ -3862,8 +3864,10 @@ https://feeds.marechaussee.nl
 https://feeds.medicineshortagesdefects.nl
 https://feeds.meldpuntgeneesmiddelentekortendefecten.nl
 https://feeds.mensenrechten.nl
+https://feeds.mijncn.nl
 https://feeds.nieuwsbrievenminocw.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
+https://feeds.papiamentu.mijncn.nl
 https://feeds.persberichten.rijksoverheid.nl
 https://feeds.rcgog.nl
 https://feeds.rijksoverheid.nl
@@ -4597,6 +4601,7 @@ https://hybrid.gooisemeren.nl
 https://hybrid.nederbetuwe.nl
 https://hybrid.purmerend.nl
 https://hybrid.sittard-geleen.nl
+https://i-login.mijncn.nl
 https://iam-containerplatform.lpc.logius.nl
 https://iam-forms.denhaag.nl
 https://iam-portal.denhaag.nl
@@ -5457,6 +5462,7 @@ https://login-pre.nijkerk.eu
 https://login.aaenmaas.nl
 https://login.alphenaandenrijn.nl
 https://login.groningen.nl
+https://login.mijncn.nl
 https://login.mookenmiddelaar.nl
 https://login.nijkerk.eu
 https://login.schagen.nl
@@ -5992,6 +5998,7 @@ https://mijnbbsuo.soest.nl
 https://mijnbelastingen.amsterdam.nl
 https://mijnbelastingen.vught.nl
 https://mijnbetaling.sudwestfryslan.nl
+https://mijncn.nl
 https://mijndouane.belastingdienst.nl
 https://mijnerfpacht.amsterdam.nl
 https://mijnevenement-authenticatie-staging.gemeente-steenbergen.nl
@@ -6739,6 +6746,7 @@ https://opendata.english.kiesraad.nl
 https://opendata.english.kimnet.nl
 https://opendata.english.knmidata.nl
 https://opendata.english.marechaussee.nl
+https://opendata.english.mijncn.nl
 https://opendata.english.sso3w.nl
 https://opendata.euthanasiecommissie.nl
 https://opendata.excellentescholen.nl
@@ -6808,9 +6816,11 @@ https://opendata.marechaussee.nl
 https://opendata.medicineshortagesdefects.nl
 https://opendata.meldpuntgeneesmiddelentekortendefecten.nl
 https://opendata.mensenrechten.nl
+https://opendata.mijncn.nl
 https://opendata.nieuwsbrievenminocw.nl
 https://opendata.nijmegen.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
+https://opendata.papiamentu.mijncn.nl
 https://opendata.persberichten.rijksoverheid.nl
 https://opendata.rcgog.nl
 https://opendata.rijksoverheid.nl
@@ -6998,6 +7008,7 @@ https://papendrecht-checker-preprod.papendrecht.nl
 https://papendrecht-checker.papendrecht.nl
 https://papendrecht.nl
 https://papiamentu.belastingdienst-cn.nl
+https://papiamentu.mijncn.nl
 https://parkeerabonnementen.breda.nl
 https://parkeeracties-test.dijkenwaard.nl
 https://parkeeracties-test.wageningen.nl
@@ -9967,6 +9978,7 @@ https://www.mijn.dus-i.nl
 https://www.mijn.groningen.nl
 https://www.mijn.heuvelrug.nl
 https://www.mijn.overheid.nl
+https://www.mijncn.nl
 https://www.mijnkijkop.olst-wijhe.nl
 https://www.mijnleefomgeving.olst-wijhe.nl
 https://www.mijnuitkering.emmen.nl
