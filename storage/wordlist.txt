@@ -427,6 +427,7 @@ prefill
 corsa-prod
 corsa-test
 mijndesktop
+persberichten
 sharepoint
 start
 werken
@@ -541,7 +542,6 @@ git
 i-www
 monitor
 o-www
-persberichten
 static
 t-www
 sdm
@@ -790,6 +790,7 @@ cms1
 cms2
 cmsdev
 coronadashboard
+feeds.persberichten
 gw
 handleiding
 i-cms
@@ -798,6 +799,7 @@ i-site1
 magazinesintern
 o-cms1
 o-site1
+opendata.persberichten
 sdg
 site1
 site2
@@ -1402,7 +1404,6 @@ dns-web300
 domeinnaamregistratie
 e-mailabonnementen
 e-maildiensten
-feeds.persberichten
 i-magazinesintern
 i-opendata
 i-persberichten
@@ -1415,7 +1416,6 @@ o-opendata
 o-persberichten
 o-static
 o-voor1
-opendata.persberichten
 ps-www
 site5
 site6
