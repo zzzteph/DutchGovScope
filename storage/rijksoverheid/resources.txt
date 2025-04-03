@@ -10,6 +10,7 @@ _dmarc.cibg.nl
 _dmarc.dji.nl
 _dmarc.logius.nl
 _dmarc.nlarbeidsinspectie.nl
+_dmarc.nza.nl
 _dmarc.rijksoverheid.nl
 a-api.nederlandwereldwijd.nl
 a-cms.defensie.nl
@@ -73,6 +74,7 @@ a-feeds.koninklijkhuis.nl
 a-feeds.koopoverheid.nl
 a-feeds.loonaangifteketen.nl
 a-feeds.ncadierproevenbeleid.nl
+a-feeds.nza.nl
 a-feeds.rijksoverheid.nl
 a-git.rijksoverheid.nl
 a-informatieservice.nederlandwereldwijd.nl
@@ -126,6 +128,7 @@ a-opendata.koninklijkhuis.nl
 a-opendata.koopoverheid.nl
 a-opendata.loonaangifteketen.nl
 a-opendata.ncadierproevenbeleid.nl
+a-opendata.nza.nl
 a-opendata.rijksoverheid.nl
 a-persberichten.rijksoverheid.nl
 a-servicedesk.rijksoverheid.nl
@@ -174,16 +177,20 @@ a-www.loonaangifteketen.nl
 a-www.ncadierproevenbeleid.nl
 a-www.nederlandwereldwijd.nl
 a-www.netherlandsworldwide.nl
+a-www.nza.nl
 a-www.rijksoverheid.nl
 a2vonderenkerensheide.nl
 aaenmaas.nl
 aanbiedersmedicijnen.nl
 aandeslagmetdeomgevingswet.nl
+aangetekendmailen.nza.nl
 aanpakringzuid.nl
 aansluitsuite.acceptatie.digipoort.logius.nl
 aansluitsuite.digipoort.logius.nl
 aansluitsuite.preproductie.digipoort.logius.nl
 aanvraag.dus-i.nl
+aanvragen-acc.nza.nl
+aanvragen.nza.nl
 abat.acc.belastingdienst.nl
 abo.digilevering.belastingdienst.nl
 abonneren.toezichtdocumenten.igj.nl
@@ -279,6 +286,7 @@ acceptatie.beheer.ncpeh.nl
 acceptatie.bestandsportaal.cibg.nl
 acceptatie.brba.cibg.nl
 acceptatie.cmis.cultureelerfgoed.nl
+acceptatie.crm.nza.nl
 acceptatie.designsystem.cibg.nl
 acceptatie.digikoppeling-dcr.cibg.nl
 acceptatie.digikoppeling.cibg.nl
@@ -348,6 +356,7 @@ afval.acc.omgevingswet.overheid.nl
 afval.omgevingswet.overheid.nl
 ag-dcr.cibg.nl
 agroberichtenbuitenland.nl
+agw01-nomail.nza.nl
 ainformatieportaal.justid.nl
 aip-acc.nationaalcoordinatorgroningen.nl
 aip.nationaalcoordinatorgroningen.nl
@@ -479,6 +488,7 @@ autodiscover.huisvoorklokkenluiders.nl
 autodiscover.inspectie-oe.nl
 autodiscover.justid.nl
 autodiscover.koop.overheid.nl
+autodiscover.nza.nl
 autodiscover.overheid.nl
 autodiscover.rcgog.nl
 autorisatie-preprod.brabant.nl
@@ -845,6 +855,7 @@ cpont.vcdn.belastingdienst.nl
 cptst.vcdn.belastingdienst.nl
 crisismaatregel.webservices-dbb-acc.igj.nl
 crisismaatregel.webservices-dbb.igj.nl
+crm.nza.nl
 csaf.data.security.ncsc.nl
 csoacct.werkenvoornederland.nl
 csotest.werkenvoornederland.nl
@@ -1060,6 +1071,7 @@ elearning-atb.nctv.nl
 elearning-basiscrisisbeheersing.nctv.nl
 elearning-irb.nctv.nl
 elearning-lcp-egt.nctv.nl
+elearning-msz.nza.nl
 elkeregiotelt.nl
 eloket.aaenmaas.nl
 eloket.flevoland.nl
@@ -1409,6 +1421,7 @@ feeds.nponderwijs.nl
 feeds.nrgd.nl
 feeds.nutriscorevoorbedrijven.nl
 feeds.nvwa.nl
+feeds.nza.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.papiamentu.mijncn.nl
 feeds.persberichten.rijksoverheid.nl
@@ -1679,6 +1692,7 @@ huurprijscheck.huurcommissie.nl
 hwbp.nl
 hybrid.brabant.nl
 hybrid.domeinenrz.nl
+hybrid.nza.nl
 i-certnl.nvwa.nl
 i-cms.defensie.nl
 i-cms.rijksoverheid.nl
@@ -1799,6 +1813,7 @@ isamproxyont.ont.belastingdienst.nl
 it-academieoverheid.nl
 itp-acc.ilent.nl
 itp.ilent.nl
+itsupport.nza.nl
 ivo-acc.nvwa.nl
 ivo.nvwa.nl
 iwelcome-preprod.nvwa.nl
@@ -1814,6 +1829,7 @@ jobs.werkenvoornederland.nl
 jong.belastingdienst.nl
 juristen.werkenvoornederland.nl
 justid.nl
+jv.nza.nl
 kaart.flevoland.nl
 kaart.nationaalwegenbestand.nl
 kaartbank.brabant.nl
@@ -1892,6 +1908,7 @@ legacy.flevoland.nl
 leiderschap.belastingdienst.nl
 leiderschapp.belastingdienst.nl
 leren.mensenrechten.nl
+leren.nza.nl
 lil.cultureelerfgoed.nl
 limburg.nl
 linkeddata.accept.cultureelerfgoed.nl
@@ -1964,6 +1981,7 @@ magazines.kinderbescherming.nl
 magazines.ncsc.nl
 magazines.nctv.nl
 magazines.nvwa.nl
+magazines.nza.nl
 magazines.rijksoverheid.nl
 magazines.werkenvoornederland.nl
 magazinesintern.rijksoverheid.nl
@@ -2195,6 +2213,7 @@ mst-ci.ctgb.nl
 mst-test.ctgb.nl
 mst.ctgb.nl
 mta-sts.belastingdienst.nl
+mta-sts.nza.nl
 mtls-tmx-dap-eu.acc.belastingdienst.nl
 mtls-tmx-dap-eu.belastingdienst.nl
 mul-mbc.belastingdienst.nl
@@ -2282,6 +2301,13 @@ ntm.ndw.nu
 nutriscorevoorbedrijven.nl
 nvwa.nl
 nwrar-acc.ncsc.nl
+nza-form1.nza.nl
+nza-form2.nza.nl
+nza-form3.nza.nl
+nza-form4.nza.nl
+nza-form5.nza.nl
+nza-form6.nza.nl
+nza.nl
 o-cms.defensie.nl
 o-cms1.defensie.nl
 o-cms1.rijksoverheid.nl
@@ -2565,11 +2591,14 @@ opendata.nponderwijs.nl
 opendata.nrgd.nl
 opendata.nutriscorevoorbedrijven.nl
 opendata.nvwa.nl
+opendata.nza.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.papiamentu.mijncn.nl
 opendata.persberichten.rijksoverheid.nl
 opendata.rcgog.nl
 opendata.rijksoverheid.nl
+opendisdata-acc.nza.nl
+opendisdata.nza.nl
 openims-acc.ctgb.nl
 openims-dev.ctgb.nl
 openims-test.ctgb.nl
@@ -2829,6 +2858,8 @@ rijkstrainees.werkenvoornederland.nl
 rmt.belastingdienst.nl
 roomreservation.belastingdienst.nl
 routeringsvoorziening-pp1.logius.nl
+rpx-qa.nza.nl
+rpx.nza.nl
 ruimte.dmo.omgevingswet.overheid.nl
 ruimte.int.omgevingswet.overheid.nl
 ruimte.kta.omgevingswet.overheid.nl
@@ -3231,6 +3262,7 @@ toezichtdocumenten.igj.nl
 toezichtopzorgnetwerken.igj.nl
 toolbox-extremisme.nctv.nl
 torenvalk.brabant.nl
+tovertool.nza.nl
 treatydatabase-acc.overheid.nl
 treatydatabase.overheid.nl
 truck-parking.ndw.nu
@@ -3381,6 +3413,7 @@ vts.belastingdienst.nl
 vtsd.belastingdienst.nl
 vulnerabilities.ncsc.nl
 vuurwerk.domeinenrz.nl
+wachttijden.nza.nl
 wachtwoord.brabant.nl
 wachtwoordwijzigen.aaenmaas.nl
 wadsup.beheerautoriteitwaddenzee.nl
@@ -3462,6 +3495,7 @@ werken.belastingdienst.nl
 werken.toeslagen.nl
 werkenbij.justid.nl
 werkenbij.toeslagen.nl
+werkenbijde.nza.nl
 werkenvoor.brabant.nl
 werkenvoornederland.nl
 werkplek.brabant.nl
@@ -3761,6 +3795,7 @@ www.nrgd.nl
 www.nt.ndw.nu
 www.nutriscorevoorbedrijven.nl
 www.nvwa.nl
+www.nza.nl
 www.officiele-overheidspublicaties.nl
 www.omgevingsplan.flevoland.nl
 www.omgevingswet.overheid.nl
@@ -3814,7 +3849,12 @@ zoeken.cultureelerfgoed.nl
 zoeken.ondernemersplein.overheid.nl
 zoekservice.mensenrechten.nl
 zoekservice.overheid.nl
+zorgbeeld.nza.nl
 zorgenwerknetwerk.arboportaal.nl
+zorgprestatiemodel.nza.nl
+zorgproducten-acc.nza.nl
+zorgproducten-test.nza.nl
+zorgproducten.nza.nl
 zta-ont.belastingdienst.nl
 zta-ota.belastingdienst.nl
 zta.belastingdienst.nl

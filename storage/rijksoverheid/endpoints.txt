@@ -8,9 +8,11 @@ http://acc.render.map.services.cultureelerfgoed.nl
 http://acc.subsidie.cultureelerfgoed.nl
 http://acc.translate.services.cultureelerfgoed.nl
 http://acc.zaak.services.cultureelerfgoed.nl
+http://acceptatie.crm.nza.nl
 http://acceptatie.digikoppeling-dcr.cibg.nl
 http://acpt-machtigen.digipoort.logius.nl
 http://ag-dcr.cibg.nl
+http://agw01-nomail.nza.nl
 http://aip-acc.nationaalcoordinatorgroningen.nl
 http://amp-idp-pre.logius.nl
 http://amp-idp.logius.nl
@@ -23,6 +25,7 @@ http://autodiscover.domeinenrz.nl
 http://autodiscover.flevoland.nl
 http://autodiscover.hdsr.nl
 http://autodiscover.hhdelfland.nl
+http://autodiscover.nza.nl
 http://bzv-a.brabant.nl
 http://ca-devportal-pre.logius.nl
 http://ca-devportal.logius.nl
@@ -32,6 +35,7 @@ http://clienteleitsm-acceptatie.logius.nl
 http://clienteleitsm.logius.nl
 http://coronadashboard.government.nl
 http://coronadashboard.rijksoverheid.nl
+http://crm.nza.nl
 http://demo1-systemteam.overheid.nl
 http://demo2-systemteam.overheid.nl
 http://designsystem.overheid.nl
@@ -115,8 +119,11 @@ https://a2vonderenkerensheide.nl
 https://aaenmaas.nl
 https://aanbiedersmedicijnen.nl
 https://aandeslagmetdeomgevingswet.nl
+https://aangetekendmailen.nza.nl
 https://aanpakringzuid.nl
 https://aanvraag.dus-i.nl
+https://aanvragen-acc.nza.nl
+https://aanvragen.nza.nl
 https://aboutnetherlandscustoms.nl
 https://academie.acc.belastingdienst.nl
 https://academie.belastingdienst.nl
@@ -556,6 +563,7 @@ https://elearning-atb.nctv.nl
 https://elearning-basiscrisisbeheersing.nctv.nl
 https://elearning-irb.nctv.nl
 https://elearning-lcp-egt.nctv.nl
+https://elearning-msz.nza.nl
 https://elkeregiotelt.nl
 https://eloket.aaenmaas.nl
 https://eloket.flevoland.nl
@@ -861,6 +869,7 @@ https://feeds.nponderwijs.nl
 https://feeds.nrgd.nl
 https://feeds.nutriscorevoorbedrijven.nl
 https://feeds.nvwa.nl
+https://feeds.nza.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.papiamentu.mijncn.nl
 https://feeds.persberichten.rijksoverheid.nl
@@ -966,6 +975,7 @@ https://hulpmiddelen.farmatec.nl
 https://huurcommissie.nl
 https://huurprijscheck.huurcommissie.nl
 https://hwbp.nl
+https://hybrid.nza.nl
 https://i-login.mijncn.nl
 https://iam-containerplatform.lpc.logius.nl
 https://iam.ndw.nu
@@ -1028,6 +1038,7 @@ https://intranet.nationaalcoordinatorgroningen.nl
 https://iob-evaluatie.nl
 https://iob.justid.nl
 https://it-academieoverheid.nl
+https://itsupport.nza.nl
 https://ivo-acc.nvwa.nl
 https://ivo.nvwa.nl
 https://iwelcome-preprod.nvwa.nl
@@ -1040,6 +1051,7 @@ https://jeugdautoriteit.nl
 https://jip.inspectie-jenv.nl
 https://jobs.werkenvoornederland.nl
 https://justid.nl
+https://jv.nza.nl
 https://kaart.flevoland.nl
 https://kaartbank.brabant.nl
 https://kaarten-demo.overheid.nl
@@ -1082,6 +1094,7 @@ https://le-webservices.belastingdienst.nl
 https://leefbaarenveilig.nl
 https://leerenontwikkelplein.nl
 https://leerplatform.it-academieoverheid.nl
+https://leren.nza.nl
 https://lil.cultureelerfgoed.nl
 https://limburg.nl
 https://linkeddata.cultureelerfgoed.nl
@@ -1128,6 +1141,7 @@ https://magazines.kinderbescherming.nl
 https://magazines.ncsc.nl
 https://magazines.nctv.nl
 https://magazines.nvwa.nl
+https://magazines.nza.nl
 https://magazines.rijksoverheid.nl
 https://magazines.werkenvoornederland.nl
 https://magazinesintern.rijksoverheid.nl
@@ -1211,6 +1225,7 @@ https://monitorwonen.flevoland.nl
 https://monumentenregister.cultureelerfgoed.nl
 https://msnp-tegemoetkoming.belastingdienst.nl
 https://mta-sts.belastingdienst.nl
+https://mta-sts.nza.nl
 https://mul-mbc.belastingdienst.nl
 https://mul-mkt.belastingdienst.nl
 https://mul-redirect.belastingdienst.nl
@@ -1258,6 +1273,13 @@ https://nt.ndw.nu
 https://ntm.ndw.nu
 https://nutriscorevoorbedrijven.nl
 https://nvwa.nl
+https://nza-form1.nza.nl
+https://nza-form2.nza.nl
+https://nza-form3.nza.nl
+https://nza-form4.nza.nl
+https://nza-form5.nza.nl
+https://nza-form6.nza.nl
+https://nza.nl
 https://oa.aaenmaas.nl
 https://odb.belastingdienst.nl
 https://odc.werkenvoornederland.nl
@@ -1504,11 +1526,13 @@ https://opendata.nponderwijs.nl
 https://opendata.nrgd.nl
 https://opendata.nutriscorevoorbedrijven.nl
 https://opendata.nvwa.nl
+https://opendata.nza.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.papiamentu.mijncn.nl
 https://opendata.persberichten.rijksoverheid.nl
 https://opendata.rcgog.nl
 https://opendata.rijksoverheid.nl
+https://opendisdata.nza.nl
 https://opleiding-ola.belastingdienst.nl
 https://opleiding.nl-alert.nl
 https://oproepingen-api-preprd-poc.overheid.nl
@@ -1641,6 +1665,8 @@ https://resolver.pre.omgevingswet.overheid.nl
 https://resultaten.nlarbeidsinspectie.nl
 https://rev.emissieautoriteit.nl
 https://rijksoverheid.nl
+https://rpx-qa.nza.nl
+https://rpx.nza.nl
 https://ruimte.dmo.omgevingswet.overheid.nl
 https://ruimte.int.omgevingswet.overheid.nl
 https://ruimte.kta.omgevingswet.overheid.nl
@@ -1806,6 +1832,7 @@ https://toestemming-tst.belastingdienst.nl
 https://toestemming.belastingdienst.nl
 https://toestemming.toeslagen.nl
 https://toezichtdocumenten.igj.nl
+https://tovertool.nza.nl
 https://treatydatabase-acc.overheid.nl
 https://treatydatabase.overheid.nl
 https://truck-parking.ndw.nu
@@ -1857,6 +1884,7 @@ https://vts.belastingdienst.nl
 https://vtsd.belastingdienst.nl
 https://vulnerabilities.ncsc.nl
 https://vuurwerk.domeinenrz.nl
+https://wachttijden.nza.nl
 https://wachtwoord.brabant.nl
 https://wadsup.beheerautoriteitwaddenzee.nl
 https://wagenparkgegevens.belastingdienst.nl
@@ -1884,6 +1912,7 @@ https://werken.belastingdienst.nl
 https://werken.toeslagen.nl
 https://werkenbij.justid.nl
 https://werkenbij.toeslagen.nl
+https://werkenbijde.nza.nl
 https://werkenvoor.brabant.nl
 https://werkenvoornederland.nl
 https://werkplek.brabant.nl
@@ -2143,6 +2172,7 @@ https://www.nrgd.nl
 https://www.nt.ndw.nu
 https://www.nutriscorevoorbedrijven.nl
 https://www.nvwa.nl
+https://www.nza.nl
 https://www.omgevingsplan.flevoland.nl
 https://www.omgevingswet.overheid.nl
 https://www.openbare-inspectieresultaten.nvwa.nl
@@ -2175,4 +2205,8 @@ https://zoeken.bigregister.nl
 https://zoeken.cultureelerfgoed.nl
 https://zoeken.ondernemersplein.overheid.nl
 https://zoekservice.overheid.nl
+https://zorgbeeld.nza.nl
 https://zorgenwerknetwerk.arboportaal.nl
+https://zorgprestatiemodel.nza.nl
+https://zorgproducten-acc.nza.nl
+https://zorgproducten.nza.nl

@@ -20,11 +20,13 @@ http://acc.render.map.services.cultureelerfgoed.nl
 http://acc.subsidie.cultureelerfgoed.nl
 http://acc.translate.services.cultureelerfgoed.nl
 http://acc.zaak.services.cultureelerfgoed.nl
+http://acceptatie.crm.nza.nl
 http://acceptatie.digikoppeling-dcr.cibg.nl
 http://acpt-machtigen.digipoort.logius.nl
 http://afspraak.bergendal.nl
 http://afspraken.rijssen-holten.nl
 http://ag-dcr.cibg.nl
+http://agw01-nomail.nza.nl
 http://aip-acc.nationaalcoordinatorgroningen.nl
 http://ami.amsterdam.nl
 http://amp-idp-pre.logius.nl
@@ -162,6 +164,7 @@ http://autodiscover.nijmegennu.nijmegen.nl
 http://autodiscover.nissewaard.nl
 http://autodiscover.noardeast-fryslan.nl
 http://autodiscover.noordoostpolder.nl
+http://autodiscover.nza.nl
 http://autodiscover.oegstgeest.nl
 http://autodiscover.oldebroek.nl
 http://autodiscover.oostgelre.nl
@@ -261,6 +264,7 @@ http://connect.acceptatie.goirle.nl
 http://coronadashboard.government.nl
 http://coronadashboard.rijksoverheid.nl
 http://crl.denhaag.nl
+http://crm.nza.nl
 http://data.eindhoven.nl
 http://datatest.delft.nl
 http://demo1-systemteam.overheid.nl
@@ -678,6 +682,7 @@ https://aalten-checker-preprod.aalten.nl
 https://aalten-checker.aalten.nl
 https://aanbiedersmedicijnen.nl
 https://aandeslagmetdeomgevingswet.nl
+https://aangetekendmailen.nza.nl
 https://aanmelden.gorinchem.nl
 https://aanmelden.hengelo.nl
 https://aanmelden.krimpenerwaard.nl
@@ -691,6 +696,8 @@ https://aanvraag.dus-i.nl
 https://aanvraag.waalwijk.nl
 https://aanvraagparkeren.groningen.nl
 https://aanvraagstaging.waalwijk.nl
+https://aanvragen-acc.nza.nl
+https://aanvragen.nza.nl
 https://aanvragenpreprod.hillegom.nl
 https://aanvragenpreprod.lisse.nl
 https://aanvragenpreprod.teylingen.nl
@@ -3434,6 +3441,7 @@ https://elearning-atb.nctv.nl
 https://elearning-basiscrisisbeheersing.nctv.nl
 https://elearning-irb.nctv.nl
 https://elearning-lcp-egt.nctv.nl
+https://elearning-msz.nza.nl
 https://elise.rotterdam.nl
 https://elkeregiotelt.nl
 https://elkk.amsterdam.nl
@@ -3981,6 +3989,7 @@ https://feeds.nponderwijs.nl
 https://feeds.nrgd.nl
 https://feeds.nutriscorevoorbedrijven.nl
 https://feeds.nvwa.nl
+https://feeds.nza.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.papiamentu.mijncn.nl
 https://feeds.persberichten.rijksoverheid.nl
@@ -4720,6 +4729,7 @@ https://hybrid.almere.nl
 https://hybrid.beverwijk.nl
 https://hybrid.gooisemeren.nl
 https://hybrid.nederbetuwe.nl
+https://hybrid.nza.nl
 https://hybrid.purmerend.nl
 https://hybrid.sittard-geleen.nl
 https://i-login.mijncn.nl
@@ -5224,6 +5234,7 @@ https://isis.rotterdam.nl
 https://isms-acc.denhaag.nl
 https://isms.denhaag.nl
 https://it-academieoverheid.nl
+https://itsupport.nza.nl
 https://ivo-acc.nvwa.nl
 https://ivo.nvwa.nl
 https://ivor.veenendaal.nl
@@ -5315,6 +5326,7 @@ https://jouwbadhoevedorp.haarlemmermeer.nl
 https://jouwdamsterplein.groningen.nl
 https://jouwgrotemarkt.groningen.nl
 https://justid.nl
+https://jv.nza.nl
 https://jvs-prod.gemeente-steenbergen.nl
 https://jvs-test.gemeente-steenbergen.nl
 https://jvs.goirle.nl
@@ -5554,6 +5566,7 @@ https://leiderdorp.nl
 https://leidschendam-voorburg.nl
 https://leidschenveenaanzet.denhaag.nl
 https://lelystad.nl
+https://leren.nza.nl
 https://lerenbij.groningen.nl
 https://lerenloont.almere.nl
 https://les-acc.amsterdam.nl
@@ -5759,6 +5772,7 @@ https://magazines.kinderbescherming.nl
 https://magazines.ncsc.nl
 https://magazines.nctv.nl
 https://magazines.nvwa.nl
+https://magazines.nza.nl
 https://magazines.rijksoverheid.nl
 https://magazines.rotterdam.nl
 https://magazines.werkenvoornederland.nl
@@ -6388,6 +6402,7 @@ https://mstat.meerssen.nl
 https://mta-sts.belastingdienst.nl
 https://mta-sts.duiven.nl
 https://mta-sts.gennep.nl
+https://mta-sts.nza.nl
 https://mta-sts.peelenmaas.nl
 https://mta-sts.pop.deventer.nl
 https://mta-sts.raad.duiven.nl
@@ -6539,6 +6554,13 @@ https://nutriscorevoorbedrijven.nl
 https://nvwa.nl
 https://nwro.velsen.nl
 https://nwro2.velsen.nl
+https://nza-form1.nza.nl
+https://nza-form2.nza.nl
+https://nza-form3.nza.nl
+https://nza-form4.nza.nl
+https://nza-form5.nza.nl
+https://nza-form6.nza.nl
+https://nza.nl
 https://oa.aaenmaas.nl
 https://oauth.denhaag.nl
 https://oauth.openstad.alphenaandenrijn.nl
@@ -7050,6 +7072,7 @@ https://opendata.nponderwijs.nl
 https://opendata.nrgd.nl
 https://opendata.nutriscorevoorbedrijven.nl
 https://opendata.nvwa.nl
+https://opendata.nza.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.papiamentu.mijncn.nl
 https://opendata.persberichten.rijksoverheid.nl
@@ -7058,6 +7081,7 @@ https://opendata.rijksoverheid.nl
 https://opendata.roosendaal.nl
 https://opendata.utrecht.nl
 https://opendata.zoetermeer.nl
+https://opendisdata.nza.nl
 https://openformulieren-test.dewolden.nl
 https://openformulieren-test.drechterland.nl
 https://openformulieren-test.enkhuizen.nl
@@ -8002,6 +8026,8 @@ https://router.winterswijk.nl
 https://rozendaal.nl
 https://rp.beverwijk.nl
 https://rpl3.nissewaard.nl
+https://rpx-qa.nza.nl
+https://rpx.nza.nl
 https://rs010.rotterdam.nl
 https://rspw.rotterdam.nl
 https://rucphen.nl
@@ -9024,6 +9050,7 @@ https://topdesk.venlo.nl
 https://topdesk.zoetermeer.nl
 https://topvorm.apeldoorn.nl
 https://tourbuzz.amsterdam.nl
+https://tovertool.nza.nl
 https://tportal.noordoostpolder.nl
 https://tr.barneveld.nl
 https://tra.hengelo.nl
@@ -9342,6 +9369,7 @@ https://waarmerk.waterland.nl
 https://waarmerk.westerwolde.nl
 https://waarmerk.westvoorne.nl
 https://waarmerk.winterswijk.nl
+https://wachttijden.nza.nl
 https://wachtwoord.alkmaar.nl
 https://wachtwoord.almere.nl
 https://wachtwoord.amsterdam.nl
@@ -9533,6 +9561,7 @@ https://werkenbij.vlieland.nl
 https://werkenbij.waadhoeke.nl
 https://werkenbij.woerden.nl
 https://werkenbij.zaanstad.nl
+https://werkenbijde.nza.nl
 https://werkeninkomen-test.leiden.nl
 https://werkeninkomen-test.leiderdorp.nl
 https://werkeninkomen.leiden.nl
@@ -10331,6 +10360,7 @@ https://www.nunspeet.nl
 https://www.nutriscorevoorbedrijven.nl
 https://www.nvwa.nl
 https://www.nwro.velsen.nl
+https://www.nza.nl
 https://www.oco.eindhoven.nl
 https://www.oefenenmetstemmen.denhaag.nl
 https://www.oegstgeest.nl
@@ -10745,9 +10775,13 @@ https://zorg.molenlanden.nl
 https://zorg.voerendaal.nl
 https://zorgaanbieders.deventer.nl
 https://zorgaanbieders.eindhoven.nl
+https://zorgbeeld.nza.nl
 https://zorgenwerknetwerk.arboportaal.nl
 https://zorgloket.wijdemeren.nl
 https://zorgned-prod.gemeente-steenbergen.nl
+https://zorgprestatiemodel.nza.nl
+https://zorgproducten-acc.nza.nl
+https://zorgproducten.nza.nl
 https://zorgprofessionals.utrecht.nl
 https://zorgvlied.acceptatie.amstelveen.nl
 https://zorgvlied.amstelveen.nl
