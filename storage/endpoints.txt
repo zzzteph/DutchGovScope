@@ -941,6 +941,7 @@ https://acc.midden-groningen.nl
 https://acc.mijn.leeuwarden.nl
 https://acc.montferland.info
 https://acc.monumentenregister.cultureelerfgoed.nl
+https://acc.ncsc.nl
 https://acc.nijmegen.nl
 https://acc.noord-beveland.nl
 https://acc.omgevingswet.overheid.nl
@@ -1147,6 +1148,7 @@ https://adviesraad.westbetuwe.nl
 https://adviesraadmigratie.nl
 https://adviesraden.deventer.nl
 https://advieswijzer.bigregister.nl
+https://advisories.ncsc.nl
 https://advisorycommitteeinternationallaw.nl
 https://advisorycouncilinternationalaffairs.nl
 https://aeriusproducten.nl
@@ -1362,6 +1364,7 @@ https://api-meldingen.denhaag.nl
 https://api-ota.belastingdienst.nl
 https://api.acc.meldingen.amsterdam.nl
 https://api.acc.meldingen.kampen.nl
+https://api.acc.ncsc.nl
 https://api.aip.amsterdam.nl
 https://api.amsterdam.nl
 https://api.belastingdienst.nl
@@ -1481,7 +1484,11 @@ https://api.meldingen.woensdrecht.nl
 https://api.meldingen.zaanstad.nl
 https://api.meldingen.zoeterwoude.nl
 https://api.meldingen.zundert.nl
+https://api.mijn.acc.ncsc.nl
+https://api.mijn.ncsc.nl
 https://api.mijn.overheid.nl
+https://api.mijn.test.ncsc.nl
+https://api.ncsc.nl
 https://api.ondernemersplein.overheid.nl
 https://api.openstad.alphenaandenrijn.nl
 https://api.openstad.deventer.nl
@@ -2337,6 +2344,7 @@ https://centrumbegroot.alphenaandenrijn.nl
 https://centrumbegroot.amsterdam.nl
 https://cert.nl
 https://channels.lpc.logius.nl
+https://chat.ncsc.nl
 https://chatapi.klopt.cibg.nl
 https://checkjeprijs.huurcommissie.nl
 https://checklist.rotterdam.nl
@@ -2581,6 +2589,7 @@ https://cryptshare.rijswijk.nl
 https://cryptshare.sudwestfryslan.nl
 https://cryptshare.terneuzen.nl
 https://cryptsharetest.delft.nl
+https://csaf.data.security.ncsc.nl
 https://csam.deventer.nl
 https://csc.beverwijk.nl
 https://csc.dantumadiel.frl
@@ -3511,6 +3520,7 @@ https://english.knmidata.nl
 https://english.marechaussee.nl
 https://english.mijncn.nl
 https://english.ncadierproevenbeleid.nl
+https://english.ncsc.nl
 https://english.sso3w.nl
 https://enkhuizen.nl
 https://enquete-acc.denhaag.nl
@@ -3804,6 +3814,7 @@ https://feeds.english.knmidata.nl
 https://feeds.english.marechaussee.nl
 https://feeds.english.mijncn.nl
 https://feeds.english.ncadierproevenbeleid.nl
+https://feeds.english.ncsc.nl
 https://feeds.english.sso3w.nl
 https://feeds.erfgoeddeal.nl
 https://feeds.euthanasiecommissie.nl
@@ -3885,6 +3896,7 @@ https://feeds.nationalebijenstrategie.nl
 https://feeds.ncab.nl
 https://feeds.ncadierproevenbeleid.nl
 https://feeds.ncpeh.nl
+https://feeds.ncsc.nl
 https://feeds.nieuwsbrievenminocw.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.papiamentu.mijncn.nl
@@ -4437,6 +4449,8 @@ https://gitdocumentatie.logius.nl
 https://gitops.acc.denhaag.nl
 https://gitops.dev.denhaag.nl
 https://gitops.test.denhaag.nl
+https://gl.ncsc.nl
+https://gl1.ncsc.nl
 https://glanerbrug.openstad.enschede.nl
 https://gobernadoraruba.com
 https://gobiernodireino.nl
@@ -5641,6 +5655,7 @@ https://magazines.ilent.nl
 https://magazines.informatiehuishouding.nl
 https://magazines.jeugdautoriteit.nl
 https://magazines.kinderbescherming.nl
+https://magazines.ncsc.nl
 https://magazines.rijksoverheid.nl
 https://magazines.rotterdam.nl
 https://magazines.werkenvoornederland.nl
@@ -5860,6 +5875,7 @@ https://meldpuntzorgenomeenander.rotterdam.nl
 https://meldpuntzorgsignalen.rotterdam.nl
 https://meldr.rotterdam.nl
 https://meldweb.westerwolde.nl
+https://melissa.ncsc.nl
 https://menditectbco.rotterdam.nl
 https://menditectdv.rotterdam.nl
 https://menditectmo.rotterdam.nl
@@ -5910,6 +5926,7 @@ https://mijn-preproductie.westerkwartier.nl
 https://mijn-services.accp.nijmegen.nl
 https://mijn-services.nijmegen.nl
 https://mijn-test.veenendaal.nl
+https://mijn.acc.ncsc.nl
 https://mijn.accp.nijmegen.nl
 https://mijn.alkmaar.nl
 https://mijn.amersfoort.nl
@@ -5967,6 +5984,7 @@ https://mijn.meppel.nl
 https://mijn.middendelfland.nl
 https://mijn.moerdijk.nl
 https://mijn.montfoort.nl
+https://mijn.ncsc.nl
 https://mijn.nijmegen.nl
 https://mijn.noordwijk.nl
 https://mijn.oldenzaal.nl
@@ -5988,6 +6006,7 @@ https://mijn.schouwen-duiveland.nl
 https://mijn.sittard-geleen.nl
 https://mijn.soest.nl
 https://mijn.stichtsevecht.nl
+https://mijn.test.ncsc.nl
 https://mijn.test.oss.nl
 https://mijn.texel.nl
 https://mijn.tholen.nl
@@ -6300,6 +6319,7 @@ https://natuurbeheerplan.flevoland.nl
 https://ncab.nl
 https://ncadierproevenbeleid.nl
 https://ncpeh.nl
+https://ncsc.nl
 https://ndbu-acc.utrecht.nl
 https://ndbu-tst.utrecht.nl
 https://ndbu.utrecht.nl
@@ -6779,6 +6799,7 @@ https://opendata.english.knmidata.nl
 https://opendata.english.marechaussee.nl
 https://opendata.english.mijncn.nl
 https://opendata.english.ncadierproevenbeleid.nl
+https://opendata.english.ncsc.nl
 https://opendata.english.sso3w.nl
 https://opendata.euthanasiecommissie.nl
 https://opendata.excellentescholen.nl
@@ -6860,6 +6881,7 @@ https://opendata.nationalebijenstrategie.nl
 https://opendata.ncab.nl
 https://opendata.ncadierproevenbeleid.nl
 https://opendata.ncpeh.nl
+https://opendata.ncsc.nl
 https://opendata.nieuwsbrievenminocw.nl
 https://opendata.nijmegen.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
@@ -7507,6 +7529,7 @@ https://preproductiebroker.gemeentewesterveld.nl
 https://pric.rotterdam.nl
 https://prijsvraag-zwembad.apeldoorn.nl
 https://printen.tilburg.nl
+https://privaat.octomon.ncsc.nl
 https://privacybewustzijn.bergendal.nl
 https://private.delft.nl
 https://proapp.rotterdam.nl
@@ -7938,6 +7961,8 @@ https://secure.veendam.nl
 https://secure1.weert.nl
 https://secure1ev.weert.nl
 https://secure1t.weert.nl
+https://securened.ncsc.nl
+https://securenet.ncsc.nl
 https://securenetwork.nijkerk.eu
 https://securetest.roermond.nl
 https://seg.leudal.nl
@@ -8628,6 +8653,7 @@ https://test.mijnhulpvraag.rijswijk.nl
 https://test.mijnzorg.beekdaelen.nl
 https://test.moerdijk.nl
 https://test.monumentenregister.cultureelerfgoed.nl
+https://test.ncsc.nl
 https://test.open-formulieren.noordoostpolder.nl
 https://test.open-formulieren.vught.nl
 https://test.pekela.nl
@@ -9083,6 +9109,7 @@ https://vthbroker.zwijndrecht.nl
 https://vts.belastingdienst.nl
 https://vtsd.belastingdienst.nl
 https://vught.nl
+https://vulnerabilities.ncsc.nl
 https://vuurwerk.domeinenrz.nl
 https://w2008bag.gemeentesluis.nl
 https://w2008stuf.gemeentesluis.nl
@@ -10046,6 +10073,7 @@ https://www.nationalebijenstrategie.nl
 https://www.ncab.nl
 https://www.ncadierproevenbeleid.nl
 https://www.ncpeh.nl
+https://www.ncsc.nl
 https://www.ndbu-acc.utrecht.nl
 https://www.ndbu-tst.utrecht.nl
 https://www.ndbu.utrecht.nl

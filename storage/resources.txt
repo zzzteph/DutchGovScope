@@ -129,6 +129,7 @@ a-english.dggf.nl
 a-english.dsta.nl
 a-english.igj.nl
 a-english.ncadierproevenbeleid.nl
+a-english.ncsc.nl
 a-feeds.a-english.aivd.nl
 a-feeds.a-english.autoriteitnvs.nl
 a-feeds.a-english.bigregister.nl
@@ -666,6 +667,7 @@ acc.mijn.overheid.nl
 acc.mijngkb.midden-groningen.nl
 acc.montferland.info
 acc.monumentenregister.cultureelerfgoed.nl
+acc.ncsc.nl
 acc.nieuwegein.nl
 acc.nijmegen.nl
 acc.nlx.amsterdam.nl
@@ -981,6 +983,7 @@ acpt-machtigen.digipoort.logius.nl
 acpt.3d.utrecht.nl
 acs-acpt.brabant.nl
 acs.brabant.nl
+acs.ncsc.nl
 actief.landvancuijk.nl
 activemq.beheer.intpatch.omgevingswet.overheid.nl
 activesync.amersfoort.nl
@@ -1086,6 +1089,8 @@ adviesraad.westbetuwe.nl
 adviesraadmigratie.nl
 adviesraden.deventer.nl
 advieswijzer.bigregister.nl
+advisories-acceptatie.ncsc.nl
+advisories.ncsc.nl
 advisorycommitteeinternationallaw.nl
 advisorycouncilinternationalaffairs.nl
 aeolus.eijsden-margraten.nl
@@ -1506,6 +1511,7 @@ api-test-gemnet.losser.nl
 api.acc.meldingen.amsterdam.nl
 api.acc.meldingen.kampen.nl
 api.acc.mijn.overheid.nl
+api.acc.ncsc.nl
 api.acc1.mijn.overheid.nl
 api.acc2.mijn.overheid.nl
 api.aip.amsterdam.nl
@@ -1635,8 +1641,12 @@ api.meldingen.woensdrecht.nl
 api.meldingen.zaanstad.nl
 api.meldingen.zoeterwoude.nl
 api.meldingen.zundert.nl
+api.mijn.acc.ncsc.nl
+api.mijn.ncsc.nl
 api.mijn.overheid.nl
+api.mijn.test.ncsc.nl
 api.nationaalwegenbestand.nl
+api.ncsc.nl
 api.ondernemersplein.overheid.nl
 api.openstad.alphenaandenrijn.nl
 api.openstad.deventer.nl
@@ -3215,6 +3225,7 @@ buytenweghdeleyens.zoetermeer.nl
 bvd-pre.mev.logius.nl
 bvd.mev.logius.nl
 bvdi.utrecht.nl
+bvpn.ncsc.nl
 bvs.belastingdienst.nl
 bwr.amsterdam.nl
 bwrmail.bwr.amsterdam.nl
@@ -3358,6 +3369,8 @@ channels-az1.lpc.logius.nl
 channels-az2.lpc.logius.nl
 channels.logius.nl
 channels.lpc.logius.nl
+charlie.ncsc.nl
+chat.ncsc.nl
 chatapi.klopt.cibg.nl
 checkjeprijs.huurcommissie.nl
 checklist.rotterdam.nl
@@ -3855,6 +3868,7 @@ cryptshare.zwolle.nl
 cryptsharet.zwolle.nl
 cryptsharetest.delft.nl
 csa.sudwestfryslan.nl
+csaf.data.security.ncsc.nl
 csam.deventer.nl
 csc.beverwijk.nl
 csc.dantumadiel.frl
@@ -4660,6 +4674,7 @@ dloket.westvoorne.nl
 dloket.zwolle.nl
 dm-tst.groningen.nl
 dmafunc002.amsterdam.nl
+dmarcreport.ncsc.nl
 dmb.amsterdam.nl
 dmidoffice.assen.nl
 dmidoffice.borger-odoorn.nl
@@ -5539,6 +5554,7 @@ english.knmidata.nl
 english.marechaussee.nl
 english.mijncn.nl
 english.ncadierproevenbeleid.nl
+english.ncsc.nl
 english.sso3w.nl
 enkhuizen.nl
 enquete-acc.denhaag.nl
@@ -5953,6 +5969,7 @@ feeds.english.knmidata.nl
 feeds.english.marechaussee.nl
 feeds.english.mijncn.nl
 feeds.english.ncadierproevenbeleid.nl
+feeds.english.ncsc.nl
 feeds.english.sso3w.nl
 feeds.erfgoeddeal.nl
 feeds.euthanasiecommissie.nl
@@ -6034,6 +6051,7 @@ feeds.nationalebijenstrategie.nl
 feeds.ncab.nl
 feeds.ncadierproevenbeleid.nl
 feeds.ncpeh.nl
+feeds.ncsc.nl
 feeds.nieuwsbrievenminocw.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.papiamentu.mijncn.nl
@@ -7071,6 +7089,8 @@ gitops.acc.denhaag.nl
 gitops.dev.denhaag.nl
 gitops.test.denhaag.nl
 gkb.groningen.nl
+gl.ncsc.nl
+gl1.ncsc.nl
 glanerbrug.openstad.enschede.nl
 glapp05.local.oostgelre.nl
 glapp21.local.oostgelre.nl
@@ -8218,6 +8238,8 @@ integralebeveiliging.tilburg.nl
 integratie.omgevingswet.overheid.nl
 integratie02.omgevingswet.overheid.nl
 integriteitswijzer.huisvoorklokkenluiders.nl
+intel-acc.ncsc.nl
+intel.ncsc.nl
 intens-acc.enschede.nl
 intens.enschede.nl
 interconnect-rtr.s-hertogenbosch.nl
@@ -9460,6 +9482,7 @@ magazines.informatiehuishouding.nl
 magazines.inspectie-jenv.nl
 magazines.jeugdautoriteit.nl
 magazines.kinderbescherming.nl
+magazines.ncsc.nl
 magazines.rijksoverheid.nl
 magazines.rotterdam.nl
 magazines.werkenvoornederland.nl
@@ -9937,6 +9960,7 @@ meldpuntzorgenomeenander.rotterdam.nl
 meldpuntzorgsignalen.rotterdam.nl
 meldr.rotterdam.nl
 meldweb.westerwolde.nl
+melissa.ncsc.nl
 menditectbco.rotterdam.nl
 menditectdv.rotterdam.nl
 menditectmo.rotterdam.nl
@@ -10036,6 +10060,7 @@ mijn-test3.belastingdienst.nl
 mijn-xt.tst.toeslagen.nl
 mijn.aalten.nl
 mijn.acc.belastingdienst.nl
+mijn.acc.ncsc.nl
 mijn.accp.nijmegen.nl
 mijn.adr.donorregister.nl
 mijn.alkmaar.nl
@@ -10104,6 +10129,7 @@ mijn.meppel.nl
 mijn.middendelfland.nl
 mijn.moerdijk.nl
 mijn.montfoort.nl
+mijn.ncsc.nl
 mijn.nijmegen.nl
 mijn.noordwijk.nl
 mijn.nunspeet.nl
@@ -10152,6 +10178,7 @@ mijn.str30.acc.belastingdienst.nl
 mijn.str59.ont.belastingdienst.nl
 mijn.str60.ont.belastingdienst.nl
 mijn.sudwestfryslan.nl
+mijn.test.ncsc.nl
 mijn.test.oss.nl
 mijn.texel.nl
 mijn.tholen.nl
@@ -10443,6 +10470,9 @@ mik.brabant.nl
 milieudienst.groningen.nl
 milieueducatie.denhaag.nl
 mill.landvancuijk.nl
+min1.ncsc.nl
+min2.ncsc.nl
+min3.ncsc.nl
 minimi.vlaardingen.nl
 minio.cg-intern.acc.utrecht.nl
 mintra.mookenmiddelaar.nl
@@ -10658,6 +10688,7 @@ mwr-app-api.belastingdienst.nl
 mwr-app-cdn-ota.belastingdienst.nl
 mwr-app-cdn.belastingdienst.nl
 mx.elburg.nl
+mx.ncsc.nl
 mx.oss.nl
 mx001.ctivd.nl
 mx01.haarlem.nl
@@ -10667,6 +10698,7 @@ mx1.groningen.nl
 mx1.haarlemmermeer.nl
 mx1.lelystad.nl
 mx1.mensenrechten.nl
+mx1.ncsc.nl
 mx1.rucphen.nl
 mx1.s-hertogenbosch.nl
 mx1.waalwijk.nl
@@ -10676,6 +10708,7 @@ mx12.meierijstad.nl
 mx2.ede.nl
 mx2.groningen.nl
 mx2.lelystad.nl
+mx2.ncsc.nl
 mx2.rucphen.nl
 mx2.s-hertogenbosch.nl
 mx2.valkenburg.nl
@@ -10750,6 +10783,7 @@ ncab.nl
 ncadierproevenbeleid.nl
 ncp-api-1.ccmo.nl
 ncpeh.nl
+ncsc.nl
 ndbu-acc.utrecht.nl
 ndbu-tst.utrecht.nl
 ndbu.utrecht.nl
@@ -10757,6 +10791,7 @@ ndes.apeldoorn.nl
 ndes.barneveld.nl
 ndes.ot.denhaag.nl
 ndesapeldoorn.apeldoorn.nl
+ndn-onderzoek.ncsc.nl
 ned03msn.meerssen.nl
 nedbrk.brunssum.nl
 nedbrkinleesservice.brunssum.nl
@@ -10934,6 +10969,8 @@ ns4.belastingdienst.nl
 ns4.brabant.nl
 nshfwcs-gp.zaanstad.nl
 nshfwcs.zaanstad.nl
+nspnws-cursus.ncsc.nl
+nspnws.ncsc.nl
 nswapp079-edit.nissewaard.nl
 nswapp080-edit.nissewaard.nl
 nswclodrop.nissewaard.nl
@@ -10954,6 +10991,7 @@ nunspeet-checker.nunspeet.nl
 nunspeet.nl
 nw.haarlemmermeer.nl
 nwk-djm02.nieuwkoop.nl
+nwrar-acc.ncsc.nl
 nwro.velsen.nl
 nwro.voerendaal.nl
 nwro2.velsen.nl
@@ -11469,6 +11507,7 @@ opendata.english.knmidata.nl
 opendata.english.marechaussee.nl
 opendata.english.mijncn.nl
 opendata.english.ncadierproevenbeleid.nl
+opendata.english.ncsc.nl
 opendata.english.sso3w.nl
 opendata.euthanasiecommissie.nl
 opendata.excellentescholen.nl
@@ -11551,6 +11590,7 @@ opendata.nationalebijenstrategie.nl
 opendata.ncab.nl
 opendata.ncadierproevenbeleid.nl
 opendata.ncpeh.nl
+opendata.ncsc.nl
 opendata.nieuwsbrievenminocw.nl
 opendata.nijmegen.nl
 opendata.papiamentu.belastingdienst-cn.nl
@@ -11718,6 +11758,7 @@ oracbloemenbuurt.denhaag.nl
 oranjekwartier.deventer.nl
 oranjeplein.goirle.nl
 orbit.montferland.info
+orchestrator.ncsc.nl
 organisatie.gemeente-steenbergen.nl
 organisatie.hoorn.nl
 organisatieontwikkeling.assen.nl
@@ -12716,6 +12757,8 @@ pric.rotterdam.nl
 prifill-test.sudwestfryslan.nl
 prijsvraag-zwembad.apeldoorn.nl
 printen.tilburg.nl
+privaat-acceptatie.octomon.ncsc.nl
+privaat.octomon.ncsc.nl
 privacybewustzijn.bergendal.nl
 private-test.delft.nl
 private.delft.nl
@@ -13667,6 +13710,8 @@ secure2.westmaasenwaal.nl
 securegemnet.roermond.nl
 securegw.bunschoten.nl
 securemail.borne.nl
+securened.ncsc.nl
+securenet.ncsc.nl
 securenetwork.nijkerk.eu
 securetest.roermond.nl
 secureweb.landgraaf.nl
@@ -14920,6 +14965,7 @@ talentenbank.ooststellingwerf.nl
 talentenbank.weststellingwerf.nl
 talentencoach.gemeentewestland.nl
 tamtam.amsterdam.nl
+taranis.ncsc.nl
 taskflow.t-diel.nl
 tasman375.groningen.nl
 taxa01.kerkrade.nl
@@ -15270,6 +15316,7 @@ test.mijnloket.vlaardingen.nl
 test.mijnzorg.beekdaelen.nl
 test.moerdijk.nl
 test.monumentenregister.cultureelerfgoed.nl
+test.ncsc.nl
 test.nissewaard.nl
 test.nuenen.nl
 test.open-formulieren.noordoostpolder.nl
@@ -15520,6 +15567,7 @@ timprod.heuvelrug.nl
 timtest.heuvelrug.nl
 timtotalmobile-prod.heuvelrug.nl
 timtotalmobile-test.heuvelrug.nl
+tip.ncsc.nl
 tjooner.gulpen-wittem.nl
 tkoppelcorsa.kerkrade.nl
 tkoppelcorsa.landgraaf.nl
@@ -15698,6 +15746,7 @@ tynaarlo.nl
 typo3.borger-odoorn.nl
 typo3.velsen.nl
 tzp.leiden.nl
+uag.ncsc.nl
 uag1.oostgelre.nl
 uaghelm01.helmond.nl
 uaghelm02.helmond.nl
@@ -16181,6 +16230,7 @@ vts-beheer.belastingdienst.nl
 vts.belastingdienst.nl
 vtsd.belastingdienst.nl
 vught.nl
+vulnerabilities.ncsc.nl
 vuurwerk.domeinenrz.nl
 vveacc.amsterdam.nl
 vvetest.amsterdam.nl
@@ -16315,6 +16365,7 @@ wd.belastingdienst.nl
 wd.ont.belastingdienst.nl
 wdm-fepoolweb-ext.wijdemeren.nl
 wdm01.gooisemeren.nl
+wds.ncsc.nl
 wdt.belastingdienst.nl
 wdvggm.waddinxveen.nl
 web.aaenmaas.nl
@@ -17923,6 +17974,7 @@ www.natuurnetwerken-test.sudwestfryslan.nl
 www.ncab.nl
 www.ncadierproevenbeleid.nl
 www.ncpeh.nl
+www.ncsc.nl
 www.ndbu-acc.utrecht.nl
 www.ndbu-tst.utrecht.nl
 www.ndbu.utrecht.nl

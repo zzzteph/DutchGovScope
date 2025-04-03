@@ -24,8 +24,8 @@ loket
 formulieren
 test
 eloket
-werkplek
 acc
+werkplek
 dkd
 portal
 meldingen
@@ -38,8 +38,8 @@ parkeren
 adfs
 raad
 api.meldingen
-broker
 english
+broker
 betalen
 testeloket
 zaaksysteem-accept
@@ -54,9 +54,9 @@ belastingen
 a-feeds
 a-opendata
 test-ipa
-data
 feeds.english
 opendata.english
+data
 dacceptatieloket
 dacceptatiemidoffice
 remote
@@ -136,6 +136,7 @@ qr
 gemeente
 bastion365
 obsurv
+a-english
 lyncdiscover
 web
 connect.acceptatie
@@ -148,7 +149,6 @@ acc-podiumd-logs
 woningbouwkaart
 contentbeheer
 cms
-a-english
 mobiel
 mailing
 email
@@ -170,6 +170,7 @@ acc-objecttypen
 jaarstukken
 cryptshare
 _dmarc
+api
 fs
 mta-sts
 kennisbank
@@ -198,11 +199,11 @@ uc
 transfer
 a-feeds.a-english
 a-opendata.a-english
-api
 evenementen
 onderzoek
 intranet-acc
 telewerken
+mx1
 college
 bis
 openklant
@@ -221,7 +222,7 @@ meet
 wachtwoord
 archief
 guest
-mx1
+mx2
 preprod-mijn
 veiligdelen
 geodata
@@ -262,7 +263,6 @@ topdesk
 acceptatie-open
 bestanden
 kcc
-mx2
 cloudadapter-prod
 handhaving
 www.portal
@@ -572,6 +572,7 @@ teams
 jip
 brs
 tunnel
+mx
 belastingportaal.acc
 inloggen.belastingportaal
 inloggen.belastingportaal.acc
@@ -818,6 +819,7 @@ fibt2.acc
 gbav
 gtmt
 mijn-acc1
+mijn.acc
 mijnaanvraag
 mysite
 mysites
@@ -832,6 +834,7 @@ toestemming
 video
 vinden
 webapps
+api.mijn
 componenten
 data-acc
 dns1
@@ -854,6 +857,7 @@ papiamentu
 acceptatie.behandel
 acceptatie.webservices
 acceptatie.zoeken
+acs
 corsa
 corsa2023
 georegister
@@ -893,6 +897,7 @@ www.geoserver
 login.acc
 aip
 intranet-prod
+mijn.test
 edienstenburgerzaken.test
 www.praatmee
 datalab
@@ -1147,7 +1152,6 @@ betaal
 mx3
 redirect
 www.ondernemen
-mx
 allegro
 bijeenkomsten
 cmsoo.gemeente
@@ -1776,7 +1780,6 @@ mijn-c2.tst
 mijn-perf.acc
 mijn-test2
 mijn-test3
-mijn.acc
 mijn.ont
 mijn.str10.acc
 mijn.str10.tst
@@ -2238,7 +2241,6 @@ api.acc2.mijn
 api.dn.acc.mijn
 api.dn.acc1.mijn
 api.dn.tst1.mijn
-api.mijn
 api.ondernemersplein
 api.preprod.mijn
 api.standaarden
@@ -2823,7 +2825,6 @@ advieswijzer
 behandel
 tea
 acs-acpt
-acs
 api-acpt
 aris
 atlas-acpt
@@ -3345,6 +3346,38 @@ zakelijk
 acceptatie.portaal
 acceptatie.uzipas.portaal
 uzipas.portaal
+advisories-acceptatie
+advisories
+api.acc
+api.mijn.acc
+api.mijn.test
+bvpn
+charlie
+chat
+csaf.data.security
+dmarcreport
+gl
+gl1
+intel-acc
+intel
+melissa
+min1
+min2
+min3
+ndn-onderzoek
+nspnws-cursus
+nspnws
+nwrar-acc
+orchestrator
+privaat-acceptatie.octomon
+privaat.octomon
+securened
+securenet
+taranis
+tip
+uag
+vulnerabilities
+wds
 email.mail.participatie
 mail.participatie
 aalten-checker-preprod
@@ -7327,7 +7360,6 @@ internoss
 internoss.test
 jaarverslag2023
 kadernota2025
-mijn.test
 portal.test
 test.loket
 uem
