@@ -3899,6 +3899,7 @@ https://filecap.rozendaal.nl
 https://filecap.wierden.nl
 https://filecapacc.breda.nl
 https://files.iplo.nl
+https://files.klimaatadaptatienederland.nl
 https://filesender.ctgb.nl
 https://fileshare.adds.amsterdam.nl
 https://fileshare.amsterdam.nl
@@ -5312,6 +5313,7 @@ https://klantportaal.enkhuizen.nl
 https://klantportaal.stedebroec.nl
 https://klemmi.rotterdam.nl
 https://klimaat.landvancuijk.nl
+https://klimaatadaptatienederland.nl
 https://klimaatbestendig.lingewaard.nl
 https://klimaatplein.bergen-nh.nl
 https://klimaatplein.castricum.nl
@@ -9330,6 +9332,7 @@ https://woo.hilversum.nl
 https://woo.krimpenerwaard.nl
 https://woo.nunspeet.nl
 https://wooloket.bernheze.org
+https://woordenboek.klimaatadaptatienederland.nl
 https://wootest.helmond.nl
 https://wordimport.drop.overheid.nl
 https://wordpress-zgw.acc.denhaag.nl
@@ -9824,6 +9827,7 @@ https://www.kiesraad.nl
 https://www.kik-v.nl
 https://www.kimnet.nl
 https://www.kinderbescherming.nl
+https://www.klimaatadaptatienederland.nl
 https://www.komverder.krimpenaandenijssel.nl
 https://www.kos.nijmegen.nl
 https://www.krimpenaandenijssel.nl

@@ -731,6 +731,7 @@ https://fibi1.belastingdienst.nl
 https://fibt1.toeslagen.nl
 https://fibz1.belastingdienst.nl
 https://files.iplo.nl
+https://files.klimaatadaptatienederland.nl
 https://filesender.ctgb.nl
 https://filetransfer.belastingdienst.nl
 https://filetransfer.ont.belastingdienst.nl
@@ -894,6 +895,7 @@ https://kik-v.nl
 https://kim.omgevingswet.overheid.nl
 https://kimnet.nl
 https://kinderbescherming.nl
+https://klimaatadaptatienederland.nl
 https://koppelvlak-asl.overheid.nl
 https://koppelvlak.overheid.nl
 https://kwaliteitsdashboard-koop.overheid.nl
@@ -1526,6 +1528,7 @@ https://wikixl-saml.test.cultureelerfgoed.nl
 https://wio.ilent.nl
 https://wms.aanpakringzuid.nl
 https://woo-formulier.rijksoverheid.nl
+https://woordenboek.klimaatadaptatienederland.nl
 https://wordimport.drop.overheid.nl
 https://wsus.hdsr.nl
 https://www-sandbox.werkenvoornederland.nl
@@ -1707,6 +1710,7 @@ https://www.kiesraad.nl
 https://www.kik-v.nl
 https://www.kimnet.nl
 https://www.kinderbescherming.nl
+https://www.klimaatadaptatienederland.nl
 https://www.logius.nl
 https://www.metelkaartrekkenwedegrens.nl
 https://www.mijn.dus-i.nl

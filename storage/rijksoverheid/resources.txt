@@ -1268,6 +1268,7 @@ fibt2.acc.toeslagen.nl
 fibz1.belastingdienst.nl
 fibz2.acc.belastingdienst.nl
 files.iplo.nl
+files.klimaatadaptatienederland.nl
 filesender.ctgb.nl
 filetransfer.belastingdienst.nl
 filetransfer.ont.belastingdienst.nl
@@ -1655,6 +1656,7 @@ kik-v.nl
 kim.omgevingswet.overheid.nl
 kimnet.nl
 kinderbescherming.nl
+klimaatadaptatienederland.nl
 klopt.cibg.nl
 koppelvlak-acc.overheid.nl
 koppelvlak-asl.overheid.nl
@@ -3034,6 +3036,7 @@ wio.ilent.nl
 wist-fpi.hhdelfland.nl
 wms.aanpakringzuid.nl
 woo-formulier.rijksoverheid.nl
+woordenboek.klimaatadaptatienederland.nl
 wordimport.drop.overheid.nl
 workspace.hhdelfland.nl
 ws-acc.bureauwsnp.nl
@@ -3244,6 +3247,7 @@ www.kiesraad.nl
 www.kik-v.nl
 www.kimnet.nl
 www.kinderbescherming.nl
+www.klimaatadaptatienederland.nl
 www.logius.nl
 www.mail.bureauwsnp.nl
 www.metelkaartrekkenwedegrens.nl

@@ -6102,6 +6102,7 @@ filecap.wierden.nl
 filecapacc.breda.nl
 files.data.amsterdam.nl
 files.iplo.nl
+files.klimaatadaptatienederland.nl
 filesender.ctgb.nl
 fileshare.adds.amsterdam.nl
 fileshare.amsterdam.nl
@@ -8866,6 +8867,7 @@ klickwion.oostgelre.nl
 kliconline.haarlemmermeer.nl
 klicwion.weert.nl
 klimaat.landvancuijk.nl
+klimaatadaptatienederland.nl
 klimaatbestendig.lingewaard.nl
 klimaatplein.bergen-nh.nl
 klimaatplein.castricum.nl
@@ -16774,6 +16776,7 @@ woo.nunspeet.nl
 woo.westerkwartier.nl
 wooloket.bernheze.org
 wooninstrumenten.almelo.nl
+woordenboek.klimaatadaptatienederland.nl
 wootest.helmond.nl
 wordimport.drop.overheid.nl
 wordpress-zgw.acc.denhaag.nl
@@ -17609,6 +17612,7 @@ www.kik-v.nl
 www.kimnet.nl
 www.kinderbescherming.nl
 www.kindpakket.groningen.nl
+www.klimaatadaptatienederland.nl
 www.kmdn.gemeentehulst.nl
 www.kodision-prod.sudwestfryslan.nl
 www.kodision-test.sudwestfryslan.nl
