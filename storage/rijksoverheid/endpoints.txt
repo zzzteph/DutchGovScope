@@ -725,6 +725,7 @@ https://feeds.klimaatakkoord.nl
 https://feeds.knmidata.nl
 https://feeds.knmiprojects.nl
 https://feeds.koninklijkhuis.nl
+https://feeds.koopoverheid.nl
 https://feeds.nieuwsbrievenminocw.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.persberichten.rijksoverheid.nl
@@ -844,6 +845,7 @@ https://informatieportaal.justid.nl
 https://informatiepuntkinderopvangtoeslag.rijksoverheid.nl
 https://inloggen-preprod.hhdelfland.nl
 https://inloggen.hhdelfland.nl
+https://innovatielab.koopoverheid.nl
 https://inspecteur.ilent.nl
 https://inspectie-jenv.nl
 https://inspectie-oe.nl
@@ -906,6 +908,7 @@ https://klimaatakkoord.nl
 https://knmidata.nl
 https://knmiprojects.nl
 https://koninklijkhuis.nl
+https://koopoverheid.nl
 https://koppelvlak-asl.overheid.nl
 https://koppelvlak.overheid.nl
 https://kwaliteitsdashboard-koop.overheid.nl
@@ -1208,6 +1211,7 @@ https://opendata.klimaatakkoord.nl
 https://opendata.knmidata.nl
 https://opendata.knmiprojects.nl
 https://opendata.koninklijkhuis.nl
+https://opendata.koopoverheid.nl
 https://opendata.nieuwsbrievenminocw.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.persberichten.rijksoverheid.nl
@@ -1730,6 +1734,7 @@ https://www.klimaatakkoord.nl
 https://www.knmidata.nl
 https://www.knmiprojects.nl
 https://www.koninklijkhuis.nl
+https://www.koopoverheid.nl
 https://www.logius.nl
 https://www.metelkaartrekkenwedegrens.nl
 https://www.mijn.dus-i.nl

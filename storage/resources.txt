@@ -166,6 +166,7 @@ a-feeds.inspectie-jenv.nl
 a-feeds.jaarverantwoordingzorg.nl
 a-feeds.klimaatakkoord.nl
 a-feeds.koninklijkhuis.nl
+a-feeds.koopoverheid.nl
 a-feeds.rijksoverheid.nl
 a-git.rijksoverheid.nl
 a-jira.rijksoverheid.nl
@@ -214,6 +215,7 @@ a-opendata.inspectie-jenv.nl
 a-opendata.jaarverantwoordingzorg.nl
 a-opendata.klimaatakkoord.nl
 a-opendata.koninklijkhuis.nl
+a-opendata.koopoverheid.nl
 a-opendata.rijksoverheid.nl
 a-p-ddi-0003.leeuwarden.nl
 a-p-ddi-0010.leeuwarden.nl
@@ -261,6 +263,7 @@ a-www.inspectie-jenv.nl
 a-www.jaarverantwoordingzorg.nl
 a-www.klimaatakkoord.nl
 a-www.koninklijkhuis.nl
+a-www.koopoverheid.nl
 a-www.rijksoverheid.nl
 a2b-rtr.alkmaar.nl
 a2vonderenkerensheide.nl
@@ -5981,6 +5984,7 @@ feeds.klimaatakkoord.nl
 feeds.knmidata.nl
 feeds.knmiprojects.nl
 feeds.koninklijkhuis.nl
+feeds.koopoverheid.nl
 feeds.nieuwsbrievenminocw.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.persberichten.rijksoverheid.nl
@@ -8092,6 +8096,7 @@ inloggen.oostgelre.nl
 inloggen.wageningen.nl
 inloggenapv-preprod.hellendoorn.nl
 inloggenapv.hellendoorn.nl
+innovatielab.koopoverheid.nl
 inproces-digeplan-acc.overbetuwe.nl
 inproces-digeplan.overbetuwe.nl
 inproces-e-anom-acc.overbetuwe.nl
@@ -8907,6 +8912,7 @@ komverder.krimpenaandenijssel.nl
 koningsdag.groningen.nl
 koningsdag.zwolle.nl
 koninklijkhuis.nl
+koopoverheid.nl
 kop-pub-erp-mks-tst.edam-volendam.nl
 kop-pub-erp-mks.edam-volendam.nl
 kop-pub-hta-mks.edam-volendam.nl
@@ -11421,6 +11427,7 @@ opendata.klimaatakkoord.nl
 opendata.knmidata.nl
 opendata.knmiprojects.nl
 opendata.koninklijkhuis.nl
+opendata.koopoverheid.nl
 opendata.nieuwsbrievenminocw.nl
 opendata.nijmegen.nl
 opendata.papiamentu.belastingdienst-cn.nl
@@ -17647,6 +17654,7 @@ www.koggenland.nl
 www.komverder.krimpenaandenijssel.nl
 www.koningsdag.groningen.nl
 www.koninklijkhuis.nl
+www.koopoverheid.nl
 www.kos.nijmegen.nl
 www.krimpenaandenijssel.nl
 www.krimpenerwaard.nl

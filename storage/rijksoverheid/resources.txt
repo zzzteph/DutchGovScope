@@ -61,6 +61,7 @@ a-feeds.inspectie-jenv.nl
 a-feeds.jaarverantwoordingzorg.nl
 a-feeds.klimaatakkoord.nl
 a-feeds.koninklijkhuis.nl
+a-feeds.koopoverheid.nl
 a-feeds.rijksoverheid.nl
 a-git.rijksoverheid.nl
 a-jira.rijksoverheid.nl
@@ -109,6 +110,7 @@ a-opendata.inspectie-jenv.nl
 a-opendata.jaarverantwoordingzorg.nl
 a-opendata.klimaatakkoord.nl
 a-opendata.koninklijkhuis.nl
+a-opendata.koopoverheid.nl
 a-opendata.rijksoverheid.nl
 a-persberichten.rijksoverheid.nl
 a-servicedesk.rijksoverheid.nl
@@ -152,6 +154,7 @@ a-www.inspectie-jenv.nl
 a-www.jaarverantwoordingzorg.nl
 a-www.klimaatakkoord.nl
 a-www.koninklijkhuis.nl
+a-www.koopoverheid.nl
 a-www.rijksoverheid.nl
 a2vonderenkerensheide.nl
 aaenmaas.nl
@@ -1248,6 +1251,7 @@ feeds.klimaatakkoord.nl
 feeds.knmidata.nl
 feeds.knmiprojects.nl
 feeds.koninklijkhuis.nl
+feeds.koopoverheid.nl
 feeds.nieuwsbrievenminocw.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.persberichten.rijksoverheid.nl
@@ -1570,6 +1574,7 @@ inkoopportaal.belastingdienst.nl
 inkopers.werkenvoornederland.nl
 inloggen-preprod.hhdelfland.nl
 inloggen.hhdelfland.nl
+innovatielab.koopoverheid.nl
 inspecteur.ilent.nl
 inspectie-jenv.nl
 inspectie-oe.nl
@@ -1674,6 +1679,7 @@ klopt.cibg.nl
 knmidata.nl
 knmiprojects.nl
 koninklijkhuis.nl
+koopoverheid.nl
 koppelvlak-acc.overheid.nl
 koppelvlak-asl.overheid.nl
 koppelvlak.overheid.nl
@@ -2211,6 +2217,7 @@ opendata.klimaatakkoord.nl
 opendata.knmidata.nl
 opendata.knmiprojects.nl
 opendata.koninklijkhuis.nl
+opendata.koopoverheid.nl
 opendata.nieuwsbrievenminocw.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.persberichten.rijksoverheid.nl
@@ -3273,6 +3280,7 @@ www.klimaatakkoord.nl
 www.knmidata.nl
 www.knmiprojects.nl
 www.koninklijkhuis.nl
+www.koopoverheid.nl
 www.logius.nl
 www.mail.bureauwsnp.nl
 www.metelkaartrekkenwedegrens.nl

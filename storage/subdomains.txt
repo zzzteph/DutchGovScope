@@ -50,13 +50,13 @@ gemeenteraad
 enterpriseenrollment
 iparticipatie
 belastingen
-test-ipa
 a-www
+test-ipa
 data
-dacceptatieloket
-dacceptatiemidoffice
 a-feeds
 a-opendata
+dacceptatieloket
+dacceptatiemidoffice
 remote
 dloket
 dmidoffice
@@ -3312,6 +3312,7 @@ menukaart
 www-old
 test2
 woordenboek
+innovatielab
 email.mail.participatie
 mail.participatie
 aalten-checker-preprod
