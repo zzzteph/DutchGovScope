@@ -9042,6 +9042,7 @@ kantoor.opsterland.nl
 kantoor.weststellingwerf.nl
 kapelle.nl
 karin.ndw.nu
+kart.rechtwijzer.nl
 kasdimsigning-cnf.belastingdienst.nl
 kasdimsigning.belastingdienst.nl
 kasdimsigning.test.belastingdienst.nl
@@ -13661,6 +13662,7 @@ realtime.ndw.nu
 realtime.staging.ndw.nu
 recast-citrixapps.tilburg.nl
 rechtsbijstand.nl
+rechtwijzer.nl
 reclame.nijmegen.nl
 redactie-extern.denhaag.nl
 redactie-tl.iplo.nl
@@ -18861,6 +18863,7 @@ www.rda.nl
 www.rdi.nl
 www.rdsportal.haarlemmermeer.nl
 www.rechtsbijstand.nl
+www.rechtwijzer.nl
 www.regelgeving.amsterdam.nl
 www.regentesseplein.denhaag.nl
 www.regiocheckervth.denhaag.nl
@@ -19239,6 +19242,7 @@ www2.haarlemmermeer.nl
 www2.heusden.nl
 www2.noordoostpolder.nl
 www2.om.nl
+www2.rechtwijzer.nl
 www2.testformulieren.haarlemmermeer.nl
 www2.zorgcsp.cibg.nl
 www8.toeslagen.nl

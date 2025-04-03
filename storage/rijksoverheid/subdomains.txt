@@ -1996,6 +1996,7 @@ kabinetsformatie2023.nl
 kadernota.provincie-utrecht.nl
 kantoor.hdsr.nl
 karin.ndw.nu
+kart.rechtwijzer.nl
 kasdimsigning-cnf.belastingdienst.nl
 kasdimsigning.belastingdienst.nl
 kasdimsigning.test.belastingdienst.nl
@@ -3124,6 +3125,7 @@ rdi.nl
 realtime.ndw.nu
 realtime.staging.ndw.nu
 rechtsbijstand.nl
+rechtwijzer.nl
 redactie-tl.iplo.nl
 redactie.hdsr.nl
 redactie.odijmond.nl
@@ -4224,6 +4226,7 @@ www.rcihh.nl
 www.rda.nl
 www.rdi.nl
 www.rechtsbijstand.nl
+www.rechtwijzer.nl
 www.rijksoverheid.nl
 www.risicokaart.flevoland.nl
 www.sharepoint-conf.belastingdienst.nl
@@ -4242,6 +4245,7 @@ www.werkenvoornederland.nl
 www.zoekeentolkvertaler.bureauwbtv.nl
 www1.hdsr.nl
 www2.om.nl
+www2.rechtwijzer.nl
 www2.zorgcsp.cibg.nl
 www8.toeslagen.nl
 wwwfcinetorg.belastingdienst.nl

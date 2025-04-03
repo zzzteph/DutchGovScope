@@ -8169,6 +8169,7 @@ https://rdweb01.schagen.nl
 https://realtime.ndw.nu
 https://realtime.staging.ndw.nu
 https://rechtsbijstand.nl
+https://rechtwijzer.nl
 https://reclame.nijmegen.nl
 https://redactie-extern.denhaag.nl
 https://redactie-tl.iplo.nl
@@ -10767,6 +10768,7 @@ https://www.rcihh.nl
 https://www.rda.nl
 https://www.rdi.nl
 https://www.rechtsbijstand.nl
+https://www.rechtwijzer.nl
 https://www.regentesseplein.denhaag.nl
 https://www.regiocheckervth.denhaag.nl
 https://www.reimerswaal.nl

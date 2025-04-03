@@ -314,6 +314,7 @@ forms
 geotest
 nieuwsbrieven
 media
+www2
 geovisia
 gisib-test
 gisibapi-test
@@ -365,7 +366,6 @@ nhr
 projecten
 geoweb
 access
-www2
 octopus
 digitaal
 midoffice
@@ -3704,6 +3704,7 @@ infoportal
 prod.radar
 slimmestad
 uploadmodule
+kart
 email.mail.participatie
 mail.participatie
 aalten-checker-preprod
