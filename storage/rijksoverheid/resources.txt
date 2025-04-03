@@ -59,6 +59,7 @@ a-feeds.healthcouncil.nl
 a-feeds.igj.nl
 a-feeds.inspectie-jenv.nl
 a-feeds.jaarverantwoordingzorg.nl
+a-feeds.klimaatakkoord.nl
 a-feeds.rijksoverheid.nl
 a-git.rijksoverheid.nl
 a-jira.rijksoverheid.nl
@@ -105,6 +106,7 @@ a-opendata.healthcouncil.nl
 a-opendata.igj.nl
 a-opendata.inspectie-jenv.nl
 a-opendata.jaarverantwoordingzorg.nl
+a-opendata.klimaatakkoord.nl
 a-opendata.rijksoverheid.nl
 a-persberichten.rijksoverheid.nl
 a-servicedesk.rijksoverheid.nl
@@ -146,6 +148,7 @@ a-www.healthcouncil.nl
 a-www.igj.nl
 a-www.inspectie-jenv.nl
 a-www.jaarverantwoordingzorg.nl
+a-www.klimaatakkoord.nl
 a-www.rijksoverheid.nl
 a2vonderenkerensheide.nl
 aaenmaas.nl
@@ -1236,6 +1239,7 @@ feeds.kiesraad.nl
 feeds.kik-v.nl
 feeds.kimnet.nl
 feeds.kinderbescherming.nl
+feeds.klimaatakkoord.nl
 feeds.nieuwsbrievenminocw.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.persberichten.rijksoverheid.nl
@@ -1657,6 +1661,7 @@ kim.omgevingswet.overheid.nl
 kimnet.nl
 kinderbescherming.nl
 klimaatadaptatienederland.nl
+klimaatakkoord.nl
 klopt.cibg.nl
 koppelvlak-acc.overheid.nl
 koppelvlak-asl.overheid.nl
@@ -2190,6 +2195,7 @@ opendata.kiesraad.nl
 opendata.kik-v.nl
 opendata.kimnet.nl
 opendata.kinderbescherming.nl
+opendata.klimaatakkoord.nl
 opendata.nieuwsbrievenminocw.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.persberichten.rijksoverheid.nl
@@ -3248,6 +3254,7 @@ www.kik-v.nl
 www.kimnet.nl
 www.kinderbescherming.nl
 www.klimaatadaptatienederland.nl
+www.klimaatakkoord.nl
 www.logius.nl
 www.mail.bureauwsnp.nl
 www.metelkaartrekkenwedegrens.nl
