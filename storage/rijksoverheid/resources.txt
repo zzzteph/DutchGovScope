@@ -1457,6 +1457,7 @@ feeds.onslevendlandschap.nl
 feeds.onswater.nl
 feeds.oostvaarderskliniek.nl
 feeds.open-overheid.nl
+feeds.oprijk.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.papiamentu.mijncn.nl
 feeds.persberichten.rijksoverheid.nl
@@ -2690,6 +2691,7 @@ opendata.onslevendlandschap.nl
 opendata.onswater.nl
 opendata.oostvaarderskliniek.nl
 opendata.open-overheid.nl
+opendata.oprijk.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.papiamentu.mijncn.nl
 opendata.persberichten.rijksoverheid.nl
@@ -2703,6 +2705,7 @@ openims-test.ctgb.nl
 openims.ctgb.nl
 opleiding-ola.belastingdienst.nl
 opleiding.nl-alert.nl
+oprijk.nl
 oproepingen-acc.overheid.nl
 oproepingen-api-acc-poc.overheid.nl
 oproepingen-api-acc.overheid.nl
@@ -3945,6 +3948,7 @@ www.oostvaarderskliniek.nl
 www.open-overheid.nl
 www.openbare-inspectieresultaten.nvwa.nl
 www.opendata.brabant.nl
+www.oprijk.nl
 www.overheid.nl
 www.perf.omgevingswet.overheid.nl
 www.pre.omgevingswet.overheid.nl
