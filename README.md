@@ -9,7 +9,7 @@ To report a vulnerability or to learn more about Coordinated Vulnerability Discl
 
 ## Overview
 
-This project aims to provide the **most accurate and detailed** list of domains and endpoints that are in scope of the Dutch government’s bug bounty programs. By mapping and monitoring relevant infrastructure, the goal is to support the security and visibility of government digital assets.
+This project aims to provide the **most accurate and detailed** list of domains and endpoints that are in scope of the Dutch government’s bug bounty program. By mapping and monitoring relevant infrastructure, the goal is to support the security and visibility of government digital assets.
 
 ### What is in scope?
 
