@@ -165,6 +165,7 @@ a-feeds.igj.nl
 a-feeds.inspectie-jenv.nl
 a-feeds.jaarverantwoordingzorg.nl
 a-feeds.klimaatakkoord.nl
+a-feeds.koninklijkhuis.nl
 a-feeds.rijksoverheid.nl
 a-git.rijksoverheid.nl
 a-jira.rijksoverheid.nl
@@ -212,6 +213,7 @@ a-opendata.igj.nl
 a-opendata.inspectie-jenv.nl
 a-opendata.jaarverantwoordingzorg.nl
 a-opendata.klimaatakkoord.nl
+a-opendata.koninklijkhuis.nl
 a-opendata.rijksoverheid.nl
 a-p-ddi-0003.leeuwarden.nl
 a-p-ddi-0010.leeuwarden.nl
@@ -258,6 +260,7 @@ a-www.igj.nl
 a-www.inspectie-jenv.nl
 a-www.jaarverantwoordingzorg.nl
 a-www.klimaatakkoord.nl
+a-www.koninklijkhuis.nl
 a-www.rijksoverheid.nl
 a2b-rtr.alkmaar.nl
 a2vonderenkerensheide.nl
@@ -5977,6 +5980,7 @@ feeds.kinderbescherming.nl
 feeds.klimaatakkoord.nl
 feeds.knmidata.nl
 feeds.knmiprojects.nl
+feeds.koninklijkhuis.nl
 feeds.nieuwsbrievenminocw.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.persberichten.rijksoverheid.nl
@@ -8902,6 +8906,7 @@ kompas.rotterdam.nl
 komverder.krimpenaandenijssel.nl
 koningsdag.groningen.nl
 koningsdag.zwolle.nl
+koninklijkhuis.nl
 kop-pub-erp-mks-tst.edam-volendam.nl
 kop-pub-erp-mks.edam-volendam.nl
 kop-pub-hta-mks.edam-volendam.nl
@@ -11415,6 +11420,7 @@ opendata.kinderbescherming.nl
 opendata.klimaatakkoord.nl
 opendata.knmidata.nl
 opendata.knmiprojects.nl
+opendata.koninklijkhuis.nl
 opendata.nieuwsbrievenminocw.nl
 opendata.nijmegen.nl
 opendata.papiamentu.belastingdienst-cn.nl
@@ -17640,6 +17646,7 @@ www.kofax.twenterand.nl
 www.koggenland.nl
 www.komverder.krimpenaandenijssel.nl
 www.koningsdag.groningen.nl
+www.koninklijkhuis.nl
 www.kos.nijmegen.nl
 www.krimpenaandenijssel.nl
 www.krimpenerwaard.nl

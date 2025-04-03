@@ -3844,6 +3844,7 @@ https://feeds.kinderbescherming.nl
 https://feeds.klimaatakkoord.nl
 https://feeds.knmidata.nl
 https://feeds.knmiprojects.nl
+https://feeds.koninklijkhuis.nl
 https://feeds.nieuwsbrievenminocw.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.persberichten.rijksoverheid.nl
@@ -5334,6 +5335,7 @@ https://knowledgebase.sittard-geleen.nl
 https://kofax.winterswijk.nl
 https://kompas.rotterdam.nl
 https://komverder.krimpenaandenijssel.nl
+https://koninklijkhuis.nl
 https://koppelpoort.amersfoort.nl
 https://koppelvlak-asl.overheid.nl
 https://koppelvlak.overheid.nl
@@ -6750,6 +6752,7 @@ https://opendata.kinderbescherming.nl
 https://opendata.klimaatakkoord.nl
 https://opendata.knmidata.nl
 https://opendata.knmiprojects.nl
+https://opendata.koninklijkhuis.nl
 https://opendata.nieuwsbrievenminocw.nl
 https://opendata.nijmegen.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
@@ -9844,6 +9847,7 @@ https://www.klimaatakkoord.nl
 https://www.knmidata.nl
 https://www.knmiprojects.nl
 https://www.komverder.krimpenaandenijssel.nl
+https://www.koninklijkhuis.nl
 https://www.kos.nijmegen.nl
 https://www.krimpenaandenijssel.nl
 https://www.krimpenerwaard.nl
