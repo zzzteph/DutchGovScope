@@ -182,6 +182,7 @@ https://acm-acc.ctgb.nl
 https://acm.ctgb.nl
 https://acs-acpt.brabant.nl
 https://acs.brabant.nl
+https://actueel.nl-alert.nl
 https://adfs.flevoland.nl
 https://adfs.huurcommissie.nl
 https://adobe-analytics-dc.belastingdienst.nl
@@ -840,6 +841,7 @@ https://feeds.nieuwsbrievenminocw.nl
 https://feeds.nifp.nl
 https://feeds.nimh.nl
 https://feeds.nix18.nl
+https://feeds.nl-alert.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.papiamentu.mijncn.nl
 https://feeds.persberichten.rijksoverheid.nl
@@ -1213,6 +1215,7 @@ https://nifp.nl
 https://nimh-beeldbank.defensie.nl
 https://nimh.nl
 https://nix18.nl
+https://nl-alert.nl
 https://nls.ndw.nu
 https://nnn.flevoland.nl
 https://noaa.cultureelerfgoed.nl
@@ -1452,12 +1455,14 @@ https://opendata.nieuwsbrievenminocw.nl
 https://opendata.nifp.nl
 https://opendata.nimh.nl
 https://opendata.nix18.nl
+https://opendata.nl-alert.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.papiamentu.mijncn.nl
 https://opendata.persberichten.rijksoverheid.nl
 https://opendata.rcgog.nl
 https://opendata.rijksoverheid.nl
 https://opleiding-ola.belastingdienst.nl
+https://opleiding.nl-alert.nl
 https://oproepingen-api-preprd-poc.overheid.nl
 https://oproepingen-api-preprd.overheid.nl
 https://oproepingen-api.overheid.nl
@@ -1538,6 +1543,7 @@ https://privaat.octomon.ncsc.nl
 https://privacy.nctv.nl
 https://prod-dictu.comcms.logius.nl
 https://prod-dictu.logius.nl
+https://prod.nl-alert.nl
 https://projecten.netwerkplatteland.nl
 https://prototype.cibg.nl
 https://psarchief.brabant.nl
@@ -1711,6 +1717,7 @@ https://test-dictu.logius.nl
 https://test-internationaal.ondernemen.overheid.nl
 https://test-intranet.flevoland.nl
 https://test-kpi-dashboard.ndw.nu
+https://test.actueel.nl-alert.nl
 https://test.belastingdienst-cn.nl
 https://test.flevoland.nl
 https://test.geoservices.cultureelerfgoed.nl
@@ -1718,6 +1725,7 @@ https://test.kennis-staging.cultureelerfgoed.nl
 https://test.kennis.cultureelerfgoed.nl
 https://test.monumentenregister.cultureelerfgoed.nl
 https://test.ncsc.nl
+https://test.nl-alert.nl
 https://testbegrippen.hdsr.nl
 https://testconn.ctgb.nl
 https://testeloket.aaenmaas.nl
@@ -2064,6 +2072,7 @@ https://www.nieuwsbrievenminocw.nl
 https://www.nifp.nl
 https://www.nimh.nl
 https://www.nix18.nl
+https://www.nl-alert.nl
 https://www.nt.ndw.nu
 https://www.omgevingsplan.flevoland.nl
 https://www.omgevingswet.overheid.nl

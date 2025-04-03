@@ -1101,6 +1101,7 @@ https://acs.brabant.nl
 https://actief.landvancuijk.nl
 https://activesync.sittard-geleen.nl
 https://activiteiten.amsterdam.nl
+https://actueel.nl-alert.nl
 https://adeptiaconnect.acc.denhaag.nl
 https://adeptiaconnect.ot.denhaag.nl
 https://adfs.beekdaelen.nl
@@ -3960,6 +3961,7 @@ https://feeds.nieuwsbrievenminocw.nl
 https://feeds.nifp.nl
 https://feeds.nimh.nl
 https://feeds.nix18.nl
+https://feeds.nl-alert.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.papiamentu.mijncn.nl
 https://feeds.persberichten.rijksoverheid.nl
@@ -6460,6 +6462,7 @@ https://nimh.nl
 https://nimmaleert.nijmegen.nl
 https://nissewaard.nl
 https://nix18.nl
+https://nl-alert.nl
 https://nlgembrl.brielle.nl
 https://nln.nunspeet.nl
 https://nls.ndw.nu
@@ -6998,6 +7001,7 @@ https://opendata.nifp.nl
 https://opendata.nijmegen.nl
 https://opendata.nimh.nl
 https://opendata.nix18.nl
+https://opendata.nl-alert.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.papiamentu.mijncn.nl
 https://opendata.persberichten.rijksoverheid.nl
@@ -7127,6 +7131,7 @@ https://openzaakbrug-zgw.denhaag.nl
 https://openzaakbrug-zgw.test.denhaag.nl
 https://operatiebomenbuurt.denhaag.nl
 https://opleiding-ola.belastingdienst.nl
+https://opleiding.nl-alert.nl
 https://oploo.landvancuijk.nl
 https://opmeer.nl
 https://opname.eindhoven.nl
@@ -7655,6 +7660,7 @@ https://probeer.halderberge.nl
 https://probeer.winterswijk.nl
 https://prod-dictu.comcms.logius.nl
 https://prod-dictu.logius.nl
+https://prod.nl-alert.nl
 https://prod.stedebroec.nl
 https://productenraming.venlo.nl
 https://productie.postex.heusden.nl
@@ -8762,6 +8768,7 @@ https://test-zaakloket.terschelling.nl
 https://test-zaakloket.vlieland.nl
 https://test-zaanzoeker.zaanstad.nl
 https://test.3d.utrecht.nl
+https://test.actueel.nl-alert.nl
 https://test.api.tod.leiden.nl
 https://test.app.amsterdam.nl
 https://test.belastingdienst-cn.nl
@@ -8789,6 +8796,7 @@ https://test.mijnzorg.beekdaelen.nl
 https://test.moerdijk.nl
 https://test.monumentenregister.cultureelerfgoed.nl
 https://test.ncsc.nl
+https://test.nl-alert.nl
 https://test.open-formulieren.noordoostpolder.nl
 https://test.open-formulieren.vught.nl
 https://test.pekela.nl
@@ -10243,6 +10251,7 @@ https://www.nimh.nl
 https://www.nimmaleert.nijmegen.nl
 https://www.nissewaard.nl
 https://www.nix18.nl
+https://www.nl-alert.nl
 https://www.noardeast-fryslan.nl
 https://www.noord-beveland.nl
 https://www.noorderkwartier.zwolle.nl

@@ -1001,6 +1001,7 @@ activesync.amersfoort.nl
 activesync.rhenen.nl
 activesync.sittard-geleen.nl
 activiteiten.amsterdam.nl
+actueel.nl-alert.nl
 ad.hdsr.nl
 adam.amsterdam.nl
 adc.barneveld.nl
@@ -1721,6 +1722,7 @@ app.brabant.nl
 app.landvancuijk.nl
 app.meedoen.venray.nl
 app.meldingen.amsterdam.nl
+app.nl-alert.nl
 app.overbetuwe.nl
 app.sittard-geleen.nl
 app.steenwijkerland.nl
@@ -6119,6 +6121,7 @@ feeds.nieuwsbrievenminocw.nl
 feeds.nifp.nl
 feeds.nimh.nl
 feeds.nix18.nl
+feeds.nl-alert.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.papiamentu.mijncn.nl
 feeds.persberichten.rijksoverheid.nl
@@ -9254,6 +9257,9 @@ liveblog.ede.nl
 livestream.lelystad.nl
 lliam-test.zoetermeer.nl
 lliam.zoetermeer.nl
+lms.opleiding.nl-alert.nl
+lms.prod.nl-alert.nl
+lms.test.nl-alert.nl
 lms.veere.nl
 local.oostgelre.nl
 localhost.barneveld.nl
@@ -10986,6 +10992,7 @@ nivo-acc.overbetuwe.nl
 nivo.gem.overbetuwe.nl
 nivo.overbetuwe.nl
 nix18.nl
+nl-alert.nl
 nlb-irma-disclosure.nijmegen.nl
 nlb-irma.nijmegen.nl
 nlb-test-irma-disclosure.nijmegen.nl
@@ -11713,6 +11720,7 @@ opendata.nifp.nl
 opendata.nijmegen.nl
 opendata.nimh.nl
 opendata.nix18.nl
+opendata.nl-alert.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.papiamentu.mijncn.nl
 opendata.persberichten.rijksoverheid.nl
@@ -11855,6 +11863,7 @@ openzksesba001.sudwestfryslan.nl
 operatiebomenbuurt.denhaag.nl
 opleiding-ola.belastingdienst.nl
 opleiding.meldingen.amsterdam.nl
+opleiding.nl-alert.nl
 oploo.landvancuijk.nl
 opmeer.nl
 opmmks01.opmeer.nl
@@ -12971,6 +12980,7 @@ prod.digikoppeling.schiedam.nl
 prod.drechterland.nl
 prod.enkhuizen.nl
 prod.flevoland.nl
+prod.nl-alert.nl
 prod.stedebroec.nl
 prod2.opendata.nederlandwereldwijd.nl
 prodextsec.purmerend.nl
@@ -15399,6 +15409,7 @@ test-zaanzoeker.zaanstad.nl
 test.3d.utrecht.nl
 test.aalsmeer.nl
 test.achtkarspelen.nl
+test.actueel.nl-alert.nl
 test.afspraakmaken.dronten.nl
 test.amersfoort.nl
 test.amstelveen.nl
@@ -15462,6 +15473,7 @@ test.moerdijk.nl
 test.monumentenregister.cultureelerfgoed.nl
 test.ncsc.nl
 test.nissewaard.nl
+test.nl-alert.nl
 test.nuenen.nl
 test.open-formulieren.noordoostpolder.nl
 test.open-formulieren.vught.nl
@@ -18160,6 +18172,7 @@ www.nimh.nl
 www.nimmaleert.nijmegen.nl
 www.nissewaard.nl
 www.nix18.nl
+www.nl-alert.nl
 www.noardeast-fryslan.nl
 www.noord-beveland.nl
 www.noorderkwartier.zwolle.nl

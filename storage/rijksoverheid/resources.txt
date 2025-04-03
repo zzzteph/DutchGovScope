@@ -318,6 +318,7 @@ acs-acpt.brabant.nl
 acs.brabant.nl
 acs.ncsc.nl
 activemq.beheer.intpatch.omgevingswet.overheid.nl
+actueel.nl-alert.nl
 ad.hdsr.nl
 adfs.flevoland.nl
 adfs.hhdelfland.nl
@@ -422,6 +423,7 @@ aplbepa01.belastingdienst.nl
 aplbeqa01.belastingdienst.nl
 apothekersregister.igj.nl
 app.brabant.nl
+app.nl-alert.nl
 appcontent.belastingdienst.nl
 applicationframework.cibg.nl
 applications.klopt.cibg.nl
@@ -1386,6 +1388,7 @@ feeds.nieuwsbrievenminocw.nl
 feeds.nifp.nl
 feeds.nimh.nl
 feeds.nix18.nl
+feeds.nl-alert.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.papiamentu.mijncn.nl
 feeds.persberichten.rijksoverheid.nl
@@ -1866,6 +1869,9 @@ linkextractor.overheid.nl
 lintjes.nl
 lip.ilent.nl
 lir.cibg.nl
+lms.opleiding.nl-alert.nl
+lms.prod.nl-alert.nl
+lms.test.nl-alert.nl
 login.aaenmaas.nl
 login.acc.mijncn.nl
 login.domeinenrz.nl
@@ -2212,6 +2218,7 @@ nifp.nl
 nimh-beeldbank.defensie.nl
 nimh.nl
 nix18.nl
+nl-alert.nl
 nls.ndw.nu
 nnn.flevoland.nl
 noaa.cultureelerfgoed.nl
@@ -2502,6 +2509,7 @@ opendata.nieuwsbrievenminocw.nl
 opendata.nifp.nl
 opendata.nimh.nl
 opendata.nix18.nl
+opendata.nl-alert.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.papiamentu.mijncn.nl
 opendata.persberichten.rijksoverheid.nl
@@ -2512,6 +2520,7 @@ openims-dev.ctgb.nl
 openims-test.ctgb.nl
 openims.ctgb.nl
 opleiding-ola.belastingdienst.nl
+opleiding.nl-alert.nl
 oproepingen-acc.overheid.nl
 oproepingen-api-acc-poc.overheid.nl
 oproepingen-api-acc.overheid.nl
@@ -2680,6 +2689,7 @@ prod-dictu.logius.nl
 prod-kvk.belastingdienst.nl
 prod.cultureelerfgoed.nl
 prod.flevoland.nl
+prod.nl-alert.nl
 prod2.opendata.nederlandwereldwijd.nl
 projecten.netwerkplatteland.nl
 prototype.cibg.nl
@@ -3091,6 +3101,7 @@ test-kpi-dashboard.ndw.nu
 test-machtigen.digipoort.logius.nl
 test-mam.ctgb.nl
 test-psproxy.belastingdienst.nl
+test.actueel.nl-alert.nl
 test.antennebureau.nl
 test.belastingdienst-cn.nl
 test.cultureelerfgoed.nl
@@ -3103,6 +3114,7 @@ test.kennis.cultureelerfgoed.nl
 test.kinderbescherming.nl
 test.monumentenregister.cultureelerfgoed.nl
 test.ncsc.nl
+test.nl-alert.nl
 test.publicwebservices.cibg.nl
 test.stub.mijn.overheid.nl
 test.t.cultureelerfgoed.nl
@@ -3668,6 +3680,7 @@ www.nieuwsbrievenminocw.nl
 www.nifp.nl
 www.nimh.nl
 www.nix18.nl
+www.nl-alert.nl
 www.nt.ndw.nu
 www.officiele-overheidspublicaties.nl
 www.omgevingsplan.flevoland.nl

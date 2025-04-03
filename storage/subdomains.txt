@@ -21,8 +21,8 @@ acceptatie
 felix
 probeer
 loket
-formulieren
 test
+formulieren
 eloket
 acc
 werkplek
@@ -270,6 +270,7 @@ www.portal
 servicedesk
 zoeken
 omgevingswet
+app
 atlas
 esb
 mam
@@ -299,10 +300,10 @@ a-magazines
 rap
 smtp1
 smtp2
-app
 geoserver
 id
 wifi
+prod
 nieuwsbrieven
 geovisia
 gisib-test
@@ -355,7 +356,6 @@ nieuws
 test.digikoppeling
 mijnloket
 geoservices
-prod
 nhr
 forms
 geotest
@@ -3481,6 +3481,12 @@ tst.opendata
 feeds.nieuwsbrieven
 opendata.nieuwsbrieven
 rapporteursnet
+actueel
+lms.opleiding
+lms.prod
+lms.test
+opleiding
+test.actueel
 email.mail.participatie
 mail.participatie
 aalten-checker-preprod
