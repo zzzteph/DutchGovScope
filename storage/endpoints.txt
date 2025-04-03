@@ -4030,6 +4030,7 @@ https://feeds.open-overheid.nl
 https://feeds.oprijk.nl
 https://feeds.opwegnaarseb.nl
 https://feeds.ordz.nl
+https://feeds.overalsnelinternet.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.papiamentu.mijncn.nl
 https://feeds.persberichten.rijksoverheid.nl
@@ -7170,6 +7171,7 @@ https://opendata.open-overheid.nl
 https://opendata.oprijk.nl
 https://opendata.opwegnaarseb.nl
 https://opendata.ordz.nl
+https://opendata.overalsnelinternet.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.papiamentu.mijncn.nl
 https://opendata.persberichten.rijksoverheid.nl
@@ -7344,6 +7346,7 @@ https://outlook.meerssen.nl
 https://outlook.wageningen.nl
 https://ov-consumentenplatform.nl
 https://over-ons.belastingdienst.nl
+https://overalsnelinternet.nl
 https://overdrachtsdocument2022.s-hertogenbosch.nl
 https://overheid.nl
 https://overloon.landvancuijk.nl
@@ -10545,6 +10548,7 @@ https://www.ouder-amstel.nl
 https://www.ouders-uit-elkaar.nl
 https://www.oudewater.nl
 https://www.ov-consumentenplatform.nl
+https://www.overalsnelinternet.nl
 https://www.overheid.nl
 https://www.papendrecht.nl
 https://www.parkeren.sudwestfryslan.nl
