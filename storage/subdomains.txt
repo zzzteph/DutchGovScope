@@ -6277,6 +6277,7 @@ feeds.rcgog.nl
 feeds.rcihh.nl
 feeds.rda.nl
 feeds.rdi.nl
+feeds.regelhulp.nl
 feeds.rijksoverheid.nl
 felix.aalten.nl
 felix.achtkarspelen.nl
@@ -12078,6 +12079,7 @@ opendata.rcgog.nl
 opendata.rcihh.nl
 opendata.rda.nl
 opendata.rdi.nl
+opendata.regelhulp.nl
 opendata.rijksoverheid.nl
 opendata.roosendaal.nl
 opendata.utrecht.nl
@@ -13694,6 +13696,7 @@ regelgeving.pre.omgevingswet.overheid.nl
 regelgeving.schiermonnikoog.nl
 regelgeving.terschelling.nl
 regelgeving.vlieland.nl
+regelhulp.nl
 regels.overheid.nl
 regenboograad.acc.nijmegen.nl
 regentesseplein.denhaag.nl
@@ -18865,6 +18868,7 @@ www.rdsportal.haarlemmermeer.nl
 www.rechtsbijstand.nl
 www.rechtwijzer.nl
 www.regelgeving.amsterdam.nl
+www.regelhulp.nl
 www.regentesseplein.denhaag.nl
 www.regiocheckervth.denhaag.nl
 www.reimerswaal.nl

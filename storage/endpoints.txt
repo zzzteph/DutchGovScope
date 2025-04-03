@@ -4091,6 +4091,7 @@ https://feeds.rcgog.nl
 https://feeds.rcihh.nl
 https://feeds.rda.nl
 https://feeds.rdi.nl
+https://feeds.regelhulp.nl
 https://feeds.rijksoverheid.nl
 https://felix.baarn.nl
 https://felix.bergen.nl
@@ -7297,6 +7298,7 @@ https://opendata.rcgog.nl
 https://opendata.rcihh.nl
 https://opendata.rda.nl
 https://opendata.rdi.nl
+https://opendata.regelhulp.nl
 https://opendata.rijksoverheid.nl
 https://opendata.roosendaal.nl
 https://opendata.utrecht.nl
@@ -8187,6 +8189,7 @@ https://reflex.s-hertogenbosch.nl
 https://regelen.haarlem.nl
 https://regelgeving.omgevingswet.overheid.nl
 https://regelgeving.pre.omgevingswet.overheid.nl
+https://regelhulp.nl
 https://regels.overheid.nl
 https://regenboograad.acc.nijmegen.nl
 https://regentesseplein.denhaag.nl
@@ -10769,6 +10772,7 @@ https://www.rda.nl
 https://www.rdi.nl
 https://www.rechtsbijstand.nl
 https://www.rechtwijzer.nl
+https://www.regelhulp.nl
 https://www.regentesseplein.denhaag.nl
 https://www.regiocheckervth.denhaag.nl
 https://www.reimerswaal.nl
