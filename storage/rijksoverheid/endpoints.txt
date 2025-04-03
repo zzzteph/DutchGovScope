@@ -10,6 +10,7 @@ http://acc.zaak.services.cultureelerfgoed.nl
 http://acceptatie.digikoppeling-dcr.cibg.nl
 http://acpt-machtigen.digipoort.logius.nl
 http://ag-dcr.cibg.nl
+http://aip-acc.nationaalcoordinatorgroningen.nl
 http://amp-idp-pre.logius.nl
 http://amp-idp.logius.nl
 http://amp-pre.logius.nl
@@ -187,6 +188,7 @@ https://afspraken.belastingdienst.nl
 https://afval.omgevingswet.overheid.nl
 https://agroberichtenbuitenland.nl
 https://ainformatieportaal.justid.nl
+https://aip.nationaalcoordinatorgroningen.nl
 https://aivd.nl
 https://algemenebestuursdienst.nl
 https://algoritme.overheid.nl
@@ -468,6 +470,7 @@ https://e-loket.ilent.nl
 https://e-mailabonnementen.rijksoverheid.nl
 https://e-maildiensten.rijksoverheid.nl
 https://e.acc.videobellen.toeslagen.nl
+https://e.awareness.nationaalcoordinatorgroningen.nl
 https://e.flevoland.nl
 https://e.hhdelfland.nl
 https://e.logius.nl
@@ -748,6 +751,7 @@ https://feeds.mijncn.nl
 https://feeds.mijnpgb.nl
 https://feeds.mirtoverzicht.nl
 https://feeds.monitorlangdurigezorg.nl
+https://feeds.nationaalcoordinatorgroningen.nl
 https://feeds.nieuwsbrievenminocw.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.papiamentu.mijncn.nl
@@ -901,12 +905,14 @@ https://intranet.dji.nl
 https://intranet.flevoland.nl
 https://intranet.justid.nl
 https://intranet.justitieleictorganisatie.nl
+https://intranet.nationaalcoordinatorgroningen.nl
 https://iob-evaluatie.nl
 https://iob.justid.nl
 https://it-academieoverheid.nl
 https://jaarverantwoordingzorg.nl
 https://jaarverslag2017.flevoland.nl
 https://jaarverslag2018.flevoland.nl
+https://jet-test.nationaalcoordinatorgroningen.nl
 https://jeugdautoriteit.nl
 https://jip.inspectie-jenv.nl
 https://jobs.werkenvoornederland.nl
@@ -1065,6 +1071,7 @@ https://mul-redirect.belastingdienst.nl
 https://mul.belastingdienst.nl
 https://mwr-app-cdn-ota.belastingdienst.nl
 https://mwr-app-cdn.belastingdienst.nl
+https://nationaalcoordinatorgroningen.nl
 https://natuur.omgevingswet.overheid.nl
 https://natuurbeheerplan.flevoland.nl
 https://nieuws.brabant.nl
@@ -1280,6 +1287,7 @@ https://opendata.mijncn.nl
 https://opendata.mijnpgb.nl
 https://opendata.mirtoverzicht.nl
 https://opendata.monitorlangdurigezorg.nl
+https://opendata.nationaalcoordinatorgroningen.nl
 https://opendata.nieuwsbrievenminocw.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.papiamentu.mijncn.nl
@@ -1833,6 +1841,7 @@ https://www.mijnpgb.nl
 https://www.mirtoverzicht.nl
 https://www.monitorlangdurigezorg.nl
 https://www.monumentenregister.cultureelerfgoed.nl
+https://www.nationaalcoordinatorgroningen.nl
 https://www.nieuwsbrievenminocw.nl
 https://www.omgevingsplan.flevoland.nl
 https://www.omgevingswet.overheid.nl

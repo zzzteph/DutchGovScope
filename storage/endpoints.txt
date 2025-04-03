@@ -24,6 +24,7 @@ http://acpt-machtigen.digipoort.logius.nl
 http://afspraak.bergendal.nl
 http://afspraken.rijssen-holten.nl
 http://ag-dcr.cibg.nl
+http://aip-acc.nationaalcoordinatorgroningen.nl
 http://ami.amsterdam.nl
 http://amp-idp-pre.logius.nl
 http://amp-idp.logius.nl
@@ -1272,6 +1273,7 @@ https://agroberichtenbuitenland.nl
 https://agwp01.azweu.alkmaar.nl
 https://ainformatieportaal.justid.nl
 https://aip.amsterdam.nl
+https://aip.nationaalcoordinatorgroningen.nl
 https://aivd.nl
 https://aiz.zoetermeer.nl
 https://alarmfilter.rotterdam.nl
@@ -3005,6 +3007,7 @@ https://e-tstsys.dordrecht.nl
 https://e.acc.videobellen.toeslagen.nl
 https://e.achtkarspelen.nl
 https://e.almelo.nl
+https://e.awareness.nationaalcoordinatorgroningen.nl
 https://e.bewustwording.gemeentestein.nl
 https://e.bewustwording.westerwolde.nl
 https://e.borger-odoorn.nl
@@ -3868,6 +3871,7 @@ https://feeds.mijncn.nl
 https://feeds.mijnpgb.nl
 https://feeds.mirtoverzicht.nl
 https://feeds.monitorlangdurigezorg.nl
+https://feeds.nationaalcoordinatorgroningen.nl
 https://feeds.nieuwsbrievenminocw.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.papiamentu.mijncn.nl
@@ -5031,6 +5035,7 @@ https://intranet.meppel.nl
 https://intranet.middelburg.nl
 https://intranet.midden-groningen.nl
 https://intranet.middendelfland.nl
+https://intranet.nationaalcoordinatorgroningen.nl
 https://intranet.nijkerk.eu
 https://intranet.nissewaard.nl
 https://intranet.noordwijk.nl
@@ -5151,6 +5156,7 @@ https://jcccloud.borsele.nl
 https://jcccloud.kapelle.nl
 https://jcccloud.noord-beveland.nl
 https://jcccloud.reimerswaal.nl
+https://jet-test.nationaalcoordinatorgroningen.nl
 https://jeugdautoriteit.nl
 https://jeugdhulp.lansingerland.nl
 https://jeugdombudsman-acc.denhaag.nl
@@ -6271,6 +6277,7 @@ https://najaarsnota.pijnacker-nootdorp.nl
 https://najaarsnota2019.pijnacker-nootdorp.nl
 https://najaarsnota2020.pijnacker-nootdorp.nl
 https://najaarsrapportage.haarlemmermeer.nl
+https://nationaalcoordinatorgroningen.nl
 https://natuur.leiden.nl
 https://natuur.omgevingswet.overheid.nl
 https://natuurbeheerplan.flevoland.nl
@@ -6825,6 +6832,7 @@ https://opendata.mijncn.nl
 https://opendata.mijnpgb.nl
 https://opendata.mirtoverzicht.nl
 https://opendata.monitorlangdurigezorg.nl
+https://opendata.nationaalcoordinatorgroningen.nl
 https://opendata.nieuwsbrievenminocw.nl
 https://opendata.nijmegen.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
@@ -10001,6 +10009,7 @@ https://www.montferland.info
 https://www.montfoort.nl
 https://www.monumentenregister.cultureelerfgoed.nl
 https://www.morgen.venlo.nl
+https://www.nationaalcoordinatorgroningen.nl
 https://www.ndbu-acc.utrecht.nl
 https://www.ndbu-tst.utrecht.nl
 https://www.ndbu.utrecht.nl

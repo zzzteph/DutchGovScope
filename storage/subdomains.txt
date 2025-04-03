@@ -6,8 +6,8 @@ ibzpink
 opendata
 feeds
 edienstenburgerzaken
-edienstenburgerzaken-test
 intranet
+edienstenburgerzaken-test
 mijn
 mail
 webmail
@@ -891,6 +891,8 @@ mijnsubsidies
 www.atlas
 www.geoserver
 login.acc
+aip
+intranet-prod
 edienstenburgerzaken.test
 www.praatmee
 datalab
@@ -3334,6 +3336,12 @@ oordelen
 publicaties.oud
 i-login
 mirt2016
+aip-acc
+e.awareness
+jet-test
+nox.intranet
+zakelijk-acc
+zakelijk
 email.mail.participatie
 mail.participatie
 aalten-checker-preprod
@@ -3638,7 +3646,6 @@ afs.acc
 afs.ont
 afs.opl
 afs.tst
-aip
 alfresco-api1-acc
 alfresco-api1-tst
 alfresco-api1
@@ -7934,7 +7941,6 @@ govpub
 ihandhaving
 iidb
 info
-intranet-prod
 kodision-prod
 kodision-test
 kodision

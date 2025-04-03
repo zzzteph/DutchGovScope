@@ -1304,7 +1304,9 @@ agrifoodtech.landvancuijk.nl
 agroberichtenbuitenland.nl
 agwp01.azweu.alkmaar.nl
 ainformatieportaal.justid.nl
+aip-acc.nationaalcoordinatorgroningen.nl
 aip.amsterdam.nl
+aip.nationaalcoordinatorgroningen.nl
 aivd.nl
 aiz.zoetermeer.nl
 alarm.beekdaelen.nl
@@ -4951,6 +4953,7 @@ e-vita.ggd.rotterdam.nl
 e.acc.videobellen.toeslagen.nl
 e.achtkarspelen.nl
 e.almelo.nl
+e.awareness.nationaalcoordinatorgroningen.nl
 e.bewustwording.gemeentestein.nl
 e.bewustwording.westerwolde.nl
 e.borger-odoorn.nl
@@ -6010,6 +6013,7 @@ feeds.mijncn.nl
 feeds.mijnpgb.nl
 feeds.mirtoverzicht.nl
 feeds.monitorlangdurigezorg.nl
+feeds.nationaalcoordinatorgroningen.nl
 feeds.nieuwsbrievenminocw.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.papiamentu.mijncn.nl
@@ -8247,6 +8251,7 @@ intranet-bestanden.flevoland.nl
 intranet-cms.bernheze.org
 intranet-ot.tilburg.nl
 intranet-oud.gemeentewestland.nl
+intranet-prod.nationaalcoordinatorgroningen.nl
 intranet-prod.sudwestfryslan.nl
 intranet-stats.bernheze.org
 intranet-test.nissewaard.nl
@@ -8330,6 +8335,7 @@ intranet.midden-groningen.nl
 intranet.middendelfland.nl
 intranet.montferland.info
 intranet.mookenmiddelaar.nl
+intranet.nationaalcoordinatorgroningen.nl
 intranet.nijkerk.eu
 intranet.nissewaard.nl
 intranet.noordwijk.nl
@@ -8572,6 +8578,7 @@ jcccloud.kapelle.nl
 jcccloud.noord-beveland.nl
 jcccloud.reimerswaal.nl
 jcctest.bergenopzoom.nl
+jet-test.nationaalcoordinatorgroningen.nl
 jeugdautoriteit.nl
 jeugdengezin.amsterdam.nl
 jeugdhulp.lansingerland.nl
@@ -10704,6 +10711,7 @@ nat.lingewaard.nl
 nat12.rotterdam.nl
 nat_o5001vmfavapp.ont.belastingdienst.nl
 nat_o5002vmfavapp.ont.belastingdienst.nl
+nationaalcoordinatorgroningen.nl
 natuur.leiden.nl
 natuur.omgevingswet.overheid.nl
 natuurbeheerplan.flevoland.nl
@@ -10867,6 +10875,7 @@ notificaties.zwolle.nl
 notubiz-recorder.voerendaal.nl
 notubiz.alkmaar.nl
 notubiz.gulpen-wittem.nl
+nox.intranet.nationaalcoordinatorgroningen.nl
 nple-test.belastingdienst.nl
 nple.belastingdienst.nl
 ns.amersfoort.nl
@@ -11506,6 +11515,7 @@ opendata.mijncn.nl
 opendata.mijnpgb.nl
 opendata.mirtoverzicht.nl
 opendata.monitorlangdurigezorg.nl
+opendata.nationaalcoordinatorgroningen.nl
 opendata.nieuwsbrievenminocw.nl
 opendata.nijmegen.nl
 opendata.papiamentu.belastingdienst-cn.nl
@@ -17866,6 +17876,7 @@ www.mor-tst.groningen.nl
 www.morgen.venlo.nl
 www.mx1.haarlemmermeer.nl
 www.myprint.groningen.nl
+www.nationaalcoordinatorgroningen.nl
 www.natuurnetwerken-prod.sudwestfryslan.nl
 www.natuurnetwerken-test.sudwestfryslan.nl
 www.ndbu-acc.utrecht.nl
@@ -18537,6 +18548,8 @@ zac-lite.cg-intern.acc.utrecht.nl
 zac.cg-intern.acc.utrecht.nl
 zac.cg-intern.ont.utrecht.nl
 zac.cg-intern.utrecht.nl
+zakelijk-acc.nationaalcoordinatorgroningen.nl
+zakelijk.nationaalcoordinatorgroningen.nl
 zaken.acceptatie.coevorden.nl
 zaken.acceptatie.dantumadiel.frl
 zaken.acceptatie.drechterland.nl

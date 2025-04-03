@@ -319,6 +319,8 @@ afval.omgevingswet.overheid.nl
 ag-dcr.cibg.nl
 agroberichtenbuitenland.nl
 ainformatieportaal.justid.nl
+aip-acc.nationaalcoordinatorgroningen.nl
+aip.nationaalcoordinatorgroningen.nl
 aivd.nl
 alerting.hdsr.nl
 algemenebestuursdienst.nl
@@ -943,6 +945,7 @@ e-loket.ilent.nl
 e-mailabonnementen.rijksoverheid.nl
 e-maildiensten.rijksoverheid.nl
 e.acc.videobellen.toeslagen.nl
+e.awareness.nationaalcoordinatorgroningen.nl
 e.flevoland.nl
 e.hhdelfland.nl
 e.logius.nl
@@ -1277,6 +1280,7 @@ feeds.mijncn.nl
 feeds.mijnpgb.nl
 feeds.mirtoverzicht.nl
 feeds.monitorlangdurigezorg.nl
+feeds.nationaalcoordinatorgroningen.nl
 feeds.nieuwsbrievenminocw.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.papiamentu.mijncn.nl
@@ -1632,6 +1636,7 @@ internationaal.ondernemen.overheid.nl
 intpatch.omgevingswet.overheid.nl
 intranet-acc.flevoland.nl
 intranet-bestanden.flevoland.nl
+intranet-prod.nationaalcoordinatorgroningen.nl
 intranet.ad.hdsr.nl
 intranet.belastingdienst.nl
 intranet.ctgb.nl
@@ -1640,6 +1645,7 @@ intranet.dji.nl
 intranet.flevoland.nl
 intranet.justid.nl
 intranet.justitieleictorganisatie.nl
+intranet.nationaalcoordinatorgroningen.nl
 intratst.belastingdienst.nl
 intrekkingsportaal.acceptatie.digipoort.logius.nl
 intrekkingsportaal.digipoort.logius.nl
@@ -1653,6 +1659,7 @@ itp.ilent.nl
 jaarverantwoordingzorg.nl
 jaarverslag2017.flevoland.nl
 jaarverslag2018.flevoland.nl
+jet-test.nationaalcoordinatorgroningen.nl
 jeugdautoriteit.nl
 jip.inspectie-jenv.nl
 jira.rijksoverheid.nl
@@ -2031,6 +2038,7 @@ mysites.hhdelfland.nl
 mysitestest.hhdelfland.nl
 nat_o5001vmfavapp.ont.belastingdienst.nl
 nat_o5002vmfavapp.ont.belastingdienst.nl
+nationaalcoordinatorgroningen.nl
 natuur.omgevingswet.overheid.nl
 natuurbeheerplan.flevoland.nl
 ncp-api-1.ccmo.nl
@@ -2044,6 +2052,7 @@ nimh-beeldbank.defensie.nl
 nnn.flevoland.nl
 noaa.cultureelerfgoed.nl
 node1.acc.statistiek.mijn.overheid.nl
+nox.intranet.nationaalcoordinatorgroningen.nl
 nple-test.belastingdienst.nl
 nple.belastingdienst.nl
 ns2.belastingdienst.nl
@@ -2296,6 +2305,7 @@ opendata.mijncn.nl
 opendata.mijnpgb.nl
 opendata.mirtoverzicht.nl
 opendata.monitorlangdurigezorg.nl
+opendata.nationaalcoordinatorgroningen.nl
 opendata.nieuwsbrievenminocw.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.papiamentu.mijncn.nl
@@ -3393,6 +3403,7 @@ www.mijnsubsidies-acc.limburg.nl
 www.mirtoverzicht.nl
 www.monitorlangdurigezorg.nl
 www.monumentenregister.cultureelerfgoed.nl
+www.nationaalcoordinatorgroningen.nl
 www.nieuwsbrievenminocw.nl
 www.officiele-overheidspublicaties.nl
 www.omgevingsplan.flevoland.nl
@@ -3431,6 +3442,8 @@ zaaksysteem-acc.inspectie-jenv.nl
 zaaksysteem-accept.huurcommissie.nl
 zaaksysteem.hdsr.nl
 zaaksysteem.inspectie-jenv.nl
+zakelijk-acc.nationaalcoordinatorgroningen.nl
+zakelijk.nationaalcoordinatorgroningen.nl
 zdpushservice.overheid.nl
 zelfbediening.belastingdienst.nl
 zoek.overheid.nl
