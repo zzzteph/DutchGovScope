@@ -1,0 +1,16 @@
+name: Scope GIST sync
+
+on:
+  push:
+    paths:
+      - 'scope/**'
+
+jobs:
+  sync-scope:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Run sync action
+        run: echo "Scope files were updated!"
