@@ -1,7 +1,7 @@
 www
 
-autodiscover
 opendata
+autodiscover
 feeds
 iburgerzaken
 ibzpink
@@ -36,17 +36,17 @@ open
 afspraak
 waarmerk
 parkeren
-adfs
 a-www
+adfs
 raad
-api.meldingen
 feeds.english
 opendata.english
+api.meldingen
 broker
-betalen
-ruimtelijkeplannen
 a-feeds
 a-opendata
+betalen
+ruimtelijkeplannen
 werkenbij
 testeloket
 zaaksysteem-accept
@@ -126,6 +126,7 @@ www.webmail
 filecap
 dtestmidoffice
 _dmarc
+a-english
 lyncdiscover
 inloggen
 mijnzorg
@@ -138,7 +139,6 @@ qr
 gemeente
 bastion365
 obsurv
-a-english
 api
 mailing
 web
@@ -178,6 +178,8 @@ acc-objecten
 acc-objecttypen
 jaarstukken
 cryptshare
+a-feeds.a-english
+a-opendata.a-english
 fs
 kennisbank
 meet
@@ -201,8 +203,6 @@ internetafspraken
 gasten
 ro
 uc
-a-feeds.a-english
-a-opendata.a-english
 evenementen
 webservices
 dialin
