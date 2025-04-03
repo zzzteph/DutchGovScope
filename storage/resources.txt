@@ -5989,6 +5989,7 @@ feeds.koninklijkhuis.nl
 feeds.koopoverheid.nl
 feeds.leefbaarenveilig.nl
 feeds.leerenontwikkelplein.nl
+feeds.lintjes.nl
 feeds.nieuwsbrievenminocw.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.persberichten.rijksoverheid.nl
@@ -9077,6 +9078,7 @@ linkeddata.overheid.nl
 linkeddata.test.cultureelerfgoed.nl
 linkextractor.overheid.nl
 lintendijkenpaden.zaanstad.nl
+lintjes.nl
 lior.oegstgeest.nl
 lip.ilent.nl
 liquidfiles-acc.ede.nl
@@ -11446,6 +11448,7 @@ opendata.koninklijkhuis.nl
 opendata.koopoverheid.nl
 opendata.leefbaarenveilig.nl
 opendata.leerenontwikkelplein.nl
+opendata.lintjes.nl
 opendata.nieuwsbrievenminocw.nl
 opendata.nijmegen.nl
 opendata.papiamentu.belastingdienst-cn.nl
@@ -17709,6 +17712,7 @@ www.leudal.nl
 www.leusden.nl
 www.limburg.nl
 www.lingewaard.nl
+www.lintjes.nl
 www.lisse.nl
 www.live.groningen.nl
 www.lochem.nl

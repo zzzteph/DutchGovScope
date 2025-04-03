@@ -1256,6 +1256,7 @@ feeds.koninklijkhuis.nl
 feeds.koopoverheid.nl
 feeds.leefbaarenveilig.nl
 feeds.leerenontwikkelplein.nl
+feeds.lintjes.nl
 feeds.nieuwsbrievenminocw.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.persberichten.rijksoverheid.nl
@@ -1711,6 +1712,7 @@ linkeddata.cultureelerfgoed.nl
 linkeddata.overheid.nl
 linkeddata.test.cultureelerfgoed.nl
 linkextractor.overheid.nl
+lintjes.nl
 lip.ilent.nl
 lir.cibg.nl
 login.aaenmaas.nl
@@ -2236,6 +2238,7 @@ opendata.koninklijkhuis.nl
 opendata.koopoverheid.nl
 opendata.leefbaarenveilig.nl
 opendata.leerenontwikkelplein.nl
+opendata.lintjes.nl
 opendata.nieuwsbrievenminocw.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.persberichten.rijksoverheid.nl
@@ -3309,6 +3312,7 @@ www.koopoverheid.nl
 www.leefbaarenveilig.nl
 www.leerenontwikkelplein.nl
 www.limburg.nl
+www.lintjes.nl
 www.logius.nl
 www.mail.bureauwsnp.nl
 www.metelkaartrekkenwedegrens.nl
