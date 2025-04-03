@@ -3,7 +3,7 @@ name: Scope GIST sync
 on:
   push:
     paths:
-      - 'scope/**'
+      - 'storage/*'
 
 jobs:
   sync-scope:
