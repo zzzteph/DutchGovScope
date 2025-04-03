@@ -44,8 +44,8 @@ betalen
 testeloket
 zaaksysteem-accept
 ruimtelijkeplannen
-werkenbij
 a-www
+werkenbij
 pv
 gemeenteraad
 feeds.english
@@ -149,6 +149,7 @@ acc-podiumd-logs
 woningbouwkaart
 contentbeheer
 cms
+api
 mobiel
 mailing
 maps
@@ -173,10 +174,10 @@ acc-objecttypen
 jaarstukken
 cryptshare
 _dmarc
-api
 fs
 mta-sts
 kennisbank
+onderzoek
 legacy
 mobile
 belastingportaal
@@ -200,7 +201,6 @@ transfer
 a-feeds.a-english
 a-opendata.a-english
 evenementen
-onderzoek
 intranet-acc
 telewerken
 mx1
@@ -3467,6 +3467,17 @@ vri-admin
 wegkenmerken
 www.ncis
 www.nt
+a-api
+a-informatieservice
+acc.informatieservice
+acc.opendata
+dev.informatieservice
+dev.opendata
+informatieservice
+o2.mail.informatieservice
+preview
+prod2.opendata
+tst.opendata
 email.mail.participatie
 mail.participatie
 aalten-checker-preprod

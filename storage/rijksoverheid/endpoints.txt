@@ -107,6 +107,9 @@ http://voi.brabant.nl
 http://webmail.werkenvoornederland.nl
 http://zoek.overheid.nl
 http://zoekdienst-preprod.overheid.nl
+https://a-api.nederlandwereldwijd.nl
+https://a-informatieservice.nederlandwereldwijd.nl
+https://a-www.nederlandwereldwijd.nl
 https://a2vonderenkerensheide.nl
 https://aaenmaas.nl
 https://aanbiedersmedicijnen.nl
@@ -130,9 +133,11 @@ https://acc.auth.services.cultureelerfgoed.nl
 https://acc.beeldbellen.dji.nl
 https://acc.client.archis.cultureelerfgoed.nl
 https://acc.e-loket.ilent.nl
+https://acc.informatieservice.nederlandwereldwijd.nl
 https://acc.monumentenregister.cultureelerfgoed.nl
 https://acc.ncsc.nl
 https://acc.omgevingswet.overheid.nl
+https://acc.opendata.nederlandwereldwijd.nl
 https://acc.stor.services.cultureelerfgoed.nl
 https://acceptatie.abonnee.dezi.nl
 https://acceptatie.advieswijzer.bigregister.nl
@@ -219,6 +224,7 @@ https://api.mijn.ncsc.nl
 https://api.mijn.overheid.nl
 https://api.mijn.test.ncsc.nl
 https://api.ncsc.nl
+https://api.nederlandwereldwijd.nl
 https://api.ondernemersplein.overheid.nl
 https://api.preprod.mijn.overheid.nl
 https://api.standaarden.overheid.nl
@@ -459,7 +465,9 @@ https://desktop.flevoland.nl
 https://desktop.klopt.cibg.nl
 https://deutsch.postedworkers.nl
 https://dev.cbrnsecurity.nctv.nl
+https://dev.informatieservice.nederlandwereldwijd.nl
 https://dev.kennisbankterrorisme.nctv.nl
+https://dev.opendata.nederlandwereldwijd.nl
 https://developer.omgevingswet.overheid.nl
 https://developer.overheid.nl
 https://dexter.ndw.nu
@@ -951,6 +959,7 @@ https://infomilcn.com
 https://informatiehuishouding.nl
 https://informatieportaal.justid.nl
 https://informatiepuntkinderopvangtoeslag.rijksoverheid.nl
+https://informatieservice.nederlandwereldwijd.nl
 https://inloggen-pre.limburg.nl
 https://inloggen-preprod.hhdelfland.nl
 https://inloggen.hhdelfland.nl
@@ -1211,6 +1220,7 @@ https://ondertekenen.flevoland.nl
 https://ondertekenen.limburg.nl
 https://ondertekenentst.brabant.nl
 https://onderzoek.communicatierijk.nl
+https://onderzoek.nederlandwereldwijd.nl
 https://onderzoeksbank.brabant.nl
 https://ons.communicatierijk.nl
 https://oordelen.mensenrechten.nl
@@ -1423,6 +1433,7 @@ https://opendata.ndw.nu
 https://opendata.nederlanddigitaal.nl
 https://opendata.nederlandse-sportraad.nl
 https://opendata.nederlandtegengeorganiseerdemisdaad.nl
+https://opendata.nederlandwereldwijd.nl
 https://opendata.nieuwsbrievenminocw.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.papiamentu.mijncn.nl
@@ -1504,6 +1515,7 @@ https://preprodid.flevoland.nl
 https://preprodmivp.emissieautoriteit.nl
 https://preprodondertekenen.flevoland.nl
 https://preprodrev.emissieautoriteit.nl
+https://preview.nederlandwereldwijd.nl
 https://privaat.octomon.ncsc.nl
 https://privacy.nctv.nl
 https://prod-dictu.comcms.logius.nl
@@ -1713,6 +1725,7 @@ https://treatydatabase-acc.overheid.nl
 https://treatydatabase.overheid.nl
 https://truck-parking.ndw.nu
 https://tst-referentiegegevens.justid.nl
+https://tst.opendata.nederlandwereldwijd.nl
 https://tst.subsidie.cultureelerfgoed.nl
 https://tst2905.omgevingswet.overheid.nl
 https://tuchtrecht-acc.overheid.nl
@@ -2024,6 +2037,7 @@ https://www.ndw.nu
 https://www.nederlanddigitaal.nl
 https://www.nederlandse-sportraad.nl
 https://www.nederlandtegengeorganiseerdemisdaad.nl
+https://www.nederlandwereldwijd.nl
 https://www.nieuwsbrievenminocw.nl
 https://www.nt.ndw.nu
 https://www.omgevingsplan.flevoland.nl

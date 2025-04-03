@@ -10,6 +10,7 @@ _dmarc.cibg.nl
 _dmarc.dji.nl
 _dmarc.logius.nl
 _dmarc.rijksoverheid.nl
+a-api.nederlandwereldwijd.nl
 a-cms.defensie.nl
 a-cms.rijksoverheid.nl
 a-cms1.defensie.nl
@@ -73,6 +74,7 @@ a-feeds.loonaangifteketen.nl
 a-feeds.ncadierproevenbeleid.nl
 a-feeds.rijksoverheid.nl
 a-git.rijksoverheid.nl
+a-informatieservice.nederlandwereldwijd.nl
 a-jira.rijksoverheid.nl
 a-magazines.defensie.nl
 a-magazines.dji.nl
@@ -169,6 +171,7 @@ a-www.koninklijkhuis.nl
 a-www.koopoverheid.nl
 a-www.loonaangifteketen.nl
 a-www.ncadierproevenbeleid.nl
+a-www.nederlandwereldwijd.nl
 a-www.rijksoverheid.nl
 a2vonderenkerensheide.nl
 aaenmaas.nl
@@ -223,12 +226,14 @@ acc.flevoland.nl
 acc.forensischezorg.nl
 acc.gml.map.services.cultureelerfgoed.nl
 acc.hhdelfland.nl
+acc.informatieservice.nederlandwereldwijd.nl
 acc.mijn.dus-i.nl
 acc.mijn.overheid.nl
 acc.monumentenregister.cultureelerfgoed.nl
 acc.ncsc.nl
 acc.oinregister.logius.nl
 acc.omgevingswet.overheid.nl
+acc.opendata.nederlandwereldwijd.nl
 acc.picard.mijn.overheid.nl
 acc.render.map.services.cultureelerfgoed.nl
 acc.statistiek.mijn.overheid.nl
@@ -398,6 +403,7 @@ api.mijn.overheid.nl
 api.mijn.test.ncsc.nl
 api.nationaalwegenbestand.nl
 api.ncsc.nl
+api.nederlandwereldwijd.nl
 api.ondernemersplein.overheid.nl
 api.preprod.mijn.overheid.nl
 api.standaarden.overheid.nl
@@ -905,7 +911,9 @@ desktop.klopt.cibg.nl
 detoekomstbegintnu.brabant.nl
 deutsch.postedworkers.nl
 dev.cbrnsecurity.nctv.nl
+dev.informatieservice.nederlandwereldwijd.nl
 dev.kennisbankterrorisme.nctv.nl
+dev.opendata.nederlandwereldwijd.nl
 developer.omgevingswet.overheid.nl
 developer.overheid.nl
 dexter.ndw.nu
@@ -1698,6 +1706,7 @@ informatie-rws.brabant.nl
 informatiehuishouding.nl
 informatieportaal.justid.nl
 informatiepuntkinderopvangtoeslag.rijksoverheid.nl
+informatieservice.nederlandwereldwijd.nl
 inkomen.toeslagen.nl
 inkoopportaal.belastingdienst.nl
 inkopers.werkenvoornederland.nl
@@ -2224,6 +2233,7 @@ o-voor1.rijksoverheid.nl
 o-www.defensie.nl
 o-www.government.nl
 o-www.rijksoverheid.nl
+o2.mail.informatieservice.nederlandwereldwijd.nl
 o5000proxvapp.ont.belastingdienst.nl
 o5001proxvapp.ont.belastingdienst.nl
 o5002proxvapp.ont.belastingdienst.nl
@@ -2255,6 +2265,7 @@ ondertekenen.limburg.nl
 ondertekenentst.brabant.nl
 ondertekeningsviewer.overheid.nl
 onderzoek.communicatierijk.nl
+onderzoek.nederlandwereldwijd.nl
 onderzoeksbank.brabant.nl
 onlineaangifte.str1.acc.belastingdienst.nl
 ons.communicatierijk.nl
@@ -2472,6 +2483,7 @@ opendata.ndw.nu
 opendata.nederlanddigitaal.nl
 opendata.nederlandse-sportraad.nl
 opendata.nederlandtegengeorganiseerdemisdaad.nl
+opendata.nederlandwereldwijd.nl
 opendata.nieuwsbrievenminocw.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.papiamentu.mijncn.nl
@@ -2641,6 +2653,7 @@ preprodondertekenen.flevoland.nl
 preprodrev.emissieautoriteit.nl
 presenteren.ont.belastingdienst.nl
 preview-eto.overheid.nl
+preview.nederlandwereldwijd.nl
 privaat-acceptatie.octomon.ncsc.nl
 privaat.octomon.ncsc.nl
 privacy.nctv.nl
@@ -2649,6 +2662,7 @@ prod-dictu.logius.nl
 prod-kvk.belastingdienst.nl
 prod.cultureelerfgoed.nl
 prod.flevoland.nl
+prod2.opendata.nederlandwereldwijd.nl
 prototype.cibg.nl
 proxy.brabant.nl
 proxy.socint.belastingdienst.nl
@@ -3125,6 +3139,7 @@ truck-parking.ndw.nu
 tst-referentiegegevens.justid.nl
 tst.mijn.overheid.nl
 tst.ondernemersplein.overheid.nl
+tst.opendata.nederlandwereldwijd.nl
 tst.subsidie.cultureelerfgoed.nl
 tst0.mijn.overheid.nl
 tst1.mijn.overheid.nl
@@ -3626,6 +3641,7 @@ www.ndw.nu
 www.nederlanddigitaal.nl
 www.nederlandse-sportraad.nl
 www.nederlandtegengeorganiseerdemisdaad.nl
+www.nederlandwereldwijd.nl
 www.nieuwsbrievenminocw.nl
 www.nt.ndw.nu
 www.officiele-overheidspublicaties.nl
