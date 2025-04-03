@@ -3843,6 +3843,7 @@ https://feeds.kimnet.nl
 https://feeds.kinderbescherming.nl
 https://feeds.klimaatakkoord.nl
 https://feeds.knmidata.nl
+https://feeds.knmiprojects.nl
 https://feeds.nieuwsbrievenminocw.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.persberichten.rijksoverheid.nl
@@ -5328,6 +5329,7 @@ https://klooster.nieuwegein.nl
 https://kluis.hethogeland.nl
 https://knaal.helmond.nl
 https://knmidata.nl
+https://knmiprojects.nl
 https://knowledgebase.sittard-geleen.nl
 https://kofax.winterswijk.nl
 https://kompas.rotterdam.nl
@@ -6747,6 +6749,7 @@ https://opendata.kimnet.nl
 https://opendata.kinderbescherming.nl
 https://opendata.klimaatakkoord.nl
 https://opendata.knmidata.nl
+https://opendata.knmiprojects.nl
 https://opendata.nieuwsbrievenminocw.nl
 https://opendata.nijmegen.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
@@ -9839,6 +9842,7 @@ https://www.kinderbescherming.nl
 https://www.klimaatadaptatienederland.nl
 https://www.klimaatakkoord.nl
 https://www.knmidata.nl
+https://www.knmiprojects.nl
 https://www.komverder.krimpenaandenijssel.nl
 https://www.kos.nijmegen.nl
 https://www.krimpenaandenijssel.nl

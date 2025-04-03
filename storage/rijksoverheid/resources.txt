@@ -1243,6 +1243,7 @@ feeds.kimnet.nl
 feeds.kinderbescherming.nl
 feeds.klimaatakkoord.nl
 feeds.knmidata.nl
+feeds.knmiprojects.nl
 feeds.nieuwsbrievenminocw.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.persberichten.rijksoverheid.nl
@@ -1667,6 +1668,7 @@ klimaatadaptatienederland.nl
 klimaatakkoord.nl
 klopt.cibg.nl
 knmidata.nl
+knmiprojects.nl
 koppelvlak-acc.overheid.nl
 koppelvlak-asl.overheid.nl
 koppelvlak.overheid.nl
@@ -2202,6 +2204,7 @@ opendata.kimnet.nl
 opendata.kinderbescherming.nl
 opendata.klimaatakkoord.nl
 opendata.knmidata.nl
+opendata.knmiprojects.nl
 opendata.nieuwsbrievenminocw.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.persberichten.rijksoverheid.nl
@@ -3262,6 +3265,7 @@ www.kinderbescherming.nl
 www.klimaatadaptatienederland.nl
 www.klimaatakkoord.nl
 www.knmidata.nl
+www.knmiprojects.nl
 www.logius.nl
 www.mail.bureauwsnp.nl
 www.metelkaartrekkenwedegrens.nl

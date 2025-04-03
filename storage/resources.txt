@@ -5976,6 +5976,7 @@ feeds.kimnet.nl
 feeds.kinderbescherming.nl
 feeds.klimaatakkoord.nl
 feeds.knmidata.nl
+feeds.knmiprojects.nl
 feeds.nieuwsbrievenminocw.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.persberichten.rijksoverheid.nl
@@ -8887,6 +8888,7 @@ kluis.hethogeland.nl
 kmdn.gemeentehulst.nl
 knaal.helmond.nl
 knmidata.nl
+knmiprojects.nl
 knowledgebase.sittard-geleen.nl
 knp.breda.nl
 kodision-prod.sudwestfryslan.nl
@@ -11412,6 +11414,7 @@ opendata.kimnet.nl
 opendata.kinderbescherming.nl
 opendata.klimaatakkoord.nl
 opendata.knmidata.nl
+opendata.knmiprojects.nl
 opendata.nieuwsbrievenminocw.nl
 opendata.nijmegen.nl
 opendata.papiamentu.belastingdienst-cn.nl
@@ -17628,6 +17631,7 @@ www.klimaatadaptatienederland.nl
 www.klimaatakkoord.nl
 www.kmdn.gemeentehulst.nl
 www.knmidata.nl
+www.knmiprojects.nl
 www.kodision-prod.sudwestfryslan.nl
 www.kodision-test.sudwestfryslan.nl
 www.kodision.sudwestfryslan.nl
