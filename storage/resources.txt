@@ -6018,6 +6018,7 @@ feeds.nationaalcoordinatorgroningen.nl
 feeds.nationaalgroeifonds.nl
 feeds.nationaalrapporteur.nl
 feeds.nationaalwegenbestand.nl
+feeds.nationalebijenstrategie.nl
 feeds.nieuwsbrievenminocw.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.papiamentu.mijncn.nl
@@ -10719,6 +10720,7 @@ nat_o5002vmfavapp.ont.belastingdienst.nl
 nationaalcoordinatorgroningen.nl
 nationaalrapporteur.nl
 nationaalwegenbestand.nl
+nationalebijenstrategie.nl
 natuur.leiden.nl
 natuur.omgevingswet.overheid.nl
 natuurbeheerplan.flevoland.nl
@@ -11526,6 +11528,7 @@ opendata.nationaalcoordinatorgroningen.nl
 opendata.nationaalgroeifonds.nl
 opendata.nationaalrapporteur.nl
 opendata.nationaalwegenbestand.nl
+opendata.nationalebijenstrategie.nl
 opendata.nieuwsbrievenminocw.nl
 opendata.nijmegen.nl
 opendata.papiamentu.belastingdienst-cn.nl
@@ -17890,6 +17893,7 @@ www.nationaalcoordinatorgroningen.nl
 www.nationaalgroeifonds.nl
 www.nationaalrapporteur.nl
 www.nationaalwegenbestand.nl
+www.nationalebijenstrategie.nl
 www.natuurnetwerken-prod.sudwestfryslan.nl
 www.natuurnetwerken-test.sudwestfryslan.nl
 www.ndbu-acc.utrecht.nl

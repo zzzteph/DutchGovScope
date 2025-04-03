@@ -3875,6 +3875,7 @@ https://feeds.nationaalcoordinatorgroningen.nl
 https://feeds.nationaalgroeifonds.nl
 https://feeds.nationaalrapporteur.nl
 https://feeds.nationaalwegenbestand.nl
+https://feeds.nationalebijenstrategie.nl
 https://feeds.nieuwsbrievenminocw.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.papiamentu.mijncn.nl
@@ -6283,6 +6284,7 @@ https://najaarsrapportage.haarlemmermeer.nl
 https://nationaalcoordinatorgroningen.nl
 https://nationaalrapporteur.nl
 https://nationaalwegenbestand.nl
+https://nationalebijenstrategie.nl
 https://natuur.leiden.nl
 https://natuur.omgevingswet.overheid.nl
 https://natuurbeheerplan.flevoland.nl
@@ -6841,6 +6843,7 @@ https://opendata.nationaalcoordinatorgroningen.nl
 https://opendata.nationaalgroeifonds.nl
 https://opendata.nationaalrapporteur.nl
 https://opendata.nationaalwegenbestand.nl
+https://opendata.nationalebijenstrategie.nl
 https://opendata.nieuwsbrievenminocw.nl
 https://opendata.nijmegen.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
@@ -10021,6 +10024,7 @@ https://www.nationaalcoordinatorgroningen.nl
 https://www.nationaalgroeifonds.nl
 https://www.nationaalrapporteur.nl
 https://www.nationaalwegenbestand.nl
+https://www.nationalebijenstrategie.nl
 https://www.ndbu-acc.utrecht.nl
 https://www.ndbu-tst.utrecht.nl
 https://www.ndbu.utrecht.nl

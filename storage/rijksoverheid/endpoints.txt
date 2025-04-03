@@ -755,6 +755,7 @@ https://feeds.nationaalcoordinatorgroningen.nl
 https://feeds.nationaalgroeifonds.nl
 https://feeds.nationaalrapporteur.nl
 https://feeds.nationaalwegenbestand.nl
+https://feeds.nationalebijenstrategie.nl
 https://feeds.nieuwsbrievenminocw.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.papiamentu.mijncn.nl
@@ -1077,6 +1078,7 @@ https://mwr-app-cdn.belastingdienst.nl
 https://nationaalcoordinatorgroningen.nl
 https://nationaalrapporteur.nl
 https://nationaalwegenbestand.nl
+https://nationalebijenstrategie.nl
 https://natuur.omgevingswet.overheid.nl
 https://natuurbeheerplan.flevoland.nl
 https://nieuws.brabant.nl
@@ -1296,6 +1298,7 @@ https://opendata.nationaalcoordinatorgroningen.nl
 https://opendata.nationaalgroeifonds.nl
 https://opendata.nationaalrapporteur.nl
 https://opendata.nationaalwegenbestand.nl
+https://opendata.nationalebijenstrategie.nl
 https://opendata.nieuwsbrievenminocw.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.papiamentu.mijncn.nl
@@ -1853,6 +1856,7 @@ https://www.nationaalcoordinatorgroningen.nl
 https://www.nationaalgroeifonds.nl
 https://www.nationaalrapporteur.nl
 https://www.nationaalwegenbestand.nl
+https://www.nationalebijenstrategie.nl
 https://www.nieuwsbrievenminocw.nl
 https://www.omgevingsplan.flevoland.nl
 https://www.omgevingswet.overheid.nl
