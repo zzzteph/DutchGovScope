@@ -3942,6 +3942,7 @@ https://feeds.nctv.nl
 https://feeds.ndw.nu
 https://feeds.nederlanddigitaal.nl
 https://feeds.nederlandse-sportraad.nl
+https://feeds.nederlandtegengeorganiseerdemisdaad.nl
 https://feeds.nieuwsbrievenminocw.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.papiamentu.mijncn.nl
@@ -6402,6 +6403,7 @@ https://nedbrwacc.apeldoorn.nl
 https://nederbetuwe.nl
 https://nederlanddigitaal.nl
 https://nederlandse-sportraad.nl
+https://nederlandtegengeorganiseerdemisdaad.nl
 https://nerdio.meierijstad.nl
 https://netbox.alkmaar.nl
 https://neuron-test.gorinchem.nl
@@ -6965,6 +6967,7 @@ https://opendata.nctv.nl
 https://opendata.ndw.nu
 https://opendata.nederlanddigitaal.nl
 https://opendata.nederlandse-sportraad.nl
+https://opendata.nederlandtegengeorganiseerdemisdaad.nl
 https://opendata.nieuwsbrievenminocw.nl
 https://opendata.nijmegen.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
@@ -10192,6 +10195,7 @@ https://www.ndw.nu
 https://www.nederbetuwe.nl
 https://www.nederlanddigitaal.nl
 https://www.nederlandse-sportraad.nl
+https://www.nederlandtegengeorganiseerdemisdaad.nl
 https://www.nieuwauthentiekbloemendaal.doemee.bloemendaal.nl
 https://www.nieuwegein.nl
 https://www.nieuwsbrief.enschede.nl

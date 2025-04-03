@@ -6101,6 +6101,7 @@ feeds.nctv.nl
 feeds.ndw.nu
 feeds.nederlanddigitaal.nl
 feeds.nederlandse-sportraad.nl
+feeds.nederlandtegengeorganiseerdemisdaad.nl
 feeds.nieuwsbrievenminocw.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.papiamentu.mijncn.nl
@@ -10877,6 +10878,7 @@ nedbrwacc.apeldoorn.nl
 nederbetuwe.nl
 nederlanddigitaal.nl
 nederlandse-sportraad.nl
+nederlandtegengeorganiseerdemisdaad.nl
 nederweert.nl
 nedgeoservices.brunssum.nl
 nedgraphics.eijsden-margraten.nl
@@ -11679,6 +11681,7 @@ opendata.nctv.nl
 opendata.ndw.nu
 opendata.nederlanddigitaal.nl
 opendata.nederlandse-sportraad.nl
+opendata.nederlandtegengeorganiseerdemisdaad.nl
 opendata.nieuwsbrievenminocw.nl
 opendata.nijmegen.nl
 opendata.papiamentu.belastingdienst-cn.nl
@@ -18101,6 +18104,7 @@ www.ndw.nu
 www.nederbetuwe.nl
 www.nederlanddigitaal.nl
 www.nederlandse-sportraad.nl
+www.nederlandtegengeorganiseerdemisdaad.nl
 www.nederweert.nl
 www.netwerk.rhenen.nl
 www.nhr.sudwestfryslan.nl

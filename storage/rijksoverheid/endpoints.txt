@@ -822,6 +822,7 @@ https://feeds.nctv.nl
 https://feeds.ndw.nu
 https://feeds.nederlanddigitaal.nl
 https://feeds.nederlandse-sportraad.nl
+https://feeds.nederlandtegengeorganiseerdemisdaad.nl
 https://feeds.nieuwsbrievenminocw.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.papiamentu.mijncn.nl
@@ -1186,6 +1187,7 @@ https://ndw.nu
 https://ndwviewer.ndw.nu
 https://nederlanddigitaal.nl
 https://nederlandse-sportraad.nl
+https://nederlandtegengeorganiseerdemisdaad.nl
 https://nieuws.brabant.nl
 https://nieuwsbrieven.limburg.nl
 https://nieuwsbrievenminocw.nl
@@ -1420,6 +1422,7 @@ https://opendata.nctv.nl
 https://opendata.ndw.nu
 https://opendata.nederlanddigitaal.nl
 https://opendata.nederlandse-sportraad.nl
+https://opendata.nederlandtegengeorganiseerdemisdaad.nl
 https://opendata.nieuwsbrievenminocw.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.papiamentu.mijncn.nl
@@ -2020,6 +2023,7 @@ https://www.nctv.nl
 https://www.ndw.nu
 https://www.nederlanddigitaal.nl
 https://www.nederlandse-sportraad.nl
+https://www.nederlandtegengeorganiseerdemisdaad.nl
 https://www.nieuwsbrievenminocw.nl
 https://www.nt.ndw.nu
 https://www.omgevingsplan.flevoland.nl
