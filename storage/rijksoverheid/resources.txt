@@ -1266,6 +1266,7 @@ feeds.loonaangifteketen.nl
 feeds.lvmb.nl
 feeds.maatwerkvoormensen.nl
 feeds.marechaussee.nl
+feeds.medicineshortagesdefects.nl
 feeds.nieuwsbrievenminocw.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.persberichten.rijksoverheid.nl
@@ -1831,6 +1832,7 @@ mdmeas.cbg-meb.nl
 mdmvpn-t.cbg-meb.nl
 mdmvpn.cbg-meb.nl
 med-srv20.rijksoverheid.nl
+medicineshortagesdefects.nl
 meepraten.flevoland.nl
 meet.aaenmaas.nl
 meet.justid.nl
@@ -2257,6 +2259,7 @@ opendata.loonaangifteketen.nl
 opendata.lvmb.nl
 opendata.maatwerkvoormensen.nl
 opendata.marechaussee.nl
+opendata.medicineshortagesdefects.nl
 opendata.nieuwsbrievenminocw.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.persberichten.rijksoverheid.nl
@@ -3337,6 +3340,7 @@ www.lvmb.nl
 www.maatwerkvoormensen.nl
 www.mail.bureauwsnp.nl
 www.marechaussee.nl
+www.medicineshortagesdefects.nl
 www.metelkaartrekkenwedegrens.nl
 www.mijn.dus-i.nl
 www.mijn.overheid.nl
