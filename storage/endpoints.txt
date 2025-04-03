@@ -3570,6 +3570,7 @@ https://english.ncadierproevenbeleid.nl
 https://english.ncsc.nl
 https://english.nctv.nl
 https://english.ndw.nu
+https://english.nrgd.nl
 https://english.sso3w.nl
 https://enkhuizen.nl
 https://enquete-acc.denhaag.nl
@@ -3870,6 +3871,7 @@ https://feeds.english.ncadierproevenbeleid.nl
 https://feeds.english.ncsc.nl
 https://feeds.english.nctv.nl
 https://feeds.english.ndw.nu
+https://feeds.english.nrgd.nl
 https://feeds.english.sso3w.nl
 https://feeds.erfgoeddeal.nl
 https://feeds.euthanasiecommissie.nl
@@ -3969,6 +3971,7 @@ https://feeds.nlarbeidsinspectie.nl
 https://feeds.nlinfrankrijk.nl
 https://feeds.nllabourauthority.nl
 https://feeds.nponderwijs.nl
+https://feeds.nrgd.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.papiamentu.mijncn.nl
 https://feeds.persberichten.rijksoverheid.nl
@@ -6504,6 +6507,7 @@ https://notificaties.rotterdam.nl
 https://notificaties.wonenportaal.amsterdam.nl
 https://notificaties.zwolle.nl
 https://nponderwijs.nl
+https://nrgd.nl
 https://ns1.webserver.schiedam.nl
 https://nt.ndw.nu
 https://ntm.ndw.nu
@@ -6918,6 +6922,7 @@ https://opendata.english.ncadierproevenbeleid.nl
 https://opendata.english.ncsc.nl
 https://opendata.english.nctv.nl
 https://opendata.english.ndw.nu
+https://opendata.english.nrgd.nl
 https://opendata.english.sso3w.nl
 https://opendata.euthanasiecommissie.nl
 https://opendata.excellentescholen.nl
@@ -7019,6 +7024,7 @@ https://opendata.nlarbeidsinspectie.nl
 https://opendata.nlinfrankrijk.nl
 https://opendata.nllabourauthority.nl
 https://opendata.nponderwijs.nl
+https://opendata.nrgd.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.papiamentu.mijncn.nl
 https://opendata.persberichten.rijksoverheid.nl
@@ -10284,6 +10290,7 @@ https://www.noordoostpolder.nl
 https://www.noordwestbegroot.utrecht.nl
 https://www.noordwijk.nl
 https://www.nponderwijs.nl
+https://www.nrgd.nl
 https://www.nt.ndw.nu
 https://www.nu.venlo.nl
 https://www.nunspeet.nl

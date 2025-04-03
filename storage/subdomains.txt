@@ -35,8 +35,8 @@ afspraak
 waarmerk
 vpn
 parkeren
-adfs
 english
+adfs
 raad
 api.meldingen
 broker
@@ -46,10 +46,10 @@ testeloket
 zaaksysteem-accept
 ruimtelijkeplannen
 werkenbij
-pv
-gemeenteraad
 feeds.english
 opendata.english
+pv
+gemeenteraad
 enterpriseenrollment
 iparticipatie
 belastingen

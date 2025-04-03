@@ -595,6 +595,7 @@ https://english.ncadierproevenbeleid.nl
 https://english.ncsc.nl
 https://english.nctv.nl
 https://english.ndw.nu
+https://english.nrgd.nl
 https://english.sso3w.nl
 https://enterpriseenrollment.cbg-meb.nl
 https://enterpriseregistration.belastingdienst.nl
@@ -750,6 +751,7 @@ https://feeds.english.ncadierproevenbeleid.nl
 https://feeds.english.ncsc.nl
 https://feeds.english.nctv.nl
 https://feeds.english.ndw.nu
+https://feeds.english.nrgd.nl
 https://feeds.english.sso3w.nl
 https://feeds.erfgoeddeal.nl
 https://feeds.euthanasiecommissie.nl
@@ -849,6 +851,7 @@ https://feeds.nlarbeidsinspectie.nl
 https://feeds.nlinfrankrijk.nl
 https://feeds.nllabourauthority.nl
 https://feeds.nponderwijs.nl
+https://feeds.nrgd.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.papiamentu.mijncn.nl
 https://feeds.persberichten.rijksoverheid.nl
@@ -1231,6 +1234,7 @@ https://nls.ndw.nu
 https://nnn.flevoland.nl
 https://noaa.cultureelerfgoed.nl
 https://nponderwijs.nl
+https://nrgd.nl
 https://nt.ndw.nu
 https://ntm.ndw.nu
 https://oa.aaenmaas.nl
@@ -1374,6 +1378,7 @@ https://opendata.english.ncadierproevenbeleid.nl
 https://opendata.english.ncsc.nl
 https://opendata.english.nctv.nl
 https://opendata.english.ndw.nu
+https://opendata.english.nrgd.nl
 https://opendata.english.sso3w.nl
 https://opendata.euthanasiecommissie.nl
 https://opendata.excellentescholen.nl
@@ -1473,6 +1478,7 @@ https://opendata.nlarbeidsinspectie.nl
 https://opendata.nlinfrankrijk.nl
 https://opendata.nllabourauthority.nl
 https://opendata.nponderwijs.nl
+https://opendata.nrgd.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.papiamentu.mijncn.nl
 https://opendata.persberichten.rijksoverheid.nl
@@ -2099,6 +2105,7 @@ https://www.nlarbeidsinspectie.nl
 https://www.nlinfrankrijk.nl
 https://www.nllabourauthority.nl
 https://www.nponderwijs.nl
+https://www.nrgd.nl
 https://www.nt.ndw.nu
 https://www.omgevingsplan.flevoland.nl
 https://www.omgevingswet.overheid.nl
