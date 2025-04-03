@@ -230,6 +230,7 @@ acc.forensischezorg.nl
 acc.gml.map.services.cultureelerfgoed.nl
 acc.hhdelfland.nl
 acc.informatieservice.nederlandwereldwijd.nl
+acc.inspectieresultaten.nvwa.nl
 acc.mijn.dus-i.nl
 acc.mijn.overheid.nl
 acc.monumentenregister.cultureelerfgoed.nl
@@ -248,6 +249,7 @@ acc.zaak.services.cultureelerfgoed.nl
 acc0.mijn.overheid.nl
 acc1.mijn.overheid.nl
 acc1.picard.mijn.overheid.nl
+acc2.inspectieresultaten.nvwa.nl
 acc2.mijn.overheid.nl
 acc3.mijn.overheid.nl
 acc4.mijn.overheid.nl
@@ -1016,6 +1018,9 @@ dvfz.dji.nl
 dvmservices.ndw.nu
 dwangindezorg.nl
 dwo.ctgb.nl
+e-certnl-acc.nvwa.nl
+e-certnl-sch.nvwa.nl
+e-certnl.nvwa.nl
 e-loket.ilent.nl
 e-mailabonnementen.rijksoverheid.nl
 e-maildiensten.rijksoverheid.nl
@@ -1104,6 +1109,7 @@ english.ncsc.nl
 english.nctv.nl
 english.ndw.nu
 english.nrgd.nl
+english.nvwa.nl
 english.sso3w.nl
 enterpriseenrollment.cbg-meb.nl
 enterpriseregistration.belastingdienst.nl
@@ -1300,6 +1306,7 @@ feeds.english.ncsc.nl
 feeds.english.nctv.nl
 feeds.english.ndw.nu
 feeds.english.nrgd.nl
+feeds.english.nvwa.nl
 feeds.english.sso3w.nl
 feeds.erfgoeddeal.nl
 feeds.euthanasiecommissie.nl
@@ -1401,6 +1408,7 @@ feeds.nllabourauthority.nl
 feeds.nponderwijs.nl
 feeds.nrgd.nl
 feeds.nutriscorevoorbedrijven.nl
+feeds.nvwa.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.papiamentu.mijncn.nl
 feeds.persberichten.rijksoverheid.nl
@@ -1446,17 +1454,21 @@ fmis.belastingdienst.nl
 forensicinstitute.nl
 forensischezorg.nl
 forensischinstituut.nl
+forms-acc.nvwa.nl
 forms.hhdelfland.nl
 forms.iplo.nl
 forms.klopt.cibg.nl
+forms.nvwa.nl
 formulier-beheer.dus-i.nl
 formulier.cultureelerfgoed.nl
 formulier.emissieautoriteit.nl
 formulier.werkenvoornederland.nl
+formulieren-acc.nvwa.nl
 formulieren.brabant.nl
 formulieren.flevoland.nl
 formulieren.huurcommissie.nl
 formulieren.limburg.nl
+formulieren.nvwa.nl
 fortescloud.acc.belastingdienst.nl
 fortescloud.belastingdienst.nl
 forum.developer.overheid.nl
@@ -1667,6 +1679,7 @@ huurprijscheck.huurcommissie.nl
 hwbp.nl
 hybrid.brabant.nl
 hybrid.domeinenrz.nl
+i-certnl.nvwa.nl
 i-cms.defensie.nl
 i-cms.rijksoverheid.nl
 i-cms1.defensie.nl
@@ -1742,6 +1755,7 @@ inspecteur.ilent.nl
 inspectie-jenv.nl
 inspectie-oe.nl
 inspectiebtd.nl
+inspectieresultaten.nvwa.nl
 instroom.belastingdienst.nl
 int-acc-01.flevoland.nl
 int-prod-01.flevoland.nl
@@ -1785,6 +1799,10 @@ isamproxyont.ont.belastingdienst.nl
 it-academieoverheid.nl
 itp-acc.ilent.nl
 itp.ilent.nl
+ivo-acc.nvwa.nl
+ivo.nvwa.nl
+iwelcome-preprod.nvwa.nl
+iwelcome.nvwa.nl
 jaarverantwoordingzorg.nl
 jaarverslag2017.flevoland.nl
 jaarverslag2018.flevoland.nl
@@ -1861,6 +1879,8 @@ koppelvlak-asl.overheid.nl
 koppelvlak.overheid.nl
 kp-moss-ut.tst.belastingdienst.nl
 kwaliteitsdashboard-koop.overheid.nl
+labvantage-acc.nvwa.nl
+labvantage.nvwa.nl
 le-webservices-beta.belastingdienst.nl
 le-webservices.belastingdienst.nl
 leefbaarenveilig.nl
@@ -1943,6 +1963,7 @@ magazines.jeugdautoriteit.nl
 magazines.kinderbescherming.nl
 magazines.ncsc.nl
 magazines.nctv.nl
+magazines.nvwa.nl
 magazines.rijksoverheid.nl
 magazines.werkenvoornederland.nl
 magazinesintern.rijksoverheid.nl
@@ -1977,6 +1998,7 @@ mailings.dus-i.nl
 mailmdm.flevoland.nl
 mailrelay1.overheid.nl
 mailrelay2.overheid.nl
+mailserver.service.nvwa.nl
 mam.ctgb.nl
 mam.justid.nl
 managedservices.logius.nl
@@ -2023,6 +2045,7 @@ micollab.flevoland.nl
 micollab.mensenrechten.nl
 mijn-aanvraag.belastingdienst.nl
 mijn-acc.igj.nl
+mijn-acc.nvwa.nl
 mijn-acc1.belastingdienst.nl
 mijn-acc1.toeslagen.nl
 mijn-acc2.toeslagen.nl
@@ -2046,6 +2069,7 @@ mijn.huurcommissie.nl
 mijn.igj.nl
 mijn.ncsc.nl
 mijn.ndw.nu
+mijn.nvwa.nl
 mijn.ont.belastingdienst.nl
 mijn.overheid.nl
 mijn.str10.acc.belastingdienst.nl
@@ -2256,6 +2280,7 @@ nspnws.ncsc.nl
 nt.ndw.nu
 ntm.ndw.nu
 nutriscorevoorbedrijven.nl
+nvwa.nl
 nwrar-acc.ncsc.nl
 o-cms.defensie.nl
 o-cms1.defensie.nl
@@ -2315,6 +2340,7 @@ open-acc.overheid.nl
 open-data.ndw.nu
 open.brabant.nl
 open.overheid.nl
+openbare-inspectieresultaten.nvwa.nl
 opendata.a2vonderenkerensheide.nl
 opendata.aanbiedersmedicijnen.nl
 opendata.aboutnetherlandscustoms.nl
@@ -2435,6 +2461,7 @@ opendata.english.ncsc.nl
 opendata.english.nctv.nl
 opendata.english.ndw.nu
 opendata.english.nrgd.nl
+opendata.english.nvwa.nl
 opendata.english.sso3w.nl
 opendata.euthanasiecommissie.nl
 opendata.excellentescholen.nl
@@ -2537,6 +2564,7 @@ opendata.nllabourauthority.nl
 opendata.nponderwijs.nl
 opendata.nrgd.nl
 opendata.nutriscorevoorbedrijven.nl
+opendata.nvwa.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.papiamentu.mijncn.nl
 opendata.persberichten.rijksoverheid.nl
@@ -2751,7 +2779,9 @@ radicaalofpuberaal.nctv.nl
 rand.hhdelfland.nl
 rap.belastingdienst.nl
 rapporteursnet.nifp.nl
+ras-acc.nvwa.nl
 ras.domeinenrz.nl
+ras.nvwa.nl
 ras2.domeinenrz.nl
 rat.belastingdienst.nl
 rcgog.nl
@@ -2806,6 +2836,7 @@ ruimte.omgevingswet.overheid.nl
 ruimte.pfm.omgevingswet.overheid.nl
 ruimte.pre.omgevingswet.overheid.nl
 rut.belastingdienst.nl
+rvdmschaduwdraaien.nvwa.nl
 rvig-productie.belastingdienst.nl
 rvig-proeftuin.belastingdienst.nl
 rvig.proeftuin.belastingdienst.nl
@@ -2967,6 +2998,7 @@ smtp32.belastingdienst.nl
 smtp4.mijn.overheid.nl
 smtp81.belastingdienst.nl
 smtp82.belastingdienst.nl
+soap.openbare-inspectieresultaten.nvwa.nl
 social.overheid.nl
 sonar.ndw.nu
 sonarqube.lpc.logius.nl
@@ -3146,6 +3178,7 @@ test.kinderbescherming.nl
 test.monumentenregister.cultureelerfgoed.nl
 test.ncsc.nl
 test.nl-alert.nl
+test.openbare-inspectieresultaten.nvwa.nl
 test.portaal.nlarbeidsinspectie.nl
 test.publicwebservices.cibg.nl
 test.resultaten.nlarbeidsinspectie.nl
@@ -3304,12 +3337,15 @@ verleendekinderopvang.belastingdienst.nl
 verpakkingen.belastingdienst.nl
 verzekeringsproducten.acc.belastingdienst.nl
 verzekeringsproducten.belastingdienst.nl
+vgc-acc.nvwa.nl
+vgc.nvwa.nl
 via2008pilot-test2.belastingdienst.nl
 via2008pilot.belastingdienst.nl
 video-acc.beeldbellen.dji.nl
 video.beeldbellen.dji.nl
 video.belastingdienst.nl
 videobellen.belastingdienst.nl
+videoleren.nvwa.nl
 videoserver.brabant.nl
 videoserver2.brabant.nl
 vild.ndw.nu
@@ -3339,6 +3375,7 @@ vs_mijn.str13.tst.belastingdienst.nl
 vs_mijnzakelijk.str10.tst.belastingdienst.nl
 vs_mijnzakelijk.str13.tst.belastingdienst.nl
 vs_webdiensten.str13.tst.belastingdienst.nl
+vtrack.nvwa.nl
 vts-beheer.belastingdienst.nl
 vts.belastingdienst.nl
 vtsd.belastingdienst.nl
@@ -3634,6 +3671,7 @@ www.informatiehuishouding.nl
 www.inspectie-jenv.nl
 www.inspectie-oe.nl
 www.inspectiebtd.nl
+www.inspectieresultaten.nvwa.nl
 www.int.omgevingswet.overheid.nl
 www.int02.omgevingswet.overheid.nl
 www.int12.omgevingswet.overheid.nl
@@ -3722,13 +3760,16 @@ www.nponderwijs.nl
 www.nrgd.nl
 www.nt.ndw.nu
 www.nutriscorevoorbedrijven.nl
+www.nvwa.nl
 www.officiele-overheidspublicaties.nl
 www.omgevingsplan.flevoland.nl
 www.omgevingswet.overheid.nl
+www.openbare-inspectieresultaten.nvwa.nl
 www.opendata.brabant.nl
 www.overheid.nl
 www.perf.omgevingswet.overheid.nl
 www.pre.omgevingswet.overheid.nl
+www.ras-acc.nvwa.nl
 www.rcgog.nl
 www.rijksoverheid.nl
 www.risicokaart.flevoland.nl

@@ -934,6 +934,7 @@ https://acc.haarlem.nl
 https://acc.hior.amsterdam.nl
 https://acc.iam.amsterdam.nl
 https://acc.informatieservice.nederlandwereldwijd.nl
+https://acc.inspectieresultaten.nvwa.nl
 https://acc.io.amsterdam.nl
 https://acc.jvvs.amsterdam.nl
 https://acc.kapelle.nl
@@ -983,6 +984,7 @@ https://acc.wonen.zaken.amsterdam.nl
 https://acc.woz-loket.harlingen.nl
 https://acc.zandvoort.nl
 https://acc.zorg.voerendaal.nl
+https://acc2.inspectieresultaten.nvwa.nl
 https://accept-zaaksysteem.denhelder.nl
 https://accept-zaaksysteem.terneuzen.nl
 https://accept.subsites.leiden.nl
@@ -3039,6 +3041,9 @@ https://dwh-sociaal.amsterdam.nl
 https://dwh-sociaal.fa.amsterdam.nl
 https://dwh-sociaal.ft.amsterdam.nl
 https://dwo.ctgb.nl
+https://e-certnl-acc.nvwa.nl
+https://e-certnl-sch.nvwa.nl
+https://e-certnl.nvwa.nl
 https://e-dfs-p-01.adds.amsterdam.nl
 https://e-dfs-p-01.amsterdam.nl
 https://e-dfs-p-02.amsterdam.nl
@@ -3571,6 +3576,7 @@ https://english.ncsc.nl
 https://english.nctv.nl
 https://english.ndw.nu
 https://english.nrgd.nl
+https://english.nvwa.nl
 https://english.sso3w.nl
 https://enkhuizen.nl
 https://enquete-acc.denhaag.nl
@@ -3872,6 +3878,7 @@ https://feeds.english.ncsc.nl
 https://feeds.english.nctv.nl
 https://feeds.english.ndw.nu
 https://feeds.english.nrgd.nl
+https://feeds.english.nvwa.nl
 https://feeds.english.sso3w.nl
 https://feeds.erfgoeddeal.nl
 https://feeds.euthanasiecommissie.nl
@@ -3973,6 +3980,7 @@ https://feeds.nllabourauthority.nl
 https://feeds.nponderwijs.nl
 https://feeds.nrgd.nl
 https://feeds.nutriscorevoorbedrijven.nl
+https://feeds.nvwa.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.papiamentu.mijncn.nl
 https://feeds.persberichten.rijksoverheid.nl
@@ -4135,6 +4143,7 @@ https://forms.deventer.nl
 https://forms.druten.nl
 https://forms.iplo.nl
 https://forms.klopt.cibg.nl
+https://forms.nvwa.nl
 https://forms.vga.amsterdam.nl
 https://forms.wijchen.nl
 https://formulier-acc.ede.nl
@@ -4206,6 +4215,7 @@ https://formulieren.middendrenthe.nl
 https://formulieren.montferland.info
 https://formulieren.noordoostpolder.nl
 https://formulieren.nunspeet.nl
+https://formulieren.nvwa.nl
 https://formulieren.olst-wijhe.nl
 https://formulieren.oostzaan.nl
 https://formulieren.oss.nl
@@ -5057,6 +5067,7 @@ https://inspecteur.ilent.nl
 https://inspectie-jenv.nl
 https://inspectie-oe.nl
 https://inspectiebtd.nl
+https://inspectieresultaten.nvwa.nl
 https://instroom.belastingdienst.nl
 https://int.omgevingswet.overheid.nl
 https://int02.omgevingswet.overheid.nl
@@ -5213,7 +5224,11 @@ https://isis.rotterdam.nl
 https://isms-acc.denhaag.nl
 https://isms.denhaag.nl
 https://it-academieoverheid.nl
+https://ivo-acc.nvwa.nl
+https://ivo.nvwa.nl
 https://ivor.veenendaal.nl
+https://iwelcome-preprod.nvwa.nl
+https://iwelcome.nvwa.nl
 https://izaaksuite.bergenopzoom.nl
 https://izrm.huizen.nl
 https://jaarrekening.arnhem.nl
@@ -5506,6 +5521,7 @@ https://kwaliteitsdashboard-koop.overheid.nl
 https://laakhavensbepaalt.denhaag.nl
 https://laarbeek.nl
 https://lab.tod.leiden.nl
+https://labvantage-acc.nvwa.nl
 https://landgraaf.nl
 https://landhorst.landvancuijk.nl
 https://landingspage.landvancuijk.nl
@@ -5742,6 +5758,7 @@ https://magazines.jeugdautoriteit.nl
 https://magazines.kinderbescherming.nl
 https://magazines.ncsc.nl
 https://magazines.nctv.nl
+https://magazines.nvwa.nl
 https://magazines.rijksoverheid.nl
 https://magazines.rotterdam.nl
 https://magazines.werkenvoornederland.nl
@@ -6077,6 +6094,7 @@ https://mijn.ncsc.nl
 https://mijn.ndw.nu
 https://mijn.nijmegen.nl
 https://mijn.noordwijk.nl
+https://mijn.nvwa.nl
 https://mijn.oldenzaal.nl
 https://mijn.ommen.nl
 https://mijn.oostgelre.nl
@@ -6518,6 +6536,7 @@ https://nunspeet-checker-preprod.nunspeet.nl
 https://nunspeet-checker.nunspeet.nl
 https://nunspeet.nl
 https://nutriscorevoorbedrijven.nl
+https://nvwa.nl
 https://nwro.velsen.nl
 https://nwro2.velsen.nl
 https://oa.aaenmaas.nl
@@ -6800,6 +6819,7 @@ https://open.wierden.nl
 https://open.zutphen.nl
 https://openagenda.ridderkerk.nl
 https://openbaartoilet.zutphen.nl
+https://openbare-inspectieresultaten.nvwa.nl
 https://openbareruimte.deventer.nl
 https://opendata-contrast.zoetermeer.nl
 https://opendata.a2vonderenkerensheide.nl
@@ -6925,6 +6945,7 @@ https://opendata.english.ncsc.nl
 https://opendata.english.nctv.nl
 https://opendata.english.ndw.nu
 https://opendata.english.nrgd.nl
+https://opendata.english.nvwa.nl
 https://opendata.english.sso3w.nl
 https://opendata.euthanasiecommissie.nl
 https://opendata.excellentescholen.nl
@@ -7028,6 +7049,7 @@ https://opendata.nllabourauthority.nl
 https://opendata.nponderwijs.nl
 https://opendata.nrgd.nl
 https://opendata.nutriscorevoorbedrijven.nl
+https://opendata.nvwa.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.papiamentu.mijncn.nl
 https://opendata.persberichten.rijksoverheid.nl
@@ -7859,6 +7881,8 @@ https://radicaalofpuberaal.nctv.nl
 https://rads.rotterdam.nl
 https://rap.gemeentesluis.nl
 https://rapporteursnet.nifp.nl
+https://ras-acc.nvwa.nl
+https://ras.nvwa.nl
 https://raster.horstaandemaas.nl
 https://rbp.rotterdam.nl
 https://rcgog.nl
@@ -8003,6 +8027,7 @@ https://ruimtelijkeplannen.tilburg.nl
 https://ruimtelijkeplannen.veldhoven.nl
 https://ruimtevoorjou.groningen.nl
 https://ruimtevoorwerken.stichtsevecht.nl
+https://rvdmschaduwdraaien.nvwa.nl
 https://rvw.stichtsevecht.nl
 https://rw.belastingdienst.nl
 https://rwbg.flevoland.nl
@@ -8375,6 +8400,7 @@ https://snelbezwaar.test.purmerend.nl
 https://snow-license.amsterdam.nl
 https://snowagent.denhaag.nl
 https://snowinv.utrecht.nl
+https://soap.openbare-inspectieresultaten.nvwa.nl
 https://sociaaldomein-acc.ijsselstein.nl
 https://sociaaldomein.almere.nl
 https://sociaaldomein.gulpen-wittem.nl
@@ -8827,6 +8853,7 @@ https://test.ncsc.nl
 https://test.nl-alert.nl
 https://test.open-formulieren.noordoostpolder.nl
 https://test.open-formulieren.vught.nl
+https://test.openbare-inspectieresultaten.nvwa.nl
 https://test.pekela.nl
 https://test.portaal.nlarbeidsinspectie.nl
 https://test.resultaten.nlarbeidsinspectie.nl
@@ -9207,6 +9234,8 @@ https://versterkenenvernieuwen.groningen.nl
 https://verzekeringsproducten.belastingdienst.nl
 https://vf.heitje.heerlen.nl
 https://vga.amsterdam.nl
+https://vgc-acc.nvwa.nl
+https://vgc.nvwa.nl
 https://via.geertruidenberg.nl
 https://vianen.landvancuijk.nl
 https://victor.amsterdam.nl
@@ -9219,6 +9248,7 @@ https://videobellen.utrecht.nl
 https://videobellen.waadhoeke.nl
 https://videobellenwsd.utrecht.nl
 https://videodocs.houten.nl
+https://videoleren.nvwa.nl
 https://vierdaagse.landvancuijk.nl
 https://vierlingsbeek.landvancuijk.nl
 https://viertfietsen.deventer.nl
@@ -10131,6 +10161,7 @@ https://www.inkomensondersteuning.nijmegen.nl
 https://www.inspectie-jenv.nl
 https://www.inspectie-oe.nl
 https://www.inspectiebtd.nl
+https://www.inspectieresultaten.nvwa.nl
 https://www.int.omgevingswet.overheid.nl
 https://www.int02.omgevingswet.overheid.nl
 https://www.int12.omgevingswet.overheid.nl
@@ -10298,6 +10329,7 @@ https://www.nt.ndw.nu
 https://www.nu.venlo.nl
 https://www.nunspeet.nl
 https://www.nutriscorevoorbedrijven.nl
+https://www.nvwa.nl
 https://www.nwro.velsen.nl
 https://www.oco.eindhoven.nl
 https://www.oefenenmetstemmen.denhaag.nl
@@ -10326,6 +10358,7 @@ https://www.oostbegroot.amsterdam.nl
 https://www.oosterhout.nl
 https://www.oostgelre.nl
 https://www.oostzaan.nl
+https://www.openbare-inspectieresultaten.nvwa.nl
 https://www.openstad.deventer.nl
 https://www.openstad.gemeentewestland.nl
 https://www.openstad.haarlemmermeer.nl
@@ -10364,6 +10397,7 @@ https://www.raad.bergendal.nl
 https://www.raad.middendrenthe.nl
 https://www.raadsakkoord.veenendaal.nl
 https://www.raalte.nl
+https://www.ras-acc.nvwa.nl
 https://www.rcgog.nl
 https://www.regentesseplein.denhaag.nl
 https://www.regiocheckervth.denhaag.nl

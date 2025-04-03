@@ -136,11 +136,13 @@ https://acc.beeldbellen.dji.nl
 https://acc.client.archis.cultureelerfgoed.nl
 https://acc.e-loket.ilent.nl
 https://acc.informatieservice.nederlandwereldwijd.nl
+https://acc.inspectieresultaten.nvwa.nl
 https://acc.monumentenregister.cultureelerfgoed.nl
 https://acc.ncsc.nl
 https://acc.omgevingswet.overheid.nl
 https://acc.opendata.nederlandwereldwijd.nl
 https://acc.stor.services.cultureelerfgoed.nl
+https://acc2.inspectieresultaten.nvwa.nl
 https://acceptatie.abonnee.dezi.nl
 https://acceptatie.advieswijzer.bigregister.nl
 https://acceptatie.api.bigregister.nl
@@ -522,6 +524,9 @@ https://dva.belastingdienst.nl
 https://dvfz.dji.nl
 https://dwangindezorg.nl
 https://dwo.ctgb.nl
+https://e-certnl-acc.nvwa.nl
+https://e-certnl-sch.nvwa.nl
+https://e-certnl.nvwa.nl
 https://e-loket.ilent.nl
 https://e-mailabonnementen.rijksoverheid.nl
 https://e-maildiensten.rijksoverheid.nl
@@ -596,6 +601,7 @@ https://english.ncsc.nl
 https://english.nctv.nl
 https://english.ndw.nu
 https://english.nrgd.nl
+https://english.nvwa.nl
 https://english.sso3w.nl
 https://enterpriseenrollment.cbg-meb.nl
 https://enterpriseregistration.belastingdienst.nl
@@ -752,6 +758,7 @@ https://feeds.english.ncsc.nl
 https://feeds.english.nctv.nl
 https://feeds.english.ndw.nu
 https://feeds.english.nrgd.nl
+https://feeds.english.nvwa.nl
 https://feeds.english.sso3w.nl
 https://feeds.erfgoeddeal.nl
 https://feeds.euthanasiecommissie.nl
@@ -853,6 +860,7 @@ https://feeds.nllabourauthority.nl
 https://feeds.nponderwijs.nl
 https://feeds.nrgd.nl
 https://feeds.nutriscorevoorbedrijven.nl
+https://feeds.nvwa.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.papiamentu.mijncn.nl
 https://feeds.persberichten.rijksoverheid.nl
@@ -878,12 +886,14 @@ https://forensischezorg.nl
 https://forensischinstituut.nl
 https://forms.iplo.nl
 https://forms.klopt.cibg.nl
+https://forms.nvwa.nl
 https://formulier.cultureelerfgoed.nl
 https://formulier.emissieautoriteit.nl
 https://formulier.werkenvoornederland.nl
 https://formulieren.brabant.nl
 https://formulieren.flevoland.nl
 https://formulieren.limburg.nl
+https://formulieren.nvwa.nl
 https://foto-opdracht.cultureelerfgoed.nl
 https://fs.ctgb.nl
 https://fsvportaal.belastingdienst.nl
@@ -990,6 +1000,7 @@ https://inspecteur.ilent.nl
 https://inspectie-jenv.nl
 https://inspectie-oe.nl
 https://inspectiebtd.nl
+https://inspectieresultaten.nvwa.nl
 https://instroom.belastingdienst.nl
 https://int.omgevingswet.overheid.nl
 https://int02.omgevingswet.overheid.nl
@@ -1017,6 +1028,10 @@ https://intranet.nationaalcoordinatorgroningen.nl
 https://iob-evaluatie.nl
 https://iob.justid.nl
 https://it-academieoverheid.nl
+https://ivo-acc.nvwa.nl
+https://ivo.nvwa.nl
+https://iwelcome-preprod.nvwa.nl
+https://iwelcome.nvwa.nl
 https://jaarverantwoordingzorg.nl
 https://jaarverslag2017.flevoland.nl
 https://jaarverslag2018.flevoland.nl
@@ -1061,6 +1076,7 @@ https://koopoverheid.nl
 https://koppelvlak-asl.overheid.nl
 https://koppelvlak.overheid.nl
 https://kwaliteitsdashboard-koop.overheid.nl
+https://labvantage-acc.nvwa.nl
 https://le-webservices-beta.belastingdienst.nl
 https://le-webservices.belastingdienst.nl
 https://leefbaarenveilig.nl
@@ -1111,6 +1127,7 @@ https://magazines.jeugdautoriteit.nl
 https://magazines.kinderbescherming.nl
 https://magazines.ncsc.nl
 https://magazines.nctv.nl
+https://magazines.nvwa.nl
 https://magazines.rijksoverheid.nl
 https://magazines.werkenvoornederland.nl
 https://magazinesintern.rijksoverheid.nl
@@ -1159,6 +1176,7 @@ https://mijn.huurcommissie.nl
 https://mijn.igj.nl
 https://mijn.ncsc.nl
 https://mijn.ndw.nu
+https://mijn.nvwa.nl
 https://mijn.overheid.nl
 https://mijn.test.ncsc.nl
 https://mijn.toeslagen.nl
@@ -1239,6 +1257,7 @@ https://nrgd.nl
 https://nt.ndw.nu
 https://ntm.ndw.nu
 https://nutriscorevoorbedrijven.nl
+https://nvwa.nl
 https://oa.aaenmaas.nl
 https://odb.belastingdienst.nl
 https://odc.werkenvoornederland.nl
@@ -1261,6 +1280,7 @@ https://open-acc.overheid.nl
 https://open-data.ndw.nu
 https://open.brabant.nl
 https://open.overheid.nl
+https://openbare-inspectieresultaten.nvwa.nl
 https://opendata.a2vonderenkerensheide.nl
 https://opendata.aanbiedersmedicijnen.nl
 https://opendata.aboutnetherlandscustoms.nl
@@ -1381,6 +1401,7 @@ https://opendata.english.ncsc.nl
 https://opendata.english.nctv.nl
 https://opendata.english.ndw.nu
 https://opendata.english.nrgd.nl
+https://opendata.english.nvwa.nl
 https://opendata.english.sso3w.nl
 https://opendata.euthanasiecommissie.nl
 https://opendata.excellentescholen.nl
@@ -1482,6 +1503,7 @@ https://opendata.nllabourauthority.nl
 https://opendata.nponderwijs.nl
 https://opendata.nrgd.nl
 https://opendata.nutriscorevoorbedrijven.nl
+https://opendata.nvwa.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.papiamentu.mijncn.nl
 https://opendata.persberichten.rijksoverheid.nl
@@ -1587,6 +1609,8 @@ https://put-kpi-dashboard.ndw.nu
 https://raadplegen.donorregister.nl
 https://radicaalofpuberaal.nctv.nl
 https://rapporteursnet.nifp.nl
+https://ras-acc.nvwa.nl
+https://ras.nvwa.nl
 https://rcgog.nl
 https://rd1.toegang.overheid.nl
 https://rd2.toegang.overheid.nl
@@ -1623,6 +1647,7 @@ https://ruimte.kta.omgevingswet.overheid.nl
 https://ruimte.omgevingswet.overheid.nl
 https://ruimte.pfm.omgevingswet.overheid.nl
 https://ruimte.pre.omgevingswet.overheid.nl
+https://rvdmschaduwdraaien.nvwa.nl
 https://rw.belastingdienst.nl
 https://rwbg.flevoland.nl
 https://rwn.belastingdienst.nl
@@ -1678,6 +1703,7 @@ https://signing.pre.brabant.nl
 https://slim-reizen.ndw.nu
 https://smtp.awti.nl
 https://smtp1.awti.nl
+https://soap.openbare-inspectieresultaten.nvwa.nl
 https://social.overheid.nl
 https://sonar.ndw.nu
 https://sorry.belastingdienst.nl
@@ -1754,6 +1780,7 @@ https://test.kennis.cultureelerfgoed.nl
 https://test.monumentenregister.cultureelerfgoed.nl
 https://test.ncsc.nl
 https://test.nl-alert.nl
+https://test.openbare-inspectieresultaten.nvwa.nl
 https://test.portaal.nlarbeidsinspectie.nl
 https://test.resultaten.nlarbeidsinspectie.nl
 https://testbegrippen.hdsr.nl
@@ -1809,9 +1836,12 @@ https://verkoop.domeinenrz.nl
 https://verkooptest.domeinenrz.nl
 https://verleendekinderopvang.belastingdienst.nl
 https://verzekeringsproducten.belastingdienst.nl
+https://vgc-acc.nvwa.nl
+https://vgc.nvwa.nl
 https://video-acc.beeldbellen.dji.nl
 https://video.beeldbellen.dji.nl
 https://videobellen.belastingdienst.nl
+https://videoleren.nvwa.nl
 https://vild.ndw.nu
 https://vinden.belastingdienst.nl
 https://viz.ndw.nu
@@ -2026,6 +2056,7 @@ https://www.informatiehuishouding.nl
 https://www.inspectie-jenv.nl
 https://www.inspectie-oe.nl
 https://www.inspectiebtd.nl
+https://www.inspectieresultaten.nvwa.nl
 https://www.int.omgevingswet.overheid.nl
 https://www.int02.omgevingswet.overheid.nl
 https://www.int12.omgevingswet.overheid.nl
@@ -2111,11 +2142,14 @@ https://www.nponderwijs.nl
 https://www.nrgd.nl
 https://www.nt.ndw.nu
 https://www.nutriscorevoorbedrijven.nl
+https://www.nvwa.nl
 https://www.omgevingsplan.flevoland.nl
 https://www.omgevingswet.overheid.nl
+https://www.openbare-inspectieresultaten.nvwa.nl
 https://www.overheid.nl
 https://www.perf.omgevingswet.overheid.nl
 https://www.pre.omgevingswet.overheid.nl
+https://www.ras-acc.nvwa.nl
 https://www.rcgog.nl
 https://www.rijksoverheid.nl
 https://www.test.monumentenregister.cultureelerfgoed.nl

@@ -652,6 +652,7 @@ acc.iam.amsterdam.nl
 acc.id.amsterdam.nl
 acc.images.data.amsterdam.nl
 acc.informatieservice.nederlandwereldwijd.nl
+acc.inspectieresultaten.nvwa.nl
 acc.intern.venlo.nl
 acc.io.amsterdam.nl
 acc.iris.data.amsterdam.nl
@@ -777,6 +778,7 @@ acc.zxy-cloud.amsterdam.nl
 acc0.mijn.overheid.nl
 acc1.mijn.overheid.nl
 acc1.picard.mijn.overheid.nl
+acc2.inspectieresultaten.nvwa.nl
 acc2.mijn.overheid.nl
 acc3.mijn.overheid.nl
 acc4.mijn.overheid.nl
@@ -4986,6 +4988,9 @@ dwh.groningen.nl
 dwi.amsterdam.nl
 dwiweb.amsterdam.nl
 dwo.ctgb.nl
+e-certnl-acc.nvwa.nl
+e-certnl-sch.nvwa.nl
+e-certnl.nvwa.nl
 e-depot.rotterdam.nl
 e-dfs-p-01.adds.amsterdam.nl
 e-dfs-p-01.amsterdam.nl
@@ -5611,6 +5616,7 @@ english.ncsc.nl
 english.nctv.nl
 english.ndw.nu
 english.nrgd.nl
+english.nvwa.nl
 english.sso3w.nl
 enkhuizen.nl
 enquete-acc.denhaag.nl
@@ -6033,6 +6039,7 @@ feeds.english.ncsc.nl
 feeds.english.nctv.nl
 feeds.english.ndw.nu
 feeds.english.nrgd.nl
+feeds.english.nvwa.nl
 feeds.english.sso3w.nl
 feeds.erfgoeddeal.nl
 feeds.euthanasiecommissie.nl
@@ -6134,6 +6141,7 @@ feeds.nllabourauthority.nl
 feeds.nponderwijs.nl
 feeds.nrgd.nl
 feeds.nutriscorevoorbedrijven.nl
+feeds.nvwa.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.papiamentu.mijncn.nl
 feeds.persberichten.rijksoverheid.nl
@@ -6415,6 +6423,7 @@ forensischinstituut.nl
 form-gemeenteloket.gemeentemaastricht.nl
 form.denhaag.nl
 form.sudwestfryslan.nl
+forms-acc.nvwa.nl
 forms-test.druten.nl
 forms-test.wijchen.nl
 forms.deventer.nl
@@ -6422,6 +6431,7 @@ forms.druten.nl
 forms.hhdelfland.nl
 forms.iplo.nl
 forms.klopt.cibg.nl
+forms.nvwa.nl
 forms.vga.amsterdam.nl
 forms.wijchen.nl
 formulier-acc.ede.nl
@@ -6456,6 +6466,7 @@ formulier.werkenvoornederland.nl
 formulier.zwolle.nl
 formulieracc.breda.nl
 formulieren-acc.hoorn.nl
+formulieren-acc.nvwa.nl
 formulieren-g4-acc.amsterdam.nl
 formulieren-g4-acc.utrecht.nl
 formulieren-g4.utrecht.nl
@@ -6515,6 +6526,7 @@ formulieren.montferland.info
 formulieren.nissewaard.nl
 formulieren.noordoostpolder.nl
 formulieren.nunspeet.nl
+formulieren.nvwa.nl
 formulieren.olst-wijhe.nl
 formulieren.oostzaan.nl
 formulieren.opsterland.nl
@@ -7616,6 +7628,7 @@ hybrid2.montfoort.nl
 hybrid2.zuidplas.nl
 hybridexo.haarlem.nl
 hybridmail.amersfoort.nl
+i-certnl.nvwa.nl
 i-cms.defensie.nl
 i-cms.rijksoverheid.nl
 i-cms1.defensie.nl
@@ -8304,6 +8317,7 @@ inspecteur.ilent.nl
 inspectie-jenv.nl
 inspectie-oe.nl
 inspectiebtd.nl
+inspectieresultaten.nvwa.nl
 inspraakmaatregel15.amsterdam.nl
 instroom.belastingdienst.nl
 int-acc-01.flevoland.nl
@@ -8621,7 +8635,11 @@ itp-acc.ilent.nl
 itp.ilent.nl
 itstore.kaagenbraassem.nl
 iverblijf.heuvelrug.nl
+ivo-acc.nvwa.nl
+ivo.nvwa.nl
 ivor.veenendaal.nl
+iwelcome-preprod.nvwa.nl
+iwelcome.nvwa.nl
 izaaksuite.alkmaar.nl
 izaaksuite.bergenopzoom.nl
 izaaksuite.bronckhorst.nl
@@ -9141,6 +9159,8 @@ laakhavensbepaalt.denhaag.nl
 laarbeek.nl
 lab.tod.leiden.nl
 labelwastexl.sudwestfryslan.nl
+labvantage-acc.nvwa.nl
+labvantage.nvwa.nl
 lan.schagen.nl
 landgraaf.nl
 landhorst.landvancuijk.nl
@@ -9579,6 +9599,7 @@ magazines.jeugdautoriteit.nl
 magazines.kinderbescherming.nl
 magazines.ncsc.nl
 magazines.nctv.nl
+magazines.nvwa.nl
 magazines.rijksoverheid.nl
 magazines.rotterdam.nl
 magazines.werkenvoornederland.nl
@@ -9773,6 +9794,7 @@ mailrelay.helmond.nl
 mailrelay1.overheid.nl
 mailrelay2.overheid.nl
 mailscan.gemeentehulst.nl
+mailserver.service.nvwa.nl
 mailsig.lansingerland.nl
 mailvan.winterswijk.nl
 maisflexis.heusden.nl
@@ -10130,6 +10152,7 @@ midofficetst.velsen.nl
 mijn-aanvraag.belastingdienst.nl
 mijn-acc.groningen.nl
 mijn-acc.igj.nl
+mijn-acc.nvwa.nl
 mijn-acc.overbetuwe.nl
 mijn-acc.sittard-geleen.nl
 mijn-acc1.belastingdienst.nl
@@ -10233,6 +10256,7 @@ mijn.ndw.nu
 mijn.nijmegen.nl
 mijn.noordwijk.nl
 mijn.nunspeet.nl
+mijn.nvwa.nl
 mijn.oldenzaal.nl
 mijn.ommen.nl
 mijn.ont.belastingdienst.nl
@@ -11119,6 +11143,7 @@ nunspeet-checker-preprod.nunspeet.nl
 nunspeet-checker.nunspeet.nl
 nunspeet.nl
 nutriscorevoorbedrijven.nl
+nvwa.nl
 nw.haarlemmermeer.nl
 nwk-djm02.nieuwkoop.nl
 nwrar-acc.ncsc.nl
@@ -11516,6 +11541,7 @@ open.zuidplas.nl
 open.zutphen.nl
 openagenda.ridderkerk.nl
 openbaartoilet.zutphen.nl
+openbare-inspectieresultaten.nvwa.nl
 openbareruimte.deventer.nl
 openburgerzaken.zwolle.nl
 opencatalogi.rotterdam.nl
@@ -11644,6 +11670,7 @@ opendata.english.ncsc.nl
 opendata.english.nctv.nl
 opendata.english.ndw.nu
 opendata.english.nrgd.nl
+opendata.english.nvwa.nl
 opendata.english.sso3w.nl
 opendata.euthanasiecommissie.nl
 opendata.excellentescholen.nl
@@ -11748,6 +11775,7 @@ opendata.nllabourauthority.nl
 opendata.nponderwijs.nl
 opendata.nrgd.nl
 opendata.nutriscorevoorbedrijven.nl
+opendata.nvwa.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.papiamentu.mijncn.nl
 opendata.persberichten.rijksoverheid.nl
@@ -13274,7 +13302,9 @@ rap.gemeentesluis.nl
 rap.haarlemmermeer.nl
 rap.montferland.info
 rapporteursnet.nifp.nl
+ras-acc.nvwa.nl
 ras.domeinenrz.nl
+ras.nvwa.nl
 ras2.domeinenrz.nl
 raster.horstaandemaas.nl
 rat.belastingdienst.nl
@@ -13562,6 +13592,7 @@ ruimtelijkeplannen.voerendaal.nl
 ruimtevoorjou.groningen.nl
 ruimtevoorwerken.stichtsevecht.nl
 rut.belastingdienst.nl
+rvdmschaduwdraaien.nvwa.nl
 rvig-productie.belastingdienst.nl
 rvig-proeftuin.belastingdienst.nl
 rvig.proeftuin.belastingdienst.nl
@@ -14527,6 +14558,7 @@ sngtest.zoetermeer.nl
 snow-license.amsterdam.nl
 snowagent.denhaag.nl
 snowinv.utrecht.nl
+soap.openbare-inspectieresultaten.nvwa.nl
 soc.amsterdam.nl
 soc.brievenbus.amsterdam.nl
 sociaal.amsterdam.nl
@@ -15508,6 +15540,7 @@ test.nl-alert.nl
 test.nuenen.nl
 test.open-formulieren.noordoostpolder.nl
 test.open-formulieren.vught.nl
+test.openbare-inspectieresultaten.nvwa.nl
 test.oss.nl
 test.ouder-amstel.nl
 test.pekela.nl
@@ -16253,6 +16286,8 @@ verzekeringsproducten.acc.belastingdienst.nl
 verzekeringsproducten.belastingdienst.nl
 vf.heitje.heerlen.nl
 vga.amsterdam.nl
+vgc-acc.nvwa.nl
+vgc.nvwa.nl
 via.geertruidenberg.nl
 via2008pilot-test2.belastingdienst.nl
 via2008pilot.belastingdienst.nl
@@ -16271,6 +16306,7 @@ videobellen.waadhoeke.nl
 videobellenwsd.utrecht.nl
 videodocs.houten.nl
 videogesprek.haarlem.nl
+videoleren.nvwa.nl
 videoserver.brabant.nl
 videoserver2.brabant.nl
 vierdaagse.landvancuijk.nl
@@ -16425,6 +16461,7 @@ vthbroker.hardinxveld-giessendam.nl
 vthbroker.papendrecht.nl
 vthbroker.sliedrecht.nl
 vthbroker.zwijndrecht.nl
+vtrack.nvwa.nl
 vts-beheer.belastingdienst.nl
 vts.belastingdienst.nl
 vtsd.belastingdienst.nl
@@ -17959,6 +17996,7 @@ www.inproces-digeplan.overbetuwe.nl
 www.inspectie-jenv.nl
 www.inspectie-oe.nl
 www.inspectiebtd.nl
+www.inspectieresultaten.nvwa.nl
 www.inspraakmaatregel15.amsterdam.nl
 www.int.omgevingswet.overheid.nl
 www.int02.omgevingswet.overheid.nl
@@ -18224,6 +18262,7 @@ www.nu.venlo.nl
 www.nuenen.nl
 www.nunspeet.nl
 www.nutriscorevoorbedrijven.nl
+www.nvwa.nl
 www.nwro.velsen.nl
 www.oco.eindhoven.nl
 www.oefenenmetstemmen.denhaag.nl
@@ -18266,6 +18305,7 @@ www.open-notificaties.ot.denhaag.nl
 www.open-zaak.ot.denhaag.nl
 www.open.amsterdam.nl
 www.open.rhenen.nl
+www.openbare-inspectieresultaten.nvwa.nl
 www.opendata.brabant.nl
 www.openmonumentendag.amsterdam.nl
 www.openstad.deventer.nl
@@ -18365,6 +18405,7 @@ www.raadsakkoord.veenendaal.nl
 www.raalte.nl
 www.radius.overbetuwe.nl
 www.rap.haarlemmermeer.nl
+www.ras-acc.nvwa.nl
 www.rcgog.nl
 www.rdsportal.haarlemmermeer.nl
 www.regelgeving.amsterdam.nl
