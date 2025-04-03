@@ -71,10 +71,10 @@ meldingen-acc
 openpdc
 belastingbalie
 cmsoo
+magazines
 loket.acceptatie
 openpub
 omgevingsvisie
-magazines
 digikoppeling-test
 cloudadapter-test
 hybrid

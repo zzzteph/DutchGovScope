@@ -4032,6 +4032,7 @@ https://feeds.opwegnaarseb.nl
 https://feeds.ordz.nl
 https://feeds.overalsnelinternet.nl
 https://feeds.overdedouane.nl
+https://feeds.overheidvannu.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.papiamentu.mijncn.nl
 https://feeds.persberichten.rijksoverheid.nl
@@ -5827,6 +5828,7 @@ https://magazines.nctv.nl
 https://magazines.nvwa.nl
 https://magazines.nza.nl
 https://magazines.onderwijsinspectie.nl
+https://magazines.overheidvannu.nl
 https://magazines.rijksoverheid.nl
 https://magazines.rotterdam.nl
 https://magazines.werkenvoornederland.nl
@@ -7174,6 +7176,7 @@ https://opendata.opwegnaarseb.nl
 https://opendata.ordz.nl
 https://opendata.overalsnelinternet.nl
 https://opendata.overdedouane.nl
+https://opendata.overheidvannu.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.papiamentu.mijncn.nl
 https://opendata.persberichten.rijksoverheid.nl
@@ -7352,6 +7355,7 @@ https://overalsnelinternet.nl
 https://overdedouane.nl
 https://overdrachtsdocument2022.s-hertogenbosch.nl
 https://overheid.nl
+https://overheidvannu.nl
 https://overloon.landvancuijk.nl
 https://ovverklaringen.belastingdienst.nl
 https://owa.groningen.nl
@@ -10554,6 +10558,7 @@ https://www.ov-consumentenplatform.nl
 https://www.overalsnelinternet.nl
 https://www.overdedouane.nl
 https://www.overheid.nl
+https://www.overheidvannu.nl
 https://www.papendrecht.nl
 https://www.parkeren.sudwestfryslan.nl
 https://www.peelenmaas.nl
