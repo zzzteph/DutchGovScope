@@ -64,13 +64,13 @@ dloket
 dmidoffice
 enterpriseregistration
 login
+beeldbank
 osb
 api.meldingen-acc
 meldingen-acc
 openpdc
 belastingbalie
 cmsoo
-beeldbank
 loket.acceptatie
 openpub
 omgevingsvisie

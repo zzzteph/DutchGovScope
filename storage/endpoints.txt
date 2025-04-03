@@ -1788,6 +1788,7 @@ https://beeldbank.landvancuijk.nl
 https://beeldbank.leeuwarden.nl
 https://beeldbank.leiden.nl
 https://beeldbank.loonopzand.nl
+https://beeldbank.nimh.nl
 https://beeldbank.oegstgeest.nl
 https://beeldbank.putten.nl
 https://beeldbank.rotterdam.nl
@@ -3957,6 +3958,7 @@ https://feeds.netwerkplatteland.nl
 https://feeds.nieuwsbrieven.rijkswaterstaat.nl
 https://feeds.nieuwsbrievenminocw.nl
 https://feeds.nifp.nl
+https://feeds.nimh.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.papiamentu.mijncn.nl
 https://feeds.persberichten.rijksoverheid.nl
@@ -6453,6 +6455,7 @@ https://nieuwzaansklimaat.zaanstad.nl
 https://nifp.nl
 https://nijmegen.nl
 https://nimh-beeldbank.defensie.nl
+https://nimh.nl
 https://nimmaleert.nijmegen.nl
 https://nissewaard.nl
 https://nlgembrl.brielle.nl
@@ -6991,6 +6994,7 @@ https://opendata.nieuwsbrieven.rijkswaterstaat.nl
 https://opendata.nieuwsbrievenminocw.nl
 https://opendata.nifp.nl
 https://opendata.nijmegen.nl
+https://opendata.nimh.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.papiamentu.mijncn.nl
 https://opendata.persberichten.rijksoverheid.nl
@@ -10232,6 +10236,7 @@ https://www.nieuwsbrievenminocw.nl
 https://www.nifp.nl
 https://www.nijkerk.eu
 https://www.nijmegen.nl
+https://www.nimh.nl
 https://www.nimmaleert.nijmegen.nl
 https://www.nissewaard.nl
 https://www.noardeast-fryslan.nl

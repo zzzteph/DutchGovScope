@@ -547,6 +547,7 @@ beeldbank-bo.hhdelfland.nl
 beeldbank.brabant.nl
 beeldbank.cultureelerfgoed.nl
 beeldbank.hhdelfland.nl
+beeldbank.nimh.nl
 beeldbellen.dji.nl
 begrippen.hdsr.nl
 begroting.brabant.nl
@@ -1383,6 +1384,7 @@ feeds.netwerkplatteland.nl
 feeds.nieuwsbrieven.rijkswaterstaat.nl
 feeds.nieuwsbrievenminocw.nl
 feeds.nifp.nl
+feeds.nimh.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.papiamentu.mijncn.nl
 feeds.persberichten.rijksoverheid.nl
@@ -2207,6 +2209,7 @@ nieuwsbrieven.limburg.nl
 nieuwsbrievenminocw.nl
 nifp.nl
 nimh-beeldbank.defensie.nl
+nimh.nl
 nls.ndw.nu
 nnn.flevoland.nl
 noaa.cultureelerfgoed.nl
@@ -2495,6 +2498,7 @@ opendata.netwerkplatteland.nl
 opendata.nieuwsbrieven.rijkswaterstaat.nl
 opendata.nieuwsbrievenminocw.nl
 opendata.nifp.nl
+opendata.nimh.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.papiamentu.mijncn.nl
 opendata.persberichten.rijksoverheid.nl
@@ -3659,6 +3663,7 @@ www.netherlandsworldwide.nl
 www.netwerkplatteland.nl
 www.nieuwsbrievenminocw.nl
 www.nifp.nl
+www.nimh.nl
 www.nt.ndw.nu
 www.officiele-overheidspublicaties.nl
 www.omgevingsplan.flevoland.nl

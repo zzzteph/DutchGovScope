@@ -266,6 +266,7 @@ https://beeldbank-bo.hhdelfland.nl
 https://beeldbank.brabant.nl
 https://beeldbank.cultureelerfgoed.nl
 https://beeldbank.hhdelfland.nl
+https://beeldbank.nimh.nl
 https://beeldbellen.dji.nl
 https://begrippen.hdsr.nl
 https://begroting.brabant.nl
@@ -837,6 +838,7 @@ https://feeds.netwerkplatteland.nl
 https://feeds.nieuwsbrieven.rijkswaterstaat.nl
 https://feeds.nieuwsbrievenminocw.nl
 https://feeds.nifp.nl
+https://feeds.nimh.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.papiamentu.mijncn.nl
 https://feeds.persberichten.rijksoverheid.nl
@@ -1208,6 +1210,7 @@ https://nieuwsbrieven.limburg.nl
 https://nieuwsbrievenminocw.nl
 https://nifp.nl
 https://nimh-beeldbank.defensie.nl
+https://nimh.nl
 https://nls.ndw.nu
 https://nnn.flevoland.nl
 https://noaa.cultureelerfgoed.nl
@@ -1445,6 +1448,7 @@ https://opendata.netwerkplatteland.nl
 https://opendata.nieuwsbrieven.rijkswaterstaat.nl
 https://opendata.nieuwsbrievenminocw.nl
 https://opendata.nifp.nl
+https://opendata.nimh.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.papiamentu.mijncn.nl
 https://opendata.persberichten.rijksoverheid.nl
@@ -2055,6 +2059,7 @@ https://www.netherlandsworldwide.nl
 https://www.netwerkplatteland.nl
 https://www.nieuwsbrievenminocw.nl
 https://www.nifp.nl
+https://www.nimh.nl
 https://www.nt.ndw.nu
 https://www.omgevingsplan.flevoland.nl
 https://www.omgevingswet.overheid.nl
