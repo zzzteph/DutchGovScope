@@ -1366,6 +1366,7 @@ feeds.ncpeh.nl
 feeds.ncsc.nl
 feeds.nctv.nl
 feeds.ndw.nu
+feeds.nederlanddigitaal.nl
 feeds.nieuwsbrievenminocw.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.papiamentu.mijncn.nl
@@ -2178,6 +2179,7 @@ nctv.nl
 ndn-onderzoek.ncsc.nl
 ndw.nu
 ndwviewer.ndw.nu
+nederlanddigitaal.nl
 new.mensenrechten.nl
 nexus.lpc.logius.nl
 nhr.flevoland.nl
@@ -2463,6 +2465,7 @@ opendata.ncpeh.nl
 opendata.ncsc.nl
 opendata.nctv.nl
 opendata.ndw.nu
+opendata.nederlanddigitaal.nl
 opendata.nieuwsbrievenminocw.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.papiamentu.mijncn.nl
@@ -3614,6 +3617,7 @@ www.ncpeh.nl
 www.ncsc.nl
 www.nctv.nl
 www.ndw.nu
+www.nederlanddigitaal.nl
 www.nieuwsbrievenminocw.nl
 www.nt.ndw.nu
 www.officiele-overheidspublicaties.nl
