@@ -82,9 +82,9 @@ kaart
 formulier
 connect
 flowmailer-tracking
+portaal
 kaarten
 zaken
-portaal
 cloudadapter
 cmsintranet
 test-intranet
@@ -163,6 +163,7 @@ AutoDiscover
 auth
 keycloak
 transfer
+gis
 gisib
 izaaksuite
 subsidies
@@ -179,13 +180,13 @@ jaarstukken
 cryptshare
 fs
 kennisbank
+meet
 legacy
 mobile
 telewerken
 mx1
 belastingportaal
 openzaak
-gis
 acc-contact
 acc-keycloak
 acc-openklant
@@ -204,7 +205,7 @@ a-feeds.a-english
 a-opendata.a-english
 evenementen
 webservices
-meet
+dialin
 intranet-acc
 college
 bis
@@ -219,7 +220,6 @@ bestuur
 afspraakmaken
 m
 website
-dialin
 publicaties
 wachtwoord
 archief
@@ -556,6 +556,7 @@ koppelvlak
 social
 zoek
 helloid
+lync
 feeds.papiamentu
 opendata.papiamentu
 papiamentu
@@ -859,7 +860,6 @@ repository
 stijlgids
 verkeersbesluiten
 zoekservice
-lync
 oa
 vpn2
 chw
