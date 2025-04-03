@@ -6278,6 +6278,7 @@ feeds.rcihh.nl
 feeds.rda.nl
 feeds.rdi.nl
 feeds.regelhulp.nl
+feeds.regiosaandegrens.nl
 feeds.rijksoverheid.nl
 felix.aalten.nl
 felix.achtkarspelen.nl
@@ -12080,6 +12081,7 @@ opendata.rcihh.nl
 opendata.rda.nl
 opendata.rdi.nl
 opendata.regelhulp.nl
+opendata.regiosaandegrens.nl
 opendata.rijksoverheid.nl
 opendata.roosendaal.nl
 opendata.utrecht.nl
@@ -13708,6 +13710,7 @@ regio.landvancuijk.nl
 regiocheckervth-acc.denhaag.nl
 regiocheckervth.denhaag.nl
 regiomonitor-acc.oosterhout.nl
+regiosaandegrens.nl
 regiotaxi.flevoland.nl
 regiotramutrecht.provincie-utrecht.nl
 register.venlo.nl
@@ -18871,6 +18874,7 @@ www.regelgeving.amsterdam.nl
 www.regelhulp.nl
 www.regentesseplein.denhaag.nl
 www.regiocheckervth.denhaag.nl
+www.regiosaandegrens.nl
 www.reimerswaal.nl
 www.rekenkamer.amsterdam.nl
 www.rekenkamer.rotterdam.nl
