@@ -6128,6 +6128,7 @@ feeds.nl-alert.nl
 feeds.nl-works.com
 feeds.nlarbeidsinspectie.nl
 feeds.nlinfrankrijk.nl
+feeds.nllabourauthority.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.papiamentu.mijncn.nl
 feeds.persberichten.rijksoverheid.nl
@@ -11011,6 +11012,7 @@ nlgembrn.borne.nl
 nlgemctc.castricum.nl
 nlgemzdv.intern.zandvoort.nl
 nlinfrankrijk.nl
+nllabourauthority.nl
 nllwd-spider.leeuwarden.nl
 nlmwlkeb.kaagenbraassem.nl
 nln.nunspeet.nl
@@ -11732,6 +11734,7 @@ opendata.nl-alert.nl
 opendata.nl-works.com
 opendata.nlarbeidsinspectie.nl
 opendata.nlinfrankrijk.nl
+opendata.nllabourauthority.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.papiamentu.mijncn.nl
 opendata.persberichten.rijksoverheid.nl
@@ -18193,6 +18196,7 @@ www.nl-alert.nl
 www.nl-works.com
 www.nlarbeidsinspectie.nl
 www.nlinfrankrijk.nl
+www.nllabourauthority.nl
 www.noardeast-fryslan.nl
 www.noord-beveland.nl
 www.noorderkwartier.zwolle.nl

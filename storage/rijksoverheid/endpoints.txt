@@ -847,6 +847,7 @@ https://feeds.nl-alert.nl
 https://feeds.nl-works.com
 https://feeds.nlarbeidsinspectie.nl
 https://feeds.nlinfrankrijk.nl
+https://feeds.nllabourauthority.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.papiamentu.mijncn.nl
 https://feeds.persberichten.rijksoverheid.nl
@@ -1223,6 +1224,7 @@ https://nix18.nl
 https://nl-alert.nl
 https://nlarbeidsinspectie.nl
 https://nlinfrankrijk.nl
+https://nllabourauthority.nl
 https://nls.ndw.nu
 https://nnn.flevoland.nl
 https://noaa.cultureelerfgoed.nl
@@ -1466,6 +1468,7 @@ https://opendata.nl-alert.nl
 https://opendata.nl-works.com
 https://opendata.nlarbeidsinspectie.nl
 https://opendata.nlinfrankrijk.nl
+https://opendata.nllabourauthority.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.papiamentu.mijncn.nl
 https://opendata.persberichten.rijksoverheid.nl
@@ -2090,6 +2093,7 @@ https://www.nl-alert.nl
 https://www.nl-works.com
 https://www.nlarbeidsinspectie.nl
 https://www.nlinfrankrijk.nl
+https://www.nllabourauthority.nl
 https://www.nt.ndw.nu
 https://www.omgevingsplan.flevoland.nl
 https://www.omgevingswet.overheid.nl
