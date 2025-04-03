@@ -27,6 +27,7 @@ http://autodiscover.hdsr.nl
 http://autodiscover.hhdelfland.nl
 http://autodiscover.nza.nl
 http://autodiscover.odijmond.nl
+http://autodiscover.ofgv.nl
 http://bzv-a.brabant.nl
 http://ca-devportal-pre.logius.nl
 http://ca-devportal.logius.nl
@@ -50,6 +51,7 @@ http://eagle-acc.dji.nl
 http://eagle.dji.nl
 http://embraceintranet.flevoland.nl
 http://formulier-beheer.dus-i.nl
+http://ftp.ofgv.nl
 http://geo2.flevoland.nl
 http://git-az1.lpc.logius.nl
 http://git-az2.lpc.logius.nl
@@ -617,6 +619,7 @@ https://english.nrgd.nl
 https://english.nvwa.nl
 https://english.sso3w.nl
 https://enterpriseenrollment.cbg-meb.nl
+https://enterpriseenrollment.ofgv.nl
 https://enterpriseregistration.belastingdienst.nl
 https://enterpriseregistration.domeinenrz.nl
 https://eovgb-acc.aivd.nl
@@ -1085,6 +1088,7 @@ https://kennis.nponderwijs.nl
 https://kennisbank.hhdelfland.nl
 https://kennisbank.logius.nl
 https://kennisbankterrorisme.nctv.nl
+https://kenniscentrum.ofgv.nl
 https://kennisgroepen.belastingdienst.nl
 https://kennisnetwerk.belastingdienst.nl
 https://kennisvandeoverheid.nl
@@ -1310,6 +1314,7 @@ https://odin.odmh.nl
 https://odmh.nl
 https://oecdguidelines.nl
 https://oesorichtlijnen.nl
+https://ofgv.nl
 https://oinregister.logius.nl
 https://omgevingsplan.flevoland.nl
 https://omgevingswet.overheid.nl
@@ -1679,6 +1684,7 @@ https://redactie-tl.iplo.nl
 https://redactie.hdsr.nl
 https://redactie.odijmond.nl
 https://redactie.odmh.nl
+https://redactie.ofgv.nl
 https://referendum-backoffice.limburg.nl
 https://referendum.limburg.nl
 https://referentiegegevens.justid.nl
@@ -1939,6 +1945,7 @@ https://webgis.aaenmaas.nl
 https://webgisacc.aaenmaas.nl
 https://webmail.brabant.nl
 https://webmail.flevoland.nl
+https://webmail.ofgv.nl
 https://webservices.bigregister.nl
 https://webservices.hdsr.nl
 https://website.belastingdienst.nl
@@ -2217,6 +2224,7 @@ https://www.odijmond.nl
 https://www.odmh.nl
 https://www.oecdguidelines.nl
 https://www.oesorichtlijnen.nl
+https://www.ofgv.nl
 https://www.omgevingsplan.flevoland.nl
 https://www.omgevingswet.overheid.nl
 https://www.openbare-inspectieresultaten.nvwa.nl

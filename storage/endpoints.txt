@@ -167,6 +167,7 @@ http://autodiscover.noordoostpolder.nl
 http://autodiscover.nza.nl
 http://autodiscover.odijmond.nl
 http://autodiscover.oegstgeest.nl
+http://autodiscover.ofgv.nl
 http://autodiscover.oldebroek.nl
 http://autodiscover.oostgelre.nl
 http://autodiscover.ooststellingwerf.nl
@@ -316,6 +317,7 @@ http://formulier-beheer.dus-i.nl
 http://formulieren-test.rijswijk.nl
 http://formulieren.opsterland.nl
 http://formulieren.vlaardingen.nl
+http://ftp.ofgv.nl
 http://geldrop-mierlo.nl
 http://geldzaken.loonopzand.nl
 http://gemeentebeek.nl
@@ -3621,6 +3623,7 @@ https://enterpriseenrollment.moerdijk.nl
 https://enterpriseenrollment.nederweert.nl
 https://enterpriseenrollment.nieuwkoop.nl
 https://enterpriseenrollment.noardeast-fryslan.nl
+https://enterpriseenrollment.ofgv.nl
 https://enterpriseenrollment.opsterland.nl
 https://enterpriseenrollment.oss.nl
 https://enterpriseenrollment.rheden.nl
@@ -5436,6 +5439,7 @@ https://kennisbank.logius.nl
 https://kennisbank.wijdemeren.nl
 https://kennisbankterrorisme.nctv.nl
 https://kenniscentrum-werven.utrecht.nl
+https://kenniscentrum.ofgv.nl
 https://kennisgroepen.belastingdienst.nl
 https://kennisnet.deventer.nl
 https://kennisnetwerk.belastingdienst.nl
@@ -6671,6 +6675,7 @@ https://oekraine.zaanstad.nl
 https://oemojz.amsterdam.nl
 https://oens.almere.nl
 https://oesorichtlijnen.nl
+https://ofgv.nl
 https://ogc.data.amsterdam.nl
 https://ogdservicedesk.huizen.nl
 https://ogdservicedeskacceptatie.huizen.nl
@@ -7959,6 +7964,7 @@ https://redactie.antwoord.amsterdam.nl
 https://redactie.hdsr.nl
 https://redactie.odijmond.nl
 https://redactie.odmh.nl
+https://redactie.ofgv.nl
 https://redirect.leeuwarden.nl
 https://referendum-backoffice.limburg.nl
 https://referendum.limburg.nl
@@ -9505,6 +9511,7 @@ https://webmail.nederbetuwe.nl
 https://webmail.nieuwegein.nl
 https://webmail.noordoostpolder.nl
 https://webmail.nunspeet.nl
+https://webmail.ofgv.nl
 https://webmail.olst-wijhe.nl
 https://webmail.purmerend.nl
 https://webmail.rijswijk.nl
@@ -10408,6 +10415,7 @@ https://www.oecdguidelines.nl
 https://www.oefenenmetstemmen.denhaag.nl
 https://www.oegstgeest.nl
 https://www.oesorichtlijnen.nl
+https://www.ofgv.nl
 https://www.oisterwijk.nl
 https://www.old.landvancuijk.nl
 https://www.oldebroek.nl

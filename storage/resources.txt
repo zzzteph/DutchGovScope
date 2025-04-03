@@ -2120,6 +2120,7 @@ autodiscover.noordoostpolder.nl
 autodiscover.nza.nl
 autodiscover.odijmond.nl
 autodiscover.oegstgeest.nl
+autodiscover.ofgv.nl
 autodiscover.oldebroek.nl
 autodiscover.ombudsman.groningen.nl
 autodiscover.oostgelre.nl
@@ -5673,6 +5674,7 @@ enterpriseenrollment.moerdijk.nl
 enterpriseenrollment.nederweert.nl
 enterpriseenrollment.nieuwkoop.nl
 enterpriseenrollment.noardeast-fryslan.nl
+enterpriseenrollment.ofgv.nl
 enterpriseenrollment.opsterland.nl
 enterpriseenrollment.oss.nl
 enterpriseenrollment.rheden.nl
@@ -6656,6 +6658,7 @@ ftp.krimpenerwaard.nl
 ftp.lopik.nl
 ftp.meerssen.nl
 ftp.nijmegen.nl
+ftp.ofgv.nl
 ftp.opsterland.nl
 ftp.rp.heerlen.nl
 ftp.ruimtelijkeplannen.amsterdam.nl
@@ -7650,6 +7653,7 @@ hybrid.lingewaard.nl
 hybrid.montfoort.nl
 hybrid.nederbetuwe.nl
 hybrid.nza.nl
+hybrid.ofgv.nl
 hybrid.purmerend.nl
 hybrid.s-hertogenbosch.nl
 hybrid.sittard-geleen.nl
@@ -8973,6 +8977,7 @@ kennisbank.nijmegen.nl
 kennisbank.wijdemeren.nl
 kennisbankterrorisme.nctv.nl
 kenniscentrum-werven.utrecht.nl
+kenniscentrum.ofgv.nl
 kennisgroepen.acc.belastingdienst.nl
 kennisgroepen.belastingdienst.nl
 kennisnet.almelo.nl
@@ -9731,6 +9736,7 @@ mail.nieuwkoop.nl
 mail.noord.amsterdam.nl
 mail.noordoostpolder.nl
 mail.odmh.nl
+mail.ofgv.nl
 mail.oostgelre.nl
 mail.opsterland.nl
 mail.overbetuwe.nl
@@ -10875,6 +10881,7 @@ mx1.haarlemmermeer.nl
 mx1.lelystad.nl
 mx1.mensenrechten.nl
 mx1.ncsc.nl
+mx1.ofgv.nl
 mx1.rucphen.nl
 mx1.s-hertogenbosch.nl
 mx1.waalwijk.nl
@@ -11344,6 +11351,8 @@ officewebapps.heusden.nl
 officiele-overheidspublicaties.nl
 offwa.zwolle.nl
 offwatest.zwolle.nl
+ofgv.nl
+ofgvtransfer.ofgv.nl
 ogc.data.amsterdam.nl
 ogdservicedesk.huizen.nl
 ogdservicedeskacceptatie.huizen.nl
@@ -13407,6 +13416,7 @@ redactie.hdsr.nl
 redactie.nissewaard.nl
 redactie.odijmond.nl
 redactie.odmh.nl
+redactie.ofgv.nl
 redactie.test.amersfoort.nl
 redactiemijn-o.ot.denhaag.nl
 redactiemijn-t.ot.denhaag.nl
@@ -14552,6 +14562,7 @@ smtp.hhdelfland.nl
 smtp.iba.amsterdam.nl
 smtp.lingewaard.nl
 smtp.moerdijk.nl
+smtp.ofgv.nl
 smtp.opsterland.nl
 smtp.rijksoverheid.nl
 smtp.tholen.nl
@@ -14767,6 +14778,7 @@ squit2go.haaksbergen.nl
 squit2go.heuvelrug.nl
 squit2go.medemblik.nl
 squit2go.montferland.info
+squit2go.ofgv.nl
 squit2go.oldenzaal.nl
 squit2go.purmerend.nl
 squit2go.rijssen-holten.nl
@@ -15963,6 +15975,7 @@ transfer.katwijk.nl
 transfer.koggenland.nl
 transfer.medemblik.nl
 transfer.meerssen.nl
+transfer.ofgv.nl
 transfer.s-hertogenbosch.nl
 transfer.stedebroec.nl
 transform.deventer.nl
@@ -16474,6 +16487,7 @@ vpn.lochem.nl
 vpn.maassluis.nl
 vpn.meerssen.nl
 vpn.nieuwegein.nl
+vpn.ofgv.nl
 vpn.oss.nl
 vpn.overbetuwe.nl
 vpn.peelenmaas.nl
@@ -16498,6 +16512,7 @@ vpn365.denhelder.nl
 vpntunnel.oss.nl
 vps-prod-01.flevoland.nl
 vpsweb.veere.nl
+vr.ofgv.nl
 vraagbaak.doesburg.nl
 vraaghulp.acc.nijmegen.nl
 vraagwijzer.gemeente-steenbergen.nl
@@ -16839,6 +16854,7 @@ webmail.nieuwwest.amsterdam.nl
 webmail.nissewaard.nl
 webmail.noordoostpolder.nl
 webmail.nunspeet.nl
+webmail.ofgv.nl
 webmail.oldenzaal.nl
 webmail.olst-wijhe.nl
 webmail.oost-wgm.amsterdam.nl
@@ -18354,6 +18370,7 @@ www.oegstgeest.nl
 www.oesorichtlijnen.nl
 www.office365.haarlemmermeer.nl
 www.officiele-overheidspublicaties.nl
+www.ofgv.nl
 www.oirschot.nl
 www.oisterwijk.nl
 www.old.arnhem.nl
