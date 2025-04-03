@@ -4082,6 +4082,7 @@ https://feeds.raadrvs.nl
 https://feeds.raadvoorcultuur.nl
 https://feeds.rabarijk.nl
 https://feeds.rcgog.nl
+https://feeds.rcihh.nl
 https://feeds.rijksoverheid.nl
 https://felix.baarn.nl
 https://felix.bergen.nl
@@ -7279,6 +7280,7 @@ https://opendata.raadrvs.nl
 https://opendata.raadvoorcultuur.nl
 https://opendata.rabarijk.nl
 https://opendata.rcgog.nl
+https://opendata.rcihh.nl
 https://opendata.rijksoverheid.nl
 https://opendata.roosendaal.nl
 https://opendata.utrecht.nl
@@ -8139,6 +8141,7 @@ https://ras.nvwa.nl
 https://raster.horstaandemaas.nl
 https://rbp.rotterdam.nl
 https://rcgog.nl
+https://rcihh.nl
 https://rd1.toegang.overheid.nl
 https://rd2.toegang.overheid.nl
 https://rdweb.houten.nl
@@ -10737,6 +10740,7 @@ https://www.raalte.nl
 https://www.rabarijk.nl
 https://www.ras-acc.nvwa.nl
 https://www.rcgog.nl
+https://www.rcihh.nl
 https://www.regentesseplein.denhaag.nl
 https://www.regiocheckervth.denhaag.nl
 https://www.reimerswaal.nl

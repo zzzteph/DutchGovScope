@@ -6263,6 +6263,7 @@ feeds.raadrvs.nl
 feeds.raadvoorcultuur.nl
 feeds.rabarijk.nl
 feeds.rcgog.nl
+feeds.rcihh.nl
 feeds.rijksoverheid.nl
 felix.aalten.nl
 felix.achtkarspelen.nl
@@ -12052,6 +12053,7 @@ opendata.raadrvs.nl
 opendata.raadvoorcultuur.nl
 opendata.rabarijk.nl
 opendata.rcgog.nl
+opendata.rcihh.nl
 opendata.rijksoverheid.nl
 opendata.roosendaal.nl
 opendata.utrecht.nl
@@ -13612,6 +13614,7 @@ raster.horstaandemaas.nl
 rat.belastingdienst.nl
 rbp.rotterdam.nl
 rcgog.nl
+rcihh.nl
 rcm.belastingdienst.nl
 rd1.toegang.overheid.nl
 rd2.toegang.overheid.nl
@@ -18823,6 +18826,7 @@ www.radius.overbetuwe.nl
 www.rap.haarlemmermeer.nl
 www.ras-acc.nvwa.nl
 www.rcgog.nl
+www.rcihh.nl
 www.rdsportal.haarlemmermeer.nl
 www.regelgeving.amsterdam.nl
 www.regentesseplein.denhaag.nl
