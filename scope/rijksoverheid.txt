@@ -1,4 +1,3 @@
-
 a2vonderenkerensheide.nl
 aaenmaas.nl
 aanbiedersmedicijnen.nl
@@ -14,7 +13,6 @@ adviescommissievolkenrecht.nl
 adviesraadinternationalevraagstukken.nl
 adviesraadmigratie.nl
 advisorycommitteeinternationallaw.nl
-nationaalgeoregister.nl
 advisorycouncilinternationalaffairs.nl
 aeriusproducten.nl
 agroberichtenbuitenland.nl
@@ -92,6 +90,7 @@ dus-i.nl
 dutchncca.nl
 dutchoffshorewindatlas.nl
 dutchrapporteur.nl
+duurzame-infra.nl
 dwangindezorg.nl
 eentegeneenzaamheid.nl
 eersteenthuis.nl
@@ -176,6 +175,7 @@ leefbaarometer.nl
 leerenontwikkelplein.nl
 limburg.nl
 lintjes.nl
+logius.nl
 loonaangifteketen.nl
 lvmb.nl
 maatwerkvoormensen.nl
@@ -184,11 +184,13 @@ marechaussee.nl
 medicineshortagesdefects.nl
 meldpuntgeneesmiddelentekortendefecten.nl
 mensenrechten.nl
+metelkaartrekkenwedegrens.nl
 mijncn.nl
 mijnpgb.nl
 mirtoverzicht.nl
 monitorlangdurigezorg.nl
 nationaalcoordinatorgroningen.nl
+nationaalgeoregister.nl
 nationaalgroeifonds.nl
 nationaalrapporteur.nl
 nationaalwegenbestand.nl
@@ -226,6 +228,7 @@ odijmond.nl
 odmh.nl
 oecdguidelines.nl
 oesorichtlijnen.nl
+officiele-overheidspublicaties.nl
 ofgv.nl
 om.nl
 onderwijsinspectie.nl
@@ -242,6 +245,7 @@ ouders-uit-elkaar.nl
 ov-consumentenplatform.nl
 overalsnelinternet.nl
 overdedouane.nl
+overheid.nl
 overheidvannu.nl
 overtoeslagen.nl
 p-direkt.nl
@@ -279,7 +283,7 @@ rijksinnovatiecommunity.nl
 rijksinspecties.nl
 rijksorganisatieodi.nl
 rijksoverheid.nl
-rijksoverheidsvideo.nl 
+rijksoverheidsvideo.nl
 rijksrecherche.nl
 rijksvastgoedbedrijf.nl
 royal-house.nl
@@ -315,6 +319,7 @@ toegankelijkheidsverklaring.nl
 toekomstglb.nl
 toekomstreligieuserfgoed.nl
 toekomstvisiegewasbescherming2030.nl
+toeslagen.nl
 toetredingzorgaanbieders.nl
 toetsingscommissievp.nl
 toezichtresultaten.nl
@@ -350,6 +355,7 @@ werkenaanonspensioen.nl
 werkenbijdeeu.nl
 werkenbijderaadvanstate.nl
 werkenvoorinternationaleorganisaties.nl
+werkenvoornederland.nl
 wetbeschermingklokkenluiders.nl
 windopzee.nl
 wkr.nl
