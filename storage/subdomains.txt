@@ -47,14 +47,14 @@ werkenbij
 english
 pv
 gemeenteraad
+a-www
 enterpriseenrollment
 iparticipatie
 belastingen
-a-www
 test-ipa
-data
 a-feeds
 a-opendata
+data
 dacceptatieloket
 dacceptatiemidoffice
 remote

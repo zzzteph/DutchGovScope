@@ -62,6 +62,7 @@ a-feeds.jaarverantwoordingzorg.nl
 a-feeds.klimaatakkoord.nl
 a-feeds.koninklijkhuis.nl
 a-feeds.koopoverheid.nl
+a-feeds.loonaangifteketen.nl
 a-feeds.rijksoverheid.nl
 a-git.rijksoverheid.nl
 a-jira.rijksoverheid.nl
@@ -111,6 +112,7 @@ a-opendata.jaarverantwoordingzorg.nl
 a-opendata.klimaatakkoord.nl
 a-opendata.koninklijkhuis.nl
 a-opendata.koopoverheid.nl
+a-opendata.loonaangifteketen.nl
 a-opendata.rijksoverheid.nl
 a-persberichten.rijksoverheid.nl
 a-servicedesk.rijksoverheid.nl
@@ -155,6 +157,7 @@ a-www.jaarverantwoordingzorg.nl
 a-www.klimaatakkoord.nl
 a-www.koninklijkhuis.nl
 a-www.koopoverheid.nl
+a-www.loonaangifteketen.nl
 a-www.rijksoverheid.nl
 a2vonderenkerensheide.nl
 aaenmaas.nl
@@ -1257,6 +1260,7 @@ feeds.koopoverheid.nl
 feeds.leefbaarenveilig.nl
 feeds.leerenontwikkelplein.nl
 feeds.lintjes.nl
+feeds.loonaangifteketen.nl
 feeds.nieuwsbrievenminocw.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.persberichten.rijksoverheid.nl
@@ -1727,6 +1731,7 @@ loket.hdsr.nl
 loket.hhdelfland.nl
 loket.overheid.nl
 longread.brabant.nl
+loonaangifteketen.nl
 lrbh2ha.belastingdienst.nl
 lrbh2hb.belastingdienst.nl
 lrza.gatservices.acc.igj.nl
@@ -2239,6 +2244,7 @@ opendata.koopoverheid.nl
 opendata.leefbaarenveilig.nl
 opendata.leerenontwikkelplein.nl
 opendata.lintjes.nl
+opendata.loonaangifteketen.nl
 opendata.nieuwsbrievenminocw.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.persberichten.rijksoverheid.nl
@@ -3314,6 +3320,7 @@ www.leerenontwikkelplein.nl
 www.limburg.nl
 www.lintjes.nl
 www.logius.nl
+www.loonaangifteketen.nl
 www.mail.bureauwsnp.nl
 www.metelkaartrekkenwedegrens.nl
 www.mijn.dus-i.nl

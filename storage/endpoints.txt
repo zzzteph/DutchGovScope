@@ -3851,6 +3851,7 @@ https://feeds.koopoverheid.nl
 https://feeds.leefbaarenveilig.nl
 https://feeds.leerenontwikkelplein.nl
 https://feeds.lintjes.nl
+https://feeds.loonaangifteketen.nl
 https://feeds.nieuwsbrievenminocw.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.persberichten.rijksoverheid.nl
@@ -5533,6 +5534,7 @@ https://loket.zaanstad.nl
 https://loket.zevenaar.nl
 https://loket.zoetermeer.nl
 https://loket.zwijndrecht.nl
+https://loonaangifteketen.nl
 https://loonkostensubsidie-acc.utrecht.nl
 https://loonkostensubsidie.utrecht.nl
 https://loonopzand.nl
@@ -6778,6 +6780,7 @@ https://opendata.koopoverheid.nl
 https://opendata.leefbaarenveilig.nl
 https://opendata.leerenontwikkelplein.nl
 https://opendata.lintjes.nl
+https://opendata.loonaangifteketen.nl
 https://opendata.nieuwsbrievenminocw.nl
 https://opendata.nijmegen.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
@@ -9907,6 +9910,7 @@ https://www.lintjes.nl
 https://www.lisse.nl
 https://www.lochem.nl
 https://www.logius.nl
+https://www.loonaangifteketen.nl
 https://www.loonopzand.nl
 https://www.lopik.nl
 https://www.losser.nl

@@ -167,6 +167,7 @@ a-feeds.jaarverantwoordingzorg.nl
 a-feeds.klimaatakkoord.nl
 a-feeds.koninklijkhuis.nl
 a-feeds.koopoverheid.nl
+a-feeds.loonaangifteketen.nl
 a-feeds.rijksoverheid.nl
 a-git.rijksoverheid.nl
 a-jira.rijksoverheid.nl
@@ -216,6 +217,7 @@ a-opendata.jaarverantwoordingzorg.nl
 a-opendata.klimaatakkoord.nl
 a-opendata.koninklijkhuis.nl
 a-opendata.koopoverheid.nl
+a-opendata.loonaangifteketen.nl
 a-opendata.rijksoverheid.nl
 a-p-ddi-0003.leeuwarden.nl
 a-p-ddi-0010.leeuwarden.nl
@@ -264,6 +266,7 @@ a-www.jaarverantwoordingzorg.nl
 a-www.klimaatakkoord.nl
 a-www.koninklijkhuis.nl
 a-www.koopoverheid.nl
+a-www.loonaangifteketen.nl
 a-www.rijksoverheid.nl
 a2b-rtr.alkmaar.nl
 a2vonderenkerensheide.nl
@@ -5990,6 +5993,7 @@ feeds.koopoverheid.nl
 feeds.leefbaarenveilig.nl
 feeds.leerenontwikkelplein.nl
 feeds.lintjes.nl
+feeds.loonaangifteketen.nl
 feeds.nieuwsbrievenminocw.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.persberichten.rijksoverheid.nl
@@ -9277,6 +9281,7 @@ loketacpt.haarlem.nl
 lokettest.middendrenthe.nl
 longread.brabant.nl
 loo-tv.brunssum.nl
+loonaangifteketen.nl
 loonkostensubsidie-acc.utrecht.nl
 loonkostensubsidie.utrecht.nl
 loonopzand.nl
@@ -11449,6 +11454,7 @@ opendata.koopoverheid.nl
 opendata.leefbaarenveilig.nl
 opendata.leerenontwikkelplein.nl
 opendata.lintjes.nl
+opendata.loonaangifteketen.nl
 opendata.nieuwsbrievenminocw.nl
 opendata.nijmegen.nl
 opendata.papiamentu.belastingdienst-cn.nl
@@ -17723,6 +17729,7 @@ www.logius.nl
 www.loket.amsterdam.nl
 www.loket.oldenzaal.nl
 www.loketacpt.haarlem.nl
+www.loonaangifteketen.nl
 www.loonopzand.nl
 www.lopik.nl
 www.losser.nl
