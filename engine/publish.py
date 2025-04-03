@@ -46,7 +46,7 @@ def export():
             res_out = sorted(set(res_out))
             end_out = sorted(set(end_out))
             if len(res_out)>0:
-                with open(os.path.join(scope_dir, "resources.txt"), "w") as f:
+                with open(os.path.join(scope_dir, "subdomains.txt"), "w") as f:
                     f.write("\n".join(res_out))
             if len(end_out)>0:
                 with open(os.path.join(scope_dir, "endpoints.txt"), "w") as f:
@@ -55,7 +55,7 @@ def export():
         tag_resources = sorted(set(tag_resources))
         tag_endpoints = sorted(set(tag_endpoints))
         if len(tag_resources)>0:
-            with open(os.path.join(tag_dir, "resources.txt"), "w") as f:
+            with open(os.path.join(tag_dir, "subdomains.txt"), "w") as f:
                 f.write("\n".join(sorted(set(tag_resources))))
         if len(tag_endpoints)>0:        
             with open(os.path.join(tag_dir, "endpoints.txt"), "w") as f:
@@ -66,12 +66,12 @@ def export():
         with open(os.path.join(STORAGE_ROOT, "endpoints.txt"), "w") as f:
             f.write("\n".join(sorted(set(global_endpoints))))
     if len(global_resources)>0:
-        with open(os.path.join(STORAGE_ROOT, "resources.txt"), "w") as f:
+        with open(os.path.join(STORAGE_ROOT, "subdomains.txt"), "w") as f:
             f.write("\n".join(sorted(set(global_resources))))
     if len(global_subdomains)>0:
         global_subdomains = Counter(global_subdomains)
         global_subdomains = [sub for sub, _ in global_subdomains.most_common()]
-        with open(os.path.join(STORAGE_ROOT, "subdomains.txt"), "w") as f:
+        with open(os.path.join(STORAGE_ROOT, "wordlist.txt"), "w") as f:
             f.write("\n".join(global_subdomains))
 
 
