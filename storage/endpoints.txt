@@ -3952,6 +3952,7 @@ https://feeds.ndw.nu
 https://feeds.nederlanddigitaal.nl
 https://feeds.nederlandse-sportraad.nl
 https://feeds.nederlandtegengeorganiseerdemisdaad.nl
+https://feeds.netwerkplatteland.nl
 https://feeds.nieuwsbrievenminocw.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.papiamentu.mijncn.nl
@@ -6416,6 +6417,7 @@ https://nederlandse-sportraad.nl
 https://nederlandtegengeorganiseerdemisdaad.nl
 https://nerdio.meierijstad.nl
 https://netbox.alkmaar.nl
+https://netwerkplatteland.nl
 https://neuron-test.gorinchem.nl
 https://neuron.gorinchem.nl
 https://ngsrv02.ad.winterswijk.nl
@@ -6980,6 +6982,7 @@ https://opendata.nederlanddigitaal.nl
 https://opendata.nederlandse-sportraad.nl
 https://opendata.nederlandtegengeorganiseerdemisdaad.nl
 https://opendata.nederlandwereldwijd.nl
+https://opendata.netwerkplatteland.nl
 https://opendata.nieuwsbrievenminocw.nl
 https://opendata.nijmegen.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
@@ -7657,6 +7660,7 @@ https://programmavan.bergendal.nl
 https://projecten.denhaag.nl
 https://projecten.lansingerland.nl
 https://projecten.nederbetuwe.nl
+https://projecten.netwerkplatteland.nl
 https://projectenboek.leidschendam-voorburg.nl
 https://protectus.ggd.amsterdam.nl
 https://proto.apeldoorn.nl
@@ -10213,6 +10217,7 @@ https://www.nederlandse-sportraad.nl
 https://www.nederlandtegengeorganiseerdemisdaad.nl
 https://www.nederlandwereldwijd.nl
 https://www.netherlandsworldwide.nl
+https://www.netwerkplatteland.nl
 https://www.nieuwauthentiekbloemendaal.doemee.bloemendaal.nl
 https://www.nieuwegein.nl
 https://www.nieuwsbrief.enschede.nl

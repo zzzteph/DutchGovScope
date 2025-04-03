@@ -359,6 +359,7 @@ prod
 nhr
 forms
 geotest
+projecten
 midoffice
 participatie
 documenten
@@ -473,7 +474,6 @@ elokettest
 wozloket
 jcccloud
 belastingportaal-test
-projecten
 matomo
 aanmelden
 djumaproxy

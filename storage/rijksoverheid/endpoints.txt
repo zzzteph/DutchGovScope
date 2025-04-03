@@ -832,6 +832,7 @@ https://feeds.ndw.nu
 https://feeds.nederlanddigitaal.nl
 https://feeds.nederlandse-sportraad.nl
 https://feeds.nederlandtegengeorganiseerdemisdaad.nl
+https://feeds.netwerkplatteland.nl
 https://feeds.nieuwsbrievenminocw.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.papiamentu.mijncn.nl
@@ -1198,6 +1199,7 @@ https://ndwviewer.ndw.nu
 https://nederlanddigitaal.nl
 https://nederlandse-sportraad.nl
 https://nederlandtegengeorganiseerdemisdaad.nl
+https://netwerkplatteland.nl
 https://nieuws.brabant.nl
 https://nieuwsbrieven.limburg.nl
 https://nieuwsbrievenminocw.nl
@@ -1435,6 +1437,7 @@ https://opendata.nederlanddigitaal.nl
 https://opendata.nederlandse-sportraad.nl
 https://opendata.nederlandtegengeorganiseerdemisdaad.nl
 https://opendata.nederlandwereldwijd.nl
+https://opendata.netwerkplatteland.nl
 https://opendata.nieuwsbrievenminocw.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.papiamentu.mijncn.nl
@@ -1522,6 +1525,7 @@ https://privaat.octomon.ncsc.nl
 https://privacy.nctv.nl
 https://prod-dictu.comcms.logius.nl
 https://prod-dictu.logius.nl
+https://projecten.netwerkplatteland.nl
 https://prototype.cibg.nl
 https://psarchief.brabant.nl
 https://public.mst.ctgb.nl
@@ -2041,6 +2045,7 @@ https://www.nederlandse-sportraad.nl
 https://www.nederlandtegengeorganiseerdemisdaad.nl
 https://www.nederlandwereldwijd.nl
 https://www.netherlandsworldwide.nl
+https://www.netwerkplatteland.nl
 https://www.nieuwsbrievenminocw.nl
 https://www.nt.ndw.nu
 https://www.omgevingsplan.flevoland.nl

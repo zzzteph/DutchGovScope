@@ -1378,6 +1378,7 @@ feeds.ndw.nu
 feeds.nederlanddigitaal.nl
 feeds.nederlandse-sportraad.nl
 feeds.nederlandtegengeorganiseerdemisdaad.nl
+feeds.netwerkplatteland.nl
 feeds.nieuwsbrievenminocw.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.papiamentu.mijncn.nl
@@ -2194,6 +2195,7 @@ ndwviewer.ndw.nu
 nederlanddigitaal.nl
 nederlandse-sportraad.nl
 nederlandtegengeorganiseerdemisdaad.nl
+netwerkplatteland.nl
 new.mensenrechten.nl
 nexus.lpc.logius.nl
 nhr.flevoland.nl
@@ -2485,6 +2487,7 @@ opendata.nederlanddigitaal.nl
 opendata.nederlandse-sportraad.nl
 opendata.nederlandtegengeorganiseerdemisdaad.nl
 opendata.nederlandwereldwijd.nl
+opendata.netwerkplatteland.nl
 opendata.nieuwsbrievenminocw.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.papiamentu.mijncn.nl
@@ -2665,6 +2668,7 @@ prod-kvk.belastingdienst.nl
 prod.cultureelerfgoed.nl
 prod.flevoland.nl
 prod2.opendata.nederlandwereldwijd.nl
+projecten.netwerkplatteland.nl
 prototype.cibg.nl
 proxy.brabant.nl
 proxy.socint.belastingdienst.nl
@@ -3645,6 +3649,7 @@ www.nederlandse-sportraad.nl
 www.nederlandtegengeorganiseerdemisdaad.nl
 www.nederlandwereldwijd.nl
 www.netherlandsworldwide.nl
+www.netwerkplatteland.nl
 www.nieuwsbrievenminocw.nl
 www.nt.ndw.nu
 www.officiele-overheidspublicaties.nl
