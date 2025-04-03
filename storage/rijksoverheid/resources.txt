@@ -306,6 +306,7 @@ acceptatie.mijn.bigregister.nl
 acceptatie.mijn.dezi.nl
 acceptatie.mijn.donorregister.nl
 acceptatie.omgevingswet.overheid.nl
+acceptatie.ordz.nl
 acceptatie.portaal.competent.cibg.nl
 acceptatie.portaal.digilevering.cibg.nl
 acceptatie.portaal.ncpeh.nl
@@ -1093,6 +1094,7 @@ elearning-basiscrisisbeheersing.nctv.nl
 elearning-irb.nctv.nl
 elearning-lcp-egt.nctv.nl
 elearning-msz.nza.nl
+elearning.ordz.nl
 elkeregiotelt.nl
 eloket.aaenmaas.nl
 eloket.flevoland.nl
@@ -1462,6 +1464,7 @@ feeds.oostvaarderskliniek.nl
 feeds.open-overheid.nl
 feeds.oprijk.nl
 feeds.opwegnaarseb.nl
+feeds.ordz.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.papiamentu.mijncn.nl
 feeds.persberichten.rijksoverheid.nl
@@ -2698,6 +2701,7 @@ opendata.oostvaarderskliniek.nl
 opendata.open-overheid.nl
 opendata.oprijk.nl
 opendata.opwegnaarseb.nl
+opendata.ordz.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.papiamentu.mijncn.nl
 opendata.persberichten.rijksoverheid.nl
@@ -2722,6 +2726,7 @@ oproepingen-preprd.overheid.nl
 oproepingen.overheid.nl
 opwegnaarseb.nl
 orchestrator.ncsc.nl
+ordz.nl
 organisaties-acc.overheid.nl
 organisaties-redactie-acc.overheid.nl
 organisaties-redactie.overheid.nl
@@ -3958,6 +3963,7 @@ www.openbare-inspectieresultaten.nvwa.nl
 www.opendata.brabant.nl
 www.oprijk.nl
 www.opwegnaarseb.nl
+www.ordz.nl
 www.overheid.nl
 www.perf.omgevingswet.overheid.nl
 www.pre.omgevingswet.overheid.nl

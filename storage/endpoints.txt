@@ -3461,6 +3461,7 @@ https://elearning-basiscrisisbeheersing.nctv.nl
 https://elearning-irb.nctv.nl
 https://elearning-lcp-egt.nctv.nl
 https://elearning-msz.nza.nl
+https://elearning.ordz.nl
 https://elise.rotterdam.nl
 https://elkeregiotelt.nl
 https://elkk.amsterdam.nl
@@ -4028,6 +4029,7 @@ https://feeds.oostvaarderskliniek.nl
 https://feeds.open-overheid.nl
 https://feeds.oprijk.nl
 https://feeds.opwegnaarseb.nl
+https://feeds.ordz.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.papiamentu.mijncn.nl
 https://feeds.persberichten.rijksoverheid.nl
@@ -7167,6 +7169,7 @@ https://opendata.oostvaarderskliniek.nl
 https://opendata.open-overheid.nl
 https://opendata.oprijk.nl
 https://opendata.opwegnaarseb.nl
+https://opendata.ordz.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.papiamentu.mijncn.nl
 https://opendata.persberichten.rijksoverheid.nl
@@ -7314,6 +7317,7 @@ https://oracbloemenbuurt.denhaag.nl
 https://oranjekwartier.deventer.nl
 https://oranjeplein.goirle.nl
 https://orbit.montferland.info
+https://ordz.nl
 https://organisatie.gemeente-steenbergen.nl
 https://organisatie.hoorn.nl
 https://organisaties-acc.overheid.nl
@@ -10533,6 +10537,7 @@ https://www.opsterland.nl
 https://www.opvang.zwolle.nl
 https://www.opwegnaarseb.nl
 https://www.oracbloemenbuurt.denhaag.nl
+https://www.ordz.nl
 https://www.oss.nl
 https://www.oude-ijsselstreek.nl
 https://www.ouder-amstel.nl
