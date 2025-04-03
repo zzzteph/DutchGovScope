@@ -1468,6 +1468,7 @@ feeds.ordz.nl
 feeds.overalsnelinternet.nl
 feeds.overdedouane.nl
 feeds.overheidvannu.nl
+feeds.overtoeslagen.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.papiamentu.mijncn.nl
 feeds.persberichten.rijksoverheid.nl
@@ -2709,6 +2710,7 @@ opendata.ordz.nl
 opendata.overalsnelinternet.nl
 opendata.overdedouane.nl
 opendata.overheidvannu.nl
+opendata.overtoeslagen.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.papiamentu.mijncn.nl
 opendata.persberichten.rijksoverheid.nl
@@ -2771,6 +2773,7 @@ overalsnelinternet.nl
 overdedouane.nl
 overheid.nl
 overheidvannu.nl
+overtoeslagen.nl
 ovverklaringen.acc.belastingdienst.nl
 ovverklaringen.belastingdienst.nl
 p-crl.justid.nl
@@ -3981,6 +3984,7 @@ www.overalsnelinternet.nl
 www.overdedouane.nl
 www.overheid.nl
 www.overheidvannu.nl
+www.overtoeslagen.nl
 www.perf.omgevingswet.overheid.nl
 www.pre.omgevingswet.overheid.nl
 www.ras-acc.nvwa.nl
