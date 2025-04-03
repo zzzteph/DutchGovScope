@@ -1276,6 +1276,7 @@ feeds.mensenrechten.nl
 feeds.mijncn.nl
 feeds.mijnpgb.nl
 feeds.mirtoverzicht.nl
+feeds.monitorlangdurigezorg.nl
 feeds.nieuwsbrievenminocw.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.papiamentu.mijncn.nl
@@ -2294,6 +2295,7 @@ opendata.mensenrechten.nl
 opendata.mijncn.nl
 opendata.mijnpgb.nl
 opendata.mirtoverzicht.nl
+opendata.monitorlangdurigezorg.nl
 opendata.nieuwsbrievenminocw.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.papiamentu.mijncn.nl
@@ -3389,6 +3391,7 @@ www.mijncn.nl
 www.mijnpgb.nl
 www.mijnsubsidies-acc.limburg.nl
 www.mirtoverzicht.nl
+www.monitorlangdurigezorg.nl
 www.monumentenregister.cultureelerfgoed.nl
 www.nieuwsbrievenminocw.nl
 www.officiele-overheidspublicaties.nl

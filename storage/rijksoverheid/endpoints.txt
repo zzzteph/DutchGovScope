@@ -747,6 +747,7 @@ https://feeds.mensenrechten.nl
 https://feeds.mijncn.nl
 https://feeds.mijnpgb.nl
 https://feeds.mirtoverzicht.nl
+https://feeds.monitorlangdurigezorg.nl
 https://feeds.nieuwsbrievenminocw.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.papiamentu.mijncn.nl
@@ -1278,6 +1279,7 @@ https://opendata.mensenrechten.nl
 https://opendata.mijncn.nl
 https://opendata.mijnpgb.nl
 https://opendata.mirtoverzicht.nl
+https://opendata.monitorlangdurigezorg.nl
 https://opendata.nieuwsbrievenminocw.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.papiamentu.mijncn.nl
@@ -1829,6 +1831,7 @@ https://www.mijn.overheid.nl
 https://www.mijncn.nl
 https://www.mijnpgb.nl
 https://www.mirtoverzicht.nl
+https://www.monitorlangdurigezorg.nl
 https://www.monumentenregister.cultureelerfgoed.nl
 https://www.nieuwsbrievenminocw.nl
 https://www.omgevingsplan.flevoland.nl

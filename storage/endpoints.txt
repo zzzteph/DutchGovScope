@@ -3867,6 +3867,7 @@ https://feeds.mensenrechten.nl
 https://feeds.mijncn.nl
 https://feeds.mijnpgb.nl
 https://feeds.mirtoverzicht.nl
+https://feeds.monitorlangdurigezorg.nl
 https://feeds.nieuwsbrievenminocw.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.papiamentu.mijncn.nl
@@ -6823,6 +6824,7 @@ https://opendata.mensenrechten.nl
 https://opendata.mijncn.nl
 https://opendata.mijnpgb.nl
 https://opendata.mirtoverzicht.nl
+https://opendata.monitorlangdurigezorg.nl
 https://opendata.nieuwsbrievenminocw.nl
 https://opendata.nijmegen.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
@@ -9994,6 +9996,7 @@ https://www.mirtoverzicht.nl
 https://www.mis.waterland.nl
 https://www.moerdijk.nl
 https://www.molenlanden.nl
+https://www.monitorlangdurigezorg.nl
 https://www.montferland.info
 https://www.montfoort.nl
 https://www.monumentenregister.cultureelerfgoed.nl
