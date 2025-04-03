@@ -4041,6 +4041,7 @@ https://feeds.overdedouane.nl
 https://feeds.overheidvannu.nl
 https://feeds.overtoeslagen.nl
 https://feeds.p-direkt.nl
+https://feeds.pagw.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.papiamentu.mijncn.nl
 https://feeds.persberichten.rijksoverheid.nl
@@ -7191,6 +7192,7 @@ https://opendata.overdedouane.nl
 https://opendata.overheidvannu.nl
 https://opendata.overtoeslagen.nl
 https://opendata.p-direkt.nl
+https://opendata.pagw.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.papiamentu.mijncn.nl
 https://opendata.persberichten.rijksoverheid.nl
@@ -7387,6 +7389,7 @@ https://ows-emssapi.groningen.nl
 https://ows-websrvc.groningen.nl
 https://ows.gis.rotterdam.nl
 https://p-direkt.nl
+https://pagw.nl
 https://panel.amsterdam.nl
 https://papendrecht-checker-preprod.papendrecht.nl
 https://papendrecht-checker.papendrecht.nl
@@ -8761,6 +8764,7 @@ https://straatnotes.amsterdam.nl
 https://strafdossiermh17.om.nl
 https://strand.hoorn.nl
 https://streaming.landvancuijk.nl
+https://streefbeelden.pagw.nl
 https://stroomlijntest.derondevenen.nl
 https://stroomt.deventer.nl
 https://sts-acc.rotterdam.nl
@@ -10577,6 +10581,7 @@ https://www.overheid.nl
 https://www.overheidvannu.nl
 https://www.overtoeslagen.nl
 https://www.p-direkt.nl
+https://www.pagw.nl
 https://www.papendrecht.nl
 https://www.parkeren.sudwestfryslan.nl
 https://www.peelenmaas.nl

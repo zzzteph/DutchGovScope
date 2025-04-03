@@ -1,0 +1,8 @@
+acceptatie.hulpmiddelen.farmatec.nl
+english.farmatec.nl
+feeds.english.farmatec.nl
+feeds.farmatec.nl
+hulpmiddelen.farmatec.nl
+opendata.english.farmatec.nl
+opendata.farmatec.nl
+www.farmatec.nl
