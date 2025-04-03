@@ -182,6 +182,7 @@ a-feeds.loonaangifteketen.nl
 a-feeds.ncadierproevenbeleid.nl
 a-feeds.nza.nl
 a-feeds.ocwincijfers.nl
+a-feeds.politiekeambtsdragers.nl
 a-feeds.rijksoverheid.nl
 a-git.rijksoverheid.nl
 a-informatieservice.nederlandwereldwijd.nl
@@ -237,6 +238,7 @@ a-opendata.loonaangifteketen.nl
 a-opendata.ncadierproevenbeleid.nl
 a-opendata.nza.nl
 a-opendata.ocwincijfers.nl
+a-opendata.politiekeambtsdragers.nl
 a-opendata.rijksoverheid.nl
 a-p-ddi-0003.leeuwarden.nl
 a-p-ddi-0010.leeuwarden.nl
@@ -291,6 +293,7 @@ a-www.nederlandwereldwijd.nl
 a-www.netherlandsworldwide.nl
 a-www.nza.nl
 a-www.ocwincijfers.nl
+a-www.politiekeambtsdragers.nl
 a-www.rijksoverheid.nl
 a2b-rtr.alkmaar.nl
 a2vonderenkerensheide.nl
@@ -1572,6 +1575,7 @@ api.betalen.valkenburg.nl
 api.betalen.wijdemeren.nl
 api.bigregister.nl
 api.brabant.nl
+api.burgemeesterworden.politiekeambtsdragers.nl
 api.darwin.tilburg.nl
 api.data.amsterdam.nl
 api.data.leiden.nl
@@ -3244,6 +3248,7 @@ bureaubroedplaatsen.amsterdam.nl
 bureauncdr.nl
 bureauwsnp.nl
 buren.nl
+burgemeesterworden.politiekeambtsdragers.nl
 burgerloket.acceptatie.derondevenen.nl
 burgerloket.acceptatie.hhdelfland.nl
 burgerloket.acceptatie.ouder-amstel.nl
@@ -4632,6 +4637,7 @@ dis4fis-prod.waterland.nl
 dis4fis-test.waterland.nl
 discoverreceiver.purmerend.nl
 ditwilikin.rotterdam.nl
+diversiteitsplein.politiekeambtsdragers.nl
 dji.nl
 djuma-mks-prd.velsen.nl
 djuma-mks-tst.velsen.nl
@@ -6221,6 +6227,7 @@ feeds.papiamentu.belastingdienst-cn.nl
 feeds.papiamentu.mijncn.nl
 feeds.papiamentu.rijksdienstcn.com
 feeds.persberichten.rijksoverheid.nl
+feeds.politiekeambtsdragers.nl
 feeds.rcgog.nl
 feeds.rijksoverheid.nl
 felix.aalten.nl
@@ -11957,6 +11964,7 @@ opendata.papiamentu.belastingdienst-cn.nl
 opendata.papiamentu.mijncn.nl
 opendata.papiamentu.rijksdienstcn.com
 opendata.persberichten.rijksoverheid.nl
+opendata.politiekeambtsdragers.nl
 opendata.rcgog.nl
 opendata.rijksoverheid.nl
 opendata.roosendaal.nl
@@ -12731,6 +12739,7 @@ podiumd-openklant.deventer.nl
 podiumd-openzaak.deventer.nl
 podiumd-zac.deventer.nl
 point.assen.nl
+politiekeambtsdragers.nl
 pollerscs.rotterdam.nl
 pom.cultureelerfgoed.nl
 pop.deventer.nl
@@ -18622,6 +18631,7 @@ www.planboard.groningen.ad.groningen.nl
 www.plannen.groningen.nl
 www.platform.culemborg.nl
 www.pmb.amsterdam.nl
+www.politiekeambtsdragers.nl
 www.portaal.overbetuwe.nl
 www.portal.gemeentehulst.nl
 www.portal.groningen.nl

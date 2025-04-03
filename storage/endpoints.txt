@@ -1416,6 +1416,7 @@ https://api.betalen.texel.nl
 https://api.betalen.valkenburg.nl
 https://api.betalen.wijdemeren.nl
 https://api.brabant.nl
+https://api.burgemeesterworden.politiekeambtsdragers.nl
 https://api.darwin.tilburg.nl
 https://api.data.amsterdam.nl
 https://api.dataportaal.amsterdam.nl
@@ -2319,6 +2320,7 @@ https://bunschoten.nl
 https://bureauncdr.nl
 https://bureauwsnp.nl
 https://buren.nl
+https://burgemeesterworden.politiekeambtsdragers.nl
 https://burgerloket.acceptatie.derondevenen.nl
 https://burgerloket.acceptatie.ouder-amstel.nl
 https://burgerloket.derondevenen.nl
@@ -2926,6 +2928,7 @@ https://dinkelland.nl
 https://directadmin.almelo.nl
 https://directduidelijk.openstad.enschede.nl
 https://discoverreceiver.purmerend.nl
+https://diversiteitsplein.politiekeambtsdragers.nl
 https://dji.nl
 https://dkd.deventer.nl
 https://dkdtest.deventer.nl
@@ -4046,6 +4049,7 @@ https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.papiamentu.mijncn.nl
 https://feeds.papiamentu.rijksdienstcn.com
 https://feeds.persberichten.rijksoverheid.nl
+https://feeds.politiekeambtsdragers.nl
 https://feeds.rcgog.nl
 https://feeds.rijksoverheid.nl
 https://felix.baarn.nl
@@ -7198,6 +7202,7 @@ https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.papiamentu.mijncn.nl
 https://opendata.papiamentu.rijksdienstcn.com
 https://opendata.persberichten.rijksoverheid.nl
+https://opendata.politiekeambtsdragers.nl
 https://opendata.rcgog.nl
 https://opendata.rijksoverheid.nl
 https://opendata.roosendaal.nl
@@ -7626,6 +7631,7 @@ https://podiumd-openklant.deventer.nl
 https://podiumd-openzaak.deventer.nl
 https://podiumd-zac.deventer.nl
 https://point.assen.nl
+https://politiekeambtsdragers.nl
 https://pollerscs.rotterdam.nl
 https://pom.cultureelerfgoed.nl
 https://pop.deventer.nl
@@ -10592,6 +10598,7 @@ https://www.pekela.nl
 https://www.perf.omgevingswet.overheid.nl
 https://www.pijnacker-nootdorp.nl
 https://www.platform.culemborg.nl
+https://www.politiekeambtsdragers.nl
 https://www.portal.groningen.nl
 https://www.portal.olst-wijhe.nl
 https://www.positionering.denhaag.nl

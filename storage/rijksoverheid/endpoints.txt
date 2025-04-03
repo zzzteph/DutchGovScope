@@ -243,6 +243,7 @@ https://api-sec.p-direkt.nl
 https://api.acc.ncsc.nl
 https://api.belastingdienst.nl
 https://api.brabant.nl
+https://api.burgemeesterworden.politiekeambtsdragers.nl
 https://api.klopt.cibg.nl
 https://api.linkeddata.cultureelerfgoed.nl
 https://api.mijn.acc.ncsc.nl
@@ -365,6 +366,7 @@ https://brt.test.basisregistraties.overheid.nl
 https://bta.omgevingswet.overheid.nl
 https://bureauncdr.nl
 https://bureauwsnp.nl
+https://burgemeesterworden.politiekeambtsdragers.nl
 https://burgerloket.hhdelfland.nl
 https://bvd-pre.mev.logius.nl
 https://bvd.mev.logius.nl
@@ -523,6 +525,7 @@ https://digilab.overheid.nl
 https://digitaalstelselmobiliteitsdata.nl
 https://dihoo.eu
 https://dihoo.nl
+https://diversiteitsplein.politiekeambtsdragers.nl
 https://dji.nl
 https://dmo.omgevingswet.overheid.nl
 https://dnadatabank.forensischinstituut.nl
@@ -926,6 +929,7 @@ https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.papiamentu.mijncn.nl
 https://feeds.papiamentu.rijksdienstcn.com
 https://feeds.persberichten.rijksoverheid.nl
+https://feeds.politiekeambtsdragers.nl
 https://feeds.rcgog.nl
 https://feeds.rijksoverheid.nl
 https://fibb1.belastingdienst.nl
@@ -1652,6 +1656,7 @@ https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.papiamentu.mijncn.nl
 https://opendata.papiamentu.rijksdienstcn.com
 https://opendata.persberichten.rijksoverheid.nl
+https://opendata.politiekeambtsdragers.nl
 https://opendata.rcgog.nl
 https://opendata.rijksoverheid.nl
 https://opendisdata.nza.nl
@@ -1717,6 +1722,7 @@ https://plan-plan-validatie.pre.omgevingswet.overheid.nl
 https://pmm.belastingdienst.nl
 https://pmz-pre.logius.nl
 https://pmz.logius.nl
+https://politiekeambtsdragers.nl
 https://pom.cultureelerfgoed.nl
 https://portaal-a.ikz.nl
 https://portaal.belastingdienst.nl
@@ -2361,6 +2367,7 @@ https://www.overtoeslagen.nl
 https://www.p-direkt.nl
 https://www.pagw.nl
 https://www.perf.omgevingswet.overheid.nl
+https://www.politiekeambtsdragers.nl
 https://www.pre.omgevingswet.overheid.nl
 https://www.ras-acc.nvwa.nl
 https://www.rcgog.nl

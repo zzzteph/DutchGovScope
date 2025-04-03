@@ -38,8 +38,8 @@ vpn
 parkeren
 adfs
 raad
-api.meldingen
 a-www
+api.meldingen
 broker
 feeds.english
 opendata.english
@@ -47,9 +47,9 @@ betalen
 testeloket
 zaaksysteem-accept
 ruimtelijkeplannen
-werkenbij
 a-feeds
 a-opendata
+werkenbij
 enterpriseenrollment
 pv
 gemeenteraad
@@ -3611,6 +3611,9 @@ static.aladdin
 static.appstore
 stats.aladdin
 streefbeelden
+api.burgemeesterworden
+burgemeesterworden
+diversiteitsplein
 email.mail.participatie
 mail.participatie
 aalten-checker-preprod
