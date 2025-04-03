@@ -1253,6 +1253,7 @@ feeds.knmiprojects.nl
 feeds.koninklijkhuis.nl
 feeds.koopoverheid.nl
 feeds.leefbaarenveilig.nl
+feeds.leerenontwikkelplein.nl
 feeds.nieuwsbrievenminocw.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.persberichten.rijksoverheid.nl
@@ -1691,6 +1692,7 @@ le-webservices.belastingdienst.nl
 leefbaarenveilig.nl
 leereco.acc.belastingdienst.nl
 leereco.belastingdienst.nl
+leerenontwikkelplein.nl
 leerplatform.it-academieoverheid.nl
 legacy.flevoland.nl
 leiderschap.belastingdienst.nl
@@ -2221,6 +2223,7 @@ opendata.knmiprojects.nl
 opendata.koninklijkhuis.nl
 opendata.koopoverheid.nl
 opendata.leefbaarenveilig.nl
+opendata.leerenontwikkelplein.nl
 opendata.nieuwsbrievenminocw.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.persberichten.rijksoverheid.nl
@@ -3038,6 +3041,8 @@ website.acc.belastingdienst.nl
 website.belastingdienst.nl
 webtest10.rijksoverheid.nl
 wegen.brabant.nl
+welkom-zandbak.leerenontwikkelplein.nl
+welkom.leerenontwikkelplein.nl
 werken.belastingdienst.nl
 werken.toeslagen.nl
 werkenbij.justid.nl
@@ -3285,6 +3290,7 @@ www.knmiprojects.nl
 www.koninklijkhuis.nl
 www.koopoverheid.nl
 www.leefbaarenveilig.nl
+www.leerenontwikkelplein.nl
 www.logius.nl
 www.mail.bureauwsnp.nl
 www.metelkaartrekkenwedegrens.nl

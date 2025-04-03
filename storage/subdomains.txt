@@ -434,6 +434,7 @@ qmanage
 veiligmailen
 loket-acc
 burgerloket.acceptatie
+welkom
 loket.test
 www.acceptatie
 secure-test
@@ -700,7 +701,6 @@ authenticatiedienst.preprod
 edge
 vergunningintaker.preprod
 www.piwik
-welkom
 www.belastingbalie
 burgerportaal
 mijnsubsidie
@@ -3313,6 +3313,7 @@ www-old
 test2
 woordenboek
 innovatielab
+welkom-zandbak
 email.mail.participatie
 mail.participatie
 aalten-checker-preprod

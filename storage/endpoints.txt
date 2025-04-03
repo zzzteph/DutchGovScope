@@ -3847,6 +3847,7 @@ https://feeds.knmiprojects.nl
 https://feeds.koninklijkhuis.nl
 https://feeds.koopoverheid.nl
 https://feeds.leefbaarenveilig.nl
+https://feeds.leerenontwikkelplein.nl
 https://feeds.nieuwsbrievenminocw.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.persberichten.rijksoverheid.nl
@@ -5373,6 +5374,7 @@ https://le-webservices.belastingdienst.nl
 https://ledeacker.landvancuijk.nl
 https://leefbaarenveilig.nl
 https://leenvervoermilieuparken.rotterdam.nl
+https://leerenontwikkelplein.nl
 https://leerlingenvervoer.rotterdam.nl
 https://leerlingzaken.denhaag.nl
 https://leeromgeving-mijnleno-a.amsterdam.nl
@@ -6760,6 +6762,7 @@ https://opendata.knmiprojects.nl
 https://opendata.koninklijkhuis.nl
 https://opendata.koopoverheid.nl
 https://opendata.leefbaarenveilig.nl
+https://opendata.leerenontwikkelplein.nl
 https://opendata.nieuwsbrievenminocw.nl
 https://opendata.nijmegen.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
@@ -9143,7 +9146,9 @@ https://weesp.amsterdam.nl
 https://weespbegroot.amsterdam.nl
 https://wegen.brabant.nl
 https://wegwijsplus.vught.nl
+https://welkom-zandbak.leerenontwikkelplein.nl
 https://welkom.helmond.nl
+https://welkom.leerenontwikkelplein.nl
 https://welkom.zeist.nl
 https://welkombij.helmond.nl
 https://werk.landvancuijk.nl
@@ -9867,6 +9872,7 @@ https://www.landvancuijk.nl
 https://www.lansingerland.nl
 https://www.laren.nl
 https://www.leefbaarenveilig.nl
+https://www.leerenontwikkelplein.nl
 https://www.leeuwarden.nl
 https://www.leiden.nl
 https://www.leiderdorp.nl

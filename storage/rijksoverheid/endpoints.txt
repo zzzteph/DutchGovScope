@@ -727,6 +727,7 @@ https://feeds.knmiprojects.nl
 https://feeds.koninklijkhuis.nl
 https://feeds.koopoverheid.nl
 https://feeds.leefbaarenveilig.nl
+https://feeds.leerenontwikkelplein.nl
 https://feeds.nieuwsbrievenminocw.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.persberichten.rijksoverheid.nl
@@ -916,6 +917,7 @@ https://kwaliteitsdashboard-koop.overheid.nl
 https://le-webservices-beta.belastingdienst.nl
 https://le-webservices.belastingdienst.nl
 https://leefbaarenveilig.nl
+https://leerenontwikkelplein.nl
 https://leerplatform.it-academieoverheid.nl
 https://lil.cultureelerfgoed.nl
 https://linkeddata.cultureelerfgoed.nl
@@ -1215,6 +1217,7 @@ https://opendata.knmiprojects.nl
 https://opendata.koninklijkhuis.nl
 https://opendata.koopoverheid.nl
 https://opendata.leefbaarenveilig.nl
+https://opendata.leerenontwikkelplein.nl
 https://opendata.nieuwsbrievenminocw.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.persberichten.rijksoverheid.nl
@@ -1530,6 +1533,8 @@ https://webservices.bigregister.nl
 https://webservices.hdsr.nl
 https://website.belastingdienst.nl
 https://wegen.brabant.nl
+https://welkom-zandbak.leerenontwikkelplein.nl
+https://welkom.leerenontwikkelplein.nl
 https://werken.belastingdienst.nl
 https://werken.toeslagen.nl
 https://werkenbij.justid.nl
@@ -1739,6 +1744,7 @@ https://www.knmiprojects.nl
 https://www.koninklijkhuis.nl
 https://www.koopoverheid.nl
 https://www.leefbaarenveilig.nl
+https://www.leerenontwikkelplein.nl
 https://www.logius.nl
 https://www.metelkaartrekkenwedegrens.nl
 https://www.mijn.dus-i.nl

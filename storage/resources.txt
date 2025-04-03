@@ -5986,6 +5986,7 @@ feeds.knmiprojects.nl
 feeds.koninklijkhuis.nl
 feeds.koopoverheid.nl
 feeds.leefbaarenveilig.nl
+feeds.leerenontwikkelplein.nl
 feeds.nieuwsbrievenminocw.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.persberichten.rijksoverheid.nl
@@ -8997,6 +8998,7 @@ leefbuiten.almere.nl
 leenvervoermilieuparken.rotterdam.nl
 leereco.acc.belastingdienst.nl
 leereco.belastingdienst.nl
+leerenontwikkelplein.nl
 leerlingenvervoer.rotterdam.nl
 leerlingzaken.denhaag.nl
 leeromgeving-mijnleno-a.amsterdam.nl
@@ -11431,6 +11433,7 @@ opendata.knmiprojects.nl
 opendata.koninklijkhuis.nl
 opendata.koopoverheid.nl
 opendata.leefbaarenveilig.nl
+opendata.leerenontwikkelplein.nl
 opendata.nieuwsbrievenminocw.nl
 opendata.nijmegen.nl
 opendata.papiamentu.belastingdienst-cn.nl
@@ -16477,8 +16480,10 @@ wegwijsplus.vught.nl
 wegwijzer.nijkerk.eu
 welbo.alphenaandenrijn.nl
 welbotest.alphenaandenrijn.nl
+welkom-zandbak.leerenontwikkelplein.nl
 welkom.ede.nl
 welkom.helmond.nl
+welkom.leerenontwikkelplein.nl
 welkom.zeist.nl
 welkombij.helmond.nl
 welstand.venlo.nl
@@ -17674,6 +17679,7 @@ www.lauwersmeer.groningen.nl
 www.ld-01.hellevoetsluis.nl
 www.ldap.gemeentehulst.nl
 www.leefbaarenveilig.nl
+www.leerenontwikkelplein.nl
 www.leeuwarden.nl
 www.legacy.gemeentewestland.nl
 www.leiden.nl
