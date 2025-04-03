@@ -29,8 +29,8 @@ werkplek
 dkd
 portal
 meldingen
-open
 geo
+open
 afspraak
 waarmerk
 vpn
@@ -140,6 +140,7 @@ _dmarc
 a-english
 lyncdiscover
 web
+zaaksysteem
 connect.acceptatie
 preprodbroker
 simform
@@ -157,8 +158,8 @@ mailing
 maps
 email
 geoportaal
+onderzoek
 AutoDiscover
-zaaksysteem
 auth
 keycloak
 gisib
@@ -177,7 +178,6 @@ jaarstukken
 cryptshare
 fs
 kennisbank
-onderzoek
 legacy
 mobile
 belastingportaal
@@ -219,6 +219,7 @@ m
 webservices
 website
 meet
+publicaties
 wachtwoord
 archief
 guest
@@ -243,8 +244,8 @@ filetransfer
 services
 dialin
 beheer
+atlas
 beeldbank-bo
-publicaties
 werkenvoor
 xential
 exchange
@@ -271,12 +272,12 @@ servicedesk
 zoeken
 omgevingswet
 app
-atlas
 esb
 mam
 subsidie
 desktop
 burgerloket
+digikoppelingtest
 mijnzorg-acc
 vergunningintaker-preprod
 simform-preproductie
@@ -335,7 +336,6 @@ squit2020publiceren
 intranetcms
 liquit
 radius
-digikoppelingtest
 www.gemeenteraad
 acc.piwik
 dkdtest
@@ -359,8 +359,11 @@ test.digikoppeling
 mijnloket
 geoservices
 nhr
+redactie
 geotest
 projecten
+geoweb
+media
 midoffice
 participatie
 documenten
@@ -436,13 +439,14 @@ oud
 qmanage
 veiligmailen
 loket-acc
-redactie
+zaaksysteem-acc
 burgerloket.acceptatie
 welkom
 sentry
 staging
 stats
 aanvragen
+vacatures
 loket.test
 www.acceptatie
 secure-test
@@ -460,7 +464,6 @@ moh-acc
 moh
 werk
 www2
-media
 kaartviewer
 mijnmobiel
 personeelsplanning
@@ -514,7 +517,6 @@ www.werkplek
 gemeentebestuur
 lyncweb
 servicegateway
-geoweb
 pip
 testdigikoppeling
 acceptatie-intranet
@@ -568,9 +570,9 @@ connect-acpt
 services-test
 mailings
 begroting2020
+preprodformulieren
 kantoor
 www1
-zaaksysteem-acc
 geoportaaltest
 samenveiligwerken
 teams
@@ -741,7 +743,6 @@ preprod-mijnsociaaldomein
 autorisatiebeheer-test
 bzg1-acc
 key2datadistributie
-vacatures
 monitoring
 wozportaal
 aanvragenpreprod
@@ -885,7 +886,6 @@ jaarverslag2017
 jaarverslag2018
 omgevingsplan
 oudewebsite
-preprodformulieren
 academy
 fme
 wsus
@@ -3550,6 +3550,14 @@ zorgproducten
 acc-open-wave
 gisviewer
 open-wave
+bkk
+constructiestukken
+core
+geluidskaart
+geodocs
+meldingbwt
+meldingwd
+odin
 email.mail.participatie
 mail.participatie
 aalten-checker-preprod
