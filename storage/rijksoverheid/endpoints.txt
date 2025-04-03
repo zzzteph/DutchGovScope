@@ -586,8 +586,10 @@ https://e.videobellen.toeslagen.nl
 https://easyrules.ilent.nl
 https://eavgb-acc.aivd.nl
 https://eavgb.aivd.nl
+https://ebms-preprod.provincie.drenthe.nl
 https://ebms.contentbeheer.acc.omgevingswet.overheid.nl
 https://ebms.contentbeheer.omgevingswet.overheid.nl
+https://ebms.provincie.drenthe.nl
 https://ebms.service.bta.omgevingswet.overheid.nl
 https://editor-drp-preprd.overheid.nl
 https://editor-drp.overheid.nl
@@ -671,11 +673,13 @@ https://esb-ibabs.flevoland.nl
 https://esb-p1.brabant.nl
 https://esb-preprod.flevoland.nl
 https://esb-preprod.provincie-utrecht.nl
+https://esb-preprod.provincie.drenthe.nl
 https://esb-t1.brabant.nl
 https://esb-test.brabant.nl
 https://esb.brabant.nl
 https://esb.flevoland.nl
 https://esb.provincie-utrecht.nl
+https://esb.provincie.drenthe.nl
 https://esp.provincie-utrecht.nl
 https://espt.provincie-utrecht.nl
 https://eubtw.belastingdienst.nl
@@ -977,12 +981,14 @@ https://forms.nvwa.nl
 https://formulier.cultureelerfgoed.nl
 https://formulier.emissieautoriteit.nl
 https://formulier.werkenvoornederland.nl
+https://formulieren-preprod.provincie.drenthe.nl
 https://formulieren.brabant.nl
 https://formulieren.flevoland.nl
 https://formulieren.limburg.nl
 https://formulieren.nvwa.nl
 https://formulieren.odmh.nl
 https://formulieren.provincie-utrecht.nl
+https://formulieren.provincie.drenthe.nl
 https://foto-opdracht.cultureelerfgoed.nl
 https://fs.ctgb.nl
 https://fsvportaal.belastingdienst.nl
@@ -1460,6 +1466,7 @@ https://open-overheid.nl
 https://open-wave.odijmond.nl
 https://open.brabant.nl
 https://open.overheid.nl
+https://open.provincie.drenthe.nl
 https://openbare-inspectieresultaten.nvwa.nl
 https://opendata.a2vonderenkerensheide.nl
 https://opendata.aanbiedersmedicijnen.nl
@@ -2462,6 +2469,7 @@ https://www.pre.omgevingswet.overheid.nl
 https://www.prolander.nl
 https://www.prosecutionservice.nl
 https://www.provincie-utrecht.nl
+https://www.provincie.drenthe.nl
 https://www.ras-acc.nvwa.nl
 https://www.rcgog.nl
 https://www.rijksoverheid.nl
