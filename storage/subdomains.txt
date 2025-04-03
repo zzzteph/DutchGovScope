@@ -84,8 +84,8 @@ hybrid
 kaarten
 zaken
 magazines
-cloudadapter
 portaal
+cloudadapter
 cmsintranet
 test-intranet
 berichten
@@ -240,6 +240,7 @@ contact
 filetransfer
 services
 dialin
+beheer
 beeldbank-bo
 publicaties
 werkenvoor
@@ -269,7 +270,6 @@ servicedesk
 academie
 zoeken
 omgevingswet
-beheer
 atlas
 esb
 mam
@@ -426,6 +426,7 @@ start
 werken
 av
 gisservices
+acceptatie.beheer
 dataportaal
 www.kaarten
 www.mail
@@ -548,7 +549,6 @@ social
 zoek
 helloid
 pushmail
-acceptatie.beheer
 acceptatie.mijn
 connect-with
 esb-test
@@ -3342,6 +3342,9 @@ jet-test
 nox.intranet
 zakelijk-acc
 zakelijk
+acceptatie.portaal
+acceptatie.uzipas.portaal
+uzipas.portaal
 email.mail.participatie
 mail.participatie
 aalten-checker-preprod
