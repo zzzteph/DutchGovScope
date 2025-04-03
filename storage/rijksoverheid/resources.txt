@@ -1013,6 +1013,7 @@ english.iob-evaluatie.nl
 english.kiesraad.nl
 english.kimnet.nl
 english.knmidata.nl
+english.marechaussee.nl
 english.sso3w.nl
 enterpriseenrollment.cbg-meb.nl
 enterpriseregistration.belastingdienst.nl
@@ -1198,6 +1199,7 @@ feeds.english.iob-evaluatie.nl
 feeds.english.kiesraad.nl
 feeds.english.kimnet.nl
 feeds.english.knmidata.nl
+feeds.english.marechaussee.nl
 feeds.english.sso3w.nl
 feeds.erfgoeddeal.nl
 feeds.euthanasiecommissie.nl
@@ -1263,6 +1265,7 @@ feeds.lintjes.nl
 feeds.loonaangifteketen.nl
 feeds.lvmb.nl
 feeds.maatwerkvoormensen.nl
+feeds.marechaussee.nl
 feeds.nieuwsbrievenminocw.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.persberichten.rijksoverheid.nl
@@ -1812,6 +1815,7 @@ mam.justid.nl
 managedservices.logius.nl
 manager.klopt.cibg.nl
 maps.aaenmaas.nl
+marechaussee.nl
 mass.cultureelerfgoed.nl
 max.dus-i.nl
 mbg-proxy.flevoland.nl
@@ -2186,6 +2190,7 @@ opendata.english.iob-evaluatie.nl
 opendata.english.kiesraad.nl
 opendata.english.kimnet.nl
 opendata.english.knmidata.nl
+opendata.english.marechaussee.nl
 opendata.english.sso3w.nl
 opendata.euthanasiecommissie.nl
 opendata.excellentescholen.nl
@@ -2251,6 +2256,7 @@ opendata.lintjes.nl
 opendata.loonaangifteketen.nl
 opendata.lvmb.nl
 opendata.maatwerkvoormensen.nl
+opendata.marechaussee.nl
 opendata.nieuwsbrievenminocw.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.persberichten.rijksoverheid.nl
@@ -3330,6 +3336,7 @@ www.loonaangifteketen.nl
 www.lvmb.nl
 www.maatwerkvoormensen.nl
 www.mail.bureauwsnp.nl
+www.marechaussee.nl
 www.metelkaartrekkenwedegrens.nl
 www.mijn.dus-i.nl
 www.mijn.overheid.nl

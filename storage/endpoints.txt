@@ -3499,6 +3499,7 @@ https://english.iob-evaluatie.nl
 https://english.kiesraad.nl
 https://english.kimnet.nl
 https://english.knmidata.nl
+https://english.marechaussee.nl
 https://english.sso3w.nl
 https://enkhuizen.nl
 https://enquete-acc.denhaag.nl
@@ -3789,6 +3790,7 @@ https://feeds.english.iob-evaluatie.nl
 https://feeds.english.kiesraad.nl
 https://feeds.english.kimnet.nl
 https://feeds.english.knmidata.nl
+https://feeds.english.marechaussee.nl
 https://feeds.english.sso3w.nl
 https://feeds.erfgoeddeal.nl
 https://feeds.euthanasiecommissie.nl
@@ -3854,6 +3856,7 @@ https://feeds.lintjes.nl
 https://feeds.loonaangifteketen.nl
 https://feeds.lvmb.nl
 https://feeds.maatwerkvoormensen.nl
+https://feeds.marechaussee.nl
 https://feeds.nieuwsbrievenminocw.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.persberichten.rijksoverheid.nl
@@ -5664,6 +5667,7 @@ https://maps.tynaarlo.nl
 https://maps.venlo.nl
 https://maps.vlaardingen.nl
 https://maps.zaanstad.nl
+https://marechaussee.nl
 https://mariahoeveaanzet.denhaag.nl
 https://markt1.nunspeet.nl
 https://marktportaal.hoorn.nl
@@ -6722,6 +6726,7 @@ https://opendata.english.iob-evaluatie.nl
 https://opendata.english.kiesraad.nl
 https://opendata.english.kimnet.nl
 https://opendata.english.knmidata.nl
+https://opendata.english.marechaussee.nl
 https://opendata.english.sso3w.nl
 https://opendata.euthanasiecommissie.nl
 https://opendata.excellentescholen.nl
@@ -6787,6 +6792,7 @@ https://opendata.lintjes.nl
 https://opendata.loonaangifteketen.nl
 https://opendata.lvmb.nl
 https://opendata.maatwerkvoormensen.nl
+https://opendata.marechaussee.nl
 https://opendata.nieuwsbrievenminocw.nl
 https://opendata.nijmegen.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
@@ -9923,6 +9929,7 @@ https://www.losser.nl
 https://www.lvmb.nl
 https://www.maasdriel.nl
 https://www.maatwerkvoormensen.nl
+https://www.marechaussee.nl
 https://www.mariahoeveaanzet.denhaag.nl
 https://www.matenpark.apeldoorn.nl
 https://www.mdm.waterland.nl

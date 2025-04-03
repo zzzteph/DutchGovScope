@@ -5520,6 +5520,7 @@ english.iob-evaluatie.nl
 english.kiesraad.nl
 english.kimnet.nl
 english.knmidata.nl
+english.marechaussee.nl
 english.sso3w.nl
 enkhuizen.nl
 enquete-acc.denhaag.nl
@@ -5931,6 +5932,7 @@ feeds.english.iob-evaluatie.nl
 feeds.english.kiesraad.nl
 feeds.english.kimnet.nl
 feeds.english.knmidata.nl
+feeds.english.marechaussee.nl
 feeds.english.sso3w.nl
 feeds.erfgoeddeal.nl
 feeds.euthanasiecommissie.nl
@@ -5996,6 +5998,7 @@ feeds.lintjes.nl
 feeds.loonaangifteketen.nl
 feeds.lvmb.nl
 feeds.maatwerkvoormensen.nl
+feeds.marechaussee.nl
 feeds.nieuwsbrievenminocw.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.persberichten.rijksoverheid.nl
@@ -9649,6 +9652,7 @@ maps.tynaarlo.nl
 maps.venlo.nl
 maps.vlaardingen.nl
 maps.zaanstad.nl
+marechaussee.nl
 mariahoeveaanzet.denhaag.nl
 marketingtools.goeree-overflakkee.nl
 markt1.nunspeet.nl
@@ -11395,6 +11399,7 @@ opendata.english.iob-evaluatie.nl
 opendata.english.kiesraad.nl
 opendata.english.kimnet.nl
 opendata.english.knmidata.nl
+opendata.english.marechaussee.nl
 opendata.english.sso3w.nl
 opendata.euthanasiecommissie.nl
 opendata.excellentescholen.nl
@@ -11461,6 +11466,7 @@ opendata.lintjes.nl
 opendata.loonaangifteketen.nl
 opendata.lvmb.nl
 opendata.maatwerkvoormensen.nl
+opendata.marechaussee.nl
 opendata.nieuwsbrievenminocw.nl
 opendata.nijmegen.nl
 opendata.papiamentu.belastingdienst-cn.nl
@@ -17748,6 +17754,7 @@ www.mail.gemeentemaasgouw.nl
 www.mail.noord.amsterdam.nl
 www.mail.rhenen.nl
 www.mail.zandvoort.nl
+www.marechaussee.nl
 www.mariahoeveaanzet.denhaag.nl
 www.marketingtools.goeree-overflakkee.nl
 www.mas.groningen.nl
