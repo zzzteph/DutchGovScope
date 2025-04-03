@@ -9,6 +9,7 @@ https://idinloggen.oosterhout.nl
 https://idinloggenpre.oosterhout.nl
 https://infoplein.oosterhout.nl
 https://intranet.oosterhout.nl
+https://oosterhout.nl
 https://subsidies-backend-test.oosterhout.nl
 https://subsidies-backend.oosterhout.nl
 https://subsidies-login.oosterhout.nl

@@ -4,6 +4,7 @@ http://hybrid.kampen.nl
 http://mail.kampen.nl
 http://sem.kampen.nl
 http://smartphone.kampen.nl
+http://www.huursportzaal.kampen.nl
 https://acc-broker.kampen.nl
 https://acc.meldingen.kampen.nl
 https://afspraken.kampen.nl

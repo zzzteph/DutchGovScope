@@ -15,6 +15,7 @@ betalen.laarbeek.nl
 broker.laarbeek.nl
 cmsembrace.laarbeek.nl
 cmsoo.laarbeek.nl
+contact.laarbeek.nl
 dacceptatieloket.laarbeek.nl
 dacceptatiemidoffice.laarbeek.nl
 dloket.laarbeek.nl
@@ -22,12 +23,17 @@ dmidoffice.laarbeek.nl
 dtestloket.laarbeek.nl
 dtestmidoffice.laarbeek.nl
 embrace.laarbeek.nl
+formulier.laarbeek.nl
 iburgerzaken.laarbeek.nl
 ibzpink.laarbeek.nl
 intranet.laarbeek.nl
 laarbeek.nl
 lb-servers.laarbeek.nl
 mail.laarbeek.nl
+mijn.laarbeek.nl
+notificaties.laarbeek.nl
+objecten.laarbeek.nl
+objecttypen.laarbeek.nl
 pki.laarbeek.nl
 secure.laarbeek.nl
 solidariteit.laarbeek.nl

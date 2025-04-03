@@ -6,7 +6,6 @@ https://meerssen.nl
 https://mform.meerssen.nl
 https://mijnafval.meerssen.nl
 https://mstat.meerssen.nl
-https://open.meerssen.nl
 https://outlook.meerssen.nl
 https://simcms-open.meerssen.nl
 https://testeloket.meerssen.nl

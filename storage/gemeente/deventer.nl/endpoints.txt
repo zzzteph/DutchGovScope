@@ -94,6 +94,7 @@ https://spoorzone.deventer.nl
 https://staging.deventer.nl
 https://stroomt.deventer.nl
 https://transform.deventer.nl
+https://vdi.deventer.nl
 https://verkiezingen.deventer.nl
 https://viertfietsen.deventer.nl
 https://vth.deventer.nl

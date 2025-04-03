@@ -1,5 +1,4 @@
 http://Autodiscover.hilversum.nl
-http://autodiscover.hilversum.nl
 https://1221.hilversum.nl
 https://api.meldingen-acc.hilversum.nl
 https://api.meldingen.hilversum.nl

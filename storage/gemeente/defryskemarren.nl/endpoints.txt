@@ -21,7 +21,6 @@ https://openpdc.defryskemarren.nl
 https://openpub.defryskemarren.nl
 https://preprod-edienstaanvragensd.defryskemarren.nl
 https://preprod-mijn.defryskemarren.nl
-https://preprod-mijninkomen.defryskemarren.nl
 https://preprod-mijnportaal.defryskemarren.nl
 https://test-cmsdieuwke.defryskemarren.nl
 https://werkenbij.defryskemarren.nl

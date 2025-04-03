@@ -1,4 +1,5 @@
 http://autodiscover.haarlemmermeer.nl
+http://kaarten.haarlemmermeer.nl
 https://admin.openstad.haarlemmermeer.nl
 https://admin.v2.openstad.haarlemmermeer.nl
 https://afspraak.haarlemmermeer.nl

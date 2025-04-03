@@ -38,6 +38,7 @@ mijn.test.oss.nl
 mijninkomen.oss.nl
 mx.oss.nl
 obsurv.oss.nl
+oss.nl
 portal.oss.nl
 portal.test.oss.nl
 preprod-mijninkomen.oss.nl

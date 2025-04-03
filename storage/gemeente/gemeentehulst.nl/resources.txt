@@ -26,6 +26,7 @@ ldap.gemeentehulst.nl
 loket-acc.gemeentehulst.nl
 loket-ontw.gemeentehulst.nl
 loket.gemeentehulst.nl
+mailscan.gemeentehulst.nl
 mijntalentcenter.gemeentehulst.nl
 parkeren-siam-test.gemeentehulst.nl
 parkeren-siam.gemeentehulst.nl

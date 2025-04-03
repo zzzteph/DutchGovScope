@@ -1,4 +1,5 @@
 http://autodiscover.horstaandemaas.nl
+http://magazines.horstaandemaas.nl
 https://api.horstaandemaas.nl
 https://belastingen.horstaandemaas.nl
 https://cmsoo.horstaandemaas.nl
@@ -14,6 +15,7 @@ https://plannen.horstaandemaas.nl
 https://preprod-belastingen.horstaandemaas.nl
 https://raster.horstaandemaas.nl
 https://sera.horstaandemaas.nl
+https://sts.horstaandemaas.nl
 https://testeloket.horstaandemaas.nl
 https://www.horstaandemaas.nl
 https://zwembad.horstaandemaas.nl

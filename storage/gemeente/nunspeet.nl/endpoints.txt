@@ -1,4 +1,3 @@
-http://testmarkt1.nunspeet.nl
 https://acceptatie.nunspeet.nl
 https://broker.nunspeet.nl
 https://cmsmarkt1.nunspeet.nl
@@ -16,6 +15,7 @@ https://nunspeet-checker.nunspeet.nl
 https://nunspeet.nl
 https://preprod.vergunningintaker.nunspeet.nl
 https://preprodbroker.nunspeet.nl
+https://remote.nunspeet.nl
 https://test-eloket.nunspeet.nl
 https://testcms-markt1.nunspeet.nl
 https://vergunningintaker.nunspeet.nl

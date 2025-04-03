@@ -1,4 +1,5 @@
 http://autodiscover.delft.nl
+http://datatest.delft.nl
 https://aanmelder.delft.nl
 https://abonneren-t.delft.nl
 https://abonneren.delft.nl
@@ -7,7 +8,6 @@ https://begroting.delft.nl
 https://cryptshare.delft.nl
 https://cryptsharetest.delft.nl
 https://data.delft.nl
-https://datatest.delft.nl
 https://delft.nl
 https://feedback.delft.nl
 https://financieel.delft.nl

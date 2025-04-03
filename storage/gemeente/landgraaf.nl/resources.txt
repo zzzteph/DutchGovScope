@@ -1,3 +1,4 @@
+_autodiscover._tcp.landgraaf.nl
 academie.landgraaf.nl
 acceptatie.landgraaf.nl
 adfs.landgraaf.nl

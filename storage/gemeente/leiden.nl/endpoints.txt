@@ -1,5 +1,7 @@
 http://autodiscover.leiden.nl
 http://m.leiden.nl
+http://www.doemee.leiden.nl
+https://acc-beeldbank.leiden.nl
 https://acc.easyfunders.leiden.nl
 https://acc.login.subsidie.leiden.nl
 https://acc.subsidie.leiden.nl
@@ -9,6 +11,7 @@ https://api.meldingen-acc.leiden.nl
 https://api.meldingen.leiden.nl
 https://api.tod.leiden.nl
 https://app-ldn.leiden.nl
+https://beeldbank.leiden.nl
 https://bestuursrapportage.leiden.nl
 https://binnenstad.leiden.nl
 https://designsystem.leiden.nl
@@ -41,6 +44,7 @@ https://subsidie.leiden.nl
 https://subsites.leiden.nl
 https://test.api.tod.leiden.nl
 https://test.designsystem.leiden.nl
+https://test.formulieren.leiden.nl
 https://test.lab.tod.leiden.nl
 https://test.subsites.leiden.nl
 https://vergunning.leiden.nl

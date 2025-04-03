@@ -1,4 +1,5 @@
 http://autodiscover.middelburg.nl
+http://simcms.middelburg.nl
 https://begroting.middelburg.nl
 https://bestuursrapportage.middelburg.nl
 https://eloket.middelburg.nl
@@ -14,8 +15,6 @@ https://regieportaal-test.middelburg.nl
 https://regieportaal.middelburg.nl
 https://samenwerkingbelastingen-test.middelburg.nl
 https://samenwerkingbelastingen.middelburg.nl
-https://simcms.middelburg.nl
 https://testloket.middelburg.nl
-https://www.middelburg.nl
 https://zorg-acc.middelburg.nl
 https://zorg.middelburg.nl

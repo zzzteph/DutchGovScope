@@ -1,3 +1,4 @@
+http://www.halderberge.nl
 https://edienstenburgerzaken-test.halderberge.nl
 https://edienstenburgerzaken.halderberge.nl
 https://felix.halderberge.nl
@@ -9,7 +10,8 @@ https://halnet.halderberge.nl
 https://mijnzaken.halderberge.nl
 https://ons.halderberge.nl
 https://open.halderberge.nl
+https://probeer.halderberge.nl
 https://ro.halderberge.nl
-https://simcms.halderberge.nl
 https://webmail.halderberge.nl
+https://werkplek.halderberge.nl
 https://zaaksysteem-accept.halderberge.nl

@@ -1,3 +1,4 @@
+_autodiscover._tcp.raalte.nl
 _sipfederationtls._tcp.raalte.nl
 acc-broker.raalte.nl
 afspraken.raalte.nl

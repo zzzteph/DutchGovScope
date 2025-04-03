@@ -1,6 +1,4 @@
 http://autodiscover.gorinchem.nl
-http://formulieren.gorinchem.nl
-http://preproductie.gorinchem.nl
 https://aanmelden.gorinchem.nl
 https://acc.gorinchem.nl
 https://adfs.gorinchem.nl
@@ -25,8 +23,10 @@ https://neuron.gorinchem.nl
 https://open.gorinchem.nl
 https://powerbrowser-esb.gorinchem.nl
 https://powerbrowsertest-esb.gorinchem.nl
+https://preproductie.gorinchem.nl
 https://remote.gorinchem.nl
 https://ruimtelijkeplannen.gorinchem.nl
+https://simsite.gorinchem.nl
 https://sportencultuur.gorinchem.nl
 https://trobit.gorinchem.nl
 https://verhuursport.gorinchem.nl

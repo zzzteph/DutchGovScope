@@ -1,4 +1,5 @@
-http://simsite.landgraaf.nl
+http://simcms.landgraaf.nl
+http://www.landgraaf.nl
 https://academie.landgraaf.nl
 https://adfs.landgraaf.nl
 https://edienstenburgerzaken-test.landgraaf.nl
@@ -9,3 +10,5 @@ https://intranet.landgraaf.nl
 https://klantcontact.landgraaf.nl
 https://landgraaf.nl
 https://pre-inloggen.landgraaf.nl
+https://preproductie.landgraaf.nl
+https://simsite.landgraaf.nl

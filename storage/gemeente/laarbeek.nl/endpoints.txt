@@ -16,9 +16,15 @@ https://api.betalen.laarbeek.nl
 https://betalen.laarbeek.nl
 https://broker.laarbeek.nl
 https://cmsoo.laarbeek.nl
+https://contact.laarbeek.nl
 https://dacceptatieloket.laarbeek.nl
 https://dloket.laarbeek.nl
+https://formulier.laarbeek.nl
 https://iburgerzaken.laarbeek.nl
 https://intranet.laarbeek.nl
 https://laarbeek.nl
+https://mijn.laarbeek.nl
+https://notificaties.laarbeek.nl
+https://objecten.laarbeek.nl
+https://objecttypen.laarbeek.nl
 https://www.laarbeek.nl

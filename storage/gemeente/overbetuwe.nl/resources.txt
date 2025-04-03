@@ -53,6 +53,7 @@ mail.overbetuwe.nl
 mam.overbetuwe.nl
 mdm.overbetuwe.nl
 mijn-acc.overbetuwe.nl
+mijn.overbetuwe.nl
 mks.overbetuwe.nl
 mylex1.gem.overbetuwe.nl
 nivo-acc.overbetuwe.nl

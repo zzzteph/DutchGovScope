@@ -1,5 +1,3 @@
-http://ftp.lopik.nl
-http://intranet.lopik.nl
 https://acd.lopik.nl
 https://afspraak.lopik.nl
 https://alwayson.lopik.nl
@@ -11,7 +9,10 @@ https://crl.lopik.nl
 https://edienstenburgerzaken-test.lopik.nl
 https://edienstenburgerzaken.lopik.nl
 https://ews.lopik.nl
+https://felix.lopik.nl
 https://gwo.lopik.nl
+https://intranet.lopik.nl
+https://lopik.nl
 https://mail.lopik.nl
 https://meldingen-acc.lopik.nl
 https://meldingen.lopik.nl

@@ -15,6 +15,7 @@ infoplein.oosterhout.nl
 intranet.oosterhout.nl
 login.regiomonitor-acc.oosterhout.nl
 ontology.regiomonitor-acc.oosterhout.nl
+oosterhout.nl
 plugin.regiomonitor-acc.oosterhout.nl
 regiomonitor-acc.oosterhout.nl
 sportbedrijf.oosterhout.nl

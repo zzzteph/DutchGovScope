@@ -10,6 +10,7 @@ digikoppeling-t.nieuwegein.nl
 edienstenburgerzaken-test.nieuwegein.nl
 edienstenburgerzaken.nieuwegein.nl
 efactuur.nieuwegein.nl
+geodev.nieuwegein.nl
 geoserver.nieuwegein.nl
 huisnet.nieuwegein.nl
 huisnettest.nieuwegein.nl

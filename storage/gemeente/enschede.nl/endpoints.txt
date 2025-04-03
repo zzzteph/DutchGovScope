@@ -60,15 +60,6 @@ https://preprod.enschede.nl
 https://pv.enschede.nl
 https://stadsveld.openstad.enschede.nl
 https://statistieken-intranet.enschede.nl
-https://test-formulier.enschede.nl
-https://test-keycloak.enschede.nl
-https://test-mijn.enschede.nl
-https://test-notificaties.enschede.nl
-https://test-objecten.enschede.nl
-https://test-objecttypen.enschede.nl
-https://test-openklant.enschede.nl
-https://test-openzaak.enschede.nl
-https://test-podiumd-logs.enschede.nl
 https://toegankelijk.enschede.nl
 https://toolbox.openstad.enschede.nl
 https://werkenbij.enschede.nl

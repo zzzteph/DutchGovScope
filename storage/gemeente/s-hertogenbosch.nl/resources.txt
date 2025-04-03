@@ -48,11 +48,11 @@ mx1.s-hertogenbosch.nl
 mx2.s-hertogenbosch.nl
 ntp1.s-hertogenbosch.nl
 ntp2.s-hertogenbosch.nl
+office.oso.s-hertogenbosch.nl
 ois.accp.s-hertogenbosch.nl
 ois.s-hertogenbosch.nl
 openpdc.s-hertogenbosch.nl
 openpub.s-hertogenbosch.nl
-oso.s-hertogenbosch.nl
 overdrachtsdocument2022.s-hertogenbosch.nl
 parkeren.s-hertogenbosch.nl
 reflex.s-hertogenbosch.nl

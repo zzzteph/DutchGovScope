@@ -1,3 +1,4 @@
+_autodiscover._tcp.oirschot.nl
 afspraken.oirschot.nl
 betalenaan.oirschot.nl
 felix.oirschot.nl

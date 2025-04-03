@@ -9,6 +9,7 @@ contentbeheer.acceptatie.drechterland.nl
 contentbeheer.drechterland.nl
 datab.drechterland.nl
 digitalebalie.drechterland.nl
+drechterland.nl
 durp.drechterland.nl
 edienstenburgerzaken-test.drechterland.nl
 edienstenburgerzaken.drechterland.nl
@@ -18,6 +19,7 @@ inproces.drechterland.nl
 klantportaal.acc.drechterland.nl
 klantportaal.drechterland.nl
 mail.drechterland.nl
+openformulieren-test.drechterland.nl
 openformulieren.drechterland.nl
 openpdc.drechterland.nl
 osb.drechterland.nl

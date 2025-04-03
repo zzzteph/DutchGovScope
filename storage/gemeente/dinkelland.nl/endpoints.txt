@@ -6,7 +6,6 @@ https://edienstenburgerzaken-test.dinkelland.nl
 https://edienstenburgerzaken.dinkelland.nl
 https://gemeenteraad.dinkelland.nl
 https://open.dinkelland.nl
-https://preprod-sociaalportaal.dinkelland.nl
 https://qr.dinkelland.nl
 https://serverruimte.dinkelland.nl
 https://sociaalportaal.dinkelland.nl

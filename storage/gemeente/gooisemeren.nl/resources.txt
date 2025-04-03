@@ -20,6 +20,7 @@ hpdm.gooisemeren.nl
 hybrid.gooisemeren.nl
 iarchief.gooisemeren.nl
 iburgerzaken.gooisemeren.nl
+ibzpink.gooisemeren.nl
 intra.gooisemeren.nl
 kaarten.gooisemeren.nl
 magazines.gooisemeren.nl
@@ -29,7 +30,6 @@ mijn.gooisemeren.nl
 mozard.gooisemeren.nl
 mozardtest.gooisemeren.nl
 omgevingsvisie.gooisemeren.nl
-online.gooisemeren.nl
 open.gooisemeren.nl
 osb.gooisemeren.nl
 plattegronden.gooisemeren.nl

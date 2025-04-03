@@ -21,6 +21,7 @@ uca.hardenberg.nl
 vdi-uitwijk.hardenberg.nl
 vdi.hardenberg.nl
 webmail.hardenberg.nl
+woz-loket-accept.hardenberg.nl
 woz-loket.hardenberg.nl
 www.hardenberg.nl
 zaaksysteem-accept.hardenberg.nl

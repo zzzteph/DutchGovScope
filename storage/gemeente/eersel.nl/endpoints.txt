@@ -1,7 +1,6 @@
-http://eersel.nl
-http://preproductie.eersel.nl
 http://simcms.eersel.nl
-http://simsite.eersel.nl
+https://eersel.nl
 https://iburgerzaken.eersel.nl
 https://jccapi.eersel.nl
+https://preproductie.eersel.nl
 https://woningbouwkaart.eersel.nl

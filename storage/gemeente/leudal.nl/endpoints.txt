@@ -1,5 +1,6 @@
 http://intranet.leudal.nl
 http://simcms-open.leudal.nl
+http://simcms.leudal.nl
 https://adfs.leudal.nl
 https://autodiscover.leudal.nl
 https://broker.leudal.nl
@@ -12,11 +13,11 @@ https://iburgerzaken.leudal.nl
 https://jcc.leudal.nl
 https://leudal-checker-preprod.leudal.nl
 https://leudal-checker.leudal.nl
-https://leudal.nl
 https://open.leudal.nl
 https://pcmonitor.leudal.nl
 https://preproductie.leudal.nl
 https://seg.leudal.nl
+https://simsite.leudal.nl
 https://voice.leudal.nl
 https://webmail.leudal.nl
 https://werkplek.leudal.nl

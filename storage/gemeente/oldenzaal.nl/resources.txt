@@ -65,6 +65,7 @@ webmail.oldenzaal.nl
 wozportaal.oldenzaal.nl
 www.coalitieprogramma.oldenzaal.nl
 www.communicatie.oldenzaal.nl
+www.loket.oldenzaal.nl
 www.oldenzaal.nl
 www.reservering.oldenzaal.nl
 www.squit2go.oldenzaal.nl

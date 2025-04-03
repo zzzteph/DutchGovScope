@@ -9,4 +9,5 @@ https://mijn.lochem.nl
 https://open.lochem.nl
 https://remote.lochem.nl
 https://ruimtelijkeplannen.lochem.nl
+https://testmijn.lochem.nl
 https://www.lochem.nl

@@ -1,5 +1,6 @@
 MiCollab.leiden.nl
 _dmarc.leiden.nl
+acc-beeldbank.leiden.nl
 acc.easyfunders.leiden.nl
 acc.login.subsidie.leiden.nl
 acc.subsidie.leiden.nl
@@ -16,6 +17,7 @@ api.meldingen.leiden.nl
 api.tod.leiden.nl
 app-ldn.leiden.nl
 autodiscover.leiden.nl
+beeldbank.leiden.nl
 bestuursrapportage.leiden.nl
 binnenstad.leiden.nl
 cc.leiden.nl
@@ -63,6 +65,7 @@ subsites.leiden.nl
 test-ipa.leiden.nl
 test.api.tod.leiden.nl
 test.designsystem.leiden.nl
+test.formulieren.leiden.nl
 test.lab.tod.leiden.nl
 test.leiden.nl
 test.subsites.leiden.nl
@@ -72,4 +75,5 @@ vergunning.leiden.nl
 vergunningen.leiden.nl
 werkeninkomen-test.leiden.nl
 werkeninkomen.leiden.nl
+www.doemee.leiden.nl
 www.leiden.nl

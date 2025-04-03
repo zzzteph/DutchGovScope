@@ -2,6 +2,7 @@ https://betalen.castricum.nl
 https://castricum.nl
 https://edienstenburgerzaken-test.castricum.nl
 https://edienstenburgerzaken.castricum.nl
+https://ftp.castricum.nl
 https://klimaatplein.castricum.nl
 https://mijnsociaalplein.castricum.nl
 https://mijnsociaalportaal-acc.castricum.nl

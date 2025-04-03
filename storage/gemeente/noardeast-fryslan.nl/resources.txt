@@ -1,5 +1,6 @@
 acc.noardeast-fryslan.nl
 acceptatie.noardeast-fryslan.nl
+autodiscover.noardeast-fryslan.nl
 bor-acc.noardeast-fryslan.nl
 bor.noardeast-fryslan.nl
 csc.noardeast-fryslan.nl

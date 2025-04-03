@@ -3,6 +3,7 @@ acceptatie.eindhoven.nl
 admanager.zaaksysteem.eindhoven.nl
 api.meldingen.acceptatie.eindhoven.nl
 api.meldingen.eindhoven.nl
+autodiscover.eindhoven.nl
 beeldmateriaal.eindhoven.nl
 belastingbalie.eindhoven.nl
 buurt.eindhoven.nl
@@ -12,7 +13,9 @@ edienstenburgerzaken-test.eindhoven.nl
 edienstenburgerzaken.eindhoven.nl
 ehvsubsidie.eindhoven.nl
 ehvsubsidie.test.eindhoven.nl
+eindhoven.nl
 english.eindhoven.nl
+gisservice.eindhoven.nl
 inkomensbalie.eindhoven.nl
 inloggen.mijnsubsidie.eindhoven.nl
 inloggen.mijnsubsidie.test.eindhoven.nl
@@ -24,8 +27,6 @@ meldingen.acceptatie.eindhoven.nl
 meldingen.eindhoven.nl
 mijnsubsidie.eindhoven.nl
 mijnsubsidie.test.eindhoven.nl
-o1.ptr1924.test.eindhoven.nl
-o1.ptr6943.eindhoven.nl
 oco.eindhoven.nl
 onderzoek.eindhoven.nl
 opname.eindhoven.nl

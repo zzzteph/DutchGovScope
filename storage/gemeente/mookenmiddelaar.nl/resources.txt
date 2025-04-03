@@ -1,11 +1,13 @@
 afspraken.mookenmiddelaar.nl
 autodiscover.cda.mookenmiddelaar.nl
+autodiscover.dgp.mookenmiddelaar.nl
 autodiscover.groenlinks.mookenmiddelaar.nl
 autodiscover.mookenmiddelaar.nl
 autodiscover.natuurlijkgroen.mookenmiddelaar.nl
 autodiscover.pvda.mookenmiddelaar.nl
 autodiscover.vvd.mookenmiddelaar.nl
 belastingen.mookenmiddelaar.nl
+cda.mookenmiddelaar.nl
 data-test.mookenmiddelaar.nl
 data.mookenmiddelaar.nl
 felix.mookenmiddelaar.nl

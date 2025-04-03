@@ -8,6 +8,7 @@ http://pre-ows-app-test.groningen.nl
 http://pre-ows-dmnsapi-test.groningen.nl
 http://pre-ows-emssapi-test.groningen.nl
 http://pre-ows-websrvc-test.groningen.nl
+http://test-cmsintranet.groningen.nl
 http://test-intranet.groningen.nl
 https://aanvraagparkeren.groningen.nl
 https://acc-contact.dev.groningen.nl
@@ -115,7 +116,6 @@ https://stoepvrij.groningen.nl
 https://suikerkwartier.groningen.nl
 https://suikerzijde.groningen.nl
 https://tasman375.groningen.nl
-https://test-cmsintranet.groningen.nl
 https://toegang.groningen.nl
 https://toerisme.groningen.nl
 https://tuinen.groningen.nl

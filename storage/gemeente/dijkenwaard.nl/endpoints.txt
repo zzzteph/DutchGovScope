@@ -1,3 +1,4 @@
+http://geodata.dijkenwaard.nl
 https://afspraak.dijkenwaard.nl
 https://afspraken.dijkenwaard.nl
 https://apps-fat.dijkenwaard.nl
@@ -7,7 +8,6 @@ https://bastion365.dijkenwaard.nl
 https://bestuur.dijkenwaard.nl
 https://dijkenwaard.nl
 https://geodata-acc.dijkenwaard.nl
-https://geodata.dijkenwaard.nl
 https://hetsociaalplein-acc.dijkenwaard.nl
 https://hetsociaalplein.dijkenwaard.nl
 https://iburgerzaken.dijkenwaard.nl

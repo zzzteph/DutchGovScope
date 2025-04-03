@@ -4,6 +4,7 @@ castricum.nl
 download.castricum.nl
 edienstenburgerzaken-test.castricum.nl
 edienstenburgerzaken.castricum.nl
+ftp.castricum.nl
 inloggen.castricum.nl
 intranet.castricum.nl
 klimaatplein.castricum.nl

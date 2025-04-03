@@ -39,16 +39,6 @@ https://openklant.gemert-bakel.nl
 https://openzaak.gemert-bakel.nl
 https://podiumd-logs.gemert-bakel.nl
 https://ruimtelijkeplannen.gemert-bakel.nl
-https://test-contact.gemert-bakel.nl
-https://test-formulier.gemert-bakel.nl
-https://test-keycloak.gemert-bakel.nl
-https://test-mijn.gemert-bakel.nl
-https://test-notificaties.gemert-bakel.nl
-https://test-objecten.gemert-bakel.nl
-https://test-objecttypen.gemert-bakel.nl
-https://test-openklant.gemert-bakel.nl
-https://test-openzaak.gemert-bakel.nl
-https://test-podiumd-logs.gemert-bakel.nl
 https://webmail.gemert-bakel.nl
 https://www.de.gemert-bakel.nl
 https://www.en.cmsoo.gemert-bakel.nl

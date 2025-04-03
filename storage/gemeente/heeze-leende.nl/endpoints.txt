@@ -2,10 +2,10 @@ http://autodiscover.heeze-leende.nl
 https://WOZ-loket.heeze-leende.nl
 https://afspraken.heeze-leende.nl
 https://berichten.heeze-leende.nl
-https://felix.heeze-leende.nl
+https://email.heeze-leende.nl
+https://heeze-leende.nl
 https://iburgerzaken.heeze-leende.nl
-https://preproductie.heeze-leende.nl
-https://simsite.heeze-leende.nl
+https://simcms.heeze-leende.nl
 https://woningbouwkaart.heeze-leende.nl
 https://woz-loket.heeze-leende.nl
 https://www.heeze-leende.nl

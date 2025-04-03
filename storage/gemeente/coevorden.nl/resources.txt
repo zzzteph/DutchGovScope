@@ -27,6 +27,7 @@ ibzpink.coevorden.nl
 iparticipatie.coevorden.nl
 loket.acceptatie.coevorden.nl
 loket.coevorden.nl
+midoffice.coevorden.nl
 mijnshv.coevorden.nl
 nawservice.coevorden.nl
 reserveren.coevorden.nl

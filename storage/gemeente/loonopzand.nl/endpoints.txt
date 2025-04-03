@@ -7,7 +7,6 @@ https://corsa-test.loonopzand.nl
 https://dali.loonopzand.nl
 https://edienstenburgerzaken-test.loonopzand.nl
 https://edienstenburgerzaken.loonopzand.nl
-https://felix.loonopzand.nl
 https://iburgerzaken.loonopzand.nl
 https://intranet.loonopzand.nl
 https://jcc.loonopzand.nl
