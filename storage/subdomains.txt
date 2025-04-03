@@ -2,8 +2,8 @@ www
 
 autodiscover
 iburgerzaken
-ibzpink
 opendata
+ibzpink
 feeds
 edienstenburgerzaken
 intranet
@@ -76,9 +76,9 @@ openpub
 omgevingsvisie
 digikoppeling-test
 cloudadapter-test
+kaart
 formulier
 connect
-kaart
 flowmailer-tracking
 hybrid
 kaarten
@@ -196,6 +196,7 @@ gasten
 ro
 uc
 transfer
+api
 evenementen
 onderzoek
 intranet-acc
@@ -214,7 +215,6 @@ afspraakmaken
 a-feeds.a-english
 a-opendata.a-english
 m
-api
 webservices
 website
 meet
