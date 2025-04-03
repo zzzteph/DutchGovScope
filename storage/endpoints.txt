@@ -3953,6 +3953,7 @@ https://feeds.nederlanddigitaal.nl
 https://feeds.nederlandse-sportraad.nl
 https://feeds.nederlandtegengeorganiseerdemisdaad.nl
 https://feeds.netwerkplatteland.nl
+https://feeds.nieuwsbrieven.rijkswaterstaat.nl
 https://feeds.nieuwsbrievenminocw.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.papiamentu.mijncn.nl
@@ -6983,6 +6984,7 @@ https://opendata.nederlandse-sportraad.nl
 https://opendata.nederlandtegengeorganiseerdemisdaad.nl
 https://opendata.nederlandwereldwijd.nl
 https://opendata.netwerkplatteland.nl
+https://opendata.nieuwsbrieven.rijkswaterstaat.nl
 https://opendata.nieuwsbrievenminocw.nl
 https://opendata.nijmegen.nl
 https://opendata.papiamentu.belastingdienst-cn.nl

@@ -3478,6 +3478,8 @@ informatieservice
 o2.mail.informatieservice
 prod2.opendata
 tst.opendata
+feeds.nieuwsbrieven
+opendata.nieuwsbrieven
 email.mail.participatie
 mail.participatie
 aalten-checker-preprod

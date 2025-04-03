@@ -1379,6 +1379,7 @@ feeds.nederlanddigitaal.nl
 feeds.nederlandse-sportraad.nl
 feeds.nederlandtegengeorganiseerdemisdaad.nl
 feeds.netwerkplatteland.nl
+feeds.nieuwsbrieven.rijkswaterstaat.nl
 feeds.nieuwsbrievenminocw.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.papiamentu.mijncn.nl
@@ -2488,6 +2489,7 @@ opendata.nederlandse-sportraad.nl
 opendata.nederlandtegengeorganiseerdemisdaad.nl
 opendata.nederlandwereldwijd.nl
 opendata.netwerkplatteland.nl
+opendata.nieuwsbrieven.rijkswaterstaat.nl
 opendata.nieuwsbrievenminocw.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.papiamentu.mijncn.nl
