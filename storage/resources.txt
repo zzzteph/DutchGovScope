@@ -6019,6 +6019,7 @@ feeds.nationaalgroeifonds.nl
 feeds.nationaalrapporteur.nl
 feeds.nationaalwegenbestand.nl
 feeds.nationalebijenstrategie.nl
+feeds.ncab.nl
 feeds.nieuwsbrievenminocw.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.papiamentu.mijncn.nl
@@ -10731,6 +10732,7 @@ navigus.landgraaf.nl
 navisiondestoep-acc.nissewaard.nl
 navisiondestoep.nissewaard.nl
 nawservice.coevorden.nl
+ncab.nl
 ncp-api-1.ccmo.nl
 ndbu-acc.utrecht.nl
 ndbu-tst.utrecht.nl
@@ -11529,6 +11531,7 @@ opendata.nationaalgroeifonds.nl
 opendata.nationaalrapporteur.nl
 opendata.nationaalwegenbestand.nl
 opendata.nationalebijenstrategie.nl
+opendata.ncab.nl
 opendata.nieuwsbrievenminocw.nl
 opendata.nijmegen.nl
 opendata.papiamentu.belastingdienst-cn.nl
@@ -17896,6 +17899,7 @@ www.nationaalwegenbestand.nl
 www.nationalebijenstrategie.nl
 www.natuurnetwerken-prod.sudwestfryslan.nl
 www.natuurnetwerken-test.sudwestfryslan.nl
+www.ncab.nl
 www.ndbu-acc.utrecht.nl
 www.ndbu-tst.utrecht.nl
 www.ndbu.utrecht.nl

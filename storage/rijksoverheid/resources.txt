@@ -1286,6 +1286,7 @@ feeds.nationaalgroeifonds.nl
 feeds.nationaalrapporteur.nl
 feeds.nationaalwegenbestand.nl
 feeds.nationalebijenstrategie.nl
+feeds.ncab.nl
 feeds.nieuwsbrievenminocw.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.papiamentu.mijncn.nl
@@ -2050,6 +2051,7 @@ nationaalwegenbestand.nl
 nationalebijenstrategie.nl
 natuur.omgevingswet.overheid.nl
 natuurbeheerplan.flevoland.nl
+ncab.nl
 ncp-api-1.ccmo.nl
 new.mensenrechten.nl
 nexus.lpc.logius.nl
@@ -2319,6 +2321,7 @@ opendata.nationaalgroeifonds.nl
 opendata.nationaalrapporteur.nl
 opendata.nationaalwegenbestand.nl
 opendata.nationalebijenstrategie.nl
+opendata.ncab.nl
 opendata.nieuwsbrievenminocw.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.papiamentu.mijncn.nl
@@ -3421,6 +3424,7 @@ www.nationaalgroeifonds.nl
 www.nationaalrapporteur.nl
 www.nationaalwegenbestand.nl
 www.nationalebijenstrategie.nl
+www.ncab.nl
 www.nieuwsbrievenminocw.nl
 www.officiele-overheidspublicaties.nl
 www.omgevingsplan.flevoland.nl
