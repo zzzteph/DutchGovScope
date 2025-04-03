@@ -1,66 +1,63 @@
-# Dutch Government Bug Bounty Scope Analysis
-Welcome to the repository dedicated to the analysis of the Dutch government's bug bounty program which includes an extensive list of domains, subdomains, and URLs, along with in-depth daily analysis. *This is **NOT** official bugbounty scope.*
+# Dutch Government Bug Bounty Scope
+
+Welcome to the repository dedicated to collecting and maintaining a precise list of the Dutch government's bug bounty scope. This includes domains, subdomains, and endpoints (URLs).  
+*This is **NOT** an official bug bounty scope.*
+
+To report a vulnerability or to learn more about Coordinated Vulnerability Disclosure (CVD), visit:  
+👉 [https://www.ncsc.nl/contact/kwetsbaarheid-melden](https://www.ncsc.nl/contact/kwetsbaarheid-melden)
 
 
-To file a Coordinated Vulnerability Disclosure (CVD) report or to know more, please visit the page [https://www.ncsc.nl/contact/kwetsbaarheid-melden](https://www.ncsc.nl/contact/kwetsbaarheid-melden).
 ## Overview
-This project aims to provide a detailed overview of the digital landscape covered by the Dutch government's bug bounty program. By cataloging and analyzing various aspects of the web infrastructure, it's aim is to contribute to the security and robustness of these digital assets.
+
+This project aims to provide the **most accurate and detailed** list of domains and endpoints that are in scope of the Dutch government’s bug bounty programs. By mapping and monitoring relevant infrastructure, the goal is to support the security and visibility of government digital assets.
+
 ### What is in scope?
-This repository focuses on specific government-related resources. Each resource is selected based on the following criteria:
-1. **Meta Information Requirement:** The resource must include 'RIJKSOVERHEID.Organisatie' in its meta information.
-2. **Government Logo:** It's essential that the resource displays the official government logo.
-3. **Affiliation Declaration:** The page must clearly state its affiliation with the government.
+
+This repository focuses on verified, government-related resources. The scope list is built to ensure **it is the most accurate list available**.  
+
+Each resource is included only if it meets the following criteria:
+
+1. **Meta tag**: The page must include the `RIJKSOVERHEID.Organisatie` meta information.  
+2. **Official logo**: The site must display the Dutch government logo.  
+3. **Clear affiliation**: There must be a clear mention of the official government body or agency.
+
+
 ### How It Works
-Process for updating this repository is thorough and regular. Here's an overview of how it operates:
-1. **Daily Review and Addition:** New resources are added regularly, either through manual review or automatic processes.
-2. **Use of Specialized Tools:** shrewdeye.app and its standalone version are used to build pipeline for analysis and discovery.
-3. **Workflow Pipeline:**
-      - **Subdomain discovery:**  - Shrewdeye.App(API), Amass, Subfinder, Assetfinder, and DnsX.
-      - **DNS Clearout:** This step is dedicated to filtering and clarifying DNS data.
-      - **URL Collection:** Httpx is used for further data processing and refinement.
-      - **SSL Analysis:** Lastly, we apply the SSLLabs API to assess SSL configurations and grades.
+
+The data is collected using a semi-automated pipeline and updated regularly. All analysis is done via **Github actions** and results are stored and synced in the `scan_scope.db` SQLite database. The process includes:
+
+1. **Manual updates**: Input resources are stored in the `/scope` folder.  
+2. **Weekly sync with CommunicatieRijk** data.  
+3. **Automated collection per domain**:
+   - **Subdomain discovery**: Using Amass, Subfinder, and DNSX for validation.  
+   - **Endpoint discovery**: HTTPX filters and confirms valid HTTP/HTTPS endpoints.
 
 
 
-
-This structured approach ensures that our repository is always up-to-date and accurately reflects the current digital landscape of the Dutch government.
-In the [`/data`](/data) directory, there's an analysis of security configurations for various resources, including the following information:
- - **URL**
- - **SSL:** Grade from [https://www.ssllabs.com/ssltest/](https://www.ssllabs.com/ssltest/)
- - **HTTP Rank:** Based on HTTP headers statistics from below
- - **Server:** *Server header* from web server. If not set +5 points
- - **Cookie:** :white_check_mark: if HttpOnly (+7), Secure(+7) and Same-Site(+6) flag are set
- - **HSTS:** :white_check_mark: if *Strict-Transport-Security* header is set(+30)
- - **CSP:** :white_check_mark: if *Content-Security-Policy* header is set(+10) and *unsafe-inline* and *unsafe-eval* not present in configuration (+5)
- - **XFO:** :white_check_mark: if *X-Frame-Options* header is set (+10)
- - **XXP:** :white_check_mark: if *X-Xss-Protection* header is set (+10)
- - **RP:** :white_check_mark: if *Referrer-Policy* header is set (+10)
- - **FP:** :white_check_mark: if *Feature-Policy* header is set (+10)
- - **CORS:** :white_check_mark: if *CORS* header is set without issues (+10)
-## Summary
- - Number of domains: **1445**
- - Number of subdomains: **126254**
- - Number of urls: **124973**
- - Average HTTP Security headers rank: **F**
- - Average SSL grade: **F**
- - Number of [security.txt](https://www.digitaleoverheid.nl/nieuws/standaard-security-txt-nu-verplicht-voor-overheid/): **5751**
 ### Repository Structure
- - [domains.txt](https://raw.githubusercontent.com/zzzteph/DutchGovScope/main/storage/dutchgov/domains.txt): List of **1445** domains in scope
- - [subdomains.txt](https://raw.githubusercontent.com/zzzteph/DutchGovScope/main/storage/dutchgov/subdomains.txt): Detailed list of **126254** alive subdomains.
- - [urls.txt](https://raw.githubusercontent.com/zzzteph/DutchGovScope/main/storage/dutchgov/urls.txt): Compilation of **124973** URLs.
- - [all_subdomains.txt](https://raw.githubusercontent.com/zzzteph/DutchGovScope/main/storage/dutchgov/all_subdomains.txt): All **252260** subdomains that were found all over the time 
-## Links and acknowledgements
- - [bug-bounty-dutch-goverment-scope.md](https://gist.github.com/zzzteph/99a7bd2acde12cb4b2626fc9261bc56d)
- - [basisbeveiliging.nl](https://basisbeveiliging.nl/)
- - [overheid.nl](https://www.overheid.nl/english/dutch-government-websites)
- - [random-robbie/f985ad14fede2c04ac82dd89653f52ad](https://gist.github.com/random-robbie/f985ad14fede2c04ac82dd89653f52ad)
- - [communicatierijk.nl](https://www.communicatierijk.nl/vakkennis/r/rijkswebsites/verplichte-richtlijnen/websiteregister-rijksoverheid)
- - [ncsc.nl](https://www.ncsc.nl/contact/kwetsbaarheid-melden/cvd-meldingen-formulier)
- - [shrewdeye.app](https://shrewdeye.app)
- - [ssllabs.com/ssltest](https://www.ssllabs.com/ssltest/)
- - [securityheaders.com](https://securityheaders.com/)
- - [NCSC HOF](https://www.ncsc.nl/contact/kwetsbaarheid-melden/wall-of-fame)
+
+- [`scope/rijksoverheid.txt`](https://raw.githubusercontent.com/zzzteph/DutchGovScope/refs/heads/main/scope/rijksoverheid.txt) – Current list of **Rijksoverheid** domains  
+- [`scope/gemeente.txt`](https://raw.githubusercontent.com/zzzteph/DutchGovScope/refs/heads/main/scope/gemeente.txt) – Current list of **Gemeente** domains  
+- [`storage/subdomains.txt`](https://raw.githubusercontent.com/zzzteph/DutchGovScope/refs/heads/main/storage/subdomains.txt) – Combined list of all discovered subdomains (Rijksoverheid + Gemeente)  
+- [`storage/endpoints.txt`](https://raw.githubusercontent.com/zzzteph/DutchGovScope/refs/heads/main/storage/endpoints.txt) – Discovered HTTP/HTTPS endpoints  
+- [`storage/subwordlist.txt`](https://raw.githubusercontent.com/zzzteph/DutchGovScope/refs/heads/main/storage/subwordlist.txt) – Wordlist for subdomain bruteforcing, generated from known subdomains  
+- [`storage/rijksoverheid/subdomains.txt`](https://raw.githubusercontent.com/zzzteph/DutchGovScope/refs/heads/main/storage/rijksoverheid/subdomains.txt) – Subdomains related to **Rijksoverheid**  
+- [`storage/rijksoverheid/endpoints.txt`](https://raw.githubusercontent.com/zzzteph/DutchGovScope/refs/heads/main/storage/rijksoverheid/endpoints.txt) – HTTP/HTTPS endpoints under **Rijksoverheid**  
+- [`storage/gemeente/subdomains.txt`](https://raw.githubusercontent.com/zzzteph/DutchGovScope/refs/heads/main/storage/gemeente/subdomains.txt) – Subdomains related to **Gemeente**  
+- [`storage/gemeente/endpoints.txt`](https://raw.githubusercontent.com/zzzteph/DutchGovScope/refs/heads/main/storage/gemeente/endpoints.txt) – HTTP/HTTPS endpoints under **Gemeente**  
 
 
-To file a Coordinated Vulnerability Disclosure (CVD) report or to know more, please visit the page [https://www.ncsc.nl/contact/kwetsbaarheid-melden](https://www.ncsc.nl/contact/kwetsbaarheid-melden).
+## Links and Acknowledgements
 
+- [Bug Bounty Dutch Government Scope – Gist](https://gist.github.com/zzzteph/99a7bd2acde12cb4b2626fc9261bc56d)  
+- [basisbeveiliging.nl](https://basisbeveiliging.nl/)  
+- [overheid.nl](https://www.overheid.nl/english/dutch-government-websites)  
+- [communicatierijk.nl](https://www.communicatierijk.nl/vakkennis/r/rijkswebsites/verplichte-richtlijnen/websiteregister-rijksoverheid)  
+- [ncsc.nl](https://www.ncsc.nl/contact/kwetsbaarheid-melden/cvd-meldingen-formulier)  
+- [shrewdeye.app](https://shrewdeye.app)  
+- [NCSC Wall of Fame](https://www.ncsc.nl/contact/kwetsbaarheid-melden/wall-of-fame)  
+
+---
+
+To report a vulnerability or learn more, please visit:  
+👉 [https://www.ncsc.nl/contact/kwetsbaarheid-melden](https://www.ncsc.nl/contact/kwetsbaarheid-melden)
