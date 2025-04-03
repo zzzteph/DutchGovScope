@@ -902,6 +902,7 @@ https://feeds.onderwijsregio.nl
 https://feeds.onslevendlandschap.nl
 https://feeds.onswater.nl
 https://feeds.oostvaarderskliniek.nl
+https://feeds.open-overheid.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.papiamentu.mijncn.nl
 https://feeds.persberichten.rijksoverheid.nl
@@ -1192,6 +1193,7 @@ https://magazinesintern.rijksoverheid.nl
 https://mail.dihoo.nl
 https://mail.koop.overheid.nl
 https://mail.odmh.nl
+https://mail.open-overheid.nl
 https://mailhog.acc.monumentenregister.cultureelerfgoed.nl
 https://mailing.dus-i.nl
 https://mailing.logius.nl
@@ -1369,6 +1371,7 @@ https://oordelen.mensenrechten.nl
 https://oostvaarderskliniek.nl
 https://open-acc.overheid.nl
 https://open-data.ndw.nu
+https://open-overheid.nl
 https://open-wave.odijmond.nl
 https://open.brabant.nl
 https://open.overheid.nl
@@ -1609,6 +1612,7 @@ https://opendata.onderwijsregio.nl
 https://opendata.onslevendlandschap.nl
 https://opendata.onswater.nl
 https://opendata.oostvaarderskliniek.nl
+https://opendata.open-overheid.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.papiamentu.mijncn.nl
 https://opendata.persberichten.rijksoverheid.nl
@@ -2032,6 +2036,7 @@ https://wikixl-saml.test.cultureelerfgoed.nl
 https://wio.ilent.nl
 https://wms.aanpakringzuid.nl
 https://woo-formulier.rijksoverheid.nl
+https://wooincijfers.open-overheid.nl
 https://woordenboek.klimaatadaptatienederland.nl
 https://wordimport.drop.overheid.nl
 https://wsus.hdsr.nl
@@ -2292,6 +2297,7 @@ https://www.onderwijsregio.nl
 https://www.onslevendlandschap.nl
 https://www.onswater.nl
 https://www.oostvaarderskliniek.nl
+https://www.open-overheid.nl
 https://www.openbare-inspectieresultaten.nvwa.nl
 https://www.overheid.nl
 https://www.perf.omgevingswet.overheid.nl

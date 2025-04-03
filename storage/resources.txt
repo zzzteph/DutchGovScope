@@ -6189,6 +6189,7 @@ feeds.onderwijsregio.nl
 feeds.onslevendlandschap.nl
 feeds.onswater.nl
 feeds.oostvaarderskliniek.nl
+feeds.open-overheid.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.papiamentu.mijncn.nl
 feeds.persberichten.rijksoverheid.nl
@@ -9763,6 +9764,7 @@ mail.ofgv.nl
 mail.onderwijsraad.nl
 mail.oostgelre.nl
 mail.oostvaarderskliniek.nl
+mail.open-overheid.nl
 mail.opsterland.nl
 mail.overbetuwe.nl
 mail.participatie.aalsmeer.nl
@@ -11595,6 +11597,7 @@ open-hub.tilburg.nl
 open-notificaties.cg-intern.acc.utrecht.nl
 open-notificaties.cg-intern.ont.utrecht.nl
 open-notificaties.ot.denhaag.nl
+open-overheid.nl
 open-test.nijmegen.nl
 open-wave.odijmond.nl
 open-zaak.cg-intern.acc.utrecht.nl
@@ -11897,6 +11900,7 @@ opendata.onderwijsregio.nl
 opendata.onslevendlandschap.nl
 opendata.onswater.nl
 opendata.oostvaarderskliniek.nl
+opendata.open-overheid.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.papiamentu.mijncn.nl
 opendata.persberichten.rijksoverheid.nl
@@ -17383,6 +17387,7 @@ woo.hilversum.nl
 woo.krimpenerwaard.nl
 woo.nunspeet.nl
 woo.westerkwartier.nl
+wooincijfers.open-overheid.nl
 wooloket.bernheze.org
 wooninstrumenten.almelo.nl
 woordenboek.klimaatadaptatienederland.nl
@@ -18475,6 +18480,7 @@ www.ooststellingwerf.nl
 www.oostvaarderskliniek.nl
 www.oostzaan.nl
 www.open-notificaties.ot.denhaag.nl
+www.open-overheid.nl
 www.open-zaak.ot.denhaag.nl
 www.open.amsterdam.nl
 www.open.rhenen.nl

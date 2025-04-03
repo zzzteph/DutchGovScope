@@ -7,8 +7,8 @@ iburgerzaken
 ibzpink
 edienstenburgerzaken
 intranet
-edienstenburgerzaken-test
 mail
+edienstenburgerzaken-test
 mijn
 webmail
 simsite
@@ -3585,6 +3585,7 @@ ts
 werkplaats-acc
 werkplaats
 pvs
+wooincijfers
 email.mail.participatie
 mail.participatie
 aalten-checker-preprod
