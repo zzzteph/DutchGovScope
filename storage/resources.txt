@@ -6008,6 +6008,7 @@ feeds.meldpuntgeneesmiddelentekortendefecten.nl
 feeds.mensenrechten.nl
 feeds.mijncn.nl
 feeds.mijnpgb.nl
+feeds.mirtoverzicht.nl
 feeds.nieuwsbrievenminocw.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.papiamentu.mijncn.nl
@@ -10416,6 +10417,8 @@ mill.landvancuijk.nl
 minimi.vlaardingen.nl
 minio.cg-intern.acc.utrecht.nl
 mintra.mookenmiddelaar.nl
+mirt2016.mirtoverzicht.nl
+mirtoverzicht.nl
 mis.waterland.nl
 misc-geo-01.barneveld.nl
 misc-geo-02.barneveld.nl
@@ -11500,6 +11503,7 @@ opendata.meldpuntgeneesmiddelentekortendefecten.nl
 opendata.mensenrechten.nl
 opendata.mijncn.nl
 opendata.mijnpgb.nl
+opendata.mirtoverzicht.nl
 opendata.nieuwsbrievenminocw.nl
 opendata.nijmegen.nl
 opendata.papiamentu.belastingdienst-cn.nl
@@ -17839,6 +17843,7 @@ www.mijnswf.sudwestfryslan.nl
 www.mijntalentcenter.gemeentehulst.nl
 www.mijnuitkering.emmen.nl
 www.milieudienst.groningen.nl
+www.mirtoverzicht.nl
 www.mis.waterland.nl
 www.mm.gemeentemaasgouw.nl
 www.mob.oostgelre.nl

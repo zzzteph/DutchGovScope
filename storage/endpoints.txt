@@ -3866,6 +3866,7 @@ https://feeds.meldpuntgeneesmiddelentekortendefecten.nl
 https://feeds.mensenrechten.nl
 https://feeds.mijncn.nl
 https://feeds.mijnpgb.nl
+https://feeds.mirtoverzicht.nl
 https://feeds.nieuwsbrievenminocw.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.papiamentu.mijncn.nl
@@ -6163,6 +6164,7 @@ https://milieudienst.groningen.nl
 https://milieueducatie.denhaag.nl
 https://mill.landvancuijk.nl
 https://minimi.vlaardingen.nl
+https://mirtoverzicht.nl
 https://mis.waterland.nl
 https://mivbxsrvr.gorinchem.nl
 https://mivp.emissieautoriteit.nl
@@ -6820,6 +6822,7 @@ https://opendata.meldpuntgeneesmiddelentekortendefecten.nl
 https://opendata.mensenrechten.nl
 https://opendata.mijncn.nl
 https://opendata.mijnpgb.nl
+https://opendata.mirtoverzicht.nl
 https://opendata.nieuwsbrievenminocw.nl
 https://opendata.nijmegen.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
@@ -9987,6 +9990,7 @@ https://www.mijnleefomgeving.olst-wijhe.nl
 https://www.mijnpgb.nl
 https://www.mijnuitkering.emmen.nl
 https://www.milieudienst.groningen.nl
+https://www.mirtoverzicht.nl
 https://www.mis.waterland.nl
 https://www.moerdijk.nl
 https://www.molenlanden.nl

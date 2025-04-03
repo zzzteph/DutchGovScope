@@ -1275,6 +1275,7 @@ feeds.meldpuntgeneesmiddelentekortendefecten.nl
 feeds.mensenrechten.nl
 feeds.mijncn.nl
 feeds.mijnpgb.nl
+feeds.mirtoverzicht.nl
 feeds.nieuwsbrievenminocw.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.papiamentu.mijncn.nl
@@ -1972,6 +1973,8 @@ mijnzakelijk1.acc.belastingdienst.nl
 mijnzakelijk2.acc.belastingdienst.nl
 mik-acpt.brabant.nl
 mik.brabant.nl
+mirt2016.mirtoverzicht.nl
+mirtoverzicht.nl
 mivp.emissieautoriteit.nl
 mm.acc.belastingdienst.nl
 mm.belastingdienst.nl
@@ -2290,6 +2293,7 @@ opendata.meldpuntgeneesmiddelentekortendefecten.nl
 opendata.mensenrechten.nl
 opendata.mijncn.nl
 opendata.mijnpgb.nl
+opendata.mirtoverzicht.nl
 opendata.nieuwsbrievenminocw.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.papiamentu.mijncn.nl
@@ -3384,6 +3388,7 @@ www.mijn.overheid.nl
 www.mijncn.nl
 www.mijnpgb.nl
 www.mijnsubsidies-acc.limburg.nl
+www.mirtoverzicht.nl
 www.monumentenregister.cultureelerfgoed.nl
 www.nieuwsbrievenminocw.nl
 www.officiele-overheidspublicaties.nl
