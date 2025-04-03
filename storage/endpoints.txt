@@ -1,3 +1,4 @@
+http://1.ivory.nctv.nl
 http://AutoDiscover.brielle.nl
 http://AutoDiscover.derondevenen.nl
 http://AutoDiscover.drechterland.nl
@@ -2331,6 +2332,7 @@ https://cbgjaarverslag.nl
 https://cbm.demo.mijn.overheid.nl
 https://cbm.mijn.overheid.nl
 https://cbm.preprod.mijn.overheid.nl
+https://cbrnsecurity.nctv.nl
 https://cciwebstats.belastingdienst.nl
 https://ccmo.nl
 https://cdn.klopt.cibg.nl
@@ -2613,6 +2615,7 @@ https://cultuursubsidie.nl
 https://cursus.drop.overheid.nl
 https://cuup-web.amsterdam.nl
 https://cvte.nl
+https://cyberawareness.nctv.nl
 https://cybersecuritycouncil.nl
 https://cybersecurityraad.nl
 https://daalder-dash.makkelijkemarkt.amsterdam.nl
@@ -2780,6 +2783,8 @@ https://desktop5.denhaag.nl
 https://destemvan.groningen.nl
 https://deutsch.postedworkers.nl
 https://dev-formulieren.haarlemmermeer.nl
+https://dev.cbrnsecurity.nctv.nl
+https://dev.kennisbankterrorisme.nctv.nl
 https://dev01.deventer.nl
 https://devapps3.deventer.nl
 https://devapps3.olst-wijhe.nl
@@ -3382,6 +3387,10 @@ https://eijsden-margraten.nl
 https://eikenhof.heemskerk.nl
 https://eindhoven.nl
 https://elburg.nl
+https://elearning-atb.nctv.nl
+https://elearning-basiscrisisbeheersing.nctv.nl
+https://elearning-irb.nctv.nl
+https://elearning-lcp-egt.nctv.nl
 https://elise.rotterdam.nl
 https://elkeregiotelt.nl
 https://elkk.amsterdam.nl
@@ -3521,6 +3530,7 @@ https://english.marechaussee.nl
 https://english.mijncn.nl
 https://english.ncadierproevenbeleid.nl
 https://english.ncsc.nl
+https://english.nctv.nl
 https://english.sso3w.nl
 https://enkhuizen.nl
 https://enquete-acc.denhaag.nl
@@ -3684,6 +3694,7 @@ https://extranet.hengelo.nl
 https://extranet.hethogeland.nl
 https://extranetcms-acc.eemsdelta.nl
 https://extranetcms.eemsdelta.nl
+https://extreemrechts.nctv.nl
 https://ezaken-acceptatie.purmerend.nl
 https://ezaken.purmerend.nl
 https://f2b.belastingdienst.nl
@@ -3815,6 +3826,7 @@ https://feeds.english.marechaussee.nl
 https://feeds.english.mijncn.nl
 https://feeds.english.ncadierproevenbeleid.nl
 https://feeds.english.ncsc.nl
+https://feeds.english.nctv.nl
 https://feeds.english.sso3w.nl
 https://feeds.erfgoeddeal.nl
 https://feeds.euthanasiecommissie.nl
@@ -3897,6 +3909,7 @@ https://feeds.ncab.nl
 https://feeds.ncadierproevenbeleid.nl
 https://feeds.ncpeh.nl
 https://feeds.ncsc.nl
+https://feeds.nctv.nl
 https://feeds.nieuwsbrievenminocw.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.papiamentu.mijncn.nl
@@ -5307,6 +5320,7 @@ https://kennisbank.groningen.nl
 https://kennisbank.hhdelfland.nl
 https://kennisbank.logius.nl
 https://kennisbank.wijdemeren.nl
+https://kennisbankterrorisme.nctv.nl
 https://kenniscentrum-werven.utrecht.nl
 https://kennisgroepen.belastingdienst.nl
 https://kennisnet.deventer.nl
@@ -5656,6 +5670,7 @@ https://magazines.informatiehuishouding.nl
 https://magazines.jeugdautoriteit.nl
 https://magazines.kinderbescherming.nl
 https://magazines.ncsc.nl
+https://magazines.nctv.nl
 https://magazines.rijksoverheid.nl
 https://magazines.rotterdam.nl
 https://magazines.werkenvoornederland.nl
@@ -6303,6 +6318,7 @@ https://mylex.nieuwkoop.nl
 https://mymeeting.veldhoven.nl
 https://mzdtest.bunnik.nl
 https://naardebasisschool.utrecht.nl
+https://nac.nctv.nl
 https://naheffingsaanslag.amsterdam.nl
 https://najaarsbrief.middelburg.nl
 https://najaarsnota.pijnacker-nootdorp.nl
@@ -6320,6 +6336,7 @@ https://ncab.nl
 https://ncadierproevenbeleid.nl
 https://ncpeh.nl
 https://ncsc.nl
+https://nctv.nl
 https://ndbu-acc.utrecht.nl
 https://ndbu-tst.utrecht.nl
 https://ndbu.utrecht.nl
@@ -6800,6 +6817,7 @@ https://opendata.english.marechaussee.nl
 https://opendata.english.mijncn.nl
 https://opendata.english.ncadierproevenbeleid.nl
 https://opendata.english.ncsc.nl
+https://opendata.english.nctv.nl
 https://opendata.english.sso3w.nl
 https://opendata.euthanasiecommissie.nl
 https://opendata.excellentescholen.nl
@@ -6882,6 +6900,7 @@ https://opendata.ncab.nl
 https://opendata.ncadierproevenbeleid.nl
 https://opendata.ncpeh.nl
 https://opendata.ncsc.nl
+https://opendata.nctv.nl
 https://opendata.nieuwsbrievenminocw.nl
 https://opendata.nijmegen.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
@@ -7219,6 +7238,7 @@ https://perspectiefnota.gemeente-steenbergen.nl
 https://pesticidesdatabase.ctgb.nl
 https://petear.brummen.nl
 https://pform.schiedam.nl
+https://pge.nctv.nl
 https://pgw.belastingdienst.nl
 https://phpmyadmin.bodegraven-reeuwijk.nl
 https://pih.belastingdienst.nl
@@ -7530,6 +7550,7 @@ https://pric.rotterdam.nl
 https://prijsvraag-zwembad.apeldoorn.nl
 https://printen.tilburg.nl
 https://privaat.octomon.ncsc.nl
+https://privacy.nctv.nl
 https://privacybewustzijn.bergendal.nl
 https://private.delft.nl
 https://proapp.rotterdam.nl
@@ -7702,6 +7723,7 @@ https://raadzaam.nijmegen.nl
 https://raalte.nl
 https://raas.rotterdam.nl
 https://radar.rotterdam.nl
+https://radicaalofpuberaal.nctv.nl
 https://rads.rotterdam.nl
 https://rap.gemeentesluis.nl
 https://raster.horstaandemaas.nl
@@ -8515,6 +8537,7 @@ https://surveys3.ggd.amsterdam.nl
 https://svhsd-ot.berichtenverkeer.tilburg.nl
 https://svhsd.berichtenverkeer.tilburg.nl
 https://svs-acc.almere.nl
+https://symbolenbank.nctv.nl
 https://synergy.huurcommissie.nl
 https://t1.data.amsterdam.nl
 https://t2.data.amsterdam.nl
@@ -10074,6 +10097,7 @@ https://www.ncab.nl
 https://www.ncadierproevenbeleid.nl
 https://www.ncpeh.nl
 https://www.ncsc.nl
+https://www.nctv.nl
 https://www.ndbu-acc.utrecht.nl
 https://www.ndbu-tst.utrecht.nl
 https://www.ndbu.utrecht.nl
