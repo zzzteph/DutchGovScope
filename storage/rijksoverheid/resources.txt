@@ -1262,6 +1262,7 @@ feeds.leerenontwikkelplein.nl
 feeds.lintjes.nl
 feeds.loonaangifteketen.nl
 feeds.lvmb.nl
+feeds.maatwerkvoormensen.nl
 feeds.nieuwsbrievenminocw.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.persberichten.rijksoverheid.nl
@@ -1755,6 +1756,7 @@ lyncdiscover.justid.nl
 m.huisvoorklokkenluiders.nl
 m.werkenvoornederland.nl
 m365.ctgb.nl
+maatwerkvoormensen.nl
 machtigen-ont.toeslagen.nl
 machtigen.digipoort.logius.nl
 magazines.algemenebestuursdienst.nl
@@ -2248,6 +2250,7 @@ opendata.leerenontwikkelplein.nl
 opendata.lintjes.nl
 opendata.loonaangifteketen.nl
 opendata.lvmb.nl
+opendata.maatwerkvoormensen.nl
 opendata.nieuwsbrievenminocw.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.persberichten.rijksoverheid.nl
@@ -3325,6 +3328,7 @@ www.lintjes.nl
 www.logius.nl
 www.loonaangifteketen.nl
 www.lvmb.nl
+www.maatwerkvoormensen.nl
 www.mail.bureauwsnp.nl
 www.metelkaartrekkenwedegrens.nl
 www.mijn.dus-i.nl

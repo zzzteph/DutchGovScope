@@ -3853,6 +3853,7 @@ https://feeds.leerenontwikkelplein.nl
 https://feeds.lintjes.nl
 https://feeds.loonaangifteketen.nl
 https://feeds.lvmb.nl
+https://feeds.maatwerkvoormensen.nl
 https://feeds.nieuwsbrievenminocw.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.persberichten.rijksoverheid.nl
@@ -5580,6 +5581,7 @@ https://maasgouw-checker.gemeentemaasgouw.nl
 https://maashees.landvancuijk.nl
 https://maasheggen.landvancuijk.nl
 https://maassluis.nl
+https://maatwerkvoormensen.nl
 https://machtigen.digipoort.logius.nl
 https://magazine.dongen.nl
 https://magazine.goes.nl
@@ -6784,6 +6786,7 @@ https://opendata.leerenontwikkelplein.nl
 https://opendata.lintjes.nl
 https://opendata.loonaangifteketen.nl
 https://opendata.lvmb.nl
+https://opendata.maatwerkvoormensen.nl
 https://opendata.nieuwsbrievenminocw.nl
 https://opendata.nijmegen.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
@@ -9919,6 +9922,7 @@ https://www.lopik.nl
 https://www.losser.nl
 https://www.lvmb.nl
 https://www.maasdriel.nl
+https://www.maatwerkvoormensen.nl
 https://www.mariahoeveaanzet.denhaag.nl
 https://www.matenpark.apeldoorn.nl
 https://www.mdm.waterland.nl

@@ -5995,6 +5995,7 @@ feeds.leerenontwikkelplein.nl
 feeds.lintjes.nl
 feeds.loonaangifteketen.nl
 feeds.lvmb.nl
+feeds.maatwerkvoormensen.nl
 feeds.nieuwsbrievenminocw.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.persberichten.rijksoverheid.nl
@@ -9382,6 +9383,7 @@ maasgouw-checker.gemeentemaasgouw.nl
 maashees.landvancuijk.nl
 maasheggen.landvancuijk.nl
 maassluis.nl
+maatwerkvoormensen.nl
 machtigen-ont.toeslagen.nl
 machtigen.digipoort.logius.nl
 magazine.amersfoort.nl
@@ -11458,6 +11460,7 @@ opendata.leerenontwikkelplein.nl
 opendata.lintjes.nl
 opendata.loonaangifteketen.nl
 opendata.lvmb.nl
+opendata.maatwerkvoormensen.nl
 opendata.nieuwsbrievenminocw.nl
 opendata.nijmegen.nl
 opendata.papiamentu.belastingdienst-cn.nl
@@ -17739,6 +17742,7 @@ www.losser.nl
 www.lvmb.nl
 www.maasdriel.nl
 www.maassluis.nl
+www.maatwerkvoormensen.nl
 www.mail.bureauwsnp.nl
 www.mail.gemeentemaasgouw.nl
 www.mail.noord.amsterdam.nl

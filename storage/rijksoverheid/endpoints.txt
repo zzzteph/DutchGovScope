@@ -733,6 +733,7 @@ https://feeds.leerenontwikkelplein.nl
 https://feeds.lintjes.nl
 https://feeds.loonaangifteketen.nl
 https://feeds.lvmb.nl
+https://feeds.maatwerkvoormensen.nl
 https://feeds.nieuwsbrievenminocw.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.persberichten.rijksoverheid.nl
@@ -955,6 +956,7 @@ https://lync.aaenmaas.nl
 https://lyncdiscover.aaenmaas.nl
 https://m.huisvoorklokkenluiders.nl
 https://m.werkenvoornederland.nl
+https://maatwerkvoormensen.nl
 https://machtigen.digipoort.logius.nl
 https://magazines.algemenebestuursdienst.nl
 https://magazines.cultureelerfgoed.nl
@@ -1239,6 +1241,7 @@ https://opendata.leerenontwikkelplein.nl
 https://opendata.lintjes.nl
 https://opendata.loonaangifteketen.nl
 https://opendata.lvmb.nl
+https://opendata.maatwerkvoormensen.nl
 https://opendata.nieuwsbrievenminocw.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.persberichten.rijksoverheid.nl
@@ -1776,6 +1779,7 @@ https://www.lintjes.nl
 https://www.logius.nl
 https://www.loonaangifteketen.nl
 https://www.lvmb.nl
+https://www.maatwerkvoormensen.nl
 https://www.metelkaartrekkenwedegrens.nl
 https://www.mijn.dus-i.nl
 https://www.mijn.overheid.nl
