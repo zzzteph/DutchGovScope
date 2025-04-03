@@ -848,6 +848,7 @@ connectpeople.belastingdienst.nl
 connectpeople.ont.belastingdienst.nl
 connectpeoplereg.belastingdienst.nl
 constructiestukken.odmh.nl
+contactformulier.acc.onderwijsinspectie.nl
 contactherstelservice.lpc.mijn.overheid.nl
 content.acc.omgevingswet.overheid.nl
 content.klopt.cibg.nl
@@ -1139,6 +1140,7 @@ english.nctv.nl
 english.ndw.nu
 english.nrgd.nl
 english.nvwa.nl
+english.onderwijsinspectie.nl
 english.sso3w.nl
 enterpriseenrollment.cbg-meb.nl
 enterpriseenrollment.ofgv.nl
@@ -1338,6 +1340,7 @@ feeds.english.nctv.nl
 feeds.english.ndw.nu
 feeds.english.nrgd.nl
 feeds.english.nvwa.nl
+feeds.english.onderwijsinspectie.nl
 feeds.english.sso3w.nl
 feeds.erfgoeddeal.nl
 feeds.euthanasiecommissie.nl
@@ -1446,6 +1449,7 @@ feeds.ocwincijfers.nl
 feeds.oecdguidelines.nl
 feeds.oesorichtlijnen.nl
 feeds.om.nl
+feeds.onderwijsinspectie.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.papiamentu.mijncn.nl
 feeds.persberichten.rijksoverheid.nl
@@ -2020,6 +2024,7 @@ magazines.ncsc.nl
 magazines.nctv.nl
 magazines.nvwa.nl
 magazines.nza.nl
+magazines.onderwijsinspectie.nl
 magazines.rijksoverheid.nl
 magazines.werkenvoornederland.nl
 magazinesintern.rijksoverheid.nl
@@ -2550,6 +2555,7 @@ opendata.english.nctv.nl
 opendata.english.ndw.nu
 opendata.english.nrgd.nl
 opendata.english.nvwa.nl
+opendata.english.onderwijsinspectie.nl
 opendata.english.sso3w.nl
 opendata.euthanasiecommissie.nl
 opendata.excellentescholen.nl
@@ -2659,6 +2665,7 @@ opendata.ocwincijfers.nl
 opendata.oecdguidelines.nl
 opendata.oesorichtlijnen.nl
 opendata.om.nl
+opendata.onderwijsinspectie.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.papiamentu.mijncn.nl
 opendata.persberichten.rijksoverheid.nl
@@ -3339,6 +3346,7 @@ toestemming.toeslagen.nl
 toetsingonline.ccmo.nl
 toezichtdocumenten.igj.nl
 toezichtopzorgnetwerken.igj.nl
+toezichtresultaten.acc.onderwijsinspectie.nl
 toolbox-extremisme.nctv.nl
 torenvalk.brabant.nl
 tovertool.nza.nl
@@ -3894,6 +3902,7 @@ www.ofgv.nl
 www.om.nl
 www.omgevingsplan.flevoland.nl
 www.omgevingswet.overheid.nl
+www.onderwijsinspectie.nl
 www.openbare-inspectieresultaten.nvwa.nl
 www.opendata.brabant.nl
 www.overheid.nl

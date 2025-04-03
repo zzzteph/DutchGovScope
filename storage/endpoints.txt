@@ -2587,6 +2587,7 @@ https://contact.oostgelre.nl
 https://contact.roermond.nl
 https://contact.rotterdam.nl
 https://contact.zwolle.nl
+https://contactformulier.acc.onderwijsinspectie.nl
 https://contactregistratie-fa.amsterdam.nl
 https://contactregistratie-ft.amsterdam.nl
 https://contactregistratie.acc.amsterdam.nl
@@ -3596,6 +3597,7 @@ https://english.nctv.nl
 https://english.ndw.nu
 https://english.nrgd.nl
 https://english.nvwa.nl
+https://english.onderwijsinspectie.nl
 https://english.sso3w.nl
 https://enkhuizen.nl
 https://enquete-acc.denhaag.nl
@@ -3900,6 +3902,7 @@ https://feeds.english.nctv.nl
 https://feeds.english.ndw.nu
 https://feeds.english.nrgd.nl
 https://feeds.english.nvwa.nl
+https://feeds.english.onderwijsinspectie.nl
 https://feeds.english.sso3w.nl
 https://feeds.erfgoeddeal.nl
 https://feeds.euthanasiecommissie.nl
@@ -4008,6 +4011,7 @@ https://feeds.ocwincijfers.nl
 https://feeds.oecdguidelines.nl
 https://feeds.oesorichtlijnen.nl
 https://feeds.om.nl
+https://feeds.onderwijsinspectie.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.papiamentu.mijncn.nl
 https://feeds.persberichten.rijksoverheid.nl
@@ -5802,6 +5806,7 @@ https://magazines.ncsc.nl
 https://magazines.nctv.nl
 https://magazines.nvwa.nl
 https://magazines.nza.nl
+https://magazines.onderwijsinspectie.nl
 https://magazines.rijksoverheid.nl
 https://magazines.rotterdam.nl
 https://magazines.werkenvoornederland.nl
@@ -7018,6 +7023,7 @@ https://opendata.english.nctv.nl
 https://opendata.english.ndw.nu
 https://opendata.english.nrgd.nl
 https://opendata.english.nvwa.nl
+https://opendata.english.onderwijsinspectie.nl
 https://opendata.english.sso3w.nl
 https://opendata.euthanasiecommissie.nl
 https://opendata.excellentescholen.nl
@@ -7128,6 +7134,7 @@ https://opendata.ocwincijfers.nl
 https://opendata.oecdguidelines.nl
 https://opendata.oesorichtlijnen.nl
 https://opendata.om.nl
+https://opendata.onderwijsinspectie.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.papiamentu.mijncn.nl
 https://opendata.persberichten.rijksoverheid.nl
@@ -9102,6 +9109,7 @@ https://toestemming-tst.belastingdienst.nl
 https://toestemming.belastingdienst.nl
 https://toestemming.toeslagen.nl
 https://toezichtdocumenten.igj.nl
+https://toezichtresultaten.acc.onderwijsinspectie.nl
 https://tom.eijsden-margraten.nl
 https://ton.amsterdam.nl
 https://toolbox.openstad.enschede.nl
@@ -10455,6 +10463,7 @@ https://www.ommen.nl
 https://www.ondernemen.ede.nl
 https://www.ondernemen.venlo.nl
 https://www.ondersteuning.olst-wijhe.nl
+https://www.onderwijsinspectie.nl
 https://www.onderwijssubsidies.amsterdam.nl
 https://www.onderzoek.amsterdam.nl
 https://www.onderzoek.groningen.nl

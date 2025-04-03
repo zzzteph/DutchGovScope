@@ -3802,6 +3802,7 @@ contact.oostgelre.nl
 contact.roermond.nl
 contact.rotterdam.nl
 contact.zwolle.nl
+contactformulier.acc.onderwijsinspectie.nl
 contactherstelservice.lpc.mijn.overheid.nl
 contactregistratie-fa.amsterdam.nl
 contactregistratie-ft.amsterdam.nl
@@ -5646,6 +5647,7 @@ english.nctv.nl
 english.ndw.nu
 english.nrgd.nl
 english.nvwa.nl
+english.onderwijsinspectie.nl
 english.sso3w.nl
 enkhuizen.nl
 enquete-acc.denhaag.nl
@@ -6071,6 +6073,7 @@ feeds.english.nctv.nl
 feeds.english.ndw.nu
 feeds.english.nrgd.nl
 feeds.english.nvwa.nl
+feeds.english.onderwijsinspectie.nl
 feeds.english.sso3w.nl
 feeds.erfgoeddeal.nl
 feeds.euthanasiecommissie.nl
@@ -6179,6 +6182,7 @@ feeds.ocwincijfers.nl
 feeds.oecdguidelines.nl
 feeds.oesorichtlijnen.nl
 feeds.om.nl
+feeds.onderwijsinspectie.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.papiamentu.mijncn.nl
 feeds.persberichten.rijksoverheid.nl
@@ -9656,6 +9660,7 @@ magazines.ncsc.nl
 magazines.nctv.nl
 magazines.nvwa.nl
 magazines.nza.nl
+magazines.onderwijsinspectie.nl
 magazines.rijksoverheid.nl
 magazines.rotterdam.nl
 magazines.werkenvoornederland.nl
@@ -11759,6 +11764,7 @@ opendata.english.nctv.nl
 opendata.english.ndw.nu
 opendata.english.nrgd.nl
 opendata.english.nvwa.nl
+opendata.english.onderwijsinspectie.nl
 opendata.english.sso3w.nl
 opendata.euthanasiecommissie.nl
 opendata.excellentescholen.nl
@@ -11870,6 +11876,7 @@ opendata.ocwincijfers.nl
 opendata.oecdguidelines.nl
 opendata.oesorichtlijnen.nl
 opendata.om.nl
+opendata.onderwijsinspectie.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.papiamentu.mijncn.nl
 opendata.persberichten.rijksoverheid.nl
@@ -15956,6 +15963,7 @@ toestemming.toeslagen.nl
 toetsingonline.ccmo.nl
 toezichtdocumenten.igj.nl
 toezichtopzorgnetwerken.igj.nl
+toezichtresultaten.acc.onderwijsinspectie.nl
 token.sudwestfryslan.nl
 tokenregistratie.acc.amsterdam.nl
 tom.eijsden-margraten.nl
@@ -18417,6 +18425,7 @@ www.ondernemen.ede.nl
 www.ondernemen.venlo.nl
 www.ondernemersportaal.denhaag.nl
 www.ondersteuning.olst-wijhe.nl
+www.onderwijsinspectie.nl
 www.onderwijssubsidies.amsterdam.nl
 www.onderzoek.amsterdam.nl
 www.onderzoek.groningen.nl

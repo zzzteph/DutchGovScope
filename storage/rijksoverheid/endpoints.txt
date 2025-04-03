@@ -434,6 +434,7 @@ https://connect.kinderbescherming.nl
 https://connectpeople.belastingdienst.nl
 https://connectpeoplereg.belastingdienst.nl
 https://constructiestukken.odmh.nl
+https://contactformulier.acc.onderwijsinspectie.nl
 https://content.klopt.cibg.nl
 https://content.omgevingswet.overheid.nl
 https://contentbeheer.acc.omgevingswet.overheid.nl
@@ -621,6 +622,7 @@ https://english.nctv.nl
 https://english.ndw.nu
 https://english.nrgd.nl
 https://english.nvwa.nl
+https://english.onderwijsinspectie.nl
 https://english.sso3w.nl
 https://enterpriseenrollment.cbg-meb.nl
 https://enterpriseenrollment.ofgv.nl
@@ -780,6 +782,7 @@ https://feeds.english.nctv.nl
 https://feeds.english.ndw.nu
 https://feeds.english.nrgd.nl
 https://feeds.english.nvwa.nl
+https://feeds.english.onderwijsinspectie.nl
 https://feeds.english.sso3w.nl
 https://feeds.erfgoeddeal.nl
 https://feeds.euthanasiecommissie.nl
@@ -888,6 +891,7 @@ https://feeds.ocwincijfers.nl
 https://feeds.oecdguidelines.nl
 https://feeds.oesorichtlijnen.nl
 https://feeds.om.nl
+https://feeds.onderwijsinspectie.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.papiamentu.mijncn.nl
 https://feeds.persberichten.rijksoverheid.nl
@@ -1171,6 +1175,7 @@ https://magazines.ncsc.nl
 https://magazines.nctv.nl
 https://magazines.nvwa.nl
 https://magazines.nza.nl
+https://magazines.onderwijsinspectie.nl
 https://magazines.rijksoverheid.nl
 https://magazines.werkenvoornederland.nl
 https://magazinesintern.rijksoverheid.nl
@@ -1474,6 +1479,7 @@ https://opendata.english.nctv.nl
 https://opendata.english.ndw.nu
 https://opendata.english.nrgd.nl
 https://opendata.english.nvwa.nl
+https://opendata.english.onderwijsinspectie.nl
 https://opendata.english.sso3w.nl
 https://opendata.euthanasiecommissie.nl
 https://opendata.excellentescholen.nl
@@ -1582,6 +1588,7 @@ https://opendata.ocwincijfers.nl
 https://opendata.oecdguidelines.nl
 https://opendata.oesorichtlijnen.nl
 https://opendata.om.nl
+https://opendata.onderwijsinspectie.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.papiamentu.mijncn.nl
 https://opendata.persberichten.rijksoverheid.nl
@@ -1896,6 +1903,7 @@ https://toestemming-tst.belastingdienst.nl
 https://toestemming.belastingdienst.nl
 https://toestemming.toeslagen.nl
 https://toezichtdocumenten.igj.nl
+https://toezichtresultaten.acc.onderwijsinspectie.nl
 https://tovertool.nza.nl
 https://treatydatabase-acc.overheid.nl
 https://treatydatabase.overheid.nl
@@ -2252,6 +2260,7 @@ https://www.ofgv.nl
 https://www.om.nl
 https://www.omgevingsplan.flevoland.nl
 https://www.omgevingswet.overheid.nl
+https://www.onderwijsinspectie.nl
 https://www.openbare-inspectieresultaten.nvwa.nl
 https://www.overheid.nl
 https://www.perf.omgevingswet.overheid.nl

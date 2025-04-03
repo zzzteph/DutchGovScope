@@ -42,11 +42,11 @@ api.meldingen
 a-www
 broker
 betalen
+feeds.english
+opendata.english
 testeloket
 zaaksysteem-accept
 ruimtelijkeplannen
-feeds.english
-opendata.english
 werkenbij
 a-feeds
 a-opendata
@@ -74,9 +74,9 @@ cmsoo
 loket.acceptatie
 openpub
 omgevingsvisie
+magazines
 digikoppeling-test
 cloudadapter-test
-magazines
 hybrid
 kaart
 formulier
@@ -3576,6 +3576,8 @@ strafdossiermh17
 verkeer.acc.loket
 verkeer.loket
 zsmgame
+contactformulier.acc
+toezichtresultaten.acc
 email.mail.participatie
 mail.participatie
 aalten-checker-preprod
