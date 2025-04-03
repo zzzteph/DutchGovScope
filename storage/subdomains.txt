@@ -2,8 +2,8 @@ www
 
 autodiscover
 opendata
-iburgerzaken
 feeds
+iburgerzaken
 ibzpink
 edienstenburgerzaken
 intranet

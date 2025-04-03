@@ -842,6 +842,7 @@ https://feeds.nifp.nl
 https://feeds.nimh.nl
 https://feeds.nix18.nl
 https://feeds.nl-alert.nl
+https://feeds.nl-works.com
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.papiamentu.mijncn.nl
 https://feeds.persberichten.rijksoverheid.nl
@@ -1456,6 +1457,7 @@ https://opendata.nifp.nl
 https://opendata.nimh.nl
 https://opendata.nix18.nl
 https://opendata.nl-alert.nl
+https://opendata.nl-works.com
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.papiamentu.mijncn.nl
 https://opendata.persberichten.rijksoverheid.nl
@@ -2073,6 +2075,7 @@ https://www.nifp.nl
 https://www.nimh.nl
 https://www.nix18.nl
 https://www.nl-alert.nl
+https://www.nl-works.com
 https://www.nt.ndw.nu
 https://www.omgevingsplan.flevoland.nl
 https://www.omgevingswet.overheid.nl

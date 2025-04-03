@@ -6122,6 +6122,7 @@ feeds.nifp.nl
 feeds.nimh.nl
 feeds.nix18.nl
 feeds.nl-alert.nl
+feeds.nl-works.com
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.papiamentu.mijncn.nl
 feeds.persberichten.rijksoverheid.nl
@@ -11721,6 +11722,7 @@ opendata.nijmegen.nl
 opendata.nimh.nl
 opendata.nix18.nl
 opendata.nl-alert.nl
+opendata.nl-works.com
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.papiamentu.mijncn.nl
 opendata.persberichten.rijksoverheid.nl
@@ -18173,6 +18175,7 @@ www.nimmaleert.nijmegen.nl
 www.nissewaard.nl
 www.nix18.nl
 www.nl-alert.nl
+www.nl-works.com
 www.noardeast-fryslan.nl
 www.noord-beveland.nl
 www.noorderkwartier.zwolle.nl
