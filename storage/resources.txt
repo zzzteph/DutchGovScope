@@ -6127,6 +6127,7 @@ feeds.nix18.nl
 feeds.nl-alert.nl
 feeds.nl-works.com
 feeds.nlarbeidsinspectie.nl
+feeds.nlinfrankrijk.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.papiamentu.mijncn.nl
 feeds.persberichten.rijksoverheid.nl
@@ -11009,6 +11010,7 @@ nlgembrl.brielle.nl
 nlgembrn.borne.nl
 nlgemctc.castricum.nl
 nlgemzdv.intern.zandvoort.nl
+nlinfrankrijk.nl
 nllwd-spider.leeuwarden.nl
 nlmwlkeb.kaagenbraassem.nl
 nln.nunspeet.nl
@@ -11729,6 +11731,7 @@ opendata.nix18.nl
 opendata.nl-alert.nl
 opendata.nl-works.com
 opendata.nlarbeidsinspectie.nl
+opendata.nlinfrankrijk.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.papiamentu.mijncn.nl
 opendata.persberichten.rijksoverheid.nl
@@ -18189,6 +18192,7 @@ www.nix18.nl
 www.nl-alert.nl
 www.nl-works.com
 www.nlarbeidsinspectie.nl
+www.nlinfrankrijk.nl
 www.noardeast-fryslan.nl
 www.noord-beveland.nl
 www.noorderkwartier.zwolle.nl

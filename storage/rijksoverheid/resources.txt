@@ -1394,6 +1394,7 @@ feeds.nix18.nl
 feeds.nl-alert.nl
 feeds.nl-works.com
 feeds.nlarbeidsinspectie.nl
+feeds.nlinfrankrijk.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.papiamentu.mijncn.nl
 feeds.persberichten.rijksoverheid.nl
@@ -2225,6 +2226,7 @@ nimh.nl
 nix18.nl
 nl-alert.nl
 nlarbeidsinspectie.nl
+nlinfrankrijk.nl
 nls.ndw.nu
 nnn.flevoland.nl
 noaa.cultureelerfgoed.nl
@@ -2518,6 +2520,7 @@ opendata.nix18.nl
 opendata.nl-alert.nl
 opendata.nl-works.com
 opendata.nlarbeidsinspectie.nl
+opendata.nlinfrankrijk.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.papiamentu.mijncn.nl
 opendata.persberichten.rijksoverheid.nl
@@ -3697,6 +3700,7 @@ www.nix18.nl
 www.nl-alert.nl
 www.nl-works.com
 www.nlarbeidsinspectie.nl
+www.nlinfrankrijk.nl
 www.nt.ndw.nu
 www.officiele-overheidspublicaties.nl
 www.omgevingsplan.flevoland.nl
