@@ -1129,6 +1129,7 @@ adviesraad.westbetuwe.nl
 adviesraadmigratie.nl
 adviesraden.deventer.nl
 advieswijzer.bigregister.nl
+adviezen.raadrvs.nl
 advisories-acceptatie.ncsc.nl
 advisories.ncsc.nl
 advisorycommitteeinternationallaw.nl
@@ -6258,6 +6259,7 @@ feeds.politiekeambtsdragers.nl
 feeds.postedworkers.nl
 feeds.prosecutionservice.nl
 feeds.raadopenbaarbestuur.nl
+feeds.raadrvs.nl
 feeds.rcgog.nl
 feeds.rijksoverheid.nl
 felix.aalten.nl
@@ -12044,6 +12046,7 @@ opendata.politiekeambtsdragers.nl
 opendata.postedworkers.nl
 opendata.prosecutionservice.nl
 opendata.raadopenbaarbestuur.nl
+opendata.raadrvs.nl
 opendata.rcgog.nl
 opendata.rijksoverheid.nl
 opendata.roosendaal.nl
@@ -13560,6 +13563,7 @@ raadopenbaarbestuur.nl
 raadplegen.denhaag.nl
 raadplegen.donorregister.nl
 raadplegenbrp.veenendaal.nl
+raadrvs.nl
 raadsagenda.oirschot.nl
 raadsakkoord.veenendaal.nl
 raadsarchief.stadskanaal.nl
@@ -18805,6 +18809,7 @@ www.raad.bergendal.nl
 www.raad.delft.nl
 www.raad.middendrenthe.nl
 www.raadopenbaarbestuur.nl
+www.raadrvs.nl
 www.raadsakkoord.veenendaal.nl
 www.raalte.nl
 www.radius.overbetuwe.nl
