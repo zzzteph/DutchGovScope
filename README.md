@@ -47,6 +47,20 @@ The data is collected using a semi-automated pipeline and updated regularly. All
 - [`storage/gemeente/endpoints.txt`](https://raw.githubusercontent.com/zzzteph/DutchGovScope/refs/heads/main/storage/gemeente/endpoints.txt) – HTTP/HTTPS endpoints under **Gemeenten**  
 
 
+### Scanning examples
+
+```
+curl --silent https://raw.githubusercontent.com/zzzteph/DutchGovScope/refs/heads/main/storage/rijksoverheid/endpoints.txt | ./nuclei -silent -id geoserver-login-panel
+```
+
+```
+curl --silent https://raw.githubusercontent.com/zzzteph/DutchGovScope/refs/heads/main/storage/rijksoverheid/endpoints.txt | ./nuclei -silent -id exposure -severity critical,high
+```
+
+
+
+
+
 ## Links and Acknowledgements
 
 - [Bug Bounty Dutch Government Scope – Gist](https://gist.github.com/zzzteph/99a7bd2acde12cb4b2626fc9261bc56d)  
