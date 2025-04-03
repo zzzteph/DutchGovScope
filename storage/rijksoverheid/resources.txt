@@ -1452,6 +1452,7 @@ feeds.oesorichtlijnen.nl
 feeds.om.nl
 feeds.onderwijsinspectie.nl
 feeds.onderwijsraad.nl
+feeds.onderwijsregio.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.papiamentu.mijncn.nl
 feeds.persberichten.rijksoverheid.nl
@@ -2423,6 +2424,7 @@ ondertekenen.limburg.nl
 ondertekenentst.brabant.nl
 ondertekeningsviewer.overheid.nl
 onderwijsraad.nl
+onderwijsregio.nl
 onderzoek.communicatierijk.nl
 onderzoek.nederlandwereldwijd.nl
 onderzoek.odmh.nl
@@ -2672,6 +2674,7 @@ opendata.oesorichtlijnen.nl
 opendata.om.nl
 opendata.onderwijsinspectie.nl
 opendata.onderwijsraad.nl
+opendata.onderwijsregio.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.papiamentu.mijncn.nl
 opendata.persberichten.rijksoverheid.nl
@@ -3914,6 +3917,7 @@ www.omgevingsplan.flevoland.nl
 www.omgevingswet.overheid.nl
 www.onderwijsinspectie.nl
 www.onderwijsraad.nl
+www.onderwijsregio.nl
 www.openbare-inspectieresultaten.nvwa.nl
 www.opendata.brabant.nl
 www.overheid.nl

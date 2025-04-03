@@ -4014,6 +4014,7 @@ https://feeds.oesorichtlijnen.nl
 https://feeds.om.nl
 https://feeds.onderwijsinspectie.nl
 https://feeds.onderwijsraad.nl
+https://feeds.onderwijsregio.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.papiamentu.mijncn.nl
 https://feeds.persberichten.rijksoverheid.nl
@@ -6795,6 +6796,7 @@ https://ondertekenen.trouwen.tilburg.nl
 https://ondertekenentst.brabant.nl
 https://onderwijsloket.amsterdam.nl
 https://onderwijsraad.nl
+https://onderwijsregio.nl
 https://onderwijssubsidies.amsterdam.nl
 https://onderzoek.amersfoort.nl
 https://onderzoek.amsterdam.nl
@@ -7139,6 +7141,7 @@ https://opendata.oesorichtlijnen.nl
 https://opendata.om.nl
 https://opendata.onderwijsinspectie.nl
 https://opendata.onderwijsraad.nl
+https://opendata.onderwijsregio.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.papiamentu.mijncn.nl
 https://opendata.persberichten.rijksoverheid.nl
@@ -10472,6 +10475,7 @@ https://www.ondernemen.venlo.nl
 https://www.ondersteuning.olst-wijhe.nl
 https://www.onderwijsinspectie.nl
 https://www.onderwijsraad.nl
+https://www.onderwijsregio.nl
 https://www.onderwijssubsidies.amsterdam.nl
 https://www.onderzoek.amsterdam.nl
 https://www.onderzoek.groningen.nl
