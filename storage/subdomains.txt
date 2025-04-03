@@ -148,6 +148,7 @@ acc-formulier
 acc-podiumd-logs
 woningbouwkaart
 contentbeheer
+_dmarc
 cms
 api
 mobiel
@@ -173,7 +174,6 @@ acc-objecten
 acc-objecttypen
 jaarstukken
 cryptshare
-_dmarc
 fs
 mta-sts
 kennisbank
@@ -900,12 +900,15 @@ www.geoserver
 login.acc
 aip
 intranet-prod
+acceptatie.portaal
 mijn.test
 bereikbaarheid
 design
 docs
 tiles
 preview
+selector1._domainkey
+selector2._domainkey
 edienstenburgerzaken.test
 www.praatmee
 datalab
@@ -3348,7 +3351,6 @@ jet-test
 nox.intranet
 zakelijk-acc
 zakelijk
-acceptatie.portaal
 acceptatie.uzipas.portaal
 uzipas.portaal
 advisories-acceptatie
@@ -3487,6 +3489,10 @@ lms.prod
 lms.test
 opleiding
 test.actueel
+asbestovertredingen
+resultaten
+test.portaal
+test.resultaten
 email.mail.participatie
 mail.participatie
 aalten-checker-preprod
@@ -5084,8 +5090,6 @@ sammy-acc
 sammy
 sammycms-acc
 sammycms
-selector1._domainkey
-selector2._domainkey
 stroomlijntest
 werkplek02
 aanmelder

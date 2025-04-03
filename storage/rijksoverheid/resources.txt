@@ -9,6 +9,7 @@ ZDPushservice.overheid.nl
 _dmarc.cibg.nl
 _dmarc.dji.nl
 _dmarc.logius.nl
+_dmarc.nlarbeidsinspectie.nl
 _dmarc.rijksoverheid.nl
 a-api.nederlandwereldwijd.nl
 a-cms.defensie.nl
@@ -293,6 +294,7 @@ acceptatie.omgevingswet.overheid.nl
 acceptatie.portaal.competent.cibg.nl
 acceptatie.portaal.digilevering.cibg.nl
 acceptatie.portaal.ncpeh.nl
+acceptatie.portaal.nlarbeidsinspectie.nl
 acceptatie.publicwebservices-dcr.cibg.nl
 acceptatie.publicwebservices.cibg.nl
 acceptatie.raadplegen.donorregister.nl
@@ -450,6 +452,7 @@ artifact-pp2.toegang.overheid.nl
 artifact-rd1.toegang.overheid.nl
 artifact-rd2.toegang.overheid.nl
 artifact-rv-pp1.logius.nl
+asbestovertredingen.nlarbeidsinspectie.nl
 asycuda.belastingdienst-cn.nl
 atkm.nl
 atlas-acpt.brabant.nl
@@ -1390,6 +1393,7 @@ feeds.nimh.nl
 feeds.nix18.nl
 feeds.nl-alert.nl
 feeds.nl-works.com
+feeds.nlarbeidsinspectie.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.papiamentu.mijncn.nl
 feeds.persberichten.rijksoverheid.nl
@@ -2220,6 +2224,7 @@ nimh-beeldbank.defensie.nl
 nimh.nl
 nix18.nl
 nl-alert.nl
+nlarbeidsinspectie.nl
 nls.ndw.nu
 nnn.flevoland.nl
 noaa.cultureelerfgoed.nl
@@ -2512,6 +2517,7 @@ opendata.nimh.nl
 opendata.nix18.nl
 opendata.nl-alert.nl
 opendata.nl-works.com
+opendata.nlarbeidsinspectie.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.papiamentu.mijncn.nl
 opendata.persberichten.rijksoverheid.nl
@@ -2649,6 +2655,7 @@ portaal.digilevering.cibg.nl
 portaal.huurcommissie.nl
 portaal.ikz.nl
 portaal.ncpeh.nl
+portaal.nlarbeidsinspectie.nl
 portaal.tst.belastingdienst.nl
 portal.cibg.nl
 portalen.acceptatie.digipoort.logius.nl
@@ -2763,6 +2770,7 @@ resolver.kta.omgevingswet.overheid.nl
 resolver.omgevingswet.overheid.nl
 resolver.pfm.omgevingswet.overheid.nl
 resolver.pre.omgevingswet.overheid.nl
+resultaten.nlarbeidsinspectie.nl
 rev.emissieautoriteit.nl
 rht.belastingdienst.nl
 rijkskantoorproxy.belastingdienst.nl
@@ -2846,6 +2854,8 @@ securened.ncsc.nl
 securenet.ncsc.nl
 security.ndw.nu
 securityzkh.nctv.nl
+selector1._domainkey.nlarbeidsinspectie.nl
+selector2._domainkey.nlarbeidsinspectie.nl
 sentry.ndw.nu
 sepm.belastingdienst.nl
 service.acc.omgevingswet.overheid.nl
@@ -3117,7 +3127,9 @@ test.kinderbescherming.nl
 test.monumentenregister.cultureelerfgoed.nl
 test.ncsc.nl
 test.nl-alert.nl
+test.portaal.nlarbeidsinspectie.nl
 test.publicwebservices.cibg.nl
+test.resultaten.nlarbeidsinspectie.nl
 test.stub.mijn.overheid.nl
 test.t.cultureelerfgoed.nl
 test.veilig.cultureelerfgoed.nl
@@ -3684,6 +3696,7 @@ www.nimh.nl
 www.nix18.nl
 www.nl-alert.nl
 www.nl-works.com
+www.nlarbeidsinspectie.nl
 www.nt.ndw.nu
 www.officiele-overheidspublicaties.nl
 www.omgevingsplan.flevoland.nl

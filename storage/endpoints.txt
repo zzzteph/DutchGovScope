@@ -1062,6 +1062,7 @@ https://acceptatie.oranjeplein.goirle.nl
 https://acceptatie.portaal.competent.cibg.nl
 https://acceptatie.portaal.digilevering.cibg.nl
 https://acceptatie.portaal.ncpeh.nl
+https://acceptatie.portaal.nlarbeidsinspectie.nl
 https://acceptatie.publicwebservices.cibg.nl
 https://acceptatie.raadplegen.donorregister.nl
 https://acceptatie.rijswijk.nl
@@ -1591,6 +1592,7 @@ https://arnhem.nl
 https://arrangementen.landvancuijk.nl
 https://artifact-rd1.toegang.overheid.nl
 https://as.valkenburg.nl
+https://asbestovertredingen.nlarbeidsinspectie.nl
 https://asd.purmerend.nl
 https://asde.ede.nl
 https://assen.nl
@@ -3963,6 +3965,7 @@ https://feeds.nimh.nl
 https://feeds.nix18.nl
 https://feeds.nl-alert.nl
 https://feeds.nl-works.com
+https://feeds.nlarbeidsinspectie.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.papiamentu.mijncn.nl
 https://feeds.persberichten.rijksoverheid.nl
@@ -6464,6 +6467,7 @@ https://nimmaleert.nijmegen.nl
 https://nissewaard.nl
 https://nix18.nl
 https://nl-alert.nl
+https://nlarbeidsinspectie.nl
 https://nlgembrl.brielle.nl
 https://nln.nunspeet.nl
 https://nls.ndw.nu
@@ -7004,6 +7008,7 @@ https://opendata.nimh.nl
 https://opendata.nix18.nl
 https://opendata.nl-alert.nl
 https://opendata.nl-works.com
+https://opendata.nlarbeidsinspectie.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.papiamentu.mijncn.nl
 https://opendata.persberichten.rijksoverheid.nl
@@ -7442,6 +7447,7 @@ https://portaal.kre-tst.amsterdam.nl
 https://portaal.kre.amsterdam.nl
 https://portaal.middendrenthe.nl
 https://portaal.ncpeh.nl
+https://portaal.nlarbeidsinspectie.nl
 https://portaal.notificaties.openzaak-acc.amsterdam.nl
 https://portaal.notificaties.openzaak-tst.amsterdam.nl
 https://portaal.purmerend.nl
@@ -7907,6 +7913,7 @@ https://resolver.omgevingswet.overheid.nl
 https://resolver.pfm.omgevingswet.overheid.nl
 https://resolver.pre.omgevingswet.overheid.nl
 https://restore.wierden.nl
+https://resultaten.nlarbeidsinspectie.nl
 https://return.heuvelrug.nl
 https://return.purmerend.nl
 https://rev.emissieautoriteit.nl
@@ -8802,6 +8809,8 @@ https://test.nl-alert.nl
 https://test.open-formulieren.noordoostpolder.nl
 https://test.open-formulieren.vught.nl
 https://test.pekela.nl
+https://test.portaal.nlarbeidsinspectie.nl
+https://test.resultaten.nlarbeidsinspectie.nl
 https://test.schiedam.nl
 https://test.stichtsevecht.nl
 https://test.subsites.leiden.nl
@@ -10255,6 +10264,7 @@ https://www.nissewaard.nl
 https://www.nix18.nl
 https://www.nl-alert.nl
 https://www.nl-works.com
+https://www.nlarbeidsinspectie.nl
 https://www.noardeast-fryslan.nl
 https://www.noord-beveland.nl
 https://www.noorderkwartier.zwolle.nl

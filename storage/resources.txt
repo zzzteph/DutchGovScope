@@ -108,6 +108,7 @@ _dmarc.leiden.nl
 _dmarc.logius.nl
 _dmarc.nederweert.nl
 _dmarc.nieuwegein.nl
+_dmarc.nlarbeidsinspectie.nl
 _dmarc.rijksoverheid.nl
 _dmarc.vijfheerenlanden.nl
 _dmarc.zoeterwoude.nl
@@ -918,6 +919,7 @@ acceptatie.pekela.nl
 acceptatie.portaal.competent.cibg.nl
 acceptatie.portaal.digilevering.cibg.nl
 acceptatie.portaal.ncpeh.nl
+acceptatie.portaal.nlarbeidsinspectie.nl
 acceptatie.publicwebservices-dcr.cibg.nl
 acceptatie.publicwebservices.cibg.nl
 acceptatie.raadplegen.donorregister.nl
@@ -1832,6 +1834,7 @@ artifact-rd1.toegang.overheid.nl
 artifact-rd2.toegang.overheid.nl
 artifact-rv-pp1.logius.nl
 as.valkenburg.nl
+asbestovertredingen.nlarbeidsinspectie.nl
 asd.purmerend.nl
 asde.ede.nl
 aselect.bibliotheek.vlaardingen.nl
@@ -6123,6 +6126,7 @@ feeds.nimh.nl
 feeds.nix18.nl
 feeds.nl-alert.nl
 feeds.nl-works.com
+feeds.nlarbeidsinspectie.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.papiamentu.mijncn.nl
 feeds.persberichten.rijksoverheid.nl
@@ -10994,6 +10998,7 @@ nivo.gem.overbetuwe.nl
 nivo.overbetuwe.nl
 nix18.nl
 nl-alert.nl
+nlarbeidsinspectie.nl
 nlb-irma-disclosure.nijmegen.nl
 nlb-irma.nijmegen.nl
 nlb-test-irma-disclosure.nijmegen.nl
@@ -11723,6 +11728,7 @@ opendata.nimh.nl
 opendata.nix18.nl
 opendata.nl-alert.nl
 opendata.nl-works.com
+opendata.nlarbeidsinspectie.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.papiamentu.mijncn.nl
 opendata.persberichten.rijksoverheid.nl
@@ -12513,6 +12519,7 @@ portaal.kre.amsterdam.nl
 portaal.leeuwarden.nl
 portaal.middendrenthe.nl
 portaal.ncpeh.nl
+portaal.nlarbeidsinspectie.nl
 portaal.notificaties.openzaak-acc.amsterdam.nl
 portaal.notificaties.openzaak-tst.amsterdam.nl
 portaal.overbetuwe.nl
@@ -13390,6 +13397,7 @@ resolver.omgevingswet.overheid.nl
 resolver.pfm.omgevingswet.overheid.nl
 resolver.pre.omgevingswet.overheid.nl
 restore.wierden.nl
+resultaten.nlarbeidsinspectie.nl
 return.heuvelrug.nl
 return.purmerend.nl
 reuseldemierden.nl
@@ -13865,7 +13873,9 @@ security.ndw.nu
 securityzkh.nctv.nl
 seg.leudal.nl
 selector1._domainkey.derondevenen.nl
+selector1._domainkey.nlarbeidsinspectie.nl
 selector2._domainkey.derondevenen.nl
+selector2._domainkey.nlarbeidsinspectie.nl
 selfservice.ggd.amsterdam.nl
 selfservice.sudwestfryslan.nl
 selfserviceportal.westerkwartier.nl
@@ -15482,7 +15492,9 @@ test.open-formulieren.vught.nl
 test.oss.nl
 test.ouder-amstel.nl
 test.pekela.nl
+test.portaal.nlarbeidsinspectie.nl
 test.publicwebservices.cibg.nl
+test.resultaten.nlarbeidsinspectie.nl
 test.rijssen-holten.nl
 test.rijswijk.nl
 test.schiedam.nl
@@ -18176,6 +18188,7 @@ www.nissewaard.nl
 www.nix18.nl
 www.nl-alert.nl
 www.nl-works.com
+www.nlarbeidsinspectie.nl
 www.noardeast-fryslan.nl
 www.noord-beveland.nl
 www.noorderkwartier.zwolle.nl

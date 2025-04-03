@@ -169,6 +169,7 @@ https://acceptatie.mijn.donorregister.nl
 https://acceptatie.portaal.competent.cibg.nl
 https://acceptatie.portaal.digilevering.cibg.nl
 https://acceptatie.portaal.ncpeh.nl
+https://acceptatie.portaal.nlarbeidsinspectie.nl
 https://acceptatie.publicwebservices.cibg.nl
 https://acceptatie.raadplegen.donorregister.nl
 https://acceptatie.tea.bigregister.nl
@@ -242,6 +243,7 @@ https://archis.cultureelerfgoed.nl
 https://archisarchief.cultureelerfgoed.nl
 https://aris.brabant.nl
 https://artifact-rd1.toegang.overheid.nl
+https://asbestovertredingen.nlarbeidsinspectie.nl
 https://asycuda.belastingdienst-cn.nl
 https://atkm.nl
 https://atlas.brabant.nl
@@ -843,6 +845,7 @@ https://feeds.nimh.nl
 https://feeds.nix18.nl
 https://feeds.nl-alert.nl
 https://feeds.nl-works.com
+https://feeds.nlarbeidsinspectie.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.papiamentu.mijncn.nl
 https://feeds.persberichten.rijksoverheid.nl
@@ -1217,6 +1220,7 @@ https://nimh-beeldbank.defensie.nl
 https://nimh.nl
 https://nix18.nl
 https://nl-alert.nl
+https://nlarbeidsinspectie.nl
 https://nls.ndw.nu
 https://nnn.flevoland.nl
 https://noaa.cultureelerfgoed.nl
@@ -1458,6 +1462,7 @@ https://opendata.nimh.nl
 https://opendata.nix18.nl
 https://opendata.nl-alert.nl
 https://opendata.nl-works.com
+https://opendata.nlarbeidsinspectie.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.papiamentu.mijncn.nl
 https://opendata.persberichten.rijksoverheid.nl
@@ -1522,6 +1527,7 @@ https://portaal.digilevering.cibg.nl
 https://portaal.huurcommissie.nl
 https://portaal.ikz.nl
 https://portaal.ncpeh.nl
+https://portaal.nlarbeidsinspectie.nl
 https://pp1.toegang.overheid.nl
 https://pp2.toegang.overheid.nl
 https://prd.archis.cultureelerfgoed.nl
@@ -1589,6 +1595,7 @@ https://resolver.kta.omgevingswet.overheid.nl
 https://resolver.omgevingswet.overheid.nl
 https://resolver.pfm.omgevingswet.overheid.nl
 https://resolver.pre.omgevingswet.overheid.nl
+https://resultaten.nlarbeidsinspectie.nl
 https://rev.emissieautoriteit.nl
 https://rijksoverheid.nl
 https://ruimte.dmo.omgevingswet.overheid.nl
@@ -1728,6 +1735,8 @@ https://test.kennis.cultureelerfgoed.nl
 https://test.monumentenregister.cultureelerfgoed.nl
 https://test.ncsc.nl
 https://test.nl-alert.nl
+https://test.portaal.nlarbeidsinspectie.nl
+https://test.resultaten.nlarbeidsinspectie.nl
 https://testbegrippen.hdsr.nl
 https://testconn.ctgb.nl
 https://testeloket.aaenmaas.nl
@@ -2076,6 +2085,7 @@ https://www.nimh.nl
 https://www.nix18.nl
 https://www.nl-alert.nl
 https://www.nl-works.com
+https://www.nlarbeidsinspectie.nl
 https://www.nt.ndw.nu
 https://www.omgevingsplan.flevoland.nl
 https://www.omgevingswet.overheid.nl
