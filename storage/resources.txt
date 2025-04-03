@@ -6187,6 +6187,7 @@ feeds.onderwijsinspectie.nl
 feeds.onderwijsraad.nl
 feeds.onderwijsregio.nl
 feeds.onslevendlandschap.nl
+feeds.onswater.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.papiamentu.mijncn.nl
 feeds.persberichten.rijksoverheid.nl
@@ -11539,6 +11540,7 @@ ons.valkenswaard.nl
 ons.zwolle.nl
 onslevendlandschap.nl
 onsovermorgen.zwolle.nl
+onswater.nl
 ont.api.amsterdam.nl
 ont.belastingdienst.nl
 ont.bp.data.amsterdam.nl
@@ -11889,6 +11891,7 @@ opendata.onderwijsinspectie.nl
 opendata.onderwijsraad.nl
 opendata.onderwijsregio.nl
 opendata.onslevendlandschap.nl
+opendata.onswater.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.papiamentu.mijncn.nl
 opendata.persberichten.rijksoverheid.nl
@@ -18452,6 +18455,7 @@ www.onderzoek.groningen.nl
 www.onlinestadsgesprek.harderwijk.nl
 www.onslevendlandschap.nl
 www.onsovermorgen.zwolle.nl
+www.onswater.nl
 www.ontwikkelstrategie.amsterdam.nl
 www.onzestad.nijmegen.nl
 www.oogst.groningen.nl

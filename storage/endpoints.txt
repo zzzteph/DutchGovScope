@@ -4016,6 +4016,7 @@ https://feeds.onderwijsinspectie.nl
 https://feeds.onderwijsraad.nl
 https://feeds.onderwijsregio.nl
 https://feeds.onslevendlandschap.nl
+https://feeds.onswater.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.papiamentu.mijncn.nl
 https://feeds.persberichten.rijksoverheid.nl
@@ -6828,6 +6829,7 @@ https://ons.halderberge.nl
 https://ons.valkenswaard.nl
 https://onslevendlandschap.nl
 https://onsovermorgen.zwolle.nl
+https://onswater.nl
 https://ont.api.amsterdam.nl
 https://ont.bp.data.amsterdam.nl
 https://ont.io.amsterdam.nl
@@ -7145,6 +7147,7 @@ https://opendata.onderwijsinspectie.nl
 https://opendata.onderwijsraad.nl
 https://opendata.onderwijsregio.nl
 https://opendata.onslevendlandschap.nl
+https://opendata.onswater.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.papiamentu.mijncn.nl
 https://opendata.persberichten.rijksoverheid.nl
@@ -10486,6 +10489,7 @@ https://www.onderzoek.amsterdam.nl
 https://www.onderzoek.groningen.nl
 https://www.onslevendlandschap.nl
 https://www.onsovermorgen.zwolle.nl
+https://www.onswater.nl
 https://www.onzestad.nijmegen.nl
 https://www.oorlogenvrede.landvancuijk.nl
 https://www.oostbegroot.amsterdam.nl
