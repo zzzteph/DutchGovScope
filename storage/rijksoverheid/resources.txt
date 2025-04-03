@@ -1001,6 +1001,7 @@ english.inspectie-oe.nl
 english.iob-evaluatie.nl
 english.kiesraad.nl
 english.kimnet.nl
+english.knmidata.nl
 english.sso3w.nl
 enterpriseenrollment.cbg-meb.nl
 enterpriseregistration.belastingdienst.nl
@@ -1185,6 +1186,7 @@ feeds.english.inspectie-oe.nl
 feeds.english.iob-evaluatie.nl
 feeds.english.kiesraad.nl
 feeds.english.kimnet.nl
+feeds.english.knmidata.nl
 feeds.english.sso3w.nl
 feeds.erfgoeddeal.nl
 feeds.euthanasiecommissie.nl
@@ -1240,6 +1242,7 @@ feeds.kik-v.nl
 feeds.kimnet.nl
 feeds.kinderbescherming.nl
 feeds.klimaatakkoord.nl
+feeds.knmidata.nl
 feeds.nieuwsbrievenminocw.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.persberichten.rijksoverheid.nl
@@ -1663,6 +1666,7 @@ kinderbescherming.nl
 klimaatadaptatienederland.nl
 klimaatakkoord.nl
 klopt.cibg.nl
+knmidata.nl
 koppelvlak-acc.overheid.nl
 koppelvlak-asl.overheid.nl
 koppelvlak.overheid.nl
@@ -2141,6 +2145,7 @@ opendata.english.inspectie-oe.nl
 opendata.english.iob-evaluatie.nl
 opendata.english.kiesraad.nl
 opendata.english.kimnet.nl
+opendata.english.knmidata.nl
 opendata.english.sso3w.nl
 opendata.euthanasiecommissie.nl
 opendata.excellentescholen.nl
@@ -2196,6 +2201,7 @@ opendata.kik-v.nl
 opendata.kimnet.nl
 opendata.kinderbescherming.nl
 opendata.klimaatakkoord.nl
+opendata.knmidata.nl
 opendata.nieuwsbrievenminocw.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.persberichten.rijksoverheid.nl
@@ -3255,6 +3261,7 @@ www.kimnet.nl
 www.kinderbescherming.nl
 www.klimaatadaptatienederland.nl
 www.klimaatakkoord.nl
+www.knmidata.nl
 www.logius.nl
 www.mail.bureauwsnp.nl
 www.metelkaartrekkenwedegrens.nl

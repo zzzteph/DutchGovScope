@@ -44,9 +44,9 @@ testeloket
 zaaksysteem-accept
 ruimtelijkeplannen
 werkenbij
+english
 pv
 gemeenteraad
-english
 enterpriseenrollment
 iparticipatie
 belastingen
@@ -60,6 +60,8 @@ dloket
 dmidoffice
 a-feeds
 a-opendata
+feeds.english
+opendata.english
 enterpriseregistration
 osb
 api.meldingen-acc
@@ -67,8 +69,6 @@ meldingen-acc
 openpdc
 belastingbalie
 cmsoo
-feeds.english
-opendata.english
 login
 beeldbank
 loket.acceptatie

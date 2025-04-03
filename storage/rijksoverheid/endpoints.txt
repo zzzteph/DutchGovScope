@@ -521,6 +521,7 @@ https://english.inspectie-oe.nl
 https://english.iob-evaluatie.nl
 https://english.kiesraad.nl
 https://english.kimnet.nl
+https://english.knmidata.nl
 https://english.sso3w.nl
 https://enterpriseenrollment.cbg-meb.nl
 https://enterpriseregistration.belastingdienst.nl
@@ -665,6 +666,7 @@ https://feeds.english.inspectie-oe.nl
 https://feeds.english.iob-evaluatie.nl
 https://feeds.english.kiesraad.nl
 https://feeds.english.kimnet.nl
+https://feeds.english.knmidata.nl
 https://feeds.english.sso3w.nl
 https://feeds.erfgoeddeal.nl
 https://feeds.euthanasiecommissie.nl
@@ -720,6 +722,7 @@ https://feeds.kik-v.nl
 https://feeds.kimnet.nl
 https://feeds.kinderbescherming.nl
 https://feeds.klimaatakkoord.nl
+https://feeds.knmidata.nl
 https://feeds.nieuwsbrievenminocw.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.persberichten.rijksoverheid.nl
@@ -898,6 +901,7 @@ https://kimnet.nl
 https://kinderbescherming.nl
 https://klimaatadaptatienederland.nl
 https://klimaatakkoord.nl
+https://knmidata.nl
 https://koppelvlak-asl.overheid.nl
 https://koppelvlak.overheid.nl
 https://kwaliteitsdashboard-koop.overheid.nl
@@ -1142,6 +1146,7 @@ https://opendata.english.inspectie-oe.nl
 https://opendata.english.iob-evaluatie.nl
 https://opendata.english.kiesraad.nl
 https://opendata.english.kimnet.nl
+https://opendata.english.knmidata.nl
 https://opendata.english.sso3w.nl
 https://opendata.euthanasiecommissie.nl
 https://opendata.excellentescholen.nl
@@ -1196,6 +1201,7 @@ https://opendata.kik-v.nl
 https://opendata.kimnet.nl
 https://opendata.kinderbescherming.nl
 https://opendata.klimaatakkoord.nl
+https://opendata.knmidata.nl
 https://opendata.nieuwsbrievenminocw.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.persberichten.rijksoverheid.nl
@@ -1715,6 +1721,7 @@ https://www.kimnet.nl
 https://www.kinderbescherming.nl
 https://www.klimaatadaptatienederland.nl
 https://www.klimaatakkoord.nl
+https://www.knmidata.nl
 https://www.logius.nl
 https://www.metelkaartrekkenwedegrens.nl
 https://www.mijn.dus-i.nl

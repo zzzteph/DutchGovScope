@@ -5508,6 +5508,7 @@ english.inspectie-oe.nl
 english.iob-evaluatie.nl
 english.kiesraad.nl
 english.kimnet.nl
+english.knmidata.nl
 english.sso3w.nl
 enkhuizen.nl
 enquete-acc.denhaag.nl
@@ -5918,6 +5919,7 @@ feeds.english.inspectie-oe.nl
 feeds.english.iob-evaluatie.nl
 feeds.english.kiesraad.nl
 feeds.english.kimnet.nl
+feeds.english.knmidata.nl
 feeds.english.sso3w.nl
 feeds.erfgoeddeal.nl
 feeds.euthanasiecommissie.nl
@@ -5973,6 +5975,7 @@ feeds.kik-v.nl
 feeds.kimnet.nl
 feeds.kinderbescherming.nl
 feeds.klimaatakkoord.nl
+feeds.knmidata.nl
 feeds.nieuwsbrievenminocw.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.persberichten.rijksoverheid.nl
@@ -8883,6 +8886,7 @@ klopt.cibg.nl
 kluis.hethogeland.nl
 kmdn.gemeentehulst.nl
 knaal.helmond.nl
+knmidata.nl
 knowledgebase.sittard-geleen.nl
 knp.breda.nl
 kodision-prod.sudwestfryslan.nl
@@ -11350,6 +11354,7 @@ opendata.english.inspectie-oe.nl
 opendata.english.iob-evaluatie.nl
 opendata.english.kiesraad.nl
 opendata.english.kimnet.nl
+opendata.english.knmidata.nl
 opendata.english.sso3w.nl
 opendata.euthanasiecommissie.nl
 opendata.excellentescholen.nl
@@ -11406,6 +11411,7 @@ opendata.kik-v.nl
 opendata.kimnet.nl
 opendata.kinderbescherming.nl
 opendata.klimaatakkoord.nl
+opendata.knmidata.nl
 opendata.nieuwsbrievenminocw.nl
 opendata.nijmegen.nl
 opendata.papiamentu.belastingdienst-cn.nl
@@ -17621,6 +17627,7 @@ www.kindpakket.groningen.nl
 www.klimaatadaptatienederland.nl
 www.klimaatakkoord.nl
 www.kmdn.gemeentehulst.nl
+www.knmidata.nl
 www.kodision-prod.sudwestfryslan.nl
 www.kodision-test.sudwestfryslan.nl
 www.kodision.sudwestfryslan.nl
