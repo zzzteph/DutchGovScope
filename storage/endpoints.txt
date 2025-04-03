@@ -3998,6 +3998,7 @@ https://feeds.nza.nl
 https://feeds.ocw-verhalen.nl
 https://feeds.ocwincijfers.nl
 https://feeds.oecdguidelines.nl
+https://feeds.oesorichtlijnen.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.papiamentu.mijncn.nl
 https://feeds.persberichten.rijksoverheid.nl
@@ -6669,6 +6670,7 @@ https://oegstgeest.nl
 https://oekraine.zaanstad.nl
 https://oemojz.amsterdam.nl
 https://oens.almere.nl
+https://oesorichtlijnen.nl
 https://ogc.data.amsterdam.nl
 https://ogdservicedesk.huizen.nl
 https://ogdservicedeskacceptatie.huizen.nl
@@ -7103,6 +7105,7 @@ https://opendata.nza.nl
 https://opendata.ocw-verhalen.nl
 https://opendata.ocwincijfers.nl
 https://opendata.oecdguidelines.nl
+https://opendata.oesorichtlijnen.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.papiamentu.mijncn.nl
 https://opendata.persberichten.rijksoverheid.nl
@@ -10404,6 +10407,7 @@ https://www.odmh.nl
 https://www.oecdguidelines.nl
 https://www.oefenenmetstemmen.denhaag.nl
 https://www.oegstgeest.nl
+https://www.oesorichtlijnen.nl
 https://www.oisterwijk.nl
 https://www.old.landvancuijk.nl
 https://www.oldebroek.nl

@@ -878,6 +878,7 @@ https://feeds.nza.nl
 https://feeds.ocw-verhalen.nl
 https://feeds.ocwincijfers.nl
 https://feeds.oecdguidelines.nl
+https://feeds.oesorichtlijnen.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.papiamentu.mijncn.nl
 https://feeds.persberichten.rijksoverheid.nl
@@ -1308,6 +1309,7 @@ https://odijmond.nl
 https://odin.odmh.nl
 https://odmh.nl
 https://oecdguidelines.nl
+https://oesorichtlijnen.nl
 https://oinregister.logius.nl
 https://omgevingsplan.flevoland.nl
 https://omgevingswet.overheid.nl
@@ -1557,6 +1559,7 @@ https://opendata.nza.nl
 https://opendata.ocw-verhalen.nl
 https://opendata.ocwincijfers.nl
 https://opendata.oecdguidelines.nl
+https://opendata.oesorichtlijnen.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.papiamentu.mijncn.nl
 https://opendata.persberichten.rijksoverheid.nl
@@ -2213,6 +2216,7 @@ https://www.ocwincijfers.nl
 https://www.odijmond.nl
 https://www.odmh.nl
 https://www.oecdguidelines.nl
+https://www.oesorichtlijnen.nl
 https://www.omgevingsplan.flevoland.nl
 https://www.omgevingswet.overheid.nl
 https://www.openbare-inspectieresultaten.nvwa.nl

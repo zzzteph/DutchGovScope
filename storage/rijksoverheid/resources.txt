@@ -1436,6 +1436,7 @@ feeds.nza.nl
 feeds.ocw-verhalen.nl
 feeds.ocwincijfers.nl
 feeds.oecdguidelines.nl
+feeds.oesorichtlijnen.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.papiamentu.mijncn.nl
 feeds.persberichten.rijksoverheid.nl
@@ -2362,6 +2363,7 @@ odijmond.nl
 odin.odmh.nl
 odmh.nl
 oecdguidelines.nl
+oesorichtlijnen.nl
 officeonline-acc.belastingdienst.nl
 officeonline-conf.belastingdienst.nl
 officeonline.belastingdienst.nl
@@ -2628,6 +2630,7 @@ opendata.nza.nl
 opendata.ocw-verhalen.nl
 opendata.ocwincijfers.nl
 opendata.oecdguidelines.nl
+opendata.oesorichtlijnen.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.papiamentu.mijncn.nl
 opendata.persberichten.rijksoverheid.nl
@@ -3842,6 +3845,7 @@ www.ocwincijfers.nl
 www.odijmond.nl
 www.odmh.nl
 www.oecdguidelines.nl
+www.oesorichtlijnen.nl
 www.officiele-overheidspublicaties.nl
 www.omgevingsplan.flevoland.nl
 www.omgevingswet.overheid.nl
