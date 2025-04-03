@@ -1321,12 +1321,15 @@ https://ameland.nl
 https://amersfoort.nl
 https://ami-acc.amsterdam.nl
 https://ami-tst.amsterdam.nl
+https://ams-closures.ndw.nu
 https://amstelveen.nl
 https://amsterdam.nl
 https://amsterdaminbeeld.acc.amsterdam.nl
 https://amsterdamsebos.acc.meldingen.amsterdam.nl
 https://analytics.gis.tilburg.nl
+https://analytics.ndw.nu
 https://analytics.rijswijk.nl
+https://analytics.staging.ndw.nu
 https://andreas.acc.amsterdam.nl
 https://andreas.amsterdam.nl
 https://andreas.ont.amsterdam.nl
@@ -1609,6 +1612,7 @@ https://auth.doemee.zwolle.nl
 https://auth.gemeentehw.nl
 https://auth.gemeentestein.nl
 https://auth.lelystad.nl
+https://auth.ndw.nu
 https://auth.openstad.deventer.nl
 https://auth.openstad.enschede.nl
 https://auth.openstad.gemeentewestland.nl
@@ -1703,6 +1707,7 @@ https://awtunnel.venlo.nl
 https://awtunnel.weert.nl
 https://awvpn.someren.nl
 https://baarle-nassau.nl
+https://backbone.ndw.nu
 https://backend-dvg.acc.rotterdam.nl
 https://backend-dvg.rotterdam.nl
 https://backoffice-parkeervergunningen-acc.beverwijk.nl
@@ -1990,6 +1995,7 @@ https://beleidsatlas.rotterdam.nl
 https://belevingsroute.gooisemeren.nl
 https://beoordeling.dus-i.nl
 https://bereikbaarheid.amsterdam.nl
+https://bereikbaarheid.ndw.nu
 https://bereikbaarnieuwvennep.haarlemmermeer.nl
 https://bereikbarestad.denhaag.nl
 https://bergeijk.nl
@@ -2305,6 +2311,7 @@ https://bzg1-acc.hellevoetsluis.nl
 https://bzv.brabant.nl
 https://ca-idp-pre.logius.nl
 https://ca-idp.logius.nl
+https://caas.ndw.nu
 https://cairo.rotterdam.nl
 https://camera.sliedrecht.nl
 https://campagnetoolkits.nl
@@ -2331,6 +2338,7 @@ https://cbg-meb.nl
 https://cbgjaarverslag.nl
 https://cbm.demo.mijn.overheid.nl
 https://cbm.mijn.overheid.nl
+https://cbm.ndw.nu
 https://cbm.preprod.mijn.overheid.nl
 https://cbrnsecurity.nctv.nl
 https://cciwebstats.belastingdienst.nl
@@ -2393,6 +2401,7 @@ https://cloudrecorder.denhaag.nl
 https://cloudstorage-koop.overheid.nl
 https://cms-binnenshuis.bergen.nl
 https://cms-extranet.hethogeland.nl
+https://cms-info.ndw.nu
 https://cms-insite.nijmegen.nl
 https://cms-internoss.oss.nl
 https://cms-internoss.test.oss.nl
@@ -2644,6 +2653,7 @@ https://dacceptatieloket.veendam.nl
 https://dacceptatieloket.waterland.nl
 https://dacceptatieloket.zwolle.nl
 https://dagbesteding.apeldoorn.nl
+https://daisi.ndw.nu
 https://dalfsen.nl
 https://dali.alphenaandenrijn.nl
 https://dali.brielle.nl
@@ -2666,8 +2676,11 @@ https://dashboard-iav-api.goeree-overflakkee.nl
 https://dashboard-iav.goeree-overflakkee.nl
 https://dashboard.ikz.nl
 https://dashboard.makkelijkemarkt.amsterdam.nl
+https://dashboards.ndw.nu
+https://dashboards.staging.ndw.nu
 https://data-acc.hilversum.nl
 https://data-acc.overheid.nl
+https://data-streamer.ndw.nu
 https://data-test.bergendal.nl
 https://data-test.beuningen.nl
 https://data-test.druten.nl
@@ -2692,23 +2705,28 @@ https://data.heumen.nl
 https://data.hilversum.nl
 https://data.landvancuijk.nl
 https://data.mookenmiddelaar.nl
+https://data.ndw.nu
 https://data.nijmegen.nl
 https://data.oss.nl
 https://data.overheid.nl
 https://data.roosendaal.nl
 https://data.rotterdam.nl
+https://data.staging.ndw.nu
 https://data.tynaarlo.nl
 https://data.utrecht.nl
 https://data.venlo.nl
 https://data.westerkwartier.nl
 https://data.wijchen.nl
 https://dataacc.breda.nl
+https://datafusion.ndw.nu
 https://datalab.alkmaar.nl
 https://datalab.purmerend.nl
 https://datamask.montferland.info
+https://datamonitor.ndw.nu
 https://dataportaal.apeldoorn.nl
 https://dataportaal.brabant.nl
 https://dataportaal.tilburg.nl
+https://dataquality.ndw.nu
 https://datasociaaldomein.rotterdam.nl
 https://datavoorgezondheid.nl
 https://datumprikker.belastingdienst.nl
@@ -2773,6 +2791,7 @@ https://derondevenen.nl
 https://deschop.acceptatie.asten.nl
 https://deschop.asten.nl
 https://design.hoorn.nl
+https://design.ndw.nu
 https://designsystem.cibg.nl
 https://designsystem.leiden.nl
 https://designtool.rotterdam.nl
@@ -2800,11 +2819,14 @@ https://devops.rotterdam.nl
 https://devportal.api.amsterdam.nl
 https://dewolden.nl
 https://dex.meldingen.alphenaandenrijn.nl
+https://dexter.ndw.nu
+https://dexter.staging.ndw.nu
 https://dezi.nl
 https://dggf.nl
 https://dgk-prd.zutphen.nl
 https://dialin.aaenmaas.nl
 https://dialin.houten.nl
+https://diego.ndw.nu
 https://diemen.nl
 https://diensten-acc.rotterdam.nl
 https://diensten.purmerend.nl
@@ -2891,6 +2913,7 @@ https://dmzsvr02.winterswijk.nl
 https://dnadatabank.forensischinstituut.nl
 https://do.winterswijk.nl
 https://docgen.deventer.nl
+https://docs.ndw.nu
 https://doculoket-acc.overheid.nl
 https://doculoket.overheid.nl
 https://documenten.acceptatie.amstelveen.nl
@@ -2950,6 +2973,7 @@ https://drop-api-preprd.overheid.nl
 https://drop-api.overheid.nl
 https://drop-preprd.overheid.nl
 https://drop.overheid.nl
+https://drs.ndw.nu
 https://druktebeeld.amsterdam.nl
 https://druten.nl
 https://dso.data.amsterdam.nl
@@ -3531,6 +3555,7 @@ https://english.mijncn.nl
 https://english.ncadierproevenbeleid.nl
 https://english.ncsc.nl
 https://english.nctv.nl
+https://english.ndw.nu
 https://english.sso3w.nl
 https://enkhuizen.nl
 https://enquete-acc.denhaag.nl
@@ -3650,6 +3675,7 @@ https://erisa.fa.amsterdam.nl
 https://erisa.fa2.amsterdam.nl
 https://erisa.ft.amsterdam.nl
 https://ermelo.nl
+https://error-reporting.ndw.nu
 https://esb-a1.brabant.nl
 https://esb-acpt.brabant.nl
 https://esb-ibabs-preprod.flevoland.nl
@@ -3699,9 +3725,11 @@ https://ezaken-acceptatie.purmerend.nl
 https://ezaken.purmerend.nl
 https://f2b.belastingdienst.nl
 https://facilitor.brabant.nl
+https://faq.ndw.nu
 https://faro.cultureelerfgoed.nl
 https://fba.deventer.nl
 https://fblocatielijst.amsterdam.nl
+https://fbmonitor.ndw.nu
 https://fbtools.amsterdam.nl
 https://fd-zgw.acc.denhaag.nl
 https://fd-zgw.denhaag.nl
@@ -3827,6 +3855,7 @@ https://feeds.english.mijncn.nl
 https://feeds.english.ncadierproevenbeleid.nl
 https://feeds.english.ncsc.nl
 https://feeds.english.nctv.nl
+https://feeds.english.ndw.nu
 https://feeds.english.sso3w.nl
 https://feeds.erfgoeddeal.nl
 https://feeds.euthanasiecommissie.nl
@@ -3910,6 +3939,7 @@ https://feeds.ncadierproevenbeleid.nl
 https://feeds.ncpeh.nl
 https://feeds.ncsc.nl
 https://feeds.nctv.nl
+https://feeds.ndw.nu
 https://feeds.nieuwsbrievenminocw.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.papiamentu.mijncn.nl
@@ -4348,6 +4378,7 @@ https://geodb.vught.nl
 https://geodiensten.flevoland.nl
 https://geografie.bronckhorst.nl
 https://geoinformatie.dongen.nl
+https://geojson-converter.ndw.nu
 https://geoloket.heumen.nl
 https://geoplaza.noordoostpolder.nl
 https://geopoort.zwolle.nl
@@ -4544,6 +4575,7 @@ https://haven.sittard-geleen.nl
 https://haven.tst.sittard-geleen.nl
 https://haven.wageningen.nl
 https://havenkwartieraanzet.denhaag.nl
+https://havik.ndw.nu
 https://hdsr.nl
 https://healthcouncil.nl
 https://healthyurbanliving.utrecht.nl
@@ -4654,6 +4686,8 @@ https://iam-forms.denhaag.nl
 https://iam-portal.denhaag.nl
 https://iam.almere.nl
 https://iam.amsterdam.nl
+https://iam.ndw.nu
+https://iam.staging.ndw.nu
 https://ibabs.montferland.info
 https://ibor.delft.nl
 https://ibr-projectregistratie.rotterdam.nl
@@ -5013,6 +5047,7 @@ https://intern.aanmeldenparkeren.amsterdam.nl
 https://intern.catalogus.cultureelerfgoed.nl
 https://intern.formulieren.acc.amsterdam.nl
 https://intern.formulieren.amsterdam.nl
+https://internal-docs.ndw.nu
 https://internemagazines.amsterdam.nl
 https://internetafspraken.hattem.nl
 https://internetafspraken.heerde.nl
@@ -5296,6 +5331,7 @@ https://kampen.nl
 https://kansshop.eemsdelta.nl
 https://kantoor.hdsr.nl
 https://kapelle.nl
+https://karin.ndw.nu
 https://katwijk.landvancuijk.nl
 https://katwijk.nl
 https://katwijs.katwijk.nl
@@ -5342,6 +5378,7 @@ https://keycloak.enschede.nl
 https://keycloak.gemeente-oldambt.nl
 https://keycloak.gemeentemaashorst.nl
 https://keycloak.gemert-bakel.nl
+https://keycloak.ndw.nu
 https://keycloak.oldenzaal.nl
 https://keycloak.oostgelre.nl
 https://keycloak.roermond.nl
@@ -5727,6 +5764,7 @@ https://maps.amsterdam.nl
 https://maps.bodegraven-reeuwijk.nl
 https://maps.groningen.nl
 https://maps.moerdijk.nl
+https://maps.ndw.nu
 https://maps.rotterdam.nl
 https://maps.tynaarlo.nl
 https://maps.venlo.nl
@@ -5891,6 +5929,8 @@ https://meldpuntzorgsignalen.rotterdam.nl
 https://meldr.rotterdam.nl
 https://meldweb.westerwolde.nl
 https://melissa.ncsc.nl
+https://melvin-acc.staging.ndw.nu
+https://melvin.ndw.nu
 https://menditectbco.rotterdam.nl
 https://menditectdv.rotterdam.nl
 https://menditectmo.rotterdam.nl
@@ -6000,6 +6040,7 @@ https://mijn.middendelfland.nl
 https://mijn.moerdijk.nl
 https://mijn.montfoort.nl
 https://mijn.ncsc.nl
+https://mijn.ndw.nu
 https://mijn.nijmegen.nl
 https://mijn.noordwijk.nl
 https://mijn.oldenzaal.nl
@@ -6119,6 +6160,7 @@ https://mijnportaal.lansingerland.nl
 https://mijnpost.pekela.nl
 https://mijnpost.veendam.nl
 https://mijnrapportages.rotterdam.nl
+https://mijnrdtmnl.ndw.nu
 https://mijnsbl-test.amsterdam.nl
 https://mijnsbl.amsterdam.nl
 https://mijnschuldhulpverlening.nissewaard.nl
@@ -6231,6 +6273,10 @@ https://mks01.amsterdam.nl
 https://mksora.rijssen-holten.nl
 https://mlo-ws.acc.rotterdam.nl
 https://mlo-ws.rotterdam.nl
+https://mlops-models.ndw.nu
+https://mlops-monitoring.ndw.nu
+https://mlops-platform.ndw.nu
+https://mlops-tracking.ndw.nu
 https://mm.belastingdienst.nl
 https://mmc.formulieren.amsterdam.nl
 https://mnd-preprd.overheid.nl
@@ -6246,6 +6292,7 @@ https://mobiliteitsplan.teylingen.nl
 https://modellen.jenvgegevens.nl
 https://modern.noordwijk.nl
 https://moerdijk.nl
+https://mogin.ndw.nu
 https://molenlanden.nl
 https://monitor.krimpenerwaard.nl
 https://monitoring-prod5.koop.overheid.nl
@@ -6334,6 +6381,9 @@ https://natuur.omgevingswet.overheid.nl
 https://natuurbeheerplan.flevoland.nl
 https://ncab.nl
 https://ncadierproevenbeleid.nl
+https://ncis-ref.ndw.nu
+https://ncis.ndw.nu
+https://ncis.staging.ndw.nu
 https://ncpeh.nl
 https://ncsc.nl
 https://nctv.nl
@@ -6343,6 +6393,8 @@ https://ndbu.utrecht.nl
 https://ndes.apeldoorn.nl
 https://ndes.ot.denhaag.nl
 https://ndesapeldoorn.apeldoorn.nl
+https://ndw.nu
+https://ndwviewer.ndw.nu
 https://nedbrw.apeldoorn.nl
 https://nedbrwacc.apeldoorn.nl
 https://nederbetuwe.nl
@@ -6383,6 +6435,7 @@ https://nimmaleert.nijmegen.nl
 https://nissewaard.nl
 https://nlgembrl.brielle.nl
 https://nln.nunspeet.nl
+https://nls.ndw.nu
 https://nnn.flevoland.nl
 https://noaa.cultureelerfgoed.nl
 https://noardeast-fryslan.nl
@@ -6410,6 +6463,8 @@ https://notificaties.rotterdam.nl
 https://notificaties.wonenportaal.amsterdam.nl
 https://notificaties.zwolle.nl
 https://ns1.webserver.schiedam.nl
+https://nt.ndw.nu
+https://ntm.ndw.nu
 https://nu.venlo.nl
 https://nunietzwanger.rotterdam.nl
 https://nunspeet-checker-preprod.nunspeet.nl
@@ -6646,6 +6701,7 @@ https://oostgelre.nl
 https://oostzaan.nl
 https://open-acc.overheid.nl
 https://open-acceptatie.tilburg.nl
+https://open-data.ndw.nu
 https://open-formulieren-test.horstaandemaas.nl
 https://open-formulieren-test.leeuwarden.nl
 https://open-formulieren-test.venray.nl
@@ -6818,6 +6874,7 @@ https://opendata.english.mijncn.nl
 https://opendata.english.ncadierproevenbeleid.nl
 https://opendata.english.ncsc.nl
 https://opendata.english.nctv.nl
+https://opendata.english.ndw.nu
 https://opendata.english.sso3w.nl
 https://opendata.euthanasiecommissie.nl
 https://opendata.excellentescholen.nl
@@ -6901,6 +6958,7 @@ https://opendata.ncadierproevenbeleid.nl
 https://opendata.ncpeh.nl
 https://opendata.ncsc.nl
 https://opendata.nctv.nl
+https://opendata.ndw.nu
 https://opendata.nieuwsbrievenminocw.nl
 https://opendata.nijmegen.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
@@ -7612,6 +7670,7 @@ https://purmerend-checker.purmerend.nl
 https://purmerend.nl
 https://pushmail.awti.nl
 https://pushmail.flevoland.nl
+https://put-kpi-dashboard.ndw.nu
 https://putten.nl
 https://pv.achtkarspelen.nl
 https://pv.albrandswaard.nl
@@ -7733,6 +7792,8 @@ https://rd1.toegang.overheid.nl
 https://rd2.toegang.overheid.nl
 https://rdweb.houten.nl
 https://rdweb01.schagen.nl
+https://realtime.ndw.nu
+https://realtime.staging.ndw.nu
 https://reclame.nijmegen.nl
 https://redactie-extern.denhaag.nl
 https://redactie-tl.iplo.nl
@@ -7761,6 +7822,7 @@ https://regiotaxi.flevoland.nl
 https://register.venlo.nl
 https://registratie.rotterdam.nl
 https://reimerswaal.nl
+https://reistijdtrajecten.ndw.nu
 https://rekenkamer.amsterdam.nl
 https://rekenkamer.rotterdam.nl
 https://rekenkamer.utrecht.nl
@@ -7876,6 +7938,7 @@ https://rxlaunch-signicat-preprod.sliedrecht.nl
 https://rxlaunch-signicat-preprod.zwijndrecht.nl
 https://rxlaunchbroker-preprod.heuvelrug.nl
 https://s.checkjeprijs.huurcommissie.nl
+https://s.ndw.nu
 https://s4a.brabant.nl
 https://s4p.brabant.nl
 https://sa.belastingdienst.nl
@@ -7987,12 +8050,14 @@ https://securened.ncsc.nl
 https://securenet.ncsc.nl
 https://securenetwork.nijkerk.eu
 https://securetest.roermond.nl
+https://security.ndw.nu
 https://seg.leudal.nl
 https://selfservice.ggd.amsterdam.nl
 https://selfserviceportal.westerkwartier.nl
 https://seniorenraad.acc.nijmegen.nl
 https://sensorenregister.amsterdam.nl
 https://sensoring.rotterdam.nl
+https://sentry.ndw.nu
 https://sera.hardenberg.nl
 https://sera.hellendoorn.nl
 https://sera.horstaandemaas.nl
@@ -8035,6 +8100,8 @@ https://sf.ctgb.nl
 https://sfb.ggd.amsterdam.nl
 https://sfbaccess.houten.nl
 https://sgen.schiedam.nl
+https://shared-services.ndw.nu
+https://shared-services.staging.ndw.nu
 https://sharefile.amsterdam.nl
 https://sharepoint.aaenmaas.nl
 https://sharepoint.dalfsen.nl
@@ -8187,6 +8254,7 @@ https://sleutelkwartier.waddinxveen.nl
 https://sliedrecht-checker-preprod.sliedrecht.nl
 https://sliedrecht-checker.sliedrecht.nl
 https://sliedrecht.nl
+https://slim-reizen.ndw.nu
 https://smallingerland.nl
 https://smap.almere.nl
 https://smartaim-test.haarlemmermeer.nl
@@ -8257,6 +8325,7 @@ https://solliciteren.schouwen-duiveland.nl
 https://solliciterenbij.barneveld.nl
 https://solliciterenbij.maassluis.nl
 https://someren.nl
+https://sonar.ndw.nu
 https://sonenbreugel.nl
 https://sorry.belastingdienst.nl
 https://spa4.acc.amsterdam.nl
@@ -8390,6 +8459,7 @@ https://statistiek.rijksoverheid.nl
 https://statistieken-intranet.enschede.nl
 https://statistieken.vlissingen.nl
 https://stats.intranet.delft.nl
+https://stats.ndw.nu
 https://stats.purmerend.nl
 https://stats.utrecht.nl
 https://status-paginas-zgw.acc.denhaag.nl
@@ -8624,6 +8694,7 @@ https://test-jip.vijfheerenlanden.nl
 https://test-kaartviewer.hoorn.nl
 https://test-kaartviewer.pijnacker-nootdorp.nl
 https://test-kansshop.eemsdelta.nl
+https://test-kpi-dashboard.ndw.nu
 https://test-meedoen.goeree-overflakkee.nl
 https://test-meedoen.schagen.nl
 https://test-meedoenregeling.dongen.nl
@@ -8802,7 +8873,9 @@ https://tijdregistratie.terneuzen.nl
 https://tijdschrijven.apeldoorn.nl
 https://tilburg.nl
 https://tile.gis.rotterdam.nl
+https://tiles.ndw.nu
 https://tiles.zaanstad.nl
+https://tileserver.ndw.nu
 https://tim-app.veere.nl
 https://tim.maassluis.nl
 https://tim.woensdrecht.nl
@@ -8873,6 +8946,7 @@ https://tripleformst.nieuwegein.nl
 https://trobit.gooisemeren.nl
 https://trobit.gorinchem.nl
 https://trouwen.tynaarlo.nl
+https://truck-parking.ndw.nu
 https://tsiam.oostzaan.nl
 https://tsiam.wormerland.nl
 https://tst-eformulier.heerlen.nl
@@ -9037,6 +9111,7 @@ https://verhuursport.soest.nl
 https://verkeersbesluiten-preprd.overheid.nl
 https://verkeersbesluiten.denhaag.nl
 https://verkeersbesluiten.overheid.nl
+https://verkeersveiligheid.ndw.nu
 https://verkiezingen.acc.topdesk.denhaag.nl
 https://verkiezingen.denhelder.nl
 https://verkiezingen.deventer.nl
@@ -9071,14 +9146,17 @@ https://view.nieuwsbrief.amsterdam.nl
 https://viewer-acc.zaanstad.nl
 https://viewer.zaanstad.nl
 https://vijfheerenlanden.nl
+https://vild.ndw.nu
 https://vinden.belastingdienst.nl
 https://vinden.heuvelrug.nl
 https://visnet-acc.vlissingen.nl
 https://visnet.vlissingen.nl
 https://visvijver.doetinchem.nl
 https://vitaal.venlo.nl
+https://viz.ndw.nu
 https://vlaardingen.nl
 https://vluchtelingen.zaanstad.nl
+https://vm-ivra.ndw.nu
 https://voerendaal.nl
 https://vogelweide.diemen.nl
 https://voice.leudal.nl
@@ -9119,6 +9197,7 @@ https://vraagbaak.doesburg.nl
 https://vraaghulp.acc.nijmegen.nl
 https://vraagwijzer.gemeente-steenbergen.nl
 https://vragenlijst.eindhoven.nl
+https://vri-admin.ndw.nu
 https://vrijwilliger.hilversum.nl
 https://vrijwilligerin.hilversum.nl
 https://vriseloket.cranendonck.nl
@@ -9300,6 +9379,7 @@ https://weesp.acc.meldingen.amsterdam.nl
 https://weesp.amsterdam.nl
 https://weespbegroot.amsterdam.nl
 https://wegen.brabant.nl
+https://wegkenmerken.ndw.nu
 https://wegwijsplus.vught.nl
 https://welkom-zandbak.leerenontwikkelplein.nl
 https://welkom.helmond.nl
@@ -10095,12 +10175,14 @@ https://www.nationaalwegenbestand.nl
 https://www.nationalebijenstrategie.nl
 https://www.ncab.nl
 https://www.ncadierproevenbeleid.nl
+https://www.ncis.ndw.nu
 https://www.ncpeh.nl
 https://www.ncsc.nl
 https://www.nctv.nl
 https://www.ndbu-acc.utrecht.nl
 https://www.ndbu-tst.utrecht.nl
 https://www.ndbu.utrecht.nl
+https://www.ndw.nu
 https://www.nederbetuwe.nl
 https://www.nieuwauthentiekbloemendaal.doemee.bloemendaal.nl
 https://www.nieuwegein.nl
@@ -10116,6 +10198,7 @@ https://www.noorderkwartier.zwolle.nl
 https://www.noordoostpolder.nl
 https://www.noordwestbegroot.utrecht.nl
 https://www.noordwijk.nl
+https://www.nt.ndw.nu
 https://www.nu.venlo.nl
 https://www.nunspeet.nl
 https://www.nwro.velsen.nl

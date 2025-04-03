@@ -202,6 +202,9 @@ https://algoritmen.overheid.nl
 https://algoritmes.overheid.nl
 https://allesoverbiologisch.nl
 https://almanak.overheid.nl
+https://ams-closures.ndw.nu
+https://analytics.ndw.nu
+https://analytics.staging.ndw.nu
 https://animalfreeinnovationtpi.nl
 https://antennebureau.nl
 https://api-gateway.archis.cultureelerfgoed.nl
@@ -235,6 +238,7 @@ https://atkm.nl
 https://atlas.brabant.nl
 https://atlas.limburg.nl
 https://auditdienstrijk.nl
+https://auth.ndw.nu
 https://auth.services.cultureelerfgoed.nl
 https://autodiscover.awti.nl
 https://autodiscover.huisvoorklokkenluiders.nl
@@ -246,6 +250,7 @@ https://autoriteitnvs.nl
 https://avghelpdeskzorg.nl
 https://avgregisterrijksoverheid.nl
 https://awti.nl
+https://backbone.ndw.nu
 https://bag.basisregistraties.overheid.nl
 https://bag.test.basisregistraties.overheid.nl
 https://bag2.basisregistraties.overheid.nl
@@ -289,6 +294,7 @@ https://beheerportaal.tst2905.omgevingswet.overheid.nl
 https://belastingdienst-cn.nl
 https://belastingdienst.nl
 https://beoordeling.dus-i.nl
+https://bereikbaarheid.ndw.nu
 https://beschermdecultuurgoederen.nl
 https://besluitpreviewservice-eto.overheid.nl
 https://besluitpreviewservice.overheid.nl
@@ -328,6 +334,7 @@ https://bvs.belastingdienst.nl
 https://bzv.brabant.nl
 https://ca-idp-pre.logius.nl
 https://ca-idp.logius.nl
+https://caas.ndw.nu
 https://campagnetoolkits.nl
 https://caorijk.nl
 https://catalogus.cultureelerfgoed.nl
@@ -337,6 +344,7 @@ https://cbg-meb.nl
 https://cbgjaarverslag.nl
 https://cbm.demo.mijn.overheid.nl
 https://cbm.mijn.overheid.nl
+https://cbm.ndw.nu
 https://cbm.preprod.mijn.overheid.nl
 https://cbrnsecurity.nctv.nl
 https://cciwebstats.belastingdienst.nl
@@ -362,6 +370,7 @@ https://cio-eto.overheid.nl
 https://cio.overheid.nl
 https://circulairinkopen.nl
 https://cloudstorage-koop.overheid.nl
+https://cms-info.ndw.nu
 https://cms.mensenrechten.nl
 https://cmsgui.ondernemersplein.overheid.nl
 https://cmsintranet.flevoland.nl
@@ -416,13 +425,22 @@ https://cvte.nl
 https://cyberawareness.nctv.nl
 https://cybersecuritycouncil.nl
 https://cybersecurityraad.nl
+https://daisi.ndw.nu
 https://dashboard.ikz.nl
+https://dashboards.ndw.nu
+https://dashboards.staging.ndw.nu
 https://data-acc.overheid.nl
+https://data-streamer.ndw.nu
 https://data.cultureelerfgoed.nl
 https://data.flevoland.nl
 https://data.geo.cultureelerfgoed.nl
+https://data.ndw.nu
 https://data.overheid.nl
+https://data.staging.ndw.nu
+https://datafusion.ndw.nu
+https://datamonitor.ndw.nu
 https://dataportaal.brabant.nl
+https://dataquality.ndw.nu
 https://datavoorgezondheid.nl
 https://datumprikker.belastingdienst.nl
 https://db.cbg-meb.nl
@@ -435,6 +453,7 @@ https://deltaprogramma.nl
 https://demo-systemteam.overheid.nl
 https://denkdoeduurzaam.nl
 https://denkmee.flevoland.nl
+https://design.ndw.nu
 https://designsystem.cibg.nl
 https://desktop.flevoland.nl
 https://desktop.klopt.cibg.nl
@@ -443,9 +462,12 @@ https://dev.cbrnsecurity.nctv.nl
 https://dev.kennisbankterrorisme.nctv.nl
 https://developer.omgevingswet.overheid.nl
 https://developer.overheid.nl
+https://dexter.ndw.nu
+https://dexter.staging.ndw.nu
 https://dezi.nl
 https://dggf.nl
 https://dialin.aaenmaas.nl
+https://diego.ndw.nu
 https://dienstterugkeerenvertrek.nl
 https://diergeneesmiddeleninformatiebank.nl
 https://digicheck.brabant.nl
@@ -457,6 +479,7 @@ https://dihoo.nl
 https://dji.nl
 https://dmo.omgevingswet.overheid.nl
 https://dnadatabank.forensischinstituut.nl
+https://docs.ndw.nu
 https://doculoket-acc.overheid.nl
 https://doculoket.overheid.nl
 https://documentenapplicatie.igj.nl
@@ -475,6 +498,7 @@ https://drop-api-preprd.overheid.nl
 https://drop-api.overheid.nl
 https://drop-preprd.overheid.nl
 https://drop.overheid.nl
+https://drs.ndw.nu
 https://dsta.nl
 https://dus-i.nl
 https://dutchncca.nl
@@ -556,6 +580,7 @@ https://english.mijncn.nl
 https://english.ncadierproevenbeleid.nl
 https://english.ncsc.nl
 https://english.nctv.nl
+https://english.ndw.nu
 https://english.sso3w.nl
 https://enterpriseenrollment.cbg-meb.nl
 https://enterpriseregistration.belastingdienst.nl
@@ -564,6 +589,7 @@ https://eovgb-acc.aivd.nl
 https://eovgb.aivd.nl
 https://erfgoeddeal.nl
 https://erfgoedmonitor.cultureelerfgoed.nl
+https://error-reporting.ndw.nu
 https://esb-a1.brabant.nl
 https://esb-acpt.brabant.nl
 https://esb-ibabs-preprod.flevoland.nl
@@ -586,7 +612,9 @@ https://externe-veiligheid.omgevingswet.overheid.nl
 https://extreemrechts.nctv.nl
 https://f2b.belastingdienst.nl
 https://facilitor.brabant.nl
+https://faq.ndw.nu
 https://faro.cultureelerfgoed.nl
+https://fbmonitor.ndw.nu
 https://fed01.toeslagen.nl
 https://fed01.tst.toeslagen.nl
 https://feedback.atkm.nl
@@ -707,6 +735,7 @@ https://feeds.english.mijncn.nl
 https://feeds.english.ncadierproevenbeleid.nl
 https://feeds.english.ncsc.nl
 https://feeds.english.nctv.nl
+https://feeds.english.ndw.nu
 https://feeds.english.sso3w.nl
 https://feeds.erfgoeddeal.nl
 https://feeds.euthanasiecommissie.nl
@@ -790,6 +819,7 @@ https://feeds.ncadierproevenbeleid.nl
 https://feeds.ncpeh.nl
 https://feeds.ncsc.nl
 https://feeds.nctv.nl
+https://feeds.ndw.nu
 https://feeds.nieuwsbrievenminocw.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.papiamentu.mijncn.nl
@@ -842,6 +872,7 @@ https://geo.flevoland.nl
 https://geo3.flevoland.nl
 https://geobasisregistraties.nl
 https://geodiensten.flevoland.nl
+https://geojson-converter.ndw.nu
 https://geoportaal-acceptatie.brabant.nl
 https://geoportaal.brabant.nl
 https://georegister-intern.flevoland.nl
@@ -874,6 +905,7 @@ https://gtmt.toeslagen.nl
 https://gtmz.belastingdienst.nl
 https://gw.defensie.nl
 https://hansken.nl
+https://havik.ndw.nu
 https://hdsr.nl
 https://healthcouncil.nl
 https://helloid.aaenmaas.nl
@@ -894,6 +926,8 @@ https://huurprijscheck.huurcommissie.nl
 https://hwbp.nl
 https://i-login.mijncn.nl
 https://iam-containerplatform.lpc.logius.nl
+https://iam.ndw.nu
+https://iam.staging.ndw.nu
 https://id.brabant.nl
 https://id.flevoland.nl
 https://id.limburg.nl
@@ -937,6 +971,7 @@ https://integratie02.omgevingswet.overheid.nl
 https://integriteitswijzer.huisvoorklokkenluiders.nl
 https://intermediairdagen.belastingdienst.nl
 https://intern.catalogus.cultureelerfgoed.nl
+https://internal-docs.ndw.nu
 https://intpatch.omgevingswet.overheid.nl
 https://intranet-bestanden.flevoland.nl
 https://intranet.ad.hdsr.nl
@@ -964,6 +999,7 @@ https://kaarten.brabant.nl
 https://kaarten.hdsr.nl
 https://kabinetsformatie2023.nl
 https://kantoor.hdsr.nl
+https://karin.ndw.nu
 https://kavaanalytics.vcdn.belastingdienst.nl
 https://kennis-staging.cultureelerfgoed.nl
 https://kennis.cultureelerfgoed.nl
@@ -974,6 +1010,7 @@ https://kennisbankterrorisme.nctv.nl
 https://kennisgroepen.belastingdienst.nl
 https://kennisnetwerk.belastingdienst.nl
 https://kennisvandeoverheid.nl
+https://keycloak.ndw.nu
 https://kiesraad.nl
 https://kik-v.nl
 https://kim.omgevingswet.overheid.nl
@@ -1051,6 +1088,7 @@ https://mailing.logius.nl
 https://mailings.dus-i.nl
 https://manager.klopt.cibg.nl
 https://maps.aaenmaas.nl
+https://maps.ndw.nu
 https://marechaussee.nl
 https://mass.cultureelerfgoed.nl
 https://max.dus-i.nl
@@ -1068,6 +1106,8 @@ https://meldingen.klopt.cibg.nl
 https://meldpuntgeneesmiddelentekortendefecten.nl
 https://meldpuntwki.inspectie-jenv.nl
 https://melissa.ncsc.nl
+https://melvin-acc.staging.ndw.nu
+https://melvin.ndw.nu
 https://mensenrechten.nl
 https://menukaart.kansrijkestartnl.nl
 https://metelkaartrekkenwedegrens.nl
@@ -1084,6 +1124,7 @@ https://mijn.donorregister.nl
 https://mijn.huurcommissie.nl
 https://mijn.igj.nl
 https://mijn.ncsc.nl
+https://mijn.ndw.nu
 https://mijn.overheid.nl
 https://mijn.test.ncsc.nl
 https://mijn.toeslagen.nl
@@ -1092,6 +1133,7 @@ https://mijncn.nl
 https://mijndouane.belastingdienst.nl
 https://mijnloket.commissiemijnbouwschade.nl
 https://mijnpgb.nl
+https://mijnrdtmnl.ndw.nu
 https://mijnsubsidies-acc.limburg.nl
 https://mijnsubsidies.limburg.nl
 https://mijntokenactiveren.logius.nl
@@ -1100,10 +1142,15 @@ https://mijnzakelijk.belastingdienst.nl
 https://mik-acpt.brabant.nl
 https://mirtoverzicht.nl
 https://mivp.emissieautoriteit.nl
+https://mlops-models.ndw.nu
+https://mlops-monitoring.ndw.nu
+https://mlops-platform.ndw.nu
+https://mlops-tracking.ndw.nu
 https://mm.belastingdienst.nl
 https://mnd-preprd.overheid.nl
 https://mnd.overheid.nl
 https://modellen.jenvgegevens.nl
+https://mogin.ndw.nu
 https://monitoring-prod5.koop.overheid.nl
 https://monitoring-prod6.koop.overheid.nl
 https://monitoring-test5.koop.overheid.nl
@@ -1127,15 +1174,23 @@ https://natuur.omgevingswet.overheid.nl
 https://natuurbeheerplan.flevoland.nl
 https://ncab.nl
 https://ncadierproevenbeleid.nl
+https://ncis-ref.ndw.nu
+https://ncis.ndw.nu
+https://ncis.staging.ndw.nu
 https://ncpeh.nl
 https://ncsc.nl
 https://nctv.nl
+https://ndw.nu
+https://ndwviewer.ndw.nu
 https://nieuws.brabant.nl
 https://nieuwsbrieven.limburg.nl
 https://nieuwsbrievenminocw.nl
 https://nimh-beeldbank.defensie.nl
+https://nls.ndw.nu
 https://nnn.flevoland.nl
 https://noaa.cultureelerfgoed.nl
+https://nt.ndw.nu
+https://ntm.ndw.nu
 https://oa.aaenmaas.nl
 https://odb.belastingdienst.nl
 https://odc.werkenvoornederland.nl
@@ -1154,6 +1209,7 @@ https://onderzoeksbank.brabant.nl
 https://ons.communicatierijk.nl
 https://oordelen.mensenrechten.nl
 https://open-acc.overheid.nl
+https://open-data.ndw.nu
 https://open.brabant.nl
 https://open.overheid.nl
 https://opendata.a2vonderenkerensheide.nl
@@ -1274,6 +1330,7 @@ https://opendata.english.mijncn.nl
 https://opendata.english.ncadierproevenbeleid.nl
 https://opendata.english.ncsc.nl
 https://opendata.english.nctv.nl
+https://opendata.english.ndw.nu
 https://opendata.english.sso3w.nl
 https://opendata.euthanasiecommissie.nl
 https://opendata.excellentescholen.nl
@@ -1356,6 +1413,7 @@ https://opendata.ncadierproevenbeleid.nl
 https://opendata.ncpeh.nl
 https://opendata.ncsc.nl
 https://opendata.nctv.nl
+https://opendata.ndw.nu
 https://opendata.nieuwsbrievenminocw.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.papiamentu.mijncn.nl
@@ -1452,11 +1510,14 @@ https://puc-redactie.overheid.nl
 https://puc.overheid.nl
 https://pushmail.awti.nl
 https://pushmail.flevoland.nl
+https://put-kpi-dashboard.ndw.nu
 https://raadplegen.donorregister.nl
 https://radicaalofpuberaal.nctv.nl
 https://rcgog.nl
 https://rd1.toegang.overheid.nl
 https://rd2.toegang.overheid.nl
+https://realtime.ndw.nu
+https://realtime.staging.ndw.nu
 https://redactie-tl.iplo.nl
 https://redactie.hdsr.nl
 https://referendum-backoffice.limburg.nl
@@ -1466,6 +1527,7 @@ https://regelgeving.omgevingswet.overheid.nl
 https://regelgeving.pre.omgevingswet.overheid.nl
 https://regels.overheid.nl
 https://regiotaxi.flevoland.nl
+https://reistijdtrajecten.ndw.nu
 https://remote.flevoland.nl
 https://renvooiservice-eto.overheid.nl
 https://renvooiservice.overheid.nl
@@ -1490,6 +1552,7 @@ https://rw.belastingdienst.nl
 https://rwbg.flevoland.nl
 https://rwn.belastingdienst.nl
 https://s.checkjeprijs.huurcommissie.nl
+https://s.ndw.nu
 https://s4a.brabant.nl
 https://s4p.brabant.nl
 https://sa.belastingdienst.nl
@@ -1509,6 +1572,8 @@ https://sdgapi.ondernemersplein.overheid.nl
 https://search.developer.overheid.nl
 https://securened.ncsc.nl
 https://securenet.ncsc.nl
+https://security.ndw.nu
+https://sentry.ndw.nu
 https://service.acc.omgevingswet.overheid.nl
 https://service.bta.omgevingswet.overheid.nl
 https://service.dmo.omgevingswet.overheid.nl
@@ -1530,12 +1595,16 @@ https://service.pre.omgevingswet.overheid.nl
 https://service.tst2905.omgevingswet.overheid.nl
 https://services.belastingdienst.nl
 https://sf.ctgb.nl
+https://shared-services.ndw.nu
+https://shared-services.staging.ndw.nu
 https://sharepoint.aaenmaas.nl
 https://shopper.huurcommissie.nl
 https://signing.pre.brabant.nl
+https://slim-reizen.ndw.nu
 https://smtp.awti.nl
 https://smtp1.awti.nl
 https://social.overheid.nl
+https://sonar.ndw.nu
 https://sorry.belastingdienst.nl
 https://sso.acc.omgevingswet.overheid.nl
 https://sso.bta.omgevingswet.overheid.nl
@@ -1572,6 +1641,7 @@ https://static.preprod.mijn.overheid.nl
 https://static.rijksoverheid.nl
 https://statistiek.mijn.overheid.nl
 https://statistiek.rijksoverheid.nl
+https://stats.ndw.nu
 https://status.omgevingswet.overheid.nl
 https://status.pre.omgevingswet.overheid.nl
 https://stc.ilent.nl
@@ -1599,6 +1669,7 @@ https://test-dictu.kennisbank.logius.nl
 https://test-dictu.logius.nl
 https://test-internationaal.ondernemen.overheid.nl
 https://test-intranet.flevoland.nl
+https://test-kpi-dashboard.ndw.nu
 https://test.belastingdienst-cn.nl
 https://test.flevoland.nl
 https://test.geoservices.cultureelerfgoed.nl
@@ -1616,6 +1687,8 @@ https://testmonitorwonen.flevoland.nl
 https://testsite.ceg.nl
 https://teverantwoordenregelingen.rijksoverheid.nl
 https://thesaurus.cultureelerfgoed.nl
+https://tiles.ndw.nu
+https://tileserver.ndw.nu
 https://tl.iplo.nl
 https://tmv.cibg.nl
 https://toelatingen.ctgb.nl
@@ -1629,6 +1702,7 @@ https://toestemming.toeslagen.nl
 https://toezichtdocumenten.igj.nl
 https://treatydatabase-acc.overheid.nl
 https://treatydatabase.overheid.nl
+https://truck-parking.ndw.nu
 https://tst-referentiegegevens.justid.nl
 https://tst.subsidie.cultureelerfgoed.nl
 https://tst2905.omgevingswet.overheid.nl
@@ -1650,6 +1724,7 @@ https://verdragenbank-acc.overheid.nl
 https://verdragenbank.overheid.nl
 https://verkeersbesluiten-preprd.overheid.nl
 https://verkeersbesluiten.overheid.nl
+https://verkeersveiligheid.ndw.nu
 https://verkoop.domeinenrz.nl
 https://verkooptest.domeinenrz.nl
 https://verleendekinderopvang.belastingdienst.nl
@@ -1657,13 +1732,17 @@ https://verzekeringsproducten.belastingdienst.nl
 https://video-acc.beeldbellen.dji.nl
 https://video.beeldbellen.dji.nl
 https://videobellen.belastingdienst.nl
+https://vild.ndw.nu
 https://vinden.belastingdienst.nl
+https://viz.ndw.nu
+https://vm-ivra.ndw.nu
 https://vouch.checkjeprijs.huurcommissie.nl
 https://vpn.brabant.nl
 https://vpn.cbg-meb.nl
 https://vpn.ikz.nl
 https://vpn2.aaenmaas.nl
 https://vps-prod-01.flevoland.nl
+https://vri-admin.ndw.nu
 https://vts.belastingdienst.nl
 https://vtsd.belastingdienst.nl
 https://vulnerabilities.ncsc.nl
@@ -1688,6 +1767,7 @@ https://webservices.bigregister.nl
 https://webservices.hdsr.nl
 https://website.belastingdienst.nl
 https://wegen.brabant.nl
+https://wegkenmerken.ndw.nu
 https://welkom-zandbak.leerenontwikkelplein.nl
 https://welkom.leerenontwikkelplein.nl
 https://werken.belastingdienst.nl
@@ -1927,10 +2007,13 @@ https://www.nationaalwegenbestand.nl
 https://www.nationalebijenstrategie.nl
 https://www.ncab.nl
 https://www.ncadierproevenbeleid.nl
+https://www.ncis.ndw.nu
 https://www.ncpeh.nl
 https://www.ncsc.nl
 https://www.nctv.nl
+https://www.ndw.nu
 https://www.nieuwsbrievenminocw.nl
+https://www.nt.ndw.nu
 https://www.omgevingsplan.flevoland.nl
 https://www.omgevingswet.overheid.nl
 https://www.overheid.nl

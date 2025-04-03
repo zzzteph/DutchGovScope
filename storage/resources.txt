@@ -1430,12 +1430,15 @@ amp-idp-pre.logius.nl
 amp-idp.logius.nl
 amp-pre.logius.nl
 amp.logius.nl
+ams-closures.ndw.nu
 amstelveen.nl
 amsterdam.nl
 amsterdaminbeeld.acc.amsterdam.nl
 amsterdamsebos.acc.meldingen.amsterdam.nl
 analytics.gis.tilburg.nl
+analytics.ndw.nu
 analytics.rijswijk.nl
+analytics.staging.ndw.nu
 analytics.westmaasenwaal.nl
 andreas-opleiding.amsterdam.nl
 andreas-zuid-acceptatie.amsterdam.nl
@@ -1868,6 +1871,7 @@ auth.gemeentestein.nl
 auth.haarlem.nl
 auth.leeuwarden.nl
 auth.lelystad.nl
+auth.ndw.nu
 auth.nijkerk.eu
 auth.openstad.deventer.nl
 auth.openstad.enschede.nl
@@ -2294,6 +2298,7 @@ b2btest.belastingdienst.nl
 b2btest.toeslagen.nl
 baarle-nassau.nl
 baarn.nl
+backbone.ndw.nu
 backend-dvg.acc.rotterdam.nl
 backend-dvg.rotterdam.nl
 backend.isms.cibg.nl
@@ -2732,6 +2737,7 @@ belevingsroute.gooisemeren.nl
 beoordeling.dus-i.nl
 bereikbaar.wageningen.nl
 bereikbaarheid.amsterdam.nl
+bereikbaarheid.ndw.nu
 bereikbaarnieuwvennep.haarlemmermeer.nl
 bereikbarestad-acc.denhaag.nl
 bereikbarestad.denhaag.nl
@@ -3260,6 +3266,7 @@ ca-idp-tst.logius.nl
 ca-idp.logius.nl
 ca-tst.logius.nl
 ca.logius.nl
+caas.ndw.nu
 cag.gemeentemaasgouw.nl
 cairo.rotterdam.nl
 calendartst.brabant.nl
@@ -3321,6 +3328,7 @@ cbm.acc4.mijn.overheid.nl
 cbm.acc5.mijn.overheid.nl
 cbm.demo.mijn.overheid.nl
 cbm.mijn.overheid.nl
+cbm.ndw.nu
 cbm.pilot.mijn.overheid.nl
 cbm.preprod.mijn.overheid.nl
 cbm.tst.mijn.overheid.nl
@@ -3514,6 +3522,7 @@ clv.echt-susteren.nl
 cms-archief.leiden.nl
 cms-binnenshuis.bergen.nl
 cms-extranet.hethogeland.nl
+cms-info.ndw.nu
 cms-insite.nijmegen.nl
 cms-internoss-test.oss.nl
 cms-internoss.oss.nl
@@ -3991,6 +4000,7 @@ dacceptatiemidoffice.westvoorne.nl
 dacceptatiemidoffice.zwolle.nl
 dagbesteding.apeldoorn.nl
 dagstaatmonitors.brabant.nl
+daisi.ndw.nu
 dalfsen.nl
 dali.alphenaandenrijn.nl
 dali.brielle.nl
@@ -4016,8 +4026,11 @@ dashboard-iav-api.goeree-overflakkee.nl
 dashboard-iav.goeree-overflakkee.nl
 dashboard.ikz.nl
 dashboard.makkelijkemarkt.amsterdam.nl
+dashboards.ndw.nu
+dashboards.staging.ndw.nu
 data-acc.hilversum.nl
 data-acc.overheid.nl
+data-streamer.ndw.nu
 data-test.bergendal.nl
 data-test.beuningen.nl
 data-test.druten.nl
@@ -4050,11 +4063,13 @@ data.hilversum.nl
 data.ilent.nl
 data.landvancuijk.nl
 data.mookenmiddelaar.nl
+data.ndw.nu
 data.nijmegen.nl
 data.oss.nl
 data.overheid.nl
 data.roosendaal.nl
 data.rotterdam.nl
+data.staging.ndw.nu
 data.tynaarlo.nl
 data.utrecht.nl
 data.velsen.nl
@@ -4068,6 +4083,7 @@ databridge-tst.brunssum.nl
 databridge.brunssum.nl
 datadis.rucphen.nl
 datadis.test.rucphen.nl
+datafusion.ndw.nu
 datagit.sudwestfryslan.nl
 datakluis.utrecht.nl
 datalab.alkmaar.nl
@@ -4078,11 +4094,13 @@ dataland.sudwestfryslan.nl
 datalandprod.sudwestfryslan.nl
 datalandtest.sudwestfryslan.nl
 datamask.montferland.info
+datamonitor.ndw.nu
 dataportaal.amsterdam.nl
 dataportaal.apeldoorn.nl
 dataportaal.brabant.nl
 dataportaal.tilburg.nl
 datapunt.amsterdam.nl
+dataquality.ndw.nu
 datasociaaldomein.rotterdam.nl
 datasync.dmb.amsterdam.nl
 datatest.delft.nl
@@ -4195,6 +4213,7 @@ derondevenen.nl
 deschop.acceptatie.asten.nl
 deschop.asten.nl
 design.hoorn.nl
+design.ndw.nu
 designsystem.cibg.nl
 designsystem.leiden.nl
 designsystem.overheid.nl
@@ -4240,6 +4259,8 @@ devtest.sudwestfryslan.nl
 dewolden.nl
 dex.meldingen.alphenaandenrijn.nl
 dex.meldingen.urk.nl
+dexter.ndw.nu
+dexter.staging.ndw.nu
 dezi.nl
 dezta.lelystad.nl
 dfp.domeinenrz.nl
@@ -4264,6 +4285,7 @@ dialin.urk.nl
 dialin.zwolle.nl
 dicos-test.nissewaard.nl
 dict.amsterdam.nl
+diego.ndw.nu
 diemen.nl
 diensten-acc.rotterdam.nl
 diensten.almere.nl
@@ -4742,6 +4764,7 @@ docgen-tst.amsterdam.nl
 docgen.amsterdam.nl
 docgen.deventer.nl
 docs.lpc.logius.nl
+docs.ndw.nu
 docs.sudwestfryslan.nl
 docu.zandvoort.nl
 docudistri.nissewaard.nl
@@ -4835,6 +4858,7 @@ droptestpki.nissewaard.nl
 drpbeheerservice-acc.overheid.nl
 drpbeheerservice-preprd.overheid.nl
 drpbeheerservice.overheid.nl
+drs.ndw.nu
 druktebeeld.amsterdam.nl
 drupalintranet.bergeijk.nl
 druten.nl
@@ -4935,6 +4959,7 @@ dvi.afs.acc.amsterdam.nl
 dvi.afs.amsterdam.nl
 dvl-wmf-cca.acc.amsterdam.nl
 dvlm.3d.utrecht.nl
+dvmservices.ndw.nu
 dwangindezorg.nl
 dwh-sociaal.acc.amsterdam.nl
 dwh-sociaal.amsterdam.nl
@@ -5568,6 +5593,7 @@ english.mijncn.nl
 english.ncadierproevenbeleid.nl
 english.ncsc.nl
 english.nctv.nl
+english.ndw.nu
 english.sso3w.nl
 enkhuizen.nl
 enquete-acc.denhaag.nl
@@ -5698,6 +5724,7 @@ erisa.fa.amsterdam.nl
 erisa.fa2.amsterdam.nl
 erisa.ft.amsterdam.nl
 ermelo.nl
+error-reporting.ndw.nu
 es.hengelo.nl
 esb-a1.brabant.nl
 esb-acpt.brabant.nl
@@ -5845,6 +5872,7 @@ fad-gegevens-sit.belastingdienst.nl
 fairtrade.groningen.nl
 falco.cg-intern.acc.utrecht.nl
 fallback.webserver.schiedam.nl
+faq.ndw.nu
 faro.cultureelerfgoed.nl
 fatcacrs.belastingdienst.nl
 fatcacrstest.belastingdienst.nl
@@ -5852,6 +5880,7 @@ fba.deventer.nl
 fbadmin-eopg-acc.aivd.nl
 fbadmin-eopg.aivd.nl
 fblocatielijst.amsterdam.nl
+fbmonitor.ndw.nu
 fbtools.amsterdam.nl
 fcinet.acc.belastingdienst.nl
 fd-zgw.acc.denhaag.nl
@@ -5985,6 +6014,7 @@ feeds.english.mijncn.nl
 feeds.english.ncadierproevenbeleid.nl
 feeds.english.ncsc.nl
 feeds.english.nctv.nl
+feeds.english.ndw.nu
 feeds.english.sso3w.nl
 feeds.erfgoeddeal.nl
 feeds.euthanasiecommissie.nl
@@ -6068,6 +6098,7 @@ feeds.ncadierproevenbeleid.nl
 feeds.ncpeh.nl
 feeds.ncsc.nl
 feeds.nctv.nl
+feeds.ndw.nu
 feeds.nieuwsbrievenminocw.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.papiamentu.mijncn.nl
@@ -6890,6 +6921,7 @@ geografie.bronckhorst.nl
 geohr.assen.nl
 geoinformatie.dongen.nl
 geoinformatie.heuvelrug.nl
+geojson-converter.ndw.nu
 geokoppeling-t.debilt.nl
 geokoppeling-t.soest.nl
 geokoppeling.debilt.nl
@@ -7366,6 +7398,7 @@ haven.sittard-geleen.nl
 haven.tst.sittard-geleen.nl
 haven.wageningen.nl
 havenkwartieraanzet.denhaag.nl
+havik.ndw.nu
 hba.dpg.amsterdam.nl
 hcr.vlaardingen.nl
 hcs01.vaals.nl
@@ -7573,6 +7606,8 @@ iam-forms.denhaag.nl
 iam-portal.denhaag.nl
 iam.almere.nl
 iam.amsterdam.nl
+iam.ndw.nu
+iam.staging.ndw.nu
 iamapp.acc.amsterdam.nl
 iamdigid.acc.amsterdam.nl
 iamisp1.amsterdam.nl
@@ -8271,6 +8306,7 @@ intern.catalogus.cultureelerfgoed.nl
 intern.formulieren.acc.amsterdam.nl
 intern.formulieren.amsterdam.nl
 intern.venlo.nl
+internal-docs.ndw.nu
 internalbeacon.kampen.nl
 internationaal.ondernemen.overheid.nl
 internekoppelingen.krimpenerwaard.nl
@@ -8779,6 +8815,7 @@ kantoor.hdsr.nl
 kantoor.opsterland.nl
 kantoor.weststellingwerf.nl
 kapelle.nl
+karin.ndw.nu
 kasdimsigning-cnf.belastingdienst.nl
 kasdimsigning.belastingdienst.nl
 kasdimsigning.test.belastingdienst.nl
@@ -8913,6 +8950,7 @@ keycloak.enschede.nl
 keycloak.gemeente-oldambt.nl
 keycloak.gemeentemaashorst.nl
 keycloak.gemert-bakel.nl
+keycloak.ndw.nu
 keycloak.oldenzaal.nl
 keycloak.oostgelre.nl
 keycloak.roermond.nl
@@ -9737,6 +9775,7 @@ maps.amsterdam.nl
 maps.bodegraven-reeuwijk.nl
 maps.groningen.nl
 maps.moerdijk.nl
+maps.ndw.nu
 maps.rotterdam.nl
 maps.tynaarlo.nl
 maps.venlo.nl
@@ -9980,6 +10019,8 @@ meldpuntzorgsignalen.rotterdam.nl
 meldr.rotterdam.nl
 meldweb.westerwolde.nl
 melissa.ncsc.nl
+melvin-acc.staging.ndw.nu
+melvin.ndw.nu
 menditectbco.rotterdam.nl
 menditectdv.rotterdam.nl
 menditectmo.rotterdam.nl
@@ -10149,6 +10190,7 @@ mijn.middendelfland.nl
 mijn.moerdijk.nl
 mijn.montfoort.nl
 mijn.ncsc.nl
+mijn.ndw.nu
 mijn.nijmegen.nl
 mijn.noordwijk.nl
 mijn.nunspeet.nl
@@ -10353,6 +10395,7 @@ mijnportaal.lansingerland.nl
 mijnpost.pekela.nl
 mijnpost.veendam.nl
 mijnrapportages.rotterdam.nl
+mijnrdtmnl.ndw.nu
 mijnroteblease.rotterdam.nl
 mijnsbl-acc.amsterdam.nl
 mijnsbl-test.amsterdam.nl
@@ -10542,6 +10585,10 @@ mkstest.kerkrade.nl
 mldapp.heuvelrug.nl
 mlo-ws.acc.rotterdam.nl
 mlo-ws.rotterdam.nl
+mlops-models.ndw.nu
+mlops-monitoring.ndw.nu
+mlops-platform.ndw.nu
+mlops-tracking.ndw.nu
 mm.acc.belastingdienst.nl
 mm.belastingdienst.nl
 mm.gemeentemaasgouw.nl
@@ -10602,6 +10649,7 @@ mobilitytest.rheden.nl
 modellen.jenvgegevens.nl
 modern.noordwijk.nl
 moerdijk.nl
+mogin.ndw.nu
 moh-acc.arnhem.nl
 moh-acc.renkum.nl
 moh-acc.rheden.nl
@@ -10801,6 +10849,9 @@ navisiondestoep.nissewaard.nl
 nawservice.coevorden.nl
 ncab.nl
 ncadierproevenbeleid.nl
+ncis-ref.ndw.nu
+ncis.ndw.nu
+ncis.staging.ndw.nu
 ncp-api-1.ccmo.nl
 ncpeh.nl
 ncsc.nl
@@ -10813,6 +10864,8 @@ ndes.barneveld.nl
 ndes.ot.denhaag.nl
 ndesapeldoorn.apeldoorn.nl
 ndn-onderzoek.ncsc.nl
+ndw.nu
+ndwviewer.ndw.nu
 ned03msn.meerssen.nl
 nedbrk.brunssum.nl
 nedbrkinleesservice.brunssum.nl
@@ -10919,6 +10972,7 @@ nlgemzdv.intern.zandvoort.nl
 nllwd-spider.leeuwarden.nl
 nlmwlkeb.kaagenbraassem.nl
 nln.nunspeet.nl
+nls.ndw.nu
 nlwmoosw.ooststellingwerf.nl
 nlwmowsw.weststellingwerf.nl
 nlx-management.cg-intern.acc.utrecht.nl
@@ -11001,7 +11055,9 @@ nswropubliceer.nissewaard.nl
 nswweb011.nissewaard.nl
 nsx01.alkmaar.nl
 nsx02.alkmaar.nl
+nt.ndw.nu
 nta7516.gemeentebest.nl
+ntm.ndw.nu
 ntp1.s-hertogenbosch.nl
 ntp2.s-hertogenbosch.nl
 nu.venlo.nl
@@ -11340,6 +11396,7 @@ oov.brievenbus.amsterdam.nl
 opa.amsterdam.nl
 open-acc.overheid.nl
 open-acceptatie.tilburg.nl
+open-data.ndw.nu
 open-formulieren-test.horstaandemaas.nl
 open-formulieren-test.leeuwarden.nl
 open-formulieren-test.venray.nl
@@ -11530,6 +11587,7 @@ opendata.english.mijncn.nl
 opendata.english.ncadierproevenbeleid.nl
 opendata.english.ncsc.nl
 opendata.english.nctv.nl
+opendata.english.ndw.nu
 opendata.english.sso3w.nl
 opendata.euthanasiecommissie.nl
 opendata.excellentescholen.nl
@@ -11614,6 +11672,7 @@ opendata.ncadierproevenbeleid.nl
 opendata.ncpeh.nl
 opendata.ncsc.nl
 opendata.nctv.nl
+opendata.ndw.nu
 opendata.nieuwsbrievenminocw.nl
 opendata.nijmegen.nl
 opendata.papiamentu.belastingdienst-cn.nl
@@ -12969,6 +13028,7 @@ purmerend.nl
 pushmail.awti.nl
 pushmail.flevoland.nl
 pushmail.heusden.nl
+put-kpi-dashboard.ndw.nu
 putten.nl
 pv.achtkarspelen.nl
 pv.albrandswaard.nl
@@ -13154,6 +13214,8 @@ rdweb.deurne.nl
 rdweb.houten.nl
 rdweb01.schagen.nl
 rdwproxy.bergen-nh.nl
+realtime.ndw.nu
+realtime.staging.ndw.nu
 recast-citrixapps.tilburg.nl
 reclame.nijmegen.nl
 redactie-extern.denhaag.nl
@@ -13202,6 +13264,7 @@ reimerswaal.nl
 reinigingsrecht-acc.amsterdam.nl
 reinigingsrecht-online.amsterdam.nl
 reinigingsrecht-test.amsterdam.nl
+reistijdtrajecten.ndw.nu
 reject.dmarc.vijfheerenlanden.nl
 rekenkamer.amsterdam.nl
 rekenkamer.rotterdam.nl
@@ -13437,6 +13500,7 @@ rxlaunchbroker-preprod.heuvelrug.nl
 rxlaunchbroker.heuvelrug.nl
 s-hertogenbosch.nl
 s.checkjeprijs.huurcommissie.nl
+s.ndw.nu
 s0816p.emmen.nl
 s0816t.emmen.nl
 s1.toeslagen.nl
@@ -13742,6 +13806,7 @@ securenetwork.nijkerk.eu
 securetest.roermond.nl
 secureweb.landgraaf.nl
 securewifi.hethogeland.nl
+security.ndw.nu
 securityzkh.nctv.nl
 seg.leudal.nl
 selector1._domainkey.derondevenen.nl
@@ -13756,6 +13821,7 @@ sensorenregister.amsterdam.nl
 sensoring.rotterdam.nl
 sentry.beesel.nl
 sentry.denhelder.nl
+sentry.ndw.nu
 sentry.terneuzen.nl
 sentry1.denhelder.nl
 sepm.belastingdienst.nl
@@ -13853,6 +13919,8 @@ sftp.heerlen.nl
 sftp3.rotterdam.nl
 sgen.schiedam.nl
 shantou.stadskanaal.nl
+shared-services.ndw.nu
+shared-services.staging.ndw.nu
 sharefile.acc.amsterdam.nl
 sharefile.amsterdam.nl
 sharefile.borne.nl
@@ -14242,6 +14310,7 @@ sleutelkwartier.waddinxveen.nl
 sliedrecht-checker-preprod.sliedrecht.nl
 sliedrecht-checker.sliedrecht.nl
 sliedrecht.nl
+slim-reizen.ndw.nu
 slimbereikbaar.assen.nl
 slimmeapparaten.amsterdam.nl
 sltest.voorst.nl
@@ -14407,6 +14476,7 @@ solliciteren.schouwen-duiveland.nl
 solliciterenbij.barneveld.nl
 solliciterenbij.maassluis.nl
 someren.nl
+sonar.ndw.nu
 sonarqube.lpc.logius.nl
 sonenbreugel.nl
 songtitel.bibliotheek.rotterdam.nl
@@ -14630,6 +14700,7 @@ staging.english.ctpveldzicht.nl
 staging.intranet.oostgelre.nl
 staging.meldingen.ilent.nl
 staging.microservices.schoolwijzer.amsterdam.nl
+staging.ndw.nu
 staging.olst-wijhe.nl
 staging.ondernemersplein.overheid.nl
 staging.onderwijssubsidies.amsterdam.nl
@@ -14699,6 +14770,7 @@ statistieken.vlissingen.nl
 stats.gorinchem.nl
 stats.intranet.delft.nl
 stats.intranet.oostgelre.nl
+stats.ndw.nu
 stats.purmerend.nl
 stats.utrecht.nl
 status-paginas-zgw.acc.denhaag.nl
@@ -15206,6 +15278,7 @@ test-kennisbank.almelo.nl
 test-keycloak.assen.nl
 test-keycloak.enschede.nl
 test-keycloak.gemert-bakel.nl
+test-kpi-dashboard.ndw.nu
 test-machtigen.digipoort.logius.nl
 test-mam.ctgb.nl
 test-meedoen.goeree-overflakkee.nl
@@ -15579,8 +15652,10 @@ tijdschrijven.apeldoorn.nl
 tijdschrijven.hoogeveen.nl
 tilburg.nl
 tile.gis.rotterdam.nl
+tiles.ndw.nu
 tiles.zaanstad.nl
 tiles1.acc.opdekaart.amsterdam.nl
+tileserver.ndw.nu
 tim-app.veere.nl
 tim.gemeentebest.nl
 tim.maassluis.nl
@@ -15712,6 +15787,7 @@ triton.weststellingwerf.nl
 trobit.gooisemeren.nl
 trobit.gorinchem.nl
 trouwen.tynaarlo.nl
+truck-parking.ndw.nu
 tsapp05.local.oostgelre.nl
 tsecure.pijnacker-nootdorp.nl
 tsiam.oostzaan.nl
@@ -16057,6 +16133,7 @@ verkeersbesluiten-acc.overheid.nl
 verkeersbesluiten-preprd.overheid.nl
 verkeersbesluiten.denhaag.nl
 verkeersbesluiten.overheid.nl
+verkeersveiligheid.ndw.nu
 verkiezingen.acc.topdesk.denhaag.nl
 verkiezingen.albrandswaard.nl
 verkiezingen.barendrecht.nl
@@ -16116,6 +16193,7 @@ view.roerdalen.nl
 viewer-acc.zaanstad.nl
 viewer.zaanstad.nl
 vijfheerenlanden.nl
+vild.ndw.nu
 vind.sint-michielsgestel.nl
 vinden.belastingdienst.nl
 vinden.heuvelrug.nl
@@ -16124,6 +16202,7 @@ visnet-acc.vlissingen.nl
 visnet.vlissingen.nl
 visvijver.doetinchem.nl
 vitaal.venlo.nl
+viz.ndw.nu
 vlaardingen.nl
 vlieland.nl
 vlindernet.lingewaard.nl
@@ -16132,6 +16211,7 @@ vlspmks.velsen.nl
 vlstmks.velsen.nl
 vluchtelingen.zaanstad.nl
 vm-cs.kampen.nl
+vm-ivra.ndw.nu
 vmapp002.borne.nl
 vmapp006.borne.nl
 vmbg01.landgraaf.nl
@@ -16221,6 +16301,7 @@ vraagbaak.doesburg.nl
 vraaghulp.acc.nijmegen.nl
 vraagwijzer.gemeente-steenbergen.nl
 vragenlijst.eindhoven.nl
+vri-admin.ndw.nu
 vrijwilliger.hilversum.nl
 vrijwilligerin.hilversum.nl
 vrijwilligerswerk-oostgelre.oostgelre.nl
@@ -16683,6 +16764,7 @@ weesp.acc.meldingen.amsterdam.nl
 weesp.amsterdam.nl
 weespbegroot.amsterdam.nl
 wegen.brabant.nl
+wegkenmerken.ndw.nu
 wegwijsplus.vught.nl
 wegwijzer.nijkerk.eu
 welbo.alphenaandenrijn.nl
@@ -18002,12 +18084,14 @@ www.natuurnetwerken-prod.sudwestfryslan.nl
 www.natuurnetwerken-test.sudwestfryslan.nl
 www.ncab.nl
 www.ncadierproevenbeleid.nl
+www.ncis.ndw.nu
 www.ncpeh.nl
 www.ncsc.nl
 www.nctv.nl
 www.ndbu-acc.utrecht.nl
 www.ndbu-tst.utrecht.nl
 www.ndbu.utrecht.nl
+www.ndw.nu
 www.nederbetuwe.nl
 www.nederweert.nl
 www.netwerk.rhenen.nl
@@ -18030,6 +18114,7 @@ www.noordoostpolder.nl
 www.noordwestbegroot.utrecht.nl
 www.noordwijk.nl
 www.noordzuidlijn.amsterdam.nl
+www.nt.ndw.nu
 www.nu.venlo.nl
 www.nuenen.nl
 www.nunspeet.nl
