@@ -436,6 +436,7 @@ oud
 qmanage
 veiligmailen
 loket-acc
+redactie
 burgerloket.acceptatie
 welkom
 sentry
@@ -568,7 +569,6 @@ services-test
 mailings
 begroting2020
 kantoor
-redactie
 www1
 zaaksysteem-acc
 geoportaaltest
@@ -581,6 +581,7 @@ mx
 nac
 analytics
 iam
+join
 belastingportaal.acc
 inloggen.belastingportaal
 inloggen.belastingportaal.acc
@@ -924,7 +925,6 @@ api-meldingen.acc
 api-meldingen
 enquete
 ids
-join
 kennisnet
 meldingen.acc
 apex
@@ -3547,6 +3547,9 @@ zorgprestatiemodel
 zorgproducten-acc
 zorgproducten-test
 zorgproducten
+acc-open-wave
+gisviewer
+open-wave
 email.mail.participatie
 mail.participatie
 aalten-checker-preprod
