@@ -3872,6 +3872,7 @@ https://feeds.mijnpgb.nl
 https://feeds.mirtoverzicht.nl
 https://feeds.monitorlangdurigezorg.nl
 https://feeds.nationaalcoordinatorgroningen.nl
+https://feeds.nationaalgroeifonds.nl
 https://feeds.nieuwsbrievenminocw.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.papiamentu.mijncn.nl
@@ -6833,6 +6834,7 @@ https://opendata.mijnpgb.nl
 https://opendata.mirtoverzicht.nl
 https://opendata.monitorlangdurigezorg.nl
 https://opendata.nationaalcoordinatorgroningen.nl
+https://opendata.nationaalgroeifonds.nl
 https://opendata.nieuwsbrievenminocw.nl
 https://opendata.nijmegen.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
@@ -10010,6 +10012,7 @@ https://www.montfoort.nl
 https://www.monumentenregister.cultureelerfgoed.nl
 https://www.morgen.venlo.nl
 https://www.nationaalcoordinatorgroningen.nl
+https://www.nationaalgroeifonds.nl
 https://www.ndbu-acc.utrecht.nl
 https://www.ndbu-tst.utrecht.nl
 https://www.ndbu.utrecht.nl
