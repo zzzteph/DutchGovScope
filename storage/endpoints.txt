@@ -2384,6 +2384,7 @@ https://cms-intranet.eemsdelta.nl
 https://cms-joost.beuningen.nl
 https://cms.bernheze.org
 https://cms.dordrecht.nl
+https://cms.mensenrechten.nl
 https://cms.openstad.deventer.nl
 https://cms.openstad.nijmegen.nl
 https://cms.zaanstad.nl
@@ -2490,6 +2491,7 @@ https://communicatie.hollandskroon.nl
 https://communicatierijk.nl
 https://community.developer.overheid.nl
 https://competentie.flevoland.nl
+https://complaintform.mensenrechten.nl
 https://componenten-acc.overheid.nl
 https://componenten-tst.overheid.nl
 https://componenten.acc.nijmegen.nl
@@ -3859,6 +3861,7 @@ https://feeds.maatwerkvoormensen.nl
 https://feeds.marechaussee.nl
 https://feeds.medicineshortagesdefects.nl
 https://feeds.meldpuntgeneesmiddelentekortendefecten.nl
+https://feeds.mensenrechten.nl
 https://feeds.nieuwsbrievenminocw.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.persberichten.rijksoverheid.nl
@@ -5308,6 +5311,8 @@ https://kindregeling.dalfsen.nl
 https://kindregelingen-acc.geertruidenberg.nl
 https://kindregelingen.geertruidenberg.nl
 https://klachten.amsterdam.nl
+https://klachtenformulier.mensenrechten.nl
+https://klachtenformulierlink.mensenrechten.nl
 https://klantcontact.baarn.nl
 https://klantcontact.bergendal.nl
 https://klantcontact.beuningen.nl
@@ -5833,6 +5838,7 @@ https://menditectmo.rotterdam.nl
 https://menditectsb.rotterdam.nl
 https://menditectso.rotterdam.nl
 https://menditectweni.rotterdam.nl
+https://mensenrechten.nl
 https://menukaart.kansrijkestartnl.nl
 https://meppel.nl
 https://merk-acc.denhaag.nl
@@ -5852,6 +5858,7 @@ https://micc.zuidplas.nl
 https://micollab.flevoland.nl
 https://micollab.hellendoorn.nl
 https://micollab.huizen.nl
+https://micollab.mensenrechten.nl
 https://micollab.roermond.nl
 https://micollab.rucphen.nl
 https://micollab.veere.nl
@@ -6555,6 +6562,7 @@ https://ontmoetingskaart.landvancuijk.nl
 https://ontvangsten.rotterdam.nl
 https://ontw.app.amsterdam.nl
 https://onzestad.nijmegen.nl
+https://oordelen.mensenrechten.nl
 https://oorlogenvrede.landvancuijk.nl
 https://oostbegroot.amsterdam.nl
 https://oosterheem.zoetermeer.nl
@@ -6799,6 +6807,7 @@ https://opendata.maatwerkvoormensen.nl
 https://opendata.marechaussee.nl
 https://opendata.medicineshortagesdefects.nl
 https://opendata.meldpuntgeneesmiddelentekortendefecten.nl
+https://opendata.mensenrechten.nl
 https://opendata.nieuwsbrievenminocw.nl
 https://opendata.nijmegen.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
@@ -7487,6 +7496,7 @@ https://publicaties.barneveld.nl
 https://publicaties.brabant.nl
 https://publicaties.delft.nl
 https://publicaties.eindhoven.nl
+https://publicaties.mensenrechten.nl
 https://publicaties.nissewaard.nl
 https://publicaties.rekenkamer.amsterdam.nl
 https://publicaties.tilburg.nl
@@ -9946,6 +9956,7 @@ https://www.meedoen.venray.nl
 https://www.meerssen.nl
 https://www.meierijstad.nl
 https://www.meldpuntgeneesmiddelentekortendefecten.nl
+https://www.mensenrechten.nl
 https://www.meppel.nl
 https://www.merk.denhaag.nl
 https://www.metelkaartrekkenwedegrens.nl

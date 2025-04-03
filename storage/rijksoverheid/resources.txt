@@ -720,6 +720,7 @@ cloudstorage-koop.overheid.nl
 cms.defensie.nl
 cms.dsta.nl
 cms.hhdelfland.nl
+cms.mensenrechten.nl
 cms.rijksoverheid.nl
 cms1.defensie.nl
 cms1.rijksoverheid.nl
@@ -744,6 +745,7 @@ communicatierijk.nl
 community.developer.overheid.nl
 competent.cibg.nl
 competentie.flevoland.nl
+complaintform.mensenrechten.nl
 componenten-acc.overheid.nl
 componenten-tst.overheid.nl
 componenten.overheid.nl
@@ -1268,6 +1270,7 @@ feeds.maatwerkvoormensen.nl
 feeds.marechaussee.nl
 feeds.medicineshortagesdefects.nl
 feeds.meldpuntgeneesmiddelentekortendefecten.nl
+feeds.mensenrechten.nl
 feeds.nieuwsbrievenminocw.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.persberichten.rijksoverheid.nl
@@ -1395,6 +1398,7 @@ gegevensportaal.belastingdienst.nl
 gegevensuitwisseling.acc.belastingdienst.nl
 gegevensuitwisseling.belastingdienst.nl
 gelijke-kansen.nl
+gelijkloon.mensenrechten.nl
 gembrp.belastingdienst.nl
 geneesmiddeleninformatiebank.nl
 generiekefuncties.datavoorgezondheid.nl
@@ -1694,6 +1698,8 @@ kik-v.nl
 kim.omgevingswet.overheid.nl
 kimnet.nl
 kinderbescherming.nl
+klachtenformulier.mensenrechten.nl
+klachtenformulierlink.mensenrechten.nl
 klimaatadaptatienederland.nl
 klimaatakkoord.nl
 klopt.cibg.nl
@@ -1716,6 +1722,7 @@ leerplatform.it-academieoverheid.nl
 legacy.flevoland.nl
 leiderschap.belastingdienst.nl
 leiderschapp.belastingdienst.nl
+leren.mensenrechten.nl
 lil.cultureelerfgoed.nl
 limburg.nl
 linkeddata.accept.cultureelerfgoed.nl
@@ -1799,6 +1806,7 @@ mail.forensicinstitute.nl
 mail.forensischinstituut.nl
 mail.huurcommissie.nl
 mail.koop.overheid.nl
+mail.mensenrechten.nl
 mail01.dsta.nl
 mail240.brabant.nl
 mail241.brabant.nl
@@ -1843,6 +1851,7 @@ meldingen.ilent.nl
 meldingen.klopt.cibg.nl
 meldpuntgeneesmiddelentekortendefecten.nl
 meldpuntwki.inspectie-jenv.nl
+mensenrechten.nl
 menukaart.kansrijkestartnl.nl
 merkportaal.belastingdienst.nl
 metadata.toegang.overheid.nl
@@ -1850,6 +1859,7 @@ metelkaartrekkenwedegrens.nl
 metrixinbound.inspecteur.ilent.nl
 mgt.flevoland.nl
 micollab.flevoland.nl
+micollab.mensenrechten.nl
 mijn-aanvraag.belastingdienst.nl
 mijn-acc.igj.nl
 mijn-acc1.belastingdienst.nl
@@ -1995,6 +2005,7 @@ mwr-app-api.belastingdienst.nl
 mwr-app-cdn-ota.belastingdienst.nl
 mwr-app-cdn.belastingdienst.nl
 mx001.ctivd.nl
+mx1.mensenrechten.nl
 mxrelay.overheid.nl
 mxrelay1.overheid.nl
 mxrelay2.overheid.nl
@@ -2009,6 +2020,7 @@ nat_o5002vmfavapp.ont.belastingdienst.nl
 natuur.omgevingswet.overheid.nl
 natuurbeheerplan.flevoland.nl
 ncp-api-1.ccmo.nl
+new.mensenrechten.nl
 nexus.lpc.logius.nl
 nhr.flevoland.nl
 nieuws.brabant.nl
@@ -2078,6 +2090,7 @@ ons.communicatierijk.nl
 ont.belastingdienst.nl
 ontimegtw.belastingdienst.nl
 ontimegtw.ont.belastingdienst.nl
+oordelen.mensenrechten.nl
 open-acc.overheid.nl
 open.brabant.nl
 open.overheid.nl
@@ -2263,6 +2276,7 @@ opendata.maatwerkvoormensen.nl
 opendata.marechaussee.nl
 opendata.medicineshortagesdefects.nl
 opendata.meldpuntgeneesmiddelentekortendefecten.nl
+opendata.mensenrechten.nl
 opendata.nieuwsbrievenminocw.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.persberichten.rijksoverheid.nl
@@ -2307,6 +2321,7 @@ ots-onp.belastingdienst.nl
 ots-trial.belastingdienst.nl
 ots-vzp.belastingdienst.nl
 oud.cultureelerfgoed.nl
+oud.mensenrechten.nl
 oudewebsite.flevoland.nl
 outbound-eopg.aivd.nl
 over-ons.acc.belastingdienst.nl
@@ -2442,6 +2457,8 @@ psproxy.belastingdienst.nl
 public.mst-acc.ctgb.nl
 public.mst.ctgb.nl
 publicaties.brabant.nl
+publicaties.mensenrechten.nl
+publicaties.oud.mensenrechten.nl
 publicwebservices-dcr.cibg.nl
 publicwebservices.cibg.nl
 puc-acc.overheid.nl
@@ -3345,6 +3362,7 @@ www.mail.bureauwsnp.nl
 www.marechaussee.nl
 www.medicineshortagesdefects.nl
 www.meldpuntgeneesmiddelentekortendefecten.nl
+www.mensenrechten.nl
 www.metelkaartrekkenwedegrens.nl
 www.mijn.dus-i.nl
 www.mijn.overheid.nl
@@ -3398,6 +3416,7 @@ zoeken.belastingdienst.nl
 zoeken.bigregister.nl
 zoeken.cultureelerfgoed.nl
 zoeken.ondernemersplein.overheid.nl
+zoekservice.mensenrechten.nl
 zoekservice.overheid.nl
 zorgenwerknetwerk.arboportaal.nl
 zta-ont.belastingdienst.nl

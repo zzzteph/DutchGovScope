@@ -115,6 +115,7 @@ e
 begroting
 bgt
 sts
+micollab
 verkiezingen
 duurzaam
 simcms-open
@@ -124,7 +125,6 @@ filecap
 dtestmidoffice
 smtp
 ftp
-micollab
 inloggen
 mijnzorg
 _autodiscover._tcp
@@ -147,6 +147,7 @@ acc-formulier
 acc-podiumd-logs
 woningbouwkaart
 contentbeheer
+cms
 mobiel
 mailing
 email
@@ -168,7 +169,6 @@ acc-objecttypen
 jaarstukken
 cryptshare
 _dmarc
-cms
 a-english
 fs
 mta-sts
@@ -221,6 +221,7 @@ meet
 wachtwoord
 archief
 guest
+mx1
 preprod-mijn
 veiligdelen
 geodata
@@ -240,6 +241,7 @@ filetransfer
 services
 dialin
 beeldbank-bo
+publicaties
 werkenvoor
 xential
 exchange
@@ -259,7 +261,6 @@ topdesk
 acceptatie-open
 bestanden
 kcc
-mx1
 mx2
 cloudadapter-prod
 handhaving
@@ -271,7 +272,6 @@ omgevingswet
 beheer
 atlas
 esb
-publicaties
 mam
 subsidie
 desktop
@@ -430,6 +430,7 @@ dataportaal
 www.kaarten
 www.mail
 ons
+oud
 qmanage
 veiligmailen
 loket-acc
@@ -556,7 +557,6 @@ ondertekenen
 samenwerken
 mijnwerkplek
 idselect
-oud
 veilig
 connect-acpt
 services-test
@@ -841,6 +841,7 @@ ondernemersplein
 repository
 stijlgids
 verkeersbesluiten
+zoekservice
 lync
 oa
 vpn2
@@ -2695,7 +2696,6 @@ zdpushservice
 zoekdienst-preprod
 zoekdienst
 zoeken.ondernemersplein
-zoekservice
 aansluitsuite.acceptatie.digipoort
 aansluitsuite.digipoort
 aansluitsuite.preproductie.digipoort
@@ -3323,6 +3323,14 @@ referendum-backoffice
 referendum
 sbl
 www.mijnsubsidies-acc
+complaintform
+gelijkloon
+klachtenformulier
+klachtenformulierlink
+leren
+new
+oordelen
+publicaties.oud
 email.mail.participatie
 mail.participatie
 aalten-checker-preprod

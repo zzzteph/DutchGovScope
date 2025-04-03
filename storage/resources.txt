@@ -3496,6 +3496,7 @@ cms.dordrecht.nl
 cms.dsta.nl
 cms.gemeentewestland.nl
 cms.hhdelfland.nl
+cms.mensenrechten.nl
 cms.openstad.deventer.nl
 cms.openstad.nijmegen.nl
 cms.rijksoverheid.nl
@@ -3642,6 +3643,7 @@ community.developer.overheid.nl
 comoverheidacc.breda.nl
 competent.cibg.nl
 competentie.flevoland.nl
+complaintform.mensenrechten.nl
 componenten-acc.overheid.nl
 componenten-tst.overheid.nl
 componenten.acc.nijmegen.nl
@@ -6001,6 +6003,7 @@ feeds.maatwerkvoormensen.nl
 feeds.marechaussee.nl
 feeds.medicineshortagesdefects.nl
 feeds.meldpuntgeneesmiddelentekortendefecten.nl
+feeds.mensenrechten.nl
 feeds.nieuwsbrievenminocw.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.persberichten.rijksoverheid.nl
@@ -6628,6 +6631,7 @@ geldrop-mierlo.nl
 geldwijzer.zaanstad.nl
 geldzaken.loonopzand.nl
 gelijke-kansen.nl
+gelijkloon.mensenrechten.nl
 gelukkignieuwjaar.zwolle.nl
 gem.overbetuwe.nl
 gemalen.smallingerland.nl
@@ -8869,6 +8873,8 @@ kindregeling.dalfsen.nl
 kindregelingen-acc.geertruidenberg.nl
 kindregelingen.geertruidenberg.nl
 klachten.amsterdam.nl
+klachtenformulier.mensenrechten.nl
+klachtenformulierlink.mensenrechten.nl
 klantcontact.baarn.nl
 klantcontact.bergendal.nl
 klantcontact.beuningen.nl
@@ -9047,6 +9053,7 @@ leiderschapp.belastingdienst.nl
 leidschendam-voorburg.nl
 leidschenveenaanzet.denhaag.nl
 lelystad.nl
+leren.mensenrechten.nl
 lerenbij.groningen.nl
 lerenloont.almere.nl
 les-acc.amsterdam.nl
@@ -9498,6 +9505,7 @@ mail.leudal.nl
 mail.lopik.nl
 mail.losser.nl
 mail.mailing.haaksbergen.nl
+mail.mensenrechten.nl
 mail.middendelfland.nl
 mail.nederweert.nl
 mail.nieuwkoop.nl
@@ -9898,6 +9906,7 @@ menditectsb.rotterdam.nl
 menditectso.rotterdam.nl
 menditectweni.rotterdam.nl
 menscentraal.doesburg.nl
+mensenrechten.nl
 menukaart.kansrijkestartnl.nl
 meppel.nl
 merk-acc.denhaag.nl
@@ -9934,6 +9943,7 @@ micollab.hellendoorn.nl
 micollab.huizen.nl
 micollab.leiden.nl
 micollab.meerssen.nl
+micollab.mensenrechten.nl
 micollab.pijnacker-nootdorp.nl
 micollab.roermond.nl
 micollab.rucphen.nl
@@ -10614,6 +10624,7 @@ mx1.ede.nl
 mx1.groningen.nl
 mx1.haarlemmermeer.nl
 mx1.lelystad.nl
+mx1.mensenrechten.nl
 mx1.rucphen.nl
 mx1.s-hertogenbosch.nl
 mx1.waalwijk.nl
@@ -10728,6 +10739,7 @@ neuron.prod.baarn.nl
 neuron.test.baarn.nl
 neuron.zandvoort.nl
 neurontst.kerkrade.nl
+new.mensenrechten.nl
 nextcloud.ede.nl
 nexus.datapunt.amsterdam.nl
 nexus.lpc.logius.nl
@@ -11205,6 +11217,7 @@ ontw.gemeentewestland.nl
 ontwikkelstrategie.amsterdam.nl
 onzestad.nijmegen.nl
 oogst.groningen.nl
+oordelen.mensenrechten.nl
 oorlogenvrede.landvancuijk.nl
 oos.urk.nl
 oos2.urk.nl
@@ -11473,6 +11486,7 @@ opendata.maatwerkvoormensen.nl
 opendata.marechaussee.nl
 opendata.medicineshortagesdefects.nl
 opendata.meldpuntgeneesmiddelentekortendefecten.nl
+opendata.mensenrechten.nl
 opendata.nieuwsbrievenminocw.nl
 opendata.nijmegen.nl
 opendata.papiamentu.belastingdienst-cn.nl
@@ -11727,6 +11741,7 @@ ots-vzp.belastingdienst.nl
 oud.bodegraven-reeuwijk.nl
 oud.cultureelerfgoed.nl
 oud.heusden.nl
+oud.mensenrechten.nl
 oude-ijsselstreek.nl
 oudebeeldbank.putten.nl
 ouder-amstel.nl
@@ -12784,7 +12799,9 @@ publicaties.barneveld.nl
 publicaties.brabant.nl
 publicaties.delft.nl
 publicaties.eindhoven.nl
+publicaties.mensenrechten.nl
 publicaties.nissewaard.nl
+publicaties.oud.mensenrechten.nl
 publicaties.rekenkamer.amsterdam.nl
 publicaties.stadskanaal.nl
 publicaties.tilburg.nl
@@ -17777,6 +17794,7 @@ www.meedoen.venray.nl
 www.meerssen.nl
 www.meierijstad.nl
 www.meldpuntgeneesmiddelentekortendefecten.nl
+www.mensenrechten.nl
 www.meppel.nl
 www.merk.denhaag.nl
 www.metelkaartrekkenwedegrens.nl
@@ -18573,6 +18591,7 @@ zoeken.olst-wijhe.nl
 zoeken.ondernemersplein.overheid.nl
 zoekengemeentearchief.gemeentehulst.nl
 zoekpersoon.vlaardingen.nl
+zoekservice.mensenrechten.nl
 zoekservice.overheid.nl
 zoetermeer.nl
 zoeterwoude.nl

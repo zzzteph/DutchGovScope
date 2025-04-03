@@ -346,6 +346,7 @@ https://cio-eto.overheid.nl
 https://cio.overheid.nl
 https://circulairinkopen.nl
 https://cloudstorage-koop.overheid.nl
+https://cms.mensenrechten.nl
 https://cmsgui.ondernemersplein.overheid.nl
 https://cmsintranet.flevoland.nl
 https://codexalimentarius.nl
@@ -360,6 +361,7 @@ https://commissievanaanbestedingsexperts.nl
 https://communicatierijk.nl
 https://community.developer.overheid.nl
 https://competentie.flevoland.nl
+https://complaintform.mensenrechten.nl
 https://componenten-acc.overheid.nl
 https://componenten-tst.overheid.nl
 https://componenten.overheid.nl
@@ -739,6 +741,7 @@ https://feeds.maatwerkvoormensen.nl
 https://feeds.marechaussee.nl
 https://feeds.medicineshortagesdefects.nl
 https://feeds.meldpuntgeneesmiddelentekortendefecten.nl
+https://feeds.mensenrechten.nl
 https://feeds.nieuwsbrievenminocw.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.persberichten.rijksoverheid.nl
@@ -921,6 +924,8 @@ https://kik-v.nl
 https://kim.omgevingswet.overheid.nl
 https://kimnet.nl
 https://kinderbescherming.nl
+https://klachtenformulier.mensenrechten.nl
+https://klachtenformulierlink.mensenrechten.nl
 https://klimaatadaptatienederland.nl
 https://klimaatakkoord.nl
 https://knmidata.nl
@@ -1004,10 +1009,12 @@ https://meldingen.ilent.nl
 https://meldingen.klopt.cibg.nl
 https://meldpuntgeneesmiddelentekortendefecten.nl
 https://meldpuntwki.inspectie-jenv.nl
+https://mensenrechten.nl
 https://menukaart.kansrijkestartnl.nl
 https://metelkaartrekkenwedegrens.nl
 https://mgt.flevoland.nl
 https://micollab.flevoland.nl
+https://micollab.mensenrechten.nl
 https://mijn-aanvraag.belastingdienst.nl
 https://mijn-acc.igj.nl
 https://mijn.belastingdienst-cn.nl
@@ -1070,6 +1077,7 @@ https://ondertekenentst.brabant.nl
 https://onderzoek.communicatierijk.nl
 https://onderzoeksbank.brabant.nl
 https://ons.communicatierijk.nl
+https://oordelen.mensenrechten.nl
 https://open-acc.overheid.nl
 https://open.brabant.nl
 https://open.overheid.nl
@@ -1254,6 +1262,7 @@ https://opendata.maatwerkvoormensen.nl
 https://opendata.marechaussee.nl
 https://opendata.medicineshortagesdefects.nl
 https://opendata.meldpuntgeneesmiddelentekortendefecten.nl
+https://opendata.mensenrechten.nl
 https://opendata.nieuwsbrievenminocw.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.persberichten.rijksoverheid.nl
@@ -1337,6 +1346,7 @@ https://prototype.cibg.nl
 https://psarchief.brabant.nl
 https://public.mst.ctgb.nl
 https://publicaties.brabant.nl
+https://publicaties.mensenrechten.nl
 https://puc-acc.overheid.nl
 https://puc-redactie-acc.overheid.nl
 https://puc-redactie.overheid.nl
@@ -1795,6 +1805,7 @@ https://www.maatwerkvoormensen.nl
 https://www.marechaussee.nl
 https://www.medicineshortagesdefects.nl
 https://www.meldpuntgeneesmiddelentekortendefecten.nl
+https://www.mensenrechten.nl
 https://www.metelkaartrekkenwedegrens.nl
 https://www.mijn.dus-i.nl
 https://www.mijn.overheid.nl
