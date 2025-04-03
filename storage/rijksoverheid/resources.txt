@@ -1267,6 +1267,7 @@ feeds.lvmb.nl
 feeds.maatwerkvoormensen.nl
 feeds.marechaussee.nl
 feeds.medicineshortagesdefects.nl
+feeds.meldpuntgeneesmiddelentekortendefecten.nl
 feeds.nieuwsbrievenminocw.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.persberichten.rijksoverheid.nl
@@ -1840,6 +1841,7 @@ meldingen.atkm.nl
 meldingen.emissieautoriteit.nl
 meldingen.ilent.nl
 meldingen.klopt.cibg.nl
+meldpuntgeneesmiddelentekortendefecten.nl
 meldpuntwki.inspectie-jenv.nl
 menukaart.kansrijkestartnl.nl
 merkportaal.belastingdienst.nl
@@ -2260,6 +2262,7 @@ opendata.lvmb.nl
 opendata.maatwerkvoormensen.nl
 opendata.marechaussee.nl
 opendata.medicineshortagesdefects.nl
+opendata.meldpuntgeneesmiddelentekortendefecten.nl
 opendata.nieuwsbrievenminocw.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.persberichten.rijksoverheid.nl
@@ -3341,6 +3344,7 @@ www.maatwerkvoormensen.nl
 www.mail.bureauwsnp.nl
 www.marechaussee.nl
 www.medicineshortagesdefects.nl
+www.meldpuntgeneesmiddelentekortendefecten.nl
 www.metelkaartrekkenwedegrens.nl
 www.mijn.dus-i.nl
 www.mijn.overheid.nl

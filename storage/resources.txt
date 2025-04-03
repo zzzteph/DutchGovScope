@@ -6000,6 +6000,7 @@ feeds.lvmb.nl
 feeds.maatwerkvoormensen.nl
 feeds.marechaussee.nl
 feeds.medicineshortagesdefects.nl
+feeds.meldpuntgeneesmiddelentekortendefecten.nl
 feeds.nieuwsbrievenminocw.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.persberichten.rijksoverheid.nl
@@ -9883,6 +9884,7 @@ meldingentest.purmerend.nl
 meldingenweb.heerlen.nl
 meldingenweesp.amsterdam.nl
 meldpunt.gennep.nl
+meldpuntgeneesmiddelentekortendefecten.nl
 meldpuntondermijning.rotterdam.nl
 meldpuntwki.inspectie-jenv.nl
 meldpuntzorgenomeenander.rotterdam.nl
@@ -11470,6 +11472,7 @@ opendata.lvmb.nl
 opendata.maatwerkvoormensen.nl
 opendata.marechaussee.nl
 opendata.medicineshortagesdefects.nl
+opendata.meldpuntgeneesmiddelentekortendefecten.nl
 opendata.nieuwsbrievenminocw.nl
 opendata.nijmegen.nl
 opendata.papiamentu.belastingdienst-cn.nl
@@ -17773,6 +17776,7 @@ www.meedoen.hollandskroon.nl
 www.meedoen.venray.nl
 www.meerssen.nl
 www.meierijstad.nl
+www.meldpuntgeneesmiddelentekortendefecten.nl
 www.meppel.nl
 www.merk.denhaag.nl
 www.metelkaartrekkenwedegrens.nl
