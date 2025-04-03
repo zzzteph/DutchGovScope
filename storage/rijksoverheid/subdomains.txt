@@ -1528,6 +1528,7 @@ feeds.prosecutionservice.nl
 feeds.raadopenbaarbestuur.nl
 feeds.raadrvs.nl
 feeds.raadvoorcultuur.nl
+feeds.rabarijk.nl
 feeds.rcgog.nl
 feeds.rijksoverheid.nl
 fibb-perf.acc.belastingdienst.nl
@@ -2838,6 +2839,7 @@ opendata.prosecutionservice.nl
 opendata.raadopenbaarbestuur.nl
 opendata.raadrvs.nl
 opendata.raadvoorcultuur.nl
+opendata.rabarijk.nl
 opendata.rcgog.nl
 opendata.rijksoverheid.nl
 opendisdata-acc.nza.nl
@@ -4182,6 +4184,7 @@ www.provincie.drenthe.nl
 www.raadopenbaarbestuur.nl
 www.raadrvs.nl
 www.raadvoorcultuur.nl
+www.rabarijk.nl
 www.ras-acc.nvwa.nl
 www.rcgog.nl
 www.rijksoverheid.nl
