@@ -640,6 +640,7 @@ https://english.ndw.nu
 https://english.nrgd.nl
 https://english.nvwa.nl
 https://english.onderwijsinspectie.nl
+https://english.postedworkers.nl
 https://english.sso3w.nl
 https://enterpriseenrollment.cbg-meb.nl
 https://enterpriseenrollment.ofgv.nl
@@ -801,6 +802,7 @@ https://feeds.english.ndw.nu
 https://feeds.english.nrgd.nl
 https://feeds.english.nvwa.nl
 https://feeds.english.onderwijsinspectie.nl
+https://feeds.english.postedworkers.nl
 https://feeds.english.sso3w.nl
 https://feeds.erfgoeddeal.nl
 https://feeds.euthanasiecommissie.nl
@@ -930,6 +932,7 @@ https://feeds.papiamentu.mijncn.nl
 https://feeds.papiamentu.rijksdienstcn.com
 https://feeds.persberichten.rijksoverheid.nl
 https://feeds.politiekeambtsdragers.nl
+https://feeds.postedworkers.nl
 https://feeds.rcgog.nl
 https://feeds.rijksoverheid.nl
 https://fibb1.belastingdienst.nl
@@ -1249,6 +1252,7 @@ https://meldingen.atkm.nl
 https://meldingen.ilent.nl
 https://meldingen.klopt.cibg.nl
 https://meldingwd.odmh.nl
+https://meldloket.postedworkers.nl
 https://meldpuntgeneesmiddelentekortendefecten.nl
 https://meldpuntwki.inspectie-jenv.nl
 https://melissa.ncsc.nl
@@ -1316,6 +1320,8 @@ https://mul.belastingdienst.nl
 https://murder-case.om.nl
 https://mwr-app-cdn-ota.belastingdienst.nl
 https://mwr-app-cdn.belastingdienst.nl
+https://myidp-acc.postedworkers.nl
+https://myidp.postedworkers.nl
 https://nac.nctv.nl
 https://nationaalcoordinatorgroningen.nl
 https://nationaalrapporteur.nl
@@ -1528,6 +1534,7 @@ https://opendata.english.ndw.nu
 https://opendata.english.nrgd.nl
 https://opendata.english.nvwa.nl
 https://opendata.english.onderwijsinspectie.nl
+https://opendata.english.postedworkers.nl
 https://opendata.english.sso3w.nl
 https://opendata.euthanasiecommissie.nl
 https://opendata.excellentescholen.nl
@@ -1657,6 +1664,7 @@ https://opendata.papiamentu.mijncn.nl
 https://opendata.papiamentu.rijksdienstcn.com
 https://opendata.persberichten.rijksoverheid.nl
 https://opendata.politiekeambtsdragers.nl
+https://opendata.postedworkers.nl
 https://opendata.rcgog.nl
 https://opendata.rijksoverheid.nl
 https://opendisdata.nza.nl
@@ -1733,6 +1741,7 @@ https://portaal.huurcommissie.nl
 https://portaal.ikz.nl
 https://portaal.ncpeh.nl
 https://portaal.nlarbeidsinspectie.nl
+https://postedworkers.nl
 https://pp1.toegang.overheid.nl
 https://pp2.toegang.overheid.nl
 https://prd.archis.cultureelerfgoed.nl
@@ -1998,6 +2007,7 @@ https://tuchtrecht-acc.overheid.nl
 https://tuchtrecht.overheid.nl
 https://uconnect-acc.hdsr.nl
 https://uconnect.hdsr.nl
+https://url6099.mail.postedworkers.nl
 https://uzipas.lir.cibg.nl
 https://uzipas.portaal.ncpeh.nl
 https://vacatures.odmh.nl
@@ -2368,6 +2378,7 @@ https://www.p-direkt.nl
 https://www.pagw.nl
 https://www.perf.omgevingswet.overheid.nl
 https://www.politiekeambtsdragers.nl
+https://www.postedworkers.nl
 https://www.pre.omgevingswet.overheid.nl
 https://www.ras-acc.nvwa.nl
 https://www.rcgog.nl
