@@ -560,6 +560,7 @@ ondertekenen
 samenwerken
 mijnwerkplek
 idselect
+kennis
 veilig
 connect-acpt
 services-test
@@ -868,7 +869,6 @@ geoservertest
 www.dataportaal
 password
 acc.subsidie
-kennis
 monumentenregister
 ssl
 beeldbellen

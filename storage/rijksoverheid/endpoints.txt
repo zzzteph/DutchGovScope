@@ -848,6 +848,7 @@ https://feeds.nl-works.com
 https://feeds.nlarbeidsinspectie.nl
 https://feeds.nlinfrankrijk.nl
 https://feeds.nllabourauthority.nl
+https://feeds.nponderwijs.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.papiamentu.mijncn.nl
 https://feeds.persberichten.rijksoverheid.nl
@@ -1032,6 +1033,7 @@ https://kavaanalytics.vcdn.belastingdienst.nl
 https://kennis-staging.cultureelerfgoed.nl
 https://kennis.cultureelerfgoed.nl
 https://kennis.hdsr.nl
+https://kennis.nponderwijs.nl
 https://kennisbank.hhdelfland.nl
 https://kennisbank.logius.nl
 https://kennisbankterrorisme.nctv.nl
@@ -1228,6 +1230,7 @@ https://nllabourauthority.nl
 https://nls.ndw.nu
 https://nnn.flevoland.nl
 https://noaa.cultureelerfgoed.nl
+https://nponderwijs.nl
 https://nt.ndw.nu
 https://ntm.ndw.nu
 https://oa.aaenmaas.nl
@@ -1469,6 +1472,7 @@ https://opendata.nl-works.com
 https://opendata.nlarbeidsinspectie.nl
 https://opendata.nlinfrankrijk.nl
 https://opendata.nllabourauthority.nl
+https://opendata.nponderwijs.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.papiamentu.mijncn.nl
 https://opendata.persberichten.rijksoverheid.nl
@@ -2094,6 +2098,7 @@ https://www.nl-works.com
 https://www.nlarbeidsinspectie.nl
 https://www.nlinfrankrijk.nl
 https://www.nllabourauthority.nl
+https://www.nponderwijs.nl
 https://www.nt.ndw.nu
 https://www.omgevingsplan.flevoland.nl
 https://www.omgevingswet.overheid.nl

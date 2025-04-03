@@ -6129,6 +6129,7 @@ feeds.nl-works.com
 feeds.nlarbeidsinspectie.nl
 feeds.nlinfrankrijk.nl
 feeds.nllabourauthority.nl
+feeds.nponderwijs.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.papiamentu.mijncn.nl
 feeds.persberichten.rijksoverheid.nl
@@ -8897,6 +8898,7 @@ kennis-fiod.acc.belastingdienst.nl
 kennis-staging.cultureelerfgoed.nl
 kennis.cultureelerfgoed.nl
 kennis.hdsr.nl
+kennis.nponderwijs.nl
 kennisbank.achtkarspelen.nl
 kennisbank.almelo.nl
 kennisbank.barneveld.nl
@@ -11059,6 +11061,7 @@ notubiz.gulpen-wittem.nl
 nox.intranet.nationaalcoordinatorgroningen.nl
 nple-test.belastingdienst.nl
 nple.belastingdienst.nl
+nponderwijs.nl
 ns.amersfoort.nl
 ns.amsterdam.nl
 ns.apeldoorn.nl
@@ -11735,6 +11738,7 @@ opendata.nl-works.com
 opendata.nlarbeidsinspectie.nl
 opendata.nlinfrankrijk.nl
 opendata.nllabourauthority.nl
+opendata.nponderwijs.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.papiamentu.mijncn.nl
 opendata.persberichten.rijksoverheid.nl
@@ -18204,6 +18208,7 @@ www.noordoostpolder.nl
 www.noordwestbegroot.utrecht.nl
 www.noordwijk.nl
 www.noordzuidlijn.amsterdam.nl
+www.nponderwijs.nl
 www.nt.ndw.nu
 www.nu.venlo.nl
 www.nuenen.nl

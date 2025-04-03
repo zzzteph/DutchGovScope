@@ -3968,6 +3968,7 @@ https://feeds.nl-works.com
 https://feeds.nlarbeidsinspectie.nl
 https://feeds.nlinfrankrijk.nl
 https://feeds.nllabourauthority.nl
+https://feeds.nponderwijs.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.papiamentu.mijncn.nl
 https://feeds.persberichten.rijksoverheid.nl
@@ -5378,6 +5379,7 @@ https://kenneth.delft.nl
 https://kennis-staging.cultureelerfgoed.nl
 https://kennis.cultureelerfgoed.nl
 https://kennis.hdsr.nl
+https://kennis.nponderwijs.nl
 https://kennisbank.barneveld.nl
 https://kennisbank.eindhoven.nl
 https://kennisbank.groningen.nl
@@ -6501,6 +6503,7 @@ https://notificaties.roermond.nl
 https://notificaties.rotterdam.nl
 https://notificaties.wonenportaal.amsterdam.nl
 https://notificaties.zwolle.nl
+https://nponderwijs.nl
 https://ns1.webserver.schiedam.nl
 https://nt.ndw.nu
 https://ntm.ndw.nu
@@ -7015,6 +7018,7 @@ https://opendata.nl-works.com
 https://opendata.nlarbeidsinspectie.nl
 https://opendata.nlinfrankrijk.nl
 https://opendata.nllabourauthority.nl
+https://opendata.nponderwijs.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.papiamentu.mijncn.nl
 https://opendata.persberichten.rijksoverheid.nl
@@ -10279,6 +10283,7 @@ https://www.noorderkwartier.zwolle.nl
 https://www.noordoostpolder.nl
 https://www.noordwestbegroot.utrecht.nl
 https://www.noordwijk.nl
+https://www.nponderwijs.nl
 https://www.nt.ndw.nu
 https://www.nu.venlo.nl
 https://www.nunspeet.nl
