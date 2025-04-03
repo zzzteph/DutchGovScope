@@ -871,6 +871,7 @@ https://feeds.nutriscorevoorbedrijven.nl
 https://feeds.nvwa.nl
 https://feeds.nza.nl
 https://feeds.ocw-verhalen.nl
+https://feeds.ocwincijfers.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.papiamentu.mijncn.nl
 https://feeds.persberichten.rijksoverheid.nl
@@ -1282,6 +1283,7 @@ https://nza-form5.nza.nl
 https://nza-form6.nza.nl
 https://nza.nl
 https://oa.aaenmaas.nl
+https://ocwincijfers.nl
 https://odb.belastingdienst.nl
 https://odc.werkenvoornederland.nl
 https://oinregister.logius.nl
@@ -1529,6 +1531,7 @@ https://opendata.nutriscorevoorbedrijven.nl
 https://opendata.nvwa.nl
 https://opendata.nza.nl
 https://opendata.ocw-verhalen.nl
+https://opendata.ocwincijfers.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.papiamentu.mijncn.nl
 https://opendata.persberichten.rijksoverheid.nl
@@ -2176,6 +2179,7 @@ https://www.nutriscorevoorbedrijven.nl
 https://www.nvwa.nl
 https://www.nza.nl
 https://www.ocw-verhalen.nl
+https://www.ocwincijfers.nl
 https://www.omgevingsplan.flevoland.nl
 https://www.omgevingswet.overheid.nl
 https://www.openbare-inspectieresultaten.nvwa.nl

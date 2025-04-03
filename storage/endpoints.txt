@@ -3991,6 +3991,7 @@ https://feeds.nutriscorevoorbedrijven.nl
 https://feeds.nvwa.nl
 https://feeds.nza.nl
 https://feeds.ocw-verhalen.nl
+https://feeds.ocwincijfers.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.papiamentu.mijncn.nl
 https://feeds.persberichten.rijksoverheid.nl
@@ -6636,6 +6637,7 @@ https://octopus.sittard-geleen.nl
 https://octopus.stichtsevecht.nl
 https://ocwhfi.acc.topdesk.denhaag.nl
 https://ocwhfi.topdesk.denhaag.nl
+https://ocwincijfers.nl
 https://odb.belastingdienst.nl
 https://odc.werkenvoornederland.nl
 https://oefen.heusden.nl
@@ -7075,6 +7077,7 @@ https://opendata.nutriscorevoorbedrijven.nl
 https://opendata.nvwa.nl
 https://opendata.nza.nl
 https://opendata.ocw-verhalen.nl
+https://opendata.ocwincijfers.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.papiamentu.mijncn.nl
 https://opendata.persberichten.rijksoverheid.nl
@@ -10365,6 +10368,7 @@ https://www.nwro.velsen.nl
 https://www.nza.nl
 https://www.oco.eindhoven.nl
 https://www.ocw-verhalen.nl
+https://www.ocwincijfers.nl
 https://www.oefenenmetstemmen.denhaag.nl
 https://www.oegstgeest.nl
 https://www.oisterwijk.nl

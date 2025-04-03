@@ -180,6 +180,7 @@ a-feeds.koopoverheid.nl
 a-feeds.loonaangifteketen.nl
 a-feeds.ncadierproevenbeleid.nl
 a-feeds.nza.nl
+a-feeds.ocwincijfers.nl
 a-feeds.rijksoverheid.nl
 a-git.rijksoverheid.nl
 a-informatieservice.nederlandwereldwijd.nl
@@ -234,6 +235,7 @@ a-opendata.koopoverheid.nl
 a-opendata.loonaangifteketen.nl
 a-opendata.ncadierproevenbeleid.nl
 a-opendata.nza.nl
+a-opendata.ocwincijfers.nl
 a-opendata.rijksoverheid.nl
 a-p-ddi-0003.leeuwarden.nl
 a-p-ddi-0010.leeuwarden.nl
@@ -287,6 +289,7 @@ a-www.ncadierproevenbeleid.nl
 a-www.nederlandwereldwijd.nl
 a-www.netherlandsworldwide.nl
 a-www.nza.nl
+a-www.ocwincijfers.nl
 a-www.rijksoverheid.nl
 a2b-rtr.alkmaar.nl
 a2vonderenkerensheide.nl
@@ -6156,6 +6159,7 @@ feeds.nutriscorevoorbedrijven.nl
 feeds.nvwa.nl
 feeds.nza.nl
 feeds.ocw-verhalen.nl
+feeds.ocwincijfers.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.papiamentu.mijncn.nl
 feeds.persberichten.rijksoverheid.nl
@@ -11290,6 +11294,7 @@ octopus.sittard-geleen.nl
 octopus.stichtsevecht.nl
 ocwhfi.acc.topdesk.denhaag.nl
 ocwhfi.topdesk.denhaag.nl
+ocwincijfers.nl
 odb.acc.belastingdienst.nl
 odb.belastingdienst.nl
 odc.werkenvoornederland.nl
@@ -11805,6 +11810,7 @@ opendata.nutriscorevoorbedrijven.nl
 opendata.nvwa.nl
 opendata.nza.nl
 opendata.ocw-verhalen.nl
+opendata.ocwincijfers.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.papiamentu.mijncn.nl
 opendata.persberichten.rijksoverheid.nl
@@ -18303,6 +18309,7 @@ www.nwro.velsen.nl
 www.nza.nl
 www.oco.eindhoven.nl
 www.ocw-verhalen.nl
+www.ocwincijfers.nl
 www.oefenenmetstemmen.denhaag.nl
 www.oegstgeest.nl
 www.office365.haarlemmermeer.nl

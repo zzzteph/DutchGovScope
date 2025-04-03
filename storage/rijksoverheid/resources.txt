@@ -75,6 +75,7 @@ a-feeds.koopoverheid.nl
 a-feeds.loonaangifteketen.nl
 a-feeds.ncadierproevenbeleid.nl
 a-feeds.nza.nl
+a-feeds.ocwincijfers.nl
 a-feeds.rijksoverheid.nl
 a-git.rijksoverheid.nl
 a-informatieservice.nederlandwereldwijd.nl
@@ -129,6 +130,7 @@ a-opendata.koopoverheid.nl
 a-opendata.loonaangifteketen.nl
 a-opendata.ncadierproevenbeleid.nl
 a-opendata.nza.nl
+a-opendata.ocwincijfers.nl
 a-opendata.rijksoverheid.nl
 a-persberichten.rijksoverheid.nl
 a-servicedesk.rijksoverheid.nl
@@ -178,6 +180,7 @@ a-www.ncadierproevenbeleid.nl
 a-www.nederlandwereldwijd.nl
 a-www.netherlandsworldwide.nl
 a-www.nza.nl
+a-www.ocwincijfers.nl
 a-www.rijksoverheid.nl
 a2vonderenkerensheide.nl
 aaenmaas.nl
@@ -1423,6 +1426,7 @@ feeds.nutriscorevoorbedrijven.nl
 feeds.nvwa.nl
 feeds.nza.nl
 feeds.ocw-verhalen.nl
+feeds.ocwincijfers.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.papiamentu.mijncn.nl
 feeds.persberichten.rijksoverheid.nl
@@ -2329,6 +2333,7 @@ o5001proxvapp.ont.belastingdienst.nl
 o5002proxvapp.ont.belastingdienst.nl
 oa.aaenmaas.nl
 ob.mijn.overheid.nl
+ocwincijfers.nl
 odb.acc.belastingdienst.nl
 odb.belastingdienst.nl
 odc.werkenvoornederland.nl
@@ -2594,6 +2599,7 @@ opendata.nutriscorevoorbedrijven.nl
 opendata.nvwa.nl
 opendata.nza.nl
 opendata.ocw-verhalen.nl
+opendata.ocwincijfers.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.papiamentu.mijncn.nl
 opendata.persberichten.rijksoverheid.nl
@@ -3799,6 +3805,7 @@ www.nutriscorevoorbedrijven.nl
 www.nvwa.nl
 www.nza.nl
 www.ocw-verhalen.nl
+www.ocwincijfers.nl
 www.officiele-overheidspublicaties.nl
 www.omgevingsplan.flevoland.nl
 www.omgevingswet.overheid.nl

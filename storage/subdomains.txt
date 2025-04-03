@@ -39,8 +39,8 @@ parkeren
 adfs
 raad
 api.meldingen
-broker
 a-www
+broker
 betalen
 testeloket
 zaaksysteem-accept
@@ -48,10 +48,10 @@ ruimtelijkeplannen
 feeds.english
 opendata.english
 werkenbij
-pv
-gemeenteraad
 a-feeds
 a-opendata
+pv
+gemeenteraad
 enterpriseenrollment
 iparticipatie
 belastingen
