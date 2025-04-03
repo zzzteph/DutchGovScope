@@ -102,12 +102,8 @@ jobs:
            mkdir storage
            python engine/publish.py
 
-      - name: Publish endpoints
-        run: |
-           rm -rf storage
-           mkdir storage
-           python engine/publish.py
-
+      - name: Re-publish scope
+        run: python engine/scope_publish.py
 
 
 
@@ -118,6 +114,6 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git pull
-          git add -A storage/ scope_scan.db
+          git add -A scope/ storage/ scope_scan.db
           git commit -m "Auto-update: updated with ${{ env.LATEST_SCOPE_NAME }}" || echo "No changes to commit"
           git push
