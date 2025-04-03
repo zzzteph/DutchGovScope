@@ -257,6 +257,7 @@ acc.stubs.lpc.mijn.overheid.nl
 acc.subsidie.cultureelerfgoed.nl
 acc.translate.services.cultureelerfgoed.nl
 acc.zaak.services.cultureelerfgoed.nl
+acc.zsmgame.om.nl
 acc0.mijn.overheid.nl
 acc1.mijn.overheid.nl
 acc1.picard.mijn.overheid.nl
@@ -324,6 +325,7 @@ acceptatie.wioservice.ilent.nl
 acceptatie.zoeken.bigregister.nl
 acceptatie.zoeken.cultureelerfgoed.nl
 acceptatiepan.emissieautoriteit.nl
+access.om.nl
 ace_nat17.belastingdienst.nl
 ack.omgevingswet.overheid.nl
 acm-acc.ctgb.nl
@@ -665,6 +667,7 @@ bo-service.brabant.nl
 bodem-ondergrond.omgevingswet.overheid.nl
 bodematlas.brabant.nl
 bodemrapportage.flevoland.nl
+boetebase.om.nl
 boportaalkd.belastingdienst.nl
 boportaalkdo.belastingdienst.nl
 boportaalkdt.belastingdienst.nl
@@ -824,6 +827,7 @@ componenten-acc.overheid.nl
 componenten-tst.overheid.nl
 componenten.overheid.nl
 conf.cbg-meb.nl
+conf.om.nl
 conference-2-belastingdienst1.vc.belastingdienst.nl
 conference-3-belastingdienst1.vc.belastingdienst.nl
 connect-acpt.dji.nl
@@ -955,6 +959,7 @@ dggf.nl
 dialin.aaenmaas.nl
 dialin.cbg-meb.nl
 dialin.justid.nl
+dialin.om.nl
 diego.ndw.nu
 dienstterugkeerenvertrek.nl
 diergeneesmiddeleninformatiebank.nl
@@ -1203,6 +1208,7 @@ fbadmin-eopg-acc.aivd.nl
 fbadmin-eopg.aivd.nl
 fbmonitor.ndw.nu
 fcinet.acc.belastingdienst.nl
+fcvpn.om.nl
 fed-tao.acc.toeslagen.nl
 fed.toeslagen.nl
 fed01-acc.toeslagen.nl
@@ -1439,6 +1445,7 @@ feeds.ocw-verhalen.nl
 feeds.ocwincijfers.nl
 feeds.oecdguidelines.nl
 feeds.oesorichtlijnen.nl
+feeds.om.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.papiamentu.mijncn.nl
 feeds.persberichten.rijksoverheid.nl
@@ -1931,6 +1938,7 @@ leefbaarenveilig.nl
 leereco.acc.belastingdienst.nl
 leereco.belastingdienst.nl
 leerenontwikkelplein.nl
+leeromgeving.om.nl
 leerplatform.it-academieoverheid.nl
 legacy.flevoland.nl
 leiderschap.belastingdienst.nl
@@ -1962,6 +1970,7 @@ loket-acc.hdsr.nl
 loket-preprod.hhdelfland.nl
 loket.hdsr.nl
 loket.hhdelfland.nl
+loket.om.nl
 loket.overheid.nl
 longread.brabant.nl
 loonaangifteketen.nl
@@ -1985,6 +1994,7 @@ lync.aaenmaas.nl
 lyncav.vico.dji.nl
 lyncdiscover.aaenmaas.nl
 lyncdiscover.justid.nl
+lyncdiscover.om.nl
 m.huisvoorklokkenluiders.nl
 m.werkenvoornederland.nl
 m365.ctgb.nl
@@ -2065,15 +2075,18 @@ mdm.cbg-meb.nl
 mdm.ctgb.nl
 mdm.flevoland.nl
 mdm.justid.nl
+mdm.om.nl
 mdmeas.cbg-meb.nl
 mdmvpn-t.cbg-meb.nl
 mdmvpn.cbg-meb.nl
 med-srv20.rijksoverheid.nl
 media.odmh.nl
+media.om.nl
 medicineshortagesdefects.nl
 meepraten.flevoland.nl
 meet.aaenmaas.nl
 meet.justid.nl
+meet.om.nl
 meldingbwt.odmh.nl
 meldingen.atkm.nl
 meldingen.emissieautoriteit.nl
@@ -2218,6 +2231,7 @@ mlops-tracking.ndw.nu
 mm.acc.belastingdienst.nl
 mm.belastingdienst.nl
 mm.ont.belastingdienst.nl
+mms-gw.om.nl
 mnd-preprd.overheid.nl
 mnd.overheid.nl
 mobicert.brabant.nl
@@ -2237,6 +2251,7 @@ monumentenregister.cultureelerfgoed.nl
 moodle.vcdn.belastingdienst.nl
 moodleont.vcdn.belastingdienst.nl
 moodletst.vcdn.belastingdienst.nl
+moordzaak.om.nl
 mrt.defensie.nl
 msnp-tegemoetkoming.acc.belastingdienst.nl
 msnp-tegemoetkoming.belastingdienst.nl
@@ -2254,6 +2269,7 @@ mul-mkt.belastingdienst.nl
 mul-mmi.belastingdienst.nl
 mul-redirect.belastingdienst.nl
 mul.belastingdienst.nl
+murder-case.om.nl
 mwr-app-api-ota.belastingdienst.nl
 mwr-app-api.belastingdienst.nl
 mwr-app-cdn-ota.belastingdienst.nl
@@ -2298,6 +2314,7 @@ nederlanddigitaal.nl
 nederlandse-sportraad.nl
 nederlandtegengeorganiseerdemisdaad.nl
 netwerkplatteland.nl
+nevenbetrekkingen.om.nl
 new.mensenrechten.nl
 nexus.lpc.logius.nl
 nhr.flevoland.nl
@@ -2384,6 +2401,7 @@ ollbace-c3-vip111.belastingdienst.nl
 ollbace-c3-vip112.belastingdienst.nl
 olsgqa09.belastingdienst.nl
 olsgqa50.belastingdienst.nl
+om-veld01.om.nl
 omgevingsplan.flevoland.nl
 omgevingswet.overheid.nl
 onboarding.acc.belastingdienst.nl
@@ -2640,6 +2658,7 @@ opendata.ocw-verhalen.nl
 opendata.ocwincijfers.nl
 opendata.oecdguidelines.nl
 opendata.oesorichtlijnen.nl
+opendata.om.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.papiamentu.mijncn.nl
 opendata.persberichten.rijksoverheid.nl
@@ -3043,6 +3062,7 @@ sip.cbg-meb.nl
 sip.emissieautoriteit.nl
 sip.justid.nl
 sip.kiesraad.nl
+sip.om.nl
 sip.vico.dji.nl
 sip001.justid.nl
 sip002.justid.nl
@@ -3083,6 +3103,7 @@ smtp32.belastingdienst.nl
 smtp4.mijn.overheid.nl
 smtp81.belastingdienst.nl
 smtp82.belastingdienst.nl
+snelheidsovertredingen.om.nl
 soap.openbare-inspectieresultaten.nvwa.nl
 social.overheid.nl
 sonar.ndw.nu
@@ -3185,6 +3206,8 @@ stelselcatalogus.pre.omgevingswet.overheid.nl
 stijlgids.cibg.nl
 stijlgids.overheid.nl
 stor.services.cultureelerfgoed.nl
+strafdossiermh17.acc.om.nl
+strafdossiermh17.om.nl
 sts.cbg-meb.nl
 sts.hhdelfland.nl
 sts.koop.overheid.nl
@@ -3239,6 +3262,7 @@ tekortschieten-wzd.webservices-dbb-acc.igj.nl
 tekortschieten-wzd.webservices-dbb.igj.nl
 telewerk.huurcommissie.nl
 telewerken.hhdelfland.nl
+telewerken.om.nl
 test-cmsintranet.flevoland.nl
 test-dictu.comcms.logius.nl
 test-dictu.kennisbank.logius.nl
@@ -3415,6 +3439,8 @@ vepvodtst.vcdn.belastingdienst.nl
 verdragenbank-acc.overheid.nl
 verdragenbank.overheid.nl
 vergaderen.belastingdienst.nl
+verkeer.acc.loket.om.nl
+verkeer.loket.om.nl
 verkeersbesluiten-acc.overheid.nl
 verkeersbesluiten-preprd.overheid.nl
 verkeersbesluiten.overheid.nl
@@ -3539,6 +3565,7 @@ webservices.bigregister.nl
 webservices.donorregister.nl
 webservices.hdsr.nl
 webservices.lrza.cibg.nl
+webservices.om.nl
 webservices.str10.acc.belastingdienst.nl
 webservices.str12.acc.belastingdienst.nl
 webservices.str13.acc.belastingdienst.nl
@@ -3864,6 +3891,7 @@ www.oecdguidelines.nl
 www.oesorichtlijnen.nl
 www.officiele-overheidspublicaties.nl
 www.ofgv.nl
+www.om.nl
 www.omgevingsplan.flevoland.nl
 www.omgevingswet.overheid.nl
 www.openbare-inspectieresultaten.nvwa.nl
@@ -3889,6 +3917,7 @@ www.werken.belastingdienst.nl
 www.werkenvoornederland.nl
 www.zoekeentolkvertaler.bureauwbtv.nl
 www1.hdsr.nl
+www2.om.nl
 www2.zorgcsp.cibg.nl
 www8.toeslagen.nl
 wwwfcinetorg.belastingdienst.nl
@@ -3924,6 +3953,7 @@ zorgprestatiemodel.nza.nl
 zorgproducten-acc.nza.nl
 zorgproducten-test.nza.nl
 zorgproducten.nza.nl
+zsmgame.om.nl
 zta-ont.belastingdienst.nl
 zta-ota.belastingdienst.nl
 zta.belastingdienst.nl

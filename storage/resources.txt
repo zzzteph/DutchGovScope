@@ -782,6 +782,7 @@ acc.zandvoort.nl
 acc.zevenaar.nl
 acc.zorg.voerendaal.nl
 acc.zrc.data.amsterdam.nl
+acc.zsmgame.om.nl
 acc.ztc.data.amsterdam.nl
 acc.zxy-cloud-assets.amsterdam.nl
 acc.zxy-cloud-models.amsterdam.nl
@@ -989,6 +990,7 @@ access.hoorn.nl
 access.landvancuijk.nl
 access.meierijstad.nl
 access.oa.amsterdam.nl
+access.om.nl
 access.woerden.nl
 accisdtalentcenter.bergenopzoom.nl
 accmksprd.ovh.gemeentebeek.nl
@@ -3056,6 +3058,7 @@ bodemrapportage.flevoland.nl
 bodemvondsten.rotterdam.nl
 boekel.nl
 boeken.schiedam.nl
+boetebase.om.nl
 bolwerk-acc.gemeentehulst.nl
 bolwerk.gemeentehulst.nl
 bolwerkcms-acc.gemeentehulst.nl
@@ -3726,6 +3729,7 @@ componenten.overheid.nl
 concern.acc.ta-twd.rotterdam.nl
 concern.ir.rotterdam.nl
 conf.cbg-meb.nl
+conf.om.nl
 conference-2-belastingdienst1.vc.belastingdienst.nl
 conference-3-belastingdienst1.vc.belastingdienst.nl
 conference.assen.nl
@@ -4320,6 +4324,7 @@ dialin.cbg-meb.nl
 dialin.haarlem.nl
 dialin.houten.nl
 dialin.justid.nl
+dialin.om.nl
 dialin.urk.nl
 dialin.zwolle.nl
 dicos-test.nissewaard.nl
@@ -5931,6 +5936,7 @@ fblocatielijst.amsterdam.nl
 fbmonitor.ndw.nu
 fbtools.amsterdam.nl
 fcinet.acc.belastingdienst.nl
+fcvpn.om.nl
 fd-zgw.acc.denhaag.nl
 fd-zgw.denhaag.nl
 fd-zgw.test.denhaag.nl
@@ -6172,6 +6178,7 @@ feeds.ocw-verhalen.nl
 feeds.ocwincijfers.nl
 feeds.oecdguidelines.nl
 feeds.oesorichtlijnen.nl
+feeds.om.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.papiamentu.mijncn.nl
 feeds.persberichten.rijksoverheid.nl
@@ -9241,6 +9248,7 @@ leerlingenvervoer.rotterdam.nl
 leerlingzaken.denhaag.nl
 leeromgeving-mijnleno-a.amsterdam.nl
 leeromgeving-mijnleno.amsterdam.nl
+leeromgeving.om.nl
 leerplatform.it-academieoverheid.nl
 leerplein.arnhem.nl
 leerplein.oirschot.nl
@@ -9478,6 +9486,7 @@ loket.middendrenthe.nl
 loket.mookenmiddelaar.nl
 loket.noardeast-fryslan.nl
 loket.oldebroek.nl
+loket.om.nl
 loket.oss.nl
 loket.ouder-amstel.nl
 loket.overbetuwe.nl
@@ -9577,6 +9586,7 @@ lyncdiscover.haarlem.nl
 lyncdiscover.hellevoetsluis.nl
 lyncdiscover.houten.nl
 lyncdiscover.justid.nl
+lyncdiscover.om.nl
 lyncdiscover.oostzaan.nl
 lyncdiscover.ouder-amstel.nl
 lyncdiscover.uithoorn.nl
@@ -9947,6 +9957,7 @@ mdm.gemeentewestland.nl
 mdm.haarlem.nl
 mdm.justid.nl
 mdm.montferland.info
+mdm.om.nl
 mdm.overbetuwe.nl
 mdm.purmerend.nl
 mdm.staphorst.nl
@@ -9979,6 +9990,7 @@ media.delft.nl
 media.denhaag.nl
 media.landvancuijk.nl
 media.odmh.nl
+media.om.nl
 mediabank.gemeentehw.nl
 medicineshortagesdefects.nl
 meedenken.arnhem.nl
@@ -10008,6 +10020,7 @@ meet.haarlem.nl
 meet.hethogeland.nl
 meet.houten.nl
 meet.justid.nl
+meet.om.nl
 meet.urk.nl
 meet.zwolle.nl
 meierijstad.nl
@@ -10711,6 +10724,7 @@ mm.westmaasenwaal.nl
 mmc.formulieren.amsterdam.nl
 mmiprod.zuidplas.nl
 mmitest.zuidplas.nl
+mms-gw.om.nl
 mnd-preprd.overheid.nl
 mnd.overheid.nl
 mo.apeldoorn.nl
@@ -10799,6 +10813,7 @@ moodle.vcdn.belastingdienst.nl
 moodleont.vcdn.belastingdienst.nl
 moodletst.vcdn.belastingdienst.nl
 mookenmiddelaar.nl
+moordzaak.om.nl
 mor-test.rijswijk.nl
 mor-tst.groningen.nl
 mor.brunssum.nl
@@ -10862,6 +10877,7 @@ mul-mkt.belastingdienst.nl
 mul-mmi.belastingdienst.nl
 mul-redirect.belastingdienst.nl
 mul.belastingdienst.nl
+murder-case.om.nl
 museumcollecties.roermond.nl
 mv1.amsterdam.nl
 mvpndec.rotterdam.nl
@@ -11017,6 +11033,7 @@ neuron.prod.baarn.nl
 neuron.test.baarn.nl
 neuron.zandvoort.nl
 neurontst.kerkrade.nl
+nevenbetrekkingen.om.nl
 new.mensenrechten.nl
 nextcloud.ede.nl
 nexus.datapunt.amsterdam.nl
@@ -11396,6 +11413,7 @@ olsgqa09.belastingdienst.nl
 olsgqa50.belastingdienst.nl
 olst-wijhe.nl
 olwmks01.opsterland.nl
+om-veld01.om.nl
 ombudsman-acc.denhaag.nl
 ombudsman.acc.denhaag.nl
 ombudsman.amsterdam.nl
@@ -11851,6 +11869,7 @@ opendata.ocw-verhalen.nl
 opendata.ocwincijfers.nl
 opendata.oecdguidelines.nl
 opendata.oesorichtlijnen.nl
+opendata.om.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.papiamentu.mijncn.nl
 opendata.persberichten.rijksoverheid.nl
@@ -14471,6 +14490,7 @@ sip.houten.nl
 sip.justid.nl
 sip.kiesraad.nl
 sip.oa.amsterdam.nl
+sip.om.nl
 sip.oostzaan.nl
 sip.ouder-amstel.nl
 sip.uithoorn.nl
@@ -14636,6 +14656,7 @@ snelbalievergunningen.goes.nl
 snelbalievergunningen.valkenswaard.nl
 snelbezwaar.purmerend.nl
 snelbezwaar.test.purmerend.nl
+snelheidsovertredingen.om.nl
 sng.delft.nl
 sng.zoetermeer.nl
 sngtest.delft.nl
@@ -15025,6 +15046,8 @@ storefronttest.delft.nl
 storing.acc.denhaag.nl
 storing.denhaag.nl
 straatnotes.amsterdam.nl
+strafdossiermh17.acc.om.nl
+strafdossiermh17.om.nl
 straling.waalre.nl
 strand.hoorn.nl
 stratech.gemeentewestland.nl
@@ -15329,6 +15352,7 @@ telewerken.hellevoetsluis.nl
 telewerken.hhdelfland.nl
 telewerken.kampen.nl
 telewerken.nederbetuwe.nl
+telewerken.om.nl
 telewerken.stichtsevecht.nl
 telewerken.zaanstad.nl
 telewerkentest.nederbetuwe.nl
@@ -16339,7 +16363,9 @@ verhuisportaal.amsterdam.nl
 verhuur.gemeente-oldambt.nl
 verhuursport.gorinchem.nl
 verhuursport.soest.nl
+verkeer.acc.loket.om.nl
 verkeer.amsterdam.nl
+verkeer.loket.om.nl
 verkeersbesluiten-acc.overheid.nl
 verkeersbesluiten-preprd.overheid.nl
 verkeersbesluiten.denhaag.nl
@@ -16943,6 +16969,7 @@ webservices.goirle.nl
 webservices.groningen.nl
 webservices.hdsr.nl
 webservices.lrza.cibg.nl
+webservices.om.nl
 webservices.rotterdam.nl
 webservices.str10.acc.belastingdienst.nl
 webservices.str12.acc.belastingdienst.nl
@@ -18378,6 +18405,7 @@ www.old.landvancuijk.nl
 www.oldebroek.nl
 www.oldenzaal.nl
 www.olst-wijhe.nl
+www.om.nl
 www.ombudsman.denhaag.nl
 www.ombudsman.nijmegen.nl
 www.omgevingsplan.flevoland.nl
@@ -18886,6 +18914,7 @@ www2.formulieren.haarlemmermeer.nl
 www2.haarlemmermeer.nl
 www2.heusden.nl
 www2.noordoostpolder.nl
+www2.om.nl
 www2.testformulieren.haarlemmermeer.nl
 www2.zorgcsp.cibg.nl
 www8.toeslagen.nl
@@ -19134,6 +19163,7 @@ zrc.data.amsterdam.nl
 zs-accept.zeist.nl
 zs.noordoostpolder.nl
 zsaccept.heusden.nl
+zsmgame.om.nl
 zsnl-acceptatie.hilversum.nl
 zsnl.voorst.nl
 zst.noordoostpolder.nl
