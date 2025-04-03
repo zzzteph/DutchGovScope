@@ -3990,6 +3990,7 @@ https://feeds.nrgd.nl
 https://feeds.nutriscorevoorbedrijven.nl
 https://feeds.nvwa.nl
 https://feeds.nza.nl
+https://feeds.ocw-verhalen.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.papiamentu.mijncn.nl
 https://feeds.persberichten.rijksoverheid.nl
@@ -7073,6 +7074,7 @@ https://opendata.nrgd.nl
 https://opendata.nutriscorevoorbedrijven.nl
 https://opendata.nvwa.nl
 https://opendata.nza.nl
+https://opendata.ocw-verhalen.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.papiamentu.mijncn.nl
 https://opendata.persberichten.rijksoverheid.nl
@@ -10362,6 +10364,7 @@ https://www.nvwa.nl
 https://www.nwro.velsen.nl
 https://www.nza.nl
 https://www.oco.eindhoven.nl
+https://www.ocw-verhalen.nl
 https://www.oefenenmetstemmen.denhaag.nl
 https://www.oegstgeest.nl
 https://www.oisterwijk.nl

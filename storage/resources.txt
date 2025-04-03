@@ -6155,6 +6155,7 @@ feeds.nrgd.nl
 feeds.nutriscorevoorbedrijven.nl
 feeds.nvwa.nl
 feeds.nza.nl
+feeds.ocw-verhalen.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.papiamentu.mijncn.nl
 feeds.persberichten.rijksoverheid.nl
@@ -11803,6 +11804,7 @@ opendata.nrgd.nl
 opendata.nutriscorevoorbedrijven.nl
 opendata.nvwa.nl
 opendata.nza.nl
+opendata.ocw-verhalen.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.papiamentu.mijncn.nl
 opendata.persberichten.rijksoverheid.nl
@@ -18300,6 +18302,7 @@ www.nvwa.nl
 www.nwro.velsen.nl
 www.nza.nl
 www.oco.eindhoven.nl
+www.ocw-verhalen.nl
 www.oefenenmetstemmen.denhaag.nl
 www.oegstgeest.nl
 www.office365.haarlemmermeer.nl

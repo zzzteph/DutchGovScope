@@ -1422,6 +1422,7 @@ feeds.nrgd.nl
 feeds.nutriscorevoorbedrijven.nl
 feeds.nvwa.nl
 feeds.nza.nl
+feeds.ocw-verhalen.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.papiamentu.mijncn.nl
 feeds.persberichten.rijksoverheid.nl
@@ -2592,6 +2593,7 @@ opendata.nrgd.nl
 opendata.nutriscorevoorbedrijven.nl
 opendata.nvwa.nl
 opendata.nza.nl
+opendata.ocw-verhalen.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.papiamentu.mijncn.nl
 opendata.persberichten.rijksoverheid.nl
@@ -3796,6 +3798,7 @@ www.nt.ndw.nu
 www.nutriscorevoorbedrijven.nl
 www.nvwa.nl
 www.nza.nl
+www.ocw-verhalen.nl
 www.officiele-overheidspublicaties.nl
 www.omgevingsplan.flevoland.nl
 www.omgevingswet.overheid.nl
