@@ -762,6 +762,7 @@ cciwebstats.belastingdienst.nl
 ccmo.nl
 ccn2.belastingdienst.nl
 cdn.klopt.cibg.nl
+cdn.opwegnaarseb.nl
 ceg.nl
 centraalaanspreekpuntpensioenen.acc.belastingdienst.nl
 centraalaanspreekpuntpensioenen.belastingdienst.nl
@@ -864,6 +865,7 @@ corsa-acpt.brabant.nl
 corsa.brabant.nl
 corsa2023.brabant.nl
 cp.vcdn.belastingdienst.nl
+cpanel.opwegnaarseb.nl
 cpapps.belastingdienst.nl
 cpext.ont.belastingdienst.nl
 cpont.vcdn.belastingdienst.nl
@@ -1050,6 +1052,7 @@ dwo.ctgb.nl
 e-certnl-acc.nvwa.nl
 e-certnl-sch.nvwa.nl
 e-certnl.nvwa.nl
+e-learning.opwegnaarseb.nl
 e-loket.ilent.nl
 e-mailabonnementen.rijksoverheid.nl
 e-maildiensten.rijksoverheid.nl
@@ -1458,6 +1461,7 @@ feeds.onswater.nl
 feeds.oostvaarderskliniek.nl
 feeds.open-overheid.nl
 feeds.oprijk.nl
+feeds.opwegnaarseb.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.papiamentu.mijncn.nl
 feeds.persberichten.rijksoverheid.nl
@@ -2061,6 +2065,7 @@ mail.ofgv.nl
 mail.onderwijsraad.nl
 mail.oostvaarderskliniek.nl
 mail.open-overheid.nl
+mail.opwegnaarseb.nl
 mail01.dsta.nl
 mail240.brabant.nl
 mail241.brabant.nl
@@ -2692,6 +2697,7 @@ opendata.onswater.nl
 opendata.oostvaarderskliniek.nl
 opendata.open-overheid.nl
 opendata.oprijk.nl
+opendata.opwegnaarseb.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.papiamentu.mijncn.nl
 opendata.persberichten.rijksoverheid.nl
@@ -2714,6 +2720,7 @@ oproepingen-api-preprd.overheid.nl
 oproepingen-api.overheid.nl
 oproepingen-preprd.overheid.nl
 oproepingen.overheid.nl
+opwegnaarseb.nl
 orchestrator.ncsc.nl
 organisaties-acc.overheid.nl
 organisaties-redactie-acc.overheid.nl
@@ -3593,6 +3600,7 @@ webmail.ctivd.nl
 webmail.flevoland.nl
 webmail.huurcommissie.nl
 webmail.ofgv.nl
+webmail.opwegnaarseb.nl
 webmail.werkenvoornederland.nl
 webservice-tdv.igj.nl
 webservices-acc1.belastingdienst.nl
@@ -3949,6 +3957,7 @@ www.open-overheid.nl
 www.openbare-inspectieresultaten.nvwa.nl
 www.opendata.brabant.nl
 www.oprijk.nl
+www.opwegnaarseb.nl
 www.overheid.nl
 www.perf.omgevingswet.overheid.nl
 www.pre.omgevingswet.overheid.nl

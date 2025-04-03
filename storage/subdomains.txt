@@ -917,6 +917,8 @@ selector2._domainkey
 formulieren-acc
 outbound
 webshop
+cdn
+cpanel
 edienstenburgerzaken.test
 www.praatmee
 datalab
@@ -3586,6 +3588,7 @@ werkplaats-acc
 werkplaats
 pvs
 wooincijfers
+e-learning
 email.mail.participatie
 mail.participatie
 aalten-checker-preprod
@@ -7569,7 +7572,6 @@ uem
 uem.test
 vpntunnel
 belastingloket.test
-cdn
 server02
 toekomstvisie
 websitestatistiek
@@ -8751,7 +8753,6 @@ www.hulpwijzer
 www.prodoud
 belastingloket-test
 berichtverkeer.test
-cpanel
 pki-test
 reject.dmarc
 test-cmsjip
