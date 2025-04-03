@@ -1914,6 +1914,7 @@ https://regiosaandegrens.nl
 https://regiotaxi.flevoland.nl
 https://regiotramutrecht.provincie-utrecht.nl
 https://reistijdtrajecten.ndw.nu
+https://rekenhulptransitievergoeding.nl
 https://remote.flevoland.nl
 https://renvooiservice-eto.overheid.nl
 https://renvooiservice.overheid.nl
@@ -2530,6 +2531,7 @@ https://www.rechtwijzer.nl
 https://www.regelhulp.nl
 https://www.regiosaandegrens.nl
 https://www.regulatoryscience.nl
+https://www.rekenhulptransitievergoeding.nl
 https://www.rijksoverheid.nl
 https://www.stateninformatie.provincie-utrecht.nl
 https://www.test.monumentenregister.cultureelerfgoed.nl

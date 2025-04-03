@@ -3148,6 +3148,7 @@ regiosaandegrens.nl
 regiotaxi.flevoland.nl
 regiotramutrecht.provincie-utrecht.nl
 reistijdtrajecten.ndw.nu
+rekenhulptransitievergoeding.nl
 remote-pa.hdsr.nl
 remote.flevoland.nl
 remote.hhdelfland.nl
@@ -4236,6 +4237,7 @@ www.rechtwijzer.nl
 www.regelhulp.nl
 www.regiosaandegrens.nl
 www.regulatoryscience.nl
+www.rekenhulptransitievergoeding.nl
 www.rijksoverheid.nl
 www.risicokaart.flevoland.nl
 www.sharepoint-conf.belastingdienst.nl
