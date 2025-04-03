@@ -37,6 +37,7 @@ http://clienteleitsm-acceptatie.logius.nl
 http://clienteleitsm.logius.nl
 http://coronadashboard.government.nl
 http://coronadashboard.rijksoverheid.nl
+http://criminalfilesmh17.acc.prosecutionservice.nl
 http://crm.nza.nl
 http://demo1-systemteam.overheid.nl
 http://demo2-systemteam.overheid.nl
@@ -455,6 +456,7 @@ https://corsa-acpt.brabant.nl
 https://corsa.brabant.nl
 https://corsa2023.brabant.nl
 https://cpanel.opwegnaarseb.nl
+https://criminalfilesmh17.prosecutionservice.nl
 https://csaf.data.security.ncsc.nl
 https://csoacct.werkenvoornederland.nl
 https://csotest.werkenvoornederland.nl
@@ -933,6 +935,7 @@ https://feeds.papiamentu.rijksdienstcn.com
 https://feeds.persberichten.rijksoverheid.nl
 https://feeds.politiekeambtsdragers.nl
 https://feeds.postedworkers.nl
+https://feeds.prosecutionservice.nl
 https://feeds.rcgog.nl
 https://feeds.rijksoverheid.nl
 https://fibb1.belastingdienst.nl
@@ -1666,6 +1669,7 @@ https://opendata.papiamentu.rijksdienstcn.com
 https://opendata.persberichten.rijksoverheid.nl
 https://opendata.politiekeambtsdragers.nl
 https://opendata.postedworkers.nl
+https://opendata.prosecutionservice.nl
 https://opendata.rcgog.nl
 https://opendata.rijksoverheid.nl
 https://opendisdata.nza.nl
@@ -1771,6 +1775,7 @@ https://prod-dictu.logius.nl
 https://prod.nl-alert.nl
 https://projecten.netwerkplatteland.nl
 https://prolander.nl
+https://prosecutionservice.nl
 https://prototype.cibg.nl
 https://psarchief.brabant.nl
 https://public.mst.ctgb.nl
@@ -2384,6 +2389,7 @@ https://www.politiekeambtsdragers.nl
 https://www.postedworkers.nl
 https://www.pre.omgevingswet.overheid.nl
 https://www.prolander.nl
+https://www.prosecutionservice.nl
 https://www.ras-acc.nvwa.nl
 https://www.rcgog.nl
 https://www.rijksoverheid.nl
