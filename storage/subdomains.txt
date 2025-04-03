@@ -8,8 +8,8 @@ ibzpink
 edienstenburgerzaken
 intranet
 edienstenburgerzaken-test
-mijn
 mail
+mijn
 webmail
 simsite
 afspraken
@@ -110,14 +110,14 @@ siam
 financien
 klantcontact
 pki
+smtp
+ftp
 squit2go
 samen
-smtp
 e
 begroting
 bgt
 sts
-ftp
 micollab
 verkiezingen
 duurzaam
@@ -584,6 +584,7 @@ nac
 analytics
 iam
 join
+pop
 belastingportaal.acc
 inloggen.belastingportaal
 inloggen.belastingportaal.acc
@@ -1143,7 +1144,6 @@ binnenstad
 cms.openstad
 devapps3
 jongerenloket
-pop
 www.staging
 zorgaanbieders
 gisweb
@@ -3584,6 +3584,7 @@ formdesk
 ts
 werkplaats-acc
 werkplaats
+pvs
 email.mail.participatie
 mail.participatie
 aalten-checker-preprod
