@@ -125,6 +125,7 @@ dtestmidoffice
 smtp
 ftp
 micollab
+inloggen
 mijnzorg
 _autodiscover._tcp
 vergunningintaker
@@ -138,7 +139,6 @@ obsurv
 lyncdiscover
 web
 connect.acceptatie
-inloggen
 preprodbroker
 simform
 mijninkomen
@@ -269,6 +269,7 @@ academie
 zoeken
 omgevingswet
 beheer
+atlas
 esb
 publicaties
 mam
@@ -299,8 +300,10 @@ rap
 smtp1
 smtp2
 app
-atlas
+geoserver
+id
 wifi
+nieuwsbrieven
 geovisia
 gisib-test
 gisibapi-test
@@ -348,8 +351,6 @@ download
 huisstijl
 ns2
 www.mijn
-geoserver
-id
 nieuws
 test.digikoppeling
 mijnloket
@@ -369,7 +370,6 @@ subsidies.acceptatie
 dkd-test
 www.duurzaam
 edison
-nieuwsbrieven
 parkeervergunning
 www.raad
 gbi
@@ -549,8 +549,10 @@ helloid
 pushmail
 acceptatie.beheer
 acceptatie.mijn
+connect-with
 esb-test
 idtst
+ondertekenen
 samenwerken
 mijnwerkplek
 idselect
@@ -848,12 +850,10 @@ feedback
 acceptatie.behandel
 acceptatie.webservices
 acceptatie.zoeken
-connect-with
 corsa
 corsa2023
 georegister
 geoservertest
-ondertekenen
 www.dataportaal
 password
 acc.subsidie
@@ -883,6 +883,9 @@ telewerk
 acc.data
 grip
 files
+mijnsubsidies
+www.atlas
+www.geoserver
 edienstenburgerzaken.test
 www.praatmee
 datalab
@@ -3314,6 +3317,12 @@ test2
 woordenboek
 innovatielab
 welkom-zandbak
+inloggen-pre
+mijnsubsidies-acc
+referendum-backoffice
+referendum
+sbl
+www.mijnsubsidies-acc
 email.mail.participatie
 mail.participatie
 aalten-checker-preprod
@@ -4066,7 +4075,6 @@ mijnsbl-acc
 mijnsbl-test
 mijnsbl
 mijnsubsidies.acc
-mijnsubsidies
 mijnsubsidies.tst
 mijnws
 mks.acc
@@ -4374,7 +4382,6 @@ wppbeheer
 www.acutehulp.gezond
 www.aga
 www.ateliers
-www.atlas
 www.baarsjes
 www.bba
 www.bereikbaar
@@ -6164,7 +6171,6 @@ www.geoanalytics
 www.geocatalogus
 www.geoportaal
 www.geoportaaltest
-www.geoserver
 www.geoservertest
 www.geoservices
 www.geoservicesint
