@@ -1400,6 +1400,7 @@ feeds.nlinfrankrijk.nl
 feeds.nllabourauthority.nl
 feeds.nponderwijs.nl
 feeds.nrgd.nl
+feeds.nutriscorevoorbedrijven.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.papiamentu.mijncn.nl
 feeds.persberichten.rijksoverheid.nl
@@ -2254,6 +2255,7 @@ nspnws-cursus.ncsc.nl
 nspnws.ncsc.nl
 nt.ndw.nu
 ntm.ndw.nu
+nutriscorevoorbedrijven.nl
 nwrar-acc.ncsc.nl
 o-cms.defensie.nl
 o-cms1.defensie.nl
@@ -2534,6 +2536,7 @@ opendata.nlinfrankrijk.nl
 opendata.nllabourauthority.nl
 opendata.nponderwijs.nl
 opendata.nrgd.nl
+opendata.nutriscorevoorbedrijven.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.papiamentu.mijncn.nl
 opendata.persberichten.rijksoverheid.nl
@@ -3718,6 +3721,7 @@ www.nllabourauthority.nl
 www.nponderwijs.nl
 www.nrgd.nl
 www.nt.ndw.nu
+www.nutriscorevoorbedrijven.nl
 www.officiele-overheidspublicaties.nl
 www.omgevingsplan.flevoland.nl
 www.omgevingswet.overheid.nl
