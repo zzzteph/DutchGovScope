@@ -924,6 +924,7 @@ https://feeds.p-direkt.nl
 https://feeds.pagw.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.papiamentu.mijncn.nl
+https://feeds.papiamentu.rijksdienstcn.com
 https://feeds.persberichten.rijksoverheid.nl
 https://feeds.rcgog.nl
 https://feeds.rijksoverheid.nl
@@ -1649,6 +1650,7 @@ https://opendata.p-direkt.nl
 https://opendata.pagw.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.papiamentu.mijncn.nl
+https://opendata.papiamentu.rijksdienstcn.com
 https://opendata.persberichten.rijksoverheid.nl
 https://opendata.rcgog.nl
 https://opendata.rijksoverheid.nl
@@ -1681,6 +1683,7 @@ https://p-direkt.nl
 https://pagw.nl
 https://papiamentu.belastingdienst-cn.nl
 https://papiamentu.mijncn.nl
+https://papiamentu.rijksdienstcn.com
 https://password.ctgb.nl
 https://pdc.acc.omgevingswet.overheid.nl
 https://pdc.omgevingswet.overheid.nl

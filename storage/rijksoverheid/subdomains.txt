@@ -1486,6 +1486,7 @@ feeds.p-direkt.nl
 feeds.pagw.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.papiamentu.mijncn.nl
+feeds.papiamentu.rijksdienstcn.com
 feeds.persberichten.rijksoverheid.nl
 feeds.rcgog.nl
 feeds.rijksoverheid.nl
@@ -2743,6 +2744,7 @@ opendata.p-direkt.nl
 opendata.pagw.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.papiamentu.mijncn.nl
+opendata.papiamentu.rijksdienstcn.com
 opendata.persberichten.rijksoverheid.nl
 opendata.rcgog.nl
 opendata.rijksoverheid.nl
@@ -2813,6 +2815,7 @@ pagw.nl
 pan.emissieautoriteit.nl
 papiamentu.belastingdienst-cn.nl
 papiamentu.mijncn.nl
+papiamentu.rijksdienstcn.com
 password.ctgb.nl
 pdc.acc.omgevingswet.overheid.nl
 pdc.int.omgevingswet.overheid.nl

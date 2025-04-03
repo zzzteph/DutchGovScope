@@ -4044,6 +4044,7 @@ https://feeds.p-direkt.nl
 https://feeds.pagw.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.papiamentu.mijncn.nl
+https://feeds.papiamentu.rijksdienstcn.com
 https://feeds.persberichten.rijksoverheid.nl
 https://feeds.rcgog.nl
 https://feeds.rijksoverheid.nl
@@ -7195,6 +7196,7 @@ https://opendata.p-direkt.nl
 https://opendata.pagw.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.papiamentu.mijncn.nl
+https://opendata.papiamentu.rijksdienstcn.com
 https://opendata.persberichten.rijksoverheid.nl
 https://opendata.rcgog.nl
 https://opendata.rijksoverheid.nl
@@ -7396,6 +7398,7 @@ https://papendrecht-checker.papendrecht.nl
 https://papendrecht.nl
 https://papiamentu.belastingdienst-cn.nl
 https://papiamentu.mijncn.nl
+https://papiamentu.rijksdienstcn.com
 https://parkeerabonnementen.breda.nl
 https://parkeeracties-test.dijkenwaard.nl
 https://parkeeracties-test.wageningen.nl

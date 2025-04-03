@@ -556,6 +556,9 @@ koppelvlak
 social
 zoek
 helloid
+feeds.papiamentu
+opendata.papiamentu
+papiamentu
 acceptatie.mijn
 connect-with
 esb-test
@@ -860,9 +863,6 @@ vpn2
 chw
 bezwaar
 feedback
-feeds.papiamentu
-opendata.papiamentu
-papiamentu
 acceptatie.behandel
 acceptatie.webservices
 acceptatie.zoeken
