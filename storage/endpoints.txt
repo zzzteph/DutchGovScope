@@ -915,9 +915,11 @@ https://acc.adviescollegeveiligheidgroningen.nl
 https://acc.aip.amsterdam.nl
 https://acc.amersfoort.nl
 https://acc.api-gateway.archis.cultureelerfgoed.nl
+https://acc.api-sec.p-direkt.nl
 https://acc.api.brp.amsterdam.nl
 https://acc.api.data.amsterdam.nl
 https://acc.api.meldingen.amsterdam.nl
+https://acc.api.p-direkt.nl
 https://acc.api.ton.amsterdam.nl
 https://acc.api.top.amsterdam.nl
 https://acc.api.wonen.zaken.amsterdam.nl
@@ -1394,6 +1396,7 @@ https://api-meldingen.acc.denhaag.nl
 https://api-meldingen.almelo.nl
 https://api-meldingen.denhaag.nl
 https://api-ota.belastingdienst.nl
+https://api-sec.p-direkt.nl
 https://api.acc.meldingen.amsterdam.nl
 https://api.acc.meldingen.kampen.nl
 https://api.acc.ncsc.nl
@@ -1530,6 +1533,7 @@ https://api.openstad.gemeentewestland.nl
 https://api.openstad.haarlemmermeer.nl
 https://api.openstad.nijmegen.nl
 https://api.openstad.utrecht.nl
+https://api.p-direkt.nl
 https://api.pingping.amsterdam.nl
 https://api.preprod.mijn.overheid.nl
 https://api.standaarden.overheid.nl
@@ -2840,6 +2844,8 @@ https://desktop5.denhaag.nl
 https://destemvan.groningen.nl
 https://deutsch.postedworkers.nl
 https://dev-formulieren.haarlemmermeer.nl
+https://dev.api-sec.p-direkt.nl
+https://dev.api.p-direkt.nl
 https://dev.cbrnsecurity.nctv.nl
 https://dev.informatieservice.nederlandwereldwijd.nl
 https://dev.kennisbankterrorisme.nctv.nl
@@ -4034,6 +4040,7 @@ https://feeds.overalsnelinternet.nl
 https://feeds.overdedouane.nl
 https://feeds.overheidvannu.nl
 https://feeds.overtoeslagen.nl
+https://feeds.p-direkt.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.papiamentu.mijncn.nl
 https://feeds.persberichten.rijksoverheid.nl
@@ -5559,6 +5566,8 @@ https://klimaatplein.heiloo.nl
 https://klimaatplein.uitgeest.nl
 https://klooster.nieuwegein.nl
 https://kluis.hethogeland.nl
+https://kms-test.p-direkt.nl
+https://kms.p-direkt.nl
 https://knaal.helmond.nl
 https://knmidata.nl
 https://knmiprojects.nl
@@ -6529,6 +6538,8 @@ https://ndbu.utrecht.nl
 https://ndes.apeldoorn.nl
 https://ndes.ot.denhaag.nl
 https://ndesapeldoorn.apeldoorn.nl
+https://ndev.api-sec.p-direkt.nl
+https://ndev.api.p-direkt.nl
 https://ndw.nu
 https://ndwviewer.ndw.nu
 https://nedbrw.apeldoorn.nl
@@ -7179,6 +7190,7 @@ https://opendata.overalsnelinternet.nl
 https://opendata.overdedouane.nl
 https://opendata.overheidvannu.nl
 https://opendata.overtoeslagen.nl
+https://opendata.p-direkt.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.papiamentu.mijncn.nl
 https://opendata.persberichten.rijksoverheid.nl
@@ -7374,6 +7386,7 @@ https://ows-emssapi-test.groningen.nl
 https://ows-emssapi.groningen.nl
 https://ows-websrvc.groningen.nl
 https://ows.gis.rotterdam.nl
+https://p-direkt.nl
 https://panel.amsterdam.nl
 https://papendrecht-checker-preprod.papendrecht.nl
 https://papendrecht-checker.papendrecht.nl
@@ -10563,6 +10576,7 @@ https://www.overdedouane.nl
 https://www.overheid.nl
 https://www.overheidvannu.nl
 https://www.overtoeslagen.nl
+https://www.p-direkt.nl
 https://www.papendrecht.nl
 https://www.parkeren.sudwestfryslan.nl
 https://www.peelenmaas.nl

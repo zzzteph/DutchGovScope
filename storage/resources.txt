@@ -110,6 +110,7 @@ _dmarc.nederweert.nl
 _dmarc.nieuwegein.nl
 _dmarc.nlarbeidsinspectie.nl
 _dmarc.nza.nl
+_dmarc.p-direkt.nl
 _dmarc.rijksoverheid.nl
 _dmarc.vijfheerenlanden.nl
 _dmarc.zoeterwoude.nl
@@ -574,10 +575,12 @@ acc.amersfoort.nl
 acc.amsterdam.nl
 acc.api-auth.ilent.nl
 acc.api-gateway.archis.cultureelerfgoed.nl
+acc.api-sec.p-direkt.nl
 acc.api.brp.amsterdam.nl
 acc.api.data.amsterdam.nl
 acc.api.ilent.nl
 acc.api.meldingen.amsterdam.nl
+acc.api.p-direkt.nl
 acc.api.ton.amsterdam.nl
 acc.api.top.amsterdam.nl
 acc.api.wonen.zaken.amsterdam.nl
@@ -1355,6 +1358,7 @@ aip.amsterdam.nl
 aip.nationaalcoordinatorgroningen.nl
 aivd.nl
 aiz.zoetermeer.nl
+aladdin.p-direkt.nl
 alarm.beekdaelen.nl
 alarmfilter.rotterdam.nl
 alblasserdam.nl
@@ -1542,6 +1546,7 @@ api-mtls.rotterdam.nl
 api-ota.belastingdienst.nl
 api-portal-dev.data.leiden.nl
 api-portal.data.leiden.nl
+api-sec.p-direkt.nl
 api-test-gemnet.losser.nl
 api.acc.meldingen.amsterdam.nl
 api.acc.meldingen.kampen.nl
@@ -1551,6 +1556,7 @@ api.acc1.mijn.overheid.nl
 api.acc2.mijn.overheid.nl
 api.aip.amsterdam.nl
 api.amsterdam.nl
+api.appstore.p-direkt.nl
 api.belastingdienst.nl
 api.betalen.amsterdam.nl
 api.betalen.breda.nl
@@ -1691,6 +1697,7 @@ api.openstad.gemeentewestland.nl
 api.openstad.haarlemmermeer.nl
 api.openstad.nijmegen.nl
 api.openstad.utrecht.nl
+api.p-direkt.nl
 api.participatiewebshop-test.emmen.nl
 api.participatiewebshop.emmen.nl
 api.pingping.amsterdam.nl
@@ -1801,6 +1808,7 @@ apps.waddinxveen.nl
 apps.zuidplas.nl
 appstore-ont.belastingdienst.nl
 appstore.belastingdienst.nl
+appstore.p-direkt.nl
 appvarenflevoland.flevoland.nl
 apv-broker.heuvelrug.nl
 apv-broker.preprod.heuvelrug.nl
@@ -3275,6 +3283,7 @@ bvd.mev.logius.nl
 bvdi.utrecht.nl
 bvpn.ncsc.nl
 bvs.belastingdienst.nl
+bwi.minbzk.nl.p-direkt.nl
 bwr.amsterdam.nl
 bwrmail.bwr.amsterdam.nl
 bynder.sudwestfryslan.nl
@@ -4282,6 +4291,8 @@ deurwaardersloketws.sozawe.rotterdam.nl
 deutsch.postedworkers.nl
 dev-apps.haarlemmermeer.nl
 dev-formulieren.haarlemmermeer.nl
+dev.api-sec.p-direkt.nl
+dev.api.p-direkt.nl
 dev.cbrnsecurity.nctv.nl
 dev.informatieservice.nederlandwereldwijd.nl
 dev.kennisbankterrorisme.nctv.nl
@@ -5653,6 +5664,7 @@ english.ndw.nu
 english.nrgd.nl
 english.nvwa.nl
 english.onderwijsinspectie.nl
+english.p-direkt.nl
 english.sso3w.nl
 enkhuizen.nl
 enquete-acc.denhaag.nl
@@ -6080,6 +6092,7 @@ feeds.english.ndw.nu
 feeds.english.nrgd.nl
 feeds.english.nvwa.nl
 feeds.english.onderwijsinspectie.nl
+feeds.english.p-direkt.nl
 feeds.english.sso3w.nl
 feeds.erfgoeddeal.nl
 feeds.euthanasiecommissie.nl
@@ -6202,6 +6215,7 @@ feeds.overalsnelinternet.nl
 feeds.overdedouane.nl
 feeds.overheidvannu.nl
 feeds.overtoeslagen.nl
+feeds.p-direkt.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.papiamentu.mijncn.nl
 feeds.persberichten.rijksoverheid.nl
@@ -7347,6 +7361,10 @@ grafana.team-sensrnet.cg-intern.acc.utrecht.nl
 grafana.team-signalen.cg-intern.acc.utrecht.nl
 grafana.team-utrecht.cg-intern.acc.utrecht.nl
 grave.landvancuijk.nl
+grc-apps.p-direkt.nl
+grc.p-direkt.nl
+grct-apps.p-direkt.nl
+grct.p-direkt.nl
 griffie.rotterdam.nl
 grip.denhaag.nl
 grip.informatiehuishouding.nl
@@ -9165,6 +9183,8 @@ klooster.nieuwegein.nl
 klopt.cibg.nl
 kluis.hethogeland.nl
 kmdn.gemeentehulst.nl
+kms-test.p-direkt.nl
+kms.p-direkt.nl
 knaal.helmond.nl
 knmidata.nl
 knmiprojects.nl
@@ -9667,6 +9687,7 @@ magazines.defensie.nl
 magazines.deltaprogramma.nl
 magazines.dji.nl
 magazines.emissieautoriteit.nl
+magazines.english.p-direkt.nl
 magazines.forensischinstituut.nl
 magazines.gooisemeren.nl
 magazines.government.nl
@@ -9683,14 +9704,17 @@ magazines.nvwa.nl
 magazines.nza.nl
 magazines.onderwijsinspectie.nl
 magazines.overheidvannu.nl
+magazines.p-direkt.nl
 magazines.rijksoverheid.nl
 magazines.rotterdam.nl
 magazines.werkenvoornederland.nl
+magazinesintern.p-direkt.nl
 magazinesintern.rijksoverheid.nl
 mail-a.huurcommissie.nl
 mail.aalten.nl
 mail.acc.amsterdam.nl
 mail.achtkarspelen.nl
+mail.aladdin.p-direkt.nl
 mail.almelo.nl
 mail.amersfoort.nl
 mail.amsterdam.nl
@@ -11026,6 +11050,8 @@ ndes.apeldoorn.nl
 ndes.barneveld.nl
 ndes.ot.denhaag.nl
 ndesapeldoorn.apeldoorn.nl
+ndev.api-sec.p-direkt.nl
+ndev.api.p-direkt.nl
 ndn-onderzoek.ncsc.nl
 ndw.nu
 ndwviewer.ndw.nu
@@ -11797,6 +11823,7 @@ opendata.english.ndw.nu
 opendata.english.nrgd.nl
 opendata.english.nvwa.nl
 opendata.english.onderwijsinspectie.nl
+opendata.english.p-direkt.nl
 opendata.english.sso3w.nl
 opendata.euthanasiecommissie.nl
 opendata.excellentescholen.nl
@@ -11922,6 +11949,7 @@ opendata.overalsnelinternet.nl
 opendata.overdedouane.nl
 opendata.overheidvannu.nl
 opendata.overtoeslagen.nl
+opendata.p-direkt.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.papiamentu.mijncn.nl
 opendata.persberichten.rijksoverheid.nl
@@ -12254,6 +12282,7 @@ ows.gis.rotterdam.nl
 ows.groningen.nl
 p-2secure.amersfoort.nl
 p-crl.justid.nl
+p-direkt.nl
 p285st201.utsjaca01.belastingdienst.nl
 p8-test.zwolle.nl
 p8.zwolle.nl
@@ -15028,7 +15057,9 @@ static.acc6.mijn.overheid.nl
 static.acc7.mijn.overheid.nl
 static.acc8.mijn.overheid.nl
 static.acc9.mijn.overheid.nl
+static.aladdin.p-direkt.nl
 static.amsterdam.nl
+static.appstore.p-direkt.nl
 static.caorijk.nl
 static.demo.mijn.overheid.nl
 static.developer.overheid.nl
@@ -15055,6 +15086,7 @@ statistiek.mijn.overheid.nl
 statistiek.rijksoverheid.nl
 statistieken-intranet.enschede.nl
 statistieken.vlissingen.nl
+stats.aladdin.p-direkt.nl
 stats.gorinchem.nl
 stats.intranet.delft.nl
 stats.intranet.oostgelre.nl
@@ -18553,6 +18585,7 @@ www.overtoeslagen.nl
 www.owncloud.zandvoort.nl
 www.ows-test.groningen.nl
 www.ows.groningen.nl
+www.p-direkt.nl
 www.pao.amsterdam.nl
 www.papendrecht.nl
 www.parkeren-siam-test.gemeentehulst.nl

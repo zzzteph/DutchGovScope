@@ -33,17 +33,17 @@ geo
 open
 afspraak
 waarmerk
-vpn
 english
+vpn
 parkeren
 adfs
 raad
 api.meldingen
 a-www
 broker
-betalen
 feeds.english
 opendata.english
+betalen
 testeloket
 zaaksysteem-accept
 ruimtelijkeplannen
@@ -62,6 +62,7 @@ dacceptatiemidoffice
 remote
 dloket
 dmidoffice
+magazines
 enterpriseregistration
 login
 beeldbank
@@ -71,7 +72,6 @@ meldingen-acc
 openpdc
 belastingbalie
 cmsoo
-magazines
 loket.acceptatie
 openpub
 omgevingsvisie
@@ -125,6 +125,7 @@ simcms-open
 www.webmail
 filecap
 dtestmidoffice
+_dmarc
 lyncdiscover
 inloggen
 mijnzorg
@@ -137,8 +138,8 @@ qr
 gemeente
 bastion365
 obsurv
-_dmarc
 a-english
+api
 web
 zaaksysteem
 connect.acceptatie
@@ -151,7 +152,6 @@ acc-podiumd-logs
 woningbouwkaart
 contentbeheer
 cms
-api
 mta-sts
 mobiel
 mailing
@@ -792,6 +792,7 @@ handleiding
 i-cms
 i-cms1
 i-site1
+magazinesintern
 o-cms1
 o-site1
 sdg
@@ -808,6 +809,7 @@ survey
 financials
 adobe-analytics-dc
 adobe-tags
+appstore
 artifact-fibt1
 b2b-gemnet
 b2b-osb
@@ -895,6 +897,7 @@ dms
 inloggen-preprod
 pkioverheid
 telewerk
+acc.api
 acc.data
 grip
 files
@@ -1406,7 +1409,6 @@ i-persberichten
 i-voor1
 informatiepuntkinderopvangtoeslag
 jira
-magazinesintern
 med-srv20
 o-magazinesintern
 o-opendata
@@ -1507,7 +1509,6 @@ aplbepa01
 aplbeqa01
 appcontent
 appstore-ont
-appstore
 artifact-fibb1
 artifact-fibb2.acc
 artifact-fibe2.acc
@@ -3285,7 +3286,6 @@ positconnect
 positpm
 positwb
 acc.api-auth
-acc.api
 acc.b2b.digi
 acc.b2b
 acc.e-loket
@@ -3590,6 +3590,26 @@ pvs
 wooincijfers
 e-learning
 elearning
+acc.api-sec
+aladdin
+api-sec
+api.appstore
+bwi.minbzk.nl
+dev.api-sec
+dev.api
+grc-apps
+grc
+grct-apps
+grct
+kms-test
+kms
+magazines.english
+mail.aladdin
+ndev.api-sec
+ndev.api
+static.aladdin
+static.appstore
+stats.aladdin
 email.mail.participatie
 mail.participatie
 aalten-checker-preprod
