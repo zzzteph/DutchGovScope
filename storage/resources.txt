@@ -6007,6 +6007,7 @@ feeds.medicineshortagesdefects.nl
 feeds.meldpuntgeneesmiddelentekortendefecten.nl
 feeds.mensenrechten.nl
 feeds.mijncn.nl
+feeds.mijnpgb.nl
 feeds.nieuwsbrievenminocw.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.papiamentu.mijncn.nl
@@ -10267,6 +10268,7 @@ mijnoverzicht.boxtel.nl
 mijnoverzicht.purmerend.nl
 mijnoverzicht.sint-michielsgestel.nl
 mijnpersoneelsnet.amsterdam.nl
+mijnpgb.nl
 mijnplan.gemeenteberkelland.nl
 mijnplan.winterswijk.nl
 mijnplein.assen.nl
@@ -11497,6 +11499,7 @@ opendata.medicineshortagesdefects.nl
 opendata.meldpuntgeneesmiddelentekortendefecten.nl
 opendata.mensenrechten.nl
 opendata.mijncn.nl
+opendata.mijnpgb.nl
 opendata.nieuwsbrievenminocw.nl
 opendata.nijmegen.nl
 opendata.papiamentu.belastingdienst-cn.nl
@@ -17829,6 +17832,7 @@ www.mijnkijkop.olst-wijhe.nl
 www.mijnleefomgeving.olst-wijhe.nl
 www.mijnmobiel.gemeentebeek.nl
 www.mijnmobiel.hillegom.nl
+www.mijnpgb.nl
 www.mijnplein.assen.nl
 www.mijnsubsidies-acc.limburg.nl
 www.mijnswf.sudwestfryslan.nl

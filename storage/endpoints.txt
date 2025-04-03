@@ -3865,6 +3865,7 @@ https://feeds.medicineshortagesdefects.nl
 https://feeds.meldpuntgeneesmiddelentekortendefecten.nl
 https://feeds.mensenrechten.nl
 https://feeds.mijncn.nl
+https://feeds.mijnpgb.nl
 https://feeds.nieuwsbrievenminocw.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.papiamentu.mijncn.nl
@@ -6055,6 +6056,7 @@ https://mijnoverzicht.alphenaandenrijn.nl
 https://mijnoverzicht.boxtel.nl
 https://mijnoverzicht.purmerend.nl
 https://mijnoverzicht.sint-michielsgestel.nl
+https://mijnpgb.nl
 https://mijnplan.gemeenteberkelland.nl
 https://mijnplan.winterswijk.nl
 https://mijnportaal.defryskemarren.nl
@@ -6817,6 +6819,7 @@ https://opendata.medicineshortagesdefects.nl
 https://opendata.meldpuntgeneesmiddelentekortendefecten.nl
 https://opendata.mensenrechten.nl
 https://opendata.mijncn.nl
+https://opendata.mijnpgb.nl
 https://opendata.nieuwsbrievenminocw.nl
 https://opendata.nijmegen.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
@@ -9981,6 +9984,7 @@ https://www.mijn.overheid.nl
 https://www.mijncn.nl
 https://www.mijnkijkop.olst-wijhe.nl
 https://www.mijnleefomgeving.olst-wijhe.nl
+https://www.mijnpgb.nl
 https://www.mijnuitkering.emmen.nl
 https://www.milieudienst.groningen.nl
 https://www.mis.waterland.nl

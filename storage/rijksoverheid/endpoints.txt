@@ -745,6 +745,7 @@ https://feeds.medicineshortagesdefects.nl
 https://feeds.meldpuntgeneesmiddelentekortendefecten.nl
 https://feeds.mensenrechten.nl
 https://feeds.mijncn.nl
+https://feeds.mijnpgb.nl
 https://feeds.nieuwsbrievenminocw.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.papiamentu.mijncn.nl
@@ -1035,6 +1036,7 @@ https://mijnaanvraag.belastingdienst.nl
 https://mijncn.nl
 https://mijndouane.belastingdienst.nl
 https://mijnloket.commissiemijnbouwschade.nl
+https://mijnpgb.nl
 https://mijnsubsidies-acc.limburg.nl
 https://mijnsubsidies.limburg.nl
 https://mijntokenactiveren.logius.nl
@@ -1272,6 +1274,7 @@ https://opendata.medicineshortagesdefects.nl
 https://opendata.meldpuntgeneesmiddelentekortendefecten.nl
 https://opendata.mensenrechten.nl
 https://opendata.mijncn.nl
+https://opendata.mijnpgb.nl
 https://opendata.nieuwsbrievenminocw.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.papiamentu.mijncn.nl
@@ -1821,6 +1824,7 @@ https://www.metelkaartrekkenwedegrens.nl
 https://www.mijn.dus-i.nl
 https://www.mijn.overheid.nl
 https://www.mijncn.nl
+https://www.mijnpgb.nl
 https://www.monumentenregister.cultureelerfgoed.nl
 https://www.nieuwsbrievenminocw.nl
 https://www.omgevingsplan.flevoland.nl

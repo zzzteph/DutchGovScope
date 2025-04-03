@@ -1274,6 +1274,7 @@ feeds.medicineshortagesdefects.nl
 feeds.meldpuntgeneesmiddelentekortendefecten.nl
 feeds.mensenrechten.nl
 feeds.mijncn.nl
+feeds.mijnpgb.nl
 feeds.nieuwsbrievenminocw.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.papiamentu.mijncn.nl
@@ -1941,6 +1942,7 @@ mijndouane2.acc.belastingdienst.nl
 mijndwb.belastingdienst.nl
 mijnloket-acc.commissiemijnbouwschade.nl
 mijnloket.commissiemijnbouwschade.nl
+mijnpgb.nl
 mijnsubsidies-acc.limburg.nl
 mijnsubsidies.limburg.nl
 mijntokenactiveren.logius.nl
@@ -2287,6 +2289,7 @@ opendata.medicineshortagesdefects.nl
 opendata.meldpuntgeneesmiddelentekortendefecten.nl
 opendata.mensenrechten.nl
 opendata.mijncn.nl
+opendata.mijnpgb.nl
 opendata.nieuwsbrievenminocw.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.papiamentu.mijncn.nl
@@ -3379,6 +3382,7 @@ www.metelkaartrekkenwedegrens.nl
 www.mijn.dus-i.nl
 www.mijn.overheid.nl
 www.mijncn.nl
+www.mijnpgb.nl
 www.mijnsubsidies-acc.limburg.nl
 www.monumentenregister.cultureelerfgoed.nl
 www.nieuwsbrievenminocw.nl
