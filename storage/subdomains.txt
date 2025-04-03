@@ -183,6 +183,7 @@ a-feeds.ncadierproevenbeleid.nl
 a-feeds.nza.nl
 a-feeds.ocwincijfers.nl
 a-feeds.politiekeambtsdragers.nl
+a-feeds.raadopenbaarbestuur.nl
 a-feeds.rijksoverheid.nl
 a-git.rijksoverheid.nl
 a-informatieservice.nederlandwereldwijd.nl
@@ -239,6 +240,7 @@ a-opendata.ncadierproevenbeleid.nl
 a-opendata.nza.nl
 a-opendata.ocwincijfers.nl
 a-opendata.politiekeambtsdragers.nl
+a-opendata.raadopenbaarbestuur.nl
 a-opendata.rijksoverheid.nl
 a-p-ddi-0003.leeuwarden.nl
 a-p-ddi-0010.leeuwarden.nl
@@ -294,6 +296,7 @@ a-www.netherlandsworldwide.nl
 a-www.nza.nl
 a-www.ocwincijfers.nl
 a-www.politiekeambtsdragers.nl
+a-www.raadopenbaarbestuur.nl
 a-www.rijksoverheid.nl
 a2b-rtr.alkmaar.nl
 a2vonderenkerensheide.nl
@@ -4598,6 +4601,7 @@ digiservice.meppel.nl
 digitaal-test.heerlen.nl
 digitaal.heerlen.nl
 digitaal.kampen.nl
+digitaal.raadopenbaarbestuur.nl
 digitaal.sudwestfryslan.nl
 digitaal.utrecht.nl
 digitaalerfgoed.almere.nl
@@ -6253,6 +6257,7 @@ feeds.persberichten.rijksoverheid.nl
 feeds.politiekeambtsdragers.nl
 feeds.postedworkers.nl
 feeds.prosecutionservice.nl
+feeds.raadopenbaarbestuur.nl
 feeds.rcgog.nl
 feeds.rijksoverheid.nl
 felix.aalten.nl
@@ -12038,6 +12043,7 @@ opendata.persberichten.rijksoverheid.nl
 opendata.politiekeambtsdragers.nl
 opendata.postedworkers.nl
 opendata.prosecutionservice.nl
+opendata.raadopenbaarbestuur.nl
 opendata.rcgog.nl
 opendata.rijksoverheid.nl
 opendata.roosendaal.nl
@@ -13550,6 +13556,7 @@ raad.zevenaar.nl
 raad.zoetermeer.nl
 raad.zutphen.nl
 raad.zwijndrecht.nl
+raadopenbaarbestuur.nl
 raadplegen.denhaag.nl
 raadplegen.donorregister.nl
 raadplegenbrp.veenendaal.nl
@@ -18797,6 +18804,7 @@ www.raad.arnhem.nl
 www.raad.bergendal.nl
 www.raad.delft.nl
 www.raad.middendrenthe.nl
+www.raadopenbaarbestuur.nl
 www.raadsakkoord.veenendaal.nl
 www.raalte.nl
 www.radius.overbetuwe.nl

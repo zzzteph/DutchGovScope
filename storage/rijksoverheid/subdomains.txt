@@ -78,6 +78,7 @@ a-feeds.ncadierproevenbeleid.nl
 a-feeds.nza.nl
 a-feeds.ocwincijfers.nl
 a-feeds.politiekeambtsdragers.nl
+a-feeds.raadopenbaarbestuur.nl
 a-feeds.rijksoverheid.nl
 a-git.rijksoverheid.nl
 a-informatieservice.nederlandwereldwijd.nl
@@ -134,6 +135,7 @@ a-opendata.ncadierproevenbeleid.nl
 a-opendata.nza.nl
 a-opendata.ocwincijfers.nl
 a-opendata.politiekeambtsdragers.nl
+a-opendata.raadopenbaarbestuur.nl
 a-opendata.rijksoverheid.nl
 a-persberichten.rijksoverheid.nl
 a-servicedesk.rijksoverheid.nl
@@ -185,6 +187,7 @@ a-www.netherlandsworldwide.nl
 a-www.nza.nl
 a-www.ocwincijfers.nl
 a-www.politiekeambtsdragers.nl
+a-www.raadopenbaarbestuur.nl
 a-www.rijksoverheid.nl
 a2vonderenkerensheide.nl
 aaenmaas.nl
@@ -1010,6 +1013,7 @@ digipoort-vpn2.belastingdienst.nl
 digipoort-wus-acc1.belastingdienst.nl
 digipoort-wus-acc2.belastingdienst.nl
 digipoort-wus.belastingdienst.nl
+digitaal.raadopenbaarbestuur.nl
 digitaalstelselmobiliteitsdata.nl
 digitaalvergaderen.belastingdienst.nl
 digitaalvergaderen.ont.belastingdienst.nl
@@ -1520,6 +1524,7 @@ feeds.persberichten.rijksoverheid.nl
 feeds.politiekeambtsdragers.nl
 feeds.postedworkers.nl
 feeds.prosecutionservice.nl
+feeds.raadopenbaarbestuur.nl
 feeds.rcgog.nl
 feeds.rijksoverheid.nl
 fibb-perf.acc.belastingdienst.nl
@@ -2827,6 +2832,7 @@ opendata.persberichten.rijksoverheid.nl
 opendata.politiekeambtsdragers.nl
 opendata.postedworkers.nl
 opendata.prosecutionservice.nl
+opendata.raadopenbaarbestuur.nl
 opendata.rcgog.nl
 opendata.rijksoverheid.nl
 opendisdata-acc.nza.nl
@@ -3060,6 +3066,7 @@ pwa001.belastingdienst.nl
 pwa002.belastingdienst.nl
 qapbldexte2.belastingdienst.nl
 qmanage.flevoland.nl
+raadopenbaarbestuur.nl
 raadplegen.donorregister.nl
 radicaalofpuberaal.nctv.nl
 rand.hhdelfland.nl
@@ -4165,6 +4172,7 @@ www.prolander.nl
 www.prosecutionservice.nl
 www.provincie-utrecht.nl
 www.provincie.drenthe.nl
+www.raadopenbaarbestuur.nl
 www.ras-acc.nvwa.nl
 www.rcgog.nl
 www.rijksoverheid.nl

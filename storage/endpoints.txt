@@ -2919,6 +2919,7 @@ https://digipost-acc.amsterdam.nl
 https://digipost.amsterdam.nl
 https://digitaal-test.heerlen.nl
 https://digitaal.heerlen.nl
+https://digitaal.raadopenbaarbestuur.nl
 https://digitaal.sudwestfryslan.nl
 https://digitaalerfgoed.almere.nl
 https://digitaalgemeenteloket.alphenaandenrijn.nl
@@ -4075,6 +4076,7 @@ https://feeds.persberichten.rijksoverheid.nl
 https://feeds.politiekeambtsdragers.nl
 https://feeds.postedworkers.nl
 https://feeds.prosecutionservice.nl
+https://feeds.raadopenbaarbestuur.nl
 https://feeds.rcgog.nl
 https://feeds.rijksoverheid.nl
 https://felix.baarn.nl
@@ -7268,6 +7270,7 @@ https://opendata.persberichten.rijksoverheid.nl
 https://opendata.politiekeambtsdragers.nl
 https://opendata.postedworkers.nl
 https://opendata.prosecutionservice.nl
+https://opendata.raadopenbaarbestuur.nl
 https://opendata.rcgog.nl
 https://opendata.rijksoverheid.nl
 https://opendata.roosendaal.nl
@@ -8107,6 +8110,7 @@ https://raad.tynaarlo.nl
 https://raad.velsen.nl
 https://raad.zutphen.nl
 https://raad.zwijndrecht.nl
+https://raadopenbaarbestuur.nl
 https://raadplegen.denhaag.nl
 https://raadplegen.donorregister.nl
 https://raadsakkoord.veenendaal.nl
@@ -10716,6 +10720,7 @@ https://www.q4.venlo.nl
 https://www.raad.arnhem.nl
 https://www.raad.bergendal.nl
 https://www.raad.middendrenthe.nl
+https://www.raadopenbaarbestuur.nl
 https://www.raadsakkoord.veenendaal.nl
 https://www.raalte.nl
 https://www.ras-acc.nvwa.nl
