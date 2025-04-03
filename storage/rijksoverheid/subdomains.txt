@@ -593,6 +593,7 @@ bag.test.basisregistraties.overheid.nl
 bag2.basisregistraties.overheid.nl
 bapicft.belastingdienst.nl
 bastion.rijksoverheid.nl
+bastion365.rechtsbijstand.nl
 bat.belastingdienst.nl
 bat.ont.belastingdienst.nl
 bdmz-reth473.belastingdienst.nl
@@ -3122,6 +3123,7 @@ rdgateway.awti.nl
 rdi.nl
 realtime.ndw.nu
 realtime.staging.ndw.nu
+rechtsbijstand.nl
 redactie-tl.iplo.nl
 redactie.hdsr.nl
 redactie.odijmond.nl
@@ -4221,6 +4223,7 @@ www.rcgog.nl
 www.rcihh.nl
 www.rda.nl
 www.rdi.nl
+www.rechtsbijstand.nl
 www.rijksoverheid.nl
 www.risicokaart.flevoland.nl
 www.sharepoint-conf.belastingdienst.nl

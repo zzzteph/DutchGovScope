@@ -119,6 +119,7 @@ e
 bgt
 sts
 micollab
+bastion365
 verkiezingen
 duurzaam
 simcms-open
@@ -138,7 +139,6 @@ dali
 preprod
 qr
 gemeente
-bastion365
 obsurv
 mailing
 web
