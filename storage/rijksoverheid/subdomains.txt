@@ -1164,6 +1164,7 @@ english.nrgd.nl
 english.nvwa.nl
 english.onderwijsinspectie.nl
 english.p-direkt.nl
+english.postedworkers.nl
 english.sso3w.nl
 enterpriseenrollment.cbg-meb.nl
 enterpriseenrollment.ofgv.nl
@@ -1366,6 +1367,7 @@ feeds.english.nrgd.nl
 feeds.english.nvwa.nl
 feeds.english.onderwijsinspectie.nl
 feeds.english.p-direkt.nl
+feeds.english.postedworkers.nl
 feeds.english.sso3w.nl
 feeds.erfgoeddeal.nl
 feeds.euthanasiecommissie.nl
@@ -1495,6 +1497,7 @@ feeds.papiamentu.mijncn.nl
 feeds.papiamentu.rijksdienstcn.com
 feeds.persberichten.rijksoverheid.nl
 feeds.politiekeambtsdragers.nl
+feeds.postedworkers.nl
 feeds.rcgog.nl
 feeds.rijksoverheid.nl
 fibb-perf.acc.belastingdienst.nl
@@ -2157,6 +2160,10 @@ meldingen.emissieautoriteit.nl
 meldingen.ilent.nl
 meldingen.klopt.cibg.nl
 meldingwd.odmh.nl
+meldloket-acc.postedworkers.nl
+meldloket-pa.postedworkers.nl
+meldloket-test.postedworkers.nl
+meldloket.postedworkers.nl
 meldpuntgeneesmiddelentekortendefecten.nl
 meldpuntwki.inspectie-jenv.nl
 melissa.ncsc.nl
@@ -2347,6 +2354,8 @@ mx2.ncsc.nl
 mxrelay.overheid.nl
 mxrelay1.overheid.nl
 mxrelay2.overheid.nl
+myidp-acc.postedworkers.nl
+myidp.postedworkers.nl
 mysite-acc.belastingdienst.nl
 mysite.belastingdienst.nl
 mysites-conf.belastingdienst.nl
@@ -2439,6 +2448,7 @@ o-voor1.rijksoverheid.nl
 o-www.defensie.nl
 o-www.government.nl
 o-www.rijksoverheid.nl
+o1.ptr2462.mail.postedworkers.nl
 o2.mail.informatieservice.nederlandwereldwijd.nl
 o5000proxvapp.ont.belastingdienst.nl
 o5001proxvapp.ont.belastingdienst.nl
@@ -2624,6 +2634,7 @@ opendata.english.nrgd.nl
 opendata.english.nvwa.nl
 opendata.english.onderwijsinspectie.nl
 opendata.english.p-direkt.nl
+opendata.english.postedworkers.nl
 opendata.english.sso3w.nl
 opendata.euthanasiecommissie.nl
 opendata.excellentescholen.nl
@@ -2754,6 +2765,7 @@ opendata.papiamentu.mijncn.nl
 opendata.papiamentu.rijksdienstcn.com
 opendata.persberichten.rijksoverheid.nl
 opendata.politiekeambtsdragers.nl
+opendata.postedworkers.nl
 opendata.rcgog.nl
 opendata.rijksoverheid.nl
 opendisdata-acc.nza.nl
@@ -2912,6 +2924,7 @@ portalen.preproductie.digipoort.logius.nl
 positconnect.ikz.nl
 positpm.ikz.nl
 positwb.ikz.nl
+postedworkers.nl
 povv-poc.ilent.nl
 pp1.toegang.overheid.nl
 pp2.toegang.overheid.nl
@@ -3488,6 +3501,7 @@ uag.ncsc.nl
 uconnect-acc.hdsr.nl
 uconnect.hdsr.nl
 uptime.bureauwbtv.nl
+url6099.mail.postedworkers.nl
 uwork.flevoland.nl
 uworktest.flevoland.nl
 uzipas.lir.cibg.nl
@@ -4037,6 +4051,7 @@ www.p-direkt.nl
 www.pagw.nl
 www.perf.omgevingswet.overheid.nl
 www.politiekeambtsdragers.nl
+www.postedworkers.nl
 www.pre.omgevingswet.overheid.nl
 www.ras-acc.nvwa.nl
 www.rcgog.nl
