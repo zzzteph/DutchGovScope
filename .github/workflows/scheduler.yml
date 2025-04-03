@@ -102,6 +102,15 @@ jobs:
            mkdir storage
            python engine/publish.py
 
+      - name: Publish endpoints
+        run: |
+           rm -rf storage
+           mkdir storage
+           python engine/publish.py
+
+
+
+
 
 
       - name: Commit changes
