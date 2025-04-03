@@ -5985,6 +5985,7 @@ feeds.knmidata.nl
 feeds.knmiprojects.nl
 feeds.koninklijkhuis.nl
 feeds.koopoverheid.nl
+feeds.leefbaarenveilig.nl
 feeds.nieuwsbrievenminocw.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.persberichten.rijksoverheid.nl
@@ -8991,6 +8992,7 @@ leef-acc.almere.nl
 leef-test.moerdijk.nl
 leef.almere.nl
 leef.moerdijk.nl
+leefbaarenveilig.nl
 leefbuiten.almere.nl
 leenvervoermilieuparken.rotterdam.nl
 leereco.acc.belastingdienst.nl
@@ -11428,6 +11430,7 @@ opendata.knmidata.nl
 opendata.knmiprojects.nl
 opendata.koninklijkhuis.nl
 opendata.koopoverheid.nl
+opendata.leefbaarenveilig.nl
 opendata.nieuwsbrievenminocw.nl
 opendata.nijmegen.nl
 opendata.papiamentu.belastingdienst-cn.nl
@@ -17670,6 +17673,7 @@ www.laren.nl
 www.lauwersmeer.groningen.nl
 www.ld-01.hellevoetsluis.nl
 www.ldap.gemeentehulst.nl
+www.leefbaarenveilig.nl
 www.leeuwarden.nl
 www.legacy.gemeentewestland.nl
 www.leiden.nl

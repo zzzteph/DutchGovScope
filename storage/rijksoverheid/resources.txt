@@ -1252,6 +1252,7 @@ feeds.knmidata.nl
 feeds.knmiprojects.nl
 feeds.koninklijkhuis.nl
 feeds.koopoverheid.nl
+feeds.leefbaarenveilig.nl
 feeds.nieuwsbrievenminocw.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.persberichten.rijksoverheid.nl
@@ -1687,6 +1688,7 @@ kp-moss-ut.tst.belastingdienst.nl
 kwaliteitsdashboard-koop.overheid.nl
 le-webservices-beta.belastingdienst.nl
 le-webservices.belastingdienst.nl
+leefbaarenveilig.nl
 leereco.acc.belastingdienst.nl
 leereco.belastingdienst.nl
 leerplatform.it-academieoverheid.nl
@@ -2218,6 +2220,7 @@ opendata.knmidata.nl
 opendata.knmiprojects.nl
 opendata.koninklijkhuis.nl
 opendata.koopoverheid.nl
+opendata.leefbaarenveilig.nl
 opendata.nieuwsbrievenminocw.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.persberichten.rijksoverheid.nl
@@ -3281,6 +3284,7 @@ www.knmidata.nl
 www.knmiprojects.nl
 www.koninklijkhuis.nl
 www.koopoverheid.nl
+www.leefbaarenveilig.nl
 www.logius.nl
 www.mail.bureauwsnp.nl
 www.metelkaartrekkenwedegrens.nl
