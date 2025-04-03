@@ -146,6 +146,8 @@ https://acc-open-wave.odijmond.nl
 https://acc-referentiegegevens.justid.nl
 https://acc.adviescollegeveiligheidgroningen.nl
 https://acc.api-gateway.archis.cultureelerfgoed.nl
+https://acc.api-sec.p-direkt.nl
+https://acc.api.p-direkt.nl
 https://acc.archis.cultureelerfgoed.nl
 https://acc.auth.services.cultureelerfgoed.nl
 https://acc.beeldbellen.dji.nl
@@ -237,9 +239,11 @@ https://animalfreeinnovationtpi.nl
 https://antennebureau.nl
 https://api-gateway.archis.cultureelerfgoed.nl
 https://api-ota.belastingdienst.nl
+https://api-sec.p-direkt.nl
 https://api.acc.ncsc.nl
 https://api.belastingdienst.nl
 https://api.brabant.nl
+https://api.burgemeesterworden.politiekeambtsdragers.nl
 https://api.klopt.cibg.nl
 https://api.linkeddata.cultureelerfgoed.nl
 https://api.mijn.acc.ncsc.nl
@@ -249,6 +253,7 @@ https://api.mijn.test.ncsc.nl
 https://api.ncsc.nl
 https://api.nederlandwereldwijd.nl
 https://api.ondernemersplein.overheid.nl
+https://api.p-direkt.nl
 https://api.preprod.mijn.overheid.nl
 https://api.standaarden.overheid.nl
 https://apis.developer.overheid.nl
@@ -361,6 +366,7 @@ https://brt.test.basisregistraties.overheid.nl
 https://bta.omgevingswet.overheid.nl
 https://bureauncdr.nl
 https://bureauwsnp.nl
+https://burgemeesterworden.politiekeambtsdragers.nl
 https://burgerloket.hhdelfland.nl
 https://bvd-pre.mev.logius.nl
 https://bvd.mev.logius.nl
@@ -496,6 +502,8 @@ https://designsystem.cibg.nl
 https://desktop.flevoland.nl
 https://desktop.klopt.cibg.nl
 https://deutsch.postedworkers.nl
+https://dev.api-sec.p-direkt.nl
+https://dev.api.p-direkt.nl
 https://dev.cbrnsecurity.nctv.nl
 https://dev.informatieservice.nederlandwereldwijd.nl
 https://dev.kennisbankterrorisme.nctv.nl
@@ -517,6 +525,7 @@ https://digilab.overheid.nl
 https://digitaalstelselmobiliteitsdata.nl
 https://dihoo.eu
 https://dihoo.nl
+https://diversiteitsplein.politiekeambtsdragers.nl
 https://dji.nl
 https://dmo.omgevingswet.overheid.nl
 https://dnadatabank.forensischinstituut.nl
@@ -914,9 +923,13 @@ https://feeds.overalsnelinternet.nl
 https://feeds.overdedouane.nl
 https://feeds.overheidvannu.nl
 https://feeds.overtoeslagen.nl
+https://feeds.p-direkt.nl
+https://feeds.pagw.nl
 https://feeds.papiamentu.belastingdienst-cn.nl
 https://feeds.papiamentu.mijncn.nl
+https://feeds.papiamentu.rijksdienstcn.com
 https://feeds.persberichten.rijksoverheid.nl
+https://feeds.politiekeambtsdragers.nl
 https://feeds.rcgog.nl
 https://feeds.rijksoverheid.nl
 https://fibb1.belastingdienst.nl
@@ -1134,6 +1147,8 @@ https://klachtenformulier.mensenrechten.nl
 https://klachtenformulierlink.mensenrechten.nl
 https://klimaatadaptatienederland.nl
 https://klimaatakkoord.nl
+https://kms-test.p-direkt.nl
+https://kms.p-direkt.nl
 https://knmidata.nl
 https://knmiprojects.nl
 https://koninklijkhuis.nl
@@ -1316,6 +1331,8 @@ https://ncis.staging.ndw.nu
 https://ncpeh.nl
 https://ncsc.nl
 https://nctv.nl
+https://ndev.api-sec.p-direkt.nl
+https://ndev.api.p-direkt.nl
 https://ndw.nu
 https://ndwviewer.ndw.nu
 https://nederlanddigitaal.nl
@@ -1633,9 +1650,13 @@ https://opendata.overalsnelinternet.nl
 https://opendata.overdedouane.nl
 https://opendata.overheidvannu.nl
 https://opendata.overtoeslagen.nl
+https://opendata.p-direkt.nl
+https://opendata.pagw.nl
 https://opendata.papiamentu.belastingdienst-cn.nl
 https://opendata.papiamentu.mijncn.nl
+https://opendata.papiamentu.rijksdienstcn.com
 https://opendata.persberichten.rijksoverheid.nl
+https://opendata.politiekeambtsdragers.nl
 https://opendata.rcgog.nl
 https://opendata.rijksoverheid.nl
 https://opendisdata.nza.nl
@@ -1663,8 +1684,11 @@ https://overheid.nl
 https://overheidvannu.nl
 https://overtoeslagen.nl
 https://ovverklaringen.belastingdienst.nl
+https://p-direkt.nl
+https://pagw.nl
 https://papiamentu.belastingdienst-cn.nl
 https://papiamentu.mijncn.nl
+https://papiamentu.rijksdienstcn.com
 https://password.ctgb.nl
 https://pdc.acc.omgevingswet.overheid.nl
 https://pdc.omgevingswet.overheid.nl
@@ -1698,6 +1722,7 @@ https://plan-plan-validatie.pre.omgevingswet.overheid.nl
 https://pmm.belastingdienst.nl
 https://pmz-pre.logius.nl
 https://pmz.logius.nl
+https://politiekeambtsdragers.nl
 https://pom.cultureelerfgoed.nl
 https://portaal-a.ikz.nl
 https://portaal.belastingdienst.nl
@@ -1907,6 +1932,7 @@ https://stelselcatalogus.pfm.omgevingswet.overheid.nl
 https://stelselcatalogus.pre.omgevingswet.overheid.nl
 https://stor.services.cultureelerfgoed.nl
 https://strafdossiermh17.om.nl
+https://streefbeelden.pagw.nl
 https://sts.cbg-meb.nl
 https://sts.koop.overheid.nl
 https://stubs.tst.belastingdienst.nl
@@ -2338,7 +2364,10 @@ https://www.overdedouane.nl
 https://www.overheid.nl
 https://www.overheidvannu.nl
 https://www.overtoeslagen.nl
+https://www.p-direkt.nl
+https://www.pagw.nl
 https://www.perf.omgevingswet.overheid.nl
+https://www.politiekeambtsdragers.nl
 https://www.pre.omgevingswet.overheid.nl
 https://www.ras-acc.nvwa.nl
 https://www.rcgog.nl

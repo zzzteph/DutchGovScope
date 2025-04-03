@@ -1,0 +1,3 @@
+feeds.persberichten.rijksoverheid.nl
+opendata.persberichten.rijksoverheid.nl
+persberichten.rijksoverheid.nl
