@@ -1367,6 +1367,7 @@ feeds.ncsc.nl
 feeds.nctv.nl
 feeds.ndw.nu
 feeds.nederlanddigitaal.nl
+feeds.nederlandse-sportraad.nl
 feeds.nieuwsbrievenminocw.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.papiamentu.mijncn.nl
@@ -2180,6 +2181,7 @@ ndn-onderzoek.ncsc.nl
 ndw.nu
 ndwviewer.ndw.nu
 nederlanddigitaal.nl
+nederlandse-sportraad.nl
 new.mensenrechten.nl
 nexus.lpc.logius.nl
 nhr.flevoland.nl
@@ -2466,6 +2468,7 @@ opendata.ncsc.nl
 opendata.nctv.nl
 opendata.ndw.nu
 opendata.nederlanddigitaal.nl
+opendata.nederlandse-sportraad.nl
 opendata.nieuwsbrievenminocw.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.papiamentu.mijncn.nl
@@ -3618,6 +3621,7 @@ www.ncsc.nl
 www.nctv.nl
 www.ndw.nu
 www.nederlanddigitaal.nl
+www.nederlandse-sportraad.nl
 www.nieuwsbrievenminocw.nl
 www.nt.ndw.nu
 www.officiele-overheidspublicaties.nl
