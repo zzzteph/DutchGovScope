@@ -1128,6 +1128,7 @@ https://feeds.wetbeschermingklokkenluiders.nl
 https://feeds.wkr.nl
 https://feeds.wodc.nl
 https://feeds.wrr.nl
+https://feeds.youthatheart.nl
 https://fibb1.belastingdienst.nl
 https://fibd1.belastingdienst.nl
 https://fibe1.belastingdienst.nl
@@ -2029,6 +2030,7 @@ https://opendata.wetbeschermingklokkenluiders.nl
 https://opendata.wkr.nl
 https://opendata.wodc.nl
 https://opendata.wrr.nl
+https://opendata.youthatheart.nl
 https://opendisdata.nza.nl
 https://opkopersregister.stopheling.nl
 https://opleiding-ola.belastingdienst.nl
@@ -3021,12 +3023,14 @@ https://www.windopzee.nl
 https://www.wkr.nl
 https://www.wodc.nl
 https://www.wrr.nl
+https://www.youthatheart.nl
 https://www2.om.nl
 https://wwwfcinetorg.belastingdienst.nl
 https://wwwrijksacademienl.belastingdienst.nl
 https://wzb.provincie-utrecht.nl
 https://xential-acpt.brabant.nl
 https://xential.brabant.nl
+https://youthatheart.nl
 https://zaaksysteem-acc.hdsr.nl
 https://zaaksysteem-acc.inspectie-jenv.nl
 https://zaaksysteem-acc.odmh.nl

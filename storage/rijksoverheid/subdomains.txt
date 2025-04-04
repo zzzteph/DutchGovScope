@@ -1769,6 +1769,7 @@ feeds.wetbeschermingklokkenluiders.nl
 feeds.wkr.nl
 feeds.wodc.nl
 feeds.wrr.nl
+feeds.youthatheart.nl
 fibb-perf.acc.belastingdienst.nl
 fibb1.belastingdienst.nl
 fibb2.acc.belastingdienst.nl
@@ -3243,6 +3244,7 @@ opendata.wetbeschermingklokkenluiders.nl
 opendata.wkr.nl
 opendata.wodc.nl
 opendata.wrr.nl
+opendata.youthatheart.nl
 opendisdata-acc.nza.nl
 opendisdata.nza.nl
 openims-acc.ctgb.nl
@@ -4901,6 +4903,7 @@ www.windopzee.nl
 www.wkr.nl
 www.wodc.nl
 www.wrr.nl
+www.youthatheart.nl
 www.zoekeentolkvertaler.bureauwbtv.nl
 www1.hdsr.nl
 www2.om.nl
@@ -4914,6 +4917,7 @@ wzb.provincie-utrecht.nl
 xential-acpt.brabant.nl
 xential.brabant.nl
 xml.belastingdienst.nl
+youthatheart.nl
 zaaksysteem-acc.hdsr.nl
 zaaksysteem-acc.inspectie-jenv.nl
 zaaksysteem-acc.odmh.nl
