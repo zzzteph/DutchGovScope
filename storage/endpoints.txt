@@ -4209,6 +4209,7 @@ https://feeds.uziregister.nl
 https://feeds.veiligepubliekedienstverlening.nl
 https://feeds.vergoedingsns.nl
 https://feeds.versterkencyberweerbaarheid.nl
+https://feeds.veterinairtuchtcollege.nl
 https://felix.baarn.nl
 https://felix.bergen.nl
 https://felix.beverwijk.nl
@@ -7505,6 +7506,7 @@ https://opendata.uziregister.nl
 https://opendata.veiligepubliekedienstverlening.nl
 https://opendata.vergoedingsns.nl
 https://opendata.versterkencyberweerbaarheid.nl
+https://opendata.veterinairtuchtcollege.nl
 https://opendata.zoetermeer.nl
 https://opendisdata.nza.nl
 https://openformulieren-test.dewolden.nl
@@ -9843,6 +9845,7 @@ https://verslag.ouder-amstel.nl
 https://versterkencyberweerbaarheid.nl
 https://versterkenenvernieuwen.groningen.nl
 https://verzekeringsproducten.belastingdienst.nl
+https://veterinairtuchtcollege.nl
 https://vf.heitje.heerlen.nl
 https://vga.amsterdam.nl
 https://vgc-acc.nvwa.nl
@@ -11261,6 +11264,7 @@ https://www.venlo.nl
 https://www.venray.nl
 https://www.vergoedingsns.nl
 https://www.versterkencyberweerbaarheid.nl
+https://www.veterinairtuchtcollege.nl
 https://www.vga.amsterdam.nl
 https://www.victor.amsterdam.nl
 https://www.vijfheerenlanden.nl

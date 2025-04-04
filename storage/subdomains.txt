@@ -6465,6 +6465,7 @@ feeds.uziregister.nl
 feeds.veiligepubliekedienstverlening.nl
 feeds.vergoedingsns.nl
 feeds.versterkencyberweerbaarheid.nl
+feeds.veterinairtuchtcollege.nl
 felix.aalten.nl
 felix.achtkarspelen.nl
 felix.baarn.nl
@@ -12381,6 +12382,7 @@ opendata.uziregister.nl
 opendata.veiligepubliekedienstverlening.nl
 opendata.vergoedingsns.nl
 opendata.versterkencyberweerbaarheid.nl
+opendata.veterinairtuchtcollege.nl
 opendata.zoetermeer.nl
 opendisdata-acc.nza.nl
 opendisdata.nza.nl
@@ -17118,6 +17120,7 @@ vertexobjecten-accp.lansingerland.nl
 vertexobjecten.lansingerland.nl
 verzekeringsproducten.acc.belastingdienst.nl
 verzekeringsproducten.belastingdienst.nl
+veterinairtuchtcollege.nl
 vf.heitje.heerlen.nl
 vga.amsterdam.nl
 vgc-acc.nvwa.nl
@@ -19609,6 +19612,7 @@ www.vepkmsont.vcdn.belastingdienst.nl
 www.vepkmstst.vcdn.belastingdienst.nl
 www.vergoedingsns.nl
 www.versterkencyberweerbaarheid.nl
+www.veterinairtuchtcollege.nl
 www.vga.amsterdam.nl
 www.vibe.rhenen.nl
 www.victor.amsterdam.nl
