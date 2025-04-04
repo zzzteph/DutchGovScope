@@ -6480,6 +6480,7 @@ feeds.vnacs.nl
 feeds.volkshuisvestingnederland.nl
 feeds.voordejeugdenhetgezin.nl
 feeds.vrachtwagenheffing.nl
+feeds.wegwijzermensenhandel.nl
 felix.aalten.nl
 felix.achtkarspelen.nl
 felix.baarn.nl
@@ -12419,6 +12420,7 @@ opendata.vnacs.nl
 opendata.volkshuisvestingnederland.nl
 opendata.voordejeugdenhetgezin.nl
 opendata.vrachtwagenheffing.nl
+opendata.wegwijzermensenhandel.nl
 opendata.zoetermeer.nl
 opendisdata-acc.nza.nl
 opendisdata.nza.nl
@@ -17810,6 +17812,7 @@ wegen.brabant.nl
 wegkenmerken.ndw.nu
 wegwijsplus.vught.nl
 wegwijzer.nijkerk.eu
+wegwijzermensenhandel.nl
 welbo.alphenaandenrijn.nl
 welbotest.alphenaandenrijn.nl
 welkom-zandbak.leerenontwikkelplein.nl
@@ -19734,6 +19737,7 @@ www.weespbegroot.amsterdam.nl
 www.wegen.brabant.nl
 www.wegwijsplus.vught.nl
 www.wegwijzer.nijkerk.eu
+www.wegwijzermensenhandel.nl
 www.werkaandeweg.amsterdam.nl
 www.werkaandewijk.denhaag.nl
 www.werken.belastingdienst.nl

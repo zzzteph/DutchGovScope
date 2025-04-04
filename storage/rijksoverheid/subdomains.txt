@@ -1747,6 +1747,7 @@ feeds.vnacs.nl
 feeds.volkshuisvestingnederland.nl
 feeds.voordejeugdenhetgezin.nl
 feeds.vrachtwagenheffing.nl
+feeds.wegwijzermensenhandel.nl
 fibb-perf.acc.belastingdienst.nl
 fibb1.belastingdienst.nl
 fibb2.acc.belastingdienst.nl
@@ -3206,6 +3207,7 @@ opendata.vnacs.nl
 opendata.volkshuisvestingnederland.nl
 opendata.voordejeugdenhetgezin.nl
 opendata.vrachtwagenheffing.nl
+opendata.wegwijzermensenhandel.nl
 opendisdata-acc.nza.nl
 opendisdata.nza.nl
 openims-acc.ctgb.nl
@@ -4373,6 +4375,7 @@ website.belastingdienst.nl
 webtest10.rijksoverheid.nl
 wegen.brabant.nl
 wegkenmerken.ndw.nu
+wegwijzermensenhandel.nl
 welkom-zandbak.leerenontwikkelplein.nl
 welkom.leerenontwikkelplein.nl
 werken.belastingdienst.nl
@@ -4836,6 +4839,7 @@ www.vrachtwagenheffing.nl
 www.vreemdelingenvisie.nl
 www.waterschaplimburg.nl
 www.wegen.brabant.nl
+www.wegwijzermensenhandel.nl
 www.werken.belastingdienst.nl
 www.werkenvoornederland.nl
 www.zoekeentolkvertaler.bureauwbtv.nl

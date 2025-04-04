@@ -4231,6 +4231,7 @@ https://feeds.vnacs.nl
 https://feeds.volkshuisvestingnederland.nl
 https://feeds.voordejeugdenhetgezin.nl
 https://feeds.vrachtwagenheffing.nl
+https://feeds.wegwijzermensenhandel.nl
 https://felix.baarn.nl
 https://felix.bergen.nl
 https://felix.beverwijk.nl
@@ -7546,6 +7547,7 @@ https://opendata.vnacs.nl
 https://opendata.volkshuisvestingnederland.nl
 https://opendata.voordejeugdenhetgezin.nl
 https://opendata.vrachtwagenheffing.nl
+https://opendata.wegwijzermensenhandel.nl
 https://opendata.zoetermeer.nl
 https://opendisdata.nza.nl
 https://openformulieren-test.dewolden.nl
@@ -10167,6 +10169,7 @@ https://weespbegroot.amsterdam.nl
 https://wegen.brabant.nl
 https://wegkenmerken.ndw.nu
 https://wegwijsplus.vught.nl
+https://wegwijzermensenhandel.nl
 https://welkom-zandbak.leerenontwikkelplein.nl
 https://welkom.helmond.nl
 https://welkom.leerenontwikkelplein.nl
@@ -11349,6 +11352,7 @@ https://www.weert.nl
 https://www.weespbegroot.amsterdam.nl
 https://www.wegen.brabant.nl
 https://www.wegwijsplus.vught.nl
+https://www.wegwijzermensenhandel.nl
 https://www.werkaandewijk.denhaag.nl
 https://www.werken.belastingdienst.nl
 https://www.werkenbij.alkmaar.nl
