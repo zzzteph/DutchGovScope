@@ -1848,6 +1848,7 @@ bb864.kerkrade.nl
 bb865.kerkrade.nl
 bb866.kerkrade.nl
 bb867.kerkrade.nl
+bbty.rijssen-holten.nl
 bbv-acceptatie.noordoostpolder.nl
 bbv.noordoostpolder.nl
 bbz-ioaz.rotterdam.nl
@@ -8735,6 +8736,7 @@ nicewfm.utrecht.nl
 nietrnaast.rotterdam.nl
 nieuw.leiden.nl
 nieuwauthentiekbloemendaal.doemee.bloemendaal.nl
+nieuwbouwzwembad.rijssen-holten.nl
 nieuweburgemeester.deventer.nl
 nieuwegein.nl
 nieuwkomers.zaanstad.nl
@@ -9711,6 +9713,7 @@ personeelsplanning.sudwestfryslan.nl
 personeelsvereniging.helmond.nl
 persoonlijk.breda.nl
 perspectiefnota.gemeente-steenbergen.nl
+persportaal.rijssen-holten.nl
 petear.brummen.nl
 pform.schiedam.nl
 pfsense.secure.amsterdam.nl
