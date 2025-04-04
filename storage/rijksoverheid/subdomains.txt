@@ -1663,6 +1663,7 @@ feeds.staatscommissie2050.nl
 feeds.staatscommissierechtsstaat.nl
 feeds.staatscommissietegendiscriminatieenracisme.nl
 feeds.staatsexamensnt2.nl
+feeds.startmetdelen.nl
 fibb-perf.acc.belastingdienst.nl
 fibb1.belastingdienst.nl
 fibb2.acc.belastingdienst.nl
@@ -3050,6 +3051,7 @@ opendata.staatscommissie2050.nl
 opendata.staatscommissierechtsstaat.nl
 opendata.staatscommissietegendiscriminatieenracisme.nl
 opendata.staatsexamensnt2.nl
+opendata.startmetdelen.nl
 opendisdata-acc.nza.nl
 opendisdata.nza.nl
 openims-acc.ctgb.nl
@@ -3680,6 +3682,7 @@ start.belastingdienst.nl
 start.dus-i.nl
 startformulier.brabant.nl
 startformuliertest.brabant.nl
+startmetdelen.nl
 startportaal.belastingdienst.nl
 startportaal1.belastingdienst.nl
 startstopmelding-a.hhdelfland.nl
@@ -4555,6 +4558,7 @@ www.staatscommissie2050.nl
 www.staatscommissierechtsstaat.nl
 www.staatscommissietegendiscriminatieenracisme.nl
 www.staatsexamensnt2.nl
+www.startmetdelen.nl
 www.stateninformatie.provincie-utrecht.nl
 www.test.monumentenregister.cultureelerfgoed.nl
 www.testsite.ceg.nl

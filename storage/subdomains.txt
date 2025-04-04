@@ -6396,6 +6396,7 @@ feeds.staatscommissie2050.nl
 feeds.staatscommissierechtsstaat.nl
 feeds.staatscommissietegendiscriminatieenracisme.nl
 feeds.staatsexamensnt2.nl
+feeds.startmetdelen.nl
 felix.aalten.nl
 felix.achtkarspelen.nl
 felix.baarn.nl
@@ -12262,6 +12263,7 @@ opendata.staatscommissie2050.nl
 opendata.staatscommissierechtsstaat.nl
 opendata.staatscommissietegendiscriminatieenracisme.nl
 opendata.staatsexamensnt2.nl
+opendata.startmetdelen.nl
 opendata.utrecht.nl
 opendata.zoetermeer.nl
 opendisdata-acc.nza.nl
@@ -15475,6 +15477,7 @@ start.beverwijk.nl
 start.dus-i.nl
 startformulier.brabant.nl
 startformuliertest.brabant.nl
+startmetdelen.nl
 startportaal.belastingdienst.nl
 startportaal1.belastingdienst.nl
 startstopmelding-a.hhdelfland.nl
@@ -19304,6 +19307,7 @@ www.stadstoezicht.amsterdam.nl
 www.staging.deventer.nl
 www.staging.olst-wijhe.nl
 www.staphorst.nl
+www.startmetdelen.nl
 www.stateninformatie.provincie-utrecht.nl
 www.stationsdistrict.nijmegen.nl
 www.statistiek.amsterdam.nl

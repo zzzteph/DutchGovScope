@@ -1036,6 +1036,7 @@ https://feeds.staatscommissie2050.nl
 https://feeds.staatscommissierechtsstaat.nl
 https://feeds.staatscommissietegendiscriminatieenracisme.nl
 https://feeds.staatsexamensnt2.nl
+https://feeds.startmetdelen.nl
 https://fibb1.belastingdienst.nl
 https://fibd1.belastingdienst.nl
 https://fibe1.belastingdienst.nl
@@ -1866,6 +1867,7 @@ https://opendata.staatscommissie2050.nl
 https://opendata.staatscommissierechtsstaat.nl
 https://opendata.staatscommissietegendiscriminatieenracisme.nl
 https://opendata.staatsexamensnt2.nl
+https://opendata.startmetdelen.nl
 https://opendisdata.nza.nl
 https://opleiding-ola.belastingdienst.nl
 https://opleiding.nl-alert.nl
@@ -2185,6 +2187,7 @@ https://standaarden.omgevingswet.overheid.nl
 https://standaarden.overheid.nl
 https://start.dus-i.nl
 https://startformuliertest.brabant.nl
+https://startmetdelen.nl
 https://startstopmelding-a.hhdelfland.nl
 https://startstopmelding.hhdelfland.nl
 https://stateninformatie.flevoland.nl
@@ -2722,6 +2725,7 @@ https://www.staatscommissie2050.nl
 https://www.staatscommissierechtsstaat.nl
 https://www.staatscommissietegendiscriminatieenracisme.nl
 https://www.staatsexamensnt2.nl
+https://www.startmetdelen.nl
 https://www.stateninformatie.provincie-utrecht.nl
 https://www.test.monumentenregister.cultureelerfgoed.nl
 https://www.testsite.ceg.nl
