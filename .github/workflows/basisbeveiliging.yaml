@@ -25,4 +25,4 @@ jobs:
 
       - name: Run update script
         run: |
-          python engine/basisbeveiliging.py scope.txt
+          python engine/basisbeveiliging.py scope/rijksoverheid.txt

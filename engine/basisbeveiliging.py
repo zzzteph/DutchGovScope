@@ -4,6 +4,8 @@ from io import StringIO
 import tldextract
 from urllib.parse import urlparse
 import sys
+import os
+
 requests.packages.urllib3.disable_warnings()
 
 if len(sys.argv) != 2:
@@ -66,25 +68,40 @@ headers_to_check = ["RIJKSOVERHEID.Org", "overheid:authority"]
 
 print("\n--- Matching Domains ---\n")
 result_domains=set()
+
+existing_domains = set()
+if os.path.exists(file_path):
+    with open(file_path, "r") as f:
+        for line in f:
+            line = line.strip()
+            if line:
+                existing_domains.add(line.lower())
+
+
+
+
+
 for domain in sorted(entries):
-    print(f"{domain}")
 
-#
-#for domain in sorted(entries):
-#    try:
-#        response = requests.get(f"https://{domain}", timeout=10, allow_redirects=True, verify=False)
-#        
-#        if response.ok:
-#            body = response.text.lower()
-#            if any(keyword.lower() in body for keyword in headers_to_check):
-#                final_url = response.url
-#                parsed = urlparse(final_url)
-#                final_domain = parsed.hostname
-#                if final_domain:
-#                    result_domains.add(final_domain.removeprefix("www."))
-#    except requests.exceptions.RequestException:
-#        pass
+    for domain in sorted(entries):
+        if domain.lower() in existing_domains:
+            print(f"{domain} skipped")
+            continue
+    
+    print(f"{domain} explored")        
+    try:
+        response = requests.get(f"https://{domain}", timeout=5, allow_redirects=True, verify=False)
+        if response.ok:
+            body = response.text.lower()
+            if any(keyword.lower() in body for keyword in headers_to_check):
+                final_url = response.url
+                parsed = urlparse(final_url)
+                final_domain = parsed.hostname
+                if final_domain:
+                    result_domains.add(final_domain.removeprefix("www."))
+    except requests.exceptions.RequestException:
+        pass
 
-#with open(file_path, "a") as f:
-#    for domain in result_domains:
-#        f.write(domain + "\n")
+with open(file_path, "a") as f:
+    for domain in result_domains:
+        f.write(domain + "\n")
