@@ -1484,6 +1484,7 @@ https://bastion365.someren.nl
 https://bastion365.tilburg.nl
 https://bastion365.venlo.nl
 https://bastion365.weert.nl
+https://bbty.rijssen-holten.nl
 https://bbz-ioaz.rotterdam.nl
 https://bec.acc.topdesk.denhaag.nl
 https://bec.ot.topdesk.denhaag.nl
@@ -5221,6 +5222,7 @@ https://nha.amsterdam.nl
 https://nicewfm.utrecht.nl
 https://nietrnaast.rotterdam.nl
 https://nieuwauthentiekbloemendaal.doemee.bloemendaal.nl
+https://nieuwbouwzwembad.rijssen-holten.nl
 https://nieuweburgemeester.deventer.nl
 https://nieuwegein.nl
 https://nieuwkomers.zaanstad.nl
@@ -5847,6 +5849,7 @@ https://personeelsplanning.beekdaelen.nl
 https://personeelsplanning.kampen.nl
 https://personeelsvereniging.helmond.nl
 https://perspectiefnota.gemeente-steenbergen.nl
+https://persportaal.rijssen-holten.nl
 https://petear.brummen.nl
 https://pform.schiedam.nl
 https://phpmyadmin.bodegraven-reeuwijk.nl

@@ -8072,9 +8072,12 @@ www.testeloket
 www.vibe
 www.zmm
 openagenda
+bbty
 begroting2023
 jcc-api
 mksora
+nieuwbouwzwembad
+persportaal
 pw-specificatie
 safenet
 sportenbeweeg

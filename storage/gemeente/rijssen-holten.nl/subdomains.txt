@@ -2,6 +2,7 @@ acceptatie.rijssen-holten.nl
 adfs.rijssen-holten.nl
 afspraken.rijssen-holten.nl
 autodiscover.rijssen-holten.nl
+bbty.rijssen-holten.nl
 begroting2023.rijssen-holten.nl
 dkd.rijssen-holten.nl
 filetransfer.rijssen-holten.nl
@@ -12,9 +13,11 @@ kaarten.rijssen-holten.nl
 loket.rijssen-holten.nl
 mail.rijssen-holten.nl
 mksora.rijssen-holten.nl
+nieuwbouwzwembad.rijssen-holten.nl
 omgevingsdocumenten.rijssen-holten.nl
 openpdc.rijssen-holten.nl
 openpub.rijssen-holten.nl
+persportaal.rijssen-holten.nl
 preprod-sociaalportaal.rijssen-holten.nl
 pw-specificatie.rijssen-holten.nl
 raad.rijssen-holten.nl
