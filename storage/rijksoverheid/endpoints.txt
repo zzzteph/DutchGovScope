@@ -1059,6 +1059,7 @@ https://feeds.toetsingscommissievp.nl
 https://feeds.toezichtsociaaldomein.nl
 https://feeds.topcorridors.nl
 https://feeds.topsectoren.nl
+https://feeds.transitieproefdiervrijeinnovatie.nl
 https://fibb1.belastingdienst.nl
 https://fibd1.belastingdienst.nl
 https://fibe1.belastingdienst.nl
@@ -1905,6 +1906,7 @@ https://opendata.toetsingscommissievp.nl
 https://opendata.toezichtsociaaldomein.nl
 https://opendata.topcorridors.nl
 https://opendata.topsectoren.nl
+https://opendata.transitieproefdiervrijeinnovatie.nl
 https://opendisdata.nza.nl
 https://opkopersregister.stopheling.nl
 https://opleiding-ola.belastingdienst.nl
@@ -2327,6 +2329,7 @@ https://toezichtresultaten.acc.onderwijsinspectie.nl
 https://topsectoren.nl
 https://tovertool.nza.nl
 https://tramdashboard.provincie-utrecht.nl
+https://transitieproefdiervrijeinnovatie.nl
 https://travelpoint.sso3w.nl
 https://treatydatabase-acc.overheid.nl
 https://treatydatabase.overheid.nl
@@ -2799,6 +2802,7 @@ https://www.toetsingscommissievp.nl
 https://www.toezichtsociaaldomein.nl
 https://www.topcorridors.nl
 https://www.topsectoren.nl
+https://www.transitieproefdiervrijeinnovatie.nl
 https://www.tst2905.omgevingswet.overheid.nl
 https://www.veilig.cultureelerfgoed.nl
 https://www.wegen.brabant.nl
