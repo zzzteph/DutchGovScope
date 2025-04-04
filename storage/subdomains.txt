@@ -5856,6 +5856,7 @@ english.vnacs.nl
 english.wkr.nl
 english.wodc.nl
 english.wrr.nl
+english.zorginstituutnederland.nl
 enkhuizen.nl
 enquete-acc.denhaag.nl
 enquete.almelo.nl
@@ -6304,6 +6305,7 @@ feeds.english.vnacs.nl
 feeds.english.wkr.nl
 feeds.english.wodc.nl
 feeds.english.wrr.nl
+feeds.english.zorginstituutnederland.nl
 feeds.erfgoeddeal.nl
 feeds.euthanasiecommissie.nl
 feeds.excellentescholen.nl
@@ -6514,6 +6516,7 @@ feeds.wkr.nl
 feeds.wodc.nl
 feeds.wrr.nl
 feeds.youthatheart.nl
+feeds.zorginstituutnederland.nl
 felix.aalten.nl
 felix.achtkarspelen.nl
 felix.baarn.nl
@@ -12259,6 +12262,7 @@ opendata.english.vnacs.nl
 opendata.english.wkr.nl
 opendata.english.wodc.nl
 opendata.english.wrr.nl
+opendata.english.zorginstituutnederland.nl
 opendata.euthanasiecommissie.nl
 opendata.excellentescholen.nl
 opendata.expertisecentrummggz.nl
@@ -12475,6 +12479,7 @@ opendata.wodc.nl
 opendata.wrr.nl
 opendata.youthatheart.nl
 opendata.zoetermeer.nl
+opendata.zorginstituutnederland.nl
 opendisdata-acc.nza.nl
 opendisdata.nza.nl
 openformulieren-test.dewolden.nl
@@ -13002,6 +13007,7 @@ passbolt.terneuzen.nl
 passion.groningen.nl
 password.almere.nl
 password.ctgb.nl
+passwordmanager.zorginstituutnederland.nl
 passwordreset.almere.nl
 passwordreset.rijksdienstcn.com
 paswijzer.waalwijk.nl
@@ -13200,6 +13206,7 @@ plein1.heemstede.nl
 pleio-test.belastingdienst.nl
 pleio.belastingdienst.nl
 plek.wijkbijduurstede.nl
+plek.zorginstituutnederland.nl
 plekchecker-auth.ssc-ict.nl
 plekchecker.ssc-ict.nl
 plo.zutphen.nl
@@ -13798,6 +13805,7 @@ prolander.nl
 prosecutionservice.nl
 protectus.ggd.amsterdam.nl
 proto.apeldoorn.nl
+proto.zorginstituutnederland.nl
 prototype.cibg.nl
 provconnect.hethogeland.nl
 provincie-utrecht.nl
@@ -13957,6 +13965,7 @@ quarantaine.sittard-geleen.nl
 quarantine.bernheze.org
 quarantine.dmarc.nieuwegein.nl
 r01-nk-h140.ams.denhaag.nl
+ra.zorginstituutnederland.nl
 raad.acceptatie.asten.nl
 raad.acceptatie.someren.nl
 raad.alblasserdam.nl
@@ -14460,6 +14469,7 @@ samenveiligwerken.hhdelfland.nl
 samenveiligwerken.kaagenbraassem.nl
 samenwerken.brabant.nl
 samenwerken.groningen.nl
+samenwerken.zorginstituutnederland.nl
 samenwerken.zwolle.nl
 samenwerkenaan.heerde.nl
 samenwerkentest.zwolle.nl
@@ -14748,6 +14758,7 @@ secure2.westmaasenwaal.nl
 securegemnet.roermond.nl
 securegw.bunschoten.nl
 securemail.borne.nl
+securemail.zorginstituutnederland.nl
 securened.ncsc.nl
 securenet.ncsc.nl
 securenetwork.nijkerk.eu
@@ -18334,14 +18345,19 @@ wwfortimail01.ad.winterswijk.nl
 wwng01.winterswijk.nl
 wwt.groningen.nl
 www-a.huurcommissie.nl
+www-ac.zorginstituutnederland.nl
+www-acc.zorginstituutnederland.nl
 www-acceptatie.tilburg.nl
 www-acpt.brabant.nl
 www-cache.gemeentesluis.nl
+www-dev.zorginstituutnederland.nl
 www-old.kiesraad.nl
 www-ontw.brabant.nl
+www-p.zorginstituutnederland.nl
 www-sandbox.werkenvoornederland.nl
 www-sc8.brabant.nl
 www-test.brabant.nl
+www-tst.zorginstituutnederland.nl
 www-wim.gemeente-oldambt.nl
 www.a2vonderenkerensheide.nl
 www.aaenhunze.nl
@@ -19900,6 +19916,7 @@ www.zomer.groningen.nl
 www.zomerprogramma070.denhaag.nl
 www.zorgaanbiedersportaal.nl
 www.zorgaanbod.sudwestfryslan.nl
+www.zorginstituutnederland.nl
 www.zorgloket.druten.nl
 www.zorgloket.groningen.nl
 www.zorgwijzer.nunspeet.nl
@@ -20154,6 +20171,7 @@ zorgaanbiedersportaal.nl
 zorgaanbod.sudwestfryslan.nl
 zorgbeeld.nza.nl
 zorgenwerknetwerk.arboportaal.nl
+zorginstituutnederland.nl
 zorgloket.druten.nl
 zorgloket.groningen.nl
 zorgloket.wijdemeren.nl

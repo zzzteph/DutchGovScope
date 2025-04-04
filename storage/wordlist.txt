@@ -29,9 +29,9 @@ acc
 english
 a-www
 dkd
-portal
 feeds.english
 opendata.english
+portal
 a-feeds
 a-opendata
 open
@@ -448,6 +448,7 @@ helloid
 pushmail
 acceptatie.mijn
 dataportaal
+samenwerken
 www.kaarten
 www.mail
 ons
@@ -574,7 +575,6 @@ connect-with
 esb-test
 idtst
 ondertekenen
-samenwerken
 conf
 mijnwerkplek
 idselect
@@ -965,6 +965,9 @@ securetest
 formulieren-preprod
 nextcloud
 vacature
+plek
+proto
+securemail
 edienstenburgerzaken.test
 www.praatmee
 datalab
@@ -3894,6 +3897,13 @@ mijn.geschilleninstantie
 mijn.locatieregister
 mijn.melding
 mijn.toelatingsvergunning
+passwordmanager
+ra
+www-ac
+www-acc
+www-dev
+www-p
+www-tst
 email.mail.participatie
 mail.participatie
 aalten-checker-preprod
@@ -5077,7 +5087,6 @@ nedbrwacc
 octobox
 pilot-digitaleplannen
 prijsvraag-zwembad
-proto
 riv
 riviewer
 smartdocacc
@@ -5357,7 +5366,6 @@ www.ibo
 gp-test
 invmid
 nlgembrn
-securemail
 vmapp002
 vmapp006
 vmgis003
@@ -9245,7 +9253,6 @@ icclient
 owas
 skype
 wdm-fepoolweb-ext
-plek
 vmjboss01.gem-dom
 Squit2020publiceren
 atlasomgevingskwaliteit

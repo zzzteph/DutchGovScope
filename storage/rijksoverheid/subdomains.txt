@@ -1349,6 +1349,7 @@ english.vnacs.nl
 english.wkr.nl
 english.wodc.nl
 english.wrr.nl
+english.zorginstituutnederland.nl
 enterpriseenrollment.cbg-meb.nl
 enterpriseenrollment.ofgv.nl
 enterpriseregistration.belastingdienst.nl
@@ -1571,6 +1572,7 @@ feeds.english.vnacs.nl
 feeds.english.wkr.nl
 feeds.english.wodc.nl
 feeds.english.wrr.nl
+feeds.english.zorginstituutnederland.nl
 feeds.erfgoeddeal.nl
 feeds.euthanasiecommissie.nl
 feeds.excellentescholen.nl
@@ -1781,6 +1783,7 @@ feeds.wkr.nl
 feeds.wodc.nl
 feeds.wrr.nl
 feeds.youthatheart.nl
+feeds.zorginstituutnederland.nl
 fibb-perf.acc.belastingdienst.nl
 fibb1.belastingdienst.nl
 fibb2.acc.belastingdienst.nl
@@ -3050,6 +3053,7 @@ opendata.english.vnacs.nl
 opendata.english.wkr.nl
 opendata.english.wodc.nl
 opendata.english.wrr.nl
+opendata.english.zorginstituutnederland.nl
 opendata.euthanasiecommissie.nl
 opendata.excellentescholen.nl
 opendata.expertisecentrummggz.nl
@@ -3261,6 +3265,7 @@ opendata.wkr.nl
 opendata.wodc.nl
 opendata.wrr.nl
 opendata.youthatheart.nl
+opendata.zorginstituutnederland.nl
 opendisdata-acc.nza.nl
 opendisdata.nza.nl
 openims-acc.ctgb.nl
@@ -3334,6 +3339,7 @@ papiamentu.rijksdienstcn.com
 papiamentu.vnacs.nl
 partnerplaza.sso3w.nl
 password.ctgb.nl
+passwordmanager.zorginstituutnederland.nl
 passwordreset.rijksdienstcn.com
 pdc.acc.omgevingswet.overheid.nl
 pdc.int.omgevingswet.overheid.nl
@@ -3384,6 +3390,7 @@ plantool.huurcommissie.nl
 platformafpakken-fiod.acc.belastingdienst.nl
 pleio-test.belastingdienst.nl
 pleio.belastingdienst.nl
+plek.zorginstituutnederland.nl
 plekchecker-auth.ssc-ict.nl
 plekchecker.ssc-ict.nl
 pm-acc.belastingdienst.nl
@@ -3478,6 +3485,7 @@ projecten.netwerkplatteland.nl
 projecten.rijksvastgoedbedrijf.nl
 prolander.nl
 prosecutionservice.nl
+proto.zorginstituutnederland.nl
 prototype.cibg.nl
 provincie-utrecht.nl
 proxy.brabant.nl
@@ -3510,6 +3518,7 @@ pwa001.belastingdienst.nl
 pwa002.belastingdienst.nl
 qapbldexte2.belastingdienst.nl
 qmanage.flevoland.nl
+ra.zorginstituutnederland.nl
 raadopenbaarbestuur.nl
 raadplegen-acc.sbv-z.nl
 raadplegen-preprod.sbv-z.nl
@@ -3646,6 +3655,7 @@ sadp.acc.belastingdienst.nl
 sadp.belastingdienst.nl
 samenveiligwerken.hhdelfland.nl
 samenwerken.brabant.nl
+samenwerken.zorginstituutnederland.nl
 samenwerkingrijknoord.nl
 samenwerkingsportaal.hhdelfland.nl
 samenwerkingsportaalcms.hhdelfland.nl
@@ -3735,6 +3745,7 @@ search-a.provincie-utrecht.nl
 search.developer.overheid.nl
 search.provincie-utrecht.nl
 secure.vechtstromen.nl
+securemail.zorginstituutnederland.nl
 securened.ncsc.nl
 securenet.ncsc.nl
 securetest.vechtstromen.nl
@@ -4516,12 +4527,17 @@ wustest-osb.belastingdienst.nl
 wustest-rijks.belastingdienst.nl
 wustest.belastingdienst.nl
 www-a.huurcommissie.nl
+www-ac.zorginstituutnederland.nl
+www-acc.zorginstituutnederland.nl
 www-acpt.brabant.nl
+www-dev.zorginstituutnederland.nl
 www-old.kiesraad.nl
 www-ontw.brabant.nl
+www-p.zorginstituutnederland.nl
 www-sandbox.werkenvoornederland.nl
 www-sc8.brabant.nl
 www-test.brabant.nl
+www-tst.zorginstituutnederland.nl
 www.a2vonderenkerensheide.nl
 www.aaenmaas.nl
 www.aanbiedersmedicijnen.nl
@@ -4922,6 +4938,7 @@ www.wrr.nl
 www.youthatheart.nl
 www.zoekeentolkvertaler.bureauwbtv.nl
 www.zorgaanbiedersportaal.nl
+www.zorginstituutnederland.nl
 www1.hdsr.nl
 www2.om.nl
 www2.rechtwijzer.nl
@@ -4963,6 +4980,7 @@ zoekservice.overheid.nl
 zorgaanbiedersportaal.nl
 zorgbeeld.nza.nl
 zorgenwerknetwerk.arboportaal.nl
+zorginstituutnederland.nl
 zorgprestatiemodel.nza.nl
 zorgproducten-acc.nza.nl
 zorgproducten-test.nza.nl

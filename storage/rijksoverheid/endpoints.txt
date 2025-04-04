@@ -749,6 +749,7 @@ https://english.vnacs.nl
 https://english.wkr.nl
 https://english.wodc.nl
 https://english.wrr.nl
+https://english.zorginstituutnederland.nl
 https://enterpriseenrollment.cbg-meb.nl
 https://enterpriseenrollment.ofgv.nl
 https://enterpriseregistration.belastingdienst.nl
@@ -929,6 +930,7 @@ https://feeds.english.vnacs.nl
 https://feeds.english.wkr.nl
 https://feeds.english.wodc.nl
 https://feeds.english.wrr.nl
+https://feeds.english.zorginstituutnederland.nl
 https://feeds.erfgoeddeal.nl
 https://feeds.euthanasiecommissie.nl
 https://feeds.excellentescholen.nl
@@ -1139,6 +1141,7 @@ https://feeds.wkr.nl
 https://feeds.wodc.nl
 https://feeds.wrr.nl
 https://feeds.youthatheart.nl
+https://feeds.zorginstituutnederland.nl
 https://fibb1.belastingdienst.nl
 https://fibd1.belastingdienst.nl
 https://fibe1.belastingdienst.nl
@@ -1836,6 +1839,7 @@ https://opendata.english.vnacs.nl
 https://opendata.english.wkr.nl
 https://opendata.english.wodc.nl
 https://opendata.english.wrr.nl
+https://opendata.english.zorginstituutnederland.nl
 https://opendata.euthanasiecommissie.nl
 https://opendata.excellentescholen.nl
 https://opendata.expertisecentrummggz.nl
@@ -2046,6 +2050,7 @@ https://opendata.wkr.nl
 https://opendata.wodc.nl
 https://opendata.wrr.nl
 https://opendata.youthatheart.nl
+https://opendata.zorginstituutnederland.nl
 https://opendisdata.nza.nl
 https://opkopersregister.stopheling.nl
 https://opleiding-ola.belastingdienst.nl
@@ -2112,6 +2117,7 @@ https://pkio.service.tst2905.omgevingswet.overheid.nl
 https://plan-plan-validatie.pre.omgevingswet.overheid.nl
 https://planonprod.vallei-veluwe.nl
 https://planoview.provincie-utrecht.nl
+https://plek.zorginstituutnederland.nl
 https://pmm.belastingdienst.nl
 https://pmz-pre.logius.nl
 https://pmz.logius.nl
@@ -2162,6 +2168,7 @@ https://projecten.netwerkplatteland.nl
 https://projecten.rijksvastgoedbedrijf.nl
 https://prolander.nl
 https://prosecutionservice.nl
+https://proto.zorginstituutnederland.nl
 https://prototype.cibg.nl
 https://provincie-utrecht.nl
 https://psarchief.brabant.nl
@@ -2278,6 +2285,7 @@ https://sa.belastingdienst.nl
 https://sadp.belastingdienst.nl
 https://samenveiligwerken.hhdelfland.nl
 https://samenwerken.brabant.nl
+https://samenwerken.zorginstituutnederland.nl
 https://samenwerkingrijknoord.nl
 https://sandbox.werkenvoornederland.nl
 https://sap-crm.provincie-utrecht.nl
@@ -2297,6 +2305,7 @@ https://search-a.provincie-utrecht.nl
 https://search.developer.overheid.nl
 https://search.provincie-utrecht.nl
 https://secure.vechtstromen.nl
+https://securemail.zorginstituutnederland.nl
 https://securened.ncsc.nl
 https://securenet.ncsc.nl
 https://securetest.vechtstromen.nl
@@ -2652,6 +2661,7 @@ https://wortel183.provincie-utrecht.nl
 https://wortel184.provincie-utrecht.nl
 https://wrr.nl
 https://wsus.hdsr.nl
+https://www-ac.zorginstituutnederland.nl
 https://www-sandbox.werkenvoornederland.nl
 https://www.a2vonderenkerensheide.nl
 https://www.aaenmaas.nl
@@ -3040,6 +3050,7 @@ https://www.wodc.nl
 https://www.wrr.nl
 https://www.youthatheart.nl
 https://www.zorgaanbiedersportaal.nl
+https://www.zorginstituutnederland.nl
 https://www2.om.nl
 https://wwwfcinetorg.belastingdienst.nl
 https://wwwrijksacademienl.belastingdienst.nl
@@ -3066,6 +3077,7 @@ https://zoekservice.overheid.nl
 https://zorgaanbiedersportaal.nl
 https://zorgbeeld.nza.nl
 https://zorgenwerknetwerk.arboportaal.nl
+https://zorginstituutnederland.nl
 https://zorgprestatiemodel.nza.nl
 https://zorgproducten-acc.nza.nl
 https://zorgproducten.nza.nl
