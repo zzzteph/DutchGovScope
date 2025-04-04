@@ -6406,6 +6406,7 @@ feeds.staatscommissietegendiscriminatieenracisme.nl
 feeds.staatsexamensnt2.nl
 feeds.startmetdelen.nl
 feeds.startmetoesorichtlijnen.nl
+feeds.strafrechtketen.nl
 felix.aalten.nl
 felix.achtkarspelen.nl
 felix.baarn.nl
@@ -12276,6 +12277,7 @@ opendata.staatscommissietegendiscriminatieenracisme.nl
 opendata.staatsexamensnt2.nl
 opendata.startmetdelen.nl
 opendata.startmetoesorichtlijnen.nl
+opendata.strafrechtketen.nl
 opendata.utrecht.nl
 opendata.zoetermeer.nl
 opendisdata-acc.nza.nl
@@ -15600,6 +15602,7 @@ storing.denhaag.nl
 straatnotes.amsterdam.nl
 strafdossiermh17.acc.om.nl
 strafdossiermh17.om.nl
+strafrechtketen.nl
 straling.waalre.nl
 strand.hoorn.nl
 stratech.gemeentewestland.nl
@@ -19339,6 +19342,7 @@ www.stemvan.groningen.nl
 www.stemvan.opsterland.nl
 www.stichtsevecht.nl
 www.stopheling.nl
+www.strafrechtketen.nl
 www.sts.haarlemmermeer.nl
 www.sts.sudwestfryslan.nl
 www.stuf-topicus.sudwestfryslan.nl

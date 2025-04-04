@@ -1673,6 +1673,7 @@ feeds.staatscommissietegendiscriminatieenracisme.nl
 feeds.staatsexamensnt2.nl
 feeds.startmetdelen.nl
 feeds.startmetoesorichtlijnen.nl
+feeds.strafrechtketen.nl
 fibb-perf.acc.belastingdienst.nl
 fibb1.belastingdienst.nl
 fibb2.acc.belastingdienst.nl
@@ -3064,6 +3065,7 @@ opendata.staatscommissietegendiscriminatieenracisme.nl
 opendata.staatsexamensnt2.nl
 opendata.startmetdelen.nl
 opendata.startmetoesorichtlijnen.nl
+opendata.strafrechtketen.nl
 opendisdata-acc.nza.nl
 opendisdata.nza.nl
 openims-acc.ctgb.nl
@@ -3760,6 +3762,7 @@ stopheling.nl
 stor.services.cultureelerfgoed.nl
 strafdossiermh17.acc.om.nl
 strafdossiermh17.om.nl
+strafrechtketen.nl
 streefbeelden.pagw.nl
 sts.cbg-meb.nl
 sts.hhdelfland.nl
@@ -4581,6 +4584,7 @@ www.startmetdelen.nl
 www.startmetoesorichtlijnen.nl
 www.stateninformatie.provincie-utrecht.nl
 www.stopheling.nl
+www.strafrechtketen.nl
 www.test.monumentenregister.cultureelerfgoed.nl
 www.testsite.ceg.nl
 www.toeslagen.nl

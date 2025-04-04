@@ -4166,6 +4166,7 @@ https://feeds.staatscommissietegendiscriminatieenracisme.nl
 https://feeds.staatsexamensnt2.nl
 https://feeds.startmetdelen.nl
 https://feeds.startmetoesorichtlijnen.nl
+https://feeds.strafrechtketen.nl
 https://felix.baarn.nl
 https://felix.bergen.nl
 https://felix.beverwijk.nl
@@ -7427,6 +7428,7 @@ https://opendata.staatscommissietegendiscriminatieenracisme.nl
 https://opendata.staatsexamensnt2.nl
 https://opendata.startmetdelen.nl
 https://opendata.startmetoesorichtlijnen.nl
+https://opendata.strafrechtketen.nl
 https://opendata.utrecht.nl
 https://opendata.zoetermeer.nl
 https://opendisdata.nza.nl
@@ -9068,6 +9070,7 @@ https://storing.acc.denhaag.nl
 https://storing.denhaag.nl
 https://straatnotes.amsterdam.nl
 https://strafdossiermh17.om.nl
+https://strafrechtketen.nl
 https://strand.hoorn.nl
 https://streaming.landvancuijk.nl
 https://streefbeelden.pagw.nl
@@ -11068,6 +11071,7 @@ https://www.stemvan.groningen.nl
 https://www.stemvan.opsterland.nl
 https://www.stichtsevecht.nl
 https://www.stopheling.nl
+https://www.strafrechtketen.nl
 https://www.sudwestfryslan.nl
 https://www.suikerkwartier.groningen.nl
 https://www.t-diel.nl
