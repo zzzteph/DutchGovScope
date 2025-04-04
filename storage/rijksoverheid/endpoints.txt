@@ -1016,6 +1016,7 @@ https://feeds.sbv-z.nl
 https://feeds.schoolleidersregisterpo.nl
 https://feeds.scp.nl
 https://feeds.socialestabiliteit.nl
+https://feeds.sodm.nl
 https://fibb1.belastingdienst.nl
 https://fibd1.belastingdienst.nl
 https://fibe1.belastingdienst.nl
@@ -1837,6 +1838,7 @@ https://opendata.sbv-z.nl
 https://opendata.schoolleidersregisterpo.nl
 https://opendata.scp.nl
 https://opendata.socialestabiliteit.nl
+https://opendata.sodm.nl
 https://opendisdata.nza.nl
 https://opleiding-ola.belastingdienst.nl
 https://opleiding.nl-alert.nl
@@ -2116,6 +2118,7 @@ https://social.overheid.nl
 https://socialestabiliteit.nl
 https://socialintranet-acc.provincie-utrecht.nl
 https://socialintranet.provincie-utrecht.nl
+https://sodm.nl
 https://sonar.ndw.nu
 https://sorry.belastingdienst.nl
 https://sslvpn-hth.provincie-utrecht.nl
@@ -2673,6 +2676,7 @@ https://www.schoudersonderschoon.nl
 https://www.scp.nl
 https://www.slimwatermanagement.nl
 https://www.socialestabiliteit.nl
+https://www.sodm.nl
 https://www.stateninformatie.provincie-utrecht.nl
 https://www.test.monumentenregister.cultureelerfgoed.nl
 https://www.testsite.ceg.nl

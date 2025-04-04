@@ -4136,6 +4136,7 @@ https://feeds.sbv-z.nl
 https://feeds.schoolleidersregisterpo.nl
 https://feeds.scp.nl
 https://feeds.socialestabiliteit.nl
+https://feeds.sodm.nl
 https://felix.baarn.nl
 https://felix.bergen.nl
 https://felix.beverwijk.nl
@@ -7384,6 +7385,7 @@ https://opendata.sbv-z.nl
 https://opendata.schoolleidersregisterpo.nl
 https://opendata.scp.nl
 https://opendata.socialestabiliteit.nl
+https://opendata.sodm.nl
 https://opendata.utrecht.nl
 https://opendata.zoetermeer.nl
 https://opendisdata.nza.nl
@@ -8832,6 +8834,7 @@ https://socialeteams.deventer.nl
 https://socialewegwijzer.meierijstad.nl
 https://socialintranet-acc.provincie-utrecht.nl
 https://socialintranet.provincie-utrecht.nl
+https://sodm.nl
 https://soest.nl
 https://solliciteren.schouwen-duiveland.nl
 https://solliciterenbij.barneveld.nl
@@ -10965,6 +10968,7 @@ https://www.sociaalloket.medemblik.nl
 https://www.socialekaart.echt-susteren.nl
 https://www.socialekaart.westbetuwe.nl
 https://www.socialestabiliteit.nl
+https://www.sodm.nl
 https://www.soest.nl
 https://www.someren.nl
 https://www.sonenbreugel.nl

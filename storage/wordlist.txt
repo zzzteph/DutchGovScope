@@ -281,6 +281,7 @@ wifi
 subsidie
 desktop
 burgerloket
+forms
 digikoppelingtest
 magazine
 mijnzorg-acc
@@ -312,7 +313,6 @@ id
 geoservices
 prod
 redactie
-forms
 geotest
 nieuwsbrieven
 projecten
@@ -3736,6 +3736,7 @@ download.mail
 mailhost
 testmail
 poc
+productie
 email.mail.participatie
 mail.participatie
 aalten-checker-preprod

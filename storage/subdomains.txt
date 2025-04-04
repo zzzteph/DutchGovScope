@@ -6366,6 +6366,7 @@ feeds.sbv-z.nl
 feeds.schoolleidersregisterpo.nl
 feeds.scp.nl
 feeds.socialestabiliteit.nl
+feeds.sodm.nl
 felix.aalten.nl
 felix.achtkarspelen.nl
 felix.baarn.nl
@@ -6654,6 +6655,7 @@ forms.hhdelfland.nl
 forms.iplo.nl
 forms.klopt.cibg.nl
 forms.nvwa.nl
+forms.sodm.nl
 forms.vga.amsterdam.nl
 forms.wijchen.nl
 formulier-acc.ede.nl
@@ -12222,6 +12224,7 @@ opendata.sbv-z.nl
 opendata.schoolleidersregisterpo.nl
 opendata.scp.nl
 opendata.socialestabiliteit.nl
+opendata.sodm.nl
 opendata.utrecht.nl
 opendata.zoetermeer.nl
 opendisdata-acc.nza.nl
@@ -13508,6 +13511,7 @@ prodsuitewiz.nissewaard.nl
 product.leiden.nl
 productenraming.venlo.nl
 productie.postex.heusden.nl
+productie.sodm.nl
 prodwizraapl.nissewaard.nl
 profilemanager.schagen.nl
 programmabegroting.bronckhorst.nl
@@ -15123,6 +15127,7 @@ socialewegwijzer.meierijstad.nl
 socialintranet-acc.provincie-utrecht.nl
 socialintranet.middendelfland.nl
 socialintranet.provincie-utrecht.nl
+sodm.nl
 soest.nl
 solidariteit.laarbeek.nl
 sollicitatie.ggd.amsterdam.nl
@@ -19164,6 +19169,7 @@ www.socialekaart.duiven.nl
 www.socialekaart.echt-susteren.nl
 www.socialekaart.westbetuwe.nl
 www.socialestabiliteit.nl
+www.sodm.nl
 www.soest.nl
 www.solliciterenbij.amsterdam.nl
 www.someren.nl
