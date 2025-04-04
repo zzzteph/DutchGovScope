@@ -6295,6 +6295,7 @@ feeds.regelhulp.nl
 feeds.regiosaandegrens.nl
 feeds.rekenkamer.nl
 feeds.riec.nl
+feeds.rijksbredekennisagenda.nl
 feeds.rijksoverheid.nl
 felix.aalten.nl
 felix.achtkarspelen.nl
@@ -12109,6 +12110,7 @@ opendata.regelhulp.nl
 opendata.regiosaandegrens.nl
 opendata.rekenkamer.nl
 opendata.riec.nl
+opendata.rijksbredekennisagenda.nl
 opendata.rijksoverheid.nl
 opendata.roosendaal.nl
 opendata.utrecht.nl
@@ -13838,6 +13840,7 @@ ridderkerk.nl
 riec.nl
 ried.t-diel.nl
 rijkevoort.landvancuijk.nl
+rijksbredekennisagenda.nl
 rijkskantoorproxy.belastingdienst.nl
 rijksoverheid.nl
 rijkstrainee.werkenvoornederland.nl
@@ -18927,6 +18930,7 @@ www.rheden.nl
 www.rhenen.nl
 www.ridderkerk.nl
 www.riec.nl
+www.rijksbredekennisagenda.nl
 www.rijksoverheid.nl
 www.rijssen-holten.nl
 www.rijswijk.nl

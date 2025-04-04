@@ -978,6 +978,7 @@ https://feeds.regelhulp.nl
 https://feeds.regiosaandegrens.nl
 https://feeds.rekenkamer.nl
 https://feeds.riec.nl
+https://feeds.rijksbredekennisagenda.nl
 https://feeds.rijksoverheid.nl
 https://fibb1.belastingdienst.nl
 https://fibd1.belastingdienst.nl
@@ -1767,6 +1768,7 @@ https://opendata.regelhulp.nl
 https://opendata.regiosaandegrens.nl
 https://opendata.rekenkamer.nl
 https://opendata.riec.nl
+https://opendata.rijksbredekennisagenda.nl
 https://opendata.rijksoverheid.nl
 https://opendisdata.nza.nl
 https://opleiding-ola.belastingdienst.nl
@@ -1943,6 +1945,7 @@ https://resolver.pre.omgevingswet.overheid.nl
 https://resultaten.nlarbeidsinspectie.nl
 https://rev.emissieautoriteit.nl
 https://riec.nl
+https://rijksbredekennisagenda.nl
 https://rijksoverheid.nl
 https://ris-a.provincie-utrecht.nl
 https://rpx-qa.nza.nl
@@ -2549,6 +2552,7 @@ https://www.regulatoryscience.nl
 https://www.rekenhulptransitievergoeding.nl
 https://www.rekenkamer.nl
 https://www.riec.nl
+https://www.rijksbredekennisagenda.nl
 https://www.rijksoverheid.nl
 https://www.stateninformatie.provincie-utrecht.nl
 https://www.test.monumentenregister.cultureelerfgoed.nl
