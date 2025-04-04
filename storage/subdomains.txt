@@ -1145,6 +1145,7 @@ adfs.pijnacker-nootdorp.nl
 adfs.purmerend.nl
 adfs.rijssen-holten.nl
 adfs.simpelveld.nl
+adfs.vallei-veluwe.nl
 adfs.voerendaal.nl
 adfs.voorst.nl
 adfs.weert.nl
@@ -1804,6 +1805,7 @@ api.tst3.mijn.overheid.nl
 api.tst4.mijn.overheid.nl
 api.tst5.mijn.overheid.nl
 api.v2.openstad.haarlemmermeer.nl
+api.vallei-veluwe.nl
 api.wonen.zaken.amsterdam.nl
 api.zwemmen.venlo.nl
 apigateway.gemeentewestland.nl
@@ -2299,6 +2301,7 @@ autodiscover.uitwijk.denhaag.nl
 autodiscover.utrecht.nl
 autodiscover.valkenburg.nl
 autodiscover.valkenswaard.nl
+autodiscover.vallei-veluwe.nl
 autodiscover.veendam.nl
 autodiscover.veenendaal.nl
 autodiscover.veere.nl
@@ -5694,6 +5697,7 @@ eloket.sudwestfryslan.nl
 eloket.tiel.nl
 eloket.twenterand.nl
 eloket.uitgeest.nl
+eloket.vallei-veluwe.nl
 eloket.velsen.nl
 eloket.venray.nl
 eloket.vlissingen.nl
@@ -7304,6 +7308,7 @@ geoportaal.hhdelfland.nl
 geoportaal.katwijk.nl
 geoportaal.oss.nl
 geoportaal.test.oss.nl
+geoportaal.vallei-veluwe.nl
 geoportaal.waalwijk.nl
 geoportaal.wageningen.nl
 geoportaal.woerden.nl
@@ -11252,6 +11257,7 @@ mx1.ncsc.nl
 mx1.ofgv.nl
 mx1.rucphen.nl
 mx1.s-hertogenbosch.nl
+mx1.vallei-veluwe.nl
 mx1.waalwijk.nl
 mx1.wierden.nl
 mx11.meierijstad.nl
@@ -11263,6 +11269,7 @@ mx2.ncsc.nl
 mx2.rucphen.nl
 mx2.s-hertogenbosch.nl
 mx2.valkenburg.nl
+mx2.vallei-veluwe.nl
 mx2.waalwijk.nl
 mx2.wierden.nl
 mx3.ede.nl
@@ -11333,6 +11340,7 @@ navigus.landgraaf.nl
 navisiondestoep-acc.nissewaard.nl
 navisiondestoep.nissewaard.nl
 nawservice.coevorden.nl
+nc-openbaar.vallei-veluwe.nl
 ncab.nl
 ncadierproevenbeleid.nl
 ncis-ref.ndw.nu
@@ -11388,6 +11396,8 @@ neuron.noordwijk.nl
 neuron.prod.baarn.nl
 neuron.test.baarn.nl
 neuron.zandvoort.nl
+neuronprod.vallei-veluwe.nl
+neurontest.vallei-veluwe.nl
 neurontst.kerkrade.nl
 nevenbetrekkingen.om.nl
 new.mensenrechten.nl
@@ -13050,6 +13060,7 @@ planoncvo-dev.denhaag.nl
 planoncvo-test.denhaag.nl
 planoncvo.denhaag.nl
 planonmca.leeuwarden.nl
+planonprod.vallei-veluwe.nl
 planontest.nissewaard.nl
 planoview.provincie-utrecht.nl
 plantool.huurcommissie.nl
@@ -13949,6 +13960,7 @@ redactie.odijmond.nl
 redactie.odmh.nl
 redactie.ofgv.nl
 redactie.test.amersfoort.nl
+redactie.vallei-veluwe.nl
 redactiemijn-o.ot.denhaag.nl
 redactiemijn-t.ot.denhaag.nl
 redi.denhaag.nl
@@ -16385,6 +16397,7 @@ testeloket.someren.nl
 testeloket.sonenbreugel.nl
 testeloket.tiel.nl
 testeloket.twenterand.nl
+testeloket.vallei-veluwe.nl
 testeloket.velsen.nl
 testeloket.venray.nl
 testeloket.weert.nl
@@ -16550,6 +16563,7 @@ tmd.acc.belastingdienst.nl
 tmd.belastingdienst.nl
 tmd.ont.belastingdienst.nl
 tmv.cibg.nl
+tmx.vallei-veluwe.nl
 tnz-park-01.terneuzen.nl
 tnz-park-02.terneuzen.nl
 tnz-rad-01.terneuzen.nl
@@ -17825,6 +17839,7 @@ werkplek.sudwestfryslan.nl
 werkplek.texel.nl
 werkplek.tholen.nl
 werkplek.tilburg.nl
+werkplek.vallei-veluwe.nl
 werkplek.veldhoven.nl
 werkplek.velsen.nl
 werkplek.vlaardingen.nl
@@ -19517,6 +19532,7 @@ www.vaals.nl
 www.vaarvergunningen.nieuwkoop.nl
 www.valkenburg.nl
 www.valkenswaard.nl
+www.vallei-veluwe.nl
 www.varen.groningen.nl
 www.vasd-acc.groningen.nl
 www.vasd.groningen.nl

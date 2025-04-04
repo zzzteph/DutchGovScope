@@ -214,6 +214,7 @@ http://autodiscover.tholen.nl
 http://autodiscover.tilburg.nl
 http://autodiscover.twenterand.nl
 http://autodiscover.valkenswaard.nl
+http://autodiscover.vallei-veluwe.nl
 http://autodiscover.veendam.nl
 http://autodiscover.veenendaal.nl
 http://autodiscover.venlo.nl
@@ -1167,6 +1168,7 @@ https://adfs.meppel.nl
 https://adfs.montferland.info
 https://adfs.rijssen-holten.nl
 https://adfs.simpelveld.nl
+https://adfs.vallei-veluwe.nl
 https://adfs.voerendaal.nl
 https://adfs01.sudwestfryslan.nl
 https://adfslogin.defryskemarren.nl
@@ -3582,6 +3584,7 @@ https://eloket.sonenbreugel.nl
 https://eloket.sudwestfryslan.nl
 https://eloket.tiel.nl
 https://eloket.twenterand.nl
+https://eloket.vallei-veluwe.nl
 https://eloket.velsen.nl
 https://eloket.venray.nl
 https://eloket.vlissingen.nl
@@ -6724,6 +6727,7 @@ https://nationalebijenstrategie.nl
 https://natuur.leiden.nl
 https://natuur.omgevingswet.overheid.nl
 https://natuurbeheerplan.flevoland.nl
+https://nc-openbaar.vallei-veluwe.nl
 https://ncab.nl
 https://ncadierproevenbeleid.nl
 https://ncis-ref.ndw.nu
@@ -6753,6 +6757,7 @@ https://netbox.alkmaar.nl
 https://netwerkplatteland.nl
 https://neuron-test.gorinchem.nl
 https://neuron.gorinchem.nl
+https://neurontest.vallei-veluwe.nl
 https://nevenbetrekkingen.om.nl
 https://ngsrv02.ad.winterswijk.nl
 https://nha.amsterdam.nl
@@ -7867,6 +7872,7 @@ https://planoncvo-acc.denhaag.nl
 https://planoncvo-dev.denhaag.nl
 https://planoncvo-test.denhaag.nl
 https://planoncvo.denhaag.nl
+https://planonprod.vallei-veluwe.nl
 https://planontest.nissewaard.nl
 https://planoview.provincie-utrecht.nl
 https://platform.culemborg.nl
@@ -8365,6 +8371,7 @@ https://redactie.hdsr.nl
 https://redactie.odijmond.nl
 https://redactie.odmh.nl
 https://redactie.ofgv.nl
+https://redactie.vallei-veluwe.nl
 https://redirect.leeuwarden.nl
 https://referendum-backoffice.limburg.nl
 https://referendum.limburg.nl
@@ -9445,6 +9452,7 @@ https://testeloket.someren.nl
 https://testeloket.sonenbreugel.nl
 https://testeloket.tiel.nl
 https://testeloket.twenterand.nl
+https://testeloket.vallei-veluwe.nl
 https://testeloket.velsen.nl
 https://testeloket.venray.nl
 https://testeloket.weert.nl
@@ -9530,6 +9538,7 @@ https://tma.acc.amsterdam.nl
 https://tma.amsterdam.nl
 https://tma.utrecht.nl
 https://tmv.cibg.nl
+https://tmx.vallei-veluwe.nl
 https://tnz-rad-01.terneuzen.nl
 https://toegang.dataplatform.accp.s-hertogenbosch.nl
 https://toegang.dataplatform.s-hertogenbosch.nl
@@ -10161,6 +10170,7 @@ https://werkplek.schiedam.nl
 https://werkplek.smallingerland.nl
 https://werkplek.sudwestfryslan.nl
 https://werkplek.tholen.nl
+https://werkplek.vallei-veluwe.nl
 https://werkplek.veldhoven.nl
 https://werkplek.vlaardingen.nl
 https://werkplek.wierden.nl
@@ -11192,6 +11202,7 @@ https://www.v2.openstad.haarlemmermeer.nl
 https://www.vaals.nl
 https://www.vaarvergunningen.nieuwkoop.nl
 https://www.valkenburg.nl
+https://www.vallei-veluwe.nl
 https://www.vastgoed.venlo.nl
 https://www.vastgoedbedrijf.arnhem.nl
 https://www.veendam.nl

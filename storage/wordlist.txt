@@ -23,9 +23,9 @@ formulieren
 probeer
 loket
 test
-acc
 werkplek
 eloket
+acc
 dkd
 a-www
 english
@@ -40,15 +40,15 @@ afspraak
 waarmerk
 feeds.english
 opendata.english
-parkeren
 adfs
+parkeren
 raad
 api.meldingen
 betalen
 broker
+testeloket
 ruimtelijkeplannen
 werkenbij
-testeloket
 zaaksysteem-accept
 enterpriseenrollment
 pv
@@ -117,6 +117,7 @@ begroting
 squit2go
 _autodiscover._tcp
 samen
+api
 e
 lyncdiscover
 bgt
@@ -132,7 +133,6 @@ dtestmidoffice
 _dmarc
 a-feeds.a-english
 a-opendata.a-english
-api
 inloggen
 mijnzorg
 vergunningintaker
@@ -145,6 +145,7 @@ obsurv
 cms
 mailing
 web
+geoportaal
 onderzoek
 AutoDiscover
 zaaksysteem
@@ -165,9 +166,9 @@ mobiel
 maps
 meet
 email
-geoportaal
 legacy
 mobile
+mx1
 keycloak
 transfer
 gisib
@@ -187,7 +188,6 @@ cryptshare
 kennisbank
 dialin
 telewerken
-mx1
 belastingportaal
 openzaak
 acc-contact
@@ -209,6 +209,7 @@ webservices
 atlas
 publicaties
 intranet-acc
+mx2
 veiligdelen
 college
 bis
@@ -226,7 +227,6 @@ website
 wachtwoord
 archief
 guest
-mx2
 preprod-mijn
 geodata
 belastingbalie-test
@@ -281,6 +281,7 @@ wifi
 prod
 subsidie
 desktop
+redactie
 burgerloket
 forms
 digikoppelingtest
@@ -312,7 +313,6 @@ smtp2
 geoserver
 id
 geoservices
-redactie
 geotest
 nieuwsbrieven
 projecten
@@ -3834,6 +3834,11 @@ acceptatie.aanvragen
 acceptatie.formulieren
 acceptatie.uzipas
 uzipas
+nc-openbaar
+neuronprod
+neurontest
+planonprod
+tmx
 email.mail.participatie
 mail.participatie
 aalten-checker-preprod
