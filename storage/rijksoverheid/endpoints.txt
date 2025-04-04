@@ -139,6 +139,7 @@ http://videoserver2.brabant.nl
 http://voi.brabant.nl
 http://webmail.werkenvoornederland.nl
 http://wortel176.provincie-utrecht.nl
+http://www.toezichtresultaten.nl
 http://zoek.overheid.nl
 http://zoekdienst-preprod.overheid.nl
 https://a-api.nederlandwereldwijd.nl
