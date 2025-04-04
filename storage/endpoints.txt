@@ -4217,6 +4217,7 @@ https://feeds.veterinairtuchtcollege.nl
 https://feeds.vnacs.nl
 https://feeds.volkshuisvestingnederland.nl
 https://feeds.voordejeugdenhetgezin.nl
+https://feeds.vrachtwagenheffing.nl
 https://felix.baarn.nl
 https://felix.bergen.nl
 https://felix.beverwijk.nl
@@ -7520,6 +7521,7 @@ https://opendata.veterinairtuchtcollege.nl
 https://opendata.vnacs.nl
 https://opendata.volkshuisvestingnederland.nl
 https://opendata.voordejeugdenhetgezin.nl
+https://opendata.vrachtwagenheffing.nl
 https://opendata.zoetermeer.nl
 https://opendisdata.nza.nl
 https://openformulieren-test.dewolden.nl
@@ -9940,6 +9942,7 @@ https://vpsweb.veere.nl
 https://vraagbaak.doesburg.nl
 https://vraaghulp.acc.nijmegen.nl
 https://vraagwijzer.gemeente-steenbergen.nl
+https://vrachtwagenheffing.nl
 https://vragenlijst.eindhoven.nl
 https://vri-admin.ndw.nu
 https://vrijwilliger.hilversum.nl
@@ -11293,6 +11296,7 @@ https://www.volkshuisvestingnederland.nl
 https://www.voordejeugdenhetgezin.nl
 https://www.voorst.nl
 https://www.vraagbaak.doesburg.nl
+https://www.vrachtwagenheffing.nl
 https://www.vught.nl
 https://www.vvetest.amsterdam.nl
 https://www.vvv.deventer.nl

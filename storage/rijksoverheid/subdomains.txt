@@ -1740,6 +1740,7 @@ feeds.veterinairtuchtcollege.nl
 feeds.vnacs.nl
 feeds.volkshuisvestingnederland.nl
 feeds.voordejeugdenhetgezin.nl
+feeds.vrachtwagenheffing.nl
 fibb-perf.acc.belastingdienst.nl
 fibb1.belastingdienst.nl
 fibb2.acc.belastingdienst.nl
@@ -3183,6 +3184,7 @@ opendata.veterinairtuchtcollege.nl
 opendata.vnacs.nl
 opendata.volkshuisvestingnederland.nl
 opendata.voordejeugdenhetgezin.nl
+opendata.vrachtwagenheffing.nl
 opendisdata-acc.nza.nl
 opendisdata.nza.nl
 openims-acc.ctgb.nl
@@ -4232,6 +4234,7 @@ vpn3.domeinenrz.nl
 vpnbon.rijksdienstcn.com
 vps-prod-01.flevoland.nl
 vr.ofgv.nl
+vrachtwagenheffing.nl
 vri-admin.ndw.nu
 vribc-hth.provincie-utrecht.nl
 vs_mijn.str13.tst.belastingdienst.nl
@@ -4792,6 +4795,7 @@ www.veterinairtuchtcollege.nl
 www.vnacs.nl
 www.volkshuisvestingnederland.nl
 www.voordejeugdenhetgezin.nl
+www.vrachtwagenheffing.nl
 www.wegen.brabant.nl
 www.werken.belastingdienst.nl
 www.werkenvoornederland.nl

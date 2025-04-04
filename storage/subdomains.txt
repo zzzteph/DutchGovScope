@@ -6473,6 +6473,7 @@ feeds.veterinairtuchtcollege.nl
 feeds.vnacs.nl
 feeds.volkshuisvestingnederland.nl
 feeds.voordejeugdenhetgezin.nl
+feeds.vrachtwagenheffing.nl
 felix.aalten.nl
 felix.achtkarspelen.nl
 felix.baarn.nl
@@ -12396,6 +12397,7 @@ opendata.veterinairtuchtcollege.nl
 opendata.vnacs.nl
 opendata.volkshuisvestingnederland.nl
 opendata.voordejeugdenhetgezin.nl
+opendata.vrachtwagenheffing.nl
 opendata.zoetermeer.nl
 opendisdata-acc.nza.nl
 opendisdata.nza.nl
@@ -17287,6 +17289,7 @@ vr.ofgv.nl
 vraagbaak.doesburg.nl
 vraaghulp.acc.nijmegen.nl
 vraagwijzer.gemeente-steenbergen.nl
+vrachtwagenheffing.nl
 vragenlijst.eindhoven.nl
 vri-admin.ndw.nu
 vribc-hth.provincie-utrecht.nl
@@ -19647,6 +19650,7 @@ www.voorst.nl
 www.vpn.haarlemmermeer.nl
 www.vpn.hillegom.nl
 www.vraagbaak.doesburg.nl
+www.vrachtwagenheffing.nl
 www.vroegsignalering.sudwestfryslan.nl
 www.vroonermeer-noord.alkmaar.nl
 www.vught.nl
