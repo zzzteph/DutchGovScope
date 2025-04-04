@@ -16876,6 +16876,7 @@ valkenburg.nl
 valkenswaard.nl
 valuecare.nissewaard.nl
 vamos.rotterdam.nl
+vangbuitenshuis.nl
 varen.groningen.nl
 vasd-acc.groningen.nl
 vasd.groningen.nl
@@ -19533,6 +19534,7 @@ www.vaarvergunningen.nieuwkoop.nl
 www.valkenburg.nl
 www.valkenswaard.nl
 www.vallei-veluwe.nl
+www.vangbuitenshuis.nl
 www.varen.groningen.nl
 www.vasd-acc.groningen.nl
 www.vasd.groningen.nl

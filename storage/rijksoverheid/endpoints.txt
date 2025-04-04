@@ -2389,6 +2389,7 @@ https://uziregister.nl
 https://vacatures.odmh.nl
 https://validatie-acc.justid.nl
 https://validatie.justid.nl
+https://vangbuitenshuis.nl
 https://vctu-api.provincie-utrecht.nl
 https://vctu.provincie-utrecht.nl
 https://vdbs.sso3w.nl
@@ -2850,6 +2851,7 @@ https://www.uitvoeringvanbeleidszw.nl
 https://www.uwbeslagvrijevoet.nl
 https://www.uziregister.nl
 https://www.vallei-veluwe.nl
+https://www.vangbuitenshuis.nl
 https://www.veilig.cultureelerfgoed.nl
 https://www.wegen.brabant.nl
 https://www.werken.belastingdienst.nl

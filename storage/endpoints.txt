@@ -9710,6 +9710,7 @@ https://validsign.montferland.info
 https://valkenburg.nl
 https://valkenswaard.nl
 https://vamos.rotterdam.nl
+https://vangbuitenshuis.nl
 https://vastgoed.gemeentemaastricht.nl
 https://vastgoed.venlo.nl
 https://vastgoedaanbod.utrecht.nl
@@ -11203,6 +11204,7 @@ https://www.vaals.nl
 https://www.vaarvergunningen.nieuwkoop.nl
 https://www.valkenburg.nl
 https://www.vallei-veluwe.nl
+https://www.vangbuitenshuis.nl
 https://www.vastgoed.venlo.nl
 https://www.vastgoedbedrijf.arnhem.nl
 https://www.veendam.nl
