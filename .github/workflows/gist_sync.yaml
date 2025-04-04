@@ -7,13 +7,25 @@ on:
       - completed
 
 jobs:
-  scope-change-check:
+  export-and-gist:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Check if scope changed
-        run: |
-          git fetch origin main
-          git diff --name-only origin/main HEAD | grep '^scope/' && echo "Scope changed!" || echo "No changes."
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: 3.11
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Export scope
+        run: python export_scope.py
+
+      - name: Push rijksoverheid scope to Gist
+        env:
+          GIST_ID: ${{ secrets.GIST_ID }}
+          GIST_TOKEN: ${{ secrets.GIST_TOKEN }}
+        run: python engine/gist_update.py
