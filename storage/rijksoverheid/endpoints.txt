@@ -42,6 +42,8 @@ http://coronadashboard.government.nl
 http://coronadashboard.rijksoverheid.nl
 http://criminalfilesmh17.acc.prosecutionservice.nl
 http://crm.nza.nl
+http://dc.ssc-ict.nl
+http://dcpp.ssc-ict.nl
 http://demo1-systemteam.overheid.nl
 http://demo2-systemteam.overheid.nl
 http://designsystem.overheid.nl
@@ -248,6 +250,10 @@ https://analytics.ndw.nu
 https://analytics.staging.ndw.nu
 https://animalfreeinnovationtpi.nl
 https://antennebureau.nl
+https://anyc-t01-a.ssc-ict.nl
+https://anyc-t02.ssc-ict.nl
+https://anyc-t03.ssc-ict.nl
+https://anyc.ssc-ict.nl
 https://api-gateway.archis.cultureelerfgoed.nl
 https://api-ota.belastingdienst.nl
 https://api-sec.p-direkt.nl
@@ -1017,6 +1023,7 @@ https://feeds.schoolleidersregisterpo.nl
 https://feeds.scp.nl
 https://feeds.socialestabiliteit.nl
 https://feeds.sodm.nl
+https://feeds.ssc-ict.nl
 https://fibb1.belastingdienst.nl
 https://fibd1.belastingdienst.nl
 https://fibe1.belastingdienst.nl
@@ -1839,6 +1846,7 @@ https://opendata.schoolleidersregisterpo.nl
 https://opendata.scp.nl
 https://opendata.socialestabiliteit.nl
 https://opendata.sodm.nl
+https://opendata.ssc-ict.nl
 https://opendisdata.nza.nl
 https://opleiding-ola.belastingdienst.nl
 https://opleiding.nl-alert.nl
@@ -2121,6 +2129,7 @@ https://socialintranet.provincie-utrecht.nl
 https://sodm.nl
 https://sonar.ndw.nu
 https://sorry.belastingdienst.nl
+https://ssc-ict.nl
 https://sslvpn-hth.provincie-utrecht.nl
 https://sslvpn.provincie-utrecht.nl
 https://sso.acc.omgevingswet.overheid.nl
@@ -2677,6 +2686,7 @@ https://www.scp.nl
 https://www.slimwatermanagement.nl
 https://www.socialestabiliteit.nl
 https://www.sodm.nl
+https://www.ssc-ict.nl
 https://www.stateninformatie.provincie-utrecht.nl
 https://www.test.monumentenregister.cultureelerfgoed.nl
 https://www.testsite.ceg.nl

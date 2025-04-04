@@ -273,6 +273,8 @@ http://crl.denhaag.nl
 http://crm.nza.nl
 http://data.eindhoven.nl
 http://datatest.delft.nl
+http://dc.ssc-ict.nl
+http://dcpp.ssc-ict.nl
 http://demo1-systemteam.overheid.nl
 http://demo2-systemteam.overheid.nl
 http://designsystem.overheid.nl
@@ -1388,6 +1390,10 @@ https://antennebureau.nl
 https://antispam.eijsden-margraten.nl
 https://anwebintwl2008.waterland.nl
 https://any2info.deurne.nl
+https://anyc-t01-a.ssc-ict.nl
+https://anyc-t02.ssc-ict.nl
+https://anyc-t03.ssc-ict.nl
+https://anyc.ssc-ict.nl
 https://anyconnect.leiden.nl
 https://anyconnect.vught.nl
 https://anyware.pijnacker-nootdorp.nl
@@ -4137,6 +4143,7 @@ https://feeds.schoolleidersregisterpo.nl
 https://feeds.scp.nl
 https://feeds.socialestabiliteit.nl
 https://feeds.sodm.nl
+https://feeds.ssc-ict.nl
 https://felix.baarn.nl
 https://felix.bergen.nl
 https://felix.beverwijk.nl
@@ -7386,6 +7393,7 @@ https://opendata.schoolleidersregisterpo.nl
 https://opendata.scp.nl
 https://opendata.socialestabiliteit.nl
 https://opendata.sodm.nl
+https://opendata.ssc-ict.nl
 https://opendata.utrecht.nl
 https://opendata.zoetermeer.nl
 https://opendisdata.nza.nl
@@ -8886,6 +8894,7 @@ https://squit2go.wijdemeren.nl
 https://squitxo-test.schagen.nl
 https://squitxo.rijssen-holten.nl
 https://squitxo.schagen.nl
+https://ssc-ict.nl
 https://ssl.roermond.nl
 https://sslvpn-hth.provincie-utrecht.nl
 https://sslvpn.provincie-utrecht.nl
@@ -10978,6 +10987,7 @@ https://www.sport.nijmegen.nl
 https://www.sport.roermond.nl
 https://www.sportencultuur.gorinchem.nl
 https://www.sportloket.landvancuijk.nl
+https://www.ssc-ict.nl
 https://www.staatvandeparticipatie.amsterdam.nl
 https://www.stad.kampen.nl
 https://www.stadsarchief.breda.nl
