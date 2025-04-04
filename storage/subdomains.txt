@@ -12965,6 +12965,7 @@ pmz.logius.nl
 po-openformulieren-zgw.test.denhaag.nl
 po-zgw.test.denhaag.nl
 po.heusden.nl
+poc.slimwatermanagement.nl
 podcast.landvancuijk.nl
 podiumd-contact.deventer.nl
 podiumd-formulier.deventer.nl
@@ -14949,6 +14950,7 @@ slim-reizen.ndw.nu
 slimbereikbaar.assen.nl
 slimmeapparaten.amsterdam.nl
 slimmestad.rdi.nl
+slimwatermanagement.nl
 sltest.voorst.nl
 sltn.bzv.brabant.nl
 sm1-sec.schiedam.nl
@@ -19143,6 +19145,7 @@ www.sisa.rotterdam.nl
 www.sittard-geleen.nl
 www.sliedrecht.nl
 www.slimbereikbaar.assen.nl
+www.slimwatermanagement.nl
 www.slotervaart.amsterdam.nl
 www.smallingerland.nl
 www.smartatsea.denhaag.nl

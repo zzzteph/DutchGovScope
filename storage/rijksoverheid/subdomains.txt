@@ -3141,6 +3141,7 @@ pmc.belastingdienst.nl
 pmm.belastingdienst.nl
 pmz-pre.logius.nl
 pmz.logius.nl
+poc.slimwatermanagement.nl
 politiekeambtsdragers.nl
 pom.cultureelerfgoed.nl
 pop.oostvaarderskliniek.nl
@@ -3499,6 +3500,7 @@ slechtvalk.brabant.nl
 slechtvalk.provincie-utrecht.nl
 slim-reizen.ndw.nu
 slimmestad.rdi.nl
+slimwatermanagement.nl
 sltn.bzv.brabant.nl
 smartmobility.flevoland.nl
 smtp.awti.nl
@@ -4439,6 +4441,7 @@ www.schoudersonderschoon.nl
 www.scp.nl
 www.sharepoint-conf.belastingdienst.nl
 www.sharepoint.belastingdienst.nl
+www.slimwatermanagement.nl
 www.stateninformatie.provincie-utrecht.nl
 www.test.monumentenregister.cultureelerfgoed.nl
 www.testsite.ceg.nl

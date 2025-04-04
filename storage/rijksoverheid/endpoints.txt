@@ -1898,6 +1898,7 @@ https://planoview.provincie-utrecht.nl
 https://pmm.belastingdienst.nl
 https://pmz-pre.logius.nl
 https://pmz.logius.nl
+https://poc.slimwatermanagement.nl
 https://politiekeambtsdragers.nl
 https://pom.cultureelerfgoed.nl
 https://portaal-a.ikz.nl
@@ -2103,6 +2104,7 @@ https://sip.om.nl
 https://sip.rijksrecherche.nl
 https://slim-reizen.ndw.nu
 https://slimmestad.rdi.nl
+https://slimwatermanagement.nl
 https://smtp.awti.nl
 https://smtp1.awti.nl
 https://snelheidsovertredingen.om.nl
@@ -2665,6 +2667,7 @@ https://www.sbv-z.nl
 https://www.schoolleidersregisterpo.nl
 https://www.schoudersonderschoon.nl
 https://www.scp.nl
+https://www.slimwatermanagement.nl
 https://www.stateninformatie.provincie-utrecht.nl
 https://www.test.monumentenregister.cultureelerfgoed.nl
 https://www.testsite.ceg.nl
