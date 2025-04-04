@@ -6314,6 +6314,7 @@ feeds.rijksdienstcn.com
 feeds.rijksinkoopsamenwerking.nl
 feeds.rijksinnovatiecommunity.nl
 feeds.rijksinspecties.nl
+feeds.rijksorganisatieodi.nl
 feeds.rijksoverheid.nl
 felix.aalten.nl
 felix.achtkarspelen.nl
@@ -12140,6 +12141,7 @@ opendata.rijksdienstcn.com
 opendata.rijksinkoopsamenwerking.nl
 opendata.rijksinnovatiecommunity.nl
 opendata.rijksinspecties.nl
+opendata.rijksorganisatieodi.nl
 opendata.rijksoverheid.nl
 opendata.roosendaal.nl
 opendata.utrecht.nl
@@ -13877,6 +13879,7 @@ rijksdienstcn.com
 rijksinkoopsamenwerking.nl
 rijksinspecties.nl
 rijkskantoorproxy.belastingdienst.nl
+rijksorganisatieodi.nl
 rijksoverheid.nl
 rijkstrainee.werkenvoornederland.nl
 rijkstrainees.werkenvoornederland.nl
@@ -18975,6 +18978,7 @@ www.rijksdienstcn.com
 www.rijksinkoopsamenwerking.nl
 www.rijksinnovatiecommunity.nl
 www.rijksinspecties.nl
+www.rijksorganisatieodi.nl
 www.rijksoverheid.nl
 www.rijssen-holten.nl
 www.rijswijk.nl
