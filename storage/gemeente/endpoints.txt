@@ -1955,6 +1955,7 @@ https://bros-academie.deurne.nl
 https://brs.winterswijk.nl
 https://brummen.nl
 https://brunssum.nl
+https://brz1-sm100.schiedam.nl
 https://buitengewoon.zaanstad.nl
 https://buitenoporde.defryskemarren.nl
 https://buitenoporde.lansingerland.nl
@@ -6658,6 +6659,7 @@ https://sleutelkwartier.waddinxveen.nl
 https://sliedrecht-checker-preprod.sliedrecht.nl
 https://sliedrecht-checker.sliedrecht.nl
 https://sliedrecht.nl
+https://sm1-sec.schiedam.nl
 https://smallingerland.nl
 https://smap.almere.nl
 https://smartaim-test.haarlemmermeer.nl

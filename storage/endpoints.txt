@@ -2407,6 +2407,7 @@ https://brt.basisregistraties.overheid.nl
 https://brt.test.basisregistraties.overheid.nl
 https://brummen.nl
 https://brunssum.nl
+https://brz1-sm100.schiedam.nl
 https://bta.omgevingswet.overheid.nl
 https://buitengewoon.zaanstad.nl
 https://buitenoporde.defryskemarren.nl
@@ -9093,6 +9094,7 @@ https://slim-reizen.ndw.nu
 https://slimmerreizen.zuid-holland.nl
 https://slimmestad.rdi.nl
 https://slimwatermanagement.nl
+https://sm1-sec.schiedam.nl
 https://smallingerland.nl
 https://smap.almere.nl
 https://smartaim-test.haarlemmermeer.nl

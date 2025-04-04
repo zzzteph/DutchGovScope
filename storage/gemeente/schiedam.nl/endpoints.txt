@@ -3,6 +3,7 @@ https://aform.schiedam.nl
 https://archief.schiedam.nl
 https://beeldbank.schiedam.nl
 https://boeken.schiedam.nl
+https://brz1-sm100.schiedam.nl
 https://collecties.schiedam.nl
 https://dali.schiedam.nl
 https://edienstenburgerzaken-test.schiedam.nl
@@ -18,6 +19,7 @@ https://praatmee.schiedam.nl
 https://schiedam.nl
 https://schiedata.schiedam.nl
 https://sgen.schiedam.nl
+https://sm1-sec.schiedam.nl
 https://test.schiedam.nl
 https://webmail.schiedam.nl
 https://webserver.schiedam.nl
