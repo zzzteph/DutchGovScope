@@ -52,6 +52,7 @@ crowd.rotterdam.nl
 crp.rotterdam.nl
 dacceptatieloket.rotterdam.nl
 dacceptatiemidoffice.rotterdam.nl
+dapo.rotterdam.nl
 data.rotterdam.nl
 datasociaaldomein.rotterdam.nl
 db-p-iftopdesk.rotterdam.nl
@@ -127,6 +128,7 @@ isis-a.rotterdam.nl
 isis.rotterdam.nl
 kaartlaag.rotterdam.nl
 keycloak.rotterdam.nl
+klantportaalvm.rotterdam.nl
 klemmi.rotterdam.nl
 kompas.rotterdam.nl
 leenvervoermilieuparken.rotterdam.nl

@@ -1,4 +1,12 @@
+http://checklist.rotterdam.nl
+http://datasociaaldomein.rotterdam.nl
+http://isis-a.rotterdam.nl
+http://isis.rotterdam.nl
+http://meldpuntondermijning.rotterdam.nl
+http://pdcschulddienstverlening.rotterdam.nl
+http://raas.rotterdam.nl
 http://thomas100.rotterdam.nl
+http://thomas434.rotterdam.nl
 http://thuiswerk.rotterdam.nl
 http://thuiswerkacc.rotterdam.nl
 https://acc-formulier.rotterdam.nl
@@ -31,14 +39,13 @@ https://bibliotheek.rotterdam.nl
 https://bodemvondsten.rotterdam.nl
 https://broker.rotterdam.nl
 https://cairo.rotterdam.nl
-https://checklist.rotterdam.nl
 https://cicd010.rotterdam.nl
 https://concern.ir.rotterdam.nl
 https://contact.rotterdam.nl
 https://crediteurenapp.rotterdam.nl
 https://dacceptatieloket.rotterdam.nl
+https://dapo.rotterdam.nl
 https://data.rotterdam.nl
-https://datasociaaldomein.rotterdam.nl
 https://designtool.rotterdam.nl
 https://devops.rotterdam.nl
 https://diensten-acc.rotterdam.nl
@@ -74,10 +81,9 @@ https://idiensten-contract.rotterdam.nl
 https://iit-controle.rotterdam.nl
 https://inkomensadvies.rotterdam.nl
 https://inzagecleopatra.rotterdam.nl
-https://isis-a.rotterdam.nl
-https://isis.rotterdam.nl
 https://kaartlaag.rotterdam.nl
 https://keycloak.rotterdam.nl
+https://klantportaalvm.rotterdam.nl
 https://klemmi.rotterdam.nl
 https://kompas.rotterdam.nl
 https://leenvervoermilieuparken.rotterdam.nl
@@ -86,7 +92,6 @@ https://letoplood.rotterdam.nl
 https://magazines.rotterdam.nl
 https://maps.rotterdam.nl
 https://mataf.rotterdam.nl
-https://meldpuntondermijning.rotterdam.nl
 https://meldpuntzorgenomeenander.rotterdam.nl
 https://meldpuntzorgsignalen.rotterdam.nl
 https://meldr.rotterdam.nl
@@ -117,7 +122,6 @@ https://openklant.rotterdam.nl
 https://openzaak.rotterdam.nl
 https://ows.gis.rotterdam.nl
 https://parkeren.reserveren.rotterdam.nl
-https://pdcschulddienstverlening.rotterdam.nl
 https://penc-notes.rotterdam.nl
 https://pki.rotterdam.nl
 https://plato.rotterdam.nl
@@ -128,7 +132,6 @@ https://postcodezoektool.rotterdam.nl
 https://ppmoflprojecten.rotterdam.nl
 https://pric.rotterdam.nl
 https://proapp.rotterdam.nl
-https://raas.rotterdam.nl
 https://radar.rotterdam.nl
 https://rads.rotterdam.nl
 https://rbp.rotterdam.nl
@@ -158,7 +161,6 @@ https://thomas115.rotterdam.nl
 https://thomas211.rotterdam.nl
 https://thomas227.rotterdam.nl
 https://thomas422.rotterdam.nl
-https://thomas434.rotterdam.nl
 https://thomas441.rotterdam.nl
 https://thomas780.rotterdam.nl
 https://thomas822.rotterdam.nl

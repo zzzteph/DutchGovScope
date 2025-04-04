@@ -4245,6 +4245,7 @@ dali.zoeterwoude.nl
 dannyslaptop.ssc-ict.nl
 dantumadiel.frl
 dap.amsterdam.nl
+dapo.rotterdam.nl
 darwin.tilburg.nl
 dash-ma.mijn.overheid.nl
 dash-mp.mijn.overheid.nl
@@ -9575,6 +9576,7 @@ klantportaal.denhaag.nl
 klantportaal.drechterland.nl
 klantportaal.enkhuizen.nl
 klantportaal.stedebroec.nl
+klantportaalvm.rotterdam.nl
 klemmi.rotterdam.nl
 klickwion.oostgelre.nl
 kliconline.haarlemmermeer.nl

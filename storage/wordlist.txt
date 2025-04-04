@@ -8149,6 +8149,7 @@ coronamedewerker
 crediteurenapp
 crowd
 crp
+dapo
 datasociaaldomein
 db-p-iftopdesk
 derdenws.sozawe
@@ -8202,6 +8203,7 @@ ise
 isis-a
 isis
 kaartlaag
+klantportaalvm
 klemmi
 kompas
 leenvervoermilieuparken

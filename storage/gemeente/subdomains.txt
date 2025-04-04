@@ -3161,6 +3161,7 @@ dali.wassenaar.nl
 dali.zoeterwoude.nl
 dantumadiel.frl
 dap.amsterdam.nl
+dapo.rotterdam.nl
 darwin.tilburg.nl
 dashboard-iav-api.goeree-overflakkee.nl
 dashboard-iav.goeree-overflakkee.nl
@@ -7206,6 +7207,7 @@ klantportaal.denhaag.nl
 klantportaal.drechterland.nl
 klantportaal.enkhuizen.nl
 klantportaal.stedebroec.nl
+klantportaalvm.rotterdam.nl
 klemmi.rotterdam.nl
 klickwion.oostgelre.nl
 kliconline.haarlemmermeer.nl

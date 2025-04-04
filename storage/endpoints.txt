@@ -258,6 +258,7 @@ http://ca-devportal-pre.logius.nl
 http://ca-devportal.logius.nl
 http://channels-az1.lpc.logius.nl
 http://channels-az2.lpc.logius.nl
+http://checklist.rotterdam.nl
 http://clienteleitsm-acceptatie.logius.nl
 http://clienteleitsm.logius.nl
 http://cms-eef.waterschaplimburg.nl
@@ -277,6 +278,7 @@ http://criminalfilesmh17.acc.prosecutionservice.nl
 http://crl.denhaag.nl
 http://crm.nza.nl
 http://data.eindhoven.nl
+http://datasociaaldomein.rotterdam.nl
 http://datatest.delft.nl
 http://dc.ssc-ict.nl
 http://dcpp.ssc-ict.nl
@@ -376,6 +378,8 @@ http://intranet-prod.sudwestfryslan.nl
 http://intranet.leudal.nl
 http://inway-management.cg-intern.utrecht.nl
 http://inway.cg-intern.utrecht.nl
+http://isis-a.rotterdam.nl
+http://isis.rotterdam.nl
 http://juristen.werkenvoornederland.nl
 http://kaarten.gemeentewestland.nl
 http://kaarten.haarlemmermeer.nl
@@ -406,6 +410,7 @@ http://malengo-testcms.gemert-bakel.nl
 http://malengo.gemert-bakel.nl
 http://meldcode.denhaag.nl
 http://melddesk.renkum.nl
+http://meldpuntondermijning.rotterdam.nl
 http://mijn-preproductie.heerenveen.nl
 http://mijn-preproductie.weststellingwerf.nl
 http://mijn.adr.donorregister.nl
@@ -441,6 +446,7 @@ http://p8.zwolle.nl
 http://panel.almere.nl
 http://parkeervergunningen.amsterdam.nl
 http://participatieprikbord.denhaag.nl
+http://pdcschulddienstverlening.rotterdam.nl
 http://pdok.waterschaplimburg.nl
 http://pip-preproductie.gemeentehw.nl
 http://pip-preproductie.vlaardingen.nl
@@ -465,6 +471,7 @@ http://publicwebservices-dcr.cibg.nl
 http://pv.gemeentesluis.nl
 http://pwa001.belastingdienst.nl
 http://raadsagenda.oirschot.nl
+http://raas.rotterdam.nl
 http://redirector.alkmaar.nl
 http://ref.omgevingswet.overheid.nl
 http://repository-acc.officiele-overheidspublicaties.nl
@@ -578,6 +585,7 @@ http://testcms-jip.hofvantwente.nl
 http://testeformulieren.rhenen.nl
 http://testeloket.meppel.nl
 http://thomas100.rotterdam.nl
+http://thomas434.rotterdam.nl
 http://thuiswerk.rotterdam.nl
 http://thuiswerkacc.rotterdam.nl
 http://tickets.krimpenerwaard.nl
@@ -2488,7 +2496,6 @@ https://channels.lpc.logius.nl
 https://chat.ncsc.nl
 https://chatapi.klopt.cibg.nl
 https://checkjeprijs.huurcommissie.nl
-https://checklist.rotterdam.nl
 https://cher.emissieautoriteit.nl
 https://chw.aandeslagmetdeomgevingswet.nl
 https://chw.iplo.nl
@@ -2816,6 +2823,7 @@ https://dali.wassenaar.nl
 https://dali.zoeterwoude.nl
 https://dantumadiel.frl
 https://dap.amsterdam.nl
+https://dapo.rotterdam.nl
 https://darwin.tilburg.nl
 https://dashboard-iav-api.goeree-overflakkee.nl
 https://dashboard-iav.goeree-overflakkee.nl
@@ -2874,7 +2882,6 @@ https://dataportaal.apeldoorn.nl
 https://dataportaal.brabant.nl
 https://dataportaal.tilburg.nl
 https://dataquality.ndw.nu
-https://datasociaaldomein.rotterdam.nl
 https://datavoorgezondheid.nl
 https://datumprikker.belastingdienst.nl
 https://db.cbg-meb.nl
@@ -5587,8 +5594,6 @@ https://irma.denhaag.nl
 https://ironport.brielle.nl
 https://ironport.valkenburg.nl
 https://isdtalentcenter.bergenopzoom.nl
-https://isis-a.rotterdam.nl
-https://isis.rotterdam.nl
 https://isms-acc.denhaag.nl
 https://isms.denhaag.nl
 https://it-academieoverheid.nl
@@ -5866,6 +5871,7 @@ https://klantportaal.denhaag.nl
 https://klantportaal.drechterland.nl
 https://klantportaal.enkhuizen.nl
 https://klantportaal.stedebroec.nl
+https://klantportaalvm.rotterdam.nl
 https://klemmi.rotterdam.nl
 https://klimaat.landvancuijk.nl
 https://klimaatadaptatienederland.nl
@@ -6402,7 +6408,6 @@ https://meldingenweesp.amsterdam.nl
 https://meldingwd.odmh.nl
 https://meldloket.postedworkers.nl
 https://meldpuntgeneesmiddelentekortendefecten.nl
-https://meldpuntondermijning.rotterdam.nl
 https://meldpuntwki.inspectie-jenv.nl
 https://meldpuntzorgenomeenander.rotterdam.nl
 https://meldpuntzorgsignalen.rotterdam.nl
@@ -8009,7 +8014,6 @@ https://pdc.sittard-geleen.nl
 https://pdc.stichtsevecht.nl
 https://pdc.sudwestfryslan.nl
 https://pdc.test.stichtsevecht.nl
-https://pdcschulddienstverlening.rotterdam.nl
 https://peelenmaas.nl
 https://pekela.nl
 https://penc-notes.rotterdam.nl
@@ -8547,7 +8551,6 @@ https://raadvoorcultuur.nl
 https://raadzaam.nieuwegein.nl
 https://raadzaam.nijmegen.nl
 https://raalte.nl
-https://raas.rotterdam.nl
 https://radar.rdi.nl
 https://radar.rotterdam.nl
 https://radicaalofpuberaal.nctv.nl
@@ -9741,7 +9744,6 @@ https://thomas115.rotterdam.nl
 https://thomas211.rotterdam.nl
 https://thomas227.rotterdam.nl
 https://thomas422.rotterdam.nl
-https://thomas434.rotterdam.nl
 https://thomas441.rotterdam.nl
 https://thomas780.rotterdam.nl
 https://thomas822.rotterdam.nl
