@@ -595,6 +595,7 @@ artifact-rd1.toegang.overheid.nl
 artifact-rd2.toegang.overheid.nl
 artifact-rv-pp1.logius.nl
 asbestovertredingen.nlarbeidsinspectie.nl
+asbestvrijdak.nl
 assystnet-test-t.provincie-utrecht.nl
 assystnet-test.provincie-utrecht.nl
 asycuda.belastingdienst-cn.nl
@@ -1482,6 +1483,7 @@ feeds.animalfreeinnovationtpi.nl
 feeds.antennebureau.nl
 feeds.arbeidsmigratieingoedebanen.nl
 feeds.arboportaal.nl
+feeds.asbestvrijdak.nl
 feeds.atkm.nl
 feeds.auditdienstrijk.nl
 feeds.autoriteitnvs.nl
@@ -2994,6 +2996,7 @@ opendata.animalfreeinnovationtpi.nl
 opendata.antennebureau.nl
 opendata.arbeidsmigratieingoedebanen.nl
 opendata.arboportaal.nl
+opendata.asbestvrijdak.nl
 opendata.atkm.nl
 opendata.auditdienstrijk.nl
 opendata.autoriteitnvs.nl
@@ -4644,6 +4647,7 @@ www.animalfreeinnovationtpi.nl
 www.antennebureau.nl
 www.arbeidsmigratieingoedebanen.nl
 www.arboportaal.nl
+www.asbestvrijdak.nl
 www.asl.omgevingswet.overheid.nl
 www.atkm.nl
 www.atlas.limburg.nl
