@@ -39,14 +39,6 @@ gov_links = [
     'https://basisbeveiliging.nl/data/export/urls_only/NL/central_government_foreign_affairs/csv/',
     'https://basisbeveiliging.nl/data/export/urls_only/NL/central_government_interior_relations/csv/',
     'https://basisbeveiliging.nl/data/export/urls_only/NL/central_government_general_affairs/csv/',
-    'https://basisbeveiliging.nl/data/export/urls_only/NL/adviescolleges/csv/',
-    'https://basisbeveiliging.nl/data/export/urls_only/NL/vital_digital_infra_dns/csv/',
-    'https://basisbeveiliging.nl/data/export/urls_only/NL/vital_digital_infra_ix/csv/',
-    'https://basisbeveiliging.nl/data/export/urls_only/NL/vital_digital_infra_cloud/csv/',
-    'https://basisbeveiliging.nl/data/export/urls_only/NL/healthcare_ggd/csv/',
-    'https://basisbeveiliging.nl/data/export/urls_only/NL/safety_region/csv/',
-    'https://basisbeveiliging.nl/data/export/urls_only/NL/waterschappen/csv/',
-    'https://basisbeveiliging.nl/data/export/urls_only/NL/province/csv/'
     ]
 
 def get_root_domain(url):
@@ -75,20 +67,24 @@ headers_to_check = ["RIJKSOVERHEID.Org", "overheid:authority"]
 print("\n--- Matching Domains ---\n")
 result_domains=set()
 for domain in sorted(entries):
-    try:
-        response = requests.get(f"https://{domain}", timeout=10, allow_redirects=True, verify=False)
-        
-        if response.ok:
-            body = response.text.lower()
-            if any(keyword.lower() in body for keyword in headers_to_check):
-                final_url = response.url
-                parsed = urlparse(final_url)
-                final_domain = parsed.hostname
-                if final_domain:
-                    result_domains.add(final_domain.removeprefix("www."))
-    except requests.exceptions.RequestException:
-        pass
+    print(f"{domain}")
 
-with open(file_path, "a") as f:
-    for domain in result_domains:
-        f.write(domain + "\n")
+#
+#for domain in sorted(entries):
+#    try:
+#        response = requests.get(f"https://{domain}", timeout=10, allow_redirects=True, verify=False)
+#        
+#        if response.ok:
+#            body = response.text.lower()
+#            if any(keyword.lower() in body for keyword in headers_to_check):
+#                final_url = response.url
+#                parsed = urlparse(final_url)
+#                final_domain = parsed.hostname
+#                if final_domain:
+#                    result_domains.add(final_domain.removeprefix("www."))
+#    except requests.exceptions.RequestException:
+#        pass
+
+#with open(file_path, "a") as f:
+#    for domain in result_domains:
+#        f.write(domain + "\n")
