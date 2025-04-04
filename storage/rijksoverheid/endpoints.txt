@@ -1034,6 +1034,7 @@ https://feeds.ssc-ict.nl
 https://feeds.sso3w.nl
 https://feeds.staatscommissie2050.nl
 https://feeds.staatscommissierechtsstaat.nl
+https://feeds.staatscommissietegendiscriminatieenracisme.nl
 https://fibb1.belastingdienst.nl
 https://fibd1.belastingdienst.nl
 https://fibe1.belastingdienst.nl
@@ -1862,6 +1863,7 @@ https://opendata.ssc-ict.nl
 https://opendata.sso3w.nl
 https://opendata.staatscommissie2050.nl
 https://opendata.staatscommissierechtsstaat.nl
+https://opendata.staatscommissietegendiscriminatieenracisme.nl
 https://opendisdata.nza.nl
 https://opleiding-ola.belastingdienst.nl
 https://opleiding.nl-alert.nl
@@ -2173,6 +2175,7 @@ https://sso.tst2905.omgevingswet.overheid.nl
 https://sso3w.nl
 https://staatscommissie2050.nl
 https://staatscommissierechtsstaat.nl
+https://staatscommissietegendiscriminatieenracisme.nl
 https://standaarden-acc.overheid.nl
 https://standaarden-tst.overheid.nl
 https://standaarden.omgevingswet.overheid.nl
@@ -2714,6 +2717,7 @@ https://www.ssc-ictspecials.nl
 https://www.sso3w.nl
 https://www.staatscommissie2050.nl
 https://www.staatscommissierechtsstaat.nl
+https://www.staatscommissietegendiscriminatieenracisme.nl
 https://www.stateninformatie.provincie-utrecht.nl
 https://www.test.monumentenregister.cultureelerfgoed.nl
 https://www.testsite.ceg.nl

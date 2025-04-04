@@ -4154,6 +4154,7 @@ https://feeds.ssc-ict.nl
 https://feeds.sso3w.nl
 https://feeds.staatscommissie2050.nl
 https://feeds.staatscommissierechtsstaat.nl
+https://feeds.staatscommissietegendiscriminatieenracisme.nl
 https://felix.baarn.nl
 https://felix.bergen.nl
 https://felix.beverwijk.nl
@@ -7409,6 +7410,7 @@ https://opendata.ssc-ict.nl
 https://opendata.sso3w.nl
 https://opendata.staatscommissie2050.nl
 https://opendata.staatscommissierechtsstaat.nl
+https://opendata.staatscommissietegendiscriminatieenracisme.nl
 https://opendata.utrecht.nl
 https://opendata.zoetermeer.nl
 https://opendisdata.nza.nl
@@ -8946,6 +8948,7 @@ https://ssrpm.rotterdam.nl
 https://sstpvpn.epe.nl
 https://staatscommissie2050.nl
 https://staatscommissierechtsstaat.nl
+https://staatscommissietegendiscriminatieenracisme.nl
 https://staatvandeparticipatie.amsterdam.nl
 https://stad.kampen.nl
 https://stadhuis.groningen.nl
@@ -11015,6 +11018,7 @@ https://www.ssc-ictspecials.nl
 https://www.sso3w.nl
 https://www.staatscommissie2050.nl
 https://www.staatscommissierechtsstaat.nl
+https://www.staatscommissietegendiscriminatieenracisme.nl
 https://www.staatvandeparticipatie.amsterdam.nl
 https://www.stad.kampen.nl
 https://www.stadsarchief.breda.nl

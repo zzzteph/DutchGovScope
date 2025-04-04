@@ -1661,6 +1661,7 @@ feeds.ssc-ict.nl
 feeds.sso3w.nl
 feeds.staatscommissie2050.nl
 feeds.staatscommissierechtsstaat.nl
+feeds.staatscommissietegendiscriminatieenracisme.nl
 fibb-perf.acc.belastingdienst.nl
 fibb1.belastingdienst.nl
 fibb2.acc.belastingdienst.nl
@@ -3046,6 +3047,7 @@ opendata.ssc-ict.nl
 opendata.sso3w.nl
 opendata.staatscommissie2050.nl
 opendata.staatscommissierechtsstaat.nl
+opendata.staatscommissietegendiscriminatieenracisme.nl
 opendisdata-acc.nza.nl
 opendisdata.nza.nl
 openims-acc.ctgb.nl
@@ -3660,6 +3662,7 @@ sso.tst2905.omgevingswet.overheid.nl
 sso3w.nl
 staatscommissie2050.nl
 staatscommissierechtsstaat.nl
+staatscommissietegendiscriminatieenracisme.nl
 stadvanced.belastingdienst.nl
 stagiairs.werkenvoornederland.nl
 staging.english.ctpveldzicht.nl
@@ -4547,6 +4550,7 @@ www.ssc-ictspecials.nl
 www.sso3w.nl
 www.staatscommissie2050.nl
 www.staatscommissierechtsstaat.nl
+www.staatscommissietegendiscriminatieenracisme.nl
 www.stateninformatie.provincie-utrecht.nl
 www.test.monumentenregister.cultureelerfgoed.nl
 www.testsite.ceg.nl
