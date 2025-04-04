@@ -251,7 +251,6 @@ http://felix.deurne.nl
 http://felix.koggenland.nl
 http://felix.nederweert.nl
 http://felix.ooststellingwerf.nl
-http://felix.renswoude.nl
 http://felix.scherpenzeel.nl
 http://felix.vlissingen.nl
 http://felix.voorschoten.nl
@@ -413,7 +412,6 @@ http://simsite.middendelfland.nl
 http://simsite.montferland.info
 http://simsite.nederweert.nl
 http://simsite.opmeer.nl
-http://simsite.renswoude.nl
 http://simsite.reuseldemierden.nl
 http://smartphone.kampen.nl
 http://smtp.moerdijk.nl
@@ -6314,6 +6312,7 @@ https://remote.westvoorne.nl
 https://remote.winterswijk.nl
 https://remote.zaanstad.nl
 https://renkum.nl
+https://renswoude.nl
 https://reserveringen.tilburg.nl
 https://restore.wierden.nl
 https://return.heuvelrug.nl
@@ -6575,7 +6574,6 @@ https://simcms.nijkerk.eu
 https://simcms.oirschot.nl
 https://simcms.ooststellingwerf.nl
 https://simcms.opmeer.nl
-https://simcms.renswoude.nl
 https://simcms.schiermonnikoog.nl
 https://simcms.sonenbreugel.nl
 https://simcms.terschelling.nl
