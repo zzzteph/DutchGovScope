@@ -1578,6 +1578,7 @@ feeds.rekenkamer.nl
 feeds.riec.nl
 feeds.rijksbredekennisagenda.nl
 feeds.rijksdienstcn.com
+feeds.rijksinkoopsamenwerking.nl
 feeds.rijksoverheid.nl
 fibb-perf.acc.belastingdienst.nl
 fibb1.belastingdienst.nl
@@ -2922,6 +2923,7 @@ opendata.rekenkamer.nl
 opendata.riec.nl
 opendata.rijksbredekennisagenda.nl
 opendata.rijksdienstcn.com
+opendata.rijksinkoopsamenwerking.nl
 opendata.rijksoverheid.nl
 opendisdata-acc.nza.nl
 opendisdata.nza.nl
@@ -3226,6 +3228,7 @@ rht.belastingdienst.nl
 riec.nl
 rijksbredekennisagenda.nl
 rijksdienstcn.com
+rijksinkoopsamenwerking.nl
 rijkskantoorproxy.belastingdienst.nl
 rijksoverheid.nl
 rijkstrainee.werkenvoornederland.nl
@@ -4308,6 +4311,7 @@ www.rekenkamer.nl
 www.riec.nl
 www.rijksbredekennisagenda.nl
 www.rijksdienstcn.com
+www.rijksinkoopsamenwerking.nl
 www.rijksoverheid.nl
 www.risicokaart.flevoland.nl
 www.sharepoint-conf.belastingdienst.nl
