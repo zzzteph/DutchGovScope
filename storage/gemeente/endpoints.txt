@@ -260,7 +260,6 @@ http://felix.westmaasenwaal.nl
 http://felix.zundert.nl
 http://felixburgerzaken.nissewaard.nl
 http://flash.scherpenzeel.nl
-http://formulieren-test.rijswijk.nl
 http://formulieren.opsterland.nl
 http://formulieren.vlaardingen.nl
 http://geldrop-mierlo.nl
@@ -402,6 +401,7 @@ http://simcms.zwartewaterland.nl
 http://simform-preproductie.t-diel.nl
 http://simform-preproductie.voorschoten.nl
 http://simform-preproductie.wassenaar.nl
+http://simform-test.rijswijk.nl
 http://simform.beuningen.nl
 http://simform.gemeentehw.nl
 http://simform.houten.nl
@@ -3324,7 +3324,6 @@ https://formulieren.oostzaan.nl
 https://formulieren.oss.nl
 https://formulieren.pijnacker-nootdorp.nl
 https://formulieren.purmerend.nl
-https://formulieren.rijswijk.nl
 https://formulieren.stadskanaal.nl
 https://formulieren.stichtsevecht.nl
 https://formulieren.test.oss.nl
@@ -4924,6 +4923,7 @@ https://mijn.oss.nl
 https://mijn.oude-ijsselstreek.nl
 https://mijn.overbetuwe.nl
 https://mijn.pekela.nl
+https://mijn.rijswijk.nl
 https://mijn.roermond.nl
 https://mijn.roosendaal.nl
 https://mijn.rotterdam.nl
@@ -6592,7 +6592,6 @@ https://simcms.weststellingwerf.nl
 https://simcms.wierden.nl
 https://simcms.woensdrecht.nl
 https://simform-preproductie.achtkarspelen.nl
-https://simform-test.rijswijk.nl
 https://simform.gemeentemaasgouw.nl
 https://simform.heerenveen.nl
 https://simform.heerlen.nl
