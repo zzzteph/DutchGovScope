@@ -1,5 +1,10 @@
 name: basisbeveiliging exec
 
+
+on:
+  workflow_dispatch:
+
+
 jobs:
   update-scope:
     runs-on: ubuntu-latest
