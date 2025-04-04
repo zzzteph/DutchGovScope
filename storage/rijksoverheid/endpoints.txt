@@ -1,6 +1,7 @@
 http://1.ivory.nctv.nl
 http://AutoDiscover.hdsr.nl
 http://acc.avgregisterrijksoverheid.nl
+http://acc.cmv-kandidaat.sso3w.nl
 http://acc.encoded.api-gateway.archis.cultureelerfgoed.nl
 http://acc.gml.map.services.cultureelerfgoed.nl
 http://acc.oinregister.logius.nl
@@ -160,8 +161,10 @@ https://acc.api.p-direkt.nl
 https://acc.archis.cultureelerfgoed.nl
 https://acc.auth.services.cultureelerfgoed.nl
 https://acc.beeldbellen.dji.nl
+https://acc.btp.sso3w.nl
 https://acc.client.archis.cultureelerfgoed.nl
 https://acc.e-loket.ilent.nl
+https://acc.expenses.sso3w.nl
 https://acc.informatieservice.nederlandwereldwijd.nl
 https://acc.inspectieresultaten.nvwa.nl
 https://acc.monumentenregister.cultureelerfgoed.nl
@@ -446,6 +449,8 @@ https://cms.mensenrechten.nl
 https://cmsgui.ondernemersplein.overheid.nl
 https://cmsintranet.flevoland.nl
 https://cmsintranet.scp.nl
+https://cmv-kandidaat.sso3w.nl
+https://cmv-opdrachtgever.sso3w.nl
 https://codexalimentarius.nl
 https://cognitatie.acc.omgevingswet.overheid.nl
 https://cognitatie.omgevingswet.overheid.nl
@@ -709,6 +714,7 @@ https://esb-preprod.provincie.drenthe.nl
 https://esb-t1.brabant.nl
 https://esb-test.brabant.nl
 https://esb.brabant.nl
+https://esb.btp.sso3w.nl
 https://esb.flevoland.nl
 https://esb.provincie-utrecht.nl
 https://esb.provincie.drenthe.nl
@@ -721,6 +727,7 @@ https://evserver1.flevoland.nl
 https://examenplein.cvte.nl
 https://excellentescholen.nl
 https://exchange.flevoland.nl
+https://expenses.sso3w.nl
 https://expertisecentrummggz.nl
 https://externe-veiligheid.omgevingswet.overheid.nl
 https://extranet.onderwijsraad.nl
@@ -1024,6 +1031,7 @@ https://feeds.scp.nl
 https://feeds.socialestabiliteit.nl
 https://feeds.sodm.nl
 https://feeds.ssc-ict.nl
+https://feeds.sso3w.nl
 https://fibb1.belastingdienst.nl
 https://fibd1.belastingdienst.nl
 https://fibe1.belastingdienst.nl
@@ -1343,6 +1351,7 @@ https://magazines.rdi.nl
 https://magazines.riec.nl
 https://magazines.rijksoverheid.nl
 https://magazines.socialestabiliteit.nl
+https://magazines.sso3w.nl
 https://magazines.werkenvoornederland.nl
 https://magazinesintern.rijksoverheid.nl
 https://magazinesintern.rijksvastgoedbedrijf.nl
@@ -1848,6 +1857,7 @@ https://opendata.scp.nl
 https://opendata.socialestabiliteit.nl
 https://opendata.sodm.nl
 https://opendata.ssc-ict.nl
+https://opendata.sso3w.nl
 https://opendisdata.nza.nl
 https://opleiding-ola.belastingdienst.nl
 https://opleiding.nl-alert.nl
@@ -1878,6 +1888,7 @@ https://pagw.nl
 https://papiamentu.belastingdienst-cn.nl
 https://papiamentu.mijncn.nl
 https://papiamentu.rijksdienstcn.com
+https://partnerplaza.sso3w.nl
 https://password.ctgb.nl
 https://pdc.acc.omgevingswet.overheid.nl
 https://pdc.omgevingswet.overheid.nl
@@ -1930,6 +1941,7 @@ https://postedworkers.nl
 https://pp1.toegang.overheid.nl
 https://pp2.toegang.overheid.nl
 https://prd.archis.cultureelerfgoed.nl
+https://prd.btp.sso3w.nl
 https://pre.omgevingswet.overheid.nl
 https://preprod.idselect.cultureelerfgoed.nl
 https://preprod.mijn.overheid.nl
@@ -2154,6 +2166,7 @@ https://sso.perf.omgevingswet.overheid.nl
 https://sso.pre.omgevingswet.overheid.nl
 https://sso.rijksdienstcn.com
 https://sso.tst2905.omgevingswet.overheid.nl
+https://sso3w.nl
 https://standaarden-acc.overheid.nl
 https://standaarden-tst.overheid.nl
 https://standaarden.omgevingswet.overheid.nl
@@ -2244,6 +2257,7 @@ https://toezichtdocumenten.igj.nl
 https://toezichtresultaten.acc.onderwijsinspectie.nl
 https://tovertool.nza.nl
 https://tramdashboard.provincie-utrecht.nl
+https://travelpoint.sso3w.nl
 https://treatydatabase-acc.overheid.nl
 https://treatydatabase.overheid.nl
 https://truck-parking.ndw.nu
@@ -2266,6 +2280,7 @@ https://validatie-acc.justid.nl
 https://validatie.justid.nl
 https://vctu-api.provincie-utrecht.nl
 https://vctu.provincie-utrecht.nl
+https://vdbs.sso3w.nl
 https://veilig.cultureelerfgoed.nl
 https://veiligdelen.provincie-utrecht.nl
 https://veiligmailen.flevoland.nl
@@ -2690,6 +2705,7 @@ https://www.socialestabiliteit.nl
 https://www.sodm.nl
 https://www.ssc-ict.nl
 https://www.ssc-ictspecials.nl
+https://www.sso3w.nl
 https://www.stateninformatie.provincie-utrecht.nl
 https://www.test.monumentenregister.cultureelerfgoed.nl
 https://www.testsite.ceg.nl

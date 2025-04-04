@@ -280,7 +280,9 @@ acc.avgregisterrijksoverheid.nl
 acc.b2b.digi.ilent.nl
 acc.b2b.ilent.nl
 acc.beeldbellen.dji.nl
+acc.btp.sso3w.nl
 acc.client.archis.cultureelerfgoed.nl
+acc.cmv-kandidaat.sso3w.nl
 acc.contactherstelservice.lpc.mijn.overheid.nl
 acc.data.ilent.nl
 acc.digid-stub.lpc.mijn.overheid.nl
@@ -288,6 +290,7 @@ acc.e-loket.ilent.nl
 acc.eentegeneenzaamheid.nl
 acc.eidas-stub.lpc.mijn.overheid.nl
 acc.encoded.api-gateway.archis.cultureelerfgoed.nl
+acc.expenses.sso3w.nl
 acc.flevoland.nl
 acc.forensischezorg.nl
 acc.gml.map.services.cultureelerfgoed.nl
@@ -905,6 +908,8 @@ cmsgui.ondernemersplein.overheid.nl
 cmsintranet.flevoland.nl
 cmsintranet.scp.nl
 cmsvpn.defensie.nl
+cmv-kandidaat.sso3w.nl
+cmv-opdrachtgever.sso3w.nl
 codexalimentarius.nl
 cognitatie.acc.omgevingswet.overheid.nl
 cognitatie.omgevingswet.overheid.nl
@@ -1296,6 +1301,7 @@ esb-preprod.provincie.drenthe.nl
 esb-t1.brabant.nl
 esb-test.brabant.nl
 esb.brabant.nl
+esb.btp.sso3w.nl
 esb.flevoland.nl
 esb.provincie-utrecht.nl
 esb.provincie.drenthe.nl
@@ -1330,6 +1336,7 @@ ews-external.justid.nl
 examenplein.cvte.nl
 excellentescholen.nl
 exchange.flevoland.nl
+expenses.sso3w.nl
 expertisecentrummggz.nl
 extern-abv-acc.belastingdienst.nl
 externe-veiligheid.omgevingswet.overheid.nl
@@ -1651,6 +1658,7 @@ feeds.scp.nl
 feeds.socialestabiliteit.nl
 feeds.sodm.nl
 feeds.ssc-ict.nl
+feeds.sso3w.nl
 fibb-perf.acc.belastingdienst.nl
 fibb1.belastingdienst.nl
 fibb2.acc.belastingdienst.nl
@@ -2278,6 +2286,7 @@ magazines.rdi.nl
 magazines.riec.nl
 magazines.rijksoverheid.nl
 magazines.socialestabiliteit.nl
+magazines.sso3w.nl
 magazines.werkenvoornederland.nl
 magazinesintern.p-direkt.nl
 magazinesintern.rijksoverheid.nl
@@ -3032,6 +3041,7 @@ opendata.scp.nl
 opendata.socialestabiliteit.nl
 opendata.sodm.nl
 opendata.ssc-ict.nl
+opendata.sso3w.nl
 opendisdata-acc.nza.nl
 opendisdata.nza.nl
 openims-acc.ctgb.nl
@@ -3100,6 +3110,7 @@ pan.emissieautoriteit.nl
 papiamentu.belastingdienst-cn.nl
 papiamentu.mijncn.nl
 papiamentu.rijksdienstcn.com
+partnerplaza.sso3w.nl
 password.ctgb.nl
 passwordreset.rijksdienstcn.com
 pdc.acc.omgevingswet.overheid.nl
@@ -3200,6 +3211,7 @@ povv-poc.ilent.nl
 pp1.toegang.overheid.nl
 pp2.toegang.overheid.nl
 prd.archis.cultureelerfgoed.nl
+prd.btp.sso3w.nl
 pre.omgevingswet.overheid.nl
 preprod-kvk.belastingdienst.nl
 preprod-machtigen.digipoort.logius.nl
@@ -3641,6 +3653,7 @@ sso.pre.omgevingswet.overheid.nl
 sso.rijksdienstcn.com
 sso.subsidie.cultureelerfgoed.nl
 sso.tst2905.omgevingswet.overheid.nl
+sso3w.nl
 stadvanced.belastingdienst.nl
 stagiairs.werkenvoornederland.nl
 staging.english.ctpveldzicht.nl
@@ -3861,6 +3874,7 @@ torenvalk.brabant.nl
 tovertool.nza.nl
 tramdashboard.provincie-utrecht.nl
 transfer.ofgv.nl
+travelpoint.sso3w.nl
 treatydatabase-acc.overheid.nl
 treatydatabase.overheid.nl
 truck-parking.ndw.nu
@@ -3935,6 +3949,7 @@ vctlgwqa01-ext.kdmz.belastingdienst.nl
 vctlgwqa01-int.kdmz.belastingdienst.nl
 vctu-api.provincie-utrecht.nl
 vctu.provincie-utrecht.nl
+vdbs.sso3w.nl
 vecozo.dmz.belastingdienst.nl
 veilig.cultureelerfgoed.nl
 veiligdelen.provincie-utrecht.nl
@@ -4523,6 +4538,7 @@ www.socialestabiliteit.nl
 www.sodm.nl
 www.ssc-ict.nl
 www.ssc-ictspecials.nl
+www.sso3w.nl
 www.stateninformatie.provincie-utrecht.nl
 www.test.monumentenregister.cultureelerfgoed.nl
 www.testsite.ceg.nl

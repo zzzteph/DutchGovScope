@@ -13,6 +13,7 @@ http://AutoDiscover.westvoorne.nl
 http://Autodiscover.hilversum.nl
 http://acc-zaanlink.zaanstad.nl
 http://acc.avgregisterrijksoverheid.nl
+http://acc.cmv-kandidaat.sso3w.nl
 http://acc.encoded.api-gateway.archis.cultureelerfgoed.nl
 http://acc.gml.map.services.cultureelerfgoed.nl
 http://acc.oinregister.logius.nl
@@ -946,11 +947,13 @@ https://acc.boekel.nl
 https://acc.borsele.nl
 https://acc.bp.data.amsterdam.nl
 https://acc.breda.nl
+https://acc.btp.sso3w.nl
 https://acc.client.archis.cultureelerfgoed.nl
 https://acc.denhaag.nl
 https://acc.e-loket.ilent.nl
 https://acc.easyfunders.leiden.nl
 https://acc.epe.nl
+https://acc.expenses.sso3w.nl
 https://acc.fblocatielijst.amsterdam.nl
 https://acc.formulieren.almere.nl
 https://acc.gemeentebest.nl
@@ -2555,6 +2558,8 @@ https://cmstestintranet.westerwolde.nl
 https://cmsurknet.urk.nl
 https://cmswhatsepe.epe.nl
 https://cmszaanzoeker.zaanstad.nl
+https://cmv-kandidaat.sso3w.nl
+https://cmv-opdrachtgever.sso3w.nl
 https://cnoops.gemeentemaasgouw.nl
 https://co2monitor.terschelling.nl
 https://codexalimentarius.nl
@@ -3797,6 +3802,7 @@ https://esb-t1.brabant.nl
 https://esb-test.brabant.nl
 https://esb-test.wageningen.nl
 https://esb.brabant.nl
+https://esb.btp.sso3w.nl
 https://esb.flevoland.nl
 https://esb.provincie-utrecht.nl
 https://esb.provincie.drenthe.nl
@@ -3823,6 +3829,7 @@ https://excellentescholen.nl
 https://exchange.defryskemarren.nl
 https://exchange.flevoland.nl
 https://exchangehybrid.tilburg.nl
+https://expenses.sso3w.nl
 https://expertisecentrummggz.nl
 https://extern.pijnacker-nootdorp.nl
 https://externe-veiligheid.omgevingswet.overheid.nl
@@ -4144,6 +4151,7 @@ https://feeds.scp.nl
 https://feeds.socialestabiliteit.nl
 https://feeds.sodm.nl
 https://feeds.ssc-ict.nl
+https://feeds.sso3w.nl
 https://felix.baarn.nl
 https://felix.bergen.nl
 https://felix.beverwijk.nl
@@ -5975,6 +5983,7 @@ https://magazines.riec.nl
 https://magazines.rijksoverheid.nl
 https://magazines.rotterdam.nl
 https://magazines.socialestabiliteit.nl
+https://magazines.sso3w.nl
 https://magazines.werkenvoornederland.nl
 https://magazinesintern.rijksoverheid.nl
 https://magazinesintern.rijksvastgoedbedrijf.nl
@@ -7395,6 +7404,7 @@ https://opendata.scp.nl
 https://opendata.socialestabiliteit.nl
 https://opendata.sodm.nl
 https://opendata.ssc-ict.nl
+https://opendata.sso3w.nl
 https://opendata.utrecht.nl
 https://opendata.zoetermeer.nl
 https://opendisdata.nza.nl
@@ -7699,6 +7709,7 @@ https://participatie.nederbetuwe.nl
 https://participatietool-acc.nijmegen.nl
 https://participatietool.nijmegen.nl
 https://partner.stadjerspas.gemeente.groningen.nl
+https://partnerplaza.sso3w.nl
 https://passbolt.terneuzen.nl
 https://password.almere.nl
 https://password.ctgb.nl
@@ -7905,6 +7916,7 @@ https://praatmee.schiedam.nl
 https://praatmee.sint-michielsgestel.nl
 https://prd.afs.amsterdam.nl
 https://prd.archis.cultureelerfgoed.nl
+https://prd.btp.sso3w.nl
 https://pre-gemeenteloket.gemeentemaastricht.nl
 https://pre-inloggen.landgraaf.nl
 https://pre-mijnzorg.waalwijk.nl
@@ -8922,6 +8934,7 @@ https://sso.pre.omgevingswet.overheid.nl
 https://sso.rijksdienstcn.com
 https://sso.staphorst.nl
 https://sso.tst2905.omgevingswet.overheid.nl
+https://sso3w.nl
 https://ssorad.rotterdam.nl
 https://ssp-acc.purmerend.nl
 https://ssp.purmerend.nl
@@ -9481,6 +9494,7 @@ https://transfer.medemblik.nl
 https://transfer.stedebroec.nl
 https://transform.deventer.nl
 https://trashr.rotterdam.nl
+https://travelpoint.sso3w.nl
 https://treatydatabase-acc.overheid.nl
 https://treatydatabase.overheid.nl
 https://trefnet.hellevoetsluis.nl
@@ -9590,6 +9604,7 @@ https://vastgoed.venlo.nl
 https://vastgoedaanbod.utrecht.nl
 https://vctu-api.provincie-utrecht.nl
 https://vctu.provincie-utrecht.nl
+https://vdbs.sso3w.nl
 https://vdi.delft.nl
 https://vdi.deventer.nl
 https://vdi.meppel.nl
@@ -10991,6 +11006,7 @@ https://www.sportencultuur.gorinchem.nl
 https://www.sportloket.landvancuijk.nl
 https://www.ssc-ict.nl
 https://www.ssc-ictspecials.nl
+https://www.sso3w.nl
 https://www.staatvandeparticipatie.amsterdam.nl
 https://www.stad.kampen.nl
 https://www.stadsarchief.breda.nl

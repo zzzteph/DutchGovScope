@@ -653,8 +653,10 @@ acc.boekel.nl
 acc.borsele.nl
 acc.bp.data.amsterdam.nl
 acc.breda.nl
+acc.btp.sso3w.nl
 acc.catalogus.data.amsterdam.nl
 acc.client.archis.cultureelerfgoed.nl
+acc.cmv-kandidaat.sso3w.nl
 acc.contactherstelservice.lpc.mijn.overheid.nl
 acc.dantumadiel.frl
 acc.data.amsterdam.nl
@@ -676,6 +678,7 @@ acc.eidas-stub.lpc.mijn.overheid.nl
 acc.encoded.api-gateway.archis.cultureelerfgoed.nl
 acc.enkhuizen.nl
 acc.epe.nl
+acc.expenses.sso3w.nl
 acc.fblocatielijst.amsterdam.nl
 acc.files.data.amsterdam.nl
 acc.fixxx10.amsterdam.nl
@@ -3763,6 +3766,8 @@ cmsurknet.urk.nl
 cmsvpn.defensie.nl
 cmswhatsepe.epe.nl
 cmszaanzoeker.zaanstad.nl
+cmv-kandidaat.sso3w.nl
+cmv-opdrachtgever.sso3w.nl
 cnoops.gemeentemaasgouw.nl
 co108.groningen.nl
 co2monitor.terschelling.nl
@@ -5933,6 +5938,7 @@ esb-test.wageningen.nl
 esb.bergenopzoom.nl
 esb.brabant.nl
 esb.breda.nl
+esb.btp.sso3w.nl
 esb.flevoland.nl
 esb.provincie-utrecht.nl
 esb.provincie.drenthe.nl
@@ -6020,6 +6026,7 @@ exo-mrs03.rotterdam.nl
 exo-mrs04.rotterdam.nl
 exo-smtp.rotterdam.nl
 exoconnect.denhaag.nl
+expenses.sso3w.nl
 expertisecentrummggz.nl
 extern-abv-acc.belastingdienst.nl
 extern.borger-odoorn.nl
@@ -6384,6 +6391,7 @@ feeds.scp.nl
 feeds.socialestabiliteit.nl
 feeds.sodm.nl
 feeds.ssc-ict.nl
+feeds.sso3w.nl
 felix.aalten.nl
 felix.achtkarspelen.nl
 felix.baarn.nl
@@ -9915,6 +9923,7 @@ magazines.riec.nl
 magazines.rijksoverheid.nl
 magazines.rotterdam.nl
 magazines.socialestabiliteit.nl
+magazines.sso3w.nl
 magazines.werkenvoornederland.nl
 magazinesintern.p-direkt.nl
 magazinesintern.rijksoverheid.nl
@@ -12244,6 +12253,7 @@ opendata.scp.nl
 opendata.socialestabiliteit.nl
 opendata.sodm.nl
 opendata.ssc-ict.nl
+opendata.sso3w.nl
 opendata.utrecht.nl
 opendata.zoetermeer.nl
 opendisdata-acc.nza.nl
@@ -12763,6 +12773,7 @@ participatietool.nijmegen.nl
 participatiewebshop-test.emmen.nl
 participatiewebshop.emmen.nl
 partner.stadjerspas.gemeente.groningen.nl
+partnerplaza.sso3w.nl
 pass.datapunt.amsterdam.nl
 pass.secure.amsterdam.nl
 passbolt.terneuzen.nl
@@ -13168,6 +13179,7 @@ praatmee.sint-michielsgestel.nl
 praatmee.zaanstad.nl
 prd.afs.amsterdam.nl
 prd.archis.cultureelerfgoed.nl
+prd.btp.sso3w.nl
 prd1.hoorn.nl
 prdb.haarlem.nl
 pre-formulieren.houten.nl
@@ -15381,6 +15393,7 @@ sso.staphorst.nl
 sso.subsidie.cultureelerfgoed.nl
 sso.tst2905.omgevingswet.overheid.nl
 sso.utrecht.nl
+sso3w.nl
 ssorad.rotterdam.nl
 ssp-acc.purmerend.nl
 ssp.alphenaandenrijn.nl
@@ -16524,6 +16537,7 @@ transform.deventer.nl
 transform.oa.amsterdam.nl
 trashr.rotterdam.nl
 traveler.hellevoetsluis.nl
+travelpoint.sso3w.nl
 treatydatabase-acc.overheid.nl
 treatydatabase.overheid.nl
 trefnet.hellevoetsluis.nl
@@ -16772,6 +16786,7 @@ vctlgwqa01-ext.kdmz.belastingdienst.nl
 vctlgwqa01-int.kdmz.belastingdienst.nl
 vctu-api.provincie-utrecht.nl
 vctu.provincie-utrecht.nl
+vdbs.sso3w.nl
 vdi-uitwijk.hardenberg.nl
 vdi.amersfoort.nl
 vdi.brunssum.nl
@@ -19255,6 +19270,7 @@ www.srmvauitwijk.ovh.gemeentebeek.nl
 www.ssc-ict.nl
 www.ssc-ictspecials.nl
 www.sso-test.groningen.nl
+www.sso3w.nl
 www.ssp.kaagenbraassem.nl
 www.staatvandeparticipatie.amsterdam.nl
 www.stad.kampen.nl
