@@ -225,6 +225,7 @@ bestuur
 afspraakmaken
 m
 website
+zoeken
 wachtwoord
 archief
 guest
@@ -246,7 +247,6 @@ a-magazines
 academie
 filetransfer
 services
-zoeken
 omgevingswet
 beheer
 app
