@@ -4204,6 +4204,7 @@ https://feeds.uitkomstgerichtezorg.nl
 https://feeds.uitvoeringvanbeleidszw.nl
 https://feeds.uwbeslagvrijevoet.nl
 https://feeds.uziregister.nl
+https://feeds.veiligepubliekedienstverlening.nl
 https://felix.baarn.nl
 https://felix.bergen.nl
 https://felix.beverwijk.nl
@@ -7496,6 +7497,7 @@ https://opendata.uitvoeringvanbeleidszw.nl
 https://opendata.utrecht.nl
 https://opendata.uwbeslagvrijevoet.nl
 https://opendata.uziregister.nl
+https://opendata.veiligepubliekedienstverlening.nl
 https://opendata.zoetermeer.nl
 https://opendisdata.nza.nl
 https://openformulieren-test.dewolden.nl
@@ -9585,6 +9587,7 @@ https://toezichtresultaten.acc.onderwijsinspectie.nl
 https://tom.eijsden-margraten.nl
 https://ton.amsterdam.nl
 https://toolbox.openstad.enschede.nl
+https://toolbox.veiligepubliekedienstverlening.nl
 https://top.amsterdam.nl
 https://top.geertruidenberg.nl
 https://topdesk.ggd.amsterdam.nl
@@ -11239,6 +11242,7 @@ https://www.veendam.nl
 https://www.veenendaal.nl
 https://www.veenkolonien.groningen.nl
 https://www.veilig.cultureelerfgoed.nl
+https://www.veiligepubliekedienstverlening.nl
 https://www.veldhoven.nl
 https://www.velsen.nl
 https://www.venlo.nl

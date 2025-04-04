@@ -1084,6 +1084,7 @@ https://feeds.uitkomstgerichtezorg.nl
 https://feeds.uitvoeringvanbeleidszw.nl
 https://feeds.uwbeslagvrijevoet.nl
 https://feeds.uziregister.nl
+https://feeds.veiligepubliekedienstverlening.nl
 https://fibb1.belastingdienst.nl
 https://fibd1.belastingdienst.nl
 https://fibe1.belastingdienst.nl
@@ -1948,6 +1949,7 @@ https://opendata.uitkomstgerichtezorg.nl
 https://opendata.uitvoeringvanbeleidszw.nl
 https://opendata.uwbeslagvrijevoet.nl
 https://opendata.uziregister.nl
+https://opendata.veiligepubliekedienstverlening.nl
 https://opendisdata.nza.nl
 https://opkopersregister.stopheling.nl
 https://opleiding-ola.belastingdienst.nl
@@ -2376,6 +2378,7 @@ https://toestemming.toeslagen.nl
 https://toetredingzorgaanbieders.nl
 https://toezichtdocumenten.igj.nl
 https://toezichtresultaten.acc.onderwijsinspectie.nl
+https://toolbox.veiligepubliekedienstverlening.nl
 https://topsectoren.nl
 https://tovertool.nza.nl
 https://tramdashboard.provincie-utrecht.nl
@@ -2881,6 +2884,7 @@ https://www.vallei-veluwe.nl
 https://www.vangbuitenshuis.nl
 https://www.vechtstromen.nl
 https://www.veilig.cultureelerfgoed.nl
+https://www.veiligepubliekedienstverlening.nl
 https://www.wegen.brabant.nl
 https://www.werken.belastingdienst.nl
 https://www.werkenvoornederland.nl

@@ -6460,6 +6460,7 @@ feeds.uitkomstgerichtezorg.nl
 feeds.uitvoeringvanbeleidszw.nl
 feeds.uwbeslagvrijevoet.nl
 feeds.uziregister.nl
+feeds.veiligepubliekedienstverlening.nl
 felix.aalten.nl
 felix.achtkarspelen.nl
 felix.baarn.nl
@@ -12372,6 +12373,7 @@ opendata.uitvoeringvanbeleidszw.nl
 opendata.utrecht.nl
 opendata.uwbeslagvrijevoet.nl
 opendata.uziregister.nl
+opendata.veiligepubliekedienstverlening.nl
 opendata.zoetermeer.nl
 opendisdata-acc.nza.nl
 opendisdata.nza.nl
@@ -16641,6 +16643,7 @@ tom.eijsden-margraten.nl
 ton.amsterdam.nl
 toolbox-extremisme.nctv.nl
 toolbox.openstad.enschede.nl
+toolbox.veiligepubliekedienstverlening.nl
 tools-acc.rijksinnovatiecommunity.nl
 tools.rijksinnovatiecommunity.nl
 tooltracker.utrecht.nl
@@ -19585,6 +19588,7 @@ www.veenendaal.nl
 www.veenkolonien.groningen.nl
 www.veere.nl
 www.veilig.cultureelerfgoed.nl
+www.veiligepubliekedienstverlening.nl
 www.veldhoven.nl
 www.velsen.nl
 www.venlo.nl

@@ -1727,6 +1727,7 @@ feeds.uitkomstgerichtezorg.nl
 feeds.uitvoeringvanbeleidszw.nl
 feeds.uwbeslagvrijevoet.nl
 feeds.uziregister.nl
+feeds.veiligepubliekedienstverlening.nl
 fibb-perf.acc.belastingdienst.nl
 fibb1.belastingdienst.nl
 fibb2.acc.belastingdienst.nl
@@ -3159,6 +3160,7 @@ opendata.uitkomstgerichtezorg.nl
 opendata.uitvoeringvanbeleidszw.nl
 opendata.uwbeslagvrijevoet.nl
 opendata.uziregister.nl
+opendata.veiligepubliekedienstverlening.nl
 opendisdata-acc.nza.nl
 opendisdata.nza.nl
 openims-acc.ctgb.nl
@@ -4019,6 +4021,7 @@ toezichtdocumenten.igj.nl
 toezichtopzorgnetwerken.igj.nl
 toezichtresultaten.acc.onderwijsinspectie.nl
 toolbox-extremisme.nctv.nl
+toolbox.veiligepubliekedienstverlening.nl
 tools-acc.rijksinnovatiecommunity.nl
 tools.rijksinnovatiecommunity.nl
 topsectoren.nl
@@ -4747,6 +4750,7 @@ www.vallei-veluwe.nl
 www.vangbuitenshuis.nl
 www.vechtstromen.nl
 www.veilig.cultureelerfgoed.nl
+www.veiligepubliekedienstverlening.nl
 www.vepkmsont.vcdn.belastingdienst.nl
 www.vepkmstst.vcdn.belastingdienst.nl
 www.wegen.brabant.nl
