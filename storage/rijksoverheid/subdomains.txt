@@ -1731,6 +1731,7 @@ feeds.uwbeslagvrijevoet.nl
 feeds.uziregister.nl
 feeds.veiligepubliekedienstverlening.nl
 feeds.vergoedingsns.nl
+feeds.versterkencyberweerbaarheid.nl
 fibb-perf.acc.belastingdienst.nl
 fibb1.belastingdienst.nl
 fibb2.acc.belastingdienst.nl
@@ -3166,6 +3167,7 @@ opendata.uwbeslagvrijevoet.nl
 opendata.uziregister.nl
 opendata.veiligepubliekedienstverlening.nl
 opendata.vergoedingsns.nl
+opendata.versterkencyberweerbaarheid.nl
 opendisdata-acc.nza.nl
 opendisdata.nza.nl
 openims-acc.ctgb.nl
@@ -4166,6 +4168,7 @@ verkooptest.domeinenrz.nl
 verleendekinderopvang.acc.belastingdienst.nl
 verleendekinderopvang.belastingdienst.nl
 verpakkingen.belastingdienst.nl
+versterkencyberweerbaarheid.nl
 verzekeringsproducten.acc.belastingdienst.nl
 verzekeringsproducten.belastingdienst.nl
 vgc-acc.nvwa.nl
@@ -4763,6 +4766,7 @@ www.veiligheidsregioflevoland.nl
 www.vepkmsont.vcdn.belastingdienst.nl
 www.vepkmstst.vcdn.belastingdienst.nl
 www.vergoedingsns.nl
+www.versterkencyberweerbaarheid.nl
 www.wegen.brabant.nl
 www.werken.belastingdienst.nl
 www.werkenvoornederland.nl

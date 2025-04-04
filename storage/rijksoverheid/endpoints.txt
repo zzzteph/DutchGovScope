@@ -1088,6 +1088,7 @@ https://feeds.uwbeslagvrijevoet.nl
 https://feeds.uziregister.nl
 https://feeds.veiligepubliekedienstverlening.nl
 https://feeds.vergoedingsns.nl
+https://feeds.versterkencyberweerbaarheid.nl
 https://fibb1.belastingdienst.nl
 https://fibd1.belastingdienst.nl
 https://fibe1.belastingdienst.nl
@@ -1955,6 +1956,7 @@ https://opendata.uwbeslagvrijevoet.nl
 https://opendata.uziregister.nl
 https://opendata.veiligepubliekedienstverlening.nl
 https://opendata.vergoedingsns.nl
+https://opendata.versterkencyberweerbaarheid.nl
 https://opendisdata.nza.nl
 https://opkopersregister.stopheling.nl
 https://opleiding-ola.belastingdienst.nl
@@ -2443,6 +2445,7 @@ https://verkeersveiligheid.ndw.nu
 https://verkoop.domeinenrz.nl
 https://verkooptest.domeinenrz.nl
 https://verleendekinderopvang.belastingdienst.nl
+https://versterkencyberweerbaarheid.nl
 https://verzekeringsproducten.belastingdienst.nl
 https://vgc-acc.nvwa.nl
 https://vgc.nvwa.nl
@@ -2895,6 +2898,7 @@ https://www.veilig.cultureelerfgoed.nl
 https://www.veiligepubliekedienstverlening.nl
 https://www.veiligheidsregioflevoland.nl
 https://www.vergoedingsns.nl
+https://www.versterkencyberweerbaarheid.nl
 https://www.wegen.brabant.nl
 https://www.werken.belastingdienst.nl
 https://www.werkenvoornederland.nl

@@ -6464,6 +6464,7 @@ feeds.uwbeslagvrijevoet.nl
 feeds.uziregister.nl
 feeds.veiligepubliekedienstverlening.nl
 feeds.vergoedingsns.nl
+feeds.versterkencyberweerbaarheid.nl
 felix.aalten.nl
 felix.achtkarspelen.nl
 felix.baarn.nl
@@ -12379,6 +12380,7 @@ opendata.uwbeslagvrijevoet.nl
 opendata.uziregister.nl
 opendata.veiligepubliekedienstverlening.nl
 opendata.vergoedingsns.nl
+opendata.versterkencyberweerbaarheid.nl
 opendata.zoetermeer.nl
 opendisdata-acc.nza.nl
 opendisdata.nza.nl
@@ -17110,6 +17112,7 @@ verleendekinderopvang.acc.belastingdienst.nl
 verleendekinderopvang.belastingdienst.nl
 verpakkingen.belastingdienst.nl
 verslag.ouder-amstel.nl
+versterkencyberweerbaarheid.nl
 versterkenenvernieuwen.groningen.nl
 vertexobjecten-accp.lansingerland.nl
 vertexobjecten.lansingerland.nl
@@ -19605,6 +19608,7 @@ www.venray.nl
 www.vepkmsont.vcdn.belastingdienst.nl
 www.vepkmstst.vcdn.belastingdienst.nl
 www.vergoedingsns.nl
+www.versterkencyberweerbaarheid.nl
 www.vga.amsterdam.nl
 www.vibe.rhenen.nl
 www.victor.amsterdam.nl
