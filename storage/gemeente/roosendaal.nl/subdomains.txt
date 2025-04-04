@@ -22,6 +22,7 @@ piwik.roosendaal.nl
 pv.roosendaal.nl
 raad.roosendaal.nl
 roosendaal.nl
+web.roosendaal.nl
 werkplek.roosendaal.nl
 www.acc.piwik.roosendaal.nl
 www.acc.roosendaal.nl

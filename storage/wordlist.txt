@@ -135,6 +135,7 @@ filecap
 dtestmidoffice
 a-feeds.a-english
 a-opendata.a-english
+web
 geoportaal
 mijnzorg
 vergunningintaker
@@ -149,7 +150,6 @@ mta-sts
 mailing
 maps
 meet
-web
 onderzoek
 AutoDiscover
 connect.acceptatie
