@@ -639,6 +639,7 @@ https://diversiteitsplein.politiekeambtsdragers.nl
 https://dji.nl
 https://dmo.omgevingswet.overheid.nl
 https://dnadatabank.forensischinstituut.nl
+https://doc.leefbaarometer.nl
 https://docs.ndw.nu
 https://doculoket-acc.overheid.nl
 https://doculoket.overheid.nl
@@ -1233,6 +1234,7 @@ https://geo-pointtest.provincie-utrecht.nl
 https://geo-stats.zuid-holland.nl
 https://geo-tools.zuid-holland.nl
 https://geo.flevoland.nl
+https://geo.leefbaarometer.nl
 https://geo.odmh.nl
 https://geo.provincie-utrecht.nl
 https://geo.zuid-holland.nl
@@ -1460,6 +1462,7 @@ https://landelijkevastgoeddag.rijksvastgoedbedrijf.nl
 https://le-webservices-beta.belastingdienst.nl
 https://le-webservices.belastingdienst.nl
 https://leefbaarenveilig.nl
+https://leefbaarometer.nl
 https://leerenontwikkelplein.nl
 https://leeromgeving.om.nl
 https://leerplatform.it-academieoverheid.nl
@@ -2531,6 +2534,7 @@ https://test.flevoland.nl
 https://test.geoservices.cultureelerfgoed.nl
 https://test.kennis-staging.cultureelerfgoed.nl
 https://test.kennis.cultureelerfgoed.nl
+https://test.leefbaarometer.nl
 https://test.monumentenregister.cultureelerfgoed.nl
 https://test.ncsc.nl
 https://test.nl-alert.nl
@@ -2943,6 +2947,7 @@ https://www.knmiprojects.nl
 https://www.koninklijkhuis.nl
 https://www.koopoverheid.nl
 https://www.leefbaarenveilig.nl
+https://www.leefbaarometer.nl
 https://www.leerenontwikkelplein.nl
 https://www.limburg.nl
 https://www.lintjes.nl

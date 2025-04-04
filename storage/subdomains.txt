@@ -5012,6 +5012,7 @@ dns1.arnhem.nl
 dns1.overheid.nl
 dns2.overheid.nl
 do.winterswijk.nl
+doc.leefbaarometer.nl
 docgen-acc.amsterdam.nl
 docgen-tst.amsterdam.nl
 docgen.amsterdam.nl
@@ -7337,6 +7338,7 @@ geo.horstaandemaas.nl
 geo.huizen.nl
 geo.koggenland.nl
 geo.krimpenerwaard.nl
+geo.leefbaarometer.nl
 geo.lingewaard.nl
 geo.local.oostgelre.nl
 geo.middendrenthe.nl
@@ -9686,6 +9688,7 @@ leef-test.moerdijk.nl
 leef.almere.nl
 leef.moerdijk.nl
 leefbaarenveilig.nl
+leefbaarometer.nl
 leefbuiten.almere.nl
 leenvervoermilieuparken.rotterdam.nl
 leereco.acc.belastingdienst.nl
@@ -16514,6 +16517,7 @@ test.kennis-staging.cultureelerfgoed.nl
 test.kennis.cultureelerfgoed.nl
 test.kinderbescherming.nl
 test.lab.tod.leiden.nl
+test.leefbaarometer.nl
 test.leiden.nl
 test.loket.oss.nl
 test.maasdriel.nl
@@ -19216,6 +19220,7 @@ www.lauwersmeer.groningen.nl
 www.ld-01.hellevoetsluis.nl
 www.ldap.gemeentehulst.nl
 www.leefbaarenveilig.nl
+www.leefbaarometer.nl
 www.leerenontwikkelplein.nl
 www.leeuwarden.nl
 www.legacy.gemeentewestland.nl

@@ -3072,6 +3072,7 @@ https://dmst.noordoostpolder.nl
 https://dmzsvr02.winterswijk.nl
 https://dnadatabank.forensischinstituut.nl
 https://do.winterswijk.nl
+https://doc.leefbaarometer.nl
 https://docgen.deventer.nl
 https://docs.ndw.nu
 https://doculoket-acc.overheid.nl
@@ -4711,6 +4712,7 @@ https://geo.heerenveen.nl
 https://geo.hilversum.nl
 https://geo.horstaandemaas.nl
 https://geo.krimpenerwaard.nl
+https://geo.leefbaarometer.nl
 https://geo.middendrenthe.nl
 https://geo.montferland.info
 https://geo.nunspeet.nl
@@ -5915,6 +5917,7 @@ https://le-webservices-beta.belastingdienst.nl
 https://le-webservices.belastingdienst.nl
 https://ledeacker.landvancuijk.nl
 https://leefbaarenveilig.nl
+https://leefbaarometer.nl
 https://leenvervoermilieuparken.rotterdam.nl
 https://leerenontwikkelplein.nl
 https://leerlingenvervoer.rotterdam.nl
@@ -9600,6 +9603,7 @@ https://test.io.amsterdam.nl
 https://test.kennis-staging.cultureelerfgoed.nl
 https://test.kennis.cultureelerfgoed.nl
 https://test.lab.tod.leiden.nl
+https://test.leefbaarometer.nl
 https://test.loket.oss.nl
 https://test.mijnhulpvraag.rijswijk.nl
 https://test.mijnzorg.beekdaelen.nl
@@ -11073,6 +11077,7 @@ https://www.landvancuijk.nl
 https://www.lansingerland.nl
 https://www.laren.nl
 https://www.leefbaarenveilig.nl
+https://www.leefbaarometer.nl
 https://www.leerenontwikkelplein.nl
 https://www.leeuwarden.nl
 https://www.leiden.nl

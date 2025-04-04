@@ -1204,6 +1204,7 @@ dns-web300.rijksoverheid.nl
 dns.belastingdienst.nl
 dns1.overheid.nl
 dns2.overheid.nl
+doc.leefbaarometer.nl
 docs.lpc.logius.nl
 docs.ndw.nu
 doculoket-acc.overheid.nl
@@ -1971,6 +1972,7 @@ geo-tools.zuid-holland.nl
 geo.cultureelerfgoed.nl
 geo.flevoland.nl
 geo.hhdelfland.nl
+geo.leefbaarometer.nl
 geo.odmh.nl
 geo.provincie-utrecht.nl
 geo.zuid-holland.nl
@@ -2380,6 +2382,7 @@ landelijkevastgoeddag.rijksvastgoedbedrijf.nl
 le-webservices-beta.belastingdienst.nl
 le-webservices.belastingdienst.nl
 leefbaarenveilig.nl
+leefbaarometer.nl
 leereco.acc.belastingdienst.nl
 leereco.belastingdienst.nl
 leerenontwikkelplein.nl
@@ -4160,6 +4163,7 @@ test.hcv.mijn.overheid.nl
 test.kennis-staging.cultureelerfgoed.nl
 test.kennis.cultureelerfgoed.nl
 test.kinderbescherming.nl
+test.leefbaarometer.nl
 test.monumentenregister.cultureelerfgoed.nl
 test.ncsc.nl
 test.nl-alert.nl
@@ -4823,6 +4827,7 @@ www.knmiprojects.nl
 www.koninklijkhuis.nl
 www.koopoverheid.nl
 www.leefbaarenveilig.nl
+www.leefbaarometer.nl
 www.leerenontwikkelplein.nl
 www.limburg.nl
 www.lintjes.nl
