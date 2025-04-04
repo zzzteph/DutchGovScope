@@ -4181,6 +4181,7 @@ https://feeds.topcorridors.nl
 https://feeds.topsectoren.nl
 https://feeds.transitieproefdiervrijeinnovatie.nl
 https://feeds.tuchtcollege-gezondheidszorg.nl
+https://feeds.uitelkaarmetkinderen.nl
 https://felix.baarn.nl
 https://felix.bergen.nl
 https://felix.beverwijk.nl
@@ -7457,6 +7458,7 @@ https://opendata.topcorridors.nl
 https://opendata.topsectoren.nl
 https://opendata.transitieproefdiervrijeinnovatie.nl
 https://opendata.tuchtcollege-gezondheidszorg.nl
+https://opendata.uitelkaarmetkinderen.nl
 https://opendata.utrecht.nl
 https://opendata.zoetermeer.nl
 https://opendisdata.nza.nl
@@ -9635,6 +9637,7 @@ https://udp-rstudio.denhaag.nl
 https://uem.oss.nl
 https://uem.test.oss.nl
 https://uitelkaarmetkinderen.eindhoven.nl
+https://uitelkaarmetkinderen.nl
 https://uitgeest.nl
 https://uithoorn.nl
 https://uitslagen.denhaag.nl
@@ -11154,6 +11157,7 @@ https://www.udp-rspackage-acc.denhaag.nl
 https://www.udp-rspackage.denhaag.nl
 https://www.udp-rstudio-acc.denhaag.nl
 https://www.udp-rstudio.denhaag.nl
+https://www.uitelkaarmetkinderen.nl
 https://www.uitgeest.nl
 https://www.uithoorn.nl
 https://www.utrecht.nl
