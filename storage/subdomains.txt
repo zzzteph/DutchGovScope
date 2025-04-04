@@ -197,6 +197,7 @@ a-feeds.rekenkamer.nl
 a-feeds.riec.nl
 a-feeds.rijksdienstcn.com
 a-feeds.rijksoverheid.nl
+a-feeds.rijksrecherche.nl
 a-git.rijksoverheid.nl
 a-informatieservice.nederlandwereldwijd.nl
 a-jira.rijksoverheid.nl
@@ -263,6 +264,7 @@ a-opendata.rekenkamer.nl
 a-opendata.riec.nl
 a-opendata.rijksdienstcn.com
 a-opendata.rijksoverheid.nl
+a-opendata.rijksrecherche.nl
 a-p-ddi-0003.leeuwarden.nl
 a-p-ddi-0010.leeuwarden.nl
 a-papiamentu.rijksdienstcn.com
@@ -324,6 +326,7 @@ a-www.rekenkamer.nl
 a-www.riec.nl
 a-www.rijksdienstcn.com
 a-www.rijksoverheid.nl
+a-www.rijksrecherche.nl
 a2b-rtr.alkmaar.nl
 a2vonderenkerensheide.nl
 aaa.goirle.nl
@@ -1027,6 +1030,7 @@ access.landvancuijk.nl
 access.meierijstad.nl
 access.oa.amsterdam.nl
 access.om.nl
+access.rijksrecherche.nl
 access.woerden.nl
 accisdtalentcenter.bergenopzoom.nl
 accmksprd.ovh.gemeentebeek.nl
@@ -3790,6 +3794,7 @@ concern.acc.ta-twd.rotterdam.nl
 concern.ir.rotterdam.nl
 conf.cbg-meb.nl
 conf.om.nl
+conf.rijksrecherche.nl
 conference-2-belastingdienst1.vc.belastingdienst.nl
 conference-3-belastingdienst1.vc.belastingdienst.nl
 conference.assen.nl
@@ -4393,6 +4398,7 @@ dialin.houten.nl
 dialin.justid.nl
 dialin.om.nl
 dialin.prolander.nl
+dialin.rijksrecherche.nl
 dialin.urk.nl
 dialin.zwolle.nl
 dicos-test.nissewaard.nl
@@ -6316,6 +6322,7 @@ feeds.rijksinnovatiecommunity.nl
 feeds.rijksinspecties.nl
 feeds.rijksorganisatieodi.nl
 feeds.rijksoverheid.nl
+feeds.rijksrecherche.nl
 felix.aalten.nl
 felix.achtkarspelen.nl
 felix.baarn.nl
@@ -9761,6 +9768,7 @@ lyncdiscover.justid.nl
 lyncdiscover.om.nl
 lyncdiscover.oostzaan.nl
 lyncdiscover.ouder-amstel.nl
+lyncdiscover.rijksrecherche.nl
 lyncdiscover.uithoorn.nl
 lyncdiscover.urk.nl
 lyncdiscover.wijdemeren.nl
@@ -10211,6 +10219,7 @@ meet.houten.nl
 meet.justid.nl
 meet.om.nl
 meet.prolander.nl
+meet.rijksrecherche.nl
 meet.urk.nl
 meet.zwolle.nl
 meierijstad.nl
@@ -12143,6 +12152,7 @@ opendata.rijksinnovatiecommunity.nl
 opendata.rijksinspecties.nl
 opendata.rijksorganisatieodi.nl
 opendata.rijksoverheid.nl
+opendata.rijksrecherche.nl
 opendata.roosendaal.nl
 opendata.utrecht.nl
 opendata.zoetermeer.nl
@@ -13881,6 +13891,7 @@ rijksinspecties.nl
 rijkskantoorproxy.belastingdienst.nl
 rijksorganisatieodi.nl
 rijksoverheid.nl
+rijksrecherche.nl
 rijkstrainee.werkenvoornederland.nl
 rijkstrainees.werkenvoornederland.nl
 rijssen-holten.nl
@@ -14819,6 +14830,7 @@ sip.oa.amsterdam.nl
 sip.om.nl
 sip.oostzaan.nl
 sip.ouder-amstel.nl
+sip.rijksrecherche.nl
 sip.uithoorn.nl
 sip.urk.nl
 sip.vico.dji.nl
@@ -18980,6 +18992,7 @@ www.rijksinnovatiecommunity.nl
 www.rijksinspecties.nl
 www.rijksorganisatieodi.nl
 www.rijksoverheid.nl
+www.rijksrecherche.nl
 www.rijssen-holten.nl
 www.rijswijk.nl
 www.risicokaart.flevoland.nl

@@ -1,8 +1,8 @@
 www
 
 opendata
-autodiscover
 feeds
+autodiscover
 iburgerzaken
 ibzpink
 edienstenburgerzaken
@@ -31,17 +31,17 @@ portal
 english
 meldingen
 geo
+a-www
 vpn
 open
 afspraak
 waarmerk
-a-www
 parkeren
+a-feeds
+a-opendata
 feeds.english
 opendata.english
 adfs
-a-feeds
-a-opendata
 raad
 api.meldingen
 broker
@@ -86,12 +86,12 @@ portaal
 kaarten
 zaken
 cloudadapter
+sip
 cmsintranet
 test-intranet
 berichten
 parkeren-acc
 govroam
-sip
 digikoppeling.test
 mks
 dtestloket
@@ -117,6 +117,7 @@ ftp
 squit2go
 samen
 e
+lyncdiscover
 bgt
 sts
 micollab
@@ -129,7 +130,6 @@ filecap
 dtestmidoffice
 _dmarc
 api
-lyncdiscover
 inloggen
 mijnzorg
 _autodiscover._tcp
@@ -163,6 +163,7 @@ fs
 mta-sts
 mobiel
 maps
+meet
 email
 geoportaal
 legacy
@@ -184,7 +185,7 @@ acc-objecttypen
 jaarstukken
 cryptshare
 kennisbank
-meet
+dialin
 telewerken
 mx1
 belastingportaal
@@ -205,7 +206,6 @@ ro
 uc
 evenementen
 webservices
-dialin
 publicaties
 intranet-acc
 veiligdelen
@@ -315,6 +315,7 @@ forms
 geotest
 nieuwsbrieven
 media
+access
 www2
 geovisia
 gisib-test
@@ -366,7 +367,6 @@ mijnloket
 nhr
 projecten
 geoweb
-access
 octopus
 digitaal
 sso
@@ -569,6 +569,7 @@ esb-test
 idtst
 ondertekenen
 samenwerken
+conf
 mijnwerkplek
 idselect
 kennis
@@ -879,7 +880,6 @@ georegister
 geoservertest
 slechtvalk
 www.dataportaal
-conf
 password
 acc.subsidie
 monumentenregister

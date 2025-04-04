@@ -533,6 +533,7 @@ https://dezi.nl
 https://dggf.nl
 https://dialin.aaenmaas.nl
 https://dialin.om.nl
+https://dialin.rijksrecherche.nl
 https://diego.ndw.nu
 https://dienstterugkeerenvertrek.nl
 https://diergeneesmiddeleninformatiebank.nl
@@ -987,6 +988,7 @@ https://feeds.rijksinnovatiecommunity.nl
 https://feeds.rijksinspecties.nl
 https://feeds.rijksorganisatieodi.nl
 https://feeds.rijksoverheid.nl
+https://feeds.rijksrecherche.nl
 https://fibb1.belastingdienst.nl
 https://fibd1.belastingdienst.nl
 https://fibe1.belastingdienst.nl
@@ -1271,6 +1273,7 @@ https://lvmb.nl
 https://lync.aaenmaas.nl
 https://lyncdiscover.aaenmaas.nl
 https://lyncdiscover.om.nl
+https://lyncdiscover.rijksrecherche.nl
 https://m.huisvoorklokkenluiders.nl
 https://m.werkenvoornederland.nl
 https://maatwerkvoormensen.nl
@@ -1330,6 +1333,7 @@ https://medicineshortagesdefects.nl
 https://meepraten.flevoland.nl
 https://meet.aaenmaas.nl
 https://meet.om.nl
+https://meet.rijksrecherche.nl
 https://meldingbwt.odmh.nl
 https://meldingen.atkm.nl
 https://meldingen.ilent.nl
@@ -1786,6 +1790,7 @@ https://opendata.rijksinnovatiecommunity.nl
 https://opendata.rijksinspecties.nl
 https://opendata.rijksorganisatieodi.nl
 https://opendata.rijksoverheid.nl
+https://opendata.rijksrecherche.nl
 https://opendisdata.nza.nl
 https://opleiding-ola.belastingdienst.nl
 https://opleiding.nl-alert.nl
@@ -1968,6 +1973,7 @@ https://rijksinkoopsamenwerking.nl
 https://rijksinspecties.nl
 https://rijksorganisatieodi.nl
 https://rijksoverheid.nl
+https://rijksrecherche.nl
 https://ris-a.provincie-utrecht.nl
 https://rpx-qa.nza.nl
 https://rpx.nza.nl
@@ -2037,6 +2043,7 @@ https://sharepoint.aaenmaas.nl
 https://shopper.huurcommissie.nl
 https://signing.pre.brabant.nl
 https://sip.om.nl
+https://sip.rijksrecherche.nl
 https://slim-reizen.ndw.nu
 https://slimmestad.rdi.nl
 https://smtp.awti.nl
@@ -2582,6 +2589,7 @@ https://www.rijksinnovatiecommunity.nl
 https://www.rijksinspecties.nl
 https://www.rijksorganisatieodi.nl
 https://www.rijksoverheid.nl
+https://www.rijksrecherche.nl
 https://www.stateninformatie.provincie-utrecht.nl
 https://www.test.monumentenregister.cultureelerfgoed.nl
 https://www.testsite.ceg.nl

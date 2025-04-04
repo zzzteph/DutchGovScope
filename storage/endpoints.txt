@@ -2892,6 +2892,7 @@ https://dgk-prd.zutphen.nl
 https://dialin.aaenmaas.nl
 https://dialin.houten.nl
 https://dialin.om.nl
+https://dialin.rijksrecherche.nl
 https://diego.ndw.nu
 https://diemen.nl
 https://diensten-acc.rotterdam.nl
@@ -4107,6 +4108,7 @@ https://feeds.rijksinnovatiecommunity.nl
 https://feeds.rijksinspecties.nl
 https://feeds.rijksorganisatieodi.nl
 https://feeds.rijksoverheid.nl
+https://feeds.rijksrecherche.nl
 https://felix.baarn.nl
 https://felix.bergen.nl
 https://felix.beverwijk.nl
@@ -5878,6 +5880,7 @@ https://lyncdiscover.houten.nl
 https://lyncdiscover.om.nl
 https://lyncdiscover.oostzaan.nl
 https://lyncdiscover.ouder-amstel.nl
+https://lyncdiscover.rijksrecherche.nl
 https://lyncdiscover.uithoorn.nl
 https://lyncdiscover.wijdemeren.nl
 https://lyncdiscover.wormerland.nl
@@ -6060,6 +6063,7 @@ https://meet.aaenmaas.nl
 https://meet.ggd.amsterdam.nl
 https://meet.houten.nl
 https://meet.om.nl
+https://meet.rijksrecherche.nl
 https://meierijstad.nl
 https://meld.vlissingen.nl
 https://melddesk-test.renkum.nl
@@ -7332,6 +7336,7 @@ https://opendata.rijksinnovatiecommunity.nl
 https://opendata.rijksinspecties.nl
 https://opendata.rijksorganisatieodi.nl
 https://opendata.rijksoverheid.nl
+https://opendata.rijksrecherche.nl
 https://opendata.roosendaal.nl
 https://opendata.utrecht.nl
 https://opendata.zoetermeer.nl
@@ -8292,6 +8297,7 @@ https://rijksinkoopsamenwerking.nl
 https://rijksinspecties.nl
 https://rijksorganisatieodi.nl
 https://rijksoverheid.nl
+https://rijksrecherche.nl
 https://rijssen-holten.nl
 https://rijswijk.nl
 https://rio.rotterdam.nl
@@ -8676,6 +8682,7 @@ https://sip.houten.nl
 https://sip.om.nl
 https://sip.oostzaan.nl
 https://sip.ouder-amstel.nl
+https://sip.rijksrecherche.nl
 https://sip.uithoorn.nl
 https://sip.wijdemeren.nl
 https://sip.wormerland.nl
@@ -10840,6 +10847,7 @@ https://www.rijksinnovatiecommunity.nl
 https://www.rijksinspecties.nl
 https://www.rijksorganisatieodi.nl
 https://www.rijksoverheid.nl
+https://www.rijksrecherche.nl
 https://www.rijssen-holten.nl
 https://www.rijswijk.nl
 https://www.roerdalen.nl
