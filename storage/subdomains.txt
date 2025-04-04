@@ -6412,6 +6412,7 @@ feeds.startmetoesorichtlijnen.nl
 feeds.strafrechtketen.nl
 feeds.tib-ivd.nl
 feeds.tlokb.nl
+feeds.toegangspuntmobiliteit.nl
 felix.aalten.nl
 felix.achtkarspelen.nl
 felix.baarn.nl
@@ -12288,6 +12289,7 @@ opendata.startmetoesorichtlijnen.nl
 opendata.strafrechtketen.nl
 opendata.tib-ivd.nl
 opendata.tlokb.nl
+opendata.toegangspuntmobiliteit.nl
 opendata.utrecht.nl
 opendata.zoetermeer.nl
 opendisdata-acc.nza.nl
@@ -16511,6 +16513,7 @@ toegang.noord.amsterdam.nl
 toegang.rotterdam.nl
 toegang3.denhaag.nl
 toegang4.denhaag.nl
+toegangspuntmobiliteit.nl
 toegangtest.groningen.nl
 toegankelijk.enschede.nl
 toegankelijkestad.zwolle.nl
@@ -19399,6 +19402,7 @@ www.tiel.nl
 www.tilburg.nl
 www.tlokb.nl
 www.toegang.noord.amsterdam.nl
+www.toegangspuntmobiliteit.nl
 www.toegangtest.groningen.nl
 www.toegankelijk.enschede.nl
 www.toerisme.groningen.nl

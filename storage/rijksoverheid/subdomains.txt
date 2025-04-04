@@ -1679,6 +1679,7 @@ feeds.startmetoesorichtlijnen.nl
 feeds.strafrechtketen.nl
 feeds.tib-ivd.nl
 feeds.tlokb.nl
+feeds.toegangspuntmobiliteit.nl
 fibb-perf.acc.belastingdienst.nl
 fibb1.belastingdienst.nl
 fibb2.acc.belastingdienst.nl
@@ -3076,6 +3077,7 @@ opendata.startmetoesorichtlijnen.nl
 opendata.strafrechtketen.nl
 opendata.tib-ivd.nl
 opendata.tlokb.nl
+opendata.toegangspuntmobiliteit.nl
 opendisdata-acc.nza.nl
 opendisdata.nza.nl
 openims-acc.ctgb.nl
@@ -3902,6 +3904,7 @@ tmd.acc.belastingdienst.nl
 tmd.belastingdienst.nl
 tmd.ont.belastingdienst.nl
 tmv.cibg.nl
+toegangspuntmobiliteit.nl
 toelatingen.ctgb.nl
 toepasbare-regels-analyseren.acc.omgevingswet.overheid.nl
 toepasbare-regels-analyseren.int.omgevingswet.overheid.nl
@@ -4606,6 +4609,7 @@ www.test.monumentenregister.cultureelerfgoed.nl
 www.testsite.ceg.nl
 www.tib-ivd.nl
 www.tlokb.nl
+www.toegangspuntmobiliteit.nl
 www.toeslagen.nl
 www.tst2905.omgevingswet.overheid.nl
 www.veilig.cultureelerfgoed.nl

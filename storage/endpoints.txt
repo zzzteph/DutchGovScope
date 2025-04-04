@@ -4170,6 +4170,7 @@ https://feeds.startmetoesorichtlijnen.nl
 https://feeds.strafrechtketen.nl
 https://feeds.tib-ivd.nl
 https://feeds.tlokb.nl
+https://feeds.toegangspuntmobiliteit.nl
 https://felix.baarn.nl
 https://felix.bergen.nl
 https://felix.beverwijk.nl
@@ -7434,6 +7435,7 @@ https://opendata.startmetoesorichtlijnen.nl
 https://opendata.strafrechtketen.nl
 https://opendata.tib-ivd.nl
 https://opendata.tlokb.nl
+https://opendata.toegangspuntmobiliteit.nl
 https://opendata.utrecht.nl
 https://opendata.zoetermeer.nl
 https://opendisdata.nza.nl
@@ -9493,6 +9495,7 @@ https://toegang.dataplatform.accp.s-hertogenbosch.nl
 https://toegang.dataplatform.s-hertogenbosch.nl
 https://toegang.eindhoven.nl
 https://toegang.groningen.nl
+https://toegangspuntmobiliteit.nl
 https://toegankelijk.enschede.nl
 https://toegankelijkestad.zwolle.nl
 https://toekomst.veenendaal.nl
@@ -11098,6 +11101,7 @@ https://www.tib-ivd.nl
 https://www.tiel.nl
 https://www.tilburg.nl
 https://www.tlokb.nl
+https://www.toegangspuntmobiliteit.nl
 https://www.toegankelijk.enschede.nl
 https://www.toerisme.groningen.nl
 https://www.toeslagen.nl
