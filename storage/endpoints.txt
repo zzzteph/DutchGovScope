@@ -259,6 +259,7 @@ http://ca-devportal.logius.nl
 http://channels-az1.lpc.logius.nl
 http://channels-az2.lpc.logius.nl
 http://checklist.rotterdam.nl
+http://cjg.scherpenzeel.nl
 http://clienteleitsm-acceptatie.logius.nl
 http://clienteleitsm.logius.nl
 http://cms-eef.waterschaplimburg.nl
@@ -483,6 +484,7 @@ http://samenwerkruimten-conf.belastingdienst.nl
 http://samenwerkruimten.belastingdienst.nl
 http://sammy-acc.derondevenen.nl
 http://scanhulp.amsterdam.nl
+http://scherpenzeel.nl
 http://schiermonnikoog.nl
 http://secure.dalfsen.nl
 http://secure.valkenburg.nl
@@ -2517,7 +2519,6 @@ https://citrix.waalwijk.nl
 https://civicintegration.zaanstad.nl
 https://cjg.denhaag.nl
 https://cjg.olst-wijhe.nl
-https://cjg.scherpenzeel.nl
 https://clickprotection.haarlem.nl
 https://clicks.nieuws.lansingerland.nl
 https://clicks.persberichten.lansingerland.nl
@@ -8349,6 +8350,7 @@ https://preproductie.montferland.info
 https://preproductie.mookenmiddelaar.nl
 https://preproductie.oirschot.nl
 https://preproductie.pijnacker-nootdorp.nl
+https://preproductie.scherpenzeel.nl
 https://preproductie.simpelveld.nl
 https://preproductie.steenwijkerland.nl
 https://preproductie.voorschoten.nl
@@ -8829,7 +8831,6 @@ https://schadeherstel.toeslagen.nl
 https://schagen.nl
 https://scheiden.belastingdienst.nl
 https://schemas.data.amsterdam.nl
-https://scherpenzeel.nl
 https://scheveningen.denhaag.nl
 https://schiedam.nl
 https://schiedata.schiedam.nl
