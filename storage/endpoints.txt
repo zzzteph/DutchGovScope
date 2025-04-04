@@ -4096,6 +4096,7 @@ https://feeds.gobiernodireino.nl
 https://feeds.gobiernudireino.nl
 https://feeds.goudenpiramide.nl
 https://feeds.gouverneuraruba.com
+https://feeds.gouverneurcuracao.com
 https://feeds.government.nl
 https://feeds.grenzeloossamenwerken.nl
 https://feeds.groeiennaarmorgen.nl
@@ -4893,6 +4894,7 @@ https://goud.almere.nl
 https://gouda.nl
 https://goudenpiramide.nl
 https://gouverneuraruba.com
+https://gouverneurcuracao.com
 https://government.nl
 https://govpub.sudwestfryslan.nl
 https://gp-admin.tilburg.nl
@@ -7463,6 +7465,7 @@ https://opendata.gobiernodireino.nl
 https://opendata.gobiernudireino.nl
 https://opendata.goudenpiramide.nl
 https://opendata.gouverneuraruba.com
+https://opendata.gouverneurcuracao.com
 https://opendata.government.nl
 https://opendata.grenzeloossamenwerken.nl
 https://opendata.groeiennaarmorgen.nl
@@ -10938,6 +10941,7 @@ https://www.gorinchem.nl
 https://www.gouda.nl
 https://www.goudenpiramide.nl
 https://www.gouverneuraruba.com
+https://www.gouverneurcuracao.com
 https://www.government.nl
 https://www.grenzeloossamenwerken.nl
 https://www.groeiennaarmorgen.nl

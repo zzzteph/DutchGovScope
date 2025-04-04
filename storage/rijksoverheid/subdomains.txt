@@ -1618,6 +1618,7 @@ feeds.gobiernodireino.nl
 feeds.gobiernudireino.nl
 feeds.goudenpiramide.nl
 feeds.gouverneuraruba.com
+feeds.gouverneurcuracao.com
 feeds.government.nl
 feeds.grenzeloossamenwerken.nl
 feeds.groeiennaarmorgen.nl
@@ -2035,6 +2036,7 @@ gobiernodireino.nl
 gobiernudireino.nl
 goudenpiramide.nl
 gouverneuraruba.com
+gouverneurcuracao.com
 government.nl
 govroam.belastingdienst.nl
 govroam.brabant.nl
@@ -3134,6 +3136,7 @@ opendata.gobiernodireino.nl
 opendata.gobiernudireino.nl
 opendata.goudenpiramide.nl
 opendata.gouverneuraruba.com
+opendata.gouverneurcuracao.com
 opendata.government.nl
 opendata.grenzeloossamenwerken.nl
 opendata.groeiennaarmorgen.nl
@@ -4756,6 +4759,7 @@ www.gobiernodireino.nl
 www.gobiernudireino.nl
 www.goudenpiramide.nl
 www.gouverneuraruba.com
+www.gouverneurcuracao.com
 www.government.nl
 www.grenzeloossamenwerken.nl
 www.groeiennaarmorgen.nl
