@@ -4180,6 +4180,7 @@ https://feeds.toezichtsociaaldomein.nl
 https://feeds.topcorridors.nl
 https://feeds.topsectoren.nl
 https://feeds.transitieproefdiervrijeinnovatie.nl
+https://feeds.tuchtcollege-gezondheidszorg.nl
 https://felix.baarn.nl
 https://felix.bergen.nl
 https://felix.beverwijk.nl
@@ -6014,6 +6015,7 @@ https://magazines.rijksoverheid.nl
 https://magazines.rotterdam.nl
 https://magazines.socialestabiliteit.nl
 https://magazines.sso3w.nl
+https://magazines.tuchtcollege-gezondheidszorg.nl
 https://magazines.werkenvoornederland.nl
 https://magazinesintern.rijksoverheid.nl
 https://magazinesintern.rijksvastgoedbedrijf.nl
@@ -7454,6 +7456,7 @@ https://opendata.toezichtsociaaldomein.nl
 https://opendata.topcorridors.nl
 https://opendata.topsectoren.nl
 https://opendata.transitieproefdiervrijeinnovatie.nl
+https://opendata.tuchtcollege-gezondheidszorg.nl
 https://opendata.utrecht.nl
 https://opendata.zoetermeer.nl
 https://opendisdata.nza.nl
@@ -9591,6 +9594,7 @@ https://tstidentity.sudwestfryslan.nl
 https://tsuyt.waddinxveen.nl
 https://ttgbav-prod.gemeente-steenbergen.nl
 https://tubbergen.nl
+https://tuchtcollege-gezondheidszorg.nl
 https://tuchtrecht-acc.overheid.nl
 https://tuchtrecht.overheid.nl
 https://tuinen.groningen.nl
@@ -11139,6 +11143,7 @@ https://www.topsectoren.nl
 https://www.transitieproefdiervrijeinnovatie.nl
 https://www.tst2905.omgevingswet.overheid.nl
 https://www.tubbergen.nl
+https://www.tuchtcollege-gezondheidszorg.nl
 https://www.tuinen.groningen.nl
 https://www.tynaarlo.nl
 https://www.udp-geoserver-acc.denhaag.nl

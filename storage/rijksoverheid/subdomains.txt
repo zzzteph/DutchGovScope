@@ -234,6 +234,7 @@ a-www.rijksvastgoedbedrijf.nl
 a-www.royal-house.nl
 a-www.sbv-z.nl
 a-www.socialestabiliteit.nl
+a-www.tuchtcollege-gezondheidszorg.nl
 a2vonderenkerensheide.nl
 aaenmaas.nl
 aanbiedersmedicijnen.nl
@@ -1690,6 +1691,7 @@ feeds.toezichtsociaaldomein.nl
 feeds.topcorridors.nl
 feeds.topsectoren.nl
 feeds.transitieproefdiervrijeinnovatie.nl
+feeds.tuchtcollege-gezondheidszorg.nl
 fibb-perf.acc.belastingdienst.nl
 fibb1.belastingdienst.nl
 fibb2.acc.belastingdienst.nl
@@ -2322,6 +2324,7 @@ magazines.riec.nl
 magazines.rijksoverheid.nl
 magazines.socialestabiliteit.nl
 magazines.sso3w.nl
+magazines.tuchtcollege-gezondheidszorg.nl
 magazines.werkenvoornederland.nl
 magazinesintern.p-direkt.nl
 magazinesintern.rijksoverheid.nl
@@ -3097,6 +3100,7 @@ opendata.toezichtsociaaldomein.nl
 opendata.topcorridors.nl
 opendata.topsectoren.nl
 opendata.transitieproefdiervrijeinnovatie.nl
+opendata.tuchtcollege-gezondheidszorg.nl
 opendisdata-acc.nza.nl
 opendisdata.nza.nl
 openims-acc.ctgb.nl
@@ -3975,6 +3979,7 @@ tst6.mijn.overheid.nl
 tst7.mijn.overheid.nl
 tst8.mijn.overheid.nl
 tst9.mijn.overheid.nl
+tuchtcollege-gezondheidszorg.nl
 tuchtrecht-acc.overheid.nl
 tuchtrecht-service-acc.overheid.nl
 tuchtrecht-service-tst.overheid.nl
@@ -4645,6 +4650,7 @@ www.topcorridors.nl
 www.topsectoren.nl
 www.transitieproefdiervrijeinnovatie.nl
 www.tst2905.omgevingswet.overheid.nl
+www.tuchtcollege-gezondheidszorg.nl
 www.veilig.cultureelerfgoed.nl
 www.vepkmsont.vcdn.belastingdienst.nl
 www.vepkmstst.vcdn.belastingdienst.nl

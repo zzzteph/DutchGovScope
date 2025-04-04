@@ -27,8 +27,8 @@ werkplek
 eloket
 acc
 dkd
-english
 a-www
+english
 portal
 meldingen
 geo
@@ -55,9 +55,9 @@ pv
 gemeenteraad
 iparticipatie
 belastingen
+magazines
 data
 test-ipa
-magazines
 dacceptatieloket
 dacceptatiemidoffice
 login

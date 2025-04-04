@@ -343,6 +343,7 @@ a-www.rijksvastgoedbedrijf.nl
 a-www.royal-house.nl
 a-www.sbv-z.nl
 a-www.socialestabiliteit.nl
+a-www.tuchtcollege-gezondheidszorg.nl
 a2b-rtr.alkmaar.nl
 a2vonderenkerensheide.nl
 aaa.goirle.nl
@@ -6423,6 +6424,7 @@ feeds.toezichtsociaaldomein.nl
 feeds.topcorridors.nl
 feeds.topsectoren.nl
 feeds.transitieproefdiervrijeinnovatie.nl
+feeds.tuchtcollege-gezondheidszorg.nl
 felix.aalten.nl
 felix.achtkarspelen.nl
 felix.baarn.nl
@@ -9959,6 +9961,7 @@ magazines.rijksoverheid.nl
 magazines.rotterdam.nl
 magazines.socialestabiliteit.nl
 magazines.sso3w.nl
+magazines.tuchtcollege-gezondheidszorg.nl
 magazines.werkenvoornederland.nl
 magazinesintern.p-direkt.nl
 magazinesintern.rijksoverheid.nl
@@ -12309,6 +12312,7 @@ opendata.toezichtsociaaldomein.nl
 opendata.topcorridors.nl
 opendata.topsectoren.nl
 opendata.transitieproefdiervrijeinnovatie.nl
+opendata.tuchtcollege-gezondheidszorg.nl
 opendata.utrecht.nl
 opendata.zoetermeer.nl
 opendisdata-acc.nza.nl
@@ -16678,6 +16682,7 @@ tty.cg-intern.acc.utrecht.nl
 tubbergen.nl
 tubwdds.landgraaf.nl
 tubweau.heerlen.nl
+tuchtcollege-gezondheidszorg.nl
 tuchtrecht-acc.overheid.nl
 tuchtrecht-service-acc.overheid.nl
 tuchtrecht-service-tst.overheid.nl
@@ -19450,6 +19455,7 @@ www.tstmijnswf.sudwestfryslan.nl
 www.tstwi141.tst.groningen.nl
 www.tstwi184.tst.groningen.nl
 www.tubbergen.nl
+www.tuchtcollege-gezondheidszorg.nl
 www.tuinen.groningen.nl
 www.twenterand.nl
 www.tynaarlo.nl
