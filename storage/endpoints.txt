@@ -1641,6 +1641,7 @@ https://atlas.breda.nl
 https://atlas.limburg.nl
 https://atlas.odmh.nl
 https://atlas.provincie-utrecht.nl
+https://atlas.ruimtelijkeordening.nl
 https://atlasacc.apeldoorn.nl
 https://atlasomgevingskwaliteit.winterswijk.nl
 https://auditdienstrijk.nl
@@ -4113,6 +4114,7 @@ https://feeds.rijksvastgoedbedrijf.nl
 https://feeds.royal-house.nl
 https://feeds.royalhonoursanddecorations.nl
 https://feeds.rsj.nl
+https://feeds.ruimtelijkeordening.nl
 https://felix.baarn.nl
 https://felix.bergen.nl
 https://felix.beverwijk.nl
@@ -7349,6 +7351,7 @@ https://opendata.roosendaal.nl
 https://opendata.royal-house.nl
 https://opendata.royalhonoursanddecorations.nl
 https://opendata.rsj.nl
+https://opendata.ruimtelijkeordening.nl
 https://opendata.utrecht.nl
 https://opendata.zoetermeer.nl
 https://opendisdata.nza.nl
@@ -8362,6 +8365,7 @@ https://ruimte.kta.omgevingswet.overheid.nl
 https://ruimte.omgevingswet.overheid.nl
 https://ruimte.pfm.omgevingswet.overheid.nl
 https://ruimte.pre.omgevingswet.overheid.nl
+https://ruimtelijkeordening.nl
 https://ruimtelijkeplannen.achtkarspelen.nl
 https://ruimtelijkeplannen.alkmaar.nl
 https://ruimtelijkeplannen.bodegraven-reeuwijk.nl
@@ -10876,6 +10880,7 @@ https://www.royalhonoursanddecorations.nl
 https://www.rozendaal.nl
 https://www.rsj.nl
 https://www.rucphen.nl
+https://www.ruimtelijkeordening.nl
 https://www.ruimtelijkeplannen.dronten.nl
 https://www.ruimtevoorjou.groningen.nl
 https://www.s-hertogenbosch.nl

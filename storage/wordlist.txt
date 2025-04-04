@@ -206,6 +206,7 @@ ro
 uc
 evenementen
 webservices
+atlas
 publicaties
 intranet-acc
 veiligdelen
@@ -222,7 +223,6 @@ bestuur
 afspraakmaken
 m
 website
-atlas
 wachtwoord
 archief
 guest

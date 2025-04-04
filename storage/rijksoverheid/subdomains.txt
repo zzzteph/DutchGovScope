@@ -534,6 +534,7 @@ atlas.brabant.nl
 atlas.limburg.nl
 atlas.odmh.nl
 atlas.provincie-utrecht.nl
+atlas.ruimtelijkeordening.nl
 auditdienstrijk.nl
 auth-preprod.provincie-utrecht.nl
 auth.ndw.nu
@@ -1601,6 +1602,7 @@ feeds.rijksvastgoedbedrijf.nl
 feeds.royal-house.nl
 feeds.royalhonoursanddecorations.nl
 feeds.rsj.nl
+feeds.ruimtelijkeordening.nl
 fibb-perf.acc.belastingdienst.nl
 fibb1.belastingdienst.nl
 fibb2.acc.belastingdienst.nl
@@ -2960,6 +2962,7 @@ opendata.rijksvastgoedbedrijf.nl
 opendata.royal-house.nl
 opendata.royalhonoursanddecorations.nl
 opendata.rsj.nl
+opendata.ruimtelijkeordening.nl
 opendisdata-acc.nza.nl
 opendisdata.nza.nl
 openims-acc.ctgb.nl
@@ -3287,6 +3290,7 @@ ruimte.kta.omgevingswet.overheid.nl
 ruimte.omgevingswet.overheid.nl
 ruimte.pfm.omgevingswet.overheid.nl
 ruimte.pre.omgevingswet.overheid.nl
+ruimtelijkeordening.nl
 ruimtelijkeplannen.provincie-utrecht.nl
 ruimtelijkeplannenintern.provincie-utrecht.nl
 ruimtelijkeplanneninterntest.provincie-utrecht.nl
@@ -4367,6 +4371,7 @@ www.risicokaart.flevoland.nl
 www.royal-house.nl
 www.royalhonoursanddecorations.nl
 www.rsj.nl
+www.ruimtelijkeordening.nl
 www.sharepoint-conf.belastingdienst.nl
 www.sharepoint.belastingdienst.nl
 www.stateninformatie.provincie-utrecht.nl
