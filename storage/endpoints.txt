@@ -4112,6 +4112,7 @@ https://feeds.rijksrecherche.nl
 https://feeds.rijksvastgoedbedrijf.nl
 https://feeds.royal-house.nl
 https://feeds.royalhonoursanddecorations.nl
+https://feeds.rsj.nl
 https://felix.baarn.nl
 https://felix.bergen.nl
 https://felix.beverwijk.nl
@@ -5320,6 +5321,7 @@ https://intranet.oldenzaal.nl
 https://intranet.ommen.nl
 https://intranet.oosterhout.nl
 https://intranet.peelenmaas.nl
+https://intranet.rsj.nl
 https://intranet.rucphen.nl
 https://intranet.schouwen-duiveland.nl
 https://intranet.sittard-geleen.nl
@@ -7346,6 +7348,7 @@ https://opendata.rijksvastgoedbedrijf.nl
 https://opendata.roosendaal.nl
 https://opendata.royal-house.nl
 https://opendata.royalhonoursanddecorations.nl
+https://opendata.rsj.nl
 https://opendata.utrecht.nl
 https://opendata.zoetermeer.nl
 https://opendisdata.nza.nl
@@ -8350,6 +8353,7 @@ https://rpl3.nissewaard.nl
 https://rpx-qa.nza.nl
 https://rpx.nza.nl
 https://rs010.rotterdam.nl
+https://rsj.nl
 https://rspw.rotterdam.nl
 https://rucphen.nl
 https://ruimte.dmo.omgevingswet.overheid.nl
@@ -10870,6 +10874,7 @@ https://www.rotterdam.nl
 https://www.royal-house.nl
 https://www.royalhonoursanddecorations.nl
 https://www.rozendaal.nl
+https://www.rsj.nl
 https://www.rucphen.nl
 https://www.ruimtelijkeplannen.dronten.nl
 https://www.ruimtevoorjou.groningen.nl

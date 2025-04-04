@@ -6333,6 +6333,7 @@ feeds.rijksrecherche.nl
 feeds.rijksvastgoedbedrijf.nl
 feeds.royal-house.nl
 feeds.royalhonoursanddecorations.nl
+feeds.rsj.nl
 felix.aalten.nl
 felix.achtkarspelen.nl
 felix.baarn.nl
@@ -8721,6 +8722,7 @@ intranet.raadsinformatie.amsterdam.nl
 intranet.renswoude.nl
 intranet.rheden.nl
 intranet.roerdalen.nl
+intranet.rsj.nl
 intranet.rucphen.nl
 intranet.schouwen-duiveland.nl
 intranet.sittard-geleen.nl
@@ -12169,6 +12171,7 @@ opendata.rijksvastgoedbedrijf.nl
 opendata.roosendaal.nl
 opendata.royal-house.nl
 opendata.royalhonoursanddecorations.nl
+opendata.rsj.nl
 opendata.utrecht.nl
 opendata.zoetermeer.nl
 opendisdata-acc.nza.nl
@@ -13991,6 +13994,7 @@ rpl3.rijswijk.nl
 rpx-qa.nza.nl
 rpx.nza.nl
 rs010.rotterdam.nl
+rsj.nl
 rspw.rotterdam.nl
 rtr-fw.alkmaar.nl
 rucphen.nl
@@ -19025,6 +19029,7 @@ www.rotterdam.nl
 www.royal-house.nl
 www.royalhonoursanddecorations.nl
 www.rozendaal.nl
+www.rsj.nl
 www.rucphen.nl
 www.ruimtelijkeplannen.amsterdam.nl
 www.ruimtelijkeplannen.dronten.nl

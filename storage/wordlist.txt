@@ -6,8 +6,8 @@ autodiscover
 iburgerzaken
 ibzpink
 edienstenburgerzaken
-mail
 intranet
+mail
 edienstenburgerzaken-test
 mijn
 webmail
