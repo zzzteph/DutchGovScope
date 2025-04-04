@@ -109,6 +109,7 @@ belastingloket
 doemee
 a-english
 ftp
+_autodiscover._tcp
 siam
 financien
 klantcontact
@@ -117,7 +118,6 @@ _dmarc
 api
 begroting
 squit2go
-_autodiscover._tcp
 samen
 e
 lyncdiscover
