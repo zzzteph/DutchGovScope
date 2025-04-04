@@ -1051,6 +1051,7 @@ https://feeds.strafrechtketen.nl
 https://feeds.tib-ivd.nl
 https://feeds.tlokb.nl
 https://feeds.toegangspuntmobiliteit.nl
+https://feeds.toekomstglb.nl
 https://fibb1.belastingdienst.nl
 https://fibd1.belastingdienst.nl
 https://fibe1.belastingdienst.nl
@@ -1889,6 +1890,7 @@ https://opendata.strafrechtketen.nl
 https://opendata.tib-ivd.nl
 https://opendata.tlokb.nl
 https://opendata.toegangspuntmobiliteit.nl
+https://opendata.toekomstglb.nl
 https://opendisdata.nza.nl
 https://opkopersregister.stopheling.nl
 https://opleiding-ola.belastingdienst.nl
@@ -2770,6 +2772,7 @@ https://www.testsite.ceg.nl
 https://www.tib-ivd.nl
 https://www.tlokb.nl
 https://www.toegangspuntmobiliteit.nl
+https://www.toekomstglb.nl
 https://www.toeslagen.nl
 https://www.tst2905.omgevingswet.overheid.nl
 https://www.veilig.cultureelerfgoed.nl

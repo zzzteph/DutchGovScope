@@ -6413,6 +6413,7 @@ feeds.strafrechtketen.nl
 feeds.tib-ivd.nl
 feeds.tlokb.nl
 feeds.toegangspuntmobiliteit.nl
+feeds.toekomstglb.nl
 felix.aalten.nl
 felix.achtkarspelen.nl
 felix.baarn.nl
@@ -12290,6 +12291,7 @@ opendata.strafrechtketen.nl
 opendata.tib-ivd.nl
 opendata.tlokb.nl
 opendata.toegangspuntmobiliteit.nl
+opendata.toekomstglb.nl
 opendata.utrecht.nl
 opendata.zoetermeer.nl
 opendisdata-acc.nza.nl
@@ -19405,6 +19407,7 @@ www.toegang.noord.amsterdam.nl
 www.toegangspuntmobiliteit.nl
 www.toegangtest.groningen.nl
 www.toegankelijk.enschede.nl
+www.toekomstglb.nl
 www.toerisme.groningen.nl
 www.toerisme.valkenburg.nl
 www.toeslagen.nl

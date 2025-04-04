@@ -1680,6 +1680,7 @@ feeds.strafrechtketen.nl
 feeds.tib-ivd.nl
 feeds.tlokb.nl
 feeds.toegangspuntmobiliteit.nl
+feeds.toekomstglb.nl
 fibb-perf.acc.belastingdienst.nl
 fibb1.belastingdienst.nl
 fibb2.acc.belastingdienst.nl
@@ -3078,6 +3079,7 @@ opendata.strafrechtketen.nl
 opendata.tib-ivd.nl
 opendata.tlokb.nl
 opendata.toegangspuntmobiliteit.nl
+opendata.toekomstglb.nl
 opendisdata-acc.nza.nl
 opendisdata.nza.nl
 openims-acc.ctgb.nl
@@ -4610,6 +4612,7 @@ www.testsite.ceg.nl
 www.tib-ivd.nl
 www.tlokb.nl
 www.toegangspuntmobiliteit.nl
+www.toekomstglb.nl
 www.toeslagen.nl
 www.tst2905.omgevingswet.overheid.nl
 www.veilig.cultureelerfgoed.nl
