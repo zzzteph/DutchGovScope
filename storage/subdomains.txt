@@ -925,8 +925,10 @@ acceptatie.beheer.dezi.nl
 acceptatie.beheer.donorregister.nl
 acceptatie.beheer.generiekeregistratiedienst.cibg.nl
 acceptatie.beheer.lir.cibg.nl
+acceptatie.beheer.locatieregister.zorgaanbiedersportaal.nl
 acceptatie.beheer.lrza.cibg.nl
 acceptatie.beheer.ncpeh.nl
+acceptatie.beheer.zorgaanbiedersportaal.nl
 acceptatie.bestandsportaal.cibg.nl
 acceptatie.boxtel.nl
 acceptatie.brba.cibg.nl
@@ -993,6 +995,11 @@ acceptatie.middendrenthe.nl
 acceptatie.mijn.bigregister.nl
 acceptatie.mijn.dezi.nl
 acceptatie.mijn.donorregister.nl
+acceptatie.mijn.geschilleninstantie.zorgaanbiedersportaal.nl
+acceptatie.mijn.locatieregister.zorgaanbiedersportaal.nl
+acceptatie.mijn.melding.zorgaanbiedersportaal.nl
+acceptatie.mijn.toelatingsvergunning.zorgaanbiedersportaal.nl
+acceptatie.mijn.zorgaanbiedersportaal.nl
 acceptatie.mijnkbr.rotterdam.nl
 acceptatie.molenlanden.nl
 acceptatie.nederbetuwe.nl
@@ -1055,6 +1062,7 @@ acceptatie.wio.ilent.nl
 acceptatie.wioservice.ilent.nl
 acceptatie.zoeken.bigregister.nl
 acceptatie.zoeken.cultureelerfgoed.nl
+acceptatie.zoeken.zorgaanbiedersportaal.nl
 acceptatie.zoeterwoude.nl
 acceptatie.zundert.nl
 acceptatie.zutphen.nl
@@ -1815,6 +1823,7 @@ api.tst5.mijn.overheid.nl
 api.v2.openstad.haarlemmermeer.nl
 api.vallei-veluwe.nl
 api.wonen.zaken.amsterdam.nl
+api.zorgaanbiedersportaal.nl
 api.zwemmen.venlo.nl
 apigateway.gemeentewestland.nl
 apigateway.middendelfland.nl
@@ -2716,11 +2725,13 @@ beheer.intpatch.omgevingswet.overheid.nl
 beheer.landvancuijk.nl
 beheer.leusden.nl
 beheer.lir.cibg.nl
+beheer.locatieregister.zorgaanbiedersportaal.nl
 beheer.lrza.cibg.nl
 beheer.ncpeh.nl
 beheer.pre.omgevingswet.overheid.nl
 beheer.preprod.omgevingswet.overheid.nl
 beheer.terneuzen.nl
+beheer.zorgaanbiedersportaal.nl
 beheerautoriteitwaddenzee.nl
 beheerbeeldbank.breda.nl
 beheerbeeldbank.soest.nl
@@ -10713,6 +10724,7 @@ mijn.gemeenteberkelland.nl
 mijn.gemeentemaashorst.nl
 mijn.gemeentewestland.nl
 mijn.gemert-bakel.nl
+mijn.geschilleninstantie.zorgaanbiedersportaal.nl
 mijn.goeree-overflakkee.nl
 mijn.gooisemeren.nl
 mijn.gouda.nl
@@ -10736,10 +10748,12 @@ mijn.igj.nl
 mijn.laarbeek.nl
 mijn.lansingerland.nl
 mijn.lingewaard.nl
+mijn.locatieregister.zorgaanbiedersportaal.nl
 mijn.lochem.nl
 mijn.maasdriel.nl
 mijn.maassluis.nl
 mijn.meierijstad.nl
+mijn.melding.zorgaanbiedersportaal.nl
 mijn.meppel.nl
 mijn.middendelfland.nl
 mijn.moerdijk.nl
@@ -10800,6 +10814,7 @@ mijn.test.ncsc.nl
 mijn.test.oss.nl
 mijn.texel.nl
 mijn.tholen.nl
+mijn.toelatingsvergunning.zorgaanbiedersportaal.nl
 mijn.toeslagen.nl
 mijn.tst.belastingdienst.nl
 mijn.urk.nl
@@ -10821,6 +10836,7 @@ mijn.wijkbijduurstede.nl
 mijn.zaltbommel.nl
 mijn.zeist.nl
 mijn.zoetermeer.nl
+mijn.zorgaanbiedersportaal.nl
 mijn.zuidplas.nl
 mijn.zutphen.nl
 mijn.zwartewaterland.nl
@@ -19882,6 +19898,7 @@ www.zoetermeer.nl
 www.zoeterwoude.nl
 www.zomer.groningen.nl
 www.zomerprogramma070.denhaag.nl
+www.zorgaanbiedersportaal.nl
 www.zorgaanbod.sudwestfryslan.nl
 www.zorgloket.druten.nl
 www.zorgloket.groningen.nl
@@ -20113,6 +20130,7 @@ zoeken.olst-wijhe.nl
 zoeken.ondernemersplein.overheid.nl
 zoeken.schoolleidersregisterpo.nl
 zoeken.werkenaanonspensioen.nl
+zoeken.zorgaanbiedersportaal.nl
 zoekengemeentearchief.gemeentehulst.nl
 zoekpersoon.vlaardingen.nl
 zoekservice.mensenrechten.nl
@@ -20132,6 +20150,7 @@ zorg.molenlanden.nl
 zorg.voerendaal.nl
 zorgaanbieders.deventer.nl
 zorgaanbieders.eindhoven.nl
+zorgaanbiedersportaal.nl
 zorgaanbod.sudwestfryslan.nl
 zorgbeeld.nza.nl
 zorgenwerknetwerk.arboportaal.nl

@@ -363,8 +363,10 @@ acceptatie.beheer.dezi.nl
 acceptatie.beheer.donorregister.nl
 acceptatie.beheer.generiekeregistratiedienst.cibg.nl
 acceptatie.beheer.lir.cibg.nl
+acceptatie.beheer.locatieregister.zorgaanbiedersportaal.nl
 acceptatie.beheer.lrza.cibg.nl
 acceptatie.beheer.ncpeh.nl
+acceptatie.beheer.zorgaanbiedersportaal.nl
 acceptatie.bestandsportaal.cibg.nl
 acceptatie.brba.cibg.nl
 acceptatie.cmis.cultureelerfgoed.nl
@@ -383,6 +385,11 @@ acceptatie.meldingen.klopt.cibg.nl
 acceptatie.mijn.bigregister.nl
 acceptatie.mijn.dezi.nl
 acceptatie.mijn.donorregister.nl
+acceptatie.mijn.geschilleninstantie.zorgaanbiedersportaal.nl
+acceptatie.mijn.locatieregister.zorgaanbiedersportaal.nl
+acceptatie.mijn.melding.zorgaanbiedersportaal.nl
+acceptatie.mijn.toelatingsvergunning.zorgaanbiedersportaal.nl
+acceptatie.mijn.zorgaanbiedersportaal.nl
 acceptatie.omgevingswet.overheid.nl
 acceptatie.ordz.nl
 acceptatie.portaal.competent.cibg.nl
@@ -407,6 +414,7 @@ acceptatie.wio.ilent.nl
 acceptatie.wioservice.ilent.nl
 acceptatie.zoeken.bigregister.nl
 acceptatie.zoeken.cultureelerfgoed.nl
+acceptatie.zoeken.zorgaanbiedersportaal.nl
 acceptatiepan.emissieautoriteit.nl
 access.om.nl
 access.rijksrecherche.nl
@@ -540,6 +548,7 @@ api.tst3.mijn.overheid.nl
 api.tst4.mijn.overheid.nl
 api.tst5.mijn.overheid.nl
 api.vallei-veluwe.nl
+api.zorgaanbiedersportaal.nl
 apis.developer.overheid.nl
 apkl.huisvoorklokkenluiders.nl
 aplbepa01.belastingdienst.nl
@@ -720,10 +729,12 @@ beheer.generiekeregistratiedienst.cibg.nl
 beheer.integratie.omgevingswet.overheid.nl
 beheer.intpatch.omgevingswet.overheid.nl
 beheer.lir.cibg.nl
+beheer.locatieregister.zorgaanbiedersportaal.nl
 beheer.lrza.cibg.nl
 beheer.ncpeh.nl
 beheer.pre.omgevingswet.overheid.nl
 beheer.preprod.omgevingswet.overheid.nl
+beheer.zorgaanbiedersportaal.nl
 beheerautoriteitwaddenzee.nl
 beheerportaal.acc.omgevingswet.overheid.nl
 beheerportaal.acceptatie.digipoort.logius.nl
@@ -2558,8 +2569,11 @@ mijn.belastingdienst.nl
 mijn.bigregister.nl
 mijn.donorregister.nl
 mijn.dus-i.nl
+mijn.geschilleninstantie.zorgaanbiedersportaal.nl
 mijn.huurcommissie.nl
 mijn.igj.nl
+mijn.locatieregister.zorgaanbiedersportaal.nl
+mijn.melding.zorgaanbiedersportaal.nl
 mijn.ncsc.nl
 mijn.ndw.nu
 mijn.nvwa.nl
@@ -2587,8 +2601,10 @@ mijn.str30.acc.belastingdienst.nl
 mijn.str59.ont.belastingdienst.nl
 mijn.str60.ont.belastingdienst.nl
 mijn.test.ncsc.nl
+mijn.toelatingsvergunning.zorgaanbiedersportaal.nl
 mijn.toeslagen.nl
 mijn.tst.belastingdienst.nl
+mijn.zorgaanbiedersportaal.nl
 mijn8.belastingdienst.nl
 mijnaanvraag.belastingdienst.nl
 mijncn.nl
@@ -4905,6 +4921,7 @@ www.wodc.nl
 www.wrr.nl
 www.youthatheart.nl
 www.zoekeentolkvertaler.bureauwbtv.nl
+www.zorgaanbiedersportaal.nl
 www1.hdsr.nl
 www2.om.nl
 www2.rechtwijzer.nl
@@ -4940,8 +4957,10 @@ zoeken.cultureelerfgoed.nl
 zoeken.ondernemersplein.overheid.nl
 zoeken.schoolleidersregisterpo.nl
 zoeken.werkenaanonspensioen.nl
+zoeken.zorgaanbiedersportaal.nl
 zoekservice.mensenrechten.nl
 zoekservice.overheid.nl
+zorgaanbiedersportaal.nl
 zorgbeeld.nza.nl
 zorgenwerknetwerk.arboportaal.nl
 zorgprestatiemodel.nza.nl

@@ -8,8 +8,8 @@ ibzpink
 mail
 intranet
 edienstenburgerzaken
-edienstenburgerzaken-test
 mijn
+edienstenburgerzaken-test
 webmail
 simsite
 afspraken
@@ -114,11 +114,11 @@ financien
 klantcontact
 pki
 _dmarc
+api
 begroting
 squit2go
 _autodiscover._tcp
 samen
-api
 e
 lyncdiscover
 bgt
@@ -206,6 +206,7 @@ ro
 uc
 evenementen
 webservices
+zoeken
 atlas
 publicaties
 intranet-acc
@@ -225,7 +226,7 @@ bestuur
 afspraakmaken
 m
 website
-zoeken
+beheer
 wachtwoord
 archief
 guest
@@ -248,7 +249,6 @@ academie
 filetransfer
 services
 omgevingswet
-beheer
 app
 beeldbank-bo
 esb
@@ -367,6 +367,7 @@ www.mijn
 feeds.papiamentu
 opendata.papiamentu
 papiamentu
+acceptatie.beheer
 nieuws
 test.digikoppeling
 mijnloket
@@ -445,7 +446,7 @@ av
 gisservices
 helloid
 pushmail
-acceptatie.beheer
+acceptatie.mijn
 dataportaal
 www.kaarten
 www.mail
@@ -568,7 +569,7 @@ social
 zoek
 lync
 acceptatie.behandel
-acceptatie.mijn
+acceptatie.zoeken
 connect-with
 esb-test
 idtst
@@ -875,7 +876,6 @@ chw
 bezwaar
 feedback
 acceptatie.webservices
-acceptatie.zoeken
 behandel
 acs
 corsa
@@ -3884,6 +3884,16 @@ test-cms-eef
 test-eef
 wikixl-saml.acceptatie
 wauke
+acceptatie.beheer.locatieregister
+acceptatie.mijn.geschilleninstantie
+acceptatie.mijn.locatieregister
+acceptatie.mijn.melding
+acceptatie.mijn.toelatingsvergunning
+beheer.locatieregister
+mijn.geschilleninstantie
+mijn.locatieregister
+mijn.melding
+mijn.toelatingsvergunning
 email.mail.participatie
 mail.participatie
 aalten-checker-preprod

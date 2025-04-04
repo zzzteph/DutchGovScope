@@ -1067,8 +1067,10 @@ https://acceptatie.beheer.dezi.nl
 https://acceptatie.beheer.donorregister.nl
 https://acceptatie.beheer.generiekeregistratiedienst.cibg.nl
 https://acceptatie.beheer.lir.cibg.nl
+https://acceptatie.beheer.locatieregister.zorgaanbiedersportaal.nl
 https://acceptatie.beheer.lrza.cibg.nl
 https://acceptatie.beheer.ncpeh.nl
+https://acceptatie.beheer.zorgaanbiedersportaal.nl
 https://acceptatie.bestandsportaal.cibg.nl
 https://acceptatie.delft.nl
 https://acceptatie.designsystem.cibg.nl
@@ -1102,6 +1104,11 @@ https://acceptatie.middendrenthe.nl
 https://acceptatie.mijn.bigregister.nl
 https://acceptatie.mijn.dezi.nl
 https://acceptatie.mijn.donorregister.nl
+https://acceptatie.mijn.geschilleninstantie.zorgaanbiedersportaal.nl
+https://acceptatie.mijn.locatieregister.zorgaanbiedersportaal.nl
+https://acceptatie.mijn.melding.zorgaanbiedersportaal.nl
+https://acceptatie.mijn.toelatingsvergunning.zorgaanbiedersportaal.nl
+https://acceptatie.mijn.zorgaanbiedersportaal.nl
 https://acceptatie.nederbetuwe.nl
 https://acceptatie.notarisportaal.westerkwartier.nl
 https://acceptatie.nunspeet.nl
@@ -1136,6 +1143,7 @@ https://acceptatie.webservices.bigregister.nl
 https://acceptatie.winterswijk.nl
 https://acceptatie.wio.ilent.nl
 https://acceptatie.zoeken.bigregister.nl
+https://acceptatie.zoeken.zorgaanbiedersportaal.nl
 https://acceptatie.zoeterwoude.nl
 https://acceptatie.zundert.nl
 https://acceptatiebelastingen.duiven.nl
@@ -1939,8 +1947,10 @@ https://beheer.gemeentehw.nl
 https://beheer.generiekeregistratiedienst.cibg.nl
 https://beheer.landvancuijk.nl
 https://beheer.lir.cibg.nl
+https://beheer.locatieregister.zorgaanbiedersportaal.nl
 https://beheer.lrza.cibg.nl
 https://beheer.ncpeh.nl
+https://beheer.zorgaanbiedersportaal.nl
 https://beheerautoriteitwaddenzee.nl
 https://beheerbeeldbank.breda.nl
 https://beheerbeeldbank.soest.nl
@@ -6418,6 +6428,7 @@ https://mijn.gemeente-oldambt.nl
 https://mijn.gemeenteberkelland.nl
 https://mijn.gemeentemaashorst.nl
 https://mijn.gemert-bakel.nl
+https://mijn.geschilleninstantie.zorgaanbiedersportaal.nl
 https://mijn.goeree-overflakkee.nl
 https://mijn.gooisemeren.nl
 https://mijn.gouda.nl
@@ -6438,9 +6449,11 @@ https://mijn.igj.nl
 https://mijn.laarbeek.nl
 https://mijn.lansingerland.nl
 https://mijn.lingewaard.nl
+https://mijn.locatieregister.zorgaanbiedersportaal.nl
 https://mijn.lochem.nl
 https://mijn.maasdriel.nl
 https://mijn.maassluis.nl
+https://mijn.melding.zorgaanbiedersportaal.nl
 https://mijn.meppel.nl
 https://mijn.middendelfland.nl
 https://mijn.moerdijk.nl
@@ -6474,6 +6487,7 @@ https://mijn.test.ncsc.nl
 https://mijn.test.oss.nl
 https://mijn.texel.nl
 https://mijn.tholen.nl
+https://mijn.toelatingsvergunning.zorgaanbiedersportaal.nl
 https://mijn.toeslagen.nl
 https://mijn.veenendaal.nl
 https://mijn.vijfheerenlanden.nl
@@ -6488,6 +6502,7 @@ https://mijn.wijkbijduurstede.nl
 https://mijn.zaltbommel.nl
 https://mijn.zeist.nl
 https://mijn.zoetermeer.nl
+https://mijn.zorgaanbiedersportaal.nl
 https://mijn.zutphen.nl
 https://mijn.zwolle.nl
 https://mijnaanvraag-test.zutphen.nl
@@ -11459,6 +11474,7 @@ https://www.zkd.denhaag.nl
 https://www.zoetermeer.nl
 https://www.zoeterwoude.nl
 https://www.zomerprogramma070.denhaag.nl
+https://www.zorgaanbiedersportaal.nl
 https://www.zundert.nl
 https://www.zutphen.nl
 https://www.zwammerdamdorpskern.alphenaandenrijn.nl
@@ -11601,6 +11617,7 @@ https://zoeken.deventer.nl
 https://zoeken.olst-wijhe.nl
 https://zoeken.ondernemersplein.overheid.nl
 https://zoeken.werkenaanonspensioen.nl
+https://zoeken.zorgaanbiedersportaal.nl
 https://zoekengemeentearchief.gemeentehulst.nl
 https://zoekpersoon.vlaardingen.nl
 https://zoekservice.overheid.nl
@@ -11616,6 +11633,7 @@ https://zorg.molenlanden.nl
 https://zorg.voerendaal.nl
 https://zorgaanbieders.deventer.nl
 https://zorgaanbieders.eindhoven.nl
+https://zorgaanbiedersportaal.nl
 https://zorgbeeld.nza.nl
 https://zorgenwerknetwerk.arboportaal.nl
 https://zorgloket.wijdemeren.nl
