@@ -1337,6 +1337,7 @@ english.uitvoeringvanbeleidszw.nl
 english.vnacs.nl
 english.wkr.nl
 english.wodc.nl
+english.wrr.nl
 enterpriseenrollment.cbg-meb.nl
 enterpriseenrollment.ofgv.nl
 enterpriseregistration.belastingdienst.nl
@@ -1558,6 +1559,7 @@ feeds.english.uitvoeringvanbeleidszw.nl
 feeds.english.vnacs.nl
 feeds.english.wkr.nl
 feeds.english.wodc.nl
+feeds.english.wrr.nl
 feeds.erfgoeddeal.nl
 feeds.euthanasiecommissie.nl
 feeds.excellentescholen.nl
@@ -1766,6 +1768,7 @@ feeds.werkenvoorinternationaleorganisaties.nl
 feeds.wetbeschermingklokkenluiders.nl
 feeds.wkr.nl
 feeds.wodc.nl
+feeds.wrr.nl
 fibb-perf.acc.belastingdienst.nl
 fibb1.belastingdienst.nl
 fibb2.acc.belastingdienst.nl
@@ -2418,6 +2421,7 @@ magazines.socialestabiliteit.nl
 magazines.sso3w.nl
 magazines.tuchtcollege-gezondheidszorg.nl
 magazines.werkenvoornederland.nl
+magazines.wrr.nl
 magazinesintern.p-direkt.nl
 magazinesintern.rijksoverheid.nl
 magazinesintern.rijksvastgoedbedrijf.nl
@@ -3028,6 +3032,7 @@ opendata.english.uitvoeringvanbeleidszw.nl
 opendata.english.vnacs.nl
 opendata.english.wkr.nl
 opendata.english.wodc.nl
+opendata.english.wrr.nl
 opendata.euthanasiecommissie.nl
 opendata.excellentescholen.nl
 opendata.expertisecentrummggz.nl
@@ -3237,6 +3242,7 @@ opendata.werkenvoorinternationaleorganisaties.nl
 opendata.wetbeschermingklokkenluiders.nl
 opendata.wkr.nl
 opendata.wodc.nl
+opendata.wrr.nl
 opendisdata-acc.nza.nl
 opendisdata.nza.nl
 openims-acc.ctgb.nl
@@ -4470,6 +4476,7 @@ wortel176.provincie-utrecht.nl
 wortel176.tst.provincie-utrecht.nl
 wortel183.provincie-utrecht.nl
 wortel184.provincie-utrecht.nl
+wrr.nl
 ws-acc.bureauwsnp.nl
 ws.bureauwsnp.nl
 wsgwhc-acc.belastingdienst.nl
@@ -4893,6 +4900,7 @@ www.wetbeschermingklokkenluiders.nl
 www.windopzee.nl
 www.wkr.nl
 www.wodc.nl
+www.wrr.nl
 www.zoekeentolkvertaler.bureauwbtv.nl
 www1.hdsr.nl
 www2.om.nl

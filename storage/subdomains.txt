@@ -5844,6 +5844,7 @@ english.uitvoeringvanbeleidszw.nl
 english.vnacs.nl
 english.wkr.nl
 english.wodc.nl
+english.wrr.nl
 enkhuizen.nl
 enquete-acc.denhaag.nl
 enquete.almelo.nl
@@ -6291,6 +6292,7 @@ feeds.english.uitvoeringvanbeleidszw.nl
 feeds.english.vnacs.nl
 feeds.english.wkr.nl
 feeds.english.wodc.nl
+feeds.english.wrr.nl
 feeds.erfgoeddeal.nl
 feeds.euthanasiecommissie.nl
 feeds.excellentescholen.nl
@@ -6499,6 +6501,7 @@ feeds.werkenvoorinternationaleorganisaties.nl
 feeds.wetbeschermingklokkenluiders.nl
 feeds.wkr.nl
 feeds.wodc.nl
+feeds.wrr.nl
 felix.aalten.nl
 felix.achtkarspelen.nl
 felix.baarn.nl
@@ -10055,6 +10058,7 @@ magazines.socialestabiliteit.nl
 magazines.sso3w.nl
 magazines.tuchtcollege-gezondheidszorg.nl
 magazines.werkenvoornederland.nl
+magazines.wrr.nl
 magazinesintern.p-direkt.nl
 magazinesintern.rijksoverheid.nl
 magazinesintern.rijksvastgoedbedrijf.nl
@@ -12237,6 +12241,7 @@ opendata.english.uitvoeringvanbeleidszw.nl
 opendata.english.vnacs.nl
 opendata.english.wkr.nl
 opendata.english.wodc.nl
+opendata.english.wrr.nl
 opendata.euthanasiecommissie.nl
 opendata.excellentescholen.nl
 opendata.expertisecentrummggz.nl
@@ -12450,6 +12455,7 @@ opendata.werkenvoorinternationaleorganisaties.nl
 opendata.wetbeschermingklokkenluiders.nl
 opendata.wkr.nl
 opendata.wodc.nl
+opendata.wrr.nl
 opendata.zoetermeer.nl
 opendisdata-acc.nza.nl
 opendisdata.nza.nl
@@ -18265,6 +18271,7 @@ wppbeheer.acc.amsterdam.nl
 wppbeheer.amsterdam.nl
 wpvh.hoorn.nl
 wrd131001.wierden.nl
+wrr.nl
 ws-acc.bureauwsnp.nl
 ws.bureauwsnp.nl
 ws013.roerdalen.nl
@@ -19851,6 +19858,7 @@ www.woz-portaal-eemnes.baarn.nl
 www.woz-portaal.baarn.nl
 www.woz.kampen.nl
 www.woz.overbetuwe.nl
+www.wrr.nl
 www.www2.formulieren.haarlemmermeer.nl
 www.www2.testformulieren.haarlemmermeer.nl
 www.xential.haarlemmermeer.nl

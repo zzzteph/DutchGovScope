@@ -30,10 +30,10 @@ english
 a-www
 dkd
 portal
-a-feeds
-a-opendata
 feeds.english
 opendata.english
+a-feeds
+a-opendata
 open
 meldingen
 geo
@@ -53,9 +53,9 @@ zaaksysteem-accept
 enterpriseenrollment
 pv
 gemeenteraad
+magazines
 iparticipatie
 belastingen
-magazines
 data
 test-ipa
 login
