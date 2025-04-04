@@ -29,9 +29,9 @@ acc
 dkd
 portal
 english
+a-www
 meldingen
 geo
-a-www
 vpn
 open
 afspraak

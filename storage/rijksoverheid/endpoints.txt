@@ -990,6 +990,7 @@ https://feeds.rijksorganisatieodi.nl
 https://feeds.rijksoverheid.nl
 https://feeds.rijksrecherche.nl
 https://feeds.rijksvastgoedbedrijf.nl
+https://feeds.royal-house.nl
 https://fibb1.belastingdienst.nl
 https://fibd1.belastingdienst.nl
 https://fibe1.belastingdienst.nl
@@ -1795,6 +1796,7 @@ https://opendata.rijksorganisatieodi.nl
 https://opendata.rijksoverheid.nl
 https://opendata.rijksrecherche.nl
 https://opendata.rijksvastgoedbedrijf.nl
+https://opendata.royal-house.nl
 https://opendisdata.nza.nl
 https://opleiding-ola.belastingdienst.nl
 https://opleiding.nl-alert.nl
@@ -1980,6 +1982,7 @@ https://rijksorganisatieodi.nl
 https://rijksoverheid.nl
 https://rijksrecherche.nl
 https://ris-a.provincie-utrecht.nl
+https://royal-house.nl
 https://rpx-qa.nza.nl
 https://rpx.nza.nl
 https://ruimte.dmo.omgevingswet.overheid.nl
@@ -2596,6 +2599,7 @@ https://www.rijksorganisatieodi.nl
 https://www.rijksoverheid.nl
 https://www.rijksrecherche.nl
 https://www.rijksvastgoedbedrijf.nl
+https://www.royal-house.nl
 https://www.stateninformatie.provincie-utrecht.nl
 https://www.test.monumentenregister.cultureelerfgoed.nl
 https://www.testsite.ceg.nl

@@ -199,6 +199,7 @@ a-feeds.rijksdienstcn.com
 a-feeds.rijksoverheid.nl
 a-feeds.rijksrecherche.nl
 a-feeds.rijksvastgoedbedrijf.nl
+a-feeds.royal-house.nl
 a-git.rijksoverheid.nl
 a-informatieservice.nederlandwereldwijd.nl
 a-jira.rijksoverheid.nl
@@ -268,6 +269,7 @@ a-opendata.rijksdienstcn.com
 a-opendata.rijksoverheid.nl
 a-opendata.rijksrecherche.nl
 a-opendata.rijksvastgoedbedrijf.nl
+a-opendata.royal-house.nl
 a-p-ddi-0003.leeuwarden.nl
 a-p-ddi-0010.leeuwarden.nl
 a-papiamentu.rijksdienstcn.com
@@ -331,6 +333,7 @@ a-www.rijksdienstcn.com
 a-www.rijksoverheid.nl
 a-www.rijksrecherche.nl
 a-www.rijksvastgoedbedrijf.nl
+a-www.royal-house.nl
 a2b-rtr.alkmaar.nl
 a2vonderenkerensheide.nl
 aaa.goirle.nl
@@ -6328,6 +6331,7 @@ feeds.rijksorganisatieodi.nl
 feeds.rijksoverheid.nl
 feeds.rijksrecherche.nl
 feeds.rijksvastgoedbedrijf.nl
+feeds.royal-house.nl
 felix.aalten.nl
 felix.achtkarspelen.nl
 felix.baarn.nl
@@ -12162,6 +12166,7 @@ opendata.rijksoverheid.nl
 opendata.rijksrecherche.nl
 opendata.rijksvastgoedbedrijf.nl
 opendata.roosendaal.nl
+opendata.royal-house.nl
 opendata.utrecht.nl
 opendata.zoetermeer.nl
 opendisdata-acc.nza.nl
@@ -13972,6 +13977,7 @@ router.ede.nl
 router.waalre.nl
 router.winterswijk.nl
 routeringsvoorziening-pp1.logius.nl
+royal-house.nl
 rozendaal.nl
 rp.beverwijk.nl
 rpl3.alphenaandenrijn.nl
@@ -19013,6 +19019,7 @@ www.roosendaal.nl
 www.roplan.haarlemmermeer.nl
 www.roteb.rotterdam.nl
 www.rotterdam.nl
+www.royal-house.nl
 www.rozendaal.nl
 www.rucphen.nl
 www.ruimtelijkeplannen.amsterdam.nl
