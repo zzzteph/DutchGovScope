@@ -255,6 +255,7 @@ aanvraag.dus-i.nl
 aanvragen-acc.nza.nl
 aanvragen.nza.nl
 aanvragen.uziregister.nl
+aanvragen.vergoedingsns.nl
 abat.acc.belastingdienst.nl
 abo.digilevering.belastingdienst.nl
 abonneren.toezichtdocumenten.igj.nl
@@ -1729,6 +1730,7 @@ feeds.uitvoeringvanbeleidszw.nl
 feeds.uwbeslagvrijevoet.nl
 feeds.uziregister.nl
 feeds.veiligepubliekedienstverlening.nl
+feeds.vergoedingsns.nl
 fibb-perf.acc.belastingdienst.nl
 fibb1.belastingdienst.nl
 fibb2.acc.belastingdienst.nl
@@ -3163,6 +3165,7 @@ opendata.uitvoeringvanbeleidszw.nl
 opendata.uwbeslagvrijevoet.nl
 opendata.uziregister.nl
 opendata.veiligepubliekedienstverlening.nl
+opendata.vergoedingsns.nl
 opendisdata-acc.nza.nl
 opendisdata.nza.nl
 openims-acc.ctgb.nl
@@ -4151,6 +4154,7 @@ vepvodtst.vcdn.belastingdienst.nl
 verdragenbank-acc.overheid.nl
 verdragenbank.overheid.nl
 vergaderen.belastingdienst.nl
+vergoedingsns.nl
 verkeer.acc.loket.om.nl
 verkeer.loket.om.nl
 verkeersbesluiten-acc.overheid.nl
@@ -4758,6 +4762,7 @@ www.veiligepubliekedienstverlening.nl
 www.veiligheidsregioflevoland.nl
 www.vepkmsont.vcdn.belastingdienst.nl
 www.vepkmstst.vcdn.belastingdienst.nl
+www.vergoedingsns.nl
 www.wegen.brabant.nl
 www.werken.belastingdienst.nl
 www.werkenvoornederland.nl

@@ -719,6 +719,7 @@ https://aanvraagstaging.waalwijk.nl
 https://aanvragen-acc.nza.nl
 https://aanvragen.nza.nl
 https://aanvragen.uziregister.nl
+https://aanvragen.vergoedingsns.nl
 https://aanvragenpreprod.hillegom.nl
 https://aanvragenpreprod.lisse.nl
 https://aanvragenpreprod.teylingen.nl
@@ -4206,6 +4207,7 @@ https://feeds.uitvoeringvanbeleidszw.nl
 https://feeds.uwbeslagvrijevoet.nl
 https://feeds.uziregister.nl
 https://feeds.veiligepubliekedienstverlening.nl
+https://feeds.vergoedingsns.nl
 https://felix.baarn.nl
 https://felix.bergen.nl
 https://felix.beverwijk.nl
@@ -7500,6 +7502,7 @@ https://opendata.utrecht.nl
 https://opendata.uwbeslagvrijevoet.nl
 https://opendata.uziregister.nl
 https://opendata.veiligepubliekedienstverlening.nl
+https://opendata.vergoedingsns.nl
 https://opendata.zoetermeer.nl
 https://opendisdata.nza.nl
 https://openformulieren-test.dewolden.nl
@@ -9784,6 +9787,7 @@ https://verdragenbank.overheid.nl
 https://vergaderingen.goirle.nl
 https://vergeten.sudwestfryslan.nl
 https://vergoedingen.nijmegen.nl
+https://vergoedingsns.nl
 https://vergunning.leiden.nl
 https://vergunningen.dronten.nl
 https://vergunningen.duiven.nl
@@ -11252,6 +11256,7 @@ https://www.veldhoven.nl
 https://www.velsen.nl
 https://www.venlo.nl
 https://www.venray.nl
+https://www.vergoedingsns.nl
 https://www.vga.amsterdam.nl
 https://www.victor.amsterdam.nl
 https://www.vijfheerenlanden.nl
