@@ -105,6 +105,7 @@ piwik
 acc-broker
 belastingloket
 doemee
+a-english
 ftp
 apps
 siam
@@ -112,7 +113,6 @@ financien
 klantcontact
 pki
 smtp
-a-english
 begroting
 squit2go
 samen
@@ -130,6 +130,8 @@ www.webmail
 filecap
 dtestmidoffice
 _dmarc
+a-feeds.a-english
+a-opendata.a-english
 api
 inloggen
 mijnzorg
@@ -141,8 +143,6 @@ qr
 gemeente
 obsurv
 cms
-a-feeds.a-english
-a-opendata.a-english
 mailing
 web
 onderzoek
