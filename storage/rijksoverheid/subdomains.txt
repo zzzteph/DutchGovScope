@@ -1686,6 +1686,7 @@ feeds.toekomstreligieuserfgoed.nl
 feeds.toekomstvisiegewasbescherming2030.nl
 feeds.toetredingzorgaanbieders.nl
 feeds.toetsingscommissievp.nl
+feeds.toezichtsociaaldomein.nl
 fibb-perf.acc.belastingdienst.nl
 fibb1.belastingdienst.nl
 fibb2.acc.belastingdienst.nl
@@ -3089,6 +3090,7 @@ opendata.toekomstreligieuserfgoed.nl
 opendata.toekomstvisiegewasbescherming2030.nl
 opendata.toetredingzorgaanbieders.nl
 opendata.toetsingscommissievp.nl
+opendata.toezichtsociaaldomein.nl
 opendisdata-acc.nza.nl
 opendisdata.nza.nl
 openims-acc.ctgb.nl
@@ -4630,6 +4632,7 @@ www.toekomstvisiegewasbescherming2030.nl
 www.toeslagen.nl
 www.toetredingzorgaanbieders.nl
 www.toetsingscommissievp.nl
+www.toezichtsociaaldomein.nl
 www.tst2905.omgevingswet.overheid.nl
 www.veilig.cultureelerfgoed.nl
 www.vepkmsont.vcdn.belastingdienst.nl

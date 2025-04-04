@@ -4176,6 +4176,7 @@ https://feeds.toekomstreligieuserfgoed.nl
 https://feeds.toekomstvisiegewasbescherming2030.nl
 https://feeds.toetredingzorgaanbieders.nl
 https://feeds.toetsingscommissievp.nl
+https://feeds.toezichtsociaaldomein.nl
 https://felix.baarn.nl
 https://felix.bergen.nl
 https://felix.beverwijk.nl
@@ -7446,6 +7447,7 @@ https://opendata.toekomstreligieuserfgoed.nl
 https://opendata.toekomstvisiegewasbescherming2030.nl
 https://opendata.toetredingzorgaanbieders.nl
 https://opendata.toetsingscommissievp.nl
+https://opendata.toezichtsociaaldomein.nl
 https://opendata.utrecht.nl
 https://opendata.zoetermeer.nl
 https://opendisdata.nza.nl
@@ -11123,6 +11125,7 @@ https://www.toerisme.groningen.nl
 https://www.toeslagen.nl
 https://www.toetredingzorgaanbieders.nl
 https://www.toetsingscommissievp.nl
+https://www.toezichtsociaaldomein.nl
 https://www.tst2905.omgevingswet.overheid.nl
 https://www.tubbergen.nl
 https://www.tuinen.groningen.nl
