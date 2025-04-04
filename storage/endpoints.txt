@@ -2491,6 +2491,7 @@ https://cms.dordrecht.nl
 https://cms.mensenrechten.nl
 https://cms.openstad.deventer.nl
 https://cms.openstad.nijmegen.nl
+https://cms.tlokb.nl
 https://cms.zaanstad.nl
 https://cmsbink.beverwijk.nl
 https://cmsdieuwke.defryskemarren.nl
@@ -4168,6 +4169,7 @@ https://feeds.startmetdelen.nl
 https://feeds.startmetoesorichtlijnen.nl
 https://feeds.strafrechtketen.nl
 https://feeds.tib-ivd.nl
+https://feeds.tlokb.nl
 https://felix.baarn.nl
 https://felix.bergen.nl
 https://felix.beverwijk.nl
@@ -7431,6 +7433,7 @@ https://opendata.startmetdelen.nl
 https://opendata.startmetoesorichtlijnen.nl
 https://opendata.strafrechtketen.nl
 https://opendata.tib-ivd.nl
+https://opendata.tlokb.nl
 https://opendata.utrecht.nl
 https://opendata.zoetermeer.nl
 https://opendisdata.nza.nl
@@ -8110,6 +8113,7 @@ https://prod-dictu.logius.nl
 https://prod.nl-alert.nl
 https://prod.radar.rdi.nl
 https://prod.stedebroec.nl
+https://prod.tlokb.nl
 https://productenraming.venlo.nl
 https://productie.postex.heusden.nl
 https://programmabegroting.bronckhorst.nl
@@ -8341,6 +8345,8 @@ https://regiocheckervth.denhaag.nl
 https://regiosaandegrens.nl
 https://regiotaxi.flevoland.nl
 https://regiotramutrecht.provincie-utrecht.nl
+https://register-backend.tlokb.nl
+https://register.tlokb.nl
 https://register.venlo.nl
 https://registratie.rotterdam.nl
 https://reimerswaal.nl
@@ -9475,6 +9481,7 @@ https://tim.maassluis.nl
 https://tim.woensdrecht.nl
 https://timetell.rijssen-holten.nl
 https://tl.iplo.nl
+https://tlokb.nl
 https://tloket.oostzaan.nl
 https://tloket.wormerland.nl
 https://tma.acc.amsterdam.nl
@@ -11090,6 +11097,7 @@ https://www.thuiswinkelen.landvancuijk.nl
 https://www.tib-ivd.nl
 https://www.tiel.nl
 https://www.tilburg.nl
+https://www.tlokb.nl
 https://www.toegankelijk.enschede.nl
 https://www.toerisme.groningen.nl
 https://www.toeslagen.nl

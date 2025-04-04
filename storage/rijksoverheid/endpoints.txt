@@ -451,6 +451,7 @@ https://circulairinkopen.nl
 https://cloudstorage-koop.overheid.nl
 https://cms-info.ndw.nu
 https://cms.mensenrechten.nl
+https://cms.tlokb.nl
 https://cmsgui.ondernemersplein.overheid.nl
 https://cmsintranet.flevoland.nl
 https://cmsintranet.scp.nl
@@ -1048,6 +1049,7 @@ https://feeds.startmetdelen.nl
 https://feeds.startmetoesorichtlijnen.nl
 https://feeds.strafrechtketen.nl
 https://feeds.tib-ivd.nl
+https://feeds.tlokb.nl
 https://fibb1.belastingdienst.nl
 https://fibd1.belastingdienst.nl
 https://fibe1.belastingdienst.nl
@@ -1884,6 +1886,7 @@ https://opendata.startmetdelen.nl
 https://opendata.startmetoesorichtlijnen.nl
 https://opendata.strafrechtketen.nl
 https://opendata.tib-ivd.nl
+https://opendata.tlokb.nl
 https://opendisdata.nza.nl
 https://opkopersregister.stopheling.nl
 https://opleiding-ola.belastingdienst.nl
@@ -1992,6 +1995,7 @@ https://prod-dictu.comcms.logius.nl
 https://prod-dictu.logius.nl
 https://prod.nl-alert.nl
 https://prod.radar.rdi.nl
+https://prod.tlokb.nl
 https://projecten.netwerkplatteland.nl
 https://projecten.rijksvastgoedbedrijf.nl
 https://prolander.nl
@@ -2049,6 +2053,8 @@ https://regels.overheid.nl
 https://regiosaandegrens.nl
 https://regiotaxi.flevoland.nl
 https://regiotramutrecht.provincie-utrecht.nl
+https://register-backend.tlokb.nl
+https://register.tlokb.nl
 https://reistijdtrajecten.ndw.nu
 https://rekenhulptransitievergoeding.nl
 https://rekenkamer.nl
@@ -2284,6 +2290,7 @@ https://tib-ivd.nl
 https://tiles.ndw.nu
 https://tileserver.ndw.nu
 https://tl.iplo.nl
+https://tlokb.nl
 https://tmv.cibg.nl
 https://toelatingen.ctgb.nl
 https://toepasbare-regels.omgevingswet.overheid.nl
@@ -2758,6 +2765,7 @@ https://www.strafrechtketen.nl
 https://www.test.monumentenregister.cultureelerfgoed.nl
 https://www.testsite.ceg.nl
 https://www.tib-ivd.nl
+https://www.tlokb.nl
 https://www.toeslagen.nl
 https://www.tst2905.omgevingswet.overheid.nl
 https://www.veilig.cultureelerfgoed.nl

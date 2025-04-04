@@ -905,6 +905,7 @@ cms.dsta.nl
 cms.hhdelfland.nl
 cms.mensenrechten.nl
 cms.rijksoverheid.nl
+cms.tlokb.nl
 cms1.defensie.nl
 cms1.rijksoverheid.nl
 cms2.defensie.nl
@@ -1677,6 +1678,7 @@ feeds.startmetdelen.nl
 feeds.startmetoesorichtlijnen.nl
 feeds.strafrechtketen.nl
 feeds.tib-ivd.nl
+feeds.tlokb.nl
 fibb-perf.acc.belastingdienst.nl
 fibb1.belastingdienst.nl
 fibb2.acc.belastingdienst.nl
@@ -2031,6 +2033,8 @@ ikz.nl
 ilent.nl
 import-acc.organisaties.overheid.nl
 import.organisaties.overheid.nl
+import.tlokb.nl
+importacc.tlokb.nl
 inbewaringstelling.webservices-dbb-acc.igj.nl
 inbewaringstelling.webservices-dbb.igj.nl
 incassomachtigen.acc.belastingdienst.nl
@@ -3071,6 +3075,7 @@ opendata.startmetdelen.nl
 opendata.startmetoesorichtlijnen.nl
 opendata.strafrechtketen.nl
 opendata.tib-ivd.nl
+opendata.tlokb.nl
 opendisdata-acc.nza.nl
 opendisdata.nza.nl
 openims-acc.ctgb.nl
@@ -3276,6 +3281,7 @@ prod.cultureelerfgoed.nl
 prod.flevoland.nl
 prod.nl-alert.nl
 prod.radar.rdi.nl
+prod.tlokb.nl
 prod2.opendata.nederlandwereldwijd.nl
 productie.sodm.nl
 projecten.netwerkplatteland.nl
@@ -3360,6 +3366,8 @@ regels.overheid.nl
 regiosaandegrens.nl
 regiotaxi.flevoland.nl
 regiotramutrecht.provincie-utrecht.nl
+register-backend.tlokb.nl
+register.tlokb.nl
 reistijdtrajecten.ndw.nu
 rekenhulptransitievergoeding.nl
 rekenkamer.nl
@@ -3889,6 +3897,7 @@ tiles.ndw.nu
 tileserver.ndw.nu
 tip.ncsc.nl
 tl.iplo.nl
+tlokb.nl
 tmd.acc.belastingdienst.nl
 tmd.belastingdienst.nl
 tmd.ont.belastingdienst.nl
@@ -4596,6 +4605,7 @@ www.strafrechtketen.nl
 www.test.monumentenregister.cultureelerfgoed.nl
 www.testsite.ceg.nl
 www.tib-ivd.nl
+www.tlokb.nl
 www.toeslagen.nl
 www.tst2905.omgevingswet.overheid.nl
 www.veilig.cultureelerfgoed.nl

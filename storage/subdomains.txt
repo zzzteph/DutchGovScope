@@ -3685,6 +3685,7 @@ cms.openstad.nijmegen.nl
 cms.rijksoverheid.nl
 cms.rotterdam.nl
 cms.sittard-geleen.nl
+cms.tlokb.nl
 cms.zaanstad.nl
 cms1.defensie.nl
 cms1.rijksoverheid.nl
@@ -6410,6 +6411,7 @@ feeds.startmetdelen.nl
 feeds.startmetoesorichtlijnen.nl
 feeds.strafrechtketen.nl
 feeds.tib-ivd.nl
+feeds.tlokb.nl
 felix.aalten.nl
 felix.achtkarspelen.nl
 felix.baarn.nl
@@ -8501,6 +8503,8 @@ impactmeter.kampen.nl
 import-acc.organisaties.overheid.nl
 import.organisaties.overheid.nl
 import.regiomonitor-acc.oosterhout.nl
+import.tlokb.nl
+importacc.tlokb.nl
 inbewaringstelling.webservices-dbb-acc.igj.nl
 inbewaringstelling.webservices-dbb.igj.nl
 inc-ons.zwolle.nl
@@ -12283,6 +12287,7 @@ opendata.startmetdelen.nl
 opendata.startmetoesorichtlijnen.nl
 opendata.strafrechtketen.nl
 opendata.tib-ivd.nl
+opendata.tlokb.nl
 opendata.utrecht.nl
 opendata.zoetermeer.nl
 opendisdata-acc.nza.nl
@@ -13568,6 +13573,7 @@ prod.flevoland.nl
 prod.nl-alert.nl
 prod.radar.rdi.nl
 prod.stedebroec.nl
+prod.tlokb.nl
 prod2.opendata.nederlandwereldwijd.nl
 prodextsec.purmerend.nl
 prodsuitewiz.nissewaard.nl
@@ -13926,6 +13932,8 @@ regiomonitor-acc.oosterhout.nl
 regiosaandegrens.nl
 regiotaxi.flevoland.nl
 regiotramutrecht.provincie-utrecht.nl
+register-backend.tlokb.nl
+register.tlokb.nl
 register.venlo.nl
 registratie.rotterdam.nl
 registraties.amsterdam.nl
@@ -16479,6 +16487,7 @@ tkoppelcorsa.landgraaf.nl
 tkrparkeren.utrecht.nl
 tkrparkerentest.utrecht.nl
 tl.iplo.nl
+tlokb.nl
 tloket.oostzaan.nl
 tloket.wormerland.nl
 tma.acc.amsterdam.nl
@@ -19388,6 +19397,7 @@ www.thuiswinkelen.landvancuijk.nl
 www.tib-ivd.nl
 www.tiel.nl
 www.tilburg.nl
+www.tlokb.nl
 www.toegang.noord.amsterdam.nl
 www.toegangtest.groningen.nl
 www.toegankelijk.enschede.nl
