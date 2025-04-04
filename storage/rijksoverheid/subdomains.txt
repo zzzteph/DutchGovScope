@@ -1579,6 +1579,7 @@ feeds.riec.nl
 feeds.rijksbredekennisagenda.nl
 feeds.rijksdienstcn.com
 feeds.rijksinkoopsamenwerking.nl
+feeds.rijksinnovatiecommunity.nl
 feeds.rijksoverheid.nl
 fibb-perf.acc.belastingdienst.nl
 fibb1.belastingdienst.nl
@@ -2631,6 +2632,7 @@ onderzoek.nederlandwereldwijd.nl
 onderzoek.odmh.nl
 onderzoek.rdi.nl
 onderzoeksbank.brabant.nl
+online.rijksinnovatiecommunity.nl
 onlineaangifte.str1.acc.belastingdienst.nl
 ons.communicatierijk.nl
 onsgeldontcijferd-test.rekenkamer.nl
@@ -2924,6 +2926,7 @@ opendata.riec.nl
 opendata.rijksbredekennisagenda.nl
 opendata.rijksdienstcn.com
 opendata.rijksinkoopsamenwerking.nl
+opendata.rijksinnovatiecommunity.nl
 opendata.rijksoverheid.nl
 opendisdata-acc.nza.nl
 opendisdata.nza.nl
@@ -3675,6 +3678,8 @@ toezichtdocumenten.igj.nl
 toezichtopzorgnetwerken.igj.nl
 toezichtresultaten.acc.onderwijsinspectie.nl
 toolbox-extremisme.nctv.nl
+tools-acc.rijksinnovatiecommunity.nl
+tools.rijksinnovatiecommunity.nl
 torenvalk.brabant.nl
 tovertool.nza.nl
 tramdashboard.provincie-utrecht.nl
@@ -4312,6 +4317,7 @@ www.riec.nl
 www.rijksbredekennisagenda.nl
 www.rijksdienstcn.com
 www.rijksinkoopsamenwerking.nl
+www.rijksinnovatiecommunity.nl
 www.rijksoverheid.nl
 www.risicokaart.flevoland.nl
 www.sharepoint-conf.belastingdienst.nl

@@ -4103,6 +4103,7 @@ https://feeds.riec.nl
 https://feeds.rijksbredekennisagenda.nl
 https://feeds.rijksdienstcn.com
 https://feeds.rijksinkoopsamenwerking.nl
+https://feeds.rijksinnovatiecommunity.nl
 https://feeds.rijksoverheid.nl
 https://felix.baarn.nl
 https://felix.bergen.nl
@@ -6953,6 +6954,7 @@ https://online-aanvraag.dalfsen.nl
 https://online.acc.nijmegen.nl
 https://online.leiden.nl
 https://online.nijmegen.nl
+https://online.rijksinnovatiecommunity.nl
 https://onlinedorpsgesprek.ermelo.nl
 https://onlineregelen.alphenaandenrijn.nl
 https://onlineregelen.kaagenbraassem.nl
@@ -7324,6 +7326,7 @@ https://opendata.riec.nl
 https://opendata.rijksbredekennisagenda.nl
 https://opendata.rijksdienstcn.com
 https://opendata.rijksinkoopsamenwerking.nl
+https://opendata.rijksinnovatiecommunity.nl
 https://opendata.rijksoverheid.nl
 https://opendata.roosendaal.nl
 https://opendata.utrecht.nl
@@ -10827,6 +10830,7 @@ https://www.riec.nl
 https://www.rijksbredekennisagenda.nl
 https://www.rijksdienstcn.com
 https://www.rijksinkoopsamenwerking.nl
+https://www.rijksinnovatiecommunity.nl
 https://www.rijksoverheid.nl
 https://www.rijssen-holten.nl
 https://www.rijswijk.nl
