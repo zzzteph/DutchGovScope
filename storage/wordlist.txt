@@ -26,15 +26,15 @@ test
 werkplek
 eloket
 acc
-dkd
 a-www
+dkd
 english
 portal
+a-feeds
+a-opendata
 open
 meldingen
 geo
-a-feeds
-a-opendata
 feeds.english
 opendata.english
 vpn
@@ -3883,6 +3883,7 @@ test-cms-eef
 test-eef
 wikixl-saml.acceptatie
 wauke
+vacature
 email.mail.participatie
 mail.participatie
 aalten-checker-preprod

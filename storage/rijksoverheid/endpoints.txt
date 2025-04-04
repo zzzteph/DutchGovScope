@@ -1115,6 +1115,7 @@ https://feeds.wegwijzermensenhandel.nl
 https://feeds.werkaanuitvoering.nl
 https://feeds.werkelijkeschade.nl
 https://feeds.werkenaanonspensioen.nl
+https://feeds.werkenbijdeeu.nl
 https://fibb1.belastingdienst.nl
 https://fibd1.belastingdienst.nl
 https://fibe1.belastingdienst.nl
@@ -2006,6 +2007,7 @@ https://opendata.wegwijzermensenhandel.nl
 https://opendata.werkaanuitvoering.nl
 https://opendata.werkelijkeschade.nl
 https://opendata.werkenaanonspensioen.nl
+https://opendata.werkenbijdeeu.nl
 https://opendisdata.nza.nl
 https://opkopersregister.stopheling.nl
 https://opleiding-ola.belastingdienst.nl
@@ -2575,6 +2577,7 @@ https://werkenbij.justid.nl
 https://werkenbij.provincie-utrecht.nl
 https://werkenbij.toeslagen.nl
 https://werkenbijde.nza.nl
+https://werkenbijdeeu.nl
 https://werkenvoor.brabant.nl
 https://werkenvoornederland.nl
 https://werkplaats-acc.onslevendlandschap.nl
@@ -2982,6 +2985,7 @@ https://www.werkaanuitvoering.nl
 https://www.werkelijkeschade.nl
 https://www.werken.belastingdienst.nl
 https://www.werkenaanonspensioen.nl
+https://www.werkenbijdeeu.nl
 https://www.werkenvoornederland.nl
 https://www2.om.nl
 https://wwwfcinetorg.belastingdienst.nl
