@@ -96,6 +96,7 @@ a-feeds.rijksrecherche.nl
 a-feeds.rijksvastgoedbedrijf.nl
 a-feeds.royal-house.nl
 a-feeds.sbv-z.nl
+a-feeds.socialestabiliteit.nl
 a-git.rijksoverheid.nl
 a-informatieservice.nederlandwereldwijd.nl
 a-jira.rijksoverheid.nl
@@ -106,6 +107,7 @@ a-magazines.government.nl
 a-magazines.igj.nl
 a-magazines.riec.nl
 a-magazines.rijksoverheid.nl
+a-magazines.socialestabiliteit.nl
 a-magazinesintern.rijksoverheid.nl
 a-magazinesintern.rijksvastgoedbedrijf.nl
 a-opendata.a-english.aivd.nl
@@ -167,6 +169,7 @@ a-opendata.rijksrecherche.nl
 a-opendata.rijksvastgoedbedrijf.nl
 a-opendata.royal-house.nl
 a-opendata.sbv-z.nl
+a-opendata.socialestabiliteit.nl
 a-papiamentu.rijksdienstcn.com
 a-persberichten.rijksoverheid.nl
 a-servicedesk.rijksoverheid.nl
@@ -228,6 +231,7 @@ a-www.rijksrecherche.nl
 a-www.rijksvastgoedbedrijf.nl
 a-www.royal-house.nl
 a-www.sbv-z.nl
+a-www.socialestabiliteit.nl
 a2vonderenkerensheide.nl
 aaenmaas.nl
 aanbiedersmedicijnen.nl
@@ -1628,6 +1632,7 @@ feeds.samenwerkingrijknoord.nl
 feeds.sbv-z.nl
 feeds.schoolleidersregisterpo.nl
 feeds.scp.nl
+feeds.socialestabiliteit.nl
 fibb-perf.acc.belastingdienst.nl
 fibb1.belastingdienst.nl
 fibb2.acc.belastingdienst.nl
@@ -2252,6 +2257,7 @@ magazines.p-direkt.nl
 magazines.rdi.nl
 magazines.riec.nl
 magazines.rijksoverheid.nl
+magazines.socialestabiliteit.nl
 magazines.werkenvoornederland.nl
 magazinesintern.p-direkt.nl
 magazinesintern.rijksoverheid.nl
@@ -3003,6 +3009,7 @@ opendata.samenwerkingrijknoord.nl
 opendata.sbv-z.nl
 opendata.schoolleidersregisterpo.nl
 opendata.scp.nl
+opendata.socialestabiliteit.nl
 opendisdata-acc.nza.nl
 opendisdata.nza.nl
 openims-acc.ctgb.nl
@@ -3528,6 +3535,7 @@ smtp82.belastingdienst.nl
 snelheidsovertredingen.om.nl
 soap.openbare-inspectieresultaten.nvwa.nl
 social.overheid.nl
+socialestabiliteit.nl
 socialintranet-acc.provincie-utrecht.nl
 socialintranet.provincie-utrecht.nl
 sonar.ndw.nu
@@ -4442,6 +4450,7 @@ www.scp.nl
 www.sharepoint-conf.belastingdienst.nl
 www.sharepoint.belastingdienst.nl
 www.slimwatermanagement.nl
+www.socialestabiliteit.nl
 www.stateninformatie.provincie-utrecht.nl
 www.test.monumentenregister.cultureelerfgoed.nl
 www.testsite.ceg.nl

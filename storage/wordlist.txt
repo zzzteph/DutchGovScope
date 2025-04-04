@@ -27,17 +27,17 @@ werkplek
 eloket
 acc
 dkd
+a-www
 english
 portal
-a-www
 meldingen
 geo
+a-feeds
+a-opendata
 vpn
 open
 afspraak
 waarmerk
-a-feeds
-a-opendata
 feeds.english
 opendata.english
 parkeren
@@ -57,9 +57,9 @@ iparticipatie
 belastingen
 data
 test-ipa
+magazines
 dacceptatieloket
 dacceptatiemidoffice
-magazines
 login
 remote
 dloket
@@ -241,6 +241,7 @@ outlook
 vth
 testloket
 contact
+a-magazines
 academie
 filetransfer
 services
@@ -274,7 +275,6 @@ kcc
 cloudadapter-prod
 handhaving
 www.portal
-a-magazines
 servicedesk
 app
 wifi

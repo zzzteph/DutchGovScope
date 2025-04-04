@@ -201,6 +201,7 @@ a-feeds.rijksrecherche.nl
 a-feeds.rijksvastgoedbedrijf.nl
 a-feeds.royal-house.nl
 a-feeds.sbv-z.nl
+a-feeds.socialestabiliteit.nl
 a-git.rijksoverheid.nl
 a-informatieservice.nederlandwereldwijd.nl
 a-jira.rijksoverheid.nl
@@ -211,6 +212,7 @@ a-magazines.government.nl
 a-magazines.igj.nl
 a-magazines.riec.nl
 a-magazines.rijksoverheid.nl
+a-magazines.socialestabiliteit.nl
 a-magazinesintern.rijksoverheid.nl
 a-magazinesintern.rijksvastgoedbedrijf.nl
 a-opendata.a-english.aivd.nl
@@ -272,6 +274,7 @@ a-opendata.rijksrecherche.nl
 a-opendata.rijksvastgoedbedrijf.nl
 a-opendata.royal-house.nl
 a-opendata.sbv-z.nl
+a-opendata.socialestabiliteit.nl
 a-p-ddi-0003.leeuwarden.nl
 a-p-ddi-0010.leeuwarden.nl
 a-papiamentu.rijksdienstcn.com
@@ -337,6 +340,7 @@ a-www.rijksrecherche.nl
 a-www.rijksvastgoedbedrijf.nl
 a-www.royal-house.nl
 a-www.sbv-z.nl
+a-www.socialestabiliteit.nl
 a2b-rtr.alkmaar.nl
 a2vonderenkerensheide.nl
 aaa.goirle.nl
@@ -6361,6 +6365,7 @@ feeds.samenwerkingrijknoord.nl
 feeds.sbv-z.nl
 feeds.schoolleidersregisterpo.nl
 feeds.scp.nl
+feeds.socialestabiliteit.nl
 felix.aalten.nl
 felix.achtkarspelen.nl
 felix.baarn.nl
@@ -9889,6 +9894,7 @@ magazines.rdi.nl
 magazines.riec.nl
 magazines.rijksoverheid.nl
 magazines.rotterdam.nl
+magazines.socialestabiliteit.nl
 magazines.werkenvoornederland.nl
 magazinesintern.p-direkt.nl
 magazinesintern.rijksoverheid.nl
@@ -12215,6 +12221,7 @@ opendata.samenwerkingrijknoord.nl
 opendata.sbv-z.nl
 opendata.schoolleidersregisterpo.nl
 opendata.scp.nl
+opendata.socialestabiliteit.nl
 opendata.utrecht.nl
 opendata.zoetermeer.nl
 opendisdata-acc.nza.nl
@@ -15110,6 +15117,7 @@ socialekaart.ede.nl
 socialekaart.nieuwegein.nl
 socialekaart.valkenswaard.nl
 socialekaart.westbetuwe.nl
+socialestabiliteit.nl
 socialeteams.deventer.nl
 socialewegwijzer.meierijstad.nl
 socialintranet-acc.provincie-utrecht.nl
@@ -19155,6 +19163,7 @@ www.sociaalplein.gemeentewestland.nl
 www.socialekaart.duiven.nl
 www.socialekaart.echt-susteren.nl
 www.socialekaart.westbetuwe.nl
+www.socialestabiliteit.nl
 www.soest.nl
 www.solliciterenbij.amsterdam.nl
 www.someren.nl

@@ -4135,6 +4135,7 @@ https://feeds.samenwerkingrijknoord.nl
 https://feeds.sbv-z.nl
 https://feeds.schoolleidersregisterpo.nl
 https://feeds.scp.nl
+https://feeds.socialestabiliteit.nl
 https://felix.baarn.nl
 https://felix.bergen.nl
 https://felix.beverwijk.nl
@@ -5964,6 +5965,7 @@ https://magazines.rdi.nl
 https://magazines.riec.nl
 https://magazines.rijksoverheid.nl
 https://magazines.rotterdam.nl
+https://magazines.socialestabiliteit.nl
 https://magazines.werkenvoornederland.nl
 https://magazinesintern.rijksoverheid.nl
 https://magazinesintern.rijksvastgoedbedrijf.nl
@@ -7381,6 +7383,7 @@ https://opendata.samenwerkingrijknoord.nl
 https://opendata.sbv-z.nl
 https://opendata.schoolleidersregisterpo.nl
 https://opendata.scp.nl
+https://opendata.socialestabiliteit.nl
 https://opendata.utrecht.nl
 https://opendata.zoetermeer.nl
 https://opendisdata.nza.nl
@@ -8824,6 +8827,7 @@ https://socialekaart.ede.nl
 https://socialekaart.nieuwegein.nl
 https://socialekaart.valkenswaard.nl
 https://socialekaart.westbetuwe.nl
+https://socialestabiliteit.nl
 https://socialeteams.deventer.nl
 https://socialewegwijzer.meierijstad.nl
 https://socialintranet-acc.provincie-utrecht.nl
@@ -10960,6 +10964,7 @@ https://www.smartcity.denhaag.nl
 https://www.sociaalloket.medemblik.nl
 https://www.socialekaart.echt-susteren.nl
 https://www.socialekaart.westbetuwe.nl
+https://www.socialestabiliteit.nl
 https://www.soest.nl
 https://www.someren.nl
 https://www.sonenbreugel.nl
