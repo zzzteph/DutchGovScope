@@ -4109,6 +4109,7 @@ https://feeds.rijksinspecties.nl
 https://feeds.rijksorganisatieodi.nl
 https://feeds.rijksoverheid.nl
 https://feeds.rijksrecherche.nl
+https://feeds.rijksvastgoedbedrijf.nl
 https://felix.baarn.nl
 https://felix.bergen.nl
 https://felix.beverwijk.nl
@@ -5683,6 +5684,7 @@ https://laakhavensbepaalt.denhaag.nl
 https://laarbeek.nl
 https://lab.tod.leiden.nl
 https://labvantage-acc.nvwa.nl
+https://landelijkevastgoeddag.rijksvastgoedbedrijf.nl
 https://landgraaf.nl
 https://landhorst.landvancuijk.nl
 https://landingspage.landvancuijk.nl
@@ -5936,6 +5938,7 @@ https://magazines.rijksoverheid.nl
 https://magazines.rotterdam.nl
 https://magazines.werkenvoornederland.nl
 https://magazinesintern.rijksoverheid.nl
+https://magazinesintern.rijksvastgoedbedrijf.nl
 https://mail.apeldoorn.nl
 https://mail.bloemendaal.nl
 https://mail.dihoo.nl
@@ -7337,6 +7340,7 @@ https://opendata.rijksinspecties.nl
 https://opendata.rijksorganisatieodi.nl
 https://opendata.rijksoverheid.nl
 https://opendata.rijksrecherche.nl
+https://opendata.rijksvastgoedbedrijf.nl
 https://opendata.roosendaal.nl
 https://opendata.utrecht.nl
 https://opendata.zoetermeer.nl
@@ -8031,6 +8035,7 @@ https://projecten.denhaag.nl
 https://projecten.lansingerland.nl
 https://projecten.nederbetuwe.nl
 https://projecten.netwerkplatteland.nl
+https://projecten.rijksvastgoedbedrijf.nl
 https://projectenboek.leidschendam-voorburg.nl
 https://prolander.nl
 https://prosecutionservice.nl
@@ -10848,6 +10853,7 @@ https://www.rijksinspecties.nl
 https://www.rijksorganisatieodi.nl
 https://www.rijksoverheid.nl
 https://www.rijksrecherche.nl
+https://www.rijksvastgoedbedrijf.nl
 https://www.rijssen-holten.nl
 https://www.rijswijk.nl
 https://www.roerdalen.nl

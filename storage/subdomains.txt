@@ -198,6 +198,7 @@ a-feeds.riec.nl
 a-feeds.rijksdienstcn.com
 a-feeds.rijksoverheid.nl
 a-feeds.rijksrecherche.nl
+a-feeds.rijksvastgoedbedrijf.nl
 a-git.rijksoverheid.nl
 a-informatieservice.nederlandwereldwijd.nl
 a-jira.rijksoverheid.nl
@@ -209,6 +210,7 @@ a-magazines.igj.nl
 a-magazines.riec.nl
 a-magazines.rijksoverheid.nl
 a-magazinesintern.rijksoverheid.nl
+a-magazinesintern.rijksvastgoedbedrijf.nl
 a-opendata.a-english.aivd.nl
 a-opendata.a-english.autoriteitnvs.nl
 a-opendata.a-english.bigregister.nl
@@ -265,6 +267,7 @@ a-opendata.riec.nl
 a-opendata.rijksdienstcn.com
 a-opendata.rijksoverheid.nl
 a-opendata.rijksrecherche.nl
+a-opendata.rijksvastgoedbedrijf.nl
 a-p-ddi-0003.leeuwarden.nl
 a-p-ddi-0010.leeuwarden.nl
 a-papiamentu.rijksdienstcn.com
@@ -327,6 +330,7 @@ a-www.riec.nl
 a-www.rijksdienstcn.com
 a-www.rijksoverheid.nl
 a-www.rijksrecherche.nl
+a-www.rijksvastgoedbedrijf.nl
 a2b-rtr.alkmaar.nl
 a2vonderenkerensheide.nl
 aaa.goirle.nl
@@ -6323,6 +6327,7 @@ feeds.rijksinspecties.nl
 feeds.rijksorganisatieodi.nl
 feeds.rijksoverheid.nl
 feeds.rijksrecherche.nl
+feeds.rijksvastgoedbedrijf.nl
 felix.aalten.nl
 felix.achtkarspelen.nl
 felix.baarn.nl
@@ -9388,6 +9393,7 @@ labelwastexl.sudwestfryslan.nl
 labvantage-acc.nvwa.nl
 labvantage.nvwa.nl
 lan.schagen.nl
+landelijkevastgoeddag.rijksvastgoedbedrijf.nl
 landgraaf.nl
 landhorst.landvancuijk.nl
 landingspage.landvancuijk.nl
@@ -9848,6 +9854,7 @@ magazines.rotterdam.nl
 magazines.werkenvoornederland.nl
 magazinesintern.p-direkt.nl
 magazinesintern.rijksoverheid.nl
+magazinesintern.rijksvastgoedbedrijf.nl
 mail-a.huurcommissie.nl
 mail.aalten.nl
 mail.acc.amsterdam.nl
@@ -12153,6 +12160,7 @@ opendata.rijksinspecties.nl
 opendata.rijksorganisatieodi.nl
 opendata.rijksoverheid.nl
 opendata.rijksrecherche.nl
+opendata.rijksvastgoedbedrijf.nl
 opendata.roosendaal.nl
 opendata.utrecht.nl
 opendata.zoetermeer.nl
@@ -13459,6 +13467,7 @@ projecten.denhaag.nl
 projecten.lansingerland.nl
 projecten.nederbetuwe.nl
 projecten.netwerkplatteland.nl
+projecten.rijksvastgoedbedrijf.nl
 projectenboek.leidschendam-voorburg.nl
 projects.rotterdam.nl
 prolander.nl
@@ -18993,6 +19002,7 @@ www.rijksinspecties.nl
 www.rijksorganisatieodi.nl
 www.rijksoverheid.nl
 www.rijksrecherche.nl
+www.rijksvastgoedbedrijf.nl
 www.rijssen-holten.nl
 www.rijswijk.nl
 www.risicokaart.flevoland.nl

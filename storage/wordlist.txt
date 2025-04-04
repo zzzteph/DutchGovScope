@@ -36,9 +36,9 @@ vpn
 open
 afspraak
 waarmerk
-parkeren
 a-feeds
 a-opendata
+parkeren
 feeds.english
 opendata.english
 adfs
@@ -314,6 +314,7 @@ redactie
 forms
 geotest
 nieuwsbrieven
+projecten
 media
 access
 www2
@@ -365,7 +366,6 @@ nieuws
 test.digikoppeling
 mijnloket
 nhr
-projecten
 geoweb
 octopus
 digitaal
@@ -546,6 +546,7 @@ cca-acc
 cca
 git
 i-www
+magazinesintern
 monitor
 o-www
 static
@@ -790,6 +791,7 @@ autodiscover.raad
 a-cms
 a-cms1
 a-cms2
+a-magazinesintern
 a-site1
 a-site2
 cms1
@@ -802,7 +804,6 @@ handleiding
 i-cms
 i-cms1
 i-site1
-magazinesintern
 o-cms1
 o-site1
 opendata.persberichten
@@ -1405,7 +1406,6 @@ mailgate
 testbelastingen
 a-git
 a-jira
-a-magazinesintern
 a-persberichten
 a-servicedesk
 a-static
@@ -3722,6 +3722,7 @@ push
 vpnbon
 tools-acc
 tools
+landelijkevastgoeddag
 email.mail.participatie
 mail.participatie
 aalten-checker-preprod

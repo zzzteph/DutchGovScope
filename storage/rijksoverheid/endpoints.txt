@@ -989,6 +989,7 @@ https://feeds.rijksinspecties.nl
 https://feeds.rijksorganisatieodi.nl
 https://feeds.rijksoverheid.nl
 https://feeds.rijksrecherche.nl
+https://feeds.rijksvastgoedbedrijf.nl
 https://fibb1.belastingdienst.nl
 https://fibd1.belastingdienst.nl
 https://fibe1.belastingdienst.nl
@@ -1238,6 +1239,7 @@ https://koppelvlak-asl.overheid.nl
 https://koppelvlak.overheid.nl
 https://kwaliteitsdashboard-koop.overheid.nl
 https://labvantage-acc.nvwa.nl
+https://landelijkevastgoeddag.rijksvastgoedbedrijf.nl
 https://le-webservices-beta.belastingdienst.nl
 https://le-webservices.belastingdienst.nl
 https://leefbaarenveilig.nl
@@ -1304,6 +1306,7 @@ https://magazines.riec.nl
 https://magazines.rijksoverheid.nl
 https://magazines.werkenvoornederland.nl
 https://magazinesintern.rijksoverheid.nl
+https://magazinesintern.rijksvastgoedbedrijf.nl
 https://mail.dihoo.nl
 https://mail.koop.overheid.nl
 https://mail.odmh.nl
@@ -1791,6 +1794,7 @@ https://opendata.rijksinspecties.nl
 https://opendata.rijksorganisatieodi.nl
 https://opendata.rijksoverheid.nl
 https://opendata.rijksrecherche.nl
+https://opendata.rijksvastgoedbedrijf.nl
 https://opendisdata.nza.nl
 https://opleiding-ola.belastingdienst.nl
 https://opleiding.nl-alert.nl
@@ -1896,6 +1900,7 @@ https://prod-dictu.logius.nl
 https://prod.nl-alert.nl
 https://prod.radar.rdi.nl
 https://projecten.netwerkplatteland.nl
+https://projecten.rijksvastgoedbedrijf.nl
 https://prolander.nl
 https://prosecutionservice.nl
 https://prototype.cibg.nl
@@ -2590,6 +2595,7 @@ https://www.rijksinspecties.nl
 https://www.rijksorganisatieodi.nl
 https://www.rijksoverheid.nl
 https://www.rijksrecherche.nl
+https://www.rijksvastgoedbedrijf.nl
 https://www.stateninformatie.provincie-utrecht.nl
 https://www.test.monumentenregister.cultureelerfgoed.nl
 https://www.testsite.ceg.nl

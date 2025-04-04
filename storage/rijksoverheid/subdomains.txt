@@ -93,6 +93,7 @@ a-feeds.riec.nl
 a-feeds.rijksdienstcn.com
 a-feeds.rijksoverheid.nl
 a-feeds.rijksrecherche.nl
+a-feeds.rijksvastgoedbedrijf.nl
 a-git.rijksoverheid.nl
 a-informatieservice.nederlandwereldwijd.nl
 a-jira.rijksoverheid.nl
@@ -104,6 +105,7 @@ a-magazines.igj.nl
 a-magazines.riec.nl
 a-magazines.rijksoverheid.nl
 a-magazinesintern.rijksoverheid.nl
+a-magazinesintern.rijksvastgoedbedrijf.nl
 a-opendata.a-english.aivd.nl
 a-opendata.a-english.autoriteitnvs.nl
 a-opendata.a-english.bigregister.nl
@@ -160,6 +162,7 @@ a-opendata.riec.nl
 a-opendata.rijksdienstcn.com
 a-opendata.rijksoverheid.nl
 a-opendata.rijksrecherche.nl
+a-opendata.rijksvastgoedbedrijf.nl
 a-papiamentu.rijksdienstcn.com
 a-persberichten.rijksoverheid.nl
 a-servicedesk.rijksoverheid.nl
@@ -218,6 +221,7 @@ a-www.riec.nl
 a-www.rijksdienstcn.com
 a-www.rijksoverheid.nl
 a-www.rijksrecherche.nl
+a-www.rijksvastgoedbedrijf.nl
 a2vonderenkerensheide.nl
 aaenmaas.nl
 aanbiedersmedicijnen.nl
@@ -1590,6 +1594,7 @@ feeds.rijksinspecties.nl
 feeds.rijksorganisatieodi.nl
 feeds.rijksoverheid.nl
 feeds.rijksrecherche.nl
+feeds.rijksvastgoedbedrijf.nl
 fibb-perf.acc.belastingdienst.nl
 fibb1.belastingdienst.nl
 fibb2.acc.belastingdienst.nl
@@ -2107,6 +2112,7 @@ kp-moss-ut.tst.belastingdienst.nl
 kwaliteitsdashboard-koop.overheid.nl
 labvantage-acc.nvwa.nl
 labvantage.nvwa.nl
+landelijkevastgoeddag.rijksvastgoedbedrijf.nl
 le-webservices-beta.belastingdienst.nl
 le-webservices.belastingdienst.nl
 leefbaarenveilig.nl
@@ -2211,6 +2217,7 @@ magazines.rijksoverheid.nl
 magazines.werkenvoornederland.nl
 magazinesintern.p-direkt.nl
 magazinesintern.rijksoverheid.nl
+magazinesintern.rijksvastgoedbedrijf.nl
 mail-a.huurcommissie.nl
 mail.aladdin.p-direkt.nl
 mail.bapi.belastingdienst.nl
@@ -2942,6 +2949,7 @@ opendata.rijksinspecties.nl
 opendata.rijksorganisatieodi.nl
 opendata.rijksoverheid.nl
 opendata.rijksrecherche.nl
+opendata.rijksvastgoedbedrijf.nl
 opendisdata-acc.nza.nl
 opendisdata.nza.nl
 openims-acc.ctgb.nl
@@ -3143,6 +3151,7 @@ prod.nl-alert.nl
 prod.radar.rdi.nl
 prod2.opendata.nederlandwereldwijd.nl
 projecten.netwerkplatteland.nl
+projecten.rijksvastgoedbedrijf.nl
 prolander.nl
 prosecutionservice.nl
 prototype.cibg.nl
@@ -4340,6 +4349,7 @@ www.rijksinspecties.nl
 www.rijksorganisatieodi.nl
 www.rijksoverheid.nl
 www.rijksrecherche.nl
+www.rijksvastgoedbedrijf.nl
 www.risicokaart.flevoland.nl
 www.sharepoint-conf.belastingdienst.nl
 www.sharepoint.belastingdienst.nl
