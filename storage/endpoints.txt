@@ -4172,6 +4172,7 @@ https://feeds.tib-ivd.nl
 https://feeds.tlokb.nl
 https://feeds.toegangspuntmobiliteit.nl
 https://feeds.toekomstglb.nl
+https://feeds.toekomstreligieuserfgoed.nl
 https://felix.baarn.nl
 https://felix.bergen.nl
 https://felix.beverwijk.nl
@@ -7438,6 +7439,7 @@ https://opendata.tib-ivd.nl
 https://opendata.tlokb.nl
 https://opendata.toegangspuntmobiliteit.nl
 https://opendata.toekomstglb.nl
+https://opendata.toekomstreligieuserfgoed.nl
 https://opendata.utrecht.nl
 https://opendata.zoetermeer.nl
 https://opendisdata.nza.nl
@@ -9501,6 +9503,7 @@ https://toegangspuntmobiliteit.nl
 https://toegankelijk.enschede.nl
 https://toegankelijkestad.zwolle.nl
 https://toekomst.veenendaal.nl
+https://toekomstreligieuserfgoed.nl
 https://toekomstvisie.oude-ijsselstreek.nl
 https://toelatingen.ctgb.nl
 https://toepasbare-regels.omgevingswet.overheid.nl
@@ -11106,6 +11109,7 @@ https://www.tlokb.nl
 https://www.toegangspuntmobiliteit.nl
 https://www.toegankelijk.enschede.nl
 https://www.toekomstglb.nl
+https://www.toekomstreligieuserfgoed.nl
 https://www.toerisme.groningen.nl
 https://www.toeslagen.nl
 https://www.tst2905.omgevingswet.overheid.nl
