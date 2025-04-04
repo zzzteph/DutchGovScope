@@ -8,6 +8,7 @@ Autodiscover.tib-ivd.nl
 Lrza.gatservices.acc.igj.nl
 Lrza.gatservices.prd.igj.nl
 ZDPushservice.overheid.nl
+_autodiscover._tcp.toetredingzorgaanbieders.nl
 _dmarc.cibg.nl
 _dmarc.dji.nl
 _dmarc.logius.nl
@@ -1683,6 +1684,7 @@ feeds.toegangspuntmobiliteit.nl
 feeds.toekomstglb.nl
 feeds.toekomstreligieuserfgoed.nl
 feeds.toekomstvisiegewasbescherming2030.nl
+feeds.toetredingzorgaanbieders.nl
 fibb-perf.acc.belastingdienst.nl
 fibb1.belastingdienst.nl
 fibb2.acc.belastingdienst.nl
@@ -3084,6 +3086,7 @@ opendata.toegangspuntmobiliteit.nl
 opendata.toekomstglb.nl
 opendata.toekomstreligieuserfgoed.nl
 opendata.toekomstvisiegewasbescherming2030.nl
+opendata.toetredingzorgaanbieders.nl
 opendisdata-acc.nza.nl
 opendisdata.nza.nl
 openims-acc.ctgb.nl
@@ -3927,6 +3930,7 @@ toestemming-tst.belastingdienst.nl
 toestemming.acc.toeslagen.nl
 toestemming.belastingdienst.nl
 toestemming.toeslagen.nl
+toetredingzorgaanbieders.nl
 toetsingonline.ccmo.nl
 toezichtdocumenten.igj.nl
 toezichtopzorgnetwerken.igj.nl
@@ -4622,6 +4626,7 @@ www.toekomstglb.nl
 www.toekomstreligieuserfgoed.nl
 www.toekomstvisiegewasbescherming2030.nl
 www.toeslagen.nl
+www.toetredingzorgaanbieders.nl
 www.tst2905.omgevingswet.overheid.nl
 www.veilig.cultureelerfgoed.nl
 www.vepkmsont.vcdn.belastingdienst.nl

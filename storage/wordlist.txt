@@ -122,6 +122,7 @@ bgt
 sts
 micollab
 bastion365
+_autodiscover._tcp
 verkiezingen
 duurzaam
 simcms-open
@@ -132,7 +133,6 @@ _dmarc
 api
 inloggen
 mijnzorg
-_autodiscover._tcp
 vergunningintaker
 snelbalie
 dali
