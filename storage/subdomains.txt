@@ -8633,6 +8633,7 @@ intern.aanmeldenparkeren.amsterdam.nl
 intern.catalogus.cultureelerfgoed.nl
 intern.formulieren.acc.amsterdam.nl
 intern.formulieren.amsterdam.nl
+intern.ssc-ictspecials.nl
 intern.venlo.nl
 internal-docs.ndw.nu
 internalbeacon.kampen.nl
@@ -15329,6 +15330,7 @@ srv-dmz-01.middendelfland.nl
 srv4587.veere.nl
 srvmksbur.buren.nl
 ssc-ict.nl
+ssc-ictspecials.nl
 sscict.intranet.amsterdam.nl
 ssd.brunssum.nl
 ssd.drimmelen.nl
@@ -19251,6 +19253,7 @@ www.squit2go.oldenzaal.nl
 www.srmvaprd.ovh.gemeentebeek.nl
 www.srmvauitwijk.ovh.gemeentebeek.nl
 www.ssc-ict.nl
+www.ssc-ictspecials.nl
 www.sso-test.groningen.nl
 www.ssp.kaagenbraassem.nl
 www.staatvandeparticipatie.amsterdam.nl

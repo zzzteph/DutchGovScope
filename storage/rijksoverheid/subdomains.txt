@@ -2053,6 +2053,7 @@ intel-acc.ncsc.nl
 intel.ncsc.nl
 intermediairdagen.belastingdienst.nl
 intern.catalogus.cultureelerfgoed.nl
+intern.ssc-ictspecials.nl
 internal-docs.ndw.nu
 internationaal.ondernemen.overheid.nl
 intpatch.omgevingswet.overheid.nl
@@ -3613,6 +3614,7 @@ specials.brabant.nl
 splunksyslog.dmz.belastingdienst.nl
 squit2go.ofgv.nl
 ssc-ict.nl
+ssc-ictspecials.nl
 ssl-vpn.brabant.nl
 ssl.defensie.nl
 sslvpn-hth.provincie-utrecht.nl
@@ -4520,6 +4522,7 @@ www.slimwatermanagement.nl
 www.socialestabiliteit.nl
 www.sodm.nl
 www.ssc-ict.nl
+www.ssc-ictspecials.nl
 www.stateninformatie.provincie-utrecht.nl
 www.test.monumentenregister.cultureelerfgoed.nl
 www.testsite.ceg.nl

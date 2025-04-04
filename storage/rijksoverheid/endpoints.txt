@@ -1203,6 +1203,7 @@ https://integratie02.omgevingswet.overheid.nl
 https://integriteitswijzer.huisvoorklokkenluiders.nl
 https://intermediairdagen.belastingdienst.nl
 https://intern.catalogus.cultureelerfgoed.nl
+https://intern.ssc-ictspecials.nl
 https://internal-docs.ndw.nu
 https://intpatch.omgevingswet.overheid.nl
 https://intranet-bestanden.flevoland.nl
@@ -2130,6 +2131,7 @@ https://sodm.nl
 https://sonar.ndw.nu
 https://sorry.belastingdienst.nl
 https://ssc-ict.nl
+https://ssc-ictspecials.nl
 https://sslvpn-hth.provincie-utrecht.nl
 https://sslvpn.provincie-utrecht.nl
 https://sso.acc.omgevingswet.overheid.nl
@@ -2687,6 +2689,7 @@ https://www.slimwatermanagement.nl
 https://www.socialestabiliteit.nl
 https://www.sodm.nl
 https://www.ssc-ict.nl
+https://www.ssc-ictspecials.nl
 https://www.stateninformatie.provincie-utrecht.nl
 https://www.test.monumentenregister.cultureelerfgoed.nl
 https://www.testsite.ceg.nl

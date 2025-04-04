@@ -5279,6 +5279,7 @@ https://intern.aanmeldenparkeren.amsterdam.nl
 https://intern.catalogus.cultureelerfgoed.nl
 https://intern.formulieren.acc.amsterdam.nl
 https://intern.formulieren.amsterdam.nl
+https://intern.ssc-ictspecials.nl
 https://internal-docs.ndw.nu
 https://internemagazines.amsterdam.nl
 https://internetafspraken.hattem.nl
@@ -8895,6 +8896,7 @@ https://squitxo-test.schagen.nl
 https://squitxo.rijssen-holten.nl
 https://squitxo.schagen.nl
 https://ssc-ict.nl
+https://ssc-ictspecials.nl
 https://ssl.roermond.nl
 https://sslvpn-hth.provincie-utrecht.nl
 https://sslvpn.provincie-utrecht.nl
@@ -10988,6 +10990,7 @@ https://www.sport.roermond.nl
 https://www.sportencultuur.gorinchem.nl
 https://www.sportloket.landvancuijk.nl
 https://www.ssc-ict.nl
+https://www.ssc-ictspecials.nl
 https://www.staatvandeparticipatie.amsterdam.nl
 https://www.stad.kampen.nl
 https://www.stadsarchief.breda.nl
