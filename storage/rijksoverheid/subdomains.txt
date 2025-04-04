@@ -85,6 +85,7 @@ a-feeds.politiekeambtsdragers.nl
 a-feeds.raadopenbaarbestuur.nl
 a-feeds.rda.nl
 a-feeds.rekenkamer.nl
+a-feeds.riec.nl
 a-feeds.rijksoverheid.nl
 a-git.rijksoverheid.nl
 a-informatieservice.nederlandwereldwijd.nl
@@ -94,6 +95,7 @@ a-magazines.dji.nl
 a-magazines.forensischinstituut.nl
 a-magazines.government.nl
 a-magazines.igj.nl
+a-magazines.riec.nl
 a-magazines.rijksoverheid.nl
 a-magazinesintern.rijksoverheid.nl
 a-opendata.a-english.aivd.nl
@@ -146,6 +148,7 @@ a-opendata.politiekeambtsdragers.nl
 a-opendata.raadopenbaarbestuur.nl
 a-opendata.rda.nl
 a-opendata.rekenkamer.nl
+a-opendata.riec.nl
 a-opendata.rijksoverheid.nl
 a-persberichten.rijksoverheid.nl
 a-servicedesk.rijksoverheid.nl
@@ -200,6 +203,7 @@ a-www.politiekeambtsdragers.nl
 a-www.raadopenbaarbestuur.nl
 a-www.rda.nl
 a-www.rekenkamer.nl
+a-www.riec.nl
 a-www.rijksoverheid.nl
 a2vonderenkerensheide.nl
 aaenmaas.nl
@@ -1557,6 +1561,7 @@ feeds.rdi.nl
 feeds.regelhulp.nl
 feeds.regiosaandegrens.nl
 feeds.rekenkamer.nl
+feeds.riec.nl
 feeds.rijksoverheid.nl
 fibb-perf.acc.belastingdienst.nl
 fibb1.belastingdienst.nl
@@ -2170,6 +2175,7 @@ magazines.onderwijsinspectie.nl
 magazines.overheidvannu.nl
 magazines.p-direkt.nl
 magazines.rdi.nl
+magazines.riec.nl
 magazines.rijksoverheid.nl
 magazines.werkenvoornederland.nl
 magazinesintern.p-direkt.nl
@@ -2234,6 +2240,7 @@ mdm.ctgb.nl
 mdm.flevoland.nl
 mdm.justid.nl
 mdm.om.nl
+mdm.zwb.riec.nl
 mdmeas.cbg-meb.nl
 mdmvpn-t.cbg-meb.nl
 mdmvpn.cbg-meb.nl
@@ -2890,6 +2897,7 @@ opendata.rdi.nl
 opendata.regelhulp.nl
 opendata.regiosaandegrens.nl
 opendata.rekenkamer.nl
+opendata.riec.nl
 opendata.rijksoverheid.nl
 opendisdata-acc.nza.nl
 opendisdata.nza.nl
@@ -3188,6 +3196,7 @@ resolver.pre.omgevingswet.overheid.nl
 resultaten.nlarbeidsinspectie.nl
 rev.emissieautoriteit.nl
 rht.belastingdienst.nl
+riec.nl
 rijkskantoorproxy.belastingdienst.nl
 rijksoverheid.nl
 rijkstrainee.werkenvoornederland.nl
@@ -3285,6 +3294,7 @@ securityzkh.nctv.nl
 selector1._domainkey.nlarbeidsinspectie.nl
 selector2._domainkey.nlarbeidsinspectie.nl
 sentry.ndw.nu
+sentry1.zwb.riec.nl
 sepm.belastingdienst.nl
 service.acc.omgevingswet.overheid.nl
 service.bta.omgevingswet.overheid.nl
@@ -4263,6 +4273,7 @@ www.regiosaandegrens.nl
 www.regulatoryscience.nl
 www.rekenhulptransitievergoeding.nl
 www.rekenkamer.nl
+www.riec.nl
 www.rijksoverheid.nl
 www.risicokaart.flevoland.nl
 www.sharepoint-conf.belastingdienst.nl
@@ -4323,3 +4334,4 @@ zsmgame.om.nl
 zta-ont.belastingdienst.nl
 zta-ota.belastingdienst.nl
 zta.belastingdienst.nl
+zwb.riec.nl

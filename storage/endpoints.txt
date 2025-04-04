@@ -4097,6 +4097,7 @@ https://feeds.rdi.nl
 https://feeds.regelhulp.nl
 https://feeds.regiosaandegrens.nl
 https://feeds.rekenkamer.nl
+https://feeds.riec.nl
 https://feeds.rijksoverheid.nl
 https://felix.baarn.nl
 https://felix.bergen.nl
@@ -5917,6 +5918,7 @@ https://magazines.nza.nl
 https://magazines.onderwijsinspectie.nl
 https://magazines.overheidvannu.nl
 https://magazines.rdi.nl
+https://magazines.riec.nl
 https://magazines.rijksoverheid.nl
 https://magazines.rotterdam.nl
 https://magazines.werkenvoornederland.nl
@@ -6014,6 +6016,7 @@ https://mdm.justid.nl
 https://mdm.om.nl
 https://mdm.waterland.nl
 https://mdm.winterswijk.nl
+https://mdm.zwb.riec.nl
 https://medemblik.nl
 https://medewerkers.buren.nl
 https://medewerkers.defryskemarren.nl
@@ -7309,6 +7312,7 @@ https://opendata.rdi.nl
 https://opendata.regelhulp.nl
 https://opendata.regiosaandegrens.nl
 https://opendata.rekenkamer.nl
+https://opendata.riec.nl
 https://opendata.rijksoverheid.nl
 https://opendata.roosendaal.nl
 https://opendata.utrecht.nl
@@ -8261,6 +8265,7 @@ https://rev.emissieautoriteit.nl
 https://rheden.nl
 https://rhenen.nl
 https://ridderkerk.nl
+https://riec.nl
 https://rijkevoort.landvancuijk.nl
 https://rijksoverheid.nl
 https://rijssen-holten.nl
@@ -10801,6 +10806,7 @@ https://www.reuseldemierden.nl
 https://www.rheden.nl
 https://www.rhenen.nl
 https://www.ridderkerk.nl
+https://www.riec.nl
 https://www.rijksoverheid.nl
 https://www.rijssen-holten.nl
 https://www.rijswijk.nl

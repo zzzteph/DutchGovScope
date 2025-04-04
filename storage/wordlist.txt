@@ -41,9 +41,9 @@ adfs
 feeds.english
 opendata.english
 raad
-api.meldingen
 a-feeds
 a-opendata
+api.meldingen
 broker
 betalen
 ruimtelijkeplannen
@@ -59,10 +59,10 @@ data
 test-ipa
 dacceptatieloket
 dacceptatiemidoffice
+magazines
 remote
 dloket
 dmidoffice
-magazines
 login
 enterpriseregistration
 beeldbank
@@ -271,6 +271,7 @@ kcc
 cloudadapter-prod
 handhaving
 www.portal
+a-magazines
 servicedesk
 zoeken
 app
@@ -301,7 +302,6 @@ jongin
 woz-portaal
 en
 mijnsociaaldomein
-a-magazines
 mijn-acc
 rap
 smtp1
@@ -3710,6 +3710,9 @@ coronarekening
 mailfilter01
 onsgeldontcijferd-test
 onsgeldontcijferd
+mdm.zwb
+sentry1.zwb
+zwb
 email.mail.participatie
 mail.participatie
 aalten-checker-preprod
