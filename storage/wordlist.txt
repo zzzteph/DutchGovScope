@@ -964,6 +964,7 @@ acceptatie-zaaksysteem
 securetest
 formulieren-preprod
 nextcloud
+vacature
 edienstenburgerzaken.test
 www.praatmee
 datalab
@@ -3883,7 +3884,6 @@ test-cms-eef
 test-eef
 wikixl-saml.acceptatie
 wauke
-vacature
 email.mail.participatie
 mail.participatie
 aalten-checker-preprod
