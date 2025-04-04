@@ -1,16 +1,19 @@
-name: Scope GIST sync
+name: Gist sync
 
 on:
-  push:
-    paths:
-      - 'storage/*'
+  workflow_run:
+    workflows: ["Schedule scan"]
+    types:
+      - completed
 
 jobs:
-  sync-scope:
+  scope-change-check:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repo
+      - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Run sync action
-        run: echo "Scope files were updated!"
+      - name: Check if scope changed
+        run: |
+          git fetch origin main
+          git diff --name-only origin/main HEAD | grep '^scope/' && echo "Scope changed!" || echo "No changes."
