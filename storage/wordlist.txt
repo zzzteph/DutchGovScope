@@ -5,8 +5,8 @@ feeds
 autodiscover
 iburgerzaken
 ibzpink
-intranet
 mail
+intranet
 edienstenburgerzaken
 edienstenburgerzaken-test
 mijn
@@ -225,6 +225,7 @@ afspraakmaken
 m
 website
 wachtwoord
+redactie
 archief
 guest
 preprod-mijn
@@ -255,7 +256,6 @@ werkenvoor
 xential
 mam
 exchange
-redactie
 e-loket
 sslvpn
 ns1
@@ -3858,6 +3858,7 @@ www.basisregistratie
 www.mta-sts
 www.topdesk
 toolbox
+elo
 email.mail.participatie
 mail.participatie
 aalten-checker-preprod
