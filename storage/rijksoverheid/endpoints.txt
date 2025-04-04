@@ -142,6 +142,7 @@ https://aanpakringzuid.nl
 https://aanvraag.dus-i.nl
 https://aanvragen-acc.nza.nl
 https://aanvragen.nza.nl
+https://aanvragen.uziregister.nl
 https://aboutnetherlandscustoms.nl
 https://academie.acc.belastingdienst.nl
 https://academie.belastingdienst.nl
@@ -174,6 +175,7 @@ https://acc.opendata.nederlandwereldwijd.nl
 https://acc.stor.services.cultureelerfgoed.nl
 https://acc.zsmgame.om.nl
 https://acc2.inspectieresultaten.nvwa.nl
+https://acceptatie.aanvragen.uziregister.nl
 https://acceptatie.abonnee.dezi.nl
 https://acceptatie.advieswijzer.bigregister.nl
 https://acceptatie.api.bigregister.nl
@@ -193,6 +195,7 @@ https://acceptatie.beheer.ncpeh.nl
 https://acceptatie.bestandsportaal.cibg.nl
 https://acceptatie.designsystem.cibg.nl
 https://acceptatie.drms.cibg.nl
+https://acceptatie.formulieren.uziregister.nl
 https://acceptatie.geoservices.cultureelerfgoed.nl
 https://acceptatie.hulpmiddelen.farmatec.nl
 https://acceptatie.lir.cibg.nl
@@ -212,6 +215,7 @@ https://acceptatie.tmv.cibg.nl
 https://acceptatie.uzipas.lir.cibg.nl
 https://acceptatie.uzipas.portaal.ncpeh.nl
 https://acceptatie.uzipas.raadplegen.sbv-z.nl
+https://acceptatie.uzipas.uziregister.nl
 https://acceptatie.webservices.bigregister.nl
 https://acceptatie.wio.ilent.nl
 https://acceptatie.zoeken.bigregister.nl
@@ -1068,6 +1072,7 @@ https://feeds.uitelkaarmetkinderen.nl
 https://feeds.uitkomstgerichtezorg.nl
 https://feeds.uitvoeringvanbeleidszw.nl
 https://feeds.uwbeslagvrijevoet.nl
+https://feeds.uziregister.nl
 https://fibb1.belastingdienst.nl
 https://fibd1.belastingdienst.nl
 https://fibe1.belastingdienst.nl
@@ -1102,6 +1107,7 @@ https://formulieren.nvwa.nl
 https://formulieren.odmh.nl
 https://formulieren.provincie-utrecht.nl
 https://formulieren.provincie.drenthe.nl
+https://formulieren.uziregister.nl
 https://foto-opdracht.cultureelerfgoed.nl
 https://fs.ctgb.nl
 https://fs.rijksdienstcn.com
@@ -1922,6 +1928,7 @@ https://opendata.uitelkaarmetkinderen.nl
 https://opendata.uitkomstgerichtezorg.nl
 https://opendata.uitvoeringvanbeleidszw.nl
 https://opendata.uwbeslagvrijevoet.nl
+https://opendata.uziregister.nl
 https://opendisdata.nza.nl
 https://opkopersregister.stopheling.nl
 https://opleiding-ola.belastingdienst.nl
@@ -2368,6 +2375,8 @@ https://uwbeslagvrijevoet.nl
 https://uzipas.lir.cibg.nl
 https://uzipas.portaal.ncpeh.nl
 https://uzipas.raadplegen.sbv-z.nl
+https://uzipas.uziregister.nl
+https://uziregister.nl
 https://vacatures.odmh.nl
 https://validatie-acc.justid.nl
 https://validatie.justid.nl
@@ -2829,6 +2838,7 @@ https://www.uitelkaarmetkinderen.nl
 https://www.uitkomstgerichtezorg.nl
 https://www.uitvoeringvanbeleidszw.nl
 https://www.uwbeslagvrijevoet.nl
+https://www.uziregister.nl
 https://www.veilig.cultureelerfgoed.nl
 https://www.wegen.brabant.nl
 https://www.werken.belastingdienst.nl

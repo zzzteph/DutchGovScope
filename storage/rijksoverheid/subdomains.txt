@@ -9,6 +9,7 @@ Lrza.gatservices.acc.igj.nl
 Lrza.gatservices.prd.igj.nl
 ZDPushservice.overheid.nl
 _autodiscover._tcp.toetredingzorgaanbieders.nl
+_autodiscover._tcp.uziregister.nl
 _dmarc.cibg.nl
 _dmarc.dji.nl
 _dmarc.logius.nl
@@ -253,6 +254,7 @@ aansluitsuite.preproductie.digipoort.logius.nl
 aanvraag.dus-i.nl
 aanvragen-acc.nza.nl
 aanvragen.nza.nl
+aanvragen.uziregister.nl
 abat.acc.belastingdienst.nl
 abo.digilevering.belastingdienst.nl
 abonneren.toezichtdocumenten.igj.nl
@@ -320,6 +322,7 @@ acc.stor.services.cultureelerfgoed.nl
 acc.stubs.lpc.mijn.overheid.nl
 acc.subsidie.cultureelerfgoed.nl
 acc.translate.services.cultureelerfgoed.nl
+acc.uziregister.nl
 acc.zaak.services.cultureelerfgoed.nl
 acc.zsmgame.om.nl
 acc0.mijn.overheid.nl
@@ -335,6 +338,7 @@ acc7.mijn.overheid.nl
 acc8.mijn.overheid.nl
 acc9.mijn.overheid.nl
 acceptatie-checkjeprijs.huurcommissie.nl
+acceptatie.aanvragen.uziregister.nl
 acceptatie.abonnee.dezi.nl
 acceptatie.advieswijzer.bigregister.nl
 acceptatie.api.bigregister.nl
@@ -363,6 +367,7 @@ acceptatie.digikoppeling.cibg.nl
 acceptatie.digikoppeling2.cibg.nl
 acceptatie.drms.cibg.nl
 acceptatie.ebms.digikoppeling.cibg.nl
+acceptatie.formulieren.uziregister.nl
 acceptatie.geoservices.cultureelerfgoed.nl
 acceptatie.hulpmiddelen.farmatec.nl
 acceptatie.lir.cibg.nl
@@ -386,6 +391,7 @@ acceptatie.tmv.cibg.nl
 acceptatie.uzipas.lir.cibg.nl
 acceptatie.uzipas.portaal.ncpeh.nl
 acceptatie.uzipas.raadplegen.sbv-z.nl
+acceptatie.uzipas.uziregister.nl
 acceptatie.webservices.bigregister.nl
 acceptatie.webservices.donorregister.nl
 acceptatie.webservices.lrza.cibg.nl
@@ -1705,6 +1711,7 @@ feeds.uitelkaarmetkinderen.nl
 feeds.uitkomstgerichtezorg.nl
 feeds.uitvoeringvanbeleidszw.nl
 feeds.uwbeslagvrijevoet.nl
+feeds.uziregister.nl
 fibb-perf.acc.belastingdienst.nl
 fibb1.belastingdienst.nl
 fibb2.acc.belastingdienst.nl
@@ -1768,6 +1775,7 @@ formulieren.nvwa.nl
 formulieren.odmh.nl
 formulieren.provincie-utrecht.nl
 formulieren.provincie.drenthe.nl
+formulieren.uziregister.nl
 fortescloud.acc.belastingdienst.nl
 fortescloud.belastingdienst.nl
 forum.developer.overheid.nl
@@ -3119,6 +3127,7 @@ opendata.uitelkaarmetkinderen.nl
 opendata.uitkomstgerichtezorg.nl
 opendata.uitvoeringvanbeleidszw.nl
 opendata.uwbeslagvrijevoet.nl
+opendata.uziregister.nl
 opendisdata-acc.nza.nl
 opendisdata.nza.nl
 openims-acc.ctgb.nl
@@ -4020,6 +4029,8 @@ uworktest.flevoland.nl
 uzipas.lir.cibg.nl
 uzipas.portaal.ncpeh.nl
 uzipas.raadplegen.sbv-z.nl
+uzipas.uziregister.nl
+uziregister.nl
 va_do.belastingdienst.nl
 vacatures.odmh.nl
 validatie-acc.justid.nl
@@ -4677,6 +4688,7 @@ www.uitelkaarmetkinderen.nl
 www.uitkomstgerichtezorg.nl
 www.uitvoeringvanbeleidszw.nl
 www.uwbeslagvrijevoet.nl
+www.uziregister.nl
 www.veilig.cultureelerfgoed.nl
 www.vepkmsont.vcdn.belastingdienst.nl
 www.vepkmstst.vcdn.belastingdienst.nl

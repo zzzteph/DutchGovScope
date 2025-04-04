@@ -102,6 +102,7 @@ _autodiscover._tcp.raalte.nl
 _autodiscover._tcp.ridderkerk.nl
 _autodiscover._tcp.schiermonnikoog.nl
 _autodiscover._tcp.toetredingzorgaanbieders.nl
+_autodiscover._tcp.uziregister.nl
 _autodiscover._tcp.wijkbijduurstede.nl
 _dmarc.cibg.nl
 _dmarc.delft.nl
@@ -390,6 +391,7 @@ aanvragen-acc.nza.nl
 aanvragen.alkmaar.nl
 aanvragen.denhaag.nl
 aanvragen.nza.nl
+aanvragen.uziregister.nl
 aanvragen.zoetermeer.nl
 aanvragenpreprod.hillegom.nl
 aanvragenpreprod.lisse.nl
@@ -825,6 +827,7 @@ acc.top.amsterdam.nl
 acc.translate.services.cultureelerfgoed.nl
 acc.tubbergen.nl
 acc.tynaarlo.nl
+acc.uziregister.nl
 acc.vaals.nl
 acc.veldhoven.nl
 acc.venlo.nl
@@ -893,6 +896,7 @@ acceptatie-stemvan.emmen.nl
 acceptatie-vaarvergunningen.amsterdam.nl
 acceptatie-zaaksysteem.soest.nl
 acceptatie.aalsmeer.nl
+acceptatie.aanvragen.uziregister.nl
 acceptatie.abonnee.dezi.nl
 acceptatie.advieswijzer.bigregister.nl
 acceptatie.alphen-chaam.nl
@@ -941,6 +945,7 @@ acceptatie.eijsden-margraten.nl
 acceptatie.eindhoven.nl
 acceptatie.eloket.leusden.nl
 acceptatie.emmen.nl
+acceptatie.formulieren.uziregister.nl
 acceptatie.gemeentebeek.nl
 acceptatie.gemeentesluis.nl
 acceptatie.gemeentewesterveld.nl
@@ -1026,6 +1031,7 @@ acceptatie.uithoorn.nl
 acceptatie.uzipas.lir.cibg.nl
 acceptatie.uzipas.portaal.ncpeh.nl
 acceptatie.uzipas.raadplegen.sbv-z.nl
+acceptatie.uzipas.uziregister.nl
 acceptatie.veendam.nl
 acceptatie.velsen.nl
 acceptatie.voerendaal.nl
@@ -6438,6 +6444,7 @@ feeds.uitelkaarmetkinderen.nl
 feeds.uitkomstgerichtezorg.nl
 feeds.uitvoeringvanbeleidszw.nl
 feeds.uwbeslagvrijevoet.nl
+feeds.uziregister.nl
 felix.aalten.nl
 felix.achtkarspelen.nl
 felix.baarn.nl
@@ -6839,6 +6846,7 @@ formulieren.stichtsevecht.nl
 formulieren.sudwestfryslan.nl
 formulieren.test.oss.nl
 formulieren.tiel.nl
+formulieren.uziregister.nl
 formulieren.veere.nl
 formulieren.veldhoven.nl
 formulieren.venlo.nl
@@ -12332,6 +12340,7 @@ opendata.uitkomstgerichtezorg.nl
 opendata.uitvoeringvanbeleidszw.nl
 opendata.utrecht.nl
 opendata.uwbeslagvrijevoet.nl
+opendata.uziregister.nl
 opendata.zoetermeer.nl
 opendisdata-acc.nza.nl
 opendisdata.nza.nl
@@ -16826,6 +16835,8 @@ uwvergunning.leiden.nl
 uzipas.lir.cibg.nl
 uzipas.portaal.ncpeh.nl
 uzipas.raadplegen.sbv-z.nl
+uzipas.uziregister.nl
+uziregister.nl
 v2.openstad.haarlemmermeer.nl
 va_do.belastingdienst.nl
 vaals.nl
@@ -19500,6 +19511,7 @@ www.urk.nl
 www.utrecht.nl
 www.uwbeslagvrijevoet.nl
 www.uwdorpofwijk.alphenaandenrijn.nl
+www.uziregister.nl
 www.v2.openstad.haarlemmermeer.nl
 www.vaals.nl
 www.vaarvergunningen.nieuwkoop.nl

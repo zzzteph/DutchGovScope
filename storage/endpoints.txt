@@ -716,6 +716,7 @@ https://aanvraagparkeren.groningen.nl
 https://aanvraagstaging.waalwijk.nl
 https://aanvragen-acc.nza.nl
 https://aanvragen.nza.nl
+https://aanvragen.uziregister.nl
 https://aanvragenpreprod.hillegom.nl
 https://aanvragenpreprod.lisse.nl
 https://aanvragenpreprod.teylingen.nl
@@ -1035,6 +1036,7 @@ https://acceptatie-open.tubbergen.nl
 https://acceptatie-open.zutphen.nl
 https://acceptatie-vaarvergunningen.amsterdam.nl
 https://acceptatie-zaaksysteem.soest.nl
+https://acceptatie.aanvragen.uziregister.nl
 https://acceptatie.abonnee.dezi.nl
 https://acceptatie.advieswijzer.bigregister.nl
 https://acceptatie.alphen-chaam.nl
@@ -1062,6 +1064,7 @@ https://acceptatie.dongen.nl
 https://acceptatie.drms.cibg.nl
 https://acceptatie.eemsdelta.nl
 https://acceptatie.eloket.leusden.nl
+https://acceptatie.formulieren.uziregister.nl
 https://acceptatie.gemeentesluis.nl
 https://acceptatie.geoservices.cultureelerfgoed.nl
 https://acceptatie.gilzerijen.nl
@@ -1112,6 +1115,7 @@ https://acceptatie.tmv.cibg.nl
 https://acceptatie.uzipas.lir.cibg.nl
 https://acceptatie.uzipas.portaal.ncpeh.nl
 https://acceptatie.uzipas.raadplegen.sbv-z.nl
+https://acceptatie.uzipas.uziregister.nl
 https://acceptatie.velsen.nl
 https://acceptatie.voorst.nl
 https://acceptatie.waadhoeke.nl
@@ -4188,6 +4192,7 @@ https://feeds.uitelkaarmetkinderen.nl
 https://feeds.uitkomstgerichtezorg.nl
 https://feeds.uitvoeringvanbeleidszw.nl
 https://feeds.uwbeslagvrijevoet.nl
+https://feeds.uziregister.nl
 https://felix.baarn.nl
 https://felix.bergen.nl
 https://felix.beverwijk.nl
@@ -4434,6 +4439,7 @@ https://formulieren.stadskanaal.nl
 https://formulieren.stichtsevecht.nl
 https://formulieren.test.oss.nl
 https://formulieren.tiel.nl
+https://formulieren.uziregister.nl
 https://formulieren.veere.nl
 https://formulieren.veldhoven.nl
 https://formulieren.venlo.nl
@@ -7470,6 +7476,7 @@ https://opendata.uitkomstgerichtezorg.nl
 https://opendata.uitvoeringvanbeleidszw.nl
 https://opendata.utrecht.nl
 https://opendata.uwbeslagvrijevoet.nl
+https://opendata.uziregister.nl
 https://opendata.zoetermeer.nl
 https://opendisdata.nza.nl
 https://openformulieren-test.dewolden.nl
@@ -9675,6 +9682,8 @@ https://uwmening.denhaag.nl
 https://uzipas.lir.cibg.nl
 https://uzipas.portaal.ncpeh.nl
 https://uzipas.raadplegen.sbv-z.nl
+https://uzipas.uziregister.nl
+https://uziregister.nl
 https://v2.openstad.haarlemmermeer.nl
 https://vaals.nl
 https://vaarkaart.bba.amsterdam.nl
@@ -11178,6 +11187,7 @@ https://www.uitvoeringvanbeleidszw.nl
 https://www.utrecht.nl
 https://www.uwbeslagvrijevoet.nl
 https://www.uwdorpofwijk.alphenaandenrijn.nl
+https://www.uziregister.nl
 https://www.v2.openstad.haarlemmermeer.nl
 https://www.vaals.nl
 https://www.vaarvergunningen.nieuwkoop.nl

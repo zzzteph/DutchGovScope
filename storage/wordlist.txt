@@ -23,9 +23,9 @@ formulieren
 probeer
 loket
 test
+acc
 werkplek
 eloket
-acc
 dkd
 a-www
 english
@@ -115,6 +115,7 @@ pki
 smtp
 begroting
 squit2go
+_autodiscover._tcp
 samen
 e
 lyncdiscover
@@ -122,7 +123,6 @@ bgt
 sts
 micollab
 bastion365
-_autodiscover._tcp
 verkiezingen
 duurzaam
 simcms-open
@@ -367,6 +367,7 @@ nieuws
 test.digikoppeling
 mijnloket
 nhr
+aanvragen
 geoweb
 octopus
 sso
@@ -456,7 +457,6 @@ iam
 sentry
 staging
 stats
-aanvragen
 vacatures
 octopus-acc
 fileshare
@@ -3830,6 +3830,10 @@ import
 importacc
 register-backend
 bereken
+acceptatie.aanvragen
+acceptatie.formulieren
+acceptatie.uzipas
+uzipas
 email.mail.participatie
 mail.participatie
 aalten-checker-preprod
