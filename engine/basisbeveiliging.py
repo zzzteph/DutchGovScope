@@ -82,11 +82,9 @@ if os.path.exists(file_path):
 
 
 for domain in sorted(entries):
-
-    for domain in sorted(entries):
-        if domain.lower() in existing_domains:
-            print(f"{domain} skipped")
-            continue
+    if domain.lower() in existing_domains:
+        print(f"{domain} skipped")
+        continue
     
     print(f"{domain} explored")        
     try:
