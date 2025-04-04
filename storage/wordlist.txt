@@ -957,6 +957,8 @@ hybridmail
 passwordreset
 admin
 intern
+Autodiscover
+mx01
 edienstenburgerzaken.test
 www.praatmee
 datalab
@@ -3822,6 +3824,7 @@ opkopersregister
 test-api
 test-bp
 test-developer
+tbbb
 email.mail.participatie
 mail.participatie
 aalten-checker-preprod
@@ -6558,7 +6561,6 @@ loketacpt
 lyncav
 lyncdir
 mijnacpt
-mx01
 n1.auth
 n2.auth
 prdb
@@ -6888,7 +6890,6 @@ hillegom-checker
 acceptatie.hilvernet
 hilvernet
 1221
-Autodiscover
 bgthvs
 bgtwdm
 energieloket

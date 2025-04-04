@@ -1047,6 +1047,7 @@ https://feeds.staatsexamensnt2.nl
 https://feeds.startmetdelen.nl
 https://feeds.startmetoesorichtlijnen.nl
 https://feeds.strafrechtketen.nl
+https://feeds.tib-ivd.nl
 https://fibb1.belastingdienst.nl
 https://fibd1.belastingdienst.nl
 https://fibe1.belastingdienst.nl
@@ -1882,6 +1883,7 @@ https://opendata.staatsexamensnt2.nl
 https://opendata.startmetdelen.nl
 https://opendata.startmetoesorichtlijnen.nl
 https://opendata.strafrechtketen.nl
+https://opendata.tib-ivd.nl
 https://opendisdata.nza.nl
 https://opkopersregister.stopheling.nl
 https://opleiding-ola.belastingdienst.nl
@@ -2278,6 +2280,7 @@ https://testmonitorwonen.flevoland.nl
 https://testsite.ceg.nl
 https://teverantwoordenregelingen.rijksoverheid.nl
 https://thesaurus.cultureelerfgoed.nl
+https://tib-ivd.nl
 https://tiles.ndw.nu
 https://tileserver.ndw.nu
 https://tl.iplo.nl
@@ -2754,6 +2757,7 @@ https://www.stopheling.nl
 https://www.strafrechtketen.nl
 https://www.test.monumentenregister.cultureelerfgoed.nl
 https://www.testsite.ceg.nl
+https://www.tib-ivd.nl
 https://www.toeslagen.nl
 https://www.tst2905.omgevingswet.overheid.nl
 https://www.veilig.cultureelerfgoed.nl

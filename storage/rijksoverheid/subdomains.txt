@@ -4,6 +4,7 @@
 4.ivory.nctv.nl
 AutoDiscover.hdsr.nl
 AutoDiscover.rijksdienstcn.com
+Autodiscover.tib-ivd.nl
 Lrza.gatservices.acc.igj.nl
 Lrza.gatservices.prd.igj.nl
 ZDPushservice.overheid.nl
@@ -592,6 +593,7 @@ autodiscover.rekenkamer.nl
 autodiscover.rijksdienstcn.com
 autodiscover.schoolleidersregisterpo.nl
 autodiscover.scp.nl
+autodiscover.tib-ivd.nl
 autorisatie-preprod.brabant.nl
 autorisatie-prod.brabant.nl
 autoriteitnvs.nl
@@ -1674,6 +1676,7 @@ feeds.staatsexamensnt2.nl
 feeds.startmetdelen.nl
 feeds.startmetoesorichtlijnen.nl
 feeds.strafrechtketen.nl
+feeds.tib-ivd.nl
 fibb-perf.acc.belastingdienst.nl
 fibb1.belastingdienst.nl
 fibb2.acc.belastingdienst.nl
@@ -2585,6 +2588,7 @@ mwr-app-cdn-ota.belastingdienst.nl
 mwr-app-cdn.belastingdienst.nl
 mx.ncsc.nl
 mx001.ctivd.nl
+mx01.tib-ivd.nl
 mx1.mensenrechten.nl
 mx1.ncsc.nl
 mx1.ofgv.nl
@@ -3066,6 +3070,7 @@ opendata.staatsexamensnt2.nl
 opendata.startmetdelen.nl
 opendata.startmetoesorichtlijnen.nl
 opendata.strafrechtketen.nl
+opendata.tib-ivd.nl
 opendisdata-acc.nza.nl
 opendisdata.nza.nl
 openims-acc.ctgb.nl
@@ -3803,6 +3808,7 @@ t-www.government.nl
 t-www.rijksoverheid.nl
 t.cultureelerfgoed.nl
 taranis.ncsc.nl
+tbbb.tib-ivd.nl
 te205vcciw12.dmzota.ont.belastingdienst.nl
 te205vcciw12f.dmzota.ont.belastingdienst.nl
 tea.bigregister.nl
@@ -3878,6 +3884,7 @@ testtunnelmdm.flevoland.nl
 teverantwoordenregelingen.rijksoverheid.nl
 tgsb-btssrv-ut.tst.belastingdienst.nl
 thesaurus.cultureelerfgoed.nl
+tib-ivd.nl
 tiles.ndw.nu
 tileserver.ndw.nu
 tip.ncsc.nl
@@ -4140,6 +4147,7 @@ webmail.ofgv.nl
 webmail.opwegnaarseb.nl
 webmail.rekenkamer.nl
 webmail.rijksdienstcn.com
+webmail.tib-ivd.nl
 webmail.werkenvoornederland.nl
 webservice-acc.sbv-z.nl
 webservice-preprod.sbv-z.nl
@@ -4587,6 +4595,7 @@ www.stopheling.nl
 www.strafrechtketen.nl
 www.test.monumentenregister.cultureelerfgoed.nl
 www.testsite.ceg.nl
+www.tib-ivd.nl
 www.toeslagen.nl
 www.tst2905.omgevingswet.overheid.nl
 www.veilig.cultureelerfgoed.nl
