@@ -3469,6 +3469,7 @@ ca-idp.logius.nl
 ca-tst.logius.nl
 ca.logius.nl
 caas.ndw.nu
+cabinetspecialenvoy.com
 cag.gemeentemaasgouw.nl
 cairo.rotterdam.nl
 calendartst.brabant.nl
@@ -6231,6 +6232,7 @@ feeds.bigregister.nl
 feeds.binnenhofrenovatie.nl
 feeds.braic.nl
 feeds.bureauncdr.nl
+feeds.cabinetspecialenvoy.com
 feeds.campagnetoolkits.nl
 feeds.caorijk.nl
 feeds.cbg-meb.nl
@@ -12222,6 +12224,7 @@ opendata.bloemendaal.nl
 opendata.brabant.nl
 opendata.braic.nl
 opendata.bureauncdr.nl
+opendata.cabinetspecialenvoy.com
 opendata.campagnetoolkits.nl
 opendata.caorijk.nl
 opendata.cbg-meb.nl
@@ -18658,6 +18661,7 @@ www.buurtbudgetnoord.amsterdam.nl
 www.buurtbudgetzuid.amsterdam.nl
 www.buurtbudgetzuidoost.amsterdam.nl
 www.byod.groningen.nl
+www.cabinetspecialenvoy.com
 www.cag.gemeentemaasgouw.nl
 www.campagne.haarlem.nl
 www.campagnetoolkits.nl
