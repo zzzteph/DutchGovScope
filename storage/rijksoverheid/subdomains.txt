@@ -1322,6 +1322,7 @@ english.rijksdienstcn.com
 english.scp.nl
 english.sso3w.nl
 english.uitvoeringvanbeleidszw.nl
+english.vnacs.nl
 enterpriseenrollment.cbg-meb.nl
 enterpriseenrollment.ofgv.nl
 enterpriseregistration.belastingdienst.nl
@@ -1540,6 +1541,7 @@ feeds.english.rijksdienstcn.com
 feeds.english.scp.nl
 feeds.english.sso3w.nl
 feeds.english.uitvoeringvanbeleidszw.nl
+feeds.english.vnacs.nl
 feeds.erfgoeddeal.nl
 feeds.euthanasiecommissie.nl
 feeds.excellentescholen.nl
@@ -1663,9 +1665,11 @@ feeds.overheidvannu.nl
 feeds.overtoeslagen.nl
 feeds.p-direkt.nl
 feeds.pagw.nl
+feeds.papiamento.vnacs.nl
 feeds.papiamentu.belastingdienst-cn.nl
 feeds.papiamentu.mijncn.nl
 feeds.papiamentu.rijksdienstcn.com
+feeds.papiamentu.vnacs.nl
 feeds.persberichten.rijksoverheid.nl
 feeds.politiekeambtsdragers.nl
 feeds.postedworkers.nl
@@ -1733,6 +1737,7 @@ feeds.veiligepubliekedienstverlening.nl
 feeds.vergoedingsns.nl
 feeds.versterkencyberweerbaarheid.nl
 feeds.veterinairtuchtcollege.nl
+feeds.vnacs.nl
 fibb-perf.acc.belastingdienst.nl
 fibb1.belastingdienst.nl
 fibb2.acc.belastingdienst.nl
@@ -2976,6 +2981,7 @@ opendata.english.rijksdienstcn.com
 opendata.english.scp.nl
 opendata.english.sso3w.nl
 opendata.english.uitvoeringvanbeleidszw.nl
+opendata.english.vnacs.nl
 opendata.euthanasiecommissie.nl
 opendata.excellentescholen.nl
 opendata.expertisecentrummggz.nl
@@ -3100,9 +3106,11 @@ opendata.overheidvannu.nl
 opendata.overtoeslagen.nl
 opendata.p-direkt.nl
 opendata.pagw.nl
+opendata.papiamento.vnacs.nl
 opendata.papiamentu.belastingdienst-cn.nl
 opendata.papiamentu.mijncn.nl
 opendata.papiamentu.rijksdienstcn.com
+opendata.papiamentu.vnacs.nl
 opendata.persberichten.rijksoverheid.nl
 opendata.politiekeambtsdragers.nl
 opendata.postedworkers.nl
@@ -3170,6 +3178,7 @@ opendata.veiligepubliekedienstverlening.nl
 opendata.vergoedingsns.nl
 opendata.versterkencyberweerbaarheid.nl
 opendata.veterinairtuchtcollege.nl
+opendata.vnacs.nl
 opendisdata-acc.nza.nl
 opendisdata.nza.nl
 openims-acc.ctgb.nl
@@ -3236,9 +3245,11 @@ p-direkt.nl
 p285st201.utsjaca01.belastingdienst.nl
 pagw.nl
 pan.emissieautoriteit.nl
+papiamento.vnacs.nl
 papiamentu.belastingdienst-cn.nl
 papiamentu.mijncn.nl
 papiamentu.rijksdienstcn.com
+papiamentu.vnacs.nl
 partnerplaza.sso3w.nl
 password.ctgb.nl
 passwordreset.rijksdienstcn.com
@@ -4191,6 +4202,7 @@ vinden.belastingdienst.nl
 viz.ndw.nu
 vm-ivra.ndw.nu
 vmc-hth.provincie-utrecht.nl
+vnacs.nl
 voi.brabant.nl
 voor1.rijksoverheid.nl
 voor2.rijksoverheid.nl
@@ -4771,6 +4783,7 @@ www.vepkmstst.vcdn.belastingdienst.nl
 www.vergoedingsns.nl
 www.versterkencyberweerbaarheid.nl
 www.veterinairtuchtcollege.nl
+www.vnacs.nl
 www.wegen.brabant.nl
 www.werken.belastingdienst.nl
 www.werkenvoornederland.nl
