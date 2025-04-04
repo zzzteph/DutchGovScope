@@ -3710,6 +3710,7 @@ https://english.scp.nl
 https://english.sso3w.nl
 https://english.uitvoeringvanbeleidszw.nl
 https://english.vnacs.nl
+https://english.wkr.nl
 https://enkhuizen.nl
 https://enquete-acc.denhaag.nl
 https://enquete.almelo.nl
@@ -4032,6 +4033,7 @@ https://feeds.english.scp.nl
 https://feeds.english.sso3w.nl
 https://feeds.english.uitvoeringvanbeleidszw.nl
 https://feeds.english.vnacs.nl
+https://feeds.english.wkr.nl
 https://feeds.erfgoeddeal.nl
 https://feeds.euthanasiecommissie.nl
 https://feeds.excellentescholen.nl
@@ -4238,6 +4240,7 @@ https://feeds.werkenaanonspensioen.nl
 https://feeds.werkenbijdeeu.nl
 https://feeds.werkenvoorinternationaleorganisaties.nl
 https://feeds.wetbeschermingklokkenluiders.nl
+https://feeds.wkr.nl
 https://felix.baarn.nl
 https://felix.bergen.nl
 https://felix.beverwijk.nl
@@ -7350,6 +7353,7 @@ https://opendata.english.scp.nl
 https://opendata.english.sso3w.nl
 https://opendata.english.uitvoeringvanbeleidszw.nl
 https://opendata.english.vnacs.nl
+https://opendata.english.wkr.nl
 https://opendata.euthanasiecommissie.nl
 https://opendata.excellentescholen.nl
 https://opendata.expertisecentrummggz.nl
@@ -7560,6 +7564,7 @@ https://opendata.werkenaanonspensioen.nl
 https://opendata.werkenbijdeeu.nl
 https://opendata.werkenvoorinternationaleorganisaties.nl
 https://opendata.wetbeschermingklokkenluiders.nl
+https://opendata.wkr.nl
 https://opendata.zoetermeer.nl
 https://opendisdata.nza.nl
 https://openformulieren-test.dewolden.nl
@@ -10367,6 +10372,7 @@ https://wio.ilent.nl
 https://wion.gemeentestein.nl
 https://witgoed.middendrenthe.nl
 https://wiz.zaanstad.nl
+https://wkr.nl
 https://wlc01.waterland.nl
 https://wmo.middendrenthe.nl
 https://wmoloket.olst-wijhe.nl
@@ -11412,6 +11418,7 @@ https://www.willkommen.groningen.nl
 https://www.windopzee.nl
 https://www.winkelsteeg.nijmegen.nl
 https://www.winterswijk.nl
+https://www.wkr.nl
 https://www.wob.denhaag.nl
 https://www.woerden.nl
 https://www.woo.denhaag.nl

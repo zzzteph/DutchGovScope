@@ -17,6 +17,7 @@ _dmarc.nlarbeidsinspectie.nl
 _dmarc.nza.nl
 _dmarc.p-direkt.nl
 _dmarc.rijksoverheid.nl
+_dmarc.wkr.nl
 a-api.nederlandwereldwijd.nl
 a-cms.defensie.nl
 a-cms.rijksoverheid.nl
@@ -1332,6 +1333,7 @@ english.scp.nl
 english.sso3w.nl
 english.uitvoeringvanbeleidszw.nl
 english.vnacs.nl
+english.wkr.nl
 enterpriseenrollment.cbg-meb.nl
 enterpriseenrollment.ofgv.nl
 enterpriseregistration.belastingdienst.nl
@@ -1551,6 +1553,7 @@ feeds.english.scp.nl
 feeds.english.sso3w.nl
 feeds.english.uitvoeringvanbeleidszw.nl
 feeds.english.vnacs.nl
+feeds.english.wkr.nl
 feeds.erfgoeddeal.nl
 feeds.euthanasiecommissie.nl
 feeds.excellentescholen.nl
@@ -1757,6 +1760,7 @@ feeds.werkenaanonspensioen.nl
 feeds.werkenbijdeeu.nl
 feeds.werkenvoorinternationaleorganisaties.nl
 feeds.wetbeschermingklokkenluiders.nl
+feeds.wkr.nl
 fibb-perf.acc.belastingdienst.nl
 fibb1.belastingdienst.nl
 fibb2.acc.belastingdienst.nl
@@ -3016,6 +3020,7 @@ opendata.english.scp.nl
 opendata.english.sso3w.nl
 opendata.english.uitvoeringvanbeleidszw.nl
 opendata.english.vnacs.nl
+opendata.english.wkr.nl
 opendata.euthanasiecommissie.nl
 opendata.excellentescholen.nl
 opendata.expertisecentrummggz.nl
@@ -3223,6 +3228,7 @@ opendata.werkenaanonspensioen.nl
 opendata.werkenbijdeeu.nl
 opendata.werkenvoorinternationaleorganisaties.nl
 opendata.wetbeschermingklokkenluiders.nl
+opendata.wkr.nl
 opendisdata-acc.nza.nl
 opendisdata.nza.nl
 openims-acc.ctgb.nl
@@ -4439,6 +4445,7 @@ wikixl-saml.cultureelerfgoed.nl
 wikixl-saml.test.cultureelerfgoed.nl
 wio.ilent.nl
 wist-fpi.hhdelfland.nl
+wkr.nl
 wms.aanpakringzuid.nl
 woo-formulier.rijksoverheid.nl
 wooincijfers.open-overheid.nl
@@ -4874,6 +4881,7 @@ www.werkenvoorinternationaleorganisaties.nl
 www.werkenvoornederland.nl
 www.wetbeschermingklokkenluiders.nl
 www.windopzee.nl
+www.wkr.nl
 www.zoekeentolkvertaler.bureauwbtv.nl
 www1.hdsr.nl
 www2.om.nl

@@ -117,6 +117,7 @@ _dmarc.nza.nl
 _dmarc.p-direkt.nl
 _dmarc.rijksoverheid.nl
 _dmarc.vijfheerenlanden.nl
+_dmarc.wkr.nl
 _dmarc.zoeterwoude.nl
 _sipfederationtls._tcp.raalte.nl
 a-api.nederlandwereldwijd.nl
@@ -5839,6 +5840,7 @@ english.scp.nl
 english.sso3w.nl
 english.uitvoeringvanbeleidszw.nl
 english.vnacs.nl
+english.wkr.nl
 enkhuizen.nl
 enquete-acc.denhaag.nl
 enquete.almelo.nl
@@ -6284,6 +6286,7 @@ feeds.english.scp.nl
 feeds.english.sso3w.nl
 feeds.english.uitvoeringvanbeleidszw.nl
 feeds.english.vnacs.nl
+feeds.english.wkr.nl
 feeds.erfgoeddeal.nl
 feeds.euthanasiecommissie.nl
 feeds.excellentescholen.nl
@@ -6490,6 +6493,7 @@ feeds.werkenaanonspensioen.nl
 feeds.werkenbijdeeu.nl
 feeds.werkenvoorinternationaleorganisaties.nl
 feeds.wetbeschermingklokkenluiders.nl
+feeds.wkr.nl
 felix.aalten.nl
 felix.achtkarspelen.nl
 felix.baarn.nl
@@ -12225,6 +12229,7 @@ opendata.english.scp.nl
 opendata.english.sso3w.nl
 opendata.english.uitvoeringvanbeleidszw.nl
 opendata.english.vnacs.nl
+opendata.english.wkr.nl
 opendata.euthanasiecommissie.nl
 opendata.excellentescholen.nl
 opendata.expertisecentrummggz.nl
@@ -12436,6 +12441,7 @@ opendata.werkenaanonspensioen.nl
 opendata.werkenbijdeeu.nl
 opendata.werkenvoorinternationaleorganisaties.nl
 opendata.wetbeschermingklokkenluiders.nl
+opendata.wkr.nl
 opendata.zoetermeer.nl
 opendisdata-acc.nza.nl
 opendisdata.nza.nl
@@ -18109,6 +18115,7 @@ wiz-aanvragen.zaanstad.nl
 wiz.zaanstad.nl
 wkpb.haarlem.nl
 wkpb.lelystad.nl
+wkr.nl
 wlan.nieuwegein.nl
 wlan.venlo.nl
 wlc.denhaag.nl
@@ -19819,6 +19826,7 @@ www.windopland.haarlemmermeer.nl
 www.windopzee.nl
 www.winkelsteeg.nijmegen.nl
 www.winterswijk.nl
+www.wkr.nl
 www.wlb.amsterdam.nl
 www.wmw-vvc02.westmaasenwaal.nl
 www.wob.denhaag.nl

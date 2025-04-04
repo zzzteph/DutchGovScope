@@ -27,8 +27,8 @@ werkplek
 eloket
 acc
 a-www
-dkd
 english
+dkd
 portal
 a-feeds
 a-opendata
@@ -117,6 +117,7 @@ begroting
 squit2go
 _autodiscover._tcp
 samen
+_dmarc
 api
 e
 lyncdiscover
@@ -131,7 +132,6 @@ simcms-open
 www.webmail
 filecap
 dtestmidoffice
-_dmarc
 a-feeds.a-english
 a-opendata.a-english
 zaaksysteem
