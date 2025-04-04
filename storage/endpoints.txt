@@ -4104,6 +4104,7 @@ https://feeds.rijksbredekennisagenda.nl
 https://feeds.rijksdienstcn.com
 https://feeds.rijksinkoopsamenwerking.nl
 https://feeds.rijksinnovatiecommunity.nl
+https://feeds.rijksinspecties.nl
 https://feeds.rijksoverheid.nl
 https://felix.baarn.nl
 https://felix.bergen.nl
@@ -7327,6 +7328,7 @@ https://opendata.rijksbredekennisagenda.nl
 https://opendata.rijksdienstcn.com
 https://opendata.rijksinkoopsamenwerking.nl
 https://opendata.rijksinnovatiecommunity.nl
+https://opendata.rijksinspecties.nl
 https://opendata.rijksoverheid.nl
 https://opendata.roosendaal.nl
 https://opendata.utrecht.nl
@@ -8285,6 +8287,7 @@ https://rijkevoort.landvancuijk.nl
 https://rijksbredekennisagenda.nl
 https://rijksdienstcn.com
 https://rijksinkoopsamenwerking.nl
+https://rijksinspecties.nl
 https://rijksoverheid.nl
 https://rijssen-holten.nl
 https://rijswijk.nl
@@ -10831,6 +10834,7 @@ https://www.rijksbredekennisagenda.nl
 https://www.rijksdienstcn.com
 https://www.rijksinkoopsamenwerking.nl
 https://www.rijksinnovatiecommunity.nl
+https://www.rijksinspecties.nl
 https://www.rijksoverheid.nl
 https://www.rijssen-holten.nl
 https://www.rijswijk.nl

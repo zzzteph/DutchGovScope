@@ -6313,6 +6313,7 @@ feeds.rijksbredekennisagenda.nl
 feeds.rijksdienstcn.com
 feeds.rijksinkoopsamenwerking.nl
 feeds.rijksinnovatiecommunity.nl
+feeds.rijksinspecties.nl
 feeds.rijksoverheid.nl
 felix.aalten.nl
 felix.achtkarspelen.nl
@@ -12138,6 +12139,7 @@ opendata.rijksbredekennisagenda.nl
 opendata.rijksdienstcn.com
 opendata.rijksinkoopsamenwerking.nl
 opendata.rijksinnovatiecommunity.nl
+opendata.rijksinspecties.nl
 opendata.rijksoverheid.nl
 opendata.roosendaal.nl
 opendata.utrecht.nl
@@ -13873,6 +13875,7 @@ rijkevoort.landvancuijk.nl
 rijksbredekennisagenda.nl
 rijksdienstcn.com
 rijksinkoopsamenwerking.nl
+rijksinspecties.nl
 rijkskantoorproxy.belastingdienst.nl
 rijksoverheid.nl
 rijkstrainee.werkenvoornederland.nl
@@ -18971,6 +18974,7 @@ www.rijksbredekennisagenda.nl
 www.rijksdienstcn.com
 www.rijksinkoopsamenwerking.nl
 www.rijksinnovatiecommunity.nl
+www.rijksinspecties.nl
 www.rijksoverheid.nl
 www.rijssen-holten.nl
 www.rijswijk.nl

@@ -984,6 +984,7 @@ https://feeds.rijksbredekennisagenda.nl
 https://feeds.rijksdienstcn.com
 https://feeds.rijksinkoopsamenwerking.nl
 https://feeds.rijksinnovatiecommunity.nl
+https://feeds.rijksinspecties.nl
 https://feeds.rijksoverheid.nl
 https://fibb1.belastingdienst.nl
 https://fibd1.belastingdienst.nl
@@ -1781,6 +1782,7 @@ https://opendata.rijksbredekennisagenda.nl
 https://opendata.rijksdienstcn.com
 https://opendata.rijksinkoopsamenwerking.nl
 https://opendata.rijksinnovatiecommunity.nl
+https://opendata.rijksinspecties.nl
 https://opendata.rijksoverheid.nl
 https://opendisdata.nza.nl
 https://opleiding-ola.belastingdienst.nl
@@ -1961,6 +1963,7 @@ https://riec.nl
 https://rijksbredekennisagenda.nl
 https://rijksdienstcn.com
 https://rijksinkoopsamenwerking.nl
+https://rijksinspecties.nl
 https://rijksoverheid.nl
 https://ris-a.provincie-utrecht.nl
 https://rpx-qa.nza.nl
@@ -2573,6 +2576,7 @@ https://www.rijksbredekennisagenda.nl
 https://www.rijksdienstcn.com
 https://www.rijksinkoopsamenwerking.nl
 https://www.rijksinnovatiecommunity.nl
+https://www.rijksinspecties.nl
 https://www.rijksoverheid.nl
 https://www.stateninformatie.provincie-utrecht.nl
 https://www.test.monumentenregister.cultureelerfgoed.nl
