@@ -4111,6 +4111,7 @@ https://feeds.rijksoverheid.nl
 https://feeds.rijksrecherche.nl
 https://feeds.rijksvastgoedbedrijf.nl
 https://feeds.royal-house.nl
+https://feeds.royalhonoursanddecorations.nl
 https://felix.baarn.nl
 https://felix.bergen.nl
 https://felix.beverwijk.nl
@@ -7344,6 +7345,7 @@ https://opendata.rijksrecherche.nl
 https://opendata.rijksvastgoedbedrijf.nl
 https://opendata.roosendaal.nl
 https://opendata.royal-house.nl
+https://opendata.royalhonoursanddecorations.nl
 https://opendata.utrecht.nl
 https://opendata.zoetermeer.nl
 https://opendisdata.nza.nl
@@ -8341,6 +8343,7 @@ https://rostar.goes.nl
 https://rotterdam.nl
 https://router.winterswijk.nl
 https://royal-house.nl
+https://royalhonoursanddecorations.nl
 https://rozendaal.nl
 https://rp.beverwijk.nl
 https://rpl3.nissewaard.nl
@@ -10865,6 +10868,7 @@ https://www.rondleidingen.landvancuijk.nl
 https://www.roosendaal.nl
 https://www.rotterdam.nl
 https://www.royal-house.nl
+https://www.royalhonoursanddecorations.nl
 https://www.rozendaal.nl
 https://www.rucphen.nl
 https://www.ruimtelijkeplannen.dronten.nl
