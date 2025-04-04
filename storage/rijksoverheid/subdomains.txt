@@ -18,6 +18,7 @@ _dmarc.nza.nl
 _dmarc.p-direkt.nl
 _dmarc.rijksoverheid.nl
 _dmarc.wkr.nl
+_dmarc.wodc.nl
 a-api.nederlandwereldwijd.nl
 a-cms.defensie.nl
 a-cms.rijksoverheid.nl
@@ -989,6 +990,7 @@ connect.hhdelfland.nl
 connect.ikz.nl
 connect.justitieleictorganisatie.nl
 connect.kinderbescherming.nl
+connect.wodc.nl
 connectpeople.acc.belastingdienst.nl
 connectpeople.belastingdienst.nl
 connectpeople.ont.belastingdienst.nl
@@ -1334,6 +1336,7 @@ english.sso3w.nl
 english.uitvoeringvanbeleidszw.nl
 english.vnacs.nl
 english.wkr.nl
+english.wodc.nl
 enterpriseenrollment.cbg-meb.nl
 enterpriseenrollment.ofgv.nl
 enterpriseregistration.belastingdienst.nl
@@ -1554,6 +1557,7 @@ feeds.english.sso3w.nl
 feeds.english.uitvoeringvanbeleidszw.nl
 feeds.english.vnacs.nl
 feeds.english.wkr.nl
+feeds.english.wodc.nl
 feeds.erfgoeddeal.nl
 feeds.euthanasiecommissie.nl
 feeds.excellentescholen.nl
@@ -1761,6 +1765,7 @@ feeds.werkenbijdeeu.nl
 feeds.werkenvoorinternationaleorganisaties.nl
 feeds.wetbeschermingklokkenluiders.nl
 feeds.wkr.nl
+feeds.wodc.nl
 fibb-perf.acc.belastingdienst.nl
 fibb1.belastingdienst.nl
 fibb2.acc.belastingdienst.nl
@@ -2446,6 +2451,7 @@ mail.scp.nl
 mail.vechtstromen.nl
 mail.veiligheidsregioflevoland.nl
 mail.waterschaplimburg.nl
+mail.wodc.nl
 mail01.dsta.nl
 mail240.brabant.nl
 mail241.brabant.nl
@@ -3021,6 +3027,7 @@ opendata.english.sso3w.nl
 opendata.english.uitvoeringvanbeleidszw.nl
 opendata.english.vnacs.nl
 opendata.english.wkr.nl
+opendata.english.wodc.nl
 opendata.euthanasiecommissie.nl
 opendata.excellentescholen.nl
 opendata.expertisecentrummggz.nl
@@ -3229,6 +3236,7 @@ opendata.werkenbijdeeu.nl
 opendata.werkenvoorinternationaleorganisaties.nl
 opendata.wetbeschermingklokkenluiders.nl
 opendata.wkr.nl
+opendata.wodc.nl
 opendisdata-acc.nza.nl
 opendisdata.nza.nl
 openims-acc.ctgb.nl
@@ -3545,6 +3553,7 @@ repository-preprod.overheid.nl
 repository.officiele-overheidspublicaties.nl
 repository.overheid.nl
 repository.scp.nl
+repository.wodc.nl
 resolver.int.omgevingswet.overheid.nl
 resolver.kta.omgevingswet.overheid.nl
 resolver.omgevingswet.overheid.nl
@@ -4447,6 +4456,7 @@ wio.ilent.nl
 wist-fpi.hhdelfland.nl
 wkr.nl
 wms.aanpakringzuid.nl
+wodc.nl
 woo-formulier.rijksoverheid.nl
 wooincijfers.open-overheid.nl
 woordenboek.klimaatadaptatienederland.nl
@@ -4882,6 +4892,7 @@ www.werkenvoornederland.nl
 www.wetbeschermingklokkenluiders.nl
 www.windopzee.nl
 www.wkr.nl
+www.wodc.nl
 www.zoekeentolkvertaler.bureauwbtv.nl
 www1.hdsr.nl
 www2.om.nl
