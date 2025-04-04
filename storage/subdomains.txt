@@ -6336,6 +6336,7 @@ feeds.royal-house.nl
 feeds.royalhonoursanddecorations.nl
 feeds.rsj.nl
 feeds.ruimtelijkeordening.nl
+feeds.ruimtevoorderivier.nl
 felix.aalten.nl
 felix.achtkarspelen.nl
 felix.baarn.nl
@@ -12175,6 +12176,7 @@ opendata.royal-house.nl
 opendata.royalhonoursanddecorations.nl
 opendata.rsj.nl
 opendata.ruimtelijkeordening.nl
+opendata.ruimtevoorderivier.nl
 opendata.utrecht.nl
 opendata.zoetermeer.nl
 opendisdata-acc.nza.nl
@@ -14048,6 +14050,7 @@ ruimtelijkeplannen.vijfheerenlanden.nl
 ruimtelijkeplannen.voerendaal.nl
 ruimtelijkeplannenintern.provincie-utrecht.nl
 ruimtelijkeplanneninterntest.provincie-utrecht.nl
+ruimtevoorderivier.nl
 ruimtevoorjou.groningen.nl
 ruimtevoorwerken.stichtsevecht.nl
 rut.belastingdienst.nl
@@ -19039,6 +19042,7 @@ www.ruimtelijkeordening.nl
 www.ruimtelijkeplannen.amsterdam.nl
 www.ruimtelijkeplannen.dronten.nl
 www.ruimtelijkeplannen.sudwestfryslan.nl
+www.ruimtevoorderivier.nl
 www.ruimtevoorjou.groningen.nl
 www.s-hertogenbosch.nl
 www.samen.enkhuizen.nl

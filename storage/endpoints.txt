@@ -4115,6 +4115,7 @@ https://feeds.royal-house.nl
 https://feeds.royalhonoursanddecorations.nl
 https://feeds.rsj.nl
 https://feeds.ruimtelijkeordening.nl
+https://feeds.ruimtevoorderivier.nl
 https://felix.baarn.nl
 https://felix.bergen.nl
 https://felix.beverwijk.nl
@@ -7352,6 +7353,7 @@ https://opendata.royal-house.nl
 https://opendata.royalhonoursanddecorations.nl
 https://opendata.rsj.nl
 https://opendata.ruimtelijkeordening.nl
+https://opendata.ruimtevoorderivier.nl
 https://opendata.utrecht.nl
 https://opendata.zoetermeer.nl
 https://opendisdata.nza.nl
@@ -8383,6 +8385,7 @@ https://ruimtelijkeplannen.tilburg.nl
 https://ruimtelijkeplannen.veldhoven.nl
 https://ruimtelijkeplannenintern.provincie-utrecht.nl
 https://ruimtelijkeplanneninterntest.provincie-utrecht.nl
+https://ruimtevoorderivier.nl
 https://ruimtevoorjou.groningen.nl
 https://ruimtevoorwerken.stichtsevecht.nl
 https://rvdmschaduwdraaien.nvwa.nl
@@ -10882,6 +10885,7 @@ https://www.rsj.nl
 https://www.rucphen.nl
 https://www.ruimtelijkeordening.nl
 https://www.ruimtelijkeplannen.dronten.nl
+https://www.ruimtevoorderivier.nl
 https://www.ruimtevoorjou.groningen.nl
 https://www.s-hertogenbosch.nl
 https://www.samen.lingewaard.nl
