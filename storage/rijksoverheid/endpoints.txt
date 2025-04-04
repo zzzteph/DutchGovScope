@@ -664,6 +664,7 @@ https://english.onderwijsinspectie.nl
 https://english.postedworkers.nl
 https://english.rda.nl
 https://english.rekenkamer.nl
+https://english.rijksdienstcn.com
 https://english.sso3w.nl
 https://enterpriseenrollment.cbg-meb.nl
 https://enterpriseenrollment.ofgv.nl
@@ -835,6 +836,7 @@ https://feeds.english.onderwijsinspectie.nl
 https://feeds.english.postedworkers.nl
 https://feeds.english.rda.nl
 https://feeds.english.rekenkamer.nl
+https://feeds.english.rijksdienstcn.com
 https://feeds.english.sso3w.nl
 https://feeds.erfgoeddeal.nl
 https://feeds.euthanasiecommissie.nl
@@ -979,6 +981,7 @@ https://feeds.regiosaandegrens.nl
 https://feeds.rekenkamer.nl
 https://feeds.riec.nl
 https://feeds.rijksbredekennisagenda.nl
+https://feeds.rijksdienstcn.com
 https://feeds.rijksoverheid.nl
 https://fibb1.belastingdienst.nl
 https://fibd1.belastingdienst.nl
@@ -990,6 +993,7 @@ https://files.iplo.nl
 https://files.klimaatadaptatienederland.nl
 https://filesender.ctgb.nl
 https://fileshare.rekenkamer.nl
+https://fileshare.rijksdienstcn.com
 https://filetransfer.belastingdienst.nl
 https://filetransfer.ont.belastingdienst.nl
 https://flevoland.nl
@@ -1015,6 +1019,7 @@ https://formulieren.provincie-utrecht.nl
 https://formulieren.provincie.drenthe.nl
 https://foto-opdracht.cultureelerfgoed.nl
 https://fs.ctgb.nl
+https://fs.rijksdienstcn.com
 https://fsvportaal.belastingdienst.nl
 https://ftp-hdsr.hdsr.nl
 https://ftp.ceg.nl
@@ -1625,6 +1630,7 @@ https://opendata.english.onderwijsinspectie.nl
 https://opendata.english.postedworkers.nl
 https://opendata.english.rda.nl
 https://opendata.english.rekenkamer.nl
+https://opendata.english.rijksdienstcn.com
 https://opendata.english.sso3w.nl
 https://opendata.euthanasiecommissie.nl
 https://opendata.excellentescholen.nl
@@ -1769,6 +1775,7 @@ https://opendata.regiosaandegrens.nl
 https://opendata.rekenkamer.nl
 https://opendata.riec.nl
 https://opendata.rijksbredekennisagenda.nl
+https://opendata.rijksdienstcn.com
 https://opendata.rijksoverheid.nl
 https://opendisdata.nza.nl
 https://opleiding-ola.belastingdienst.nl
@@ -1846,6 +1853,7 @@ https://portaal.ikz.nl
 https://portaal.ncpeh.nl
 https://portaal.nlarbeidsinspectie.nl
 https://portaal.prolander.nl
+https://portal.rijksdienstcn.com
 https://postedworkers.nl
 https://pp1.toegang.overheid.nl
 https://pp2.toegang.overheid.nl
@@ -1946,6 +1954,7 @@ https://resultaten.nlarbeidsinspectie.nl
 https://rev.emissieautoriteit.nl
 https://riec.nl
 https://rijksbredekennisagenda.nl
+https://rijksdienstcn.com
 https://rijksoverheid.nl
 https://ris-a.provincie-utrecht.nl
 https://rpx-qa.nza.nl
@@ -2047,6 +2056,7 @@ https://sso.intpatch.omgevingswet.overheid.nl
 https://sso.omgevingswet.overheid.nl
 https://sso.perf.omgevingswet.overheid.nl
 https://sso.pre.omgevingswet.overheid.nl
+https://sso.rijksdienstcn.com
 https://sso.tst2905.omgevingswet.overheid.nl
 https://standaarden-acc.overheid.nl
 https://standaarden-tst.overheid.nl
@@ -2189,6 +2199,7 @@ https://vpn.brabant.nl
 https://vpn.cbg-meb.nl
 https://vpn.ikz.nl
 https://vpn2.aaenmaas.nl
+https://vpnbon.rijksdienstcn.com
 https://vps-prod-01.flevoland.nl
 https://vri-admin.ndw.nu
 https://vts.belastingdienst.nl
@@ -2553,6 +2564,7 @@ https://www.rekenhulptransitievergoeding.nl
 https://www.rekenkamer.nl
 https://www.riec.nl
 https://www.rijksbredekennisagenda.nl
+https://www.rijksdienstcn.com
 https://www.rijksoverheid.nl
 https://www.stateninformatie.provincie-utrecht.nl
 https://www.test.monumentenregister.cultureelerfgoed.nl

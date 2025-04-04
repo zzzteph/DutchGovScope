@@ -3,6 +3,7 @@
 3.ivory.nctv.nl
 4.ivory.nctv.nl
 AutoDiscover.hdsr.nl
+AutoDiscover.rijksdienstcn.com
 Lrza.gatservices.acc.igj.nl
 Lrza.gatservices.prd.igj.nl
 ZDPushservice.overheid.nl
@@ -35,6 +36,7 @@ a-english.ncadierproevenbeleid.nl
 a-english.ncsc.nl
 a-english.rda.nl
 a-english.rekenkamer.nl
+a-english.rijksdienstcn.com
 a-feeds.a-english.aivd.nl
 a-feeds.a-english.autoriteitnvs.nl
 a-feeds.a-english.bigregister.nl
@@ -47,6 +49,8 @@ a-feeds.a-english.igj.nl
 a-feeds.a-english.ncadierproevenbeleid.nl
 a-feeds.a-english.rda.nl
 a-feeds.a-english.rekenkamer.nl
+a-feeds.a-english.rijksdienstcn.com
+a-feeds.a-papiamentu.rijksdienstcn.com
 a-feeds.agroberichtenbuitenland.nl
 a-feeds.aivd.nl
 a-feeds.antennebureau.nl
@@ -86,6 +90,7 @@ a-feeds.raadopenbaarbestuur.nl
 a-feeds.rda.nl
 a-feeds.rekenkamer.nl
 a-feeds.riec.nl
+a-feeds.rijksdienstcn.com
 a-feeds.rijksoverheid.nl
 a-git.rijksoverheid.nl
 a-informatieservice.nederlandwereldwijd.nl
@@ -110,6 +115,8 @@ a-opendata.a-english.igj.nl
 a-opendata.a-english.ncadierproevenbeleid.nl
 a-opendata.a-english.rda.nl
 a-opendata.a-english.rekenkamer.nl
+a-opendata.a-english.rijksdienstcn.com
+a-opendata.a-papiamentu.rijksdienstcn.com
 a-opendata.agroberichtenbuitenland.nl
 a-opendata.aivd.nl
 a-opendata.antennebureau.nl
@@ -149,7 +156,9 @@ a-opendata.raadopenbaarbestuur.nl
 a-opendata.rda.nl
 a-opendata.rekenkamer.nl
 a-opendata.riec.nl
+a-opendata.rijksdienstcn.com
 a-opendata.rijksoverheid.nl
+a-papiamentu.rijksdienstcn.com
 a-persberichten.rijksoverheid.nl
 a-servicedesk.rijksoverheid.nl
 a-site1.defensie.nl
@@ -204,6 +213,7 @@ a-www.raadopenbaarbestuur.nl
 a-www.rda.nl
 a-www.rekenkamer.nl
 a-www.riec.nl
+a-www.rijksdienstcn.com
 a-www.rijksoverheid.nl
 a2vonderenkerensheide.nl
 aaenmaas.nl
@@ -540,6 +550,7 @@ autodiscover.ofgv.nl
 autodiscover.overheid.nl
 autodiscover.rcgog.nl
 autodiscover.rekenkamer.nl
+autodiscover.rijksdienstcn.com
 autorisatie-preprod.brabant.nl
 autorisatie-prod.brabant.nl
 autoriteitnvs.nl
@@ -711,6 +722,7 @@ bodem-ondergrond.omgevingswet.overheid.nl
 bodematlas.brabant.nl
 bodemrapportage.flevoland.nl
 boetebase.om.nl
+bon.rijksdienstcn.com
 boportaalkd.belastingdienst.nl
 boportaalkdo.belastingdienst.nl
 boportaalkdt.belastingdienst.nl
@@ -1207,6 +1219,7 @@ english.p-direkt.nl
 english.postedworkers.nl
 english.rda.nl
 english.rekenkamer.nl
+english.rijksdienstcn.com
 english.sso3w.nl
 enterpriseenrollment.cbg-meb.nl
 enterpriseenrollment.ofgv.nl
@@ -1419,6 +1432,7 @@ feeds.english.p-direkt.nl
 feeds.english.postedworkers.nl
 feeds.english.rda.nl
 feeds.english.rekenkamer.nl
+feeds.english.rijksdienstcn.com
 feeds.english.sso3w.nl
 feeds.erfgoeddeal.nl
 feeds.euthanasiecommissie.nl
@@ -1563,6 +1577,7 @@ feeds.regiosaandegrens.nl
 feeds.rekenkamer.nl
 feeds.riec.nl
 feeds.rijksbredekennisagenda.nl
+feeds.rijksdienstcn.com
 feeds.rijksoverheid.nl
 fibb-perf.acc.belastingdienst.nl
 fibb1.belastingdienst.nl
@@ -1594,6 +1609,7 @@ files.iplo.nl
 files.klimaatadaptatienederland.nl
 filesender.ctgb.nl
 fileshare.rekenkamer.nl
+fileshare.rijksdienstcn.com
 filetransfer.belastingdienst.nl
 filetransfer.ont.belastingdienst.nl
 financials.werkenvoornederland.nl
@@ -1636,6 +1652,7 @@ fs-up-sts01.brabant.nl
 fs-up-sts02.brabant.nl
 fs.belastingdienst.nl
 fs.ctgb.nl
+fs.rijksdienstcn.com
 fsvportaal.acc.belastingdienst.nl
 fsvportaal.belastingdienst.nl
 ftp-hdsr.hdsr.nl
@@ -2088,6 +2105,7 @@ leerenontwikkelplein.nl
 leeromgeving.om.nl
 leerplatform.it-academieoverheid.nl
 legacy.flevoland.nl
+legacy.rijksdienstcn.com
 leiderschap.belastingdienst.nl
 leiderschapp.belastingdienst.nl
 leren.mensenrechten.nl
@@ -2206,6 +2224,7 @@ mail.onderwijsraad.nl
 mail.oostvaarderskliniek.nl
 mail.open-overheid.nl
 mail.opwegnaarseb.nl
+mail.rijksdienstcn.com
 mail01.dsta.nl
 mail240.brabant.nl
 mail241.brabant.nl
@@ -2412,6 +2431,7 @@ mobiel.acc.toeslagen.nl
 mobiel.toeslagen.nl
 mobiel1.acc.toeslagen.nl
 mobile.hhdelfland.nl
+mobile.rijksdienstcn.com
 modellen.jenvgegevens.nl
 mogin.ndw.nu
 monitor.rijksoverheid.nl
@@ -2755,6 +2775,7 @@ opendata.english.p-direkt.nl
 opendata.english.postedworkers.nl
 opendata.english.rda.nl
 opendata.english.rekenkamer.nl
+opendata.english.rijksdienstcn.com
 opendata.english.sso3w.nl
 opendata.euthanasiecommissie.nl
 opendata.excellentescholen.nl
@@ -2900,6 +2921,7 @@ opendata.regiosaandegrens.nl
 opendata.rekenkamer.nl
 opendata.riec.nl
 opendata.rijksbredekennisagenda.nl
+opendata.rijksdienstcn.com
 opendata.rijksoverheid.nl
 opendisdata-acc.nza.nl
 opendisdata.nza.nl
@@ -2970,6 +2992,7 @@ papiamentu.belastingdienst-cn.nl
 papiamentu.mijncn.nl
 papiamentu.rijksdienstcn.com
 password.ctgb.nl
+passwordreset.rijksdienstcn.com
 pdc.acc.omgevingswet.overheid.nl
 pdc.int.omgevingswet.overheid.nl
 pdc.omgevingswet.overheid.nl
@@ -3054,6 +3077,7 @@ portaal.nlarbeidsinspectie.nl
 portaal.prolander.nl
 portaal.tst.belastingdienst.nl
 portal.cibg.nl
+portal.rijksdienstcn.com
 portalen.acceptatie.digipoort.logius.nl
 portalen.preproductie.digipoort.logius.nl
 positconnect.ikz.nl
@@ -3124,6 +3148,7 @@ puc-acc.overheid.nl
 puc-redactie-acc.overheid.nl
 puc-redactie.overheid.nl
 puc.overheid.nl
+push.rijksdienstcn.com
 pushmail.awti.nl
 pushmail.flevoland.nl
 pushmail.onderwijsraad.nl
@@ -3200,6 +3225,7 @@ rev.emissieautoriteit.nl
 rht.belastingdienst.nl
 riec.nl
 rijksbredekennisagenda.nl
+rijksdienstcn.com
 rijkskantoorproxy.belastingdienst.nl
 rijksoverheid.nl
 rijkstrainee.werkenvoornederland.nl
@@ -3432,6 +3458,7 @@ sso.intpatch.omgevingswet.overheid.nl
 sso.omgevingswet.overheid.nl
 sso.perf.omgevingswet.overheid.nl
 sso.pre.omgevingswet.overheid.nl
+sso.rijksdienstcn.com
 sso.subsidie.cultureelerfgoed.nl
 sso.tst2905.omgevingswet.overheid.nl
 stadvanced.belastingdienst.nl
@@ -3800,6 +3827,7 @@ vpn.provincie-utrecht.nl
 vpn2.aaenmaas.nl
 vpn2.domeinenrz.nl
 vpn3.domeinenrz.nl
+vpnbon.rijksdienstcn.com
 vps-prod-01.flevoland.nl
 vr.ofgv.nl
 vri-admin.ndw.nu
@@ -3873,6 +3901,7 @@ webmail.huurcommissie.nl
 webmail.ofgv.nl
 webmail.opwegnaarseb.nl
 webmail.rekenkamer.nl
+webmail.rijksdienstcn.com
 webmail.werkenvoornederland.nl
 webservice-tdv.igj.nl
 webservices-acc1.belastingdienst.nl
@@ -4278,6 +4307,7 @@ www.rekenhulptransitievergoeding.nl
 www.rekenkamer.nl
 www.riec.nl
 www.rijksbredekennisagenda.nl
+www.rijksdienstcn.com
 www.rijksoverheid.nl
 www.risicokaart.flevoland.nl
 www.sharepoint-conf.belastingdienst.nl

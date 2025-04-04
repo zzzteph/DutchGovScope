@@ -3639,6 +3639,7 @@ https://english.onderwijsinspectie.nl
 https://english.postedworkers.nl
 https://english.rda.nl
 https://english.rekenkamer.nl
+https://english.rijksdienstcn.com
 https://english.sso3w.nl
 https://enkhuizen.nl
 https://enquete-acc.denhaag.nl
@@ -3955,6 +3956,7 @@ https://feeds.english.onderwijsinspectie.nl
 https://feeds.english.postedworkers.nl
 https://feeds.english.rda.nl
 https://feeds.english.rekenkamer.nl
+https://feeds.english.rijksdienstcn.com
 https://feeds.english.sso3w.nl
 https://feeds.erfgoeddeal.nl
 https://feeds.euthanasiecommissie.nl
@@ -4099,6 +4101,7 @@ https://feeds.regiosaandegrens.nl
 https://feeds.rekenkamer.nl
 https://feeds.riec.nl
 https://feeds.rijksbredekennisagenda.nl
+https://feeds.rijksdienstcn.com
 https://feeds.rijksoverheid.nl
 https://felix.baarn.nl
 https://felix.bergen.nl
@@ -4160,6 +4163,7 @@ https://filesender.ctgb.nl
 https://fileshare.adds.amsterdam.nl
 https://fileshare.amsterdam.nl
 https://fileshare.rekenkamer.nl
+https://fileshare.rijksdienstcn.com
 https://filetransfer.belastingdienst.nl
 https://filetransfer.gennep.nl
 https://filetransfer.meierijstad.nl
@@ -4372,6 +4376,7 @@ https://fs.beverwijk.nl
 https://fs.ctgb.nl
 https://fs.haarlem.nl
 https://fs.halderberge.nl
+https://fs.rijksdienstcn.com
 https://fs.waalwijk.nl
 https://fs001.leudal.nl
 https://fsvportaal.belastingdienst.nl
@@ -7169,6 +7174,7 @@ https://opendata.english.onderwijsinspectie.nl
 https://opendata.english.postedworkers.nl
 https://opendata.english.rda.nl
 https://opendata.english.rekenkamer.nl
+https://opendata.english.rijksdienstcn.com
 https://opendata.english.sso3w.nl
 https://opendata.euthanasiecommissie.nl
 https://opendata.excellentescholen.nl
@@ -7315,6 +7321,7 @@ https://opendata.regiosaandegrens.nl
 https://opendata.rekenkamer.nl
 https://opendata.riec.nl
 https://opendata.rijksbredekennisagenda.nl
+https://opendata.rijksdienstcn.com
 https://opendata.rijksoverheid.nl
 https://opendata.roosendaal.nl
 https://opendata.utrecht.nl
@@ -7789,6 +7796,7 @@ https://portal.helmond.nl
 https://portal.noordoostpolder.nl
 https://portal.olst-wijhe.nl
 https://portal.pekela.nl
+https://portal.rijksdienstcn.com
 https://portal.sittard-geleen.nl
 https://portal.stadskanaal.nl
 https://portal.sudwestfryslan.nl
@@ -8270,6 +8278,7 @@ https://ridderkerk.nl
 https://riec.nl
 https://rijkevoort.landvancuijk.nl
 https://rijksbredekennisagenda.nl
+https://rijksdienstcn.com
 https://rijksoverheid.nl
 https://rijssen-holten.nl
 https://rijswijk.nl
@@ -8814,6 +8823,7 @@ https://sso.ir.rotterdam.nl
 https://sso.omgevingswet.overheid.nl
 https://sso.perf.omgevingswet.overheid.nl
 https://sso.pre.omgevingswet.overheid.nl
+https://sso.rijksdienstcn.com
 https://sso.staphorst.nl
 https://sso.tst2905.omgevingswet.overheid.nl
 https://ssorad.rotterdam.nl
@@ -9639,6 +9649,7 @@ https://vpn.zoetermeer.nl
 https://vpn02.denhaag.nl
 https://vpn2.aaenmaas.nl
 https://vpn365.denhelder.nl
+https://vpnbon.rijksdienstcn.com
 https://vps-prod-01.flevoland.nl
 https://vpsweb.veere.nl
 https://vraagbaak.doesburg.nl
@@ -10811,6 +10822,7 @@ https://www.rhenen.nl
 https://www.ridderkerk.nl
 https://www.riec.nl
 https://www.rijksbredekennisagenda.nl
+https://www.rijksdienstcn.com
 https://www.rijksoverheid.nl
 https://www.rijssen-holten.nl
 https://www.rijswijk.nl
