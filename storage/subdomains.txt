@@ -993,6 +993,7 @@ acceptatie.reimerswaal.nl
 acceptatie.rijssen-holten.nl
 acceptatie.rijswijk.nl
 acceptatie.schagen.nl
+acceptatie.schoolleidersregisterpo.nl
 acceptatie.simpelveld.nl
 acceptatie.sint-michielsgestel.nl
 acceptatie.smallingerland.nl
@@ -1141,6 +1142,7 @@ admin.openstad.haarlemmermeer.nl
 admin.openstad.nijmegen.nl
 admin.openstad.utrecht.nl
 admin.regiomonitor-acc.oosterhout.nl
+admin.schoolleidersregisterpo.nl
 admin.schoolwijzer.amsterdam.nl
 admin.stadjerspas.gemeente.groningen.nl
 admin.v2.openstad.haarlemmermeer.nl
@@ -2235,6 +2237,7 @@ autodiscover.s-hertogenbosch.nl
 autodiscover.schagen.nl
 autodiscover.scherpenzeel.nl
 autodiscover.schiedam.nl
+autodiscover.schoolleidersregisterpo.nl
 autodiscover.schouwen-duiveland.nl
 autodiscover.sittard-geleen.nl
 autodiscover.sliedrecht.nl
@@ -2967,6 +2970,7 @@ betalen.pijnacker-nootdorp.nl
 betalen.rhenen.nl
 betalen.rijswijk.nl
 betalen.scherpenzeel.nl
+betalen.schoolleidersregisterpo.nl
 betalen.smallingerland.nl
 betalen.stadskanaal.nl
 betalen.steenwijkerland.nl
@@ -6346,6 +6350,7 @@ feeds.ruimtelijkeordening.nl
 feeds.ruimtevoorderivier.nl
 feeds.samenwerkingrijknoord.nl
 feeds.sbv-z.nl
+feeds.schoolleidersregisterpo.nl
 felix.aalten.nl
 felix.achtkarspelen.nl
 felix.baarn.nl
@@ -6839,6 +6844,7 @@ ftp.oostvaarderskliniek.nl
 ftp.opsterland.nl
 ftp.rp.heerlen.nl
 ftp.ruimtelijkeplannen.amsterdam.nl
+ftp.schoolleidersregisterpo.nl
 ftp.sociaal.amsterdam.nl
 ftp.sudwestfryslan.nl
 ftp.tilburg.nl
@@ -12188,6 +12194,7 @@ opendata.ruimtelijkeordening.nl
 opendata.ruimtevoorderivier.nl
 opendata.samenwerkingrijknoord.nl
 opendata.sbv-z.nl
+opendata.schoolleidersregisterpo.nl
 opendata.utrecht.nl
 opendata.zoetermeer.nl
 opendisdata-acc.nza.nl
@@ -14253,6 +14260,7 @@ schiermonnikoog.nl
 scholenwijzer-acc.denhaag.nl
 scholenwijzer.denhaag.nl
 school.bibliotheek.rotterdam.nl
+schoolleidersregisterpo.nl
 schoolwijzer.amsterdam.nl
 schouw.flevoland.nl
 schouwen-duiveland.nl
@@ -19086,6 +19094,7 @@ www.scherpenzeel.nl
 www.scheveningen.denhaag.nl
 www.schiedam.nl
 www.schiermonnikoog.nl
+www.schoolleidersregisterpo.nl
 www.schoolwijzer.amsterdam.nl
 www.schouwen-duiveland.nl
 www.sec.gemeentemaasgouw.nl
@@ -19618,6 +19627,7 @@ zoeken.haarlemmermeer.nl
 zoeken.hengelo.nl
 zoeken.olst-wijhe.nl
 zoeken.ondernemersplein.overheid.nl
+zoeken.schoolleidersregisterpo.nl
 zoekengemeentearchief.gemeentehulst.nl
 zoekpersoon.vlaardingen.nl
 zoekservice.mensenrechten.nl

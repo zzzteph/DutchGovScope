@@ -44,8 +44,8 @@ opendata.english
 adfs
 raad
 api.meldingen
-broker
 betalen
+broker
 ruimtelijkeplannen
 werkenbij
 testeloket
@@ -105,6 +105,7 @@ piwik
 acc-broker
 belastingloket
 doemee
+ftp
 apps
 siam
 financien
@@ -113,7 +114,6 @@ pki
 smtp
 a-english
 begroting
-ftp
 squit2go
 samen
 e
@@ -244,6 +244,7 @@ contact
 academie
 filetransfer
 services
+zoeken
 omgevingswet
 beheer
 beeldbank-bo
@@ -273,7 +274,6 @@ handhaving
 www.portal
 a-magazines
 servicedesk
-zoeken
 app
 wifi
 mam
@@ -951,6 +951,7 @@ socialintranet
 radar
 hybridmail
 passwordreset
+admin
 edienstenburgerzaken.test
 www.praatmee
 datalab
@@ -6483,7 +6484,6 @@ www.e-diensten001
 www.loketacpt
 BAG
 GouwBAG-test
-admin
 admin.v2.openstad
 alleideeen.warmrijsenhout
 api.v2.openstad

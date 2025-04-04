@@ -197,6 +197,7 @@ http://autodiscover.rucphen.nl
 http://autodiscover.s-hertogenbosch.nl
 http://autodiscover.scherpenzeel.nl
 http://autodiscover.schiedam.nl
+http://autodiscover.schoolleidersregisterpo.nl
 http://autodiscover.schouwen-duiveland.nl
 http://autodiscover.sliedrecht.nl
 http://autodiscover.someren.nl
@@ -321,6 +322,7 @@ http://formulieren.opsterland.nl
 http://formulieren.vlaardingen.nl
 http://ftp.ofgv.nl
 http://ftp.oostvaarderskliniek.nl
+http://ftp.schoolleidersregisterpo.nl
 http://geldrop-mierlo.nl
 http://geldzaken.loonopzand.nl
 http://gemeentebeek.nl
@@ -2136,6 +2138,7 @@ https://betalen.pijnacker-nootdorp.nl
 https://betalen.rhenen.nl
 https://betalen.rijswijk.nl
 https://betalen.scherpenzeel.nl
+https://betalen.schoolleidersregisterpo.nl
 https://betalen.smallingerland.nl
 https://betalen.stadskanaal.nl
 https://betalen.steenwijkerland.nl
@@ -4122,6 +4125,7 @@ https://feeds.ruimtelijkeordening.nl
 https://feeds.ruimtevoorderivier.nl
 https://feeds.samenwerkingrijknoord.nl
 https://feeds.sbv-z.nl
+https://feeds.schoolleidersregisterpo.nl
 https://felix.baarn.nl
 https://felix.bergen.nl
 https://felix.beverwijk.nl
@@ -7362,6 +7366,7 @@ https://opendata.ruimtelijkeordening.nl
 https://opendata.ruimtevoorderivier.nl
 https://opendata.samenwerkingrijknoord.nl
 https://opendata.sbv-z.nl
+https://opendata.schoolleidersregisterpo.nl
 https://opendata.utrecht.nl
 https://opendata.zoetermeer.nl
 https://opendisdata.nza.nl
@@ -8485,6 +8490,7 @@ https://schiedam.nl
 https://schiedata.schiedam.nl
 https://scholenwijzer-acc.denhaag.nl
 https://scholenwijzer.denhaag.nl
+https://schoolleidersregisterpo.nl
 https://schoolwijzer.amsterdam.nl
 https://schouwen-duiveland.nl
 https://schulddossier.amsterdam.nl
@@ -10915,6 +10921,7 @@ https://www.schagen.nl
 https://www.scherpenzeel.nl
 https://www.schiedam.nl
 https://www.schiermonnikoog.nl
+https://www.schoolleidersregisterpo.nl
 https://www.schoolwijzer.amsterdam.nl
 https://www.schouwen-duiveland.nl
 https://www.shops.landvancuijk.nl

@@ -29,6 +29,7 @@ http://autodiscover.hhdelfland.nl
 http://autodiscover.nza.nl
 http://autodiscover.odijmond.nl
 http://autodiscover.ofgv.nl
+http://autodiscover.schoolleidersregisterpo.nl
 http://bzv-a.brabant.nl
 http://ca-devportal-pre.logius.nl
 http://ca-devportal.logius.nl
@@ -55,6 +56,7 @@ http://embraceintranet.flevoland.nl
 http://formulier-beheer.dus-i.nl
 http://ftp.ofgv.nl
 http://ftp.oostvaarderskliniek.nl
+http://ftp.schoolleidersregisterpo.nl
 http://geo2.flevoland.nl
 http://git-az1.lpc.logius.nl
 http://git-az2.lpc.logius.nl
@@ -357,6 +359,7 @@ https://bestandsportaal.cibg.nl
 https://beta.belastingdienst.nl
 https://betalen-cnf.belastingdienst.nl
 https://betalen.belastingdienst.nl
+https://betalen.schoolleidersregisterpo.nl
 https://bevolkingsprognose.brabant.nl
 https://bevolkingsprognose2020.brabant.nl
 https://bezoekersdata.flevoland.nl
@@ -1002,6 +1005,7 @@ https://feeds.ruimtelijkeordening.nl
 https://feeds.ruimtevoorderivier.nl
 https://feeds.samenwerkingrijknoord.nl
 https://feeds.sbv-z.nl
+https://feeds.schoolleidersregisterpo.nl
 https://fibb1.belastingdienst.nl
 https://fibd1.belastingdienst.nl
 https://fibe1.belastingdienst.nl
@@ -1815,6 +1819,7 @@ https://opendata.ruimtelijkeordening.nl
 https://opendata.ruimtevoorderivier.nl
 https://opendata.samenwerkingrijknoord.nl
 https://opendata.sbv-z.nl
+https://opendata.schoolleidersregisterpo.nl
 https://opendisdata.nza.nl
 https://opleiding-ola.belastingdienst.nl
 https://opleiding.nl-alert.nl
@@ -2041,6 +2046,7 @@ https://scansys.huurcommissie.nl
 https://schadeherstel.acc.toeslagen.nl
 https://schadeherstel.toeslagen.nl
 https://scheiden.belastingdienst.nl
+https://schoolleidersregisterpo.nl
 https://sdg.government.nl
 https://sdg.rijksoverheid.nl
 https://sdgapi.ondernemersplein.overheid.nl
@@ -2637,6 +2643,7 @@ https://www.ruimtevoorderivier.nl
 https://www.rwsinnoveert.nl
 https://www.samenwerkingrijknoord.nl
 https://www.sbv-z.nl
+https://www.schoolleidersregisterpo.nl
 https://www.stateninformatie.provincie-utrecht.nl
 https://www.test.monumentenregister.cultureelerfgoed.nl
 https://www.testsite.ceg.nl
