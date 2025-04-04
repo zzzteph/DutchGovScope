@@ -23,28 +23,28 @@ formulieren
 probeer
 loket
 test
+werkplek
 eloket
 acc
-werkplek
 dkd
 portal
+english
 meldingen
 geo
-english
 vpn
 open
 afspraak
 waarmerk
-parkeren
 a-www
+parkeren
 adfs
-raad
 feeds.english
 opendata.english
+raad
 api.meldingen
-broker
 a-feeds
 a-opendata
+broker
 betalen
 ruimtelijkeplannen
 werkenbij
@@ -115,6 +115,7 @@ begroting
 ftp
 squit2go
 samen
+a-english
 e
 bgt
 sts
@@ -127,7 +128,6 @@ www.webmail
 filecap
 dtestmidoffice
 _dmarc
-a-english
 api
 lyncdiscover
 inloggen
@@ -156,6 +156,8 @@ acc-podiumd-logs
 woningbouwkaart
 contentbeheer
 cms
+a-feeds.a-english
+a-opendata.a-english
 mta-sts
 mobiel
 maps
@@ -178,8 +180,6 @@ acc-objecten
 acc-objecttypen
 jaarstukken
 cryptshare
-a-feeds.a-english
-a-opendata.a-english
 fs
 kennisbank
 meet
@@ -252,6 +252,7 @@ werkenvoor
 xential
 exchange
 e-loket
+sslvpn
 subsidies-backend
 melddesk
 thuiswerken
@@ -280,7 +281,7 @@ desktop
 burgerloket
 digikoppelingtest
 magazine
-sslvpn
+ns1
 mijnzorg-acc
 vergunningintaker-preprod
 simform-preproductie
@@ -334,7 +335,6 @@ wion
 www.test
 parkeervergunningen
 gp
-ns1
 openformulieren
 awmag
 squit2020.acceptatie
@@ -358,6 +358,7 @@ bezoekersparkeren
 download
 huisstijl
 ns2
+werken
 www.mijn
 nieuws
 test.digikoppeling
@@ -432,7 +433,6 @@ mijndesktop
 persberichten
 sharepoint
 start
-werken
 av
 gisservices
 pushmail
@@ -592,6 +592,7 @@ join
 pop
 kadernota
 smtp01
+fileshare
 belastingportaal.acc
 inloggen.belastingportaal
 inloggen.belastingportaal.acc
@@ -944,6 +945,7 @@ search
 smtp02
 socialintranet
 radar
+hybridmail
 edienstenburgerzaken.test
 www.praatmee
 datalab
@@ -997,7 +999,6 @@ bi
 burgerzaken
 buurtbudget
 docgen
-fileshare
 formulieren-g4-acc
 formulieren.acc
 gvz2digikoppeling
@@ -3705,6 +3706,10 @@ prod.radar
 slimmestad
 uploadmodule
 kart
+coronarekening
+mailfilter01
+onsgeldontcijferd-test
+onsgeldontcijferd
 email.mail.participatie
 mail.participatie
 aalten-checker-preprod
@@ -3858,7 +3863,6 @@ deurwaardersloket
 e-dienstaanvragen
 email.wijkteam-bewustwording
 gbav1
-hybridmail
 key2waarderen-voormeldingwoz
 koppelpoort
 logilink.gbamailbox
