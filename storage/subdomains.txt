@@ -1978,6 +1978,7 @@ artifact-rd2.toegang.overheid.nl
 artifact-rv-pp1.logius.nl
 as.valkenburg.nl
 asbestovertredingen.nlarbeidsinspectie.nl
+asbestvrijdak.nl
 asd.purmerend.nl
 asde.ede.nl
 aselect.bibliotheek.vlaardingen.nl
@@ -6217,6 +6218,7 @@ feeds.animalfreeinnovationtpi.nl
 feeds.antennebureau.nl
 feeds.arbeidsmigratieingoedebanen.nl
 feeds.arboportaal.nl
+feeds.asbestvrijdak.nl
 feeds.atkm.nl
 feeds.auditdienstrijk.nl
 feeds.autoriteitnvs.nl
@@ -12204,6 +12206,7 @@ opendata.antennebureau.nl
 opendata.arbeidsmigratieingoedebanen.nl
 opendata.arboportaal.nl
 opendata.arnhem.nl
+opendata.asbestvrijdak.nl
 opendata.assen.nl
 opendata.atkm.nl
 opendata.auditdienstrijk.nl
@@ -18540,6 +18543,7 @@ www.archief.delft.nl
 www.archief.venlo.nl
 www.arnhem.nl
 www.arrangementen.landvancuijk.nl
+www.asbestvrijdak.nl
 www.asl.omgevingswet.overheid.nl
 www.assen.nl
 www.asten.nl
