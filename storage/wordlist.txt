@@ -30,11 +30,11 @@ dkd
 a-www
 english
 portal
+open
 meldingen
 geo
 a-feeds
 a-opendata
-open
 feeds.english
 opendata.english
 vpn
@@ -96,6 +96,7 @@ test-cmsintranet
 digikoppeling.test
 mks
 dtestloket
+smtp
 mdm
 denkmee
 osbacc
@@ -106,7 +107,6 @@ piwik
 acc-broker
 belastingloket
 doemee
-smtp
 a-english
 ftp
 siam
@@ -123,6 +123,7 @@ lyncdiscover
 bgt
 sts
 micollab
+inloggen
 bastion365
 verkiezingen
 duurzaam
@@ -134,7 +135,6 @@ _dmarc
 a-feeds.a-english
 a-opendata.a-english
 zaaksysteem
-inloggen
 mijnzorg
 vergunningintaker
 snelbalie
@@ -146,6 +146,7 @@ obsurv
 cms
 mta-sts
 mailing
+maps
 meet
 web
 geoportaal
@@ -153,6 +154,7 @@ onderzoek
 AutoDiscover
 connect.acceptatie
 auth
+transfer
 gis
 preprodbroker
 simform
@@ -164,13 +166,11 @@ woningbouwkaart
 contentbeheer
 fs
 mobiel
-maps
 email
 legacy
 mobile
 mx1
 keycloak
-transfer
 gisib
 izaaksuite
 subsidies
@@ -209,6 +209,7 @@ webservices
 atlas
 publicaties
 intranet-acc
+redactie
 mx2
 veiligdelen
 college
@@ -225,7 +226,6 @@ afspraakmaken
 m
 website
 wachtwoord
-redactie
 archief
 guest
 preprod-mijn
@@ -255,6 +255,7 @@ esb
 werkenvoor
 xential
 mam
+subsidie
 exchange
 e-loket
 sslvpn
@@ -282,7 +283,6 @@ www.portal
 servicedesk
 wifi
 prod
-subsidie
 desktop
 burgerloket
 forms
@@ -374,6 +374,7 @@ nhr
 geoweb
 octopus
 sso
+testdigikoppeling
 midoffice
 participatie
 documenten
@@ -438,6 +439,7 @@ mijndesktop
 persberichten
 sharepoint
 start
+videobellen
 av
 gisservices
 helloid
@@ -447,6 +449,7 @@ dataportaal
 www.kaarten
 www.mail
 ons
+kennis
 oud
 qmanage
 veiligmailen
@@ -530,7 +533,6 @@ gemeentebestuur
 lyncweb
 servicegateway
 pip
-testdigikoppeling
 acceptatie-intranet
 rxlaunch-signicat-preprod
 vthbroker
@@ -557,7 +559,6 @@ sdm
 b2b
 mm
 vergaderen
-videobellen
 webdiensten
 acc.mijn
 designsystem
@@ -576,7 +577,6 @@ samenwerken
 conf
 mijnwerkplek
 idselect
-kennis
 veilig
 connect-acpt
 services-test
@@ -587,6 +587,7 @@ preprodformulieren
 kantoor
 www1
 geoportaaltest
+inloggen-preprod
 samenveiligwerken
 teams
 jip
@@ -914,7 +915,6 @@ academy
 fme
 wsus
 dms
-inloggen-preprod
 pkioverheid
 telewerk
 acc.api
@@ -962,6 +962,8 @@ mx01
 register
 acceptatie-zaaksysteem
 securetest
+formulieren-preprod
+nextcloud
 edienstenburgerzaken.test
 www.praatmee
 datalab
@@ -3862,6 +3864,24 @@ elo
 feeds.papiamento
 opendata.papiamento
 papiamento
+bron
+cms-bron
+cms-eef
+eef
+gvopsawa-t
+gvopsawa
+h2ons
+ikp-ota
+ikp
+metelkaar
+pdok
+spapps-t
+spapps
+test-bron
+test-cms-bron
+test-cms-eef
+test-eef
+wikixl-saml.acceptatie
 email.mail.participatie
 mail.participatie
 aalten-checker-preprod
@@ -6062,7 +6082,6 @@ liquidfiles-acc
 liquidfiles
 liveblog
 logoff
-nextcloud
 pencportal
 pit
 spin
@@ -8931,7 +8950,6 @@ brokersignicat-preprod-x509
 brokersignicat-preprod
 brokersignicat-x509
 brokersignicat
-formulieren-preprod
 ftrust
 gplan-app
 lms

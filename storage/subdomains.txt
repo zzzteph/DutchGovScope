@@ -3323,6 +3323,7 @@ brokersignicat-preprod-x509.veere.nl
 brokersignicat-preprod.veere.nl
 brokersignicat-x509.veere.nl
 brokersignicat.veere.nl
+bron.waterschaplimburg.nl
 bronckhorst.nl
 bronro.overbetuwe.nl
 bros-academie.deurne.nl
@@ -3692,6 +3693,8 @@ cluster-cg.test.denhaag.nl
 clv.echt-susteren.nl
 cms-archief.leiden.nl
 cms-binnenshuis.bergen.nl
+cms-bron.waterschaplimburg.nl
+cms-eef.waterschaplimburg.nl
 cms-extranet.hethogeland.nl
 cms-info.ndw.nu
 cms-insite.nijmegen.nl
@@ -4671,6 +4674,7 @@ digikoppeling.vijfheerenlanden.nl
 digikoppeling.vlaardingen.nl
 digikoppeling.vlissingen.nl
 digikoppeling.waterland.nl
+digikoppeling.waterschaplimburg.nl
 digikoppeling.westerkwartier.nl
 digikoppeling.westvoorne.nl
 digikoppeling.wijdemeren.nl
@@ -5598,6 +5602,7 @@ editorial.defensie.nl
 edocs.hhdelfland.nl
 edocstest.hhdelfland.nl
 educatieffestival.denhaag.nl
+eef.waterschaplimburg.nl
 eemnes.nl
 eemsdelta.groningen.nl
 eemsdelta.nl
@@ -6805,6 +6810,7 @@ formulieren-g4.utrecht.nl
 formulieren-intern.hoorn.nl
 formulieren-preprod.provincie.drenthe.nl
 formulieren-preprod.veere.nl
+formulieren-preprod.waterschaplimburg.nl
 formulieren-preproductie.vlaardingen.nl
 formulieren-test.beesel.nl
 formulieren-test.bronckhorst.nl
@@ -6882,6 +6888,7 @@ formulieren.veldhoven.nl
 formulieren.venlo.nl
 formulieren.vlaardingen.nl
 formulieren.vught.nl
+formulieren.waterschaplimburg.nl
 formulieren.westbetuwe.nl
 formulieren.westervoort.nl
 formulieren.westerwolde.nl
@@ -7739,6 +7746,8 @@ gviservices.intranet.amsterdam.nl
 gviservicestest.intranet.amsterdam.nl
 gvonline.hilversum.nl
 gvonline.westmaasenwaal.nl
+gvopsawa-t.waterschaplimburg.nl
+gvopsawa.waterschaplimburg.nl
 gvsh2ha.belastingdienst.nl
 gvsh2hb.belastingdienst.nl
 gvt.haarlemmermeer.nl
@@ -7764,6 +7773,7 @@ gws-prod.gemeente-steenbergen.nl
 gymzaalhuren.bernheze.org
 gzac.cg-intern.ont.utrecht.nl
 gzac.t.ssv.amsterdam.nl
+h2ons.waterschaplimburg.nl
 haaksbergen.nl
 haal-centraal.api.data.amsterdam.nl
 haarendossiers.oisterwijk.nl
@@ -8541,6 +8551,8 @@ iknowcimow.acc.omgevingswet.overheid.nl
 iknowcimow.omgevingswet.overheid.nl
 iknowcimow.tst.omgevingswet.overheid.nl
 ikonderneemin.almere.nl
+ikp-ota.waterschaplimburg.nl
+ikp.waterschaplimburg.nl
 ikvermoedhuiselijkgeweld.nl
 ikz.nl
 ikzitklem.zaanstad.nl
@@ -8624,6 +8636,7 @@ inloggen-acceptatie.oldenzaal.nl
 inloggen-pre.limburg.nl
 inloggen-preprod.geertruidenberg.nl
 inloggen-preprod.hhdelfland.nl
+inloggen-preprod.waterschaplimburg.nl
 inloggen.belastingportaal.aaenhunze.nl
 inloggen.belastingportaal.acc.aaenhunze.nl
 inloggen.belastingportaal.acc.assen.nl
@@ -8646,6 +8659,7 @@ inloggen.mijnsubsidie.test.eindhoven.nl
 inloggen.oldenzaal.nl
 inloggen.oostgelre.nl
 inloggen.wageningen.nl
+inloggen.waterschaplimburg.nl
 inloggenapv-preprod.hellendoorn.nl
 inloggenapv.hellendoorn.nl
 innovatielab.koopoverheid.nl
@@ -9309,6 +9323,7 @@ kennis-staging.cultureelerfgoed.nl
 kennis.cultureelerfgoed.nl
 kennis.hdsr.nl
 kennis.nponderwijs.nl
+kennis.waterschaplimburg.nl
 kennisbank.achtkarspelen.nl
 kennisbank.almelo.nl
 kennisbank.barneveld.nl
@@ -10153,6 +10168,7 @@ mail.waalre.nl
 mail.waalwijk.nl
 mail.wageningen.nl
 mail.wassenaar.nl
+mail.waterschaplimburg.nl
 mail.weert.nl
 mail.westerkwartier.nl
 mail.westmaasenwaal.nl
@@ -10276,6 +10292,7 @@ maps.rotterdam.nl
 maps.tynaarlo.nl
 maps.venlo.nl
 maps.vlaardingen.nl
+maps.waterschaplimburg.nl
 maps.zaanstad.nl
 marechaussee.nl
 mariahoeveaanzet.denhaag.nl
@@ -10545,6 +10562,7 @@ merk-acc.denhaag.nl
 merk.denhaag.nl
 merkportaal.belastingdienst.nl
 metadata.toegang.overheid.nl
+metelkaar.waterschaplimburg.nl
 metelkaartrekkenwedegrens.nl
 metrixinbound.inspecteur.ilent.nl
 mfa-rooster.arnhem.nl
@@ -11438,6 +11456,7 @@ neurontst.kerkrade.nl
 nevenbetrekkingen.om.nl
 new.mensenrechten.nl
 nextcloud.ede.nl
+nextcloud.waterschaplimburg.nl
 nexus.datapunt.amsterdam.nl
 nexus.lpc.logius.nl
 ngdw.brunssum.nl
@@ -12049,6 +12068,7 @@ open.teylingen.nl
 open.tilburg.nl
 open.tubbergen.nl
 open.vechtstromen.nl
+open.waterschaplimburg.nl
 open.wierden.nl
 open.zoetermeer.nl
 open.zuidplas.nl
@@ -12960,6 +12980,7 @@ pdc.test.stichtsevecht.nl
 pdc.test.sudwestfryslan.nl
 pdcschulddienstverlening.rotterdam.nl
 pdk.veldhoven.nl
+pdok.waterschaplimburg.nl
 peelenmaas.nl
 pekela.nl
 penc-notes.rotterdam.nl
@@ -14014,6 +14035,7 @@ redactie.test.amersfoort.nl
 redactie.vallei-veluwe.nl
 redactie.vechtstromen.nl
 redactie.veiligheidsregioflevoland.nl
+redactie.waterschaplimburg.nl
 redactiemijn-o.ot.denhaag.nl
 redactiemijn-t.ot.denhaag.nl
 redi.denhaag.nl
@@ -15249,6 +15271,7 @@ smtp.opsterland.nl
 smtp.rijksoverheid.nl
 smtp.tholen.nl
 smtp.vechtstromen.nl
+smtp.waterschaplimburg.nl
 smtp.zwolle.nl
 smtp01.meerssen.nl
 smtp01.nunspeet.nl
@@ -15385,6 +15408,8 @@ spa4dweb.amsterdam.nl
 spam.gennep.nl
 spamfilter.westerkwartier.nl
 spamfilter.westmaasenwaal.nl
+spapps-t.waterschaplimburg.nl
+spapps.waterschaplimburg.nl
 speciaal.meppel.nl
 specials-acpt.brabant.nl
 specials.brabant.nl
@@ -15811,6 +15836,7 @@ subsidie.haarlemmermeer.nl
 subsidie.leiden.nl
 subsidie.maassluis.nl
 subsidie.utrecht.nl
+subsidie.waterschaplimburg.nl
 subsidiebackoffice.acceptatie.dordrecht.nl
 subsidiebackoffice.dordrecht.nl
 subsidiebeheer.alkmaar.nl
@@ -16060,6 +16086,9 @@ test-belastingloket.purmerend.nl
 test-bink.beverwijk.nl
 test-binnenshuis.bergen.nl
 test-bp.stopheling.nl
+test-bron.waterschaplimburg.nl
+test-cms-bron.waterschaplimburg.nl
+test-cms-eef.waterschaplimburg.nl
 test-cmsbink.beverwijk.nl
 test-cmsdieuwke.defryskemarren.nl
 test-cmsdok.dronten.nl
@@ -16115,6 +16144,7 @@ test-digikoppelingjnet.leeuwarden.nl
 test-digitaalgemeenteloket.kaagenbraassem.nl
 test-dok.dronten.nl
 test-e-loket.apeldoorn.nl
+test-eef.waterschaplimburg.nl
 test-eformulier.heerlen.nl
 test-eloket.brunssum.nl
 test-eloket.krimpenerwaard.nl
@@ -16417,6 +16447,7 @@ testdigikoppeling.haarlemmermeer.nl
 testdigikoppeling.middelburg.nl
 testdigikoppeling.middendelfland.nl
 testdigikoppeling.vlissingen.nl
+testdigikoppeling.waterschaplimburg.nl
 testdigitaalgemeenteloket.alphenaandenrijn.nl
 testdigitaalgemeenteloket.kaagenbraassem.nl
 testdigitaalvergaderen.belastingdienst.nl
@@ -16716,6 +16747,7 @@ transfer.meerssen.nl
 transfer.ofgv.nl
 transfer.s-hertogenbosch.nl
 transfer.stedebroec.nl
+transfer.waterschaplimburg.nl
 transform.deventer.nl
 transform.oa.amsterdam.nl
 transitieproefdiervrijeinnovatie.nl
@@ -17159,6 +17191,7 @@ videoafspraak.rotterdam.nl
 videobellen.belastingdienst.nl
 videobellen.utrecht.nl
 videobellen.waadhoeke.nl
+videobellen.waterschaplimburg.nl
 videobellenwsd.utrecht.nl
 videodocs.houten.nl
 videogesprek.haarlem.nl
@@ -17455,6 +17488,7 @@ waterberging.valkenswaard.nl
 waterkwaliteitinbeeld.hdsr.nl
 waterland.nl
 waterloket.urk.nl
+waterschaplimburg.nl
 watertoetsportaal-a.hhdelfland.nl
 watertoetsportaal.hhdelfland.nl
 waterweb.waterland.nl
@@ -18012,6 +18046,7 @@ wijzer.test.coevorden.nl
 wiki.data.amsterdam.nl
 wiki.logius.nl
 wiki.rijksoverheid.nl
+wikixl-saml.acceptatie.waterschaplimburg.nl
 wikixl-saml.cultureelerfgoed.nl
 wikixl-saml.test.cultureelerfgoed.nl
 wilbertoord.landvancuijk.nl
@@ -19673,6 +19708,7 @@ www.warmrijsenhout.haarlemmermeer.nl
 www.wassenaar.nl
 www.watdoetdegemeente.rotterdam.nl
 www.waterland.nl
+www.waterschaplimburg.nl
 www.webcam.oudwest.amsterdam.nl
 www.webkassa.sportbedrijf.oosterhout.nl
 www.webmail.boekel.nl
