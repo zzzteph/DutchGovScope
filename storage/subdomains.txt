@@ -6426,6 +6426,7 @@ feeds.topsectoren.nl
 feeds.transitieproefdiervrijeinnovatie.nl
 feeds.tuchtcollege-gezondheidszorg.nl
 feeds.uitelkaarmetkinderen.nl
+feeds.uitkomstgerichtezorg.nl
 felix.aalten.nl
 felix.achtkarspelen.nl
 felix.baarn.nl
@@ -12315,6 +12316,7 @@ opendata.topsectoren.nl
 opendata.transitieproefdiervrijeinnovatie.nl
 opendata.tuchtcollege-gezondheidszorg.nl
 opendata.uitelkaarmetkinderen.nl
+opendata.uitkomstgerichtezorg.nl
 opendata.utrecht.nl
 opendata.zoetermeer.nl
 opendisdata-acc.nza.nl
@@ -16767,6 +16769,7 @@ uithoorn.nl
 uitkeringen.eindhoven.nl
 uitkeringprod.heemskerk.nl
 uitkeringtest.heemskerk.nl
+uitkomstgerichtezorg.nl
 uitleg.sudwestfryslan.nl
 uitslagen.denhaag.nl
 uitslagen.dinkelland.nl
@@ -19474,6 +19477,7 @@ www.uit.groningen.nl
 www.uitelkaarmetkinderen.nl
 www.uitgeest.nl
 www.uithoorn.nl
+www.uitkomstgerichtezorg.nl
 www.uren-tst.groningen.nl
 www.urk.nl
 www.utrecht.nl

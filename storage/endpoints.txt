@@ -4182,6 +4182,7 @@ https://feeds.topsectoren.nl
 https://feeds.transitieproefdiervrijeinnovatie.nl
 https://feeds.tuchtcollege-gezondheidszorg.nl
 https://feeds.uitelkaarmetkinderen.nl
+https://feeds.uitkomstgerichtezorg.nl
 https://felix.baarn.nl
 https://felix.bergen.nl
 https://felix.beverwijk.nl
@@ -7459,6 +7460,7 @@ https://opendata.topsectoren.nl
 https://opendata.transitieproefdiervrijeinnovatie.nl
 https://opendata.tuchtcollege-gezondheidszorg.nl
 https://opendata.uitelkaarmetkinderen.nl
+https://opendata.uitkomstgerichtezorg.nl
 https://opendata.utrecht.nl
 https://opendata.zoetermeer.nl
 https://opendisdata.nza.nl
@@ -9640,6 +9642,7 @@ https://uitelkaarmetkinderen.eindhoven.nl
 https://uitelkaarmetkinderen.nl
 https://uitgeest.nl
 https://uithoorn.nl
+https://uitkomstgerichtezorg.nl
 https://uitslagen.denhaag.nl
 https://uitvaart.maassluis.nl
 https://uitvaart.velsen.nl
@@ -11160,6 +11163,7 @@ https://www.udp-rstudio.denhaag.nl
 https://www.uitelkaarmetkinderen.nl
 https://www.uitgeest.nl
 https://www.uithoorn.nl
+https://www.uitkomstgerichtezorg.nl
 https://www.utrecht.nl
 https://www.uwdorpofwijk.alphenaandenrijn.nl
 https://www.v2.openstad.haarlemmermeer.nl

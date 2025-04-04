@@ -1693,6 +1693,7 @@ feeds.topsectoren.nl
 feeds.transitieproefdiervrijeinnovatie.nl
 feeds.tuchtcollege-gezondheidszorg.nl
 feeds.uitelkaarmetkinderen.nl
+feeds.uitkomstgerichtezorg.nl
 fibb-perf.acc.belastingdienst.nl
 fibb1.belastingdienst.nl
 fibb2.acc.belastingdienst.nl
@@ -3103,6 +3104,7 @@ opendata.topsectoren.nl
 opendata.transitieproefdiervrijeinnovatie.nl
 opendata.tuchtcollege-gezondheidszorg.nl
 opendata.uitelkaarmetkinderen.nl
+opendata.uitkomstgerichtezorg.nl
 opendisdata-acc.nza.nl
 opendisdata.nza.nl
 openims-acc.ctgb.nl
@@ -3993,6 +3995,7 @@ uag.ncsc.nl
 uconnect-acc.hdsr.nl
 uconnect.hdsr.nl
 uitelkaarmetkinderen.nl
+uitkomstgerichtezorg.nl
 uploadmodule.rdi.nl
 uptime.bureauwbtv.nl
 url6099.mail.postedworkers.nl
@@ -4655,6 +4658,7 @@ www.transitieproefdiervrijeinnovatie.nl
 www.tst2905.omgevingswet.overheid.nl
 www.tuchtcollege-gezondheidszorg.nl
 www.uitelkaarmetkinderen.nl
+www.uitkomstgerichtezorg.nl
 www.veilig.cultureelerfgoed.nl
 www.vepkmsont.vcdn.belastingdienst.nl
 www.vepkmstst.vcdn.belastingdienst.nl
