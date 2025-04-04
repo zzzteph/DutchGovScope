@@ -95,6 +95,7 @@ a-feeds.rijksoverheid.nl
 a-feeds.rijksrecherche.nl
 a-feeds.rijksvastgoedbedrijf.nl
 a-feeds.royal-house.nl
+a-feeds.sbv-z.nl
 a-git.rijksoverheid.nl
 a-informatieservice.nederlandwereldwijd.nl
 a-jira.rijksoverheid.nl
@@ -165,6 +166,7 @@ a-opendata.rijksoverheid.nl
 a-opendata.rijksrecherche.nl
 a-opendata.rijksvastgoedbedrijf.nl
 a-opendata.royal-house.nl
+a-opendata.sbv-z.nl
 a-papiamentu.rijksdienstcn.com
 a-persberichten.rijksoverheid.nl
 a-servicedesk.rijksoverheid.nl
@@ -225,6 +227,7 @@ a-www.rijksoverheid.nl
 a-www.rijksrecherche.nl
 a-www.rijksvastgoedbedrijf.nl
 a-www.royal-house.nl
+a-www.sbv-z.nl
 a2vonderenkerensheide.nl
 aaenmaas.nl
 aanbiedersmedicijnen.nl
@@ -326,6 +329,7 @@ acceptatie.behandel.bigregister.nl
 acceptatie.behandel.dezi.nl
 acceptatie.behandel.generiekeregistratiedienst.cibg.nl
 acceptatie.behandel.isms.cibg.nl
+acceptatie.behandel.sbv-z.nl
 acceptatie.beheer.bigregister.nl
 acceptatie.beheer.dezi.nl
 acceptatie.beheer.donorregister.nl
@@ -359,10 +363,12 @@ acceptatie.portaal.nlarbeidsinspectie.nl
 acceptatie.publicwebservices-dcr.cibg.nl
 acceptatie.publicwebservices.cibg.nl
 acceptatie.raadplegen.donorregister.nl
+acceptatie.raadplegen.sbv-z.nl
 acceptatie.tea.bigregister.nl
 acceptatie.tmv.cibg.nl
 acceptatie.uzipas.lir.cibg.nl
 acceptatie.uzipas.portaal.ncpeh.nl
+acceptatie.uzipas.raadplegen.sbv-z.nl
 acceptatie.webservices.bigregister.nl
 acceptatie.webservices.donorregister.nl
 acceptatie.webservices.lrza.cibg.nl
@@ -648,6 +654,7 @@ begroting2020.flevoland.nl
 behandel.bigregister.nl
 behandel.generiekeregistratiedienst.cibg.nl
 behandel.isms.cibg.nl
+behandel.sbv-z.nl
 beheer-bzv.brabant.nl
 beheer.acceptatie.omgevingswet.overheid.nl
 beheer.ack.omgevingswet.overheid.nl
@@ -1605,6 +1612,7 @@ feeds.rsj.nl
 feeds.ruimtelijkeordening.nl
 feeds.ruimtevoorderivier.nl
 feeds.samenwerkingrijknoord.nl
+feeds.sbv-z.nl
 fibb-perf.acc.belastingdienst.nl
 fibb1.belastingdienst.nl
 fibb2.acc.belastingdienst.nl
@@ -2967,6 +2975,7 @@ opendata.rsj.nl
 opendata.ruimtelijkeordening.nl
 opendata.ruimtevoorderivier.nl
 opendata.samenwerkingrijknoord.nl
+opendata.sbv-z.nl
 opendisdata-acc.nza.nl
 opendisdata.nza.nl
 openims-acc.ctgb.nl
@@ -3204,7 +3213,10 @@ pwa002.belastingdienst.nl
 qapbldexte2.belastingdienst.nl
 qmanage.flevoland.nl
 raadopenbaarbestuur.nl
+raadplegen-acc.sbv-z.nl
+raadplegen-preprod.sbv-z.nl
 raadplegen.donorregister.nl
+raadplegen.sbv-z.nl
 raadrvs.nl
 raadvoorcultuur.nl
 radar.rdi.nl
@@ -3356,6 +3368,7 @@ sasbi.ilent.nl
 sb-dictu.logius.nl
 sbl.limburg.nl
 sbopg1scs01.prod.sap.belastingdienst.nl
+sbv-z.nl
 scan.provincie-utrecht.nl
 scansys.huurcommissie.nl
 schadeherstel.acc.toeslagen.nl
@@ -3772,6 +3785,7 @@ uwork.flevoland.nl
 uworktest.flevoland.nl
 uzipas.lir.cibg.nl
 uzipas.portaal.ncpeh.nl
+uzipas.raadplegen.sbv-z.nl
 va_do.belastingdienst.nl
 vacatures.odmh.nl
 validatie-acc.justid.nl
@@ -3962,7 +3976,10 @@ webmail.opwegnaarseb.nl
 webmail.rekenkamer.nl
 webmail.rijksdienstcn.com
 webmail.werkenvoornederland.nl
+webservice-acc.sbv-z.nl
+webservice-preprod.sbv-z.nl
 webservice-tdv.igj.nl
+webservice.sbv-z.nl
 webservices-acc1.belastingdienst.nl
 webservices-conf1.belastingdienst.nl
 webservices-dbb.igj.nl
@@ -4382,6 +4399,7 @@ www.ruimtelijkeordening.nl
 www.ruimtevoorderivier.nl
 www.rwsinnoveert.nl
 www.samenwerkingrijknoord.nl
+www.sbv-z.nl
 www.sharepoint-conf.belastingdienst.nl
 www.sharepoint.belastingdienst.nl
 www.stateninformatie.provincie-utrecht.nl

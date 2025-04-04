@@ -28,8 +28,8 @@ eloket
 acc
 dkd
 portal
-english
 a-www
+english
 meldingen
 geo
 vpn
@@ -564,6 +564,7 @@ social
 zoek
 helloid
 lync
+acceptatie.behandel
 acceptatie.mijn
 connect-with
 esb-test
@@ -577,6 +578,7 @@ kennis
 veilig
 connect-acpt
 services-test
+raadplegen
 mailings
 begroting2020
 preprodformulieren
@@ -871,9 +873,9 @@ vpn2
 chw
 bezwaar
 feedback
-acceptatie.behandel
 acceptatie.webservices
 acceptatie.zoeken
+behandel
 acs
 corsa
 corsa2023
@@ -892,7 +894,7 @@ beeldbellen
 feeds.dnadatabank
 opendata.dnadatabank
 ras
-raadplegen
+acceptatie.raadplegen
 mail01
 aanvraag
 begroting2019
@@ -2859,7 +2861,6 @@ acceptatie.advieswijzer
 acceptatie.api
 acceptatie.tea
 advieswijzer
-behandel
 tea
 acs-acpt
 api-acpt
@@ -3155,7 +3156,6 @@ verkooptest
 vpn3
 vuurwerk
 acc-raadplegen
-acceptatie.raadplegen
 mijn.adr
 test.webservices
 beoordeling
@@ -3723,6 +3723,13 @@ vpnbon
 tools-acc
 tools
 landelijkevastgoeddag
+acceptatie.uzipas.raadplegen
+raadplegen-acc
+raadplegen-preprod
+uzipas.raadplegen
+webservice-acc
+webservice-preprod
+webservice
 email.mail.participatie
 mail.participatie
 aalten-checker-preprod

@@ -1038,6 +1038,7 @@ https://acceptatie.baarle-nassau.nl
 https://acceptatie.behandel.bigregister.nl
 https://acceptatie.behandel.dezi.nl
 https://acceptatie.behandel.generiekeregistratiedienst.cibg.nl
+https://acceptatie.behandel.sbv-z.nl
 https://acceptatie.beheer.bigregister.nl
 https://acceptatie.beheer.dezi.nl
 https://acceptatie.beheer.donorregister.nl
@@ -1090,6 +1091,7 @@ https://acceptatie.portaal.ncpeh.nl
 https://acceptatie.portaal.nlarbeidsinspectie.nl
 https://acceptatie.publicwebservices.cibg.nl
 https://acceptatie.raadplegen.donorregister.nl
+https://acceptatie.raadplegen.sbv-z.nl
 https://acceptatie.rijswijk.nl
 https://acceptatie.schagen.nl
 https://acceptatie.someren.nl
@@ -1101,6 +1103,7 @@ https://acceptatie.teylingen.nl
 https://acceptatie.tmv.cibg.nl
 https://acceptatie.uzipas.lir.cibg.nl
 https://acceptatie.uzipas.portaal.ncpeh.nl
+https://acceptatie.uzipas.raadplegen.sbv-z.nl
 https://acceptatie.velsen.nl
 https://acceptatie.voorst.nl
 https://acceptatie.waadhoeke.nl
@@ -1887,6 +1890,7 @@ https://begroting2023.rijssen-holten.nl
 https://beh-gemeenteloket.gemeentemaastricht.nl
 https://behandel.bigregister.nl
 https://behandel.generiekeregistratiedienst.cibg.nl
+https://behandel.sbv-z.nl
 https://beheer-test-trefpunt.deurne.nl
 https://beheer-trefpunt.deurne.nl
 https://beheer.acc.amsterdam.nl
@@ -4117,6 +4121,7 @@ https://feeds.rsj.nl
 https://feeds.ruimtelijkeordening.nl
 https://feeds.ruimtevoorderivier.nl
 https://feeds.samenwerkingrijknoord.nl
+https://feeds.sbv-z.nl
 https://felix.baarn.nl
 https://felix.bergen.nl
 https://felix.beverwijk.nl
@@ -7356,6 +7361,7 @@ https://opendata.rsj.nl
 https://opendata.ruimtelijkeordening.nl
 https://opendata.ruimtevoorderivier.nl
 https://opendata.samenwerkingrijknoord.nl
+https://opendata.sbv-z.nl
 https://opendata.utrecht.nl
 https://opendata.zoetermeer.nl
 https://opendisdata.nza.nl
@@ -8196,8 +8202,10 @@ https://raad.velsen.nl
 https://raad.zutphen.nl
 https://raad.zwijndrecht.nl
 https://raadopenbaarbestuur.nl
+https://raadplegen-acc.sbv-z.nl
 https://raadplegen.denhaag.nl
 https://raadplegen.donorregister.nl
+https://raadplegen.sbv-z.nl
 https://raadrvs.nl
 https://raadsakkoord.veenendaal.nl
 https://raadsinformatie.oegstgeest.nl
@@ -8454,6 +8462,7 @@ https://sap-crm.provincie-utrecht.nl
 https://sb-dictu.logius.nl
 https://sbc01.gooisemeren.nl
 https://sbl.limburg.nl
+https://sbv-z.nl
 https://scan.afs.acc.amsterdam.nl
 https://scan.afs.amsterdam.nl
 https://scanhulp-fa.amsterdam.nl
@@ -9513,6 +9522,7 @@ https://uwdorpofwijk.alphenaandenrijn.nl
 https://uwmening.denhaag.nl
 https://uzipas.lir.cibg.nl
 https://uzipas.portaal.ncpeh.nl
+https://uzipas.raadplegen.sbv-z.nl
 https://v2.openstad.haarlemmermeer.nl
 https://vaals.nl
 https://vaarkaart.bba.amsterdam.nl
@@ -9855,8 +9865,10 @@ https://webmail.zeist.nl
 https://webmeeting.brunssum.nl
 https://webproxy.venray.nl
 https://webserver.schiedam.nl
+https://webservice-acc.sbv-z.nl
 https://webservice-decosdvl.acc.amsterdam.nl
 https://webservice-decosdvl.amsterdam.nl
+https://webservice.sbv-z.nl
 https://webservices-ot.tilburg.nl
 https://webservices.bigregister.nl
 https://webservices.hdsr.nl
@@ -10898,6 +10910,7 @@ https://www.samen.midden-groningen.nl
 https://www.samenmet.beesel.nl
 https://www.samenwerkingrijknoord.nl
 https://www.samenwij.groningen.nl
+https://www.sbv-z.nl
 https://www.schagen.nl
 https://www.scherpenzeel.nl
 https://www.schiedam.nl
