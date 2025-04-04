@@ -6489,6 +6489,7 @@ feeds.werkelijkeschade.nl
 feeds.werkenaanonspensioen.nl
 feeds.werkenbijdeeu.nl
 feeds.werkenvoorinternationaleorganisaties.nl
+feeds.wetbeschermingklokkenluiders.nl
 felix.aalten.nl
 felix.achtkarspelen.nl
 felix.baarn.nl
@@ -12434,6 +12435,7 @@ opendata.werkelijkeschade.nl
 opendata.werkenaanonspensioen.nl
 opendata.werkenbijdeeu.nl
 opendata.werkenvoorinternationaleorganisaties.nl
+opendata.wetbeschermingklokkenluiders.nl
 opendata.zoetermeer.nl
 opendisdata-acc.nza.nl
 opendisdata.nza.nl
@@ -19796,6 +19798,7 @@ www.westlandbudgetbeheer.gemeentewestland.nl
 www.westmaasenwaal.nl
 www.weststellingwerf.nl
 www.westvoorne.nl
+www.wetbeschermingklokkenluiders.nl
 www.wierden.nl
 www.wij.groningen.nl
 www.wijchen.nl

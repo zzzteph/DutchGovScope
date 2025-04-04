@@ -1756,6 +1756,7 @@ feeds.werkelijkeschade.nl
 feeds.werkenaanonspensioen.nl
 feeds.werkenbijdeeu.nl
 feeds.werkenvoorinternationaleorganisaties.nl
+feeds.wetbeschermingklokkenluiders.nl
 fibb-perf.acc.belastingdienst.nl
 fibb1.belastingdienst.nl
 fibb2.acc.belastingdienst.nl
@@ -3221,6 +3222,7 @@ opendata.werkelijkeschade.nl
 opendata.werkenaanonspensioen.nl
 opendata.werkenbijdeeu.nl
 opendata.werkenvoorinternationaleorganisaties.nl
+opendata.wetbeschermingklokkenluiders.nl
 opendisdata-acc.nza.nl
 opendisdata.nza.nl
 openims-acc.ctgb.nl
@@ -4870,6 +4872,7 @@ www.werkenbijdeeu.nl
 www.werkenbijderaadvanstate.nl
 www.werkenvoorinternationaleorganisaties.nl
 www.werkenvoornederland.nl
+www.wetbeschermingklokkenluiders.nl
 www.zoekeentolkvertaler.bureauwbtv.nl
 www1.hdsr.nl
 www2.om.nl
