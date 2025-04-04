@@ -4178,6 +4178,7 @@ https://feeds.toetredingzorgaanbieders.nl
 https://feeds.toetsingscommissievp.nl
 https://feeds.toezichtsociaaldomein.nl
 https://feeds.topcorridors.nl
+https://feeds.topsectoren.nl
 https://felix.baarn.nl
 https://felix.bergen.nl
 https://felix.beverwijk.nl
@@ -7450,6 +7451,7 @@ https://opendata.toetredingzorgaanbieders.nl
 https://opendata.toetsingscommissievp.nl
 https://opendata.toezichtsociaaldomein.nl
 https://opendata.topcorridors.nl
+https://opendata.topsectoren.nl
 https://opendata.utrecht.nl
 https://opendata.zoetermeer.nl
 https://opendisdata.nza.nl
@@ -9538,6 +9540,7 @@ https://topdesk.houten.nl
 https://topdesk.sittard-geleen.nl
 https://topdesk.venlo.nl
 https://topdesk.zoetermeer.nl
+https://topsectoren.nl
 https://topvorm.apeldoorn.nl
 https://tourbuzz.amsterdam.nl
 https://tovertool.nza.nl
@@ -11129,6 +11132,7 @@ https://www.toetredingzorgaanbieders.nl
 https://www.toetsingscommissievp.nl
 https://www.toezichtsociaaldomein.nl
 https://www.topcorridors.nl
+https://www.topsectoren.nl
 https://www.tst2905.omgevingswet.overheid.nl
 https://www.tubbergen.nl
 https://www.tuinen.groningen.nl

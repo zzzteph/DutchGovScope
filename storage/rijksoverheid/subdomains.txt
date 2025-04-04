@@ -1688,6 +1688,7 @@ feeds.toetredingzorgaanbieders.nl
 feeds.toetsingscommissievp.nl
 feeds.toezichtsociaaldomein.nl
 feeds.topcorridors.nl
+feeds.topsectoren.nl
 fibb-perf.acc.belastingdienst.nl
 fibb1.belastingdienst.nl
 fibb2.acc.belastingdienst.nl
@@ -3093,6 +3094,7 @@ opendata.toetredingzorgaanbieders.nl
 opendata.toetsingscommissievp.nl
 opendata.toezichtsociaaldomein.nl
 opendata.topcorridors.nl
+opendata.topsectoren.nl
 opendisdata-acc.nza.nl
 opendisdata.nza.nl
 openims-acc.ctgb.nl
@@ -3944,6 +3946,7 @@ toezichtresultaten.acc.onderwijsinspectie.nl
 toolbox-extremisme.nctv.nl
 tools-acc.rijksinnovatiecommunity.nl
 tools.rijksinnovatiecommunity.nl
+topsectoren.nl
 torenvalk.brabant.nl
 tovertool.nza.nl
 tramdashboard.provincie-utrecht.nl
@@ -4636,6 +4639,7 @@ www.toetredingzorgaanbieders.nl
 www.toetsingscommissievp.nl
 www.toezichtsociaaldomein.nl
 www.topcorridors.nl
+www.topsectoren.nl
 www.tst2905.omgevingswet.overheid.nl
 www.veilig.cultureelerfgoed.nl
 www.vepkmsont.vcdn.belastingdienst.nl

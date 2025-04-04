@@ -6421,6 +6421,7 @@ feeds.toetredingzorgaanbieders.nl
 feeds.toetsingscommissievp.nl
 feeds.toezichtsociaaldomein.nl
 feeds.topcorridors.nl
+feeds.topsectoren.nl
 felix.aalten.nl
 felix.achtkarspelen.nl
 felix.baarn.nl
@@ -12305,6 +12306,7 @@ opendata.toetredingzorgaanbieders.nl
 opendata.toetsingscommissievp.nl
 opendata.toezichtsociaaldomein.nl
 opendata.topcorridors.nl
+opendata.topsectoren.nl
 opendata.utrecht.nl
 opendata.zoetermeer.nl
 opendisdata-acc.nza.nl
@@ -16581,6 +16583,7 @@ topdesk.zoetermeer.nl
 topdesk.zwolle.nl
 topdesktest.sudwestfryslan.nl
 topicus.sudwestfryslan.nl
+topsectoren.nl
 topvorm.apeldoorn.nl
 torenvalk.brabant.nl
 tourbuzz.amsterdam.nl
@@ -19435,6 +19438,7 @@ www.toezichtsociaaldomein.nl
 www.token.sudwestfryslan.nl
 www.topcorridors.nl
 www.topicus.sudwestfryslan.nl
+www.topsectoren.nl
 www.transfer.gemeentehulst.nl
 www.trefnet.hellevoetsluis.nl
 www.tst2905.omgevingswet.overheid.nl
