@@ -2882,6 +2882,7 @@ bereikbaarheid.ndw.nu
 bereikbaarnieuwvennep.haarlemmermeer.nl
 bereikbarestad-acc.denhaag.nl
 bereikbarestad.denhaag.nl
+bereken.uwbeslagvrijevoet.nl
 bergeijk.nl
 bergen-nh.nl
 bergen.nl
@@ -6436,6 +6437,7 @@ feeds.tuchtcollege-gezondheidszorg.nl
 feeds.uitelkaarmetkinderen.nl
 feeds.uitkomstgerichtezorg.nl
 feeds.uitvoeringvanbeleidszw.nl
+feeds.uwbeslagvrijevoet.nl
 felix.aalten.nl
 felix.achtkarspelen.nl
 felix.baarn.nl
@@ -12329,6 +12331,7 @@ opendata.uitelkaarmetkinderen.nl
 opendata.uitkomstgerichtezorg.nl
 opendata.uitvoeringvanbeleidszw.nl
 opendata.utrecht.nl
+opendata.uwbeslagvrijevoet.nl
 opendata.zoetermeer.nl
 opendisdata-acc.nza.nl
 opendisdata.nza.nl
@@ -16814,6 +16817,7 @@ urk.nl
 urknet.urk.nl
 url6099.mail.postedworkers.nl
 uswolk.sudwestfryslan.nl
+uwbeslagvrijevoet.nl
 uwdorpofwijk.alphenaandenrijn.nl
 uwmening.denhaag.nl
 uwork.flevoland.nl
@@ -19494,6 +19498,7 @@ www.uitvoeringvanbeleidszw.nl
 www.uren-tst.groningen.nl
 www.urk.nl
 www.utrecht.nl
+www.uwbeslagvrijevoet.nl
 www.uwdorpofwijk.alphenaandenrijn.nl
 www.v2.openstad.haarlemmermeer.nl
 www.vaals.nl

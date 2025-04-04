@@ -2069,6 +2069,7 @@ https://bereikbaarheid.amsterdam.nl
 https://bereikbaarheid.ndw.nu
 https://bereikbaarnieuwvennep.haarlemmermeer.nl
 https://bereikbarestad.denhaag.nl
+https://bereken.uwbeslagvrijevoet.nl
 https://bergeijk.nl
 https://bergen-nh.nl
 https://bergendal.nl
@@ -4186,6 +4187,7 @@ https://feeds.tuchtcollege-gezondheidszorg.nl
 https://feeds.uitelkaarmetkinderen.nl
 https://feeds.uitkomstgerichtezorg.nl
 https://feeds.uitvoeringvanbeleidszw.nl
+https://feeds.uwbeslagvrijevoet.nl
 https://felix.baarn.nl
 https://felix.bergen.nl
 https://felix.beverwijk.nl
@@ -7467,6 +7469,7 @@ https://opendata.uitelkaarmetkinderen.nl
 https://opendata.uitkomstgerichtezorg.nl
 https://opendata.uitvoeringvanbeleidszw.nl
 https://opendata.utrecht.nl
+https://opendata.uwbeslagvrijevoet.nl
 https://opendata.zoetermeer.nl
 https://opendisdata.nza.nl
 https://openformulieren-test.dewolden.nl
@@ -9666,6 +9669,7 @@ https://uploadmodule.rdi.nl
 https://ureka.utrecht.nl
 https://urknet.urk.nl
 https://url6099.mail.postedworkers.nl
+https://uwbeslagvrijevoet.nl
 https://uwdorpofwijk.alphenaandenrijn.nl
 https://uwmening.denhaag.nl
 https://uzipas.lir.cibg.nl
@@ -11172,6 +11176,7 @@ https://www.uithoorn.nl
 https://www.uitkomstgerichtezorg.nl
 https://www.uitvoeringvanbeleidszw.nl
 https://www.utrecht.nl
+https://www.uwbeslagvrijevoet.nl
 https://www.uwdorpofwijk.alphenaandenrijn.nl
 https://www.v2.openstad.haarlemmermeer.nl
 https://www.vaals.nl

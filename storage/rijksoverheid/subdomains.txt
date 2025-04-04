@@ -733,6 +733,7 @@ belastingdienst.data.logius.nl
 belastingdienst.nl
 beoordeling.dus-i.nl
 bereikbaarheid.ndw.nu
+bereken.uwbeslagvrijevoet.nl
 beschermdecultuurgoederen.nl
 besluitpreviewservice-eto.overheid.nl
 besluitpreviewservice.overheid.nl
@@ -1703,6 +1704,7 @@ feeds.tuchtcollege-gezondheidszorg.nl
 feeds.uitelkaarmetkinderen.nl
 feeds.uitkomstgerichtezorg.nl
 feeds.uitvoeringvanbeleidszw.nl
+feeds.uwbeslagvrijevoet.nl
 fibb-perf.acc.belastingdienst.nl
 fibb1.belastingdienst.nl
 fibb2.acc.belastingdienst.nl
@@ -3116,6 +3118,7 @@ opendata.tuchtcollege-gezondheidszorg.nl
 opendata.uitelkaarmetkinderen.nl
 opendata.uitkomstgerichtezorg.nl
 opendata.uitvoeringvanbeleidszw.nl
+opendata.uwbeslagvrijevoet.nl
 opendisdata-acc.nza.nl
 opendisdata.nza.nl
 openims-acc.ctgb.nl
@@ -4011,6 +4014,7 @@ uitvoeringvanbeleidszw.nl
 uploadmodule.rdi.nl
 uptime.bureauwbtv.nl
 url6099.mail.postedworkers.nl
+uwbeslagvrijevoet.nl
 uwork.flevoland.nl
 uworktest.flevoland.nl
 uzipas.lir.cibg.nl
@@ -4672,6 +4676,7 @@ www.tuchtcollege-gezondheidszorg.nl
 www.uitelkaarmetkinderen.nl
 www.uitkomstgerichtezorg.nl
 www.uitvoeringvanbeleidszw.nl
+www.uwbeslagvrijevoet.nl
 www.veilig.cultureelerfgoed.nl
 www.vepkmsont.vcdn.belastingdienst.nl
 www.vepkmstst.vcdn.belastingdienst.nl

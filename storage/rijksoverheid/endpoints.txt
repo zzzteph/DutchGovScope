@@ -366,6 +366,7 @@ https://belastingdienst-cn.nl
 https://belastingdienst.nl
 https://beoordeling.dus-i.nl
 https://bereikbaarheid.ndw.nu
+https://bereken.uwbeslagvrijevoet.nl
 https://beschermdecultuurgoederen.nl
 https://besluitpreviewservice-eto.overheid.nl
 https://besluitpreviewservice.overheid.nl
@@ -1066,6 +1067,7 @@ https://feeds.tuchtcollege-gezondheidszorg.nl
 https://feeds.uitelkaarmetkinderen.nl
 https://feeds.uitkomstgerichtezorg.nl
 https://feeds.uitvoeringvanbeleidszw.nl
+https://feeds.uwbeslagvrijevoet.nl
 https://fibb1.belastingdienst.nl
 https://fibd1.belastingdienst.nl
 https://fibe1.belastingdienst.nl
@@ -1919,6 +1921,7 @@ https://opendata.tuchtcollege-gezondheidszorg.nl
 https://opendata.uitelkaarmetkinderen.nl
 https://opendata.uitkomstgerichtezorg.nl
 https://opendata.uitvoeringvanbeleidszw.nl
+https://opendata.uwbeslagvrijevoet.nl
 https://opendisdata.nza.nl
 https://opkopersregister.stopheling.nl
 https://opleiding-ola.belastingdienst.nl
@@ -2361,6 +2364,7 @@ https://uitkomstgerichtezorg.nl
 https://uitvoeringvanbeleidszw.nl
 https://uploadmodule.rdi.nl
 https://url6099.mail.postedworkers.nl
+https://uwbeslagvrijevoet.nl
 https://uzipas.lir.cibg.nl
 https://uzipas.portaal.ncpeh.nl
 https://uzipas.raadplegen.sbv-z.nl
@@ -2824,6 +2828,7 @@ https://www.tuchtcollege-gezondheidszorg.nl
 https://www.uitelkaarmetkinderen.nl
 https://www.uitkomstgerichtezorg.nl
 https://www.uitvoeringvanbeleidszw.nl
+https://www.uwbeslagvrijevoet.nl
 https://www.veilig.cultureelerfgoed.nl
 https://www.wegen.brabant.nl
 https://www.werken.belastingdienst.nl
