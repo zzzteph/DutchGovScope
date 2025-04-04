@@ -1613,6 +1613,7 @@ feeds.geobasisregistraties.nl
 feeds.gezondheidsraad.nl
 feeds.globalhealthhub.nl
 feeds.gobernadoraruba.com
+feeds.gobernadorkorsou.com
 feeds.gobiernodireino.nl
 feeds.gobiernudireino.nl
 feeds.goudenpiramide.nl
@@ -2029,6 +2030,7 @@ gl1.ncsc.nl
 gm-pre.mev.logius.nl
 gm.mev.logius.nl
 gobernadoraruba.com
+gobernadorkorsou.com
 gobiernodireino.nl
 gobiernudireino.nl
 goudenpiramide.nl
@@ -3127,6 +3129,7 @@ opendata.geobasisregistraties.nl
 opendata.gezondheidsraad.nl
 opendata.globalhealthhub.nl
 opendata.gobernadoraruba.com
+opendata.gobernadorkorsou.com
 opendata.gobiernodireino.nl
 opendata.gobiernudireino.nl
 opendata.goudenpiramide.nl
@@ -4748,6 +4751,7 @@ www.geoserver.limburg.nl
 www.gezondheidsraad.nl
 www.globalhealthhub.nl
 www.gobernadoraruba.com
+www.gobernadorkorsou.com
 www.gobiernodireino.nl
 www.gobiernudireino.nl
 www.goudenpiramide.nl

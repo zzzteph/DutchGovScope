@@ -6348,6 +6348,7 @@ feeds.geobasisregistraties.nl
 feeds.gezondheidsraad.nl
 feeds.globalhealthhub.nl
 feeds.gobernadoraruba.com
+feeds.gobernadorkorsou.com
 feeds.gobiernodireino.nl
 feeds.gobiernudireino.nl
 feeds.goudenpiramide.nl
@@ -7643,6 +7644,7 @@ gms.gilzerijen.nl
 gn2connect-acc.apeldoorn.nl
 gn2connect.apeldoorn.nl
 gobernadoraruba.com
+gobernadorkorsou.com
 gobiernodireino.nl
 gobiernudireino.nl
 goedbezig.rotterdam.nl
@@ -12339,6 +12341,7 @@ opendata.geobasisregistraties.nl
 opendata.gezondheidsraad.nl
 opendata.globalhealthhub.nl
 opendata.gobernadoraruba.com
+opendata.gobernadorkorsou.com
 opendata.gobiernodireino.nl
 opendata.gobiernudireino.nl
 opendata.goudenpiramide.nl
@@ -18981,6 +18984,7 @@ www.gisservicestest.haarlemmermeer.nl
 www.gkb.groningen.nl
 www.globalhealthhub.nl
 www.gobernadoraruba.com
+www.gobernadorkorsou.com
 www.gobiernodireino.nl
 www.gobiernudireino.nl
 www.goedterechtin.leeuwarden.nl
