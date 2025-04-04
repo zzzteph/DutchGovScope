@@ -9944,6 +9944,7 @@ https://vraaghulp.acc.nijmegen.nl
 https://vraagwijzer.gemeente-steenbergen.nl
 https://vrachtwagenheffing.nl
 https://vragenlijst.eindhoven.nl
+https://vreemdelingenvisie.nl
 https://vri-admin.ndw.nu
 https://vrijwilliger.hilversum.nl
 https://vrijwilligerin.hilversum.nl
@@ -11297,6 +11298,7 @@ https://www.voordejeugdenhetgezin.nl
 https://www.voorst.nl
 https://www.vraagbaak.doesburg.nl
 https://www.vrachtwagenheffing.nl
+https://www.vreemdelingenvisie.nl
 https://www.vught.nl
 https://www.vvetest.amsterdam.nl
 https://www.vvv.deventer.nl
