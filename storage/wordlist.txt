@@ -314,6 +314,9 @@ ns2
 rap
 smtp1
 smtp2
+feeds.papiamentu
+opendata.papiamentu
+papiamentu
 geoserver
 id
 geotest
@@ -367,9 +370,6 @@ download
 huisstijl
 werken
 www.mijn
-feeds.papiamentu
-opendata.papiamentu
-papiamentu
 acceptatie.beheer
 nieuws
 test.digikoppeling
@@ -965,6 +965,9 @@ mx01
 register
 acceptatie-zaaksysteem
 securetest
+feeds.papiamento
+opendata.papiamento
+papiamento
 formulieren-preprod
 nextcloud
 vacature
@@ -3869,9 +3872,6 @@ www.mta-sts
 www.topdesk
 toolbox
 elo
-feeds.papiamento
-opendata.papiamento
-papiamento
 bron
 cms-bron
 cms-eef
