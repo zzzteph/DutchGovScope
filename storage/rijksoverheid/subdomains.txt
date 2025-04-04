@@ -1659,6 +1659,7 @@ feeds.socialestabiliteit.nl
 feeds.sodm.nl
 feeds.ssc-ict.nl
 feeds.sso3w.nl
+feeds.staatscommissie2050.nl
 fibb-perf.acc.belastingdienst.nl
 fibb1.belastingdienst.nl
 fibb2.acc.belastingdienst.nl
@@ -3042,6 +3043,7 @@ opendata.socialestabiliteit.nl
 opendata.sodm.nl
 opendata.ssc-ict.nl
 opendata.sso3w.nl
+opendata.staatscommissie2050.nl
 opendisdata-acc.nza.nl
 opendisdata.nza.nl
 openims-acc.ctgb.nl
@@ -3654,6 +3656,7 @@ sso.rijksdienstcn.com
 sso.subsidie.cultureelerfgoed.nl
 sso.tst2905.omgevingswet.overheid.nl
 sso3w.nl
+staatscommissie2050.nl
 stadvanced.belastingdienst.nl
 stagiairs.werkenvoornederland.nl
 staging.english.ctpveldzicht.nl
@@ -4539,6 +4542,7 @@ www.sodm.nl
 www.ssc-ict.nl
 www.ssc-ictspecials.nl
 www.sso3w.nl
+www.staatscommissie2050.nl
 www.stateninformatie.provincie-utrecht.nl
 www.test.monumentenregister.cultureelerfgoed.nl
 www.testsite.ceg.nl

@@ -6392,6 +6392,7 @@ feeds.socialestabiliteit.nl
 feeds.sodm.nl
 feeds.ssc-ict.nl
 feeds.sso3w.nl
+feeds.staatscommissie2050.nl
 felix.aalten.nl
 felix.achtkarspelen.nl
 felix.baarn.nl
@@ -12254,6 +12255,7 @@ opendata.socialestabiliteit.nl
 opendata.sodm.nl
 opendata.ssc-ict.nl
 opendata.sso3w.nl
+opendata.staatscommissie2050.nl
 opendata.utrecht.nl
 opendata.zoetermeer.nl
 opendisdata-acc.nza.nl
@@ -15401,6 +15403,7 @@ ssp.kaagenbraassem.nl
 ssp.purmerend.nl
 ssrpm.rotterdam.nl
 sstpvpn.epe.nl
+staatscommissie2050.nl
 staatvandeparticipatie.amsterdam.nl
 stad.kampen.nl
 stadhuis.groningen.nl
@@ -19272,6 +19275,7 @@ www.ssc-ictspecials.nl
 www.sso-test.groningen.nl
 www.sso3w.nl
 www.ssp.kaagenbraassem.nl
+www.staatscommissie2050.nl
 www.staatvandeparticipatie.amsterdam.nl
 www.stad.kampen.nl
 www.stadjerspas.gemeente.groningen.nl

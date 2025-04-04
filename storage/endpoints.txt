@@ -4152,6 +4152,7 @@ https://feeds.socialestabiliteit.nl
 https://feeds.sodm.nl
 https://feeds.ssc-ict.nl
 https://feeds.sso3w.nl
+https://feeds.staatscommissie2050.nl
 https://felix.baarn.nl
 https://felix.bergen.nl
 https://felix.beverwijk.nl
@@ -7405,6 +7406,7 @@ https://opendata.socialestabiliteit.nl
 https://opendata.sodm.nl
 https://opendata.ssc-ict.nl
 https://opendata.sso3w.nl
+https://opendata.staatscommissie2050.nl
 https://opendata.utrecht.nl
 https://opendata.zoetermeer.nl
 https://opendisdata.nza.nl
@@ -8940,6 +8942,7 @@ https://ssp-acc.purmerend.nl
 https://ssp.purmerend.nl
 https://ssrpm.rotterdam.nl
 https://sstpvpn.epe.nl
+https://staatscommissie2050.nl
 https://staatvandeparticipatie.amsterdam.nl
 https://stad.kampen.nl
 https://stadhuis.groningen.nl
@@ -11007,6 +11010,7 @@ https://www.sportloket.landvancuijk.nl
 https://www.ssc-ict.nl
 https://www.ssc-ictspecials.nl
 https://www.sso3w.nl
+https://www.staatscommissie2050.nl
 https://www.staatvandeparticipatie.amsterdam.nl
 https://www.stad.kampen.nl
 https://www.stadsarchief.breda.nl
