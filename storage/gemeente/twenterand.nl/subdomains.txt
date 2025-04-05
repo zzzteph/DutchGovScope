@@ -20,6 +20,7 @@ iarchief.twenterand.nl
 iarchieftest.twenterand.nl
 iburgerzaken.twenterand.nl
 ibzpink.twenterand.nl
+interflex.twenterand.nl
 internetafspraken.twenterand.nl
 iparticipatie.twenterand.nl
 kofax.twenterand.nl

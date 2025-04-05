@@ -5472,6 +5472,7 @@ https://integratie02.omgevingswet.overheid.nl
 https://integriteitswijzer.huisvoorklokkenluiders.nl
 https://intens-acc.enschede.nl
 https://intens.enschede.nl
+https://interflex.twenterand.nl
 https://intermediairdagen.belastingdienst.nl
 https://intern.aanmeldenparkeren.amsterdam.nl
 https://intern.catalogus.cultureelerfgoed.nl
@@ -9031,7 +9032,6 @@ https://simcms.opmeer.nl
 https://simcms.roerdalen.nl
 https://simcms.schiermonnikoog.nl
 https://simcms.simpelveld.nl
-https://simcms.twenterand.nl
 https://simcms.valkenswaard.nl
 https://simcms.vlieland.nl
 https://simcms.vlissingen.nl
