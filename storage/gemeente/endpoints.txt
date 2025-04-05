@@ -259,6 +259,7 @@ http://felix.scherpenzeel.nl
 http://felix.schiermonnikoog.nl
 http://felix.simpelveld.nl
 http://felix.sonenbreugel.nl
+http://felix.urk.nl
 http://felix.vlissingen.nl
 http://felix.voorschoten.nl
 http://felix.waalwijk.nl
@@ -326,7 +327,6 @@ http://meldpuntondermijning.rotterdam.nl
 http://mijn-preproductie.heerenveen.nl
 http://mijn-preproductie.weststellingwerf.nl
 http://mijn.doesburg.nl
-http://mijn.urk.nl
 http://mijn.voorschoten.nl
 http://mijn.westerkwartier.nl
 http://mijnwerkplek.schagen.nl
@@ -475,7 +475,6 @@ http://thuiswerkacc.rotterdam.nl
 http://tickets.krimpenerwaard.nl
 http://ttgbav-test.gemeente-steenbergen.nl
 http://twenterand.nl
-http://urk.nl
 http://vergunningintaker.bernheze.org
 http://vsp.terneuzen.nl
 http://vvb.sliedrecht.nl
@@ -539,7 +538,6 @@ http://www.stadstoezicht.amsterdam.nl
 http://www.telewerken.hellevoetsluis.nl
 http://www.trefnet.hellevoetsluis.nl
 http://www.twenterand.nl
-http://www.urk.nl
 http://www.vlieland.nl
 http://www.vroonermeer-noord.alkmaar.nl
 http://www.waalwijk.nl
@@ -4962,6 +4960,7 @@ https://mijn.stichtsevecht.nl
 https://mijn.test.oss.nl
 https://mijn.texel.nl
 https://mijn.tholen.nl
+https://mijn.urk.nl
 https://mijn.veenendaal.nl
 https://mijn.vijfheerenlanden.nl
 https://mijn.vlaardingen.nl
@@ -6603,6 +6602,7 @@ https://simcms.opmeer.nl
 https://simcms.roerdalen.nl
 https://simcms.schiermonnikoog.nl
 https://simcms.simpelveld.nl
+https://simcms.urk.nl
 https://simcms.valkenswaard.nl
 https://simcms.vlieland.nl
 https://simcms.vlissingen.nl
@@ -7321,6 +7321,7 @@ https://unjunk.krimpenerwaard.nl
 https://upk.afs.acc.amsterdam.nl
 https://upk.afs.amsterdam.nl
 https://ureka.utrecht.nl
+https://urk.nl
 https://urknet.urk.nl
 https://uwdorpofwijk.alphenaandenrijn.nl
 https://uwmening.denhaag.nl
@@ -8363,6 +8364,7 @@ https://www.udp-rstudio-acc.denhaag.nl
 https://www.udp-rstudio.denhaag.nl
 https://www.uitgeest.nl
 https://www.uithoorn.nl
+https://www.urk.nl
 https://www.utrecht.nl
 https://www.uwdorpofwijk.alphenaandenrijn.nl
 https://www.v2.openstad.haarlemmermeer.nl
