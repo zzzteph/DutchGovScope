@@ -325,7 +325,6 @@ http://felix.simpelveld.nl
 http://felix.sonenbreugel.nl
 http://felix.urk.nl
 http://felix.vlieland.nl
-http://felix.vlissingen.nl
 http://felix.voorschoten.nl
 http://felix.waalwijk.nl
 http://felix.westerkwartier.nl
@@ -529,6 +528,7 @@ http://simcms.nuenen.nl
 http://simcms.reuseldemierden.nl
 http://simcms.sonenbreugel.nl
 http://simcms.staphorst.nl
+http://simcms.vlissingen.nl
 http://simcms.zoetermeer.nl
 http://simcms.zuidplas.nl
 http://simcms.zwartewaterland.nl
@@ -4353,6 +4353,7 @@ https://felix.staphorst.nl
 https://felix.t-diel.nl
 https://felix.terschelling.nl
 https://felix.twenterand.nl
+https://felix.vlissingen.nl
 https://felix.wierden.nl
 https://felix.zoetermeer.nl
 https://felix.zwartewaterland.nl
@@ -9044,7 +9045,6 @@ https://simcms.schiermonnikoog.nl
 https://simcms.simpelveld.nl
 https://simcms.urk.nl
 https://simcms.valkenswaard.nl
-https://simcms.vlissingen.nl
 https://simcms.voorschoten.nl
 https://simcms.wassenaar.nl
 https://simcms.westerkwartier.nl
@@ -10119,6 +10119,7 @@ https://vitaal.venlo.nl
 https://viz.ndw.nu
 https://vlaardingen.nl
 https://vlieland.nl
+https://vlissingen.nl
 https://vluchtelingen.zaanstad.nl
 https://vm-ivra.ndw.nu
 https://vnacs.nl
