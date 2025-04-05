@@ -17,6 +17,7 @@ probeer.weststellingwerf.nl
 secure.weststellingwerf.nl
 simcms.weststellingwerf.nl
 simsite.weststellingwerf.nl
+smtp10.weststellingwerf.nl
 squit2020.weststellingwerf.nl
 stwapp02.weststellingwerf.nl
 stwidocwsw02.weststellingwerf.nl

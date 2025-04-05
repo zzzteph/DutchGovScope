@@ -802,6 +802,7 @@ prtg
 opentunnel
 duoloket
 wmoloket
+smtp10
 www.afspraakmaken
 www.iarchief
 content
@@ -1405,7 +1406,6 @@ helpmij
 telefonie
 test.open-formulieren
 iobjects
-smtp10
 smtp20
 stwapp02
 talentenbank

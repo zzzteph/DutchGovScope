@@ -15610,6 +15610,7 @@ smtp1.nieuwegein.nl
 smtp1.zwolle.nl
 smtp10.ooststellingwerf.nl
 smtp10.opsterland.nl
+smtp10.weststellingwerf.nl
 smtp11.belastingdienst.nl
 smtp12.belastingdienst.nl
 smtp1s.denhaag.nl
