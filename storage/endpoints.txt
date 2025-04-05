@@ -1496,6 +1496,7 @@ https://api.darwin.tilburg.nl
 https://api.data.amsterdam.nl
 https://api.dataportaal.amsterdam.nl
 https://api.denhaag.nl
+https://api.denkmee.tilburg.nl
 https://api.design.hoorn.nl
 https://api.doemee.bloemendaal.nl
 https://api.doemee.gemeentewestland.nl
@@ -6009,6 +6010,7 @@ https://login-pre.mookenmiddelaar.nl
 https://login-pre.nijkerk.eu
 https://login.aaenmaas.nl
 https://login.alphenaandenrijn.nl
+https://login.denkmee.tilburg.nl
 https://login.groningen.nl
 https://login.mijncn.nl
 https://login.mookenmiddelaar.nl

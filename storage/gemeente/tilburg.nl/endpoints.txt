@@ -2,6 +2,7 @@ http://autodiscover.tilburg.nl
 https://analytics.gis.tilburg.nl
 https://api-acceptatie.tilburg.nl
 https://api.darwin.tilburg.nl
+https://api.denkmee.tilburg.nl
 https://api.tilburg.nl
 https://applicaties.tilburg.nl
 https://applicationgateway.tilburg.nl
@@ -37,6 +38,7 @@ https://kaart.tilburg.nl
 https://klantmodule-centric-ot.extranet.tilburg.nl
 https://klantmodule.extranet.tilburg.nl
 https://liquitsatellite.tilburg.nl
+https://login.denkmee.tilburg.nl
 https://msoid.tilburg.nl
 https://ondertekenen.trouwen.tilburg.nl
 https://open-acceptatie.tilburg.nl

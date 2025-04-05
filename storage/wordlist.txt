@@ -8649,6 +8649,7 @@ api-acceptatie
 api-gateway-ot
 api-gateway
 api.darwin
+api.denkmee
 applicationgateway
 auth.darwin
 authenticatie-preprod
@@ -8673,6 +8674,7 @@ integralebeveiliging
 intranet-ot
 klantmodule-centric-ot.extranet
 klantmodule.extranet
+login.denkmee
 ondertekenen.trouwen
 open-acceptatie
 open-hub-acceptatie

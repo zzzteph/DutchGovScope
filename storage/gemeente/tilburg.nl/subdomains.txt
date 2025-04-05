@@ -4,6 +4,7 @@ api-acceptatie.tilburg.nl
 api-gateway-ot.tilburg.nl
 api-gateway.tilburg.nl
 api.darwin.tilburg.nl
+api.denkmee.tilburg.nl
 api.tilburg.nl
 applicaties.tilburg.nl
 applicationgateway.tilburg.nl
@@ -53,6 +54,7 @@ kaart.tilburg.nl
 klantmodule-centric-ot.extranet.tilburg.nl
 klantmodule.extranet.tilburg.nl
 liquitsatellite.tilburg.nl
+login.denkmee.tilburg.nl
 mail1.tilburg.nl
 mail2.tilburg.nl
 msoid.tilburg.nl

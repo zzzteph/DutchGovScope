@@ -1159,6 +1159,7 @@ api.data.amsterdam.nl
 api.data.leiden.nl
 api.dataportaal.amsterdam.nl
 api.denhaag.nl
+api.denkmee.tilburg.nl
 api.design.hoorn.nl
 api.doemee.bloemendaal.nl
 api.doemee.gemeentewestland.nl
@@ -7423,6 +7424,7 @@ login.alphenaandenrijn.nl
 login.bergen.nl
 login.bernheze.org
 login.boekel.nl
+login.denkmee.tilburg.nl
 login.ede.nl
 login.gemeentebeek.nl
 login.gemeentehw.nl
