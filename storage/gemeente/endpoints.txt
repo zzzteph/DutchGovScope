@@ -394,6 +394,7 @@ http://simcms-open.leudal.nl
 http://simcms-open.sonenbreugel.nl
 http://simcms-preproductie.kerkrade.nl
 http://simcms-raad.zoetermeer.nl
+http://simcms-werkenbij.t-diel.nl
 http://simcms-woo.doesburg.nl
 http://simcms.achtkarspelen.nl
 http://simcms.ameland.nl
@@ -416,7 +417,6 @@ http://simcms.staphorst.nl
 http://simcms.zoetermeer.nl
 http://simcms.zuidplas.nl
 http://simcms.zwartewaterland.nl
-http://simform-preproductie.t-diel.nl
 http://simform-preproductie.voorschoten.nl
 http://simform-preproductie.wassenaar.nl
 http://simform-test.rijswijk.nl
@@ -3167,6 +3167,7 @@ https://felix.oirschot.nl
 https://felix.opmeer.nl
 https://felix.overbetuwe.nl
 https://felix.staphorst.nl
+https://felix.t-diel.nl
 https://felix.terschelling.nl
 https://felix.twenterand.nl
 https://felix.veere.nl
@@ -6127,6 +6128,7 @@ https://preproductie.oirschot.nl
 https://preproductie.pijnacker-nootdorp.nl
 https://preproductie.scherpenzeel.nl
 https://preproductie.steenwijkerland.nl
+https://preproductie.t-diel.nl
 https://preproductie.voorschoten.nl
 https://preproductie.wassenaar.nl
 https://preproductie.wierden.nl
@@ -6570,7 +6572,6 @@ https://simcms-open.zoetermeer.nl
 https://simcms-open.zuidplas.nl
 https://simcms-preproductie.beekdaelen.nl
 https://simcms-samenduurzaam.geldrop-mierlo.nl
-https://simcms-werkenbij.t-diel.nl
 https://simcms-werkenvoor.westerkwartier.nl
 https://simcms-wonen.westerkwartier.nl
 https://simcms-woo.westerkwartier.nl
@@ -6618,7 +6619,6 @@ https://simform.gemeentemaasgouw.nl
 https://simform.heerenveen.nl
 https://simform.heerlen.nl
 https://simform.rijswijk.nl
-https://simform.t-diel.nl
 https://simform.vlissingen.nl
 https://simform.voorschoten.nl
 https://simform.wassenaar.nl
@@ -8340,7 +8340,6 @@ https://www.stemvan.opsterland.nl
 https://www.stichtsevecht.nl
 https://www.sudwestfryslan.nl
 https://www.suikerkwartier.groningen.nl
-https://www.t-diel.nl
 https://www.terneuzen.nl
 https://www.terschelling.nl
 https://www.test.denhaag.nl
