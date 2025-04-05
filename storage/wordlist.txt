@@ -861,6 +861,7 @@ toestemming
 video
 vinden
 webapps
+e.videobellen
 api.mijn
 componenten
 data-acc
@@ -2233,7 +2234,6 @@ zta-ont
 zta-ota
 zta
 e.acc.videobellen
-e.videobellen
 fed-tao.acc
 fed
 fed01-acc

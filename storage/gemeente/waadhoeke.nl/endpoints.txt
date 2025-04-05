@@ -1,7 +1,9 @@
+http://autodiscover.waadhoeke.nl
 https://acceptatie.waadhoeke.nl
 https://api.meldingen-a.waadhoeke.nl
 https://api.meldingen.waadhoeke.nl
 https://csc.waadhoeke.nl
+https://e.videobellen.waadhoeke.nl
 https://edienstenburgerzaken-test.waadhoeke.nl
 https://edienstenburgerzaken.waadhoeke.nl
 https://enterpriseenrollment.waadhoeke.nl

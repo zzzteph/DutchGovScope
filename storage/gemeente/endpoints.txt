@@ -192,6 +192,7 @@ http://autodiscover.voorschoten.nl
 http://autodiscover.vsp.nijmegen.nl
 http://autodiscover.vvd.mookenmiddelaar.nl
 http://autodiscover.vvd.nijmegen.nl
+http://autodiscover.waadhoeke.nl
 http://autodiscover.waalre.nl
 http://autodiscover.waalwijk.nl
 http://autodiscover.wassenaar.nl
@@ -2580,6 +2581,7 @@ https://e.oss.nl
 https://e.stichtsevecht.nl
 https://e.t-diel.nl
 https://e.venlo.nl
+https://e.videobellen.waadhoeke.nl
 https://e2s-test.molenlanden.nl
 https://e2s.molenlanden.nl
 https://eaptls.deventer.nl
