@@ -486,6 +486,7 @@ regelgeving
 moh-acc
 moh
 werk
+plannen
 kaartviewer
 mijnmobiel
 personeelsplanning
@@ -652,7 +653,6 @@ test-keycloak
 test-openklant
 test-openzaak
 vastgoed
-plannen
 bestemmingsplannen
 accdrop
 storefront

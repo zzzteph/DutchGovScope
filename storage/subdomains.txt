@@ -13269,6 +13269,7 @@ planmonitor.acc.amsterdam.nl
 plannen.asten.nl
 plannen.groningen.nl
 plannen.horstaandemaas.nl
+plannen.someren.nl
 planning.westmaasenwaal.nl
 planningencontrol.haarlemmermeer.nl
 planningsassistent.stadswerken.amsterdam.nl

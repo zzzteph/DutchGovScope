@@ -12,6 +12,7 @@ iburgerzaken.someren.nl
 ibzpink.someren.nl
 mail.someren.nl
 obsurv.someren.nl
+plannen.someren.nl
 raad.acceptatie.someren.nl
 raad.someren.nl
 sd.someren.nl

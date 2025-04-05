@@ -1,4 +1,5 @@
 http://autodiscover.someren.nl
+http://plannen.someren.nl
 https://acceptatie.someren.nl
 https://afspraken.someren.nl
 https://awmag.someren.nl
