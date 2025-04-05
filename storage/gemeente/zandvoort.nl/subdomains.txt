@@ -1,3 +1,4 @@
+_autodiscover._tcp.zandvoort.nl
 acc.zandvoort.nl
 afspraak.zandvoort.nl
 bam.zandvoort.nl

@@ -106,6 +106,7 @@ _autodiscover._tcp.terschelling.nl
 _autodiscover._tcp.toetredingzorgaanbieders.nl
 _autodiscover._tcp.uziregister.nl
 _autodiscover._tcp.wijkbijduurstede.nl
+_autodiscover._tcp.zandvoort.nl
 _dmarc.cibg.nl
 _dmarc.delft.nl
 _dmarc.dji.nl

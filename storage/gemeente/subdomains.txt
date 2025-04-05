@@ -94,6 +94,7 @@ _autodiscover._tcp.ridderkerk.nl
 _autodiscover._tcp.schiermonnikoog.nl
 _autodiscover._tcp.terschelling.nl
 _autodiscover._tcp.wijkbijduurstede.nl
+_autodiscover._tcp.zandvoort.nl
 _dmarc.delft.nl
 _dmarc.helmond.nl
 _dmarc.leiden.nl

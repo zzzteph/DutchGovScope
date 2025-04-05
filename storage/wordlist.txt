@@ -93,6 +93,7 @@ berichten
 parkeren-acc
 govroam
 test-cmsintranet
+_autodiscover._tcp
 digikoppeling.test
 mks
 dtestloket
@@ -102,7 +103,6 @@ denkmee
 osbacc
 apps
 extranet
-_autodiscover._tcp
 parkeren-test
 piwik
 acc-broker
