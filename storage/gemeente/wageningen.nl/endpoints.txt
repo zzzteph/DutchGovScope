@@ -1,4 +1,3 @@
-http://test-intranet.wageningen.nl
 https://afspraak.wageningen.nl
 https://belastingen.wageningen.nl
 https://cloud.wageningen.nl
@@ -27,4 +26,5 @@ https://stemvan.wageningen.nl
 https://test-belastingen.wageningen.nl
 https://test-cmsintranet.wageningen.nl
 https://wageningen.nl
+https://webmail.wageningen.nl
 https://www.wageningen.nl

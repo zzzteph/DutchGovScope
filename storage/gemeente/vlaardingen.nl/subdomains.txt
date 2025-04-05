@@ -9,6 +9,7 @@ balietest2.vlaardingen.nl
 bibliotheek.vlaardingen.nl
 digikoppeling.test.vlaardingen.nl
 digikoppeling.vlaardingen.nl
+erfpacht.vlaardingen.nl
 formulieren-preproductie.vlaardingen.nl
 formulieren.vlaardingen.nl
 hcr.vlaardingen.nl

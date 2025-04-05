@@ -9,7 +9,6 @@ https://nwro.velsen.nl
 https://nwro2.velsen.nl
 https://raad.velsen.nl
 https://test-cmsintranet.velsen.nl
-https://test-intranet.velsen.nl
 https://test.velsen.nl
 https://testeloket.velsen.nl
 https://tijd.velsen.nl

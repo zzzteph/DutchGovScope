@@ -223,10 +223,12 @@ http://autodiscover.veenendaal.nl
 http://autodiscover.venlo.nl
 http://autodiscover.venray.nl
 http://autodiscover.vijfheerenlanden.nl
+http://autodiscover.vlieland.nl
 http://autodiscover.voorschoten.nl
 http://autodiscover.vsp.nijmegen.nl
 http://autodiscover.vvd.mookenmiddelaar.nl
 http://autodiscover.vvd.nijmegen.nl
+http://autodiscover.waadhoeke.nl
 http://autodiscover.waalre.nl
 http://autodiscover.waalwijk.nl
 http://autodiscover.wassenaar.nl
@@ -323,9 +325,7 @@ http://felix.schiermonnikoog.nl
 http://felix.simpelveld.nl
 http://felix.sonenbreugel.nl
 http://felix.urk.nl
-http://felix.vlissingen.nl
-http://felix.voorschoten.nl
-http://felix.waalwijk.nl
+http://felix.vlieland.nl
 http://felix.westerkwartier.nl
 http://felix.westmaasenwaal.nl
 http://felix.zundert.nl
@@ -333,7 +333,6 @@ http://felixburgerzaken.nissewaard.nl
 http://flash.scherpenzeel.nl
 http://formulier-beheer.dus-i.nl
 http://formulieren.opsterland.nl
-http://formulieren.vlaardingen.nl
 http://ftp.ofgv.nl
 http://ftp.oostvaarderskliniek.nl
 http://ftp.schoolleidersregisterpo.nl
@@ -379,7 +378,6 @@ http://inkopers.werkenvoornederland.nl
 http://insite.houten.nl
 http://int-prod-01.flevoland.nl
 http://internoss-test.oss.nl
-http://intranet-acc.waalwijk.nl
 http://intranet-prod.sudwestfryslan.nl
 http://intranet.leudal.nl
 http://inway-management.cg-intern.utrecht.nl
@@ -421,7 +419,6 @@ http://mijn-preproductie.heerenveen.nl
 http://mijn-preproductie.weststellingwerf.nl
 http://mijn.adr.donorregister.nl
 http://mijn.doesburg.nl
-http://mijn.voorschoten.nl
 http://mijn.westerkwartier.nl
 http://mijnwerkplek.schagen.nl
 http://mijnzorg-acc.aalsmeer.nl
@@ -454,7 +451,6 @@ http://participatieprikbord.denhaag.nl
 http://pdcschulddienstverlening.rotterdam.nl
 http://pdok.waterschaplimburg.nl
 http://pip-preproductie.gemeentehw.nl
-http://pip-preproductie.vlaardingen.nl
 http://piptest.waddinxveen.nl
 http://plannen.asten.nl
 http://plannen.someren.nl
@@ -471,6 +467,8 @@ http://preproductie.opmeer.nl
 http://preproductie.reuseldemierden.nl
 http://preproductie.simpelveld.nl
 http://preproductie.valkenswaard.nl
+http://preproductie.voorschoten.nl
+http://preproductie.wassenaar.nl
 http://preproductie.zoetermeer.nl
 http://preproductie.zwartewaterland.nl
 http://prod.flevoland.nl
@@ -529,11 +527,10 @@ http://simcms.nuenen.nl
 http://simcms.reuseldemierden.nl
 http://simcms.sonenbreugel.nl
 http://simcms.staphorst.nl
+http://simcms.vlissingen.nl
 http://simcms.zoetermeer.nl
 http://simcms.zuidplas.nl
 http://simcms.zwartewaterland.nl
-http://simform-preproductie.voorschoten.nl
-http://simform-preproductie.wassenaar.nl
 http://simform-test.rijswijk.nl
 http://simform.beuningen.nl
 http://simform.gemeentehw.nl
@@ -587,8 +584,6 @@ http://test-insite.houten.nl
 http://test-intranet.beuningen.nl
 http://test-intranet.etten-leur.nl
 http://test-intranet.groningen.nl
-http://test-intranet.venlo.nl
-http://test-intranet.wageningen.nl
 http://test-intranet.zeist.nl
 http://test-jip.hofvantwente.nl
 http://test-machtigen.digipoort.logius.nl
@@ -621,8 +616,9 @@ http://videoserver2.brabant.nl
 http://voi.brabant.nl
 http://vsp.terneuzen.nl
 http://vvb.sliedrecht.nl
+http://waalwijk.nl
 http://waarmerk.woensdrecht.nl
-http://wadelse-acc.waddinxveen.nl
+http://wassenaar.nl
 http://webmail.gooisemeren.nl
 http://webmail.werkenvoornederland.nl
 http://welkom.ede.nl
@@ -686,10 +682,8 @@ http://www.toezichtresultaten.nl
 http://www.trefnet.hellevoetsluis.nl
 http://www.twenterand.nl
 http://www.valkenswaard.nl
-http://www.vlieland.nl
 http://www.vroonermeer-noord.alkmaar.nl
-http://www.waalwijk.nl
-http://www.wassenaar.nl
+http://www.waddsup.waddinxveen.nl
 http://www.webmail.hellevoetsluis.nl
 http://www.werkenbij.amsterdam.nl
 http://www.werkenbij.zaanstad.nl
@@ -3276,6 +3270,7 @@ https://e.stichtsevecht.nl
 https://e.t-diel.nl
 https://e.venlo.nl
 https://e.videobellen.toeslagen.nl
+https://e.videobellen.waadhoeke.nl
 https://e2s-test.molenlanden.nl
 https://e2s.molenlanden.nl
 https://eaptls.deventer.nl
@@ -3823,6 +3818,7 @@ https://enterpriseenrollment.veenendaal.nl
 https://enterpriseenrollment.vijfheerenlanden.nl
 https://enterpriseenrollment.vlieland.nl
 https://enterpriseenrollment.waadhoeke.nl
+https://enterpriseenrollment.waddinxveen.nl
 https://enterpriseone-arc.almere.nl
 https://enterpriseone-py.almere.nl
 https://enterpriseregistration.alphenaandenrijn.nl
@@ -3850,6 +3846,7 @@ https://enterpriseregistration.roosendaal.nl
 https://enterpriseregistration.tholen.nl
 https://enterpriseregistration.veenendaal.nl
 https://enterpriseregistration.vijfheerenlanden.nl
+https://enterpriseregistration.waddinxveen.nl
 https://enterpriseregistration.zeist.nl
 https://enterpriseregistration.zoeterwoude.nl
 https://enzo.zoetermeer.nl
@@ -3881,6 +3878,7 @@ https://erfpacht-gwextern-tst.amsterdam.nl
 https://erfpacht-gwextern.amsterdam.nl
 https://erfpacht.amsterdam.nl
 https://erfpacht.test.denhaag.nl
+https://erfpacht.vlaardingen.nl
 https://erfpachtmedewerkers-acc.amsterdam.nl
 https://erfpachtmedewerkers-dev.amsterdam.nl
 https://erfpachtmedewerkers-ont.amsterdam.nl
@@ -4354,6 +4352,10 @@ https://felix.staphorst.nl
 https://felix.t-diel.nl
 https://felix.terschelling.nl
 https://felix.twenterand.nl
+https://felix.vlissingen.nl
+https://felix.voorschoten.nl
+https://felix.waalwijk.nl
+https://felix.wassenaar.nl
 https://felix.wierden.nl
 https://felix.zoetermeer.nl
 https://felix.zwartewaterland.nl
@@ -4522,11 +4524,13 @@ https://formulieren-intern.hoorn.nl
 https://formulieren-preprod.provincie.drenthe.nl
 https://formulieren-preprod.veere.nl
 https://formulieren-preprod.waterschaplimburg.nl
+https://formulieren-preproductie.vlaardingen.nl
 https://formulieren-test.beesel.nl
 https://formulieren-test.bronckhorst.nl
 https://formulieren-test.culemborg.nl
 https://formulieren-test.duiven.nl
 https://formulieren-test.tiel.nl
+https://formulieren-test.venlo.nl
 https://formulieren-test.westbetuwe.nl
 https://formulieren-test.westervoort.nl
 https://formulieren-test.zevenaar.nl
@@ -4577,6 +4581,7 @@ https://formulieren.uziregister.nl
 https://formulieren.veere.nl
 https://formulieren.veldhoven.nl
 https://formulieren.venlo.nl
+https://formulieren.vlaardingen.nl
 https://formulieren.vught.nl
 https://formulieren.waterschaplimburg.nl
 https://formulieren.westbetuwe.nl
@@ -4809,6 +4814,7 @@ https://geoserver-signalen.almere.nl
 https://geoserver.haarlemmermeer.nl
 https://geoserver.limburg.nl
 https://geoserver.nieuwegein.nl
+https://geoserver.waalwijk.nl
 https://geoservices-srv.provincie-utrecht.nl
 https://geoservices.cultureelerfgoed.nl
 https://geoservices.denhaag.nl
@@ -6592,8 +6598,9 @@ https://mijn.veenendaal.nl
 https://mijn.vijfheerenlanden.nl
 https://mijn.vlaardingen.nl
 https://mijn.voerendaal.nl
-https://mijn.voorst.nl
+https://mijn.voorschoten.nl
 https://mijn.waalre.nl
+https://mijn.wassenaar.nl
 https://mijn.waterland.nl
 https://mijn.westerwolde.nl
 https://mijn.weststellingwerf.nl
@@ -8067,9 +8074,9 @@ https://pih.belastingdienst.nl
 https://pijnacker-nootdorp.nl
 https://pilot-digitaleplannen.apeldoorn.nl
 https://pingping.amsterdam.nl
+https://pip-preproductie.vlaardingen.nl
 https://pip-test.urk.nl
 https://pip.urk.nl
-https://pip.vlaardingen.nl
 https://piwik.ede.nl
 https://pki.olst-wijhe.nl
 https://pki.rotterdam.nl
@@ -8286,6 +8293,7 @@ https://preprod-mijninkomen.gemeentehw.nl
 https://preprod-mijninkomen.goeree-overflakkee.nl
 https://preprod-mijninkomen.gouda.nl
 https://preprod-mijninkomen.oss.nl
+https://preprod-mijninkomen.venray.nl
 https://preprod-mijnoverzicht.boxtel.nl
 https://preprod-mijnoverzicht.purmerend.nl
 https://preprod-mijnoverzicht.sint-michielsgestel.nl
@@ -8381,8 +8389,6 @@ https://preproductie.pijnacker-nootdorp.nl
 https://preproductie.scherpenzeel.nl
 https://preproductie.steenwijkerland.nl
 https://preproductie.t-diel.nl
-https://preproductie.voorschoten.nl
-https://preproductie.wassenaar.nl
 https://preproductie.wierden.nl
 https://preproductiebroker.gemeentewesterveld.nl
 https://preview.nederlandwereldwijd.nl
@@ -8994,6 +9000,7 @@ https://simcms-begraafplaatsduinrust.beverwijk.nl
 https://simcms-cjg.scherpenzeel.nl
 https://simcms-data.westerkwartier.nl
 https://simcms-duurzaam.beverwijk.nl
+https://simcms-duurzaam.waalwijk.nl
 https://simcms-epos.staphorst.nl
 https://simcms-klimaatbestendig.lingewaard.nl
 https://simcms-omgevingsvisie.geldrop-mierlo.nl
@@ -9041,9 +9048,7 @@ https://simcms.schiermonnikoog.nl
 https://simcms.simpelveld.nl
 https://simcms.urk.nl
 https://simcms.valkenswaard.nl
-https://simcms.vlieland.nl
-https://simcms.vlissingen.nl
-https://simcms.voorschoten.nl
+https://simcms.waalwijk.nl
 https://simcms.wassenaar.nl
 https://simcms.westerkwartier.nl
 https://simcms.westmaasenwaal.nl
@@ -9051,13 +9056,12 @@ https://simcms.weststellingwerf.nl
 https://simcms.wierden.nl
 https://simcms.woensdrecht.nl
 https://simform-preproductie.achtkarspelen.nl
+https://simform-preproductie.voorschoten.nl
 https://simform.gemeentemaasgouw.nl
 https://simform.heerenveen.nl
 https://simform.heerlen.nl
 https://simform.rijswijk.nl
 https://simform.vlissingen.nl
-https://simform.voorschoten.nl
-https://simform.wassenaar.nl
 https://simsite.bergendal.nl
 https://simsite.bronckhorst.nl
 https://simsite.doesburg.nl
@@ -9397,6 +9401,7 @@ https://sts.koop.overheid.nl
 https://sts.lopik.nl
 https://sts.rotterdam.nl
 https://sts.tynaarlo.nl
+https://sts.venray.nl
 https://sts2.rotterdam.nl
 https://stubs.tst.belastingdienst.nl
 https://studiezaal.nijmegen.nl
@@ -9550,6 +9555,7 @@ https://test-cmsintranet.sittard-geleen.nl
 https://test-cmsintranet.steenwijkerland.nl
 https://test-cmsintranet.sudwestfryslan.nl
 https://test-cmsintranet.velsen.nl
+https://test-cmsintranet.venlo.nl
 https://test-cmsintranet.wageningen.nl
 https://test-cmsintranet.zeist.nl
 https://test-cmsjip.vijfheerenlanden.nl
@@ -9583,7 +9589,6 @@ https://test-intranet.lansingerland.nl
 https://test-intranet.meierijstad.nl
 https://test-intranet.midden-groningen.nl
 https://test-intranet.scp.nl
-https://test-intranet.velsen.nl
 https://test-jip.vijfheerenlanden.nl
 https://test-kaartviewer.hoorn.nl
 https://test-kaartviewer.pijnacker-nootdorp.nl
@@ -10014,6 +10019,7 @@ https://veiling.belastingdienst.nl
 https://veldhoven.nl
 https://velp.landvancuijk.nl
 https://velsen.nl
+https://venlo.nl
 https://venray.nl
 https://vepapi.vcdn.belastingdienst.nl
 https://vepkms.vcdn.belastingdienst.nl
@@ -10114,6 +10120,8 @@ https://visvijver.doetinchem.nl
 https://vitaal.venlo.nl
 https://viz.ndw.nu
 https://vlaardingen.nl
+https://vlieland.nl
+https://vlissingen.nl
 https://vluchtelingen.zaanstad.nl
 https://vm-ivra.ndw.nu
 https://vnacs.nl
@@ -10211,6 +10219,7 @@ https://wachtwoordreset.almere.nl
 https://wachtwoordvergeten.amsterdam.nl
 https://wachtwoordvergeten.nederbetuwe.nl
 https://waddenland.groningen.nl
+https://waddinxveen.nl
 https://waddsup.waddinxveen.nl
 https://wadelse.waddinxveen.nl
 https://wadelsecms-acc.waddinxveen.nl
@@ -10312,6 +10321,7 @@ https://webmail.terneuzen.nl
 https://webmail.tynaarlo.nl
 https://webmail.valkenburg.nl
 https://webmail.waalwijk.nl
+https://webmail.wageningen.nl
 https://webmail.waterland.nl
 https://webmail.westvoorne.nl
 https://webmail.winterswijk.nl
@@ -11537,6 +11547,7 @@ https://www.vnacs.nl
 https://www.voerendaal.nl
 https://www.volkshuisvestingnederland.nl
 https://www.voordejeugdenhetgezin.nl
+https://www.voorschoten.nl
 https://www.voorst.nl
 https://www.vraagbaak.doesburg.nl
 https://www.vrachtwagenheffing.nl
@@ -11546,6 +11557,7 @@ https://www.vvetest.amsterdam.nl
 https://www.vvv.deventer.nl
 https://www.waadhoeke.nl
 https://www.waalre.nl
+https://www.waalwijk.nl
 https://www.waddenland.groningen.nl
 https://www.waddinxveen.nl
 https://www.wageningen.nl

@@ -8,8 +8,8 @@ ibzpink
 mail
 intranet
 edienstenburgerzaken
-mijn
 edienstenburgerzaken-test
+mijn
 webmail
 simsite
 afspraken
@@ -64,13 +64,13 @@ dacceptatiemidoffice
 remote
 dloket
 dmidoffice
-beeldbank
 enterpriseregistration
+beeldbank
+belastingbalie
 osb
 api.meldingen-acc
 meldingen-acc
 openpdc
-belastingbalie
 cmsoo
 loket.acceptatie
 openpub
@@ -117,12 +117,12 @@ pki
 _dmarc
 api
 begroting
+sts
 squit2go
 samen
 e
 lyncdiscover
 bgt
-sts
 micollab
 zaaksysteem
 inloggen
@@ -223,6 +223,7 @@ meedoen
 contentbeheer.acceptatie
 squit2020
 zaken.acceptatie
+formulieren-test
 bor
 bestuur
 afspraakmaken
@@ -242,7 +243,6 @@ bag
 inproces.acceptatie
 fmreturn
 iarchief
-formulieren-test
 outlook
 vth
 testloket
@@ -284,6 +284,7 @@ cloudadapter-prod
 handhaving
 www.portal
 servicedesk
+geoserver
 wifi
 geoservices
 prod
@@ -317,7 +318,6 @@ smtp2
 feeds.papiamentu
 opendata.papiamentu
 papiamentu
-geoserver
 id
 geotest
 nieuwsbrieven
@@ -861,6 +861,7 @@ toestemming
 video
 vinden
 webapps
+e.videobellen
 api.mijn
 componenten
 data-acc
@@ -1031,6 +1032,7 @@ bi
 burgerzaken
 buurtbudget
 docgen
+erfpacht
 formulieren-g4-acc
 formulieren.acc
 gvz2digikoppeling
@@ -2232,7 +2234,6 @@ zta-ont
 zta-ota
 zta
 e.acc.videobellen
-e.videobellen
 fed-tao.acc
 fed
 fed01-acc
@@ -4487,7 +4488,6 @@ erfpacht-gwextern-dev
 erfpacht-gwextern-ont
 erfpacht-gwextern-tst
 erfpacht-gwextern
-erfpacht
 erfpachtmedewerkers-acc
 erfpachtmedewerkers-dev
 erfpachtmedewerkers-ont
@@ -9092,6 +9092,7 @@ www.fit
 www.morgen
 www.nu
 www.q4
+www.werkplein
 www.zwemmen
 zaaksysteem-acceptatie
 GT-Loket
@@ -9178,6 +9179,7 @@ wadelse
 wadelsecms-acc
 wadelsecms
 wdvggm
+www.waddsup
 appconnect
 bereikbaar
 intranetprod

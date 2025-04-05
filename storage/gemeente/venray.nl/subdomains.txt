@@ -20,6 +20,7 @@ open-formulieren-test.venray.nl
 open-formulieren.venray.nl
 preprod-mijninkomen.venray.nl
 sbc01.venray.nl
+sts.venray.nl
 testeloket.venray.nl
 testkoppeling.venray.nl
 venray.nl

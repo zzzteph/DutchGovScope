@@ -1,3 +1,4 @@
+autodiscover.vlieland.nl
 belastingbalie.vlieland.nl
 bestuur.vlieland.nl
 digitalebelastingbalie-test.vlieland.nl

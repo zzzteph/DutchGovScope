@@ -1706,6 +1706,7 @@ autodiscover.venlo.nl
 autodiscover.venray.nl
 autodiscover.vijfheerenlanden.nl
 autodiscover.vlaardingen.nl
+autodiscover.vlieland.nl
 autodiscover.voorschoten.nl
 autodiscover.voorst.nl
 autodiscover.vsp.nijmegen.nl
@@ -2062,6 +2063,7 @@ belastingbalie.roerdalen.nl
 belastingbalie.smallingerland.nl
 belastingbalie.veenendaal.nl
 belastingbalie.veldhoven.nl
+belastingbalie.venlo.nl
 belastingbalie.vlieland.nl
 belastingbalie.wijdemeren.nl
 belastingbalietest.capelleaandenijssel.nl
@@ -4040,6 +4042,7 @@ e.oss.nl
 e.stichtsevecht.nl
 e.t-diel.nl
 e.venlo.nl
+e.videobellen.waadhoeke.nl
 e2s-connector-prd.heerlen.nl
 e2s-connector-tst.heerlen.nl
 e2s-test.molenlanden.nl
@@ -4560,6 +4563,7 @@ enterpriseenrollment.veenendaal.nl
 enterpriseenrollment.vijfheerenlanden.nl
 enterpriseenrollment.vlieland.nl
 enterpriseenrollment.waadhoeke.nl
+enterpriseenrollment.waddinxveen.nl
 enterpriseone-arc.almere.nl
 enterpriseone-dv.almere.nl
 enterpriseone-py.almere.nl
@@ -4588,6 +4592,7 @@ enterpriseregistration.sudwestfryslan.nl
 enterpriseregistration.tholen.nl
 enterpriseregistration.veenendaal.nl
 enterpriseregistration.vijfheerenlanden.nl
+enterpriseregistration.waddinxveen.nl
 enterpriseregistration.zeist.nl
 enterpriseregistration.zoeterwoude.nl
 enzo.zoetermeer.nl
@@ -4619,6 +4624,7 @@ erfpacht-gwextern-tst.amsterdam.nl
 erfpacht-gwextern.amsterdam.nl
 erfpacht.amsterdam.nl
 erfpacht.test.denhaag.nl
+erfpacht.vlaardingen.nl
 erfpachtmedewerkers-acc.amsterdam.nl
 erfpachtmedewerkers-dev.amsterdam.nl
 erfpachtmedewerkers-ont.amsterdam.nl
@@ -5025,6 +5031,7 @@ formulieren-test.culemborg.nl
 formulieren-test.duiven.nl
 formulieren-test.rijswijk.nl
 formulieren-test.tiel.nl
+formulieren-test.venlo.nl
 formulieren-test.westbetuwe.nl
 formulieren-test.westervoort.nl
 formulieren-test.zevenaar.nl
@@ -5453,6 +5460,7 @@ geoserver.baarn.nl
 geoserver.haarlemmermeer.nl
 geoserver.nieuwegein.nl
 geoserver.soest.nl
+geoserver.waalwijk.nl
 geoservertest.haarlemmermeer.nl
 geoservices.denhaag.nl
 geoservices.haarlemmermeer.nl
@@ -8238,7 +8246,6 @@ mijn.vijfheerenlanden.nl
 mijn.vlaardingen.nl
 mijn.voerendaal.nl
 mijn.voorschoten.nl
-mijn.voorst.nl
 mijn.waalre.nl
 mijn.waddinxveen.nl
 mijn.wassenaar.nl
@@ -11887,6 +11894,7 @@ sts.rotterdam.nl
 sts.sittard-geleen.nl
 sts.sudwestfryslan.nl
 sts.tynaarlo.nl
+sts.venray.nl
 sts.waalre.nl
 sts2.rotterdam.nl
 stswigo4it-acc.amsterdam.nl
@@ -12899,6 +12907,7 @@ veldhoven.nl
 velp.landvancuijk.nl
 velsen.nl
 veluwsepoort.ede.nl
+venlo.nl
 venray.nl
 vergaderen-adp.amsterdam.nl
 vergaderen.acc.amsterdam.nl
@@ -13196,6 +13205,7 @@ wachtwoordvergeten.amsterdam.nl
 wachtwoordvergeten.nederbetuwe.nl
 wadden.groningen.nl
 waddenland.groningen.nl
+waddinxveen.nl
 waddsup.waddinxveen.nl
 wadelse-acc.waddinxveen.nl
 wadelse.waddinxveen.nl
@@ -14895,6 +14905,7 @@ www.waalwijk.nl
 www.wadden.groningen.nl
 www.waddenland.groningen.nl
 www.waddinxveen.nl
+www.waddsup.waddinxveen.nl
 www.wageningen.nl
 www.wandelen.groningen.nl
 www.wandelroutes.landvancuijk.nl
@@ -14938,6 +14949,7 @@ www.werkenbij.zaanstad.nl
 www.werkenvoor.denhaag.nl
 www.werkenvoor.olst-wijhe.nl
 www.werkpakt.enschede.nl
+www.werkplein.venlo.nl
 www.werkplek.gemeentemaasgouw.nl
 www.werkplek.groningen.nl
 www.werkplek.kaagenbraassem.nl

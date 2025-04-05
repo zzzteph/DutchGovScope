@@ -3,6 +3,7 @@ api.meldingen-a.waadhoeke.nl
 api.meldingen.waadhoeke.nl
 autodiscover.waadhoeke.nl
 csc.waadhoeke.nl
+e.videobellen.waadhoeke.nl
 edienstenburgerzaken-test.waadhoeke.nl
 edienstenburgerzaken.waadhoeke.nl
 enterpriseenrollment.waadhoeke.nl
