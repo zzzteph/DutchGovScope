@@ -2349,6 +2349,7 @@ autodiscover.venlo.nl
 autodiscover.venray.nl
 autodiscover.vijfheerenlanden.nl
 autodiscover.vlaardingen.nl
+autodiscover.vlieland.nl
 autodiscover.voorschoten.nl
 autodiscover.voorst.nl
 autodiscover.vsp.nijmegen.nl

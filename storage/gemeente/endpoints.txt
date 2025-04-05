@@ -187,6 +187,7 @@ http://autodiscover.veenendaal.nl
 http://autodiscover.venlo.nl
 http://autodiscover.venray.nl
 http://autodiscover.vijfheerenlanden.nl
+http://autodiscover.vlieland.nl
 http://autodiscover.voorschoten.nl
 http://autodiscover.vsp.nijmegen.nl
 http://autodiscover.vvd.mookenmiddelaar.nl
@@ -260,6 +261,7 @@ http://felix.schiermonnikoog.nl
 http://felix.simpelveld.nl
 http://felix.sonenbreugel.nl
 http://felix.urk.nl
+http://felix.vlieland.nl
 http://felix.vlissingen.nl
 http://felix.voorschoten.nl
 http://felix.waalwijk.nl
@@ -541,7 +543,6 @@ http://www.telewerken.hellevoetsluis.nl
 http://www.trefnet.hellevoetsluis.nl
 http://www.twenterand.nl
 http://www.valkenswaard.nl
-http://www.vlieland.nl
 http://www.vroonermeer-noord.alkmaar.nl
 http://www.waalwijk.nl
 http://www.wassenaar.nl
@@ -6614,7 +6615,6 @@ https://simcms.schiermonnikoog.nl
 https://simcms.simpelveld.nl
 https://simcms.urk.nl
 https://simcms.valkenswaard.nl
-https://simcms.vlieland.nl
 https://simcms.vlissingen.nl
 https://simcms.voorschoten.nl
 https://simcms.wassenaar.nl
@@ -7450,6 +7450,7 @@ https://visnet.vlissingen.nl
 https://visvijver.doetinchem.nl
 https://vitaal.venlo.nl
 https://vlaardingen.nl
+https://vlieland.nl
 https://vluchtelingen.zaanstad.nl
 https://voerendaal.nl
 https://vogelweide.diemen.nl
