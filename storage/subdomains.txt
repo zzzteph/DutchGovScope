@@ -3633,6 +3633,7 @@ centrum.zoetermeer.nl
 centrumbegroot.alphenaandenrijn.nl
 centrumbegroot.amsterdam.nl
 centrumimpuls.geldrop-mierlo.nl
+ceo.zaltbommel.nl
 cert.nl
 cert.test2gbav.belastingdienst.nl
 certauth.sudwestfryslan.nl
@@ -7384,6 +7385,7 @@ gemeenteraad.westbetuwe.nl
 gemeenteraad.westvoorne.nl
 gemeenteraad.woerden.nl
 gemeenteraad.zaanstad.nl
+gemeenteraad.zaltbommel.nl
 gemeentesluis.nl
 gemeentestein.nl
 gemeentewesterveld.nl
@@ -8621,6 +8623,7 @@ ibzpink.wierden.nl
 ibzpink.wijchen.nl
 ibzpink.wijdemeren.nl
 ibzpink.woensdrecht.nl
+ibzpink.zaltbommel.nl
 ibzpink.zundert.nl
 ibzpink.zwartewaterland.nl
 ibzpink.zwolle.nl

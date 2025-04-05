@@ -1,9 +1,12 @@
 afspraak.zaltbommel.nl
 autodiscover.zaltbommel.nl
+ceo.zaltbommel.nl
 digikoppeling.test.zaltbommel.nl
 digikoppeling.zaltbommel.nl
 formulieren.zaltbommel.nl
+gemeenteraad.zaltbommel.nl
 iburgerzaken.zaltbommel.nl
+ibzpink.zaltbommel.nl
 mail.zaltbommel.nl
 mijn.zaltbommel.nl
 mijnhulp-test.zaltbommel.nl
