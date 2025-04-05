@@ -1031,6 +1031,7 @@ bi
 burgerzaken
 buurtbudget
 docgen
+erfpacht
 formulieren-g4-acc
 formulieren.acc
 gvz2digikoppeling
@@ -4487,7 +4488,6 @@ erfpacht-gwextern-dev
 erfpacht-gwextern-ont
 erfpacht-gwextern-tst
 erfpacht-gwextern
-erfpacht
 erfpachtmedewerkers-acc
 erfpachtmedewerkers-dev
 erfpachtmedewerkers-ont
