@@ -7011,6 +7011,7 @@ https://test-cmsintranet.wageningen.nl
 https://test-cmsintranet.zeist.nl
 https://test-cmsjip.vijfheerenlanden.nl
 https://test-cmsnopnet.noordoostpolder.nl
+https://test-cmssamenatwork.stichtsevecht.nl
 https://test-cmssocial.montferland.info
 https://test-cmsurknet.urk.nl
 https://test-cmszaanzoeker.zaanstad.nl
@@ -7049,6 +7050,7 @@ https://test-opname.eindhoven.nl
 https://test-paswijzer.waalwijk.nl
 https://test-potjeswijzer.westerkwartier.nl
 https://test-qr.eindhoven.nl
+https://test-samenatwork.stichtsevecht.nl
 https://test-subsidiebeheer.alkmaar.nl
 https://test-subsidiebeheer.zwolle.nl
 https://test-subsidieloket.alkmaar.nl

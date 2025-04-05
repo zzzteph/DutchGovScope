@@ -35,6 +35,8 @@ https://rvw.stichtsevecht.nl
 https://samenatwork.stichtsevecht.nl
 https://stichtsevecht.nl
 https://telewerken.stichtsevecht.nl
+https://test-cmssamenatwork.stichtsevecht.nl
+https://test-samenatwork.stichtsevecht.nl
 https://test.stichtsevecht.nl
 https://veiligdelen.stichtsevecht.nl
 https://vpn.stichtsevecht.nl
