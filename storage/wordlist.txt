@@ -140,6 +140,7 @@ geoportaal
 mijnzorg
 vergunningintaker
 snelbalie
+afvalkalender
 dali
 preprod
 qr
@@ -160,7 +161,6 @@ nieuwsbrief
 preprodbroker
 simform
 mijninkomen
-afvalkalender
 acc-formulier
 acc-podiumd-logs
 woningbouwkaart
