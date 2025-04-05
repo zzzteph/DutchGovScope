@@ -519,6 +519,7 @@ http://simcms.capelleaandenijssel.nl
 http://simcms.doetinchem.nl
 http://simcms.eersel.nl
 http://simcms.heerlen.nl
+http://simcms.heuvelrug.nl
 http://simcms.landgraaf.nl
 http://simcms.leudal.nl
 http://simcms.middelburg.nl
@@ -540,6 +541,7 @@ http://simsite.beekdaelen.nl
 http://simsite.bergeijk.nl
 http://simsite.deurne.nl
 http://simsite.geertruidenberg.nl
+http://simsite.heuvelrug.nl
 http://simsite.middendelfland.nl
 http://simsite.montferland.info
 http://simsite.nederweert.nl
@@ -582,7 +584,6 @@ http://test-insite.houten.nl
 http://test-intranet.beuningen.nl
 http://test-intranet.etten-leur.nl
 http://test-intranet.groningen.nl
-http://test-intranet.heuvelrug.nl
 http://test-intranet.venlo.nl
 http://test-intranet.wageningen.nl
 http://test-intranet.zeist.nl
@@ -649,6 +650,7 @@ http://www.deurne.nl
 http://www.doemee.leiden.nl
 http://www.gezond.amsterdam.nl
 http://www.halderberge.nl
+http://www.heuvelrug.nl
 http://www.huursportzaal.kampen.nl
 http://www.internwifi.hellevoetsluis.nl
 http://www.kerkrade.nl
@@ -6530,6 +6532,7 @@ https://mijn.hellendoorn.nl
 https://mijn.helmond.nl
 https://mijn.hengelo.nl
 https://mijn.heusden.nl
+https://mijn.heuvelrug.nl
 https://mijn.hofvantwente.nl
 https://mijn.hollandskroon.nl
 https://mijn.hoorn.nl
@@ -8365,6 +8368,7 @@ https://preproductie.gemeentewesterveld.nl
 https://preproductie.gemeentewestland.nl
 https://preproductie.gorinchem.nl
 https://preproductie.heerenveen.nl
+https://preproductie.heuvelrug.nl
 https://preproductie.landgraaf.nl
 https://preproductie.leudal.nl
 https://preproductie.montferland.info
@@ -9017,7 +9021,6 @@ https://simcms.gemeentebeek.nl
 https://simcms.gemeentemaasgouw.nl
 https://simcms.goeree-overflakkee.nl
 https://simcms.heeze-leende.nl
-https://simcms.heuvelrug.nl
 https://simcms.intranet.lopik.nl
 https://simcms.kerkrade.nl
 https://simcms.koggenland.nl
@@ -9058,7 +9061,6 @@ https://simsite.doesburg.nl
 https://simsite.gemeentebeek.nl
 https://simsite.goeree-overflakkee.nl
 https://simsite.gorinchem.nl
-https://simsite.heuvelrug.nl
 https://simsite.landgraaf.nl
 https://simsite.leudal.nl
 https://simsite.lopik.nl
@@ -9538,7 +9540,6 @@ https://test-cmshofnet.coevorden.nl
 https://test-cmsintranet.drimmelen.nl
 https://test-cmsintranet.edam-volendam.nl
 https://test-cmsintranet.flevoland.nl
-https://test-cmsintranet.heuvelrug.nl
 https://test-cmsintranet.lansingerland.nl
 https://test-cmsintranet.meierijstad.nl
 https://test-cmsintranet.scp.nl

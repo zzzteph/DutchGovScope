@@ -1,4 +1,6 @@
-http://test-intranet.heuvelrug.nl
+http://simcms.heuvelrug.nl
+http://simsite.heuvelrug.nl
+http://www.heuvelrug.nl
 https://api.meldingen-acc.heuvelrug.nl
 https://api.meldingen.heuvelrug.nl
 https://apv-broker.heuvelrug.nl
@@ -9,13 +11,12 @@ https://iburgerzaken.heuvelrug.nl
 https://intranet.heuvelrug.nl
 https://meldingen-acc.heuvelrug.nl
 https://meldingen.heuvelrug.nl
+https://mijn.heuvelrug.nl
 https://mijnzorg-test.heuvelrug.nl
 https://mijnzorg.heuvelrug.nl
+https://preproductie.heuvelrug.nl
 https://return.heuvelrug.nl
 https://rxlaunchbroker-preprod.heuvelrug.nl
-https://simcms.heuvelrug.nl
-https://simsite.heuvelrug.nl
-https://test-cmsintranet.heuvelrug.nl
 https://vergunningintaker-preprod.heuvelrug.nl
 https://vergunningintaker.heuvelrug.nl
 https://vinden.heuvelrug.nl
