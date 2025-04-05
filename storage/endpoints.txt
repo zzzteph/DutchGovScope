@@ -4738,7 +4738,6 @@ https://geo.provincie-utrecht.nl
 https://geo.raalte.nl
 https://geo.renkum.nl
 https://geo.rheden.nl
-https://geo.sittard-geleen.nl
 https://geo.tilburg.nl
 https://geo.vught.nl
 https://geo.wijkbijduurstede.nl
@@ -6462,7 +6461,6 @@ https://mijn-aanvraag.belastingdienst.nl
 https://mijn-acc.groningen.nl
 https://mijn-acc.igj.nl
 https://mijn-acc.overbetuwe.nl
-https://mijn-acc.sittard-geleen.nl
 https://mijn-accept.voorst.nl
 https://mijn-acceptatie.enschede.nl
 https://mijn-acceptatie.waterland.nl
@@ -9533,6 +9531,7 @@ https://test-cmsintranet.heuvelrug.nl
 https://test-cmsintranet.lansingerland.nl
 https://test-cmsintranet.meierijstad.nl
 https://test-cmsintranet.scp.nl
+https://test-cmsintranet.sittard-geleen.nl
 https://test-cmsintranet.steenwijkerland.nl
 https://test-cmsintranet.sudwestfryslan.nl
 https://test-cmsintranet.velsen.nl
@@ -9558,6 +9557,7 @@ https://test-eloket.nunspeet.nl
 https://test-hofnet.coevorden.nl
 https://test-insite.nijmegen.nl
 https://test-internationaal.ondernemen.overheid.nl
+https://test-internetafspraken.sittard-geleen.nl
 https://test-intra.gooisemeren.nl
 https://test-intranet.drimmelen.nl
 https://test-intranet.edam-volendam.nl

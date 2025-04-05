@@ -7,7 +7,6 @@ https://bezoekersparkeren.sittard-geleen.nl
 https://cmsintranet.sittard-geleen.nl
 https://draadloos.sittard-geleen.nl
 https://duurzaamwonen.sittard-geleen.nl
-https://geo.sittard-geleen.nl
 https://geodata.sittard-geleen.nl
 https://haven.acc.sittard-geleen.nl
 https://haven.sittard-geleen.nl
@@ -16,7 +15,6 @@ https://hybrid.sittard-geleen.nl
 https://intranet.sittard-geleen.nl
 https://kaart.sittard-geleen.nl
 https://knowledgebase.sittard-geleen.nl
-https://mijn-acc.sittard-geleen.nl
 https://mijn.sittard-geleen.nl
 https://obsurv-t.sittard-geleen.nl
 https://obsurv.sittard-geleen.nl
@@ -36,6 +34,8 @@ https://quarantaine.sittard-geleen.nl
 https://secure-t.sittard-geleen.nl
 https://secure.sittard-geleen.nl
 https://sittard-geleen.nl
+https://test-cmsintranet.sittard-geleen.nl
+https://test-internetafspraken.sittard-geleen.nl
 https://topdesk.sittard-geleen.nl
 https://uitvaartplanner.sittard-geleen.nl
 https://webmail.sittard-geleen.nl
