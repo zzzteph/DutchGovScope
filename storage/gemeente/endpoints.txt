@@ -464,6 +464,7 @@ http://test.website.westland.gemeentewestland.nl
 http://testcms-jip.hofvantwente.nl
 http://testeformulieren.rhenen.nl
 http://testeloket.meppel.nl
+http://testintranet.westerwolde.nl
 http://thomas100.rotterdam.nl
 http://thomas434.rotterdam.nl
 http://thuiswerk.rotterdam.nl
@@ -7159,7 +7160,6 @@ https://testformulieren.bodegraven-reeuwijk.nl
 https://testformulieren.haarlemmermeer.nl
 https://testformulieren.veldhoven.nl
 https://testinloggen.haarlemmermeer.nl
-https://testintranet.westerwolde.nl
 https://testloket.hattem.nl
 https://testloket.heerde.nl
 https://testloket.katwijk.nl
