@@ -69,22 +69,11 @@ headers_to_check = ["RIJKSOVERHEID.Org", "overheid:authority"]
 print("\n--- Matching Domains ---\n")
 result_domains=set()
 
-existing_domains = set()
-if os.path.exists(file_path):
-    with open(file_path, "r") as f:
-        for line in f:
-            line = line.strip()
-            if line:
-                existing_domains.add(line.lower())
-
 
 
 
 
 for domain in sorted(entries):
-    if domain.lower() in existing_domains:
-        print(f"{domain} skipped")
-        continue
     
     print(f"{domain} explored")        
     try:
