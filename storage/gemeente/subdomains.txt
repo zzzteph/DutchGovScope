@@ -11889,6 +11889,7 @@ sts.rotterdam.nl
 sts.sittard-geleen.nl
 sts.sudwestfryslan.nl
 sts.tynaarlo.nl
+sts.venray.nl
 sts.waalre.nl
 sts2.rotterdam.nl
 stswigo4it-acc.amsterdam.nl

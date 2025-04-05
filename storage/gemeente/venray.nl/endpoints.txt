@@ -13,6 +13,8 @@ https://mijninkomen.venray.nl
 https://omgevingsvisie.venray.nl
 https://open-formulieren-test.venray.nl
 https://open-formulieren.venray.nl
+https://preprod-mijninkomen.venray.nl
+https://sts.venray.nl
 https://testeloket.venray.nl
 https://venray.nl
 https://webproxy.venray.nl

@@ -117,12 +117,12 @@ pki
 _dmarc
 api
 begroting
+sts
 squit2go
 samen
 e
 lyncdiscover
 bgt
-sts
 micollab
 zaaksysteem
 inloggen
