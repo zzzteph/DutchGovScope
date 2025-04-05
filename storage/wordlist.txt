@@ -434,6 +434,7 @@ authenticatie
 gateway
 mijn-preproductie
 test-secure
+www.denkmee
 ibabs
 www.afspraken
 prefill
@@ -544,7 +545,6 @@ pip
 acceptatie-intranet
 rxlaunch-signicat-preprod
 vthbroker
-www.denkmee
 bezoekersparkeren-acc
 cars
 mijnsociaaldomein-acc
