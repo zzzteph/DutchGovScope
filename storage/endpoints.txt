@@ -611,6 +611,7 @@ http://videobellen.waterschaplimburg.nl
 http://videoserver2.brabant.nl
 http://voi.brabant.nl
 http://vsp.terneuzen.nl
+http://vvb.sliedrecht.nl
 http://waarmerk.woensdrecht.nl
 http://wadelse-acc.waddinxveen.nl
 http://webmail.gooisemeren.nl

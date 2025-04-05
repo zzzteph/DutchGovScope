@@ -1,4 +1,5 @@
 http://autodiscover.sliedrecht.nl
+http://vvb.sliedrecht.nl
 https://afvalkalender.sliedrecht.nl
 https://camera.sliedrecht.nl
 https://college.sliedrecht.nl
