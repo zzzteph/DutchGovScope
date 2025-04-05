@@ -325,7 +325,6 @@ http://meldpuntondermijning.rotterdam.nl
 http://mijn-preproductie.heerenveen.nl
 http://mijn-preproductie.weststellingwerf.nl
 http://mijn.doesburg.nl
-http://mijn.staphorst.nl
 http://mijn.urk.nl
 http://mijn.voorschoten.nl
 http://mijn.westerkwartier.nl
@@ -342,6 +341,7 @@ http://nuenen.nl
 http://oirschot.nl
 http://open.doetinchem.nl
 http://open.gemeentebeek.nl
+http://open.staphorst.nl
 http://opsterland.nl
 http://ows-ahp-test.groningen.nl
 http://ows-app-test.groningen.nl
@@ -410,6 +410,7 @@ http://simcms.middendelfland.nl
 http://simcms.nuenen.nl
 http://simcms.reuseldemierden.nl
 http://simcms.sonenbreugel.nl
+http://simcms.staphorst.nl
 http://simcms.zoetermeer.nl
 http://simcms.zuidplas.nl
 http://simcms.zwartewaterland.nl
@@ -428,6 +429,7 @@ http://simsite.middendelfland.nl
 http://simsite.montferland.info
 http://simsite.nederweert.nl
 http://simsite.opmeer.nl
+http://simsite.staphorst.nl
 http://smartphone.kampen.nl
 http://smtp.moerdijk.nl
 http://smtp.tholen.nl
@@ -4944,6 +4946,7 @@ https://mijn.schiedam.nl
 https://mijn.schouwen-duiveland.nl
 https://mijn.sittard-geleen.nl
 https://mijn.soest.nl
+https://mijn.staphorst.nl
 https://mijn.stichtsevecht.nl
 https://mijn.test.oss.nl
 https://mijn.texel.nl
@@ -5542,7 +5545,6 @@ https://open.roosendaal.nl
 https://open.schouwen-duiveland.nl
 https://open.sint-michielsgestel.nl
 https://open.sonenbreugel.nl
-https://open.staphorst.nl
 https://open.teylingen.nl
 https://open.tilburg.nl
 https://open.tubbergen.nl
@@ -6545,6 +6547,7 @@ https://simcms-begraafplaatsduinrust.beverwijk.nl
 https://simcms-cjg.scherpenzeel.nl
 https://simcms-data.westerkwartier.nl
 https://simcms-duurzaam.beverwijk.nl
+https://simcms-epos.staphorst.nl
 https://simcms-klimaatbestendig.lingewaard.nl
 https://simcms-omgevingsvisie.geldrop-mierlo.nl
 https://simcms-omgevingswet.bronckhorst.nl
@@ -6631,7 +6634,6 @@ https://simsite.pijnacker-nootdorp.nl
 https://simsite.reuseldemierden.nl
 https://simsite.scherpenzeel.nl
 https://simsite.simpelveld.nl
-https://simsite.staphorst.nl
 https://simsite.twenterand.nl
 https://simsite.veendam.nl
 https://simsite.veere.nl
