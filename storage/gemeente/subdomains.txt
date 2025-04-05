@@ -7556,6 +7556,7 @@ loket.zwijndrecht.nl
 loketacc.arnhem.nl
 loketacpt.haarlem.nl
 lokettest.middendrenthe.nl
+lokettest.texel.nl
 loo-tv.brunssum.nl
 loonkostensubsidie-acc.utrecht.nl
 loonkostensubsidie.utrecht.nl

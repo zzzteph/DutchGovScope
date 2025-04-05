@@ -6,6 +6,7 @@ https://digitalebelastingbalie.texel.nl
 https://iburgerzaken.texel.nl
 https://intranet.texel.nl
 https://loket.texel.nl
+https://lokettest.texel.nl
 https://mijn.texel.nl
 https://mijntexeltest.texel.nl
 https://mozardproductie.texel.nl

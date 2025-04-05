@@ -9989,6 +9989,7 @@ loket.zwijndrecht.nl
 loketacc.arnhem.nl
 loketacpt.haarlem.nl
 lokettest.middendrenthe.nl
+lokettest.texel.nl
 longread.brabant.nl
 loo-tv.brunssum.nl
 loonaangifteketen.nl

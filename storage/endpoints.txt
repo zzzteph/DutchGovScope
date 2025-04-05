@@ -6103,6 +6103,7 @@ https://loket.zaanstad.nl
 https://loket.zevenaar.nl
 https://loket.zoetermeer.nl
 https://loket.zwijndrecht.nl
+https://lokettest.texel.nl
 https://loonaangifteketen.nl
 https://loonkostensubsidie-acc.utrecht.nl
 https://loonkostensubsidie.utrecht.nl

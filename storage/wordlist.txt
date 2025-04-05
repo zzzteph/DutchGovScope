@@ -1378,6 +1378,7 @@ regieportaal
 zorg-acc
 apigateway
 apigateway2
+lokettest
 portaaltest
 mymeeting
 scep
@@ -7547,7 +7548,6 @@ www.remotewerken
 belastingtest
 burgerpanel
 link.burgerpanel
-lokettest
 md02
 md04
 mdfg01

@@ -11,6 +11,7 @@ iburgerzaken.texel.nl
 ibzpink.texel.nl
 intranet.texel.nl
 loket.texel.nl
+lokettest.texel.nl
 mail.digikoppeling.texel.nl
 mijn.texel.nl
 mijntexeltest.texel.nl
