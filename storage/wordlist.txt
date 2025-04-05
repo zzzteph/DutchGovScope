@@ -492,6 +492,7 @@ plannen
 kaartviewer
 mijnmobiel
 personeelsplanning
+simcms-preproductie
 djuma
 zorg
 klimaatplein
@@ -673,7 +674,6 @@ bestemmingsplannen
 accdrop
 storefront
 www.login
-simcms-preproductie
 eforms
 intranetcms-acc
 acceptatieloket
@@ -9444,6 +9444,7 @@ wwfortimail01.ad
 wwng01
 PKIoverheid
 goedendag
+site2008
 geoxchange-prod
 geoxchange-test
 relay2
