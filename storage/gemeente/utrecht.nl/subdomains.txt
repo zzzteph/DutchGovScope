@@ -25,6 +25,7 @@ alfresco-share.cg-intern.acc.utrecht.nl
 alfresco-share.cg-intern.ont.utrecht.nl
 alfresco-share.cg-intern.utrecht.nl
 alfresco-tezza.cg-intern.acc.utrecht.nl
+alfresco-tezza.cg-intern.ont.utrecht.nl
 alfresco-tezza.cg-intern.utrecht.nl
 alfresco.cg-intern.acc.utrecht.nl
 alfresco.cg-intern.ont.utrecht.nl
@@ -38,6 +39,7 @@ apps.cg-intern.acc.utrecht.nl
 apps.team-bdo.cg-intern.acc.utrecht.nl
 apps.team-contezza.cg-intern.acc.utrecht.nl
 apps.team-frameless.cg-intern.acc.utrecht.nl
+apps.team-huishoudboekje.cg-intern.acc.utrecht.nl
 apps.team-maykinmedia.cg-intern.acc.utrecht.nl
 apps.team-migratiecommutr.cg-intern.acc.utrecht.nl
 apps.team-nlx.cg-intern.acc.utrecht.nl
@@ -81,6 +83,7 @@ digid-parkeervergunningen.utrecht.nl
 digitaal.utrecht.nl
 dowc.cg-intern.acc.utrecht.nl
 dowc.cg-intern.ont.utrecht.nl
+drempelsweg.utrecht.nl
 drone.cg-intern.acc.utrecht.nl
 duoloket.utrecht.nl
 dvlm.3d.utrecht.nl
@@ -91,7 +94,6 @@ edison-opl.utrecht.nl
 edison.utrecht.nl
 eop.utrecht.nl
 erfgoed.utrecht.nl
-event.gemeente.utrecht.nl
 ews.utrecht.nl
 falco.cg-intern.acc.utrecht.nl
 fmreturn.dienstverlening.utrecht.nl
@@ -123,6 +125,7 @@ grafana.team-sandbox.cg-intern.acc.utrecht.nl
 grafana.team-sensrnet.cg-intern.acc.utrecht.nl
 grafana.team-signalen.cg-intern.acc.utrecht.nl
 grafana.team-utrecht.cg-intern.acc.utrecht.nl
+grafzoeker.utrecht.nl
 gzac.cg-intern.ont.utrecht.nl
 harbor.cg-intern.acc.utrecht.nl
 healthyurbanliving.utrecht.nl
@@ -165,9 +168,11 @@ kubeapps.cg-intern.acc.utrecht.nl
 kubeclarity.cg-intern.acc.utrecht.nl
 kwaliteitsmonitor.utrecht.nl
 legacy.utrecht.nl
+localhost.utrecht.nl
 loket.digitaal.utrecht.nl
 loonkostensubsidie-acc.utrecht.nl
 loonkostensubsidie.utrecht.nl
+m.utrecht.nl
 mail21.utrecht.nl
 mail22.utrecht.nl
 mailcamp.utrecht.nl
@@ -278,10 +283,12 @@ tkrparkeren.utrecht.nl
 tkrparkerentest.utrecht.nl
 tma.utrecht.nl
 tooltracker.utrecht.nl
+trainingen.utrecht.nl
 tty.cg-intern.acc.utrecht.nl
 ureka.utrecht.nl
 uren.utrecht.nl
 urenapp.utrecht.nl
+utrecht.nl
 vastgoedaanbod.utrecht.nl
 vault.cg-intern.acc.utrecht.nl
 videobellen.utrecht.nl

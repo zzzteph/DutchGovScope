@@ -206,6 +206,7 @@ inproces
 internetafspraken
 gasten
 uc
+m
 evenementen
 webservices
 zoeken
@@ -225,13 +226,13 @@ zaken.acceptatie
 bor
 bestuur
 afspraakmaken
-m
 website
 beheer
 wachtwoord
 werkenvoor
 archief
 guest
+localhost
 preprod-mijn
 belastingbalie-test
 mail2
@@ -263,7 +264,6 @@ e-loket
 magazine
 sslvpn
 ns1
-localhost
 support
 api.openstad
 subsidies-backend
@@ -8759,6 +8759,7 @@ alfresco-share.cg-intern.acc
 alfresco-share.cg-intern.ont
 alfresco-share.cg-intern
 alfresco-tezza.cg-intern.acc
+alfresco-tezza.cg-intern.ont
 alfresco-tezza.cg-intern
 alfresco.cg-intern.acc
 alfresco.cg-intern.ont
@@ -8770,6 +8771,7 @@ apps.cg-intern.acc
 apps.team-bdo.cg-intern.acc
 apps.team-contezza.cg-intern.acc
 apps.team-frameless.cg-intern.acc
+apps.team-huishoudboekje.cg-intern.acc
 apps.team-maykinmedia.cg-intern.acc
 apps.team-migratiecommutr.cg-intern.acc
 apps.team-nlx.cg-intern.acc
@@ -8803,10 +8805,10 @@ datakluis
 demo.team-huishoudboekje.cg-intern.acc
 dowc.cg-intern.acc
 dowc.cg-intern.ont
+drempelsweg
 drone.cg-intern.acc
 dvlm.3d
 eop
-event.gemeente
 falco.cg-intern.acc
 fmreturn.dienstverlening
 formulieren-g4
@@ -8831,6 +8833,7 @@ grafana.team-sandbox.cg-intern.acc
 grafana.team-sensrnet.cg-intern.acc
 grafana.team-signalen.cg-intern.acc
 grafana.team-utrecht.cg-intern.acc
+grafzoeker
 gzac.cg-intern.ont
 harbor.cg-intern.acc
 healthyurbanliving
@@ -8946,6 +8949,7 @@ thanos.cg-intern.acc
 tkrparkeren
 tkrparkerentest
 tooltracker
+trainingen
 tty.cg-intern.acc
 ureka
 uren
