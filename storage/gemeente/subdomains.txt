@@ -4563,6 +4563,7 @@ enterpriseenrollment.veenendaal.nl
 enterpriseenrollment.vijfheerenlanden.nl
 enterpriseenrollment.vlieland.nl
 enterpriseenrollment.waadhoeke.nl
+enterpriseenrollment.waddinxveen.nl
 enterpriseone-arc.almere.nl
 enterpriseone-dv.almere.nl
 enterpriseone-py.almere.nl
@@ -4591,6 +4592,7 @@ enterpriseregistration.sudwestfryslan.nl
 enterpriseregistration.tholen.nl
 enterpriseregistration.veenendaal.nl
 enterpriseregistration.vijfheerenlanden.nl
+enterpriseregistration.waddinxveen.nl
 enterpriseregistration.zeist.nl
 enterpriseregistration.zoeterwoude.nl
 enzo.zoetermeer.nl
@@ -13203,6 +13205,7 @@ wachtwoordvergeten.amsterdam.nl
 wachtwoordvergeten.nederbetuwe.nl
 wadden.groningen.nl
 waddenland.groningen.nl
+waddinxveen.nl
 waddsup.waddinxveen.nl
 wadelse-acc.waddinxveen.nl
 wadelse.waddinxveen.nl
@@ -14902,6 +14905,7 @@ www.waalwijk.nl
 www.wadden.groningen.nl
 www.waddenland.groningen.nl
 www.waddinxveen.nl
+www.waddsup.waddinxveen.nl
 www.wageningen.nl
 www.wandelen.groningen.nl
 www.wandelroutes.landvancuijk.nl

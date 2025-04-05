@@ -64,9 +64,9 @@ dacceptatiemidoffice
 remote
 dloket
 dmidoffice
+enterpriseregistration
 beeldbank
 belastingbalie
-enterpriseregistration
 osb
 api.meldingen-acc
 meldingen-acc
@@ -9179,6 +9179,7 @@ wadelse
 wadelsecms-acc
 wadelsecms
 wdvggm
+www.waddsup
 appconnect
 bereikbaar
 intranetprod

@@ -619,7 +619,6 @@ http://vsp.terneuzen.nl
 http://vvb.sliedrecht.nl
 http://waalwijk.nl
 http://waarmerk.woensdrecht.nl
-http://wadelse-acc.waddinxveen.nl
 http://webmail.gooisemeren.nl
 http://webmail.werkenvoornederland.nl
 http://welkom.ede.nl
@@ -684,6 +683,7 @@ http://www.trefnet.hellevoetsluis.nl
 http://www.twenterand.nl
 http://www.valkenswaard.nl
 http://www.vroonermeer-noord.alkmaar.nl
+http://www.waddsup.waddinxveen.nl
 http://www.wassenaar.nl
 http://www.webmail.hellevoetsluis.nl
 http://www.werkenbij.amsterdam.nl
@@ -3819,6 +3819,7 @@ https://enterpriseenrollment.veenendaal.nl
 https://enterpriseenrollment.vijfheerenlanden.nl
 https://enterpriseenrollment.vlieland.nl
 https://enterpriseenrollment.waadhoeke.nl
+https://enterpriseenrollment.waddinxveen.nl
 https://enterpriseone-arc.almere.nl
 https://enterpriseone-py.almere.nl
 https://enterpriseregistration.alphenaandenrijn.nl
@@ -3846,6 +3847,7 @@ https://enterpriseregistration.roosendaal.nl
 https://enterpriseregistration.tholen.nl
 https://enterpriseregistration.veenendaal.nl
 https://enterpriseregistration.vijfheerenlanden.nl
+https://enterpriseregistration.waddinxveen.nl
 https://enterpriseregistration.zeist.nl
 https://enterpriseregistration.zoeterwoude.nl
 https://enzo.zoetermeer.nl
@@ -10218,6 +10220,7 @@ https://wachtwoordreset.almere.nl
 https://wachtwoordvergeten.amsterdam.nl
 https://wachtwoordvergeten.nederbetuwe.nl
 https://waddenland.groningen.nl
+https://waddinxveen.nl
 https://waddsup.waddinxveen.nl
 https://wadelse.waddinxveen.nl
 https://wadelsecms-acc.waddinxveen.nl

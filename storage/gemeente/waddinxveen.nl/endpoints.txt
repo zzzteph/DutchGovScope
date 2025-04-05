@@ -1,8 +1,10 @@
 http://piptest.waddinxveen.nl
-http://wadelse-acc.waddinxveen.nl
+http://www.waddsup.waddinxveen.nl
 https://apps.waddinxveen.nl
 https://circulairopdreef.waddinxveen.nl
 https://dali.waddinxveen.nl
+https://enterpriseenrollment.waddinxveen.nl
+https://enterpriseregistration.waddinxveen.nl
 https://iburgerzaken.waddinxveen.nl
 https://mijngemeente.waddinxveen.nl
 https://mijnuitkering.waddinxveen.nl
@@ -12,6 +14,7 @@ https://preprod-formulieren.waddinxveen.nl
 https://sleutelkwartier.waddinxveen.nl
 https://testmijngemeente.waddinxveen.nl
 https://tsuyt.waddinxveen.nl
+https://waddinxveen.nl
 https://waddsup.waddinxveen.nl
 https://wadelse.waddinxveen.nl
 https://wadelsecms-acc.waddinxveen.nl
