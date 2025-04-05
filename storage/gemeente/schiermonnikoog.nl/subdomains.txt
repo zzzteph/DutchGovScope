@@ -1,4 +1,5 @@
 _autodiscover._tcp.schiermonnikoog.nl
+autodiscover.schiermonnikoog.nl
 enterpriseenrollment.schiermonnikoog.nl
 felix.schiermonnikoog.nl
 mozard.schiermonnikoog.nl

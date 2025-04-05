@@ -1665,6 +1665,7 @@ autodiscover.s-hertogenbosch.nl
 autodiscover.schagen.nl
 autodiscover.scherpenzeel.nl
 autodiscover.schiedam.nl
+autodiscover.schiermonnikoog.nl
 autodiscover.schouwen-duiveland.nl
 autodiscover.sittard-geleen.nl
 autodiscover.sliedrecht.nl

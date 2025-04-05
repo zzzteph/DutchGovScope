@@ -166,6 +166,7 @@ http://autodiscover.rucphen.nl
 http://autodiscover.s-hertogenbosch.nl
 http://autodiscover.scherpenzeel.nl
 http://autodiscover.schiedam.nl
+http://autodiscover.schiermonnikoog.nl
 http://autodiscover.schouwen-duiveland.nl
 http://autodiscover.sliedrecht.nl
 http://autodiscover.someren.nl
@@ -255,6 +256,7 @@ http://felix.koggenland.nl
 http://felix.nederweert.nl
 http://felix.ooststellingwerf.nl
 http://felix.scherpenzeel.nl
+http://felix.schiermonnikoog.nl
 http://felix.vlissingen.nl
 http://felix.voorschoten.nl
 http://felix.waalwijk.nl
@@ -3151,7 +3153,6 @@ https://felix.nuenen.nl
 https://felix.oirschot.nl
 https://felix.opmeer.nl
 https://felix.overbetuwe.nl
-https://felix.schiermonnikoog.nl
 https://felix.staphorst.nl
 https://felix.twenterand.nl
 https://felix.veere.nl

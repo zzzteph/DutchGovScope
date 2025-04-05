@@ -1,6 +1,7 @@
+http://autodiscover.schiermonnikoog.nl
+http://felix.schiermonnikoog.nl
 http://schiermonnikoog.nl
 https://enterpriseenrollment.schiermonnikoog.nl
-https://felix.schiermonnikoog.nl
 https://mozard.schiermonnikoog.nl
 https://mozardtest.schiermonnikoog.nl
 https://siam.schiermonnikoog.nl

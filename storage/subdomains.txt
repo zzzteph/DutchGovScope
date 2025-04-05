@@ -2303,6 +2303,7 @@ autodiscover.s-hertogenbosch.nl
 autodiscover.schagen.nl
 autodiscover.scherpenzeel.nl
 autodiscover.schiedam.nl
+autodiscover.schiermonnikoog.nl
 autodiscover.schoolleidersregisterpo.nl
 autodiscover.schouwen-duiveland.nl
 autodiscover.scp.nl
