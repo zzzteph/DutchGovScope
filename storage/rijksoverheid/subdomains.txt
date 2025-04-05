@@ -321,6 +321,7 @@ academy.forensischinstituut.nl
 acc-dictu.comcms.logius.nl
 acc-dictu.kennisbank.logius.nl
 acc-dictu.logius.nl
+acc-dictu.toegankelijkheidsverklaring.nl
 acc-energielabels.gebouwen.overheid.nl
 acc-int.mijn.overheid.nl
 acc-internationaal.ondernemen.overheid.nl
@@ -372,6 +373,7 @@ acc.statistiek.mijn.overheid.nl
 acc.stor.services.cultureelerfgoed.nl
 acc.stubs.lpc.mijn.overheid.nl
 acc.subsidie.cultureelerfgoed.nl
+acc.toegankelijkheidsverklaring.nl
 acc.translate.services.cultureelerfgoed.nl
 acc.uziregister.nl
 acc.zaak.services.cultureelerfgoed.nl
@@ -3680,6 +3682,7 @@ privaat.octomon.ncsc.nl
 privacy.nctv.nl
 prod-dictu.comcms.logius.nl
 prod-dictu.logius.nl
+prod-dictu.toegankelijkheidsverklaring.nl
 prod-kvk.belastingdienst.nl
 prod.cultureelerfgoed.nl
 prod.flevoland.nl
@@ -4295,6 +4298,7 @@ test-developer.stopheling.nl
 test-dictu.comcms.logius.nl
 test-dictu.kennisbank.logius.nl
 test-dictu.logius.nl
+test-dictu.toegankelijkheidsverklaring.nl
 test-eef.waterschaplimburg.nl
 test-energielabels.gebouwen.overheid.nl
 test-internationaal.ondernemen.overheid.nl
@@ -5139,6 +5143,7 @@ www.testsite.ceg.nl
 www.tib-ivd.nl
 www.tlokb.nl
 www.toegangspuntmobiliteit.nl
+www.toegankelijkheidsverklaring.nl
 www.toekomstglb.nl
 www.toekomstreligieuserfgoed.nl
 www.toekomstvisiegewasbescherming2030.nl

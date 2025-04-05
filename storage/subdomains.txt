@@ -513,6 +513,7 @@ acc-contact.zwolle.nl
 acc-dictu.comcms.logius.nl
 acc-dictu.kennisbank.logius.nl
 acc-dictu.logius.nl
+acc-dictu.toegankelijkheidsverklaring.nl
 acc-eformulier.heerlen.nl
 acc-energielabels.gebouwen.overheid.nl
 acc-formulier.assen.nl
@@ -875,6 +876,7 @@ acc.t4.data.amsterdam.nl
 acc.tijdelijk.data.amsterdam.nl
 acc.tijdelijk.secure.amsterdam.nl
 acc.tilburg.nl
+acc.toegankelijkheidsverklaring.nl
 acc.ton.amsterdam.nl
 acc.top.amsterdam.nl
 acc.translate.services.cultureelerfgoed.nl
@@ -13998,6 +14000,7 @@ probeer.zuidplas.nl
 probeer.zwartewaterland.nl
 prod-dictu.comcms.logius.nl
 prod-dictu.logius.nl
+prod-dictu.toegankelijkheidsverklaring.nl
 prod-kodision-cli.sudwestfryslan.nl
 prod-kvk.belastingdienst.nl
 prod.cultureelerfgoed.nl
@@ -16463,6 +16466,7 @@ test-developer.stopheling.nl
 test-dictu.comcms.logius.nl
 test-dictu.kennisbank.logius.nl
 test-dictu.logius.nl
+test-dictu.toegankelijkheidsverklaring.nl
 test-dieuwke.defryskemarren.nl
 test-digikoppeling.assen.nl
 test-digikoppeling.beesel.nl
@@ -19976,6 +19980,7 @@ www.toegang.noord.amsterdam.nl
 www.toegangspuntmobiliteit.nl
 www.toegangtest.groningen.nl
 www.toegankelijk.enschede.nl
+www.toegankelijkheidsverklaring.nl
 www.toekomstglb.nl
 www.toekomstreligieuserfgoed.nl
 www.toekomstvisiegewasbescherming2030.nl

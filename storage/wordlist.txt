@@ -24,8 +24,8 @@ probeer
 test
 loket
 werkplek
-eloket
 acc
+eloket
 english
 a-www
 dkd
@@ -872,6 +872,9 @@ ondernemersplein
 stijlgids
 verkeersbesluiten
 zoekservice
+acc-dictu
+prod-dictu
+test-dictu
 oa
 vpn2
 chw
@@ -2781,7 +2784,6 @@ aansluitsuite.digipoort
 aansluitsuite.preproductie.digipoort
 acc-dictu.comcms
 acc-dictu.kennisbank
-acc-dictu
 acc.oinregister
 acpt-machtigen.digipoort
 amp-idp-pre
@@ -2858,7 +2860,6 @@ preprod-machtigen.digipoort
 preprod-portalen.digipoort
 preprod.oinregister
 prod-dictu.comcms
-prod-dictu
 routeringsvoorziening-pp1
 rvmetadata
 sb-dictu
@@ -2867,7 +2868,6 @@ stelselcatalogus
 svn
 test-dictu.comcms
 test-dictu.kennisbank
-test-dictu
 test-machtigen.digipoort
 vault.lpc
 htmleditor

@@ -812,6 +812,7 @@ https://acc-contact.zwolle.nl
 https://acc-dictu.comcms.logius.nl
 https://acc-dictu.kennisbank.logius.nl
 https://acc-dictu.logius.nl
+https://acc-dictu.toegankelijkheidsverklaring.nl
 https://acc-eformulier.heerlen.nl
 https://acc-formulier.assen.nl
 https://acc-formulier.dev.assen.nl
@@ -1040,6 +1041,7 @@ https://acc.stichtsevecht.nl
 https://acc.stor.services.cultureelerfgoed.nl
 https://acc.straatnotes.amsterdam.nl
 https://acc.subsidie.leiden.nl
+https://acc.toegankelijkheidsverklaring.nl
 https://acc.ton.amsterdam.nl
 https://acc.top.amsterdam.nl
 https://acc.vaals.nl
@@ -8421,6 +8423,7 @@ https://probeer.halderberge.nl
 https://probeer.winterswijk.nl
 https://prod-dictu.comcms.logius.nl
 https://prod-dictu.logius.nl
+https://prod-dictu.toegankelijkheidsverklaring.nl
 https://prod.nl-alert.nl
 https://prod.radar.rdi.nl
 https://prod.stedebroec.nl
@@ -9590,6 +9593,7 @@ https://test-developer.stopheling.nl
 https://test-dictu.comcms.logius.nl
 https://test-dictu.kennisbank.logius.nl
 https://test-dictu.logius.nl
+https://test-dictu.toegankelijkheidsverklaring.nl
 https://test-digikoppeling.brielle.nl
 https://test-digikoppeling.sint-michielsgestel.nl
 https://test-digikoppeling.westvoorne.nl
@@ -11500,6 +11504,7 @@ https://www.tilburg.nl
 https://www.tlokb.nl
 https://www.toegangspuntmobiliteit.nl
 https://www.toegankelijk.enschede.nl
+https://www.toegankelijkheidsverklaring.nl
 https://www.toekomstglb.nl
 https://www.toekomstreligieuserfgoed.nl
 https://www.toekomstvisiegewasbescherming2030.nl

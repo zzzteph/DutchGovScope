@@ -172,6 +172,7 @@ https://academy.forensischinstituut.nl
 https://acc-dictu.comcms.logius.nl
 https://acc-dictu.kennisbank.logius.nl
 https://acc-dictu.logius.nl
+https://acc-dictu.toegankelijkheidsverklaring.nl
 https://acc-internationaal.ondernemen.overheid.nl
 https://acc-open-wave.odijmond.nl
 https://acc-referentiegegevens.justid.nl
@@ -193,6 +194,7 @@ https://acc.ncsc.nl
 https://acc.omgevingswet.overheid.nl
 https://acc.opendata.nederlandwereldwijd.nl
 https://acc.stor.services.cultureelerfgoed.nl
+https://acc.toegankelijkheidsverklaring.nl
 https://acc.zsmgame.om.nl
 https://acc2.inspectieresultaten.nvwa.nl
 https://acceptatie-zaaksysteem.vechtstromen.nl
@@ -2264,6 +2266,7 @@ https://privaat.octomon.ncsc.nl
 https://privacy.nctv.nl
 https://prod-dictu.comcms.logius.nl
 https://prod-dictu.logius.nl
+https://prod-dictu.toegankelijkheidsverklaring.nl
 https://prod.nl-alert.nl
 https://prod.radar.rdi.nl
 https://prod.tlokb.nl
@@ -2563,6 +2566,7 @@ https://test-developer.stopheling.nl
 https://test-dictu.comcms.logius.nl
 https://test-dictu.kennisbank.logius.nl
 https://test-dictu.logius.nl
+https://test-dictu.toegankelijkheidsverklaring.nl
 https://test-internationaal.ondernemen.overheid.nl
 https://test-intranet.flevoland.nl
 https://test-intranet.scp.nl
@@ -3137,6 +3141,7 @@ https://www.testsite.ceg.nl
 https://www.tib-ivd.nl
 https://www.tlokb.nl
 https://www.toegangspuntmobiliteit.nl
+https://www.toegankelijkheidsverklaring.nl
 https://www.toekomstglb.nl
 https://www.toekomstreligieuserfgoed.nl
 https://www.toekomstvisiegewasbescherming2030.nl
