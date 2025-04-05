@@ -1434,6 +1434,7 @@ afvalkalender.purmerend.nl
 afvalkalender.schouwen-duiveland.nl
 afvalkalender.sliedrecht.nl
 afvalkalender.sudwestfryslan.nl
+afvalkalender.veldhoven.nl
 afvalkalender.venray.nl
 afvalkalender.voorschoten.nl
 afvalkalender.waalre.nl
@@ -17250,6 +17251,7 @@ veiligmailen.flevoland.nl
 veiligmailen.haaksbergen.nl
 veiling.acc.belastingdienst.nl
 veiling.belastingdienst.nl
+veldhoven.nl
 velp.landvancuijk.nl
 velsen.nl
 veluwsepoort.ede.nl

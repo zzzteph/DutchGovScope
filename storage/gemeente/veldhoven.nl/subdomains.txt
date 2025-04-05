@@ -1,6 +1,7 @@
 Fmiskoppeling-prod.veldhoven.nl
 Fmiskoppeling-test.veldhoven.nl
 acc.veldhoven.nl
+afvalkalender.veldhoven.nl
 beeldbank.veldhoven.nl
 beeldbankbeheer.veldhoven.nl
 belastingbalie-test.veldhoven.nl
@@ -24,5 +25,6 @@ ruimtelijkeplannen.veldhoven.nl
 secure.veldhoven.nl
 tdk.veldhoven.nl
 testformulieren.veldhoven.nl
+veldhoven.nl
 werkplek.veldhoven.nl
 www.veldhoven.nl

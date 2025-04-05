@@ -971,6 +971,7 @@ afvalkalender.purmerend.nl
 afvalkalender.schouwen-duiveland.nl
 afvalkalender.sliedrecht.nl
 afvalkalender.sudwestfryslan.nl
+afvalkalender.veldhoven.nl
 afvalkalender.venray.nl
 afvalkalender.voorschoten.nl
 afvalkalender.waalre.nl
@@ -12894,6 +12895,7 @@ veiligdelen.zeist.nl
 veiligmailen.almelo.nl
 veiligmailen.beverwijk.nl
 veiligmailen.haaksbergen.nl
+veldhoven.nl
 velp.landvancuijk.nl
 velsen.nl
 veluwsepoort.ede.nl
