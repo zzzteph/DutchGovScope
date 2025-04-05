@@ -1,3 +1,5 @@
+_autodiscover._tcp.terschelling.nl
+autodiscover.terschelling.nl
 bestuur.terschelling.nl
 co2monitor.terschelling.nl
 enterpriseenrollment.terschelling.nl

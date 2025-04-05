@@ -102,6 +102,7 @@ denkmee
 osbacc
 apps
 extranet
+_autodiscover._tcp
 parkeren-test
 piwik
 acc-broker
@@ -109,7 +110,6 @@ belastingloket
 doemee
 a-english
 ftp
-_autodiscover._tcp
 siam
 financien
 klantcontact

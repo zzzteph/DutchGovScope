@@ -209,6 +209,7 @@ http://autodiscover.stadspartij.nijmegen.nl
 http://autodiscover.stadspartijdnf.nijmegen.nl
 http://autodiscover.stedebroec.nl
 http://autodiscover.terneuzen.nl
+http://autodiscover.terschelling.nl
 http://autodiscover.texel.nl
 http://autodiscover.teylingen.nl
 http://autodiscover.tholen.nl
@@ -4344,6 +4345,7 @@ https://felix.oirschot.nl
 https://felix.opmeer.nl
 https://felix.overbetuwe.nl
 https://felix.staphorst.nl
+https://felix.terschelling.nl
 https://felix.twenterand.nl
 https://felix.veere.nl
 https://felix.wierden.nl
@@ -9025,7 +9027,6 @@ https://simcms.opmeer.nl
 https://simcms.roerdalen.nl
 https://simcms.schiermonnikoog.nl
 https://simcms.simpelveld.nl
-https://simcms.terschelling.nl
 https://simcms.twenterand.nl
 https://simcms.valkenswaard.nl
 https://simcms.vlieland.nl
@@ -9517,7 +9518,6 @@ https://telewerken.om.nl
 https://telewerken.stichtsevecht.nl
 https://telewerken.zaanstad.nl
 https://terneuzen.nl
-https://terschelling.nl
 https://test-api.stopheling.nl
 https://test-belastingbalie.eindhoven.nl
 https://test-belastingen.wageningen.nl

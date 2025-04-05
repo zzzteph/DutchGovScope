@@ -102,6 +102,7 @@ _autodiscover._tcp.raalte.nl
 _autodiscover._tcp.reuseldemierden.nl
 _autodiscover._tcp.ridderkerk.nl
 _autodiscover._tcp.schiermonnikoog.nl
+_autodiscover._tcp.terschelling.nl
 _autodiscover._tcp.toetredingzorgaanbieders.nl
 _autodiscover._tcp.uziregister.nl
 _autodiscover._tcp.wijkbijduurstede.nl
@@ -2321,6 +2322,7 @@ autodiscover.stedebroec.nl
 autodiscover.stichtsevecht.nl
 autodiscover.sudwestfryslan.nl
 autodiscover.terneuzen.nl
+autodiscover.terschelling.nl
 autodiscover.test.haarlemmermeer.nl
 autodiscover.test.zutphen.nl
 autodiscover.texel.nl
