@@ -6169,7 +6169,6 @@ https://psiam.oostzaan.nl
 https://psiam.wormerland.nl
 https://pub.alkmaar.nl
 https://pub.krimpenaandenijssel.nl
-https://pub.uithoorn.nl
 https://pubgov.heerenveen.nl
 https://publicaties.barneveld.nl
 https://publicaties.delft.nl

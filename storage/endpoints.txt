@@ -8430,7 +8430,6 @@ https://psiam.oostzaan.nl
 https://psiam.wormerland.nl
 https://pub.alkmaar.nl
 https://pub.krimpenaandenijssel.nl
-https://pub.uithoorn.nl
 https://pubgov.heerenveen.nl
 https://public.mst.ctgb.nl
 https://publicaties.barneveld.nl
