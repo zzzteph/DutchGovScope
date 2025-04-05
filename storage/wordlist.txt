@@ -284,6 +284,7 @@ cloudadapter-prod
 handhaving
 www.portal
 servicedesk
+geoserver
 wifi
 geoservices
 prod
@@ -317,7 +318,6 @@ smtp2
 feeds.papiamentu
 opendata.papiamentu
 papiamentu
-geoserver
 id
 geotest
 nieuwsbrieven

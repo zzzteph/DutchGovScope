@@ -263,7 +263,6 @@ http://felix.simpelveld.nl
 http://felix.sonenbreugel.nl
 http://felix.urk.nl
 http://felix.vlieland.nl
-http://felix.waalwijk.nl
 http://felix.westerkwartier.nl
 http://felix.westmaasenwaal.nl
 http://felix.zundert.nl
@@ -293,7 +292,6 @@ http://iam-acc.almere.nl
 http://id-subsidies-login.acceptatie.ede.nl
 http://insite.houten.nl
 http://internoss-test.oss.nl
-http://intranet-acc.waalwijk.nl
 http://intranet-prod.sudwestfryslan.nl
 http://intranet.leudal.nl
 http://inway-management.cg-intern.utrecht.nl
@@ -480,6 +478,7 @@ http://veere.nl
 http://vergunningintaker.bernheze.org
 http://vsp.terneuzen.nl
 http://vvb.sliedrecht.nl
+http://waalwijk.nl
 http://waarmerk.woensdrecht.nl
 http://wadelse-acc.waddinxveen.nl
 http://webmail.gooisemeren.nl
@@ -543,7 +542,6 @@ http://www.trefnet.hellevoetsluis.nl
 http://www.twenterand.nl
 http://www.valkenswaard.nl
 http://www.vroonermeer-noord.alkmaar.nl
-http://www.waalwijk.nl
 http://www.wassenaar.nl
 http://www.webmail.hellevoetsluis.nl
 http://www.werkenbij.amsterdam.nl
@@ -3176,6 +3174,7 @@ https://felix.terschelling.nl
 https://felix.twenterand.nl
 https://felix.vlissingen.nl
 https://felix.voorschoten.nl
+https://felix.waalwijk.nl
 https://felix.wierden.nl
 https://felix.zoetermeer.nl
 https://felix.zwartewaterland.nl
@@ -3552,6 +3551,7 @@ https://geoproxy.s-hertogenbosch.nl
 https://geoserver-signalen.almere.nl
 https://geoserver.haarlemmermeer.nl
 https://geoserver.nieuwegein.nl
+https://geoserver.waalwijk.nl
 https://geoservices.denhaag.nl
 https://geoservices.haarlemmermeer.nl
 https://geoservices.huizen.nl
@@ -6569,6 +6569,7 @@ https://simcms-begraafplaatsduinrust.beverwijk.nl
 https://simcms-cjg.scherpenzeel.nl
 https://simcms-data.westerkwartier.nl
 https://simcms-duurzaam.beverwijk.nl
+https://simcms-duurzaam.waalwijk.nl
 https://simcms-epos.staphorst.nl
 https://simcms-klimaatbestendig.lingewaard.nl
 https://simcms-omgevingsvisie.geldrop-mierlo.nl
@@ -6616,6 +6617,7 @@ https://simcms.schiermonnikoog.nl
 https://simcms.simpelveld.nl
 https://simcms.urk.nl
 https://simcms.valkenswaard.nl
+https://simcms.waalwijk.nl
 https://simcms.wassenaar.nl
 https://simcms.westerkwartier.nl
 https://simcms.westmaasenwaal.nl
@@ -8407,6 +8409,7 @@ https://www.vvetest.amsterdam.nl
 https://www.vvv.deventer.nl
 https://www.waadhoeke.nl
 https://www.waalre.nl
+https://www.waalwijk.nl
 https://www.waddenland.groningen.nl
 https://www.waddinxveen.nl
 https://www.wageningen.nl

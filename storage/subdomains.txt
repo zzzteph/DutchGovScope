@@ -7465,6 +7465,7 @@ geoserver.haarlemmermeer.nl
 geoserver.limburg.nl
 geoserver.nieuwegein.nl
 geoserver.soest.nl
+geoserver.waalwijk.nl
 geoservertest.brabant.nl
 geoservertest.haarlemmermeer.nl
 geoservices-srv.provincie-utrecht.nl

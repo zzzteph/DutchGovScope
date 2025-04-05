@@ -5458,6 +5458,7 @@ geoserver.baarn.nl
 geoserver.haarlemmermeer.nl
 geoserver.nieuwegein.nl
 geoserver.soest.nl
+geoserver.waalwijk.nl
 geoservertest.haarlemmermeer.nl
 geoservices.denhaag.nl
 geoservices.haarlemmermeer.nl
