@@ -2062,6 +2062,7 @@ belastingbalie.roerdalen.nl
 belastingbalie.smallingerland.nl
 belastingbalie.veenendaal.nl
 belastingbalie.veldhoven.nl
+belastingbalie.venlo.nl
 belastingbalie.vlieland.nl
 belastingbalie.wijdemeren.nl
 belastingbalietest.capelleaandenijssel.nl
@@ -5025,6 +5026,7 @@ formulieren-test.culemborg.nl
 formulieren-test.duiven.nl
 formulieren-test.rijswijk.nl
 formulieren-test.tiel.nl
+formulieren-test.venlo.nl
 formulieren-test.westbetuwe.nl
 formulieren-test.westervoort.nl
 formulieren-test.zevenaar.nl
@@ -12899,6 +12901,7 @@ veldhoven.nl
 velp.landvancuijk.nl
 velsen.nl
 veluwsepoort.ede.nl
+venlo.nl
 venray.nl
 vergaderen-adp.amsterdam.nl
 vergaderen.acc.amsterdam.nl
@@ -14938,6 +14941,7 @@ www.werkenbij.zaanstad.nl
 www.werkenvoor.denhaag.nl
 www.werkenvoor.olst-wijhe.nl
 www.werkpakt.enschede.nl
+www.werkplein.venlo.nl
 www.werkplek.gemeentemaasgouw.nl
 www.werkplek.groningen.nl
 www.werkplek.kaagenbraassem.nl

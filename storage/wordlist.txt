@@ -65,12 +65,12 @@ remote
 dloket
 dmidoffice
 beeldbank
+belastingbalie
 enterpriseregistration
 osb
 api.meldingen-acc
 meldingen-acc
 openpdc
-belastingbalie
 cmsoo
 loket.acceptatie
 openpub
@@ -223,6 +223,7 @@ meedoen
 contentbeheer.acceptatie
 squit2020
 zaken.acceptatie
+formulieren-test
 bor
 bestuur
 afspraakmaken
@@ -242,7 +243,6 @@ bag
 inproces.acceptatie
 fmreturn
 iarchief
-formulieren-test
 outlook
 vth
 testloket
@@ -9092,6 +9092,7 @@ www.fit
 www.morgen
 www.nu
 www.q4
+www.werkplein
 www.zwemmen
 zaaksysteem-acceptatie
 GT-Loket

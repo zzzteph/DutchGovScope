@@ -1,6 +1,5 @@
 http://autodiscover.venlo.nl
 http://historie.venlo.nl
-http://test-intranet.venlo.nl
 http://www.stadspas.venlo.nl
 https://acc.venlo.nl
 https://api.zwemmen.venlo.nl
@@ -23,6 +22,7 @@ https://e.venlo.nl
 https://ens.venlo.nl
 https://fit.venlo.nl
 https://flowmailer-tracking.venlo.nl
+https://formulieren-test.venlo.nl
 https://formulieren.venlo.nl
 https://gemeenteraad.venlo.nl
 https://iburgerzaken.venlo.nl
@@ -50,9 +50,11 @@ https://stadspas.venlo.nl
 https://staging.archief.venlo.nl
 https://staging.buurtbudget-buurt.venlo.nl
 https://staging.buurtbudget.venlo.nl
+https://test-cmsintranet.venlo.nl
 https://test-topdesk.venlo.nl
 https://topdesk.venlo.nl
 https://vastgoed.venlo.nl
+https://venlo.nl
 https://vitaal.venlo.nl
 https://website.venlo.nl
 https://www.archief.venlo.nl

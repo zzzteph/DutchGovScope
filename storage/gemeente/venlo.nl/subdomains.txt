@@ -11,6 +11,7 @@ awseg.venlo.nl
 awtunnel.venlo.nl
 bastion365.venlo.nl
 begroting.venlo.nl
+belastingbalie.venlo.nl
 bis.venlo.nl
 buurtbudget-centrumnoord.venlo.nl
 buurtbudget-klingerberg.venlo.nl
@@ -30,6 +31,7 @@ e.venlo.nl
 ens.venlo.nl
 fit.venlo.nl
 flowmailer-tracking.venlo.nl
+formulieren-test.venlo.nl
 formulieren.venlo.nl
 gemeenteraad.venlo.nl
 gisib.venlo.nl
@@ -76,6 +78,7 @@ test-intranet.venlo.nl
 test-topdesk.venlo.nl
 topdesk.venlo.nl
 vastgoed.venlo.nl
+venlo.nl
 vitaal.venlo.nl
 website.venlo.nl
 welstand.venlo.nl
@@ -94,6 +97,7 @@ www.q4.venlo.nl
 www.stadspas.venlo.nl
 www.vastgoed.venlo.nl
 www.venlo.nl
+www.werkplein.venlo.nl
 www.zwemmen.venlo.nl
 zaaksysteem-acceptatie.venlo.nl
 zaaksysteem.venlo.nl

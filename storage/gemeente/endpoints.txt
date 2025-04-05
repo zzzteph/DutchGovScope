@@ -461,7 +461,6 @@ http://test-insite.houten.nl
 http://test-intranet.beuningen.nl
 http://test-intranet.etten-leur.nl
 http://test-intranet.groningen.nl
-http://test-intranet.venlo.nl
 http://test-intranet.wageningen.nl
 http://test-intranet.zeist.nl
 http://test-jip.hofvantwente.nl
@@ -3319,6 +3318,7 @@ https://formulieren-test.bronckhorst.nl
 https://formulieren-test.culemborg.nl
 https://formulieren-test.duiven.nl
 https://formulieren-test.tiel.nl
+https://formulieren-test.venlo.nl
 https://formulieren-test.westbetuwe.nl
 https://formulieren-test.westervoort.nl
 https://formulieren-test.zevenaar.nl
@@ -7016,6 +7016,7 @@ https://test-cmsintranet.sittard-geleen.nl
 https://test-cmsintranet.steenwijkerland.nl
 https://test-cmsintranet.sudwestfryslan.nl
 https://test-cmsintranet.velsen.nl
+https://test-cmsintranet.venlo.nl
 https://test-cmsintranet.wageningen.nl
 https://test-cmsintranet.zeist.nl
 https://test-cmsjip.vijfheerenlanden.nl
@@ -7374,6 +7375,7 @@ https://veiligmailen.beverwijk.nl
 https://veldhoven.nl
 https://velp.landvancuijk.nl
 https://velsen.nl
+https://venlo.nl
 https://venray.nl
 https://vergaderingen.goirle.nl
 https://vergeten.sudwestfryslan.nl
