@@ -6595,7 +6595,6 @@ https://mijn.vijfheerenlanden.nl
 https://mijn.vlaardingen.nl
 https://mijn.voerendaal.nl
 https://mijn.voorschoten.nl
-https://mijn.voorst.nl
 https://mijn.waalre.nl
 https://mijn.waterland.nl
 https://mijn.westerwolde.nl

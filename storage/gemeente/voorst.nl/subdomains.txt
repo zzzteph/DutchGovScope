@@ -20,7 +20,6 @@ logintest.voorst.nl
 m.voorst.nl
 micc.voorst.nl
 mijn-accept.voorst.nl
-mijn.voorst.nl
 mitel.voorst.nl
 prtg.voorst.nl
 sdm.voorst.nl

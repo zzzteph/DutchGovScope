@@ -10915,7 +10915,6 @@ mijn.vijfheerenlanden.nl
 mijn.vlaardingen.nl
 mijn.voerendaal.nl
 mijn.voorschoten.nl
-mijn.voorst.nl
 mijn.waalre.nl
 mijn.waddinxveen.nl
 mijn.wassenaar.nl

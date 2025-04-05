@@ -8,8 +8,8 @@ ibzpink
 mail
 intranet
 edienstenburgerzaken
-mijn
 edienstenburgerzaken-test
+mijn
 webmail
 simsite
 afspraken
