@@ -30,6 +30,7 @@ steenwijkerland.nl
 test-cmsintranet.steenwijkerland.nl
 test-intranet.steenwijkerland.nl
 webmail.steenwijkerland.nl
+werkplek.steenwijkerland.nl
 www.steenwijkerland.nl
 zaken.acceptatie.steenwijkerland.nl
 zaken.steenwijkerland.nl

@@ -9573,7 +9573,6 @@ https://test-intranet.lansingerland.nl
 https://test-intranet.meierijstad.nl
 https://test-intranet.midden-groningen.nl
 https://test-intranet.scp.nl
-https://test-intranet.steenwijkerland.nl
 https://test-intranet.sudwestfryslan.nl
 https://test-intranet.velsen.nl
 https://test-jip.vijfheerenlanden.nl
@@ -10447,6 +10446,7 @@ https://werkplek.rucphen.nl
 https://werkplek.schagen.nl
 https://werkplek.schiedam.nl
 https://werkplek.smallingerland.nl
+https://werkplek.steenwijkerland.nl
 https://werkplek.sudwestfryslan.nl
 https://werkplek.tholen.nl
 https://werkplek.vallei-veluwe.nl
