@@ -1,4 +1,5 @@
 http://autodiscover.westerwolde.nl
+http://testintranet.westerwolde.nl
 https://acc.westerwolde.nl
 https://afspraken.westerwolde.nl
 https://bag-vwes11.westerwolde.nl
@@ -21,7 +22,6 @@ https://mijn.westerwolde.nl
 https://portal.westerwolde.nl
 https://prefill.test.westerwolde.nl
 https://prefill.westerwolde.nl
-https://testintranet.westerwolde.nl
 https://waarmerk.westerwolde.nl
 https://wes-x-iis-01.westerwolde.nl
 https://westerwolde.nl

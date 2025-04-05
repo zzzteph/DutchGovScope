@@ -20,6 +20,7 @@ https://do.winterswijk.nl
 https://edienstenburgerzaken-test.winterswijk.nl
 https://edienstenburgerzaken.winterswijk.nl
 https://eloket.winterswijk.nl
+https://felix.winterswijk.nl
 https://ica.winterswijk.nl
 https://inproces.acceptatie.winterswijk.nl
 https://inproces.test.winterswijk.nl
@@ -35,6 +36,7 @@ https://probeer.winterswijk.nl
 https://remote.winterswijk.nl
 https://ro.winterswijk.nl
 https://router.winterswijk.nl
+https://simcms.winterswijk.nl
 https://squit2020.acceptatie.winterswijk.nl
 https://squit2020.test.winterswijk.nl
 https://squit2020.winterswijk.nl

@@ -1,4 +1,5 @@
 http://autodiscover.westervoort.nl
+http://rosmolen.westervoort.nl
 https://acceptatiebelastingen.westervoort.nl
 https://acceptatievergunningen.westervoort.nl
 https://beekenoord.westervoort.nl

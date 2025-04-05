@@ -1,5 +1,7 @@
 http://1.ivory.nctv.nl
 http://AutoDiscover.hdsr.nl
+http://a-next-cms.contenttoolsrijksoverheid.nl
+http://a-old-cms.contenttoolsrijksoverheid.nl
 http://acc.avgregisterrijksoverheid.nl
 http://acc.cmv-kandidaat.sso3w.nl
 http://acc.encoded.api-gateway.archis.cultureelerfgoed.nl
@@ -142,8 +144,11 @@ http://wortel176.provincie-utrecht.nl
 http://www.toezichtresultaten.nl
 http://zoek.overheid.nl
 http://zoekdienst-preprod.overheid.nl
+https://a-api.contenttoolsrijksoverheid.nl
 https://a-api.nederlandwereldwijd.nl
+https://a-cms.contenttoolsrijksoverheid.nl
 https://a-informatieservice.nederlandwereldwijd.nl
+https://a-origin.api.contenttoolsrijksoverheid.nl
 https://a-www.nederlandwereldwijd.nl
 https://a-www.netherlandsworldwide.nl
 https://a2vonderenkerensheide.nl
@@ -167,6 +172,7 @@ https://academy.forensischinstituut.nl
 https://acc-dictu.comcms.logius.nl
 https://acc-dictu.kennisbank.logius.nl
 https://acc-dictu.logius.nl
+https://acc-dictu.toegankelijkheidsverklaring.nl
 https://acc-internationaal.ondernemen.overheid.nl
 https://acc-open-wave.odijmond.nl
 https://acc-referentiegegevens.justid.nl
@@ -188,6 +194,7 @@ https://acc.ncsc.nl
 https://acc.omgevingswet.overheid.nl
 https://acc.opendata.nederlandwereldwijd.nl
 https://acc.stor.services.cultureelerfgoed.nl
+https://acc.toegankelijkheidsverklaring.nl
 https://acc.zsmgame.om.nl
 https://acc2.inspectieresultaten.nvwa.nl
 https://acceptatie-zaaksysteem.vechtstromen.nl
@@ -298,6 +305,7 @@ https://api.acc.ncsc.nl
 https://api.belastingdienst.nl
 https://api.brabant.nl
 https://api.burgemeesterworden.politiekeambtsdragers.nl
+https://api.contenttoolsrijksoverheid.nl
 https://api.klopt.cibg.nl
 https://api.linkeddata.cultureelerfgoed.nl
 https://api.mijn.acc.ncsc.nl
@@ -504,6 +512,7 @@ https://circulairinkopen.nl
 https://cloudstorage-koop.overheid.nl
 https://cms-bron.waterschaplimburg.nl
 https://cms-info.ndw.nu
+https://cms.contenttoolsrijksoverheid.nl
 https://cms.mensenrechten.nl
 https://cms.tlokb.nl
 https://cmsgui.ondernemersplein.overheid.nl
@@ -715,6 +724,7 @@ https://elearning-irb.nctv.nl
 https://elearning-lcp-egt.nctv.nl
 https://elearning-msz.nza.nl
 https://elearning.ordz.nl
+https://elearning.platformrijksoverheid.nl
 https://elkeregiotelt.nl
 https://elo.veiligheidsregioflevoland.nl
 https://eloket.aaenmaas.nl
@@ -1574,6 +1584,7 @@ https://mdm.om.nl
 https://mdm.zwb.riec.nl
 https://media.odmh.nl
 https://media.om.nl
+https://mediabank.rijksoverheidsvideo.nl
 https://medicineshortagesdefects.nl
 https://meepraten.flevoland.nl
 https://meet.aaenmaas.nl
@@ -1738,6 +1749,7 @@ https://oecdguidelines.nl
 https://oesorichtlijnen.nl
 https://ofgv.nl
 https://oinregister.logius.nl
+https://old-cms.contenttoolsrijksoverheid.nl
 https://om-veld01.om.nl
 https://omgevingsbeleid.provincie-utrecht.nl
 https://omgevingsbeleid.zuid-holland.nl
@@ -2046,6 +2058,7 @@ https://opendata.papiamentu.rijksdienstcn.com
 https://opendata.papiamentu.two-acs.com
 https://opendata.papiamentu.vnacs.nl
 https://opendata.persberichten.rijksoverheid.nl
+https://opendata.platformrijksoverheid.nl
 https://opendata.politiekeambtsdragers.nl
 https://opendata.postedworkers.nl
 https://opendata.prosecutionservice.nl
@@ -2130,6 +2143,10 @@ https://opendata.wrr.nl
 https://opendata.youthatheart.nl
 https://opendata.zorginstituutnederland.nl
 https://opendata.zuid-holland.nl
+https://opendata1.platformrijksoverheid.nl
+https://opendata2.platformrijksoverheid.nl
+https://opendata3.platformrijksoverheid.nl
+https://opendata4.platformrijksoverheid.nl
 https://opendisdata.nza.nl
 https://openstad.zuid-holland.nl
 https://opkopersregister.stopheling.nl
@@ -2147,6 +2164,7 @@ https://organisaties-acc.overheid.nl
 https://organisaties-redactie-acc.overheid.nl
 https://organisaties-redactie.overheid.nl
 https://organisaties.overheid.nl
+https://origin.api.contenttoolsrijksoverheid.nl
 https://oss.developer.overheid.nl
 https://outbound.onderwijsraad.nl
 https://ov-consumentenplatform.nl
@@ -2248,6 +2266,7 @@ https://privaat.octomon.ncsc.nl
 https://privacy.nctv.nl
 https://prod-dictu.comcms.logius.nl
 https://prod-dictu.logius.nl
+https://prod-dictu.toegankelijkheidsverklaring.nl
 https://prod.nl-alert.nl
 https://prod.radar.rdi.nl
 https://prod.tlokb.nl
@@ -2258,6 +2277,10 @@ https://prosecutionservice.nl
 https://proto.zorginstituutnederland.nl
 https://prototype.cibg.nl
 https://provincie-utrecht.nl
+https://ps1.platformrijksoverheid.nl
+https://ps2.platformrijksoverheid.nl
+https://ps3.platformrijksoverheid.nl
+https://ps4.platformrijksoverheid.nl
 https://psarchief.brabant.nl
 https://public.mst.ctgb.nl
 https://publicaties.brabant.nl
@@ -2401,6 +2424,7 @@ https://securenet.ncsc.nl
 https://securetest.vechtstromen.nl
 https://security.ndw.nu
 https://sentry.ndw.nu
+https://server.rijksoverheidsvideo.nl
 https://service.acc.omgevingswet.overheid.nl
 https://service.bta.omgevingswet.overheid.nl
 https://service.dmo.omgevingswet.overheid.nl
@@ -2523,6 +2547,12 @@ https://subsidieportaal.zuid-holland.nl
 https://subsidieregister.zuid-holland.nl
 https://sumatra.huurcommissie.nl
 https://support.vechtstromen.nl
+https://survey-cache.platformrijksoverheid.nl
+https://survey-collect.platformrijksoverheid.nl
+https://survey-debug.platformrijksoverheid.nl
+https://survey-deploy.platformrijksoverheid.nl
+https://survey-metrics.platformrijksoverheid.nl
+https://survey.platformrijksoverheid.nl
 https://symbolenbank.nctv.nl
 https://synergy.huurcommissie.nl
 https://tea.bigregister.nl
@@ -2536,6 +2566,7 @@ https://test-developer.stopheling.nl
 https://test-dictu.comcms.logius.nl
 https://test-dictu.kennisbank.logius.nl
 https://test-dictu.logius.nl
+https://test-dictu.toegankelijkheidsverklaring.nl
 https://test-internationaal.ondernemen.overheid.nl
 https://test-intranet.flevoland.nl
 https://test-intranet.scp.nl
@@ -3110,6 +3141,7 @@ https://www.testsite.ceg.nl
 https://www.tib-ivd.nl
 https://www.tlokb.nl
 https://www.toegangspuntmobiliteit.nl
+https://www.toegankelijkheidsverklaring.nl
 https://www.toekomstglb.nl
 https://www.toekomstreligieuserfgoed.nl
 https://www.toekomstvisiegewasbescherming2030.nl
