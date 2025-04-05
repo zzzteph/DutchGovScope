@@ -14,6 +14,7 @@ intranet.schouwen-duiveland.nl
 link.schouwen-duiveland.nl
 mail.schouwen-duiveland.nl
 mijn.schouwen-duiveland.nl
+open.schouwen-duiveland.nl
 parkeren-acc.schouwen-duiveland.nl
 parkeren.schouwen-duiveland.nl
 pv.schouwen-duiveland.nl

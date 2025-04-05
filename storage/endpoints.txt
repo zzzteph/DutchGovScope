@@ -7310,6 +7310,7 @@ https://open.overheid.nl
 https://open.provincie.drenthe.nl
 https://open.rhenen.nl
 https://open.roosendaal.nl
+https://open.schouwen-duiveland.nl
 https://open.sint-michielsgestel.nl
 https://open.sonenbreugel.nl
 https://open.staphorst.nl

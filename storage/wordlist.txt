@@ -33,9 +33,9 @@ feeds.english
 opendata.english
 portal
 geo
+open
 a-feeds
 a-opendata
-open
 meldingen
 vpn
 afspraak
