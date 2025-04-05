@@ -430,6 +430,7 @@ e.openstad
 mijnuitkering
 stemvan
 www.samen
+authenticatie
 gateway
 mijn-preproductie
 test-secure
@@ -533,7 +534,6 @@ duo
 gbionline
 hpdm
 neuron
-authenticatie
 www.werkplek
 gemeentebestuur
 lyncweb
@@ -1227,6 +1227,7 @@ betaal
 mx3
 redirect
 www.ondernemen
+antispam
 allegro
 bijeenkomsten
 cmsoo.gemeente
@@ -6165,7 +6166,6 @@ ez
 kansshop
 medewerkersportaal
 test-kansshop
-antispam
 bestplan1
 emma
 gemnps01

@@ -491,6 +491,7 @@ http://scanhulp.amsterdam.nl
 http://scherpenzeel.nl
 http://schiermonnikoog.nl
 http://secure.dalfsen.nl
+http://secure.gemeentestein.nl
 http://secure.valkenburg.nl
 http://sem.kampen.nl
 http://services.cultureelerfgoed.nl
@@ -1443,6 +1444,7 @@ https://ansvwl2016.waterland.nl
 https://ansvwl2903.waterland.nl
 https://antennebureau.nl
 https://antispam.eijsden-margraten.nl
+https://antispam.gemeentestein.nl
 https://anwebintwl2008.waterland.nl
 https://any2info.deurne.nl
 https://anyc-t01-a.ssc-ict.nl
@@ -1753,6 +1755,7 @@ https://auth5.denhaag.nl
 https://auth7.denhaag.nl
 https://authenticatie-accp.nijmegen.nl
 https://authenticatie-preprod.tilburg.nl
+https://authenticatie.gemeentestein.nl
 https://authenticatie.groningen.nl
 https://authenticatie.nijmegen.nl
 https://authenticatie.tilburg.nl
@@ -8876,7 +8879,6 @@ https://secure-test.almere.nl
 https://secure.acc.denhaag.nl
 https://secure.almere.nl
 https://secure.denhaag.nl
-https://secure.gemeentestein.nl
 https://secure.pekela.nl
 https://secure.pijnacker-nootdorp.nl
 https://secure.rijswijk.nl
@@ -9531,7 +9533,6 @@ https://test-cmshofnet.coevorden.nl
 https://test-cmsintranet.drimmelen.nl
 https://test-cmsintranet.edam-volendam.nl
 https://test-cmsintranet.flevoland.nl
-https://test-cmsintranet.gemeentestein.nl
 https://test-cmsintranet.heuvelrug.nl
 https://test-cmsintranet.lansingerland.nl
 https://test-cmsintranet.meierijstad.nl
@@ -9568,7 +9569,6 @@ https://test-intranet.drimmelen.nl
 https://test-intranet.edam-volendam.nl
 https://test-intranet.eemsdelta.nl
 https://test-intranet.flevoland.nl
-https://test-intranet.gemeentestein.nl
 https://test-intranet.lansingerland.nl
 https://test-intranet.meierijstad.nl
 https://test-intranet.midden-groningen.nl

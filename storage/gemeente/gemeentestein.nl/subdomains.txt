@@ -1,4 +1,6 @@
+antispam.gemeentestein.nl
 auth.gemeentestein.nl
+authenticatie.gemeentestein.nl
 bewustwording.gemeentestein.nl
 cmsintranet.gemeentestein.nl
 digikoppeling.gemeentestein.nl

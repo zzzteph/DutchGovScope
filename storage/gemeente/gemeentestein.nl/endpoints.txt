@@ -1,4 +1,7 @@
+http://secure.gemeentestein.nl
+https://antispam.gemeentestein.nl
 https://auth.gemeentestein.nl
+https://authenticatie.gemeentestein.nl
 https://cmsintranet.gemeentestein.nl
 https://e.bewustwording.gemeentestein.nl
 https://gemeentestein.nl
@@ -7,10 +10,7 @@ https://iburgerzaken.gemeentestein.nl
 https://intranet.gemeentestein.nl
 https://mail.gemeentestein.nl
 https://open.gemeentestein.nl
-https://secure.gemeentestein.nl
 https://sts.gemeentestein.nl
-https://test-cmsintranet.gemeentestein.nl
-https://test-intranet.gemeentestein.nl
 https://vpn.gemeentestein.nl
 https://webmail.gemeentestein.nl
 https://werkenvoor.gemeentestein.nl

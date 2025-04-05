@@ -1100,6 +1100,7 @@ ansvwl2019.waterland.nl
 ansvwl2032.waterland.nl
 ansvwl2903.waterland.nl
 antispam.eijsden-margraten.nl
+antispam.gemeentestein.nl
 antix.overbetuwe.nl
 anva.vga.amsterdam.nl
 anvatest.vga.amsterdam.nl
@@ -1442,6 +1443,7 @@ auth5.denhaag.nl
 auth7.denhaag.nl
 authenticatie-accp.nijmegen.nl
 authenticatie-preprod.tilburg.nl
+authenticatie.gemeentestein.nl
 authenticatie.groningen.nl
 authenticatie.nijmegen.nl
 authenticatie.tilburg.nl
