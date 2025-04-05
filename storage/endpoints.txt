@@ -3614,6 +3614,7 @@ https://elearning-irb.nctv.nl
 https://elearning-lcp-egt.nctv.nl
 https://elearning-msz.nza.nl
 https://elearning.ordz.nl
+https://elearning.platformrijksoverheid.nl
 https://elise.rotterdam.nl
 https://elkeregiotelt.nl
 https://elkk.amsterdam.nl
@@ -7631,6 +7632,7 @@ https://opendata.papiamentu.rijksdienstcn.com
 https://opendata.papiamentu.two-acs.com
 https://opendata.papiamentu.vnacs.nl
 https://opendata.persberichten.rijksoverheid.nl
+https://opendata.platformrijksoverheid.nl
 https://opendata.politiekeambtsdragers.nl
 https://opendata.postedworkers.nl
 https://opendata.prosecutionservice.nl
@@ -7718,6 +7720,10 @@ https://opendata.youthatheart.nl
 https://opendata.zoetermeer.nl
 https://opendata.zorginstituutnederland.nl
 https://opendata.zuid-holland.nl
+https://opendata1.platformrijksoverheid.nl
+https://opendata2.platformrijksoverheid.nl
+https://opendata3.platformrijksoverheid.nl
+https://opendata4.platformrijksoverheid.nl
 https://opendisdata.nza.nl
 https://openformulieren-test.dewolden.nl
 https://openformulieren-test.drechterland.nl
@@ -8439,6 +8445,10 @@ https://provconnect.hethogeland.nl
 https://provincie-utrecht.nl
 https://prp.tiel.nl
 https://prtg.gemeentemaashorst.nl
+https://ps1.platformrijksoverheid.nl
+https://ps2.platformrijksoverheid.nl
+https://ps3.platformrijksoverheid.nl
+https://ps4.platformrijksoverheid.nl
 https://psarchief.brabant.nl
 https://psiam.oostzaan.nl
 https://psiam.wormerland.nl
@@ -9492,6 +9502,12 @@ https://support.helmond.nl
 https://support.nieuwegein.nl
 https://support.vechtstromen.nl
 https://support.veere.nl
+https://survey-cache.platformrijksoverheid.nl
+https://survey-collect.platformrijksoverheid.nl
+https://survey-debug.platformrijksoverheid.nl
+https://survey-deploy.platformrijksoverheid.nl
+https://survey-metrics.platformrijksoverheid.nl
+https://survey.platformrijksoverheid.nl
 https://survey.sudwestfryslan.nl
 https://surveys3.ggd.amsterdam.nl
 https://svhsd-ot.berichtenverkeer.tilburg.nl
