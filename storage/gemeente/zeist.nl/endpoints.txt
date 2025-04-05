@@ -1,5 +1,4 @@
 http://autodiscover.zeist.nl
-http://test-intranet.zeist.nl
 https://afspraak.zeist.nl
 https://beeldbank-bo.zeist.nl
 https://beeldbank.zeist.nl

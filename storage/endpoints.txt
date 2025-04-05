@@ -585,7 +585,6 @@ http://test-insite.houten.nl
 http://test-intranet.beuningen.nl
 http://test-intranet.etten-leur.nl
 http://test-intranet.groningen.nl
-http://test-intranet.zeist.nl
 http://test-jip.hofvantwente.nl
 http://test-machtigen.digipoort.logius.nl
 http://test-social.montferland.info
