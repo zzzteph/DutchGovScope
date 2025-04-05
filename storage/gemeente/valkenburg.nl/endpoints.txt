@@ -1,4 +1,5 @@
 http://secure.valkenburg.nl
+http://simsite.valkenburg.nl
 https://api.betalen.valkenburg.nl
 https://as.valkenburg.nl
 https://autodiscover.valkenburg.nl
