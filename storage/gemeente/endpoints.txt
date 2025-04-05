@@ -370,7 +370,6 @@ http://preproductie.reuseldemierden.nl
 http://preproductie.simpelveld.nl
 http://preproductie.zoetermeer.nl
 http://preproductie.zwartewaterland.nl
-http://publicaties.stadskanaal.nl
 http://pv.gemeentesluis.nl
 http://raadsagenda.oirschot.nl
 http://raas.rotterdam.nl
@@ -6163,6 +6162,7 @@ https://publicaties.delft.nl
 https://publicaties.eindhoven.nl
 https://publicaties.nissewaard.nl
 https://publicaties.rekenkamer.amsterdam.nl
+https://publicaties.stadskanaal.nl
 https://publicaties.tilburg.nl
 https://publicmedia.meierijstad.nl
 https://publiek-id-test.gouda.nl

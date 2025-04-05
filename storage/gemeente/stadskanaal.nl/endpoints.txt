@@ -1,4 +1,3 @@
-http://publicaties.stadskanaal.nl
 https://acceptatie.stadskanaal.nl
 https://api.betalen.stadskanaal.nl
 https://belastingen-preprod.stadskanaal.nl
@@ -9,6 +8,7 @@ https://edienstenburgerzaken.stadskanaal.nl
 https://formulieren.stadskanaal.nl
 https://gemeenteraad.stadskanaal.nl
 https://portal.stadskanaal.nl
+https://publicaties.stadskanaal.nl
 https://raad.stadskanaal.nl
 https://stadskanaal.nl
 https://stan-acc.stadskanaal.nl

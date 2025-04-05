@@ -472,7 +472,6 @@ http://preproductie.simpelveld.nl
 http://preproductie.zoetermeer.nl
 http://preproductie.zwartewaterland.nl
 http://prod.flevoland.nl
-http://publicaties.stadskanaal.nl
 http://publicwebservices-dcr.cibg.nl
 http://pv.gemeentesluis.nl
 http://pwa001.belastingdienst.nl
@@ -8429,6 +8428,7 @@ https://publicaties.nissewaard.nl
 https://publicaties.odmh.nl
 https://publicaties.provincie-utrecht.nl
 https://publicaties.rekenkamer.amsterdam.nl
+https://publicaties.stadskanaal.nl
 https://publicaties.tilburg.nl
 https://publicmedia.meierijstad.nl
 https://publiek-id-test.gouda.nl
