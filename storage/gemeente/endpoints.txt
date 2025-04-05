@@ -9,7 +9,6 @@ http://AutoDiscover.opmeer.nl
 http://AutoDiscover.stedebroec.nl
 http://AutoDiscover.westvoorne.nl
 http://Autodiscover.hilversum.nl
-http://acc-zaanlink.zaanstad.nl
 http://afspraak.bergendal.nl
 http://afspraken.rijssen-holten.nl
 http://ami.amsterdam.nl
@@ -781,6 +780,7 @@ https://acc-podiumd-openklant.deventer.nl
 https://acc-podiumd-openzaak.deventer.nl
 https://acc-podiumd-zac.deventer.nl
 https://acc-podiumd.sschosting.nl.assen.nl
+https://acc-zaanlink.zaanstad.nl
 https://acc-zaanlinkcms.zaanstad.nl
 https://acc-zac.dev.groningen.nl
 https://acc.admin.schoolwijzer.amsterdam.nl

@@ -13,7 +13,6 @@ http://AutoDiscover.westvoorne.nl
 http://Autodiscover.hilversum.nl
 http://a-next-cms.contenttoolsrijksoverheid.nl
 http://a-old-cms.contenttoolsrijksoverheid.nl
-http://acc-zaanlink.zaanstad.nl
 http://acc.avgregisterrijksoverheid.nl
 http://acc.cmv-kandidaat.sso3w.nl
 http://acc.encoded.api-gateway.archis.cultureelerfgoed.nl
@@ -959,6 +958,7 @@ https://acc-podiumd-openzaak.deventer.nl
 https://acc-podiumd-zac.deventer.nl
 https://acc-podiumd.sschosting.nl.assen.nl
 https://acc-referentiegegevens.justid.nl
+https://acc-zaanlink.zaanstad.nl
 https://acc-zaanlinkcms.zaanstad.nl
 https://acc-zac.dev.groningen.nl
 https://acc.admin.schoolwijzer.amsterdam.nl
