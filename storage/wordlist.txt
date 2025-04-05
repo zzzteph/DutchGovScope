@@ -241,6 +241,7 @@ bag
 inproces.acceptatie
 fmreturn
 iarchief
+formulieren-test
 outlook
 vth
 testloket
@@ -272,7 +273,6 @@ gemeentearchief
 woo
 byod
 publicroam
-formulieren-test
 jccapi
 mijnsociaalplein
 preprod-mijnsociaalplein
@@ -362,6 +362,7 @@ woz-loket
 ondernemersloket
 sport
 eformulieren
+www.jongin
 www.intranet
 aeolus
 sbc01
@@ -422,7 +423,6 @@ zaken.test
 subsidies-login
 mijnzaken
 openformulieren-test
-www.jongin
 socialekaart
 testbelastingloket
 ondernemen
