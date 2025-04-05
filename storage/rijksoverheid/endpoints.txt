@@ -1582,6 +1582,7 @@ https://mdm.om.nl
 https://mdm.zwb.riec.nl
 https://media.odmh.nl
 https://media.om.nl
+https://mediabank.rijksoverheidsvideo.nl
 https://medicineshortagesdefects.nl
 https://meepraten.flevoland.nl
 https://meet.aaenmaas.nl
@@ -2420,6 +2421,7 @@ https://securenet.ncsc.nl
 https://securetest.vechtstromen.nl
 https://security.ndw.nu
 https://sentry.ndw.nu
+https://server.rijksoverheidsvideo.nl
 https://service.acc.omgevingswet.overheid.nl
 https://service.bta.omgevingswet.overheid.nl
 https://service.dmo.omgevingswet.overheid.nl

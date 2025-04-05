@@ -982,6 +982,7 @@ archeologie
 e.denkmee
 omgevingsdocumenten
 subsidieregister
+mediabank
 edienstenburgerzaken.test
 www.praatmee
 datalab
@@ -4067,6 +4068,9 @@ origin.api
 t-api
 t-next-cms
 t-old-cms
+a-mediabank
+a-server
+server
 email.mail.participatie
 mail.participatie
 aalten-checker-preprod
@@ -7139,7 +7143,6 @@ ediensten-preproductie
 gevondenvoorwerpen
 hwok-test
 hwok
-mediabank
 pencportaal
 pv.gevondenvoorwerpen
 squit2goprod

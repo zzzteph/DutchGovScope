@@ -6329,6 +6329,7 @@ https://media.landvancuijk.nl
 https://media.odmh.nl
 https://media.om.nl
 https://mediabank.gemeentehw.nl
+https://mediabank.rijksoverheidsvideo.nl
 https://medicineshortagesdefects.nl
 https://meedenken.arnhem.nl
 https://meedenker.zaanstad.nl
@@ -8947,6 +8948,7 @@ https://sera.hardenberg.nl
 https://sera.hellendoorn.nl
 https://sera.horstaandemaas.nl
 https://sera.zwemmen.venlo.nl
+https://server.rijksoverheidsvideo.nl
 https://server02.oude-ijsselstreek.nl
 https://serverruimte.dinkelland.nl
 https://serverruimte.tubbergen.nl
