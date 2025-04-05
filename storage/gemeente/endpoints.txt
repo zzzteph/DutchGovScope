@@ -467,7 +467,6 @@ http://test-intranet.zeist.nl
 http://test-jip.hofvantwente.nl
 http://test-social.montferland.info
 http://test-topvorm.apeldoorn.nl
-http://test.veere.nl
 http://test.website.westland.gemeentewestland.nl
 http://testcms-jip.hofvantwente.nl
 http://testeformulieren.rhenen.nl
@@ -479,6 +478,7 @@ http://thuiswerkacc.rotterdam.nl
 http://tickets.krimpenerwaard.nl
 http://ttgbav-test.gemeente-steenbergen.nl
 http://twenterand.nl
+http://veere.nl
 http://vergunningintaker.bernheze.org
 http://vsp.terneuzen.nl
 http://vvb.sliedrecht.nl
@@ -3175,7 +3175,6 @@ https://felix.staphorst.nl
 https://felix.t-diel.nl
 https://felix.terschelling.nl
 https://felix.twenterand.nl
-https://felix.veere.nl
 https://felix.wierden.nl
 https://felix.zoetermeer.nl
 https://felix.zwartewaterland.nl
@@ -7360,7 +7359,6 @@ https://vdi.westmaasenwaal.nl
 https://veendam.nl
 https://veenendaal.nl
 https://veenkolonien.groningen.nl
-https://veere.nl
 https://veilig.houten.nl
 https://veilig.veenendaal.nl
 https://veiligdelen.alkmaar.nl
@@ -8385,6 +8383,7 @@ https://www.vastgoedbedrijf.arnhem.nl
 https://www.veendam.nl
 https://www.veenendaal.nl
 https://www.veenkolonien.groningen.nl
+https://www.veere.nl
 https://www.veldhoven.nl
 https://www.velsen.nl
 https://www.venlo.nl

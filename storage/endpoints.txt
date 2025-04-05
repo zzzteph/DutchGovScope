@@ -595,7 +595,6 @@ http://test-machtigen.digipoort.logius.nl
 http://test-social.montferland.info
 http://test-topvorm.apeldoorn.nl
 http://test.digikoppeling.cibg.nl
-http://test.veere.nl
 http://test.website.westland.gemeentewestland.nl
 http://testcms-jip.hofvantwente.nl
 http://testeformulieren.rhenen.nl
@@ -615,6 +614,7 @@ http://twenterand.nl
 http://uptime.bureauwbtv.nl
 http://uwork.flevoland.nl
 http://uworktest.flevoland.nl
+http://veere.nl
 http://vergunningintaker.bernheze.org
 http://videobellen.waterschaplimburg.nl
 http://videoserver2.brabant.nl
@@ -4354,7 +4354,6 @@ https://felix.staphorst.nl
 https://felix.t-diel.nl
 https://felix.terschelling.nl
 https://felix.twenterand.nl
-https://felix.veere.nl
 https://felix.wierden.nl
 https://felix.zoetermeer.nl
 https://felix.zwartewaterland.nl
@@ -9994,7 +9993,6 @@ https://vechtstromen.nl
 https://veendam.nl
 https://veenendaal.nl
 https://veenkolonien.groningen.nl
-https://veere.nl
 https://veilig.cultureelerfgoed.nl
 https://veilig.houten.nl
 https://veilig.veenendaal.nl
@@ -11519,6 +11517,7 @@ https://www.vechtstromen.nl
 https://www.veendam.nl
 https://www.veenendaal.nl
 https://www.veenkolonien.groningen.nl
+https://www.veere.nl
 https://www.veilig.cultureelerfgoed.nl
 https://www.veiligepubliekedienstverlening.nl
 https://www.veiligheidsregioflevoland.nl
