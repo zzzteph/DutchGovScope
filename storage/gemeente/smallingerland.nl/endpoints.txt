@@ -1,10 +1,10 @@
-http://cmsids.smallingerland.nl
 https://academie.smallingerland.nl
 https://aov.smallingerland.nl
 https://api.betalen.smallingerland.nl
 https://belastingbalie-test.smallingerland.nl
 https://belastingbalie.smallingerland.nl
 https://betalen.smallingerland.nl
+https://cmsids.smallingerland.nl
 https://flowmailer-tracking.smallingerland.nl
 https://iburgerzaken.smallingerland.nl
 https://ids-test.smallingerland.nl

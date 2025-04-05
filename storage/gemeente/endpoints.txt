@@ -223,7 +223,6 @@ http://cjg.scherpenzeel.nl
 http://cms-internoss-test.oss.nl
 http://cmsembrace.laarbeek.nl
 http://cmsflash.scherpenzeel.nl
-http://cmsids.smallingerland.nl
 http://cmsinsite.houten.nl
 http://cmsintranet.etten-leur.nl
 http://cmsintranet.gooisemeren.nl
@@ -2059,6 +2058,7 @@ https://cmsdok.dronten.nl
 https://cmshofnet.coevorden.nl
 https://cmshuisnet.nieuwegein.nl
 https://cmshuisnettest.nieuwegein.nl
+https://cmsids.smallingerland.nl
 https://cmsinhuiz.huizen.nl
 https://cmsinternet-acc.wijdemeren.nl
 https://cmsintranet-acc.wijdemeren.nl
