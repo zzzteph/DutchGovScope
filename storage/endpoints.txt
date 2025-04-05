@@ -11,6 +11,8 @@ http://AutoDiscover.opmeer.nl
 http://AutoDiscover.stedebroec.nl
 http://AutoDiscover.westvoorne.nl
 http://Autodiscover.hilversum.nl
+http://a-next-cms.contenttoolsrijksoverheid.nl
+http://a-old-cms.contenttoolsrijksoverheid.nl
 http://acc-zaanlink.zaanstad.nl
 http://acc.avgregisterrijksoverheid.nl
 http://acc.cmv-kandidaat.sso3w.nl
@@ -716,9 +718,12 @@ https://VRiSeLoket.cranendonck.nl
 https://WOZ-loket.heeze-leende.nl
 https://WOZ-loket.valkenswaard.nl
 https://Www.lochem.nl
+https://a-api.contenttoolsrijksoverheid.nl
 https://a-api.nederlandwereldwijd.nl
+https://a-cms.contenttoolsrijksoverheid.nl
 https://a-consent.sarphati.amsterdam.nl
 https://a-informatieservice.nederlandwereldwijd.nl
+https://a-origin.api.contenttoolsrijksoverheid.nl
 https://a-surveys3.ggd.amsterdam.nl
 https://a-www.nederlandwereldwijd.nl
 https://a-www.netherlandsworldwide.nl
@@ -1490,6 +1495,7 @@ https://api.betalen.valkenburg.nl
 https://api.betalen.wijdemeren.nl
 https://api.brabant.nl
 https://api.burgemeesterworden.politiekeambtsdragers.nl
+https://api.contenttoolsrijksoverheid.nl
 https://api.darwin.tilburg.nl
 https://api.data.amsterdam.nl
 https://api.dataportaal.amsterdam.nl
@@ -2560,6 +2566,7 @@ https://cms-internoss.test.oss.nl
 https://cms-intranet.eemsdelta.nl
 https://cms-joost.beuningen.nl
 https://cms.bernheze.org
+https://cms.contenttoolsrijksoverheid.nl
 https://cms.dordrecht.nl
 https://cms.mensenrechten.nl
 https://cms.openstad.deventer.nl
@@ -7151,6 +7158,7 @@ https://oidc.erfpachtzakelijk-ont.amsterdam.nl
 https://oinregister.logius.nl
 https://ois.accp.s-hertogenbosch.nl
 https://oisterwijk.nl
+https://old-cms.contenttoolsrijksoverheid.nl
 https://old-dbmanager.acc.denhaag.nl
 https://old-dbmanager.denhaag.nl
 https://old-dbmanager.test.denhaag.nl
@@ -7873,6 +7881,7 @@ https://organisaties-redactie-acc.overheid.nl
 https://organisaties-redactie.overheid.nl
 https://organisaties.overheid.nl
 https://organisatievisie2030.hollandskroon.nl
+https://origin.api.contenttoolsrijksoverheid.nl
 https://oss.developer.overheid.nl
 https://oss.nl
 https://ota.sudwestfryslan.nl

@@ -123,6 +123,7 @@ _dmarc.wkr.nl
 _dmarc.wodc.nl
 _dmarc.zoeterwoude.nl
 _sipfederationtls._tcp.raalte.nl
+a-api.contenttoolsrijksoverheid.nl
 a-api.nederlandwereldwijd.nl
 a-cluster1.a-cms.platformrijksoverheid.nl
 a-cluster10.a-cms.platformrijksoverheid.nl
@@ -139,6 +140,7 @@ a-cluster6.a-cms.platformrijksoverheid.nl
 a-cluster7.a-cms.platformrijksoverheid.nl
 a-cluster8.a-cms.platformrijksoverheid.nl
 a-cluster9.a-cms.platformrijksoverheid.nl
+a-cms.contenttoolsrijksoverheid.nl
 a-cms.defensie.nl
 a-cms.platformrijksoverheid.nl
 a-cms.rijksoverheid.nl
@@ -251,6 +253,8 @@ a-magazines.rijksoverheid.nl
 a-magazines.socialestabiliteit.nl
 a-magazinesintern.rijksoverheid.nl
 a-magazinesintern.rijksvastgoedbedrijf.nl
+a-next-cms.contenttoolsrijksoverheid.nl
+a-old-cms.contenttoolsrijksoverheid.nl
 a-opendata.a-english.aivd.nl
 a-opendata.a-english.autoriteitnvs.nl
 a-opendata.a-english.bigregister.nl
@@ -315,6 +319,7 @@ a-opendata.sbv-z.nl
 a-opendata.socialestabiliteit.nl
 a-opendata.uitvoeringvanbeleidszw.nl
 a-opendata.werkenbijdeeu.nl
+a-origin.api.contenttoolsrijksoverheid.nl
 a-p-ddi-0003.leeuwarden.nl
 a-p-ddi-0010.leeuwarden.nl
 a-papiamentu.rijksdienstcn.com
@@ -1717,6 +1722,7 @@ api.betalen.wijdemeren.nl
 api.bigregister.nl
 api.brabant.nl
 api.burgemeesterworden.politiekeambtsdragers.nl
+api.contenttoolsrijksoverheid.nl
 api.darwin.tilburg.nl
 api.data.amsterdam.nl
 api.data.leiden.nl
@@ -3816,6 +3822,7 @@ cms-intranet.eemsdelta.nl
 cms-joost.beuningen.nl
 cms.alphenaandenrijn.nl
 cms.bernheze.org
+cms.contenttoolsrijksoverheid.nl
 cms.defensie.nl
 cms.dordrecht.nl
 cms.dsta.nl
@@ -4116,6 +4123,7 @@ contentbeheer.tst.omgevingswet.overheid.nl
 contentbeheer.veendam.nl
 contentbeheer.winterswijk.nl
 contentcreatie-eto.overheid.nl
+contenttoolsrijksoverheid.nl
 continuverbeterenjmo-acc.denhaag.nl
 continuverbeterenjmo.denhaag.nl
 copper.dbga.acc.amsterdam.nl
@@ -11888,10 +11896,30 @@ o-voor1.rijksoverheid.nl
 o-www.defensie.nl
 o-www.government.nl
 o-www.rijksoverheid.nl
+o1-api.contenttoolsrijksoverheid.nl
+o1-cms.contenttoolsrijksoverheid.nl
+o1-next-cms.contenttoolsrijksoverheid.nl
+o1-old-cms.contenttoolsrijksoverheid.nl
 o1.afspraak.leiden.nl
 o1.ptr1802.bodegraven-reeuwijk.nl
 o1.ptr2462.mail.postedworkers.nl
+o2-api.contenttoolsrijksoverheid.nl
+o2-cms.contenttoolsrijksoverheid.nl
+o2-next-cms.contenttoolsrijksoverheid.nl
+o2-old-cms.contenttoolsrijksoverheid.nl
 o2.mail.informatieservice.nederlandwereldwijd.nl
+o3-api.contenttoolsrijksoverheid.nl
+o3-cms.contenttoolsrijksoverheid.nl
+o3-next-cms.contenttoolsrijksoverheid.nl
+o3-old-cms.contenttoolsrijksoverheid.nl
+o4-api.contenttoolsrijksoverheid.nl
+o4-cms.contenttoolsrijksoverheid.nl
+o4-next-cms.contenttoolsrijksoverheid.nl
+o4-old-cms.contenttoolsrijksoverheid.nl
+o5-api.contenttoolsrijksoverheid.nl
+o5-cms.contenttoolsrijksoverheid.nl
+o5-next-cms.contenttoolsrijksoverheid.nl
+o5-old-cms.contenttoolsrijksoverheid.nl
 o5000proxvapp.ont.belastingdienst.nl
 o5001proxvapp.ont.belastingdienst.nl
 o5002proxvapp.ont.belastingdienst.nl
@@ -12043,6 +12071,7 @@ ois.s-hertogenbosch.nl
 oisterwijk.nl
 oladc_85_prod_vs36.poort.belastingdienst.nl
 oladc_85_vs86.acc.toeslagen.nl
+old-cms.contenttoolsrijksoverheid.nl
 old-dbmanager.acc.denhaag.nl
 old-dbmanager.denhaag.nl
 old-dbmanager.test.denhaag.nl
@@ -12848,6 +12877,7 @@ organisaties-redactie-acc.overheid.nl
 organisaties-redactie.overheid.nl
 organisaties.overheid.nl
 organisatievisie2030.hollandskroon.nl
+origin.api.contenttoolsrijksoverheid.nl
 ortest.delft.nl
 osb-acpt.brabant.nl
 osb-ontw.brabant.nl
@@ -16265,6 +16295,8 @@ sync01.oa.amsterdam.nl
 synergy.huurcommissie.nl
 szc.velsen.nl
 szc.zutphen.nl
+t-api.contenttoolsrijksoverheid.nl
+t-cms.contenttoolsrijksoverheid.nl
 t-cms.defensie.nl
 t-cms.rijksoverheid.nl
 t-cms1.defensie.nl
@@ -16273,6 +16305,8 @@ t-diel.nl
 t-eforms.utrecht.nl
 t-feeds.rijksoverheid.nl
 t-magazines.rijksoverheid.nl
+t-next-cms.contenttoolsrijksoverheid.nl
+t-old-cms.contenttoolsrijksoverheid.nl
 t-opendata.rijksoverheid.nl
 t-ps.platformrijksoverheid.nl
 t-site1.defensie.nl

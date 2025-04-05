@@ -1,5 +1,7 @@
 http://1.ivory.nctv.nl
 http://AutoDiscover.hdsr.nl
+http://a-next-cms.contenttoolsrijksoverheid.nl
+http://a-old-cms.contenttoolsrijksoverheid.nl
 http://acc.avgregisterrijksoverheid.nl
 http://acc.cmv-kandidaat.sso3w.nl
 http://acc.encoded.api-gateway.archis.cultureelerfgoed.nl
@@ -142,8 +144,11 @@ http://wortel176.provincie-utrecht.nl
 http://www.toezichtresultaten.nl
 http://zoek.overheid.nl
 http://zoekdienst-preprod.overheid.nl
+https://a-api.contenttoolsrijksoverheid.nl
 https://a-api.nederlandwereldwijd.nl
+https://a-cms.contenttoolsrijksoverheid.nl
 https://a-informatieservice.nederlandwereldwijd.nl
+https://a-origin.api.contenttoolsrijksoverheid.nl
 https://a-www.nederlandwereldwijd.nl
 https://a-www.netherlandsworldwide.nl
 https://a2vonderenkerensheide.nl
@@ -298,6 +303,7 @@ https://api.acc.ncsc.nl
 https://api.belastingdienst.nl
 https://api.brabant.nl
 https://api.burgemeesterworden.politiekeambtsdragers.nl
+https://api.contenttoolsrijksoverheid.nl
 https://api.klopt.cibg.nl
 https://api.linkeddata.cultureelerfgoed.nl
 https://api.mijn.acc.ncsc.nl
@@ -504,6 +510,7 @@ https://circulairinkopen.nl
 https://cloudstorage-koop.overheid.nl
 https://cms-bron.waterschaplimburg.nl
 https://cms-info.ndw.nu
+https://cms.contenttoolsrijksoverheid.nl
 https://cms.mensenrechten.nl
 https://cms.tlokb.nl
 https://cmsgui.ondernemersplein.overheid.nl
@@ -1739,6 +1746,7 @@ https://oecdguidelines.nl
 https://oesorichtlijnen.nl
 https://ofgv.nl
 https://oinregister.logius.nl
+https://old-cms.contenttoolsrijksoverheid.nl
 https://om-veld01.om.nl
 https://omgevingsbeleid.provincie-utrecht.nl
 https://omgevingsbeleid.zuid-holland.nl
@@ -2153,6 +2161,7 @@ https://organisaties-acc.overheid.nl
 https://organisaties-redactie-acc.overheid.nl
 https://organisaties-redactie.overheid.nl
 https://organisaties.overheid.nl
+https://origin.api.contenttoolsrijksoverheid.nl
 https://oss.developer.overheid.nl
 https://outbound.onderwijsraad.nl
 https://ov-consumentenplatform.nl
