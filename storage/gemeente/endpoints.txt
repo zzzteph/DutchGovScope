@@ -257,6 +257,7 @@ http://felix.nederweert.nl
 http://felix.ooststellingwerf.nl
 http://felix.scherpenzeel.nl
 http://felix.schiermonnikoog.nl
+http://felix.simpelveld.nl
 http://felix.vlissingen.nl
 http://felix.voorschoten.nl
 http://felix.waalwijk.nl
@@ -365,6 +366,7 @@ http://preproductie.beekdaelen.nl
 http://preproductie.deurne.nl
 http://preproductie.opmeer.nl
 http://preproductie.reuseldemierden.nl
+http://preproductie.simpelveld.nl
 http://preproductie.zoetermeer.nl
 http://preproductie.zwartewaterland.nl
 http://publicaties.stadskanaal.nl
@@ -6110,7 +6112,6 @@ https://preproductie.mookenmiddelaar.nl
 https://preproductie.oirschot.nl
 https://preproductie.pijnacker-nootdorp.nl
 https://preproductie.scherpenzeel.nl
-https://preproductie.simpelveld.nl
 https://preproductie.steenwijkerland.nl
 https://preproductie.voorschoten.nl
 https://preproductie.wassenaar.nl
@@ -6586,6 +6587,7 @@ https://simcms.ooststellingwerf.nl
 https://simcms.opmeer.nl
 https://simcms.roerdalen.nl
 https://simcms.schiermonnikoog.nl
+https://simcms.simpelveld.nl
 https://simcms.sonenbreugel.nl
 https://simcms.terschelling.nl
 https://simcms.twenterand.nl
@@ -6608,7 +6610,6 @@ https://simform.t-diel.nl
 https://simform.vlissingen.nl
 https://simform.voorschoten.nl
 https://simform.wassenaar.nl
-https://simpelveld.nl
 https://simsite.bergendal.nl
 https://simsite.bronckhorst.nl
 https://simsite.doesburg.nl
@@ -8287,6 +8288,7 @@ https://www.schiermonnikoog.nl
 https://www.schoolwijzer.amsterdam.nl
 https://www.schouwen-duiveland.nl
 https://www.shops.landvancuijk.nl
+https://www.simpelveld.nl
 https://www.sint-michielsgestel.nl
 https://www.sinterklaas.groningen.nl
 https://www.sisa.rotterdam.nl
