@@ -7033,7 +7033,6 @@ https://test-intranet.eemsdelta.nl
 https://test-intranet.lansingerland.nl
 https://test-intranet.meierijstad.nl
 https://test-intranet.midden-groningen.nl
-https://test-intranet.sudwestfryslan.nl
 https://test-intranet.velsen.nl
 https://test-jip.vijfheerenlanden.nl
 https://test-kaartviewer.hoorn.nl

@@ -29,7 +29,6 @@ https://preprod-mijn.sudwestfryslan.nl
 https://sudwestfryslan.nl
 https://survey.sudwestfryslan.nl
 https://test-cmsintranet.sudwestfryslan.nl
-https://test-intranet.sudwestfryslan.nl
 https://tstidentity.sudwestfryslan.nl
 https://vergeten.sudwestfryslan.nl
 https://verkiezingen.sudwestfryslan.nl
