@@ -257,6 +257,7 @@ http://felix.ooststellingwerf.nl
 http://felix.scherpenzeel.nl
 http://felix.schiermonnikoog.nl
 http://felix.simpelveld.nl
+http://felix.sonenbreugel.nl
 http://felix.vlissingen.nl
 http://felix.voorschoten.nl
 http://felix.waalwijk.nl
@@ -389,6 +390,7 @@ http://simcms-gemeenteraad.vlissingen.nl
 http://simcms-open.beverwijk.nl
 http://simcms-open.geldrop-mierlo.nl
 http://simcms-open.leudal.nl
+http://simcms-open.sonenbreugel.nl
 http://simcms-preproductie.kerkrade.nl
 http://simcms-raad.zoetermeer.nl
 http://simcms-woo.doesburg.nl
@@ -408,6 +410,7 @@ http://simcms.middelburg.nl
 http://simcms.middendelfland.nl
 http://simcms.nuenen.nl
 http://simcms.reuseldemierden.nl
+http://simcms.sonenbreugel.nl
 http://simcms.zoetermeer.nl
 http://simcms.zuidplas.nl
 http://simcms.zwartewaterland.nl
@@ -6588,7 +6591,6 @@ https://simcms.opmeer.nl
 https://simcms.roerdalen.nl
 https://simcms.schiermonnikoog.nl
 https://simcms.simpelveld.nl
-https://simcms.sonenbreugel.nl
 https://simcms.terschelling.nl
 https://simcms.twenterand.nl
 https://simcms.valkenswaard.nl
@@ -6730,7 +6732,6 @@ https://solliciteren.schouwen-duiveland.nl
 https://solliciterenbij.barneveld.nl
 https://solliciterenbij.maassluis.nl
 https://someren.nl
-https://sonenbreugel.nl
 https://spa4.acc.amsterdam.nl
 https://spa4.tst.amsterdam.nl
 https://spa4d.amsterdam.nl
@@ -8305,7 +8306,6 @@ https://www.socialekaart.echt-susteren.nl
 https://www.socialekaart.westbetuwe.nl
 https://www.soest.nl
 https://www.someren.nl
-https://www.sonenbreugel.nl
 https://www.speleninoost.amsterdam.nl
 https://www.speleninzuid.amsterdam.nl
 https://www.sport.nijmegen.nl
