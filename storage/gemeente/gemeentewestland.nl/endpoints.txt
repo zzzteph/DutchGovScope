@@ -1,4 +1,4 @@
-http://kaarten.gemeentewestland.nl
+http://bedrijvenregister.gemeentewestland.nl
 http://test.website.westland.gemeentewestland.nl
 https://admin.doemee.gemeentewestland.nl
 https://admin.openstad.gemeentewestland.nl
@@ -7,7 +7,6 @@ https://api.doemee.gemeentewestland.nl
 https://api.openstad.gemeentewestland.nl
 https://auth.doemee.gemeentewestland.nl
 https://auth.openstad.gemeentewestland.nl
-https://bedrijvenregister.gemeentewestland.nl
 https://belastingbalie-test.gemeentewestland.nl
 https://belastingbalie.gemeentewestland.nl
 https://betalen.gemeentewestland.nl
@@ -23,11 +22,10 @@ https://eopenstad.gemeentewestland.nl
 https://gemeentewestland.nl
 https://img.doemee.gemeentewestland.nl
 https://img.openstad.gemeentewestland.nl
-https://loket.gemeentewestland.nl
+https://kaarten.gemeentewestland.nl
 https://openstad.gemeentewestland.nl
 https://oudewebsite.gemeentewestland.nl
 https://preprodbroker.gemeentewestland.nl
-https://preproductie.gemeentewestland.nl
 https://pvsor.gemeentewestland.nl
 https://subsidies-acceptatie.gemeentewestland.nl
 https://subsidies-backend-acceptatie.gemeentewestland.nl

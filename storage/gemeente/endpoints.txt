@@ -212,6 +212,7 @@ http://autodiscover.zoeterwoude.nl
 http://autodiscover.zuidplas.nl
 http://autodiscover.zwijndrecht.nl
 http://autodiscover.zwolle.nl
+http://bedrijvenregister.gemeentewestland.nl
 http://begraafplaatsduinrust.beverwijk.nl
 http://belasting-test.kampen.nl
 http://belastingloket.montferland.info
@@ -296,7 +297,6 @@ http://inway-management.cg-intern.utrecht.nl
 http://inway.cg-intern.utrecht.nl
 http://isis-a.rotterdam.nl
 http://isis.rotterdam.nl
-http://kaarten.gemeentewestland.nl
 http://kaarten.haarlemmermeer.nl
 http://kennisbank.nijmegen.nl
 http://kghtb-test.gemeente-steenbergen.nl
@@ -1519,7 +1519,6 @@ https://bedrijfsgrond.urk.nl
 https://bedrijfslocaties.coevorden.nl
 https://bedrijven.landvancuijk.nl
 https://bedrijvengids.landvancuijk.nl
-https://bedrijvenregister.gemeentewestland.nl
 https://beekdaelen.nl
 https://beekenoord.westervoort.nl
 https://beeldbank-bo.baarn.nl
@@ -4334,6 +4333,7 @@ https://kaarten.boxtel.nl
 https://kaarten.buren.nl
 https://kaarten.deventer.nl
 https://kaarten.duiven.nl
+https://kaarten.gemeentewestland.nl
 https://kaarten.gooisemeren.nl
 https://kaarten.helmond.nl
 https://kaarten.molenlanden.nl
@@ -4587,7 +4587,6 @@ https://loket.dordrecht.nl
 https://loket.duiven.nl
 https://loket.geertruidenberg.nl
 https://loket.gemeentewesterveld.nl
-https://loket.gemeentewestland.nl
 https://loket.hardinxveld-giessendam.nl
 https://loket.hattem.nl
 https://loket.heerde.nl
@@ -6132,7 +6131,6 @@ https://preproductie.dalfsen.nl
 https://preproductie.eersel.nl
 https://preproductie.gemeentebeek.nl
 https://preproductie.gemeentewesterveld.nl
-https://preproductie.gemeentewestland.nl
 https://preproductie.gorinchem.nl
 https://preproductie.heerenveen.nl
 https://preproductie.heuvelrug.nl
